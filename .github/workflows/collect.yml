@@ -44,10 +44,15 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+          DRY_RUN: ${{ inputs.dry_run }}
+          FORCE_BRIEFING: ${{ inputs.briefing }}
         run: |
-          python collector/collect.py \
-            ${{ inputs.dry_run && '--dry-run' || '' }} \
-            ${{ inputs.briefing && '--briefing' || '' }}
+          # 이 스텝은 bash -e 로 돈다. `[ ... ] && ...` 는 조건이 거짓일 때
+          # 1을 돌려주며 스텝을 실패시키므로 if 문으로 쓴다.
+          args=()
+          if [ "$DRY_RUN" = "true" ]; then args+=(--dry-run); fi
+          if [ "$FORCE_BRIEFING" = "true" ]; then args+=(--briefing); fi
+          python collector/collect.py "${args[@]}"
 
       - name: 결과 커밋
         run: |
