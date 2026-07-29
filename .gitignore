@@ -1,0 +1,22 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# 비밀 정보 — 절대 커밋 금지
+.env
+*service-account*.json
+google-services.json
+firebase_options.dart
+
+# Flutter
+app/.dart_tool/
+app/build/
+app/.flutter-plugins*
+app/android/.gradle/
+app/android/local.properties
+app/android/app/src/main/assets/
+*.iml
+
+# macOS
+.DS_Store

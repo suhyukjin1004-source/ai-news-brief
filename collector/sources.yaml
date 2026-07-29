@@ -1,0 +1,108 @@
+# 뉴스 소스 목록.
+#
+# 소스를 추가하려면 아래 형식으로 한 항목을 더 쓰면 됩니다.
+#   - name: 화면에 표시될 이름
+#     url:  RSS/Atom 주소
+#     max_entries: 이 소스에서 한 번에 가져올 최대 개수 (생략 시 20)
+#     lang: ko 또는 en (요약 프롬프트에 참고용으로만 쓰임)
+#     optional: true 로 두면 이 소스가 실패해도 전체 수집은 계속 진행됩니다.
+#
+# 소스를 잠시 끄고 싶으면 줄 맨 앞에 # 을 붙이세요.
+
+settings:
+  # 발행된 지 이 시간(시간 단위)이 지난 기사는 무시합니다.
+  max_age_hours: 36
+  # 한 번 실행에서 LLM에 넘길 최대 기사 수 (비용/시간 상한)
+  max_new_per_run: 45
+  # latest.json 에 보관할 최대 기사 수
+  latest_size: 200
+  # seen.json 에서 이 일수가 지난 기록은 정리합니다.
+  seen_retention_days: 14
+  # 브리핑을 생성할 시각 (KST 기준 hour). null 이면 매 실행마다 생성.
+  briefing_hour_kst: 7
+
+sources:
+  # --- 글로벌 테크 미디어 ---
+  - name: TechCrunch
+    url: https://techcrunch.com/category/artificial-intelligence/feed/
+    lang: en
+
+  - name: The Verge
+    url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+    lang: en
+
+  - name: VentureBeat
+    url: https://venturebeat.com/category/ai/feed/
+    lang: en
+
+  - name: Ars Technica
+    url: https://feeds.arstechnica.com/arstechnica/technology-lab
+    lang: en
+
+  - name: MIT Tech Review
+    url: https://www.technologyreview.com/topic/artificial-intelligence/feed
+    lang: en
+
+  # --- AI 연구소 공식 블로그 ---
+  - name: OpenAI
+    url: https://openai.com/news/rss.xml
+    max_entries: 10
+    lang: en
+
+  - name: Google AI
+    url: https://blog.google/technology/ai/rss/
+    max_entries: 10
+    lang: en
+
+  - name: DeepMind
+    url: https://deepmind.google/blog/rss.xml
+    max_entries: 10
+    lang: en
+
+  - name: Hugging Face
+    url: https://huggingface.co/blog/feed.xml
+    max_entries: 10
+    lang: en
+
+  # --- 커뮤니티 / 개인 ---
+  - name: Hacker News
+    url: https://hnrss.org/frontpage?points=100
+    lang: en
+
+  - name: Hacker News
+    url: https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+Gemini&points=50
+    lang: en
+
+  - name: Simon Willison
+    url: https://simonwillison.net/atom/everything/
+    max_entries: 10
+    lang: en
+
+  # Reddit 은 서버 IP를 자주 차단합니다. 실패해도 넘어가도록 optional 처리.
+  - name: r/LocalLLaMA
+    url: https://www.reddit.com/r/LocalLLaMA/hot/.rss?limit=25
+    lang: en
+    optional: true
+
+  - name: r/singularity
+    url: https://www.reddit.com/r/singularity/hot/.rss?limit=25
+    lang: en
+    optional: true
+
+  # --- 국내 ---
+  # allArticle 피드는 지역 행정 뉴스까지 섞여 나와서 AI 섹션만 씁니다.
+  # S1N3 = AI 기술/산업, S1N1 = AI 정책
+  - name: AI타임스
+    url: https://www.aitimes.com/rss/S1N3.xml
+    max_entries: 15
+    lang: ko
+
+  - name: AI타임스
+    url: https://www.aitimes.com/rss/S1N1.xml
+    max_entries: 10
+    lang: ko
+
+  - name: GeekNews
+    url: https://feeds.feedburner.com/geeknews-feed
+    max_entries: 20
+    lang: ko
