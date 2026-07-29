@@ -11,6 +11,9 @@ GitHub Actions (매시간)          →  data/*.json  →  Flutter 앱 (Android)
 상시 서버가 없다. GitHub Actions 가 매시간 깨어나 뉴스를 모으고, 결과 JSON 을 이 저장소에
 커밋한다. 앱은 그 JSON 을 그냥 내려받아 보여준다. 운영비는 0원.
 
+> **처음이라면 → [docs/setup.md](docs/setup.md)** (Gemini API 키 등록 + 앱 설치, 약 10분)
+> 푸시 알림을 켜려면 → [docs/push-setup.md](docs/push-setup.md)
+
 ## 폴더
 
 | 경로 | 내용 |
@@ -41,6 +44,30 @@ GEMINI_API_KEY=... .venv/bin/python collector/collect.py --no-push
 ```
 
 주요 옵션: `--dry-run` (수집만), `--no-push` (푸시 안 보냄), `--briefing` (브리핑 강제 생성).
+
+## 앱 빌드하기
+
+```bash
+cd app
+flutter build apk --release --split-per-abi
+# → build/app/outputs/flutter-apk/app-arm64-v8a-release.apk (요즘 폰은 이걸 쓴다)
+```
+
+화면을 고치면서 확인할 때는 에뮬레이터나 USB 연결된 폰에 바로 띄운다.
+
+```bash
+flutter run
+```
+
+아직 GitHub 에 데이터가 없거나 로컬 데이터로 실험하고 싶으면,
+샘플을 만들어 로컬 서버로 띄운 뒤 앱이 그쪽을 보게 한다.
+
+```bash
+.venv/bin/python collector/make_fixture.py /tmp/fixture
+(cd /tmp/fixture && python3 -m http.server 8765) &
+adb reverse tcp:8765 tcp:8765
+cd app && flutter run --dart-define=DATA_BASE=http://localhost:8765/data
+```
 
 ## 설정
 
