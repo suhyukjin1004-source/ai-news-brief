@@ -133,7 +133,15 @@ def main() -> int:
         log("새 기사가 없어 종료합니다.")
         return 0
 
-    engine = summarizer.get_summarizer()
+    try:
+        engine = summarizer.get_summarizer()
+    except summarizer.SummarizerError as exc:
+        log("")
+        log(f"요약 엔진을 쓸 수 없습니다: {exc}")
+        log("GitHub 저장소 Settings → Secrets and variables → Actions 에서")
+        log("GEMINI_API_KEY 를 등록하세요. 자세한 절차는 docs/setup.md 를 보세요.")
+        return 1
+
     enriched = engine.summarize(fresh, log=log)
     log(f"엔진: {engine.label}")
 
