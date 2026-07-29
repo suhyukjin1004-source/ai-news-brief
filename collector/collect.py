@@ -150,7 +150,8 @@ def main() -> int:
         seen[article["id"]] = now_iso
 
     if enriched:
-        merged = enriched + [i for i in latest if i["id"] not in {e["id"] for e in enriched}]
+        new_ids = {e["id"] for e in enriched}
+        merged = enriched + [i for i in latest if i.get("id") not in new_ids]
         merged.sort(key=lambda i: i.get("published_at", ""), reverse=True)
         store.save_latest(merged, settings["latest_size"], engine.label)
         store.append_archive(enriched)

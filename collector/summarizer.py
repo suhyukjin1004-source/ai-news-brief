@@ -288,7 +288,11 @@ class Summarizer:
         if not articles:
             return None
         lines = [
-            f"- [{a['category']}] {a['title_ko']} :: {a['summary_ko']}"
+            "- [{}] {} :: {}".format(
+                a.get("category", "참고"),
+                a.get("title_ko") or a.get("title", ""),
+                a.get("summary_ko", ""),
+            )
             for a in articles[:60]
         ]
         try:
