@@ -1,5 +1,36 @@
 [
  {
+  "id": "554d4b36bce3be0b",
+  "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
+  "source": "TechCrunch",
+  "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
+  "published_at": "2026-07-30T14:48:32+00:00",
+  "collected_at": "2026-07-30T15:19:15.854829+00:00",
+  "title_ko": "허깅페이스 해킹 사건과 전통적 사이버 보안의 교훈",
+  "summary_ko": "OpenAI 해커의 허깅페이스 침해 사건은 AI 보안뿐만 아니라 전통적인 보안 방어의 중요성을 보여줍니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "보안"
+  ]
+ },
+ {
+  "id": "409a42bd5b77a172",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vavh2h/software_engineers_do_you_honestly_get_anything/",
+  "source": "r/LocalLLaMA",
+  "title": "Software Engineers: Do you honestly get anything useful out of LLMs?",
+  "published_at": "2026-07-30T14:37:45+00:00",
+  "collected_at": "2026-07-30T15:19:44.230773+00:00",
+  "title_ko": "소프트웨어 엔지니어를 위한 LLM 코딩의 실효성 논란",
+  "summary_ko": "에이전트 기반 코딩 도구를 6개월간 사용해 본 개발자가 LLM이 기술 부채만 가중시킨다는 회의론을 제기했습니다.",
+  "category": "참고",
+  "tags": [
+   "코딩",
+   "LLM",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "72a8efc48a9a8b66",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213343",
   "source": "AI타임스",
@@ -29,6 +60,36 @@
   ]
  },
  {
+  "id": "36cbe6fa06ee1392",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vau4dh/pr_for_running_ternarybonsai8bq2_0gguf_in/",
+  "source": "r/LocalLLaMA",
+  "title": "PR for running Ternary-Bonsai-8B-Q2_0.gguf in llama.cpp with CUDA support just got merged",
+  "published_at": "2026-07-30T13:46:29+00:00",
+  "collected_at": "2026-07-30T15:19:44.230773+00:00",
+  "title_ko": "llama.cpp, Ternary 양자화 모델 CUDA 지원 추가",
+  "summary_ko": "로컬 LLM 구동을 위한 llama.cpp에 저비트 양자화 모델 실행 기능이 병합되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "d3911cb4c845e89a",
+  "url": "https://news.hada.io/topic?id=31987",
+  "source": "GeekNews",
+  "title": "LLM 허니팟",
+  "published_at": "2026-07-30T13:31:24+00:00",
+  "collected_at": "2026-07-30T15:19:59.198392+00:00",
+  "title_ko": "AI 에이전트 대상 'LLM 허니팟' 보안 기법",
+  "summary_ko": "인간과 AI 에이전트를 구분하여 에이전트에게만 결제 경로를 노출하는 허니팟 보안 개념이 소개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "보안"
+  ]
+ },
+ {
   "id": "1245b3fd6e85a501",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213341",
   "source": "AI타임스",
@@ -42,6 +103,51 @@
    "규제",
    "로보틱스",
    "투자"
+  ]
+ },
+ {
+  "id": "be1fcd957dbcee81",
+  "url": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
+  "source": "TechCrunch",
+  "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
+  "published_at": "2026-07-30T13:00:00+00:00",
+  "collected_at": "2026-07-30T15:19:15.854829+00:00",
+  "title_ko": "AI 컴플라이언스 스타트업 Dili, 2,170만 달러 투자 유치",
+  "summary_ko": "인프라 붐에 맞춰 AI 컴플라이언스 솔루션을 제공하는 Dili가 안드로이드와 벤처캐피털로부터 시리즈 A 투자를 받았습니다.",
+  "category": "중요",
+  "tags": [
+   "투자",
+   "규제"
+  ]
+ },
+ {
+  "id": "8b8d31ffe3260016",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vaswg8/unslothqwen3627bnvfp4_vs/",
+  "source": "r/LocalLLaMA",
+  "title": "unsloth/Qwen3.6-27B-NVFP4 vs. Intel/Qwen3.6-27B-int4-AutoRound vs. nvidia/Qwen3.6-27B-NVFP4 -- which one to choose?",
+  "published_at": "2026-07-30T12:56:25+00:00",
+  "collected_at": "2026-07-30T15:19:44.230773+00:00",
+  "title_ko": "27B 양자화 모델 성능 비교 및 선택 가이드",
+  "summary_ko": "다양한 저비트 양자화가 적용된 Qwen3.6-27B 모델들의 성능과 환각 현상을 비교하는 논의가 진행 중입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "0b5e6a3968e2caa5",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vasnys/turbofieldfare_opensource_engine_running_gemma_4/",
+  "source": "r/LocalLLaMA",
+  "title": "Turbo-fieldfare: Open-source engine running Gemma 4 26B in 2 GB RAM on Apple Silicon",
+  "published_at": "2026-07-30T12:46:12+00:00",
+  "collected_at": "2026-07-30T15:19:44.230773+00:00",
+  "title_ko": "애플 실리콘에서 Gemma 4를 구동하는 경량 추론 엔진",
+  "summary_ko": "맥북에서 적은 램으로도 대형 모델을 고속 구동할 수 있는 오픈소스 추론 엔진이 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "Gemini"
   ]
  },
  {
