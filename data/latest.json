@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-07-30T15:20:03.363143+00:00",
+ "updated_at": "2026-07-30T17:43:45.002873+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
- "count": 156,
+ "count": 170,
  "items": [
   {
    "id": "a46f33da7ec04750",
@@ -48,6 +48,22 @@
    ]
   },
   {
+   "id": "43bb04aebe67b5f8",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vb0fez/amd_lucebox_beats_nvidia_dgx_spark_by_363x_on/",
+   "source": "r/LocalLLaMA",
+   "title": "AMD Lucebox Beats Nvidia DGX Spark by 3.63x on DeepSeek V4 Flash",
+   "published_at": "2026-07-30T17:35:42+00:00",
+   "collected_at": "2026-07-30T17:43:21.546105+00:00",
+   "title_ko": "AMD 하드웨어, DeepSeek V4 디코딩 속도에서 엔비디아 압도",
+   "summary_ko": "AMD와 루스박스가 협력해 개발한 이기종 하드웨어가 딥식 V4 플래시 디코딩 속도에서 엔비디아 DGX 스파크를 3.63배 뛰어넘었습니다. 가성비 높은 AI 연산 하드웨어 대안으로 주목받고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "AMD",
+    "NVIDIA",
+    "반도체"
+   ]
+  },
+  {
    "id": "99c5731601de0190",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213337",
    "source": "AI타임스",
@@ -60,6 +76,21 @@
    "tags": [
     "OpenAI",
     "투자"
+   ]
+  },
+  {
+   "id": "70da434f87589eb3",
+   "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+   "source": "The Verge",
+   "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+   "published_at": "2026-07-30T17:18:45+00:00",
+   "collected_at": "2026-07-30T17:43:13.100358+00:00",
+   "title_ko": "구글 딥마인드, 전신 제어 가능한 로봇 AI '제미나이 로보틱스 2' 공개",
+   "summary_ko": "구글 딥마인드가 휴머노이드 로봇의 발끝부터 손끝까지 전신 모션을 제어할 수 있는 최신 AI 모델을 발표했습니다. 로봇공학의 실용성을 한 단계 높일 것으로 기대됩니다.",
+   "category": "중요",
+   "tags": [
+    "Google",
+    "로보틱스"
    ]
   },
   {
@@ -77,6 +108,21 @@
    ]
   },
   {
+   "id": "3f43b85749db71b9",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vazgc0/the_real_flashantling_30_flash_vs_minimax_m27_vs/",
+   "source": "r/LocalLLaMA",
+   "title": "The real Flash？AntLing 3.0 flash VS. MiniMax M2.7 VS. Step 3.7 flash",
+   "published_at": "2026-07-30T17:01:22+00:00",
+   "collected_at": "2026-07-30T17:43:21.546105+00:00",
+   "title_ko": "초고속 경량 LLM 성능 비교: 앤링 3.0 플래시 vs 미니맥스 M2.7",
+   "summary_ko": "최근 출시된 주요 초고속 플래시 모델들의 성능을 비교하고 실효성을 검증하는 토론입니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "7581cbf5b2660d1f",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213366",
    "source": "AI타임스",
@@ -88,6 +134,21 @@
    "category": "참고",
    "tags": [
     "규제"
+   ]
+  },
+  {
+   "id": "6010594e165804b5",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vazdxp/lg_ai_research_releases_kexaone_20_750b_a37b/",
+   "source": "r/LocalLLaMA",
+   "title": "LG AI Research releases K-EXAONE 2.0 750B A37B",
+   "published_at": "2026-07-30T16:59:03+00:00",
+   "collected_at": "2026-07-30T17:43:21.546105+00:00",
+   "title_ko": "LG AI연구원, 소버린 AI 프로젝트 기반 'K-EXAONE 2.0' 공개",
+   "summary_ko": "750B 파라미터 규모의 K-EXAONE 2.0이 아파치 2.0 라이선스로 공개되었습니다. 긴 문맥 이해와 에이전트 도구 활용 능력이 대폭 향상되었습니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
    ]
   },
   {
@@ -150,6 +211,21 @@
    ]
   },
   {
+   "id": "4de439f378bf16e3",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vayzwm/nanbeige423b_im_not_impressed/",
+   "source": "r/LocalLLaMA",
+   "title": "Nanbeige4.2-3B: I'm not impressed",
+   "published_at": "2026-07-30T16:45:22+00:00",
+   "collected_at": "2026-07-30T17:43:21.546105+00:00",
+   "title_ko": "난베이지 4.2 3B 모델 성능 테스트 및 평가",
+   "summary_ko": "초경량 3B 모델인 난베이지 4.2를 직접 테스트한 결과, 벤치마크 수치와 달리 실제 코딩 작업 등에서의 체감 성능은 아쉽다는 평가입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
    "id": "ed66686b965f9692",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213362",
    "source": "AI타임스",
@@ -191,6 +267,21 @@
    "category": "중요",
    "tags": [
     "규제"
+   ]
+  },
+  {
+   "id": "c7024dd73f9e74b2",
+   "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+   "source": "TechCrunch",
+   "title": "Okta buys AI security startup Permiso; source says for about $200M",
+   "published_at": "2026-07-30T16:09:42+00:00",
+   "collected_at": "2026-07-30T17:43:12.894276+00:00",
+   "title_ko": "옥타, AI 보안 스타트업 '퍼미소' 2억 달러에 인수",
+   "summary_ko": "아이덴티티 보안 기업 옥타가 클라우드 환경에서 AI 에이전트와 비인간 주체(Non-human ID)를 보호하기 위해 퍼미소를 인수했습니다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트",
+    "투자"
    ]
   },
   {
@@ -267,6 +358,65 @@
    ]
   },
   {
+   "id": "1b4358b74e226dc9",
+   "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+   "source": "TechCrunch",
+   "title": "Meta says AI is making it easier to build new apps — and more are coming",
+   "published_at": "2026-07-30T15:41:16+00:00",
+   "collected_at": "2026-07-30T17:43:12.894276+00:00",
+   "title_ko": "메타, \"AI로 소비자용 앱 개발이 훨씬 쉬워졌다\"",
+   "summary_ko": "마크 저커버그 CEO가 AI 도입 덕분에 신규 소비자용 앱과 기능을 빌드하고 출시하는 속도가 극적으로 빨라졌다고 밝혔습니다.",
+   "category": "중요",
+   "tags": [
+    "Meta",
+    "투자"
+   ]
+  },
+  {
+   "id": "360a78b4f75ebc6b",
+   "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+   "source": "TechCrunch",
+   "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+   "published_at": "2026-07-30T15:19:15+00:00",
+   "collected_at": "2026-07-30T17:43:12.894276+00:00",
+   "title_ko": "엔스케일, AI 연산 스택 강화를 위해 애니스케일 인수",
+   "summary_ko": "영국의 클라우드 기업 엔스케일이 대규모 AI 워크로드 관리를 지원하는 소프트웨어 스타트업 애니스케일을 인수하며 인프라 역량을 확장합니다.",
+   "category": "중요",
+   "tags": [
+    "반도체",
+    "투자"
+   ]
+  },
+  {
+   "id": "06f70047892eab7e",
+   "url": "https://news.hada.io/topic?id=31990",
+   "source": "GeekNews",
+   "title": "Show GN: 프로필없는 SNS 익명 웹 ‘blank’",
+   "published_at": "2026-07-30T15:16:40+00:00",
+   "collected_at": "2026-07-30T17:43:36.168174+00:00",
+   "title_ko": "클로드 코드로 개발한 프로필 없는 익명 SNS '블랭크' 출시",
+   "summary_ko": "개발자가 클로드 코드를 활용해 프로필과 기록이 남지 않는 가벼운 익명 웹서비스를 구현하고 피드백을 요청했습니다.",
+   "category": "팁",
+   "tags": [
+    "코딩"
+   ]
+  },
+  {
+   "id": "82c2a5cb1208ca69",
+   "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+   "source": "Hacker News",
+   "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+   "published_at": "2026-07-30T15:15:48+00:00",
+   "collected_at": "2026-07-30T17:43:18.825930+00:00",
+   "title_ko": "구글 딥마인드, 전신 로봇 지능 구현하는 '제미나이 로보틱스 2' 발표",
+   "summary_ko": "구글 딥마인드가 휴머노이드 로봇의 전신 모션 제어를 지원하는 차세대 AI 모델을 공개하여 로봇 제어 기술의 지평을 넓혔습니다.",
+   "category": "속보",
+   "tags": [
+    "Google",
+    "로보틱스"
+   ]
+  },
+  {
    "id": "f684c3a66a25993b",
    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
    "source": "Hugging Face",
@@ -325,6 +475,22 @@
    "tags": [
     "OpenAI",
     "보안"
+   ]
+  },
+  {
+   "id": "97339d9377568a82",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vavkiz/mechanistic_interpretability_streamlined_for/",
+   "source": "r/LocalLLaMA",
+   "title": "Mechanistic interpretability streamlined for everyday users like us😎 🧠",
+   "published_at": "2026-07-30T14:41:17+00:00",
+   "collected_at": "2026-07-30T17:43:21.546105+00:00",
+   "title_ko": "일반 사용자를 위한 기계적 해석력 도구 'CORTEX' 공개",
+   "summary_ko": "로컬 LLM의 내부 동작을 쉽게 분석할 수 있도록 지원하는 오픈소스 도구가 공개되었습니다. 초보자와 전문가 모두 모델의 작동 원리를 더 깊이 이해하는 데 도움을 줍니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "연구"
    ]
   },
   {
@@ -461,6 +627,22 @@
    "tags": [
     "오픈소스",
     "Gemini"
+   ]
+  },
+  {
+   "id": "de0c8b1bf4984ab3",
+   "url": "https://openjdk.org/legal/ai",
+   "source": "Hacker News",
+   "title": "OpenJDK Interim Policy on Generative AI",
+   "published_at": "2026-07-30T12:36:38+00:00",
+   "collected_at": "2026-07-30T17:43:20.347299+00:00",
+   "title_ko": "OpenJDK, 생성형 AI 관련 임시 정책 발표",
+   "summary_ko": "자바 개발 표준을 다루는 OpenOpenJDK에서 생성형 AI 사용에 대한 공식적인 임시 정책을 수립했습니다. 오픈소스 생태계에서 AI 생성 코드 도입에 대한 기준을 제시합니다.",
+   "category": "중요",
+   "tags": [
+    "규제",
+    "오픈소스",
+    "코딩"
    ]
   },
   {
@@ -602,6 +784,22 @@
    ]
   },
   {
+   "id": "fa442220645ed79c",
+   "url": "https://lwn.net/Articles/1086041/",
+   "source": "Hacker News",
+   "title": "GCC steering committee announces AI policy",
+   "published_at": "2026-07-30T11:45:44+00:00",
+   "collected_at": "2026-07-30T17:43:20.347299+00:00",
+   "title_ko": "GCC 운영위원회, 생성형 AI 정책 발표",
+   "summary_ko": "GNU 컴파일러 컬렉션(GCC) 운영위원회가 프로젝트 내 AI 활용에 관한 공식 정책을 발표했습니다. 주요 오픈소스 프로젝트들의 AI 코드 수용 방침을 보여줍니다.",
+   "category": "중요",
+   "tags": [
+    "규제",
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
    "id": "703cebcaaf630045",
    "url": "https://www.reddit.com/r/singularity/comments/1vaq2hg/opus_5_generating_weirdly_formatted_selfaware_cot/",
    "source": "r/singularity",
@@ -687,6 +885,22 @@
    "category": "팁",
    "tags": [
     "오픈소스"
+   ]
+  },
+  {
+   "id": "fc362ba711f59d44",
+   "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+   "source": "OpenAI",
+   "title": "Advancing the price-performance frontier with GPT-5.6",
+   "published_at": "2026-07-30T10:00:00+00:00",
+   "collected_at": "2026-07-30T17:43:14.375013+00:00",
+   "title_ko": "GPT-5.6 모델 가격 인하 및 성능 향상 발표",
+   "summary_ko": "OpenAI가 효율성이 강화된 루나(Luna)와 테라(Terra) 모델의 가격을 인하했습니다. 기업들이 대규모 AI 워크플로우를 더 저렴하게 구축할 수 있게 됩니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT",
+    "투자"
    ]
   },
   {
