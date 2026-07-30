@@ -168,6 +168,64 @@
   ]
  },
  {
+  "id": "09026967e3633512",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vapsbz/think_of_the_children_another_excuse_for_them_to/",
+  "source": "r/LocalLLaMA",
+  "title": "Think of the children, another excuse for them to go after open source AI",
+  "published_at": "2026-07-30T10:28:13+00:00",
+  "collected_at": "2026-07-30T10:32:50.606406+00:00",
+  "title_ko": "오픈소스 AI 진영, 딥페이크 논란으로 인한 규제 압박 우려",
+  "summary_ko": "오픈소스 AI 플랫폼 관련 딥페이크 및 부적절한 콘텐츠 이슈가 불거지면서, 규제 기관이 오픈소스 AI를 타겟으로 삼을 명분을 제공하고 있다는 지적이 나오고 있다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "규제"
+  ]
+ },
+ {
+  "id": "291ad82c65d4d5c3",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vapetj/glm_52_with_vision_on_hugging_face/",
+  "source": "r/LocalLLaMA",
+  "title": "GLM 5.2 with vision on Hugging Face",
+  "published_at": "2026-07-30T10:08:30+00:00",
+  "collected_at": "2026-07-30T10:32:50.606406+00:00",
+  "title_ko": "바스텐, GLM 5.2에 비전 인코더 결합한 오픈소스 모델 공개",
+  "summary_ko": "추론 제공업체 바스텐이 GLM 5.2 모델에 비전 인코더를 결합한 비전 지원 모델을 허깅페이스에 공개했다. 기존 모델의 단점으로 지적받던 시각 기능 부재를 해결해 주목받고 있다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "1f73751f16192b1d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vapbnl/benchmarked_mindcontrol_for_llamacpp/",
+  "source": "r/LocalLLaMA",
+  "title": "Benchmarked: MindControl for Llama.cpp",
+  "published_at": "2026-07-30T10:03:44+00:00",
+  "collected_at": "2026-07-30T10:32:50.606406+00:00",
+  "title_ko": "라마.cpp용 추론 예산 조절 도구 '마인드컨트롤' 벤치마크 공개",
+  "summary_ko": "라마.cpp에서 모델의 자체 사고 예산을 샘플러 수준에서 유도하는 '마인드컨트롤' 기술의 벤치마크 결과가 공개됐다. 코딩 및 추론 태스크에서 성능 저하를 방지하는 효과를 검증했다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "ddbee61d92e47932",
+  "url": "https://www.reddit.com/r/singularity/comments/1vanl04/ben_thompson_on_the_economics_of_models/",
+  "source": "r/singularity",
+  "title": "Ben Thompson on the economics of models",
+  "published_at": "2026-07-30T08:23:08+00:00",
+  "collected_at": "2026-07-30T10:33:03.407115+00:00",
+  "title_ko": "오픈소스 모델의 경제학과 실효성에 대한 분석 제기",
+  "summary_ko": "오픈소스 모델이 연구개발 비용을 아끼더라도 실제 서빙 과정에서 발생하는 막대한 추론 비용(COGS)은 피할 수 없다는 분석이 제기됐다. 프론티어 랩과 오픈소스 간의 경제학적 차이를 다루고 있다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "투자"
+  ]
+ },
+ {
   "id": "c0acf4c3e5331972",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vamj9x/what_am_i_missing/",
   "source": "r/LocalLLaMA",
@@ -208,6 +266,21 @@
   "summary_ko": "최근 주요 AI 스타트업들이 경쟁 심화와 보안을 이유로 연구 성과와 논문을 거의 공개하지 않는 경향이 짙어지고 있습니다.",
   "category": "참고",
   "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "d054c0235dd39adb",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vakz7g/what_is_the_fastest_local_research_tool_deep/",
+  "source": "r/LocalLLaMA",
+  "title": "What is the fastest local research tool (deep research) ?",
+  "published_at": "2026-07-30T05:56:45+00:00",
+  "collected_at": "2026-07-30T10:32:50.606406+00:00",
+  "title_ko": "로컬 환경에서 구동 가능한 고속 딥 리서치 도구 탐색",
+  "summary_ko": "사용자들이 프라이버시를 보호하면서도 API와 서브에이전트를 활용해 로컬에서 빠르게 실행할 수 있는 오픈소스 딥 리서치 도구들을 논의하고 있다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
    "오픈소스"
   ]
  },
