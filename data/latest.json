@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-07-30T19:45:40.850574+00:00",
+ "updated_at": "2026-07-30T21:19:57.350430+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
- "count": 185,
+ "count": 191,
  "items": [
   {
    "id": "24b7578eb1e4862f",
@@ -19,6 +19,67 @@
    ]
   },
   {
+   "id": "e8f87ece6af87f9c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vb5td8/running_glm52_on_tinybox/",
+   "source": "r/LocalLLaMA",
+   "title": "Running GLM-5.2 on tinybox.",
+   "published_at": "2026-07-30T20:48:49+00:00",
+   "collected_at": "2026-07-30T21:19:39.427709+00:00",
+   "title_ko": "타이니박스에서 GLM-5.2 구동",
+   "summary_ko": "하드웨어 장비인 타이니박스에서 GLM-5.2 모델을 구동하는 방법에 대한 사용자 공유 내용입니다. 로컬 환경에서의 LLM 실행 사례를 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "로컬LLM"
+   ]
+  },
+  {
+   "id": "72106cd5dae699d2",
+   "url": "https://news.hada.io/topic?id=31998",
+   "source": "GeekNews",
+   "title": "GPT‑5.6, 가격 대비 성능의 한계를 확장",
+   "published_at": "2026-07-30T20:34:19+00:00",
+   "collected_at": "2026-07-30T21:19:54.323974+00:00",
+   "title_ko": "OpenAI, GPT-5.6 API 가격 대폭 인하",
+   "summary_ko": "OpenAI가 효율성 향상을 반영해 주요 모델의 API 가격을 최대 80까지 인하했습니다. 기업용 AI의 가성비가 높아질 것으로 기대됩니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT",
+    "투자"
+   ]
+  },
+  {
+   "id": "2875a4400bb8269a",
+   "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+   "source": "TechCrunch",
+   "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
+   "published_at": "2026-07-30T20:26:38+00:00",
+   "collected_at": "2026-07-30T21:19:23.520447+00:00",
+   "title_ko": "법원, 트럼프 행정부의 앤트로픽 제재 근거 부족 판시",
+   "summary_ko": "연방 판사가 트럼프 행정부가 앤트로픽을 공급망 리스크로 지정한 것에 대해 충분한 증거를 제시하지 못했다고 밝혔습니다. 정부의 AI 기술 금지 조치에 제동이 걸렸습니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "규제"
+   ]
+  },
+  {
+   "id": "f933f910f14458a3",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vb4s1n/local_llms_for_noncoding/",
+   "source": "r/LocalLLaMA",
+   "title": "Local LLMs for non-coding",
+   "published_at": "2026-07-30T20:11:20+00:00",
+   "collected_at": "2026-07-30T21:19:39.427709+00:00",
+   "title_ko": "비코딩 분야에서의 로컬 LLM 활용 방안",
+   "summary_ko": "프로그래밍 외의 분야에서 로컬 LLM을 활용하는 상위 3가지 유스케이스에 대한 커뮤니티 토론입니다. 비개발 직군의 로컬 AI 활용성에 대한 의견을 나눕니다.",
+   "category": "팁",
+   "tags": [
+    "로컬LLM",
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "4abd3e139a769a59",
    "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
    "source": "TechCrunch",
@@ -30,6 +91,22 @@
    "category": "속보",
    "tags": [
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "485fa705d5625217",
+   "url": "https://news.hada.io/topic?id=31997",
+   "source": "GeekNews",
+   "title": "Gemini Robotics 2, 로봇에 전신 지능을 제공",
+   "published_at": "2026-07-30T19:33:03+00:00",
+   "collected_at": "2026-07-30T21:19:54.323974+00:00",
+   "title_ko": "구글, 전신 제어 로봇 모델 Gemini Robotics 2 공개",
+   "summary_ko": "구글 딥마인드가 휴머노이드의 전신을 제어하고 정교한 작업을 수행하는 Gemini Robotics 2를 공개했습니다. 로보틱스와 AI의 결합이 한 단계 진화했습니다.",
+   "category": "중요",
+   "tags": [
+    "Google",
+    "Gemini",
+    "로보틱스"
    ]
   },
   {
@@ -952,6 +1029,21 @@
    "tags": [
     "Meta",
     "투자"
+   ]
+  },
+  {
+   "id": "e2d6d660314cca86",
+   "url": "https://github.com/grafana/ai-sdk",
+   "source": "Hacker News",
+   "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
+   "published_at": "2026-07-30T11:55:39+00:00",
+   "collected_at": "2026-07-30T21:19:38.201932+00:00",
+   "title_ko": "스트리밍 및 툴 콜링을 지원하는 Go LLM SDK 공개",
+   "summary_ko": "스트리밍과 툴 콜링 기능을 갖춘 Go 언어 기반 LLM 백엔드 SDK와 프론트엔드 리액트 라이브러리가 공개되었습니다. 개발자들이 AI 백엔드를 쉽게 구축하도록 돕습니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
    ]
   },
   {
