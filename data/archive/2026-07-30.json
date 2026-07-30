@@ -1,5 +1,34 @@
 [
  {
+  "id": "72a8efc48a9a8b66",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=213343",
+  "source": "AI타임스",
+  "title": "삼성SDS, 2분기 매출 3.7조 달성...AI 및 클라우드 실적 견인",
+  "published_at": "2026-07-30T14:01:09+00:00",
+  "collected_at": "2026-07-30T07:40:13.940001+00:00",
+  "title_ko": "삼성SDS, AI 및 클라우드 호조로 2분기 매출 3.7조 달성",
+  "summary_ko": "삼성SDS가 클라우드 서비스와 GPUaaS 사업의 확장에 힘입어 견조한 2분기 실적을 기록했습니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
+  "id": "0d62cacf14d5c456",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=213344",
+  "source": "AI타임스",
+  "title": "오픈AI·문샷, 글로벌 앰배서더 확보 나서...'생태계 확장' 경쟁",
+  "published_at": "2026-07-30T13:59:28+00:00",
+  "collected_at": "2026-07-30T07:40:13.940001+00:00",
+  "title_ko": "오픈AI·문샷, 글로벌 생태계 확장을 위한 커뮤니티 리더 확보 경쟁",
+  "summary_ko": "미·중 대표 AI 기업들이 글로벌 대학생과 개발자 커뮤니티를 선점하기 위해 대규모 앰배서더 및 리더십 프로그램을 동시에 출범시켰습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI"
+  ]
+ },
+ {
   "id": "1245b3fd6e85a501",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213341",
   "source": "AI타임스",
@@ -136,6 +165,64 @@
   "tags": [
    "반도체",
    "투자"
+  ]
+ },
+ {
+  "id": "c0acf4c3e5331972",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vamj9x/what_am_i_missing/",
+  "source": "r/LocalLLaMA",
+  "title": "What am I missing?",
+  "published_at": "2026-07-30T07:22:24+00:00",
+  "collected_at": "2026-07-30T07:40:00.709786+00:00",
+  "title_ko": "커스텀 데이터셋을 활용한 소형 Llama 모델 파인튜닝 트러블슈팅",
+  "summary_ko": "사용자가 자체 데이터셋으로 소형 Llama 모델을 학습시키는 과정에서 겪는 토크나이저 및 프레임워크 연동 오류에 대한 기술적 논의입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "f38513b03669d121",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1valwh8/4090_5060_ti_64gb_ram_206_ts_on_a_35ba3b_and_a/",
+  "source": "r/LocalLLaMA",
+  "title": "4090 + 5060 Ti + 64GB RAM: 206 t/s on a 35B-A3B, and a 122B at 37 t/s",
+  "published_at": "2026-07-30T06:46:44+00:00",
+  "collected_at": "2026-07-30T07:40:00.709786+00:00",
+  "title_ko": "멀티 GPU 환경에서의 대형 언어 모델 로컬 추론 벤치마크",
+  "summary_ko": "지포스 RTX 4090과 5060 Ti 조합을 활용해 고성능 텍스트 생성 및 컨텍스트 처리 속도를 테스트한 하드웨어 벤치마크 결과입니다.",
+  "category": "팁",
+  "tags": [
+   "NVIDIA",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "c5be7fb58a642efe",
+  "url": "https://news.hada.io/topic?id=31981",
+  "source": "GeekNews",
+  "title": "AI 주요 스타트업들은 연구 결과를 거의 공개하지 않음",
+  "published_at": "2026-07-30T06:31:57+00:00",
+  "collected_at": "2026-07-30T07:40:15.211792+00:00",
+  "title_ko": "주요 AI 스타트업들의 연구 결과 비공개 기조 심화",
+  "summary_ko": "최근 주요 AI 스타트업들이 경쟁 심화와 보안을 이유로 연구 성과와 논문을 거의 공개하지 않는 경향이 짙어지고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "63f9d8ad4d6a5aa4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vakvmg/anyone_tested_the_iq1_m_342gb_pruned_kimi_k3_is/",
+  "source": "r/LocalLLaMA",
+  "title": "Anyone tested the IQ1_M 342GB Pruned Kimi K3? Is it usable?",
+  "published_at": "2026-07-30T05:51:18+00:00",
+  "collected_at": "2026-07-30T07:40:00.709786+00:00",
+  "title_ko": "대형 프룬드 Kimi 모델 로컬 구동 가능성 검토",
+  "summary_ko": "초대형 프룬닝 모델인 Kimi K3의 저정밀 양자화 버전을 로컬 환경에서 실제로 구동할 수 있는지에 대한 실사용자들의 검토입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
   ]
  },
  {
