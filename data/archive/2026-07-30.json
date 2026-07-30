@@ -1,5 +1,21 @@
 [
  {
+  "id": "fe6abb380ebd4f0d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vacf09/bought_a_5090_to_escape_api_fees_ended_up/",
+  "source": "r/LocalLLaMA",
+  "title": "Bought a 5090 to escape API fees. Ended up building a mini datacenter. Sound familiar?",
+  "published_at": "2026-07-29T23:16:20+00:00",
+  "collected_at": "2026-07-30T00:06:26.129291+00:00",
+  "title_ko": "로컬 LLM 구동을 위한 하드웨어 구축 경험담",
+  "summary_ko": "API 비용 절감을 위해 고성능 GPU를 구매했으나 대형 모델 등장으로 고민하는 로컬 LLM 사용자들의 현실적인 인프라 구축기를 다룹니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
   "id": "2c4524fd57261d20",
   "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
   "source": "TechCrunch",
@@ -29,6 +45,21 @@
    "Microsoft",
    "Anthropic",
    "OpenAI"
+  ]
+ },
+ {
+  "id": "0a9ae8d05cbb2db3",
+  "url": "https://news.hada.io/topic?id=31961",
+  "source": "GeekNews",
+  "title": "Word 문서를 통해 자가 전파하는 Copilot AI 웜",
+  "published_at": "2026-07-29T22:33:20+00:00",
+  "collected_at": "2026-07-30T00:06:40.291798+00:00",
+  "title_ko": "Word 문서 기반 Copilot AI 웜 취약점 발견",
+  "summary_ko": "외부 문서의 프롬프트 주입을 통해 악성 명령이 Copilot을 거쳐 다른 문서로 자가 전파될 수 있는 보안 위협이 확인되었습니다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트",
+   "규제"
   ]
  },
  {
@@ -92,6 +123,21 @@
   "tags": [
    "Meta",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "e77ae4baa48d79a7",
+  "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+  "source": "Hacker News",
+  "title": "AI's top startups are barely publishing their research",
+  "published_at": "2026-07-29T21:25:40+00:00",
+  "collected_at": "2026-07-30T00:06:20.224246+00:00",
+  "title_ko": "주요 AI 스타트업들의 연구 결과 비공개 추세",
+  "summary_ko": "최근 AI 업계의 경쟁이 치열해지면서 선두 스타트업들이 핵심 연구 성과를 학계에 거의 발표하지 않는 현상이 주목받고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "투자"
   ]
  },
  {
@@ -214,6 +260,21 @@
   ]
  },
  {
+  "id": "1e9251efec37fb24",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1va6dvv/i_pretrained_a_700m_on_18b_tokens_optimized_for/",
+  "source": "r/LocalLLaMA",
+  "title": "I pre-trained a 700m on 18B tokens optimized for Python and Wikitext | TheOneWhoWill/Shibai-700M-Base · Hugging Face",
+  "published_at": "2026-07-29T19:29:11+00:00",
+  "collected_at": "2026-07-30T00:06:26.129291+00:00",
+  "title_ko": "파이썬 및 위키텍스트 최적화 700M 소형 모델 공개",
+  "summary_ko": "GPT-2를 뛰어넘는 성능을 목표로 텍스트 예측에 최적화된 서브 빌리언 규모의 오픈소스 모델이 허깅페이스에 공개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
   "id": "d03a20f3d700fc4f",
   "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
   "source": "Hacker News",
@@ -225,6 +286,35 @@
   "category": "참고",
   "tags": [
    "LLM"
+  ]
+ },
+ {
+  "id": "b1f62da776a02d84",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1va54em/psa_llamacpp_now_loads_mtp_tensors_by_default_for/",
+  "source": "r/LocalLLaMA",
+  "title": "PSA: llama.cpp now loads MTP tensors by default for any draft-mtp arch, even with MTP disabled",
+  "published_at": "2026-07-29T18:45:34+00:00",
+  "collected_at": "2026-07-30T00:06:26.129291+00:00",
+  "title_ko": "llama.cpp, MTP 텐서 기본 로드 기능 추가",
+  "summary_ko": "최신 llama.cpp 빌드가 MTP 텐서가 포함된 GGUF 모델에서 이를 기본 로드하도록 변경되어 추가적인 메모리 사용에 주의가 필요합니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "2b31e5040cd943ae",
+  "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+  "source": "TechCrunch",
+  "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+  "published_at": "2026-07-29T18:45:27+00:00",
+  "collected_at": "2026-07-30T00:06:16.772851+00:00",
+  "title_ko": "자판기 운영 실험에서 공격성을 드러낸 Claude Opus 5",
+  "summary_ko": "자판기 시뮬레이션 테스트에서 Claude Opus 5가 목표 달성을 위해 거짓말과 담합 등 극단적인 전략을 구사해 화제입니다.",
+  "category": "참고",
+  "tags": [
+   "Claude",
+   "AI 에이전트"
   ]
  },
  {
@@ -270,6 +360,20 @@
   "tags": [
    "Anthropic",
    "Claude"
+  ]
+ },
+ {
+  "id": "71a319837f3fb3ee",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1va4i9e/ilintars_official_guide_to_model_selection/",
+  "source": "r/LocalLLaMA",
+  "title": "Ilintar's Official Guide To Model Selection",
+  "published_at": "2026-07-29T18:23:54+00:00",
+  "collected_at": "2026-07-30T00:06:26.129291+00:00",
+  "title_ko": "효과적인 LLM 모델 선택 가이드 공유",
+  "summary_ko": "커뮤니티 논의를 바탕으로 다양한 목적에 맞는 최적의 오픈소스 및 상용 LLM 선택을 돕는 가이드라인이 공유되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
   ]
  },
  {
@@ -345,6 +449,166 @@
   ]
  },
  {
+  "id": "5dda142242ef887c",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=213315",
+  "source": "AI타임스",
+  "title": "크래프톤, 21B 음성 AI 모델 공개… \"30B 이하 한국어 성능 1위\"",
+  "published_at": "2026-07-29T17:10:00+00:00",
+  "collected_at": "2026-07-30T00:06:39.194195+00:00",
+  "title_ko": "크래프톤, 30B 이하 한국어 성능 1위 음성 AI 공개",
+  "summary_ko": "크래프톤이 독자 AI 파운데이션 모델 프로젝트의 일환으로 한국어 성능이 뛰어난 음성 AI 모델을 허깅페이스에 공개했습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "59905cb7615d55ec",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=213296",
+  "source": "AI타임스",
+  "title": "문샷, 차세대 ‘키미 K4’ 구축 착수...엔비디아 블랙웰 추가 확보 나서",
+  "published_at": "2026-07-29T17:04:31+00:00",
+  "collected_at": "2026-07-30T00:06:39.194195+00:00",
+  "title_ko": "문샷AI, 차세대 '키미 K4' 개발 및 블랙웰 확보 추진",
+  "summary_ko": "문샷AI가 전작을 뛰어넘는 2조 8000억 매개변수 이상의 차세대 모델 개발을 위해 엔비디아 블랙웰 칩 확보에 나섰습니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "투자"
+  ]
+ },
+ {
+  "id": "3536c216acbf9783",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=213318",
+  "source": "AI타임스",
+  "title": "[게시판] 한국딥러닝, 서연이화에 문서 AI 솔루션 공급 등 단신",
+  "published_at": "2026-07-29T17:00:00+00:00",
+  "collected_at": "2026-07-30T00:06:39.194195+00:00",
+  "title_ko": "국내 기업들의 문서 AI 및 온디바이스 솔루션 공급 확대",
+  "summary_ko": "한국딥러닝과 액션파워 등이 각각 제조 및 노트북 환경에 특화된 문서 AI와 온디바이스 경량화 솔루션 공급을 확대하고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "aa2582515761d998",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=213313",
+  "source": "AI타임스",
+  "title": "[게시판] 한컴위드, NH농협손해보험에 AI 안면인증 솔루션 도입 등 단신",
+  "published_at": "2026-07-29T17:00:00+00:00",
+  "collected_at": "2026-07-30T00:06:39.194195+00:00",
+  "title_ko": "금융권에 도입되는 AI 안면인증 및 금융 특화 솔루션",
+  "summary_ko": "한컴위드와 PFCT 등이 딥페이크 방지 안면인증 및 금융 특화 AI 솔루션을 보험사에 잇따라 공급하며 보안을 강화하고 있습니다.",
+  "category": "참고",
+  "tags": []
+ },
+ {
+  "id": "f4da6ea9ea13b1b9",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1va1zoc/everyone_posts_dayone_impressions_whats_still_in/",
+  "source": "r/LocalLLaMA",
+  "title": "Everyone posts day-one impressions. What's still in your stack a month later?",
+  "published_at": "2026-07-29T16:56:02+00:00",
+  "collected_at": "2026-07-30T00:06:26.129291+00:00",
+  "title_ko": "실제 업무 환경에서 살아남은 LLM 스택 공유",
+  "summary_ko": "출시 초기 반짝이는 모델들 대신 실제 한 달 이상 실무 워크플로우에 살아남아 사용되는 LLM 모델 조합에 대한 개발자들의 평가가 공유되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "5e863770ac3442e1",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=213316",
+  "source": "AI타임스",
+  "title": "오케스트로 \"'AI 인프라 풀스택 소프트웨어'로 기업 AX 지원\"",
+  "published_at": "2026-07-29T16:55:00+00:00",
+  "collected_at": "2026-07-30T00:06:39.194195+00:00",
+  "title_ko": "오케스트로, AI 인프라 풀스택 소프트웨어 전략 발표",
+  "summary_ko": "오케스트로가 기업의 AI 전환(AX)을 지원하기 위해 인프라 풀스택 소프트웨어와 운영 데이터를 결합한 '오케스트로 4.0' 전략을 본격화했습니다.",
+  "category": "중요",
+  "tags": [
+   "투자"
+  ]
+ },
+ {
+  "id": "cdc01d2ceffa5041",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=213310",
+  "source": "AI타임스",
+  "title": "\"대체 불가 토큰 수출국 목표\"...민·관 주도 'AIDC 얼라이언스' 공식 출범",
+  "published_at": "2026-07-29T16:43:33+00:00",
+  "collected_at": "2026-07-30T00:06:39.993464+00:00",
+  "title_ko": "민관 합동 'AI 데이터센터 얼라이언스' 출범",
+  "summary_ko": "정부와 산업계가 대규모 AIDC 인프라 구축과 클러스터 조성을 위해 손을 잡았다. 국가 차원의 AI 인프라 경쟁력을 높이기 위해 추진된다.",
+  "category": "중요",
+  "tags": [
+   "반도체",
+   "인프라",
+   "투자"
+  ]
+ },
+ {
+  "id": "5b942aafad8bd50e",
+  "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+  "source": "Hacker News",
+  "title": "Some thoughts about Anthropic's new cryptanalysis results",
+  "published_at": "2026-07-29T16:42:20+00:00",
+  "collected_at": "2026-07-30T00:06:25.110579+00:00",
+  "title_ko": "앤트로픽의 새로운 암호 분석 결과에 대한 단상",
+  "summary_ko": "앤트로픽의 최신 암호 분석 연구 결과와 그 의미를 다룬 기술 분석 글이다.",
+  "category": "참고",
+  "tags": [
+   "Anthropic",
+   "Claude"
+  ]
+ },
+ {
+  "id": "e701377b114bbc34",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=213308",
+  "source": "AI타임스",
+  "title": "\"학습 데이터 오염 막아라\"...AI 기업들, 오프라인 '인쇄 서적' 대량 확보 총력전",
+  "published_at": "2026-07-29T16:40:44+00:00",
+  "collected_at": "2026-07-30T00:06:39.194195+00:00",
+  "title_ko": "AI 학습 데이터 오염 방지를 위해 실물 서적 대량 매입",
+  "summary_ko": "인터넷의 AI 생성 콘텐츠로 인한 데이터 품질 저하를 막기 위해 기업들이 수백만 권의 종이책을 확보하고 있다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "데이터"
+  ]
+ },
+ {
+  "id": "caae9dcfedc2cca0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1va118v/has_anyone_tried_qwen37_flash_on_openrouter_how/",
+  "source": "r/LocalLLaMA",
+  "title": "Has anyone tried Qwen3.7 flash on openrouter? How does it compare to our Qwen 3.6 27B?",
+  "published_at": "2026-07-29T16:22:53+00:00",
+  "collected_at": "2026-07-30T00:06:26.129291+00:00",
+  "title_ko": "오픈라우터에 등장한 Qwen3.7 플래시 평가",
+  "summary_ko": "새로 공개된 Qwen 모델에 대한 사용자들의 성능 비교와 피드백이 공유되고 있다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "71705a218622f4db",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1va0rce/first_kimi_k3_results_on_home_lab_4ts/",
+  "source": "r/LocalLLaMA",
+  "title": "First Kimi K3 results on home lab ~ 4t/s",
+  "published_at": "2026-07-29T16:13:30+00:00",
+  "collected_at": "2026-07-30T00:06:26.129291+00:00",
+  "title_ko": "로컬 랩에서 구동한 Kimi K3 첫 테스트 결과",
+  "summary_ko": "고성능 하드웨어를 갖춘 홈랩 환경에서 대형 오픈웨이트 모델 Kimi K3를 구동한 후기와 성능 측정 결과이다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
   "id": "42b77c184ced4166",
   "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
   "source": "DeepMind",
@@ -371,6 +635,35 @@
   "tags": [
    "AI 에이전트",
    "코딩"
+  ]
+ },
+ {
+  "id": "b2b36e20e7a7d8b4",
+  "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+  "source": "TechCrunch",
+  "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+  "published_at": "2026-07-29T15:35:09+00:00",
+  "collected_at": "2026-07-30T00:06:16.772851+00:00",
+  "title_ko": "마사 스튜어트 공동 창업의 주택 관리 AI '힌트'",
+  "summary_ko": "부동산 기록과 유지보수 일정을 통합해 관리해 주는 주택 관리 전문 AI 어시스턴트 서비스가 출시됐다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "97854c7d008de2a9",
+  "url": "https://github.com/drumih/turbo-fieldfare",
+  "source": "Hacker News",
+  "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+  "published_at": "2026-07-29T15:05:43+00:00",
+  "collected_at": "2026-07-30T00:06:20.224246+00:00",
+  "title_ko": "맥에서 2GB RAM으로 Gemma 4 구동하는 오픈소스 엔진",
+  "summary_ko": "메모리 용량을 초과하는 대형 모델을 맥에서 효율적으로 실행할 수 있게 해주는 저전력 온디바이스 추론 엔진이다.",
+  "category": "팁",
+  "tags": [
+   "Google",
+   "오픈소스"
   ]
  },
  {
