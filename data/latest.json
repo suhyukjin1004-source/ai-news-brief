@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-31T09:51:38.094896+00:00",
+ "updated_at": "2026-07-31T12:08:28.443081+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -335,6 +335,37 @@
    ]
   },
   {
+   "id": "092b0dbc1806b27b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbothg/deepseek_weights_when/",
+   "source": "r/LocalLLaMA",
+   "title": "Deepseek weights when?",
+   "published_at": "2026-07-31T11:55:03+00:00",
+   "collected_at": "2026-07-31T12:08:12.403915+00:00",
+   "title_ko": "DeepSeek 가중치 공개 일정 관심",
+   "summary_ko": "DeepSeek의 신규 모델 가중치 공개 시점에 대한 커뮤니티의 궁금증과 논의가 이어지고 있습니다. 오픈소스 AI 생태계에 미치는 영향이 큽니다.",
+   "category": "참고",
+   "tags": [
+    "DeepSeek",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "4f94c919ccd27dd6",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbnwmt/can_we_expect_deepseek_v4_distills_into_smaller/",
+   "source": "r/LocalLLaMA",
+   "title": "Can we expect Deepseek v4 distills into smaller models?",
+   "published_at": "2026-07-31T11:09:39+00:00",
+   "collected_at": "2026-07-31T12:08:12.403915+00:00",
+   "title_ko": "DeepSeek V4 소형 모델 증류 버전 출시 기대",
+   "summary_ko": "과거 R1 모델처럼 DeepSeek V4도 Llama나 Qwen 기반의 소형 증류 모델로 출시될지 커뮤니티에서 기대를 모으고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "DeepSeek",
+    "오픈소스",
+    "AI 모델"
+   ]
+  },
+  {
    "id": "ee1da3deb2eac1ed",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213379",
    "source": "AI타임스",
@@ -348,6 +379,21 @@
     "LG",
     "오픈소스",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "0bc3661d0ae98554",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbm1tc/why_are_ai_model_tests_always_the_same_generic/",
+   "source": "r/LocalLLaMA",
+   "title": "Why are AI model tests always the same generic prompts?",
+   "published_at": "2026-07-31T09:29:51+00:00",
+   "collected_at": "2026-07-31T12:08:12.403915+00:00",
+   "title_ko": "획일적인 AI 모델 평가 방식에 대한 비판",
+   "summary_ko": "단순한 예제 위주의 AI 벤치마크 테스트에서 벗어나 복잡하고 실무적인 작업 중심의 평가가 필요하다는 지적이 제기되었습니다. 모델의 실효성을 검증하는 데 중요한 화두입니다.",
+   "category": "참고",
+   "tags": [
+    "AI 모델",
+    "벤치마크"
    ]
   },
   {
@@ -2939,50 +2985,6 @@
    "tags": [
     "LLM",
     "Anthropic"
-   ]
-  },
-  {
-   "id": "88b04b7beb520e45",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213307",
-   "source": "AI타임스",
-   "title": "MCP 핵심 구조 전면 개편...\"AI 에이전트 대규모 프로덕션 시대 진입\"",
-   "published_at": "2026-07-29T17:11:49+00:00",
-   "collected_at": "2026-07-29T23:03:00.695734+00:00",
-   "title_ko": "에이전트 AI 재단, MCP 핵심 구조 전면 개편",
-   "summary_ko": "에이전트 AI 재단이 엔터프라이즈 환경에서의 대규모 프로덕션을 위해 모델 컨텍스트 프로토콜(MCP)의 확장성과 보안을 대폭 강화했습니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "5dda142242ef887c",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213315",
-   "source": "AI타임스",
-   "title": "크래프톤, 21B 음성 AI 모델 공개… \"30B 이하 한국어 성능 1위\"",
-   "published_at": "2026-07-29T17:10:00+00:00",
-   "collected_at": "2026-07-30T00:06:39.194195+00:00",
-   "title_ko": "크래프톤, 30B 이하 한국어 성능 1위 음성 AI 공개",
-   "summary_ko": "크래프톤이 독자 AI 파운데이션 모델 프로젝트의 일환으로 한국어 성능이 뛰어난 음성 AI 모델을 허깅페이스에 공개했습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "59905cb7615d55ec",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213296",
-   "source": "AI타임스",
-   "title": "문샷, 차세대 ‘키미 K4’ 구축 착수...엔비디아 블랙웰 추가 확보 나서",
-   "published_at": "2026-07-29T17:04:31+00:00",
-   "collected_at": "2026-07-30T00:06:39.194195+00:00",
-   "title_ko": "문샷AI, 차세대 '키미 K4' 개발 및 블랙웰 확보 추진",
-   "summary_ko": "문샷AI가 전작을 뛰어넘는 2조 8000억 매개변수 이상의 차세대 모델 개발을 위해 엔비디아 블랙웰 칩 확보에 나섰습니다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "투자"
    ]
   }
  ]
