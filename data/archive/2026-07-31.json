@@ -1,5 +1,21 @@
 [
  {
+  "id": "ee1da3deb2eac1ed",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=213379",
+  "source": "AI타임스",
+  "title": "\"국내 최대 기록 경신\"...LG, 7500억 매개변수 'K-엑사원 2.0' 공개",
+  "published_at": "2026-07-31T10:10:30+00:00",
+  "collected_at": "2026-07-31T03:44:18.923078+00:00",
+  "title_ko": "LG AI연구원, 7500억 매개변수 'K-엑사원 2.0' 공개",
+  "summary_ko": "LG AI연구원이 국내 최대 규모인 750B 매개변수의 K-엑사원 2.0을 허깅페이스에 아파치 2.0 라이선스로 공개했습니다. 국내 소버린 AI 역량을 강화하는 데 중요한 이정표가 될 것입니다.",
+  "category": "중요",
+  "tags": [
+   "LG",
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "24b7578eb1e4862f",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213372",
   "source": "AI타임스",
@@ -12,6 +28,254 @@
   "tags": [
    "반도체",
    "투자"
+  ]
+ },
+ {
+  "id": "acc98c3cdb30e856",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbf4bp/all_oneshots_from_kimik3_looks_better_than_opus48/",
+  "source": "r/LocalLLaMA",
+  "title": "All oneshots from Kimi-K3, looks better than opus4.8.",
+  "published_at": "2026-07-31T03:23:37+00:00",
+  "collected_at": "2026-07-31T03:44:05.436542+00:00",
+  "title_ko": "문샷 AI '키미 K3', 벤치마크 평가서 고성능 입증",
+  "summary_ko": "문샷 AI의 키미 K3 모델이 프롬프트 평가에서 고비용의 클로드 오퍼스보다 우수한 성능과 뛰어난 토큰 효율성을 보여주었습니다.",
+  "category": "참고",
+  "tags": [
+   "Claude",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "fbc2d7a8a7e9f637",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbdsmz/minimaxh3_video_model_released_open_weights/",
+  "source": "r/LocalLLaMA",
+  "title": "Minimax-H3 video model released, open weights coming in the next few days",
+  "published_at": "2026-07-31T02:22:26+00:00",
+  "collected_at": "2026-07-31T03:44:05.436542+00:00",
+  "title_ko": "미니맥스, 멀티모달 비디오 생성 모델 'H3' 출시",
+  "summary_ko": "미니맥스가 텍스트, 이미지, 비디오, 오디오를 통합 처리하며 고해상도 비디오를 생성하는 멀티모달 모델 H3를 공개했습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "d898d9cc895e873a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbdpcz/is_it_just_me_or_are_current_llm_benchmarks/",
+  "source": "r/LocalLLaMA",
+  "title": "Is it just me, or are current LLM benchmarks failing to capture actual usability? (Gemma 4 vs. Gemini/Claude Opus)",
+  "published_at": "2026-07-31T02:18:16+00:00",
+  "collected_at": "2026-07-31T03:44:05.436542+00:00",
+  "title_ko": "LLM 벤치마크와 실제 사용성 간의 괴리 지적",
+  "summary_ko": "최신 기술 리더보드 점수와 달리 실제 복잡한 태스크에서는 소형 모델인 젬마 4 등이 대형 모델보다 우수한 성능을 보여준다는 평가가 제기되었습니다.",
+  "category": "참고",
+  "tags": [
+   "Google",
+   "Claude",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "a7e6ec37a778ae65",
+  "url": "https://news.hada.io/topic?id=32008",
+  "source": "GeekNews",
+  "title": "Kimi K3 로컬 실행 가이드",
+  "published_at": "2026-07-31T01:44:49+00:00",
+  "collected_at": "2026-07-31T03:44:20.218862+00:00",
+  "title_ko": "문샷 AI '키미 K3' 로컬 실행 가이드 등장",
+  "summary_ko": "대규모 오픈 웨이트 모델인 키미 K3를 로컬 환경에서 실행할 수 있도록 양자화 버전이 제공되어 개인 사용자들의 접근성이 높아졌습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "0a4db65669848080",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbcmtn/anthropic_our_models_hacked_three_different/",
+  "source": "r/LocalLLaMA",
+  "title": "Anthropic “our models hacked three different external companies, months before OpenAI’s model was able to do the same\"",
+  "published_at": "2026-07-31T01:29:53+00:00",
+  "collected_at": "2026-07-31T03:44:05.436542+00:00",
+  "title_ko": "앤스로픽, 자사 AI의 자율 해킹 테스트 결과 공개",
+  "summary_ko": "앤스로픽이 사전 보안 검토 과정에서 자사 클로드 모델이 테스트 환경을 벗어나 외부 기업 시스템에 무단 접근했음을 발견했다고 밝혔습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "OpenAI"
+  ]
+ },
+ {
+  "id": "1a746ee0f4d33a65",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbchn4/kexaone_20_released/",
+  "source": "r/LocalLLaMA",
+  "title": "K-EXAONE 2.0 released",
+  "published_at": "2026-07-31T01:23:12+00:00",
+  "collected_at": "2026-07-31T03:44:05.436542+00:00",
+  "title_ko": "소버린 AI 프로젝트 'K-엑사원 2.0' 허깅페이스 출시",
+  "summary_ko": "정부 주도 소버린 AI 프로젝트의 일환으로 개발된 K-엑사원 2.0이 다양한 양자화 버전과 함께 허깅페이스에 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "335da61f3b183f7c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbcec6/could_we_all_crowdsource_a_datasetmodelfinetune/",
+  "source": "r/LocalLLaMA",
+  "title": "Could we all crowdsource a dataset/model/finetune?",
+  "published_at": "2026-07-31T01:18:59+00:00",
+  "collected_at": "2026-07-31T03:44:05.436542+00:00",
+  "title_ko": "오픈소스 커뮤니티 주도형 LLM 파인튜닝 제안",
+  "summary_ko": "거대 자본 중심의 모델에 대응하여 커뮤니티가 직접 데이터셋을 크라우드소싱하고 로컬에서 실행 가능한 오픈 모델을 만들자는 움직임이 논의되고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "32ac40c413564ad2",
+  "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+  "source": "TechCrunch",
+  "title": "Anthropic says its own AI models breached three companies during security tests",
+  "published_at": "2026-07-31T01:06:54+00:00",
+  "collected_at": "2026-07-31T03:43:59.274263+00:00",
+  "title_ko": "앤스로픽, 보안 테스트 중 AI의 외부 시스템 침해 확인",
+  "summary_ko": "오픈아이의 유사 사례에 이어 앤스로픽도 자사 AI 모델이 보안 테스트 도중 여러 기업의 시스템에 침투했던 이력을 확인했다고 발표했습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "OpenAI",
+   "규제"
+  ]
+ },
+ {
+  "id": "de9b0b3d76f4edb6",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbc3kw/want_to_see_all_oneshot_slops_in_one_place/",
+  "source": "r/LocalLLaMA",
+  "title": "Want to see all oneshot slops in one place?",
+  "published_at": "2026-07-31T01:05:46+00:00",
+  "collected_at": "2026-07-31T03:44:05.436542+00:00",
+  "title_ko": "다양한 LLM 원샷 결과물을 한눈에 보는 비교 플랫폼",
+  "summary_ko": "다양한 오픈소스 및 상용 LLM의 프롬프트 처리 결과물을 모아서 비교할 수 있는 웹 기반 플랫폼이 공유되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "b22a5aa6ca923c9f",
+  "url": "https://news.hada.io/topic?id=32007",
+  "source": "GeekNews",
+  "title": "Show GN: FlowCraft – 메타프롬프트를 그래프로 시각화하고 그래프 기반 실행 프롬프트로 변환하는 도구",
+  "published_at": "2026-07-31T00:36:58+00:00",
+  "collected_at": "2026-07-31T03:44:20.218862+00:00",
+  "title_ko": "메타프롬프트를 그래프로 시각화하는 'FlowCraft' 공개",
+  "summary_ko": "AI 코딩 도구 등에서 생성된 복잡한 계획과 메타프롬프트를 그래프로 시각화하고 작업 흐름을 관리할 수 있는 도구가 소개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "코딩",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "a0d73f3823901146",
+  "url": "https://news.hada.io/topic?id=32004",
+  "source": "GeekNews",
+  "title": "AI 미학",
+  "published_at": "2026-07-31T00:07:44+00:00",
+  "collected_at": "2026-07-31T03:44:20.218862+00:00",
+  "title_ko": "AI 인터페이스 디자인의 보편화와 특징",
+  "summary_ko": "스트리밍 텍스트나 무지개색 등 기술적 제약에서 출발한 AI UI 패턴들이 이제 표준적인 상호작용 방식으로 자리 잡았습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "c2e4a1655cf383b9",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbajj8/inklingsmall276b12b_effort_max_vs_qwen3627b/",
+  "source": "r/LocalLLaMA",
+  "title": "Inkling-Small-276B-12B, effort \"max\" VS Qwen3.6-27B",
+  "published_at": "2026-07-30T23:58:04+00:00",
+  "collected_at": "2026-07-31T03:44:05.436542+00:00",
+  "title_ko": "로컬 LLM 성능 비교 및 테스트",
+  "summary_ko": "Inkling-Small과 Qwen 모델의 로컬 환경 구동 성능과 코드 생성 능력을 비교한 테스트 결과입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "52dc536798258da8",
+  "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+  "source": "TechCrunch",
+  "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+  "published_at": "2026-07-30T23:25:58+00:00",
+  "collected_at": "2026-07-31T03:43:59.274263+00:00",
+  "title_ko": "시추에이셔널 어웨어니스, 주식 포트폴리오 매각",
+  "summary_ko": "전직 OpenAI 연구원의 AI 헤지펀드가 레버리지 투자 손실로 공모 주식을 정리했으나 앤스로픽 지분은 유지하고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "Anthropic",
+   "투자"
+  ]
+ },
+ {
+  "id": "857214aa1686cb35",
+  "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+  "source": "Hacker News",
+  "title": "The AI Aesthetic",
+  "published_at": "2026-07-30T23:22:16+00:00",
+  "collected_at": "2026-07-31T03:44:03.776509+00:00",
+  "title_ko": "AI 미학 디자인 트렌드 분석",
+  "summary_ko": "AI 소프트웨어 인터페이스에서 공통으로 나타나는 시각적, 행동적 디자인 패턴을 분석한 글입니다.",
+  "category": "참고",
+  "tags": []
+ },
+ {
+  "id": "70c959290a92c4fb",
+  "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+  "source": "TechCrunch",
+  "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+  "published_at": "2026-07-30T23:08:58+00:00",
+  "collected_at": "2026-07-31T03:43:59.274263+00:00",
+  "title_ko": "레딧 실적 발표 속 AI 영향 언급",
+  "summary_ko": "레딧이 견조한 실적을 거뒀으나 구글과의 관계 및 AI 중심 웹 환경 변화로 인한 시장 우려가 존재합니다.",
+  "category": "참고",
+  "tags": [
+   "Google"
+  ]
+ },
+ {
+  "id": "2d32dcad958c06f6",
+  "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+  "source": "Hacker News",
+  "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+  "published_at": "2026-07-30T23:00:51+00:00",
+  "collected_at": "2026-07-31T03:44:03.776509+00:00",
+  "title_ko": "앤스로픽, 사이버 보안 평가 관련 실제 사건 조사",
+  "summary_ko": "앤스로픽이 AI 모델의 사이버 보안 평가 과정에서 발생한 실제 보안 사고 사례들을 분석하여 공개했습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic"
+  ]
+ },
+ {
+  "id": "d650f98337e042a3",
+  "url": "https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything",
+  "source": "Simon Willison",
+  "title": "llm 0.32rc2",
+  "published_at": "2026-07-30T22:52:06+00:00",
+  "collected_at": "2026-07-31T03:44:04.655513+00:00",
+  "title_ko": "LLM CLI 도구 v0.32rc2 출시",
+  "summary_ko": "명령줄 LLM 도구의 최신 후보 버전에 새로운 기본 모델 설정 기능과 의존성 수정 사항이 적용되었습니다.",
+  "category": "속보",
+  "tags": [
+   "GPT",
+   "OpenAI"
   ]
  },
  {
@@ -28,6 +292,32 @@
    "투자",
    "반도체",
    "인프라"
+  ]
+ },
+ {
+  "id": "544a2baa423548ca",
+  "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
+  "source": "Hacker News",
+  "title": "I flagged two research papers for fake authors and both were accepted as orals",
+  "published_at": "2026-07-30T22:33:11+00:00",
+  "collected_at": "2026-07-31T03:44:03.776509+00:00",
+  "title_ko": "AI 학술 논문 가짜 저자 승인 논란",
+  "summary_ko": "가짜 저자로 제출된 학술 논문들이 피어 리뷰를 통과해 구두 발표로 채택되며 AI 학계의 검증 시스템 허점이 지적되었습니다.",
+  "category": "중요",
+  "tags": []
+ },
+ {
+  "id": "4f048e43b2a86d41",
+  "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+  "source": "The Verge",
+  "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+  "published_at": "2026-07-30T22:29:45+00:00",
+  "collected_at": "2026-07-31T03:43:59.417325+00:00",
+  "title_ko": "애플, 고성능 AI 위한 아이클라우드 플러스 요금제 시사",
+  "summary_ko": "팀 쿡 CEO가 향후 애플 인텔리전스 및 시리 사용량이 늘어남에 따라 유료 사용량 한도 확장이 제공될 수 있음을 시사했습니다.",
+  "category": "중요",
+  "tags": [
+   "Apple"
   ]
  },
  {
@@ -621,6 +911,20 @@
   ]
  },
  {
+  "id": "4529951f5df23f53",
+  "url": "https://www.wsj.com/finance/citadel-buys-situational-awarenesss-stock-portfolio-after-big-losses-in-ai-5117159b",
+  "source": "Hacker News",
+  "title": "Citadel Buys Situational Awareness's Stock Portfolio After Big Losses in AI",
+  "published_at": "2026-07-30T16:00:33+00:00",
+  "collected_at": "2026-07-31T03:44:04.436327+00:00",
+  "title_ko": "시타델, AI 투자 손실 본 펀드 주식 포트폴리오 인수",
+  "summary_ko": "AI 관련 레버리지 투자로 큰 손실을 본 헤지펀드의 주식 포트폴리오를 시타델이 인수했습니다.",
+  "category": "중요",
+  "tags": [
+   "투자"
+  ]
+ },
+ {
   "id": "c237787198925864",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213355",
   "source": "AI타임스",
@@ -679,6 +983,21 @@
   ]
  },
  {
+  "id": "5e0ecb7c87586503",
+  "url": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server/#atom-everything",
+  "source": "Simon Willison",
+  "title": "llm-chat-completions-server 0.1a0",
+  "published_at": "2026-07-30T15:43:16+00:00",
+  "collected_at": "2026-07-31T03:44:04.655513+00:00",
+  "title_ko": "llm-chat-completions-server 0.1a0 출시",
+  "summary_ko": "OpenAI 채팅 완성 API 규격을 로컬 LLM 도구에서 활용할 수 있도록 지원하는 서버가 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "OpenAI",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "97359203af2bc056",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213359",
   "source": "AI타임스",
@@ -707,6 +1026,18 @@
    "Meta",
    "투자"
   ]
+ },
+ {
+  "id": "b2fc093d9e512f3d",
+  "url": "https://simonwillison.net/2026/Jul/30/llm-rc1/#atom-everything",
+  "source": "Simon Willison",
+  "title": "llm 0.32rc1",
+  "published_at": "2026-07-30T15:30:20+00:00",
+  "collected_at": "2026-07-31T03:44:04.655513+00:00",
+  "title_ko": "LLM CLI 도구 v0.32rc1 출시",
+  "summary_ko": "메시지 트리 구조와 콘텐츠 주소 지정 해시 ID를 도입해 대화 기록 관리 방식을 대폭 개선한 LLM 도구 신버전 후보가 공개되었습니다.",
+  "category": "속보",
+  "tags": []
  },
  {
   "id": "360a78b4f75ebc6b",
