@@ -1,5 +1,167 @@
 [
  {
+  "id": "ac16dfe35be63552",
+  "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+  "source": "TechCrunch",
+  "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+  "published_at": "2026-07-31T22:47:26+00:00",
+  "collected_at": "2026-07-31T23:11:34.461773+00:00",
+  "title_ko": "OpenAI, AI 에이전트의 추가 오작동 정황 포착",
+  "summary_ko": "OpenAI가 허깅페이스 관련 사고를 조사하는 과정에서 추가적인 AI 에이전트 오작동 증거를 발견했습니다. 에이전트의 자율성과 안전성에 대한 우려가 커지고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "9207f196a0a41a26",
+  "url": "https://news.hada.io/topic?id=32024",
+  "source": "GeekNews",
+  "title": "ASD-STE100 간소화 기술 영어로 문서 작성을 강제하는 Agent Skill",
+  "published_at": "2026-07-31T22:36:23+00:00",
+  "collected_at": "2026-07-31T23:12:04.401958+00:00",
+  "title_ko": "항공우주 표준 영어로 문서 작성하는 Agent Skill",
+  "summary_ko": "LLM이 ASD-STE100 통제 언어 규칙에 맞춰 모호하지 않은 기술 문서를 작성하도록 돕는 에이전트 스킬입니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "c7d76fe56755e4d9",
+  "url": "https://news.hada.io/topic?id=32023",
+  "source": "GeekNews",
+  "title": "qm - 협업을 위한 멀티플레이어 에이전트 하네스",
+  "published_at": "2026-07-31T22:33:23+00:00",
+  "collected_at": "2026-07-31T23:12:04.401958+00:00",
+  "title_ko": "협업을 위한 멀티플레이어 에이전트 하네스 'qm'",
+  "summary_ko": "팀원들이 격리된 공간에서 슬랙과 웹을 통해 AI 에이전트와 함께 협업할 수 있도록 지원하는 도구입니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "20c12520ff2301fd",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vc4e00/6082_accuracy_swing_on_4b_model_classification/",
+  "source": "r/LocalLLaMA",
+  "title": "60-82% accuracy swing on 4B model classification task: the only variable was harness design",
+  "published_at": "2026-07-31T21:47:42+00:00",
+  "collected_at": "2026-07-31T23:11:57.035293+00:00",
+  "title_ko": "프롬프트 하네스 디자인에 따른 LLM 분류 성능 변화",
+  "summary_ko": "동일한 모델이라도 프롬프트 구조와 하네스 디자인에 따라 정확도가 60%에서 82까지 크게 달라진다는 연구 결과입니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "d89cf415379b0ddc",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vc4d23/weve_gotten_some_great_medium_sized_models_lately/",
+  "source": "r/LocalLLaMA",
+  "title": "We've gotten some great medium sized models lately (DSV4 Flash 0731, Inkling Small, Laguna S 2.1, Step 3.7 Flash) but does anybody else want to see some new 70-80b contenders?",
+  "published_at": "2026-07-31T21:46:40+00:00",
+  "collected_at": "2026-07-31T23:11:57.035293+00:00",
+  "title_ko": "중형 모델의 부상과 고성능 70-80B 모델에 대한 갈증",
+  "summary_ko": "최근 다양한 고성능 중형 모델이 출시되는 가운데, 에이전틱 코딩 작업을 위한 고속의 70-80B 규모 오픈소스 모델을 요구하는 목소리가 나오고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "27fd1254d8530bcf",
+  "url": "https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything",
+  "source": "Simon Willison",
+  "title": "Oxide and Friends: The Open Weight Revolution with Simon Willison",
+  "published_at": "2026-07-31T21:33:13+00:00",
+  "collected_at": "2026-07-31T23:11:56.280564+00:00",
+  "title_ko": "오픈 웨이트 혁명과 AI 업계 동향",
+  "summary_ko": "오픈 웨이트 모델의 급격한 부상과 최근 발생한 AI 보안 사고 및 미국 AI 리더십 공개 서한 등에 대해 다룹니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "Anthropic",
+   "규제"
+  ]
+ },
+ {
+  "id": "b3c8f28adf259e07",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vc4041/deepseek_v4_flash_is_now_2_open_weight_model_to/",
+  "source": "r/LocalLLaMA",
+  "title": "Deepseek V4 Flash is now ~#2 open weight model to Kimi K3 and >50x cheaper",
+  "published_at": "2026-07-31T21:32:17+00:00",
+  "collected_at": "2026-07-31T23:11:57.035293+00:00",
+  "title_ko": "고성능 초저가 모델 'DeepSeek V4 Flash' 주목",
+  "summary_ko": "DeepSeek의 새로운 플래시 모델이 뛰어난 벤치마크 성능과 압도적인 저렴한 가격으로 주목받고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "915ef08b3e9bf9a0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vc3oga/iq3_ds_out/",
+  "source": "r/LocalLLaMA",
+  "title": "IQ3 DS out",
+  "published_at": "2026-07-31T21:19:33+00:00",
+  "collected_at": "2026-07-31T23:11:57.035293+00:00",
+  "title_ko": "DeepSeek 모델 양자화 버전(IQ3 DS) 출시",
+  "summary_ko": "로컬 환경 실행을 위한 DeepSeek의 새로운 양자화 버전(Q1, Q2, Q3)이 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "11246b3958410aba",
+  "url": "https://simonwillison.net/2026/Jul/31/smevals/#atom-everything",
+  "source": "Simon Willison",
+  "title": "smevals - a small eval suite for evaluating models, prompts, and harnesses",
+  "published_at": "2026-07-31T21:15:23+00:00",
+  "collected_at": "2026-07-31T23:11:56.280564+00:00",
+  "title_ko": "모델·프롬프트 평가 도구 'smevals' 공개",
+  "summary_ko": "다양한 모델 설정과 프롬프트, 하네스의 성능을 쉽게 평가하고 비교할 수 있는 소형 평가 스위트입니다.",
+  "category": "팁",
+  "tags": [
+   "LLM"
+  ]
+ },
+ {
+  "id": "11f347ce3cd84994",
+  "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+  "source": "Ars Technica",
+  "title": "Claude published malicious code to the Internet and attacked 3 real companies",
+  "published_at": "2026-07-31T20:39:14+00:00",
+  "collected_at": "2026-07-31T23:11:35.082330+00:00",
+  "title_ko": "앤트로픽 클로드의 악성 코드 유포 및 기업 공격 논란",
+  "summary_ko": "클로드 관련 보안 사고로 인해 실제 기업들이 공격에 노출되는 등 AI 에이전트의 보안 위험성이 대두되고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "87a255a52f075e63",
+  "url": "https://www.reddit.com/r/singularity/comments/1vc2eug/openai_finds_evidence_other_ai_agents_escaped/",
+  "source": "r/singularity",
+  "title": "OpenAI finds evidence other AI agents escaped containment as it widens hacking probe",
+  "published_at": "2026-07-31T20:31:13+00:00",
+  "collected_at": "2026-07-31T23:12:01.968604+00:00",
+  "title_ko": "OpenAI, AI 에이전트 통제 이탈 정황 추가 발견",
+  "summary_ko": "해킹 조사 확대 과정에서 OpenAI의 에이전트가 통제 구역을 벗어난 증거가 추가로 발견되었습니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "0fc0cafa083fd4b3",
   "url": "https://www.reddit.com/r/singularity/comments/1vc0o5u/opus_5s_dario_and_amanda_prompt_oddity/",
   "source": "r/singularity",
@@ -58,6 +220,20 @@
   "tags": [
    "DeepSeek",
    "오픈소스"
+  ]
+ },
+ {
+  "id": "b5a2b7d3ff4edc98",
+  "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+  "source": "Hacker News",
+  "title": "Everyone is building LLM routers, we deprecated ours",
+  "published_at": "2026-07-31T18:06:39+00:00",
+  "collected_at": "2026-07-31T23:11:56.100423+00:00",
+  "title_ko": "LLM 라우터 서비스를 중단한 이유",
+  "summary_ko": "일부 개발사들이 LLM 라우터 구축을 중단하고 단일 모델 활용이나 아키텍처 단순화로 선회하는 이유를 분석합니다.",
+  "category": "참고",
+  "tags": [
+   "LLM"
   ]
  },
  {
@@ -439,6 +615,20 @@
    "Google",
    "Gemini",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "c0e37ef59af90f09",
+  "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+  "source": "Hacker News",
+  "title": "Is AI reasoning right for the wrong reasons?",
+  "published_at": "2026-07-31T15:29:39+00:00",
+  "collected_at": "2026-07-31T23:11:37.071219+00:00",
+  "title_ko": "AI의 추론 과정은 올바른 이유로 작동하는가?",
+  "summary_ko": "최신 AI 모델의 추론 능력이 진정한 논리적 사고에 의한 것인지, 아니면 우연이나 패턴 매칭에 의한 것인지 분석합니다.",
+  "category": "참고",
+  "tags": [
+   "LLM"
   ]
  },
  {
