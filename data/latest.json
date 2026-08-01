@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-01T21:05:14.680476+00:00",
+ "updated_at": "2026-08-01T22:08:21.556717+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -17,6 +17,50 @@
     "OpenAI",
     "ChatGPT",
     "보안"
+   ]
+  },
+  {
+   "id": "8f809aca5654b740",
+   "url": "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything",
+   "source": "Simon Willison",
+   "title": "datasette-apps 0.2a0",
+   "published_at": "2026-08-01T21:23:56+00:00",
+   "collected_at": "2026-08-01T22:08:04.680079+00:00",
+   "title_ko": "Datasette Apps 0.2a0 출시 및 에이전트 기능 개선",
+   "summary_ko": "Datasette Agent를 위한 app_debug 및 app_list 도구가 추가되어 에이전트가 앱을 테스트하고 편집할 수 있게 되었습니다.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "49357a333fdd0080",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcz61x/deepseekv4flash0731_udiq3_s_125_toks_on_rtx_3090/",
+   "source": "r/LocalLLaMA",
+   "title": "DeepSeek-V4-Flash-0731 UD-IQ3_S 12.5 tok/s on RTX 3090 +128GB DDR5",
+   "published_at": "2026-08-01T21:22:44+00:00",
+   "collected_at": "2026-08-01T22:08:05.403067+00:00",
+   "title_ko": "RTX 3090에서 DeepSeek-V4-Flash 구동 성공",
+   "summary_ko": "RTX 3090과 대용량 시스템 메모리를 활용해 로컬 환경에서 DeepSeek 최신 모델을 실행한 설정 공유입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "DeepSeek"
+   ]
+  },
+  {
+   "id": "fe6c68f4b38e6d30",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcz4b4/a_collection_of_small_domainspecific_benchmarks/",
+   "source": "r/LocalLLaMA",
+   "title": "A collection of small domain-specific benchmarks for local models (30+ and growing)",
+   "published_at": "2026-08-01T21:20:42+00:00",
+   "collected_at": "2026-08-01T22:08:05.403067+00:00",
+   "title_ko": "로컬 모델용 도메인 특화 벤치마크 모음 공개",
+   "summary_ko": "소규모 로컬 AI 모델의 성능을 상식 등 도메인별로 평가할 수 있는 벤치마크 웹사이트가 공개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
    ]
   },
   {
@@ -2958,49 +3002,6 @@
    "summary_ko": "AI 소프트웨어 인터페이스에서 공통으로 나타나는 시각적, 행동적 디자인 패턴을 분석한 글입니다.",
    "category": "참고",
    "tags": []
-  },
-  {
-   "id": "70c959290a92c4fb",
-   "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-   "source": "TechCrunch",
-   "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
-   "published_at": "2026-07-30T23:08:58+00:00",
-   "collected_at": "2026-07-31T03:43:59.274263+00:00",
-   "title_ko": "레딧 실적 발표 속 AI 영향 언급",
-   "summary_ko": "레딧이 견조한 실적을 거뒀으나 구글과의 관계 및 AI 중심 웹 환경 변화로 인한 시장 우려가 존재합니다.",
-   "category": "참고",
-   "tags": [
-    "Google"
-   ]
-  },
-  {
-   "id": "2d32dcad958c06f6",
-   "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-   "source": "Hacker News",
-   "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-   "published_at": "2026-07-30T23:00:51+00:00",
-   "collected_at": "2026-07-31T03:44:03.776509+00:00",
-   "title_ko": "앤스로픽, 사이버 보안 평가 관련 실제 사건 조사",
-   "summary_ko": "앤스로픽이 AI 모델의 사이버 보안 평가 과정에서 발생한 실제 보안 사고 사례들을 분석하여 공개했습니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic"
-   ]
-  },
-  {
-   "id": "d650f98337e042a3",
-   "url": "https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything",
-   "source": "Simon Willison",
-   "title": "llm 0.32rc2",
-   "published_at": "2026-07-30T22:52:06+00:00",
-   "collected_at": "2026-07-31T03:44:04.655513+00:00",
-   "title_ko": "LLM CLI 도구 v0.32rc2 출시",
-   "summary_ko": "명령줄 LLM 도구의 최신 후보 버전에 새로운 기본 모델 설정 기능과 의존성 수정 사항이 적용되었습니다.",
-   "category": "속보",
-   "tags": [
-    "GPT",
-    "OpenAI"
-   ]
   }
  ]
 }
