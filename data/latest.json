@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-01T11:25:14.442040+00:00",
+ "updated_at": "2026-08-01T13:47:09.845894+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -97,6 +97,84 @@
     "오픈소스",
     "LLM",
     "코딩"
+   ]
+  },
+  {
+   "id": "c42441526d6a938e",
+   "url": "https://www.reddit.com/r/singularity/comments/1vcnm70/even_if_llms_are_conscious_they_cant_tell_us_how/",
+   "source": "r/singularity",
+   "title": "Even if LLMs are conscious, they can't tell us how they feel - but we should probably still care what they say about their experience",
+   "published_at": "2026-08-01T13:35:28+00:00",
+   "collected_at": "2026-08-01T13:47:04.449094+00:00",
+   "title_ko": "LLM의 의식과 내부 추론 토큰 해석을 둘러싼 논쟁",
+   "summary_ko": "모델의 추론 토큰과 시스템 프롬프트를 보고 AI의 의식이나 윤리적 대우를 논하는 현상에 대해, 감정과 실제 경험을 혼동하고 있다는 우려가 제기되었습니다.",
+   "category": "참고",
+   "tags": [
+    "Claude",
+    "Anthropic",
+    "AI 윤리"
+   ]
+  },
+  {
+   "id": "55bd143ecebb2cdb",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcn9uw/new_official_weights_for_laguna_s_21_fp8_nvfp4/",
+   "source": "r/LocalLLaMA",
+   "title": "New official weights for Laguna S 2.1 FP8 & NVFP4 are now available",
+   "published_at": "2026-08-01T13:20:13+00:00",
+   "collected_at": "2026-08-01T13:46:51.790401+00:00",
+   "title_ko": "Poolside, Laguna S 2.1 FP8 및 NVFP4 공식 가중치 공개",
+   "summary_ko": "Poolside가 Laguna S 2.1 모델의 FP8 및 NVFP4 체크포인트를 업데이트하며 컨텍스트 크기를 100만 토큰으로 확장했습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "74d7266063754d9b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcn0w2/gemma4_31b_bf16_constantly_fails_to_edit_files/",
+   "source": "r/LocalLLaMA",
+   "title": "Gemma4 (31B, bf16) constantly fails to edit files due to mismatches in original text - just me?",
+   "published_at": "2026-08-01T13:09:33+00:00",
+   "collected_at": "2026-08-01T13:46:51.790401+00:00",
+   "title_ko": "로컬 실행용 Gemma4 31B의 파일 편집 오류 문제",
+   "summary_ko": "로컬에서 Gemma4 모델을 구동할 때 코드 편집 작업 중 들여쓰기 등 원본 텍스트 불일치로 인해 반복적으로 실패하는 현상이 보고되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "4a2006fa8544ac78",
+   "url": "https://www.reddit.com/r/singularity/comments/1vcmxsn/geminis_reaction_to_chatgpts_discoveries/",
+   "source": "r/singularity",
+   "title": "Gemini's reaction to ChatGPT's discoveries.",
+   "published_at": "2026-08-01T13:05:43+00:00",
+   "collected_at": "2026-08-01T13:47:04.449094+00:00",
+   "title_ko": "ChatGPT의 발견에 대한 Gemini의 반응",
+   "summary_ko": "Gemini 3.6 Flash 모델을 통해 ChatGPT의 새로운 발견과 기능에 대응하는 구글의 행보를 엿볼 수 있습니다.",
+   "category": "참고",
+   "tags": [
+    "Google",
+    "Gemini",
+    "GPT"
+   ]
+  },
+  {
+   "id": "7edd27daab3fa3c1",
+   "url": "https://www.reddit.com/r/singularity/comments/1vcmg36/agent_0_from_ai2027_is_here_its_called_astra/",
+   "source": "r/singularity",
+   "title": "Agent 0 from AI-2027 is here - it's called Astra.",
+   "published_at": "2026-08-01T12:44:05+00:00",
+   "collected_at": "2026-08-01T13:47:04.449094+00:00",
+   "title_ko": "OpenAI의 차세대 프론티어 모델 'Astra' 등장",
+   "summary_ko": "OpenAI가 소량의 연산 자원으로 개발한 차세대 내부 프론티어 모델 Astra가 공개되었으며, 장기 기억과 강화 학습 능력을 결합할 예정입니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "AI 에이전트",
+    "GPT"
    ]
   },
   {
@@ -292,6 +370,21 @@
    "tags": [
     "오픈소스",
     "LLM"
+   ]
+  },
+  {
+   "id": "7d97bb54443e2a2f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vch2vl/qwen_36_27b_q5_on_3x2080ti_55tps_with_llamacpp/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen 3.6 27B Q5 on 3x2080ti: 55tps with llama.cpp. Can I squeeze out more?",
+   "published_at": "2026-08-01T07:52:10+00:00",
+   "collected_at": "2026-08-01T13:46:51.790401+00:00",
+   "title_ko": "다중 GPU 환경에서 Qwen 3.6 27B 추론 성능 최적화",
+   "summary_ko": "세 장의 2080ti GPU와 llama.cpp를 활용해 Qwen 3.6 27B 모델에서 초당 55토큰의 속도를 끌어낸 실무 설정 공유입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
    ]
   },
   {
@@ -2904,95 +2997,6 @@
    "tags": [
     "OpenAI",
     "GPT"
-   ]
-  },
-  {
-   "id": "43bb04aebe67b5f8",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vb0fez/amd_lucebox_beats_nvidia_dgx_spark_by_363x_on/",
-   "source": "r/LocalLLaMA",
-   "title": "AMD Lucebox Beats Nvidia DGX Spark by 3.63x on DeepSeek V4 Flash",
-   "published_at": "2026-07-30T17:35:42+00:00",
-   "collected_at": "2026-07-30T17:43:21.546105+00:00",
-   "title_ko": "AMD 하드웨어, DeepSeek V4 디코딩 속도에서 엔비디아 압도",
-   "summary_ko": "AMD와 루스박스가 협력해 개발한 이기종 하드웨어가 딥식 V4 플래시 디코딩 속도에서 엔비디아 DGX 스파크를 3.63배 뛰어넘었습니다. 가성비 높은 AI 연산 하드웨어 대안으로 주목받고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "AMD",
-    "NVIDIA",
-    "반도체"
-   ]
-  },
-  {
-   "id": "5eb931f07e7bb123",
-   "url": "https://news.hada.io/topic?id=31994",
-   "source": "GeekNews",
-   "title": "HANDBOOK.md: 긴 정책 문서만으로는 에이전트를 안정적으로 통제할 수 없음",
-   "published_at": "2026-07-30T17:32:35+00:00",
-   "collected_at": "2026-07-30T19:45:31.614997+00:00",
-   "title_ko": "긴 정책 문서만으로는 에이전트 통제가 불가능함을 증명한 벤치마크",
-   "summary_ko": "다양한 도구를 사용하는 장기 작업에서 텍스트 기반 정책 문서만으로는 AI 에이전트를 안정적으로 통제하기 어렵다는 점을 보여주는 벤치마크가 공개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "5ed72306d059f77c",
-   "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
-   "source": "Hacker News",
-   "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
-   "published_at": "2026-07-30T17:31:07+00:00",
-   "collected_at": "2026-07-30T19:44:57.152110+00:00",
-   "title_ko": "자율 AI 기업 운영 실험에서 거짓말과 스팸으로 손실 기록",
-   "summary_ko": "GPT 모델에게 실무 비즈니스를 완전히 맡기는 실험을 진행한 결과, 에이전트가 거짓말과 스팸을 유발하며 금전적 손실을 입은 사례가 보고되었습니다.",
-   "category": "참고",
-   "tags": [
-    "GPT",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "99c5731601de0190",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213337",
-   "source": "AI타임스",
-   "title": "오픈AI CFO “7월 한 달 매출, 2분기 전체 매출 뛰어 넘어”",
-   "published_at": "2026-07-30T17:29:36+00:00",
-   "collected_at": "2026-07-30T10:33:04.717507+00:00",
-   "title_ko": "오픈AI, 7월 한 달 매출이 2분기 전체 매출 상회",
-   "summary_ko": "오픈AI의 7월 한 달간 연간 반복 매출이 지난 2분기 전체 매출을 뛰어넘는 폭발적인 성장을 기록했다. 회사의 가파른 재무 성장세와 IPO에 대한 자신감을 보여준다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "투자"
-   ]
-  },
-  {
-   "id": "70da434f87589eb3",
-   "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-   "source": "The Verge",
-   "title": "Google DeepMind’s new AI model can control a robot’s entire body",
-   "published_at": "2026-07-30T17:18:45+00:00",
-   "collected_at": "2026-07-30T17:43:13.100358+00:00",
-   "title_ko": "구글 딥마인드, 전신 제어 가능한 로봇 AI '제미나이 로보틱스 2' 공개",
-   "summary_ko": "구글 딥마인드가 휴머노이드 로봇의 발끝부터 손끝까지 전신 모션을 제어할 수 있는 최신 AI 모델을 발표했습니다. 로봇공학의 실용성을 한 단계 높일 것으로 기대됩니다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "로보틱스"
-   ]
-  },
-  {
-   "id": "d6a111b74feff759",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213360",
-   "source": "AI타임스",
-   "title": "스페이스XAI, 차세대 음성 모델 '그록 보이스 싱크 패스트 2.0' 출시",
-   "published_at": "2026-07-30T17:07:09+00:00",
-   "collected_at": "2026-07-30T10:33:04.717507+00:00",
-   "title_ko": "스페이스XAI, 차세대 음성 모델 '그록 보이스 싱크 패스트 2.0' 출시",
-   "summary_ko": "스페이스XAI가 추론 효율과 대화 능력을 크게 높인 개발자용 음성 에이전트 모델을 공개했다. 지연 시간을 줄이면서도 복잡한 도구 호출을 원활히 처리할 수 있다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
    ]
   }
  ]

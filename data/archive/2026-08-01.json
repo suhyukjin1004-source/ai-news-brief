@@ -32,6 +32,84 @@
   ]
  },
  {
+  "id": "c42441526d6a938e",
+  "url": "https://www.reddit.com/r/singularity/comments/1vcnm70/even_if_llms_are_conscious_they_cant_tell_us_how/",
+  "source": "r/singularity",
+  "title": "Even if LLMs are conscious, they can't tell us how they feel - but we should probably still care what they say about their experience",
+  "published_at": "2026-08-01T13:35:28+00:00",
+  "collected_at": "2026-08-01T13:47:04.449094+00:00",
+  "title_ko": "LLM의 의식과 내부 추론 토큰 해석을 둘러싼 논쟁",
+  "summary_ko": "모델의 추론 토큰과 시스템 프롬프트를 보고 AI의 의식이나 윤리적 대우를 논하는 현상에 대해, 감정과 실제 경험을 혼동하고 있다는 우려가 제기되었습니다.",
+  "category": "참고",
+  "tags": [
+   "Claude",
+   "Anthropic",
+   "AI 윤리"
+  ]
+ },
+ {
+  "id": "55bd143ecebb2cdb",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcn9uw/new_official_weights_for_laguna_s_21_fp8_nvfp4/",
+  "source": "r/LocalLLaMA",
+  "title": "New official weights for Laguna S 2.1 FP8 & NVFP4 are now available",
+  "published_at": "2026-08-01T13:20:13+00:00",
+  "collected_at": "2026-08-01T13:46:51.790401+00:00",
+  "title_ko": "Poolside, Laguna S 2.1 FP8 및 NVFP4 공식 가중치 공개",
+  "summary_ko": "Poolside가 Laguna S 2.1 모델의 FP8 및 NVFP4 체크포인트를 업데이트하며 컨텍스트 크기를 100만 토큰으로 확장했습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "74d7266063754d9b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcn0w2/gemma4_31b_bf16_constantly_fails_to_edit_files/",
+  "source": "r/LocalLLaMA",
+  "title": "Gemma4 (31B, bf16) constantly fails to edit files due to mismatches in original text - just me?",
+  "published_at": "2026-08-01T13:09:33+00:00",
+  "collected_at": "2026-08-01T13:46:51.790401+00:00",
+  "title_ko": "로컬 실행용 Gemma4 31B의 파일 편집 오류 문제",
+  "summary_ko": "로컬에서 Gemma4 모델을 구동할 때 코드 편집 작업 중 들여쓰기 등 원본 텍스트 불일치로 인해 반복적으로 실패하는 현상이 보고되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "4a2006fa8544ac78",
+  "url": "https://www.reddit.com/r/singularity/comments/1vcmxsn/geminis_reaction_to_chatgpts_discoveries/",
+  "source": "r/singularity",
+  "title": "Gemini's reaction to ChatGPT's discoveries.",
+  "published_at": "2026-08-01T13:05:43+00:00",
+  "collected_at": "2026-08-01T13:47:04.449094+00:00",
+  "title_ko": "ChatGPT의 발견에 대한 Gemini의 반응",
+  "summary_ko": "Gemini 3.6 Flash 모델을 통해 ChatGPT의 새로운 발견과 기능에 대응하는 구글의 행보를 엿볼 수 있습니다.",
+  "category": "참고",
+  "tags": [
+   "Google",
+   "Gemini",
+   "GPT"
+  ]
+ },
+ {
+  "id": "7edd27daab3fa3c1",
+  "url": "https://www.reddit.com/r/singularity/comments/1vcmg36/agent_0_from_ai2027_is_here_its_called_astra/",
+  "source": "r/singularity",
+  "title": "Agent 0 from AI-2027 is here - it's called Astra.",
+  "published_at": "2026-08-01T12:44:05+00:00",
+  "collected_at": "2026-08-01T13:47:04.449094+00:00",
+  "title_ko": "OpenAI의 차세대 프론티어 모델 'Astra' 등장",
+  "summary_ko": "OpenAI가 소량의 연산 자원으로 개발한 차세대 내부 프론티어 모델 Astra가 공개되었으며, 장기 기억과 강화 학습 능력을 결합할 예정입니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트",
+   "GPT"
+  ]
+ },
+ {
   "id": "d85c2f1a53387165",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213434",
   "source": "AI타임스",
@@ -238,6 +316,21 @@
   "category": "참고",
   "tags": [
    "코딩"
+  ]
+ },
+ {
+  "id": "7d97bb54443e2a2f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vch2vl/qwen_36_27b_q5_on_3x2080ti_55tps_with_llamacpp/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen 3.6 27B Q5 on 3x2080ti: 55tps with llama.cpp. Can I squeeze out more?",
+  "published_at": "2026-08-01T07:52:10+00:00",
+  "collected_at": "2026-08-01T13:46:51.790401+00:00",
+  "title_ko": "다중 GPU 환경에서 Qwen 3.6 27B 추론 성능 최적화",
+  "summary_ko": "세 장의 2080ti GPU와 llama.cpp를 활용해 Qwen 3.6 27B 모델에서 초당 55토큰의 속도를 끌어낸 실무 설정 공유입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
   ]
  },
  {
