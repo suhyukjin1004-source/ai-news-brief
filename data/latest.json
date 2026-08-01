@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-01T06:38:03.118024+00:00",
+ "updated_at": "2026-08-01T09:13:46.978672+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -17,6 +17,22 @@
     "OpenAI",
     "ChatGPT",
     "보안"
+   ]
+  },
+  {
+   "id": "fddbcd0593b0263f",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213433",
+   "source": "AI타임스",
+   "title": "미니맥스, 텍스트·오디오 통합 멀티모달 영상 AI 'H3' 공개... \"오픈웨이트로 시댄스에 도전\"",
+   "published_at": "2026-08-01T17:54:51+00:00",
+   "collected_at": "2026-08-01T09:13:43.400966+00:00",
+   "title_ko": "미니맥스, 텍스트·오디오 통합 멀티모달 영상 AI 'H3' 공개",
+   "summary_ko": "미니맥스가 텍스트, 이미지, 영상, 오디오를 통합 처리하는 범용 멀티모달 생성 모델 'H3'를 공개하고 오픈웨이트 공개를 예고했습니다. 최상위권 벤치마크 성능으로 업계의 주목을 받고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "멀티모달",
+    "AI 에이전트"
    ]
   },
   {
@@ -158,6 +174,37 @@
    ]
   },
   {
+   "id": "664a3b8fc72d5100",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vchoua/deepseekv4flash0731_models_you_can_run_locally/",
+   "source": "r/LocalLLaMA",
+   "title": "DeepSeek-V4-Flash-0731: Models you can run locally now have the intelligence score of the top frontier model from March 2026",
+   "published_at": "2026-08-01T08:27:40+00:00",
+   "collected_at": "2026-08-01T09:13:30.219509+00:00",
+   "title_ko": "딥식, 로컬 실행 가능한 'DeepSeek-V4-Flash' 공개",
+   "summary_ko": "일반 하드웨어에서도 로컬 구동이 가능한 딥식의 새 모델이 과거 최고 수준의 프론티어 모델 성능에 근접한 성능을 보여주며 오픈소스 생태계에 충격을 주고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "DeepSeek",
+    "LLM"
+   ]
+  },
+  {
+   "id": "a00b12aea313a997",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vche00/weightaware_streaming_tensor_engine_run_kimi_k3/",
+   "source": "r/LocalLLaMA",
+   "title": "Weight-Aware Streaming Tensor Engine: run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+   "published_at": "2026-08-01T08:09:53+00:00",
+   "collected_at": "2026-08-01T09:13:30.219509+00:00",
+   "title_ko": "저사양에서 Kimi K3 구동하는 스트리밍 텐서 엔진 등장",
+   "summary_ko": "29GB의 RAM만으로 대형 모델인 Kimi K3를 로컬에서 구동할 수 있게 해주는 기술이 소개되었습니다. 실무 환경에서의 로컬 LLM 활용도를 높여줍니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
    "id": "25475716ab2512a7",
    "url": "https://microsoft.github.io/flint-chart/",
    "source": "Hacker News",
@@ -244,6 +291,21 @@
    "tags": [
     "AI 에이전트",
     "코딩"
+   ]
+  },
+  {
+   "id": "6d58997b466ca59f",
+   "url": "https://openai.com/index/ten-advances-in-mathematics",
+   "source": "OpenAI",
+   "title": "Ten advances in mathematics and theoretical computer science",
+   "published_at": "2026-08-01T00:00:00+00:00",
+   "collected_at": "2026-08-01T09:13:24.863054+00:00",
+   "title_ko": "OpenAI, 수학 및 이론 컴퓨터 과학 분야 10대 발전 성과 공유",
+   "summary_ko": "OpenAI가 기하학, 암호학, 복잡도 이론 등 오랜 미해결 난제들에 대한 새로운 연구 결과를 발표했습니다. AI의 추론 및 과학적 역량 확장을 보여줍니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "LLM"
    ]
   },
   {
@@ -2929,65 +2991,6 @@
    "category": "중요",
    "tags": [
     "규제"
-   ]
-  },
-  {
-   "id": "c7024dd73f9e74b2",
-   "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-   "source": "TechCrunch",
-   "title": "Okta buys AI security startup Permiso; source says for about $200M",
-   "published_at": "2026-07-30T16:09:42+00:00",
-   "collected_at": "2026-07-30T17:43:12.894276+00:00",
-   "title_ko": "옥타, AI 보안 스타트업 '퍼미소' 2억 달러에 인수",
-   "summary_ko": "아이덴티티 보안 기업 옥타가 클라우드 환경에서 AI 에이전트와 비인간 주체(Non-human ID)를 보호하기 위해 퍼미소를 인수했습니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "투자"
-   ]
-  },
-  {
-   "id": "4529951f5df23f53",
-   "url": "https://www.wsj.com/finance/citadel-buys-situational-awarenesss-stock-portfolio-after-big-losses-in-ai-5117159b",
-   "source": "Hacker News",
-   "title": "Citadel Buys Situational Awareness's Stock Portfolio After Big Losses in AI",
-   "published_at": "2026-07-30T16:00:33+00:00",
-   "collected_at": "2026-07-31T03:44:04.436327+00:00",
-   "title_ko": "시타델, AI 투자 손실 본 펀드 주식 포트폴리오 인수",
-   "summary_ko": "AI 관련 레버리지 투자로 큰 손실을 본 헤지펀드의 주식 포트폴리오를 시타델이 인수했습니다.",
-   "category": "중요",
-   "tags": [
-    "투자"
-   ]
-  },
-  {
-   "id": "c237787198925864",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213355",
-   "source": "AI타임스",
-   "title": "챗GPT·로블록스, EU 최고 수준 규제 받는다...이르면 8월 '특별 관리 대상' 지정",
-   "published_at": "2026-07-30T15:55:34+00:00",
-   "collected_at": "2026-07-30T07:40:13.940001+00:00",
-   "title_ko": "EU, 챗GPT·로블록스를 최고 수준 규제 대상으로 지정 추진",
-   "summary_ko": "유럽연합이 월간 활성 사용자 기준을 초과한 챗GPT와 로블록스를 디지털서비스법상 초대형 온라인 플랫폼으로 지정하여 규제를 강화할 예정입니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "규제"
-   ]
-  },
-  {
-   "id": "4ae4c972e9bcd11f",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213332",
-   "source": "AI타임스",
-   "title": "오픈AI, 학술 연구자에 '챗GPT' 패키지 무료 제공...국내 대학 17곳 포함",
-   "published_at": "2026-07-30T15:47:15+00:00",
-   "collected_at": "2026-07-30T07:40:13.940001+00:00",
-   "title_ko": "오픈AI, 학술 연구자에 챗GPT 고급 모델 무료 제공",
-   "summary_ko": "오픈AI가 과학 및 공학 분야 연구원들을 위해 첨단 모델과 도구를 1년간 무료로 이용할 수 있는 글로벌 프로그램을 시작합니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "GPT"
    ]
   }
  ]
