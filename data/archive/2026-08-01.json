@@ -1,5 +1,20 @@
 [
  {
+  "id": "2e21a86241aa1870",
+  "url": "https://news.hada.io/topic?id=32035",
+  "source": "GeekNews",
+  "title": "29GB RAM에서 Kimi K3를 0.50 tok/s로 실행하기",
+  "published_at": "2026-08-01T14:32:11+00:00",
+  "collected_at": "2026-08-01T15:10:50.112649+00:00",
+  "title_ko": "소비자용 노트북에서 Kimi K3 모델 실행하는 추론 엔진",
+  "summary_ko": "대규모 오픈 모델인 Kimi K3를 NVMe와 RAM을 활용해 일반 노트북 환경에서 구동할 수 있게 해주는 C 기반 추론 엔진이 소개되었습니다. 대형 모델의 로컬 실행 가능성을 넓혀준다는 점에서 의미가 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
   "id": "7d28a00c51e19b87",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213435",
   "source": "AI타임스",
@@ -94,6 +109,21 @@
   ]
  },
  {
+  "id": "5f7d5a0cd386389a",
+  "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
+  "source": "Hacker News",
+  "title": "Google kills Earth AI generator after one day",
+  "published_at": "2026-08-01T13:02:44+00:00",
+  "collected_at": "2026-08-01T15:10:34.471574+00:00",
+  "title_ko": "구글, 출시 하루 만에 Earth AI 생성기 중단",
+  "summary_ko": "구글이 새로 선보인 Earth AI 생성기 서비스를 단 하루 만에 종료했습니다. 구체적인 중단 사유와 향후 계획에 업계의 이목이 쏠리고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "AI"
+  ]
+ },
+ {
   "id": "7edd27daab3fa3c1",
   "url": "https://www.reddit.com/r/singularity/comments/1vcmg36/agent_0_from_ai2027_is_here_its_called_astra/",
   "source": "r/singularity",
@@ -122,6 +152,21 @@
   "tags": [
    "규제",
    "오픈소스"
+  ]
+ },
+ {
+  "id": "3076069e0975c3ae",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcl502/deepseekv4flash0731_oneshot_evals_surprisingly/",
+  "source": "r/LocalLLaMA",
+  "title": "DeepSeek-V4-Flash-0731: Oneshot evals, surprisingly not token efficient??",
+  "published_at": "2026-08-01T11:41:11+00:00",
+  "collected_at": "2026-08-01T15:10:35.604666+00:00",
+  "title_ko": "DeepSeek-V4-Flash 평가 결과 및 비용 효율성 논란",
+  "summary_ko": "새로 출시된 DeepSeek-V4-Flash 모델의 프롬프트 평가 결과, 토큰 효율성과 비용면에서 예상보다 아쉬운 성능을 보였다는 사용자 피드백이 공유되었습니다. 실무 모델 선택 시 참고할 수 있는 성능 비교 사례입니다.",
+  "category": "참고",
+  "tags": [
+   "DeepSeek",
+   "LLM"
   ]
  },
  {
