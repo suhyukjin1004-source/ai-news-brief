@@ -15,6 +15,66 @@
   ]
  },
  {
+  "id": "9ae4fd71d4e21bd9",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+  "source": "The Verge",
+  "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+  "published_at": "2026-08-02T19:36:08+00:00",
+  "collected_at": "2026-08-02T20:15:19.163815+00:00",
+  "title_ko": "펜더 CEO의 AI 및 음악 발언 논란",
+  "summary_ko": "펜더 CEO가 밴드 멤버를 '아날로그 AI'에 비유하는 발언을 해 논란이 되고 있습니다. AI 시대의 음악 창작과 인간의 역할에 대한 업계의 민감한 시각을 보여줍니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "음악"
+  ]
+ },
+ {
+  "id": "02b75043b4788567",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdrb0y/parlor_v2_besteffort_fully_local_gptlive_clone_on/",
+  "source": "r/LocalLLaMA",
+  "title": "Parlor v2: best-effort fully local GPT-Live clone on an M3 Pro",
+  "published_at": "2026-08-02T19:36:04+00:00",
+  "collected_at": "2026-08-02T20:16:13.601152+00:00",
+  "title_ko": "M3 Pro에서 구동되는 로컬 GPT-Live 클론 'Parlor v2'",
+  "summary_ko": "오픈소스 진영에서 M3 Pro 환경에서 완벽히 로컬로 실행되는 GPT-Live 복제 모델 개발 시도가 공유되었습니다. 고성능 AI 모델의 로컬 구동 가능성을 보여줍니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "a7284812892f6133",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdr1w3/try_handling_complex_tasks_to_your_local_models/",
+  "source": "r/LocalLLaMA",
+  "title": "Try handling complex tasks to your local models with GraphARC, graph engineering yes !",
+  "published_at": "2026-08-02T19:26:09+00:00",
+  "collected_at": "2026-08-02T20:16:13.601152+00:00",
+  "title_ko": "그래프 엔지니어링 기반 AI 에이전트 도구 'GraphARC'",
+  "summary_ko": "복잡한 AI 에이전트의 오케스트레이션과 의사결정 과정을 시각화하고 제어할 수 있는 오픈소스 도구가 공개되었습니다. 에이전트의 블랙박스 문제를 해결하는 데 도움을 줍니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "ff5500ce51553c88",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdqsod/deepseekv4flash0731_when_low_is_higher_than_high/",
+  "source": "r/LocalLLaMA",
+  "title": "DeepSeek-V4-Flash-0731: When Low is higher than High",
+  "published_at": "2026-08-02T19:16:08+00:00",
+  "collected_at": "2026-08-02T20:16:13.601152+00:00",
+  "title_ko": "DeepSeek-V4-Flash 추론 모드 성능 테스트 결과",
+  "summary_ko": "DeepSeek-V4-Flash-0731 모델의 추론 강도 모드별 성능과 오픈라우터 상의 버그 이슈가 공유되었습니다. 로컬 환경에서의 효율적인 모델 활용에 유용한 정보입니다.",
+  "category": "참고",
+  "tags": [
+   "DeepSeek",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "ce1bcf2a5d48276f",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213449",
   "source": "AI타임스",
@@ -27,6 +87,36 @@
   "tags": [
    "투자",
    "반도체"
+  ]
+ },
+ {
+  "id": "38d871c9a334a55d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdq8en/deepseekv4flash0731_surpasses_fable5_sol_kimik3/",
+  "source": "r/LocalLLaMA",
+  "title": "DeepSeek-V4-Flash-0731: surpasses Fable-5, Sol & Kimi-K3 on Chess Benchmark",
+  "published_at": "2026-08-02T18:54:26+00:00",
+  "collected_at": "2026-08-02T20:16:13.601152+00:00",
+  "title_ko": "체스 벤치마크서 우수한 성적 거둔 DeepSeek-V4-Flash",
+  "summary_ko": "DeepSeek-V4-Flash-0731 모델이 체스 벤치마크에서 Fable-5, Sol, Kimi-K3 등의 모델을 뛰어넘는 성능을 기록했습니다.",
+  "category": "참고",
+  "tags": [
+   "DeepSeek"
+  ]
+ },
+ {
+  "id": "3f8b7c82b2ef491d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdpe1k/dspark_benchmark_result_on_deepseek_v4_flash_0731/",
+  "source": "r/LocalLLaMA",
+  "title": "DSpark Benchmark Result on Deepseek v4 Flash 0731",
+  "published_at": "2026-08-02T18:21:49+00:00",
+  "collected_at": "2026-08-02T20:16:13.601152+00:00",
+  "title_ko": "DeepSeek-V4-Flash 벤치마크 성능을 높이는 DSpark 적용 결과",
+  "summary_ko": "NVIDIA GPU 환경에서 DeepSeek-V4-Flash 모델에 DSpark 드래프트 기술을 적용했을 때의 속도 향상 벤치마크 결과가 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "DeepSeek",
+   "NVIDIA",
+   "오픈소스"
   ]
  },
  {

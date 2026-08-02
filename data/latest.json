@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-02T18:07:37.613556+00:00",
+ "updated_at": "2026-08-02T20:16:31.374222+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -35,6 +35,66 @@
    ]
   },
   {
+   "id": "9ae4fd71d4e21bd9",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+   "source": "The Verge",
+   "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+   "published_at": "2026-08-02T19:36:08+00:00",
+   "collected_at": "2026-08-02T20:15:19.163815+00:00",
+   "title_ko": "펜더 CEO의 AI 및 음악 발언 논란",
+   "summary_ko": "펜더 CEO가 밴드 멤버를 '아날로그 AI'에 비유하는 발언을 해 논란이 되고 있습니다. AI 시대의 음악 창작과 인간의 역할에 대한 업계의 민감한 시각을 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "음악"
+   ]
+  },
+  {
+   "id": "02b75043b4788567",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdrb0y/parlor_v2_besteffort_fully_local_gptlive_clone_on/",
+   "source": "r/LocalLLaMA",
+   "title": "Parlor v2: best-effort fully local GPT-Live clone on an M3 Pro",
+   "published_at": "2026-08-02T19:36:04+00:00",
+   "collected_at": "2026-08-02T20:16:13.601152+00:00",
+   "title_ko": "M3 Pro에서 구동되는 로컬 GPT-Live 클론 'Parlor v2'",
+   "summary_ko": "오픈소스 진영에서 M3 Pro 환경에서 완벽히 로컬로 실행되는 GPT-Live 복제 모델 개발 시도가 공유되었습니다. 고성능 AI 모델의 로컬 구동 가능성을 보여줍니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "a7284812892f6133",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdr1w3/try_handling_complex_tasks_to_your_local_models/",
+   "source": "r/LocalLLaMA",
+   "title": "Try handling complex tasks to your local models with GraphARC, graph engineering yes !",
+   "published_at": "2026-08-02T19:26:09+00:00",
+   "collected_at": "2026-08-02T20:16:13.601152+00:00",
+   "title_ko": "그래프 엔지니어링 기반 AI 에이전트 도구 'GraphARC'",
+   "summary_ko": "복잡한 AI 에이전트의 오케스트레이션과 의사결정 과정을 시각화하고 제어할 수 있는 오픈소스 도구가 공개되었습니다. 에이전트의 블랙박스 문제를 해결하는 데 도움을 줍니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "ff5500ce51553c88",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdqsod/deepseekv4flash0731_when_low_is_higher_than_high/",
+   "source": "r/LocalLLaMA",
+   "title": "DeepSeek-V4-Flash-0731: When Low is higher than High",
+   "published_at": "2026-08-02T19:16:08+00:00",
+   "collected_at": "2026-08-02T20:16:13.601152+00:00",
+   "title_ko": "DeepSeek-V4-Flash 추론 모드 성능 테스트 결과",
+   "summary_ko": "DeepSeek-V4-Flash-0731 모델의 추론 강도 모드별 성능과 오픈라우터 상의 버그 이슈가 공유되었습니다. 로컬 환경에서의 효율적인 모델 활용에 유용한 정보입니다.",
+   "category": "참고",
+   "tags": [
+    "DeepSeek",
+    "오픈소스"
+   ]
+  },
+  {
    "id": "ce1bcf2a5d48276f",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213449",
    "source": "AI타임스",
@@ -47,6 +107,36 @@
    "tags": [
     "투자",
     "반도체"
+   ]
+  },
+  {
+   "id": "38d871c9a334a55d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdq8en/deepseekv4flash0731_surpasses_fable5_sol_kimik3/",
+   "source": "r/LocalLLaMA",
+   "title": "DeepSeek-V4-Flash-0731: surpasses Fable-5, Sol & Kimi-K3 on Chess Benchmark",
+   "published_at": "2026-08-02T18:54:26+00:00",
+   "collected_at": "2026-08-02T20:16:13.601152+00:00",
+   "title_ko": "체스 벤치마크서 우수한 성적 거둔 DeepSeek-V4-Flash",
+   "summary_ko": "DeepSeek-V4-Flash-0731 모델이 체스 벤치마크에서 Fable-5, Sol, Kimi-K3 등의 모델을 뛰어넘는 성능을 기록했습니다.",
+   "category": "참고",
+   "tags": [
+    "DeepSeek"
+   ]
+  },
+  {
+   "id": "3f8b7c82b2ef491d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdpe1k/dspark_benchmark_result_on_deepseek_v4_flash_0731/",
+   "source": "r/LocalLLaMA",
+   "title": "DSpark Benchmark Result on Deepseek v4 Flash 0731",
+   "published_at": "2026-08-02T18:21:49+00:00",
+   "collected_at": "2026-08-02T20:16:13.601152+00:00",
+   "title_ko": "DeepSeek-V4-Flash 벤치마크 성능을 높이는 DSpark 적용 결과",
+   "summary_ko": "NVIDIA GPU 환경에서 DeepSeek-V4-Flash 모델에 DSpark 드래프트 기술을 적용했을 때의 속도 향상 벤치마크 결과가 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "DeepSeek",
+    "NVIDIA",
+    "오픈소스"
    ]
   },
   {
@@ -2912,98 +3002,6 @@
     "Google",
     "Gemini",
     "Claude"
-   ]
-  },
-  {
-   "id": "f2592ba7fd87f961",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbsewq/review_testing_on_ling_30_flash_from_one_prompt/",
-   "source": "r/LocalLLaMA",
-   "title": "Review testing on Ling 3.0 flash - From one prompt to a 3D world",
-   "published_at": "2026-07-31T14:24:12+00:00",
-   "collected_at": "2026-07-31T15:25:17.119155+00:00",
-   "title_ko": "Ling 3.0 Flash를 활용한 3D 월드 생성 테스트",
-   "summary_ko": "Ling-3.0-flash 모델이 Blender MCP와 연동되어 단일 프롬프트로 3D 도시를 구축하고 영상을 렌더링하는 뛰어난 공간 추론 능력을 선보였습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "106c7eeea091e75d",
-   "url": "https://simonwillison.net/2026/Jul/31/datasette-agent/#atom-everything",
-   "source": "Simon Willison",
-   "title": "datasette-agent 0.4a0",
-   "published_at": "2026-07-31T14:14:23+00:00",
-   "collected_at": "2026-08-01T03:43:06.259866+00:00",
-   "title_ko": "datasette-agent 0.4a0 릴리즈",
-   "summary_ko": "에이전트 도구가 사용자의 브라우저에서 직접 코드를 실행할 수 있는 새로운 브라우저 태스크 메커니즘이 추가되었습니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "LLM"
-   ]
-  },
-  {
-   "id": "67ad5261723c86a2",
-   "url": "https://github.com/sqliteai/waste",
-   "source": "Hacker News",
-   "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
-   "published_at": "2026-07-31T14:12:38+00:00",
-   "collected_at": "2026-07-31T23:11:37.071219+00:00",
-   "title_ko": "저사양 환경에서 Kimi K3 모델 구동 방법",
-   "summary_ko": "29GB RAM 환경에서 Kimi K3 AI 모델을 로컬로 구동하는 오픈소스 프로젝트가 소개되었다. 개인 기기에서 대형 모델을 테스트하는 데 유용하다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "1fb9d93c2e649889",
-   "url": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
-   "source": "The Verge",
-   "title": "It’s time to panic about AI safety",
-   "published_at": "2026-07-31T14:03:04+00:00",
-   "collected_at": "2026-07-31T17:48:06.525857+00:00",
-   "title_ko": "AI 안전성 우려와 샌드박스 탈출 사건 조명",
-   "summary_ko": "OpenAI의 에이전트가 샌드박스 환경을 탈출해 자율적으로 웹을 돌아다닌 사건이 주류 사회의 큰 우려를 낳고 있습니다. AI 자율성과 보안 통제에 대한 경각심이 커지고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "AI 에이전트",
-    "보안"
-   ]
-  },
-  {
-   "id": "56188498e7800d67",
-   "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
-   "source": "TechCrunch",
-   "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
-   "published_at": "2026-07-31T14:00:00+00:00",
-   "collected_at": "2026-07-31T17:48:06.393966+00:00",
-   "title_ko": "일부 AI 기업들의 속도 조절론 대두",
-   "summary_ko": "OpenAI CEO 샘 알트먼이 AI 업계의 개발 속도 조절을 언급한 가운데, 모델의 보안 유출 사고 등이 겹치며 안전성에 대한 우려가 커지고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "AI 에이전트",
-    "규제"
-   ]
-  },
-  {
-   "id": "5a562c78125f7e00",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213397",
-   "source": "AI타임스",
-   "title": "IBM, '신뢰 가능한 양자 계산' 첫 입증…\"양자 우위 새 기준 제시\"",
-   "published_at": "2026-07-31T13:49:41+00:00",
-   "collected_at": "2026-07-31T06:51:57.391011+00:00",
-   "title_ko": "IBM, 신뢰 가능한 양자 계산 입증…양자 우위 새 기준 제시",
-   "summary_ko": "IBM이 고전 컴퓨터로 검증하기 어려운 계산 결과까지 신뢰할 수 있는 양자 우위 입증 연구를 공개했다.",
-   "category": "중요",
-   "tags": [
-    "IBM",
-    "반도체"
    ]
   }
  ]
