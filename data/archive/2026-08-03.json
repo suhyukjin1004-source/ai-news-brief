@@ -1,5 +1,92 @@
 [
  {
+  "id": "cca5b346775845e2",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vduej3/chinas_dfsx_offers_2x_the_memory_bandwidth_of/",
+  "source": "r/LocalLLaMA",
+  "title": "China’s DFSX Offers 2x The Memory Bandwidth Of NVIDIA’s GB200",
+  "published_at": "2026-08-02T21:39:15+00:00",
+  "collected_at": "2026-08-02T22:03:33.804448+00:00",
+  "title_ko": "중국 DFSX, 엔비디아 GB200 대비 2배 메모리 대역폭 제공",
+  "summary_ko": "중국의 DFSX가 엔비디아의 차세대 칩 GB200보다 2배 높은 메모리 대역폭을 제공한다고 발표했습니다. 이는 AI 하드웨어 및 반도체 시장 경쟁에 큰 영향을 미칠 수 있습니다.",
+  "category": "속보",
+  "tags": [
+   "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
+  "id": "d3dbdca28ee06a2b",
+  "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+  "source": "TechCrunch",
+  "title": "Sam Altman and AI’s decel debate",
+  "published_at": "2026-08-02T20:54:22+00:00",
+  "collected_at": "2026-08-02T22:03:24.406308+00:00",
+  "title_ko": "샘 올트먼과 AI 발전 속도 조절 논쟁",
+  "summary_ko": "샘 올트먼이 AI 개발 속도의 완급 조절을 주장한 배경과 업계 내에서의 논쟁을 다룹니다. AI 규제와 발전 방향에 대한 시각을 보여줍니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "규제"
+  ]
+ },
+ {
+  "id": "a5f01e5e38e3f3ca",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdt1i2/psa_llamaapp_mac_app_and_llama_serve_from_llamacpp/",
+  "source": "r/LocalLLaMA",
+  "title": "PSA: llama.app, Mac app and llama serve from llama.cpp",
+  "published_at": "2026-08-02T20:44:13+00:00",
+  "collected_at": "2026-08-02T22:03:33.804448+00:00",
+  "title_ko": "llama.cpp 공식 맥 앱 'llama.app' 출시",
+  "summary_ko": "Hugging Face와 llama.cpp 팀이 맥 사용자를 위한 공식 앱 'llama.app'을 선보였습니다. 로컬 LLM 사용성을 대폭 개선하여 접근성을 높였습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "ef11a131c1eb4bfa",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdssj7/httpshuggingfacecopoolsidelagunas21nvfp4/",
+  "source": "r/LocalLLaMA",
+  "title": "https://huggingface.co/poolside/Laguna-S-2.1-NVFP4",
+  "published_at": "2026-08-02T20:34:09+00:00",
+  "collected_at": "2026-08-02T22:03:33.804448+00:00",
+  "title_ko": "Poolside, Laguna-S-2.1-NVFP4 모델 업데이트 공개",
+  "summary_ko": "Poolside에서 가중치가 변경된 새로운 Laguna-S-2.1-NVFP4 모델 체크포인트를 공개했습니다. 이전 버전 사용자들은 재다운로드가 필요합니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "45bc157c82dd5691",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdsmnk/deepseek_v4_iq3xxs_on_m1_ultra_128gb_16_toks_in/",
+  "source": "r/LocalLLaMA",
+  "title": "DeepSeek V4 @ IQ3XXS on M1 Ultra 128GB- 16 tok/s in LM Studio after patch",
+  "published_at": "2026-08-02T20:27:40+00:00",
+  "collected_at": "2026-08-02T22:03:33.804448+00:00",
+  "title_ko": "M1 Ultra에서 패치 후 DeepSeek V4 구동 속도 향상",
+  "summary_ko": "맥스튜디오 M1 Ultra 환경에서 패치 적용 후 DeepSeek V4 모델의 토큰 생성 속도가 초당 16개로 크게 향상되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "a5105b2590090561",
+  "url": "https://frogs.vaguespac.es/",
+  "source": "Hacker News",
+  "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+  "published_at": "2026-08-02T19:42:08+00:00",
+  "collected_at": "2026-08-02T22:03:32.728772+00:00",
+  "title_ko": "독특한 프롬프트를 활용한 개인 AI 벤치마크",
+  "summary_ko": "독특하고 까다로운 SVG 생성 프롬프트를 통해 LLM의 성능을 테스트하는 개인 벤치마크 방식이 소개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "d9bf0a896d8d38ac",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213450",
   "source": "AI타임스",
