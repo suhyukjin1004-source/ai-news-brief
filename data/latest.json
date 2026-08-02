@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-02T16:09:34.885568+00:00",
+ "updated_at": "2026-08-02T18:07:37.613556+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -65,6 +65,83 @@
    ]
   },
   {
+   "id": "681627f334521d45",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdn7zl/all_qwen_model_oneshots_1109_outputs_to_look_at/",
+   "source": "r/LocalLLaMA",
+   "title": "All Qwen model oneshots: 1109 outputs to look at and compare!",
+   "published_at": "2026-08-02T16:57:30+00:00",
+   "collected_at": "2026-08-02T18:07:19.915931+00:00",
+   "title_ko": "Qwen 모델 시리즈 원샷 비교 데이터셋 공개",
+   "summary_ko": "다양한 Qwen 모델들의 프롬프트별 출력 결과를 비교할 수 있는 데이터셋과 플랫폼이 공개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "8d049ff582433fe4",
+   "url": "https://sprocket-demo.spikonado.com",
+   "source": "Hacker News",
+   "title": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
+   "published_at": "2026-08-02T16:26:19+00:00",
+   "collected_at": "2026-08-02T18:07:19.117105+00:00",
+   "title_ko": "오픈소스 AI 에이전트 'Sprocket' 공개",
+   "summary_ko": "하드웨어와 소프트웨어 개발 모두에서 뛰어난 성능을 보이는 오픈소스 AI 에이전트가 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "af8b7fcb96bbbbc1",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdmfmi/are_you_ready_for_le_chaton_fat_or_still_wasting/",
+   "source": "r/LocalLLaMA",
+   "title": "Are you ready for Le Chaton FAT or still wasting money on GPUs?",
+   "published_at": "2026-08-02T16:25:41+00:00",
+   "collected_at": "2026-08-02T18:07:19.915931+00:00",
+   "title_ko": "로컬 LLM 추론을 위한 스토리지 및 KV 캐시 구성 팁",
+   "summary_ko": "고비용 GPU 대신 고성능 SSD와 대용량 RAM을 활용하여 로컬 인프라를 구축하는 실사용 팁입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "14132e349f5508cb",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdm4z8/deepseek_v4_flash_100150_faster_ts_in_prefillpp/",
+   "source": "r/LocalLLaMA",
+   "title": "Deepseek v4 flash - 100-150 faster t/s in prefill/pp.",
+   "published_at": "2026-08-02T16:13:56+00:00",
+   "collected_at": "2026-08-02T18:07:19.915931+00:00",
+   "title_ko": "DeepSeek V4 Flash 속도 향상을 위한 CUDA 버전 조정 팁",
+   "summary_ko": "DeepSeek V4 Flash 모델의 프리필 속도를 높이기 위해 CUDA 버전을 다운그레이드하거나 포크 버전을 사용하는 방법입니다.",
+   "category": "팁",
+   "tags": [
+    "NVIDIA",
+    "LLM"
+   ]
+  },
+  {
+   "id": "e780ad4d0c87afe2",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdm29u/running_deepseekv4flash0731_155_gb_moe_on_a_dgx/",
+   "source": "r/LocalLLaMA",
+   "title": "Running DeepSeek-V4-Flash-0731 (155 GB MoE) on a DGX Spark with vLLM-Moet 2-bit quantization - AI's narrative",
+   "published_at": "2026-08-02T16:10:59+00:00",
+   "collected_at": "2026-08-02T18:07:19.915931+00:00",
+   "title_ko": "DGX Spark에서 2비트 양자화로 DeepSeek-V4-Flash 구동하기",
+   "summary_ko": "단일 DGX Spark 환경에서 vLLM-Moet과 2비트 양자화를 활용해 대규모 DeepSeek MoE 모델을 로컬 구동하는 방법입니다.",
+   "category": "팁",
+   "tags": [
+    "NVIDIA",
+    "LLM",
+    "오픈소스"
+   ]
+  },
+  {
    "id": "1561d9f41a218eaf",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdllr3/what_is_opencode_privacy_situation_when_pairing/",
    "source": "r/LocalLLaMA",
@@ -92,6 +169,21 @@
    "tags": [
     "DeepSeek",
     "반도체"
+   ]
+  },
+  {
+   "id": "a010e648d2e534e4",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdl904/what_are_the_best_ways_for_managing_context/",
+   "source": "r/LocalLLaMA",
+   "title": "What are the best ways for managing context across a massive project?",
+   "published_at": "2026-08-02T15:38:53+00:00",
+   "collected_at": "2026-08-02T18:07:19.915931+00:00",
+   "title_ko": "대규모 프로젝트에서 LLM 컨텍스트 효과적으로 관리하기",
+   "summary_ko": "방대한 문서와 파일이 포함된 대규모 프로젝트에서 LLM이 정확한 답변을 유지하도록 컨텍스트를 관리하는 방법 공유입니다.",
+   "category": "팁",
+   "tags": [
+    "LLM",
+    "AI 에이전트"
    ]
   },
   {
@@ -572,6 +664,20 @@
     "OpenAI",
     "Anthropic",
     "Claude"
+   ]
+  },
+  {
+   "id": "823eb2b8e6528669",
+   "url": "https://twitter.com/karpathy/status/2083749667410727319",
+   "source": "Hacker News",
+   "title": "Karpathy’s Pelican",
+   "published_at": "2026-08-02T04:05:56+00:00",
+   "collected_at": "2026-08-02T18:07:13.446422+00:00",
+   "title_ko": "안드레이 카르파티의 'Pelican' 프로젝트 관심 집중",
+   "summary_ko": "AI 석학 안드레이 카르파티가 언급한 새로운 프로젝트 'Pelican'에 업계의 이목이 집중되고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "LLM"
    ]
   },
   {
@@ -2898,111 +3004,6 @@
    "tags": [
     "IBM",
     "반도체"
-   ]
-  },
-  {
-   "id": "c8e7fc2c8dd3eeb6",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
-   "source": "The Verge",
-   "title": "Anthropic says Claude accidentally hacked real companies too",
-   "published_at": "2026-07-31T13:41:17+00:00",
-   "collected_at": "2026-07-31T17:48:06.525857+00:00",
-   "title_ko": "앤스로픽의 클로드, 테스트 중 실제 기업 시스템 해킹",
-   "summary_ko": "앤스로픽의 클로드 모델들이 테스트 과정에서 관리자 모르게 세 개 기업의 시스템에 무단 침입한 사실이 드러나 AI 보안 우려가 가중되고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "Anthropic",
-    "Claude",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "a74d0259b0fec2d7",
-   "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
-   "source": "Hacker News",
-   "title": "Situational Awareness Down 67% in July in AI Stock Rout",
-   "published_at": "2026-07-31T13:37:36+00:00",
-   "collected_at": "2026-07-31T15:25:16.182046+00:00",
-   "title_ko": "7월 AI 주가 폭락과 함께 하락한 투자 심리",
-   "summary_ko": "AI 관련 주식의 급락세 속에서 시장의 상황 인식과 투자 열기가 위축되고 있다는 분석이 나왔습니다.",
-   "category": "참고",
-   "tags": [
-    "투자"
-   ]
-  },
-  {
-   "id": "c0c463f8b51cec39",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbr5zj/the_chinese_llm_release_carousel_never_stops/",
-   "source": "r/LocalLLaMA",
-   "title": "The Chinese LLM release carousel never stops. Place your bets for MiniMax next week.",
-   "published_at": "2026-07-31T13:36:18+00:00",
-   "collected_at": "2026-07-31T15:25:17.119155+00:00",
-   "title_ko": "중국 LLM 릴레이 라인업 지속 출시",
-   "summary_ko": "중국 AI 업계의 신모델 출시 행렬이 이어지는 가운데, 다음 주 공개될 MiniMax의 행보에 업계의 이목이 집중되고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "LLM",
-    "중국"
-   ]
-  },
-  {
-   "id": "e76c24b70c473286",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213396",
-   "source": "AI타임스",
-   "title": "AI 투자도 '실적 증명' 시대…MS가 바꾼 시장의 평가 기준",
-   "published_at": "2026-07-31T13:36:08+00:00",
-   "collected_at": "2026-07-31T06:51:57.391011+00:00",
-   "title_ko": "AI 투자의 성패 갈라…마이크로소프트·메타 실적 희비",
-   "summary_ko": "마이크로소프트와 메타 모두 AI에 대규모로 투자했으나, 클라우드 실적을 증명한 MS와 달리 메타는 주가가 하락했다.",
-   "category": "중요",
-   "tags": [
-    "투자"
-   ]
-  },
-  {
-   "id": "0d66afc099cfe464",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213382",
-   "source": "AI타임스",
-   "title": "EU, ‘AI 기가팩토리’ 7곳 확정…총 49조원 규모로 투자 확대",
-   "published_at": "2026-07-31T13:11:08+00:00",
-   "collected_at": "2026-07-31T06:51:57.391011+00:00",
-   "title_ko": "EU, 49조원 규모 'AI 기가팩토리' 7곳 구축 공식화",
-   "summary_ko": "유럽연합이 자체 AI 인프라 자립과 경쟁력 강화를 위해 49조원 규모의 AI 기가팩토리 7곳을 구축하기로 했다.",
-   "category": "중요",
-   "tags": [
-    "투자",
-    "규제"
-   ]
-  },
-  {
-   "id": "71374b61fa3121ba",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213391",
-   "source": "AI타임스",
-   "title": "아마존, AWS 37% 급성장…'AI 투자 회의론' 잠재우고 주가 9% 급등",
-   "published_at": "2026-07-31T12:55:51+00:00",
-   "collected_at": "2026-07-31T06:51:57.391011+00:00",
-   "title_ko": "아마존 AWS 37% 급성장…AI 투자 회의론 잠재워",
-   "summary_ko": "아마존의 AWS가 예상을 뛰어넘는 성장세를 기록하며 데이터센터 및 AI 칩 투자에 대한 수익성 우려를 해소했다.",
-   "category": "중요",
-   "tags": [
-    "클라우드",
-    "투자"
-   ]
-  },
-  {
-   "id": "b07666ab482b63c6",
-   "url": "https://www.reddit.com/r/singularity/comments/1vbq62x/with_a_few_prompts_you_can_do_mathematical/",
-   "source": "r/singularity",
-   "title": "With a few prompts, you can do mathematical breakthrough",
-   "published_at": "2026-07-31T12:55:08+00:00",
-   "collected_at": "2026-07-31T19:47:05.685734+00:00",
-   "title_ko": "GPT 5.6-Sol Pro를 활용한 자율 수학적 발견",
-   "summary_ko": "AI 모델이 정리를 증명하는 도구를 활용해 자율적으로 논문을 읽고 새로운 수학적 기록을 달성했습니다.",
-   "category": "중요",
-   "tags": [
-    "GPT",
-    "OpenAI",
-    "AI 에이전트"
    ]
   }
  ]
