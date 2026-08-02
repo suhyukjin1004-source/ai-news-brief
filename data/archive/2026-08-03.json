@@ -1,5 +1,21 @@
 [
  {
+  "id": "cf3fc90edbd9e67e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vduxth/you_really_should_not_quantize_kv_cache_for/",
+  "source": "r/LocalLLaMA",
+  "title": "You really should not quantize KV Cache for DeepSeek V4 Flash",
+  "published_at": "2026-08-02T22:01:32+00:00",
+  "collected_at": "2026-08-02T23:06:17.734440+00:00",
+  "title_ko": "딥식 V4 플래시 KV 캐시 양자화의 품질 저하 분석",
+  "summary_ko": "딥식 V4 플래시 모델에서 KV 캐시를 Q8로 양자화할 경우 퍼플렉서티 등 모델 성능에 유의미한 악영향을 미치는 것으로 나타나 양자화 지양을 권장합니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "양자화"
+  ]
+ },
+ {
   "id": "cca5b346775845e2",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vduej3/chinas_dfsx_offers_2x_the_memory_bandwidth_of/",
   "source": "r/LocalLLaMA",
@@ -55,6 +71,22 @@
   "summary_ko": "Poolside에서 가중치가 변경된 새로운 Laguna-S-2.1-NVFP4 모델 체크포인트를 공개했습니다. 이전 버전 사용자들은 재다운로드가 필요합니다.",
   "category": "속보",
   "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "c800cc777c36d55d",
+  "url": "https://news.hada.io/topic?id=32070",
+  "source": "GeekNews",
+  "title": "Karpathy의 펠리컨",
+  "published_at": "2026-08-02T20:31:26+00:00",
+  "collected_at": "2026-08-02T23:06:31.917872+00:00",
+  "title_ko": "LLM 평가 방식의 패러다임 전환",
+  "summary_ko": "안드레이 카파시가 지적했듯, LLM 평가는 단순한 단일 결과물 생성을 넘어 장시간에 걸쳐 상호작용하는 복잡한 작업 수행 능력을 검증하는 방향으로 진화하고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "LLM",
    "오픈소스"
   ]
  },
