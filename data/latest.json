@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-02T12:11:10.960435+00:00",
+ "updated_at": "2026-08-02T14:42:02.119150+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -65,6 +65,50 @@
    ]
   },
   {
+   "id": "1fc2b4ffef2ebde4",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+   "source": "The Verge",
+   "title": "Is paying artists enough to convince them to embrace AI?",
+   "published_at": "2026-08-02T13:00:00+00:00",
+   "collected_at": "2026-08-02T14:41:24.426700+00:00",
+   "title_ko": "생성형 AI와 아티스트 보상 논란",
+   "summary_ko": "생성형 AI 기업들의 무단 학습에 반발하는 아티스트들을 위한 보상 정책이 기술 수용을 이끌어낼 수 있을지에 대한 논쟁이다. 저작권 문제와 법적 분쟁이 지속되는 상황에서 중요하게 다뤄지는 이슈다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트",
+    "규제"
+   ]
+  },
+  {
+   "id": "64893142a0477d0f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdhgq9/llamacpp_just_added_mtp_dspark_support_for/",
+   "source": "r/LocalLLaMA",
+   "title": "llama.cpp just added MTP / DSpark support for DeepSeek V4 Flash",
+   "published_at": "2026-08-02T12:58:52+00:00",
+   "collected_at": "2026-08-02T14:41:43.295421+00:00",
+   "title_ko": "llama.cpp, DeepSeek V4 Flash용 MTP·DSpark 지원 추가",
+   "summary_ko": "llama.cpp에 DeepSeek V4 Flash 모델을 위한 MTP 및 DSpark 지원 기능이 추가되었다. 로컬 환경에서 최신 고성능 모델을 구동하는 사용자들에게 중요한 업데이트다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "DeepSeek"
+   ]
+  },
+  {
+   "id": "9af14a6a282db9d2",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdh1us/vacuum_16t/",
+   "source": "r/LocalLLaMA",
+   "title": "Vacuum 16T",
+   "published_at": "2026-08-02T12:39:00+00:00",
+   "collected_at": "2026-08-02T14:41:43.295421+00:00",
+   "title_ko": "16.5조 파라미터의 허구 모델 'Vacuum 16T' 등장",
+   "summary_ko": "허깅페이스의 파라미터 계산 방식을 허를 찔러 데이터 없이 16.5조 파라미터로 인식되도록 만든 장난스런 모델이 공개되었다. 대형 모델 경쟁에 대한 개발자 커뮤니티의 풍자를 보여준다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
    "id": "f034b4c8044b1e44",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213447",
    "source": "AI타임스",
@@ -78,6 +122,20 @@
     "Google",
     "Gemini",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "a1daf846a92c6f34",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdg4t8/single_system_with_dual_cards_or_two_systems_with/",
+   "source": "r/LocalLLaMA",
+   "title": "Single system with dual cards or two systems with single cards?",
+   "published_at": "2026-08-02T11:54:25+00:00",
+   "collected_at": "2026-08-02T14:41:43.295421+00:00",
+   "title_ko": "로컬 LLM 추론을 위한 하드웨어 구성 고민",
+   "summary_ko": "단일 시스템 듀얼 카드와 이원화된 시스템 중 로컬 LLM 추론에 더 적합한 구성을 찾는 개발자의 하드웨어 고민이다. VRAM 용량과 효율적인 추론 환경 구축을 위해 참고할 만한 논의다.",
+   "category": "팁",
+   "tags": [
+    "반도체"
    ]
   },
   {
@@ -2945,66 +3003,6 @@
    "tags": [
     "OpenAI",
     "GPT",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "120e8b4e8b5dc9eb",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbpi44/rule_suggestion_open_models_without_weight/",
-   "source": "r/LocalLLaMA",
-   "title": "Rule Suggestion: \"Open\" models without weight releases should be tagged [no weights]",
-   "published_at": "2026-07-31T12:25:56+00:00",
-   "collected_at": "2026-07-31T15:25:17.119155+00:00",
-   "title_ko": "로컬 LLM 커뮤니티의 '가중치 미공개 모델' 태그 도입 제안",
-   "summary_ko": "가중치 공개를 약속만 하고 실제로는 제공하지 않는 모델들에 대해 커뮤니티 차원에서 명확한 태그 구분을 요구하는 목소리가 커지고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "126ebd67f2fa7686",
-   "url": "https://www.reddit.com/r/singularity/comments/1vbphpz/weights_of_deepseek_v4_flash_0731_have_been/",
-   "source": "r/singularity",
-   "title": "Weights of Deepseek v4 flash 0731 have been released!!!",
-   "published_at": "2026-07-31T12:25:26+00:00",
-   "collected_at": "2026-07-31T19:47:05.685734+00:00",
-   "title_ko": "DeepSeek V4 Flash 0731 모델 가중치 전격 공개",
-   "summary_ko": "많은 관심을 모았던 DeepSeek V4 Flash의 공식 모델 가중치가 드디어 배포되었습니다.",
-   "category": "속보",
-   "tags": [
-    "DeepSeek",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "e7568301b8c3c764",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbp8te/i_ported_turbofieldfare_to_qwen_36_35b_and_it/",
-   "source": "r/LocalLLaMA",
-   "title": "I ported TurboFieldfare to Qwen 3.6 35B and it runs in 1.4 GB of RAM",
-   "published_at": "2026-07-31T12:14:10+00:00",
-   "collected_at": "2026-07-31T15:25:17.119155+00:00",
-   "title_ko": "Qwen 3.6 35B 모델을 위한 저사양 램 구동 엔진 포팅",
-   "summary_ko": "SSD 스트리밍 방식을 활용해 Qwen 3.6 35B 모델을极단적인 저용량 RAM 환경에서 구동하는 포팅 사례가 공유되었습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "c69e989e4b6cae99",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbp7kb/deepseekaideepseekv4flash0731_on_huggingface/",
-   "source": "r/LocalLLaMA",
-   "title": "deepseek-ai/DeepSeek-V4-Flash-0731 on Huggingface",
-   "published_at": "2026-07-31T12:12:35+00:00",
-   "collected_at": "2026-07-31T15:25:17.119155+00:00",
-   "title_ko": "허깅페이스에 DeepSeek-V4-Flash-0731 공개",
-   "summary_ko": "DeepSeek의 최신 모델인 V4-Flash 영문 가중치 버전이 허깅페이스에 공식 등록되었습니다.",
-   "category": "속보",
-   "tags": [
-    "DeepSeek",
     "오픈소스"
    ]
   }

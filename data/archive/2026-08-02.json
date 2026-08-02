@@ -1,5 +1,49 @@
 [
  {
+  "id": "1fc2b4ffef2ebde4",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+  "source": "The Verge",
+  "title": "Is paying artists enough to convince them to embrace AI?",
+  "published_at": "2026-08-02T13:00:00+00:00",
+  "collected_at": "2026-08-02T14:41:24.426700+00:00",
+  "title_ko": "생성형 AI와 아티스트 보상 논란",
+  "summary_ko": "생성형 AI 기업들의 무단 학습에 반발하는 아티스트들을 위한 보상 정책이 기술 수용을 이끌어낼 수 있을지에 대한 논쟁이다. 저작권 문제와 법적 분쟁이 지속되는 상황에서 중요하게 다뤄지는 이슈다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트",
+   "규제"
+  ]
+ },
+ {
+  "id": "64893142a0477d0f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdhgq9/llamacpp_just_added_mtp_dspark_support_for/",
+  "source": "r/LocalLLaMA",
+  "title": "llama.cpp just added MTP / DSpark support for DeepSeek V4 Flash",
+  "published_at": "2026-08-02T12:58:52+00:00",
+  "collected_at": "2026-08-02T14:41:43.295421+00:00",
+  "title_ko": "llama.cpp, DeepSeek V4 Flash용 MTP·DSpark 지원 추가",
+  "summary_ko": "llama.cpp에 DeepSeek V4 Flash 모델을 위한 MTP 및 DSpark 지원 기능이 추가되었다. 로컬 환경에서 최신 고성능 모델을 구동하는 사용자들에게 중요한 업데이트다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "DeepSeek"
+  ]
+ },
+ {
+  "id": "9af14a6a282db9d2",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdh1us/vacuum_16t/",
+  "source": "r/LocalLLaMA",
+  "title": "Vacuum 16T",
+  "published_at": "2026-08-02T12:39:00+00:00",
+  "collected_at": "2026-08-02T14:41:43.295421+00:00",
+  "title_ko": "16.5조 파라미터의 허구 모델 'Vacuum 16T' 등장",
+  "summary_ko": "허깅페이스의 파라미터 계산 방식을 허를 찔러 데이터 없이 16.5조 파라미터로 인식되도록 만든 장난스런 모델이 공개되었다. 대형 모델 경쟁에 대한 개발자 커뮤니티의 풍자를 보여준다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "f034b4c8044b1e44",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213447",
   "source": "AI타임스",
@@ -13,6 +57,20 @@
    "Google",
    "Gemini",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "a1daf846a92c6f34",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdg4t8/single_system_with_dual_cards_or_two_systems_with/",
+  "source": "r/LocalLLaMA",
+  "title": "Single system with dual cards or two systems with single cards?",
+  "published_at": "2026-08-02T11:54:25+00:00",
+  "collected_at": "2026-08-02T14:41:43.295421+00:00",
+  "title_ko": "로컬 LLM 추론을 위한 하드웨어 구성 고민",
+  "summary_ko": "단일 시스템 듀얼 카드와 이원화된 시스템 중 로컬 LLM 추론에 더 적합한 구성을 찾는 개발자의 하드웨어 고민이다. VRAM 용량과 효율적인 추론 환경 구축을 위해 참고할 만한 논의다.",
+  "category": "팁",
+  "tags": [
+   "반도체"
   ]
  },
  {
