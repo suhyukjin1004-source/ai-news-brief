@@ -108,6 +108,51 @@
   ]
  },
  {
+  "id": "5ac1c296f1ca4971",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdd795/xberg_v1_is_out/",
+  "source": "r/LocalLLaMA",
+  "title": "Xberg v1 is out",
+  "published_at": "2026-08-02T09:06:51+00:00",
+  "collected_at": "2026-08-02T10:05:38.042407+00:00",
+  "title_ko": "차세대 콘텐츠 인텔리전스 프레임워크 'Xberg v1' 출시",
+  "summary_ko": "다양한 문서, 코드, 멀티미디어 입력을 고성능으로 처리하고 추출하는 프레임워크 Xberg v1이 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "161e6c2b21d7e373",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdcs8e/release_wintermix_qwen35122ba10b_in_native_mlx_an/",
+  "source": "r/LocalLLaMA",
+  "title": "[Release] WinterMix — Qwen3.5-122B-A10B in native MLX: an 82 GiB build that beats 94–95 GiB quants, plus a 68 GiB build for agent swarms",
+  "published_at": "2026-08-02T08:42:03+00:00",
+  "collected_at": "2026-08-02T10:05:38.042407+00:00",
+  "title_ko": "애플 실리콘용 Qwen3.5 양자화 모델 'WinterMix' 공개",
+  "summary_ko": "맥북에서 뛰어난 성능과 속도를 발휘하는 새로운 MLX 양자화 방식의 대형 언어 모델이 출시되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "모델명"
+  ]
+ },
+ {
+  "id": "bd8e08535e65a027",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdcgpm/setting_up_of_a_16xgb10_dgx_spark_cluster/",
+  "source": "r/LocalLLaMA",
+  "title": "Setting up of a 16xGB10 (DGX Spark) cluster",
+  "published_at": "2026-08-02T08:22:40+00:00",
+  "collected_at": "2026-08-02T10:05:38.042407+00:00",
+  "title_ko": "로컬 프론티어 모델 구동을 위한 16xGB10 클러스터 구축",
+  "summary_ko": "차세대 대형 오픈소스 모델을 로컬 환경에서 직접 구동하기 위한 고성능 하드웨어 클러스터 세팅 사례가 공유되었습니다.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "58e607a8739c4489",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdbix4/deepseekv4flash_284b_on_53gb_of_memory/",
   "source": "r/LocalLLaMA",
@@ -139,6 +184,21 @@
   ]
  },
  {
+  "id": "01eea10ed932b2ef",
+  "url": "https://news.hada.io/topic?id=32056",
+  "source": "GeekNews",
+  "title": "wiff",
+  "published_at": "2026-08-02T07:01:00+00:00",
+  "collected_at": "2026-08-02T10:05:52.259298+00:00",
+  "title_ko": "TUI와 AI 에이전트를 지원하는 코드 리뷰 도구 'wiff'",
+  "summary_ko": "터미널에서 diff를 시각적으로 탐색하고 주석을 남기며 AI 에이전트와 연동할 수 있는 새로운 개발 툴입니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
   "id": "1b33cf8dc938f466",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdb1n1/realworld_reality_check_on_qwen_for_autonomous/",
   "source": "r/LocalLLaMA",
@@ -151,6 +211,35 @@
   "tags": [
    "AI 에이전트",
    "코딩",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "9d3320da110149dd",
+  "url": "https://news.hada.io/topic?id=32055",
+  "source": "GeekNews",
+  "title": "질문을 제대로 하면 AI 금융 조언은 놀라울 정도로 좋아짐",
+  "published_at": "2026-08-02T06:38:36+00:00",
+  "collected_at": "2026-08-02T10:05:52.259298+00:00",
+  "title_ko": "구체적인 프롬프트가 이끌어내는 효과적인 AI 금융 조언",
+  "summary_ko": "시뮬레이션 결과 사용자가 적절한 질문을 던질 때 LLM이 저축과 자산 관리에 실질적인 도움을 주는 것으로 나타났습니다.",
+  "category": "참고",
+  "tags": [
+   "LLM"
+  ]
+ },
+ {
+  "id": "d513d533c4870608",
+  "url": "https://news.hada.io/topic?id=32054",
+  "source": "GeekNews",
+  "title": "Seedance 2.5 — 30초 원테이크 생성과 유연한 참조",
+  "published_at": "2026-08-02T06:35:36+00:00",
+  "collected_at": "2026-08-02T10:05:52.259298+00:00",
+  "title_ko": "바이트댄스, 30초 원테이크 영상 생성 모델 'Seedance 2.5' 출시",
+  "summary_ko": "음성과 영상을 최대 30초까지 한 번에 생성하고 일관성을 유지하며 확장할 수 있는 차세대 영상 모델이 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "영상 생성",
    "오픈소스"
   ]
  },
@@ -830,6 +919,20 @@
   "category": "참고",
   "tags": [
    "코딩"
+  ]
+ },
+ {
+  "id": "ea1739cb736f5e29",
+  "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
+  "source": "Hacker News",
+  "title": "Explorative modeling: Train on the best of K guesses",
+  "published_at": "2026-08-01T15:23:15+00:00",
+  "collected_at": "2026-08-02T10:05:28.447766+00:00",
+  "title_ko": "최적의 추론을 학습하는 탐색적 모델링 기법",
+  "summary_ko": "여러 후보 추론 중 가장 우수한 결과를 바탕으로 모델을 학습시키는 탐색적 모델링 방법론이 소개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "머신러닝"
   ]
  },
  {
