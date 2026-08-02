@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-02T04:32:34.799929+00:00",
+ "updated_at": "2026-08-02T07:37:59.590056+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -128,6 +128,99 @@
    ]
   },
   {
+   "id": "58e607a8739c4489",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdbix4/deepseekv4flash_284b_on_53gb_of_memory/",
+   "source": "r/LocalLLaMA",
+   "title": "DeepSeek-V4-Flash 284B on 5.3GB of memory",
+   "published_at": "2026-08-02T07:28:04+00:00",
+   "collected_at": "2026-08-02T07:37:41.938526+00:00",
+   "title_ko": "저사양 환경에서 구동하는 DeepSeek-V4-Flash 284B",
+   "summary_ko": "MoE 모델의 전문가 레이어를 SSD에서 스트리밍하는 방식으로, 저사양 하드웨어에서 대형 모델을 구동하는 최적화 기법이 소개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트",
+    "DeepSeek"
+   ]
+  },
+  {
+   "id": "d19b5779fb36ffcd",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdbgw5/psa_for_deepseekv4flash0731_users_dont_blow_out/",
+   "source": "r/LocalLLaMA",
+   "title": "PSA for DeepSeek-V4-Flash-0731 users — don't blow out your prompt cache with system role messages mid-conversation",
+   "published_at": "2026-08-02T07:24:49+00:00",
+   "collected_at": "2026-08-02T07:37:41.938526+00:00",
+   "title_ko": "DeepSeek-V4-Flash-0731 프롬프트 캐시 주의사항",
+   "summary_ko": "대화 중간에 시스템 메시지를 넣으면 프롬프트 캐시가 손상될 수 있어, 올바른 역할 설정 방식을 사용하는 것이 중요합니다.",
+   "category": "팁",
+   "tags": [
+    "DeepSeek",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "1b33cf8dc938f466",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdb1n1/realworld_reality_check_on_qwen_for_autonomous/",
+   "source": "r/LocalLLaMA",
+   "title": "Real-world reality check on Qwen for autonomous coding agents",
+   "published_at": "2026-08-02T07:00:41+00:00",
+   "collected_at": "2026-08-02T07:37:41.938526+00:00",
+   "title_ko": "자율 코딩 에이전트에서 Qwen 모델 활용 한계 분석",
+   "summary_ko": "로컬 환경에서 인기를 끌고 있는 Qwen 모델을 자율 코딩 에이전트에 적용했을 때 나타나는 장단점과 실패 패턴을 분석했습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "코딩",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "1e7aa22c1810424b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdaeah/deepseekv4flash0731_udiq3_xxs_about_11ts_on_1x/",
+   "source": "r/LocalLLaMA",
+   "title": "DeepSeek-V4-Flash-0731 UD-IQ3_XXS about 11t/s on 1x 7900 XTX 24GB + 3x MI60 32GB + 128GB DDR4",
+   "published_at": "2026-08-02T06:24:15+00:00",
+   "collected_at": "2026-08-02T07:37:41.938526+00:00",
+   "title_ko": "AMD 하드웨어 조합으로 구동한 DeepSeek-V4-Flash 토큰 성능",
+   "summary_ko": "다양한 AMD GPU와 CPU 조합을 활용해 DeepSeek-V4-Flash 모델을 구동하고 측정한 실제 토큰 처리 성능 공유입니다.",
+   "category": "참고",
+   "tags": [
+    "DeepSeek",
+    "반도체",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "01de7dcfe76af8f0",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vd874t/i_pushed_kimi_k3_onto_one_cpu_with_8_gb_of_ram/",
+   "source": "r/LocalLLaMA",
+   "title": "I pushed Kimi K3 onto one CPU with 8 GB of RAM",
+   "published_at": "2026-08-02T04:26:21+00:00",
+   "collected_at": "2026-08-02T07:37:41.938526+00:00",
+   "title_ko": "8GB RAM의 단일 CPU에서 Kimi K3 모델 구동 성공",
+   "summary_ko": "NVMe에서 필요한 전문가 가중치만 실시간으로 읽어오는 방식을 통해 저사양 CPU 환경에서도 대형 모델을 실행하는 추론 엔진을 구현했습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "6763fbfb5e4c412e",
+   "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+   "source": "Hacker News",
+   "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+   "published_at": "2026-08-02T04:21:14+00:00",
+   "collected_at": "2026-08-02T07:37:40.572381+00:00",
+   "title_ko": "MI355X에서 구동하는 Kimi K3 가성비 분석",
+   "summary_ko": "AMD MI355X 하드웨어에서 Kimi K3 모델을 실행할 때의 가격 대비 성능 우수성을 분석한 글입니다.",
+   "category": "참고",
+   "tags": [
+    "반도체",
+    "오픈소스"
+   ]
+  },
+  {
    "id": "c1de4f1e6af54e9c",
    "url": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
    "source": "Simon Willison",
@@ -246,6 +339,21 @@
    "tags": [
     "오픈소스",
     "LLM"
+   ]
+  },
+  {
+   "id": "eb115e7cd53c9cff",
+   "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
+   "source": "Hacker News",
+   "title": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
+   "published_at": "2026-08-01T22:50:30+00:00",
+   "collected_at": "2026-08-02T07:37:41.107114+00:00",
+   "title_ko": "현재 AI 업계의 과도한 거품을 비판하는 시각",
+   "summary_ko": "AI 기술의 실제 효용과 시장의 과장된 기대에 대해 비판적인 시각을 다룬 영상 콘텐츠입니다.",
+   "category": "참고",
+   "tags": [
+    "규제",
+    "투자"
    ]
   },
   {
@@ -2908,109 +3016,6 @@
    "category": "속보",
    "tags": [
     "오픈소스"
-   ]
-  },
-  {
-   "id": "0c40ed3c4c6f3528",
-   "url": "https://api-docs.deepseek.com/updates/",
-   "source": "Hacker News",
-   "title": "DeepSeek-V4-Flash Update",
-   "published_at": "2026-07-31T06:08:36+00:00",
-   "collected_at": "2026-07-31T09:50:53.573271+00:00",
-   "title_ko": "딥시크, V4-Flash 업데이트 API 문서 공개",
-   "summary_ko": "딥시크가 V4-Flash 모델과 관련된 공식 API 업데이트 내역을 발표했습니다. 개발자들은 새로운 엔드포인트와 기능들을 활용할 수 있습니다.",
-   "category": "속보",
-   "tags": [
-    "DeepSeek",
-    "LLM"
-   ]
-  },
-  {
-   "id": "64d63950ce945c00",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbidxt/the_official_release_deepseek_v4_flash_is_live_on/",
-   "source": "r/LocalLLaMA",
-   "title": "The official release Deepseek V4 flash is live on the API",
-   "published_at": "2026-07-31T06:05:30+00:00",
-   "collected_at": "2026-07-31T06:51:44.034740+00:00",
-   "title_ko": "딥시크 V4 플래시 공식 API 출시",
-   "summary_ko": "딥시크 V4 플래시 모델의 공식 버전이 API를 통해 라이브로 출시되었다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "95dbdd3d8500927f",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbidkp/deepseekv4flash_has_been_updated_the_official/",
-   "source": "r/LocalLLaMA",
-   "title": "DeepSeek-V4-Flash has been updated, \"The official release of DeepSeek-V4-Pro will follow soon\"",
-   "published_at": "2026-07-31T06:04:59+00:00",
-   "collected_at": "2026-07-31T06:51:44.034740+00:00",
-   "title_ko": "DeepSeek-V4-Flash 업데이트 및 V4-Pro 출시 예고",
-   "summary_ko": "DeepSeek API 업데이트를 통해 V4-Flash가 갱신되었으며, 정식 버전인 V4-Pro가 곧 출시될 예정입니다. 향후 성능 개선과 새로운 기능 도입에 대한 기대를 모으고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "DeepSeek",
-    "LLM"
-   ]
-  },
-  {
-   "id": "deedd35499fa3d53",
-   "url": "https://marbleos.com/demo",
-   "source": "Hacker News",
-   "title": "Show HN: What should the GUI for AI agents look like?",
-   "published_at": "2026-07-31T05:17:29+00:00",
-   "collected_at": "2026-07-31T09:51:13.527677+00:00",
-   "title_ko": "AI 에이전트를 위한 새로운 그래픽 사용자 인터페이스(GUI) 탐구",
-   "summary_ko": "AI 에이전트 시대에 걸맞은 새로운 사용자 인터페이스와 상호작용 방식을 제안하는 프로젝트가 소개되었습니다. 기존 운영체제의 GUI 역사에서 영감을 받아 에이전트 조작의 시각화를 다룹니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "UX"
-   ]
-  },
-  {
-   "id": "247ac9de316a5d9a",
-   "url": "https://www.reddit.com/r/singularity/comments/1vbh3o1/the_cost_of_ai_is_decreasing/",
-   "source": "r/singularity",
-   "title": "The cost of AI is decreasing",
-   "published_at": "2026-07-31T05:00:13+00:00",
-   "collected_at": "2026-07-31T19:47:05.685734+00:00",
-   "title_ko": "지속적으로 하락하는 AI 서비스 비용",
-   "summary_ko": "AI 모델의 추론 및 사용 비용이 전반적으로 급감하는 추세에 대한 논의가 이루어지고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "투자"
-   ]
-  },
-  {
-   "id": "9aa5a96c9b40d875",
-   "url": "https://greyswansignals.com/?theme=dark",
-   "source": "Hacker News",
-   "title": "The AI trade now runs on borrowed money, and the lenders are repricing it",
-   "published_at": "2026-07-31T04:15:04+00:00",
-   "collected_at": "2026-07-31T06:51:43.206393+00:00",
-   "title_ko": "AI 인프라 투자와 대출 금리 재조정",
-   "summary_ko": "AI 관련 투자가 차입금에 크게 의존하는 양상을 보이며, 대출 기관들이 위험을 반영해 금리를 재조정하고 있습니다. AI 산업의 자금 조달 구조에 대한 우려를 나타냅니다.",
-   "category": "중요",
-   "tags": [
-    "투자",
-    "반도체"
-   ]
-  },
-  {
-   "id": "24b7578eb1e4862f",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213372",
-   "source": "AI타임스",
-   "title": "래블업, GPU 운영 플랫폼으로 최단 기간 코스닥 상장예심 통과",
-   "published_at": "2026-07-31T03:58:58+00:00",
-   "collected_at": "2026-07-30T19:45:30.462509+00:00",
-   "title_ko": "래블업, GPU 운영 플랫폼으로 코스닥 상장예심 최단 기간 통과",
-   "summary_ko": "AI 인프라 플랫폼 '백엔드닷에이아이' 운영사인 래블업이 코스닥 상장 예비심사를 최단 기간에 통과했습니다. 고성능 컴퓨팅 자원 관리 수요 증가에 따라 AI 인프라 기업의 상장 가도가 주목받고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "반도체",
-    "투자"
    ]
   }
  ]

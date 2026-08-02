@@ -108,6 +108,99 @@
   ]
  },
  {
+  "id": "58e607a8739c4489",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdbix4/deepseekv4flash_284b_on_53gb_of_memory/",
+  "source": "r/LocalLLaMA",
+  "title": "DeepSeek-V4-Flash 284B on 5.3GB of memory",
+  "published_at": "2026-08-02T07:28:04+00:00",
+  "collected_at": "2026-08-02T07:37:41.938526+00:00",
+  "title_ko": "저사양 환경에서 구동하는 DeepSeek-V4-Flash 284B",
+  "summary_ko": "MoE 모델의 전문가 레이어를 SSD에서 스트리밍하는 방식으로, 저사양 하드웨어에서 대형 모델을 구동하는 최적화 기법이 소개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트",
+   "DeepSeek"
+  ]
+ },
+ {
+  "id": "d19b5779fb36ffcd",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdbgw5/psa_for_deepseekv4flash0731_users_dont_blow_out/",
+  "source": "r/LocalLLaMA",
+  "title": "PSA for DeepSeek-V4-Flash-0731 users — don't blow out your prompt cache with system role messages mid-conversation",
+  "published_at": "2026-08-02T07:24:49+00:00",
+  "collected_at": "2026-08-02T07:37:41.938526+00:00",
+  "title_ko": "DeepSeek-V4-Flash-0731 프롬프트 캐시 주의사항",
+  "summary_ko": "대화 중간에 시스템 메시지를 넣으면 프롬프트 캐시가 손상될 수 있어, 올바른 역할 설정 방식을 사용하는 것이 중요합니다.",
+  "category": "팁",
+  "tags": [
+   "DeepSeek",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "1b33cf8dc938f466",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdb1n1/realworld_reality_check_on_qwen_for_autonomous/",
+  "source": "r/LocalLLaMA",
+  "title": "Real-world reality check on Qwen for autonomous coding agents",
+  "published_at": "2026-08-02T07:00:41+00:00",
+  "collected_at": "2026-08-02T07:37:41.938526+00:00",
+  "title_ko": "자율 코딩 에이전트에서 Qwen 모델 활용 한계 분석",
+  "summary_ko": "로컬 환경에서 인기를 끌고 있는 Qwen 모델을 자율 코딩 에이전트에 적용했을 때 나타나는 장단점과 실패 패턴을 분석했습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "코딩",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "1e7aa22c1810424b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdaeah/deepseekv4flash0731_udiq3_xxs_about_11ts_on_1x/",
+  "source": "r/LocalLLaMA",
+  "title": "DeepSeek-V4-Flash-0731 UD-IQ3_XXS about 11t/s on 1x 7900 XTX 24GB + 3x MI60 32GB + 128GB DDR4",
+  "published_at": "2026-08-02T06:24:15+00:00",
+  "collected_at": "2026-08-02T07:37:41.938526+00:00",
+  "title_ko": "AMD 하드웨어 조합으로 구동한 DeepSeek-V4-Flash 토큰 성능",
+  "summary_ko": "다양한 AMD GPU와 CPU 조합을 활용해 DeepSeek-V4-Flash 모델을 구동하고 측정한 실제 토큰 처리 성능 공유입니다.",
+  "category": "참고",
+  "tags": [
+   "DeepSeek",
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "01de7dcfe76af8f0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vd874t/i_pushed_kimi_k3_onto_one_cpu_with_8_gb_of_ram/",
+  "source": "r/LocalLLaMA",
+  "title": "I pushed Kimi K3 onto one CPU with 8 GB of RAM",
+  "published_at": "2026-08-02T04:26:21+00:00",
+  "collected_at": "2026-08-02T07:37:41.938526+00:00",
+  "title_ko": "8GB RAM의 단일 CPU에서 Kimi K3 모델 구동 성공",
+  "summary_ko": "NVMe에서 필요한 전문가 가중치만 실시간으로 읽어오는 방식을 통해 저사양 CPU 환경에서도 대형 모델을 실행하는 추론 엔진을 구현했습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "6763fbfb5e4c412e",
+  "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+  "source": "Hacker News",
+  "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+  "published_at": "2026-08-02T04:21:14+00:00",
+  "collected_at": "2026-08-02T07:37:40.572381+00:00",
+  "title_ko": "MI355X에서 구동하는 Kimi K3 가성비 분석",
+  "summary_ko": "AMD MI355X 하드웨어에서 Kimi K3 모델을 실행할 때의 가격 대비 성능 우수성을 분석한 글입니다.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "c1de4f1e6af54e9c",
   "url": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
   "source": "Simon Willison",
@@ -226,6 +319,21 @@
   "tags": [
    "오픈소스",
    "LLM"
+  ]
+ },
+ {
+  "id": "eb115e7cd53c9cff",
+  "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
+  "source": "Hacker News",
+  "title": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
+  "published_at": "2026-08-01T22:50:30+00:00",
+  "collected_at": "2026-08-02T07:37:41.107114+00:00",
+  "title_ko": "현재 AI 업계의 과도한 거품을 비판하는 시각",
+  "summary_ko": "AI 기술의 실제 효용과 시장의 과장된 기대에 대해 비판적인 시각을 다룬 영상 콘텐츠입니다.",
+  "category": "참고",
+  "tags": [
+   "규제",
+   "투자"
   ]
  },
  {
