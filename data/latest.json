@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-02T14:42:02.119150+00:00",
+ "updated_at": "2026-08-02T16:09:34.885568+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -62,6 +62,66 @@
    "tags": [
     "반도체",
     "소버린 AI"
+   ]
+  },
+  {
+   "id": "1561d9f41a218eaf",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdllr3/what_is_opencode_privacy_situation_when_pairing/",
+   "source": "r/LocalLLaMA",
+   "title": "What is OpenCode privacy situation when pairing with outside providers?",
+   "published_at": "2026-08-02T15:53:05+00:00",
+   "collected_at": "2026-08-02T16:09:18.490058+00:00",
+   "title_ko": "외부 LLM 제공자 이용 시 OpenCode 데이터 프라이버시 문제",
+   "summary_ko": "오픈소스 코딩 도구 OpenCode를 외부 API 제공자와 연동할 때 사용자 데이터가 수집되는지 우려하며 대안을 찾는 커뮤니티 논의.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "ee31265193e9519f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdld4v/deepseekv4flash0731_dwarfstar_on_mac/",
+   "source": "r/LocalLLaMA",
+   "title": "Deepseek-V4-Flash-0731 Dwarfstar on Mac",
+   "published_at": "2026-08-02T15:43:30+00:00",
+   "collected_at": "2026-08-02T16:09:18.490058+00:00",
+   "title_ko": "맥에서 구동한 DeepSeek-V4-Flash 모델 성능 측정",
+   "summary_ko": "192GB RAM을 탑재한 M2 Ultra 환경에서 DeepSeek-V4-Flash 모델의 프리필 및 디코드 성능을 테스트한 결과.",
+   "category": "참고",
+   "tags": [
+    "DeepSeek",
+    "반도체"
+   ]
+  },
+  {
+   "id": "f9b7b2c3edb5b88a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdku4r/conclusion_rlocalllama_still_has_brilliant/",
+   "source": "r/LocalLLaMA",
+   "title": "Conclusion: r/LocalLLaMA still has brilliant open-weight research, but finding it requires wading through endless benchmark drama, non-local Discussion Points and repetitive hardware flexes.",
+   "published_at": "2026-08-02T15:22:17+00:00",
+   "collected_at": "2026-08-02T16:09:18.490058+00:00",
+   "title_ko": "오픈소스 LLM 커뮤니티의 연구 동향과 한계",
+   "summary_ko": "로컬 LLM 커뮤니티가 뛰어난 오픈소스 연구를 공유하면서도 벤치마크 경쟁과 반복적인 하드웨어 자랑에 치중하는 경향을 분석함.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "0189a0a818c28fe3",
+   "url": "https://news.hada.io/topic?id=32060",
+   "source": "GeekNews",
+   "title": "Show GN: 클로드코드 세션 탐색기 만들어 봤습니다.",
+   "published_at": "2026-08-02T14:58:14+00:00",
+   "collected_at": "2026-08-02T16:09:32.497001+00:00",
+   "title_ko": "클로드 코드 세션 탐색기 출시",
+   "summary_ko": "프로젝트별로 흩어진 Claude Code 세션과 대화 기록을 쉽게 찾고 관리할 수 있는 탐색기 도구 소개.",
+   "category": "팁",
+   "tags": [
+    "Claude",
+    "코딩"
    ]
   },
   {
@@ -2943,67 +3003,6 @@
     "GPT",
     "OpenAI",
     "AI 에이전트"
-   ]
-  },
-  {
-   "id": "cddf2e6745b19a00",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213386",
-   "source": "AI타임스",
-   "title": "애플, 역대급 실적에도 주가 급락...\"공급망·메모리 병목 심각\"",
-   "published_at": "2026-07-31T12:48:02+00:00",
-   "collected_at": "2026-07-31T06:51:57.391011+00:00",
-   "title_ko": "애플, 호실적에도 메모리 병목 경고에 주가 급락",
-   "summary_ko": "애플이 예상을 웃도는 실적을 발표했음에도 AI 투자 확대에 따른 메모리 반도체 부족과 공급 제약을 경고해 주가가 하락했다.",
-   "category": "참고",
-   "tags": [
-    "반도체",
-    "투자"
-   ]
-  },
-  {
-   "id": "c66714e650551a8f",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213388",
-   "source": "AI타임스",
-   "title": "SKT, 피지컬 AI 스타트업 8개사와 로보틱스 생태계 협력 강화",
-   "published_at": "2026-07-31T12:33:21+00:00",
-   "collected_at": "2026-07-31T06:51:57.391011+00:00",
-   "title_ko": "SKT, 피지컬 AI 스타트업 8개사와 로보틱스 생태계 협력",
-   "summary_ko": "SK텔레콤과 SK그룹사가 국내 피지컬 AI 및 로보틱스 스타트업 8개사와 협력 간담회를 열고 생태계 확장에 나섰다.",
-   "category": "참고",
-   "tags": [
-    "로보틱스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "c6499a38d0b1ff71",
-   "url": "https://news.hada.io/topic?id=32016",
-   "source": "GeekNews",
-   "title": "DeepSeek-V4-Flash 업데이트",
-   "published_at": "2026-07-31T12:31:39+00:00",
-   "collected_at": "2026-07-31T15:25:32.039845+00:00",
-   "title_ko": "DeepSeek-V4-Flash API 공개 베타 출시",
-   "summary_ko": "에이전트 성능이 대폭 향상된 DeepSeek-V4-Flash API 버전이 공개 베타로 출시되어 실무 활용성이 높아졌습니다.",
-   "category": "속보",
-   "tags": [
-    "DeepSeek",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "3f6e0e370ca652e4",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213381",
-   "source": "AI타임스",
-   "title": "오픈AI, GPT-5.6 라인업 가격 최대 80% 인하…효율성 경쟁 가속",
-   "published_at": "2026-07-31T12:28:57+00:00",
-   "collected_at": "2026-07-31T06:51:57.391011+00:00",
-   "title_ko": "오픈AI, GPT-5.6 중소형 모델 가격 최대 80% 인하",
-   "summary_ko": "경쟁 심화에 대응해 오픈AI가 GPT-5.6 시리즈 일부 모델의 가격을 최대 80% 내리고 기업 고객 확보에 나섰다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "GPT",
-    "오픈소스"
    ]
   }
  ]
