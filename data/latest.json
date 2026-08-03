@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-03T18:00:45.494530+00:00",
+ "updated_at": "2026-08-03T19:49:49.499420+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -17,6 +17,113 @@
     "OpenAI",
     "ChatGPT",
     "보안"
+   ]
+  },
+  {
+   "id": "c4271e2743b3bc62",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1venecp/we_tested_deepseek_v4_flash_glm_52_and_kimi_k3_on/",
+   "source": "r/LocalLLaMA",
+   "title": "We tested Deepseek v4 flash, GLM 5.2, and Kimi K3 on hard agentic tasks, and DeepSeek just crushed",
+   "published_at": "2026-08-03T19:30:18+00:00",
+   "collected_at": "2026-08-03T19:49:29.380182+00:00",
+   "title_ko": "오픈웨이트 모델 에이전트 성능 비교, DeepSeek V4 Flash 우세",
+   "summary_ko": "오픈웨이트 대형 모델들의 복잡한 에이전트 작업 수행 능력을 테스트한 결과, DeepSeek V4 Flash가 뛰어난 성능을 기록했습니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트",
+    "DeepSeek"
+   ]
+  },
+  {
+   "id": "6005530a97f89d22",
+   "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+   "source": "TechCrunch",
+   "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
+   "published_at": "2026-08-03T19:28:57+00:00",
+   "collected_at": "2026-08-03T19:49:25.301832+00:00",
+   "title_ko": "AI 평가 플랫폼 DesignArena, 790만 달러 투자 유치",
+   "summary_ko": "프론티어 AI 랩에 인간 피드백 평가를 제공하는 DesignArena가 790만 달러의 투자를 유치하며 주목받고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "투자",
+    "AI 평가"
+   ]
+  },
+  {
+   "id": "f30b130fca5ef327",
+   "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+   "source": "TechCrunch",
+   "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+   "published_at": "2026-08-03T19:09:56+00:00",
+   "collected_at": "2026-08-03T19:49:25.301832+00:00",
+   "title_ko": "OpenAI의 첫 럭셔리 인플루언서 여행에 대한 업계 반발",
+   "summary_ko": "AI 기술 사용을 둘러싼 긴장이 고조되는 가운데 OpenAI가 개최한 인플루언서 대상 브랜드 여행이 온라인에서 비판을 받고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI"
+   ]
+  },
+  {
+   "id": "6d2b08be44602289",
+   "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+   "source": "TechCrunch",
+   "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+   "published_at": "2026-08-03T18:43:43+00:00",
+   "collected_at": "2026-08-03T19:49:25.301832+00:00",
+   "title_ko": "애플 시리 대규모 개편, AI 에이전트 시대의 시니컬한 반응",
+   "summary_ko": "애플이 드디어 시리를 대대적으로 개편했으나, 이미 고도화된 AI 에이전트들이 보편화된 시장에서 혁신적으로 느껴지지 않는다는 평가를 받고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "Apple",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "79212c1ecb845292",
+   "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+   "source": "MIT Tech Review",
+   "title": "Trump’s AI protectionism has come for robotics",
+   "published_at": "2026-08-03T18:43:30+00:00",
+   "collected_at": "2026-08-03T19:49:26.161215+00:00",
+   "title_ko": "미국의 AI 보호무역주의, 휴머노이드 로봇 산업으로 확산",
+   "summary_ko": "미국의 보호무역 기조가 AI와 휴머노이드 로봇 산업 규제로까지 확대되고 있는 흐름을 분석했습니다.",
+   "category": "참고",
+   "tags": [
+    "로보틱스",
+    "규제"
+   ]
+  },
+  {
+   "id": "48fe18e0ed5a05fd",
+   "url": "https://news.hada.io/topic?id=32114",
+   "source": "GeekNews",
+   "title": "개발 도구가 오픈소스여야 하는 이유",
+   "published_at": "2026-08-03T18:32:52+00:00",
+   "collected_at": "2026-08-03T19:49:44.303461+00:00",
+   "title_ko": "코딩 에이전트 시대에 개발 도구가 오픈소스여야 하는 이유",
+   "summary_ko": "코딩 에이전트가 소프트웨어 유지보수를 자동화함에 따라, 커스텀 빌드와 업스트림 동기화를 위해 개발 도구의 오픈소스화가 더욱 중요해졌습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "코딩",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "e81868f1f8e3045d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vellf2/qwen38max_matches_kimi_k3_and_deepseek_v4_flash/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8-Max matches Kimi K3 and DeepSeek V4 Flash",
+   "published_at": "2026-08-03T18:25:12+00:00",
+   "collected_at": "2026-08-03T19:49:29.380182+00:00",
+   "title_ko": "알리바바, 오픈웨이트 Qwen3.8-Max 공개",
+   "summary_ko": "알리바바가 코딩 및 소프트웨어 작업에서 뛰어난 성능을 보이는 대형 오픈웨이트 모델 Qwen3.8-Max를 공개했습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "코딩",
+    "Qwen"
    ]
   },
   {
@@ -245,6 +352,21 @@
    ]
   },
   {
+   "id": "6a88a16e3c4b5c7b",
+   "url": "https://epoch.ai/MirrorCode",
+   "source": "Hacker News",
+   "title": "What's the largest software project AI can complete on its own?",
+   "published_at": "2026-08-03T16:16:40+00:00",
+   "collected_at": "2026-08-03T19:49:28.340347+00:00",
+   "title_ko": "AI가 스스로 완성할 수 있는 최대 규모 소프트웨어 프로젝트 분석",
+   "summary_ko": "AI 코딩 도구의 발전으로 어디까지 완전 자동화된 소프트웨어 개발이 가능한지 분석한 연구 내용입니다.",
+   "category": "참고",
+   "tags": [
+    "코딩",
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "4395e81e84cb079e",
    "url": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything",
    "source": "Simon Willison",
@@ -407,6 +529,21 @@
    ]
   },
   {
+   "id": "109216a3d979ea33",
+   "url": "https://blog.exe.dev/devtools-must-be-open-source",
+   "source": "Hacker News",
+   "title": "Devtools must be open source",
+   "published_at": "2026-08-03T14:15:47+00:00",
+   "collected_at": "2026-08-03T19:49:27.720830+00:00",
+   "title_ko": "개발 도구의 오픈소스화 필수성에 대한 논의",
+   "summary_ko": "AI와 에이전트 기반 개발 환경에서 개발 도구가 왜 반드시 오픈소스여야 하는지에 대한 개발자 커뮤니티의 의견입니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
    "id": "298eb1175733c0f9",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1veenib/qwen_says_next_week_38_will_be_open_weights/",
    "source": "r/LocalLLaMA",
@@ -491,6 +628,21 @@
    "tags": [
     "규제",
     "투자"
+   ]
+  },
+  {
+   "id": "f722651b2117fd1c",
+   "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+   "source": "Hacker News",
+   "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+   "published_at": "2026-08-03T13:34:43+00:00",
+   "collected_at": "2026-08-03T19:49:27.720830+00:00",
+   "title_ko": "ComfyUI, MiniMax H3 모델 데이즈 제로 지원",
+   "summary_ko": "오픈웨이트와 네이티브 오디오, 2K 비디오를 지원하는 MiniMax H3 모델이 ComfyUI에 즉시 통합되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "미디어 생성"
    ]
   },
   {
@@ -715,6 +867,21 @@
    "category": "중요",
    "tags": [
     "LLM"
+   ]
+  },
+  {
+   "id": "26149269af1e40c4",
+   "url": "https://github.com/lyogavin/airllm",
+   "source": "Hacker News",
+   "title": "AirLLM 70B inference with single 4GB GPU",
+   "published_at": "2026-08-03T11:15:48+00:00",
+   "collected_at": "2026-08-03T19:49:27.720830+00:00",
+   "title_ko": "단일 4GB GPU에서 70B 모델 구동하는 AirLLM",
+   "summary_ko": "저사양 하드웨어에서도 대형 언어 모델을 실행할 수 있게 해주는 AirLLM 오픈소스 프로젝트가 주목받고 있습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
    ]
   },
   {
@@ -2823,174 +2990,6 @@
    "category": "참고",
    "tags": [
     "머신러닝"
-   ]
-  },
-  {
-   "id": "5ddd718568fd8e08",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcpv6u/longcatflashlitesparse_is_now_available_for/",
-   "source": "r/LocalLLaMA",
-   "title": "LongCat-Flash-Lite-Sparse Is Now Available for Download",
-   "published_at": "2026-08-01T15:10:04+00:00",
-   "collected_at": "2026-08-01T17:10:23.505646+00:00",
-   "title_ko": "LongCat-Flash-Lite-Sparse 모델 공개",
-   "summary_ko": "100만 토큰의 컨텍스트 길이를 네이티브로 지원하는 LongCat-Flash-Lite-Sparse 모델 가중치가 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "b0da32b5a3f07f57",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcpsml/im_kinda_tired_of_obsession_for_oneshot_tests_in/",
-   "source": "r/LocalLLaMA",
-   "title": "I'm kinda tired of obsession for one-shot tests in coding, there are good tests for multi-step debugging with analyzing output/images/videos?",
-   "published_at": "2026-08-01T15:07:04+00:00",
-   "collected_at": "2026-08-01T17:10:23.505646+00:00",
-   "title_ko": "LLM 코딩 평가에서 다중 단계 디버깅의 중요성",
-   "summary_ko": "단순 일회성 코딩 테스트를 넘어 다중 단계 디버깅과 수정 능력을 평가하기 위한 실질적인 벤치마크 필요성이 제기되었습니다.",
-   "category": "참고",
-   "tags": [
-    "코딩",
-    "LLM"
-   ]
-  },
-  {
-   "id": "77a9779920358f72",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcpnzw/dsv4_flash_0731_running_on_unoptimized_single/",
-   "source": "r/LocalLLaMA",
-   "title": "DSv4 Flash 0731 Running on Unoptimized Single 3090 System",
-   "published_at": "2026-08-01T15:01:53+00:00",
-   "collected_at": "2026-08-01T19:22:58.560958+00:00",
-   "title_ko": "단일 RTX 3090 시스템에서의 DeepSeek V4 Flash 로컬 구동",
-   "summary_ko": "최적화되지 않은 단일 3090 GPU 환경에서도 DeepSeek 신규 모델을 로컬로 구동하여 실사용하는 사례가 공유되었습니다.",
-   "category": "팁",
-   "tags": [
-    "DeepSeek",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "2d131725d77d51ff",
-   "url": "https://www.reddit.com/r/singularity/comments/1vcpemz/tau_robotics_has_unveiled_a_humanoid_robot_for/",
-   "source": "r/singularity",
-   "title": "Tau Robotics has unveiled a humanoid robot for cleaning homes, for a rate $30 per hour",
-   "published_at": "2026-08-01T14:51:12+00:00",
-   "collected_at": "2026-08-01T19:23:03.562467+00:00",
-   "title_ko": "타우 로보틱스의 가정용 청소 휴머노이드 로봇 공개",
-   "summary_ko": "타우 로보틱스가 시간당 30달러의 비용으로 집안 청소를 수행하는 휴머노이드 로봇을 공개했습니다.",
-   "category": "속보",
-   "tags": [
-    "로보틱스"
-   ]
-  },
-  {
-   "id": "2e21a86241aa1870",
-   "url": "https://news.hada.io/topic?id=32035",
-   "source": "GeekNews",
-   "title": "29GB RAM에서 Kimi K3를 0.50 tok/s로 실행하기",
-   "published_at": "2026-08-01T14:32:11+00:00",
-   "collected_at": "2026-08-01T15:10:50.112649+00:00",
-   "title_ko": "소비자용 노트북에서 Kimi K3 모델 실행하는 추론 엔진",
-   "summary_ko": "대규모 오픈 모델인 Kimi K3를 NVMe와 RAM을 활용해 일반 노트북 환경에서 구동할 수 있게 해주는 C 기반 추론 엔진이 소개되었습니다. 대형 모델의 로컬 실행 가능성을 넓혀준다는 점에서 의미가 있습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "7d28a00c51e19b87",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213435",
-   "source": "AI타임스",
-   "title": "단일 30초·최대 3분 확장...바이트댄스, '시댄스 2.5'로 장편 AI 영상 시대 연다",
-   "published_at": "2026-08-01T13:55:09+00:00",
-   "collected_at": "2026-08-01T06:37:59.398763+00:00",
-   "title_ko": "바이트댄스, 장편 AI 영상 생성 모델 '시댄스 2.5' 공개",
-   "summary_ko": "바이트댄스가 최대 3분의 장편 영상 제작과 멀티모달 편집을 지원하는 '시댄스 2.5'를 공개했다. 사용자의 창작 워크플로 중심 요구를 반영해 스토리텔링 기능을 대폭 강화했다.",
-   "category": "속보",
-   "tags": [
-    "AI 영상",
-    "바이트댄스",
-    "멀티모달"
-   ]
-  },
-  {
-   "id": "abb020cc3c76d16d",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213436",
-   "source": "AI타임스",
-   "title": "싱킹 머신즈, '잉클링-스몰' 공개…4분의 1 크기로 동급 최고 성능 확보",
-   "published_at": "2026-08-01T13:36:50+00:00",
-   "collected_at": "2026-08-01T06:37:59.398763+00:00",
-   "title_ko": "싱킹 머신즈, 고효율 오픈웨이트 모델 '잉클링-스몰' 출시",
-   "summary_ko": "싱킹 머신즈 랩이 기존 대비 4분의 1 크기로 동급 최고 성능을 내는 오픈웨이트 모델 '잉클링-스몰'을 공개했다. 적은 연산 자원으로 고성능 추론과 코딩을 지원한다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "코딩"
-   ]
-  },
-  {
-   "id": "c42441526d6a938e",
-   "url": "https://www.reddit.com/r/singularity/comments/1vcnm70/even_if_llms_are_conscious_they_cant_tell_us_how/",
-   "source": "r/singularity",
-   "title": "Even if LLMs are conscious, they can't tell us how they feel - but we should probably still care what they say about their experience",
-   "published_at": "2026-08-01T13:35:28+00:00",
-   "collected_at": "2026-08-01T13:47:04.449094+00:00",
-   "title_ko": "LLM의 의식과 내부 추론 토큰 해석을 둘러싼 논쟁",
-   "summary_ko": "모델의 추론 토큰과 시스템 프롬프트를 보고 AI의 의식이나 윤리적 대우를 논하는 현상에 대해, 감정과 실제 경험을 혼동하고 있다는 우려가 제기되었습니다.",
-   "category": "참고",
-   "tags": [
-    "Claude",
-    "Anthropic",
-    "AI 윤리"
-   ]
-  },
-  {
-   "id": "55bd143ecebb2cdb",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcn9uw/new_official_weights_for_laguna_s_21_fp8_nvfp4/",
-   "source": "r/LocalLLaMA",
-   "title": "New official weights for Laguna S 2.1 FP8 & NVFP4 are now available",
-   "published_at": "2026-08-01T13:20:13+00:00",
-   "collected_at": "2026-08-01T13:46:51.790401+00:00",
-   "title_ko": "Poolside, Laguna S 2.1 FP8 및 NVFP4 공식 가중치 공개",
-   "summary_ko": "Poolside가 Laguna S 2.1 모델의 FP8 및 NVFP4 체크포인트를 업데이트하며 컨텍스트 크기를 100만 토큰으로 확장했습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "74d7266063754d9b",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcn0w2/gemma4_31b_bf16_constantly_fails_to_edit_files/",
-   "source": "r/LocalLLaMA",
-   "title": "Gemma4 (31B, bf16) constantly fails to edit files due to mismatches in original text - just me?",
-   "published_at": "2026-08-01T13:09:33+00:00",
-   "collected_at": "2026-08-01T13:46:51.790401+00:00",
-   "title_ko": "로컬 실행용 Gemma4 31B의 파일 편집 오류 문제",
-   "summary_ko": "로컬에서 Gemma4 모델을 구동할 때 코드 편집 작업 중 들여쓰기 등 원본 텍스트 불일치로 인해 반복적으로 실패하는 현상이 보고되었습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "4a2006fa8544ac78",
-   "url": "https://www.reddit.com/r/singularity/comments/1vcmxsn/geminis_reaction_to_chatgpts_discoveries/",
-   "source": "r/singularity",
-   "title": "Gemini's reaction to ChatGPT's discoveries.",
-   "published_at": "2026-08-01T13:05:43+00:00",
-   "collected_at": "2026-08-01T13:47:04.449094+00:00",
-   "title_ko": "ChatGPT의 발견에 대한 Gemini의 반응",
-   "summary_ko": "Gemini 3.6 Flash 모델을 통해 ChatGPT의 새로운 발견과 기능에 대응하는 구글의 행보를 엿볼 수 있습니다.",
-   "category": "참고",
-   "tags": [
-    "Google",
-    "Gemini",
-    "GPT"
    ]
   }
  ]
