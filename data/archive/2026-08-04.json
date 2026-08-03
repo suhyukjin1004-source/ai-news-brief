@@ -16,6 +16,65 @@
   ]
  },
  {
+  "id": "4301d097de593688",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1verzxx/nvidianvidianemotronlabsvoicechat11b_hugging_face/",
+  "source": "r/LocalLLaMA",
+  "title": "nvidia/NVIDIA-NemotronLabs-VoiceChat-11B · Hugging Face (full duplex)",
+  "published_at": "2026-08-03T22:24:02+00:00",
+  "collected_at": "2026-08-03T23:13:27.665310+00:00",
+  "title_ko": "엔비디아, 음성 챗봇 모델 'NVIDIA-NemotronLabs-VoiceChat-11B' 공개",
+  "summary_ko": "엔비디아가 전이중(full duplex) 음성 대화를 지원하는 새로운 Nemotron 음성 챗봇 모델을 허깅페이스에 공개했다.",
+  "category": "속보",
+  "tags": [
+   "NVIDIA",
+   "음성AI"
+  ]
+ },
+ {
+  "id": "7e8b01ce197824df",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1veqj1j/g9v339a5b_agentic_heavy_moe_with_low_hallucination/",
+  "source": "r/LocalLLaMA",
+  "title": "G9v3-39A5B: Agentic heavy MOE with low hallucination",
+  "published_at": "2026-08-03T21:26:35+00:00",
+  "collected_at": "2026-08-03T23:13:27.665310+00:00",
+  "title_ko": "고성능 MoE 에이전트 모델 'G9v3-39A5B' 등장",
+  "summary_ko": "환각 현상을 줄이고 범용 작업에 최적화된 새로운 MoE 기반 AI 에이전트 모델이 공개되었다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "430d8f55e9ec1f05",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1veqd5c/ling30flash_is_another_potential_model_to_test/",
+  "source": "r/LocalLLaMA",
+  "title": "Ling-3.0-flash is another potential model to test before qwen3.8 27b",
+  "published_at": "2026-08-03T21:20:19+00:00",
+  "collected_at": "2026-08-03T23:13:27.665310+00:00",
+  "title_ko": "신규 경량 모델 'Ling-3.0-flash'의 복잡한 버그 해결 능력 주목",
+  "summary_ko": "에러 메시지가 없는 복잡한 디버깅 작업에서 기존 모델보다 뛰어난 추론 능력을 보여주는 Ling-3.0-flash가 주목받고 있다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "eea91b74d95773df",
+  "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+  "source": "Hacker News",
+  "title": "LLMs reward expertise",
+  "published_at": "2026-08-03T21:13:53+00:00",
+  "collected_at": "2026-08-03T23:13:26.276734+00:00",
+  "title_ko": "LLM이 전문가의 지식을 더 잘 활용하는 방식 분석",
+  "summary_ko": "LLM 활용 시 사용자의 도메인 전문성이 결과물의 질에 미치는 영향과 그 이유를 다룬 분석 글이다.",
+  "category": "참고",
+  "tags": [
+   "LLM"
+  ]
+ },
+ {
   "id": "94f24e3448e22121",
   "url": "https://www.reddit.com/r/singularity/comments/1veptrc/open_ai_we_rebuilt_the_voice_stack_from_client_to/",
   "source": "r/singularity",
@@ -85,6 +144,20 @@
   "category": "중요",
   "tags": [
    "규제",
+   "투자"
+  ]
+ },
+ {
+  "id": "57e7595a7afaed67",
+  "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
+  "source": "Hacker News",
+  "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
+  "published_at": "2026-08-03T20:02:21+00:00",
+  "collected_at": "2026-08-03T23:13:26.794652+00:00",
+  "title_ko": "AI 인프라 투자의 숨겨진 부채 규모 1조 6,500억 달러 달해",
+  "summary_ko": "AI 인프라 구축을 위한 빅테크 기업들의 과도한 자본 지출과 숨겨진 부채 누적이 지속 가능하지 않다는 지적이 제기됐다.",
+  "category": "중요",
+  "tags": [
    "투자"
   ]
  },
@@ -418,6 +491,20 @@
   "tags": [
    "NVIDIA",
    "로보틱스"
+  ]
+ },
+ {
+  "id": "f98a3c9edeb8198b",
+  "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+  "source": "Hacker News",
+  "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+  "published_at": "2026-08-03T17:08:46+00:00",
+  "collected_at": "2026-08-03T23:13:26.276734+00:00",
+  "title_ko": "클라우드플레어, Kimi 및 GLM 모델의 대규모 운영 경험 공유",
+  "summary_ko": "클라우드플레어가 Kimi와 GLM 등 소형화된 LLM을 대규모 환경에서 안전하고 빠르게 운영하는 방식을 공개했다.",
+  "category": "참고",
+  "tags": [
+   "LLM"
   ]
  },
  {

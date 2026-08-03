@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-03T21:15:16.744239+00:00",
+ "updated_at": "2026-08-03T23:13:45.020929+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -17,6 +17,65 @@
     "OpenAI",
     "ChatGPT",
     "보안"
+   ]
+  },
+  {
+   "id": "4301d097de593688",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1verzxx/nvidianvidianemotronlabsvoicechat11b_hugging_face/",
+   "source": "r/LocalLLaMA",
+   "title": "nvidia/NVIDIA-NemotronLabs-VoiceChat-11B · Hugging Face (full duplex)",
+   "published_at": "2026-08-03T22:24:02+00:00",
+   "collected_at": "2026-08-03T23:13:27.665310+00:00",
+   "title_ko": "엔비디아, 음성 챗봇 모델 'NVIDIA-NemotronLabs-VoiceChat-11B' 공개",
+   "summary_ko": "엔비디아가 전이중(full duplex) 음성 대화를 지원하는 새로운 Nemotron 음성 챗봇 모델을 허깅페이스에 공개했다.",
+   "category": "속보",
+   "tags": [
+    "NVIDIA",
+    "음성AI"
+   ]
+  },
+  {
+   "id": "7e8b01ce197824df",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1veqj1j/g9v339a5b_agentic_heavy_moe_with_low_hallucination/",
+   "source": "r/LocalLLaMA",
+   "title": "G9v3-39A5B: Agentic heavy MOE with low hallucination",
+   "published_at": "2026-08-03T21:26:35+00:00",
+   "collected_at": "2026-08-03T23:13:27.665310+00:00",
+   "title_ko": "고성능 MoE 에이전트 모델 'G9v3-39A5B' 등장",
+   "summary_ko": "환각 현상을 줄이고 범용 작업에 최적화된 새로운 MoE 기반 AI 에이전트 모델이 공개되었다.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "430d8f55e9ec1f05",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1veqd5c/ling30flash_is_another_potential_model_to_test/",
+   "source": "r/LocalLLaMA",
+   "title": "Ling-3.0-flash is another potential model to test before qwen3.8 27b",
+   "published_at": "2026-08-03T21:20:19+00:00",
+   "collected_at": "2026-08-03T23:13:27.665310+00:00",
+   "title_ko": "신규 경량 모델 'Ling-3.0-flash'의 복잡한 버그 해결 능력 주목",
+   "summary_ko": "에러 메시지가 없는 복잡한 디버깅 작업에서 기존 모델보다 뛰어난 추론 능력을 보여주는 Ling-3.0-flash가 주목받고 있다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "eea91b74d95773df",
+   "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+   "source": "Hacker News",
+   "title": "LLMs reward expertise",
+   "published_at": "2026-08-03T21:13:53+00:00",
+   "collected_at": "2026-08-03T23:13:26.276734+00:00",
+   "title_ko": "LLM이 전문가의 지식을 더 잘 활용하는 방식 분석",
+   "summary_ko": "LLM 활용 시 사용자의 도메인 전문성이 결과물의 질에 미치는 영향과 그 이유를 다룬 분석 글이다.",
+   "category": "참고",
+   "tags": [
+    "LLM"
    ]
   },
   {
@@ -89,6 +148,20 @@
    "category": "중요",
    "tags": [
     "규제",
+    "투자"
+   ]
+  },
+  {
+   "id": "57e7595a7afaed67",
+   "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
+   "source": "Hacker News",
+   "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
+   "published_at": "2026-08-03T20:02:21+00:00",
+   "collected_at": "2026-08-03T23:13:26.794652+00:00",
+   "title_ko": "AI 인프라 투자의 숨겨진 부채 규모 1조 6,500억 달러 달해",
+   "summary_ko": "AI 인프라 구축을 위한 빅테크 기업들의 과도한 자본 지출과 숨겨진 부채 누적이 지속 가능하지 않다는 지적이 제기됐다.",
+   "category": "중요",
+   "tags": [
     "투자"
    ]
   },
@@ -422,6 +495,20 @@
    "tags": [
     "NVIDIA",
     "로보틱스"
+   ]
+  },
+  {
+   "id": "f98a3c9edeb8198b",
+   "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+   "source": "Hacker News",
+   "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+   "published_at": "2026-08-03T17:08:46+00:00",
+   "collected_at": "2026-08-03T23:13:26.276734+00:00",
+   "title_ko": "클라우드플레어, Kimi 및 GLM 모델의 대규모 운영 경험 공유",
+   "summary_ko": "클라우드플레어가 Kimi와 GLM 등 소형화된 LLM을 대규모 환경에서 안전하고 빠르게 운영하는 방식을 공개했다.",
+   "category": "참고",
+   "tags": [
+    "LLM"
    ]
   },
   {
@@ -2895,95 +2982,6 @@
    "tags": [
     "OpenAI",
     "Claude"
-   ]
-  },
-  {
-   "id": "ddb9f0e677019dce",
-   "url": "https://news.hada.io/topic?id=32044",
-   "source": "GeekNews",
-   "title": "AI가 작동하는 제품까지 만들어주지는 않는다, 그건 여전히 당신의 일이다",
-   "published_at": "2026-08-01T20:32:43+00:00",
-   "collected_at": "2026-08-01T21:05:10.945044+00:00",
-   "title_ko": "AI 프로토타입과 실제 프로덕션 제품 개발의 괴리",
-   "summary_ko": "AI가 빠르게 코드를 생성해주지만 확장성, 보안, 오류 처리 등 공학적 판단이 필요한 실제 제품 개발은 여전히 개발자의 몫입니다.",
-   "category": "참고",
-   "tags": [
-    "AI 코딩",
-    "소프트웨어 엔지니어링"
-   ]
-  },
-  {
-   "id": "9bb4cc8e0aeca105",
-   "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-   "source": "TechCrunch",
-   "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-   "published_at": "2026-08-01T20:26:04+00:00",
-   "collected_at": "2026-08-01T21:04:51.339706+00:00",
-   "title_ko": "미네소타주의 '딥페이크 누드' 앱 금지 법안 유지",
-   "summary_ko": "법원이 xAI의 소송 기각을 통해 사용자 이미지로 딥페이크 누드 앱을 만드는 것을 금지하는 미네소타주의 법안에 손을 들어주었습니다.",
-   "category": "중요",
-   "tags": [
-    "xAI",
-    "규제"
-   ]
-  },
-  {
-   "id": "48a3d4066423a1b4",
-   "url": "https://www.reddit.com/r/singularity/comments/1vcxgnq/today_it_feels_like_the_day_ai_outsmarted_me/",
-   "source": "r/singularity",
-   "title": "Today it feels like the day AI outsmarted me",
-   "published_at": "2026-08-01T20:13:42+00:00",
-   "collected_at": "2026-08-01T21:05:08.439342+00:00",
-   "title_ko": "AI의 지능이 인간을 넘어섰다고 느낀 경험담",
-   "summary_ko": "최신 LLM이 벤치마크를 넘어 고급 수학과 철학 등 복잡한 영역에서 인간 수준의 지능과 효율성을 보여준다는 사용자 평가입니다.",
-   "category": "참고",
-   "tags": [
-    "GPT",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "ca9e42dc21e1340c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcx7ns/whats_next_for_qwen_opensource_releases/",
-   "source": "r/LocalLLaMA",
-   "title": "What’s next for Qwen open-source releases?",
-   "published_at": "2026-08-01T20:03:51+00:00",
-   "collected_at": "2026-08-01T21:04:55.471248+00:00",
-   "title_ko": "Qwen 오픈소스 모델의 향후 로드맵에 대한 관심",
-   "summary_ko": "개발자들이 Qwen 오픈소스 모델의 성능에 만족하며 다음 버전인 Qwen 3.7 등의 공개 여부와 커뮤니티 기대 방향에 주목하고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "faffeeac24fbeb6c",
-   "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-   "source": "TechCrunch",
-   "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-   "published_at": "2026-08-01T19:45:45+00:00",
-   "collected_at": "2026-08-01T21:04:51.339706+00:00",
-   "title_ko": "유튜버 행 그린의 AI 과몰입 고백",
-   "summary_ko": "유튜버 행 그린이 LLM과의 상호작용에서 오는 도파민 중독이 자신과 세상에 건강하지 않다고 공개적으로 밝혔습니다.",
-   "category": "참고",
-   "tags": [
-    "LLM"
-   ]
-  },
-  {
-   "id": "0cb49b75637ea730",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcwl43/is_there_a_point_where_models_just_cannot_get_any/",
-   "source": "r/LocalLLaMA",
-   "title": "Is there a point where models just cannot get any smaller without losing intelligence?",
-   "published_at": "2026-08-01T19:39:03+00:00",
-   "collected_at": "2026-08-01T21:04:55.471248+00:00",
-   "title_ko": "소형 AI 모델의 성능 한계와 발전 가능성",
-   "summary_ko": "학습 데이터와 아키텍처 개선으로 소형 모델이 점점 더 똑똑해지는 가운데, 지능 저하 없는 모델 경량화의 한계선에 대한 논의가 이어지고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "DeepSeek",
-    "오픈소스"
    ]
   }
  ]
