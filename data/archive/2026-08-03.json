@@ -44,6 +44,36 @@
   ]
  },
  {
+  "id": "983ffdad914a023b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vef79c/quantization_hurts_knowledge_nonlinearly_qwen36/",
+  "source": "r/LocalLLaMA",
+  "title": "Quantization hurts knowledge nonlinearly - Qwen3.6 27B case study",
+  "published_at": "2026-08-03T14:35:08+00:00",
+  "collected_at": "2026-08-03T15:10:15.510809+00:00",
+  "title_ko": "양자화가 모델 지식에 미치는 비선형적 영향",
+  "summary_ko": "Qwen3.6 27B 모델 사례를 통해 양자화가 모델의 지식 손실에 비선형적인 악영향을 미친다는 분석 결과입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "298eb1175733c0f9",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1veenib/qwen_says_next_week_38_will_be_open_weights/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen says next week 3.8 will be open weights",
+  "published_at": "2026-08-03T14:14:52+00:00",
+  "collected_at": "2026-08-03T15:10:15.510809+00:00",
+  "title_ko": "Qwen 3.8 오픈 웨이트 버전 다음 주 출시 예정",
+  "summary_ko": "알리바바의 Qwen 팀이 다음 주에 새로운 오픈 웨이트 모델인 Qwen 3.8을 공개할 예정입니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
   "id": "889d2727d595ac6b",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213470",
   "source": "AI타임스",
@@ -72,6 +102,35 @@
   ]
  },
  {
+  "id": "3572c2948f57c298",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vee1ob/v4flash0731_vibes_after_first_weekend_of_use/",
+  "source": "r/LocalLLaMA",
+  "title": "V4-Flash-0731 - vibes after first weekend of use",
+  "published_at": "2026-08-03T13:51:37+00:00",
+  "collected_at": "2026-08-03T15:10:15.510809+00:00",
+  "title_ko": "V4-Flash 모델 양자화 성능 테스트 후기",
+  "summary_ko": "V4-Flash 모델의 다양한 양자화 버전(Q2, Q3)을 테스트한 결과, 양자화가 성능에 큰 타격을 준다는 실사용 소감입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "41f803aa02253f96",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vee0se/was_the_release_of_deepseek_v4_flash_planned_to/",
+  "source": "r/LocalLLaMA",
+  "title": "Was the release of deepseek v4 flash planned to take spotlight against 5.6 luna?",
+  "published_at": "2026-08-03T13:50:37+00:00",
+  "collected_at": "2026-08-03T15:10:15.510809+00:00",
+  "title_ko": "딥시크 V4 플래시 출시와 경쟁사 모델 견제 분석",
+  "summary_ko": "딥시크의 V4 플래시 출시 일정 조율이 경쟁사 모델 공개 시점과 맞물려 주목받고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "LLM"
+  ]
+ },
+ {
   "id": "251339dfe2d7379e",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213472",
   "source": "AI타임스",
@@ -84,6 +143,21 @@
   "tags": [
    "규제",
    "투자"
+  ]
+ },
+ {
+  "id": "7685e82c3b310eb9",
+  "url": "https://news.hada.io/topic?id=32105",
+  "source": "GeekNews",
+  "title": "환각으로 생성된 SQLite 취약점에 Critical CVE가 발급됨",
+  "published_at": "2026-08-03T13:32:28+00:00",
+  "collected_at": "2026-08-03T15:10:30.022133+00:00",
+  "title_ko": "AI 환각으로 생성된 SQLite 취약점에 Critical CVE 발급",
+  "summary_ko": "AI가 허위로 만들어낸 SQLite 취약점이 공인 기관에서 중요 CVE로 오인 발급되어 등록된 해프닝입니다.",
+  "category": "중요",
+  "tags": [
+   "규제",
+   "LLM"
   ]
  },
  {
@@ -100,6 +174,35 @@
    "Google",
    "Microsoft",
    "Amazon"
+  ]
+ },
+ {
+  "id": "347ef038ffc163a7",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ved2o0/70class_vram_stagnation/",
+  "source": "r/LocalLLaMA",
+  "title": "70-class VRAM stagnation",
+  "published_at": "2026-08-03T13:13:03+00:00",
+  "collected_at": "2026-08-03T15:10:15.510809+00:00",
+  "title_ko": "지속되는 데스크톱 x70 라인업의 VRAM 정체 현상",
+  "summary_ko": "엔비디아의 x70급 그래픽카드가 수세대 동안 12GB VRAM에 머물러 로컬 AI 모델 구동에 제약을 준다는 지적입니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
+  "id": "5f28592e3d91b21c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vecxhw/i_compared_mineru_granitedocling_and_paddleocrvl/",
+  "source": "r/LocalLLaMA",
+  "title": "I compared MinerU, Granite-Docling, and PaddleOCR-VL on 12 PDF-parsing capabilities using 6 document types",
+  "published_at": "2026-08-03T13:07:03+00:00",
+  "collected_at": "2026-08-03T15:10:15.510809+00:00",
+  "title_ko": "PDF 파싱 도구 3종 성능 비교",
+  "summary_ko": "MinerU, Granite-Docling, PaddleOCR-VL 등 주요 문서 파싱 도구의 12가지 PDF 처리 능력을 비교한 테스트입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
   ]
  },
  {
@@ -130,6 +233,21 @@
   "category": "속보",
   "tags": [
    "오픈소스"
+  ]
+ },
+ {
+  "id": "17ef45cacf935e37",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1veca9y/model_mtp_support_for_qwen3next_by_yomaytk_pull/",
+  "source": "r/LocalLLaMA",
+  "title": "model: MTP support for Qwen3-Next by yomaytk · Pull Request #25589 · ggml-org/llama.cpp",
+  "published_at": "2026-08-03T12:39:22+00:00",
+  "collected_at": "2026-08-03T15:10:15.510809+00:00",
+  "title_ko": "llama.cpp에 Qwen3-Next MTP 지원 추가",
+  "summary_ko": "llama.cpp 프로젝트에 Qwen3-Next 모델의 MTP(Multi-Token Prediction) 지원이 추가되어 빠른 속도로 구동할 수 있게 되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
   ]
  },
  {
@@ -180,6 +298,21 @@
   ]
  },
  {
+  "id": "9f8b7a200495ab1e",
+  "url": "https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004",
+  "source": "Hacker News",
+  "title": "The AI bubble is popping; we just don't know it yet",
+  "published_at": "2026-08-03T11:59:10+00:00",
+  "collected_at": "2026-08-03T15:10:14.477947+00:00",
+  "title_ko": "AI 거품론의 실체와 시장 진단",
+  "summary_ko": "현재 AI 업계의 과도한 기대와 거품이 서서히 꺼지고 있는 조짐을 분석한 기사입니다.",
+  "category": "중요",
+  "tags": [
+   "투자",
+   "규제"
+  ]
+ },
+ {
   "id": "038a86a3ca19cc15",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213457",
   "source": "AI타임스",
@@ -219,6 +352,35 @@
   "category": "참고",
   "tags": [
    "Google",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "6e38ee0db9d6037e",
+  "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+  "source": "Hacker News",
+  "title": "Critical CVE issued for hallucinated SQLite vulnerability",
+  "published_at": "2026-08-03T11:28:54+00:00",
+  "collected_at": "2026-08-03T15:09:56.642220+00:00",
+  "title_ko": "환각으로 생성된 SQLite 취약점에 Critical CVE 발급",
+  "summary_ko": "LLM의 환각 현상으로 인해 존재하지 않는 코드 취약점이 공식 보안 CVE로 등록된 사건에 대한 상세 분석입니다.",
+  "category": "중요",
+  "tags": [
+   "LLM"
+  ]
+ },
+ {
+  "id": "5cc7a8dbf672d105",
+  "url": "https://github.com/garagehq/nightcrawler/",
+  "source": "Hacker News",
+  "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+  "published_at": "2026-08-03T11:06:15+00:00",
+  "collected_at": "2026-08-03T15:10:14.477947+00:00",
+  "title_ko": "스마트폰에서 실행되는 로컬 AI 모의해킹 에이전트 공개",
+  "summary_ko": "스마트폰 환경에서 직접 구동할 수 있는 오픈소스 로컬 AI 펜테스팅 도구 Nightcrawler가 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트",
    "오픈소스"
   ]
  },
