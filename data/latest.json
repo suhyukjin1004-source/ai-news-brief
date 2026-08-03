@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-03T19:49:49.499420+00:00",
+ "updated_at": "2026-08-03T21:15:16.744239+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -17,6 +17,124 @@
     "OpenAI",
     "ChatGPT",
     "보안"
+   ]
+  },
+  {
+   "id": "94f24e3448e22121",
+   "url": "https://www.reddit.com/r/singularity/comments/1veptrc/open_ai_we_rebuilt_the_voice_stack_from_client_to/",
+   "source": "r/singularity",
+   "title": "OPEN AI: \"we rebuilt the voice stack from client to model.\"",
+   "published_at": "2026-08-03T21:00:09+00:00",
+   "collected_at": "2026-08-03T21:15:04.027543+00:00",
+   "title_ko": "OpenAI, 음성 스택 전면 재구축",
+   "summary_ko": "OpenAI가 클라이언트부터 모델까지 음성 처리 스택을 처음부터 다시 구축하여 실시간 음성 AI의 성능을 크게 향상시켰습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "a7447cce4a908a53",
+   "url": "https://www.reddit.com/r/singularity/comments/1vepsbk/open_ai_how_we_built_a_realtime_system_for/",
+   "source": "r/singularity",
+   "title": "OPEN AI: How we built a realtime system for responsive voice AI in six months",
+   "published_at": "2026-08-03T20:58:40+00:00",
+   "collected_at": "2026-08-03T21:15:04.027543+00:00",
+   "title_ko": "OpenAI의 실시간 반응형 음성 AI 구축기",
+   "summary_ko": "OpenAI가 6개월 만에 반응형 실시간 음성 AI 시스템을 개발한 과정과 기술적 배경을 공개했습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI"
+   ]
+  },
+  {
+   "id": "bd92d60626042ad4",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1veow4b/deepseek_v4flash_284b_moe_at_33_toks_single_68/",
+   "source": "r/LocalLLaMA",
+   "title": "DeepSeek V4-Flash (284B MoE) at 33 tok/s single / 68 tok/s aggregate on 2× RTX 3090 + a used quad-Xeon DDR4 server — full config",
+   "published_at": "2026-08-03T20:25:21+00:00",
+   "collected_at": "2026-08-03T21:14:51.164257+00:00",
+   "title_ko": "일반 하드웨어에서 구동되는 DeepSeek V4-Flash",
+   "summary_ko": "상용 중고 하드웨어 환경에서 DeepSeek V4-Flash MoE 모델을 구동하고 성능을 측정한 테스트 결과가 공유되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "bf6846f82488543a",
+   "url": "https://www.reddit.com/r/singularity/comments/1veojfo/chinese_researchers_create_neural_network_for/",
+   "source": "r/singularity",
+   "title": "Chinese Researchers Create Neural Network for Modeling Human Concept Formation",
+   "published_at": "2026-08-03T20:12:21+00:00",
+   "collected_at": "2026-08-03T21:15:04.027543+00:00",
+   "title_ko": "인간의 개념 형식을 모델링하는 신경망 개발",
+   "summary_ko": "중국 연구진이 인간이 개념을 형성하는 과정을 모방하는 새로운 신경망 모델을 개발했습니다.",
+   "category": "참고",
+   "tags": [
+    "연구"
+   ]
+  },
+  {
+   "id": "d2099660b47a4fe7",
+   "url": "https://www.reddit.com/r/singularity/comments/1veoeho/the_us_lead_over_china_in_ai_is_all_but_gone/",
+   "source": "r/singularity",
+   "title": "The U.S. lead over China in AI is all but gone.",
+   "published_at": "2026-08-03T20:07:15+00:00",
+   "collected_at": "2026-08-03T21:15:04.027543+00:00",
+   "title_ko": "미국의 대중국 AI 우위 약화",
+   "summary_ko": "미국이 지니고 있던 AI 분야의 압도적인 기술 우위가 거의 사라졌다는 분석이 제기되었습니다.",
+   "category": "중요",
+   "tags": [
+    "규제",
+    "투자"
+   ]
+  },
+  {
+   "id": "9954f1db1e1715ea",
+   "url": "https://www.reddit.com/r/singularity/comments/1veo9ed/qwen_38_max_artificial_analysis_scores/",
+   "source": "r/singularity",
+   "title": "Qwen 3.8 Max Artificial analysis scores",
+   "published_at": "2026-08-03T20:02:06+00:00",
+   "collected_at": "2026-08-03T21:15:04.027543+00:00",
+   "title_ko": "Qwen 3.8 Max의 인공 분석 점수 공개",
+   "summary_ko": "새로운 대형 언어 모델 Qwen 3.8 Max의 성능 평가 점수가 공개되며 높은 관심을 받고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "Gemini"
+   ]
+  },
+  {
+   "id": "06f39bba1d35d5fd",
+   "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+   "source": "TechCrunch",
+   "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+   "published_at": "2026-08-03T20:00:00+00:00",
+   "collected_at": "2026-08-03T21:14:41.313972+00:00",
+   "title_ko": "AWS, 바이브 코딩 스타트업 슈퍼블록스와 협력",
+   "summary_ko": "AWS가 바이브 코딩 도구 슈퍼블록스를 고객사 프라이빗 클라우드에 통합할 수 있도록 지원하며 앱과 모델의 분리를 가속화하고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "AWS",
+    "코딩"
+   ]
+  },
+  {
+   "id": "f3309b4cc5bf6080",
+   "url": "https://www.reddit.com/r/singularity/comments/1venz73/which_subs_are_taking_specifically_about_building/",
+   "source": "r/singularity",
+   "title": "Which subs are taking specifically about building AI-first systems for software teams?",
+   "published_at": "2026-08-03T19:51:44+00:00",
+   "collected_at": "2026-08-03T21:15:04.027543+00:00",
+   "title_ko": "소프트웨어 팀을 위한 AI 시스템 구축 커뮤니티",
+   "summary_ko": "개발팀을 위한 AI 중심 시스템 구축을 심도 있게 다루는 커뮤니티와 논의 장소에 대한 관심이 높아지고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
    ]
   },
   {
@@ -48,6 +166,21 @@
    "tags": [
     "투자",
     "AI 평가"
+   ]
+  },
+  {
+   "id": "41cd01adf8a2cfb5",
+   "url": "https://www.reddit.com/r/singularity/comments/1ven8ow/is_anyone_else_surprised_google_deepmind_isnt/",
+   "source": "r/singularity",
+   "title": "Is anyone else surprised Google DeepMind isn't leading these mathematical benchmarks?",
+   "published_at": "2026-08-03T19:24:38+00:00",
+   "collected_at": "2026-08-03T21:15:04.027543+00:00",
+   "title_ko": "구글 딥마인드의 수학 벤치마크 주도권 의문",
+   "summary_ko": "과거 수학 AI 연구를 선도했던 딥마인드가 최근 고난도 수학 벤치마크에서 오픈바이너리에 비해 눈에 띄지 않는 이유에 대한 토론이 이어지고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "Google",
+    "OpenAI"
    ]
   },
   {
@@ -92,6 +225,20 @@
    "tags": [
     "로보틱스",
     "규제"
+   ]
+  },
+  {
+   "id": "e395330ed18d58ed",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1velyl9/new_models_supra2100m_base_and_instruct_go_check/",
+   "source": "r/LocalLLaMA",
+   "title": "[NEW MODELS!] Supra2-100M Base and Instruct - go check them out!",
+   "published_at": "2026-08-03T18:38:22+00:00",
+   "collected_at": "2026-08-03T21:14:51.164257+00:00",
+   "title_ko": "경량 오픈소스 모델 Supra2-100M 출시",
+   "summary_ko": "커뮤니티 피드백을 바탕으로 개발된 경량 소형 언어 모델 Supra2-100M 베이스 및 인스트럭트 버전이 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스"
    ]
   },
   {
@@ -143,6 +290,20 @@
    ]
   },
   {
+   "id": "78e283b192c95fcb",
+   "url": "https://www.reddit.com/r/singularity/comments/1vekx18/light_origins_humanoid_robot_can_see_think_and/",
+   "source": "r/singularity",
+   "title": "Light Origins' humanoid robot can see, think, and act on the world all by itself",
+   "published_at": "2026-08-03T18:00:51+00:00",
+   "collected_at": "2026-08-03T21:15:04.027543+00:00",
+   "title_ko": "자체 판단으로 장애물 극복하는 휴머노이드 로봇",
+   "summary_ko": "라이트 오리진이 단일 신경망 정책을 통해 주변을 인식하고 스스로 판단해 지형을 극복하는 휴머노이드 로봇을 선보였습니다.",
+   "category": "중요",
+   "tags": [
+    "로보틱스"
+   ]
+  },
+  {
    "id": "eac36eccdfc8baae",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213460",
    "source": "AI타임스",
@@ -169,6 +330,21 @@
    "category": "참고",
    "tags": [
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "9253af7ae3e18b94",
+   "url": "https://www.reddit.com/r/singularity/comments/1vekak6/software_post_scarcity/",
+   "source": "r/singularity",
+   "title": "Software post scarcity?",
+   "published_at": "2026-08-03T17:38:47+00:00",
+   "collected_at": "2026-08-03T21:15:04.027543+00:00",
+   "title_ko": "AI를 통한 소프트웨어 생산 비용의 급감",
+   "summary_ko": "AI 챗봇을 활용해 고가의 상용 소프트웨어를 직접 구축하는 사례가 늘어나면서 소프트웨어 생산의 희소성이 점차 사라지고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "코딩"
    ]
   },
   {
@@ -246,6 +422,21 @@
    "tags": [
     "NVIDIA",
     "로보틱스"
+   ]
+  },
+  {
+   "id": "d3b30518678c1a6b",
+   "url": "https://www.reddit.com/r/singularity/comments/1veje3t/models_are_now_training_models/",
+   "source": "r/singularity",
+   "title": "Models are now training models.",
+   "published_at": "2026-08-03T17:06:14+00:00",
+   "collected_at": "2026-08-03T21:15:04.027543+00:00",
+   "title_ko": "AI 모델이 직접 다른 모델을 학습시키는 기술 등장",
+   "summary_ko": "Intology의 Locus 시스템이 Qwen3 기반 모델을 활용해 상위 모델로 추가 학습시키는 데 성공했다. AI가 스스로 발전하는 자동 학습 파이프라인의 가능성을 보여준다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
    ]
   },
   {
@@ -394,6 +585,22 @@
    "category": "속보",
    "tags": [
     "오픈소스"
+   ]
+  },
+  {
+   "id": "29341eb57cefc00c",
+   "url": "https://www.reddit.com/r/singularity/comments/1vehiq5/trump_admin_invited_openai_anthropic_and_google/",
+   "source": "r/singularity",
+   "title": "Trump admin invited OpenAI, Anthropic and Google to the White House on Tuesday to preview the new AI voluntary framework, AI companies were lobbying for specific language on issues including open-source",
+   "published_at": "2026-08-03T15:59:53+00:00",
+   "collected_at": "2026-08-03T21:15:04.027543+00:00",
+   "title_ko": "백악관, 오픈AI·앤스로픽·구글 초청해 AI 자발적 가이드라인 논의",
+   "summary_ko": "바이든 행정부의 AI 행정명령 가이드라인이 완성 단계에 이르렀으며, 빅테크 기업들과 오픈소스 등 세부 쟁점을 조율 중이다. 향후 AI 산업 규제 방향에 큰 영향을 미칠 전망이다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "Anthropic",
+    "Google"
    ]
   },
   {
@@ -674,6 +881,21 @@
     "Google",
     "Microsoft",
     "Amazon"
+   ]
+  },
+  {
+   "id": "5937a7011681a4e5",
+   "url": "https://www.reddit.com/r/singularity/comments/1ved70l/reminder_openai_introducing_kbd10codexmicro/",
+   "source": "r/singularity",
+   "title": "Reminder: OpenAI introducing kbd-1.0-codex-micro",
+   "published_at": "2026-08-03T13:18:02+00:00",
+   "collected_at": "2026-08-03T21:15:04.027543+00:00",
+   "title_ko": "오픈AI, 코딩용 소형 모델 kbd-1.0-codex-micro 준비",
+   "summary_ko": "오픈AI가 새로운 코딩 특화 마이크로 모델을 도입할 예정인 것으로 알려졌다. 개발자 생태계에서 가볍고 빠른 코딩 지원 도구로 활용될 것으로 기대된다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "코딩"
    ]
   },
   {
@@ -1080,6 +1302,21 @@
    ]
   },
   {
+   "id": "3e25d4df5baefb01",
+   "url": "https://www.reddit.com/r/singularity/comments/1ve6k6v/qwen_38_morning_to_you_too_dario_2_input_6_output/",
+   "source": "r/singularity",
+   "title": "Qwen 3.8 morning to you too Dario, 2$ input/ 6$ output per 1M.",
+   "published_at": "2026-08-03T07:31:53+00:00",
+   "collected_at": "2026-08-03T21:15:04.027543+00:00",
+   "title_ko": "알리바바, 고성능 Qwen 3.8 모델 API 가격 공개",
+   "summary_ko": "알리바바가 Qwen 3.8 모델을 공개하며 100만 토큰당 입력 2달러, 출력 6달러의 경쟁력 있는 API 가격을 제시했다. LLM 시장의 가격 경쟁이 더욱 치열해지고 있다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "Gemini"
+   ]
+  },
+  {
    "id": "bfac6dd621d8b732",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ve6ds2/döner_bench_deepseekv4flash_iq2_xs_running_on_a/",
    "source": "r/LocalLLaMA",
@@ -1106,6 +1343,21 @@
    "category": "참고",
    "tags": [
     "투자"
+   ]
+  },
+  {
+   "id": "d04cc35bd3ccb8a5",
+   "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+   "source": "OpenAI",
+   "title": "How we built a realtime system for responsive voice AI in six months",
+   "published_at": "2026-08-03T07:00:00+00:00",
+   "collected_at": "2026-08-03T21:14:42.692183+00:00",
+   "title_ko": "오픈AI, 6개월 만에 실시간 음성 AI 시스템 구축 비결 공개",
+   "summary_ko": "GPT-Live는 턴 방식이 아닌 자연스러운 실시간 음성 상호작용을 지원하며, 저지연 아키텍처를 통해 대화의 자연스러움을 극대화했다. 음성 AI의 응답 속도와 품질을 크게 개선한 사례다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "AI 에이전트"
    ]
   },
   {
@@ -1289,6 +1541,20 @@
    ]
   },
   {
+   "id": "2594792eacdd334b",
+   "url": "https://www.reddit.com/r/singularity/comments/1ve0hp7/qwen_38_max_benchmarks/",
+   "source": "r/singularity",
+   "title": "Qwen 3.8 max benchmarks",
+   "published_at": "2026-08-03T02:11:06+00:00",
+   "collected_at": "2026-08-03T21:15:04.027543+00:00",
+   "title_ko": "알리바바 Qwen 3.8 맥스 벤치마크 성적 공개",
+   "summary_ko": "알리바바의 최신 대형 언어 모델 Qwen 3.8 Max의 성능 평가 결과가 발표되었다. 오픈소스 AI의 성능이 최고 수준에 도달했음을 보여준다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
    "id": "558f72e7b0baf287",
    "url": "https://news.hada.io/topic?id=32084",
    "source": "GeekNews",
@@ -1406,6 +1672,20 @@
     "오픈소스",
     "LLM",
     "양자화"
+   ]
+  },
+  {
+   "id": "8ab6abbada41f322",
+   "url": "https://www.reddit.com/r/singularity/comments/1vdurxs/on_second_thought_maybe_there_should_be_ai/",
+   "source": "r/singularity",
+   "title": "On second thought, maybe there should be AI regulation 🤔",
+   "published_at": "2026-08-02T21:55:07+00:00",
+   "collected_at": "2026-08-03T21:15:04.027543+00:00",
+   "title_ko": "AI 규제 필요성에 대한 업계 인식 변화",
+   "summary_ko": "급속한 AI 발전 속도에 맞춰 AI 규제와 안전장치의 필요성에 공감하는 목소리가 커지고 있다. AI 거버넌스 논의에 영향을 미칠 것으로 보인다.",
+   "category": "참고",
+   "tags": [
+    "규제"
    ]
   },
   {
@@ -2704,292 +2984,6 @@
    "tags": [
     "DeepSeek",
     "오픈소스"
-   ]
-  },
-  {
-   "id": "c13430ea4ec5f221",
-   "url": "https://news.hada.io/topic?id=32043",
-   "source": "GeekNews",
-   "title": "Claude 사이버보안 평가가 실제 조직 3곳을 침해한 사건",
-   "published_at": "2026-08-01T19:33:10+00:00",
-   "collected_at": "2026-08-01T21:05:10.945044+00:00",
-   "title_ko": "클로드 사이버보안 평가 중 실제 조직 침해 사고",
-   "summary_ko": "앤트로픽의 사이버보안 평가 과정에서 환경 설정 오류로 인해 클로드가 실제 조직 3곳의 프로덕션 인프라에 무단 접근한 사건이 발생했습니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "Claude",
-    "보안"
-   ]
-  },
-  {
-   "id": "5e957ecae6de5220",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcwaag/fix_for_deep_seek_v4_flash_0731_tool_calling_has/",
-   "source": "r/LocalLLaMA",
-   "title": "Fix for Deep Seek v4 Flash 0731 tool calling has been added to llama cpp",
-   "published_at": "2026-08-01T19:26:53+00:00",
-   "collected_at": "2026-08-01T21:04:55.471248+00:00",
-   "title_ko": "llama.cpp의 DeepSeek V4 Flash 툴 콜링 수정 적용",
-   "summary_ko": "llama.cpp에 DeepSeek V4 Flash 모델의 툴 콜링 오류와 무한 루프 문제를 해결하는 패치가 추가되었습니다.",
-   "category": "팁",
-   "tags": [
-    "DeepSeek",
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "6d61db79de4226f9",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213438",
-   "source": "AI타임스",
-   "title": "문샷, 알리바바서 엔비디아 GPU 2만개 공급받아 '키미 K3' 개발",
-   "published_at": "2026-08-01T19:10:51+00:00",
-   "collected_at": "2026-08-01T11:25:05.723741+00:00",
-   "title_ko": "문샷 AI, 알리바바로부터 엔비디아 GPU 2만 개 확보",
-   "summary_ko": "중국 문샷 AI가 알리바바로부터 엔비디아 GPU 2만 개를 공급받아 신형 '키미 K3' 개발에 활용하고 있습니다. 미국의 고강도 반도체 규제 속에서도 중국 기업들의 고성능 인프라 확보가 지속되고 있음을 보여줍니다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "반도체",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "2124f6a33cbdf447",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcvtpe/safety_and_reliability_of_a_dual_psu_config/",
-   "source": "r/LocalLLaMA",
-   "title": "Safety and reliability of a dual PSU config",
-   "published_at": "2026-08-01T19:08:54+00:00",
-   "collected_at": "2026-08-01T19:22:58.560958+00:00",
-   "title_ko": "고성능 AI 렌더링 워크스테이션용 듀얼 파워서플라이 구성",
-   "summary_ko": "RTX Pro와 5090 등 고성능 GPU를 다수 탑재하기 위한 2,400W 전력 공급 및 듀얼 파워 구성 방안을 논의합니다.",
-   "category": "참고",
-   "tags": [
-    "NVIDIA",
-    "반도체"
-   ]
-  },
-  {
-   "id": "e8931df0210ca96e",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213439",
-   "source": "AI타임스",
-   "title": "“저렴한 AI가 더 많은 수요 만든다”...오픈AI, 가격 인하 후 사용자 10억 발표",
-   "published_at": "2026-08-01T18:32:03+00:00",
-   "collected_at": "2026-08-01T11:25:05.723741+00:00",
-   "title_ko": "오픈AI, 가격 인하 힘입어 사용자 10억 명 돌파",
-   "summary_ko": "오픈AI가 대규모 가격 인하 이후 활성 사용자 10억 명과 기업 고객 200만 개사를 돌파했다고 발표했습니다. 저렴한 AI 서비스가 수요를 견인하고 다시 인프라 투자로 이어지는 선순환 구조를 강조했습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "GPT",
-    "투자"
-   ]
-  },
-  {
-   "id": "188a0f7c2e3cdaaf",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
-   "source": "The Verge",
-   "title": "Is this Billboard Hot 100 hit AI slop?",
-   "published_at": "2026-08-01T18:20:00+00:00",
-   "collected_at": "2026-08-01T19:22:25.547421+00:00",
-   "title_ko": "AI 생성 음악의 빌보드 차트 진입 논란",
-   "summary_ko": "AI로 제작된 것으로 의심되는 곡이 빌보드 차트에 오르며 음악계의 AI 생성 콘텐츠 저작권 및 진위 논란이 가중되고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "a8f483e2289ca35f",
-   "url": "https://news.hada.io/topic?id=32040",
-   "source": "GeekNews",
-   "title": "죽어가던 소프트웨어: relayd(8)와 httpd(8)의 지속적인 진화",
-   "published_at": "2026-08-01T18:01:56+00:00",
-   "collected_at": "2026-08-01T19:23:05.275884+00:00",
-   "title_ko": "LLM 시대의 C언어 및 오픈소스 소프트웨어 개발",
-   "summary_ko": "LLM이 코딩을 대체하는 시기에도 운영체제 백엔드 등 오픈소스 C 프로그램 개발에 기여하는 개발자들의 움직임이 조명받고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "fddbcd0593b0263f",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213433",
-   "source": "AI타임스",
-   "title": "미니맥스, 텍스트·오디오 통합 멀티모달 영상 AI 'H3' 공개... \"오픈웨이트로 시댄스에 도전\"",
-   "published_at": "2026-08-01T17:54:51+00:00",
-   "collected_at": "2026-08-01T09:13:43.400966+00:00",
-   "title_ko": "미니맥스, 텍스트·오디오 통합 멀티모달 영상 AI 'H3' 공개",
-   "summary_ko": "미니맥스가 텍스트, 이미지, 영상, 오디오를 통합 처리하는 범용 멀티모달 생성 모델 'H3'를 공개하고 오픈웨이트 공개를 예고했습니다. 최상위권 벤치마크 성능으로 업계의 주목을 받고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "멀티모달",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "2ee16ca61ca0455f",
-   "url": "https://www.reddit.com/r/singularity/comments/1vctncb/one_year_ago/",
-   "source": "r/singularity",
-   "title": "One year ago",
-   "published_at": "2026-08-01T17:42:52+00:00",
-   "collected_at": "2026-08-01T19:23:03.562467+00:00",
-   "title_ko": "GPT-5 수학 능력 논란 1주년",
-   "summary_ko": "과거 GPT 모델의 기초적인 수학 연산 성능을 두고 벌어졌던 커뮤니티 내 논쟁이 회자되고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "GPT"
-   ]
-  },
-  {
-   "id": "13400cb54686552d",
-   "url": "https://news.hada.io/topic?id=32039",
-   "source": "GeekNews",
-   "title": "가짜 저자를 신고한 연구 논문 두 편이 모두 구두 발표로 채택됨",
-   "published_at": "2026-08-01T17:34:20+00:00",
-   "collected_at": "2026-08-01T19:23:05.275884+00:00",
-   "title_ko": "학술 논문 심사 과정의 만연한 LLM 환각 인용 문제",
-   "summary_ko": "주요 AI 학회 심사 논문 다수에서 LLM이 생성한 가짜 인용과 조작된 저자 목록이 발견되어 학술계의 검증 부실이 도마에 올랐습니다.",
-   "category": "중요",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "b75b46584f1a0970",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vct09w/deepseek_v4_flash_0731_still_not_holding_up/",
-   "source": "r/LocalLLaMA",
-   "title": "Deepseek v4 flash 0731 still not holding up.",
-   "published_at": "2026-08-01T17:16:45+00:00",
-   "collected_at": "2026-08-01T19:22:58.560958+00:00",
-   "title_ko": "DeepSeek V4 Flash 프롬프트 지시사항 준수 한계",
-   "summary_ko": "DeepSeek의 신규 모델이 복잡한 룰이나 스킬 프롬프트를 무시하는 경향이 있어 실무 프론티어 급 활용에 제약이 있다는 평가입니다.",
-   "category": "참고",
-   "tags": [
-    "DeepSeek",
-    "LLM"
-   ]
-  },
-  {
-   "id": "ba0eb6022ed8437e",
-   "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-   "source": "TechCrunch",
-   "title": "Sam Altman is still making the case for parenting via ChatGPT",
-   "published_at": "2026-08-01T17:07:34+00:00",
-   "collected_at": "2026-08-01T17:10:18.500100+00:00",
-   "title_ko": "오픈AI CEO 샘 알트만의 ChatGPT 육아 활용법 강조",
-   "summary_ko": "샘 알트만이 부모들을 위한 ChatGPT의 새로운 활용 사례를 소개하며 AI를 육아에 활용하는 방안을 언급했습니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "GPT",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "3b98ae674274b847",
-   "url": "https://www.reddit.com/r/singularity/comments/1vcsrwh/deepseek_v4_flash_0731_in_hermes_agent_and_one/",
-   "source": "r/singularity",
-   "title": "DeepSeek V4 Flash 0731 in Hermes Agent and one prompt, took 32 minutes and cost 0.07$, this model is so cheap to the point where 2 dollars can last you a full day.",
-   "published_at": "2026-08-01T17:07:28+00:00",
-   "collected_at": "2026-08-01T19:23:03.562467+00:00",
-   "title_ko": "저렴한 비용으로 구동되는 DeepSeek V4 Flash 에이전트",
-   "summary_ko": "DeepSeek V4 Flash 모델이 매우 낮은 비용으로 AI 에이전트 작업을 수행할 수 있어 경제성이 높다는 평가를 받고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "DeepSeek",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "9ab617f971d8a7c0",
-   "url": "https://www.reddit.com/r/singularity/comments/1vcrzhg/this_is_why_abandon_that_office_joblearn_a_trade/",
-   "source": "r/singularity",
-   "title": "This is why \"abandon that office job\"/\"learn a trade\" is not going to help you when stronger algorithms and easier, more widespread adoption comes. Executives see this as the end goal of all forms of human employment.",
-   "published_at": "2026-08-01T16:35:43+00:00",
-   "collected_at": "2026-08-01T19:23:03.562467+00:00",
-   "title_ko": "고도화된 알고리즘 시대의 고용 시장 전망",
-   "summary_ko": "강력한 AI 알고리즘의 확산이 단순 사무직을 넘어 전반적인 화이트칼라 고용 환경을 대체할 것이라는 전망이 제기되고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "투자"
-   ]
-  },
-  {
-   "id": "86843a05c5d6b7d3",
-   "url": "https://news.hada.io/topic?id=32038",
-   "source": "GeekNews",
-   "title": "수학과 이론 컴퓨터 과학의 10가지 진전",
-   "published_at": "2026-08-01T16:32:17+00:00",
-   "collected_at": "2026-08-01T19:23:05.275884+00:00",
-   "title_ko": "OpenAI 차기 모델의 수학 및 이론 컴퓨터과학 난제 해결",
-   "summary_ko": "OpenAI의 차기 모델 내부 버성이 수년간 미해결 상태였던 수학과 암호학 등의 난제에서 새로운 해법을 도출해 주목받고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "GPT"
-   ]
-  },
-  {
-   "id": "3ecf2c12e0a4946e",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcrd6d/deepseek_v4_flash_0731_iq2_m_benchmark_for_dual/",
-   "source": "r/LocalLLaMA",
-   "title": "DeepSeek V4 Flash 0731 IQ2_M benchmark for Dual 3060 and 96GB RAM ≈ 3.5 tok/s.",
-   "published_at": "2026-08-01T16:10:45+00:00",
-   "collected_at": "2026-08-01T17:10:23.505646+00:00",
-   "title_ko": "듀얼 RTX 3060 환경의 DeepSeek V4 벤치마크 공유",
-   "summary_ko": "96GB RAM과 듀얼 3060 환경에서 로컬로 구동한 DeepSeek V4 Flash 모델의 성능 테스트 결과가 공유되었습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "27a73b0b4338d0c5",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcqpn4/eu_ai_act_takes_effect_tomorrow_august_2_2026/",
-   "source": "r/LocalLLaMA",
-   "title": "EU AI Act takes effect tomorrow, August 2, 2026. 🤡",
-   "published_at": "2026-08-01T15:44:58+00:00",
-   "collected_at": "2026-08-01T17:10:23.505646+00:00",
-   "title_ko": "EU 인공지능법(AI Act) 본격 시행",
-   "summary_ko": "AI가 생성한 모든 이미지, 오디오, 비디오, 텍스트에 AI 생성물임을 명시해야 하는 EU AI 규제가 시행되었습니다.",
-   "category": "중요",
-   "tags": [
-    "규제",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "4d5fae1924874425",
-   "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-   "source": "Hacker News",
-   "title": "Cursor removed cost information from the usage page and CSV export",
-   "published_at": "2026-08-01T15:25:21+00:00",
-   "collected_at": "2026-08-01T19:22:31.116115+00:00",
-   "title_ko": "Cursor 사용량 페이지의 비용 정보 삭제 논란",
-   "summary_ko": "AI 코딩 보조 도구 Cursor가 사용량 페이지와 CSV 내보내기에서 비용 정보를 제거하여 사용자들의 반발과 궁금증을 사고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "코딩"
-   ]
-  },
-  {
-   "id": "ea1739cb736f5e29",
-   "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
-   "source": "Hacker News",
-   "title": "Explorative modeling: Train on the best of K guesses",
-   "published_at": "2026-08-01T15:23:15+00:00",
-   "collected_at": "2026-08-02T10:05:28.447766+00:00",
-   "title_ko": "최적의 추론을 학습하는 탐색적 모델링 기법",
-   "summary_ko": "여러 후보 추론 중 가장 우수한 결과를 바탕으로 모델을 학습시키는 탐색적 모델링 방법론이 소개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "머신러닝"
    ]
   }
  ]
