@@ -61,6 +61,21 @@
   ]
  },
  {
+  "id": "13e287b0cd3eb3b7",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+  "source": "The Verge",
+  "title": "Europe’s AI labeling and transparency rules are now in effect",
+  "published_at": "2026-08-03T17:38:45+00:00",
+  "collected_at": "2026-08-03T18:00:06.952593+00:00",
+  "title_ko": "유럽연합 AI 법의 투명성 및 라벨링 규제 본격 시행",
+  "summary_ko": "EU의 AI 법에 따른 투명성 의무가 발효되어, 기업들은 챗봇과 AI 딥페이크 콘텐츠 제공 시 이를 의무적으로 공개해야 합니다.",
+  "category": "중요",
+  "tags": [
+   "규제",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "c0c5b730a587f32a",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213494",
   "source": "AI타임스",
@@ -152,6 +167,20 @@
   ]
  },
  {
+  "id": "3e77fb90b2a7905a",
+  "url": "https://news.hada.io/topic?id=32110",
+  "source": "GeekNews",
+  "title": "이제 모델 선택 기준은 지능보다 속도",
+  "published_at": "2026-08-03T17:01:52+00:00",
+  "collected_at": "2026-08-03T18:00:38.051712+00:00",
+  "title_ko": "AI 모델 선택 기준의 변화: 지능에서 속도로",
+  "summary_ko": "코딩과 리서치 등 복잡한 작업에서 일정 수준 이상의 지능이 확보되면서, 실사용 시 모델 선택의 핵심 기준이 속도로 이동하고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "LLM"
+  ]
+ },
+ {
   "id": "de9924504ca57419",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213495",
   "source": "AI타임스",
@@ -163,6 +192,36 @@
   "category": "참고",
   "tags": [
    "반도체"
+  ]
+ },
+ {
+  "id": "ee18a630b726fc2c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1veipya/the_chinese_labs_everyone_lumps_together_are/",
+  "source": "r/LocalLLaMA",
+  "title": "The Chinese labs everyone lumps together are making four pretty different bets. I work at one of them.",
+  "published_at": "2026-08-03T16:42:42+00:00",
+  "collected_at": "2026-08-03T18:00:23.527366+00:00",
+  "title_ko": "중국 오픈소스 AI 연구소들의 서로 다른 전략",
+  "summary_ko": "알리바바와 앤트 등 중국 주요 AI 연구소들이 오픈소스 생태계에서 각각 차별화된 배포 및 개발 전략을 전개하고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "Alibaba"
+  ]
+ },
+ {
+  "id": "16bd0e2adad94512",
+  "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+  "source": "TechCrunch",
+  "title": "Congress’s favorite AI tool? ChatGPT",
+  "published_at": "2026-08-03T16:40:55+00:00",
+  "collected_at": "2026-08-03T18:00:06.829326+00:00",
+  "title_ko": "미국 의회에서 가장 인기 있는 AI 도구는 ChatGPT",
+  "summary_ko": "미국 하원 지출 기록에 따르면 의원실에서 메모 작성과 법안 요약 등을 위해 ChatGPT를 가장 널리 활용하고 있는 것으로 나타났습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "GPT"
   ]
  },
  {
@@ -179,6 +238,109 @@
    "로보티즈",
    "로보틱스",
    "오픈소스"
+  ]
+ },
+ {
+  "id": "4395e81e84cb079e",
+  "url": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything",
+  "source": "Simon Willison",
+  "title": "Quoting David Crawshaw's prompt",
+  "published_at": "2026-08-03T16:15:27+00:00",
+  "collected_at": "2026-08-03T18:00:22.639633+00:00",
+  "title_ko": "LLM을 활용한 업스트림 코드 자동 리베이스 크론잡 설정",
+  "summary_ko": "오픈소스 개발 도구 환경에서 LLM과 코딩 에이전트를 활용해 매일 자동으로 최신 소스코드를 가져와 리베이스하는 프롬프트 활용법입니다.",
+  "category": "팁",
+  "tags": [
+   "코딩 에이전트",
+   "prompt-engineering",
+   "LLMs"
+  ]
+ },
+ {
+  "id": "08cbc75bffa767d4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vehn87/i_cannot_believe_ive_got_deepseekv4flash0731_a/",
+  "source": "r/LocalLLaMA",
+  "title": "I CANNOT believe I've got DeepSeek-V4-Flash-0731, a frontier model, running on my home PC. Insane!",
+  "published_at": "2026-08-03T16:04:04+00:00",
+  "collected_at": "2026-08-03T18:00:23.527366+00:00",
+  "title_ko": "개인용 PC에서 구동되는 딥시크 프런티어 모델",
+  "summary_ko": "일반적인 24GB VRAM을 갖춘 홈 PC에서도 딥시크 양자화 모델을 구동할 수 있게 되며 온디바이스 AI의 발전상을 보여주고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "ced46258577e083b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vegzd6/an_espresso_qa_model_running_fully_offline_on_an/",
+  "source": "r/LocalLLaMA",
+  "title": "an espresso Q/A model running fully offline on an ESP32S3",
+  "published_at": "2026-08-03T15:40:31+00:00",
+  "collected_at": "2026-08-03T18:00:23.527366+00:00",
+  "title_ko": "ESP32 마이크로컨트롤러에서 완전히 오프라인으로 실행되는 에스프레소 QA 모델",
+  "summary_ko": "클라우드 연결 없이 저전력 ESP32 칩에서 비동기 임베딩과 비대칭 어휘를 활용해 에스프레소 트러블슈팅 모델을 구동하는 데 성공했습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "488dcd4533515e8a",
+  "url": "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything",
+  "source": "Simon Willison",
+  "title": "Devtools must be open source (exe.dev)",
+  "published_at": "2026-08-03T15:30:38+00:00",
+  "collected_at": "2026-08-03T18:00:22.639633+00:00",
+  "title_ko": "LLM 시대에 오픈소스 개발 도구가 중요한 이유",
+  "summary_ko": "LLM의 등장으로 일반 개발자도 복잡한 소스코드를 쉽게 분석하고 수정할 수 있게 되면서 오픈소스 소프트웨어의 진정한 가치가 실현되고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLMs"
+  ]
+ },
+ {
+  "id": "0c0fd731687e4433",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vegkq5/all_deepseek_model_oneshots_242_outputs_to_look/",
+  "source": "r/LocalLLaMA",
+  "title": "All DeepSeek model oneshots: 242 outputs to look at and compare!",
+  "published_at": "2026-08-03T15:25:47+00:00",
+  "collected_at": "2026-08-03T18:00:23.527366+00:00",
+  "title_ko": "딥시크 다양한 모델 버전별 성능 비교 결과 공개",
+  "summary_ko": "동일한 프롬프트 세트를 이용해 10개의 딥시크 모델 출력을 비교한 테스트 결과가 오픈소스 커뮤니티에 공개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "e072d5dac7f82e64",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vegedy/deepseek_v4_flash_0731_happy_numbers_700pp18tg/",
+  "source": "r/LocalLLaMA",
+  "title": "DeepSeek V4 Flash 0731 - Happy Numbers (700pp/18tg) and Thoughts",
+  "published_at": "2026-08-03T15:19:20+00:00",
+  "collected_at": "2026-08-03T18:00:23.527366+00:00",
+  "title_ko": "최적화 설정을 통한 딥시크 V4 플래시 로컬 구동 성능 향상",
+  "summary_ko": "하드웨어 최적화 설정을 적용해 스레드리퍼와 RTX 5090 환경에서 딥시크 V4 플래시 모델의 프롬프트 처리 및 생성 속도를 극대화했습니다.",
+  "category": "팁",
+  "tags": [
+   "NVIDIA",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "894f29a689615cf8",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1veg9uq/data_center_in_a_box_on_wheels_256gb_vram512gb/",
+  "source": "r/LocalLLaMA",
+  "title": "\"Data center in a Box (on Wheels)\" 256Gb VRAM/512Gb RAM AI Server 6-8 Month Operational Review, Stability Write Up, Benchmarks",
+  "published_at": "2026-08-03T15:14:40+00:00",
+  "collected_at": "2026-08-03T18:00:23.527366+00:00",
+  "title_ko": "이동형 AI 서버 구축 및 6개월 운영 후기",
+  "summary_ko": "고용량 VRAM과 RAM을 탑재한 이동형 AI 서버를 구축하고 실제 운영하며 얻은 인프라 관점의 안정성 및 벤치마크 리뷰입니다.",
+  "category": "참고",
+  "tags": [
+   "반도체"
   ]
  }
 ]
