@@ -32,6 +32,21 @@
   ]
  },
  {
+  "id": "15b7a7df4de8727a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfhhpq/no_more_slm_opensource/",
+  "source": "r/LocalLLaMA",
+  "title": "No more SLM open-source??",
+  "published_at": "2026-08-04T17:45:56+00:00",
+  "collected_at": "2026-08-04T17:59:36.897373+00:00",
+  "title_ko": "소형 오픈소스 LLM 출시 중단 우려 제기",
+  "summary_ko": "최근 업계에서 소형 언어 모델(SLM)의 오픈소스 공개가 줄어들고 있다는 우려가 제기되었습니다. 향후 오픈소스 생태계 변화에 주목할 필요가 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "413e275cc88a7181",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213510",
   "source": "AI타임스",
@@ -45,6 +60,50 @@
    "OpenAI",
    "Anthropic",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "a51c38aa508b6e4f",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+  "source": "The Verge",
+  "title": "‘Not healthy’ LLM use is more common than you think",
+  "published_at": "2026-08-04T17:33:46+00:00",
+  "collected_at": "2026-08-04T17:59:21.036186+00:00",
+  "title_ko": "유튜버 헨크 그린, '건강하지 않은 AI 사용' 비판에 제작 중단",
+  "summary_ko": "과학 커뮤니케이터 헨크 그린이 연구 자료 조사 등의 과도한 AI 사용으로 비판을 받으며 콘텐츠 제작 잠정 중단을 선언했습니다. 일상 속 AI 의존과 윤리적 논란을 보여줍니다.",
+  "category": "참고",
+  "tags": [
+   "LLM"
+  ]
+ },
+ {
+  "id": "507425f1ee4c5986",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfh1sn/lfm2526b_is_out/",
+  "source": "r/LocalLLaMA",
+  "title": "LFM2.5-2.6B is out",
+  "published_at": "2026-08-04T17:30:34+00:00",
+  "collected_at": "2026-08-04T17:59:36.897373+00:00",
+  "title_ko": "에이전트 기능 강화된 'LFM2.5-2.6B' 모델 출시",
+  "summary_ko": "에이전트 능력을 강조한 소형 모델 LFM2.5-2.6B가 공개되었습니다. 대용량 문서 요약 등 대량의 반복 작업에서 효율적인 활용이 기대됩니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "1aae8ef455ef4c89",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfgxh4/cursor_releases_their_mixtureofkittens_megakernel/",
+  "source": "r/LocalLLaMA",
+  "title": "Cursor releases their Mixture-of-Kittens megakernel for training MoE models - Claims to nearly double TFLOP/s",
+  "published_at": "2026-08-04T17:26:24+00:00",
+  "collected_at": "2026-08-04T17:59:36.897373+00:00",
+  "title_ko": "커서, MoE 모델 학습용 'Mixture-of-Kittens' 메가커널 공개",
+  "summary_ko": "커서(Cursor)가 전문가 혼합(MoE) 모델의 학습 성능을 거의 두 배 가까이 높여주는 새로운 메가커널을 출시했습니다. 대규모 모델 학습 효율성 개선에 기여할 것으로 보입니다.",
+  "category": "중요",
+  "tags": [
+   "코딩",
+   "오픈소스"
   ]
  },
  {
@@ -173,6 +232,51 @@
   ]
  },
  {
+  "id": "34d4d7d857fe51dd",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vff300/deepseek_v4_flash_0731_ranks_21_on_agent_arena/",
+  "source": "r/LocalLLaMA",
+  "title": "Deepseek V4 flash 0731 ranks #21 on Agent Arena",
+  "published_at": "2026-08-04T16:21:42+00:00",
+  "collected_at": "2026-08-04T17:59:36.897373+00:00",
+  "title_ko": "DeepSeek V4 Flash 0731, 에이전트 아레나 21위 기록",
+  "summary_ko": "오픈소스 모델인 DeepSeek V4 Flash가 에이전트 벤치마크에서 상위권 성적을 기록했습니다. 폐쇄형 모델 대비 가성비와 프라이버시 통제 측면에서 주목받고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "2ca6cca485bded04",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfem5v/design_systems_from_code_alone_without_external/",
+  "source": "r/LocalLLaMA",
+  "title": "Design systems from code alone - Without external images, Ling-3.0-flash generated webpages across Bauhaus, Bohemian, acid design, and more—using CSS gradients, SVG paths, typography, and layout to preserve each visual language.",
+  "published_at": "2026-08-04T16:05:04+00:00",
+  "collected_at": "2026-08-04T17:59:36.897373+00:00",
+  "title_ko": "코드만으로 디자인 시스템 생성하는 'Ling-3.0-flash' 공개",
+  "summary_ko": "이미지 없이 코드만으로 다양한 시각적 스타일의 웹페이지를 생성할 수 있는 Ling-3.0-flash 가중치가 공개되었습니다. 디자인과 프론트엔드 자동화에 활용될 수 있습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "4ae3ee20c164d81c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfeick/gemma_4_on_500mb/",
+  "source": "r/LocalLLaMA",
+  "title": "Gemma 4 on 500MB",
+  "published_at": "2026-08-04T16:01:27+00:00",
+  "collected_at": "2026-08-04T17:59:36.897373+00:00",
+  "title_ko": "500MB 용량 환경에서 구동되는 Gemma 4 화제",
+  "summary_ko": "매우 제한된 용량인 500MB 환경에서 구동되는 구글의 Gemma 4 관련 시연이 공유되었습니다. 초경량 온디바이스 AI 구현 가능성을 보여줍니다.",
+  "category": "참고",
+  "tags": [
+   "Google",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "92d95981f0050563",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213518",
   "source": "AI타임스",
@@ -234,6 +338,34 @@
   ]
  },
  {
+  "id": "473323b44dde3492",
+  "url": "https://www.wheresyoured.at/the-ai-demand-bubble/",
+  "source": "Hacker News",
+  "title": "The AI Demand Bubble",
+  "published_at": "2026-08-04T15:51:51+00:00",
+  "collected_at": "2026-08-04T17:59:35.917803+00:00",
+  "title_ko": "AI 수요 거품론 제기",
+  "summary_ko": "현재 급증하는 AI 관련 인프라 수요와 시장 기대치에 거품이 존재할 수 있다는 분석이 제기되었습니다. 업계의 지속 가능성을 점검하는 시각을 제공합니다.",
+  "category": "중요",
+  "tags": [
+   "투자"
+  ]
+ },
+ {
+  "id": "348dcb3ebce93d14",
+  "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+  "source": "TechCrunch",
+  "title": "Spotify expands AI remix and covers project with Merlin partnership",
+  "published_at": "2026-08-04T15:50:06+00:00",
+  "collected_at": "2026-08-04T17:59:20.959333+00:00",
+  "title_ko": "스포티파이, 멀린과의 제휴로 AI 리믹스·커버 프로젝트 확대",
+  "summary_ko": "스포티파이가 독립 레이블 연합체 멀린과 손잡고 아티스트의 동의와 보상이 보장되는 AI 음악 리믹스·커버 기능을 확대합니다. AI 콘텐츠 저작권 및 생태계 확장의 사례입니다.",
+  "category": "중요",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
   "id": "1935e070b306021a",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213524",
   "source": "AI타임스",
@@ -246,6 +378,67 @@
   "tags": [
    "AI 에이전트",
    "xAI"
+  ]
+ },
+ {
+  "id": "ef7bfb0519ac40e3",
+  "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+  "source": "TechCrunch",
+  "title": "Texas halts new data centers as governor calls for audits",
+  "published_at": "2026-08-04T15:42:35+00:00",
+  "collected_at": "2026-08-04T17:59:20.959333+00:00",
+  "title_ko": "텍사스주, 전력난 우려로 신규 데이터센터 승인 중단",
+  "summary_ko": "막대한 전력을 소비하는 AI 데이터센터가 급증하면서 텍사스주가 전력 공급 안정성을 위해 신규 데이터센터 허가를 일시 중단하고 감사를 요구했습니다. 인프라 한계가 부각되고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "반도체",
+   "투자"
+  ]
+ },
+ {
+  "id": "640573ee8a5ce28b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfdwox/decrease_the_power_limit_of_your_5090_to_at_least/",
+  "source": "r/LocalLLaMA",
+  "title": "Decrease the power limit of your 5090 to at least 480W - the performance penalty for inference is negligible.",
+  "published_at": "2026-08-04T15:39:31+00:00",
+  "collected_at": "2026-08-04T17:59:36.897373+00:00",
+  "title_ko": "RTX 5090 전력 제한 시 추론 성능 저하 미미",
+  "summary_ko": "RTX 5090의 전력 제한을 낮춰도 LLM 추론 성능 저하가 미미하다는 실무 팁이 공유되었습니다. 소음과 발열을 줄이면서 효율적인 로컬 AI 환경을 구축하는 데 유용합니다.",
+  "category": "팁",
+  "tags": [
+   "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
+  "id": "e8fee808c2be3f43",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfdt1p/deepseek_v4_flash_0731_q4_now_reaches_1328_toks/",
+  "source": "r/LocalLLaMA",
+  "title": "DeepSeek V4 Flash 0731 (Q4) now reaches 1,328 tok/s prefill and ~29 tok/s decode on one RTX PRO 6000",
+  "published_at": "2026-08-04T15:35:48+00:00",
+  "collected_at": "2026-08-04T17:59:36.897373+00:00",
+  "title_ko": "RTX PRO 6000에서 DeepSeek V4 Flash 고속 구동 달성",
+  "summary_ko": "단일 RTX PRO 6000 96GB 환경에서 DeepSeek V4 Flash 모델의 긴 프롬프트 처리 속도가 크게 향상되었습니다. 로컬 대규모 컨텍스트 처리 성능 최적화 사례입니다.",
+  "category": "팁",
+  "tags": [
+   "NVIDIA",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "4c1a94fc64227b1e",
+  "url": "https://www.theverge.com/policy/975071/texas-data-center-audit",
+  "source": "The Verge",
+  "title": "Texas says data centers must pass an audit before connecting to the grid",
+  "published_at": "2026-08-04T15:33:21+00:00",
+  "collected_at": "2026-08-04T17:59:21.036186+00:00",
+  "title_ko": "텍사스주, 전력망 연결 전 데이터센터 사전 감사 의무화",
+  "summary_ko": "텍사스주가 급증하는 AI 데이터센터의 전력망 과부하를 막기 위해 신규 시설에 대한 사전 감사를 도입하여 승인 절차가 까다로워질 전망입니다.",
+  "category": "중요",
+  "tags": [
+   "규제",
+   "데이터센터",
+   "인프라"
   ]
  },
  {
