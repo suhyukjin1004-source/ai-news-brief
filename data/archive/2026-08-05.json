@@ -247,5 +247,52 @@
    "AI 에이전트",
    "xAI"
   ]
+ },
+ {
+  "id": "cdc3ace757a1880f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfdeek/inclusionailing30flash_weights_are_up_on_hugging/",
+  "source": "r/LocalLLaMA",
+  "title": "inclusionAI/Ling-3.0-flash weights are up on Hugging Face — MIT, BF16 plus an official FP8",
+  "published_at": "2026-08-04T15:21:03+00:00",
+  "collected_at": "2026-08-04T15:31:57.667581+00:00",
+  "title_ko": "Ling-3.0-flash 오픈소스 모델 허깅페이스 공개",
+  "summary_ko": "고성능 혼합 추론 기능을 갖춘 124B MoE 모델 Ling-3.0-flash가 허깅페이스에 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "Hugging Face"
+  ]
+ },
+ {
+  "id": "b46a77942a139182",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfdcd7/inclusionailing30flash_hugging_face/",
+  "source": "r/LocalLLaMA",
+  "title": "inclusionAI/Ling-3.0-flash · Hugging Face",
+  "published_at": "2026-08-04T15:19:00+00:00",
+  "collected_at": "2026-08-04T15:31:57.667581+00:00",
+  "title_ko": "Ling-3.0-flash MoE 모델 오픈소스 공개",
+  "summary_ko": "124B 파라미터 규모의 Ling-3.0-flash 모델이 오픈웨이트로 공개되어 로컬 LLM 진영의 관심을 끌고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "d808731456183b25",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfctwf/deepseek_v4_flash_2bit_quant_is_the_first_model_i/",
+  "source": "r/LocalLLaMA",
+  "title": "Deepseek V4 Flash 2-bit quant is the first model I can run locally that achieves 100% in this SQL benchmark",
+  "published_at": "2026-08-04T15:00:48+00:00",
+  "collected_at": "2026-08-04T15:31:57.667581+00:00",
+  "title_ko": "Deepseek V4 Flash 2비트 퀀텀 모델의 SQL 벤치마크",
+  "summary_ko": "2비트로 양자화된 Deepseek V4 Flash가 까다로운 SQL 벤치마크에서 100% 성능을 달성하며 로컬 구동 가능성을 입증했습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩",
+   "LLM"
+  ]
  }
 ]

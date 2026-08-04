@@ -1,5 +1,124 @@
 [
  {
+  "id": "1fa3627e6c3dfc07",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfbcgx/deepseekv4flash0731_full_1m_context_on_a_single/",
+  "source": "r/LocalLLaMA",
+  "title": "[Deepseek-V4-Flash-0731] Full 1M context on a single RTX5090 + DDR5 Desktop Setup with VLLM CPU/Ram Offloading, ~800 tps pp & 15+ tps decode [Agentic Coding]",
+  "published_at": "2026-08-04T14:06:09+00:00",
+  "collected_at": "2026-08-04T15:31:57.667581+00:00",
+  "title_ko": "단일 RTX 5090에서 Deepseek-V4-Flash 1M 컨텍스트 구동",
+  "summary_ko": "VLLM 오프로딩을 활용해 단일 소비자용 하드웨어에서 대규모 컨텍스트의 모델을 효율적으로 실행하는 환경이 구축되었습니다.",
+  "category": "팁",
+  "tags": [
+   "NVIDIA",
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "d74f42007843ecc0",
+  "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+  "source": "TechCrunch",
+  "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+  "published_at": "2026-08-04T14:03:01+00:00",
+  "collected_at": "2026-08-04T15:31:51.137546+00:00",
+  "title_ko": "애플, OpenAI 대상 기밀 유출 조사 확대",
+  "summary_ko": "애플이 전직 직원들의 OpenAI 기밀 데이터 유출 혐의에 대한 자체 조사를 확대하고 법적 공방을 이어가고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "규제"
+  ]
+ },
+ {
+  "id": "ea7f6df3de1a3ce4",
+  "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+  "source": "Hugging Face",
+  "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+  "published_at": "2026-08-04T13:58:29+00:00",
+  "collected_at": "2026-08-04T15:31:53.000395+00:00",
+  "title_ko": "LFM2.5-2.6B 로컬 에이전트 모델 배포",
+  "summary_ko": "가볍고 효율적인 LFM2.5-2.6B 모델을 통해 어디서나 로컬 AI 에이전트를 구축할 수 있게 되었습니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "844eb145a2487355",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfacdz/i_built_a_dwarfstarinspired_vulkanmetal_inference/",
+  "source": "r/LocalLLaMA",
+  "title": "I built a DwarfStar-inspired Vulkan/Metal inference engine for Qwen3.6-35B-A3B on 16 GB machines",
+  "published_at": "2026-08-04T13:26:51+00:00",
+  "collected_at": "2026-08-04T15:31:57.667581+00:00",
+  "title_ko": "16GB 기기용 Qwen3.6 추론 엔진 QuarkStar 개발",
+  "summary_ko": "저사양 기기에서도 대형 모델을 원활히 구동할 수 있는 네이티브 추론 엔진이 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "8f214c1c71b05bb8",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfa3tq/sk_hynix_in_collaboration_with_sandisk_unveils/",
+  "source": "r/LocalLLaMA",
+  "title": "SK hynix, In Collaboration With SanDisk, Unveils The New High Bandwidth Flash (HBF) Standard, Helping To Resolve AI Inference Bottlenecks, Targeting Up To 3TB/s Bandwidth",
+  "published_at": "2026-08-04T13:17:20+00:00",
+  "collected_at": "2026-08-04T15:31:57.667581+00:00",
+  "title_ko": "SK하이닉스-샌디스크, HBF 표준 발표",
+  "summary_ko": "AI 추론 병목 현상을 해결하기 위해 최대 3TB/s 대역폭을 지원하는 새로운 고대역 플래시 표준이 공개되었습니다.",
+  "category": "중요",
+  "tags": [
+   "반도체",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "d3753d032c9898f4",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+  "source": "Google AI",
+  "title": "The latest AI news we announced in July 2026",
+  "published_at": "2026-08-04T13:00:00+00:00",
+  "collected_at": "2026-08-04T15:31:52.289780+00:00",
+  "title_ko": "구글 AI 2026년 7월 주요 소식 요약",
+  "summary_ko": "구글이 2026년 7월 한 달간 발표한 주요 AI 업데이트와 성과를 정리했습니다.",
+  "category": "참고",
+  "tags": [
+   "Gemini"
+  ]
+ },
+ {
+  "id": "cc9f36984901656a",
+  "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+  "source": "TechCrunch",
+  "title": "Is the future of data centers portable? Runware builds a pod to find out",
+  "published_at": "2026-08-04T13:00:00+00:00",
+  "collected_at": "2026-08-04T15:31:51.137546+00:00",
+  "title_ko": "런웨어, 모듈형 AI 데이터센터 포드 공개",
+  "summary_ko": "AI 인프라 기업 런웨어가 이동형 데이터센터 'Sonic Inference Pod'를 발표하며 인프라 유연성을 높였습니다.",
+  "category": "속보",
+  "tags": [
+   "투자"
+  ]
+ },
+ {
+  "id": "4380039918d6e61f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vf8obs/llamacpp_pr_8_speed_boost/",
+  "source": "r/LocalLLaMA",
+  "title": "Llama.cpp PR 8% speed boost",
+  "published_at": "2026-08-04T12:16:20+00:00",
+  "collected_at": "2026-08-04T15:31:57.667581+00:00",
+  "title_ko": "Llama.cpp 샘플링 최적화로 8% 속도 향상",
+  "summary_ko": "GPU 기반 샘플링 도입을 통해 Llama.cpp의 LLM 추론 속도가 최대 8% 향상되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "NVIDIA"
+  ]
+ },
+ {
   "id": "ce8b96719c7ac857",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213503",
   "source": "AI타임스",
@@ -60,6 +179,21 @@
   ]
  },
  {
+  "id": "5c7ee891dd874109",
+  "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
+  "source": "Hacker News",
+  "title": "AI-Generated Images Discourage Me from Reading Your Blog",
+  "published_at": "2026-08-04T11:30:17+00:00",
+  "collected_at": "2026-08-04T15:31:54.746590+00:00",
+  "title_ko": "AI 생성 이미지 활용 블로그에 대한 독자들의 반감",
+  "summary_ko": "블로그에서 AI가 생성한 이미지를 사용하는 경향이 오히려 독자들의 흥미를 떨어뜨리고 신뢰를 낮춘다는 비판적 의견입니다. 콘텐츠 제작 시 AI 시각 자료 활용의 부작용을 시사합니다.",
+  "category": "참고",
+  "tags": [
+   "AI 생성",
+   "콘텐츠"
+  ]
+ },
+ {
   "id": "225b50819dab55f7",
   "url": "https://www.reddit.com/r/singularity/comments/1vf7o2l/trump_administration_drafting_ban_on_chinese_data/",
   "source": "r/singularity",
@@ -87,6 +221,22 @@
   "tags": [
    "OpenAI",
    "규제"
+  ]
+ },
+ {
+  "id": "5273e6cc621818cb",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vf7c91/why_are_chinese_models_better_at_frontend_than/",
+  "source": "r/LocalLLaMA",
+  "title": "Why are Chinese models better* at Frontend than the western top labs?",
+  "published_at": "2026-08-04T11:12:09+00:00",
+  "collected_at": "2026-08-04T15:31:57.667581+00:00",
+  "title_ko": "중국산 오픈소스 LLM의 프론트엔드 개발 우위 현상",
+  "summary_ko": "서구권의 주요 상용 모델에 비해 Qwen 등 중국산 모델들이 프론트엔드 웹 개발 태스크에서 뛰어난 성능을 보이는 이유에 대한 개발자 커뮤니티의 분석과 토론입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "코딩",
+   "Qwen"
   ]
  },
  {
@@ -129,6 +279,22 @@
   "title_ko": "GH200 환경 DeepSeek V4 Flash 최적화 방법",
   "summary_ko": "듀얼 GH200 시스템에서 SGLang과 vLLM을 활용해 DeepSeek V4 Flash의 토큰 처리 속도를 극대화하는 설정 팁입니다.",
   "category": "팁",
+  "tags": [
+   "DeepSeek",
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "070483894b024822",
+  "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+  "source": "Hacker News",
+  "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+  "published_at": "2026-08-04T10:00:55+00:00",
+  "collected_at": "2026-08-04T15:31:54.746590+00:00",
+  "title_ko": "AMD MI300X에서 구동되는 DeepSeek V4 Flash",
+  "summary_ko": "단일 AMD MI300X 하드웨어 가속기 위에서 DeepSeek V4 Flash 모델을 효율적으로 실행하는 오픈소스 프로젝트가 공개되었습니다. 하드웨어와 최신 모델 간의 최적화 사례로 중요합니다.",
+  "category": "속보",
   "tags": [
    "DeepSeek",
    "반도체",
@@ -220,6 +386,21 @@
   "tags": [
    "OpenAI",
    "Apple"
+  ]
+ },
+ {
+  "id": "b44fa46ddb2918a2",
+  "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+  "source": "Hacker News",
+  "title": "Harness Engineering for Self-Improvement",
+  "published_at": "2026-08-04T06:17:54+00:00",
+  "collected_at": "2026-08-04T15:31:54.746590+00:00",
+  "title_ko": "AI 자기 개선을 위한 엔지니어링 접근법",
+  "summary_ko": "OpenAI 출신 연구자인 Lilian Weng이 AI 시스템의 자가 개선(Self-Improvement)을 위한 엔지니어링 방법론을 정리한 글입니다. 향후 AI 에이전트 발전 방향에 중요한 시사점을 줍니다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트",
+   "OpenAI"
   ]
  },
  {
@@ -1278,6 +1459,22 @@
   "category": "참고",
   "tags": [
    "반도체"
+  ]
+ },
+ {
+  "id": "c95f020b0a6db62a",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+  "source": "Google AI",
+  "title": "Inside our 353,000-person vibe coding course",
+  "published_at": "2026-08-03T15:00:00+00:00",
+  "collected_at": "2026-08-04T15:31:52.289780+00:00",
+  "title_ko": "35만 명이 참여한 구글의 바이브 코딩 교육 과정",
+  "summary_ko": "구글이 진행한 대규모 '바이브 코딩' 교육 프로그램에 35만 명 이상이 참여하여 AI 기반 개발 방식을 학습했습니다. AI 시대의 코딩 교육 트렌드를 보여줍니다.",
+  "category": "참고",
+  "tags": [
+   "Google",
+   "코딩",
+   "AI 에이전트"
   ]
  }
 ]
