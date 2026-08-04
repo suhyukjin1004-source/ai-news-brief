@@ -1,8 +1,114 @@
 {
- "updated_at": "2026-08-04T18:00:01.463929+00:00",
+ "updated_at": "2026-08-04T19:49:28.958642+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "cbd7ccd489772295",
+   "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+   "source": "TechCrunch",
+   "title": "Anthropic signs $10 billion deal with AI cloud startup Volta",
+   "published_at": "2026-08-04T19:48:40+00:00",
+   "collected_at": "2026-08-04T19:48:59.276184+00:00",
+   "title_ko": "앤트로픽, AI 클라우드 스타트업 볼타와 100억 달러 계약 체결",
+   "summary_ko": "앤트로픽이 클라우드 인프라 확장을 위해 AI 클라우드 스타트업 볼타와 100억 달러 규모의 대형 계약을 맺었습니다. 대규모 AI 모델 학습과 서비스 운영을 위한 컴퓨팅 파워 확보가 핵심입니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "투자",
+    "반도체"
+   ]
+  },
+  {
+   "id": "30e8185e86cb5876",
+   "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+   "source": "TechCrunch",
+   "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+   "published_at": "2026-08-04T19:28:49+00:00",
+   "collected_at": "2026-08-04T19:48:59.276184+00:00",
+   "title_ko": "엔비디아 주도 오픈 시큐어 AI 얼라이언스, 에이전트 방어 제안 공개",
+   "summary_ko": "엔비디아가 주도하여 결성된 AI 보안 연합체가 출범 일주일 만에 AI 에이전트 방어를 위한 구체적인 제안을 내놓으며 빠른 행보를 보이고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "AI 에이전트",
+    "규제"
+   ]
+  },
+  {
+   "id": "0b96c123f27eddb9",
+   "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything",
+   "source": "Simon Willison",
+   "title": "PipeNetwork/minimax-h3-mlx",
+   "published_at": "2026-08-04T19:10:09+00:00",
+   "collected_at": "2026-08-04T19:49:09.282257+00:00",
+   "title_ko": "미니맥스 H3 멀티모달 모델, 애플 실리콘 MLX 패키지 지원",
+   "summary_ko": "텍스트, 이미지, 오디오, 비디오를 모두 처리하는 미니맥스의 최신 범용 모델을 애플 실리콘 환경에서 로컬 구동할 수 있는 패키지가 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "0c58ee09aa300ec5",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfj3q7/hugging_face_ceo_says_china_is_winning_the_ai/",
+   "source": "r/LocalLLaMA",
+   "title": "Hugging Face CEO says China is winning the AI race and dominating on open models",
+   "published_at": "2026-08-04T18:42:38+00:00",
+   "collected_at": "2026-08-04T19:49:10.190362+00:00",
+   "title_ko": "허깅페이스 CEO \"중국이 AI 및 오픈소스 모델 경쟁에서 우위 점해\"",
+   "summary_ko": "허깅페이스 대표가 중국이 자체적인 독립 공급망과 반도체 제조 능력을 바탕으로 AI 오픈소스 생태계에서 주도권을 잡고 있다고 언급했습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "79eaabf5946901b7",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfj3me/introducing_shieldstral_mistral_ai/",
+   "source": "r/LocalLLaMA",
+   "title": "Introducing Shieldstral. | Mistral AI",
+   "published_at": "2026-08-04T18:42:32+00:00",
+   "collected_at": "2026-08-04T19:49:10.190362+00:00",
+   "title_ko": "미스트랄 AI, 신규 모델 'Shieldstral' 공개",
+   "summary_ko": "미스트랄 AI가 안전성과 보안 기능에 초점을 맞춘 새로운 모델인 'Shieldstral'을 선보였습니다.",
+   "category": "속보",
+   "tags": [
+    "Mistral",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "578d15fbc025f56a",
+   "url": "https://news.hada.io/topic?id=32149",
+   "source": "GeekNews",
+   "title": "단일 AMD MI300X에서 DeepSeek V4 Flash 실행하기",
+   "published_at": "2026-08-04T18:31:57+00:00",
+   "collected_at": "2026-08-04T19:49:24.631806+00:00",
+   "title_ko": "단일 AMD MI300X에서 DeepSeek V4 Flash 구동 성공",
+   "summary_ko": "대규모 매개변수를 가진 DeepSeek V4 Flash 모델을 추가 양자화 없이 단일 AMD MI300X 하드웨어에서 효율적으로 프로덕션 운영하는 구성 방법이 공유되었습니다.",
+   "category": "팁",
+   "tags": [
+    "반도체",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "5c86ae17f3a1fd97",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfirld/has_anyone_tried_mach1_additive_95_of_performance/",
+   "source": "r/LocalLLaMA",
+   "title": "Has anyone tried Mach-1 Additive? 95% of performance of Qwen 3.6 35B while being 10x smaller",
+   "published_at": "2026-08-04T18:30:40+00:00",
+   "collected_at": "2026-08-04T19:49:10.190362+00:00",
+   "title_ko": "Qwen 3.6 35B 성능의 10분의 1 크기 'Mach-1 Additive' 등장",
+   "summary_ko": "기존 대형 모델 수준의 성능을 유지하면서도 크기를 대폭 줄인 새로운 모델 아키텍처가 개발자 커뮤니티의 주목을 받고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
   {
    "id": "58d78c3505986b52",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213523",
@@ -33,6 +139,35 @@
     "Google",
     "AI 에이전트",
     "투자"
+   ]
+  },
+  {
+   "id": "7613119218d3a02f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfhns3/a_llamacpp_pr_caches_hot_moe_experts_on_the_gpu/",
+   "source": "r/LocalLLaMA",
+   "title": "A llama.cpp PR caches “hot” MoE experts on the GPU — 33 → 56 tok/s reported with 8GB VRAM",
+   "published_at": "2026-08-04T17:52:04+00:00",
+   "collected_at": "2026-08-04T19:49:10.190362+00:00",
+   "title_ko": "llama.cpp, GPU 기반 MoE 전문가 캐싱 기법으로 속도 대폭 향상",
+   "summary_ko": "자주 쓰이는 MoE(혼합 전문가) 모델의 특정 전문가 레이어를 VRAM에 캐싱하여 저사양 환경에서도 토큰 생성 속도를 크게 높이는 업데이트가 제안되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "a3097f33e24a5dc8",
+   "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+   "source": "The Verge",
+   "title": "How an OpenAI influencer trip backfired",
+   "published_at": "2026-08-04T17:46:41+00:00",
+   "collected_at": "2026-08-04T19:48:59.407139+00:00",
+   "title_ko": "오픈AI의 인플루언서 초청 행사가 역효과를 낳은 이유",
+   "summary_ko": "오픈AI가 인플루언서들을 위해 마련한 호화 여행 지원 프로그램이 대중의 비판과 업계 내 잡음을 불러일으키며 브랜드 이미지에 타격을 준 사건을 조명했습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI"
    ]
   },
   {
@@ -2863,142 +2998,6 @@
    "tags": [
     "오픈소스",
     "코딩"
-   ]
-  },
-  {
-   "id": "f1afe25775a0b093",
-   "url": "https://qwen.ai/blog?id=qwen3.8",
-   "source": "Hacker News",
-   "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-   "published_at": "2026-08-03T02:16:09+00:00",
-   "collected_at": "2026-08-03T07:38:21.348420+00:00",
-   "title_ko": "코딩과 협업 성능 높인 Qwen3.8-Max 발표",
-   "summary_ko": "자기 진화 기능을 갖춘 차세대 대형 언어 모델 Qwen3.8-Max의 세부 내용이 해커뉴스에서 화제가 되었습니다.",
-   "category": "중요",
-   "tags": [
-    "Qwen",
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "2594792eacdd334b",
-   "url": "https://www.reddit.com/r/singularity/comments/1ve0hp7/qwen_38_max_benchmarks/",
-   "source": "r/singularity",
-   "title": "Qwen 3.8 max benchmarks",
-   "published_at": "2026-08-03T02:11:06+00:00",
-   "collected_at": "2026-08-03T21:15:04.027543+00:00",
-   "title_ko": "알리바바 Qwen 3.8 맥스 벤치마크 성적 공개",
-   "summary_ko": "알리바바의 최신 대형 언어 모델 Qwen 3.8 Max의 성능 평가 결과가 발표되었다. 오픈소스 AI의 성능이 최고 수준에 도달했음을 보여준다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "558f72e7b0baf287",
-   "url": "https://news.hada.io/topic?id=32084",
-   "source": "GeekNews",
-   "title": "웹앱과 AI",
-   "published_at": "2026-08-03T02:09:18+00:00",
-   "collected_at": "2026-08-03T03:46:42.850751+00:00",
-   "title_ko": "AI 시대의 웹앱 개발과 활용",
-   "summary_ko": "AI가 개발을 주도하는 시대에 모든 기기에서 작동하는 웹앱의 개념과 중요성이 대두되고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "8d4f9856061c0833",
-   "url": "https://news.hada.io/topic?id=32078",
-   "source": "GeekNews",
-   "title": "agent-device - AI 에이전트가 iOS/Android 기기를 제어하도록 돕는 CLI",
-   "published_at": "2026-08-03T00:31:01+00:00",
-   "collected_at": "2026-08-03T03:46:42.850751+00:00",
-   "title_ko": "AI 에이전트의 모바일 기기 제어 도구 'agent-device'",
-   "summary_ko": "코딩 에이전트가 iOS와 안드로이드 등 다양한 모바일 기기의 앱을 직접 검사하고 조작할 수 있도록 돕는 CLI 도구입니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "e1987c55adbb754d",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdy1nd/github_sqliteaiwaste_run_the_full/",
-   "source": "r/LocalLLaMA",
-   "title": "GitHub - sqliteai/waste: Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.",
-   "published_at": "2026-08-03T00:16:56+00:00",
-   "collected_at": "2026-08-03T03:46:28.343768+00:00",
-   "title_ko": "NVMe 스트리밍으로 대형 모델 구동하는 'WASTE' 엔진",
-   "summary_ko": "램 용량을 초과하는 2.7조 파라미터의 키미 K3 모델을 NVMe 스트리밍 방식으로 실행할 수 있는 C언어 기반 추론 엔진입니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "54e616a32e5ede38",
-   "url": "https://openai.com/index/circles",
-   "source": "OpenAI",
-   "title": "Circles powers telco personalization with OpenAI technology",
-   "published_at": "2026-08-03T00:00:00+00:00",
-   "collected_at": "2026-08-04T03:29:44.309023+00:00",
-   "title_ko": "서클스, 오픈AI 기술로 텔코 개인화 서비스 강화",
-   "summary_ko": "통신사 서클스가 OpenAI API와 코덱스를 도입해 AI 기반 텔코 경험을 구축하고 ARPU를 22% 향상시켰다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "GPT",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "f8195fd93b9d8653",
-   "url": "https://news.hada.io/topic?id=32076",
-   "source": "GeekNews",
-   "title": "자동화하지 말고, 완전히 없애버려라",
-   "published_at": "2026-08-02T23:52:33+00:00",
-   "collected_at": "2026-08-03T03:46:42.850751+00:00",
-   "title_ko": "AI를 통한 시장 구조 혁신과 투자 기회",
-   "summary_ko": "AI가 기존 소프트웨어의 효율성 증대를 넘어 시장 구조 자체를 재편하는 잠재력을 지니고 있으며, 전문 지식 공급에 큰 변화를 가져올 것이라는 분석입니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "투자"
-   ]
-  },
-  {
-   "id": "6daf3cbfe952d956",
-   "url": "https://news.hada.io/topic?id=32075",
-   "source": "GeekNews",
-   "title": "가장 빠른 AI-First 기업은 실제로 어떻게 일하는가",
-   "published_at": "2026-08-02T23:51:50+00:00",
-   "collected_at": "2026-08-03T03:46:42.850751+00:00",
-   "title_ko": "AI-First 기업의 실제 업무 방식",
-   "summary_ko": "빠른 AI-First 기업들은 단순 인원 감축을 넘어 AI를 동료로 취급하며, 프로토타입 출시와 반복 검증 중심의 애자일한 시스템을 구축하고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "a937eced2b698e2f",
-   "url": "https://news.hada.io/topic?id=32074",
-   "source": "GeekNews",
-   "title": "미국의 오픈 모델 패러독스",
-   "published_at": "2026-08-02T23:50:00+00:00",
-   "collected_at": "2026-08-03T03:46:42.850751+00:00",
-   "title_ko": "미국 오픈 모델의 패러독스와 중국 모델 약진",
-   "summary_ko": "미국이 폐쇄형 모델을 선도하면서도 학습 데이터 제약으로 인해 오픈 모델 미세조정에서는 중국 모델(Qwen 등)의 의존도가 급증하는 역설적 현상이 나타나고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "규제"
    ]
   }
  ]
