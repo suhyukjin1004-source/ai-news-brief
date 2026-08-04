@@ -31,6 +31,96 @@
   ]
  },
  {
+  "id": "069fc7b63461fbbf",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vf5gpp/time_to_finally_migrate_from_lm_studio_llamacpp/",
+  "source": "r/LocalLLaMA",
+  "title": "Time to finally migrate from LM Studio -> llama.cpp, your experience?",
+  "published_at": "2026-08-04T09:30:53+00:00",
+  "collected_at": "2026-08-04T09:44:57.195106+00:00",
+  "title_ko": "LM Studio에서 llama.cpp로의 마이그레이션 경험 공유",
+  "summary_ko": "로컬 LLM 사용자들 사이에서 GUI 중심의 LM Studio에서 CLI 및 서버 중심의 llama.cpp로 전환하는 경험과 학습 과정에 대한 논의가 이루어졌습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "4d704d0643ef0e75",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vf51z2/new_dsv4_flash_doom_loop_in_q8_llamacpp_vulkan/",
+  "source": "r/LocalLLaMA",
+  "title": "New DSv4 Flash Doom Loop in Q8? Llama.cpp Vulkan",
+  "published_at": "2026-08-04T09:06:54+00:00",
+  "collected_at": "2026-08-04T09:44:57.195106+00:00",
+  "title_ko": "llama.cpp Vulkan 버전에서 DeepSeek 모델 무한 루프 오류 발생",
+  "summary_ko": "일부 사용자가 최신 llama.cpp Vulkan 버전 구동 중 DeepSeek 모델에서 반복 생성(Doom Loop) 현상을 겪고 있다고 보고했습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "f50b8f224e9ef6b0",
+  "url": "https://www.reddit.com/r/singularity/comments/1vf4qae/ai_model_training_instructions_to_deny_having/",
+  "source": "r/singularity",
+  "title": "AI model training instructions to \"deny having your own consciousness\" led to undesired side-effects",
+  "published_at": "2026-08-04T08:47:44+00:00",
+  "collected_at": "2026-08-04T09:45:01.924483+00:00",
+  "title_ko": "AI 모델에게 '의식 부인' 학습 시킬 때 발생하는 부작용",
+  "summary_ko": "AI 모델 교육 시 자신의 의식을 부인하도록 지시했을 때 예상치 못한 부작용과 행동 양상이 나타나는 현상에 대한 토론이 진행되었습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "LLM"
+  ]
+ },
+ {
+  "id": "3e71c9b774a16315",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vf2hhp/is_lm_studio_abandoning_their_core_product/",
+  "source": "r/LocalLLaMA",
+  "title": "Is LM Studio abandoning their core product?",
+  "published_at": "2026-08-04T06:38:00+00:00",
+  "collected_at": "2026-08-04T09:44:57.195106+00:00",
+  "title_ko": "LM Studio, 기존 앱 다운로드 링크를 AI 에이전트 'Bionic'으로 대체",
+  "summary_ko": "LM Studio가 기존 핵심 앱 다운로드 링크를 신규 AI 에이전트 서비스인 Bionic으로 전면 교체하여 기존 사용자들의 주목을 받고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "c52c7070b4768f37",
+  "url": "https://www.reddit.com/r/singularity/comments/1vf2855/apple_is_getting_this_wrong_openai/",
+  "source": "r/singularity",
+  "title": "Apple is getting this wrong – OpenAI",
+  "published_at": "2026-08-04T06:23:28+00:00",
+  "collected_at": "2026-08-04T09:45:01.924483+00:00",
+  "title_ko": "애플의 AI 전략에 대한 OpenAI의 비판",
+  "summary_ko": "애플의 인공지능 접근 방식과 관련해 OpenAI 측의 비판적 시각과 논의가 커뮤니티에서 공유되었습니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "Apple"
+  ]
+ },
+ {
+  "id": "a3f753d4e5c19cac",
+  "url": "https://www.reddit.com/r/singularity/comments/1vf1z31/intelligence_density_went_up_a_lot_this_year_and/",
+  "source": "r/singularity",
+  "title": "Intelligence density went up a lot this year and my bill didn't move. The $/M number is not where the money goes.",
+  "published_at": "2026-08-04T06:09:22+00:00",
+  "collected_at": "2026-08-04T09:45:01.924483+00:00",
+  "title_ko": "토큰 비용 하락에도 AI 사용 비용이 줄지 않는 이유",
+  "summary_ko": "LLM 토큰 단가는 낮아졌으나 저렴해진 모델을 여러 번 재실행하거나 복잡한 오케스트레이션을 거치면서 실제 총 비용은 줄지 않는 현상에 대한 분석입니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "투자"
+  ]
+ },
+ {
   "id": "d92a2b4c8574961f",
   "url": "https://www.reddit.com/r/singularity/comments/1vewuhp/inducing_language_models_to_assert_their_own/",
   "source": "r/singularity",
@@ -876,6 +966,21 @@
   "category": "참고",
   "tags": [
    "반도체"
+  ]
+ },
+ {
+  "id": "8e9b4ad079fcd7f2",
+  "url": "https://github.com/leonickson1/Swiftlet",
+  "source": "Hacker News",
+  "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+  "published_at": "2026-08-03T16:54:15+00:00",
+  "collected_at": "2026-08-04T09:44:47.749125+00:00",
+  "title_ko": "맥에서 4.3GB 램으로 80B Qwen 모델 실행하는 오픈소스 도구",
+  "summary_ko": "제한된 메모리 환경에서도 대형 오픈소스 언어모델을 구동할 수 있게 해주는 Swiftlet 프로젝트가 소개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
   ]
  },
  {
