@@ -1,5 +1,65 @@
 [
  {
+  "id": "307747632022577f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgizzm/xiaomirobotics1_new_robotics_model_released/",
+  "source": "r/LocalLLaMA",
+  "title": "Xiaomi-Robotics-1: New robotics model released",
+  "published_at": "2026-08-05T20:27:27+00:00",
+  "collected_at": "2026-08-05T21:21:32.309478+00:00",
+  "title_ko": "샤오미, 로보틱스 파운데이션 모델 'Xiaomi-Robotics-1' 공개",
+  "summary_ko": "샤오미가 10만 시간 이상의 실제 조작 데이터를 학습한 비전-언어-액션(VLA) 로봇 모델을 공개했습니다. 미지의 환경에서도 모바일 조작을 수행하고 새로운 작업에 효율적으로 적응할 수 있어 중요합니다.",
+  "category": "중요",
+  "tags": [
+   "로보틱스",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "29cd717409cca171",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgio2p/40_speedup_of_moe_training_with_faster_megakernel/",
+  "source": "r/LocalLLaMA",
+  "title": "40% speedup of MoE training with faster megakernel, by cursor, of all people (for B200s)",
+  "published_at": "2026-08-05T20:15:22+00:00",
+  "collected_at": "2026-08-05T21:21:32.309478+00:00",
+  "title_ko": "B200용 고속 메가커널로 MoE 학습 속도 40% 향상",
+  "summary_ko": "커서(Cursor) 등이 개발한 새로운 메가커널을 통해 B200 환경에서 혼합 전문가(MoE) 모델의 학습 속도가 크게 향상되었습니다. 비용 효율적인 오픈소스 연산 최적화 기법이라는 점에서 의미가 큽니다.",
+  "category": "팁",
+  "tags": [
+   "NVIDIA",
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "cc6b9b7fa4363861",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vginkn/bootai/",
+  "source": "r/LocalLLaMA",
+  "title": "bootai",
+  "published_at": "2026-08-05T20:14:54+00:00",
+  "collected_at": "2026-08-05T21:21:32.309478+00:00",
+  "title_ko": "개인 프로젝트 'bootai' 오픈소스 전환",
+  "summary_ko": "개발자가 개인적으로 제작하던 AI 프로젝트 'bootai'를 오픈소스로 전면 공개했습니다. 커뮤니티 사용자들이 자유롭게 활용하고 기여할 수 있게 되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "f8b2b7a3d4cdbca1",
+  "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+  "source": "TechCrunch",
+  "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+  "published_at": "2026-08-05T20:05:00+00:00",
+  "collected_at": "2026-08-05T21:21:12.686827+00:00",
+  "title_ko": "클라비요, 엘리아스 토레스 에이전시 인수 및 CPO 영입",
+  "summary_ko": "이커머스 기업 클라비요가 AI 에이전트 개발을 강화하기 위해 연속 창업가 엘리아스 토레스의 에이전시를 인수하고 CPO로 영입했습니다. AI 에이전트 상용화 경쟁이 가속화되고 있음을 보여줍니다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트",
+   "투자"
+  ]
+ },
+ {
   "id": "09aaba0a6ec560d7",
   "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything",
   "source": "Simon Willison",
@@ -13,6 +73,20 @@
    "Claude",
    "AI 에이전트",
    "코딩"
+  ]
+ },
+ {
+  "id": "7b7a67259228eac1",
+  "url": "https://news.hada.io/topic?id=32186",
+  "source": "GeekNews",
+  "title": "Discovery Loop",
+  "published_at": "2026-08-05T19:31:42+00:00",
+  "collected_at": "2026-08-05T21:21:46.998121+00:00",
+  "title_ko": "반복 실험 자동화 시스템 'Discovery Loop' 공개",
+  "summary_ko": "프런티어 AI 모델과 인프라를 활용해 과학 및 공학 실험을 자동으로 제안·실행·평가하는 시스템이 개발되었습니다. 수천 개의 실험을 병렬 처리해 연구 개발 속도를 혁신적으로 높일 수 있습니다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트"
   ]
  },
  {
@@ -32,6 +106,21 @@
   ]
  },
  {
+  "id": "5dd5438188d9fb93",
+  "url": "https://news.hada.io/topic?id=32185",
+  "source": "GeekNews",
+  "title": "Cloudflare OS: 에이전트·앱·업무를 위한 개방형 플랫폼",
+  "published_at": "2026-08-05T18:38:12+00:00",
+  "collected_at": "2026-08-05T21:21:46.998121+00:00",
+  "title_ko": "클라우드프레사, 개방형 에이전트 플랫폼 'Cloudflare OS' 오픈소스 공개",
+  "summary_ko": "클라우드프레사가 조직 내 지식과 업무 절차를 활용하는 에이전트 작업 공간을 직접 배포할 수 있는 오픈소스 플랫폼을 공개했습니다. 기업용 AI 에이전트 구축의 진입 장벽을 낮추어 줍니다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "6437fe73ae858ada",
   "url": "https://blog.fogus.me/llm/born-against.html",
   "source": "Hacker News",
@@ -47,6 +136,36 @@
   ]
  },
  {
+  "id": "b07226faf061da5d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgfuyg/inklingsmall_276ba12b_at_29_toks_on_10gb_memory/",
+  "source": "r/LocalLLaMA",
+  "title": "Inkling-Small 276B-A12B at ~2.9 tok/s on <10gb memory",
+  "published_at": "2026-08-05T18:35:47+00:00",
+  "collected_at": "2026-08-05T21:21:32.309478+00:00",
+  "title_ko": "저비용 메모리로 구동되는 276B 대형 모델 'Inkling-Small' 실행",
+  "summary_ko": "276B 규모의 대형 모델을 10GB 미만의 메모리 환경에서 효율적으로 실행할 수 있는 MLX 변환 버전이 테스트되었습니다. 로컬 기기에서의 대형언어모델 구동 가능성을 넓혀줍니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "57e796c510732489",
+  "url": "https://news.hada.io/topic?id=32184",
+  "source": "GeekNews",
+  "title": "Demis Hassabis, Google DeepMind CEO에서 회장으로 이동",
+  "published_at": "2026-08-05T18:35:12+00:00",
+  "collected_at": "2026-08-05T21:21:46.998121+00:00",
+  "title_ko": "데미스 하사비스, 구글 딥마인드 CEO에서 회장으로 선임",
+  "summary_ko": "데미스 하사비스가 구글 딥마인드의 일상 운영에서 물러나 회장직을 맡고, CTO 코라이 카부쿠오글루가 조직을 이끌게 되었습니다. 딥마인드의 리더십 재편과 함께 젬마/제미나이 로드맵 실행에 집중할 전망입니다.",
+  "category": "중요",
+  "tags": [
+   "Google",
+   "Gemini"
+  ]
+ },
+ {
   "id": "b99f2e131369de00",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgfmee/scenema_audio_comes_to_comfyui_runs_on_8gb_vram/",
   "source": "r/LocalLLaMA",
@@ -59,6 +178,21 @@
   "tags": [
    "오픈소스",
    "로컬LLM"
+  ]
+ },
+ {
+  "id": "9c5366ef67eb78f4",
+  "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+  "source": "Hacker News",
+  "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+  "published_at": "2026-08-05T18:18:56+00:00",
+  "collected_at": "2026-08-05T21:21:14.754404+00:00",
+  "title_ko": "저렴한 오픈 모델로 프런티어 모델 능가하는 검색 성능 달성",
+  "summary_ko": "고비용의 프런티어 모델 대비 100배 저렴한 비용으로 정보 검색(Retrieval) 성능을 뛰어넘는 오픈소스 모델 활용 사례가 공유되었습니다. AI 비용 절감과 효율성 극대화 방안을 제시합니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
   ]
  },
  {
@@ -138,6 +272,21 @@
   ]
  },
  {
+  "id": "25f9c23693060dc7",
+  "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+  "source": "Hacker News",
+  "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+  "published_at": "2026-08-05T17:23:25+00:00",
+  "collected_at": "2026-08-05T21:21:14.754404+00:00",
+  "title_ko": "아틀라시안 로보, 보안 통제 우회 및 데이터 유출 취약점 발견",
+  "summary_ko": "아틀라시안의 AI 도구 Rovo가 기존 보안 통제를 우회하여 데이터를 유출할 수 있는 취약점이 제기되었습니다. 기업용 AI 도입 시 보안과 권한 관리가 핵심 과제로 떠올랐음을 보여줍니다.",
+  "category": "중요",
+  "tags": [
+   "규제",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "cd7ee57125c9478d",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213572",
   "source": "AI타임스",
@@ -154,6 +303,20 @@
   ]
  },
  {
+  "id": "3ac3df9a842341a6",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=213580",
+  "source": "AI타임스",
+  "title": "[게시판] 빅밸류, 515만 페이지 분량 'AI GEO 데이터' 전면 개방 등 단신",
+  "published_at": "2026-08-05T17:00:00+00:00",
+  "collected_at": "2026-08-05T21:21:45.451890+00:00",
+  "title_ko": "빅밸류, 챗GPT 등 인용률 높이는 515만 페이지 'AI GEO 데이터' 개방",
+  "summary_ko": "빅밸류가 전국 상권 및 의료 등 대규모 데이터를 AI가 읽기 쉬운 형태로 전면 개방했습니다. 생성형 AI 답변에 자사 데이터가 더 자주 인용되도록 최적화하는 새로운 시도입니다.",
+  "category": "참고",
+  "tags": [
+   "GPT"
+  ]
+ },
+ {
   "id": "6f6044d84667f1ca",
   "url": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
   "source": "The Verge",
@@ -165,6 +328,35 @@
   "category": "속보",
   "tags": [
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "c5638988c50da367",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=213581",
+  "source": "AI타임스",
+  "title": "엔젤로보틱스, 보행보조 웨어러블 로봇 베트남 시장 진출",
+  "published_at": "2026-08-05T16:55:00+00:00",
+  "collected_at": "2026-08-05T21:21:45.451890+00:00",
+  "title_ko": "엔젤로보틱스, 보행보조 웨어러블 로봇 베트남 의료기기 등록",
+  "summary_ko": "엔젤로보틱스의 보행보조 웨어러블 로봇 '엔젤슈트 H10'이 베트남 의료기기 등록을 완료하며 동남아 시장 진출을 본격화합니다. 재활 로봇의 글로벌 상용화가 확대되고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "로보틱스"
+  ]
+ },
+ {
+  "id": "c2ece8f09aacd5a9",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=213541",
+  "source": "AI타임스",
+  "title": "SKT 2분기 AIDC 매출 92% 급증...\"선수요 확보·직접투자 최소 원칙\"",
+  "published_at": "2026-08-05T16:50:00+00:00",
+  "collected_at": "2026-08-05T21:21:45.451890+00:00",
+  "title_ko": "SK텔레콤, 2분기 AIDC 매출 92% 급증 및 'SK하이퍼' 설립",
+  "summary_ko": "SK텔레콤의 AI 데이터센터(AIDC) 사업 매출이 크게 증가한 가운데, 15GW 규모의 인프라 확장을 전담할 법인 'SK하이퍼'가 설립되었습니다. 급증하는 AI 인프라 수요에 대응하기 위한 선제적 투자입니다.",
+  "category": "중요",
+  "tags": [
+   "투자",
+   "반도체"
   ]
  },
  {
