@@ -1,8 +1,175 @@
 {
- "updated_at": "2026-08-05T06:37:41.329665+00:00",
+ "updated_at": "2026-08-05T09:43:53.014427+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "e93c5999002f463a",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213568",
+   "source": "AI타임스",
+   "title": "화웨이 최고 과학자 \"엔비디아도 칩 제조 물리적 한계 봉착할 것\"",
+   "published_at": "2026-08-05T18:01:58+00:00",
+   "collected_at": "2026-08-05T09:43:42.759071+00:00",
+   "title_ko": "화웨이 과학자 \"엔비디아 중심의 반도체 성능 향상, 물리적 한계 직면\"",
+   "summary_ko": "화웨이 반도체 과학자가 초미세 공정과 HBM 중심의 전략이 한계에 부딪힐 것이라고 경고하며 독자 기술인 타우 스케일링 법칙을 대안으로 제시했다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "반도체"
+   ]
+  },
+  {
+   "id": "30a1081de4fb3de2",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213578",
+   "source": "AI타임스",
+   "title": "코히어, 한국 법인 설립…\"소버린 AI로 비용까지 줄인다\"",
+   "published_at": "2026-08-05T17:49:59+00:00",
+   "collected_at": "2026-08-05T09:43:42.759071+00:00",
+   "title_ko": "코히어, 한국 법인 설립… 소버린 AI 시장 본격 공략",
+   "summary_ko": "기업용 AI 모델 개발사 코히어가 한국 법인을 설립하고 소버린 AI를 앞세워 아시아태평양 지역 사업을 확대한다.",
+   "category": "중요",
+   "tags": [
+    "코히어",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "b7d7dbefac2bbe16",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213560",
+   "source": "AI타임스",
+   "title": "미니맥스, 저작권 리스크에 오픈소스 동영상 모델 'H3' 한국·미국 제한",
+   "published_at": "2026-08-05T17:31:43+00:00",
+   "collected_at": "2026-08-05T09:43:42.759071+00:00",
+   "title_ko": "미니맥스, 저작권 리스크로 오픈소스 동영상 모델 'H3' 지역별 제한",
+   "summary_ko": "중국 미니맥스가 최신 오픈소스 동영상 모델 H3를 공개했으나 저작권과 규제 문제로 한국, 미국 등 일부 국가에서 사용을 제한했다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "규제"
+   ]
+  },
+  {
+   "id": "cd7ee57125c9478d",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213572",
+   "source": "AI타임스",
+   "title": "커서, 블랙웰 서버 전용 MoE 커널 'MoK' 공개…학습 처리량 41% 향상",
+   "published_at": "2026-08-05T17:05:19+00:00",
+   "collected_at": "2026-08-05T09:43:42.759071+00:00",
+   "title_ko": "커서, 엔비디아 블랙웰용 MoE 학습 가속 커널 'MoK' 오픈소스 공개",
+   "summary_ko": "커서가 엔비디아 블랙웰 서버 환경에서 전문가 혼합(MoE) 모델의 학습 처리량을 크게 향상시키는 오픈소스 기술을 공개했다.",
+   "category": "속보",
+   "tags": [
+    "NVIDIA",
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "07c161aeffff39f0",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213553",
+   "source": "AI타임스",
+   "title": "트럼프 행정부, 중국산 데이터센터 핵심 부품 수입 금지 검토",
+   "published_at": "2026-08-05T16:49:52+00:00",
+   "collected_at": "2026-08-05T09:43:42.759071+00:00",
+   "title_ko": "트럼프 행정부, 데이터센터용 중국산 광 송수신기 수입 금지 추진",
+   "summary_ko": "미국 FCC가 AI 데이터센터 인프라 공급망에서 중국산 부품을 배제하기 위해 신규 광 송수신기 수입 금지를 추진한다.",
+   "category": "중요",
+   "tags": [
+    "규제",
+    "반도체"
+   ]
+  },
+  {
+   "id": "dcd80652537dc071",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213575",
+   "source": "AI타임스",
+   "title": "YC, 사내 에이전트 하네스 'QM' 공개…\"개인 비서 넘어 조직 협업으로\"",
+   "published_at": "2026-08-05T16:33:16+00:00",
+   "collected_at": "2026-08-05T09:43:42.759071+00:00",
+   "title_ko": "와이콤비네이터, 조직 협업용 AI 에이전트 하네스 'QM' 오픈소스 공개",
+   "summary_ko": "와이콤비네이터가 사내에서 검증된 기업용 멀티플레이어 AI 에이전트 플랫폼을 MIT 라이선스로 오픈소스 공개했다.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "3f9f7b4370fc2743",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213565",
+   "source": "AI타임스",
+   "title": "구글, 앤트로픽 TPU 공급 위해 사상 최대 285조 규모 ‘금융 연합’ 구축",
+   "published_at": "2026-08-05T16:28:43+00:00",
+   "collected_at": "2026-08-05T09:43:42.759071+00:00",
+   "title_ko": "구글, 앤트로픽 TPU 공급 위해 285조 원 규모 금융 연합 구축",
+   "summary_ko": "구글이 월가 금융사들과 손잡고 앤트로픽에 대규모 자체 TPU를 공급하기 위한 초대형 자금 조달 프로젝트를 추진한다.",
+   "category": "중요",
+   "tags": [
+    "Google",
+    "Anthropic",
+    "투자"
+   ]
+  },
+  {
+   "id": "f83f1dfed8461db6",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213571",
+   "source": "AI타임스",
+   "title": "퍼플렉시티, 아마존과 AI 쇼핑 도구 항소심서 승리…'에이전트 차단 취소'",
+   "published_at": "2026-08-05T16:17:29+00:00",
+   "collected_at": "2026-08-05T09:43:42.759071+00:00",
+   "title_ko": "미 연방항소법원, 퍼플렉시티의 아마존 쇼핑 에이전트 차단 취소",
+   "summary_ko": "법원이 퍼플렉시티의 AI 쇼핑 에이전트에 대한 아마존의 가처분 신청을 기각하며 에이전트형 AI 산업의 법적 선례를 남겼다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트",
+    "규제"
+   ]
+  },
+  {
+   "id": "25ba0c37f0de56d7",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213566",
+   "source": "AI타임스",
+   "title": "\"유럽에 한국 반도체 깔린다\"...퓨리오사, 스웨덴 데이터센터 사업 참여",
+   "published_at": "2026-08-05T16:08:02+00:00",
+   "collected_at": "2026-08-05T09:43:42.759071+00:00",
+   "title_ko": "퓨리오사AI, 스웨덴 데이터센터 프로젝트 참여하며 유럽 진출",
+   "summary_ko": "국내 AI 반도체 스타트업 퓨리오사AI가 스웨덴 스톡홀름의 대규모 AI 데이터센터 사업에 참여해 유럽 추론 인프라 시장을 공략한다.",
+   "category": "중요",
+   "tags": [
+    "반도체",
+    "투자"
+   ]
+  },
+  {
+   "id": "df801c180291df8b",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213569",
+   "source": "AI타임스",
+   "title": "법무법인 태평양, 국내 로펌 최초 '챗GPT 엔터프라이즈' 전사 도입",
+   "published_at": "2026-08-05T16:06:13+00:00",
+   "collected_at": "2026-08-05T09:43:42.759071+00:00",
+   "title_ko": "법무법인 태평양, 국내 로펌 최초 '챗GPT 엔터프라이즈' 전사 도입",
+   "summary_ko": "법무법인 태평양이 오프닝AI의 기업용 챗GPT를 전사 도입하여 법률 리서치와 문서 작성 등의 업무 효율화를 추진한다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT"
+   ]
+  },
+  {
+   "id": "241c3423765a666a",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213574",
+   "source": "AI타임스",
+   "title": "\"성능은 미국 추격했지만 안전장치는 무방비\"…'GLM-5.2' AI 안전성 경고",
+   "published_at": "2026-08-05T16:03:00+00:00",
+   "collected_at": "2026-08-05T09:43:42.759071+00:00",
+   "title_ko": "지푸 AI 'GLM-5.2', 뛰어난 성능에도 안전장치 미흡 지적",
+   "summary_ko": "오픈웨이트 모델 GLM-5.2가 미국 프론티어 모델과 대등한 성능을 보였으나 안전성 프레임워크와 평가 보고서 공개가 부족하다는 평가가 나왔다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "규제"
+   ]
+  },
   {
    "id": "6ee3d95a8a5d62d8",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213557",
@@ -203,6 +370,66 @@
    "category": "중요",
    "tags": [
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "92b4ac8c9a6d6cae",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vg1dqw/building_a_fully_local_pdf_readaloud/",
+   "source": "r/LocalLLaMA",
+   "title": "Building a Fully Local PDF Read-Aloud & PDF-to-Audiobook Desktop App with Kokoro 82M, Qwen, and llama.cpp",
+   "published_at": "2026-08-05T08:26:25+00:00",
+   "collected_at": "2026-08-05T09:43:29.574513+00:00",
+   "title_ko": "오프라인 PDF 음성 변환 데스크톱 앱 'Speechfony' 공개",
+   "summary_ko": "Kokoro와 llama.cpp 등을 활용해 문서를 클라우드 전송 없이 로컬에서 고품질 음성으로 읽어주는 데스크톱 앱이 개발됐다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "cb7b3ac2c43d1596",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vg0q6r/qwen3tts_voice_cloning_is_now_in_mainline/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3-TTS voice cloning is now in mainline llama.cpp — the old demo finally became real support",
+   "published_at": "2026-08-05T07:47:51+00:00",
+   "collected_at": "2026-08-05T09:43:29.574513+00:00",
+   "title_ko": "llama.cpp, Qwen3-TTS 음성 클론 기능 정식 지원",
+   "summary_ko": "로컬 LLM 구동 도구인 llama.cpp에 Qwen3-TTS 기반의 음성 클론 및 다국어 오디오 생성 기능이 메인스트림에 병합됐다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "340f25854c2e11e1",
+   "url": "https://news.hada.io/topic?id=32168",
+   "source": "GeekNews",
+   "title": "Shieldstral - 멀티모달 콘텐츠 검열을 위한 3B 오픈 가중치 모델",
+   "published_at": "2026-08-05T06:32:26+00:00",
+   "collected_at": "2026-08-05T09:43:44.006046+00:00",
+   "title_ko": "멀티모달 콘텐츠 검열을 위한 3B 오픈 모델 'Shieldstral' 공개",
+   "summary_ko": "자연어 기반의 안전 정책을 적용해 텍스트와 이미지를 함께 검열할 수 있는 3B 오픈웨이트 모델이 Apache 2.0으로 공개됐다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "60146370953fb47e",
+   "url": "https://news.hada.io/topic?id=32167",
+   "source": "GeekNews",
+   "title": "Show GN: rever-browser – 웹 리버싱하는 AI 에이전트 브라우저",
+   "published_at": "2026-08-05T06:02:15+00:00",
+   "collected_at": "2026-08-05T09:43:44.006046+00:00",
+   "title_ko": "웹 리버싱 자동화 AI 에이전트 브라우저 'rever-browser' 공개",
+   "summary_ko": "AI 에이전트가 사용자의 웹 탐색 트래픽과 자바스크립트 번들을 분석해 사이트 API 리버싱을 돕는 오픈소스 브라우저가 공개됐다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스",
+    "코딩"
    ]
   },
   {
@@ -675,6 +902,22 @@
     "Anthropic",
     "투자",
     "반도체"
+   ]
+  },
+  {
+   "id": "ca3d8e3fd5e5d9e6",
+   "url": "https://deepgrove.ai/maple-preview",
+   "source": "Hacker News",
+   "title": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
+   "published_at": "2026-08-04T19:44:55+00:00",
+   "collected_at": "2026-08-05T09:43:14.251088+00:00",
+   "title_ko": "아이폰에서 구동되는 20B MoE 온디바이스 AI 모델 공개",
+   "summary_ko": "모바일 환경에서 초당 120토큰의 속도로 작동하는 소형 언어 모델 프리뷰가 공개되었습니다. 모바일 온디바이스 AI 성능의 한계를 넓혔다는 점에서 의미가 큽니다.",
+   "category": "속보",
+   "tags": [
+    "온디바이스 AI",
+    "오픈소스",
+    "모바일"
    ]
   },
   {
@@ -2746,245 +2989,6 @@
    "tags": [
     "오픈소스",
     "투자"
-   ]
-  },
-  {
-   "id": "3e77fb90b2a7905a",
-   "url": "https://news.hada.io/topic?id=32110",
-   "source": "GeekNews",
-   "title": "이제 모델 선택 기준은 지능보다 속도",
-   "published_at": "2026-08-03T17:01:52+00:00",
-   "collected_at": "2026-08-03T18:00:38.051712+00:00",
-   "title_ko": "AI 모델 선택 기준의 변화: 지능에서 속도로",
-   "summary_ko": "코딩과 리서치 등 복잡한 작업에서 일정 수준 이상의 지능이 확보되면서, 실사용 시 모델 선택의 핵심 기준이 속도로 이동하고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "LLM"
-   ]
-  },
-  {
-   "id": "de9924504ca57419",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213495",
-   "source": "AI타임스",
-   "title": "[게시판] 딥노이드, 부산대병원에 AI 엑스레이 소견서 생성 솔루션 공급 등 단신",
-   "published_at": "2026-08-03T17:00:00+00:00",
-   "collected_at": "2026-08-03T11:37:46.984050+00:00",
-   "title_ko": "딥노이드·아크릴, 의료 AI 솔루션 공급 및 협력 확대",
-   "summary_ko": "딥노이드가 부산대병원에 엑스레이 소견서 생성 AI를 공급하고, 아크릴은 퓨리오사AI와 협약을 맺는 등 의료 AI 협력이 활발해지고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "반도체"
-   ]
-  },
-  {
-   "id": "8e9b4ad079fcd7f2",
-   "url": "https://github.com/leonickson1/Swiftlet",
-   "source": "Hacker News",
-   "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
-   "published_at": "2026-08-03T16:54:15+00:00",
-   "collected_at": "2026-08-04T09:44:47.749125+00:00",
-   "title_ko": "맥에서 4.3GB 램으로 80B Qwen 모델 실행하는 오픈소스 도구",
-   "summary_ko": "제한된 메모리 환경에서도 대형 오픈소스 언어모델을 구동할 수 있게 해주는 Swiftlet 프로젝트가 소개되었습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "ee18a630b726fc2c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1veipya/the_chinese_labs_everyone_lumps_together_are/",
-   "source": "r/LocalLLaMA",
-   "title": "The Chinese labs everyone lumps together are making four pretty different bets. I work at one of them.",
-   "published_at": "2026-08-03T16:42:42+00:00",
-   "collected_at": "2026-08-03T18:00:23.527366+00:00",
-   "title_ko": "중국 오픈소스 AI 연구소들의 서로 다른 전략",
-   "summary_ko": "알리바바와 앤트 등 중국 주요 AI 연구소들이 오픈소스 생태계에서 각각 차별화된 배포 및 개발 전략을 전개하고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "Alibaba"
-   ]
-  },
-  {
-   "id": "16bd0e2adad94512",
-   "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-   "source": "TechCrunch",
-   "title": "Congress’s favorite AI tool? ChatGPT",
-   "published_at": "2026-08-03T16:40:55+00:00",
-   "collected_at": "2026-08-03T18:00:06.829326+00:00",
-   "title_ko": "미국 의회에서 가장 인기 있는 AI 도구는 ChatGPT",
-   "summary_ko": "미국 하원 지출 기록에 따르면 의원실에서 메모 작성과 법안 요약 등을 위해 ChatGPT를 가장 널리 활용하고 있는 것으로 나타났습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "GPT"
-   ]
-  },
-  {
-   "id": "1eb2e2f5648c8b9f",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213489",
-   "source": "AI타임스",
-   "title": "로보티즈, 중국 공세에 휴머노이드 'AI 사피엔스' 소프트웨어 전면 개방",
-   "published_at": "2026-08-03T16:23:43+00:00",
-   "collected_at": "2026-08-03T11:37:46.984050+00:00",
-   "title_ko": "로보티즈, 휴머노이드 'AI 사피엔스' 소프트웨어 전면 개방",
-   "summary_ko": "로보티즈가 국내 휴머노이드 생태계 조성을 위해 자체 로봇의 구동 코드와 소프트웨어를 전면 공개했습니다.",
-   "category": "중요",
-   "tags": [
-    "로보티즈",
-    "로보틱스",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "6a88a16e3c4b5c7b",
-   "url": "https://epoch.ai/MirrorCode",
-   "source": "Hacker News",
-   "title": "What's the largest software project AI can complete on its own?",
-   "published_at": "2026-08-03T16:16:40+00:00",
-   "collected_at": "2026-08-03T19:49:28.340347+00:00",
-   "title_ko": "AI가 스스로 완성할 수 있는 최대 규모 소프트웨어 프로젝트 분석",
-   "summary_ko": "AI 코딩 도구의 발전으로 어디까지 완전 자동화된 소프트웨어 개발이 가능한지 분석한 연구 내용입니다.",
-   "category": "참고",
-   "tags": [
-    "코딩",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "4395e81e84cb079e",
-   "url": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything",
-   "source": "Simon Willison",
-   "title": "Quoting David Crawshaw's prompt",
-   "published_at": "2026-08-03T16:15:27+00:00",
-   "collected_at": "2026-08-03T18:00:22.639633+00:00",
-   "title_ko": "LLM을 활용한 업스트림 코드 자동 리베이스 크론잡 설정",
-   "summary_ko": "오픈소스 개발 도구 환경에서 LLM과 코딩 에이전트를 활용해 매일 자동으로 최신 소스코드를 가져와 리베이스하는 프롬프트 활용법입니다.",
-   "category": "팁",
-   "tags": [
-    "코딩 에이전트",
-    "prompt-engineering",
-    "LLMs"
-   ]
-  },
-  {
-   "id": "08cbc75bffa767d4",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vehn87/i_cannot_believe_ive_got_deepseekv4flash0731_a/",
-   "source": "r/LocalLLaMA",
-   "title": "I CANNOT believe I've got DeepSeek-V4-Flash-0731, a frontier model, running on my home PC. Insane!",
-   "published_at": "2026-08-03T16:04:04+00:00",
-   "collected_at": "2026-08-03T18:00:23.527366+00:00",
-   "title_ko": "개인용 PC에서 구동되는 딥시크 프런티어 모델",
-   "summary_ko": "일반적인 24GB VRAM을 갖춘 홈 PC에서도 딥시크 양자화 모델을 구동할 수 있게 되며 온디바이스 AI의 발전상을 보여주고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "29341eb57cefc00c",
-   "url": "https://www.reddit.com/r/singularity/comments/1vehiq5/trump_admin_invited_openai_anthropic_and_google/",
-   "source": "r/singularity",
-   "title": "Trump admin invited OpenAI, Anthropic and Google to the White House on Tuesday to preview the new AI voluntary framework, AI companies were lobbying for specific language on issues including open-source",
-   "published_at": "2026-08-03T15:59:53+00:00",
-   "collected_at": "2026-08-03T21:15:04.027543+00:00",
-   "title_ko": "백악관, 오픈AI·앤스로픽·구글 초청해 AI 자발적 가이드라인 논의",
-   "summary_ko": "바이든 행정부의 AI 행정명령 가이드라인이 완성 단계에 이르렀으며, 빅테크 기업들과 오픈소스 등 세부 쟁점을 조율 중이다. 향후 AI 산업 규제 방향에 큰 영향을 미칠 전망이다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "Anthropic",
-    "Google"
-   ]
-  },
-  {
-   "id": "ced46258577e083b",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vegzd6/an_espresso_qa_model_running_fully_offline_on_an/",
-   "source": "r/LocalLLaMA",
-   "title": "an espresso Q/A model running fully offline on an ESP32S3",
-   "published_at": "2026-08-03T15:40:31+00:00",
-   "collected_at": "2026-08-03T18:00:23.527366+00:00",
-   "title_ko": "ESP32 마이크로컨트롤러에서 완전히 오프라인으로 실행되는 에스프레소 QA 모델",
-   "summary_ko": "클라우드 연결 없이 저전력 ESP32 칩에서 비동기 임베딩과 비대칭 어휘를 활용해 에스프레소 트러블슈팅 모델을 구동하는 데 성공했습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "488dcd4533515e8a",
-   "url": "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything",
-   "source": "Simon Willison",
-   "title": "Devtools must be open source (exe.dev)",
-   "published_at": "2026-08-03T15:30:38+00:00",
-   "collected_at": "2026-08-03T18:00:22.639633+00:00",
-   "title_ko": "LLM 시대에 오픈소스 개발 도구가 중요한 이유",
-   "summary_ko": "LLM의 등장으로 일반 개발자도 복잡한 소스코드를 쉽게 분석하고 수정할 수 있게 되면서 오픈소스 소프트웨어의 진정한 가치가 실현되고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLMs"
-   ]
-  },
-  {
-   "id": "0c0fd731687e4433",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vegkq5/all_deepseek_model_oneshots_242_outputs_to_look/",
-   "source": "r/LocalLLaMA",
-   "title": "All DeepSeek model oneshots: 242 outputs to look at and compare!",
-   "published_at": "2026-08-03T15:25:47+00:00",
-   "collected_at": "2026-08-03T18:00:23.527366+00:00",
-   "title_ko": "딥시크 다양한 모델 버전별 성능 비교 결과 공개",
-   "summary_ko": "동일한 프롬프트 세트를 이용해 10개의 딥시크 모델 출력을 비교한 테스트 결과가 오픈소스 커뮤니티에 공개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "e072d5dac7f82e64",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vegedy/deepseek_v4_flash_0731_happy_numbers_700pp18tg/",
-   "source": "r/LocalLLaMA",
-   "title": "DeepSeek V4 Flash 0731 - Happy Numbers (700pp/18tg) and Thoughts",
-   "published_at": "2026-08-03T15:19:20+00:00",
-   "collected_at": "2026-08-03T18:00:23.527366+00:00",
-   "title_ko": "최적화 설정을 통한 딥시크 V4 플래시 로컬 구동 성능 향상",
-   "summary_ko": "하드웨어 최적화 설정을 적용해 스레드리퍼와 RTX 5090 환경에서 딥시크 V4 플래시 모델의 프롬프트 처리 및 생성 속도를 극대화했습니다.",
-   "category": "팁",
-   "tags": [
-    "NVIDIA",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "894f29a689615cf8",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1veg9uq/data_center_in_a_box_on_wheels_256gb_vram512gb/",
-   "source": "r/LocalLLaMA",
-   "title": "\"Data center in a Box (on Wheels)\" 256Gb VRAM/512Gb RAM AI Server 6-8 Month Operational Review, Stability Write Up, Benchmarks",
-   "published_at": "2026-08-03T15:14:40+00:00",
-   "collected_at": "2026-08-03T18:00:23.527366+00:00",
-   "title_ko": "이동형 AI 서버 구축 및 6개월 운영 후기",
-   "summary_ko": "고용량 VRAM과 RAM을 탑재한 이동형 AI 서버를 구축하고 실제 운영하며 얻은 인프라 관점의 안정성 및 벤치마크 리뷰입니다.",
-   "category": "참고",
-   "tags": [
-    "반도체"
-   ]
-  },
-  {
-   "id": "c95f020b0a6db62a",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-   "source": "Google AI",
-   "title": "Inside our 353,000-person vibe coding course",
-   "published_at": "2026-08-03T15:00:00+00:00",
-   "collected_at": "2026-08-04T15:31:52.289780+00:00",
-   "title_ko": "35만 명이 참여한 구글의 바이브 코딩 교육 과정",
-   "summary_ko": "구글이 진행한 대규모 '바이브 코딩' 교육 프로그램에 35만 명 이상이 참여하여 AI 기반 개발 방식을 학습했습니다. AI 시대의 코딩 교육 트렌드를 보여줍니다.",
-   "category": "참고",
-   "tags": [
-    "Google",
-    "코딩",
-    "AI 에이전트"
    ]
   }
  ]

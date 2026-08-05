@@ -202,6 +202,66 @@
   ]
  },
  {
+  "id": "92b4ac8c9a6d6cae",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vg1dqw/building_a_fully_local_pdf_readaloud/",
+  "source": "r/LocalLLaMA",
+  "title": "Building a Fully Local PDF Read-Aloud & PDF-to-Audiobook Desktop App with Kokoro 82M, Qwen, and llama.cpp",
+  "published_at": "2026-08-05T08:26:25+00:00",
+  "collected_at": "2026-08-05T09:43:29.574513+00:00",
+  "title_ko": "오프라인 PDF 음성 변환 데스크톱 앱 'Speechfony' 공개",
+  "summary_ko": "Kokoro와 llama.cpp 등을 활용해 문서를 클라우드 전송 없이 로컬에서 고품질 음성으로 읽어주는 데스크톱 앱이 개발됐다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "cb7b3ac2c43d1596",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vg0q6r/qwen3tts_voice_cloning_is_now_in_mainline/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3-TTS voice cloning is now in mainline llama.cpp — the old demo finally became real support",
+  "published_at": "2026-08-05T07:47:51+00:00",
+  "collected_at": "2026-08-05T09:43:29.574513+00:00",
+  "title_ko": "llama.cpp, Qwen3-TTS 음성 클론 기능 정식 지원",
+  "summary_ko": "로컬 LLM 구동 도구인 llama.cpp에 Qwen3-TTS 기반의 음성 클론 및 다국어 오디오 생성 기능이 메인스트림에 병합됐다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "340f25854c2e11e1",
+  "url": "https://news.hada.io/topic?id=32168",
+  "source": "GeekNews",
+  "title": "Shieldstral - 멀티모달 콘텐츠 검열을 위한 3B 오픈 가중치 모델",
+  "published_at": "2026-08-05T06:32:26+00:00",
+  "collected_at": "2026-08-05T09:43:44.006046+00:00",
+  "title_ko": "멀티모달 콘텐츠 검열을 위한 3B 오픈 모델 'Shieldstral' 공개",
+  "summary_ko": "자연어 기반의 안전 정책을 적용해 텍스트와 이미지를 함께 검열할 수 있는 3B 오픈웨이트 모델이 Apache 2.0으로 공개됐다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "60146370953fb47e",
+  "url": "https://news.hada.io/topic?id=32167",
+  "source": "GeekNews",
+  "title": "Show GN: rever-browser – 웹 리버싱하는 AI 에이전트 브라우저",
+  "published_at": "2026-08-05T06:02:15+00:00",
+  "collected_at": "2026-08-05T09:43:44.006046+00:00",
+  "title_ko": "웹 리버싱 자동화 AI 에이전트 브라우저 'rever-browser' 공개",
+  "summary_ko": "AI 에이전트가 사용자의 웹 탐색 트래픽과 자바스크립트 번들을 분석해 사이트 API 리버싱을 돕는 오픈소스 브라우저가 공개됐다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
   "id": "c50a76b86d1a60bd",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213514",
   "source": "AI타임스",
@@ -671,6 +731,22 @@
    "Anthropic",
    "투자",
    "반도체"
+  ]
+ },
+ {
+  "id": "ca3d8e3fd5e5d9e6",
+  "url": "https://deepgrove.ai/maple-preview",
+  "source": "Hacker News",
+  "title": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
+  "published_at": "2026-08-04T19:44:55+00:00",
+  "collected_at": "2026-08-05T09:43:14.251088+00:00",
+  "title_ko": "아이폰에서 구동되는 20B MoE 온디바이스 AI 모델 공개",
+  "summary_ko": "모바일 환경에서 초당 120토큰의 속도로 작동하는 소형 언어 모델 프리뷰가 공개되었습니다. 모바일 온디바이스 AI 성능의 한계를 넓혔다는 점에서 의미가 큽니다.",
+  "category": "속보",
+  "tags": [
+   "온디바이스 AI",
+   "오픈소스",
+   "모바일"
   ]
  },
  {
