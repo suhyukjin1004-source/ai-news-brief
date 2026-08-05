@@ -1,5 +1,67 @@
 [
  {
+  "id": "09aaba0a6ec560d7",
+  "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything",
+  "source": "Simon Willison",
+  "title": "One-shotting a Raccoon Heist game using Claude Fable 5",
+  "published_at": "2026-08-05T19:42:38+00:00",
+  "collected_at": "2026-08-05T19:48:18.424870+00:00",
+  "title_ko": "Claude를 활용한 원샷 게임 개발 사례",
+  "summary_ko": "Claude Code를 이용해 옛날 트윗의 게임 아이디어로 완전한 웹 게임을 한 번에 구현한 사례입니다. AI 코딩 도구의 실무 활용도를 보여줍니다.",
+  "category": "팁",
+  "tags": [
+   "Claude",
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "1979ddc0566e380b",
+  "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+  "source": "TechCrunch",
+  "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+  "published_at": "2026-08-05T19:30:19+00:00",
+  "collected_at": "2026-08-05T19:48:11.268261+00:00",
+  "title_ko": "제프 딘 등 구글 핵심 AI 연구진 퇴사 후 스타트업 창업",
+  "summary_ko": "구글의 전설적인 임원 제프 딘을 포함한 고위 연구원들이 AI 기반 과학적 발견을 위한 새로운 스타트업을 설립하기 위해 구글을 떠납니다.",
+  "category": "중요",
+  "tags": [
+   "Google",
+   "투자",
+   "스타트업"
+  ]
+ },
+ {
+  "id": "6437fe73ae858ada",
+  "url": "https://blog.fogus.me/llm/born-against.html",
+  "source": "Hacker News",
+  "title": "Born Against, or why hobby programming communities are against LLM usage",
+  "published_at": "2026-08-05T18:37:49+00:00",
+  "collected_at": "2026-08-05T19:48:18.151899+00:00",
+  "title_ko": "취미 프로그래밍 커뮤니티가 LLM 사용에 반대하는 이유",
+  "summary_ko": "최근 LLM 확산 속에서 일부 취미 프로그래밍 커뮤니티가 AI 코드 생성에 반발하는 이유와 개발 문화의 변화를 다룬 분석 글입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "b99f2e131369de00",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgfmee/scenema_audio_comes_to_comfyui_runs_on_8gb_vram/",
+  "source": "r/LocalLLaMA",
+  "title": "Scenema Audio Comes to ComfyUI, Runs on 8GB VRAM",
+  "published_at": "2026-08-05T18:27:14+00:00",
+  "collected_at": "2026-08-05T19:48:19.123581+00:00",
+  "title_ko": "ComfyUI용 Scenema 오디오 노드 공개",
+  "summary_ko": "8GB VRAM에서도 구동 가능한 오디오 생성 모델이 ComfyUI 네이티브 노드로 출시되었습니다. 로컬 환경에서 고성능 음성 합성이 가능해졌습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "로컬LLM"
+  ]
+ },
+ {
   "id": "e93c5999002f463a",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213568",
   "source": "AI타임스",
@@ -42,6 +104,22 @@
   "tags": [
    "Mistral",
    "오픈소스"
+  ]
+ },
+ {
+  "id": "206feec8d11376d4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vge4l5/deepseek_v4_flash_0731_at_1017_ts_nothink_on/",
+  "source": "r/LocalLLaMA",
+  "title": "DeepSeek V4 Flash 0731 at 10–17 t/s (nothink) on MacBook M5 Pro **64GB***, partly via SSD streaming",
+  "published_at": "2026-08-05T17:34:25+00:00",
+  "collected_at": "2026-08-05T19:48:19.123581+00:00",
+  "title_ko": "MacBook Pro에서 DeepSeek V4 구동 성공",
+  "summary_ko": "SSD 스트리밍 기법을 활용해 64GB 맥북 프로에서 DeepSeek V4 모델을 실용적인 속도로 구동한 사례입니다. 로컬 하드웨어 한계 극복 방법을 제시합니다.",
+  "category": "팁",
+  "tags": [
+   "DeepSeek",
+   "로컬LLM",
+   "반도체"
   ]
  },
  {
