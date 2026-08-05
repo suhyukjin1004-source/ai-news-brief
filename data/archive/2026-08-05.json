@@ -15,6 +15,21 @@
   ]
  },
  {
+  "id": "b3952ead15a915b2",
+  "url": "https://news.hada.io/topic?id=32179",
+  "source": "GeekNews",
+  "title": "자기 개선을 위한 하네스 엔지니어링",
+  "published_at": "2026-08-05T14:36:25+00:00",
+  "collected_at": "2026-08-05T15:23:11.096997+00:00",
+  "title_ko": "자기 개선을 위한 하네스 엔지니어링",
+  "summary_ko": "재귀적 자기 개선을 위해 모델 가중치 직접 수정 대신 워크플로와 메모리를 조율하는 하네스 개선 방식이 주목받고 있다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "736590304b99359c",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213559",
   "source": "AI타임스",
@@ -57,6 +72,51 @@
   ]
  },
  {
+  "id": "09e3ab3e18577fd5",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vg8qfv/lfm2526b_on_a_oneplus_13_at_17_toks_pure_cpu/",
+  "source": "r/LocalLLaMA",
+  "title": "LFM2.5-2.6B on a OnePlus 13 at 17 tok/s ~ Pure CPU",
+  "published_at": "2026-08-05T14:20:47+00:00",
+  "collected_at": "2026-08-05T15:22:55.804892+00:00",
+  "title_ko": "원플러스 13에서 구동되는 소형 LLM 'LFM2.5-2.6B'",
+  "summary_ko": "모바일 기기에서 CPU만으로 구동되는 소형 언어 모델과 자체 제작 추론 엔진의 성능 테스트 결과이다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "6716d33c74e96fb5",
+  "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+  "source": "TechCrunch",
+  "title": "Anthropic is hiring an AI chip design team",
+  "published_at": "2026-08-05T14:13:18+00:00",
+  "collected_at": "2026-08-05T15:22:49.427141+00:00",
+  "title_ko": "Anthropic, 자체 AI 칩 디자인 팀 신설",
+  "summary_ko": "Claude 개발사인 Anthropic이 AI 연산 속도와 효율성을 높이기 위해 커스텀 하드웨어 설계 팀을 꾸린다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "반도체"
+  ]
+ },
+ {
+  "id": "42d705a9fb443e4f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vg8g9z/dgx_spark_now_sells_for_60008000_euros_i_still/",
+  "source": "r/LocalLLaMA",
+  "title": "DGX Spark now sells for 6000-8000 euros. I still remember when it was just 4000.",
+  "published_at": "2026-08-05T14:09:59+00:00",
+  "collected_at": "2026-08-05T15:22:55.804892+00:00",
+  "title_ko": "DGX Spark 하드웨어 가격 변동",
+  "summary_ko": "AI 개발용 하드웨어인 DGX Spark의 시장 가격 변화에 대한 사용자들의 논의가 이어지고 있다.",
+  "category": "참고",
+  "tags": [
+   "반도체"
+  ]
+ },
+ {
   "id": "c48b4836ad397fa8",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213561",
   "source": "AI타임스",
@@ -71,6 +131,50 @@
   ]
  },
  {
+  "id": "3b129ab548aa010e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vg8fi1/given_the_minimax_h3_loras_debacle_some_important/",
+  "source": "r/LocalLLaMA",
+  "title": "Given the MiniMax H3 LoRAs Debacle - Some Important Context for Censorship enforcement and laws in China",
+  "published_at": "2026-08-05T14:09:07+00:00",
+  "collected_at": "2026-08-05T15:22:55.804892+00:00",
+  "title_ko": "중국 AI 모델의 검열과 법적 규제 배경",
+  "summary_ko": "MiniMax LoRAs 사태와 관련하여 중국 AI 연구소들이 준수해야 하는 현지 법규와 검열 집행에 대한 해설이다.",
+  "category": "참고",
+  "tags": [
+   "규제",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "5635c460a4833766",
+  "url": "https://blog.cloudflare.com/cloudflare-os/",
+  "source": "Hacker News",
+  "title": "Cloudflare OS: an open platform for agents, apps, and work",
+  "published_at": "2026-08-05T13:58:53+00:00",
+  "collected_at": "2026-08-05T15:22:51.466728+00:00",
+  "title_ko": "클라우드플레어, 에이전트와 앱을 위한 'Cloudflare OS' 공개",
+  "summary_ko": "클라우드플레어가 AI 에이전트와 애플리케이션을 위한 개방형 플랫폼 운영체제를 발표했다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "a35e896fac8f2ade",
+  "url": "https://www.reddit.com/r/singularity/comments/1vg8099/flowers_flowersslop_on_x_ssi_is_doing_ai_that/",
+  "source": "r/singularity",
+  "title": "Flowers ☾ (@flowersslop) on X: \"SSI is doing AI that learns rapidly from its own experience.\"",
+  "published_at": "2026-08-05T13:52:57+00:00",
+  "collected_at": "2026-08-05T15:23:08.407595+00:00",
+  "title_ko": "경험을 통해 자가 학습하는 SSI의 AI 접근법",
+  "summary_ko": "수츠케버의 SSI가 자체 경험을 바탕으로 급격하게 학습하는 AI 시스템을 개발 중이다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "e3f8d5a5227a676c",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213558",
   "source": "AI타임스",
@@ -82,6 +186,20 @@
   "category": "참고",
   "tags": [
    "OpenAI"
+  ]
+ },
+ {
+  "id": "793b7c74a907f90d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vg7gq9/jabbatheduckdeepseekv4flashmini_hugging_face/",
+  "source": "r/LocalLLaMA",
+  "title": "jabbatheduck/DeepSeek-v4-flash-mini · Hugging Face",
+  "published_at": "2026-08-05T13:31:12+00:00",
+  "collected_at": "2026-08-05T15:22:55.804892+00:00",
+  "title_ko": "커뮤니티 기반 실험 모델 'DeepSeek-v4-flash-mini'",
+  "summary_ko": "오픈소스 커뮤니티에서 DeepSeek 아키텍처를 활용해 실험적으로 제작한 소형 모델 변형판이다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
   ]
  },
  {
@@ -100,6 +218,21 @@
   ]
  },
  {
+  "id": "98e88eafa8aba580",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vg71ci/moe_cpuoffload_benchmark_on_deepseek/",
+  "source": "r/LocalLLaMA",
+  "title": "MoE CPU-offload benchmark on Deepseek V4/Gemma4/Qwen/GPT-OSS — TensorSharp vs llama.cpp",
+  "published_at": "2026-08-05T13:13:53+00:00",
+  "collected_at": "2026-08-05T15:22:55.804892+00:00",
+  "title_ko": "TensorSharp, MoE CPU 오프로드 벤치마크 공개",
+  "summary_ko": "TensorSharp가 저사양 VRAM 환경에서도 대형 MoE 모델을 구동할 수 있는 CPU 오프로드 기능을 메인에 병합했습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
   "id": "cd3faee37e898ce0",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213549",
   "source": "AI타임스",
@@ -115,6 +248,51 @@
   ]
  },
  {
+  "id": "89fdbc2703fb2ddb",
+  "url": "https://news.hada.io/topic?id=32177",
+  "source": "GeekNews",
+  "title": "Warp Agent CLI",
+  "published_at": "2026-08-05T13:05:33+00:00",
+  "collected_at": "2026-08-05T15:23:11.096997+00:00",
+  "title_ko": "Warp, 독립형 CLI 코딩 에이전트 공개",
+  "summary_ko": "Warp Terminal의 멀티모델 코딩 에이전트를 독립형 CLI로 제공하여 다양한 터미널 환경에서 사용할 수 있게 되었습니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "b0cbd8747669f977",
+  "url": "https://news.hada.io/topic?id=32176",
+  "source": "GeekNews",
+  "title": "AI가 아프리카 사이버 범죄의 절반 이상에 활용되며 사기 급증 – INTERPOL",
+  "published_at": "2026-08-05T13:03:37+00:00",
+  "collected_at": "2026-08-05T15:23:11.096997+00:00",
+  "title_ko": "인터폴, 아프리카 사이버 범죄의 55%에 AI 활용 확인",
+  "summary_ko": "인터폴 보고서에 따르면 아프리카 사이버 범죄의 절반 이상에 AI가 악용되어 사기와 공격 규모가 급증하고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "규제",
+   "보안"
+  ]
+ },
+ {
+  "id": "79ffe4a86235add3",
+  "url": "https://news.hada.io/topic?id=32175",
+  "source": "GeekNews",
+  "title": "소프트웨어 엔지니어링과 생성형 AI에 관한 8가지 오해",
+  "published_at": "2026-08-05T13:01:15+00:00",
+  "collected_at": "2026-08-05T15:23:11.096997+00:00",
+  "title_ko": "소프트웨어 엔지니어링과 생성형 AI의 8가지 오해",
+  "summary_ko": "생성형 AI 도입에 따른 과도한 생산성 기대로 인해 조직의 실제 업무 환경과 측정 방식이 왜곡될 수 있다는 분석입니다.",
+  "category": "참고",
+  "tags": [
+   "코딩",
+   "투자"
+  ]
+ },
+ {
   "id": "7c1a33dfe4427638",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213552",
   "source": "AI타임스",
@@ -127,6 +305,35 @@
   "tags": [
    "AI 에이전트",
    "규제"
+  ]
+ },
+ {
+  "id": "3f3aa9eeb4651c94",
+  "url": "https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and",
+  "source": "Hacker News",
+  "title": "Iowa-led states ask OpenAI to keep their bots on a leash",
+  "published_at": "2026-08-05T12:42:50+00:00",
+  "collected_at": "2026-08-05T15:22:54.966405+00:00",
+  "title_ko": "아이오와주 등 미국 검찰총장 연합, OpenAI에 투명성 요구",
+  "summary_ko": "AI 보안 사고 이후 아이오와주를 비롯한 주 정부 검찰총장들이 OpenAI에 봇 관리와 투명성 강화를 요구했습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "규제"
+  ]
+ },
+ {
+  "id": "7851a298e738e24b",
+  "url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
+  "source": "Hacker News",
+  "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+  "published_at": "2026-08-05T12:41:47+00:00",
+  "collected_at": "2026-08-05T15:22:51.466728+00:00",
+  "title_ko": "타임(TIME)지, AI 봇 전용 광고 탑재 웹페이지 별도 제공",
+  "summary_ko": "타임지가 AI 크롤러와 봇을 대상으로 광고가 내장된 별도의 웹페이지 버전을 제공하기 시작했습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
   ]
  },
  {
@@ -155,6 +362,36 @@
   "category": "중요",
   "tags": [
    "투자"
+  ]
+ },
+ {
+  "id": "8968eee035bcd859",
+  "url": "https://news.hada.io/topic?id=32174",
+  "source": "GeekNews",
+  "title": "Show GN: llmwiki-serve – Markdown 문서를 코딩 에이전트가 찾아 읽게 해주는 로컬 서버",
+  "published_at": "2026-08-05T12:29:55+00:00",
+  "collected_at": "2026-08-05T15:23:11.096997+00:00",
+  "title_ko": "코딩 에이전트용 로컬 위키 서버 'llmwiki-serve' 공개",
+  "summary_ko": "코딩 에이전트가 마크다운 문서 내용을 쉽게 찾아 읽을 수 있도록 지원하는 로컬 서버 도구가 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "c2ae90aa7691bcd6",
+  "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+  "source": "TechCrunch",
+  "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+  "published_at": "2026-08-05T12:28:38+00:00",
+  "collected_at": "2026-08-05T15:22:49.427141+00:00",
+  "title_ko": "맥팩, Liquid AI 모델 기반 온디바이스 AI 도입",
+  "summary_ko": "MacPaw가 자사 앱스토어 개발자들을 위해 Liquid AI의 모델을 활용한 로컬 AI 어시스턴트를 구축하고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "온디바이스",
+   "Liquid AI"
   ]
  },
  {
@@ -199,6 +436,35 @@
   "category": "중요",
   "tags": [
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "da0f9416a1cd3978",
+  "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
+  "source": "Hacker News",
+  "title": "Why Erdős Problems Are Falling to AI",
+  "published_at": "2026-08-05T11:49:34+00:00",
+  "collected_at": "2026-08-05T15:22:54.966405+00:00",
+  "title_ko": "에르되시의 난제를 해결하는 AI",
+  "summary_ko": "전설적인 수학적 난제인 에르되시 문제들이 인공지능에 의해 연이어 풀리고 있는 배경과 의미를 다룹니다.",
+  "category": "참고",
+  "tags": [
+   "연구"
+  ]
+ },
+ {
+  "id": "38e5715b66857a8b",
+  "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+  "source": "Hacker News",
+  "title": "Position: LLMs Can't Jump",
+  "published_at": "2026-08-05T11:01:37+00:00",
+  "collected_at": "2026-08-05T15:22:51.466728+00:00",
+  "title_ko": "LLM의 구조적 한계 다룬 논문 'LLMs Can't Jump'",
+  "summary_ko": "대형언어모델(LLM)이 지닌 근본적인 추론 및 인식의 한계점을 지적하는 연구 논문이 오픈리뷰에 공개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "연구"
   ]
  },
  {
