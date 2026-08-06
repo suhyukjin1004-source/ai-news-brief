@@ -152,6 +152,67 @@
   ]
  },
  {
+  "id": "ec732339be6db936",
+  "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
+  "source": "The Verge",
+  "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
+  "published_at": "2026-08-06T09:33:11+00:00",
+  "collected_at": "2026-08-06T09:46:13.200194+00:00",
+  "title_ko": "OpenAI, 애플의 영업비밀 침해 소송 기각 요청",
+  "summary_ko": "OpenAI가 자사를 상대로 제기된 애플의 영업비밀 도용 소송이 근거 없다고 주장하며 연방법원에 기각을 요청했습니다. AI 스타트업의 제품 개발 정보를 오인했다고 반박하며 양사 간 법적 공방이 이어지고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "Apple",
+   "규제"
+  ]
+ },
+ {
+  "id": "c4f90094fa40f223",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgx9m5/i_just_spent_weeks_rewriting_my_webui_from/",
+  "source": "r/LocalLLaMA",
+  "title": "i just spent weeks rewriting my webUI from scratch, getting rid of all AI slop within the codebase and switching it over to a proper lightweight framework (alpine.js). i am now comfortable suggesting it as an alternative to openwebUI, librechat and the like! it is made for local models",
+  "published_at": "2026-08-06T07:24:13+00:00",
+  "collected_at": "2026-08-06T09:46:31.272229+00:00",
+  "title_ko": "로컬 LLM을 위한 경량 웹 UI 오픈소스 공개",
+  "summary_ko": "개발자가 AI 생성 코드를 배제하고 Alpine.js 기반으로 완전히 새로 작성한 로컬 모델용 경량 웹 UI를 공개했습니다. 오픈소스 기반으로 빠른 속도와 안정성을 제공합니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "c1e57b36ef4d1bc4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgx8yu/qwen3824ta95b_aka_qwen38max_open_release_time/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-2.4T-A95B (aka Qwen3.8-Max) open release time: next wednesday",
+  "published_at": "2026-08-06T07:23:10+00:00",
+  "collected_at": "2026-08-06T09:46:31.272229+00:00",
+  "title_ko": "알리바바, 차세대 Qwen 모델 공개 임박",
+  "summary_ko": "알리바바의 대규모 언어 모델인 'Qwen3.8-Max'의 오픈소스 공개일이 다음주 수요일로 예고되었습니다. 업계의 기대를 모으는 대형 모델 출시 소식입니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "모델명"
+  ]
+ },
+ {
+  "id": "cdd64bfdfd4584c4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgx6cw/i_get_that_ai_labs_need_to_make_money_but/",
+  "source": "r/LocalLLaMA",
+  "title": "I get that AI labs need to make money, but zero-warning price spikes are a nightmare for production builds",
+  "published_at": "2026-08-06T07:19:01+00:00",
+  "collected_at": "2026-08-06T09:46:31.272229+00:00",
+  "title_ko": "DeepSeek API 가격 인상 논란",
+  "summary_ko": "DeepSeek이 사전 경고 없이 API 가격을 인상하면서 프로덕션 환경을 운영하는 개발자들 사이에서 혼란이 발생했습니다. 급격한 비용 변동으로 인해 자체 호스팅 및 서비스 전환을 고민하는 움직임이 나타나고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "투자",
+   "반도체"
+  ]
+ },
+ {
   "id": "8050d0e5c063ff78",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgtkgc/glmqwen_appreciation_post/",
   "source": "r/LocalLLaMA",
@@ -329,6 +390,21 @@
    "Meta",
    "AI 에이전트",
    "코딩"
+  ]
+ },
+ {
+  "id": "e8104b4f9d9d7169",
+  "url": "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything",
+  "source": "Simon Willison",
+  "title": "Third-party cyber evaluations involving OpenAI models",
+  "published_at": "2026-08-05T23:45:32+00:00",
+  "collected_at": "2026-08-06T09:46:30.571490+00:00",
+  "title_ko": "OpenAI 모델 연루 제3자 사이버 보안 평가 공개",
+  "summary_ko": "외부 보안 평가 과정에서 테스트 환경 설정 오류로 인해 OpenAI 모델이 인터넷에 접근하는 사건이 발생했습니다. AI 모델의 안전성 검증 과정에서 발생하는 보안 관리의 중요성을 보여줍니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "규제"
   ]
  },
  {
