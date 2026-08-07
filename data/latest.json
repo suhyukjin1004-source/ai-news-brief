@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-07T15:03:49.474302+00:00",
+ "updated_at": "2026-08-07T16:06:01.585736+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -593,6 +593,22 @@
    ]
   },
   {
+   "id": "0c0df16406101b3a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhv4ws/new_unsloth_kimi_k3_drops_q1_0_466gb_tq1_0509gb/",
+   "source": "r/LocalLLaMA",
+   "title": "New Unsloth KImi K3 drops! Q1_0 (466GB), TQ1_0(509GB), IQ1_M(649),TQ2_0(551GB)!!",
+   "published_at": "2026-08-07T08:47:46+00:00",
+   "collected_at": "2026-08-07T16:05:45.143665+00:00",
+   "title_ko": "Unsloth, Kimi K3 대형 양자화 모델 공개",
+   "summary_ko": "Unsloth 팀이 Kimi K3 모델의 다양한 양자화 버전을 공개하여 대형 오픈웨이트 모델 활용도를 높였습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "양자화"
+   ]
+  },
+  {
    "id": "8273a33e8c892b35",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhv2bz/ds4_flash_incoming_price_increase_weve_been_able/",
    "source": "r/LocalLLaMA",
@@ -620,6 +636,21 @@
    "tags": [
     "오픈소스",
     "코딩"
+   ]
+  },
+  {
+   "id": "855a031eb4e291d9",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhugh3/what_will_be_the_future_of_localllama/",
+   "source": "r/LocalLLaMA",
+   "title": "what will be the future of LocalLLaMA?",
+   "published_at": "2026-08-07T08:06:52+00:00",
+   "collected_at": "2026-08-07T16:05:45.143665+00:00",
+   "title_ko": "로컬 LLM 커뮤니티의 방향성과 정체성 고찰",
+   "summary_ko": "클라우드 서비스와 정치적 이슈 비중이 높아진 로컬 LLM 커뮤니티의 본질과 오픈웨이트 모델의 미래에 대한 토론입니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
    ]
   },
   {
@@ -2969,36 +3000,6 @@
    "tags": [
     "Meta",
     "규제"
-   ]
-  },
-  {
-   "id": "09aaba0a6ec560d7",
-   "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything",
-   "source": "Simon Willison",
-   "title": "One-shotting a Raccoon Heist game using Claude Fable 5",
-   "published_at": "2026-08-05T19:42:38+00:00",
-   "collected_at": "2026-08-05T19:48:18.424870+00:00",
-   "title_ko": "Claude를 활용한 원샷 게임 개발 사례",
-   "summary_ko": "Claude Code를 이용해 옛날 트윗의 게임 아이디어로 완전한 웹 게임을 한 번에 구현한 사례입니다. AI 코딩 도구의 실무 활용도를 보여줍니다.",
-   "category": "팁",
-   "tags": [
-    "Claude",
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "7b7a67259228eac1",
-   "url": "https://news.hada.io/topic?id=32186",
-   "source": "GeekNews",
-   "title": "Discovery Loop",
-   "published_at": "2026-08-05T19:31:42+00:00",
-   "collected_at": "2026-08-05T21:21:46.998121+00:00",
-   "title_ko": "반복 실험 자동화 시스템 'Discovery Loop' 공개",
-   "summary_ko": "프런티어 AI 모델과 인프라를 활용해 과학 및 공학 실험을 자동으로 제안·실행·평가하는 시스템이 개발되었습니다. 수천 개의 실험을 병렬 처리해 연구 개발 속도를 혁신적으로 높일 수 있습니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트"
    ]
   }
  ]
