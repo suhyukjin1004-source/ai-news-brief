@@ -1,5 +1,66 @@
 [
  {
+  "id": "3d1c14b3e0d2d0e9",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+  "source": "The Verge",
+  "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+  "published_at": "2026-08-07T20:01:51+00:00",
+  "collected_at": "2026-08-07T20:52:24.846453+00:00",
+  "title_ko": "LA 래퍼 페닉스 렉신, AI 생성 음악 사용 인정",
+  "summary_ko": "LA 래퍼 페닉스 렉신이 AI 음악 생성 도구로 곡을 만들었음을 시인했습니다. 생성 음악 탐지 기술이 발전하면서 대중음악계에서도 AI 활용 논란이 가중되고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 음악",
+   "생성형 AI"
+  ]
+ },
+ {
+  "id": "18e9715f563cefab",
+  "url": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything",
+  "source": "Simon Willison",
+  "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
+  "published_at": "2026-08-07T19:18:09+00:00",
+  "collected_at": "2026-08-07T20:52:36.097815+00:00",
+  "title_ko": "GPT-5.6 Sol Ultra로 원샷 게임 개발 시연",
+  "summary_ko": "서브 에이전트를 적극 활용하는 GPT-5.6 Sol Ultra 모델이 기존 Claude 모델보다 뛰어난 품질로 전체 게임을 한 번에 구현해 냈습니다. AI 코딩과 에이전트의 성능 진화를 보여줍니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "181a5d55ab8d4861",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vi9zls/deepseek_v4_flash_0731_arcagi_results/",
+  "source": "r/LocalLLaMA",
+  "title": "DeepSeek V4 Flash 0731 - ARC-AGI Results",
+  "published_at": "2026-08-07T19:17:49+00:00",
+  "collected_at": "2026-08-07T20:52:37.018463+00:00",
+  "title_ko": "DeepSeek V4 Flash 0731 ARC-AGI 벤치마크 결과 공개",
+  "summary_ko": "DeepSeek V4 Flash 0731 버전의 ARC-AGI 추론 벤치마크 결과가 공개되었습니다. 모델의 추론 능력 향상을 가늠할 수 있는 지표로 주목받고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "DeepSeek",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "f1bc7dd97ae9661a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vi9s64/how_to_even_compare_quants_from_various_sources/",
+  "source": "r/LocalLLaMA",
+  "title": "How to even compare quants from various sources?",
+  "published_at": "2026-08-07T19:10:16+00:00",
+  "collected_at": "2026-08-07T20:52:37.018463+00:00",
+  "title_ko": "다양한 소스의 LLM 양자화 모델 비교 방법론",
+  "summary_ko": "수많은 출처와 다양한 양자화 레벨을 가진 LLM 가중치 중에서 최적의 모델과 파라미터를 선정하는 복잡성에 대한 개발자들의 고민입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
   "id": "7099c51324ae402b",
   "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
   "source": "The Verge",
@@ -76,6 +137,21 @@
   ]
  },
  {
+  "id": "5e6b891f818dcee3",
+  "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+  "source": "Hacker News",
+  "title": "Databricks drove down AI coding spend 70%",
+  "published_at": "2026-08-07T18:25:17+00:00",
+  "collected_at": "2026-08-07T20:52:35.911674+00:00",
+  "title_ko": "데이터브릭스, AI 코딩 비용 70% 절감",
+  "summary_ko": "데이터브릭스가 대규모 규모에서 AI 코딩 비용을 70% 줄인 사례와 관리 노하우를 공유했습니다. 개발 생산성과 비용 효율화 측면에서 중요한 참고 자료입니다.",
+  "category": "중요",
+  "tags": [
+   "코딩",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "4f64a15288e95bbf",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vi8jlr/got_job_as_director_of_ai_and_systems_development/",
   "source": "r/LocalLLaMA",
@@ -148,6 +224,21 @@
   "tags": [
    "AMD",
    "반도체"
+  ]
+ },
+ {
+  "id": "92f81e64c3c74187",
+  "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+  "source": "Hacker News",
+  "title": "DeepSeek V4 Flash 0731",
+  "published_at": "2026-08-07T17:56:20+00:00",
+  "collected_at": "2026-08-07T20:52:28.097567+00:00",
+  "title_ko": "DeepSeek V4 Flash 0731 버전 출시",
+  "summary_ko": "DeepSeek의 새로운 AI 모델 V4 Flash 0731 버전이 공개되며 커뮤니티의 큰 관심을 모았습니다. 고성능 오픈소스 모델의 성능 향상을 보여줍니다.",
+  "category": "속보",
+  "tags": [
+   "DeepSeek",
+   "오픈소스"
   ]
  },
  {
