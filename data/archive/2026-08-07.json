@@ -168,6 +168,22 @@
   ]
  },
  {
+  "id": "45635142f4493374",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhw4f5/gemma_4_qat_could_be_improved_further_by_google/",
+  "source": "r/LocalLLaMA",
+  "title": "Gemma 4 QAT could be improved further by Google aligning the QAT model to modern q4_k instead of q4_0",
+  "published_at": "2026-08-07T09:46:52+00:00",
+  "collected_at": "2026-08-07T11:53:08.626923+00:00",
+  "title_ko": "Gemma 4 QAT 모델의 양자화 방식 개선 제안",
+  "summary_ko": "구글의 Gemma 4 QAT 모델이 q4_0 대신 현대적인 q4_k 방식으로 정렬되면 성능이 더욱 향상될 수 있다는 벤치마크 분석 결과입니다. 고정밀 추론과 메모리 효율성을 동시에 잡기 위한 실무적 피드백으로 중요합니다.",
+  "category": "참고",
+  "tags": [
+   "Google",
+   "오픈소스",
+   "AI"
+  ]
+ },
+ {
   "id": "2ee94000fec4618b",
   "url": "https://openai.com/index/hsp-gruppe",
   "source": "OpenAI",
@@ -180,6 +196,22 @@
   "tags": [
    "OpenAI",
    "GPT"
+  ]
+ },
+ {
+  "id": "011f991c1766e43f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhvblg/i_made_a_simple_local_voice_input_extension_for/",
+  "source": "r/LocalLLaMA",
+  "title": "I made a simple local voice input extension for pi (nemotron 3.5 0.6B ASR)",
+  "published_at": "2026-08-07T08:59:21+00:00",
+  "collected_at": "2026-08-07T11:53:08.626923+00:00",
+  "title_ko": "NVIDIA Nemotron 기반 로컬 음성 입력 확장 프로그램 개발",
+  "summary_ko": "개발자가 NVIDIA Nemotron 3.5 ASR 0.6B 모델을 활용해 가볍고 빠른 실시간 로컬 음성 입력 도구를 만들었습니다. 별도의 무거운 서버 없이 코딩 터미널 등에서 음성 입력을 활용할 수 있는 실용적인 팁을 제공합니다.",
+  "category": "팁",
+  "tags": [
+   "NVIDIA",
+   "오픈소스",
+   "코딩"
   ]
  },
  {
