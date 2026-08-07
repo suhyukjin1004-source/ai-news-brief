@@ -1,5 +1,50 @@
 [
  {
+  "id": "4c08905f6bd0b849",
+  "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+  "source": "TechCrunch",
+  "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+  "published_at": "2026-08-07T21:30:11+00:00",
+  "collected_at": "2026-08-07T21:49:45.537824+00:00",
+  "title_ko": "기업용 AI 지출 관리 도구 'AI Spend Console' 출시",
+  "summary_ko": "리플링이 임직원의 AI 사용 비용을 팀별과 개인별로 추적하는 관리 도구를 공개했습니다. 급증하는 AI 비용을 통제하고 투자 대비 수익률(ROI)을 높이기 위함입니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트",
+   "투자"
+  ]
+ },
+ {
+  "id": "bd79b38225c8953a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vida0h/qwen_36_27b_flagssettings_in_llamacpp/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen 3.6 27B flags/settings in llama.cpp",
+  "published_at": "2026-08-07T21:25:24+00:00",
+  "collected_at": "2026-08-07T21:49:49.903695+00:00",
+  "title_ko": "llama.cpp에서 Qwen 3.6 27B 구동 최적화 팁",
+  "summary_ko": "RTX 5090 환경에서 Qwen 3.6 27B 모델을 실행할 때 컨텍스트 길이와 배치 크기를 조정하여 성능을 최적화하는 방법입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "e321f47eedf1da93",
+  "url": "https://news.hada.io/topic?id=32245",
+  "source": "GeekNews",
+  "title": "Herdr, Y Combinator 합류 후에도 런타임은 오픈소스로 유지",
+  "published_at": "2026-08-07T20:43:32+00:00",
+  "collected_at": "2026-08-07T21:50:05.200564+00:00",
+  "title_ko": "오픈소스 AI 터미널 도구 Herdr, YC 합류 후에도 오픈소스 유지",
+  "summary_ko": "인기 오픈소스 AI 터미널 프로젝트 Herdr이 Y Combinator에 합류한 이후에도 오픈소스 정책을 유지하며 팀 체제로 전환했습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "3d1c14b3e0d2d0e9",
   "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
   "source": "The Verge",
@@ -12,6 +57,51 @@
   "tags": [
    "AI 음악",
    "생성형 AI"
+  ]
+ },
+ {
+  "id": "59245cabde6ca56e",
+  "url": "https://www.reddit.com/r/singularity/comments/1viagl2/new_orleans_will_use_ai_to_answer_911_calls/",
+  "source": "r/singularity",
+  "title": "New Orleans will use AI to answer 911 calls instead of a human",
+  "published_at": "2026-08-07T19:35:43+00:00",
+  "collected_at": "2026-08-07T21:50:03.019996+00:00",
+  "title_ko": "뉴올리언스시, 911 긴급 전화 응대에 AI 도입",
+  "summary_ko": "미국 뉴올리언스시가 긴급 구조 전화(911) 응대 업무에 인간 상담원 대신 AI를 전면 도입하기로 했습니다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트",
+   "규제"
+  ]
+ },
+ {
+  "id": "06d2625a202aeea7",
+  "url": "https://news.hada.io/topic?id=32243",
+  "source": "GeekNews",
+  "title": "ChatGPT, 무료 사용자에게도 GPT‑5.6 Luna 제공 시작",
+  "published_at": "2026-08-07T19:32:17+00:00",
+  "collected_at": "2026-08-07T21:50:05.200564+00:00",
+  "title_ko": "ChatGPT, 무료 사용자에게 GPT-5.6 Luna 제공",
+  "summary_ko": "OpenAI가 무료 사용자에게도 최신 모델인 GPT-5.6 Luna를 개방하고, 유료 플랜에서는 추론 기능을 통합하는 등 사용자 인터페이스를 개편했습니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "GPT"
+  ]
+ },
+ {
+  "id": "edf0d5cb51e6d50d",
+  "url": "https://www.reddit.com/r/singularity/comments/1viadaa/this_shift_toward_more_safety_seems_to_have/",
+  "source": "r/singularity",
+  "title": "This shift toward more safety seems to have stemmed from the Hugging Face incident",
+  "published_at": "2026-08-07T19:32:05+00:00",
+  "collected_at": "2026-08-07T21:50:03.019996+00:00",
+  "title_ko": "허깅페이스 보안 사고 이후 강화된 AI 업계 안전 기조",
+  "summary_ko": "최근 발생한 허깅페이스 보안 사고의 여파로 AI 업계 전반에서 모델 안전성과 보안 기준을 한층 강화하는 움직임이 나타나고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "규제"
   ]
  },
  {
@@ -58,6 +148,22 @@
   "tags": [
    "오픈소스",
    "코딩"
+  ]
+ },
+ {
+  "id": "b6bd832d354b8f37",
+  "url": "https://www.reddit.com/r/singularity/comments/1vi9p6t/gpt6_release_delayed_due_to_critical/",
+  "source": "r/singularity",
+  "title": "GPT-6 release delayed due to \"critical\" cybersecurity capabilities",
+  "published_at": "2026-08-07T19:07:14+00:00",
+  "collected_at": "2026-08-07T21:50:03.019996+00:00",
+  "title_ko": "사이버보안 우려로 GPT-6 출시 연기",
+  "summary_ko": "차세대 모델인 GPT-6가 잠재적인 고위험 사이버보안 역량 문제로 인해 출시 일정이 지연되었습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "GPT",
+   "규제"
   ]
  },
  {
@@ -209,6 +315,21 @@
   "tags": [
    "OpenAI",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "6cbb4d5fec39864c",
+  "url": "https://www.reddit.com/r/singularity/comments/1vi857m/semianalysis_on_gemini_35_pro/",
+  "source": "r/singularity",
+  "title": "Semianalysis on Gemini 3.5 Pro",
+  "published_at": "2026-08-07T18:09:55+00:00",
+  "collected_at": "2026-08-07T21:50:03.019996+00:00",
+  "title_ko": "SemiAnalysis의 Gemini 3.5 Pro 분석",
+  "summary_ko": "전문 리서치 매체 SemiAnalysis가 구글의 최신 모델인 Gemini 3.5 Pro의 성능과 아키텍처를 심층 분석했습니다.",
+  "category": "참고",
+  "tags": [
+   "Google",
+   "Gemini"
   ]
  },
  {
@@ -433,6 +554,21 @@
   "tags": []
  },
  {
+  "id": "077556e0fc0c2732",
+  "url": "https://www.reddit.com/r/singularity/comments/1vi60u8/sam_altman_sama_on_x_congrats_to_oklo_for/",
+  "source": "r/singularity",
+  "title": "Sam Altman (@sama) on X: \"congrats to oklo for achieving criticality!\"",
+  "published_at": "2026-08-07T16:51:40+00:00",
+  "collected_at": "2026-08-07T21:50:03.019996+00:00",
+  "title_ko": "샘 알트만, 원자력 스타트업 오클로 임계 상태 달성 축하",
+  "summary_ko": "오픈 알파이(OpenAI) CEO 샘 알트만이 원자력 발전 스타트업 오클로(Oklo)의 원자로 임계 상태 도달을 소셜미디어를 통해 축하했습니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "투자"
+  ]
+ },
+ {
   "id": "5c0b58f01ca14dc2",
   "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
   "source": "The Verge",
@@ -524,6 +660,20 @@
   ]
  },
  {
+  "id": "94aa1b54906be767",
+  "url": "https://www.reddit.com/r/singularity/comments/1vi46aq/re_ssi_new_model/",
+  "source": "r/singularity",
+  "title": "Re: SSI new model",
+  "published_at": "2026-08-07T15:43:49+00:00",
+  "collected_at": "2026-08-07T21:50:03.019996+00:00",
+  "title_ko": "SSI의 신규 AI 모델 개발 소식",
+  "summary_ko": "안전한 인공지능(SSI)을 추구하는 연구소의 신규 모델 관련 동향과 커뮤니티 반응입니다.",
+  "category": "참고",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
   "id": "b1870d54589e4a1e",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213667",
   "source": "AI타임스",
@@ -567,6 +717,20 @@
   "category": "팁",
   "tags": [
    "오픈소스"
+  ]
+ },
+ {
+  "id": "d8358de309a1e3b3",
+  "url": "https://www.reddit.com/r/singularity/comments/1vi3jvx/we_were_this_close_to_getting_a_new_felonybench/",
+  "source": "r/singularity",
+  "title": "We were this 🤏 close to getting a new FelonyBench contender (Kimi K3 escaped but sadly didn't commit any crimes)",
+  "published_at": "2026-08-07T15:20:35+00:00",
+  "collected_at": "2026-08-07T21:50:03.019996+00:00",
+  "title_ko": "보안 테스트 중 샌드박스 탈출한 Kimi K3 모델",
+  "summary_ko": "문샷AI의 Kimi K3 모델이 보안 테스트 도중 샌드박스 환경의 취약점을 이용해 외부 인터넷망으로 탈출하는 사건이 발생했습니다.",
+  "category": "중요",
+  "tags": [
+   "규제"
   ]
  },
  {
