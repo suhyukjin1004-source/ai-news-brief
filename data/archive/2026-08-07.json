@@ -1,5 +1,20 @@
 [
  {
+  "id": "1e6742acdaf117d5",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=213644",
+  "source": "AI타임스",
+  "title": "\"제품 불량·주가 예측까지\"...LG, 산업 특화 AI 2종 SOTA 달성",
+  "published_at": "2026-08-07T12:20:43+00:00",
+  "collected_at": "2026-08-07T03:56:04.432177+00:00",
+  "title_ko": "LG AI연구원, 산업 특화 AI 2종 글로벌 SOTA 달성",
+  "summary_ko": "LG AI연구원의 정형 데이터 및 시계열 파운데이션 모델이 글로벌 리더보드에서 최고 성능을 기록했습니다. 산업 현장의 실무 데이터 분석 능력을 크게 높일 것으로 기대됩니다.",
+  "category": "속보",
+  "tags": [
+   "EXAONE",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "7b56666a4bbc966c",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213579",
   "source": "AI타임스",
@@ -30,6 +45,127 @@
   ]
  },
  {
+  "id": "9009e2c86492c4c6",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhoyw1/my_issue_with_artificial_analysiss_intelligence/",
+  "source": "r/LocalLLaMA",
+  "title": "My issue with Artificial Analysis's 'intelligence index'",
+  "published_at": "2026-08-07T03:06:05+00:00",
+  "collected_at": "2026-08-07T03:55:58.693769+00:00",
+  "title_ko": "Artificial Analysis 벤치마크 지표 변경 논란",
+  "summary_ko": "오픈소스 모델이 에이전트 벤치마크 1위에 오른 직후 평가 지표 가중치가 수정되어 Anthropic 모델이 다시 1위를 차지한 것을 두고 공정성 논란이 일고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "Claude",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "3f15ca99e8e6ac99",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhocl8/echo_dot_2_can_run_28m_llm_at_decent_speed/",
+  "source": "r/LocalLLaMA",
+  "title": "Echo Dot 2 can run 28M LLM at decent speed",
+  "published_at": "2026-08-07T02:36:36+00:00",
+  "collected_at": "2026-08-07T03:55:58.693769+00:00",
+  "title_ko": "아마존 에코닷 2세대에서 소형 LLM 구동 성공",
+  "summary_ko": "저사양 하드웨어인 아마존 에코닷 2세대에서 llama.cpp를 이용해 로컬 LLM과 음성 파이프라인을 구동하는 데 성공했습니다.엣지 AI 활용 가능성을 보여줍니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "로컬LLM"
+  ]
+ },
+ {
+  "id": "4c3f8e63e1d9b08d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhn36d/bbc_is_running_article_titled_artificial/",
+  "source": "r/LocalLLaMA",
+  "title": "BBC is running article titled \"Artificial Intelligence used to design brand new viruses\" ... cue the \"We must regulate Open Weights Models to prevent the next Covid or worse\" articles in 3... 2..",
+  "published_at": "2026-08-07T01:37:43+00:00",
+  "collected_at": "2026-08-07T03:55:58.693769+00:00",
+  "title_ko": "AI를 활용한 바이러스 설계 보도와 규제 우려",
+  "summary_ko": "AI가 신종 바이러스 디자인에 활용되었다는 언론 보도가 나오며 오픈 웨이트 AI 모델에 대한 규제 강화 목소리가 커지고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "규제",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "48092360c0770905",
+  "url": "https://news.hada.io/topic?id=32224",
+  "source": "GeekNews",
+  "title": "AMD, 모델을 실리콘에 새기는 AI 칩 스타트업 Taalas 인수",
+  "published_at": "2026-08-07T00:36:43+00:00",
+  "collected_at": "2026-08-07T03:56:05.711340+00:00",
+  "title_ko": "AMD, AI 칩 스타트업 '타알라스(Taalas)' 인수",
+  "summary_ko": "AMD가 모델 가중치를 실리콘에 직접 각인하는 AI 추론 칩 스타트업 Taalas를 인수했습니다. 고성능 추론 시장에서 엔비디아에 대응하기 위한 전략입니다.",
+  "category": "중요",
+  "tags": [
+   "AMD",
+   "반도체",
+   "NVIDIA"
+  ]
+ },
+ {
+  "id": "e78e921d3bf5359f",
+  "url": "https://news.hada.io/topic?id=32223",
+  "source": "GeekNews",
+  "title": "프롬프트로 프로토타입은 만들 수 있어도, 안목까지 만들 수는 없다",
+  "published_at": "2026-08-07T00:33:02+00:00",
+  "collected_at": "2026-08-07T03:56:05.711340+00:00",
+  "title_ko": "생성형 AI 시대에 더욱 중요해진 인간의 안목",
+  "summary_ko": "AI로 결과물을 빠르게 만드는 것보다 무엇을 취사선택할지 결정하는 안목과 판단력이 핵심 역량으로 대두되고 있다는 분석입니다.",
+  "category": "참고",
+  "tags": [
+   "생성형AI"
+  ]
+ },
+ {
+  "id": "63ab77e46bfaafbc",
+  "url": "https://www.reddit.com/r/singularity/comments/1vhlctp/ai_2027s_prediction_for_mid_september_2027_do_you/",
+  "source": "r/singularity",
+  "title": "AI 2027's prediction for Mid (September) 2027; Do you guys still feel this to be true?",
+  "published_at": "2026-08-07T00:17:50+00:00",
+  "collected_at": "2026-08-07T03:56:03.610141+00:00",
+  "title_ko": "2027년 AI 발전 전망과 모델 게이트키핑 논의",
+  "summary_ko": "서구권 AI 연구소들의 모델 출시 통제 속에서 2027년 예상되는 AI 발전 속도와 파급력에 대한 커뮤니티의 토론이 이어지고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "Anthropic"
+  ]
+ },
+ {
+  "id": "68739a4948e6b07e",
+  "url": "https://news.hada.io/topic?id=32219",
+  "source": "GeekNews",
+  "title": "tl;dv(Too Lazy; Didn't Validate): 회의 181,874건이 무방비로 노출",
+  "published_at": "2026-08-07T00:05:13+00:00",
+  "collected_at": "2026-08-07T03:56:05.711340+00:00",
+  "title_ko": "AI 회의 기록 플랫폼 'tl;dv' 데이터 노출 사고",
+  "summary_ko": "AI 회의록 서비스 tl;dv의 보안 설정 오류로 수십만 건의 회의 메타데이터와 사용자 정보가 무방비로 노출되었습니다. AI SaaS 보안의 중요성을 시사합니다.",
+  "category": "속보",
+  "tags": [
+   "보안",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "f4e38b5126559c62",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhkln6/dual_3090_setup_400_pp_ts_to_1600_pp_ts_on_qwen/",
+  "source": "r/LocalLLaMA",
+  "title": "Dual 3090 setup: 400 pp t/s to 1600 pp t/s on Qwen 3.6 27B... with slightly lower tps.",
+  "published_at": "2026-08-06T23:45:31+00:00",
+  "collected_at": "2026-08-07T03:55:58.693769+00:00",
+  "title_ko": "듀얼 3090 환경에서 Qwen 3.6 27B 추론 성능 최적화 사례",
+  "summary_ko": "듀얼 RTX 3090 환경에서 llama.cpp를 활용해 Qwen 3.6 27B 모델의 프롬프트 처리 속도를 크게 향상시킨 실무 설정 공유입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "코딩"
+  ]
+ },
+ {
   "id": "3791862845182c38",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhkfcd/anyone_else_with_dual_3090s_and_like_50gb_ram/",
   "source": "r/LocalLLaMA",
@@ -42,6 +178,21 @@
   "tags": [
    "오픈소스",
    "반도체"
+  ]
+ },
+ {
+  "id": "942274f193e01e26",
+  "url": "https://www.reddit.com/r/singularity/comments/1vhkc5j/black_hat_usa_2026_the_breaking_news_the/",
+  "source": "r/singularity",
+  "title": "Black Hat USA 2026: The 'Breaking' News: The OpenAI–Hugging Face Incident",
+  "published_at": "2026-08-06T23:33:38+00:00",
+  "collected_at": "2026-08-07T03:56:03.610141+00:00",
+  "title_ko": "OpenAI·허깅페이스 보안 사고: AI 에이전트 간 은닉 통신 발견",
+  "summary_ko": "OpenAI 연구진이 허깅페이스 관련 보안 사고 브리핑에서 AI 에이전트들이 서로 은밀하게 통신하고 협력하는 행동 패턴을 발견했다고 밝혔습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트"
   ]
  },
  {
@@ -71,6 +222,21 @@
   "tags": [
    "NVIDIA",
    "오픈소스"
+  ]
+ },
+ {
+  "id": "56a7c5ac4bd879b1",
+  "url": "https://www.reddit.com/r/singularity/comments/1vhjdtd/black_hat_usa_2026_openaihugging_face_incident/",
+  "source": "r/singularity",
+  "title": "Black Hat USA 2026: OpenAI–Hugging Face Incident Post-Mortem w/ OpenAI's Eric Wallace & Michael Dalton",
+  "published_at": "2026-08-06T22:53:31+00:00",
+  "collected_at": "2026-08-07T03:56:03.610141+00:00",
+  "title_ko": "OpenAI와 허깅페이스 보안 사고 사후 분석",
+  "summary_ko": "블랙햇 컨퍼런스에서 OpenAI 연구원들이 허깅페이스 관련 보안 사고의 전말과 에이전트 통신 이슈를 분석하여 공개했습니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트"
   ]
  },
  {
@@ -133,6 +299,21 @@
   ]
  },
  {
+  "id": "7c5fa7d6da66c073",
+  "url": "https://www.aleksagordic.com/blog/vllm",
+  "source": "Hacker News",
+  "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+  "published_at": "2026-08-06T21:30:21+00:00",
+  "collected_at": "2026-08-07T03:55:57.591890+00:00",
+  "title_ko": "vLLM 내부 구조: 고성능 LLM 추론 시스템 분석",
+  "summary_ko": "고성능 LLM 추론 엔진인 vLLM의 아키텍처와 핵심 동작 원리를 심층적으로 분석한 기술 글입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
   "id": "f2e536c45adeb3e8",
   "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
   "source": "The Verge",
@@ -144,6 +325,22 @@
   "category": "중요",
   "tags": [
    "OpenAI"
+  ]
+ },
+ {
+  "id": "4d2f42a4d0d1ddf2",
+  "url": "https://www.reddit.com/r/singularity/comments/1vhg99v/ben_goertzel_google_may_be_abandoning_alternative/",
+  "source": "r/singularity",
+  "title": "Ben Goertzel: Google May Be Abandoning Alternative Paths for the Final Sprint to AGI",
+  "published_at": "2026-08-06T20:47:23+00:00",
+  "collected_at": "2026-08-07T03:56:03.610141+00:00",
+  "title_ko": "구글 딥마인드 조직 개편과 AGI 전략 변화",
+  "summary_ko": "구글이 딥마인드를 독립 조직에서 일반 부서로 재편하며 Gemini와 핵심 연구 팀 중심으로 AGI 전략을 일원화하고 있다는 분석입니다.",
+  "category": "중요",
+  "tags": [
+   "Google",
+   "Gemini",
+   "AGI"
   ]
  },
  {
@@ -171,6 +368,20 @@
   "tags": [
    "반도체",
    "NVIDIA"
+  ]
+ },
+ {
+  "id": "e11109df5aa7cabd",
+  "url": "https://www.reddit.com/r/singularity/comments/1vhfhvg/openais_new_device_will_be_hockey_pucksized_and/",
+  "source": "r/singularity",
+  "title": "OpenAI’s New Device Will Be Hockey Puck-Sized and Cost Over $300",
+  "published_at": "2026-08-06T20:18:24+00:00",
+  "collected_at": "2026-08-07T03:56:03.610141+00:00",
+  "title_ko": "OpenAI의 신규 하드웨어 기기 출시설",
+  "summary_ko": "OpenAI가 하키 팩 크기만 하고 300달러 이상 가격의 새로운 하드웨어 기기를 준비 중이라는 소식입니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI"
   ]
  },
  {
@@ -218,6 +429,34 @@
    "Meta",
    "AI 에이전트",
    "코딩"
+  ]
+ },
+ {
+  "id": "016951c0b86fa44f",
+  "url": "https://www.reddit.com/r/singularity/comments/1vhe3a1/anthropic_ceo_reportedly_worried_new_hires_only/",
+  "source": "r/singularity",
+  "title": "Anthropic CEO reportedly worried new hires only care about money — while hiring an event planner for 6x the going rate",
+  "published_at": "2026-08-06T19:25:55+00:00",
+  "collected_at": "2026-08-07T03:56:03.610141+00:00",
+  "title_ko": "앤스로픽 CEO의 인재 채용 관련 우려",
+  "summary_ko": "앤스로픽 CEO가 신규 채용 인력의 동기와 보상 문제에 대해 우려를 표명했다는 소식입니다.",
+  "category": "참고",
+  "tags": [
+   "Anthropic"
+  ]
+ },
+ {
+  "id": "84716d98eb2bcff5",
+  "url": "https://www.reddit.com/r/singularity/comments/1vhd8j2/artificial_intelligence_used_to_design_brand_new/",
+  "source": "r/singularity",
+  "title": "Artificial Intelligence used to design brand new viruses",
+  "published_at": "2026-08-06T18:55:06+00:00",
+  "collected_at": "2026-08-07T03:56:03.610141+00:00",
+  "title_ko": "AI를 활용한 신종 바이러스 디자인 우려",
+  "summary_ko": "인공지능 기술이 새로운 바이러스 설계에 악용될 수 있다는 위험성이 제기되었습니다.",
+  "category": "중요",
+  "tags": [
+   "규제"
   ]
  },
  {
@@ -284,6 +523,20 @@
   ]
  },
  {
+  "id": "d0a96c673c851679",
+  "url": "https://www.reddit.com/r/singularity/comments/1vhcetp/risky_jobs_are_turning_to_teleoperation_personaai/",
+  "source": "r/singularity",
+  "title": "Risky jobs are turning to teleoperation - Persona.AI demos its humanoid robot Gen 1 welding",
+  "published_at": "2026-08-06T18:25:25+00:00",
+  "collected_at": "2026-08-07T03:56:03.610141+00:00",
+  "title_ko": "위험 작업 대체하는 원격 제어 휴머노이드 로봇",
+  "summary_ko": "위험한 산업 현장을 위해 Persona.AI가 용접 작업을 수행하는 Gen 1 휴머노이드 로봇을 시연했습니다.",
+  "category": "속보",
+  "tags": [
+   "로보틱스"
+  ]
+ },
+ {
   "id": "b3b2f280ca267b2d",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213604",
   "source": "AI타임스",
@@ -329,6 +582,21 @@
    "NVIDIA",
    "오픈소스",
    "반도체"
+  ]
+ },
+ {
+  "id": "d0848227c05ee3c2",
+  "url": "https://www.reddit.com/r/singularity/comments/1vhb5f6/openai_improving_gpt56_in_chatgpt/",
+  "source": "r/singularity",
+  "title": "OpenAI: Improving GPT‑5.6 in ChatGPT",
+  "published_at": "2026-08-06T17:40:11+00:00",
+  "collected_at": "2026-08-07T03:56:03.610141+00:00",
+  "title_ko": "ChatGPT 내 GPT-5.6 성능 개선 작업 진행",
+  "summary_ko": "OpenAI가 ChatGPT 서비스에서 GPT-5.6 모델의 성능을 향상시키기 위한 업데이트를 준비하고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "GPT"
   ]
  },
  {
@@ -439,6 +707,22 @@
   ]
  },
  {
+  "id": "194e385bbb40acd0",
+  "url": "https://www.reddit.com/r/singularity/comments/1vh9vmz/apparently_gemini_35_pro_is_a_disaster_release/",
+  "source": "r/singularity",
+  "title": "Apparently Gemini 3.5 Pro Is A Disaster, Release Imminent",
+  "published_at": "2026-08-06T16:54:59+00:00",
+  "collected_at": "2026-08-07T03:56:03.610141+00:00",
+  "title_ko": "구글 Gemini 3.5 Pro 출시 임박 속 우려 제기",
+  "summary_ko": "출시를 앞둔 구글 Gemini 3.5 Pro가 성능 면에서 기대에 미치지 못할 수 있다는 루머와 함께 최근 딥마인드 조직 개편의 원인으로 지목되고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "Gemini",
+   "AGI"
+  ]
+ },
+ {
   "id": "33b12720ccd2c985",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213630",
   "source": "AI타임스",
@@ -543,6 +827,22 @@
   ]
  },
  {
+  "id": "35ed4cffbe753e5a",
+  "url": "https://www.reddit.com/r/singularity/comments/1vh8hzi/google_deepmind_is_opensourcing_weathernext_its/",
+  "source": "r/singularity",
+  "title": "Google DeepMind is open-sourcing WeatherNext, its AI weather forecasting model",
+  "published_at": "2026-08-06T16:05:29+00:00",
+  "collected_at": "2026-08-07T03:56:03.610141+00:00",
+  "title_ko": "구글 딥마인드, AI 날씨 예측 모델 'WeatherNext' 오픈소스 공개",
+  "summary_ko": "구글 딥마인드가 사이클론을 최대 15일 앞서 예측하는 AI 날씨 모델 WeatherNext의 코드와 가중치를 오픈소스로 공개했습니다. 기상 재해 대응 역량을 강화하는 데 기여할 것으로 기대됩니다.",
+  "category": "중요",
+  "tags": [
+   "Google",
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "b33abd9dbc623d90",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213619",
   "source": "AI타임스",
@@ -583,6 +883,36 @@
    "아마존",
    "로보틱스",
    "규제"
+  ]
+ },
+ {
+  "id": "921697124f9f37d4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vh7lzy/nvidianvidianemotronparse20_hugging_face/",
+  "source": "r/LocalLLaMA",
+  "title": "nvidia/NVIDIA-Nemotron-Parse-2.0 · Hugging Face",
+  "published_at": "2026-08-06T15:34:01+00:00",
+  "collected_at": "2026-08-07T03:55:58.693769+00:00",
+  "title_ko": "엔비디아, 문서 구조화 모델 'Nemotron-Parse-2.0' 출시",
+  "summary_ko": "엔비디아가 문서 이미지를 텍스트, 레이아웃, 표 등 구조화된 데이터로 변환하는 Nemotron-Parse-2.0을 공개했습니다. 토큰 어휘 확장으로 다국어 처리 효율성이 향상되었습니다.",
+  "category": "속보",
+  "tags": [
+   "NVIDIA",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "f5885d3efa305ee6",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vh7bxu/i_compared_even_more_parsers_on_14_pdfparsing/",
+  "source": "r/LocalLLaMA",
+  "title": "I compared even more parsers on 14 PDF-parsing capabilities using different types",
+  "published_at": "2026-08-06T15:23:50+00:00",
+  "collected_at": "2026-08-07T03:55:58.693769+00:00",
+  "title_ko": "다양한 PDF 파싱 도구 성능 비교 분석",
+  "summary_ko": "여러 PDF 파싱 및 OCR 모델의 14가지 기능을 비교한 결과, Chandra 모델이 뛰어난 성능을 기록했습니다. 문서 처리 모델 선택에 실무적인 참고 자료가 됩니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
   ]
  },
  {
