@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-07T11:53:24.534440+00:00",
+ "updated_at": "2026-08-07T13:23:41.080217+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -363,6 +363,22 @@
    ]
   },
   {
+   "id": "040486dd57cb6106",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vi0d4i/lfm2526b_modelkv_cache_quantization_report/",
+   "source": "r/LocalLLaMA",
+   "title": "LFM2.5-2.6B model+KV cache quantization report",
+   "published_at": "2026-08-07T13:15:48+00:00",
+   "collected_at": "2026-08-07T13:23:23.605259+00:00",
+   "title_ko": "LiquidAI LFM2.5-2.6B 모델 및 KV 캐시 양자화 성능 분석",
+   "summary_ko": "LiquidAI의 소형 모델인 LFM2.5-2.6B의 GGUF 및 KV 캐시 양자화 테스트 결과로, 저사양 기기에서의 최적 구동 방안을 제시합니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "모델 양자화"
+   ]
+  },
+  {
    "id": "36625050dd39d2a6",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213647",
    "source": "AI타임스",
@@ -423,6 +439,22 @@
    ]
   },
   {
+   "id": "8822f490e885eacd",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhz989/a_llamacpp_pr_makes_q2_0_3036x_faster_on_x86_cpus/",
+   "source": "r/LocalLLaMA",
+   "title": "A llama.cpp PR makes Q2_0 3.0–3.6x faster on x86 CPUs, 8B decode goes 2.39 → 8.20 tok/s",
+   "published_at": "2026-08-07T12:27:41+00:00",
+   "collected_at": "2026-08-07T13:23:23.605259+00:00",
+   "title_ko": "llama.cpp, x86 CPU에서 Q2_0 연산 속도 최대 3.6배 향상",
+   "summary_ko": "x86 VNNI 구현을 도입한 llama.cpp 풀 리퀘스트를 통해 CPU 환경에서의 로컬 LLM 추론 속도가 크게 개선되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "CPU 추론"
+   ]
+  },
+  {
    "id": "1e6742acdaf117d5",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213644",
    "source": "AI타임스",
@@ -435,6 +467,22 @@
    "tags": [
     "EXAONE",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "7b94c5700b1e5c09",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhz2rc/labyrinthbench_a_localfocused_judgefree_llm/",
+   "source": "r/LocalLLaMA",
+   "title": "LabyrinthBench: a local-focused, judge-free LLM benchmark that measures context recall under interference for multi-step agentic tasks.",
+   "published_at": "2026-08-07T12:19:35+00:00",
+   "collected_at": "2026-08-07T13:23:23.605259+00:00",
+   "title_ko": "로컬 환경 중심의 LLM 컨텍스트 회복력 측정 벤치마크 'LabyrinthBench' 공개",
+   "summary_ko": "LLM 판사 없이 에이전트 작업의 장기 컨텍스트 유지력을 결정론적으로 측정할 수 있는 새로운 벤치마크가 나왔습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "벤치마크",
+    "LLM"
    ]
   },
   {
@@ -2950,52 +2998,6 @@
    "category": "참고",
    "tags": [
     "OpenAI"
-   ]
-  },
-  {
-   "id": "51d81846273800d4",
-   "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
-   "source": "Hacker News",
-   "title": "Muse Code and Muse Spark 1.2",
-   "published_at": "2026-08-05T19:15:52+00:00",
-   "collected_at": "2026-08-05T23:11:29.096959+00:00",
-   "title_ko": "메타, 뮤즈 코드 및 뮤즈 스파크 1.2 발표",
-   "summary_ko": "메타가 연구 블로그를 통해 새로운 코딩 에이전트와 보안 테스트 모델의 업데이트 버전을 공개했습니다. AI 기술의 다방면 활용을 보여주는 중요한 소식입니다.",
-   "category": "속보",
-   "tags": [
-    "Meta",
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "5dd5438188d9fb93",
-   "url": "https://news.hada.io/topic?id=32185",
-   "source": "GeekNews",
-   "title": "Cloudflare OS: 에이전트·앱·업무를 위한 개방형 플랫폼",
-   "published_at": "2026-08-05T18:38:12+00:00",
-   "collected_at": "2026-08-05T21:21:46.998121+00:00",
-   "title_ko": "클라우드프레사, 개방형 에이전트 플랫폼 'Cloudflare OS' 오픈소스 공개",
-   "summary_ko": "클라우드프레사가 조직 내 지식과 업무 절차를 활용하는 에이전트 작업 공간을 직접 배포할 수 있는 오픈소스 플랫폼을 공개했습니다. 기업용 AI 에이전트 구축의 진입 장벽을 낮추어 줍니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "6437fe73ae858ada",
-   "url": "https://blog.fogus.me/llm/born-against.html",
-   "source": "Hacker News",
-   "title": "Born Against, or why hobby programming communities are against LLM usage",
-   "published_at": "2026-08-05T18:37:49+00:00",
-   "collected_at": "2026-08-05T19:48:18.151899+00:00",
-   "title_ko": "취미 프로그래밍 커뮤니티가 LLM 사용에 반대하는 이유",
-   "summary_ko": "최근 LLM 확산 속에서 일부 취미 프로그래밍 커뮤니티가 AI 코드 생성에 반발하는 이유와 개발 문화의 변화를 다룬 분석 글입니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "코딩"
    ]
   }
  ]
