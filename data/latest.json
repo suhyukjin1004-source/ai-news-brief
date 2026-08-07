@@ -1,8 +1,86 @@
 {
- "updated_at": "2026-08-07T21:50:14.278121+00:00",
+ "updated_at": "2026-08-07T23:41:37.748428+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "4e5c9c47489678c9",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213698",
+   "source": "AI타임스",
+   "title": "알리바바, ‘큐원3.8-맥스’ 유료화 추진…대형 상용 기업 '수익 공유' 검토",
+   "published_at": "2026-08-08T08:25:15+00:00",
+   "collected_at": "2026-08-07T23:41:34.105311+00:00",
+   "title_ko": "알리바바, 큐원3.8-맥스 유료화 및 수익 공유 추진",
+   "summary_ko": "알리바바가 오픈소스 모델 '큐원3.8-맥스'의 대규모 상용 이용자들을 대상으로 매출 일부를 분배받는 새로운 과금 모델을 검토하고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "AI 수익화",
+    "중국"
+   ]
+  },
+  {
+   "id": "1f421b3686ced83e",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vig3tw/serving_deepseek_v4_flash_0731_on_2x_dgx_spark_57/",
+   "source": "r/LocalLLaMA",
+   "title": "Serving Deepseek v4 Flash 0731 on 2x DGX Spark — 5-7 GB OS headroom, what would you do to lower VRAM usage and increase OS available RAM?",
+   "published_at": "2026-08-07T23:25:18+00:00",
+   "collected_at": "2026-08-07T23:41:21.009628+00:00",
+   "title_ko": "DeepSeek V4 Flash 0731 모델 VRAM 최적화 논의",
+   "summary_ko": "DGX Spark 환경에서 DeepSeek V4 Flash 모델 구동 시 OS 메모리 확보와 VRAM 사용량을 줄이기 위한 커뮤니티의 기술적 논의가 진행 중입니다.",
+   "category": "팁",
+   "tags": [
+    "NVIDIA",
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "79c249ea99e42e60",
+   "url": "https://news.hada.io/topic?id=32250",
+   "source": "GeekNews",
+   "title": "한 직군 전체가 자신의 경력을 믿지 않게 되면 무슨 일이 벌어질까",
+   "published_at": "2026-08-07T22:33:53+00:00",
+   "collected_at": "2026-08-07T23:41:35.349293+00:00",
+   "title_ko": "AI 확산에 따른 지식 노동자의 실존적 불안",
+   "summary_ko": "AI가 지식 노동자의 업무를 대체하면서 직업적 정체성과 경력에 대한 실존적 불안감이 커지고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "고용"
+   ]
+  },
+  {
+   "id": "669e479f2755cf9f",
+   "url": "https://news.hada.io/topic?id=32247",
+   "source": "GeekNews",
+   "title": "DeepSeek V4 Flash 0731의 ARC-AGI 평가 결과",
+   "published_at": "2026-08-07T21:36:31+00:00",
+   "collected_at": "2026-08-07T23:41:35.349293+00:00",
+   "title_ko": "DeepSeek V4 Flash 0731, ARC-AGI 평가 결과 공개",
+   "summary_ko": "DeepSeek V4 Flash 모델이 ARC-AGI 평가에서 높은 추론 성능을 기록하며 뛰어난 문제 해결 능력을 입증했습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "추론"
+   ]
+  },
+  {
+   "id": "e1d65bcf56c83f10",
+   "url": "https://news.hada.io/topic?id=32246",
+   "source": "GeekNews",
+   "title": "Oracle, 사내 AI 코딩은 장려하면서 OpenJDK에는 AI 생성 코드 기여 금지",
+   "published_at": "2026-08-07T21:33:30+00:00",
+   "collected_at": "2026-08-07T23:41:35.349293+00:00",
+   "title_ko": "오라클, OpenJDK에 AI 생성 코드 기여 금지",
+   "summary_ko": "오라클이 오픈소스 자바 프로젝트인 OpenJDK에 LLM 등 AI가 생성한 코드나 문서의 기여를 임시로 금지했습니다.",
+   "category": "중요",
+   "tags": [
+    "규제",
+    "오픈소스",
+    "코딩"
+   ]
+  },
   {
    "id": "4c08905f6bd0b849",
    "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
@@ -2930,82 +3008,6 @@
    "tags": [
     "오픈소스",
     "AI 에이전트"
-   ]
-  },
-  {
-   "id": "c1e57b36ef4d1bc4",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgx8yu/qwen3824ta95b_aka_qwen38max_open_release_time/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.8-2.4T-A95B (aka Qwen3.8-Max) open release time: next wednesday",
-   "published_at": "2026-08-06T07:23:10+00:00",
-   "collected_at": "2026-08-06T09:46:31.272229+00:00",
-   "title_ko": "알리바바, 차세대 Qwen 모델 공개 임박",
-   "summary_ko": "알리바바의 대규모 언어 모델인 'Qwen3.8-Max'의 오픈소스 공개일이 다음주 수요일로 예고되었습니다. 업계의 기대를 모으는 대형 모델 출시 소식입니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "모델명"
-   ]
-  },
-  {
-   "id": "cdd64bfdfd4584c4",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgx6cw/i_get_that_ai_labs_need_to_make_money_but/",
-   "source": "r/LocalLLaMA",
-   "title": "I get that AI labs need to make money, but zero-warning price spikes are a nightmare for production builds",
-   "published_at": "2026-08-06T07:19:01+00:00",
-   "collected_at": "2026-08-06T09:46:31.272229+00:00",
-   "title_ko": "DeepSeek API 가격 인상 논란",
-   "summary_ko": "DeepSeek이 사전 경고 없이 API 가격을 인상하면서 프로덕션 환경을 운영하는 개발자들 사이에서 혼란이 발생했습니다. 급격한 비용 변동으로 인해 자체 호스팅 및 서비스 전환을 고민하는 움직임이 나타나고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "투자",
-    "반도체"
-   ]
-  },
-  {
-   "id": "6da5f2d271da214d",
-   "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-   "source": "OpenAI",
-   "title": "Working with the American Psychological Association on youth mental health and AI",
-   "published_at": "2026-08-06T06:00:00+00:00",
-   "collected_at": "2026-08-07T00:10:43.368134+00:00",
-   "title_ko": "OpenAI, 미국심리학회와 청소년 정신건강 및 AI 협력",
-   "summary_ko": "OpenAI와 APA가 책임 있는 AI 사용과 청소년 정신 건강을 위한 증거 기반 가이드라인과 안전장치를 마련합니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "규제"
-   ]
-  },
-  {
-   "id": "c5e8d4ae39ef9642",
-   "url": "https://www.reddit.com/r/singularity/comments/1vgumkv/throwback_o1preview_the_first_commercially/",
-   "source": "r/singularity",
-   "title": "[THROWBACK] o1-preview, the first commercially available reasoning model, came out only 2 years ago...",
-   "published_at": "2026-08-06T04:57:26+00:00",
-   "collected_at": "2026-08-06T15:23:05.425974+00:00",
-   "title_ko": "추론 모델 o1-preview 출시 2년 회고",
-   "summary_ko": "최초의 상용 추론 모델인 OpenAI의 o1-preview 출시 이후 AI 모델의 발전 속도를 되돌아봅니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "GPT"
-   ]
-  },
-  {
-   "id": "8050d0e5c063ff78",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgtkgc/glmqwen_appreciation_post/",
-   "source": "r/LocalLLaMA",
-   "title": "GLM/Qwen Appreciation Post",
-   "published_at": "2026-08-06T04:02:52+00:00",
-   "collected_at": "2026-08-06T06:40:42.977224+00:00",
-   "title_ko": "오픈소스 LLM Qwen 및 GLM 사용 후기",
-   "summary_ko": "개발 및 API 활용 과정에서 Qwen과 GLM 모델들의 성능과 할루시네이션 경향성을 비교한 사용자 경험담입니다. 실제 개발 생산성과 수정 소요 시간을 줄이는 데 모델 선택이 중요함을 보여줍니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "Qwen"
    ]
   }
  ]
