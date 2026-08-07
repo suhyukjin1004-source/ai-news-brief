@@ -105,6 +105,21 @@
   ]
  },
  {
+  "id": "fd5b733b3580dcf8",
+  "url": "https://huggingface.co/blog/allenai/tutormoments",
+  "source": "Hugging Face",
+  "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+  "published_at": "2026-08-07T17:53:32+00:00",
+  "collected_at": "2026-08-07T17:55:06.041752+00:00",
+  "title_ko": "AI 튜터는 언제 개입하고 언제 기다려야 할까?",
+  "summary_ko": "AI 튜터가 학생의 학습 과정에서 적절한 개입 타이밍을 포착하는 능력에 대한 논의.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "교육"
+  ]
+ },
+ {
   "id": "dd45cfbb1ca2223a",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213684",
   "source": "AI타임스",
@@ -115,6 +130,22 @@
   "summary_ko": "네이버 검색에 AI 브리핑이 도입된 이후 출처로 활용된 블로그 창작자들의 수익이 크게 늘어났다. AI 검색 환경이 콘텐츠 생태계에 미치는 긍정적 영향 사례다.",
   "category": "참고",
   "tags": [
+   "Google"
+  ]
+ },
+ {
+  "id": "258b2e095de75517",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vi77dr/parakeetwgsl_fast_accurate_asr_in_the_browser_via/",
+  "source": "r/LocalLLaMA",
+  "title": "parakeet.wgsl – Fast, accurate ASR in the browser, via raw WebGPU & SIMD WASM",
+  "published_at": "2026-08-07T17:35:38+00:00",
+  "collected_at": "2026-08-07T17:55:16.040075+00:00",
+  "title_ko": "브라우저에서 직접 실행되는 고성능 ASR 모델 공개",
+  "summary_ko": "WebGPU와 WebAssembly를 활용해 브라우저 환경에서 빠르고 정확하게 오디오를 텍스트로 변환하는 오픈소스 도구 소개.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "NVIDIA",
    "Google"
   ]
  },
@@ -192,6 +223,21 @@
   ]
  },
  {
+  "id": "5461ea63dc329a8c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vi6hmw/llamacpp_pr_reports_up_to_169_faster_quantizedkv/",
+  "source": "r/LocalLLaMA",
+  "title": "llama.cpp PR reports up to 169% faster quantized-KV decode at 118K context on Intel Battlemage from one SYCL kernel switch",
+  "published_at": "2026-08-07T17:09:01+00:00",
+  "collected_at": "2026-08-07T17:55:16.040075+00:00",
+  "title_ko": "인텔 그래픽스에서 KV 캐시 디코딩 속도 최대 169% 향상",
+  "summary_ko": "llama.cpp의 SYCL 커널 최적화를 통해 긴 컨텍스트에서 양자화된 KV 캐시 디코딩 속도가 대폭 개선됨.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
   "id": "a23d64199a5a4dca",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213663",
   "source": "AI타임스",
@@ -234,6 +280,22 @@
   "tags": []
  },
  {
+  "id": "5c0b58f01ca14dc2",
+  "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+  "source": "The Verge",
+  "title": "What’s behind the Google AI shake-up",
+  "published_at": "2026-08-07T16:45:14+00:00",
+  "collected_at": "2026-08-07T17:55:04.248759+00:00",
+  "title_ko": "구글 AI 조직 개편 및 주요 인사 이동",
+  "summary_ko": "구글 AI 팀의 핵심 인물들이 새로운 보직으로 이동하며 조직 개편을 단행함.",
+  "category": "중요",
+  "tags": [
+   "Google",
+   "OpenAI",
+   "Anthropic"
+  ]
+ },
+ {
   "id": "905a1b0994769f8c",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213688",
   "source": "AI타임스",
@@ -246,6 +308,50 @@
   "tags": [
    "로보틱스",
    "투자"
+  ]
+ },
+ {
+  "id": "e2a775da27f21f39",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vi5627/am_i_just_hallucinating/",
+  "source": "r/LocalLLaMA",
+  "title": "Am I just hallucinating",
+  "published_at": "2026-08-07T16:20:31+00:00",
+  "collected_at": "2026-08-07T17:55:16.040075+00:00",
+  "title_ko": "llama.cpp 마이크로 배치 설정에 따른 출력 품질 변화 연구",
+  "summary_ko": "로컬 LLM 구동 시 마이크로 배치 값 변경이 모델 출력 품질에 미치는 영향에 대한 사용자 분석.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "96580ff4fe48f596",
+  "url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything",
+  "source": "Simon Willison",
+  "title": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
+  "published_at": "2026-08-07T16:18:51+00:00",
+  "collected_at": "2026-08-07T17:55:15.023683+00:00",
+  "title_ko": "기업들의 AI 비용 절감 경쟁 본격화",
+  "summary_ko": "급증하는 AI 토큰 비용을 통제하기 위해 기업들이 비엔지니어 직군의 사용량 관리 등 대책 마련에 나섬.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "Anthropic",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "b0e67e927266a60b",
+  "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+  "source": "TechCrunch",
+  "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+  "published_at": "2026-08-07T16:16:09+00:00",
+  "collected_at": "2026-08-07T17:55:04.160270+00:00",
+  "title_ko": "클라우드프레어, AI 에이전트 전용 브라우저 'Kitesurf' 출시",
+  "summary_ko": "자동화 작업에서 리소스를 적게 소모하도록 AI 에이전트에 최적화된 클라우드 기반 브라우저 공개.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트"
   ]
  },
  {
@@ -278,6 +384,51 @@
    "오픈소스",
    "AI 안전",
    "보안"
+  ]
+ },
+ {
+  "id": "7f488cfb7170e667",
+  "url": "https://news.hada.io/topic?id=32240",
+  "source": "GeekNews",
+  "title": "인간은 AI 에이전트 명령 승인 과정에서 위협 3개 중 1개를 놓침",
+  "published_at": "2026-08-07T15:32:58+00:00",
+  "collected_at": "2026-08-07T17:55:29.897122+00:00",
+  "title_ko": "인간의 AI 에이전트 명령 승인 보안 허점 분석",
+  "summary_ko": "AI 코딩 에이전트의 위험한 명령을 인간이 승인하는 과정에서 3분의 1 수준의 위협을 놓치는 것으로 나타남.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트",
+   "코딩",
+   "규제"
+  ]
+ },
+ {
+  "id": "952d92eb74704267",
+  "url": "https://news.hada.io/topic?id=32239",
+  "source": "GeekNews",
+  "title": "Show GN: 만화 이미지의 대사와 말풍선을 번역하는 AI Manga Translate를 만들었습니다",
+  "published_at": "2026-08-07T15:26:49+00:00",
+  "collected_at": "2026-08-07T17:55:29.897122+00:00",
+  "title_ko": "만화 이미지 대사와 말풍선 번역 AI 도구 출시",
+  "summary_ko": "세로쓰기나 복잡한 배경 속 텍스트 등 만화 특유의 구조를 인식해 번역해 주는 도구 소개.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "833934ee3b25f4a5",
+  "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+  "source": "OpenAI",
+  "title": "Responding to the next frontier of critical cyber capabilities",
+  "published_at": "2026-08-07T15:20:00+00:00",
+  "collected_at": "2026-08-07T17:55:05.081602+00:00",
+  "title_ko": "OpenAI, 아스트라(Astra) 사이버 보안 평가 결과 공개",
+  "summary_ko": "OpenAI가 신규 모델의 치명적인 사이버 보안 역량을 선제 평가하고 안전장치를 강화하는 조치를 발표함.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "규제"
   ]
  }
 ]

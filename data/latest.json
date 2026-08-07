@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-07T16:06:01.585736+00:00",
+ "updated_at": "2026-08-07T17:55:37.382920+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -109,6 +109,21 @@
    ]
   },
   {
+   "id": "fd5b733b3580dcf8",
+   "url": "https://huggingface.co/blog/allenai/tutormoments",
+   "source": "Hugging Face",
+   "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+   "published_at": "2026-08-07T17:53:32+00:00",
+   "collected_at": "2026-08-07T17:55:06.041752+00:00",
+   "title_ko": "AI 튜터는 언제 개입하고 언제 기다려야 할까?",
+   "summary_ko": "AI 튜터가 학생의 학습 과정에서 적절한 개입 타이밍을 포착하는 능력에 대한 논의.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "교육"
+   ]
+  },
+  {
    "id": "dd45cfbb1ca2223a",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213684",
    "source": "AI타임스",
@@ -119,6 +134,22 @@
    "summary_ko": "네이버 검색에 AI 브리핑이 도입된 이후 출처로 활용된 블로그 창작자들의 수익이 크게 늘어났다. AI 검색 환경이 콘텐츠 생태계에 미치는 긍정적 영향 사례다.",
    "category": "참고",
    "tags": [
+    "Google"
+   ]
+  },
+  {
+   "id": "258b2e095de75517",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vi77dr/parakeetwgsl_fast_accurate_asr_in_the_browser_via/",
+   "source": "r/LocalLLaMA",
+   "title": "parakeet.wgsl – Fast, accurate ASR in the browser, via raw WebGPU & SIMD WASM",
+   "published_at": "2026-08-07T17:35:38+00:00",
+   "collected_at": "2026-08-07T17:55:16.040075+00:00",
+   "title_ko": "브라우저에서 직접 실행되는 고성능 ASR 모델 공개",
+   "summary_ko": "WebGPU와 WebAssembly를 활용해 브라우저 환경에서 빠르고 정확하게 오디오를 텍스트로 변환하는 오픈소스 도구 소개.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "NVIDIA",
     "Google"
    ]
   },
@@ -196,6 +227,21 @@
    ]
   },
   {
+   "id": "5461ea63dc329a8c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vi6hmw/llamacpp_pr_reports_up_to_169_faster_quantizedkv/",
+   "source": "r/LocalLLaMA",
+   "title": "llama.cpp PR reports up to 169% faster quantized-KV decode at 118K context on Intel Battlemage from one SYCL kernel switch",
+   "published_at": "2026-08-07T17:09:01+00:00",
+   "collected_at": "2026-08-07T17:55:16.040075+00:00",
+   "title_ko": "인텔 그래픽스에서 KV 캐시 디코딩 속도 최대 169% 향상",
+   "summary_ko": "llama.cpp의 SYCL 커널 최적화를 통해 긴 컨텍스트에서 양자화된 KV 캐시 디코딩 속도가 대폭 개선됨.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
    "id": "a23d64199a5a4dca",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213663",
    "source": "AI타임스",
@@ -238,6 +284,22 @@
    "tags": []
   },
   {
+   "id": "5c0b58f01ca14dc2",
+   "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+   "source": "The Verge",
+   "title": "What’s behind the Google AI shake-up",
+   "published_at": "2026-08-07T16:45:14+00:00",
+   "collected_at": "2026-08-07T17:55:04.248759+00:00",
+   "title_ko": "구글 AI 조직 개편 및 주요 인사 이동",
+   "summary_ko": "구글 AI 팀의 핵심 인물들이 새로운 보직으로 이동하며 조직 개편을 단행함.",
+   "category": "중요",
+   "tags": [
+    "Google",
+    "OpenAI",
+    "Anthropic"
+   ]
+  },
+  {
    "id": "905a1b0994769f8c",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213688",
    "source": "AI타임스",
@@ -250,6 +312,50 @@
    "tags": [
     "로보틱스",
     "투자"
+   ]
+  },
+  {
+   "id": "e2a775da27f21f39",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vi5627/am_i_just_hallucinating/",
+   "source": "r/LocalLLaMA",
+   "title": "Am I just hallucinating",
+   "published_at": "2026-08-07T16:20:31+00:00",
+   "collected_at": "2026-08-07T17:55:16.040075+00:00",
+   "title_ko": "llama.cpp 마이크로 배치 설정에 따른 출력 품질 변화 연구",
+   "summary_ko": "로컬 LLM 구동 시 마이크로 배치 값 변경이 모델 출력 품질에 미치는 영향에 대한 사용자 분석.",
+   "category": "팁",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "96580ff4fe48f596",
+   "url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything",
+   "source": "Simon Willison",
+   "title": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
+   "published_at": "2026-08-07T16:18:51+00:00",
+   "collected_at": "2026-08-07T17:55:15.023683+00:00",
+   "title_ko": "기업들의 AI 비용 절감 경쟁 본격화",
+   "summary_ko": "급증하는 AI 토큰 비용을 통제하기 위해 기업들이 비엔지니어 직군의 사용량 관리 등 대책 마련에 나섬.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "Anthropic",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "b0e67e927266a60b",
+   "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+   "source": "TechCrunch",
+   "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+   "published_at": "2026-08-07T16:16:09+00:00",
+   "collected_at": "2026-08-07T17:55:04.160270+00:00",
+   "title_ko": "클라우드프레어, AI 에이전트 전용 브라우저 'Kitesurf' 출시",
+   "summary_ko": "자동화 작업에서 리소스를 적게 소모하도록 AI 에이전트에 최적화된 클라우드 기반 브라우저 공개.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트"
    ]
   },
   {
@@ -282,6 +388,51 @@
     "오픈소스",
     "AI 안전",
     "보안"
+   ]
+  },
+  {
+   "id": "7f488cfb7170e667",
+   "url": "https://news.hada.io/topic?id=32240",
+   "source": "GeekNews",
+   "title": "인간은 AI 에이전트 명령 승인 과정에서 위협 3개 중 1개를 놓침",
+   "published_at": "2026-08-07T15:32:58+00:00",
+   "collected_at": "2026-08-07T17:55:29.897122+00:00",
+   "title_ko": "인간의 AI 에이전트 명령 승인 보안 허점 분석",
+   "summary_ko": "AI 코딩 에이전트의 위험한 명령을 인간이 승인하는 과정에서 3분의 1 수준의 위협을 놓치는 것으로 나타남.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트",
+    "코딩",
+    "규제"
+   ]
+  },
+  {
+   "id": "952d92eb74704267",
+   "url": "https://news.hada.io/topic?id=32239",
+   "source": "GeekNews",
+   "title": "Show GN: 만화 이미지의 대사와 말풍선을 번역하는 AI Manga Translate를 만들었습니다",
+   "published_at": "2026-08-07T15:26:49+00:00",
+   "collected_at": "2026-08-07T17:55:29.897122+00:00",
+   "title_ko": "만화 이미지 대사와 말풍선 번역 AI 도구 출시",
+   "summary_ko": "세로쓰기나 복잡한 배경 속 텍스트 등 만화 특유의 구조를 인식해 번역해 주는 도구 소개.",
+   "category": "팁",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "833934ee3b25f4a5",
+   "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+   "source": "OpenAI",
+   "title": "Responding to the next frontier of critical cyber capabilities",
+   "published_at": "2026-08-07T15:20:00+00:00",
+   "collected_at": "2026-08-07T17:55:05.081602+00:00",
+   "title_ko": "OpenAI, 아스트라(Astra) 사이버 보안 평가 결과 공개",
+   "summary_ko": "OpenAI가 신규 모델의 치명적인 사이버 보안 역량을 선제 평가하고 안전장치를 강화하는 조치를 발표함.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "규제"
    ]
   },
   {
@@ -328,6 +479,20 @@
    "tags": [
     "오픈소스",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "68ac6cb57e2bfe56",
+   "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+   "source": "TechCrunch",
+   "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+   "published_at": "2026-08-07T14:00:00+00:00",
+   "collected_at": "2026-08-07T17:55:04.160270+00:00",
+   "title_ko": "실리콘밸리 리더들의 SF 소설적 세계관 비판",
+   "summary_ko": "역사학자 질 레포레가 기술 기업들의 과장된 수사와 인공 국가 지향적 태도를 비판함.",
+   "category": "참고",
+   "tags": [
+    "Anthropic"
    ]
   },
   {
@@ -1098,6 +1263,21 @@
    "tags": [
     "오픈소스",
     "LLM"
+   ]
+  },
+  {
+   "id": "bfceef1b1c564271",
+   "url": "https://www.youtube.com/watch?v=87DyyMV0kCY",
+   "source": "Hacker News",
+   "title": "The OpenAI–Hugging Face Incident [video]",
+   "published_at": "2026-08-06T21:06:23+00:00",
+   "collected_at": "2026-08-07T17:55:14.766154+00:00",
+   "title_ko": "OpenAI와 허깅페이스 관련 사건 분석 영상",
+   "summary_ko": "OpenAI와 허깅페이스 사이에서 발생한 사건을 다룬 영상으로, 업계 동향 파악에 도움이 됩니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "Hugging Face"
    ]
   },
   {
@@ -2824,182 +3004,6 @@
    "tags": [
     "NVIDIA",
     "반도체"
-   ]
-  },
-  {
-   "id": "48c7edfbf2c071d6",
-   "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-   "source": "TechCrunch",
-   "title": "Meta launches Muse Code, an AI agent for large code bases",
-   "published_at": "2026-08-05T21:21:28+00:00",
-   "collected_at": "2026-08-05T23:11:26.356505+00:00",
-   "title_ko": "메타, 대규모 코드베이스용 AI 코딩 에이전트 '뮤즈 코드' 출시",
-   "summary_ko": "메타가 복잡한 소프트웨어 작업을 처리할 수 있는 새로운 AI 코딩 에이전트 '뮤즈 코드'를 공개했습니다. 개발 생산성 향상에 큰 도움이 될 것으로 기대됩니다.",
-   "category": "속보",
-   "tags": [
-    "Meta",
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "5819d93aad7a36fc",
-   "url": "https://www.primeintellect.ai/blog/prime-agent",
-   "source": "Hacker News",
-   "title": "Prime Agent: A self-improving RLM agent",
-   "published_at": "2026-08-05T21:11:57+00:00",
-   "collected_at": "2026-08-06T03:28:22.472642+00:00",
-   "title_ko": "자기 개선형 RLM 에이전트 'Prime Agent' 공개",
-   "summary_ko": "스스로 발전하는 능력을 갖춘 AI 에이전트 프레임워크인 Prime Agent가 공개되어 주목을 받고 있다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "b1ddc2404d72c6c8",
-   "url": "https://community.openai.com/t/how-openai-lost-a-paying-customer-over-160-it-refuses-to-explain/1389233",
-   "source": "Hacker News",
-   "title": "OpenAI says my prepaid credits were consumed, refuses to show any record",
-   "published_at": "2026-08-05T21:04:07+00:00",
-   "collected_at": "2026-08-06T12:09:35.170735+00:00",
-   "title_ko": "OpenAI 선불 크레딧 소모 내역 미제공 논란",
-   "summary_ko": "OpenAI가 선불 크레딧이 소모되었음에도 관련 기록을 제공하지 않아 유료 고객이 이탈하는 사례가 발생함.",
-   "category": "참고",
-   "tags": [
-    "OpenAI"
-   ]
-  },
-  {
-   "id": "9349be08954e5a92",
-   "url": "https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai",
-   "source": "Hacker News",
-   "title": "When online commenters detect my art as AI",
-   "published_at": "2026-08-05T20:58:52+00:00",
-   "collected_at": "2026-08-06T12:09:35.170735+00:00",
-   "title_ko": "온라인 커뮤니티의 AI 예술 오판 문제",
-   "summary_ko": "순수 창작 예술 작품이 온라인에서 AI 생성 이미지로 오인받는 현상에 대한 작가의 경험과 분석.",
-   "category": "참고",
-   "tags": []
-  },
-  {
-   "id": "406fafddb718c91c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgjtm7/deepseek_v4_flash_just_hit_colibri_does_anyone/",
-   "source": "r/LocalLLaMA",
-   "title": "Deepseek V4 Flash just hit Colibri, does anyone have numbers?",
-   "published_at": "2026-08-05T20:58:19+00:00",
-   "collected_at": "2026-08-05T23:11:31.020460+00:00",
-   "title_ko": "딥식 V4 플래시 모델 성능 및 하드웨어 요구사항 논의",
-   "summary_ko": "새로 등장한 딥식 V4 플래시 모델의 VRAM 요구사항과 로컬 구동 성능에 대한 개발자들의 관심이 집중되고 있습니다. 고성능 에이전트 워크로드 지원 여부가 주목됩니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "3f394ab04035dd19",
-   "url": "https://www.reddit.com/r/singularity/comments/1vgjoc5/safe_superintelligence_inc_speculation_what_have/",
-   "source": "r/singularity",
-   "title": "Safe Superintelligence Inc. - speculation, what have they attained in over 2 years?",
-   "published_at": "2026-08-05T20:52:33+00:00",
-   "collected_at": "2026-08-06T15:23:05.425974+00:00",
-   "title_ko": "SSI(Safe Superintelligence)의 지난 2년 성과 추적",
-   "summary_ko": "일로 수립된 안전한 초지능 연구소 SSI가 설립 이후 거둔 성과에 대한 업계의 추측과 관심이 이어지고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "투자"
-   ]
-  },
-  {
-   "id": "307747632022577f",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgizzm/xiaomirobotics1_new_robotics_model_released/",
-   "source": "r/LocalLLaMA",
-   "title": "Xiaomi-Robotics-1: New robotics model released",
-   "published_at": "2026-08-05T20:27:27+00:00",
-   "collected_at": "2026-08-05T21:21:32.309478+00:00",
-   "title_ko": "샤오미, 로보틱스 파운데이션 모델 'Xiaomi-Robotics-1' 공개",
-   "summary_ko": "샤오미가 10만 시간 이상의 실제 조작 데이터를 학습한 비전-언어-액션(VLA) 로봇 모델을 공개했습니다. 미지의 환경에서도 모바일 조작을 수행하고 새로운 작업에 효율적으로 적응할 수 있어 중요합니다.",
-   "category": "중요",
-   "tags": [
-    "로보틱스",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "29cd717409cca171",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgio2p/40_speedup_of_moe_training_with_faster_megakernel/",
-   "source": "r/LocalLLaMA",
-   "title": "40% speedup of MoE training with faster megakernel, by cursor, of all people (for B200s)",
-   "published_at": "2026-08-05T20:15:22+00:00",
-   "collected_at": "2026-08-05T21:21:32.309478+00:00",
-   "title_ko": "B200용 고속 메가커널로 MoE 학습 속도 40% 향상",
-   "summary_ko": "커서(Cursor) 등이 개발한 새로운 메가커널을 통해 B200 환경에서 혼합 전문가(MoE) 모델의 학습 속도가 크게 향상되었습니다. 비용 효율적인 오픈소스 연산 최적화 기법이라는 점에서 의미가 큽니다.",
-   "category": "팁",
-   "tags": [
-    "NVIDIA",
-    "반도체",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "cc6b9b7fa4363861",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vginkn/bootai/",
-   "source": "r/LocalLLaMA",
-   "title": "bootai",
-   "published_at": "2026-08-05T20:14:54+00:00",
-   "collected_at": "2026-08-05T21:21:32.309478+00:00",
-   "title_ko": "개인 프로젝트 'bootai' 오픈소스 전환",
-   "summary_ko": "개발자가 개인적으로 제작하던 AI 프로젝트 'bootai'를 오픈소스로 전면 공개했습니다. 커뮤니티 사용자들이 자유롭게 활용하고 기여할 수 있게 되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "f8b2b7a3d4cdbca1",
-   "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
-   "source": "TechCrunch",
-   "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-   "published_at": "2026-08-05T20:05:00+00:00",
-   "collected_at": "2026-08-05T21:21:12.686827+00:00",
-   "title_ko": "클라비요, 엘리아스 토레스 에이전시 인수 및 CPO 영입",
-   "summary_ko": "이커머스 기업 클라비요가 AI 에이전트 개발을 강화하기 위해 연속 창업가 엘리아스 토레스의 에이전시를 인수하고 CPO로 영입했습니다. AI 에이전트 상용화 경쟁이 가속화되고 있음을 보여줍니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "투자"
-   ]
-  },
-  {
-   "id": "9aa91fd08e2e59cf",
-   "url": "https://www.reddit.com/r/singularity/comments/1vgi7td/meta_releases_muse_code_in_beta/",
-   "source": "r/singularity",
-   "title": "Meta releases Muse Code in beta",
-   "published_at": "2026-08-05T19:59:45+00:00",
-   "collected_at": "2026-08-06T15:23:05.425974+00:00",
-   "title_ko": "메타, 코딩용 AI 'Muse Code' 베타 출시",
-   "summary_ko": "Meta가 프로그래밍 지원을 위한 새로운 AI 모델 'Muse Code'를 베타 버전으로 공개했습니다.",
-   "category": "속보",
-   "tags": [
-    "Meta",
-    "코딩"
-   ]
-  },
-  {
-   "id": "5919beed3083ed48",
-   "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
-   "source": "Hacker News",
-   "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-   "published_at": "2026-08-05T19:47:26+00:00",
-   "collected_at": "2026-08-05T23:11:29.096959+00:00",
-   "title_ko": "메타, AI 생성 아동 성착취 이미지가 포함된 광고 집행 논란",
-   "summary_ko": "메타 플랫폼에서 AI가 생성한 부적절한 아동 이미지가 광고로 노출되어 큰 논란이 일고 있습니다. 생성형 AI의 안전성과 플랫폼 검열 책임에 대한 비판이 거세지고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "Meta",
-    "규제"
    ]
   }
  ]
