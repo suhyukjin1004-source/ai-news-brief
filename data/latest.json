@@ -1,8 +1,98 @@
 {
- "updated_at": "2026-08-08T21:39:58.377325+00:00",
+ "updated_at": "2026-08-08T22:39:14.380048+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "18b0dbee24c98adc",
+   "url": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything",
+   "source": "Simon Willison",
+   "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+   "published_at": "2026-08-08T22:36:03+00:00",
+   "collected_at": "2026-08-08T22:38:58.396506+00:00",
+   "title_ko": "Claude Code, 유료 플랜에서 자동 모드 기본 적용",
+   "summary_ko": "Anthropic이 Pro, Max, Team 플랜의 Claude Code에서 자동 모드를 기본 설정으로 제공하기 시작했습니다. 사내에서도 대부분의 직원이 자동 모드를 사용할 만큼 높은 신뢰성을 보여줍니다.",
+   "category": "속보",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "308fbf28a85dd7f1",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vj8bxf/is_microsoftphi_dead/",
+   "source": "r/LocalLLaMA",
+   "title": "Is Microsoft-Phi dead?",
+   "published_at": "2026-08-08T22:01:01+00:00",
+   "collected_at": "2026-08-08T22:38:58.974439+00:00",
+   "title_ko": "마이크로소프트 Phi 모델 시리즈의 현황과 전망",
+   "summary_ko": "경량 소형 언어 모델로 인기가 높았던 마이크로소프트 Phi 시리즈의 최신 동향과 향후 후속작 출시 가능성에 대한 커뮤니티 논의입니다.",
+   "category": "참고",
+   "tags": [
+    "Microsoft",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "ac095a923a455cc7",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vj7wey/enabling_pcie_p2p_for_consumer_nvidia_cards_will/",
+   "source": "r/LocalLLaMA",
+   "title": "enabling PCI-E p2p for consumer Nvidia cards will yield you more than you think",
+   "published_at": "2026-08-08T21:42:00+00:00",
+   "collected_at": "2026-08-08T22:38:58.974439+00:00",
+   "title_ko": "소비자용 엔비디아 GPU에서 PCI-E P2P 활성화의 성능 영향",
+   "summary_ko": "다중 GPU 및 vLLM 환경에서 소비자용 엔비디아 그래픽카드의 PCI-E P2P 통신을 활성화했을 때 추론 성능에 미치는 긍정적 효과를 공유하는 글입니다.",
+   "category": "팁",
+   "tags": [
+    "NVIDIA",
+    "반도체"
+   ]
+  },
+  {
+   "id": "be89d4c14829679e",
+   "url": "https://news.hada.io/topic?id=32277",
+   "source": "GeekNews",
+   "title": "덴마크, AI 부정행위 막기 위해 서면 과제 구두 소명 의무화",
+   "published_at": "2026-08-08T21:34:10+00:00",
+   "collected_at": "2026-08-08T22:39:05.991970+00:00",
+   "title_ko": "덴마크, AI 부정행위 방지를 위해 서면 과제 구두 소명 의무화",
+   "summary_ko": "덴마크 정부가 학생들이 생성형 AI를 이용해 과제를 작성하는 것을 막기 위해 제출한 서면 과제에 대해 직접 구두로 설명하도록 하는 규정을 시행했습니다.",
+   "category": "중요",
+   "tags": [
+    "규제"
+   ]
+  },
+  {
+   "id": "4a60431808163ab0",
+   "url": "https://www.reddit.com/r/singularity/comments/1vj7nm7/whens_gemini_35_pro_releasing/",
+   "source": "r/singularity",
+   "title": "When's Gemini 3.5 pro releasing",
+   "published_at": "2026-08-08T21:31:13+00:00",
+   "collected_at": "2026-08-08T22:39:03.525025+00:00",
+   "title_ko": "Gemini 3.5 Pro 출시 일정에 대한 관심 고조",
+   "summary_ko": "구글의 차세대 대형 언어 모델인 Gemini 3.5 Pro의 출시 시기에 대해 AI 커뮤니티 사용자들이 궁금증을 제기하고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "Google",
+    "Gemini"
+   ]
+  },
+  {
+   "id": "82f88855d234db0a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vj7i17/comparing_4bit_quants_for_mlx/",
+   "source": "r/LocalLLaMA",
+   "title": "Comparing 4bit quants for MLX",
+   "published_at": "2026-08-08T21:24:27+00:00",
+   "collected_at": "2026-08-08T22:38:58.974439+00:00",
+   "title_ko": "MLX 환경을 위한 4비트 양자화 방식 비교",
+   "summary_ko": "Apple Silicon의 MLX 프레임워크에서 Gemma와 Qwen 모델 구동 시 활용되는 다양한 4비트 양자화 유형(OptiQ, Unsloth UD, 네이티브 등)의 특징을 비교하는 논의입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
   {
    "id": "c36c8de8383e9077",
    "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
@@ -50,6 +140,20 @@
    ]
   },
   {
+   "id": "51a8263ef2058815",
+   "url": "https://www.reddit.com/r/singularity/comments/1vj65p3/deepseek_v4_flash_0731_arcagi1_and_2/",
+   "source": "r/singularity",
+   "title": "DeepSeek V4 Flash 0731 ARC-AGI-1 and 2",
+   "published_at": "2026-08-08T20:26:13+00:00",
+   "collected_at": "2026-08-08T22:39:03.525025+00:00",
+   "title_ko": "성능 향상과 비용 절감 동시에 달성한 DeepSeek V4 Flash",
+   "summary_ko": "DeepSeek V4 Flash가 추론 성능이 높아짐에도 불구하고 작업당 비용이 오히려 감소하는 이례적인 성능-비용 구조를 보여 주목받고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
    "id": "10f590cb4bd8ab45",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vj5wel/building_a_budget_32gb_48gb_vram_home_ai_server/",
    "source": "r/LocalLLaMA",
@@ -62,6 +166,20 @@
    "tags": [
     "오픈소스",
     "반도체"
+   ]
+  },
+  {
+   "id": "549942e52f1d3a37",
+   "url": "https://www.reddit.com/r/singularity/comments/1vj5d09/gpt_56_sol_and_fable_5_settle_a_25_year_old/",
+   "source": "r/singularity",
+   "title": "GPT 5.6 Sol and Fable 5 settle a 25 year old problem in wireless communication theory",
+   "published_at": "2026-08-08T19:52:47+00:00",
+   "collected_at": "2026-08-08T22:39:03.525025+00:00",
+   "title_ko": "AI 모델이 무선 통신 이론의 난제 해결에 기여",
+   "summary_ko": "최신 AI 모델이 25년 동안 미해결 상태였던 무선 통신 이론의 난제를 해결하는 데 도움을 주었다는 소식입니다.",
+   "category": "중요",
+   "tags": [
+    "GPT"
    ]
   },
   {
@@ -93,6 +211,35 @@
    "tags": [
     "투자",
     "오픈소스"
+   ]
+  },
+  {
+   "id": "34b43d98cd16f8db",
+   "url": "https://www.reddit.com/r/singularity/comments/1vj3ve1/rising_number_of_uk_children_report_seeing/",
+   "source": "r/singularity",
+   "title": "Rising number of UK children report seeing explicit deepfakes of themselves",
+   "published_at": "2026-08-08T18:50:28+00:00",
+   "collected_at": "2026-08-08T22:39:03.525025+00:00",
+   "title_ko": "영국 아동 대상 AI 딥페이크 피해 사례 급증",
+   "summary_ko": "영국 내에서 자신의 얼굴이 포함된 노골적인 AI 딥페이크 성착취물을 접하는 아동들이 늘어나면서 사회적 문제로 대두되고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "규제"
+   ]
+  },
+  {
+   "id": "c54a48134109b138",
+   "url": "https://www.reddit.com/r/singularity/comments/1vj3rck/chatgpt_sol_56_high_found_a_normalization_error/",
+   "source": "r/singularity",
+   "title": "ChatGPT Sol 5.6 high found a normalization error in two recently published Riemann Hypothesis papers. The author confirmed it.",
+   "published_at": "2026-08-08T18:45:48+00:00",
+   "collected_at": "2026-08-08T22:39:03.525025+00:00",
+   "title_ko": "ChatGPT를 활용해 리만 가설 관련 논문 오류 발견",
+   "summary_ko": "비전문가가 ChatGPT를 활용해 최근 출판된 리만 가설 관련 논문 두 편의 정규화 오류를 발견했고 저자로부터 이를 확인받았다고 주장하는 사례입니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "GPT"
    ]
   },
   {
@@ -245,6 +392,20 @@
    ]
   },
   {
+   "id": "7e9d5c9582ed1c83",
+   "url": "https://www.reddit.com/r/singularity/comments/1vj10rd/virtues_virtual_tissues_a_significant/",
+   "source": "r/singularity",
+   "title": "VirTues (Virtual Tissues) - A significant computational breakthrough in computational biology and spatial omic",
+   "published_at": "2026-08-08T16:56:11+00:00",
+   "collected_at": "2026-08-08T22:39:03.525025+00:00",
+   "title_ko": "컴퓨터 생물학 분야의 가상 조직 기술 'VirTues' 발표",
+   "summary_ko": "공간 오믹스와 계산 생물학 분야에서 세포 및 조직 분석을 크게 발전시킬 수 있는 가상 조직(Virtual Tissues) 컴퓨팅 모델이 공개되었습니다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "09a11175ebf1c28c",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vj0hil/my_first_run_of_kimi_k3_locally/",
    "source": "r/LocalLLaMA",
@@ -258,6 +419,21 @@
     "오픈소스",
     "LLM",
     "로컬LLM"
+   ]
+  },
+  {
+   "id": "e6fe978be35e9af3",
+   "url": "https://www.reddit.com/r/singularity/comments/1vizp8q/beingbeyond_is_collecting_accurate_data_for/",
+   "source": "r/singularity",
+   "title": "BeingBeyond is collecting accurate data for humanoid robot training by attaching robotic hands next to the human hands",
+   "published_at": "2026-08-08T16:02:41+00:00",
+   "collected_at": "2026-08-08T22:39:03.525025+00:00",
+   "title_ko": "BeingBeyond, 휴머노이드 로봇 학습용 정밀 데이터 수집 기술 공개",
+   "summary_ko": "인간 손 옆에 로봇 손을 부착하여 휴머노이드 로봇 훈련을 위한 정확한 데이터를 수집하는 방식이 소개되었습니다. 로봇의 조작 능력 향상에 기여할 것으로 기대됩니다.",
+   "category": "참고",
+   "tags": [
+    "로보틱스",
+    "AI 에이전트"
    ]
   },
   {
@@ -2831,192 +3007,6 @@
    "tags": [
     "오픈소스",
     "LLM"
-   ]
-  },
-  {
-   "id": "09bedd42a46df2e8",
-   "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
-   "source": "Hacker News",
-   "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
-   "published_at": "2026-08-06T18:44:49+00:00",
-   "collected_at": "2026-08-07T00:10:44.778163+00:00",
-   "title_ko": "Qwen3.8 Max, 에이전트 인덱스 종합 1위 등극",
-   "summary_ko": "인공지능 성능 분석 플랫폼에서 Qwen3.8 Max가 에이전트 능력을 인정받으며 최고 종합 모델로 선정되었습니다.",
-   "category": "중요",
-   "tags": [
-    "알리바바",
-    "LLM",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "235073d01bce57b2",
-   "url": "https://news.hada.io/topic?id=32211",
-   "source": "GeekNews",
-   "title": "Meta, AI 생성 아동 성적 학대 이미지가 포함된 광고 게재",
-   "published_at": "2026-08-06T18:37:02+00:00",
-   "collected_at": "2026-08-07T00:11:00.989661+00:00",
-   "title_ko": "메타 광고 플랫폼서 AI 생성 아동 성적 학대물 노출 논란",
-   "summary_ko": "메타의 주요 플랫폼 광고 심사를 통과해 AI로 생성된 부적절한 이미지와 문구를 담은 광고들이 노출되어 문제가 제기되었습니다.",
-   "category": "중요",
-   "tags": [
-    "Meta",
-    "규제",
-    "AI 생성"
-   ]
-  },
-  {
-   "id": "d0a96c673c851679",
-   "url": "https://www.reddit.com/r/singularity/comments/1vhcetp/risky_jobs_are_turning_to_teleoperation_personaai/",
-   "source": "r/singularity",
-   "title": "Risky jobs are turning to teleoperation - Persona.AI demos its humanoid robot Gen 1 welding",
-   "published_at": "2026-08-06T18:25:25+00:00",
-   "collected_at": "2026-08-07T03:56:03.610141+00:00",
-   "title_ko": "위험 작업 대체하는 원격 제어 휴머노이드 로봇",
-   "summary_ko": "위험한 산업 현장을 위해 Persona.AI가 용접 작업을 수행하는 Gen 1 휴머노이드 로봇을 시연했습니다.",
-   "category": "속보",
-   "tags": [
-    "로보틱스"
-   ]
-  },
-  {
-   "id": "b3b2f280ca267b2d",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213604",
-   "source": "AI타임스",
-   "title": "MS, 사내 개발자 기본 모델로 'GPT-5.6 솔' 지정...\"효율 최우선\"",
-   "published_at": "2026-08-06T17:52:52+00:00",
-   "collected_at": "2026-08-06T09:46:44.408995+00:00",
-   "title_ko": "MS, 사내 개발자 기본 모델로 'GPT-5.6 솔' 지정",
-   "summary_ko": "마이크로소프트가 AI 인프라 비용 절감과 효율성 극대화를 위해 사내 개발자 기본 코딩 모델을 오픈AI의 'GPT-5.6 솔'로 변경했다.",
-   "category": "중요",
-   "tags": [
-    "Microsoft",
-    "OpenAI",
-    "GPT"
-   ]
-  },
-  {
-   "id": "34d09f8f01f15fbe",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213605",
-   "source": "AI타임스",
-   "title": "바이트댄스, 미국 눈치에 'AI 증류' 포기 선언...\"단기 성과보다 장기 전략\"",
-   "published_at": "2026-08-06T17:45:29+00:00",
-   "collected_at": "2026-08-06T09:46:44.408995+00:00",
-   "title_ko": "바이트댄스, 미국 눈치에 'AI 증류' 기법 포기 선언",
-   "summary_ko": "바이트댄스가 미국과의 갈등 요인을 줄이고 장기적 사업 안정성을 확보하기 위해 AI 모델 개발 시 '증류' 기법을 사용하지 않겠다고 밝혔다.",
-   "category": "중요",
-   "tags": [
-    "바이트댄스",
-    "규제",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "8414208a8234f3f8",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhb69g/nvidias_nemotron_omni_only_loads_its_text_half_on/",
-   "source": "r/LocalLLaMA",
-   "title": "nvidias nemotron omni only loads its text half on a mac, so i wrote the vision and audio towers in mlx",
-   "published_at": "2026-08-06T17:41:00+00:00",
-   "collected_at": "2026-08-07T00:10:46.467160+00:00",
-   "title_ko": "맥에서 엔비디아 Nemotron Omni 구동하는 MLX 런타임 구현",
-   "summary_ko": "엔비디아의 멀티모달 오픈 모델의 비전 및 오디오 타워를 애플 실리콘 MLX 프레임워크에서 순수 코드로 구현해 맥 구동이 가능해졌습니다.",
-   "category": "팁",
-   "tags": [
-    "NVIDIA",
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "d0848227c05ee3c2",
-   "url": "https://www.reddit.com/r/singularity/comments/1vhb5f6/openai_improving_gpt56_in_chatgpt/",
-   "source": "r/singularity",
-   "title": "OpenAI: Improving GPT‑5.6 in ChatGPT",
-   "published_at": "2026-08-06T17:40:11+00:00",
-   "collected_at": "2026-08-07T03:56:03.610141+00:00",
-   "title_ko": "ChatGPT 내 GPT-5.6 성능 개선 작업 진행",
-   "summary_ko": "OpenAI가 ChatGPT 서비스에서 GPT-5.6 모델의 성능을 향상시키기 위한 업데이트를 준비하고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "GPT"
-   ]
-  },
-  {
-   "id": "e6380e9989c1e3fb",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
-   "source": "The Verge",
-   "title": "Suno shares plans to combat spammy AI music",
-   "published_at": "2026-08-06T17:39:43+00:00",
-   "collected_at": "2026-08-07T00:10:42.305020+00:00",
-   "title_ko": "수노(Suno), 스팸 AI 음악 근절 위한 워터마킹 도입 계획 발표",
-   "summary_ko": "AI 음악 플랫폼 수노가 무분별한 스팸 트랙 확산을 막고 투명성을 높이기 위해 새로운 워터마킹 기술과 다운로드 정책을 도입합니다.",
-   "category": "중요",
-   "tags": [
-    "생성형AI",
-    "규제"
-   ]
-  },
-  {
-   "id": "9806ed34b85d0d72",
-   "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-   "source": "TechCrunch",
-   "title": "ChatGPT brings unlimited text chats to free users",
-   "published_at": "2026-08-06T17:34:42+00:00",
-   "collected_at": "2026-08-07T00:10:42.181375+00:00",
-   "title_ko": "ChatGPT, 무료 이용자에게 무제한 텍스트 채팅 제공",
-   "summary_ko": "OpenAI가 ChatGPT 무료 및 Go 티어 이용자에게 무제한 텍스트 채팅과 복잡한 쿼리를 위한 '생각하기(think)' 버튼을 제공합니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "GPT",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "da225a7a05a3e66f",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213632",
-   "source": "AI타임스",
-   "title": "딥시크, 초저가 정책 접나…AI 서비스 가격 '대폭' 인상 예고",
-   "published_at": "2026-08-06T17:30:00+00:00",
-   "collected_at": "2026-08-06T09:46:44.408995+00:00",
-   "title_ko": "딥시크, AI 서비스 가격 대폭 인상 예고",
-   "summary_ko": "초저가 전략으로 주목받았던 딥시크가 API 등 자체 AI 서비스 가격의 대폭 인상을 예고하며 업계의 가격 경쟁에 변화가 예상된다.",
-   "category": "중요",
-   "tags": [
-    "DeepSeek",
-    "투자"
-   ]
-  },
-  {
-   "id": "6e295bc925f570f2",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213634",
-   "source": "AI타임스",
-   "title": "오픈AI, 애플의 영업비밀 침해 소송에 “근거 없다”며 기각 신청",
-   "published_at": "2026-08-06T17:27:08+00:00",
-   "collected_at": "2026-08-06T09:46:44.408995+00:00",
-   "title_ko": "오픈AI, 애플의 영업비밀 침해 소송 기각 요청",
-   "summary_ko": "오픈AI가 애플이 제기한 영업비밀 침해 소송에 대해 근거가 없다며 연방 법원에 공식 기각을 요청했다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "Apple",
-    "규제"
-   ]
-  },
-  {
-   "id": "d8917d7413905448",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhaabz/kv_cache_quantization_benchmarks_413_pairs_tested/",
-   "source": "r/LocalLLaMA",
-   "title": "KV cache quantization benchmarks: 413 pairs tested on Qwen 3.6 27B, Gemma 4 31B. KLD with BeeLlama.cpp v0.4.0: KVarN 6-bit beats q8_0, precision tail 1024 dominates",
-   "published_at": "2026-08-06T17:09:39+00:00",
-   "collected_at": "2026-08-07T00:10:46.467160+00:00",
-   "title_ko": "KV 캐시 양자화 벤치마크 공개",
-   "summary_ko": "BeeLlama.cpp를 활용해 Qwen과 Gemma 모델을 대상으로 다양한 KV 캐시 양자화 및 정밀도 설정을 테스트한 벤치마크 결과가 공개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "반도체"
    ]
   }
  ]

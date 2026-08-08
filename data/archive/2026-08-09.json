@@ -1,5 +1,95 @@
 [
  {
+  "id": "18b0dbee24c98adc",
+  "url": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything",
+  "source": "Simon Willison",
+  "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+  "published_at": "2026-08-08T22:36:03+00:00",
+  "collected_at": "2026-08-08T22:38:58.396506+00:00",
+  "title_ko": "Claude Code, 유료 플랜에서 자동 모드 기본 적용",
+  "summary_ko": "Anthropic이 Pro, Max, Team 플랜의 Claude Code에서 자동 모드를 기본 설정으로 제공하기 시작했습니다. 사내에서도 대부분의 직원이 자동 모드를 사용할 만큼 높은 신뢰성을 보여줍니다.",
+  "category": "속보",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "308fbf28a85dd7f1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vj8bxf/is_microsoftphi_dead/",
+  "source": "r/LocalLLaMA",
+  "title": "Is Microsoft-Phi dead?",
+  "published_at": "2026-08-08T22:01:01+00:00",
+  "collected_at": "2026-08-08T22:38:58.974439+00:00",
+  "title_ko": "마이크로소프트 Phi 모델 시리즈의 현황과 전망",
+  "summary_ko": "경량 소형 언어 모델로 인기가 높았던 마이크로소프트 Phi 시리즈의 최신 동향과 향후 후속작 출시 가능성에 대한 커뮤니티 논의입니다.",
+  "category": "참고",
+  "tags": [
+   "Microsoft",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "ac095a923a455cc7",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vj7wey/enabling_pcie_p2p_for_consumer_nvidia_cards_will/",
+  "source": "r/LocalLLaMA",
+  "title": "enabling PCI-E p2p for consumer Nvidia cards will yield you more than you think",
+  "published_at": "2026-08-08T21:42:00+00:00",
+  "collected_at": "2026-08-08T22:38:58.974439+00:00",
+  "title_ko": "소비자용 엔비디아 GPU에서 PCI-E P2P 활성화의 성능 영향",
+  "summary_ko": "다중 GPU 및 vLLM 환경에서 소비자용 엔비디아 그래픽카드의 PCI-E P2P 통신을 활성화했을 때 추론 성능에 미치는 긍정적 효과를 공유하는 글입니다.",
+  "category": "팁",
+  "tags": [
+   "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
+  "id": "be89d4c14829679e",
+  "url": "https://news.hada.io/topic?id=32277",
+  "source": "GeekNews",
+  "title": "덴마크, AI 부정행위 막기 위해 서면 과제 구두 소명 의무화",
+  "published_at": "2026-08-08T21:34:10+00:00",
+  "collected_at": "2026-08-08T22:39:05.991970+00:00",
+  "title_ko": "덴마크, AI 부정행위 방지를 위해 서면 과제 구두 소명 의무화",
+  "summary_ko": "덴마크 정부가 학생들이 생성형 AI를 이용해 과제를 작성하는 것을 막기 위해 제출한 서면 과제에 대해 직접 구두로 설명하도록 하는 규정을 시행했습니다.",
+  "category": "중요",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
+  "id": "4a60431808163ab0",
+  "url": "https://www.reddit.com/r/singularity/comments/1vj7nm7/whens_gemini_35_pro_releasing/",
+  "source": "r/singularity",
+  "title": "When's Gemini 3.5 pro releasing",
+  "published_at": "2026-08-08T21:31:13+00:00",
+  "collected_at": "2026-08-08T22:39:03.525025+00:00",
+  "title_ko": "Gemini 3.5 Pro 출시 일정에 대한 관심 고조",
+  "summary_ko": "구글의 차세대 대형 언어 모델인 Gemini 3.5 Pro의 출시 시기에 대해 AI 커뮤니티 사용자들이 궁금증을 제기하고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "Google",
+   "Gemini"
+  ]
+ },
+ {
+  "id": "82f88855d234db0a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vj7i17/comparing_4bit_quants_for_mlx/",
+  "source": "r/LocalLLaMA",
+  "title": "Comparing 4bit quants for MLX",
+  "published_at": "2026-08-08T21:24:27+00:00",
+  "collected_at": "2026-08-08T22:38:58.974439+00:00",
+  "title_ko": "MLX 환경을 위한 4비트 양자화 방식 비교",
+  "summary_ko": "Apple Silicon의 MLX 프레임워크에서 Gemma와 Qwen 모델 구동 시 활용되는 다양한 4비트 양자화 유형(OptiQ, Unsloth UD, 네이티브 등)의 특징을 비교하는 논의입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
   "id": "c36c8de8383e9077",
   "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
   "source": "TechCrunch",
@@ -46,6 +136,20 @@
   ]
  },
  {
+  "id": "51a8263ef2058815",
+  "url": "https://www.reddit.com/r/singularity/comments/1vj65p3/deepseek_v4_flash_0731_arcagi1_and_2/",
+  "source": "r/singularity",
+  "title": "DeepSeek V4 Flash 0731 ARC-AGI-1 and 2",
+  "published_at": "2026-08-08T20:26:13+00:00",
+  "collected_at": "2026-08-08T22:39:03.525025+00:00",
+  "title_ko": "성능 향상과 비용 절감 동시에 달성한 DeepSeek V4 Flash",
+  "summary_ko": "DeepSeek V4 Flash가 추론 성능이 높아짐에도 불구하고 작업당 비용이 오히려 감소하는 이례적인 성능-비용 구조를 보여 주목받고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "10f590cb4bd8ab45",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vj5wel/building_a_budget_32gb_48gb_vram_home_ai_server/",
   "source": "r/LocalLLaMA",
@@ -58,6 +162,20 @@
   "tags": [
    "오픈소스",
    "반도체"
+  ]
+ },
+ {
+  "id": "549942e52f1d3a37",
+  "url": "https://www.reddit.com/r/singularity/comments/1vj5d09/gpt_56_sol_and_fable_5_settle_a_25_year_old/",
+  "source": "r/singularity",
+  "title": "GPT 5.6 Sol and Fable 5 settle a 25 year old problem in wireless communication theory",
+  "published_at": "2026-08-08T19:52:47+00:00",
+  "collected_at": "2026-08-08T22:39:03.525025+00:00",
+  "title_ko": "AI 모델이 무선 통신 이론의 난제 해결에 기여",
+  "summary_ko": "최신 AI 모델이 25년 동안 미해결 상태였던 무선 통신 이론의 난제를 해결하는 데 도움을 주었다는 소식입니다.",
+  "category": "중요",
+  "tags": [
+   "GPT"
   ]
  },
  {
@@ -89,6 +207,35 @@
   "tags": [
    "투자",
    "오픈소스"
+  ]
+ },
+ {
+  "id": "34b43d98cd16f8db",
+  "url": "https://www.reddit.com/r/singularity/comments/1vj3ve1/rising_number_of_uk_children_report_seeing/",
+  "source": "r/singularity",
+  "title": "Rising number of UK children report seeing explicit deepfakes of themselves",
+  "published_at": "2026-08-08T18:50:28+00:00",
+  "collected_at": "2026-08-08T22:39:03.525025+00:00",
+  "title_ko": "영국 아동 대상 AI 딥페이크 피해 사례 급증",
+  "summary_ko": "영국 내에서 자신의 얼굴이 포함된 노골적인 AI 딥페이크 성착취물을 접하는 아동들이 늘어나면서 사회적 문제로 대두되고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
+  "id": "c54a48134109b138",
+  "url": "https://www.reddit.com/r/singularity/comments/1vj3rck/chatgpt_sol_56_high_found_a_normalization_error/",
+  "source": "r/singularity",
+  "title": "ChatGPT Sol 5.6 high found a normalization error in two recently published Riemann Hypothesis papers. The author confirmed it.",
+  "published_at": "2026-08-08T18:45:48+00:00",
+  "collected_at": "2026-08-08T22:39:03.525025+00:00",
+  "title_ko": "ChatGPT를 활용해 리만 가설 관련 논문 오류 발견",
+  "summary_ko": "비전문가가 ChatGPT를 활용해 최근 출판된 리만 가설 관련 논문 두 편의 정규화 오류를 발견했고 저자로부터 이를 확인받았다고 주장하는 사례입니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "GPT"
   ]
  },
  {
@@ -241,6 +388,20 @@
   ]
  },
  {
+  "id": "7e9d5c9582ed1c83",
+  "url": "https://www.reddit.com/r/singularity/comments/1vj10rd/virtues_virtual_tissues_a_significant/",
+  "source": "r/singularity",
+  "title": "VirTues (Virtual Tissues) - A significant computational breakthrough in computational biology and spatial omic",
+  "published_at": "2026-08-08T16:56:11+00:00",
+  "collected_at": "2026-08-08T22:39:03.525025+00:00",
+  "title_ko": "컴퓨터 생물학 분야의 가상 조직 기술 'VirTues' 발표",
+  "summary_ko": "공간 오믹스와 계산 생물학 분야에서 세포 및 조직 분석을 크게 발전시킬 수 있는 가상 조직(Virtual Tissues) 컴퓨팅 모델이 공개되었습니다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "09a11175ebf1c28c",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vj0hil/my_first_run_of_kimi_k3_locally/",
   "source": "r/LocalLLaMA",
@@ -254,6 +415,21 @@
    "오픈소스",
    "LLM",
    "로컬LLM"
+  ]
+ },
+ {
+  "id": "e6fe978be35e9af3",
+  "url": "https://www.reddit.com/r/singularity/comments/1vizp8q/beingbeyond_is_collecting_accurate_data_for/",
+  "source": "r/singularity",
+  "title": "BeingBeyond is collecting accurate data for humanoid robot training by attaching robotic hands next to the human hands",
+  "published_at": "2026-08-08T16:02:41+00:00",
+  "collected_at": "2026-08-08T22:39:03.525025+00:00",
+  "title_ko": "BeingBeyond, 휴머노이드 로봇 학습용 정밀 데이터 수집 기술 공개",
+  "summary_ko": "인간 손 옆에 로봇 손을 부착하여 휴머노이드 로봇 훈련을 위한 정확한 데이터를 수집하는 방식이 소개되었습니다. 로봇의 조작 능력 향상에 기여할 것으로 기대됩니다.",
+  "category": "참고",
+  "tags": [
+   "로보틱스",
+   "AI 에이전트"
   ]
  },
  {
