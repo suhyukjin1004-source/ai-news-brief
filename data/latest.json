@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-08T10:43:37.094603+00:00",
+ "updated_at": "2026-08-08T13:06:30.255295+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -47,6 +47,36 @@
    ]
   },
   {
+   "id": "f03fef3bc1c1195b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1viudgz/mi25_for_80100_worth_it/",
+   "source": "r/LocalLLaMA",
+   "title": "MI25 for 80-100€ worth it?",
+   "published_at": "2026-08-08T12:09:52+00:00",
+   "collected_at": "2026-08-08T13:06:13.476510+00:00",
+   "title_ko": "중고 AMD MI25 GPU의 로컬 LLM 추론 활용성 논의",
+   "summary_ko": "16GB VRAM을 가진 저렴한 AMD MI25를 로컬 LLM 구동용으로 사용하는 것이 적절한지 묻고 답하는 글입니다. 리눅스 환경에서 NVIDIA 드라이버를 피하고 가성비 좋은 추론 환경을 구축하려는 사용자에게 참고가 됩니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "03777f7664fd5b01",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1viss65/has_anyone_here_fiddled_with_tpus_for_inference/",
+   "source": "r/LocalLLaMA",
+   "title": "Has anyone here fiddled with TPUs for inference ?",
+   "published_at": "2026-08-08T10:45:22+00:00",
+   "collected_at": "2026-08-08T13:06:13.476510+00:00",
+   "title_ko": "개인용 AI 추론을 위한 Google TPU 활용 가능성",
+   "summary_ko": "소형 구글 TPU를 개인 소유의 LLM 추론에 활용할 수 있는지 묻고 경험을 공유하는 글입니다. 엔비디아 GPU 외에 대안적인 하드웨어로 AI를 구동하려는 시도 측면에서 중요합니다.",
+   "category": "참고",
+   "tags": [
+    "반도체",
+    "Google"
+   ]
+  },
+  {
    "id": "e56eec39bbdb5a86",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213699",
    "source": "AI타임스",
@@ -75,6 +105,21 @@
     "Anthropic",
     "Claude",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "663867eea5b91b32",
+   "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+   "source": "Hacker News",
+   "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
+   "published_at": "2026-08-08T10:07:06+00:00",
+   "collected_at": "2026-08-08T13:05:57.873005+00:00",
+   "title_ko": "아마존의 새로운 AI 데이터 센터, 환경 오염 우려 제기",
+   "summary_ko": "아마존의 신규 데이터 센터가 미국 내에서 가장 오염이 심한 발전소 전력을 사용할 예정이라는 보도입니다. AI 인프라 확장에 따른 전력 수급과 환경 문제가 핵심 화두로 떠오르고 있음을 보여줍니다.",
+   "category": "중요",
+   "tags": [
+    "인프라",
+    "투자"
    ]
   },
   {
@@ -2964,50 +3009,6 @@
    "tags": [
     "Meta",
     "코딩"
-   ]
-  },
-  {
-   "id": "01504693e42d3a1e",
-   "url": "https://www.reddit.com/r/singularity/comments/1vh5iln/snippets_from_an_anthropic_meeting/",
-   "source": "r/singularity",
-   "title": "Snippets from an Anthropic meeting",
-   "published_at": "2026-08-06T14:16:31+00:00",
-   "collected_at": "2026-08-06T15:23:05.425974+00:00",
-   "title_ko": "앤스로픽 내부 회의 내용 유출",
-   "summary_ko": "레딧에 앤스로픽의 내부 회의에서 오간 내용의 일부가 공유되어 커뮤니티의 관심을 끌었습니다.",
-   "category": "참고",
-   "tags": [
-    "Anthropic"
-   ]
-  },
-  {
-   "id": "1c9cf64dc3b80643",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213610",
-   "source": "AI타임스",
-   "title": "머스크 \"엔비디아 칩만 사용\" 선언에 휘청...AMD, 리사 수 발언에 반등",
-   "published_at": "2026-08-06T14:13:19+00:00",
-   "collected_at": "2026-08-06T06:40:56.233545+00:00",
-   "title_ko": "머스크의 엔비디아 독점 선언 후 AMD 주가 반등",
-   "summary_ko": "일론 머스크가 스페이스X의 엔비디아 칩 독점 사용을 선언한 후 AMD 주가가 흔들렸으나 리사 수 CEO의 대응으로 반등했다.",
-   "category": "참고",
-   "tags": [
-    "NVIDIA",
-    "반도체"
-   ]
-  },
-  {
-   "id": "859d5dc277186964",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vh5drv/unsloths_gemma_4_mmproj_silently_broke_vision/",
-   "source": "r/LocalLLaMA",
-   "title": "Unsloth's Gemma 4 mmproj silently broke vision & audio on newer llama.cpp builds — anyone else hit this?",
-   "published_at": "2026-08-06T14:11:43+00:00",
-   "collected_at": "2026-08-06T15:22:52.447459+00:00",
-   "title_ko": "Unsloth의 Gemma 4 mmproj 업데이트로 멀티모달 기능 오류 발생",
-   "summary_ko": "최신 llama.cpp 빌드에서 Unsloth의 Gemma 4 비전 및 오디오 기능이 작동하지 않는 문제가 발생해 로컬 AI 개발자들이 원인 분석에 나섰습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "Gemini"
    ]
   }
  ]
