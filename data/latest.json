@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-08T13:06:30.255295+00:00",
+ "updated_at": "2026-08-08T14:40:41.488682+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -44,6 +44,38 @@
    "category": "속보",
    "tags": [
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "5d9ee0cbf13acd6f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vixl0f/tesla_v100_qwen36_27b_performance/",
+   "source": "r/LocalLLaMA",
+   "title": "Tesla V100 Qwen3.6 27B Performance",
+   "published_at": "2026-08-08T14:34:41+00:00",
+   "collected_at": "2026-08-08T14:40:26.004135+00:00",
+   "title_ko": "Tesla V100에서 Qwen3.6 27B 모델 구동 성능 공유",
+   "summary_ko": "Tesla V100 32GB 환경에서 Qwen3.6 27B 모델을 실행하기 위한 llama.cpp 설정과 성능 최적화 방법을 논의합니다. 레거시 하드웨어에서 대형 오픈소스 모델을 구동하려는 실무자에게 유용합니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트",
+    "NVIDIA"
+   ]
+  },
+  {
+   "id": "202105c5a7b3b4fd",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1viwlgj/claude_code_in_9_lines_python/",
+   "source": "r/LocalLLaMA",
+   "title": "Claude Code in 9 lines python",
+   "published_at": "2026-08-08T13:52:24+00:00",
+   "collected_at": "2026-08-08T14:40:26.004135+00:00",
+   "title_ko": "파이썬 9줄로 구현하는 미니멀 코딩 에이전트",
+   "summary_ko": "서드파티 라이브러리 없이 표준 라이브러리만 사용하여 Claude Code와 유사한 작동 방식을 가진 9줄짜리 파이썬 코딩 에이전트를 구현했습니다. 비용 효율적이고 API 연동이 간편해 에이전트 구조를 파악하는 데 도움을 줍니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "Claude",
+    "오픈소스"
    ]
   },
   {
@@ -2980,35 +3012,6 @@
    "category": "속보",
    "tags": [
     "AI 에이전트"
-   ]
-  },
-  {
-   "id": "3496fc76d79b61bd",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213608",
-   "source": "AI타임스",
-   "title": "\"삼성·SK하이닉스, 중국산 반도체 장비 시험 평가\"...양사는 공식 부인",
-   "published_at": "2026-08-06T14:48:09+00:00",
-   "collected_at": "2026-08-06T06:40:56.233545+00:00",
-   "title_ko": "삼성·SK하이닉스, 중국산 반도체 장비 시험 평가 진행",
-   "summary_ko": "미국의 대중국 규제 강화에 대비해 양사가 중국산 식각 장비를 테스트하며 대체 공급망 확보에 나섰다.",
-   "category": "참고",
-   "tags": [
-    "반도체"
-   ]
-  },
-  {
-   "id": "fc530cf1565af118",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213614",
-   "source": "AI타임스",
-   "title": "\"직원 7000명이 직접 써보고 고쳐\"… 메타의 AI 코딩 성능 향상 비결",
-   "published_at": "2026-08-06T14:40:20+00:00",
-   "collected_at": "2026-08-06T06:40:56.233545+00:00",
-   "title_ko": "메타, 전사 직원 대상 AI 코딩 도구 '뮤즈 코드' 도입",
-   "summary_ko": "메타가 자체 AI 코딩 도구의 성능을 높이기 위해 수천 명의 엔지니어에게 실무 적용을 의무화하고 피드백을 수집하고 있다.",
-   "category": "참고",
-   "tags": [
-    "Meta",
-    "코딩"
    ]
   }
  ]

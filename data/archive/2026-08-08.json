@@ -1,5 +1,37 @@
 [
  {
+  "id": "5d9ee0cbf13acd6f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vixl0f/tesla_v100_qwen36_27b_performance/",
+  "source": "r/LocalLLaMA",
+  "title": "Tesla V100 Qwen3.6 27B Performance",
+  "published_at": "2026-08-08T14:34:41+00:00",
+  "collected_at": "2026-08-08T14:40:26.004135+00:00",
+  "title_ko": "Tesla V100에서 Qwen3.6 27B 모델 구동 성능 공유",
+  "summary_ko": "Tesla V100 32GB 환경에서 Qwen3.6 27B 모델을 실행하기 위한 llama.cpp 설정과 성능 최적화 방법을 논의합니다. 레거시 하드웨어에서 대형 오픈소스 모델을 구동하려는 실무자에게 유용합니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트",
+   "NVIDIA"
+  ]
+ },
+ {
+  "id": "202105c5a7b3b4fd",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1viwlgj/claude_code_in_9_lines_python/",
+  "source": "r/LocalLLaMA",
+  "title": "Claude Code in 9 lines python",
+  "published_at": "2026-08-08T13:52:24+00:00",
+  "collected_at": "2026-08-08T14:40:26.004135+00:00",
+  "title_ko": "파이썬 9줄로 구현하는 미니멀 코딩 에이전트",
+  "summary_ko": "서드파티 라이브러리 없이 표준 라이브러리만 사용하여 Claude Code와 유사한 작동 방식을 가진 9줄짜리 파이썬 코딩 에이전트를 구현했습니다. 비용 효율적이고 API 연동이 간편해 에이전트 구조를 파악하는 데 도움을 줍니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "Claude",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "f03fef3bc1c1195b",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1viudgz/mi25_for_80100_worth_it/",
   "source": "r/LocalLLaMA",
