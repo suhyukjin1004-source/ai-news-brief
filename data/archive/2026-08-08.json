@@ -93,6 +93,50 @@
   ]
  },
  {
+  "id": "a909d1c9f8294b0c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vinr66/qwen_35ba3b_moe_vs_27b_dense_in_local_coding/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen 35B-A3B MoE vs 27B dense in local coding tests: ~4× faster, much smaller quality gap than I expected",
+  "published_at": "2026-08-08T05:44:38+00:00",
+  "collected_at": "2026-08-08T05:50:45.775038+00:00",
+  "title_ko": "Qwen MoE 모델과 Dense 모델의 로컬 코딩 성능 비교",
+  "summary_ko": "Qwen 35B MoE 모델이 27B Dense 모델보다 약 4배 빠른 속도를 보이면서도 코딩 성능 차이는 크지 않아 로컬 환경에서 효율적인 대안임을 확인했습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "766a27c21df7c20a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vimxq5/4x2080ti_22gb_tensor_parallel_possible/",
+  "source": "r/LocalLLaMA",
+  "title": "4x2080Ti 22GB tensor parallel possible?",
+  "published_at": "2026-08-08T04:59:55+00:00",
+  "collected_at": "2026-08-08T05:50:45.775038+00:00",
+  "title_ko": "RTX 2080Ti 멀티 GPU 텐서 병렬 구동 효용성 논의",
+  "summary_ko": "4개의 2080Ti 22GB 환경에서 텐서 병렬 처리와 플래시 어텐션 제약으로 인한 성능 이점에 대한 사용자 경험과 조언을 공유했습니다.",
+  "category": "팁",
+  "tags": [
+   "반도체"
+  ]
+ },
+ {
+  "id": "7f0fc9ad4f0f6015",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vim2gt/psa_for_anyone_with_multiple_v620s_or_other/",
+  "source": "r/LocalLLaMA",
+  "title": "PSA for anyone with multiple V620's or other gfx1030 cards having problems making llama.cpp tensor split work -- set \"-ub 384\" and -b to a multiple of that depending on number of GPUs",
+  "published_at": "2026-08-08T04:14:02+00:00",
+  "collected_at": "2026-08-08T05:50:45.775038+00:00",
+  "title_ko": "llama.cpp 텐서 분할 시 V620 GPU 충돌 해결 팁",
+  "summary_ko": "일부 AMD GPU 환경에서 llama.cpp 텐서 분할 구동 시 발생하는 메모리 손상 및 충돌 문제를 마이크로배치 설정 조절로 해결하는 방법입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
   "id": "b0819e9ac4d6f65d",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vilcil/i_got_tired_of_my_300gb_model_loads_taking_5min/",
   "source": "r/LocalLLaMA",

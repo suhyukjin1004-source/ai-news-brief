@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-08T04:17:06.865474+00:00",
+ "updated_at": "2026-08-08T05:51:01.831372+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -94,6 +94,50 @@
     "오픈소스",
     "AI 수익화",
     "중국"
+   ]
+  },
+  {
+   "id": "a909d1c9f8294b0c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vinr66/qwen_35ba3b_moe_vs_27b_dense_in_local_coding/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen 35B-A3B MoE vs 27B dense in local coding tests: ~4× faster, much smaller quality gap than I expected",
+   "published_at": "2026-08-08T05:44:38+00:00",
+   "collected_at": "2026-08-08T05:50:45.775038+00:00",
+   "title_ko": "Qwen MoE 모델과 Dense 모델의 로컬 코딩 성능 비교",
+   "summary_ko": "Qwen 35B MoE 모델이 27B Dense 모델보다 약 4배 빠른 속도를 보이면서도 코딩 성능 차이는 크지 않아 로컬 환경에서 효율적인 대안임을 확인했습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "766a27c21df7c20a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vimxq5/4x2080ti_22gb_tensor_parallel_possible/",
+   "source": "r/LocalLLaMA",
+   "title": "4x2080Ti 22GB tensor parallel possible?",
+   "published_at": "2026-08-08T04:59:55+00:00",
+   "collected_at": "2026-08-08T05:50:45.775038+00:00",
+   "title_ko": "RTX 2080Ti 멀티 GPU 텐서 병렬 구동 효용성 논의",
+   "summary_ko": "4개의 2080Ti 22GB 환경에서 텐서 병렬 처리와 플래시 어텐션 제약으로 인한 성능 이점에 대한 사용자 경험과 조언을 공유했습니다.",
+   "category": "팁",
+   "tags": [
+    "반도체"
+   ]
+  },
+  {
+   "id": "7f0fc9ad4f0f6015",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vim2gt/psa_for_anyone_with_multiple_v620s_or_other/",
+   "source": "r/LocalLLaMA",
+   "title": "PSA for anyone with multiple V620's or other gfx1030 cards having problems making llama.cpp tensor split work -- set \"-ub 384\" and -b to a multiple of that depending on number of GPUs",
+   "published_at": "2026-08-08T04:14:02+00:00",
+   "collected_at": "2026-08-08T05:50:45.775038+00:00",
+   "title_ko": "llama.cpp 텐서 분할 시 V620 GPU 충돌 해결 팁",
+   "summary_ko": "일부 AMD GPU 환경에서 llama.cpp 텐서 분할 구동 시 발생하는 메모리 손상 및 충돌 문제를 마이크로배치 설정 조절로 해결하는 방법입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
    ]
   },
   {
@@ -2967,49 +3011,6 @@
     "Meta",
     "AI 에이전트",
     "규제"
-   ]
-  },
-  {
-   "id": "3605fed935f9d1a2",
-   "url": "https://www.reddit.com/r/singularity/comments/1vh3u7p/qwen_38_max_is_the_fifth_on_artificial_analysis/",
-   "source": "r/singularity",
-   "title": "Qwen 3.8 max is the fifth on artificial analysis leaderboard.",
-   "published_at": "2026-08-06T13:10:42+00:00",
-   "collected_at": "2026-08-06T15:23:05.425974+00:00",
-   "title_ko": "알리바바 Qwen 3.8 Max, Artificial Analysis 리더보드 5위 등극",
-   "summary_ko": "알리바바의 최신 LLM인 Qwen 3.8 Max가 주요 AI 성능 평가 리더보드 상위권에 진입했습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "bf82a11410597322",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vh3sp9/i_built_my_own_voice_cloning_model_looking_for/",
-   "source": "r/LocalLLaMA",
-   "title": "I built my own voice cloning model — looking for people to test it",
-   "published_at": "2026-08-06T13:08:55+00:00",
-   "collected_at": "2026-08-06T15:22:52.447459+00:00",
-   "title_ko": "무료 오픈소스 음성 클로닝 모델 테스트 참여 모집",
-   "summary_ko": "한 개발자가 가입 없이 무료로 이용할 수 있는 자체 개발 음성 클로닝 모델을 공개하고 피드백을 구하고 있습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "ca25d32748b31317",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213599",
-   "source": "AI타임스",
-   "title": "구글 떠난 제프 딘, 과학 연구 자동화 스타트업 설립...\"RSI 구축 목표\"",
-   "published_at": "2026-08-06T13:03:33+00:00",
-   "collected_at": "2026-08-06T06:40:56.233545+00:00",
-   "title_ko": "제프 딘, 구글 퇴사 후 과학 연구 자동화 스타트업 설립",
-   "summary_ko": "구글 수석 과학자였던 제프 딘이 AI 기반 과학 연구 자동화와 재귀적 자기 개선 기술을 목표로 새 스타트업을 설립했다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "오픈소스"
    ]
   }
  ]
