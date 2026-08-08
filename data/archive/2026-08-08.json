@@ -93,6 +93,50 @@
   ]
  },
  {
+  "id": "abf64a86237ccdce",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1viq0pq/qwen36_27b_35b_on_vllm_single_r9700_gfx1201/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.6 27B + 35B on vLLM, single R9700 (gfx1201)",
+  "published_at": "2026-08-08T07:55:36+00:00",
+  "collected_at": "2026-08-08T08:53:26.076163+00:00",
+  "title_ko": "AMD 라데온 GPU 환경에서 vLLM을 활용한 Qwen 모델 구동",
+  "summary_ko": "Radeon AI Pro R9700 단일 카드 환경에서 vLLM을 이용해 Qwen 모델을 최적화하고 구동한 사례입니다. 라데온 하드웨어에서의 로컬 LLM 성능 최적화에 유용한 정보입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "8a7329f95de43303",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vipk8z/model_support_longcatflash_need_testing_by_ngxson/",
+  "source": "r/LocalLLaMA",
+  "title": "model: support Longcat-Flash (need testing) by ngxson · Pull Request #19182 · ggml-org/llama.cpp",
+  "published_at": "2026-08-08T07:28:29+00:00",
+  "collected_at": "2026-08-08T08:53:26.076163+00:00",
+  "title_ko": "llama.cpp, Longcat-Flash 모델 지원 추가",
+  "summary_ko": "llama.cpp 프로젝트에 Longcat-Flash 모델 지원을 위한 풀 리퀘스트가 등록되어 테스트가 진행 중입니다. GGUF 포맷을 통한 로컬 실행 호환성이 확대될 것으로 기대됩니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "d300f4705ad60e8c",
+  "url": "https://news.hada.io/topic?id=32261",
+  "source": "GeekNews",
+  "title": "Show GN: 외부 AI 결과를 여러 SNS에 예약하고 실제 발행 상태를 추적하는 ANKK",
+  "published_at": "2026-08-08T06:58:29+00:00",
+  "collected_at": "2026-08-08T08:53:40.545472+00:00",
+  "title_ko": "AI 콘텐츠 SNS 자동화 및 발행 추적 도구 ANKK 소개",
+  "summary_ko": "외부 AI와 스크립트로 생성한 콘텐츠를 여러 SNS에 예약하고 실제 발행 상태(대기, 발행 중, 완료 등)를 추적할 수 있는 도구 ANKK가 소개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "3f5e706f0f7dae45",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vio0x6/deepseek_v4_flash_0731_appreciation_post/",
   "source": "r/LocalLLaMA",

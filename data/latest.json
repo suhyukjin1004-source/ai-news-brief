@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-08T07:07:17.096048+00:00",
+ "updated_at": "2026-08-08T08:53:42.433377+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -94,6 +94,50 @@
     "오픈소스",
     "AI 수익화",
     "중국"
+   ]
+  },
+  {
+   "id": "abf64a86237ccdce",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1viq0pq/qwen36_27b_35b_on_vllm_single_r9700_gfx1201/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.6 27B + 35B on vLLM, single R9700 (gfx1201)",
+   "published_at": "2026-08-08T07:55:36+00:00",
+   "collected_at": "2026-08-08T08:53:26.076163+00:00",
+   "title_ko": "AMD 라데온 GPU 환경에서 vLLM을 활용한 Qwen 모델 구동",
+   "summary_ko": "Radeon AI Pro R9700 단일 카드 환경에서 vLLM을 이용해 Qwen 모델을 최적화하고 구동한 사례입니다. 라데온 하드웨어에서의 로컬 LLM 성능 최적화에 유용한 정보입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "8a7329f95de43303",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vipk8z/model_support_longcatflash_need_testing_by_ngxson/",
+   "source": "r/LocalLLaMA",
+   "title": "model: support Longcat-Flash (need testing) by ngxson · Pull Request #19182 · ggml-org/llama.cpp",
+   "published_at": "2026-08-08T07:28:29+00:00",
+   "collected_at": "2026-08-08T08:53:26.076163+00:00",
+   "title_ko": "llama.cpp, Longcat-Flash 모델 지원 추가",
+   "summary_ko": "llama.cpp 프로젝트에 Longcat-Flash 모델 지원을 위한 풀 리퀘스트가 등록되어 테스트가 진행 중입니다. GGUF 포맷을 통한 로컬 실행 호환성이 확대될 것으로 기대됩니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "d300f4705ad60e8c",
+   "url": "https://news.hada.io/topic?id=32261",
+   "source": "GeekNews",
+   "title": "Show GN: 외부 AI 결과를 여러 SNS에 예약하고 실제 발행 상태를 추적하는 ANKK",
+   "published_at": "2026-08-08T06:58:29+00:00",
+   "collected_at": "2026-08-08T08:53:40.545472+00:00",
+   "title_ko": "AI 콘텐츠 SNS 자동화 및 발행 추적 도구 ANKK 소개",
+   "summary_ko": "외부 AI와 스크립트로 생성한 콘텐츠를 여러 SNS에 예약하고 실제 발행 상태(대기, 발행 중, 완료 등)를 추적할 수 있는 도구 ANKK가 소개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트"
    ]
   },
   {
@@ -2965,53 +3009,6 @@
    "category": "중요",
    "tags": [
     "규제"
-   ]
-  },
-  {
-   "id": "3029d424c5880a8b",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213600",
-   "source": "AI타임스",
-   "title": "앤트로픽, '클로드' 전용 AI 칩 자체 개발 공식화…실리콘 팀 구축 착수",
-   "published_at": "2026-08-06T13:26:58+00:00",
-   "collected_at": "2026-08-06T06:40:56.233545+00:00",
-   "title_ko": "앤트로픽, '클로드' 전용 자체 AI 칩 개발 공식화",
-   "summary_ko": "앤트로픽이 AI 인프라 효율성을 높이고 엔비디아 의존도를 낮추기 위해 맞춤형 실리콘 칩 개발 조직을 구축했다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "Claude",
-    "반도체"
-   ]
-  },
-  {
-   "id": "33d0e77ba203a2b5",
-   "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-   "source": "The Verge",
-   "title": "The messy politics behind Google’s big AI shakeup",
-   "published_at": "2026-08-06T13:26:42+00:00",
-   "collected_at": "2026-08-06T15:22:35.926679+00:00",
-   "title_ko": "구글의 대규모 AI 조직 개편 뒤 숨겨진 배경",
-   "summary_ko": "구글이 안정적인 행보를 강조하며 역대 최대 규모의 AI 조직 개편을 단행했으나 내부적으로는 복잡한 정치적 역학관계가 얽혀 있습니다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "be4e68cd000c63c6",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vh4490/how_come_artificialanalysisai_ranks_gemma4_above/",
-   "source": "r/LocalLLaMA",
-   "title": "How come artificialanalysis.ai ranks Gemma4 above Qwen3.6 27b in SciCode",
-   "published_at": "2026-08-06T13:21:59+00:00",
-   "collected_at": "2026-08-06T15:22:52.447459+00:00",
-   "title_ko": "코딩 벤치마크 SciCode에서 Gemma 4가 고평가된 이유",
-   "summary_ko": "인공지능 벤치마크 사이트의 코딩 평가 결과가 실제 체감 성능과 다르게 나타나면서 가중치 산정 방식에 대한 토론이 이어지고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "코딩",
-    "Gemini",
-    "오픈소스"
    ]
   }
  ]
