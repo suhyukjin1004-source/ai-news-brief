@@ -1,5 +1,21 @@
 [
  {
+  "id": "ccda70a883117970",
+  "url": "https://www.reddit.com/r/singularity/comments/1vj9xmh/openais_model_codenamed_doug_will_reportedly_make/",
+  "source": "r/singularity",
+  "title": "OpenAI’s Model Codenamed “Doug” Will Reportedly Make Fable Look “Primitive”",
+  "published_at": "2026-08-08T23:12:49+00:00",
+  "collected_at": "2026-08-08T23:38:03.022973+00:00",
+  "title_ko": "OpenAI 차세대 모델 '더그(Doug)', Fable을 원시적으로 만들 수준",
+  "summary_ko": "OpenAI가 연말 출시를 목표로 개발 중인 코드명 'Doug' 모델이 기존 모델들을 압도하는 성능을 보일 것으로 예상됩니다. AI 모델 경쟁이 한층 더 격화될 전망입니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "GPT",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "18b0dbee24c98adc",
   "url": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything",
   "source": "Simon Willison",
@@ -13,6 +29,22 @@
    "Anthropic",
    "Claude",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "6e4219e481dd9737",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vj8xoh/extremely_slow_dspark_draft_model_performance_12/",
+  "source": "r/LocalLLaMA",
+  "title": "Extremely slow DSpark draft model performance (1-2 t/s) with DeepSeek-V4-Flash on llama-server compared to MTP?",
+  "published_at": "2026-08-08T22:28:01+00:00",
+  "collected_at": "2026-08-08T23:37:58.144414+00:00",
+  "title_ko": "DeepSeek-V4-Flash 기반 DSpark 초안 모델 성능 저하 이슈",
+  "summary_ko": "llama-server에서 DeepSeek 모델로 추론 가속(Speculative Decoding) 테스트 중 DSpark 설정 시 속도가 급격히 떨어지는 문제가 발생했습니다. 실무 최적화 과정에서 하드웨어 설정과 드래프트 모델 선택의 중요성을 보여줍니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "코딩"
   ]
  },
  {
