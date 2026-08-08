@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-08T16:46:36.023728+00:00",
+ "updated_at": "2026-08-08T17:39:20.441761+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -47,6 +47,36 @@
    ]
   },
   {
+   "id": "6c033833c81ac0fe",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vj1cin/building_a_zerodependency_c_inference_engine_for/",
+   "source": "r/LocalLLaMA",
+   "title": "Building a zero-dependency C inference engine for BitNet (1.58-bit) - lessons from hitting 36 tok/s on a Xeon CPU",
+   "published_at": "2026-08-08T17:09:18+00:00",
+   "collected_at": "2026-08-08T17:39:03.524203+00:00",
+   "title_ko": "BitNet 1.58비트용 C언어 추론 엔진 개발기",
+   "summary_ko": "의존성 없는 순수 C99로 BitNet 1.58비트 모델용 CPU 추론 엔진을 개발해 인텔 제온에서 초당 36토큰을 달성했습니다. 경량 모델의 고속 로컬 구동에 기여합니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체",
+    "코딩"
+   ]
+  },
+  {
+   "id": "8de02925572a958b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vj18h4/showoff_saturday_local_4x_6000_pro_multiyear/",
+   "source": "r/LocalLLaMA",
+   "title": "Showoff Saturday: Local 4x 6000 Pro (multi-year progression)",
+   "published_at": "2026-08-08T17:04:42+00:00",
+   "collected_at": "2026-08-08T17:39:03.524203+00:00",
+   "title_ko": "다년간 구축한 홈랩 로컬 AI 클러스터 소개",
+   "summary_ko": "개인 데이터 보호와 로컬 구동을 위해 RTX 6000 Pro와 RTX 3090을 조합하여 수년간 발전시켜 온 개인용 AI 클러스터 구축기입니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
    "id": "09a11175ebf1c28c",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vj0hil/my_first_run_of_kimi_k3_locally/",
    "source": "r/LocalLLaMA",
@@ -60,6 +90,21 @@
     "오픈소스",
     "LLM",
     "로컬LLM"
+   ]
+  },
+  {
+   "id": "fd9938f30dcedb11",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1viyvzo/128gb_vs_256gb_of_ram/",
+   "source": "r/LocalLLaMA",
+   "title": "128GB vs 256gb of ram",
+   "published_at": "2026-08-08T15:28:59+00:00",
+   "collected_at": "2026-08-08T17:39:03.524203+00:00",
+   "title_ko": "대형 언어모델 로컬 구동을 위한 RAM 용량 선택 가이드",
+   "summary_ko": "대형 오픈소스 모델과 긴 컨텍스트를 로컬에서 구동할 때 128GB와 256GB 시스템 메모리의 성능과 적합성을 비교합니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
    ]
   },
   {
@@ -92,6 +137,21 @@
     "오픈소스",
     "AI 에이전트",
     "NVIDIA"
+   ]
+  },
+  {
+   "id": "b0cc69c2019c23c9",
+   "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+   "source": "Hacker News",
+   "title": "Gentoo bugzilla closed due AI bot scraper overload",
+   "published_at": "2026-08-08T13:55:42+00:00",
+   "collected_at": "2026-08-08T17:39:02.653912+00:00",
+   "title_ko": "젠투 리눅스 버그zilla, AI 봇 스크래퍼 과부하로 폐쇄",
+   "summary_ko": "무분별한 AI 봇의 데이터 수집 트래픽 폭증으로 인해 젠투 리눅스 버그 추적 시스템이 운영에 차질을 빚고 임시 조치에 들어갔습니다.",
+   "category": "중요",
+   "tags": [
+    "규제",
+    "오픈소스"
    ]
   },
   {
@@ -2954,68 +3014,6 @@
    "summary_ko": "기존 스와이프 방식에 지친 Z세대를 위해 AI 기반 매칭 기능을 도입하는 새로운 데이팅 앱들이 주목받고 있습니다.",
    "category": "참고",
    "tags": []
-  },
-  {
-   "id": "056f483ef27ec674",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213618",
-   "source": "AI타임스",
-   "title": "아마존 죽스, 라스베이거스서 '운전대 없는' 로보택시 첫 유료 운행 개시",
-   "published_at": "2026-08-06T15:40:43+00:00",
-   "collected_at": "2026-08-06T09:46:44.408995+00:00",
-   "title_ko": "아마존 죽스, 라스베이거스서 무인 로보택시 유료 운행 개시",
-   "summary_ko": "아마존의 자회사 죽스가 연방 정부의 승인에 따라 운전대와 페달이 없는 자율주행 로보택시의 상업적 유료 운행을 시작했다.",
-   "category": "속보",
-   "tags": [
-    "아마존",
-    "로보틱스",
-    "규제"
-   ]
-  },
-  {
-   "id": "921697124f9f37d4",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vh7lzy/nvidianvidianemotronparse20_hugging_face/",
-   "source": "r/LocalLLaMA",
-   "title": "nvidia/NVIDIA-Nemotron-Parse-2.0 · Hugging Face",
-   "published_at": "2026-08-06T15:34:01+00:00",
-   "collected_at": "2026-08-07T03:55:58.693769+00:00",
-   "title_ko": "엔비디아, 문서 구조화 모델 'Nemotron-Parse-2.0' 출시",
-   "summary_ko": "엔비디아가 문서 이미지를 텍스트, 레이아웃, 표 등 구조화된 데이터로 변환하는 Nemotron-Parse-2.0을 공개했습니다. 토큰 어휘 확장으로 다국어 처리 효율성이 향상되었습니다.",
-   "category": "속보",
-   "tags": [
-    "NVIDIA",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "f5885d3efa305ee6",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vh7bxu/i_compared_even_more_parsers_on_14_pdfparsing/",
-   "source": "r/LocalLLaMA",
-   "title": "I compared even more parsers on 14 PDF-parsing capabilities using different types",
-   "published_at": "2026-08-06T15:23:50+00:00",
-   "collected_at": "2026-08-07T03:55:58.693769+00:00",
-   "title_ko": "다양한 PDF 파싱 도구 성능 비교 분석",
-   "summary_ko": "여러 PDF 파싱 및 OCR 모델의 14가지 기능을 비교한 결과, Chandra 모델이 뛰어난 성능을 기록했습니다. 문서 처리 모델 선택에 실무적인 참고 자료가 됩니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "abb6acf96aa990a3",
-   "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-   "source": "TechCrunch",
-   "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-   "published_at": "2026-08-06T15:10:32+00:00",
-   "collected_at": "2026-08-06T15:22:35.727185+00:00",
-   "title_ko": "OpenAI, 애플의 보안 관행이 영업비밀 소송을 약화한다고 주장",
-   "summary_ko": "OpenAI는 애플이 전직 직원의 iCloud 접근을 허용하는 등 스스로 보안 관행을 소홀히 했다며 영업비밀 침해 소송의 근거가 약하다고 반박했습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "Apple",
-    "규제"
-   ]
   }
  ]
 }
