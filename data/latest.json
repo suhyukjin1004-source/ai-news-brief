@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-08T14:40:41.488682+00:00",
+ "updated_at": "2026-08-08T16:46:36.023728+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -44,6 +44,38 @@
    "category": "속보",
    "tags": [
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "09a11175ebf1c28c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vj0hil/my_first_run_of_kimi_k3_locally/",
+   "source": "r/LocalLLaMA",
+   "title": "My first run of Kimi K3 locally.",
+   "published_at": "2026-08-08T16:34:31+00:00",
+   "collected_at": "2026-08-08T16:46:19.095670+00:00",
+   "title_ko": "Kimi K3 모델 로컬 구동 후기 및 멀티 클러스터 활용",
+   "summary_ko": "llama.cpp와 RPC를 이용해 클러스터 환경에서 Kimi K3 모델을 로컬 구동한 경험담입니다. 대형 모델의 효율적 실행과 향후 최적화 방향을 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "로컬LLM"
+   ]
+  },
+  {
+   "id": "75aaef930474584d",
+   "url": "https://news.hada.io/topic?id=32270",
+   "source": "GeekNews",
+   "title": "AI 시험지는 함정이 9할이다 - LLM 테스트 케이스 설계법",
+   "published_at": "2026-08-08T14:55:47+00:00",
+   "collected_at": "2026-08-08T16:46:34.367151+00:00",
+   "title_ko": "LLM 파이프라인 검증을 위한 함정 중심 테스트 케이스 설계법",
+   "summary_ko": "주문 처리 LLM 파이프라인 검증 시 정상 케이스보다 비정상·함정 케이스 위주로 테스트를 설계해야 하는 이유와 방법을 다룹니다. 실무에서 LLM 신뢰성을 높이는 데 유용합니다.",
+   "category": "팁",
+   "tags": [
+    "LLM",
+    "AI 에이전트",
+    "코딩"
    ]
   },
   {
@@ -2983,35 +3015,6 @@
     "OpenAI",
     "Apple",
     "규제"
-   ]
-  },
-  {
-   "id": "f5f908b6ffe4ea66",
-   "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-   "source": "DeepMind",
-   "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-   "published_at": "2026-08-06T15:06:15+00:00",
-   "collected_at": "2026-08-06T15:22:38.109484+00:00",
-   "title_ko": "DeepMind, 사이클론 예측 성능 높인 AI 모델 'WeatherNext' 공개",
-   "summary_ko": "구글 딥마인드가 사이클론(열대저기압) 예측에서 큰 진전을 이뤄낸 새로운 AI 기상 예측 모델을 발표했습니다.",
-   "category": "속보",
-   "tags": [
-    "Google",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "46ebc9615439eb77",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213612",
-   "source": "AI타임스",
-   "title": "카카오, 카톡서 쿠팡이츠 주문·결제까지…'에이전틱 AI' 생태계 확장",
-   "published_at": "2026-08-06T15:01:14+00:00",
-   "collected_at": "2026-08-06T06:40:56.233545+00:00",
-   "title_ko": "카카오, 쿠팡이츠 연동으로 에이전틱 AI 생태계 확장",
-   "summary_ko": "카카오가 '카나나 인 카카오톡'에 쿠팡이츠 주문·결제 기능을 탑재해 대화 기반 에이전틱 AI 서비스를 선보인다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
    ]
   }
  ]
