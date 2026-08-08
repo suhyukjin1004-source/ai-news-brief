@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-08T17:39:20.441761+00:00",
+ "updated_at": "2026-08-08T18:52:25.615644+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -33,6 +33,21 @@
    ]
   },
   {
+   "id": "6ce8263691976feb",
+   "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+   "source": "Hacker News",
+   "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+   "published_at": "2026-08-08T18:09:31+00:00",
+   "collected_at": "2026-08-08T18:52:07.482389+00:00",
+   "title_ko": "덴마크, AI 부정행위 방지를 위해 학생 과제 구두 방어 의무화",
+   "summary_ko": "덴마크가 AI를 활용한 부정행위를 막기 위해 학생들의 서면 과제에 대한 구두 방어를 필수로 도입했습니다. 이는 AI 발전이 교육 평가 방식에 미치는 영향과 대응책을 보여줍니다.",
+   "category": "중요",
+   "tags": [
+    "규제",
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "d9085928cf921022",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213705",
    "source": "AI타임스",
@@ -44,6 +59,51 @@
    "category": "속보",
    "tags": [
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "e3ea33be7840bb5c",
+   "url": "https://news.hada.io/topic?id=32273",
+   "source": "GeekNews",
+   "title": "대규모 AI 코딩 비용을 관리하는 방법",
+   "published_at": "2026-08-08T17:39:26+00:00",
+   "collected_at": "2026-08-08T18:52:23.107982+00:00",
+   "title_ko": "대규모 AI 코딩 비용 절감 및 관리 방법",
+   "summary_ko": "AI 코딩 도구 도입에 따른 비용 급증 문제를 해결하기 위해, 최고 성능 모델 대신 가성비가 높은 효율성 프론티어를 활용하는 전략을 다룹니다.",
+   "category": "팁",
+   "tags": [
+    "코딩",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "12d14f9bdbdfa809",
+   "url": "https://news.hada.io/topic?id=32272",
+   "source": "GeekNews",
+   "title": "미국 에너지부, 과학용 오픈 모델 이니셔티브 출범",
+   "published_at": "2026-08-08T17:36:26+00:00",
+   "collected_at": "2026-08-08T18:52:23.107982+00:00",
+   "title_ko": "미국 에너지부, 과학 연구용 오픈 모델 이니셔티브 출범",
+   "summary_ko": "미국 에너지부(DOE)가 과학 연구를 위한 오픈 가중치 모델 생태계를 구축하고 첫 모델인 Genesis-Science-1을 공개했습니다. 공공 부문의 AI 인프라 확장을 의미합니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "정부 규제"
+   ]
+  },
+  {
+   "id": "2a2215a1800fb767",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vj1d1i/repeated_generation_is_worth_it_and/",
+   "source": "r/LocalLLaMA",
+   "title": "Repeated generation is worth it and self-evaluation is effective",
+   "published_at": "2026-08-08T17:09:53+00:00",
+   "collected_at": "2026-08-08T18:52:08.464753+00:00",
+   "title_ko": "반복 생성과 자체 평가를 통한 LLM 출력 품질 향상",
+   "summary_ko": "소형 언어 모델(SLM)을 활용해 동일한 작업을 여러 번 생성하고 자체적으로 최선의 결과를 선택하도록 하는 기법의 효과성을 검증했습니다.",
+   "category": "팁",
+   "tags": [
+    "LLM",
+    "오픈소스"
    ]
   },
   {
@@ -788,6 +848,21 @@
    "category": "참고",
    "tags": [
     "오픈소스",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "cc50a699d0876772",
+   "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+   "source": "Hacker News",
+   "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+   "published_at": "2026-08-07T20:25:04+00:00",
+   "collected_at": "2026-08-08T18:51:52.983211+00:00",
+   "title_ko": "사무실 분실 스마트폰, Claude가 블루투스 신호 강도로 추적 제안",
+   "summary_ko": "사용자가 사무실에서 휴대폰을 잃어버렸을 때 Claude가 블루투스 신호 강도를 활용해 위치를 추적하는 방법을 제안하여 문제를 해결했습니다.",
+   "category": "팁",
+   "tags": [
+    "Claude",
     "AI 에이전트"
    ]
   },
@@ -2940,80 +3015,6 @@
     "바이트댄스",
     "멀티모달"
    ]
-  },
-  {
-   "id": "6a030c82fe79c39b",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213616",
-   "source": "AI타임스",
-   "title": "엔비디아,자율주행용 VLA 모델 '알파마요 2 슈퍼' 공개...로보택시 상용화 겨냥",
-   "published_at": "2026-08-06T16:06:32+00:00",
-   "collected_at": "2026-08-06T09:46:44.408995+00:00",
-   "title_ko": "엔비디아, 자율주행용 VLA 모델 '알파마요 2 슈퍼' 공개",
-   "summary_ko": "엔비디아가 복잡한 도로 상황을 이해하는 34B 규모의 차세대 자율주행 비전-언어-행동 모델을 공개하며 로보택시 생태계 공략을 강화한다.",
-   "category": "속보",
-   "tags": [
-    "NVIDIA",
-    "로보틱스"
-   ]
-  },
-  {
-   "id": "b9c3f87d8280e254",
-   "url": "https://github.com/CopilotKit/channels-sdk",
-   "source": "Hacker News",
-   "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
-   "published_at": "2026-08-06T16:05:51+00:00",
-   "collected_at": "2026-08-07T07:36:46.872350+00:00",
-   "title_ko": "모든 채널에 AI 에이전트를 연동하는 'The Channels SDK'",
-   "summary_ko": "슬랙, 마이크로소프트 팀즈 등 다양한 커뮤니케이션 채널에 AI 에이전트를 손쉽게 연동할 수 있게 해주는 오픈소스 SDK가 공개되었습니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스",
-    "개발도구"
-   ]
-  },
-  {
-   "id": "35ed4cffbe753e5a",
-   "url": "https://www.reddit.com/r/singularity/comments/1vh8hzi/google_deepmind_is_opensourcing_weathernext_its/",
-   "source": "r/singularity",
-   "title": "Google DeepMind is open-sourcing WeatherNext, its AI weather forecasting model",
-   "published_at": "2026-08-06T16:05:29+00:00",
-   "collected_at": "2026-08-07T03:56:03.610141+00:00",
-   "title_ko": "구글 딥마인드, AI 날씨 예측 모델 'WeatherNext' 오픈소스 공개",
-   "summary_ko": "구글 딥마인드가 사이클론을 최대 15일 앞서 예측하는 AI 날씨 모델 WeatherNext의 코드와 가중치를 오픈소스로 공개했습니다. 기상 재해 대응 역량을 강화하는 데 기여할 것으로 기대됩니다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "오픈소스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "b33abd9dbc623d90",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213619",
-   "source": "AI타임스",
-   "title": "\"AI로 신종 스팸도 철통방어\"...KT, AI 스팸차단 서비스 전 고객 확대",
-   "published_at": "2026-08-06T15:54:47+00:00",
-   "collected_at": "2026-08-06T09:46:44.408995+00:00",
-   "title_ko": "KT, AI 기반 실시간 스팸차단 서비스 전 고객 확대",
-   "summary_ko": "KT가 변형 스팸에 대응하기 위해 자체 개발한 '실시간 AI 스팸차단 서비스'를 알뜰폰 고객을 포함한 전 고객 대상으로 확대 적용했다.",
-   "category": "중요",
-   "tags": [
-    "KT",
-    "AI"
-   ]
-  },
-  {
-   "id": "4e253b0f1876bcf3",
-   "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
-   "source": "TechCrunch",
-   "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-   "published_at": "2026-08-06T15:53:03+00:00",
-   "collected_at": "2026-08-07T00:10:42.181375+00:00",
-   "title_ko": "Z세대 데이팅 앱, 스와이프 대신 AI 매칭 도입",
-   "summary_ko": "기존 스와이프 방식에 지친 Z세대를 위해 AI 기반 매칭 기능을 도입하는 새로운 데이팅 앱들이 주목받고 있습니다.",
-   "category": "참고",
-   "tags": []
   }
  ]
 }
