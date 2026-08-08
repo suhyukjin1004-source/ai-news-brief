@@ -1,8 +1,39 @@
 {
- "updated_at": "2026-08-08T20:41:03.187157+00:00",
+ "updated_at": "2026-08-08T21:39:58.377325+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "c36c8de8383e9077",
+   "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+   "source": "TechCrunch",
+   "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+   "published_at": "2026-08-08T21:24:02+00:00",
+   "collected_at": "2026-08-08T21:39:26.697179+00:00",
+   "title_ko": "아마존 AI 데이터센터, 미국 최대 기후 오염원 우려",
+   "summary_ko": "아마존이 텍사스에 추진 중인 AI 데이터센터 자체 발전소가 미국 내 최대 기후 오염원이 될 수 있다는 우려가 제기되었습니다. AI 인프라 확장에 따른 환경 영향 문제가 주요 쟁점으로 떠오르고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "인프라",
+    "규제",
+    "투자"
+   ]
+  },
+  {
+   "id": "1c1044d8716aa742",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vj75ye/any_reasonably_fast_public_benchmarks_i_should/",
+   "source": "r/LocalLLaMA",
+   "title": "any reasonably fast public benchmarks I should run quants of deepseek flash 0731 on?",
+   "published_at": "2026-08-08T21:09:44+00:00",
+   "collected_at": "2026-08-08T21:39:41.782421+00:00",
+   "title_ko": "DeepSeek 플래시 모델 퀀티제이션 벤치마크 추천 요청",
+   "summary_ko": "레딧 커뮤니티에서 DeepSeek 모델의 양자화 성능을 테스트하기 위한 빠르고 효율적인 공개 벤치마크를 묻는 질문이 공유되었습니다. 로컬 LLM의 성능 평가 방법론을 논의하는 개발자 커뮤니티의 동향을 보여줍니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
   {
    "id": "b2ed4cee4c8c5037",
    "url": "https://news.hada.io/topic?id=32276",
@@ -758,6 +789,22 @@
    "tags": [
     "OpenAI",
     "투자"
+   ]
+  },
+  {
+   "id": "17ca21738d61b684",
+   "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
+   "source": "Hacker News",
+   "title": "Should AI labs be treated like the owners of dangerous animals?",
+   "published_at": "2026-08-08T00:03:31+00:00",
+   "collected_at": "2026-08-08T21:39:40.745456+00:00",
+   "title_ko": "AI 연구소를 위험 동물 소유자에 비유한 규제 논의",
+   "summary_ko": "이코노미스트지는 AI 연구소들이 개발하는 첨단 모델의 위험성에 대해 관리 책임을 어떻게 물어야 할지 논의했습니다. AI 안전성과 규제의 필요성이 주요 화두로 다뤄지고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "규제",
+    "OpenAI",
+    "Anthropic"
    ]
   },
   {
@@ -2970,52 +3017,6 @@
    "tags": [
     "오픈소스",
     "반도체"
-   ]
-  },
-  {
-   "id": "6d747706c4ee3dac",
-   "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-   "source": "TechCrunch",
-   "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-   "published_at": "2026-08-06T17:00:37+00:00",
-   "collected_at": "2026-08-07T00:10:42.181375+00:00",
-   "title_ko": "기업 설립·운영 자동화 플랫폼 Naïve, 2,850만 달러 투자 유치",
-   "summary_ko": "바이브 코딩의 개념을 확장하여 비즈니스 인프라 구축과 운영의 잡일을 자동화하는 Naïve가 대규모 투자를 유치했습니다.",
-   "category": "중요",
-   "tags": [
-    "투자",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "393e7173acecd810",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-   "source": "The Verge",
-   "title": "OpenAI is giving ChatGPT free users unlimited text chats",
-   "published_at": "2026-08-06T17:00:00+00:00",
-   "collected_at": "2026-08-07T00:10:42.305020+00:00",
-   "title_ko": "ChatGPT 무료 버전, 무제한 텍스트 채팅 지원",
-   "summary_ko": "OpenAI가 다음 주부터 무료 및 Go 티어 사용자들의 텍스트 채팅 제한을 없애 더 자유로운 대화가 가능해집니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "GPT"
-   ]
-  },
-  {
-   "id": "194e385bbb40acd0",
-   "url": "https://www.reddit.com/r/singularity/comments/1vh9vmz/apparently_gemini_35_pro_is_a_disaster_release/",
-   "source": "r/singularity",
-   "title": "Apparently Gemini 3.5 Pro Is A Disaster, Release Imminent",
-   "published_at": "2026-08-06T16:54:59+00:00",
-   "collected_at": "2026-08-07T03:56:03.610141+00:00",
-   "title_ko": "구글 Gemini 3.5 Pro 출시 임박 속 우려 제기",
-   "summary_ko": "출시를 앞둔 구글 Gemini 3.5 Pro가 성능 면에서 기대에 미치지 못할 수 있다는 루머와 함께 최근 딥마인드 조직 개편의 원인으로 지목되고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "Google",
-    "Gemini",
-    "AGI"
    ]
   }
  ]
