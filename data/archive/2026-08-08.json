@@ -93,6 +93,68 @@
   ]
  },
  {
+  "id": "b0819e9ac4d6f65d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vilcil/i_got_tired_of_my_300gb_model_loads_taking_5min/",
+  "source": "r/LocalLLaMA",
+  "title": "I got tired of my 300GB model loads taking 5min on RPC. PR 26291 speeds it 300% to 1min30sec (4060ti+ddr4) + (4060ti+ddr5)",
+  "published_at": "2026-08-08T03:37:37+00:00",
+  "collected_at": "2026-08-08T04:16:57.018000+00:00",
+  "title_ko": "GGML RPC 모델 로딩 속도를 300% 개선한 패치",
+  "summary_ko": "RPC를 통한 300GB 모델 로딩 속도를 기존 5분에서 1분 30초대로 단축하는 개선안이 제안되었습니다. 대형 로컬 모델 구동 시 대기 시간을 크게 줄여줍니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "코딩"
+  ]
+ },
+ {
+  "id": "9be9b94c707b158c",
+  "url": "https://news.hada.io/topic?id=32259",
+  "source": "GeekNews",
+  "title": "2027년 메모리 생산 용량, 이미 매진된 것으로 알려져",
+  "published_at": "2026-08-08T03:32:13+00:00",
+  "collected_at": "2026-08-08T04:17:04.004654+00:00",
+  "title_ko": "2027년 AI용 메모리 생산 물량 조기 마감",
+  "summary_ko": "AI 기업들이 삼성전자, SK하이닉스, 마이크론의 2027년 DRAM 및 HBM 생산 물량을 장기 계약으로 선점한 것으로 알려졌습니다. AI 인프라 수요 급증을 보여주는 지표입니다.",
+  "category": "중요",
+  "tags": [
+   "반도체",
+   "투자",
+   "NVIDIA"
+  ]
+ },
+ {
+  "id": "86cdef80e3318847",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vikgrj/is_anyone_else_finding_deepseekv4flash_unreliable/",
+  "source": "r/LocalLLaMA",
+  "title": "Is anyone else finding DeepSeek-V4-Flash unreliable for non-coding tasks?",
+  "published_at": "2026-08-08T02:53:36+00:00",
+  "collected_at": "2026-08-08T04:16:57.018000+00:00",
+  "title_ko": "DeepSeek 비코딩 작업 신뢰도 논란",
+  "summary_ko": "DeepSeek 모델이 코딩 벤치마크에서는 높은 점수를 기록했음에도 일반 사무 및 텍스트 요약 등 비코딩 작업에서는 잦은 오류를 보여 실무 활용성에 의문이 제기되었습니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "코딩"
+  ]
+ },
+ {
+  "id": "01ee502ff976808b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vijp8y/us_department_of_energy_launches_the_genesis_open/",
+  "source": "r/LocalLLaMA",
+  "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative and, with Arcee, Unveils Genesis-Science-1 — Its First Open-Weight Model for Scientific Research",
+  "published_at": "2026-08-08T02:16:09+00:00",
+  "collected_at": "2026-08-08T04:16:57.018000+00:00",
+  "title_ko": "미 에너지부, 오픈소스 과학 연구 모델 'Genesis-Science-1' 공개",
+  "summary_ko": "미국 에너지부가 'Genesis 오픈 모델 이니셔티브'를 통해 과학 연구용 최초의 오픈웨이트 모델을 공개했습니다. 학술 연구 분야의 AI 활용이 가속화될 전망입니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "규제"
+  ]
+ },
+ {
   "id": "b31f8bbcd789b6d4",
   "url": "https://www.reddit.com/r/singularity/comments/1viide3/in_terms_of_my_personal_ranking_of_existential/",
   "source": "r/singularity",
@@ -104,6 +166,21 @@
   "category": "참고",
   "tags": [
    "규제"
+  ]
+ },
+ {
+  "id": "db2ae04c22518664",
+  "url": "https://news.hada.io/topic?id=32257",
+  "source": "GeekNews",
+  "title": "평가 주도 개발 (Eval-driven development)",
+  "published_at": "2026-08-08T01:03:01+00:00",
+  "collected_at": "2026-08-08T04:17:04.004654+00:00",
+  "title_ko": "에어비앤비가 도입한 '평가 주도 개발(EDD)' 방법론",
+  "summary_ko": "에어비앤비가 비결정적 AI 출력을 안정적으로 관리하기 위해 평가를 핵심 엔지니어링 규율로 다루는 개발 방법론을 소개했습니다. LLM 애플리케이션의 신뢰성 확보에 기여합니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
   ]
  },
  {
@@ -255,6 +332,21 @@
   "tags": [
    "AI 에이전트",
    "고용"
+  ]
+ },
+ {
+  "id": "294109fce8a0054a",
+  "url": "https://genesisopenmodels.anl.gov/",
+  "source": "Hacker News",
+  "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+  "published_at": "2026-08-07T22:24:27+00:00",
+  "collected_at": "2026-08-08T04:16:40.337708+00:00",
+  "title_ko": "미 에너지부, 오픈 모델 이니셔티브 출범",
+  "summary_ko": "미국 에너지부가 공공 연구 및 과학 분야를 위한 오픈 모델 이니셔티브를 공식 발표했습니다. 공공 주도의 개방형 AI 생태계 구축에 중요한 전환점이 될 것입니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "규제"
   ]
  },
  {
