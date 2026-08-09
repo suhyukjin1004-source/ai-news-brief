@@ -1,5 +1,21 @@
 [
  {
+  "id": "94e276e35d52827d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vk2n2k/klq_trainingfree_measured_rotation_quantization/",
+  "source": "r/LocalLLaMA",
+  "title": "KLQ: Training-free measured rotation quantization. Beats all training-free rotation-based quantization methods on W4A4KV4-bits. Llama 3.2 1B KLQ-quantized beats SpinQuant and gets close to ReSpinQuant without GPTQ/LDLQ rounding.",
+  "published_at": "2026-08-09T22:01:46+00:00",
+  "collected_at": "2026-08-09T22:41:42.806848+00:00",
+  "title_ko": "학습 불필요 회전 양자화 기법 KLQ 공개",
+  "summary_ko": "별도의 학습 과정 없이 W4A4KV4 비트 환경에서 기존 회전 기반 양자화 기법들을 능가하는 KLQ가 공개되었습니다. 대형 언어 모델의 메모리 효율성을 높이는 새로운 이론적 프레임워크를 제시합니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "Llama"
+  ]
+ },
+ {
   "id": "127b8fa4d5b28a84",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vk1p9s/endlessfrontierbigbangv1_qwen_35_finetunes/",
   "source": "r/LocalLLaMA",
@@ -44,6 +60,21 @@
   "tags": [
    "투자",
    "반도체"
+  ]
+ },
+ {
+  "id": "3e4861bd76ef0c2b",
+  "url": "https://news.hada.io/topic?id=32308",
+  "source": "GeekNews",
+  "title": "Amazon이 추진하는 미국 최대 오염 시설",
+  "published_at": "2026-08-09T20:34:26+00:00",
+  "collected_at": "2026-08-09T22:41:57.207906+00:00",
+  "title_ko": "아마존, AI 데이터센터 전력용 대규모 가스 발전소 추진",
+  "summary_ko": "아마존이 텍사스 AI 데이터센터에 전력을 공급하기 위해 7.65GW 규모의 가스 발전소 건설을 추진합니다. 대규모 AI 인프라 확장에 따른 막대한 전력 수요와 환경 오염 우려를 보여줍니다.",
+  "category": "중요",
+  "tags": [
+   "투자",
+   "AI 에이전트"
   ]
  },
  {
