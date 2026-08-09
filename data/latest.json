@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-09T15:40:12.892652+00:00",
+ "updated_at": "2026-08-09T16:48:06.549234+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -17,6 +17,53 @@
     "AI 모델",
     "규제",
     "오픈소스"
+   ]
+  },
+  {
+   "id": "459cc847ecfa8c48",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjttcc/two_flags_took_the_official_ling30flash_int4_from/",
+   "source": "r/LocalLLaMA",
+   "title": "Two flags took the official Ling-3.0-flash INT4 from 20.8 to 38.7 tok/s on one DGX Spark",
+   "published_at": "2026-08-09T16:10:23+00:00",
+   "collected_at": "2026-08-09T16:47:49.948688+00:00",
+   "title_ko": "Ling-3.0-flash INT4 모델 추론 속도 최적화 기법",
+   "summary_ko": "단일 DGX Spark에서 설정을 변경하여 Ling-3.0-flash INT4 모델의 토큰 처리 속도를 두 배 가까이 향상시키는 최적화 방법이 공유되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "최적화"
+   ]
+  },
+  {
+   "id": "41669403912eb2b6",
+   "url": "https://www.reddit.com/r/singularity/comments/1vjtei3/sam_altman_sama_on_x_i_would_be_pretty_impressed/",
+   "source": "r/singularity",
+   "title": "Sam Altman (@sama) on X: \"i would be pretty impressed if the team just made magic intelligence in the sky\"",
+   "published_at": "2026-08-09T15:54:01+00:00",
+   "collected_at": "2026-08-09T16:48:03.026366+00:00",
+   "title_ko": "샘 알트먼의 신규 AI 기능 관련 트윗 언급",
+   "summary_ko": "OpenAI CEO 샘 알트먼이 소셜미디어를 통해 차세대 AI 모델과 관련된 가벼운 농담과 기대감을 표명했습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "Sam Altman"
+   ]
+  },
+  {
+   "id": "cb4ab49b634980e2",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjt4vi/lophius_a_workbench_for_language_model_research/",
+   "source": "r/LocalLLaMA",
+   "title": "Lophius: A workbench for language model research, from the creator of Heretic",
+   "published_at": "2026-08-09T15:43:17+00:00",
+   "collected_at": "2026-08-09T16:47:49.948688+00:00",
+   "title_ko": "Lophius: A workbench for language model research, from the creator of Heretic",
+   "summary_ko": "주피터 환경에서 LLM 연구를 효율적으로 수행할 수 있도록 돕는 하이브리드 코드/GUI 연구 시스템 Lophius가 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "연구"
    ]
   },
   {
@@ -2982,50 +3029,6 @@
    "tags": [
     "오픈소스",
     "코딩"
-   ]
-  },
-  {
-   "id": "855a031eb4e291d9",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhugh3/what_will_be_the_future_of_localllama/",
-   "source": "r/LocalLLaMA",
-   "title": "what will be the future of LocalLLaMA?",
-   "published_at": "2026-08-07T08:06:52+00:00",
-   "collected_at": "2026-08-07T16:05:45.143665+00:00",
-   "title_ko": "로컬 LLM 커뮤니티의 방향성과 정체성 고찰",
-   "summary_ko": "클라우드 서비스와 정치적 이슈 비중이 높아진 로컬 LLM 커뮤니티의 본질과 오픈웨이트 모델의 미래에 대한 토론입니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "783216e939a898e9",
-   "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
-   "source": "Hacker News",
-   "title": "2027 memory capacity is reportedly sold out",
-   "published_at": "2026-08-07T07:58:24+00:00",
-   "collected_at": "2026-08-07T20:52:28.097567+00:00",
-   "title_ko": "2027년 메모리 반도체 생산량 조기 완판",
-   "summary_ko": "AI 인프라 수요 폭증으로 인해 2027년 메모리 반도체 생산 물량이 이미 모두 판매된 것으로 알려졌습니다. AI 하드웨어 생태계의 공급 부족 현상이 지속될 전망입니다.",
-   "category": "중요",
-   "tags": [
-    "반도체",
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "57a58ac603eac166",
-   "url": "https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction",
-   "source": "Hacker News",
-   "title": "I won't read LLM authored fiction",
-   "published_at": "2026-08-07T07:45:56+00:00",
-   "collected_at": "2026-08-07T11:02:24.700070+00:00",
-   "title_ko": "LLM 작성 소설 거부 현상 조명",
-   "summary_ko": "LLM이 작성한 창작 소설을 소비하지 않겠다는 독자들의 시각을 다룬 글로, AI 콘텐츠 생성과 인간의 창작성에 대한 논쟁을 보여준다.",
-   "category": "참고",
-   "tags": [
-    "LLM"
    ]
   }
  ]
