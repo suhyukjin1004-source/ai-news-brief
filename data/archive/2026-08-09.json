@@ -138,6 +138,21 @@
   ]
  },
  {
+  "id": "a75496fbbf51a63b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjim3i/trustfactor_in_training_data/",
+  "source": "r/LocalLLaMA",
+  "title": "Trustfactor in training data?",
+  "published_at": "2026-08-09T06:42:04+00:00",
+  "collected_at": "2026-08-09T07:09:10.695432+00:00",
+  "title_ko": "AI 학습 데이터의 신뢰도(Trustfactor) 메타데이터 활용 방안",
+  "summary_ko": "데이터의 출처, 연식, 참조 횟수 등을 기반으로 신뢰도 점수를 부여해 저품질 데이터를 필터링 없이 활용하자는 아이디어입니다. 고품질 학습 데이터 확보를 위한 새로운 접근법을 제시합니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "AI 학습"
+  ]
+ },
+ {
   "id": "5b12172c7f2cb366",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjgp6r/lfm_26b_is_a_lot_of_fun/",
   "source": "r/LocalLLaMA",
@@ -723,6 +738,22 @@
   "category": "참고",
   "tags": [
    "로보틱스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "561b016160b58a8e",
+  "url": "https://code.claude.com/docs/en/cross-session-messaging",
+  "source": "Hacker News",
+  "title": "Message your other Claude Code sessions",
+  "published_at": "2026-08-08T15:34:49+00:00",
+  "collected_at": "2026-08-09T07:09:06.883655+00:00",
+  "title_ko": "Claude Code 세션 간 메시지 전송 기능 소개",
+  "summary_ko": "Claude Code 개발 환경에서 서로 다른 세션 간에 메시지를 주고받을 수 있는 기능이 공개되었습니다. 멀티 세션 작업의 효율성을 높여줍니다.",
+  "category": "팁",
+  "tags": [
+   "Claude",
+   "코딩",
    "AI 에이전트"
   ]
  },
