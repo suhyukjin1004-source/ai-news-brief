@@ -138,6 +138,38 @@
   ]
  },
  {
+  "id": "5b12172c7f2cb366",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjgp6r/lfm_26b_is_a_lot_of_fun/",
+  "source": "r/LocalLLaMA",
+  "title": "LFM 2.6B is a lot of fun.",
+  "published_at": "2026-08-09T04:53:29+00:00",
+  "collected_at": "2026-08-09T05:53:28.831678+00:00",
+  "title_ko": "소형 언어모델 'LFM 2.6B' 로컬 구동 후기",
+  "summary_ko": "스마트폰용으로 설계된 초소형 LFM 2.6B 모델을 로컬 환경에서 구동했을 때 엄청난 속도와 빠른 작업 처리가 가능하다는 사용 후기다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "로컬LLM"
+  ]
+ },
+ {
+  "id": "d0f03fdf3f18a733",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjghl9/memory_bandwidth_problems_with_intel_sapphire/",
+  "source": "r/LocalLLaMA",
+  "title": "Memory Bandwidth problems with Intel Sapphire Rapids",
+  "published_at": "2026-08-09T04:41:54+00:00",
+  "collected_at": "2026-08-09T05:53:28.831678+00:00",
+  "title_ko": "인텔 사파이어 래피즈에서 발생하는 메모리 대역폭 문제 분석",
+  "summary_ko": "제온 프로세서에서 MoE 모델 구동 시 이론상 대역폭보다 낮은 성능이 나오는 문제를 스레드 설정 조정을 통해 해결하려는 시도다.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "인텔",
+   "하드웨어"
+  ]
+ },
+ {
   "id": "d61accb551fd606e",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vje00y/ds4_flash_0731_udiq2_m_wrote_a_custom_metal/",
   "source": "r/LocalLLaMA",

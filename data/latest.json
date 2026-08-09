@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-09T04:24:59.981030+00:00",
+ "updated_at": "2026-08-09T05:55:51.805751+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -139,6 +139,38 @@
    "category": "참고",
    "tags": [
     "반도체"
+   ]
+  },
+  {
+   "id": "5b12172c7f2cb366",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjgp6r/lfm_26b_is_a_lot_of_fun/",
+   "source": "r/LocalLLaMA",
+   "title": "LFM 2.6B is a lot of fun.",
+   "published_at": "2026-08-09T04:53:29+00:00",
+   "collected_at": "2026-08-09T05:53:28.831678+00:00",
+   "title_ko": "소형 언어모델 'LFM 2.6B' 로컬 구동 후기",
+   "summary_ko": "스마트폰용으로 설계된 초소형 LFM 2.6B 모델을 로컬 환경에서 구동했을 때 엄청난 속도와 빠른 작업 처리가 가능하다는 사용 후기다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "로컬LLM"
+   ]
+  },
+  {
+   "id": "d0f03fdf3f18a733",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjghl9/memory_bandwidth_problems_with_intel_sapphire/",
+   "source": "r/LocalLLaMA",
+   "title": "Memory Bandwidth problems with Intel Sapphire Rapids",
+   "published_at": "2026-08-09T04:41:54+00:00",
+   "collected_at": "2026-08-09T05:53:28.831678+00:00",
+   "title_ko": "인텔 사파이어 래피즈에서 발생하는 메모리 대역폭 문제 분석",
+   "summary_ko": "제온 프로세서에서 MoE 모델 구동 시 이론상 대역폭보다 낮은 성능이 나오는 문제를 스레드 설정 조정을 통해 해결하려는 시도다.",
+   "category": "참고",
+   "tags": [
+    "반도체",
+    "인텔",
+    "하드웨어"
    ]
   },
   {
@@ -2988,36 +3020,6 @@
    "category": "참고",
    "tags": [
     "LLM"
-   ]
-  },
-  {
-   "id": "ed52327dd28bd843",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhjeqy/nvidias_whole_speech_stack_just_went_local_asr/",
-   "source": "r/LocalLLaMA",
-   "title": "🟩 NVIDIA's whole speech stack just went local. ASR + TTS + codec, quantized to GGUF, running on-device via NeMo-Speech.cpp",
-   "published_at": "2026-08-06T22:54:37+00:00",
-   "collected_at": "2026-08-07T00:10:46.467160+00:00",
-   "title_ko": "엔비디아, 음성 처리 스택 로컬 구동 지원",
-   "summary_ko": "엔비디아의 ASR, TTS, 코덱 등 음성 처리 기술이 GGUF로 양자화되어 NeMo-Speech.cpp를 통해 온디바이스로 로컬 구동이 가능해졌습니다.",
-   "category": "속보",
-   "tags": [
-    "NVIDIA",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "56a7c5ac4bd879b1",
-   "url": "https://www.reddit.com/r/singularity/comments/1vhjdtd/black_hat_usa_2026_openaihugging_face_incident/",
-   "source": "r/singularity",
-   "title": "Black Hat USA 2026: OpenAI–Hugging Face Incident Post-Mortem w/ OpenAI's Eric Wallace & Michael Dalton",
-   "published_at": "2026-08-06T22:53:31+00:00",
-   "collected_at": "2026-08-07T03:56:03.610141+00:00",
-   "title_ko": "OpenAI와 허깅페이스 보안 사고 사후 분석",
-   "summary_ko": "블랙햇 컨퍼런스에서 OpenAI 연구원들이 허깅페이스 관련 보안 사고의 전말과 에이전트 통신 이슈를 분석하여 공개했습니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "AI 에이전트"
    ]
   }
  ]
