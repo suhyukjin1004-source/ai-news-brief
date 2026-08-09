@@ -1,5 +1,51 @@
 [
  {
+  "id": "969f691c07f60e61",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjxsyj/a_localfirst_cli_over_your_own_notes_the_model/",
+  "source": "r/LocalLLaMA",
+  "title": "A local-first CLI over your own notes: the model never sees a document id, so it can't fabricate a citation (MIT)",
+  "published_at": "2026-08-09T18:46:34+00:00",
+  "collected_at": "2026-08-09T18:53:55.871001+00:00",
+  "title_ko": "할루시네이션을 방지하는 로컬 노트 기반 CLI 도구 출시",
+  "summary_ko": "문서 ID 대신 인덱스 번호를 사용하여 LLM의 환각 현상을 원천 차단하고 정확한 출처 인용을 보장하는 로컬 오픈소스 CLI 도구입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "025576603d8aefb4",
+  "url": "https://www.reddit.com/r/singularity/comments/1vjxnaq/more_info_about_upcoming_models_astra_and_doug/",
+  "source": "r/singularity",
+  "title": "More info about upcoming models Astra and Doug",
+  "published_at": "2026-08-09T18:40:27+00:00",
+  "collected_at": "2026-08-09T18:54:08.728643+00:00",
+  "title_ko": "차세대 신규 AI 모델 Astra 및 Doug 관련 정보 유출",
+  "summary_ko": "새롭게 개발 중인 AI 모델 Astra와 Doug에 대한 세부 정보가 온라인상에 공개되어 업계의 이목을 끌고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "모델명"
+  ]
+ },
+ {
+  "id": "617dd9bee42d4ad7",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjxhof/speculative_decoding_in_a_tools_call/",
+  "source": "r/LocalLLaMA",
+  "title": "Speculative decoding in a tools call",
+  "published_at": "2026-08-09T18:34:14+00:00",
+  "collected_at": "2026-08-09T18:53:55.871001+00:00",
+  "title_ko": "도구 호출에서의 추론 가속 기법(Speculative Decoding) 논문",
+  "summary_ko": "LLM의 도구 호출 성능을 높이고 지연 시간을 줄이기 위한 새로운 추론 가속 기법 연구 논문이 발표되었습니다.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "LLM"
+  ]
+ },
+ {
   "id": "0e392797ab275d79",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213719",
   "source": "AI타임스",
@@ -13,6 +59,65 @@
    "AI 모델",
    "규제",
    "오픈소스"
+  ]
+ },
+ {
+  "id": "cbda92b44fa4520c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjwwrs/open_model_google_weather_next_2/",
+  "source": "r/LocalLLaMA",
+  "title": "Open Model: Google Weather Next 2",
+  "published_at": "2026-08-09T18:12:01+00:00",
+  "collected_at": "2026-08-09T18:53:55.871001+00:00",
+  "title_ko": "구글 딥마인드, 사이클론 예측 정확도 높인 WeatherNext 공개",
+  "summary_ko": "구글의 기상 예측 AI 모델 WeatherNext가 기존 모델보다 하루 더 빠른 태풍 예측 능력을 선보이며 기상 관측의 정확도를 크게 높였습니다.",
+  "category": "중요",
+  "tags": [
+   "Google",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "afe689a79be0c6d1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjwqpf/pathways_bdhposttransformer_arch_matches_gpt2/",
+  "source": "r/LocalLLaMA",
+  "title": "Pathway's BDH(post-transformer arch) matches GPT2 scaling from 10M to 1B params trained from scratch. runs on Normal GPUs",
+  "published_at": "2026-08-09T18:05:34+00:00",
+  "collected_at": "2026-08-09T18:53:55.871001+00:00",
+  "title_ko": "트랜스포머 대체하는 BDH 아키텍처, 일반 GPU서 GPT-2 스케일링 달성",
+  "summary_ko": "트랜스포머의 한계를 극복하기 위한 새로운 아키텍처인 BDH가 일반 GPU 환경에서 처음부터 학습하여 GPT-2 수준의 성능을 입증했습니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "c05cef7970b5701e",
+  "url": "https://www.reddit.com/r/singularity/comments/1vjw60b/you_simply_cant_trust_apes_with_closed_source_asi/",
+  "source": "r/singularity",
+  "title": "You simply can't trust apes with closed source ASI. We need to create 100% transparent coalitions of aligned OPEN SOURCE ASIs dedicated to protecting Earth from BOTH the chaos of an open source singularity + bad apes, but that requires ending the Anthropocene or at least heavily limiting human rule",
+  "published_at": "2026-08-09T17:43:35+00:00",
+  "collected_at": "2026-08-09T18:54:08.728643+00:00",
+  "title_ko": "안전한 AGI를 위한 오픈소스 AI 연합의 필요성",
+  "summary_ko": "폐쇄형 인공 일반 지능(ASI)의 독점을 막고 인류를 보호하기 위해 투명한 오픈소스 기반의 AI 연합 구축이 필요하다는 주장이 제기되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "규제"
+  ]
+ },
+ {
+  "id": "c78c049ee76e78d6",
+  "url": "https://news.hada.io/topic?id=32306",
+  "source": "GeekNews",
+  "title": "내 잘못입니다 — Dark Hours",
+  "published_at": "2026-08-09T17:31:45+00:00",
+  "collected_at": "2026-08-09T18:54:11.334002+00:00",
+  "title_ko": "클로드로 제작한 천체 안내 앱 'Dark Hours' 표절 논란",
+  "summary_ko": "Claude를 이용해 천체 안내 앱을 개발 및 공개했으나 기존 오픈소스 앱과 이름 및 기능이 유사하여 논란이 일었습니다.",
+  "category": "참고",
+  "tags": [
+   "Claude"
   ]
  },
  {

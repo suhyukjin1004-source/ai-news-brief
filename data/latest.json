@@ -1,8 +1,54 @@
 {
- "updated_at": "2026-08-09T17:40:00.361066+00:00",
+ "updated_at": "2026-08-09T18:54:14.526735+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "969f691c07f60e61",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjxsyj/a_localfirst_cli_over_your_own_notes_the_model/",
+   "source": "r/LocalLLaMA",
+   "title": "A local-first CLI over your own notes: the model never sees a document id, so it can't fabricate a citation (MIT)",
+   "published_at": "2026-08-09T18:46:34+00:00",
+   "collected_at": "2026-08-09T18:53:55.871001+00:00",
+   "title_ko": "할루시네이션을 방지하는 로컬 노트 기반 CLI 도구 출시",
+   "summary_ko": "문서 ID 대신 인덱스 번호를 사용하여 LLM의 환각 현상을 원천 차단하고 정확한 출처 인용을 보장하는 로컬 오픈소스 CLI 도구입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "025576603d8aefb4",
+   "url": "https://www.reddit.com/r/singularity/comments/1vjxnaq/more_info_about_upcoming_models_astra_and_doug/",
+   "source": "r/singularity",
+   "title": "More info about upcoming models Astra and Doug",
+   "published_at": "2026-08-09T18:40:27+00:00",
+   "collected_at": "2026-08-09T18:54:08.728643+00:00",
+   "title_ko": "차세대 신규 AI 모델 Astra 및 Doug 관련 정보 유출",
+   "summary_ko": "새롭게 개발 중인 AI 모델 Astra와 Doug에 대한 세부 정보가 온라인상에 공개되어 업계의 이목을 끌고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "Google",
+    "모델명"
+   ]
+  },
+  {
+   "id": "617dd9bee42d4ad7",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjxhof/speculative_decoding_in_a_tools_call/",
+   "source": "r/LocalLLaMA",
+   "title": "Speculative decoding in a tools call",
+   "published_at": "2026-08-09T18:34:14+00:00",
+   "collected_at": "2026-08-09T18:53:55.871001+00:00",
+   "title_ko": "도구 호출에서의 추론 가속 기법(Speculative Decoding) 논문",
+   "summary_ko": "LLM의 도구 호출 성능을 높이고 지연 시간을 줄이기 위한 새로운 추론 가속 기법 연구 논문이 발표되었습니다.",
+   "category": "참고",
+   "tags": [
+    "반도체",
+    "LLM"
+   ]
+  },
   {
    "id": "0e392797ab275d79",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213719",
@@ -17,6 +63,65 @@
     "AI 모델",
     "규제",
     "오픈소스"
+   ]
+  },
+  {
+   "id": "cbda92b44fa4520c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjwwrs/open_model_google_weather_next_2/",
+   "source": "r/LocalLLaMA",
+   "title": "Open Model: Google Weather Next 2",
+   "published_at": "2026-08-09T18:12:01+00:00",
+   "collected_at": "2026-08-09T18:53:55.871001+00:00",
+   "title_ko": "구글 딥마인드, 사이클론 예측 정확도 높인 WeatherNext 공개",
+   "summary_ko": "구글의 기상 예측 AI 모델 WeatherNext가 기존 모델보다 하루 더 빠른 태풍 예측 능력을 선보이며 기상 관측의 정확도를 크게 높였습니다.",
+   "category": "중요",
+   "tags": [
+    "Google",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "afe689a79be0c6d1",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjwqpf/pathways_bdhposttransformer_arch_matches_gpt2/",
+   "source": "r/LocalLLaMA",
+   "title": "Pathway's BDH(post-transformer arch) matches GPT2 scaling from 10M to 1B params trained from scratch. runs on Normal GPUs",
+   "published_at": "2026-08-09T18:05:34+00:00",
+   "collected_at": "2026-08-09T18:53:55.871001+00:00",
+   "title_ko": "트랜스포머 대체하는 BDH 아키텍처, 일반 GPU서 GPT-2 스케일링 달성",
+   "summary_ko": "트랜스포머의 한계를 극복하기 위한 새로운 아키텍처인 BDH가 일반 GPU 환경에서 처음부터 학습하여 GPT-2 수준의 성능을 입증했습니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "c05cef7970b5701e",
+   "url": "https://www.reddit.com/r/singularity/comments/1vjw60b/you_simply_cant_trust_apes_with_closed_source_asi/",
+   "source": "r/singularity",
+   "title": "You simply can't trust apes with closed source ASI. We need to create 100% transparent coalitions of aligned OPEN SOURCE ASIs dedicated to protecting Earth from BOTH the chaos of an open source singularity + bad apes, but that requires ending the Anthropocene or at least heavily limiting human rule",
+   "published_at": "2026-08-09T17:43:35+00:00",
+   "collected_at": "2026-08-09T18:54:08.728643+00:00",
+   "title_ko": "안전한 AGI를 위한 오픈소스 AI 연합의 필요성",
+   "summary_ko": "폐쇄형 인공 일반 지능(ASI)의 독점을 막고 인류를 보호하기 위해 투명한 오픈소스 기반의 AI 연합 구축이 필요하다는 주장이 제기되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "규제"
+   ]
+  },
+  {
+   "id": "c78c049ee76e78d6",
+   "url": "https://news.hada.io/topic?id=32306",
+   "source": "GeekNews",
+   "title": "내 잘못입니다 — Dark Hours",
+   "published_at": "2026-08-09T17:31:45+00:00",
+   "collected_at": "2026-08-09T18:54:11.334002+00:00",
+   "title_ko": "클로드로 제작한 천체 안내 앱 'Dark Hours' 표절 논란",
+   "summary_ko": "Claude를 이용해 천체 안내 앱을 개발 및 공개했으나 기존 오픈소스 앱과 이름 및 기능이 유사하여 논란이 일었습니다.",
+   "category": "참고",
+   "tags": [
+    "Claude"
    ]
   },
   {
@@ -2922,114 +3027,6 @@
    "tags": [
     "AI 에이전트",
     "클라우드"
-   ]
-  },
-  {
-   "id": "68f673d0c50784eb",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhwilp/an_openweight_model_too_moonshot_joins_the_race/",
-   "source": "r/LocalLLaMA",
-   "title": "An open-weight model too, Moonshot joins the race (gently this time)",
-   "published_at": "2026-08-07T10:08:58+00:00",
-   "collected_at": "2026-08-07T11:02:26.172692+00:00",
-   "title_ko": "문숏, 오픈 웨이트 AI 모델 공개 레이스 합류",
-   "summary_ko": "중국의 AI 기업 문숏(Moonshot)이 강력한 성능의 새로운 오픈 웨이트 모델을 공개하며 오픈소스 AI 경쟁에 가세했다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "45635142f4493374",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhw4f5/gemma_4_qat_could_be_improved_further_by_google/",
-   "source": "r/LocalLLaMA",
-   "title": "Gemma 4 QAT could be improved further by Google aligning the QAT model to modern q4_k instead of q4_0",
-   "published_at": "2026-08-07T09:46:52+00:00",
-   "collected_at": "2026-08-07T11:53:08.626923+00:00",
-   "title_ko": "Gemma 4 QAT 모델의 양자화 방식 개선 제안",
-   "summary_ko": "구글의 Gemma 4 QAT 모델이 q4_0 대신 현대적인 q4_k 방식으로 정렬되면 성능이 더욱 향상될 수 있다는 벤치마크 분석 결과입니다. 고정밀 추론과 메모리 효율성을 동시에 잡기 위한 실무적 피드백으로 중요합니다.",
-   "category": "참고",
-   "tags": [
-    "Google",
-    "오픈소스",
-    "AI"
-   ]
-  },
-  {
-   "id": "a37d2908f76b5839",
-   "url": "https://www.reddit.com/r/singularity/comments/1vhvx2o/openai_has_overcome_their_pretraining_issues_and/",
-   "source": "r/singularity",
-   "title": "\"OpenAI has overcome their pre-training issues, and a much larger model code named “Doug” is actively in the works\"",
-   "published_at": "2026-08-07T09:34:42+00:00",
-   "collected_at": "2026-08-07T21:50:03.019996+00:00",
-   "title_ko": "OpenAI, 사전 학습 난제 극복 및 차기 대형 모델 개발 착수",
-   "summary_ko": "OpenAI가 사전 학습 문제를 해결하고 '더그(Doug)'라는 코드네임의 차세대 대규모 모델 개발에 본격 착수했습니다. 향후 성능 향상과 새로운 모델 출시를 가속화할 중요한 소식입니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "LLM"
-   ]
-  },
-  {
-   "id": "2ee94000fec4618b",
-   "url": "https://openai.com/index/hsp-gruppe",
-   "source": "OpenAI",
-   "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-   "published_at": "2026-08-07T09:00:00+00:00",
-   "collected_at": "2026-08-07T09:12:04.260233+00:00",
-   "title_ko": "HSP 그루페의 챗GPT 엔터프라이즈 도입 사례",
-   "summary_ko": "세무 자문 기업 HSP 그루페가 챗GPT 엔터프라이즈를 활용해 업무 생산성을 높이고 고객 서비스 역량을 강화한 사례를 소개한다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "GPT"
-   ]
-  },
-  {
-   "id": "011f991c1766e43f",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhvblg/i_made_a_simple_local_voice_input_extension_for/",
-   "source": "r/LocalLLaMA",
-   "title": "I made a simple local voice input extension for pi (nemotron 3.5 0.6B ASR)",
-   "published_at": "2026-08-07T08:59:21+00:00",
-   "collected_at": "2026-08-07T11:53:08.626923+00:00",
-   "title_ko": "NVIDIA Nemotron 기반 로컬 음성 입력 확장 프로그램 개발",
-   "summary_ko": "개발자가 NVIDIA Nemotron 3.5 ASR 0.6B 모델을 활용해 가볍고 빠른 실시간 로컬 음성 입력 도구를 만들었습니다. 별도의 무거운 서버 없이 코딩 터미널 등에서 음성 입력을 활용할 수 있는 실용적인 팁을 제공합니다.",
-   "category": "팁",
-   "tags": [
-    "NVIDIA",
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "0c0df16406101b3a",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhv4ws/new_unsloth_kimi_k3_drops_q1_0_466gb_tq1_0509gb/",
-   "source": "r/LocalLLaMA",
-   "title": "New Unsloth KImi K3 drops! Q1_0 (466GB), TQ1_0(509GB), IQ1_M(649),TQ2_0(551GB)!!",
-   "published_at": "2026-08-07T08:47:46+00:00",
-   "collected_at": "2026-08-07T16:05:45.143665+00:00",
-   "title_ko": "Unsloth, Kimi K3 대형 양자화 모델 공개",
-   "summary_ko": "Unsloth 팀이 Kimi K3 모델의 다양한 양자화 버전을 공개하여 대형 오픈웨이트 모델 활용도를 높였습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "양자화"
-   ]
-  },
-  {
-   "id": "8273a33e8c892b35",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhv2bz/ds4_flash_incoming_price_increase_weve_been_able/",
-   "source": "r/LocalLLaMA",
-   "title": "DS4 Flash incoming price increase \"we've been able to reproduce their current prices even on rented GPUs\"",
-   "published_at": "2026-08-07T08:43:34+00:00",
-   "collected_at": "2026-08-07T09:12:24.106337+00:00",
-   "title_ko": "오픈소스 LLM API 가격 경쟁력에 대한 개발자 커뮤니티 분석",
-   "summary_ko": "최신 LLM 모델들의 API 가격 인하 및 렌탈 하드웨어 기반 가격 경쟁력에 대해 개발자 커뮤니티에서 갑론을박이 벌어지고 있다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "코딩"
    ]
   }
  ]
