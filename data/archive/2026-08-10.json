@@ -1,5 +1,126 @@
 [
  {
+  "id": "741f7f7c4b86cc0e",
+  "url": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything",
+  "source": "Simon Willison",
+  "title": "Quoting Claude Opus 5 system prompt",
+  "published_at": "2026-08-09T23:31:39+00:00",
+  "collected_at": "2026-08-09T23:39:49.577559+00:00",
+  "title_ko": "Anthropic, Claude 시스템 프롬프트 및 모델 접근 제한 이슈",
+  "summary_ko": "앤트로픽이 미 상무부 수출 통제로 중단했던 클로드 모델들의 접근을 재개했습니다. AI 모델이 최신 규제 이슈를 어떻게 학습하고 응답하는지 보여줍니다.",
+  "category": "속보",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "규제"
+  ]
+ },
+ {
+  "id": "34a3d5caca23fe04",
+  "url": "https://www.reddit.com/r/singularity/comments/1vk4p5p/someone_built_a_browser_that_generates_every/",
+  "source": "r/singularity",
+  "title": "Someone built a browser that generates every website from scratch, and it impressed me more than it should",
+  "published_at": "2026-08-09T23:31:07+00:00",
+  "collected_at": "2026-08-09T23:40:03.606297+00:00",
+  "title_ko": "웹사이트를 처음부터 동적으로 생성하는 AI 브라우저 등장",
+  "summary_ko": "모든 웹사이트를 스크래치에서 실시간으로 생성해 보여주는 혁신적인 브라우저가 공개되어 주목을 받고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "51ac846a1972390e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vk3xpb/new_model_supraelegans500k/",
+  "source": "r/LocalLLaMA",
+  "title": "[NEW MODEL] SupraElegans-500K",
+  "published_at": "2026-08-09T22:57:18+00:00",
+  "collected_at": "2026-08-09T23:39:50.523901+00:00",
+  "title_ko": "비트랜스포머 기반 실험적 언어 모델 'SupraElegans-500K' 공개",
+  "summary_ko": "트랜스포머와 어텐션 메커니즘을 배제하고 생물학적 신경망에서 영감을 받은 희소 신경 그래프 기반의 새로운 언어 모델이 공개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "2088203280efa3f1",
+  "url": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything",
+  "source": "Simon Willison",
+  "title": "GitHub Models is now retired",
+  "published_at": "2026-08-09T22:48:05+00:00",
+  "collected_at": "2026-08-09T23:39:49.577559+00:00",
+  "title_ko": "GitHub 모델 서비스 공식 종료",
+  "summary_ko": "개발자들에게 다양한 LLM 플레이그라운드와 통합 API를 제공하던 GitHub Models 서비스가 공식적으로 은퇴했습니다.",
+  "category": "중요",
+  "tags": [
+   "GitHub",
+   "LLM"
+  ]
+ },
+ {
+  "id": "6b75e767c968a193",
+  "url": "https://www.reddit.com/r/singularity/comments/1vk3h79/the_latest_frontier_image_model_from_google_was/",
+  "source": "r/singularity",
+  "title": "The latest frontier image model from Google was released six months ago…",
+  "published_at": "2026-08-09T22:36:54+00:00",
+  "collected_at": "2026-08-09T23:40:03.606297+00:00",
+  "title_ko": "구글의 차세대 프론티어 이미지 모델 출시 지연 주목",
+  "summary_ko": "구글의 최신 프론티어 이미지 모델이 출시된 지 6개월이 지난 현재, 업계에서 후속 모델의 행방에 관심이 집중되고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "Google",
+   "Gemini"
+  ]
+ },
+ {
+  "id": "20c9ddbf86116bb1",
+  "url": "https://news.hada.io/topic?id=32312",
+  "source": "GeekNews",
+  "title": "LLM으로 복잡한 주제를 배우는 시각적 시뮬레이션 학습법",
+  "published_at": "2026-08-09T22:32:08+00:00",
+  "collected_at": "2026-08-09T23:40:05.831053+00:00",
+  "title_ko": "LLM을 활용한 복잡한 주제의 시각적 시뮬레이션 학습법",
+  "summary_ko": "긴 설명 대신 LLM과 시각적 애니메이션을 결합해 복잡한 개념을 게임처럼 직관적으로 학습하는 방법론이 소개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "LLM",
+   "코딩"
+  ]
+ },
+ {
+  "id": "54b1f1adcdc0b124",
+  "url": "https://news.hada.io/topic?id=32311",
+  "source": "GeekNews",
+  "title": "Show GN: Codex Realtime Mic",
+  "published_at": "2026-08-09T22:25:52+00:00",
+  "collected_at": "2026-08-09T23:40:05.831053+00:00",
+  "title_ko": "실시간 음성 마이크 입력 도구 'Codex Realtime Mic' 공개",
+  "summary_ko": "OAuth 기반으로 어디서나 간편하게 마이크 입력을 스트리밍하고 음성 기반 AI와 연동할 수 있는 도구가 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "0317e3154096f4d3",
+  "url": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything",
+  "source": "Simon Willison",
+  "title": "SQLite compressed text-history prototypes",
+  "published_at": "2026-08-09T22:05:00+00:00",
+  "collected_at": "2026-08-09T23:39:49.577559+00:00",
+  "title_ko": "SQLite 기반 압축 텍스트 히스토리 프로토타입 연구",
+  "summary_ko": "관계형 데이터베이스에 리비전 이력을 효율적으로 저장하기 위해 zstd 압축을 활용하는 새로운 아이디어가 공유되었습니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "GPT"
+  ]
+ },
+ {
   "id": "94e276e35d52827d",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vk2n2k/klq_trainingfree_measured_rotation_quantization/",
   "source": "r/LocalLLaMA",
@@ -106,6 +227,21 @@
    "OpenAI",
    "Anthropic",
    "Claude"
+  ]
+ },
+ {
+  "id": "67d286074d2c4b50",
+  "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+  "source": "Hacker News",
+  "title": "The tragedy of the commons, AI edition",
+  "published_at": "2026-08-09T19:43:52+00:00",
+  "collected_at": "2026-08-09T23:39:49.354156+00:00",
+  "title_ko": "AI 시대의 공유지의 비극 조명",
+  "summary_ko": "AI 기술 확산으로 인해 데이터와 자원 등 공유 자원이 고갈되는 '공유지의 비극' 현상에 대한 경제학적 분석이 제기되었습니다.",
+  "category": "중요",
+  "tags": [
+   "규제",
+   "AI 에이전트"
   ]
  },
  {
@@ -288,6 +424,21 @@
   "category": "참고",
   "tags": [
    "Claude"
+  ]
+ },
+ {
+  "id": "5d3904a0f3418197",
+  "url": "https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/",
+  "source": "Hacker News",
+  "title": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
+  "published_at": "2026-08-09T16:18:39+00:00",
+  "collected_at": "2026-08-09T23:39:49.354156+00:00",
+  "title_ko": "OpenAI 전략가 'AI 연구소가 정부 권력과 경쟁해야 한다' 주장",
+  "summary_ko": "OpenAI의 한 전략가가 AI 랩들이 국가 권력에 버금가는 영향력을 가져야 한다고 주장하여 AI 거버넌스 논란을 불러일으켰습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "규제"
   ]
  },
  {
