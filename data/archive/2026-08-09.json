@@ -138,6 +138,70 @@
   ]
  },
  {
+  "id": "6636f76404401634",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjklwo/deepseek_v4_flash_0731_hits_827_on_terminalbench/",
+  "source": "r/LocalLLaMA",
+  "title": "DeepSeek V4 Flash 0731 hits 82.7% on Terminal-Bench 2.1 in an independent public-harness run (445 trials)",
+  "published_at": "2026-08-09T08:39:12+00:00",
+  "collected_at": "2026-08-09T08:55:20.611633+00:00",
+  "title_ko": "DeepSeek V4 Flash 0731, 터미널 벤치마크 82.7% 기록 검증",
+  "summary_ko": "독립적인 공개 테스트에서 DeepSeek V4 Flash 0731이 터미널-벤치마크 2.1에서 82.7%의 정확도를 기록하며 성능이 입증되었습니다. 이는 AI 모델의 코딩 및 터미널 제어 능력을 평가하는 중요한 지표입니다.",
+  "category": "참고",
+  "tags": [
+   "DeepSeek",
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "fd60da1c1dd94739",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjk57h/best_embedding_reranking_model/",
+  "source": "r/LocalLLaMA",
+  "title": "Best Embedding + Reranking Model",
+  "published_at": "2026-08-09T08:10:52+00:00",
+  "collected_at": "2026-08-09T08:55:20.611633+00:00",
+  "title_ko": "다국어 번역 메모리를 위한 최적의 임베딩 및 리랭킹 모델",
+  "summary_ko": "15개 언어를 지원하는 번역 메모리 서버 구축을 위해 F2LLM V2와 Zerank 2 조합이 기존 모델 대비 뛰어난 성능을 보였습니다. RAG 시스템 구축 시 실무에 참고할 만한 유용한 벤치마크입니다.",
+  "category": "팁",
+  "tags": [
+   "RAG",
+   "임베딩",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "57e16c81fb96ab20",
+  "url": "https://news.hada.io/topic?id=32286",
+  "source": "GeekNews",
+  "title": "Show GN: Ungate — API 토큰 비용을 지불하는 대신 Cursor에서 Claude 및 ChatGPT 구독 서비스를 이용하세요.",
+  "published_at": "2026-08-09T07:39:55+00:00",
+  "collected_at": "2026-08-09T08:55:35.193160+00:00",
+  "title_ko": "Cursor에서 API 비용 없이 구독 서비스 활용하는 'Ungate'",
+  "summary_ko": "별도의 API 토큰 비용을 내지 않고 기존 ChatGPT와 Claude 구독으로 Cursor에서 활용할 수 있게 해주는 도구입니다. 개발자들의 AI 코딩 도구 비용 부담을 줄여줍니다.",
+  "category": "팁",
+  "tags": [
+   "OpenAI",
+   "Anthropic",
+   "코딩"
+  ]
+ },
+ {
+  "id": "286867bf59d4f958",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjiypj/updated_benchmark_deepseek_v4_flash_on/",
+  "source": "r/LocalLLaMA",
+  "title": "Updated benchmark: Deepseek V4 Flash on SlopCodeBench (local)",
+  "published_at": "2026-08-09T07:01:43+00:00",
+  "collected_at": "2026-08-09T08:55:20.611633+00:00",
+  "title_ko": "DeepSeek V4 Flash 양자화 버전 로컬 벤치마크 공개",
+  "summary_ko": "DeepSeek V4 Flash의 양자화(quant) 모델을 로컬 환경에서 테스트한 결과가 공개되었습니다. 맥북 환경에서의 속도와 성능 절충안을 파악할 수 있는 유용한 자료입니다.",
+  "category": "참고",
+  "tags": [
+   "DeepSeek",
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
   "id": "a75496fbbf51a63b",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjim3i/trustfactor_in_training_data/",
   "source": "r/LocalLLaMA",

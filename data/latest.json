@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-09T07:09:26.309240+00:00",
+ "updated_at": "2026-08-09T08:55:37.817969+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -139,6 +139,70 @@
    "category": "참고",
    "tags": [
     "반도체"
+   ]
+  },
+  {
+   "id": "6636f76404401634",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjklwo/deepseek_v4_flash_0731_hits_827_on_terminalbench/",
+   "source": "r/LocalLLaMA",
+   "title": "DeepSeek V4 Flash 0731 hits 82.7% on Terminal-Bench 2.1 in an independent public-harness run (445 trials)",
+   "published_at": "2026-08-09T08:39:12+00:00",
+   "collected_at": "2026-08-09T08:55:20.611633+00:00",
+   "title_ko": "DeepSeek V4 Flash 0731, 터미널 벤치마크 82.7% 기록 검증",
+   "summary_ko": "독립적인 공개 테스트에서 DeepSeek V4 Flash 0731이 터미널-벤치마크 2.1에서 82.7%의 정확도를 기록하며 성능이 입증되었습니다. 이는 AI 모델의 코딩 및 터미널 제어 능력을 평가하는 중요한 지표입니다.",
+   "category": "참고",
+   "tags": [
+    "DeepSeek",
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "fd60da1c1dd94739",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjk57h/best_embedding_reranking_model/",
+   "source": "r/LocalLLaMA",
+   "title": "Best Embedding + Reranking Model",
+   "published_at": "2026-08-09T08:10:52+00:00",
+   "collected_at": "2026-08-09T08:55:20.611633+00:00",
+   "title_ko": "다국어 번역 메모리를 위한 최적의 임베딩 및 리랭킹 모델",
+   "summary_ko": "15개 언어를 지원하는 번역 메모리 서버 구축을 위해 F2LLM V2와 Zerank 2 조합이 기존 모델 대비 뛰어난 성능을 보였습니다. RAG 시스템 구축 시 실무에 참고할 만한 유용한 벤치마크입니다.",
+   "category": "팁",
+   "tags": [
+    "RAG",
+    "임베딩",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "57e16c81fb96ab20",
+   "url": "https://news.hada.io/topic?id=32286",
+   "source": "GeekNews",
+   "title": "Show GN: Ungate — API 토큰 비용을 지불하는 대신 Cursor에서 Claude 및 ChatGPT 구독 서비스를 이용하세요.",
+   "published_at": "2026-08-09T07:39:55+00:00",
+   "collected_at": "2026-08-09T08:55:35.193160+00:00",
+   "title_ko": "Cursor에서 API 비용 없이 구독 서비스 활용하는 'Ungate'",
+   "summary_ko": "별도의 API 토큰 비용을 내지 않고 기존 ChatGPT와 Claude 구독으로 Cursor에서 활용할 수 있게 해주는 도구입니다. 개발자들의 AI 코딩 도구 비용 부담을 줄여줍니다.",
+   "category": "팁",
+   "tags": [
+    "OpenAI",
+    "Anthropic",
+    "코딩"
+   ]
+  },
+  {
+   "id": "286867bf59d4f958",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjiypj/updated_benchmark_deepseek_v4_flash_on/",
+   "source": "r/LocalLLaMA",
+   "title": "Updated benchmark: Deepseek V4 Flash on SlopCodeBench (local)",
+   "published_at": "2026-08-09T07:01:43+00:00",
+   "collected_at": "2026-08-09T08:55:20.611633+00:00",
+   "title_ko": "DeepSeek V4 Flash 양자화 버전 로컬 벤치마크 공개",
+   "summary_ko": "DeepSeek V4 Flash의 양자화(quant) 모델을 로컬 환경에서 테스트한 결과가 공개되었습니다. 맥북 환경에서의 속도와 성능 절충안을 파악할 수 있는 유용한 자료입니다.",
+   "category": "참고",
+   "tags": [
+    "DeepSeek",
+    "오픈소스",
+    "코딩"
    ]
   },
   {
@@ -2961,67 +3025,6 @@
    "category": "참고",
    "tags": [
     "생성형AI"
-   ]
-  },
-  {
-   "id": "63ab77e46bfaafbc",
-   "url": "https://www.reddit.com/r/singularity/comments/1vhlctp/ai_2027s_prediction_for_mid_september_2027_do_you/",
-   "source": "r/singularity",
-   "title": "AI 2027's prediction for Mid (September) 2027; Do you guys still feel this to be true?",
-   "published_at": "2026-08-07T00:17:50+00:00",
-   "collected_at": "2026-08-07T03:56:03.610141+00:00",
-   "title_ko": "2027년 AI 발전 전망과 모델 게이트키핑 논의",
-   "summary_ko": "서구권 AI 연구소들의 모델 출시 통제 속에서 2027년 예상되는 AI 발전 속도와 파급력에 대한 커뮤니티의 토론이 이어지고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "Anthropic"
-   ]
-  },
-  {
-   "id": "68739a4948e6b07e",
-   "url": "https://news.hada.io/topic?id=32219",
-   "source": "GeekNews",
-   "title": "tl;dv(Too Lazy; Didn't Validate): 회의 181,874건이 무방비로 노출",
-   "published_at": "2026-08-07T00:05:13+00:00",
-   "collected_at": "2026-08-07T03:56:05.711340+00:00",
-   "title_ko": "AI 회의 기록 플랫폼 'tl;dv' 데이터 노출 사고",
-   "summary_ko": "AI 회의록 서비스 tl;dv의 보안 설정 오류로 수십만 건의 회의 메타데이터와 사용자 정보가 무방비로 노출되었습니다. AI SaaS 보안의 중요성을 시사합니다.",
-   "category": "속보",
-   "tags": [
-    "보안",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "f4e38b5126559c62",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhkln6/dual_3090_setup_400_pp_ts_to_1600_pp_ts_on_qwen/",
-   "source": "r/LocalLLaMA",
-   "title": "Dual 3090 setup: 400 pp t/s to 1600 pp t/s on Qwen 3.6 27B... with slightly lower tps.",
-   "published_at": "2026-08-06T23:45:31+00:00",
-   "collected_at": "2026-08-07T03:55:58.693769+00:00",
-   "title_ko": "듀얼 3090 환경에서 Qwen 3.6 27B 추론 성능 최적화 사례",
-   "summary_ko": "듀얼 RTX 3090 환경에서 llama.cpp를 활용해 Qwen 3.6 27B 모델의 프롬프트 처리 속도를 크게 향상시킨 실무 설정 공유입니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "코딩"
-   ]
-  },
-  {
-   "id": "3791862845182c38",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhkfcd/anyone_else_with_dual_3090s_and_like_50gb_ram/",
-   "source": "r/LocalLLaMA",
-   "title": "Anyone else with dual 3090s and like 50gb ram trying to run DSV4 💀",
-   "published_at": "2026-08-06T23:37:43+00:00",
-   "collected_at": "2026-08-07T00:10:46.467160+00:00",
-   "title_ko": "듀얼 3090 환경에서의 대형 모델 구동 시도",
-   "summary_ko": "하드웨어 제약이 있는 로컬 환경에서 대형 언어 모델을 구동하려는 사용자들의 실사용 후기와 도전이 이어지고 있습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체"
    ]
   }
  ]
