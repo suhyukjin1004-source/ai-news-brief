@@ -109,6 +109,21 @@
   ]
  },
  {
+  "id": "474a0a2a1098f952",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjmay5/amd_llamacpp_reducing_mtp_buffer_overhead_gave_me/",
+  "source": "r/LocalLLaMA",
+  "title": "AMD llama.cpp: reducing MTP buffer overhead gave me 64K → 149K context for Qwen 27B",
+  "published_at": "2026-08-09T10:21:35+00:00",
+  "collected_at": "2026-08-09T11:38:03.955386+00:00",
+  "title_ko": "AMD llama.cpp MTP 버퍼 최적화로 Qwen 27B 컨텍스트 확장",
+  "summary_ko": "llama.cpp의 MTP 메모리 과다 추정 문제를 해결하는 패치를 통해 Qwen 27B 모델의 사용 가능한 컨텍스트 길이가 대폭 증가했습니다. 제한된 VRAM 환경에서 대형 언어 모델의 효율을 극대화할 수 있어 중요합니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
   "id": "3d44040986b8627d",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjm6dn/300b_on_32gb_moestreaming_findings_optimisations/",
   "source": "r/LocalLLaMA",
@@ -120,6 +135,20 @@
   "category": "참고",
   "tags": [
    "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "b45bd19f3521e44b",
+  "url": "https://news.hada.io/topic?id=32294",
+  "source": "GeekNews",
+  "title": "Show GN: Airy – 쉽게 쓰는 무료 TTS 음성 콘텐츠 제작툴",
+  "published_at": "2026-08-09T09:54:47+00:00",
+  "collected_at": "2026-08-09T11:38:18.540883+00:00",
+  "title_ko": "무료 TTS 음성 콘텐츠 제작 툴 'Airy' 출시",
+  "summary_ko": "빠르고 간편하게 한국어와 영어 TTS 음성을 생성하고 다운로드할 수 있는 무료 제작 툴이 공개되었습니다. 콘텐츠 제작 실무에서 유용하게 활용될 수 있습니다.",
+  "category": "참고",
+  "tags": [
    "AI 에이전트"
   ]
  },

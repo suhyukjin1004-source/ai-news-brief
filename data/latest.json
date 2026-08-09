@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-09T10:45:45.473023+00:00",
+ "updated_at": "2026-08-09T11:38:19.945709+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -129,6 +129,21 @@
    ]
   },
   {
+   "id": "474a0a2a1098f952",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjmay5/amd_llamacpp_reducing_mtp_buffer_overhead_gave_me/",
+   "source": "r/LocalLLaMA",
+   "title": "AMD llama.cpp: reducing MTP buffer overhead gave me 64K → 149K context for Qwen 27B",
+   "published_at": "2026-08-09T10:21:35+00:00",
+   "collected_at": "2026-08-09T11:38:03.955386+00:00",
+   "title_ko": "AMD llama.cpp MTP 버퍼 최적화로 Qwen 27B 컨텍스트 확장",
+   "summary_ko": "llama.cpp의 MTP 메모리 과다 추정 문제를 해결하는 패치를 통해 Qwen 27B 모델의 사용 가능한 컨텍스트 길이가 대폭 증가했습니다. 제한된 VRAM 환경에서 대형 언어 모델의 효율을 극대화할 수 있어 중요합니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
    "id": "3d44040986b8627d",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjm6dn/300b_on_32gb_moestreaming_findings_optimisations/",
    "source": "r/LocalLLaMA",
@@ -140,6 +155,20 @@
    "category": "참고",
    "tags": [
     "오픈소스",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "b45bd19f3521e44b",
+   "url": "https://news.hada.io/topic?id=32294",
+   "source": "GeekNews",
+   "title": "Show GN: Airy – 쉽게 쓰는 무료 TTS 음성 콘텐츠 제작툴",
+   "published_at": "2026-08-09T09:54:47+00:00",
+   "collected_at": "2026-08-09T11:38:18.540883+00:00",
+   "title_ko": "무료 TTS 음성 콘텐츠 제작 툴 'Airy' 출시",
+   "summary_ko": "빠르고 간편하게 한국어와 영어 TTS 음성을 생성하고 다운로드할 수 있는 무료 제작 툴이 공개되었습니다. 콘텐츠 제작 실무에서 유용하게 활용될 수 있습니다.",
+   "category": "참고",
+   "tags": [
     "AI 에이전트"
    ]
   },
@@ -2997,36 +3026,6 @@
    "tags": [
     "AMD",
     "반도체"
-   ]
-  },
-  {
-   "id": "3f15ca99e8e6ac99",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhocl8/echo_dot_2_can_run_28m_llm_at_decent_speed/",
-   "source": "r/LocalLLaMA",
-   "title": "Echo Dot 2 can run 28M LLM at decent speed",
-   "published_at": "2026-08-07T02:36:36+00:00",
-   "collected_at": "2026-08-07T03:55:58.693769+00:00",
-   "title_ko": "아마존 에코닷 2세대에서 소형 LLM 구동 성공",
-   "summary_ko": "저사양 하드웨어인 아마존 에코닷 2세대에서 llama.cpp를 이용해 로컬 LLM과 음성 파이프라인을 구동하는 데 성공했습니다.엣지 AI 활용 가능성을 보여줍니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "로컬LLM"
-   ]
-  },
-  {
-   "id": "4c3f8e63e1d9b08d",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhn36d/bbc_is_running_article_titled_artificial/",
-   "source": "r/LocalLLaMA",
-   "title": "BBC is running article titled \"Artificial Intelligence used to design brand new viruses\" ... cue the \"We must regulate Open Weights Models to prevent the next Covid or worse\" articles in 3... 2..",
-   "published_at": "2026-08-07T01:37:43+00:00",
-   "collected_at": "2026-08-07T03:55:58.693769+00:00",
-   "title_ko": "AI를 활용한 바이러스 설계 보도와 규제 우려",
-   "summary_ko": "AI가 신종 바이러스 디자인에 활용되었다는 언론 보도가 나오며 오픈 웨이트 AI 모델에 대한 규제 강화 목소리가 커지고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "규제",
-    "오픈소스"
    ]
   }
  ]
