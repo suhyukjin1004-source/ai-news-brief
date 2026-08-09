@@ -14,5 +14,37 @@
    "규제",
    "오픈소스"
   ]
+ },
+ {
+  "id": "e0f257a0b07b6a1a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjsysx/deepseek_v4_flash_0731_locally_on_cpu/",
+  "source": "r/LocalLLaMA",
+  "title": "DeepSeek v4 Flash 0731 locally on CPU",
+  "published_at": "2026-08-09T15:36:32+00:00",
+  "collected_at": "2026-08-09T15:39:55.026212+00:00",
+  "title_ko": "DeepSeek v4 Flash 로컬 CPU 구동 경험",
+  "summary_ko": "유저가 128GB RAM과 RTX 4090 조합을 통해 DeepSeek v4 Flash 모델을 로컬 환경에서 구동한 사양과 소감을 공유했습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "하드웨어",
+   "LLM"
+  ]
+ },
+ {
+  "id": "2866a84c4bb32b4a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjs3sf/underestimated_budget_solution_radeon_780m_igpu/",
+  "source": "r/LocalLLaMA",
+  "title": "Underestimated budget solution: radeon 780m iGPU",
+  "published_at": "2026-08-09T15:01:52+00:00",
+  "collected_at": "2026-08-09T15:39:55.026212+00:00",
+  "title_ko": "Radeon 780M iGPU를 활용한 저예산 LLM 로컬 구동",
+  "summary_ko": "고비용 시스템 대신 AMD 내장 그래픽과 대용량 RAM을 활용해 저렴하게 대형 언어 모델을 구동하는 방법입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "하드웨어",
+   "LLM"
+  ]
  }
 ]

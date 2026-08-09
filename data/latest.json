@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-09T14:44:30.690533+00:00",
+ "updated_at": "2026-08-09T15:40:12.892652+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -20,6 +20,53 @@
    ]
   },
   {
+   "id": "e0f257a0b07b6a1a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjsysx/deepseek_v4_flash_0731_locally_on_cpu/",
+   "source": "r/LocalLLaMA",
+   "title": "DeepSeek v4 Flash 0731 locally on CPU",
+   "published_at": "2026-08-09T15:36:32+00:00",
+   "collected_at": "2026-08-09T15:39:55.026212+00:00",
+   "title_ko": "DeepSeek v4 Flash 로컬 CPU 구동 경험",
+   "summary_ko": "유저가 128GB RAM과 RTX 4090 조합을 통해 DeepSeek v4 Flash 모델을 로컬 환경에서 구동한 사양과 소감을 공유했습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "하드웨어",
+    "LLM"
+   ]
+  },
+  {
+   "id": "2866a84c4bb32b4a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjs3sf/underestimated_budget_solution_radeon_780m_igpu/",
+   "source": "r/LocalLLaMA",
+   "title": "Underestimated budget solution: radeon 780m iGPU",
+   "published_at": "2026-08-09T15:01:52+00:00",
+   "collected_at": "2026-08-09T15:39:55.026212+00:00",
+   "title_ko": "Radeon 780M iGPU를 활용한 저예산 LLM 로컬 구동",
+   "summary_ko": "고비용 시스템 대신 AMD 내장 그래픽과 대용량 RAM을 활용해 저렴하게 대형 언어 모델을 구동하는 방법입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "하드웨어",
+    "LLM"
+   ]
+  },
+  {
+   "id": "23be674172ed3bdf",
+   "url": "https://news.hada.io/topic?id=32302",
+   "source": "GeekNews",
+   "title": "사무실에서 잃어버린 휴대전화를 Claude가 제안한 Bluetooth 신호 추적으로 찾음",
+   "published_at": "2026-08-09T14:36:20+00:00",
+   "collected_at": "2026-08-09T15:40:10.292616+00:00",
+   "title_ko": "Claude가 제안한 블루투스 신호 추적으로 분실폰 찾기",
+   "summary_ko": "개발자가 Claude의 도움으로 블루투스 신호 추적 도구를 빠르게 작성해 사무실에서 분실한 휴대전화를 찾아냈습니다.",
+   "category": "팁",
+   "tags": [
+    "Claude",
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "4c5b2bdf1256d5c5",
    "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
    "source": "TechCrunch",
@@ -33,6 +80,21 @@
     "AI 에이전트",
     "규제",
     "보안"
+   ]
+  },
+  {
+   "id": "954ec04b7875036a",
+   "url": "https://www.reddit.com/r/singularity/comments/1vjq7z2/aibattle_aibattle_on_x_potential_new_gptimage/",
+   "source": "r/singularity",
+   "title": "AiBattle (@AiBattle_) on X: \"Potential new GPT-Image model has appeared on the Arena under the name \"Mona-lisa-1\"\"",
+   "published_at": "2026-08-09T13:42:27+00:00",
+   "collected_at": "2026-08-09T15:40:08.125234+00:00",
+   "title_ko": "챗봇 아레나에 등장한 신규 이미지 모델 Mona-lisa-1",
+   "summary_ko": "챗봇 아레나에 'Mona-lisa-1'이라는 이름의 새로운 잠재적 GPT 이미지 모델이 등장해 관심을 모으고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT"
    ]
   },
   {
@@ -2964,66 +3026,6 @@
    "category": "참고",
    "tags": [
     "LLM"
-   ]
-  },
-  {
-   "id": "665d7b95abc545f7",
-   "url": "https://www.reddit.com/r/singularity/comments/1vhta3g/bytedance_is_at_an_early_stage_of_training_a/",
-   "source": "r/singularity",
-   "title": "ByteDance is at an early stage of training a model with as many as 10 trillion parameters",
-   "published_at": "2026-08-07T06:56:05+00:00",
-   "collected_at": "2026-08-07T21:50:03.019996+00:00",
-   "title_ko": "바이트댄스, 10조 파라미터 규모 모델 학습 초기 단계 진입",
-   "summary_ko": "틱톡의 모회사 바이트댄스가 최대 10조 개의 파라미터를 가진 거대 AI 모델 학습을 초기 단계에서 진행 중입니다. 초대형 모델 경쟁이 한층 더 격화될 것으로 보입니다.",
-   "category": "중요",
-   "tags": [
-    "바이트댄스",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "5df3d3acf888ca10",
-   "url": "https://news.hada.io/topic?id=32232",
-   "source": "GeekNews",
-   "title": "남은 것은 안목뿐이다",
-   "published_at": "2026-08-07T06:33:02+00:00",
-   "collected_at": "2026-08-07T09:12:38.546040+00:00",
-   "title_ko": "AI 시대 소프트웨어 개발에서 중요해진 '안목'",
-   "summary_ko": "AI로 인해 구현 비용이 낮아지면서 개발에서 가장 희소한 능력은 제작 능력이 아니라 무엇을 만들지 결정하는 안목이 되고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "소프트웨어 개발",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "892e5ca4e23ad07d",
-   "url": "https://news.hada.io/topic?id=32231",
-   "source": "GeekNews",
-   "title": "AI한테 시험을 냈는데 출제자가 5번 틀렸다 - LLM 파이프라인 검증기",
-   "published_at": "2026-08-07T06:05:38+00:00",
-   "collected_at": "2026-08-07T09:12:38.546040+00:00",
-   "title_ko": "LLM 파이프라인 검증 과정에서 발견한 출제자의 오류",
-   "summary_ko": "LLM 파이프라인 테스트를 구축하는 과정에서 모델은 오류 없이 통과했으나 오히려 출제자와 채점기가 실수를 했던 경험을 공유합니다.",
-   "category": "팁",
-   "tags": [
-    "LLM",
-    "코딩"
-   ]
-  },
-  {
-   "id": "7b56666a4bbc966c",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213579",
-   "source": "AI타임스",
-   "title": "하태진 버넥트 대표 \"제조 AX 열쇠는 AI 안경…안전·로봇까지 확장\"",
-   "published_at": "2026-08-07T06:00:00+00:00",
-   "collected_at": "2026-08-07T00:10:59.769636+00:00",
-   "title_ko": "제조 AX 열쇠로 떠오른 AI 안경",
-   "summary_ko": "B2C 시장에서 프라이버시 우려를 받는 AI 안경이 안전과 생산성이 중요한 제조 및 산업 현장에서 빠르게 안착할 것이라는 전망이 나왔습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 안경",
-    "로보틱스"
    ]
   }
  ]
