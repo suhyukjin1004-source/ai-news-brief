@@ -1,8 +1,54 @@
 {
- "updated_at": "2026-08-09T19:42:01.313222+00:00",
+ "updated_at": "2026-08-09T20:45:38.121900+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "bc2d14b88ae41ada",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vk0o98/the_gemma_team_will_host_a_special_event_on/",
+   "source": "r/LocalLLaMA",
+   "title": "The Gemma team will host a special event on August 20",
+   "published_at": "2026-08-09T20:40:08+00:00",
+   "collected_at": "2026-08-09T20:45:21.519129+00:00",
+   "title_ko": "구글 젬마 팀, 8월 20일 특별 행사 개최",
+   "summary_ko": "구글 젬마(Gemma) 팀이 8월 20일 특별 이벤트를 개최하며 차세대 모델 발표에 대한 기대감이 커지고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "Google",
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "c57ef703537a0a97",
+   "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+   "source": "TechCrunch",
+   "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+   "published_at": "2026-08-09T20:35:17+00:00",
+   "collected_at": "2026-08-09T20:45:10.489187+00:00",
+   "title_ko": "시추에이셔널 어웨어니스, 칩 스타트업 소스 파운드리에 4억 달러 투자",
+   "summary_ko": "AI 중심 헤지펀드 시추에이셔널 어웨어니스가 반도체 스타트업 소스 파운드리에 4억 달러를 투자하며 대규모 베팅을 이어가고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "투자",
+    "반도체"
+   ]
+  },
+  {
+   "id": "923db492cf3e86a5",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vk08zl/260605682_beyond_output_matching_preserving/",
+   "source": "r/LocalLLaMA",
+   "title": "[2606.05682] Beyond Output Matching: Preserving Internal Geometry in NVFP4 LLM Distillation",
+   "published_at": "2026-08-09T20:22:47+00:00",
+   "collected_at": "2026-08-09T20:45:21.519129+00:00",
+   "title_ko": "NVFP4 LLM 증류를 위한 내부 기하학 보존 기법 연구",
+   "summary_ko": "저정밀 추론 환경에서 양자화 인식 증류(QAD) 시 출력 일치만으로는 내부 성능 저하를 숨길 수 있음을 지적하고 내부 기하학 보존 방안을 제시했습니다.",
+   "category": "참고",
+   "tags": [
+    "반도체",
+    "오픈소스"
+   ]
+  },
   {
    "id": "53f6c1811ec1a3a7",
    "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
@@ -17,6 +63,21 @@
     "Anthropic",
     "Claude",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "c889f9e34eabfbb0",
+   "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+   "source": "Hacker News",
+   "title": "How I use LLMs to learn complex topics",
+   "published_at": "2026-08-09T19:16:49+00:00",
+   "collected_at": "2026-08-09T20:45:15.765220+00:00",
+   "title_ko": "LLM을 활용한 복잡한 주제 학습법",
+   "summary_ko": "대규모 언어 모델(LLM)을 효과적으로 활용하여 복잡하고 어려운 개념을 학습하는 실용적인 방법론을 다룹니다.",
+   "category": "팁",
+   "tags": [
+    "LLM",
+    "코딩"
    ]
   },
   {
@@ -431,6 +492,21 @@
    "tags": [
     "Grok",
     "코딩"
+   ]
+  },
+  {
+   "id": "afe0929fc8a491cc",
+   "url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
+   "source": "Hacker News",
+   "title": "Everything you do is being recorded",
+   "published_at": "2026-08-09T11:30:48+00:00",
+   "collected_at": "2026-08-09T20:45:15.765220+00:00",
+   "title_ko": "AI 웨어러블 기기와 일상 녹화에 따른 감시 우려",
+   "summary_ko": "모든 행동이 AI 웨어러블 기기로 기록되는 시대를 맞아 프라이버시 침해 문제와 이에 대응하는 방안을 조명합니다.",
+   "category": "중요",
+   "tags": [
+    "규제",
+    "AI 에이전트"
    ]
   },
   {
@@ -2950,83 +3026,6 @@
    "tags": [
     "AI 에이전트",
     "투자"
-   ]
-  },
-  {
-   "id": "e97b0389b4095795",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213649",
-   "source": "AI타임스",
-   "title": "리얼월드, 국내 3사와 엔비디아 '아이작' 벤치마크 고도화 나선다",
-   "published_at": "2026-08-07T12:41:05+00:00",
-   "collected_at": "2026-08-07T05:47:28.842361+00:00",
-   "title_ko": "리얼월드, 엔비디아 '아이작' 기반 로봇 벤치마크 고도화",
-   "summary_ko": "리얼월드가 국내 로보틱스 기업들과 협력해 엔비디아 아이작 환경과 연동되는 휴머노이드 벤치마크 고도화에 나선다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "로보틱스"
-   ]
-  },
-  {
-   "id": "f53a2c58b6209646",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213646",
-   "source": "AI타임스",
-   "title": "오픈AI, 챗GPT 무료 텍스트 대화 무제한 전환…'GPT-5.6 루나' 탑재",
-   "published_at": "2026-08-07T12:39:06+00:00",
-   "collected_at": "2026-08-07T05:47:28.842361+00:00",
-   "title_ko": "오픈AI, 챗GPT 무료 텍스트 대화 무제한 제공",
-   "summary_ko": "오픈AI가 WAU 10억 명 돌파를 기념해 챗GPT 무료 사용자에게 텍스트 채팅을 무제한 제공하고 새 모델을 적용한다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "GPT"
-   ]
-  },
-  {
-   "id": "8822f490e885eacd",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhz989/a_llamacpp_pr_makes_q2_0_3036x_faster_on_x86_cpus/",
-   "source": "r/LocalLLaMA",
-   "title": "A llama.cpp PR makes Q2_0 3.0–3.6x faster on x86 CPUs, 8B decode goes 2.39 → 8.20 tok/s",
-   "published_at": "2026-08-07T12:27:41+00:00",
-   "collected_at": "2026-08-07T13:23:23.605259+00:00",
-   "title_ko": "llama.cpp, x86 CPU에서 Q2_0 연산 속도 최대 3.6배 향상",
-   "summary_ko": "x86 VNNI 구현을 도입한 llama.cpp 풀 리퀘스트를 통해 CPU 환경에서의 로컬 LLM 추론 속도가 크게 개선되었습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "CPU 추론"
-   ]
-  },
-  {
-   "id": "1e6742acdaf117d5",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213644",
-   "source": "AI타임스",
-   "title": "\"제품 불량·주가 예측까지\"...LG, 산업 특화 AI 2종 SOTA 달성",
-   "published_at": "2026-08-07T12:20:43+00:00",
-   "collected_at": "2026-08-07T03:56:04.432177+00:00",
-   "title_ko": "LG AI연구원, 산업 특화 AI 2종 글로벌 SOTA 달성",
-   "summary_ko": "LG AI연구원의 정형 데이터 및 시계열 파운데이션 모델이 글로벌 리더보드에서 최고 성능을 기록했습니다. 산업 현장의 실무 데이터 분석 능력을 크게 높일 것으로 기대됩니다.",
-   "category": "속보",
-   "tags": [
-    "EXAONE",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "7b94c5700b1e5c09",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhz2rc/labyrinthbench_a_localfocused_judgefree_llm/",
-   "source": "r/LocalLLaMA",
-   "title": "LabyrinthBench: a local-focused, judge-free LLM benchmark that measures context recall under interference for multi-step agentic tasks.",
-   "published_at": "2026-08-07T12:19:35+00:00",
-   "collected_at": "2026-08-07T13:23:23.605259+00:00",
-   "title_ko": "로컬 환경 중심의 LLM 컨텍스트 회복력 측정 벤치마크 'LabyrinthBench' 공개",
-   "summary_ko": "LLM 판사 없이 에이전트 작업의 장기 컨텍스트 유지력을 결정론적으로 측정할 수 있는 새로운 벤치마크가 나왔습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "벤치마크",
-    "LLM"
    ]
   }
  ]
