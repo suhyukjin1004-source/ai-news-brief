@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-09T09:50:37.654435+00:00",
+ "updated_at": "2026-08-09T10:45:45.473023+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -125,6 +125,21 @@
    "tags": [
     "OpenAI",
     "GPT",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "3d44040986b8627d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjm6dn/300b_on_32gb_moestreaming_findings_optimisations/",
+   "source": "r/LocalLLaMA",
+   "title": "300b on 32gb MoE-streaming findings + optimisations",
+   "published_at": "2026-08-09T10:14:06+00:00",
+   "collected_at": "2026-08-09T10:45:29.799472+00:00",
+   "title_ko": "32GB 노트북에서 300B MoE 모델 구동 최적화 연구",
+   "summary_ko": "제한된 하드웨어 환경에서 대형 MoE 모델을 실행하기 위해 읽기 속도 개선, 파이프라인 적용, 전문가 사전 인출 등의 최적화 기법을 테스트한 결과입니다. 저사양 환경에서 대형 모델 추론 효율을 높이는 데 기여합니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
     "AI 에이전트"
    ]
   },
@@ -3012,20 +3027,6 @@
    "tags": [
     "규제",
     "오픈소스"
-   ]
-  },
-  {
-   "id": "7a1590c8bb4a1cf8",
-   "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
-   "source": "Hacker News",
-   "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
-   "published_at": "2026-08-07T00:37:30+00:00",
-   "collected_at": "2026-08-07T11:02:24.700070+00:00",
-   "title_ko": "뉴올리언스, AI 기반 긴급전화 분류 소프트웨어 테스트 도입",
-   "summary_ko": "미국 뉴올리언스가 응급 전화 대응의 효율성을 높이기 위해 AI 기반 긴급 전화 분류 소프트웨어를 테스트 도입했다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
    ]
   }
  ]
