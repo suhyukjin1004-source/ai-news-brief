@@ -1,5 +1,37 @@
 [
  {
+  "id": "e014a5bd0cb9ebb0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vksqju/i_compared_gguf_quants_of_qwen36_27b_to_nvfp4_awq/",
+  "source": "r/LocalLLaMA",
+  "title": "I compared GGUF quants of Qwen3.6 27B to NVFP4, AWQ, AutoRound, and FP8",
+  "published_at": "2026-08-10T18:16:29+00:00",
+  "collected_at": "2026-08-10T19:09:09.504329+00:00",
+  "title_ko": "Qwen3.6 27B 양자화 포맷 성능 비교",
+  "summary_ko": "GGUF 양자화 포맷을 NVFP4, AWQ, AutoRound, FP8 등 다양한 포맷과 비교하여 KL 발산(KL-divergence) 기준으로 성능 차이를 분석했습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "모델"
+  ]
+ },
+ {
+  "id": "3237ef18172fcee1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vksbd9/glimmer_2334_tps_on_5090_with_dflash/",
+  "source": "r/LocalLLaMA",
+  "title": "Glimmer: 233.4 tps on 5090 with Dflash",
+  "published_at": "2026-08-10T18:01:20+00:00",
+  "collected_at": "2026-08-10T19:09:09.504329+00:00",
+  "title_ko": "Glimmer 모델, RTX 5090에서 233.4 tps 달성",
+  "summary_ko": "새로운 모델인 Glimmer가 Dflash 기술을 활용해 5090 GPU에서 초당 233.4 토큰의 속도를 기록하며 24GB 환경에서도 256k 컨텍스트를 지원합니다.",
+  "category": "속보",
+  "tags": [
+   "NVIDIA",
+   "오픈소스",
+   "모델"
+  ]
+ },
+ {
   "id": "6f4b17b404df60b9",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213735",
   "source": "AI타임스",
