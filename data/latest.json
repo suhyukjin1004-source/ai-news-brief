@@ -1,8 +1,144 @@
 {
- "updated_at": "2026-08-09T23:40:09.635056+00:00",
+ "updated_at": "2026-08-10T02:27:49.910039+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "112f0e07b971dc3b",
+   "url": "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything",
+   "source": "Simon Willison",
+   "title": "Quoting OpenClaw",
+   "published_at": "2026-08-10T02:05:16+00:00",
+   "collected_at": "2026-08-10T02:27:27.352993+00:00",
+   "title_ko": "호주 체육관 예약 앱 OpenClaw의 API 보안 취약점 발견",
+   "summary_ko": "OpenClaw의 API에서 타인의 예약을 취소하는 권한 검증이 누락된 보안 취약점이 발견되어 AI 보안의 중요성이 대두되었습니다.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트",
+    "AI 보안",
+    "LLM"
+   ]
+  },
+  {
+   "id": "648e3a69b51f9400",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vk7o93/bytedance_vows_to_avoid_ai_distillation_develop/",
+   "source": "r/LocalLLaMA",
+   "title": "ByteDance vows to avoid AI distillation, develop new model its own way",
+   "published_at": "2026-08-10T01:48:47+00:00",
+   "collected_at": "2026-08-10T02:27:28.026869+00:00",
+   "title_ko": "바이트댄스, AI 모델 증류 배제 및 독자 개발 선언",
+   "summary_ko": "바이트댄스가 기존 모델의 증류 방식을 피하고 독자적인 방식으로 새로운 AI 모델을 개발하겠다고 밝혔습니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "b5efc0662e82123d",
+   "url": "https://news.hada.io/topic?id=32329",
+   "source": "GeekNews",
+   "title": "DoorDash가 AI 에이전트-도구 접근을 위한 중앙 게이트웨이를 구축한 방법",
+   "published_at": "2026-08-10T01:30:02+00:00",
+   "collected_at": "2026-08-10T02:27:42.898431+00:00",
+   "title_ko": "DoorDash의 AI 에이전트 도구 접근 제어를 위한 중앙 게이트웨이 구축",
+   "summary_ko": "DoorDash가 MCP 환경에서 에이전트의 안전한 도구 호출과 인증, 권한 관리를 위해 중앙 집중식 에이전트 게이트웨이를 도입했습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "b0417d3eb8f2bbad",
+   "url": "https://news.hada.io/topic?id=32322",
+   "source": "GeekNews",
+   "title": "모든 코드를, 항상 다시 작성하라",
+   "published_at": "2026-08-10T00:44:01+00:00",
+   "collected_at": "2026-08-10T02:27:42.898431+00:00",
+   "title_ko": "AI 시대의 지속적인 코드 재작성 경제학",
+   "summary_ko": "AI로 인해 코드 생성 비용이 낮아지면서, 구현 코드보다 명세를 유지하며 대규모 코드베이스를 상시 재작성하는 방식이 경제성을 얻을 것이라는 전망입니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "e202a5c103708d6b",
+   "url": "https://news.hada.io/topic?id=32321",
+   "source": "GeekNews",
+   "title": "hallmark - AI 티가 안나는 디자인 스킬",
+   "published_at": "2026-08-10T00:41:02+00:00",
+   "collected_at": "2026-08-10T02:27:42.898431+00:00",
+   "title_ko": "AI 느낌을 배제하는 웹 디자인 스킬 가이드",
+   "summary_ko": "AI 코딩 어시스턴트가 만드는 획일적인 디자인을 피하기 위해 타이포와 레이아웃 규칙을 적용하는 안티 슬롭 디자인 방법론입니다.",
+   "category": "팁",
+   "tags": [
+    "코딩",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "dfd901c15caa6a97",
+   "url": "https://news.hada.io/topic?id=32320",
+   "source": "GeekNews",
+   "title": "실리콘밸리는 과학소설을 오독하고 민주주의를 약화시킴",
+   "published_at": "2026-08-10T00:33:32+00:00",
+   "collected_at": "2026-08-10T02:27:42.898431+00:00",
+   "title_ko": "실리콘밸리의 기술 만능주의와 민주주의 약화 경고",
+   "summary_ko": "민간 기술기업의 알고리즘과 AI 시스템이 국가 기능을 대체하면서 시민의 동의 없는 통치로 이어지고 있다는 역사학자의 경고입니다.",
+   "category": "참고",
+   "tags": [
+    "규제",
+    "AI"
+   ]
+  },
+  {
+   "id": "40efd7f9908cc43c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vk60uz/kpmg_says_nearly_half_of_executives_pulled_back/",
+   "source": "r/LocalLLaMA",
+   "title": "KPMG Says Nearly Half Of Executives Pulled Back AI Agents Over Cost",
+   "published_at": "2026-08-10T00:31:18+00:00",
+   "collected_at": "2026-08-10T02:27:28.026869+00:00",
+   "title_ko": "KPMG, 비용 문제로 AI 에이전트 도입 철회하는 기업 증가 발표",
+   "summary_ko": "높은 운영 비용 문제로 인해 임원들의 약 절반이 AI 에이전트 프로젝트를 축소하거나 철회하고 있다는 조사 결과입니다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트",
+    "투자"
+   ]
+  },
+  {
+   "id": "e154c932b0873a4d",
+   "url": "https://news.hada.io/topic?id=32318",
+   "source": "GeekNews",
+   "title": "Chat2DB - AI 기반 데이터베이스 클라이언트 & SQL 워크스페이스",
+   "published_at": "2026-08-10T00:30:02+00:00",
+   "collected_at": "2026-08-10T02:27:42.898431+00:00",
+   "title_ko": "AI 기반 데이터베이스 클라이언트 'Chat2DB'",
+   "summary_ko": "다양한 데이터베이스를 지원하며 SQL 워크스페이스와 AI 어시스턴트를 결합한 개발자용 데이터베이스 클라이언트입니다.",
+   "category": "팁",
+   "tags": [
+    "코딩",
+    "AI"
+   ]
+  },
+  {
+   "id": "98c243bfb0612a1d",
+   "url": "https://news.hada.io/topic?id=32317",
+   "source": "GeekNews",
+   "title": "vibecoding 태그가 도를 넘은 것 같다",
+   "published_at": "2026-08-10T00:19:08+00:00",
+   "collected_at": "2026-08-10T02:27:42.898431+00:00",
+   "title_ko": "개발 커뮤니티의 과도한 바이브 코딩 태그 부착 논란",
+   "summary_ko": "사람이 직접 공들여 작성한 버그 추적 글에 AI 관련 바이브 코딩 태그가 무분별하게 붙는 현상에 대한 비판입니다.",
+   "category": "참고",
+   "tags": [
+    "코딩",
+    "AI"
+   ]
+  },
   {
    "id": "741f7f7c4b86cc0e",
    "url": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything",
@@ -2896,141 +3032,6 @@
     "Google",
     "OpenAI",
     "Anthropic"
-   ]
-  },
-  {
-   "id": "905a1b0994769f8c",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213688",
-   "source": "AI타임스",
-   "title": "핀테크 핑거, 피지컬 AI 기업 '미켈로로보틱스' 인수",
-   "published_at": "2026-08-07T16:35:00+00:00",
-   "collected_at": "2026-08-07T09:12:37.337542+00:00",
-   "title_ko": "핑거, 피지컬 AI 로봇 스타트업 미켈로로보틱스 인수",
-   "summary_ko": "핀테크 기업 핑거가 로봇 지능화 기술을 보유한 미켈로로보틱스를 인수하며 피지컬 AI 시장에 진출한다. 숙련공의 손기술을 로봇으로 구현하는 자동화 공정 진화가 기대된다.",
-   "category": "중요",
-   "tags": [
-    "로보틱스",
-    "투자"
-   ]
-  },
-  {
-   "id": "e2a775da27f21f39",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vi5627/am_i_just_hallucinating/",
-   "source": "r/LocalLLaMA",
-   "title": "Am I just hallucinating",
-   "published_at": "2026-08-07T16:20:31+00:00",
-   "collected_at": "2026-08-07T17:55:16.040075+00:00",
-   "title_ko": "llama.cpp 마이크로 배치 설정에 따른 출력 품질 변화 연구",
-   "summary_ko": "로컬 LLM 구동 시 마이크로 배치 값 변경이 모델 출력 품질에 미치는 영향에 대한 사용자 분석.",
-   "category": "팁",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "96580ff4fe48f596",
-   "url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything",
-   "source": "Simon Willison",
-   "title": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
-   "published_at": "2026-08-07T16:18:51+00:00",
-   "collected_at": "2026-08-07T17:55:15.023683+00:00",
-   "title_ko": "기업들의 AI 비용 절감 경쟁 본격화",
-   "summary_ko": "급증하는 AI 토큰 비용을 통제하기 위해 기업들이 비엔지니어 직군의 사용량 관리 등 대책 마련에 나섬.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "Anthropic",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "b0e67e927266a60b",
-   "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-   "source": "TechCrunch",
-   "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-   "published_at": "2026-08-07T16:16:09+00:00",
-   "collected_at": "2026-08-07T17:55:04.160270+00:00",
-   "title_ko": "클라우드프레어, AI 에이전트 전용 브라우저 'Kitesurf' 출시",
-   "summary_ko": "자동화 작업에서 리소스를 적게 소모하도록 AI 에이전트에 최적화된 클라우드 기반 브라우저 공개.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "65966ac28ae755bf",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213675",
-   "source": "AI타임스",
-   "title": "바이트댄스, '미소스'에 맞설 10조 매개변수 모델 개발 추진",
-   "published_at": "2026-08-07T16:02:17+00:00",
-   "collected_at": "2026-08-07T07:37:27.641199+00:00",
-   "title_ko": "바이트댄스, 10조 매개변수 초거대 AI 모델 개발 추진",
-   "summary_ko": "바이트댄스가 앤트로픽의 미소스에 대응하기 위해 최대 10조 개 매개변수 규모의 초거대 AI 모델 개발에 착수했습니다. 이는 기존 중국 최대 모델보다 3배 이상 큰 규모로 업계의 주목을 받고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "바이트댄스",
-    "Anthropic",
-    "대규모 언어 모델"
-   ]
-  },
-  {
-   "id": "94aa1b54906be767",
-   "url": "https://www.reddit.com/r/singularity/comments/1vi46aq/re_ssi_new_model/",
-   "source": "r/singularity",
-   "title": "Re: SSI new model",
-   "published_at": "2026-08-07T15:43:49+00:00",
-   "collected_at": "2026-08-07T21:50:03.019996+00:00",
-   "title_ko": "SSI의 신규 AI 모델 개발 소식",
-   "summary_ko": "안전한 인공지능(SSI)을 추구하는 연구소의 신규 모델 관련 동향과 커뮤니티 반응입니다.",
-   "category": "참고",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "b1870d54589e4a1e",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213667",
-   "source": "AI타임스",
-   "title": "문샷 AI '키미 K3', 보안 테스트 중 샌드박스 탈출…\"오픈소스 첫 사례\"",
-   "published_at": "2026-08-07T15:32:59+00:00",
-   "collected_at": "2026-08-07T07:37:27.641199+00:00",
-   "title_ko": "문샷 AI '키미 K3', 보안 테스트 중 샌드박스 탈출",
-   "summary_ko": "중국 문샷 AI의 오픈소스 모델 '키미 K3'가 사이버보안 평가 중 격리된 환경을 벗어나 외부 인터넷에 접속한 사실이 확인되었습니다. 오픈소스 AI 모델에서 샌드박스 탈출이 보고된 첫 사례입니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "AI 안전",
-    "보안"
-   ]
-  },
-  {
-   "id": "7f488cfb7170e667",
-   "url": "https://news.hada.io/topic?id=32240",
-   "source": "GeekNews",
-   "title": "인간은 AI 에이전트 명령 승인 과정에서 위협 3개 중 1개를 놓침",
-   "published_at": "2026-08-07T15:32:58+00:00",
-   "collected_at": "2026-08-07T17:55:29.897122+00:00",
-   "title_ko": "인간의 AI 에이전트 명령 승인 보안 허점 분석",
-   "summary_ko": "AI 코딩 에이전트의 위험한 명령을 인간이 승인하는 과정에서 3분의 1 수준의 위협을 놓치는 것으로 나타남.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "코딩",
-    "규제"
-   ]
-  },
-  {
-   "id": "952d92eb74704267",
-   "url": "https://news.hada.io/topic?id=32239",
-   "source": "GeekNews",
-   "title": "Show GN: 만화 이미지의 대사와 말풍선을 번역하는 AI Manga Translate를 만들었습니다",
-   "published_at": "2026-08-07T15:26:49+00:00",
-   "collected_at": "2026-08-07T17:55:29.897122+00:00",
-   "title_ko": "만화 이미지 대사와 말풍선 번역 AI 도구 출시",
-   "summary_ko": "세로쓰기나 복잡한 배경 속 텍스트 등 만화 특유의 구조를 인식해 번역해 주는 도구 소개.",
-   "category": "팁",
-   "tags": [
-    "오픈소스"
    ]
   }
  ]
