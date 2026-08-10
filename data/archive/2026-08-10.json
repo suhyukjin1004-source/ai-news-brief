@@ -1,5 +1,20 @@
 [
  {
+  "id": "71054a296fa5d3d0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkn16q/early_signs_that_museglimmer30b_might_quantize/",
+  "source": "r/LocalLLaMA",
+  "title": "Early signs that Muse-Glimmer-30B might quantize *very* well? Share your experiences.",
+  "published_at": "2026-08-10T14:51:27+00:00",
+  "collected_at": "2026-08-10T15:09:41.450841+00:00",
+  "title_ko": "Muse-Glimmer-30B 양자화 성능 평가",
+  "summary_ko": "Muse-Glimmer-30B 모델의 양자화 효율성과 사용자 경험에 대한 논의가 이루어지고 있습니다. 로컬 환경에서 대형 모델을 효율적으로 실행하는 데 도움이 됩니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
   "id": "c7e2495a2e0ac4a9",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213734",
   "source": "AI타임스",
@@ -13,6 +28,52 @@
    "OpenAI",
    "Anthropic",
    "Meta"
+  ]
+ },
+ {
+  "id": "29d475cef37e5c35",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkmhyl/best_local_llms_august_2026/",
+  "source": "r/LocalLLaMA",
+  "title": "Best Local LLMs - August 2026",
+  "published_at": "2026-08-10T14:31:16+00:00",
+  "collected_at": "2026-08-10T15:09:41.450841+00:00",
+  "title_ko": "2026년 8월 추천 오픈 웨이트 로컬 LLM",
+  "summary_ko": "오픈 웨이트 모델의 발전으로 폐쇄형 프론티어 모델과 경쟁하는 수준의 모델들이 일반 하드웨어에서 구동 가능해졌습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "6f027f788573855e",
+  "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+  "source": "Google AI",
+  "title": "Evolve your marketing with new AI tools",
+  "published_at": "2026-08-10T14:30:00+00:00",
+  "collected_at": "2026-08-10T15:09:21.949621+00:00",
+  "title_ko": "구글, 마케팅용 신규 AI 도구 출시",
+  "summary_ko": "구글 애즈와 구글 애널리틱스에 새로운 AI 기반 어드바이저 UI가 도입되어 마케팅 고도화를 지원합니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "e95a4edfeb31af64",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkm42m/muse_glimmer_actually_fits_on_a_single_rtx_3090/",
+  "source": "r/LocalLLaMA",
+  "title": "Muse Glimmer ACTUALLY fits on a single RTX 3090",
+  "published_at": "2026-08-10T14:16:56+00:00",
+  "collected_at": "2026-08-10T15:09:41.450841+00:00",
+  "title_ko": "단일 RTX 3090에서 구동되는 Muse Glimmer 30B",
+  "summary_ko": "Muse Glimmer 30B 모델이 단일 RTX 3090 GPU에서 256k 전체 컨텍스트와 함께 원활하게 실행되는 것이 확인되었습니다.",
+  "category": "팁",
+  "tags": [
+   "NVIDIA",
+   "오픈소스",
+   "LLM"
   ]
  },
  {
@@ -31,6 +92,21 @@
   ]
  },
  {
+  "id": "d25f1ff663eeb884",
+  "url": "https://news.hada.io/topic?id=32363",
+  "source": "GeekNews",
+  "title": "Show GN: AI 에이전트가 요구사항과 조사 자료를 연결하고, 한국어 표현을 검토하도록 하는 방법에 대해서",
+  "published_at": "2026-08-10T14:06:35+00:00",
+  "collected_at": "2026-08-10T15:10:00.942103+00:00",
+  "title_ko": "AI 에이전트를 활용한 요구사항 및 문서 관리 방법",
+  "summary_ko": "프로젝트 진행 시 중복되거나 분산되기 쉬운 요구사항과 리서치 자료를 AI 에이전트로 체계적으로 연결하는 방법입니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
   "id": "af664ec62a93f426",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213742",
   "source": "AI타임스",
@@ -42,6 +118,21 @@
   "category": "참고",
   "tags": [
    "의료AI"
+  ]
+ },
+ {
+  "id": "61282b7420ed0675",
+  "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+  "source": "OpenAI",
+  "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+  "published_at": "2026-08-10T14:00:00+00:00",
+  "collected_at": "2026-08-10T15:09:21.728271+00:00",
+  "title_ko": "OpenAI, 텍사스 주지사에게 책임 있는 AI 인프라 서한 발송",
+  "summary_ko": "OpenAI가 텍사스주 그레그 애벗 주지사에게 책임감 있고 투명한 AI 인프라 성장을 약속하는 서한을 보냈습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "규제"
   ]
  },
  {
@@ -85,6 +176,37 @@
   "category": "참고",
   "tags": [
    "네이버"
+  ]
+ },
+ {
+  "id": "5bd9b6a852ab3a21",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkl6cs/motiftechnologiesmotif3_official_realese/",
+  "source": "r/LocalLLaMA",
+  "title": "Motif-Technologies/Motif-3 official realese",
+  "published_at": "2026-08-10T13:40:04+00:00",
+  "collected_at": "2026-08-10T15:09:41.450841+00:00",
+  "title_ko": "한국 파운데이션 모델 프로젝트 Motif-3 공식 출시",
+  "summary_ko": "국내 AI 파운데이션 모델 프로젝트에 참여한 Motif-Technologies가 Motif-3를 공식 출시하며 성능 경쟁에 합류했습니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "19fcf315eab8e66a",
+  "url": "https://news.hada.io/topic?id=32362",
+  "source": "GeekNews",
+  "title": "Meta Muse Glimmer - 기기에서 실행하는 오픈 웨이트 30B 코딩 모델",
+  "published_at": "2026-08-10T13:32:35+00:00",
+  "collected_at": "2026-08-10T15:10:00.942103+00:00",
+  "title_ko": "Meta, 온디바이스 30B 코딩 모델 Muse Glimmer 공개",
+  "summary_ko": "Meta가 Apache 2.0 라이선스로 단일 소비자용 GPU에서 실행 가능한 로컬 에이전트 모델 Muse Glimmer를 공개했습니다.",
+  "category": "속보",
+  "tags": [
+   "Meta",
+   "오픈소스",
+   "AI 에이전트"
   ]
  },
  {
@@ -206,6 +328,21 @@
   "tags": [
    "Meta",
    "투자"
+  ]
+ },
+ {
+  "id": "53e3f99448d419cd",
+  "url": "https://bobdahacker.com/blog/tldv-hack",
+  "source": "Hacker News",
+  "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
+  "published_at": "2026-08-10T12:26:05+00:00",
+  "collected_at": "2026-08-10T15:09:23.854253+00:00",
+  "title_ko": "AI 노트 앱에서 18만 건 이상의 미팅 녹음 유출",
+  "summary_ko": "노트 테이킹 AI 앱의 보안 취약점으로 인해 18만 1천 건 이상의 AI 미팅 녹음 데이터가 외부로 노출되는 사고가 발생했습니다.",
+  "category": "속보",
+  "tags": [
+   "규제",
+   "AI 에이전트"
   ]
  },
  {

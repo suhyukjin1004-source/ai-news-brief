@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-10T13:36:07.966068+00:00",
+ "updated_at": "2026-08-10T15:10:04.749536+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -136,6 +136,21 @@
    ]
   },
   {
+   "id": "71054a296fa5d3d0",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkn16q/early_signs_that_museglimmer30b_might_quantize/",
+   "source": "r/LocalLLaMA",
+   "title": "Early signs that Muse-Glimmer-30B might quantize *very* well? Share your experiences.",
+   "published_at": "2026-08-10T14:51:27+00:00",
+   "collected_at": "2026-08-10T15:09:41.450841+00:00",
+   "title_ko": "Muse-Glimmer-30B 양자화 성능 평가",
+   "summary_ko": "Muse-Glimmer-30B 모델의 양자화 효율성과 사용자 경험에 대한 논의가 이루어지고 있습니다. 로컬 환경에서 대형 모델을 효율적으로 실행하는 데 도움이 됩니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
    "id": "c7e2495a2e0ac4a9",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213734",
    "source": "AI타임스",
@@ -149,6 +164,52 @@
     "OpenAI",
     "Anthropic",
     "Meta"
+   ]
+  },
+  {
+   "id": "29d475cef37e5c35",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkmhyl/best_local_llms_august_2026/",
+   "source": "r/LocalLLaMA",
+   "title": "Best Local LLMs - August 2026",
+   "published_at": "2026-08-10T14:31:16+00:00",
+   "collected_at": "2026-08-10T15:09:41.450841+00:00",
+   "title_ko": "2026년 8월 추천 오픈 웨이트 로컬 LLM",
+   "summary_ko": "오픈 웨이트 모델의 발전으로 폐쇄형 프론티어 모델과 경쟁하는 수준의 모델들이 일반 하드웨어에서 구동 가능해졌습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "6f027f788573855e",
+   "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+   "source": "Google AI",
+   "title": "Evolve your marketing with new AI tools",
+   "published_at": "2026-08-10T14:30:00+00:00",
+   "collected_at": "2026-08-10T15:09:21.949621+00:00",
+   "title_ko": "구글, 마케팅용 신규 AI 도구 출시",
+   "summary_ko": "구글 애즈와 구글 애널리틱스에 새로운 AI 기반 어드바이저 UI가 도입되어 마케팅 고도화를 지원합니다.",
+   "category": "속보",
+   "tags": [
+    "Google",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "e95a4edfeb31af64",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkm42m/muse_glimmer_actually_fits_on_a_single_rtx_3090/",
+   "source": "r/LocalLLaMA",
+   "title": "Muse Glimmer ACTUALLY fits on a single RTX 3090",
+   "published_at": "2026-08-10T14:16:56+00:00",
+   "collected_at": "2026-08-10T15:09:41.450841+00:00",
+   "title_ko": "단일 RTX 3090에서 구동되는 Muse Glimmer 30B",
+   "summary_ko": "Muse Glimmer 30B 모델이 단일 RTX 3090 GPU에서 256k 전체 컨텍스트와 함께 원활하게 실행되는 것이 확인되었습니다.",
+   "category": "팁",
+   "tags": [
+    "NVIDIA",
+    "오픈소스",
+    "LLM"
    ]
   },
   {
@@ -167,6 +228,21 @@
    ]
   },
   {
+   "id": "d25f1ff663eeb884",
+   "url": "https://news.hada.io/topic?id=32363",
+   "source": "GeekNews",
+   "title": "Show GN: AI 에이전트가 요구사항과 조사 자료를 연결하고, 한국어 표현을 검토하도록 하는 방법에 대해서",
+   "published_at": "2026-08-10T14:06:35+00:00",
+   "collected_at": "2026-08-10T15:10:00.942103+00:00",
+   "title_ko": "AI 에이전트를 활용한 요구사항 및 문서 관리 방법",
+   "summary_ko": "프로젝트 진행 시 중복되거나 분산되기 쉬운 요구사항과 리서치 자료를 AI 에이전트로 체계적으로 연결하는 방법입니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
    "id": "af664ec62a93f426",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213742",
    "source": "AI타임스",
@@ -178,6 +254,21 @@
    "category": "참고",
    "tags": [
     "의료AI"
+   ]
+  },
+  {
+   "id": "61282b7420ed0675",
+   "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+   "source": "OpenAI",
+   "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+   "published_at": "2026-08-10T14:00:00+00:00",
+   "collected_at": "2026-08-10T15:09:21.728271+00:00",
+   "title_ko": "OpenAI, 텍사스 주지사에게 책임 있는 AI 인프라 서한 발송",
+   "summary_ko": "OpenAI가 텍사스주 그레그 애벗 주지사에게 책임감 있고 투명한 AI 인프라 성장을 약속하는 서한을 보냈습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "규제"
    ]
   },
   {
@@ -221,6 +312,37 @@
    "category": "참고",
    "tags": [
     "네이버"
+   ]
+  },
+  {
+   "id": "5bd9b6a852ab3a21",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkl6cs/motiftechnologiesmotif3_official_realese/",
+   "source": "r/LocalLLaMA",
+   "title": "Motif-Technologies/Motif-3 official realese",
+   "published_at": "2026-08-10T13:40:04+00:00",
+   "collected_at": "2026-08-10T15:09:41.450841+00:00",
+   "title_ko": "한국 파운데이션 모델 프로젝트 Motif-3 공식 출시",
+   "summary_ko": "국내 AI 파운데이션 모델 프로젝트에 참여한 Motif-Technologies가 Motif-3를 공식 출시하며 성능 경쟁에 합류했습니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "19fcf315eab8e66a",
+   "url": "https://news.hada.io/topic?id=32362",
+   "source": "GeekNews",
+   "title": "Meta Muse Glimmer - 기기에서 실행하는 오픈 웨이트 30B 코딩 모델",
+   "published_at": "2026-08-10T13:32:35+00:00",
+   "collected_at": "2026-08-10T15:10:00.942103+00:00",
+   "title_ko": "Meta, 온디바이스 30B 코딩 모델 Muse Glimmer 공개",
+   "summary_ko": "Meta가 Apache 2.0 라이선스로 단일 소비자용 GPU에서 실행 가능한 로컬 에이전트 모델 Muse Glimmer를 공개했습니다.",
+   "category": "속보",
+   "tags": [
+    "Meta",
+    "오픈소스",
+    "AI 에이전트"
    ]
   },
   {
@@ -342,6 +464,21 @@
    "tags": [
     "Meta",
     "투자"
+   ]
+  },
+  {
+   "id": "53e3f99448d419cd",
+   "url": "https://bobdahacker.com/blog/tldv-hack",
+   "source": "Hacker News",
+   "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
+   "published_at": "2026-08-10T12:26:05+00:00",
+   "collected_at": "2026-08-10T15:09:23.854253+00:00",
+   "title_ko": "AI 노트 앱에서 18만 건 이상의 미팅 녹음 유출",
+   "summary_ko": "노트 테이킹 AI 앱의 보안 취약점으로 인해 18만 1천 건 이상의 AI 미팅 녹음 데이터가 외부로 노출되는 사고가 발생했습니다.",
+   "category": "속보",
+   "tags": [
+    "규제",
+    "AI 에이전트"
    ]
   },
   {
@@ -2883,141 +3020,6 @@
     "오픈소스",
     "LLM",
     "온디바이스"
-   ]
-  },
-  {
-   "id": "a909d1c9f8294b0c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vinr66/qwen_35ba3b_moe_vs_27b_dense_in_local_coding/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen 35B-A3B MoE vs 27B dense in local coding tests: ~4× faster, much smaller quality gap than I expected",
-   "published_at": "2026-08-08T05:44:38+00:00",
-   "collected_at": "2026-08-08T05:50:45.775038+00:00",
-   "title_ko": "Qwen MoE 모델과 Dense 모델의 로컬 코딩 성능 비교",
-   "summary_ko": "Qwen 35B MoE 모델이 27B Dense 모델보다 약 4배 빠른 속도를 보이면서도 코딩 성능 차이는 크지 않아 로컬 환경에서 효율적인 대안임을 확인했습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "766a27c21df7c20a",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vimxq5/4x2080ti_22gb_tensor_parallel_possible/",
-   "source": "r/LocalLLaMA",
-   "title": "4x2080Ti 22GB tensor parallel possible?",
-   "published_at": "2026-08-08T04:59:55+00:00",
-   "collected_at": "2026-08-08T05:50:45.775038+00:00",
-   "title_ko": "RTX 2080Ti 멀티 GPU 텐서 병렬 구동 효용성 논의",
-   "summary_ko": "4개의 2080Ti 22GB 환경에서 텐서 병렬 처리와 플래시 어텐션 제약으로 인한 성능 이점에 대한 사용자 경험과 조언을 공유했습니다.",
-   "category": "팁",
-   "tags": [
-    "반도체"
-   ]
-  },
-  {
-   "id": "7f0fc9ad4f0f6015",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vim2gt/psa_for_anyone_with_multiple_v620s_or_other/",
-   "source": "r/LocalLLaMA",
-   "title": "PSA for anyone with multiple V620's or other gfx1030 cards having problems making llama.cpp tensor split work -- set \"-ub 384\" and -b to a multiple of that depending on number of GPUs",
-   "published_at": "2026-08-08T04:14:02+00:00",
-   "collected_at": "2026-08-08T05:50:45.775038+00:00",
-   "title_ko": "llama.cpp 텐서 분할 시 V620 GPU 충돌 해결 팁",
-   "summary_ko": "일부 AMD GPU 환경에서 llama.cpp 텐서 분할 구동 시 발생하는 메모리 손상 및 충돌 문제를 마이크로배치 설정 조절로 해결하는 방법입니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "b0819e9ac4d6f65d",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vilcil/i_got_tired_of_my_300gb_model_loads_taking_5min/",
-   "source": "r/LocalLLaMA",
-   "title": "I got tired of my 300GB model loads taking 5min on RPC. PR 26291 speeds it 300% to 1min30sec (4060ti+ddr4) + (4060ti+ddr5)",
-   "published_at": "2026-08-08T03:37:37+00:00",
-   "collected_at": "2026-08-08T04:16:57.018000+00:00",
-   "title_ko": "GGML RPC 모델 로딩 속도를 300% 개선한 패치",
-   "summary_ko": "RPC를 통한 300GB 모델 로딩 속도를 기존 5분에서 1분 30초대로 단축하는 개선안이 제안되었습니다. 대형 로컬 모델 구동 시 대기 시간을 크게 줄여줍니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "코딩"
-   ]
-  },
-  {
-   "id": "9be9b94c707b158c",
-   "url": "https://news.hada.io/topic?id=32259",
-   "source": "GeekNews",
-   "title": "2027년 메모리 생산 용량, 이미 매진된 것으로 알려져",
-   "published_at": "2026-08-08T03:32:13+00:00",
-   "collected_at": "2026-08-08T04:17:04.004654+00:00",
-   "title_ko": "2027년 AI용 메모리 생산 물량 조기 마감",
-   "summary_ko": "AI 기업들이 삼성전자, SK하이닉스, 마이크론의 2027년 DRAM 및 HBM 생산 물량을 장기 계약으로 선점한 것으로 알려졌습니다. AI 인프라 수요 급증을 보여주는 지표입니다.",
-   "category": "중요",
-   "tags": [
-    "반도체",
-    "투자",
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "86cdef80e3318847",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vikgrj/is_anyone_else_finding_deepseekv4flash_unreliable/",
-   "source": "r/LocalLLaMA",
-   "title": "Is anyone else finding DeepSeek-V4-Flash unreliable for non-coding tasks?",
-   "published_at": "2026-08-08T02:53:36+00:00",
-   "collected_at": "2026-08-08T04:16:57.018000+00:00",
-   "title_ko": "DeepSeek 비코딩 작업 신뢰도 논란",
-   "summary_ko": "DeepSeek 모델이 코딩 벤치마크에서는 높은 점수를 기록했음에도 일반 사무 및 텍스트 요약 등 비코딩 작업에서는 잦은 오류를 보여 실무 활용성에 의문이 제기되었습니다.",
-   "category": "참고",
-   "tags": [
-    "LLM",
-    "코딩"
-   ]
-  },
-  {
-   "id": "01ee502ff976808b",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vijp8y/us_department_of_energy_launches_the_genesis_open/",
-   "source": "r/LocalLLaMA",
-   "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative and, with Arcee, Unveils Genesis-Science-1 — Its First Open-Weight Model for Scientific Research",
-   "published_at": "2026-08-08T02:16:09+00:00",
-   "collected_at": "2026-08-08T04:16:57.018000+00:00",
-   "title_ko": "미 에너지부, 오픈소스 과학 연구 모델 'Genesis-Science-1' 공개",
-   "summary_ko": "미국 에너지부가 'Genesis 오픈 모델 이니셔티브'를 통해 과학 연구용 최초의 오픈웨이트 모델을 공개했습니다. 학술 연구 분야의 AI 활용이 가속화될 전망입니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "규제"
-   ]
-  },
-  {
-   "id": "b31f8bbcd789b6d4",
-   "url": "https://www.reddit.com/r/singularity/comments/1viide3/in_terms_of_my_personal_ranking_of_existential/",
-   "source": "r/singularity",
-   "title": "In terms of my personal ranking of existential risks, the threat of AI-engineered pandemics is starting to make it's way to the top in my mind ☣️",
-   "published_at": "2026-08-08T01:10:41+00:00",
-   "collected_at": "2026-08-08T02:11:04.312249+00:00",
-   "title_ko": "AI가 설계한 팬데믹 위험성에 대한 우려 증가",
-   "summary_ko": "프론티어 모델의 발전과 함께 AI가 새로운 바이러스를 생성할 수 있는 생물학적 위험성이 실존적 위협으로 대두되고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "db2ae04c22518664",
-   "url": "https://news.hada.io/topic?id=32257",
-   "source": "GeekNews",
-   "title": "평가 주도 개발 (Eval-driven development)",
-   "published_at": "2026-08-08T01:03:01+00:00",
-   "collected_at": "2026-08-08T04:17:04.004654+00:00",
-   "title_ko": "에어비앤비가 도입한 '평가 주도 개발(EDD)' 방법론",
-   "summary_ko": "에어비앤비가 비결정적 AI 출력을 안정적으로 관리하기 위해 평가를 핵심 엔지니어링 규율로 다루는 개발 방법론을 소개했습니다. LLM 애플리케이션의 신뢰성 확보에 기여합니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
    ]
   }
  ]
