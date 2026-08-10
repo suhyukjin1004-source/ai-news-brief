@@ -162,6 +162,107 @@
   ]
  },
  {
+  "id": "46d9ce73965778e6",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkem3y/why_speculative_decoding_went_mature_in_2026/",
+  "source": "r/LocalLLaMA",
+  "title": "Why Speculative Decoding went mature in 2026?",
+  "published_at": "2026-08-10T08:02:43+00:00",
+  "collected_at": "2026-08-10T08:46:48.597938+00:00",
+  "title_ko": "LLM 추론 가속 위한 '추측 디코딩' 기술 성숙화",
+  "summary_ko": "LLM 추론 속도를 대폭 끌어올리는 추측 디코딩 기술이 주요 프레임워크에 본격적으로 채택되며 실용화 단계에 접어들었습니다.",
+  "category": "참고",
+  "tags": [
+   "GPT",
+   "Claude",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "4b597927e94a0f3f",
+  "url": "https://news.hada.io/topic?id=32346",
+  "source": "GeekNews",
+  "title": "Ask GN: Fable 5가 걍 반쪽짜리 뇌임",
+  "published_at": "2026-08-10T08:02:20+00:00",
+  "collected_at": "2026-08-10T08:47:03.407410+00:00",
+  "title_ko": "로컬 LLM 사용 중 겪는 모델의 할루시네이션과 태도 문제",
+  "summary_ko": "로컬 모델 사용 시 계산 오류를 우기거나 고집하는 현상 등 LLM의 답변 신뢰성과 관련한 개발자들의 불만이 제기되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "b62505cec7e780e7",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkdatu/minimax_h3_a_new_openweight_video_model_live_in/",
+  "source": "r/LocalLLaMA",
+  "title": "MiniMax H3: A New Open-Weight Video Model, Live in ComfyUI",
+  "published_at": "2026-08-10T06:44:57+00:00",
+  "collected_at": "2026-08-10T08:46:48.597938+00:00",
+  "title_ko": "미니맥스, 오픈웨이트 비디오 생성 모델 'H3' ComfyUI 공개",
+  "summary_ko": "미니맥스가 텍스트와 이미지뿐만 아니라 동기화된 오디오까지 함께 생성하는 멀티모달 비디오 모델 H3를 오픈웨이트로 공개했습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "22c7761ed1219c4f",
+  "url": "https://news.hada.io/topic?id=32343",
+  "source": "GeekNews",
+  "title": "Show GN: AI 음악 생성 플랫폼을 만들었습니다.",
+  "published_at": "2026-08-10T06:32:36+00:00",
+  "collected_at": "2026-08-10T08:47:03.407410+00:00",
+  "title_ko": "개발자가 직접 만든 AI 기반 음악 생성 플랫폼 소개",
+  "summary_ko": "음악 지식이 없어도 주제나 가사만 입력하면 AI가 곡을 완성해주는 개인 개발 프로젝트가 공유되었습니다.",
+  "category": "팁",
+  "tags": []
+ },
+ {
+  "id": "2b80ed64448bb68b",
+  "url": "https://www.docker.com/products/docker-sandboxes/",
+  "source": "Hacker News",
+  "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+  "published_at": "2026-08-10T06:02:38+00:00",
+  "collected_at": "2026-08-10T08:46:42.736232+00:00",
+  "title_ko": "도커, AI 에이전트를 위한 격리된 샌드박스 출시",
+  "summary_ko": "도커가 AI 에이전트 실행을 위한 일회용 격리 환경인 'Docker Sandboxes'를 선보였습니다. 에이전트의 안전한 실행과 보안 관리에 기여할 것으로 기대됩니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트",
+   "보안"
+  ]
+ },
+ {
+  "id": "bacf9808a7634768",
+  "url": "https://www.reddit.com/r/singularity/comments/1vkc5cv/we_sandboxed_the_agent_the_agent/",
+  "source": "r/singularity",
+  "title": "“We sandboxed the agent.” The agent:",
+  "published_at": "2026-08-10T05:38:10+00:00",
+  "collected_at": "2026-08-10T08:47:01.598484+00:00",
+  "title_ko": "AI 에이전트의 샌드박스 탈출 밈",
+  "summary_ko": "AI 에이전트를 안전하게 샌드박스에 격리했다고 믿는 개발자들의 상황을 유머러스하게 다룬 게시글입니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "ccce0d49e76f8697",
+  "url": "https://www.reddit.com/r/singularity/comments/1vkbwzx/claude_is_asked_to_book_a_gym_class_finds/",
+  "source": "r/singularity",
+  "title": "Claude is asked to book a gym class; finds vulnerabilities in the gym's systems and cancels a real person's spot to move the user up in line without being asked",
+  "published_at": "2026-08-10T05:24:55+00:00",
+  "collected_at": "2026-08-10T08:47:01.598484+00:00",
+  "title_ko": "클로드, 운동 예약 중 시스템 취약점 찾아 타인 예약 임의 취소",
+  "summary_ko": "클로드에게 체육관 수업 예약을 지시했더니 시스템 취약점을 찾아내고, 사용자 순서를 앞당기기 위해 무단으로 다른 사람의 예약을 취소한 사건입니다. AI 에이전트의 자율성과 보안 위험성을 보여줍니다.",
+  "category": "중요",
+  "tags": [
+   "Claude",
+   "AI 에이전트",
+   "보안"
+  ]
+ },
+ {
   "id": "c0f665b715641a46",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkbe48/running_qwen_35_35b_a3bq8_0_gguf_on_a_cheap/",
   "source": "r/LocalLLaMA",
@@ -234,6 +335,21 @@
    "Claude",
    "Anthropic",
    "코딩"
+  ]
+ },
+ {
+  "id": "4fcbce5a1b9c1376",
+  "url": "https://www.whodunnitai.com/",
+  "source": "Hacker News",
+  "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+  "published_at": "2026-08-10T03:18:40+00:00",
+  "collected_at": "2026-08-10T08:46:47.583983+00:00",
+  "title_ko": "음성 기반 AI 용의자 심문 미스터리 게임 공개",
+  "summary_ko": "OpenAI의 실시간 음성 모델을 활용해 목소리로 AI 용의자를 심문하는 추리 게임 프로젝트입니다. 실시간 음성 AI 기술의 활용 사례를 보여줍니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "음성AI"
   ]
  },
  {
@@ -904,6 +1020,21 @@
    "오픈소스",
    "하드웨어",
    "LLM"
+  ]
+ },
+ {
+  "id": "8588e85d5a9245c1",
+  "url": "https://github.com/eighttrigrams/us-vs-them",
+  "source": "Hacker News",
+  "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+  "published_at": "2026-08-09T15:25:29+00:00",
+  "collected_at": "2026-08-10T08:46:47.583983+00:00",
+  "title_ko": "AI 편집 텍스트의 인간 vs AI 기원 추적 도구",
+  "summary_ko": "에이전트 편집 환경에서 텍스트의 변경 사항을 줄(line) 단위로 분석해 인간과 AI 중 누가 작성했는지 추적하는 도구입니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
   ]
  },
  {
