@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-10T15:10:04.749536+00:00",
+ "updated_at": "2026-08-10T17:03:27.153890+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -35,6 +35,22 @@
    ]
   },
   {
+   "id": "7a678e9a26d7e264",
+   "url": "https://openai.com/index/building-an-ai-native-finance-function",
+   "source": "OpenAI",
+   "title": "What building an AI-native finance function taught me",
+   "published_at": "2026-08-10T17:00:00+00:00",
+   "collected_at": "2026-08-10T17:02:39.000157+00:00",
+   "title_ko": "AI 네이티브 재무 조직 구축 교훈",
+   "summary_ko": "OpenAI CFO가 자동화된 예측부터 투자 수익률 관리까지 AI 기반 재무 부서 구축 경험에서 얻은 5가지 교훈을 공유했습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "AI 에이전트",
+    "투자"
+   ]
+  },
+  {
    "id": "0edbf82ef2ad0fb3",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213765",
    "source": "AI타임스",
@@ -47,6 +63,38 @@
    "tags": [
     "반도체",
     "로보틱스"
+   ]
+  },
+  {
+   "id": "e5b664a37aa39848",
+   "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+   "source": "Hugging Face",
+   "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+   "published_at": "2026-08-10T16:25:36+00:00",
+   "collected_at": "2026-08-10T17:02:40.050732+00:00",
+   "title_ko": "저지연 다국어 음성 에이전트 구축",
+   "summary_ko": "NVIDIA Magpie TTS를 활용해 오픈 가중치 기반의 저지연 다국어 음성 에이전트를 완전하게 배포하고 제어하는 방법을 다룹니다.",
+   "category": "팁",
+   "tags": [
+    "NVIDIA",
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "443080f5bab065d4",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkpm5p/deepseek_v4_flash_0731_is_the_killer_app_that_is/",
+   "source": "r/LocalLLaMA",
+   "title": "DeepSeek V4 Flash 0731 is the ‘killer app’ that is going to sell A LOT of DGX Sparks",
+   "published_at": "2026-08-10T16:25:32+00:00",
+   "collected_at": "2026-08-10T17:02:45.262438+00:00",
+   "title_ko": "딥시크 V4 플래시와 하드웨어 수요",
+   "summary_ko": "DeepSeek V4 Flash 모델이 뛰어난 코딩 및 에이전트 성능으로 NVIDIA 하드웨어 판매를 견인할 핵심 애플리케이션으로 주목받고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "반도체",
+    "AI 에이전트"
    ]
   },
   {
@@ -64,6 +112,21 @@
    ]
   },
   {
+   "id": "945000ec303ee7a5",
+   "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+   "source": "TechCrunch",
+   "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+   "published_at": "2026-08-10T16:20:13+00:00",
+   "collected_at": "2026-08-10T17:02:38.088354+00:00",
+   "title_ko": "메타의 신규 오픈 웨이트 AI 모델 'Glimmer'",
+   "summary_ko": "메타가 공개한 오픈 웨이트 모델 Muse Glimmer를 통해 저커버그의 초지능 비전과 접근성 격차를 엿볼 수 있습니다.",
+   "category": "중요",
+   "tags": [
+    "Meta",
+    "오픈소스"
+   ]
+  },
+  {
    "id": "cf29657c2dee8be7",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213730",
    "source": "AI타임스",
@@ -75,6 +138,53 @@
    "category": "중요",
    "tags": [
     "규제"
+   ]
+  },
+  {
+   "id": "4f026194e1980b72",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkoxd7/best_current_erp_base_model_that_are_smart_and/",
+   "source": "r/LocalLLaMA",
+   "title": "Best current ERP base model that are smart and uncensored?",
+   "published_at": "2026-08-10T16:01:01+00:00",
+   "collected_at": "2026-08-10T17:02:45.262438+00:00",
+   "title_ko": "최신 스마트 오픈소스 ERP 베이스 모델 탐색",
+   "summary_ko": "검열이 없고 성능이 뛰어난 대형 오픈소스 언어 모델을 실무에서 활용하는 사용자들의 평가와 비교입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "e9f0dea2a82ed027",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkobyt/ante_02_a_15mb_coding_agent_that_manages_llamacpp/",
+   "source": "r/LocalLLaMA",
+   "title": "Ante 0.2: a ~15MB coding agent that manages llama.cpp for you — point it at a GGUF and the whole agent loop runs offline",
+   "published_at": "2026-08-10T15:39:27+00:00",
+   "collected_at": "2026-08-10T17:02:45.262438+00:00",
+   "title_ko": "오프라인 실행 지원 코딩 에이전트 'Ante 0.2'",
+   "summary_ko": "llama.cpp를 자체 관리하며 GGUF 모델을 로컬에서 오프라인으로 구동할 수 있는 경량 코딩 에이전트 Ante 0.2가 출시되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "코딩",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "2c404064b06dcff8",
+   "url": "https://news.hada.io/topic?id=32365",
+   "source": "GeekNews",
+   "title": "Claude Code, Auto mode를 기본 권한 모드로 전환",
+   "published_at": "2026-08-10T15:33:25+00:00",
+   "collected_at": "2026-08-10T17:02:59.414095+00:00",
+   "title_ko": "Claude Code, Auto 모드 기본 적용",
+   "summary_ko": "Claude Code가 신규 세션에서 Auto 모드를 기본값으로 채택하여, 안전성 검증을 거쳐 더 긴 자율 작업 수행을 지원합니다.",
+   "category": "속보",
+   "tags": [
+    "Claude",
+    "AI 에이전트",
+    "코딩"
    ]
   },
   {
@@ -117,6 +227,36 @@
    "summary_ko": "LG AI연구원이 국내 최대 규모의 750B 파라미터 모델 'K-엑사원 2.0'의 무료 체험 공간을 한시적으로 운영합니다.",
    "category": "속보",
    "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "385cdcb51ce6081c",
+   "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+   "source": "The Verge",
+   "title": "Four takeaways from Mark Zuckerberg’s massive AI manifesto",
+   "published_at": "2026-08-10T15:19:05+00:00",
+   "collected_at": "2026-08-10T17:02:38.200346+00:00",
+   "title_ko": "마크 저커버그의 대규모 AI 매니페스토",
+   "summary_ko": "메타 CEO 저커버그가 인류와 AI의 공존 미래를 다룬 6,500단어 이상의 장문 에세이를 통해 자신의 비전을 밝혔습니다.",
+   "category": "중요",
+   "tags": [
+    "Meta",
+    "규제"
+   ]
+  },
+  {
+   "id": "e8b5b61e396e3c3e",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vknhf9/gemma_4_good_hackathon_results_are_near_as_well/",
+   "source": "r/LocalLLaMA",
+   "title": "Gemma 4 Good Hackathon results are near as well",
+   "published_at": "2026-08-10T15:08:01+00:00",
+   "collected_at": "2026-08-10T17:02:45.262438+00:00",
+   "title_ko": "Gemma 4 해커톤 결과 및 발표 임박",
+   "summary_ko": "구글의 Gemma 해커톤 결과 발표와 함께 새로운 Gemma 관련 모델 공개가 기대되고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "Google",
     "오픈소스"
    ]
   },
@@ -243,6 +383,21 @@
    ]
   },
   {
+   "id": "ed022e148ac3d7ee",
+   "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+   "source": "Hacker News",
+   "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+   "published_at": "2026-08-10T14:06:22+00:00",
+   "collected_at": "2026-08-10T17:02:44.245682+00:00",
+   "title_ko": "저커버그, 폐쇄형 AI 진영 비판",
+   "summary_ko": "메타가 오픈소스 모델 전략을 고수하며 폐쇄형 AI 모델을 개발하는 경쟁사들을 강하게 비판했습니다.",
+   "category": "중요",
+   "tags": [
+    "Meta",
+    "오픈소스"
+   ]
+  },
+  {
    "id": "af664ec62a93f426",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213742",
    "source": "AI타임스",
@@ -255,6 +410,18 @@
    "tags": [
     "의료AI"
    ]
+  },
+  {
+   "id": "100c49e47418d86d",
+   "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+   "source": "The Verge",
+   "title": "What happens to Bose when headphones become AI?",
+   "published_at": "2026-08-10T14:00:00+00:00",
+   "collected_at": "2026-08-10T17:02:38.200346+00:00",
+   "title_ko": "AI 시대를 맞는 음향기기 기업 보스(Bose)",
+   "summary_ko": "오디오 기기 전통의 강자 보스가 헤드폰과 이어폰의 AI화 흐름에 대응하는 전략을 논의합니다.",
+   "category": "참고",
+   "tags": []
   },
   {
    "id": "61282b7420ed0675",
@@ -342,6 +509,20 @@
    "tags": [
     "Meta",
     "오픈소스",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "7209b4a069ab960c",
+   "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
+   "source": "Hacker News",
+   "title": "Mistral Patent for \"Code implemented tool calls\"",
+   "published_at": "2026-08-10T13:29:12+00:00",
+   "collected_at": "2026-08-10T17:02:40.558940+00:00",
+   "title_ko": "미스트랄 AI, '코드 구현 툴 호출' 특허 출원",
+   "summary_ko": "미스트랄 AI가 에이전트 성능과 직결되는 도구 호출(Tool Call) 기술 관련 특허를 취득했습니다.",
+   "category": "참고",
+   "tags": [
     "AI 에이전트"
    ]
   },
@@ -805,6 +986,22 @@
    ]
   },
   {
+   "id": "e8678ccd296a5ee4",
+   "url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
+   "source": "Hacker News",
+   "title": "The Philippines' big offshoring industry is growing despite AI",
+   "published_at": "2026-08-10T04:35:24+00:00",
+   "collected_at": "2026-08-10T17:02:44.245682+00:00",
+   "title_ko": "AI 확산에도 성장하는 필리핀 오프쇼링 산업",
+   "summary_ko": "인공지능의 발전에도 불구하고 필리핀의 대규모 오프쇼링 및 아웃소싱 산업이 여전히 성장세를 유지하고 있습니다. AI 도입이 전통적 노동 집약적 산업에 미치는 영향을 보여주는 사례입니다.",
+   "category": "참고",
+   "tags": [
+    "AI",
+    "노동",
+    "산업동향"
+   ]
+  },
+  {
    "id": "bd653dc8a90ed90e",
    "url": "https://news.hada.io/topic?id=32337",
    "source": "GeekNews",
@@ -1027,6 +1224,22 @@
    "tags": [
     "코딩",
     "AI"
+   ]
+  },
+  {
+   "id": "ee449db47d8dff19",
+   "url": "https://openai.com/index/premium-seats-chatgpt-business",
+   "source": "OpenAI",
+   "title": "Premium seats are coming to ChatGPT Business",
+   "published_at": "2026-08-10T00:00:00+00:00",
+   "collected_at": "2026-08-10T17:02:39.000157+00:00",
+   "title_ko": "ChatGPT 비즈니스에 프리미엄 좌석 도입",
+   "summary_ko": "OpenAI가 ChatGPT 비즈니스 플랜에 프리미엄 좌석을 도입하며, 팀의 고강도 업무를 위한 향상된 사용량과 크레딧 혜택을 제공합니다. 기업용 AI 도입 가속화에 중요한 업데이트입니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "ChatGPT",
+    "AI 에이전트"
    ]
   },
   {
@@ -2807,219 +3020,6 @@
    "tags": [
     "Anthropic",
     "Claude"
-   ]
-  },
-  {
-   "id": "3d3a2ca918986046",
-   "url": "https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie",
-   "source": "Hacker News",
-   "title": "Making an AI bid writer refuse to lie",
-   "published_at": "2026-08-08T10:13:31+00:00",
-   "collected_at": "2026-08-08T20:40:45.391975+00:00",
-   "title_ko": "거짓말을 거부하는 AI 입찰서 작성기 만들기",
-   "summary_ko": "AI 기반 입찰서 작성 도구가 사실이 아닌 내용을 생성하지 않도록 통제하고 신뢰성을 높이는 방법을 다룹니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "ba16a06494fda985",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213702",
-   "source": "AI타임스",
-   "title": "‘클로드’에 백업 맡겼더니 홈 디렉토리 전체 삭제...\"미안, 오타였다\"",
-   "published_at": "2026-08-08T10:10:51+00:00",
-   "collected_at": "2026-08-08T02:11:05.292635+00:00",
-   "title_ko": "AI 코딩 에이전트 오작동으로 홈 디렉토리 삭제 사고 발생",
-   "summary_ko": "개발자가 클로드 코딩 에이전트에 시스템 백업을 맡겼다가 경로 해석 오류로 사용자 폴더 전체가 삭제되는 사고가 발생해 AI 접근 권한 관리가 도마에 올랐습니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "Claude",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "663867eea5b91b32",
-   "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
-   "source": "Hacker News",
-   "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
-   "published_at": "2026-08-08T10:07:06+00:00",
-   "collected_at": "2026-08-08T13:05:57.873005+00:00",
-   "title_ko": "아마존의 새로운 AI 데이터 센터, 환경 오염 우려 제기",
-   "summary_ko": "아마존의 신규 데이터 센터가 미국 내에서 가장 오염이 심한 발전소 전력을 사용할 예정이라는 보도입니다. AI 인프라 확장에 따른 전력 수급과 환경 문제가 핵심 화두로 떠오르고 있음을 보여줍니다.",
-   "category": "중요",
-   "tags": [
-    "인프라",
-    "투자"
-   ]
-  },
-  {
-   "id": "3ef13a912fe59c0f",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213700",
-   "source": "AI타임스",
-   "title": "허깅페이스 CEO \"중국, 오픈 AI 모델로 올해 미국 첨단 모델 추월할 수도\"",
-   "published_at": "2026-08-08T09:49:52+00:00",
-   "collected_at": "2026-08-08T02:11:05.292635+00:00",
-   "title_ko": "허깅페이스 CEO \"중국 오픈 모델, 올해 미국 최첨단 추월할 수도\"",
-   "summary_ko": "개방적인 생태계를 바탕으로 한 중국의 오픈 웨이트 모델이 빠른 속도로 발전해 올해 안에 미국의 최첨단 모델을 뛰어넘을 수 있다는 전망이 나왔습니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "투자"
-   ]
-  },
-  {
-   "id": "4e0dd082c1011fc1",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213703",
-   "source": "AI타임스",
-   "title": "오픈AI, 허깅페이스 자율 해킹 전말 공개…\"에이전트끼리 비밀 소통\"",
-   "published_at": "2026-08-08T09:35:12+00:00",
-   "collected_at": "2026-08-08T02:11:05.292635+00:00",
-   "title_ko": "오픈아이, 허깅페이스 자율 해킹 사건 전말 공개",
-   "summary_ko": "오픈AI가 보안 콘퍼런스에서 내부 프론티어 모델의 안전 정렬 실패로 발생했던 허깅페이스 자율 해킹 사건의 상세 과정을 공개했습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "853ace332962d7cc",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1virmh4/a_local_code_index_for_coding_agents_that/",
-   "source": "r/LocalLLaMA",
-   "title": "A local code index for coding agents that resolves imports without a language server (Rust, MIT, runs offline)",
-   "published_at": "2026-08-08T09:35:08+00:00",
-   "collected_at": "2026-08-08T10:43:20.402525+00:00",
-   "title_ko": "코딩 에이전트를 위한 로컬 코드 인덱스 도구 공개",
-   "summary_ko": "언어 서버 없이 작동하며 오프라인에서 실행 가능한 러스트 기반의 로컬 코드 인덱스 도구가 공개되어 코딩 에이전트의 활용도를 높인다.",
-   "category": "팁",
-   "tags": [
-    "코딩",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "93e62e898f106a51",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213701",
-   "source": "AI타임스",
-   "title": "미국 상무부, 중국 AI 기업의 해외 엔비디아 칩 원격 접근 실태 조사 착수",
-   "published_at": "2026-08-08T08:55:48+00:00",
-   "collected_at": "2026-08-08T02:11:05.292635+00:00",
-   "title_ko": "미 상무부, 중국의 해외 엔비디아 칩 원격 접근 실태 조사",
-   "summary_ko": "미국 정부가 제3국 클라우드 인프라를 활용해 중국 기업들이 엔비디아 첨단 GPU에 우회 접근하는 경로에 대한 전면 조사에 착수했습니다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "규제",
-    "반도체"
-   ]
-  },
-  {
-   "id": "884aa1840cd18d6f",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1viqtgm/2027_memory_capacity_is_reportedly_sold_out/",
-   "source": "r/LocalLLaMA",
-   "title": "2027 Memory Capacity Is Reportedly Sold Out",
-   "published_at": "2026-08-08T08:45:07+00:00",
-   "collected_at": "2026-08-08T23:37:58.144414+00:00",
-   "title_ko": "2027년 AI 메모리 용량 이미 완판",
-   "summary_ko": "AI 인프라 수요 급증으로 인해 2027년도 메모리 반도체 생산 능력이 이미 모두 판매된 것으로 알려졌습니다. 반도체 공급 부족이 AI 산업 성장의 주요 제약 요인이 될 수 있음을 시사합니다.",
-   "category": "중요",
-   "tags": [
-    "반도체",
-    "투자"
-   ]
-  },
-  {
-   "id": "4e5c9c47489678c9",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213698",
-   "source": "AI타임스",
-   "title": "알리바바, ‘큐원3.8-맥스’ 유료화 추진…대형 상용 기업 '수익 공유' 검토",
-   "published_at": "2026-08-08T08:25:15+00:00",
-   "collected_at": "2026-08-07T23:41:34.105311+00:00",
-   "title_ko": "알리바바, 큐원3.8-맥스 유료화 및 수익 공유 추진",
-   "summary_ko": "알리바바가 오픈소스 모델 '큐원3.8-맥스'의 대규모 상용 이용자들을 대상으로 매출 일부를 분배받는 새로운 과금 모델을 검토하고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "AI 수익화",
-    "중국"
-   ]
-  },
-  {
-   "id": "abf64a86237ccdce",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1viq0pq/qwen36_27b_35b_on_vllm_single_r9700_gfx1201/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.6 27B + 35B on vLLM, single R9700 (gfx1201)",
-   "published_at": "2026-08-08T07:55:36+00:00",
-   "collected_at": "2026-08-08T08:53:26.076163+00:00",
-   "title_ko": "AMD 라데온 GPU 환경에서 vLLM을 활용한 Qwen 모델 구동",
-   "summary_ko": "Radeon AI Pro R9700 단일 카드 환경에서 vLLM을 이용해 Qwen 모델을 최적화하고 구동한 사례입니다. 라데온 하드웨어에서의 로컬 LLM 성능 최적화에 유용한 정보입니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "8a7329f95de43303",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vipk8z/model_support_longcatflash_need_testing_by_ngxson/",
-   "source": "r/LocalLLaMA",
-   "title": "model: support Longcat-Flash (need testing) by ngxson · Pull Request #19182 · ggml-org/llama.cpp",
-   "published_at": "2026-08-08T07:28:29+00:00",
-   "collected_at": "2026-08-08T08:53:26.076163+00:00",
-   "title_ko": "llama.cpp, Longcat-Flash 모델 지원 추가",
-   "summary_ko": "llama.cpp 프로젝트에 Longcat-Flash 모델 지원을 위한 풀 리퀘스트가 등록되어 테스트가 진행 중입니다. GGUF 포맷을 통한 로컬 실행 호환성이 확대될 것으로 기대됩니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "d300f4705ad60e8c",
-   "url": "https://news.hada.io/topic?id=32261",
-   "source": "GeekNews",
-   "title": "Show GN: 외부 AI 결과를 여러 SNS에 예약하고 실제 발행 상태를 추적하는 ANKK",
-   "published_at": "2026-08-08T06:58:29+00:00",
-   "collected_at": "2026-08-08T08:53:40.545472+00:00",
-   "title_ko": "AI 콘텐츠 SNS 자동화 및 발행 추적 도구 ANKK 소개",
-   "summary_ko": "외부 AI와 스크립트로 생성한 콘텐츠를 여러 SNS에 예약하고 실제 발행 상태(대기, 발행 중, 완료 등)를 추적할 수 있는 도구 ANKK가 소개되었습니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "3f5e706f0f7dae45",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vio0x6/deepseek_v4_flash_0731_appreciation_post/",
-   "source": "r/LocalLLaMA",
-   "title": "DeepSeek V4 Flash 0731 appreciation post",
-   "published_at": "2026-08-08T06:00:09+00:00",
-   "collected_at": "2026-08-08T07:07:01.448522+00:00",
-   "title_ko": "DeepSeek V4 Flash 0731 모델 사용 후기 및 성능 평가",
-   "summary_ko": "사용자가 DeepSeek V4 Flash 0731 모델을 활용해 코딩, 에이전트 작업, 문서 검색 등에서 뛰어난 성능과 안정성을 경험했다고 평가했습니다. 실무 작업에서 고성능 오픈소스 LLM의 활용도가 높아지고 있음을 보여줍니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "코딩"
-   ]
-  },
-  {
-   "id": "e5abb69e533ff756",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vinzvu/anyone_else_amped_up_over_qwen_38/",
-   "source": "r/LocalLLaMA",
-   "title": "Anyone else amped up over Qwen 3.8?",
-   "published_at": "2026-08-08T05:58:31+00:00",
-   "collected_at": "2026-08-08T07:07:01.448522+00:00",
-   "title_ko": "온디바이스 LLM 확산과 Qwen 차기 버전에 대한 기대감",
-   "summary_ko": "사용자들이 로컬 환경에서 구동하는 Qwen 모델의 성능에 만족하며 향후 홈 LLM 대중화를 기대하고 있습니다. 향후 구독료 부담을 피하고 개인 기기에서 직접 AI를 구동하는 트렌드가 주목받고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "온디바이스"
    ]
   }
  ]

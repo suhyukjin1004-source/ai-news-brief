@@ -46,6 +46,54 @@
   ]
  },
  {
+  "id": "7a678e9a26d7e264",
+  "url": "https://openai.com/index/building-an-ai-native-finance-function",
+  "source": "OpenAI",
+  "title": "What building an AI-native finance function taught me",
+  "published_at": "2026-08-10T17:00:00+00:00",
+  "collected_at": "2026-08-10T17:02:39.000157+00:00",
+  "title_ko": "AI 네이티브 재무 조직 구축 교훈",
+  "summary_ko": "OpenAI CFO가 자동화된 예측부터 투자 수익률 관리까지 AI 기반 재무 부서 구축 경험에서 얻은 5가지 교훈을 공유했습니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트",
+   "투자"
+  ]
+ },
+ {
+  "id": "e5b664a37aa39848",
+  "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+  "source": "Hugging Face",
+  "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+  "published_at": "2026-08-10T16:25:36+00:00",
+  "collected_at": "2026-08-10T17:02:40.050732+00:00",
+  "title_ko": "저지연 다국어 음성 에이전트 구축",
+  "summary_ko": "NVIDIA Magpie TTS를 활용해 오픈 가중치 기반의 저지연 다국어 음성 에이전트를 완전하게 배포하고 제어하는 방법을 다룹니다.",
+  "category": "팁",
+  "tags": [
+   "NVIDIA",
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "443080f5bab065d4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkpm5p/deepseek_v4_flash_0731_is_the_killer_app_that_is/",
+  "source": "r/LocalLLaMA",
+  "title": "DeepSeek V4 Flash 0731 is the ‘killer app’ that is going to sell A LOT of DGX Sparks",
+  "published_at": "2026-08-10T16:25:32+00:00",
+  "collected_at": "2026-08-10T17:02:45.262438+00:00",
+  "title_ko": "딥시크 V4 플래시와 하드웨어 수요",
+  "summary_ko": "DeepSeek V4 Flash 모델이 뛰어난 코딩 및 에이전트 성능으로 NVIDIA 하드웨어 판매를 견인할 핵심 애플리케이션으로 주목받고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "반도체",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "4698902f0fa48549",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213756",
   "source": "AI타임스",
@@ -60,6 +108,21 @@
   ]
  },
  {
+  "id": "945000ec303ee7a5",
+  "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+  "source": "TechCrunch",
+  "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+  "published_at": "2026-08-10T16:20:13+00:00",
+  "collected_at": "2026-08-10T17:02:38.088354+00:00",
+  "title_ko": "메타의 신규 오픈 웨이트 AI 모델 'Glimmer'",
+  "summary_ko": "메타가 공개한 오픈 웨이트 모델 Muse Glimmer를 통해 저커버그의 초지능 비전과 접근성 격차를 엿볼 수 있습니다.",
+  "category": "중요",
+  "tags": [
+   "Meta",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "cf29657c2dee8be7",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213730",
   "source": "AI타임스",
@@ -71,6 +134,53 @@
   "category": "중요",
   "tags": [
    "규제"
+  ]
+ },
+ {
+  "id": "4f026194e1980b72",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkoxd7/best_current_erp_base_model_that_are_smart_and/",
+  "source": "r/LocalLLaMA",
+  "title": "Best current ERP base model that are smart and uncensored?",
+  "published_at": "2026-08-10T16:01:01+00:00",
+  "collected_at": "2026-08-10T17:02:45.262438+00:00",
+  "title_ko": "최신 스마트 오픈소스 ERP 베이스 모델 탐색",
+  "summary_ko": "검열이 없고 성능이 뛰어난 대형 오픈소스 언어 모델을 실무에서 활용하는 사용자들의 평가와 비교입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "e9f0dea2a82ed027",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkobyt/ante_02_a_15mb_coding_agent_that_manages_llamacpp/",
+  "source": "r/LocalLLaMA",
+  "title": "Ante 0.2: a ~15MB coding agent that manages llama.cpp for you — point it at a GGUF and the whole agent loop runs offline",
+  "published_at": "2026-08-10T15:39:27+00:00",
+  "collected_at": "2026-08-10T17:02:45.262438+00:00",
+  "title_ko": "오프라인 실행 지원 코딩 에이전트 'Ante 0.2'",
+  "summary_ko": "llama.cpp를 자체 관리하며 GGUF 모델을 로컬에서 오프라인으로 구동할 수 있는 경량 코딩 에이전트 Ante 0.2가 출시되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "코딩",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "2c404064b06dcff8",
+  "url": "https://news.hada.io/topic?id=32365",
+  "source": "GeekNews",
+  "title": "Claude Code, Auto mode를 기본 권한 모드로 전환",
+  "published_at": "2026-08-10T15:33:25+00:00",
+  "collected_at": "2026-08-10T17:02:59.414095+00:00",
+  "title_ko": "Claude Code, Auto 모드 기본 적용",
+  "summary_ko": "Claude Code가 신규 세션에서 Auto 모드를 기본값으로 채택하여, 안전성 검증을 거쳐 더 긴 자율 작업 수행을 지원합니다.",
+  "category": "속보",
+  "tags": [
+   "Claude",
+   "AI 에이전트",
+   "코딩"
   ]
  },
  {
@@ -113,6 +223,36 @@
   "summary_ko": "LG AI연구원이 국내 최대 규모의 750B 파라미터 모델 'K-엑사원 2.0'의 무료 체험 공간을 한시적으로 운영합니다.",
   "category": "속보",
   "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "385cdcb51ce6081c",
+  "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+  "source": "The Verge",
+  "title": "Four takeaways from Mark Zuckerberg’s massive AI manifesto",
+  "published_at": "2026-08-10T15:19:05+00:00",
+  "collected_at": "2026-08-10T17:02:38.200346+00:00",
+  "title_ko": "마크 저커버그의 대규모 AI 매니페스토",
+  "summary_ko": "메타 CEO 저커버그가 인류와 AI의 공존 미래를 다룬 6,500단어 이상의 장문 에세이를 통해 자신의 비전을 밝혔습니다.",
+  "category": "중요",
+  "tags": [
+   "Meta",
+   "규제"
+  ]
+ },
+ {
+  "id": "e8b5b61e396e3c3e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vknhf9/gemma_4_good_hackathon_results_are_near_as_well/",
+  "source": "r/LocalLLaMA",
+  "title": "Gemma 4 Good Hackathon results are near as well",
+  "published_at": "2026-08-10T15:08:01+00:00",
+  "collected_at": "2026-08-10T17:02:45.262438+00:00",
+  "title_ko": "Gemma 4 해커톤 결과 및 발표 임박",
+  "summary_ko": "구글의 Gemma 해커톤 결과 발표와 함께 새로운 Gemma 관련 모델 공개가 기대되고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
    "오픈소스"
   ]
  },
