@@ -1,5 +1,36 @@
 [
  {
+  "id": "c65664c018ccf9a9",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkydi5/i_trained_a_1bparameter_llm_from_scratch_on_20b/",
+  "source": "r/LocalLLaMA",
+  "title": "I trained a 1B-parameter LLM from scratch on 20B tokens for about $200",
+  "published_at": "2026-08-10T21:44:43+00:00",
+  "collected_at": "2026-08-10T21:52:14.981190+00:00",
+  "title_ko": "200달러로 1B 파라미터 LLM 직접 학습하기",
+  "summary_ko": "개발자가 200달러의 비용으로 20B 토큰을 사용해 1.1B 파라미터 규모의 소형 LLM을 처음부터 학습시키고 오픈소스로 공개했습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "머신러닝"
+  ]
+ },
+ {
+  "id": "7dd2cb6fe23ef914",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkxpnd/muse_glimmer_benchmark/",
+  "source": "r/LocalLLaMA",
+  "title": "Muse glimmer benchmark",
+  "published_at": "2026-08-10T21:19:10+00:00",
+  "collected_at": "2026-08-10T21:52:14.981190+00:00",
+  "title_ko": "Muse Glimmer 벤치마크 결과 공개",
+  "summary_ko": "Muse Glimmer 모델이 Qwen 대비 지능은 약간 낮지만 태스크당 토큰 사용량이 훨씬 적다는 평가를 받았습니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "벤치마크"
+  ]
+ },
+ {
   "id": "19c9a264700aeb98",
   "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
   "source": "TechCrunch",
@@ -85,6 +116,22 @@
   "category": "팁",
   "tags": [
    "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "b61e7a377395475a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkvc1z/tested_muse_glimmer_locally_on_coding_with/",
+  "source": "r/LocalLLaMA",
+  "title": "Tested Muse Glimmer locally on coding with OpenCode & agentic work",
+  "published_at": "2026-08-10T19:51:16+00:00",
+  "collected_at": "2026-08-10T21:52:14.981190+00:00",
+  "title_ko": "Muse Glimmer 로컬 코딩 및 에이전트 성능 테스트",
+  "summary_ko": "로컬 환경에서 Muse Glimmer를 테스트한 결과, 코딩 성능은 Qwen 27B보다 낮지만 툴 호출은 안정적으로 수행하는 것으로 나타났습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "LLM",
    "코딩"
   ]
  },
@@ -194,6 +241,22 @@
   "tags": [
    "Anthropic",
    "Claude"
+  ]
+ },
+ {
+  "id": "635b267ac04d2887",
+  "url": "https://cactuscompute.com/needle",
+  "source": "Hacker News",
+  "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+  "published_at": "2026-08-10T17:22:07+00:00",
+  "collected_at": "2026-08-10T21:52:13.942574+00:00",
+  "title_ko": "초경량 14MB 에이전트 LLM 'Needle2' 공개",
+  "summary_ko": "모바일, 웨어러블, 로봇 기기에서 구동 가능한 14MB 크기의 온디바이스 에이전트 LLM Needle2가 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트",
+   "LLM",
+   "온디바이스"
   ]
  },
  {
