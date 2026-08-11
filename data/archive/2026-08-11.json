@@ -16,6 +16,21 @@
   ]
  },
  {
+  "id": "4be5bd820356d9e0",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+  "source": "The Verge",
+  "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+  "published_at": "2026-08-11T14:45:44+00:00",
+  "collected_at": "2026-08-11T15:08:51.428130+00:00",
+  "title_ko": "AI 프롬프트로 발견된 줌(Zoom) 보안 취약점 패치",
+  "summary_ko": "공개된 AI 모델을 활용한 20개 미만의 프롬프트로 줌 회의 중 기기를 탈취할 수 있는 주요 취약점이 발견되어 패치되었습니다. AI를 악용한 보안 위협의 가능성을 보여주는 사례입니다.",
+  "category": "속보",
+  "tags": [
+   "보안",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "3ee98e3cf95c4064",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213801",
   "source": "AI타임스",
@@ -28,6 +43,52 @@
   "tags": [
    "오픈소스",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "078e589fdd182d61",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlj87v/introducing_unsloth_desktop_app/",
+  "source": "r/LocalLLaMA",
+  "title": "Introducing Unsloth Desktop app",
+  "published_at": "2026-08-11T14:36:02+00:00",
+  "collected_at": "2026-08-11T15:09:20.886805+00:00",
+  "title_ko": "로컬 AI 모델 실행 및 학습 지원 '언슬롯 데스크톱' 출시",
+  "summary_ko": "오픈소스 기반으로 로컬 환경에서 다양한 AI 모델을 실행하고 학습할 수 있는 데스크톱 앱이 출시되었습니다. 다양한 하드웨어와 코딩 도구 연동을 지원합니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "bb8a1bc37c2858f4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlifge/deepseekv4flash0731_284b_moe_at_75_toks_on_2_dgx/",
+  "source": "r/LocalLLaMA",
+  "title": "DeepSeek-V4-Flash-0731 (284B MoE) at 75 tok/s on 2× DGX Spark — full recipe, 11 gotchas, reboot-proof cluster, Codex CLI integration",
+  "published_at": "2026-08-11T14:06:02+00:00",
+  "collected_at": "2026-08-11T15:09:20.886805+00:00",
+  "title_ko": "듀얼 DGX 스파크 환경에서 구동된 DeepSeek-V4-Flash 실무 구축",
+  "summary_ko": "대규모 MoE 모델인 DeepSeek-V4-Flash를 하드웨어 클러스터 환경에서 프로덕션 수준으로 구동하는 전체 레시피와 성능 최적화 기법이 공유되었습니다.",
+  "category": "참고",
+  "tags": [
+   "DeepSeek",
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "56253775610f8c85",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlicb0/i_put_gemma_4_e4b_and_e2b_into_an_ereader_so_i/",
+  "source": "r/LocalLLaMA",
+  "title": "I put Gemma 4 E4B and E2B into an e-reader so I can ask my weird questions and share my thoughts in private directly in app.",
+  "published_at": "2026-08-11T14:02:34+00:00",
+  "collected_at": "2026-08-11T15:09:20.886805+00:00",
+  "title_ko": "전자책 기기에 탑재된 Gemma 4 기반 오프라인 AI",
+  "summary_ko": "구글의 경량 모델을 전자책 기기에 연동하여 API 키 없이도 개인화된 AI 대화와 문서 질의응답을 로컬에서 실행할 수 있는 기능이 구현되었습니다.",
+  "category": "팁",
+  "tags": [
+   "Google",
+   "오픈소스"
   ]
  },
  {
@@ -74,6 +135,20 @@
    "Meta",
    "OpenAI",
    "Anthropic"
+  ]
+ },
+ {
+  "id": "5eb3c49c6262106f",
+  "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+  "source": "Hugging Face",
+  "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+  "published_at": "2026-08-11T13:37:10+00:00",
+  "collected_at": "2026-08-11T15:08:52.740598+00:00",
+  "title_ko": "토큰 사용량을 줄이는 ACE 기술 접근법",
+  "summary_ko": "토큰 효율성을 극대화하여 더 적은 비용과 연산량으로 ACE를 처리할 수 있는 방법론이 소개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
   ]
  },
  {
@@ -237,6 +312,21 @@
    "오픈소스",
    "OpenAI",
    "Anthropic"
+  ]
+ },
+ {
+  "id": "5493caa970e3de80",
+  "url": "https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883",
+  "source": "Hacker News",
+  "title": "OpenAI's Only Ethicist Reportedly Left Last Month",
+  "published_at": "2026-08-11T12:23:07+00:00",
+  "collected_at": "2026-08-11T15:09:19.945932+00:00",
+  "title_ko": "오픈AI의 마지막 윤리학자 퇴사",
+  "summary_ko": "오픈AI에 남아있던 유일한 AI 윤리학자가 지난달 퇴사했으며 후임이 채용되지 않은 것으로 알려졌습니다. AI 안전 및 윤리 거버넌스에 대한 우려를 낳고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "규제"
   ]
  },
  {
