@@ -1,5 +1,21 @@
 [
  {
+  "id": "8559b15cc3b6fc81",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=213791",
+  "source": "AI타임스",
+  "title": "엔비디아, 월가 손잡고 700조 AI 펀드 결성…\"GPU를 금융자산으로\"",
+  "published_at": "2026-08-11T14:53:28+00:00",
+  "collected_at": "2026-08-11T07:21:49.585758+00:00",
+  "title_ko": "엔비디아, 월가와 손잡고 700조 원 규모 AI 펀드 결성",
+  "summary_ko": "엔비디아가 블랙록, 골드만삭스 등 월가 대형 금융사와 협력해 GPU와 데이터센터를 금융 자산화하는 대규모 펀드를 결성했습니다. AI 인프라 구축을 위한 막대한 자금을 안정적으로 조달하기 위한 조치입니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "반도체",
+   "투자"
+  ]
+ },
+ {
   "id": "3ee98e3cf95c4064",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213801",
   "source": "AI타임스",
@@ -174,6 +190,38 @@
   "category": "중요",
   "tags": [
    "로보틱스"
+  ]
+ },
+ {
+  "id": "c8e9242f9a7b26fc",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vl9adk/i_ran_muse_glimmer_1m_context_all_tests_passed/",
+  "source": "r/LocalLLaMA",
+  "title": "I ran Muse Glimmer @ 1M context - All tests passed.",
+  "published_at": "2026-08-11T06:13:04+00:00",
+  "collected_at": "2026-08-11T07:21:35.962753+00:00",
+  "title_ko": "메타 '뮤즈 글리머', 1M 컨텍스트 테스트 성공",
+  "summary_ko": "개발자가 메타의 신규 모델 '뮤즈 글리머'를 YaRN 기법을 통해 100만 컨텍스트 길이로 확장하고 검색 성능 검증에 성공했습니다. 대규모 컨텍스트 처리 능력을 입증한 사례입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "Meta",
+   "LLM"
+  ]
+ },
+ {
+  "id": "5f0e32d4beb84158",
+  "url": "https://news.hada.io/topic?id=32390",
+  "source": "GeekNews",
+  "title": "Show GN: 공공데이터 통합검색 x AI",
+  "published_at": "2026-08-11T05:54:53+00:00",
+  "collected_at": "2026-08-11T07:21:51.057717+00:00",
+  "title_ko": "공공데이터 통합검색과 AI 결합 서비스 등장",
+  "summary_ko": "기존 LLM의 할루시네이션 문제를 해결하고 흩어진 공공데이터를 한 번에 정확하게 검색할 수 있는 새로운 AI 기반 검색 서비스가 소개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "코딩",
+   "LLM",
+   "오픈소스"
   ]
  },
  {
@@ -475,6 +523,22 @@
   "category": "참고",
   "tags": [
    "보안"
+  ]
+ },
+ {
+  "id": "8c3206c9c9585e25",
+  "url": "https://thewalrus.ca/google-search-is-dying/",
+  "source": "Hacker News",
+  "title": "As AI eats the web, the internet’s collective memory is disappearing",
+  "published_at": "2026-08-10T22:36:30+00:00",
+  "collected_at": "2026-08-11T07:21:22.119729+00:00",
+  "title_ko": "AI가 웹을 잠식하면서 인터넷의 집단 기억이 사라지는 현상",
+  "summary_ko": "생성형 AI의 확산과 검색 생태계의 변화로 인해 인터넷상의 아카이브와 정보들이 위협받고 있다는 분석입니다. 디지털 시대의 정보 보존에 대한 우려를 제기합니다.",
+  "category": "참고",
+  "tags": [
+   "Google",
+   "규제",
+   "LLM"
   ]
  },
  {
@@ -796,6 +860,22 @@
   "tags": [
    "Anthropic",
    "Claude"
+  ]
+ },
+ {
+  "id": "fc9a1d9acb0b0f34",
+  "url": "https://www.anthropic.com/research/riemann-zeta",
+  "source": "Hacker News",
+  "title": "Learning more about Claude's mathematical capabilities",
+  "published_at": "2026-08-10T17:41:13+00:00",
+  "collected_at": "2026-08-11T07:21:22.119729+00:00",
+  "title_ko": "앤트로픽, 클로드의 수학적 추론 능력 연구 공개",
+  "summary_ko": "앤트로픽이 자사 LLM인 클로드의 리만 제타 함수 등 고차원 수학적 문제 해결 능력과 연구 과정을 상세히 공유했습니다. AI의 과학적 추론 한계를 넓히는 중요한 연구입니다.",
+  "category": "참고",
+  "tags": [
+   "Claude",
+   "Anthropic",
+   "LLM"
   ]
  },
  {
