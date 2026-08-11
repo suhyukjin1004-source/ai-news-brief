@@ -1,8 +1,23 @@
 {
- "updated_at": "2026-08-11T20:57:47.522417+00:00",
+ "updated_at": "2026-08-11T21:58:32.100244+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "e813993fc8ae88d3",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlurlv/we_quantized_deepseek_v4_0731_and_benchmarked_it/",
+   "source": "r/LocalLLaMA",
+   "title": "We quantized DeepSeek V4 0731 and benchmarked it against popular quants on 8× RTX 5090",
+   "published_at": "2026-08-11T21:34:13+00:00",
+   "collected_at": "2026-08-11T21:58:15.147715+00:00",
+   "title_ko": "DeepSeek V4 양자화 모델 성능 벤치마크 공개",
+   "summary_ko": "개발자들이 DeepSeek V4 모델을 양자화하고 RTX 5090 환경에서 벤치마크를 진행하며 발생한 기술적 이슈와 해결 팁을 공유했습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
   {
    "id": "29714e73b7328b86",
    "url": "https://news.hada.io/topic?id=32414",
@@ -49,6 +64,20 @@
    ]
   },
   {
+   "id": "393c13f6da5ec207",
+   "url": "https://ngrok.com/blog/compression-is-prediction",
+   "source": "Hacker News",
+   "title": "Compression is prediction",
+   "published_at": "2026-08-11T19:49:44+00:00",
+   "collected_at": "2026-08-11T21:57:57.561836+00:00",
+   "title_ko": "압축은 곧 예측이다",
+   "summary_ko": "데이터 압축과 AI의 예측 모델 간의 이론적 관계를 다룬 아티클입니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "7dfe756c60d3ba02",
    "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
    "source": "The Verge",
@@ -62,6 +91,35 @@
     "OpenAI",
     "Google",
     "Gemini"
+   ]
+  },
+  {
+   "id": "440909bea9944c8f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlrqd4/i_will_be_parting_with_my_4x_spark_cluster/",
+   "source": "r/LocalLLaMA",
+   "title": "I will be parting with my 4x Spark Cluster.",
+   "published_at": "2026-08-11T19:41:02+00:00",
+   "collected_at": "2026-08-11T21:58:15.147715+00:00",
+   "title_ko": "개인 AI 연구자의 다중 노드 클러스터 장비 정리",
+   "summary_ko": "개인 사정으로 인해 LLM 최적화 연구에 쓰이던 다중 노드 스파크 클러스터 장비를 처분한다는 내용의 커뮤니티 글입니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "d9fbf12b504c365f",
+   "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+   "source": "Hacker News",
+   "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
+   "published_at": "2026-08-11T19:35:52+00:00",
+   "collected_at": "2026-08-11T21:57:57.561836+00:00",
+   "title_ko": "NVIDIA, Nemotron 3.5 Lightning 및 NeMo Switchyard 공개",
+   "summary_ko": "엔비디아가 새로운 AI 모델과 인프라 도구를 발표하며 고성능 추론 및 엣지 AI 지원을 강화했습니다.",
+   "category": "속보",
+   "tags": [
+    "NVIDIA",
+    "반도체"
    ]
   },
   {
@@ -1184,6 +1242,21 @@
     "NVIDIA",
     "반도체",
     "투자"
+   ]
+  },
+  {
+   "id": "b274e00978a8c030",
+   "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+   "source": "OpenAI",
+   "title": "Daybreak models are now available on AWS",
+   "published_at": "2026-08-11T10:00:00+00:00",
+   "collected_at": "2026-08-11T21:57:55.540645+00:00",
+   "title_ko": "OpenAI Daybreak 모델, AWS Amazon Bedrock 출시",
+   "summary_ko": "OpenAI의 사이버 보안 특화 Daybreak 모델이 AWS를 통해 제공되어 기업 보안 워크플로우를 지원합니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "GPT"
    ]
   },
   {
@@ -2933,80 +3006,6 @@
    "category": "속보",
    "tags": [
     "AI 오디오"
-   ]
-  },
-  {
-   "id": "7a74040396016be4",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkjul1/model_muse_glimmer_support_by_pcuenca_pull/",
-   "source": "r/LocalLLaMA",
-   "title": "model: Muse Glimmer Support by pcuenca · Pull Request #26841 · ggml-org/llama.cpp",
-   "published_at": "2026-08-10T12:45:58+00:00",
-   "collected_at": "2026-08-10T13:36:00.274412+00:00",
-   "title_ko": "llama.cpp, Muse Glimmer 모델 당일 지원 추가",
-   "summary_ko": "llama.cpp 프로젝트에 신규 모델인 Muse Glimmer 지원 기능이 빠르게 추가되어 로컬 구동이 가능해졌습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "80f355eb8d1637f2",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213729",
-   "source": "AI타임스",
-   "title": "메타 \"AI로 아낀 시간, 휴가 대신 제품 개발에 써야\"…업계 논쟁 유발",
-   "published_at": "2026-08-10T12:32:49+00:00",
-   "collected_at": "2026-08-10T04:47:35.025343+00:00",
-   "title_ko": "메타 임원 \"AI로 아낀 시간, 휴가 대신 제품 개발에 써야\"",
-   "summary_ko": "메타 CTO가 AI 도입으로 단축된 근무 시간을 추가 휴가보다 제품 개발에 활용해야 한다고 밝혔습니다. AI 생산성 향상에 따른 업계의 활용 방안 논쟁을 보여줍니다.",
-   "category": "참고",
-   "tags": [
-    "Meta",
-    "투자"
-   ]
-  },
-  {
-   "id": "53e3f99448d419cd",
-   "url": "https://bobdahacker.com/blog/tldv-hack",
-   "source": "Hacker News",
-   "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
-   "published_at": "2026-08-10T12:26:05+00:00",
-   "collected_at": "2026-08-10T15:09:23.854253+00:00",
-   "title_ko": "AI 노트 앱에서 18만 건 이상의 미팅 녹음 유출",
-   "summary_ko": "노트 테이킹 AI 앱의 보안 취약점으로 인해 18만 1천 건 이상의 AI 미팅 녹음 데이터가 외부로 노출되는 사고가 발생했습니다.",
-   "category": "속보",
-   "tags": [
-    "규제",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "ad1a6e6a4f37684e",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213725",
-   "source": "AI타임스",
-   "title": "AI스페라, 글로벌 파트너 65곳 확보...\"시스코·팔로알토도 손잡았다\"",
-   "published_at": "2026-08-10T12:14:22+00:00",
-   "collected_at": "2026-08-10T04:47:35.025343+00:00",
-   "title_ko": "AI스페라, 글로벌 파트너 65곳 확보",
-   "summary_ko": "사이버 위협 인텔리전스 기업 AI스페라가 시스코 등과 손잡고 글로벌 파트너 생태계를 확장했습니다. CTI 및 공격표면관리 플랫폼의 해외 진출 성과입니다.",
-   "category": "참고",
-   "tags": [
-    "보안"
-   ]
-  },
-  {
-   "id": "69e31cd6afbbf77c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkiyuo/native_long_video_understanding_models_locally/",
-   "source": "r/LocalLLaMA",
-   "title": "Native Long Video Understanding Models locally?",
-   "published_at": "2026-08-10T12:06:18+00:00",
-   "collected_at": "2026-08-10T13:36:00.274412+00:00",
-   "title_ko": "로컬 환경에서의 장시간 비디오 멀티모달 분석",
-   "summary_ko": "수 시간 분량의 긴 동영상을 프레임 샘플링 없이 로컬 LLM으로 네이티브하게 분석하는 방법에 대한 커뮤니티의 논의가 이어지고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "멀티모달",
-    "오픈소스"
    ]
   }
  ]

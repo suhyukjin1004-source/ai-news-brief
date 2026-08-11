@@ -1,5 +1,20 @@
 [
  {
+  "id": "e813993fc8ae88d3",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlurlv/we_quantized_deepseek_v4_0731_and_benchmarked_it/",
+  "source": "r/LocalLLaMA",
+  "title": "We quantized DeepSeek V4 0731 and benchmarked it against popular quants on 8× RTX 5090",
+  "published_at": "2026-08-11T21:34:13+00:00",
+  "collected_at": "2026-08-11T21:58:15.147715+00:00",
+  "title_ko": "DeepSeek V4 양자화 모델 성능 벤치마크 공개",
+  "summary_ko": "개발자들이 DeepSeek V4 모델을 양자화하고 RTX 5090 환경에서 벤치마크를 진행하며 발생한 기술적 이슈와 해결 팁을 공유했습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
   "id": "29714e73b7328b86",
   "url": "https://news.hada.io/topic?id=32414",
   "source": "GeekNews",
@@ -45,6 +60,20 @@
   ]
  },
  {
+  "id": "393c13f6da5ec207",
+  "url": "https://ngrok.com/blog/compression-is-prediction",
+  "source": "Hacker News",
+  "title": "Compression is prediction",
+  "published_at": "2026-08-11T19:49:44+00:00",
+  "collected_at": "2026-08-11T21:57:57.561836+00:00",
+  "title_ko": "압축은 곧 예측이다",
+  "summary_ko": "데이터 압축과 AI의 예측 모델 간의 이론적 관계를 다룬 아티클입니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "7dfe756c60d3ba02",
   "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
   "source": "The Verge",
@@ -58,6 +87,35 @@
    "OpenAI",
    "Google",
    "Gemini"
+  ]
+ },
+ {
+  "id": "440909bea9944c8f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlrqd4/i_will_be_parting_with_my_4x_spark_cluster/",
+  "source": "r/LocalLLaMA",
+  "title": "I will be parting with my 4x Spark Cluster.",
+  "published_at": "2026-08-11T19:41:02+00:00",
+  "collected_at": "2026-08-11T21:58:15.147715+00:00",
+  "title_ko": "개인 AI 연구자의 다중 노드 클러스터 장비 정리",
+  "summary_ko": "개인 사정으로 인해 LLM 최적화 연구에 쓰이던 다중 노드 스파크 클러스터 장비를 처분한다는 내용의 커뮤니티 글입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "d9fbf12b504c365f",
+  "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+  "source": "Hacker News",
+  "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
+  "published_at": "2026-08-11T19:35:52+00:00",
+  "collected_at": "2026-08-11T21:57:57.561836+00:00",
+  "title_ko": "NVIDIA, Nemotron 3.5 Lightning 및 NeMo Switchyard 공개",
+  "summary_ko": "엔비디아가 새로운 AI 모델과 인프라 도구를 발표하며 고성능 추론 및 엣지 AI 지원을 강화했습니다.",
+  "category": "속보",
+  "tags": [
+   "NVIDIA",
+   "반도체"
   ]
  },
  {
