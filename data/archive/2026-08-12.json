@@ -148,6 +148,21 @@
   "tags": []
  },
  {
+  "id": "9514940f045b6dec",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+  "source": "Google AI",
+  "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+  "published_at": "2026-08-11T17:00:00+00:00",
+  "collected_at": "2026-08-11T17:07:31.106778+00:00",
+  "title_ko": "구글 의료 AI 'AMIE', 실시간 임상 화상 상담 시연",
+  "summary_ko": "구글의 의료 AI 시스템 AMIE가 최초의 연구를 통해 실시간 임상 화상 상담 기능을 입증했습니다. 이는 향후 원격 의료 및 진단 보조 분야의 혁신을 이끌어갈 중요한 발전입니다.",
+  "category": "중요",
+  "tags": [
+   "Google",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "06dcb9931b9fdf4d",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213815",
   "source": "AI타임스",
@@ -192,6 +207,36 @@
   ]
  },
  {
+  "id": "d1af0bf15bb8db8e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlmh0b/deepseek_v4_flash_0731_at_27_ts_decode_on_strix/",
+  "source": "r/LocalLLaMA",
+  "title": "DeepSeek V4 Flash 0731 at 27+ t/s decode on Strix Halo — Vulkan + DSpark full guide",
+  "published_at": "2026-08-11T16:33:30+00:00",
+  "collected_at": "2026-08-11T17:07:32.972174+00:00",
+  "title_ko": "Strix Halo에서 구동되는 DeepSeek V4 Flash 벤치마크",
+  "summary_ko": "Strix Halo 통합 메모리 APU 환경에서 DeepSeek V4 Flash 모델의 디코드 및 프리필 성능을 테스트한 상세 가이드입니다. 로컬 하드웨어에서 대형 모델을 최적화하여 구동하는 방법을 보여줍니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "f98cc01492f61625",
+  "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+  "source": "TechCrunch",
+  "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+  "published_at": "2026-08-11T16:25:20+00:00",
+  "collected_at": "2026-08-11T17:07:29.880650+00:00",
+  "title_ko": "앤스로픽 미공개 모델, 수학 난제 '리만 가설' 연구 진전 보여",
+  "summary_ko": "앤스로픽의 미공개 AI 모델이 150년 넘게 풀리지 않은 수학 난제인 리만 가설 연구에서 유의미한 진전을 이루어냈습니다. 고차원적 문제 해결에서 LLM의 잠재력을 보여줍니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "Claude"
+  ]
+ },
+ {
   "id": "d981db492ba5e7d4",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213807",
   "source": "AI타임스",
@@ -219,6 +264,36 @@
   "tags": [
    "오픈소스",
    "NVIDIA"
+  ]
+ },
+ {
+  "id": "39b1f91fe9af47f9",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vllhz2/nvidianvidianemotron35lightning30ba3bbf16/",
+  "source": "r/LocalLLaMA",
+  "title": "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
+  "published_at": "2026-08-11T15:58:47+00:00",
+  "collected_at": "2026-08-11T17:07:32.972174+00:00",
+  "title_ko": "엔비디아, Nemotron-3.5-Lightning-30B 공개",
+  "summary_ko": "엔비디아의 새로운 경량 대형언어모델인 Nemotron-3.5-Lightning-30B-BF16 버전이 공개되었습니다. 효율적인 온디바이스 및 로컬 구동을 위한 대안을 제시합니다.",
+  "category": "속보",
+  "tags": [
+   "NVIDIA",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "f951cca1926ab193",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vllbjh/encrypted_reasoning_from_closedai_et_al_100/",
+  "source": "r/LocalLLaMA",
+  "title": "Encrypted reasoning from ClosedAI et al 100% recoverable",
+  "published_at": "2026-08-11T15:52:12+00:00",
+  "collected_at": "2026-08-11T17:07:32.972174+00:00",
+  "title_ko": "폐쇄형 LLM의 암호화된 추론 과정 복원 가능성 제기",
+  "summary_ko": "상용 LLM API에서 제공하는 암호화된 추론(reasoning) 트레이스를 완전히 복원할 수 있는 취약점과 우회로가 발견되었습니다. AI 모델의 보안과 프라이버시 측면에서 파장이 예상됩니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "Anthropic"
   ]
  },
  {

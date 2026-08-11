@@ -1,5 +1,20 @@
 [
  {
+  "id": "1b42b15b803df72a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vljtv2/i_built_a_weird_lowpower_llamacpp_server_using_an/",
+  "source": "r/LocalLLaMA",
+  "title": "I built a weird, low-power llama.cpp server using an Intel N100 + RTX 5060Ti",
+  "published_at": "2026-08-11T14:58:36+00:00",
+  "collected_at": "2026-08-11T17:07:32.972174+00:00",
+  "title_ko": "인텔 N100과 RTX 5060Ti를 결합한 로컬 LLM 서버 구축기",
+  "summary_ko": "저전력 인텔 N100 메인보드와 외장 GPU를 활용해 llama.cpp 기반의 독창적인 홈 AI 서버를 구축한 사례입니다. 실무 및 개인 환경에서 저비용 고효율 인프라 구축 팁을 제공합니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
   "id": "8559b15cc3b6fc81",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213791",
   "source": "AI타임스",
@@ -13,6 +28,20 @@
    "NVIDIA",
    "반도체",
    "투자"
+  ]
+ },
+ {
+  "id": "800ebb0d7846f162",
+  "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+  "source": "Hacker News",
+  "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+  "published_at": "2026-08-11T14:50:33+00:00",
+  "collected_at": "2026-08-11T17:07:31.773251+00:00",
+  "title_ko": "macOS 가상 머신에서 llama.cpp 추론 속도 최대 16배 향상",
+  "summary_ko": "Apple Silicon 및 macOS 가상 머신 환경에서 GPU 패스스루를 활용해 LLM 추론 속도를 11~16배까지 끌어올릴 수 있는 방법이 공개되었습니다. 맥 환경에서의 로컬 LLM 성능 최적화에 기여합니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
   ]
  },
  {
@@ -61,6 +90,22 @@
   ]
  },
  {
+  "id": "bed7d96534142366",
+  "url": "https://news.hada.io/topic?id=32409",
+  "source": "GeekNews",
+  "title": "Claude가 AI 생성 콘텐츠를 표시하는 방식",
+  "published_at": "2026-08-11T14:32:01+00:00",
+  "collected_at": "2026-08-11T17:07:47.347157+00:00",
+  "title_ko": "앤스로픽, EU 규정에 따른 Claude AI 워터마크 도입 발표",
+  "summary_ko": "앤스로픽이 EU AI Act 투명성 조항에 따라 8월부터 EU 지역에 출시되는 Claude 모델에 기계 판독 가능한 보이지 않는 워터마크를 도입합니다. AI 생성 콘텐츠 규제 대응의 모범 사례가 될 것입니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "규제"
+  ]
+ },
+ {
   "id": "bb8a1bc37c2858f4",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlifge/deepseekv4flash0731_284b_moe_at_75_toks_on_2_dgx/",
   "source": "r/LocalLLaMA",
@@ -74,6 +119,20 @@
    "DeepSeek",
    "반도체",
    "오픈소스"
+  ]
+ },
+ {
+  "id": "8df15853bfd42a5a",
+  "url": "https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave",
+  "source": "Hacker News",
+  "title": "Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?",
+  "published_at": "2026-08-11T14:03:18+00:00",
+  "collected_at": "2026-08-11T17:07:32.144891+00:00",
+  "title_ko": "오픈AI 윤리 총괄 클로에 바카라 사임",
+  "summary_ko": "오픈AI의 윤리 책임자인 클로에 바카라가 사임하면서 AI 안전 및 윤리 거버넌스 방향성에 대한 업계의 관심이 집중되고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI"
   ]
  },
  {
@@ -165,6 +224,21 @@
    "OpenAI",
    "규제",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "393245152404d642",
+  "url": "https://stolen-thoughts.com/",
+  "source": "Hacker News",
+  "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+  "published_at": "2026-08-11T13:22:00+00:00",
+  "collected_at": "2026-08-11T17:07:31.773251+00:00",
+  "title_ko": "상용 LLM API의 추론 트레이스 탈취 취약점 분석",
+  "summary_ko": "상용 독점 AI 모델의 내부 추론 과정(reasoning traces)을 외부에서 탈취할 수 있는 보안 취약점과 분석 결과가 공개되었습니다. 모델 안전성과 지적재산권 보호에 중요한 화두를 던집니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "Anthropic"
   ]
  },
  {
@@ -422,6 +496,22 @@
   ]
  },
  {
+  "id": "a4ba7633e2bec81b",
+  "url": "https://stratechery.com/2026/nvidias-risky-business/",
+  "source": "Hacker News",
+  "title": "Nvidia's Risky Business",
+  "published_at": "2026-08-11T10:02:00+00:00",
+  "collected_at": "2026-08-11T17:07:31.773251+00:00",
+  "title_ko": "엔비디아의 비즈니스 구조적 위험성에 대한 분석",
+  "summary_ko": "AI 반도체 시장을 독점하고 있는 엔비디아의 비즈니스 모델이 안고 있는 잠재적 위험성과 시장 구조를 분석한 내용입니다. 향후 AI 인프라 투자 방향에 큰 시사점을 줍니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "반도체",
+   "투자"
+  ]
+ },
+ {
   "id": "9224d63d48a40b71",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213759",
   "source": "AI타임스",
@@ -433,6 +523,21 @@
   "category": "중요",
   "tags": [
    "로보틱스"
+  ]
+ },
+ {
+  "id": "de2ca3d7578dd51c",
+  "url": "https://openai.com/index/testing-ads-in-chatgpt",
+  "source": "OpenAI",
+  "title": "Testing ads in ChatGPT",
+  "published_at": "2026-08-11T10:00:00+00:00",
+  "collected_at": "2026-08-11T17:07:30.864785+00:00",
+  "title_ko": "오픈AI, 챗GPT 내 광고 테스트 시작",
+  "summary_ko": "오픈AI가 무료 사용자 서비스 유지를 위해 챗GPT 플랫폼 내에서 광고 테스트를 시작합니다. 명확한 라벨링과 강력한 프라이버시 보호를 전제로 해 비즈니스 모델 다변화 측면에서 주목받고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "GPT"
   ]
  },
  {
