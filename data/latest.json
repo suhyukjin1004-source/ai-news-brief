@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-08-11T22:55:11.271267+00:00",
+ "updated_at": "2026-08-11T23:52:40.746205+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "527596fd3cd2a71b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlwjr8/i_tested_the_cmp170hx/",
+   "source": "r/LocalLLaMA",
+   "title": "I tested the CMP170HX",
+   "published_at": "2026-08-11T22:45:05+00:00",
+   "collected_at": "2026-08-11T23:52:25.110134+00:00",
+   "title_ko": "채굴용 CMP170HX 그래픽카드의 LLM 구동 성능 테스트",
+   "summary_ko": "구형 채굴용 카드인 CMP170HX를 활용해 대형 언어 모델과 로컬 AI 파이프라인을 효율적으로 구동할 수 있음을 테스트로 검증했습니다. 가성비 좋은 로컬 AI 하드웨어 구축 대안을 제시한다는 점에서 중요합니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "하드웨어",
+    "NVIDIA"
+   ]
+  },
   {
    "id": "e813993fc8ae88d3",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlurlv/we_quantized_deepseek_v4_0731_and_benchmarked_it/",
@@ -2989,21 +3005,6 @@
    "category": "참고",
    "tags": [
     "네이버"
-   ]
-  },
-  {
-   "id": "5bd9b6a852ab3a21",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkl6cs/motiftechnologiesmotif3_official_realese/",
-   "source": "r/LocalLLaMA",
-   "title": "Motif-Technologies/Motif-3 official realese",
-   "published_at": "2026-08-10T13:40:04+00:00",
-   "collected_at": "2026-08-10T15:09:41.450841+00:00",
-   "title_ko": "한국 파운데이션 모델 프로젝트 Motif-3 공식 출시",
-   "summary_ko": "국내 AI 파운데이션 모델 프로젝트에 참여한 Motif-Technologies가 Motif-3를 공식 출시하며 성능 경쟁에 합류했습니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "LLM"
    ]
   }
  ]
