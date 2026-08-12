@@ -1,5 +1,21 @@
 [
  {
+  "id": "b9f8323f509784a9",
+  "url": "https://news.hada.io/topic?id=32436",
+  "source": "GeekNews",
+  "title": "Show GN: LiteDeck – EC2부터 홈서버까지, SSH 포트 하나로 Claude·Codex와 함께 개발 및 모니터링하기",
+  "published_at": "2026-08-12T14:56:52+00:00",
+  "collected_at": "2026-08-12T17:06:54.169982+00:00",
+  "title_ko": "LiteDeck: SSH 포트 하나로 AI 코딩 도구 활용하기",
+  "summary_ko": "복잡한 서버 설정 없이 SSH 포트 하나로 Claude Code나 Codex 등 AI 개발 도구를 연동하고 모니터링할 수 있는 도구입니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "코딩",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "45fc144f68a9b140",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213839",
   "source": "AI타임스",
@@ -58,6 +74,20 @@
   ]
  },
  {
+  "id": "ed15c3fb53822bb1",
+  "url": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
+  "source": "TechCrunch",
+  "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
+  "published_at": "2026-08-12T14:22:00+00:00",
+  "collected_at": "2026-08-12T17:06:03.514100+00:00",
+  "title_ko": "음성 지원 AI 스마트 반지 Sandbar 등장",
+  "summary_ko": "회의 녹음 및 아이디어 캡처를 위한 다양한 AI 웨어러블 기기가 나오는 가운데, 음성 지원 기능을 갖춘 스마트 반지가 AI 하드웨어 시장에 도전장을 냈습니다.",
+  "category": "중요",
+  "tags": [
+   "하드웨어"
+  ]
+ },
+ {
   "id": "77da1d8caea4ee7f",
   "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
   "source": "TechCrunch",
@@ -84,6 +114,21 @@
   "category": "참고",
   "tags": [
    "오픈소스"
+  ]
+ },
+ {
+  "id": "6a35fe7f03ed472b",
+  "url": "https://knownagents.com/insights",
+  "source": "Hacker News",
+  "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+  "published_at": "2026-08-12T14:02:46+00:00",
+  "collected_at": "2026-08-12T17:06:06.576000+00:00",
+  "title_ko": "ClaudeBot 등으로 위장한 대규모 취약점 스캔 발생",
+  "summary_ko": "Anthropic의 ClaudeBot 등 주요 AI 봇으로 위장하여 웹사이트 취약점을 스캔하는 악의적 행위가 발견되어 주의가 요구됩니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "보안"
   ]
  },
  {
@@ -825,6 +870,22 @@
    "오픈소스",
    "하드웨어",
    "NVIDIA"
+  ]
+ },
+ {
+  "id": "9098acb81a2966ac",
+  "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything",
+  "source": "Simon Willison",
+  "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+  "published_at": "2026-08-11T22:40:45+00:00",
+  "collected_at": "2026-08-12T17:06:38.771658+00:00",
+  "title_ko": "상용 LLM API의 추론 과정(Reasoning Trace) 탈취 연구",
+  "summary_ko": "OpenAI, Anthropic, Google 등의 API가 반환하는 암호화된 사고 과정(Chain-of-Thought) 블록을 재사용해 고성능 모델의 숨겨진 추론 내용을 복원하는 연구가 공개되었습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "Anthropic",
+   "Google"
   ]
  },
  {
