@@ -1,8 +1,40 @@
 {
- "updated_at": "2026-08-12T19:14:49.824612+00:00",
+ "updated_at": "2026-08-12T20:56:37.371167+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "d3f228cda283a9d2",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vmp9gj/lfm25vl3b_recognizes_steve_from_minecraft_running/",
+   "source": "r/LocalLLaMA",
+   "title": "LFM2.5-VL-3B recognizes Steve from Minecraft running locally on an iPhone 17",
+   "published_at": "2026-08-12T20:13:27+00:00",
+   "collected_at": "2026-08-12T20:56:18.807439+00:00",
+   "title_ko": "Liquid AI, 온디바이스 비전 모델 LFM2.5-VL-3B 공개",
+   "summary_ko": "Liquid AI가 스마트폰에서 구동되는 31억 파라미터 규모의 비전 모델 LFM2.5-VL-3B를 출시했습니다. 모바일 환경에서의 멀티모달 AI 활용성을 높여줍니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "온디바이스",
+    "비전모델"
+   ]
+  },
+  {
+   "id": "2f233deb4aaf7bc5",
+   "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+   "source": "TechCrunch",
+   "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+   "published_at": "2026-08-12T20:10:40+00:00",
+   "collected_at": "2026-08-12T20:56:13.519077+00:00",
+   "title_ko": "아마존, 트위치 스트리머 콘텐츠를 기본 AI 학습 데이터로 활용",
+   "summary_ko": "아마존이 트위치 스트리머들의 콘텐츠를 자사 생성형 AI 학습에 기본적으로 활용하겠다고 밝혔습니다. 크리에이터들은 이를 거부(opt-out)할 수 있습니다.",
+   "category": "중요",
+   "tags": [
+    "Amazon",
+    "규제",
+    "저작권"
+   ]
+  },
   {
    "id": "98c65ac608f8481b",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213838",
@@ -16,6 +48,38 @@
    "tags": [
     "Anthropic",
     "Claude"
+   ]
+  },
+  {
+   "id": "8b53cd8f4afa005a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vmo7v5/deepseek_v4_flash_0731_uncensored_jailbreak_pt2/",
+   "source": "r/LocalLLaMA",
+   "title": "DeepSeek V4 Flash 0731 uncensored (jailbreak pt2)",
+   "published_at": "2026-08-12T19:34:35+00:00",
+   "collected_at": "2026-08-12T20:56:18.807439+00:00",
+   "title_ko": "DeepSeek V4 Flash 탈옥 프롬프트 우회 기법 공유",
+   "summary_ko": "시스템 메시지를 활용해 DeepSeek V4 Flash 모델의 검열을 우회하는 프롬프트 기법이 커뮤니티에 공유되었습니다. LLM 안전성과 보안 연구에 참고할 만합니다.",
+   "category": "팁",
+   "tags": [
+    "DeepSeek",
+    "오픈소스",
+    "보안"
+   ]
+  },
+  {
+   "id": "3b2ee438308f1681",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vmo2sp/metas_muse_glimmer_30b_now_runs_up_to_33x_faster/",
+   "source": "r/LocalLLaMA",
+   "title": "Meta's Muse Glimmer 30B now runs up to ~3.3x faster on Mac with mlx-dspark",
+   "published_at": "2026-08-12T19:29:19+00:00",
+   "collected_at": "2026-08-12T20:56:18.807439+00:00",
+   "title_ko": "맥에서 메타 Muse Glimmer 30B 추론 속도 대폭 향상",
+   "summary_ko": "애플 실리콘 환경에서 추론 가속 기법을 통해 메타의 Muse Glimmer 30B 모델 속도를 최대 3.3배 높인 사례가 공개되었습니다. 로컬 LLM 성능 최적화에 도움을 줍니다.",
+   "category": "팁",
+   "tags": [
+    "Meta",
+    "오픈소스",
+    "반도체"
    ]
   },
   {
@@ -183,6 +247,22 @@
    "category": "참고",
    "tags": [
     "코딩",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "c047cbac59e76cc8",
+   "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+   "source": "The Verge",
+   "title": "Twitch streamers can now opt out from training Amazon’s AI",
+   "published_at": "2026-08-12T17:29:10+00:00",
+   "collected_at": "2026-08-12T20:56:13.673447+00:00",
+   "title_ko": "트위치, 아마존 AI 학습용 콘텐츠 거부 기능 도입",
+   "summary_ko": "트위치 사용자가 자신의 스트리밍과 채팅 데이터를 아마존의 생성형 AI 학습에 활용하지 못하도록 거부(opt-out)할 수 있는 기능이 추가되었습니다.",
+   "category": "속보",
+   "tags": [
+    "Amazon",
+    "규제",
     "AI 에이전트"
    ]
   },
@@ -2914,77 +2994,6 @@
     "Meta",
     "오픈소스",
     "AI 에이전트"
-   ]
-  },
-  {
-   "id": "5753088d68495afd",
-   "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
-   "source": "TechCrunch",
-   "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
-   "published_at": "2026-08-11T13:00:00+00:00",
-   "collected_at": "2026-08-11T13:24:43.715255+00:00",
-   "title_ko": "스포티파이, 'AI 페르소나' 음악 추천 제외 및 라벨 도입",
-   "summary_ko": "스포티파이가 AI가 생성한 아티스트 프로필에 'AI 페르소나' 라벨을 부착하고, 관련 음원은 추천 알고리즘에서 제외하기로 했습니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "규제"
-   ]
-  },
-  {
-   "id": "19e7b1253496c435",
-   "url": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
-   "source": "The Verge",
-   "title": "Spotify says it won’t recommend music from ‘AI Personas’",
-   "published_at": "2026-08-11T13:00:00+00:00",
-   "collected_at": "2026-08-11T13:24:43.852643+00:00",
-   "title_ko": "스포티파이, AI 생성 아티스트 음원 추천서 배제",
-   "summary_ko": "스포티파이가 실제 사람이 아닌 AI 아티스트의 음악을 추천 시스템에서 제외하고 전용 배지를 도입합니다.",
-   "category": "중요",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "54a451afa151aea4",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213790",
-   "source": "AI타임스",
-   "title": "스틸컷, 매쉬업벤처스서 시드 투자 유치...\"AI로 딥페이크 원천 차단\"",
-   "published_at": "2026-08-11T12:59:35+00:00",
-   "collected_at": "2026-08-11T04:35:15.091970+00:00",
-   "title_ko": "스틸컷, 딥페이크 원천 차단 기술로 시드 투자 유치",
-   "summary_ko": "AI 딥페이크 탐지 및 차단 스타트업 스틸컷이 매쉬업벤처스로부터 투자를 유치하며 미세 신호를 통한 사전 차단 기술력을 인정받았습니다.",
-   "category": "참고",
-   "tags": [
-    "투자"
-   ]
-  },
-  {
-   "id": "f3f50327a89bd8dd",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213789",
-   "source": "AI타임스",
-   "title": "이스트시큐리티, K-엑사원 결합한 '알약 에이전틱 EDR' 출시",
-   "published_at": "2026-08-11T12:58:31+00:00",
-   "collected_at": "2026-08-11T04:35:15.091970+00:00",
-   "title_ko": "이스트시큐리티, K-엑사원 결합한 '알약 에이전틱 EDR' 출시",
-   "summary_ko": "이스트시큐리티가 LG AI연구원의 K-엑사원을 연동한 능동형 보안 솔루션을 국내 최초로 출시해 자율적인 위협 대응을 지원합니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "548ce0523a5f07f2",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213787",
-   "source": "AI타임스",
-   "title": "벙커키즈, AI 캐릭터 채팅 서비스 ‘위프’로 150억 투자 유치",
-   "published_at": "2026-08-11T12:58:07+00:00",
-   "collected_at": "2026-08-11T04:35:15.091970+00:00",
-   "title_ko": "벙커키즈, AI 캐릭터 채팅 '위프'로 150억 원 시리즈A 투자 유치",
-   "summary_ko": "인터랙티브 AI 캐릭터 채팅 플랫폼 '위프'를 운영하는 벙커키즈가 150억 원 규모의 시리즈A 투자를 유치하며 콘텐츠 확장성을 입증했습니다.",
-   "category": "참고",
-   "tags": [
-    "투자"
    ]
   }
  ]
