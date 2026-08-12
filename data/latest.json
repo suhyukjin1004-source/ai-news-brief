@@ -1,8 +1,128 @@
 {
- "updated_at": "2026-08-11T23:52:40.746205+00:00",
+ "updated_at": "2026-08-12T02:36:32.275269+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "7532b58602b9b425",
+   "url": "https://news.hada.io/topic?id=32422",
+   "source": "GeekNews",
+   "title": "코드가 아니라 아이디어를 통제하라",
+   "published_at": "2026-08-12T01:45:02+00:00",
+   "collected_at": "2026-08-12T02:36:24.805252+00:00",
+   "title_ko": "AI 시대 프로그래밍: 코드보다 아이디어 통제에 집중하라",
+   "summary_ko": "LLM은 국소적인 코딩에 능하지만 전체 설계에는 약하므로, 프로그래머는 생성된 코드를 일일이 검토하기보다 소프트웨어의 설계와 아이디어를 통제하는 데 집중해야 합니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "1843f8cd2e864eb9",
+   "url": "https://news.hada.io/topic?id=32421",
+   "source": "GeekNews",
+   "title": "LLM Evals에 대해 알아야 할 모든 것",
+   "published_at": "2026-08-12T00:40:49+00:00",
+   "collected_at": "2026-08-12T02:36:24.805252+00:00",
+   "title_ko": "LLM 응답 평가(Evals) 실무 가이드",
+   "summary_ko": "AI 응답의 품질을 검증하는 방법에 대해 엔지니어와 PM들이 자주 묻는 질문을 모아 실무적인 답변을 제공합니다.",
+   "category": "팁",
+   "tags": [
+    "LLM",
+    "코딩"
+   ]
+  },
+  {
+   "id": "f1d7d75e71ebb751",
+   "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+   "source": "The Verge",
+   "title": "Saber denies replacing Rideshare Stimulator’s writers with ChatGPT",
+   "published_at": "2026-08-12T00:39:26+00:00",
+   "collected_at": "2026-08-12T02:35:52.159709+00:00",
+   "title_ko": "게임 개발사 세이버, ChatGPT 작가 교체설 부인",
+   "summary_ko": "전직 수석 작가가 AI로 대체되었다고 주장한 것에 대해 세이버의 CEO는 AI가 작가를 대체한 적이 없다고 공식 부인했습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI"
+   ]
+  },
+  {
+   "id": "cb40e7e96ce24662",
+   "url": "https://news.hada.io/topic?id=32420",
+   "source": "GeekNews",
+   "title": "Xirp - Spotify가 만든 조직 컨텍스트 기반 AI 코딩 환경",
+   "published_at": "2026-08-12T00:30:02+00:00",
+   "collected_at": "2026-08-12T02:36:24.805252+00:00",
+   "title_ko": "스포티파이가 공개한 조직 컨텍스트 기반 AI 코딩 환경 'Xirp'",
+   "summary_ko": "AI 코딩 에이전트가 사내 메신저와 문서 등 조직의 배경 지식을 활용해 운영상 올바른 결정을 내릴 수 있도록 돕는 도구입니다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "b3c1bf1a131ead02",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlyzi6/anthropic_openai_google_meta_microsoft_and/",
+   "source": "r/LocalLLaMA",
+   "title": "Anthropic, OpenAI, Google, Meta, Microsoft, and Mistral all signed the EU Code of Practice on Transparency of AI-Generated Content",
+   "published_at": "2026-08-12T00:28:51+00:00",
+   "collected_at": "2026-08-12T02:36:10.324476+00:00",
+   "title_ko": "주요 AI 빅테크, EU의 AI 생성 콘텐츠 투명성 규범 서명",
+   "summary_ko": "OpenAI, 앤트로픽, 구글, 메타 등 주요 AI 기업들이 법적 요구에 따라 오픈소스 모델을 포함한 생성물에 워터마크를 도입하기로 했습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "Anthropic",
+    "Google"
+   ]
+  },
+  {
+   "id": "2f2cfb9e8f6aefcc",
+   "url": "https://news.hada.io/topic?id=32419",
+   "source": "GeekNews",
+   "title": "Show GN: BuildIt – Forces you to explain every line an AI writes before you merge",
+   "published_at": "2026-08-12T00:27:38+00:00",
+   "collected_at": "2026-08-12T02:36:24.805252+00:00",
+   "title_ko": "AI가 작성한 코드를 완벽히 이해하게 만드는 도구 'BuildIt'",
+   "summary_ko": "AI가 작성한 코드를 병합하기 전에 개발자가 모든 줄의 작동 원리를 직접 설명하도록 강제하여 코드 품질과 이해도를 높이는 도구입니다.",
+   "category": "팁",
+   "tags": [
+    "코딩",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "dbdfce63780157b4",
+   "url": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything",
+   "source": "Simon Willison",
+   "title": "There are no lossless transformations of natural-language text",
+   "published_at": "2026-08-11T23:48:35+00:00",
+   "collected_at": "2026-08-12T02:36:09.596727+00:00",
+   "title_ko": "자연어 텍스트의 AI 교정에 대한 개발자 내부 지침",
+   "summary_ko": "엔지니어가 AI로 글을 다듬을 때 자신이 작성한 모든 문장과 아이디어에 대해 온전히 책임을 져야 한다는 내부 원칙을 공유합니다.",
+   "category": "참고",
+   "tags": [
+    "LLM"
+   ]
+  },
+  {
+   "id": "3ebbd23d8ddfc882",
+   "url": "https://news.hada.io/topic?id=32415",
+   "source": "GeekNews",
+   "title": "Nvidia의 위험한 사업",
+   "published_at": "2026-08-11T23:33:48+00:00",
+   "collected_at": "2026-08-12T02:36:24.805252+00:00",
+   "title_ko": "엔비디아, 대규모 AI 인프라 자산화 추진 중 위험 부담 제기",
+   "summary_ko": "AI 데이터센터 투자를 위해 대형 금융사와 함께 5천억 달러 이상의 자본을 조달하려 하지만 엔비디아가 잔존가치를 직접 보증해야 하는 부담이 있습니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "투자",
+    "반도체"
+   ]
+  },
   {
    "id": "527596fd3cd2a71b",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlwjr8/i_tested_the_cmp170hx/",
@@ -17,6 +137,35 @@
     "오픈소스",
     "하드웨어",
     "NVIDIA"
+   ]
+  },
+  {
+   "id": "269cc06d8fc327f4",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlvq2s/can_gemma_and_qwen_models_catch_hallucinations_by/",
+   "source": "r/LocalLLaMA",
+   "title": "Can Gemma and Qwen models catch hallucinations by looking at their own logprobs?",
+   "published_at": "2026-08-11T22:12:00+00:00",
+   "collected_at": "2026-08-12T02:36:10.324476+00:00",
+   "title_ko": "로그 확률(Logprobs)을 활용한 LLM 환각 현상 탐지 연구",
+   "summary_ko": "모델이 사고 과정에서 생성하는 토큰의 확률 분포를 분석하여 신뢰할 수 없는 정보 회수나 환각 현상을 미리 감지할 수 있는지 다룬 연구입니다.",
+   "category": "참고",
+   "tags": [
+    "LLM",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "b27577b38f6761c6",
+   "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+   "source": "Hacker News",
+   "title": "WorldClaw Agentic 3D open-world generation at scale",
+   "published_at": "2026-08-11T21:56:18+00:00",
+   "collected_at": "2026-08-12T02:35:56.138518+00:00",
+   "title_ko": "텐센트, 대규모 에이전트 기반 3D 오픈월드 생성 기술 'WorldClaw' 공개",
+   "summary_ko": "AI 에이전트를 활용해 대규모 3D 오픈월드 가상 환경을 자동으로 생성하는 최신 기술이 공개되었습니다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트"
    ]
   },
   {
@@ -407,6 +556,22 @@
     "AI 에이전트",
     "투자",
     "xAI"
+   ]
+  },
+  {
+   "id": "d45e6cc9bb3124b3",
+   "url": "https://x.ai/bot",
+   "source": "Hacker News",
+   "title": "Grok Bot",
+   "published_at": "2026-08-11T17:23:09+00:00",
+   "collected_at": "2026-08-12T02:35:56.138518+00:00",
+   "title_ko": "xAI, Grok Bot 공개",
+   "summary_ko": "xAI가 새로운 봇 서비스를 공개하며 AI 챗봇 시장에서의 입지를 확대하고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "xAI",
+    "Grok",
+    "LLM"
    ]
   },
   {
@@ -912,6 +1077,22 @@
     "Anthropic",
     "Claude",
     "규제"
+   ]
+  },
+  {
+   "id": "7d7d9c56402b2cd9",
+   "url": "https://news.hada.io/topic?id=32408",
+   "source": "GeekNews",
+   "title": "Solar Pro 4 - 에이전트 작업 특화 LLM",
+   "published_at": "2026-08-11T14:17:49+00:00",
+   "collected_at": "2026-08-12T02:36:24.805252+00:00",
+   "title_ko": "업스테이지, 에이전트 특화 LLM 'Solar Pro 4' 공개",
+   "summary_ko": "문서 읽기와 도구 호출, 코드 실행을 통해 실제 업무 파일을 생성하는 에이전트 전용 LLM이 출시되었습니다.",
+   "category": "중요",
+   "tags": [
+    "Upstage",
+    "Solar",
+    "AI 에이전트"
    ]
   },
   {
@@ -2831,180 +3012,6 @@
    "tags": [
     "Google",
     "AI 에이전트"
-   ]
-  },
-  {
-   "id": "dd7301ba918ae5a7",
-   "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
-   "source": "Hacker News",
-   "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
-   "published_at": "2026-08-10T14:20:41+00:00",
-   "collected_at": "2026-08-11T02:20:44.771862+00:00",
-   "title_ko": "Claude와 GPT의 지식 차단 시점 및 사전 학습 타임라인 분석",
-   "summary_ko": "주요 LLM들의 지식 컷오프(Knowledge Cutoff)와 사전 학습 타임라인의 실제 특성을 심층 탐색한 분석 글입니다.",
-   "category": "참고",
-   "tags": [
-    "GPT",
-    "Claude"
-   ]
-  },
-  {
-   "id": "14b74d317b5852c8",
-   "url": "https://www.reddit.com/r/singularity/comments/1vkm6op/china_humanoid_makers_hold_97_of_global_sales_in/",
-   "source": "r/singularity",
-   "title": "China humanoid makers hold 97% of global sales in the first semester of 2026; 16K humanoids robots shipped, projected to hit 60K units by end of 2026",
-   "published_at": "2026-08-10T14:19:43+00:00",
-   "collected_at": "2026-08-10T20:55:04.303399+00:00",
-   "title_ko": "중국 휴머노이드 로봇 기업, 상반기 글로벌 판매의 97% 차지",
-   "summary_ko": "중국 휴머노이드 로봇 제조사들이 2026년 상반기 전 세계 출하량의 97% 이상을 기록하며 시장을 주도하고 있으며 연말까지 6만 대 출하가 예상됩니다.",
-   "category": "중요",
-   "tags": [
-    "로보틱스"
-   ]
-  },
-  {
-   "id": "e95a4edfeb31af64",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkm42m/muse_glimmer_actually_fits_on_a_single_rtx_3090/",
-   "source": "r/LocalLLaMA",
-   "title": "Muse Glimmer ACTUALLY fits on a single RTX 3090",
-   "published_at": "2026-08-10T14:16:56+00:00",
-   "collected_at": "2026-08-10T15:09:41.450841+00:00",
-   "title_ko": "단일 RTX 3090에서 구동되는 Muse Glimmer 30B",
-   "summary_ko": "Muse Glimmer 30B 모델이 단일 RTX 3090 GPU에서 256k 전체 컨텍스트와 함께 원활하게 실행되는 것이 확인되었습니다.",
-   "category": "팁",
-   "tags": [
-    "NVIDIA",
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "9ba3bc0629ada8b6",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213733",
-   "source": "AI타임스",
-   "title": "중국, '10분 만에 정맥 이식' BCI 개발… 머스크 뉴럴링크에 도전장",
-   "published_at": "2026-08-10T14:15:33+00:00",
-   "collected_at": "2026-08-10T06:17:53.780310+00:00",
-   "title_ko": "중국, 10분 만에 정맥 이식 가능한 차세대 BCI 개발",
-   "summary_ko": "중국 연구진이 수술 없이 목 정맥을 통해 뇌에 삽입할 수 있는 차세대 뇌-컴퓨터 인터페이스를 개발하며 뉴럴링크에 도전장을 넜다.",
-   "category": "중요",
-   "tags": [
-    "로보틱스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "d25f1ff663eeb884",
-   "url": "https://news.hada.io/topic?id=32363",
-   "source": "GeekNews",
-   "title": "Show GN: AI 에이전트가 요구사항과 조사 자료를 연결하고, 한국어 표현을 검토하도록 하는 방법에 대해서",
-   "published_at": "2026-08-10T14:06:35+00:00",
-   "collected_at": "2026-08-10T15:10:00.942103+00:00",
-   "title_ko": "AI 에이전트를 활용한 요구사항 및 문서 관리 방법",
-   "summary_ko": "프로젝트 진행 시 중복되거나 분산되기 쉬운 요구사항과 리서치 자료를 AI 에이전트로 체계적으로 연결하는 방법입니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "ed022e148ac3d7ee",
-   "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-   "source": "Hacker News",
-   "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-   "published_at": "2026-08-10T14:06:22+00:00",
-   "collected_at": "2026-08-10T17:02:44.245682+00:00",
-   "title_ko": "저커버그, 폐쇄형 AI 진영 비판",
-   "summary_ko": "메타가 오픈소스 모델 전략을 고수하며 폐쇄형 AI 모델을 개발하는 경쟁사들을 강하게 비판했습니다.",
-   "category": "중요",
-   "tags": [
-    "Meta",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "af664ec62a93f426",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213742",
-   "source": "AI타임스",
-   "title": "뷰노, 홍성군 농어촌 의료봉사에 AI X-레이 판독 솔루션 제공",
-   "published_at": "2026-08-10T14:02:13+00:00",
-   "collected_at": "2026-08-10T06:17:53.780310+00:00",
-   "title_ko": "뷰노, 농어촌 의료봉사에 AI X-레이 판독 솔루션 지원",
-   "summary_ko": "의료 AI 기업 뷰노가 농어촌 지역 노인들을 대상으로 AI 흉부 X-레이 판독 솔루션을 제공해 결핵 등 폐 건강 검진을 도왔다.",
-   "category": "참고",
-   "tags": [
-    "의료AI"
-   ]
-  },
-  {
-   "id": "100c49e47418d86d",
-   "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
-   "source": "The Verge",
-   "title": "What happens to Bose when headphones become AI?",
-   "published_at": "2026-08-10T14:00:00+00:00",
-   "collected_at": "2026-08-10T17:02:38.200346+00:00",
-   "title_ko": "AI 시대를 맞는 음향기기 기업 보스(Bose)",
-   "summary_ko": "오디오 기기 전통의 강자 보스가 헤드폰과 이어폰의 AI화 흐름에 대응하는 전략을 논의합니다.",
-   "category": "참고",
-   "tags": []
-  },
-  {
-   "id": "61282b7420ed0675",
-   "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-   "source": "OpenAI",
-   "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-   "published_at": "2026-08-10T14:00:00+00:00",
-   "collected_at": "2026-08-10T15:09:21.728271+00:00",
-   "title_ko": "OpenAI, 텍사스 주지사에게 책임 있는 AI 인프라 서한 발송",
-   "summary_ko": "OpenAI가 텍사스주 그레그 애벗 주지사에게 책임감 있고 투명한 AI 인프라 성장을 약속하는 서한을 보냈습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "규제"
-   ]
-  },
-  {
-   "id": "d09234c5af183445",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213740",
-   "source": "AI타임스",
-   "title": "“이제는 바이브 해킹이 온다”...아카마이, 기업 AI 사용 리스크 보고서 발표",
-   "published_at": "2026-08-10T13:59:24+00:00",
-   "collected_at": "2026-08-10T06:17:53.780310+00:00",
-   "title_ko": "아카마이, 기업 AI 사용 리스크 보고서 발표",
-   "summary_ko": "아카마이가 급격한 AI 도입에 따른 미승인 애플리케이션 및 코딩 어시스턴트 관련 보안 리스크와 방어 전략을 제시했다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "규제"
-   ]
-  },
-  {
-   "id": "eebc18ee352c6318",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213738",
-   "source": "AI타임스",
-   "title": "와이즈넛, AI 에이전트로 조달청 디지털서비스몰 판매 1위",
-   "published_at": "2026-08-10T13:55:32+00:00",
-   "collected_at": "2026-08-10T06:17:53.780310+00:00",
-   "title_ko": "와이즈넛, 조달청 디지털서비스몰 AI 에이전트 부문 1위 달성",
-   "summary_ko": "와이즈넛이 조달청 디지털서비스몰 상반기 실적에서 AI 에이전트, 챗봇, 검색 부문 모두 점유율 1위를 기록했다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "8810d0ffbf081a9a",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213737",
-   "source": "AI타임스",
-   "title": "네이버-국가평생교육진흥원, 시니어 맞춤형 ‘AI 교과서’ 제작 나서",
-   "published_at": "2026-08-10T13:55:07+00:00",
-   "collected_at": "2026-08-10T06:17:53.780310+00:00",
-   "title_ko": "네이버-국가평생교육진흥원, 시니어 맞춤형 AI 교과서 제작",
-   "summary_ko": "네이버가 국가평생교육진흥원과 협력해 시니어 계층의 디지털 및 AI 역량 강화를 위한 평생교육 콘텐츠 개발에 나선다.",
-   "category": "참고",
-   "tags": [
-    "네이버"
    ]
   }
  ]
