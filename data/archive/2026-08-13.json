@@ -1,5 +1,80 @@
 [
  {
+  "id": "3daa30d9847f91f5",
+  "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+  "source": "TechCrunch",
+  "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+  "published_at": "2026-08-12T22:26:37+00:00",
+  "collected_at": "2026-08-12T22:53:20.175324+00:00",
+  "title_ko": "앤스로픽의 새로운 워터마크 도입에 반발하는 사용자들",
+  "summary_ko": "앤스로픽이 도입한 새로운 워터마크 시스템이 직장이나 학교에서의 AI 사용을 추적할 수 있게 되면서 사용자들이 불만을 제기하고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "규제"
+  ]
+ },
+ {
+  "id": "49dec23906dafdd4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vmskes/qwen36_35b_2_min_vs_muse_glimmer_30b_4_min_on/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.6 35B (2 min) vs Muse Glimmer 30B (4 min) on custom Llama.cpp build (RTX 5080)",
+  "published_at": "2026-08-12T22:21:51+00:00",
+  "collected_at": "2026-08-12T22:53:39.320792+00:00",
+  "title_ko": "Qwen 3.6 35B 대 Muse Glimmer 30B 성능 비교",
+  "summary_ko": "로컬 환경에서 구동되는 두 오픈소스 LLM의 성능을 비교한 결과, 정확성과 창의성 측면에서 각각의 장단점이 확인되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "e919e08bfd224f11",
+  "url": "https://news.hada.io/topic?id=32445",
+  "source": "GeekNews",
+  "title": "Qwen3.8-2.4T",
+  "published_at": "2026-08-12T21:33:25+00:00",
+  "collected_at": "2026-08-12T22:53:53.558455+00:00",
+  "title_ko": "알리바바, Qwen-Max급 대형 오픈 모델 'Qwen3.8-2.4T' 공개",
+  "summary_ko": "알리바바가 코딩, 연구, 에이전트 작업 능력을 대폭 강화한 대규모 MoE 오픈 모델 Qwen3.8-2.4T를 발표했습니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "95978f4efe76704e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vmqpnm/running_qwen_36_35b_a3bq8_0_gguf_on_a_cheap/",
+  "source": "r/LocalLLaMA",
+  "title": "Running Qwen 3.6 35B A3B-Q8_0 gguf on a cheap radeon 7600 at 18 token/s * update increased to 21 t/s",
+  "published_at": "2026-08-12T21:08:58+00:00",
+  "collected_at": "2026-08-12T22:53:39.320792+00:00",
+  "title_ko": "저가형 라데온 GPU에서 Qwen 모델 로컬 구동 팁",
+  "summary_ko": "저렴한 AMD 라데온 7600 GPU와 ROCm 설정을 활용해 로컬 환경에서 Qwen 모델의 토큰 생성 속도를 최적화하는 방법입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "a4e19b8901761e47",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vmqduk/qwen_38_27b_mtp_or_dflash/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen 3.8 27B — MTP or DFlash?",
+  "published_at": "2026-08-12T20:56:29+00:00",
+  "collected_at": "2026-08-12T22:53:39.320792+00:00",
+  "title_ko": "Qwen 3.8 27B 모델의 아키텍처에 대한 관심 집중",
+  "summary_ko": "출시 예정인 Qwen 3.8 27B 모델에 MTP 또는 DFlash 헤드가 탑재될지에 대해 커뮤니티의 이목이 집중되고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "d3f228cda283a9d2",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vmp9gj/lfm25vl3b_recognizes_steve_from_minecraft_running/",
   "source": "r/LocalLLaMA",
