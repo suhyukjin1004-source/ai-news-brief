@@ -1,8 +1,40 @@
 {
- "updated_at": "2026-08-12T22:53:56.151306+00:00",
+ "updated_at": "2026-08-12T23:52:49.108568+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "25c185872dc31a53",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vmtt07/qwen_27b_38_release_date_took_down/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen 27b 3.8 release date took down?",
+   "published_at": "2026-08-12T23:12:57+00:00",
+   "collected_at": "2026-08-12T23:52:33.623525+00:00",
+   "title_ko": "Qwen 3.8 27B 출시 일정 페이지 접속 오류 발생",
+   "summary_ko": "Alibaba의 Qwen 최신 모델 출시 일정이 담긴 페이지가 다운되면서 일시적 오류인지 일정 변경인지 관심이 쏠리고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "Qwen",
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "9c61fdc3e968ab4d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vmt1y3/i_ran_deepseek_v4_flash_284b_dspark_on_one_rtx/",
+   "source": "r/LocalLLaMA",
+   "title": "I ran DeepSeek V4 Flash 284B + DSpark on one RTX PRO 6000. The drafter was faster in RAM than VRAM.",
+   "published_at": "2026-08-12T22:41:23+00:00",
+   "collected_at": "2026-08-12T23:52:33.623525+00:00",
+   "title_ko": "단일 RTX PRO 6000에서 DeepSeek V4 Flash 구동 테스트 결과",
+   "summary_ko": "96GB VRAM 환경에서 대형 모델과 DSpark 가속 기법을 활용해 코딩 워크로드에서 실용적인 속도를 기록한 벤치마크 결과입니다.",
+   "category": "참고",
+   "tags": [
+    "DeepSeek",
+    "NVIDIA",
+    "오픈소스"
+   ]
+  },
   {
    "id": "3daa30d9847f91f5",
    "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
@@ -2958,36 +2990,6 @@
    "tags": [
     "오픈소스",
     "AI 에이전트"
-   ]
-  },
-  {
-   "id": "0b0467f377894396",
-   "url": "https://www.reddit.com/r/singularity/comments/1vljb4r/did_pathway_just_reveal_the_architecture/",
-   "source": "r/singularity",
-   "title": "Did Pathway just reveal the architecture breakthrough Andrew Curran predicted? Its 150M model sets a new ARC-AGI-1 cost-efficiency frontier",
-   "published_at": "2026-08-11T14:39:08+00:00",
-   "collected_at": "2026-08-11T22:55:05.891295+00:00",
-   "title_ko": "패스웨이, 고효율 메모리 아키텍처 기반 150M 모델 공개",
-   "summary_ko": "트랜스포머를 대체하는 메모리 효율적 아키텍처로 ARC-AGI-1에서 비용 효율성을 크게 높인 새로운 모델이 등장했습니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "078e589fdd182d61",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlj87v/introducing_unsloth_desktop_app/",
-   "source": "r/LocalLLaMA",
-   "title": "Introducing Unsloth Desktop app",
-   "published_at": "2026-08-11T14:36:02+00:00",
-   "collected_at": "2026-08-11T15:09:20.886805+00:00",
-   "title_ko": "로컬 AI 모델 실행 및 학습 지원 '언슬롯 데스크톱' 출시",
-   "summary_ko": "오픈소스 기반으로 로컬 환경에서 다양한 AI 모델을 실행하고 학습할 수 있는 데스크톱 앱이 출시되었습니다. 다양한 하드웨어와 코딩 도구 연동을 지원합니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "코딩"
    ]
   }
  ]
