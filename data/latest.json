@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-13T22:54:36.218144+00:00",
+ "updated_at": "2026-08-13T23:52:21.108676+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -17,6 +17,22 @@
     "Google",
     "Gemini",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "c8fee3924d05e4e7",
+   "url": "https://news.hada.io/topic?id=32479",
+   "source": "GeekNews",
+   "title": "GPT-5.6 Sol을 초당 750토큰으로 가속하는 Ultrafast Mode",
+   "published_at": "2026-08-13T22:32:24+00:00",
+   "collected_at": "2026-08-13T23:52:19.884496+00:00",
+   "title_ko": "Cerebras-OpenAI, GPT-5.6 Sol 초당 750토큰 가속 서비스 공개",
+   "summary_ko": "웨이퍼 크기 칩의 대용량 SRAM을 활용해 품질 저하 없이 초당 750토큰을 출력하는 울트라 패스트 모드가 일부 고객에게 제한 공개되었습니다. 추론 속도 병목을 해결하여 실시간 응답 성능을 크게 높였다는 점에서 중요합니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "NVIDIA",
+    "반도체"
    ]
   },
   {
@@ -2997,21 +3013,6 @@
    "tags": [
     "OpenAI",
     "투자"
-   ]
-  },
-  {
-   "id": "f1cde3ece9e4e0be",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vmfy8w/liquidailfm25vl3b_hugging_face/",
-   "source": "r/LocalLLaMA",
-   "title": "LiquidAI/LFM2.5-VL-3B · Hugging Face",
-   "published_at": "2026-08-12T14:37:27+00:00",
-   "collected_at": "2026-08-12T15:07:18.245582+00:00",
-   "title_ko": "온디바이스 멀티모달 모델 LFM2.5-VL-3B 공개",
-   "summary_ko": "텍스트와 이미지를 처리하며 엣지 기기 배포에 최적화된 하이브리드 멀티모달 모델 LFM2.5-VL-3B가 출시되었습니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
    ]
   }
  ]
