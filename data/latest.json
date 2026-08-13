@@ -1,8 +1,23 @@
 {
- "updated_at": "2026-08-13T17:06:29.967946+00:00",
+ "updated_at": "2026-08-13T19:15:32.402106+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "064625379d1dde07",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnjzu3/you_could_purchase_a_desktop_with_2tb_of_ddr5_it/",
+   "source": "r/LocalLLaMA",
+   "title": "You could purchase a Desktop with 2TB of DDR5 - It only sets you back some $200k+",
+   "published_at": "2026-08-13T19:02:31+00:00",
+   "collected_at": "2026-08-13T19:15:13.704186+00:00",
+   "title_ko": "2TB RAM 탑재 AI 워크스테이션 가격 분석",
+   "summary_ko": "고성능 워크스테이션의 RAM 가격과 GPU 패키지 구매 효율성을 분석한 글입니다.",
+   "category": "참고",
+   "tags": [
+    "NVIDIA",
+    "반도체"
+   ]
+  },
   {
    "id": "3603c10538bf291b",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213894",
@@ -17,6 +32,21 @@
     "OpenAI",
     "Anthropic",
     "Google"
+   ]
+  },
+  {
+   "id": "4fb74fab9c1ca344",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnjtyh/doom_running_on_an_llm_hugging_face_checkpoint/",
+   "source": "r/LocalLLaMA",
+   "title": "Doom running on an LLM -- Hugging Face checkpoint included",
+   "published_at": "2026-08-13T18:56:49+00:00",
+   "collected_at": "2026-08-13T19:15:13.704186+00:00",
+   "title_ko": "트랜스포머 가중치로 둠(Doom) 실행",
+   "summary_ko": "학습 없이 컴파일러를 통해 둠의 렌더링 알고리즘을 LLM 가중치로 변환해 실행한 실험입니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
    ]
   },
   {
@@ -80,6 +110,21 @@
    "tags": [
     "GPT",
     "투자"
+   ]
+  },
+  {
+   "id": "e70d27cdbbfccc6b",
+   "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+   "source": "TechCrunch",
+   "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+   "published_at": "2026-08-13T18:28:14+00:00",
+   "collected_at": "2026-08-13T19:14:47.110723+00:00",
+   "title_ko": "앤트로픽, AI 에이전트 간 세력 다툼 현상 발견",
+   "summary_ko": "AI 에이전트들이 복잡한 작업 중 서로 충돌하고 협력하는 예기치 않은 행동 양상을 보여 안전성 테스트의 중요성이 대두되었습니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "AI 에이전트"
    ]
   },
   {
@@ -175,6 +220,21 @@
    ]
   },
   {
+   "id": "dd378ea08187ffc5",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+   "source": "Hacker News",
+   "title": "Gemini 3.7 Flash",
+   "published_at": "2026-08-13T17:23:22+00:00",
+   "collected_at": "2026-08-13T19:14:51.097029+00:00",
+   "title_ko": "구글, 제미나이 3.7 플래시 공개",
+   "summary_ko": "구글의 새로운 경량 모델인 Gemini 3.7 Flash API 문서가 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "Google",
+    "Gemini"
+   ]
+  },
+  {
    "id": "3d18e26394b60a12",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213915",
    "source": "AI타임스",
@@ -206,6 +266,64 @@
    ]
   },
   {
+   "id": "c1c988556190aa29",
+   "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+   "source": "Hugging Face",
+   "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+   "published_at": "2026-08-13T17:16:04+00:00",
+   "collected_at": "2026-08-13T19:14:48.850961+00:00",
+   "title_ko": "허깅페이스 기반 AI 에이전트 및 로보틱스 통합 솔루션",
+   "summary_ko": "Strands Agents와 LeRobot을 활용해 데이터 기록부터 모델 학습, 배포까지 한 번에 처리할 수 있게 되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트",
+    "로보틱스"
+   ]
+  },
+  {
+   "id": "a341797c40746b3c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vngww3/minimaxmusic3_released/",
+   "source": "r/LocalLLaMA",
+   "title": "MiniMax-Music3 released!",
+   "published_at": "2026-08-13T17:14:48+00:00",
+   "collected_at": "2026-08-13T19:15:13.704186+00:00",
+   "title_ko": "미니맥스 뮤직 3 출시",
+   "summary_ko": "음악 생성 AI 모델인 MiniMax-Music3가 새롭게 출시되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "bf3281290239bd63",
+   "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+   "source": "TechCrunch",
+   "title": "OpenAI hires new CRO as executive shake-up continues",
+   "published_at": "2026-08-13T17:07:13+00:00",
+   "collected_at": "2026-08-13T19:14:47.110723+00:00",
+   "title_ko": "오픈에이아이, 최고매출책임자(CRO) 영입",
+   "summary_ko": "오픈에이아이의 지속적인 임원진 개편 속에서 달리 라직(Dali Rajic)이 신임 CRO로 합류했습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI"
+   ]
+  },
+  {
+   "id": "60521017caf72c5b",
+   "url": "https://docs.mistral.ai/models/ocr-4-1",
+   "source": "Hacker News",
+   "title": "Mistral OCR 4.1",
+   "published_at": "2026-08-13T17:05:12+00:00",
+   "collected_at": "2026-08-13T19:14:51.097029+00:00",
+   "title_ko": "미스트랄 AI, OCR 4.1 모델 발표",
+   "summary_ko": "미스트랄 AI가 문서 인식 성능을 높인 Mistral OCR 4.1을 공개했습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
    "id": "e83d70611f6b9834",
    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
    "source": "DeepMind",
@@ -218,6 +336,21 @@
    "tags": [
     "Google",
     "Gemini"
+   ]
+  },
+  {
+   "id": "b1df898c8c820cac",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnginv/open_models_july_2026/",
+   "source": "r/LocalLLaMA",
+   "title": "Open Models - July 2026",
+   "published_at": "2026-08-13T17:00:32+00:00",
+   "collected_at": "2026-08-13T19:15:13.704186+00:00",
+   "title_ko": "2026년 7월 오픈소스 AI 모델 동향",
+   "summary_ko": "다양한 기관에서 공개한 대형 오픈소스 모델들의 출시 현황을 정리한 트래킹 자료입니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "NVIDIA"
    ]
   },
   {
@@ -493,6 +626,20 @@
    "tags": [
     "오픈소스",
     "비전AI"
+   ]
+  },
+  {
+   "id": "f170b51e90045156",
+   "url": "https://www.seangoedecke.com/text-ai-watermarks/",
+   "source": "Hacker News",
+   "title": "Text AI watermarks will always be trivial to remove",
+   "published_at": "2026-08-13T15:07:10+00:00",
+   "collected_at": "2026-08-13T19:15:12.972302+00:00",
+   "title_ko": "텍스트 AI 워터마크의 기술적 한계",
+   "summary_ko": "텍스트에 삽입된 AI 워터마크는 편집이나 변형을 통해 쉽게 제거할 수 있다는 분석입니다.",
+   "category": "참고",
+   "tags": [
+    "규제"
    ]
   },
   {
@@ -936,6 +1083,22 @@
     "OpenAI",
     "Anthropic",
     "오픈소스"
+   ]
+  },
+  {
+   "id": "855fa77e93e122bb",
+   "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+   "source": "OpenAI",
+   "title": "The builder’s guide to GPT‑5.6",
+   "published_at": "2026-08-13T11:00:00+00:00",
+   "collected_at": "2026-08-13T19:14:48.016762+00:00",
+   "title_ko": "오픈에이아이, GPT-5.6 빌더 가이드 공개",
+   "summary_ko": "스타트업들이 GPT-5.6과 새로운 Responses API를 활용해 효율적인 AI 에이전트를 구축하는 방법이 소개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "OpenAI",
+    "GPT",
+    "AI 에이전트"
    ]
   },
   {
@@ -2846,169 +3009,6 @@
    "tags": [
     "AI 에이전트",
     "LLM"
-   ]
-  },
-  {
-   "id": "2e17396a9459a4c6",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213833",
-   "source": "AI타임스",
-   "title": "플래티어, ‘대화로 상품 검색하는 AI 검색 채널’ 패션 커머스 플랫폼에 탑재",
-   "published_at": "2026-08-12T12:52:23+00:00",
-   "collected_at": "2026-08-12T04:55:34.561896+00:00",
-   "title_ko": "플래티어, 패션 커머스에 대화형 AI 검색 채널 도입",
-   "summary_ko": "플래티어가 패션·슈즈 커머스 플랫폼에 대화형 AI 검색 에이전트 '젠서 디스커버리'를 적용하여 복잡한 조건의 상품 탐색을 지원합니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "78844fc8ec59c393",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213830",
-   "source": "AI타임스",
-   "title": "제미나이 앱, 월간 사용자 10억명 돌파...\"구글 역사상 역대 최단 기록\"",
-   "published_at": "2026-08-12T12:51:26+00:00",
-   "collected_at": "2026-08-12T04:55:34.561896+00:00",
-   "title_ko": "구글 제미나이 앱, 월간 활성 사용자 10억 명 돌파",
-   "summary_ko": "구글의 AI 어시스턴트 '제미나이' 앱이 출시 이후 역대 최단 기간인 월간 활성 사용자 10억 명을 돌파했습니다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "Gemini"
-   ]
-  },
-  {
-   "id": "f86f288e5258eab8",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vmd8wp/idea_for_a_deepseekv4flash0731_backed_automated/",
-   "source": "r/LocalLLaMA",
-   "title": "Idea for a deepseek-v4-flash-0731 backed automated research workflow to be leveraged via qwen3.6/3.8 27b for difficult tasks that require highly technical, not easy to find information.",
-   "published_at": "2026-08-12T12:50:23+00:00",
-   "collected_at": "2026-08-12T13:36:36.632956+00:00",
-   "title_ko": "저비용 API와 로컬 LLM을 결합한 자동화 연구 워크플로우",
-   "summary_ko": "비용 효율적인 최신 모델과 로컬 LLM을 조합하여 복잡하고 전문적인 정보 수집 작업을 자동화하는 방법론이 공유되었습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트",
-    "LLM"
-   ]
-  },
-  {
-   "id": "0a910f823ce26493",
-   "url": "https://news.hada.io/topic?id=32434",
-   "source": "GeekNews",
-   "title": "LinkedIn CringeBot 3000",
-   "published_at": "2026-08-12T12:31:29+00:00",
-   "collected_at": "2026-08-12T13:36:51.362930+00:00",
-   "title_ko": "링크드인 과장형 게시물 생성 AI 도구 등장",
-   "summary_ko": "링크드인 특유의 과장된 사고 리더십 콘텐츠를 자동으로 생성해 주는 유머러스한 AI 도구가 소개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "655023eff7519d29",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
-   "source": "The Verge",
-   "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
-   "published_at": "2026-08-12T12:09:34+00:00",
-   "collected_at": "2026-08-12T13:36:31.040868+00:00",
-   "title_ko": "AI 활용 반려견 암 백신 개발자, 스타트업 창업",
-   "summary_ko": "생성형 AI를 활용해 반려견을 위한 맞춤형 암 백신을 제작했다고 주장해 화제를 모았던 호주 창업자가 관련 스타트업을 설립했습니다.",
-   "category": "중요",
-   "tags": [
-    "GPT",
-    "스타트업"
-   ]
-  },
-  {
-   "id": "28471dc7459dfbe6",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
-   "source": "The Verge",
-   "title": "Grok is now an AI ‘teammate’ you can assign work",
-   "published_at": "2026-08-12T11:58:54+00:00",
-   "collected_at": "2026-08-12T13:36:31.040868+00:00",
-   "title_ko": "업무를 자율 수행하는 xAI의 AI 팀원 Grok Bot 공개",
-   "summary_ko": "xAI가 클라우드 환경에서 직접 앱을 조작하며 다단계 업무를 완수하는 상시 가동형 AI 에이전트 서비스를 출시했습니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "06e89188e33cd4dc",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vmboug/all_your_reasoning_are_belong_to_us/",
-   "source": "r/LocalLLaMA",
-   "title": "All your reasoning are belong to us",
-   "published_at": "2026-08-12T11:39:38+00:00",
-   "collected_at": "2026-08-12T13:36:36.632956+00:00",
-   "title_ko": "오픈소스 LLM 추론 능력 관련 커뮤니티 논의",
-   "summary_ko": "로컬 및 오픈소스 언어 모델의 추론 성능과 활용에 관한 최신 커뮤니티 동향입니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "97ade25503ac899f",
-   "url": "https://news.hada.io/topic?id=32432",
-   "source": "GeekNews",
-   "title": "Grok Bot",
-   "published_at": "2026-08-12T11:31:50+00:00",
-   "collected_at": "2026-08-12T21:56:06.090301+00:00",
-   "title_ko": "업무 자동화 AI 팀원 'Grok Bot' 출시",
-   "summary_ko": "데스크톱과 iOS에서 지시만으로 프로젝트를 24시간 병렬 처리하는 AI 에이전트 서비스가 등장했습니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트",
-    "Grok"
-   ]
-  },
-  {
-   "id": "7d77b59c5e5c72a3",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vmazep/best_models_for_regular_machines_16gb_ram/",
-   "source": "r/LocalLLaMA",
-   "title": "Best models for regular machines (16gb ram)",
-   "published_at": "2026-08-12T11:03:38+00:00",
-   "collected_at": "2026-08-12T11:55:04.260308+00:00",
-   "title_ko": "16GB RAM 환경에서 구동하기 좋은 소형 언어 모델 추천",
-   "summary_ko": "일반 소비자용 PC 환경에서 자원 부담 없이 실행할 수 있는 고성능 소형 LLM과 관련 팁을 공유하는 논의입니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "75010ca35d790153",
-   "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
-   "source": "TechCrunch",
-   "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
-   "published_at": "2026-08-12T11:00:00+00:00",
-   "collected_at": "2026-08-12T11:54:50.854249+00:00",
-   "title_ko": "AI 코드 테스트 스타트업 블랙스미스, 1년 만에 가치 급등",
-   "summary_ko": "AI 기반 코드 테스트 기업 블랙스미스가 지난 1년간 매출이 10배 이상 성장하며 주목받고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "투자",
-    "코딩"
-   ]
-  },
-  {
-   "id": "3da928a59412896f",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vmawd2/hidden_reasoning_from_claude_and_gpt_are_decoded/",
-   "source": "r/LocalLLaMA",
-   "title": "Hidden Reasoning from Claude and GPT are Decoded, and it is interesting",
-   "published_at": "2026-08-12T10:59:31+00:00",
-   "collected_at": "2026-08-12T11:55:04.260308+00:00",
-   "title_ko": "상용 LLM의 숨겨진 추론 토큰 해독 연구 발표",
-   "summary_ko": "클로드와 GPT 등 주요 독점 모델의 추론 과정을 100% 볼 수 있게 해주는 연구 결과가 공개되어 벤치마크 신뢰성에 파장이 예상됩니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "Claude",
-    "오픈소스"
    ]
   }
  ]

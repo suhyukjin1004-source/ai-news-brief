@@ -1,5 +1,20 @@
 [
  {
+  "id": "064625379d1dde07",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnjzu3/you_could_purchase_a_desktop_with_2tb_of_ddr5_it/",
+  "source": "r/LocalLLaMA",
+  "title": "You could purchase a Desktop with 2TB of DDR5 - It only sets you back some $200k+",
+  "published_at": "2026-08-13T19:02:31+00:00",
+  "collected_at": "2026-08-13T19:15:13.704186+00:00",
+  "title_ko": "2TB RAM 탑재 AI 워크스테이션 가격 분석",
+  "summary_ko": "고성능 워크스테이션의 RAM 가격과 GPU 패키지 구매 효율성을 분석한 글입니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
   "id": "3603c10538bf291b",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213894",
   "source": "AI타임스",
@@ -13,6 +28,21 @@
    "OpenAI",
    "Anthropic",
    "Google"
+  ]
+ },
+ {
+  "id": "4fb74fab9c1ca344",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnjtyh/doom_running_on_an_llm_hugging_face_checkpoint/",
+  "source": "r/LocalLLaMA",
+  "title": "Doom running on an LLM -- Hugging Face checkpoint included",
+  "published_at": "2026-08-13T18:56:49+00:00",
+  "collected_at": "2026-08-13T19:15:13.704186+00:00",
+  "title_ko": "트랜스포머 가중치로 둠(Doom) 실행",
+  "summary_ko": "학습 없이 컴파일러를 통해 둠의 렌더링 알고리즘을 LLM 가중치로 변환해 실행한 실험입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
   ]
  },
  {
@@ -76,6 +106,21 @@
   "tags": [
    "GPT",
    "투자"
+  ]
+ },
+ {
+  "id": "e70d27cdbbfccc6b",
+  "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+  "source": "TechCrunch",
+  "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+  "published_at": "2026-08-13T18:28:14+00:00",
+  "collected_at": "2026-08-13T19:14:47.110723+00:00",
+  "title_ko": "앤트로픽, AI 에이전트 간 세력 다툼 현상 발견",
+  "summary_ko": "AI 에이전트들이 복잡한 작업 중 서로 충돌하고 협력하는 예기치 않은 행동 양상을 보여 안전성 테스트의 중요성이 대두되었습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "AI 에이전트"
   ]
  },
  {
@@ -171,6 +216,21 @@
   ]
  },
  {
+  "id": "dd378ea08187ffc5",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+  "source": "Hacker News",
+  "title": "Gemini 3.7 Flash",
+  "published_at": "2026-08-13T17:23:22+00:00",
+  "collected_at": "2026-08-13T19:14:51.097029+00:00",
+  "title_ko": "구글, 제미나이 3.7 플래시 공개",
+  "summary_ko": "구글의 새로운 경량 모델인 Gemini 3.7 Flash API 문서가 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "Gemini"
+  ]
+ },
+ {
   "id": "3d18e26394b60a12",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213915",
   "source": "AI타임스",
@@ -202,6 +262,64 @@
   ]
  },
  {
+  "id": "c1c988556190aa29",
+  "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+  "source": "Hugging Face",
+  "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+  "published_at": "2026-08-13T17:16:04+00:00",
+  "collected_at": "2026-08-13T19:14:48.850961+00:00",
+  "title_ko": "허깅페이스 기반 AI 에이전트 및 로보틱스 통합 솔루션",
+  "summary_ko": "Strands Agents와 LeRobot을 활용해 데이터 기록부터 모델 학습, 배포까지 한 번에 처리할 수 있게 되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트",
+   "로보틱스"
+  ]
+ },
+ {
+  "id": "a341797c40746b3c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vngww3/minimaxmusic3_released/",
+  "source": "r/LocalLLaMA",
+  "title": "MiniMax-Music3 released!",
+  "published_at": "2026-08-13T17:14:48+00:00",
+  "collected_at": "2026-08-13T19:15:13.704186+00:00",
+  "title_ko": "미니맥스 뮤직 3 출시",
+  "summary_ko": "음악 생성 AI 모델인 MiniMax-Music3가 새롭게 출시되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "bf3281290239bd63",
+  "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+  "source": "TechCrunch",
+  "title": "OpenAI hires new CRO as executive shake-up continues",
+  "published_at": "2026-08-13T17:07:13+00:00",
+  "collected_at": "2026-08-13T19:14:47.110723+00:00",
+  "title_ko": "오픈에이아이, 최고매출책임자(CRO) 영입",
+  "summary_ko": "오픈에이아이의 지속적인 임원진 개편 속에서 달리 라직(Dali Rajic)이 신임 CRO로 합류했습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI"
+  ]
+ },
+ {
+  "id": "60521017caf72c5b",
+  "url": "https://docs.mistral.ai/models/ocr-4-1",
+  "source": "Hacker News",
+  "title": "Mistral OCR 4.1",
+  "published_at": "2026-08-13T17:05:12+00:00",
+  "collected_at": "2026-08-13T19:14:51.097029+00:00",
+  "title_ko": "미스트랄 AI, OCR 4.1 모델 발표",
+  "summary_ko": "미스트랄 AI가 문서 인식 성능을 높인 Mistral OCR 4.1을 공개했습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "e83d70611f6b9834",
   "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
   "source": "DeepMind",
@@ -214,6 +332,21 @@
   "tags": [
    "Google",
    "Gemini"
+  ]
+ },
+ {
+  "id": "b1df898c8c820cac",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnginv/open_models_july_2026/",
+  "source": "r/LocalLLaMA",
+  "title": "Open Models - July 2026",
+  "published_at": "2026-08-13T17:00:32+00:00",
+  "collected_at": "2026-08-13T19:15:13.704186+00:00",
+  "title_ko": "2026년 7월 오픈소스 AI 모델 동향",
+  "summary_ko": "다양한 기관에서 공개한 대형 오픈소스 모델들의 출시 현황을 정리한 트래킹 자료입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "NVIDIA"
   ]
  },
  {
@@ -489,6 +622,20 @@
   "tags": [
    "오픈소스",
    "비전AI"
+  ]
+ },
+ {
+  "id": "f170b51e90045156",
+  "url": "https://www.seangoedecke.com/text-ai-watermarks/",
+  "source": "Hacker News",
+  "title": "Text AI watermarks will always be trivial to remove",
+  "published_at": "2026-08-13T15:07:10+00:00",
+  "collected_at": "2026-08-13T19:15:12.972302+00:00",
+  "title_ko": "텍스트 AI 워터마크의 기술적 한계",
+  "summary_ko": "텍스트에 삽입된 AI 워터마크는 편집이나 변형을 통해 쉽게 제거할 수 있다는 분석입니다.",
+  "category": "참고",
+  "tags": [
+   "규제"
   ]
  }
 ]
