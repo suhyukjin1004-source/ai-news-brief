@@ -1,8 +1,95 @@
 {
- "updated_at": "2026-08-13T19:15:32.402106+00:00",
+ "updated_at": "2026-08-13T20:56:05.148617+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "31a1a10bf79c3155",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnm7le/fixed_jinja_chat_template_for_qwen_35_36_and_the/",
+   "source": "r/LocalLLaMA",
+   "title": "Fixed Jinja chat template for Qwen 3.5, 3.6, and the new 3.8 release",
+   "published_at": "2026-08-13T20:22:56+00:00",
+   "collected_at": "2026-08-13T20:55:45.465813+00:00",
+   "title_ko": "Qwen 3.8 모델용 진자 챗템플릿 수정본 공개",
+   "summary_ko": "추론 제어 기능이 추가된 Qwen 3.8 모델의 공식 챗템플릿 충돌 및 버그를 해결한 커뮤니티 수정본이 공유되었습니다. 로컬 LLM 사용자들의 안정적인 프롬프트 제어에 도움을 줍니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "72c1714eb2a2ff3f",
+   "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+   "source": "TechCrunch",
+   "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+   "published_at": "2026-08-13T20:14:39+00:00",
+   "collected_at": "2026-08-13T20:55:05.421045+00:00",
+   "title_ko": "데이터브릭스, 1,900억 달러 가치로 50억 달러 투자 유치",
+   "summary_ko": "AI 개발 비용 증가 속에서 데이터브릭스가 당초 목표를 넘어선 50억 달러 규모의 대규모 투자를 유치했습니다. AI 인프라 시장의 뜨거운 열기를 보여줍니다.",
+   "category": "중요",
+   "tags": [
+    "투자"
+   ]
+  },
+  {
+   "id": "8fa43e84181190df",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnl0um/trained_a_15b_to_write_shell_commands_so_id_stop/",
+   "source": "r/LocalLLaMA",
+   "title": "Trained a 1.5B to write shell commands so I'd stop googling tar flags. Runs on a laptop CPU in ~1 sec.",
+   "published_at": "2026-08-13T19:39:21+00:00",
+   "collected_at": "2026-08-13T20:55:45.465813+00:00",
+   "title_ko": "CPU에서 실행되는 셸 명령어 작성용 경량 AI 미세조정",
+   "summary_ko": "개발자가 노트북 CPU에서 1초 만에 실행되는 1.5B 크기의 Qwen 미세조정 모델을 개발했습니다. 가벼운 로컬 AI 활용의 좋은 사례를 보여줍니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "102609d8d05c0ac4",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+   "source": "The Verge",
+   "title": "OpenAI is losing its second executive this week",
+   "published_at": "2026-08-13T19:28:39+00:00",
+   "collected_at": "2026-08-13T20:55:05.533486+00:00",
+   "title_ko": "오픈에이아이 최고매출책임자(CRO) 데니스 드레서 퇴사",
+   "summary_ko": "오픈에이아이의 최고매출책임자(CRO)인 데니스 드레서가 몇 주 내로 회사를 떠납니다. 최근 이어지는 임원진 변동의 연장선입니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI"
+   ]
+  },
+  {
+   "id": "71f28f1b3fcc8fba",
+   "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+   "source": "TechCrunch",
+   "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+   "published_at": "2026-08-13T19:22:40+00:00",
+   "collected_at": "2026-08-13T20:55:05.421045+00:00",
+   "title_ko": "오픈에이아이, 14배 빠른 '울트라패스트' 모드 공개",
+   "summary_ko": "기업 고객 공략을 위해 최신 강력 모델인 GPT-5.6 솔의 속도를 14배 끌어올린 프리뷰 모드가 출시되었습니다. 고속 응답이 필요한 엔터프라이즈 환경에 중요합니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT"
+   ]
+  },
+  {
+   "id": "a4456a2f31b5558d",
+   "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+   "source": "TechCrunch",
+   "title": "IBM partners with OpenAI to bolster enterprise AI push",
+   "published_at": "2026-08-13T19:19:49+00:00",
+   "collected_at": "2026-08-13T20:55:05.421045+00:00",
+   "title_ko": "IBM, 오픈에이아이와 손잡고 엔터프라이즈 AI 강화",
+   "summary_ko": "IBM이 수만 명의 컨설턴트를 대상으로 오픈에이아이 기술 교육 및 인증을 진행하기로 했습니다. 기업용 AI 시장의 생태계 확장이 가속화되고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI"
+   ]
+  },
   {
    "id": "064625379d1dde07",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnjzu3/you_could_purchase_a_desktop_with_2tb_of_ddr5_it/",
@@ -63,6 +150,22 @@
     "OpenAI",
     "GPT",
     "투자"
+   ]
+  },
+  {
+   "id": "d4cbe757a51e5e7b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnjpju/experiment_qwen3824ta95b_running_locally_on_an/",
+   "source": "r/LocalLLaMA",
+   "title": "EXPERIMENT: Qwen3.8-2.4T-A95B running locally on an RTX 5090 + RTX 5060 Ti at ~0.80 tok/s",
+   "published_at": "2026-08-13T18:52:42+00:00",
+   "collected_at": "2026-08-13T20:55:45.465813+00:00",
+   "title_ko": "RTX 5090에서 Qwen 거대 모형 로컬 구동 실험",
+   "summary_ko": "최신 하드웨어를 활용해 수백 GB에 달하는 대형 혼합전문가(MoE) 모델을 로컬 PC에서 구동한 실험 결과입니다. 하드웨어 한계 극복과 로컬 추론의 가능성을 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "NVIDIA",
+    "반도체",
+    "오픈소스"
    ]
   },
   {
@@ -156,6 +259,21 @@
    "tags": [
     "NVIDIA",
     "투자"
+   ]
+  },
+  {
+   "id": "29213e0fec133e9f",
+   "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+   "source": "Hacker News",
+   "title": "Accelerating GPT-5.6 Sol Ultrafast",
+   "published_at": "2026-08-13T18:10:02+00:00",
+   "collected_at": "2026-08-13T20:55:08.365959+00:00",
+   "title_ko": "세레브라스, 오픈에이아이 모델 가속화 협력 발표",
+   "summary_ko": "세레브라스를 통해 오픈에이아이의 'GPT-5.6 솔 울트라패스트' 모델 추론을 가속화하는 기술 블로그가 공개되었습니다. 하드웨어와 모델 간 초고속 연산 협력이 주목받고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "반도체"
    ]
   },
   {
@@ -411,6 +529,21 @@
     "DeepSeek",
     "AI 에이전트",
     "오픈소스"
+   ]
+  },
+  {
+   "id": "8f4802b238767567",
+   "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+   "source": "Hacker News",
+   "title": "AI At Home Part 1: A Box Of Scraps",
+   "published_at": "2026-08-13T16:22:05+00:00",
+   "collected_at": "2026-08-13T20:55:44.422570+00:00",
+   "title_ko": "홈랩 환경에서 저렴하게 구축하는 홈메이드 AI 박스",
+   "summary_ko": "남는 부품을 활용해 가정에서 로컬 AI 환경을 구축하는 과정에 대한 공유입니다. 개인 개발자가 진입장벽을 낮추고 AI를 실험하는 방법을 제시합니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
    ]
   },
   {
@@ -2874,141 +3007,6 @@
    "tags": [
     "Anthropic",
     "보안"
-   ]
-  },
-  {
-   "id": "9c2d2be8f2107b43",
-   "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-   "source": "DeepMind",
-   "title": "Putting sign language AI into users’ hands",
-   "published_at": "2026-08-12T14:01:59+00:00",
-   "collected_at": "2026-08-12T15:06:53.900381+00:00",
-   "title_ko": "구글 딥마인드, 수어 번역 AI 모델 공개",
-   "summary_ko": "청각 장애인을 위한 수어-텍스트 변환(SL2T) 모델이 공개되어 접근성 향상에 기여할 것으로 기대됩니다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "ab799e9da743babb",
-   "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-   "source": "Hugging Face",
-   "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-   "published_at": "2026-08-12T14:00:51+00:00",
-   "collected_at": "2026-08-12T15:06:54.122846+00:00",
-   "title_ko": "엣지 기기용 LFM2.5-VL-3B 비전 모델 소개",
-   "summary_ko": "향상된 OCR과 객체 감지 기능을 갖춘 엣지 중심 비전 모델 LFM2.5-VL-3B의 상세 특징이 공개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "db317019908e17bb",
-   "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
-   "source": "The Verge",
-   "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
-   "published_at": "2026-08-12T14:00:00+00:00",
-   "collected_at": "2026-08-12T15:06:52.535573+00:00",
-   "title_ko": "AI와 건강 기능 강화된 픽셀 워치 5 출시",
-   "summary_ko": "구글의 신형 스마트워치 픽셀 워치 5가 향상된 AI 기능과 프로세서를 탑재하여 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "Google",
-    "Gemini"
-   ]
-  },
-  {
-   "id": "a450ff7111ecd13e",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vmexhu/exact_qwen_38_27b_release_date_and_time/",
-   "source": "r/LocalLLaMA",
-   "title": "Exact Qwen 3.8 27b release date and time",
-   "published_at": "2026-08-12T13:58:59+00:00",
-   "collected_at": "2026-08-12T15:07:18.245582+00:00",
-   "title_ko": "Qwen 3.8 27B 정확한 출시 일정 공개",
-   "summary_ko": "모델스코프를 통해 Qwen 3.8 27B 모델의 구체적인 출시일과 시간이 확인되었습니다.",
-   "category": "참고",
-   "tags": [
-    "Qwen",
-    "LLM"
-   ]
-  },
-  {
-   "id": "6eb9e7d0cc1c3d92",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vmebb1/nvidias_fastest_blackwell_gpu_the_96_gb_rtx_pro/",
-   "source": "r/LocalLLaMA",
-   "title": "NVIDIA's Fastest Blackwell GPU, the 96 GB RTX PRO 6000, Now Costs $16,000, Almost Double Its Original Price",
-   "published_at": "2026-08-12T13:34:06+00:00",
-   "collected_at": "2026-08-12T15:07:18.245582+00:00",
-   "title_ko": "엔비디아 RTX PRO 6000 가격 인상",
-   "summary_ko": "블랙웰 아키텍처 기반의 96GB RTX PRO 6000 GPU 가격이 급등하여 시장의 주목을 받고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "반도체"
-   ]
-  },
-  {
-   "id": "d5cff27233f694ed",
-   "url": "https://www.reddit.com/r/singularity/comments/1vmdzgi/levent_alpöge_may_have_just_dropped_a_solution_to/",
-   "source": "r/singularity",
-   "title": "Levent Alpöge may have just dropped a solution to the smallest open Hadamard case (668) as an obfuscated shell script",
-   "published_at": "2026-08-12T13:21:02+00:00",
-   "collected_at": "2026-08-12T21:56:03.476036+00:00",
-   "title_ko": "Claude 활용해 미해결 수학 난제 아다마르 행렬 668 해결",
-   "summary_ko": "연구원이 Claude를 활용해 가장 작은 미해결 아다마르 행렬(주문 668)의 해를 도출했습니다.",
-   "category": "중요",
-   "tags": [
-    "Claude",
-    "수학"
-   ]
-  },
-  {
-   "id": "52fa033e5f1f88fe",
-   "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-   "source": "Hacker News",
-   "title": "AI is removing the middle class of software engineering",
-   "published_at": "2026-08-12T13:20:05+00:00",
-   "collected_at": "2026-08-12T15:06:57.404278+00:00",
-   "title_ko": "소프트웨어 엔지니어링 시장 변화와 AI의 영향",
-   "summary_ko": "AI 도입이 소프트웨어 개발 생태계의 중간 계층 직무에 미치는 영향에 대한 분석 기사입니다.",
-   "category": "참고",
-   "tags": [
-    "코딩",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "711c8ea239f88447",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213829",
-   "source": "AI타임스",
-   "title": "엔비디아, '1조 매개변수' 모델 개발 박차...“GPU 수요·생태계 확장 노려”",
-   "published_at": "2026-08-12T13:19:21+00:00",
-   "collected_at": "2026-08-12T04:55:34.561896+00:00",
-   "title_ko": "엔비디아, 1조 매개변수 '네모트론 4' 개발 추진",
-   "summary_ko": "엔비디아가 오픈소스 AI 모델 생태계 확장을 위해 1조 개 매개변수 규모의 '네모트론 4' 개발에 속도를 내고 있습니다. 자체 모델을 통해 GPU 수요를 더욱 끌어올리려는 전략입니다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "e1357d8655f13c6a",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213835",
-   "source": "AI타임스",
-   "title": "에이아이웍스, 캄보디아 크메르어 민원용 챗봇 구축…“‘책임 있는 AI’ 사례”",
-   "published_at": "2026-08-12T12:56:17+00:00",
-   "collected_at": "2026-08-12T04:55:34.561896+00:00",
-   "title_ko": "에이아이웍스, 캄보디아 크메르어 공공 민원 챗봇 구축",
-   "summary_ko": "에이아이웍스가 저자원 언어인 캄보디아 크메르어 기반의 LLM-RAG 민원 챗봇을 구축하여 책임 있는 AI 공공서비스 모범 사례를 선보였습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "LLM"
    ]
   }
  ]
