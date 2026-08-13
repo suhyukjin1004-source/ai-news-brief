@@ -202,6 +202,21 @@
   ]
  },
  {
+  "id": "e83d70611f6b9834",
+  "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+  "source": "DeepMind",
+  "title": "Introducing Gemini 3.7 Flash",
+  "published_at": "2026-08-13T17:04:18+00:00",
+  "collected_at": "2026-08-13T17:05:46.937272+00:00",
+  "title_ko": "구글, Gemini 3.7 Flash 공개",
+  "summary_ko": "구글 딥마인드가 새로운 AI 모델인 Gemini 3.7 Flash를 발표했습니다. 향상된 성능과 속도를 제공하여 다양한 활용이 기대됩니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "Gemini"
+  ]
+ },
+ {
   "id": "a08f22b4bd56d97d",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213912",
   "source": "AI타임스",
@@ -246,6 +261,22 @@
   ]
  },
  {
+  "id": "05a8204afe0eb837",
+  "url": "https://news.hada.io/topic?id=32474",
+  "source": "GeekNews",
+  "title": "DeepSeek Harness - 모든 구성 요소를 플러그인으로 만든 오픈소스 코딩 에이전트",
+  "published_at": "2026-08-13T16:31:41+00:00",
+  "collected_at": "2026-08-13T17:06:21.285471+00:00",
+  "title_ko": "DeepSeek, 오픈소스 코딩 에이전트 하네스 공개",
+  "summary_ko": "모든 요소를 플러그인화한 'DeepSeek Harness'가 공개되었습니다. 모듈식 구조로 에이전트 동작과 환경을 쉽게 조립할 수 있습니다.",
+  "category": "속보",
+  "tags": [
+   "DeepSeek",
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "4c6a1c7f586325ff",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213901",
   "source": "AI타임스",
@@ -259,6 +290,50 @@
    "오픈소스",
    "AI 에이전트",
    "규제"
+  ]
+ },
+ {
+  "id": "99962aaf2a8d4663",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnf6hn/a_124b_emitted_15128_tokens_in_a_single_response/",
+  "source": "r/LocalLLaMA",
+  "title": "A 124B emitted 15,128 tokens in a single response on one DGX Spark, decode went 35.62 → 35.68 tok/s across the whole thing",
+  "published_at": "2026-08-13T16:12:25+00:00",
+  "collected_at": "2026-08-13T17:06:06.806122+00:00",
+  "title_ko": "124B 대형 모델의 단일 응답 처리 성능 관측",
+  "summary_ko": "단일 하드웨어 환경에서 대형 언어 모델이 1만 5천 개 이상의 토큰을 안정적인 속도로 생성해내는 처리량 테스트 결과가유목되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "8a1f2c860067e0c3",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+  "source": "The Verge",
+  "title": "Suno is trying to look more like a real music production tool",
+  "published_at": "2026-08-13T16:00:00+00:00",
+  "collected_at": "2026-08-13T17:05:44.928192+00:00",
+  "title_ko": "Suno, AI 음악 제작 도구 Studio 2.0 발표",
+  "summary_ko": "생성형 AI 음악툴 Suno가 MIDI 지원 등을 포함한 Studio 2.0을 출시했습니다. 본격적인 디지털 오디오 워크숍(DAW) 도구로 진화하고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "생성형AI"
+  ]
+ },
+ {
+  "id": "407f6e867a5a9d9b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnervw/deepseekaideepseekv4pro0813_available_again/",
+  "source": "r/LocalLLaMA",
+  "title": "deepseek-ai/DeepSeek-V4-Pro-0813 (Available again) · Hugging Face",
+  "published_at": "2026-08-13T15:58:42+00:00",
+  "collected_at": "2026-08-13T17:06:06.806122+00:00",
+  "title_ko": "DeepSeek-V4-Pro-0813 모델 허깅페이스 공개",
+  "summary_ko": "DeepSeek의 최신 모델 버전인 V4-Pro가 허깅페이스에 다시 등록되었습니다.",
+  "category": "속보",
+  "tags": [
+   "DeepSeek",
+   "오픈소스"
   ]
  },
  {
@@ -328,6 +403,35 @@
   ]
  },
  {
+  "id": "7e04a9e0c364740a",
+  "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+  "source": "TechCrunch",
+  "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+  "published_at": "2026-08-13T15:30:52+00:00",
+  "collected_at": "2026-08-13T17:05:44.781736+00:00",
+  "title_ko": "마이크로소프트, 코파일럿 앱 통합 및 부가 AI 기능 중단",
+  "summary_ko": "MS가 소비자용과 기업용 코파일럿 앱을 통합하는 한편, AI 팟캐스트나 심층 리서치 등 일부 성과가 저조한 AI 기능을 정리합니다.",
+  "category": "중요",
+  "tags": [
+   "Microsoft",
+   "코파일럿"
+  ]
+ },
+ {
+  "id": "6c6d89f22af524bc",
+  "url": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
+  "source": "The Verge",
+  "title": "I looked inside an AI generated movie, and the best parts were all human",
+  "published_at": "2026-08-13T15:30:00+00:00",
+  "collected_at": "2026-08-13T17:05:44.928192+00:00",
+  "title_ko": "AI 생성 영화 속 인간 요소의 중요성",
+  "summary_ko": "AI로 제작된 영화 콘텐츠를 분석한 결과, 여전히 가장 매력적인 부분은 인간의 창의성이 가미된 지점이라는 평가가 나왔습니다.",
+  "category": "참고",
+  "tags": [
+   "생성형AI"
+  ]
+ },
+ {
   "id": "7da8316aedf7e7ca",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213904",
   "source": "AI타임스",
@@ -339,6 +443,52 @@
   "category": "속보",
   "tags": [
    "로보틱스"
+  ]
+ },
+ {
+  "id": "169e979faf2e7ebb",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vndovb/unslothdeepseekv4pro0813gguf_hugging_face/",
+  "source": "r/LocalLLaMA",
+  "title": "unsloth/DeepSeek-V4-Pro-0813-GGUF · Hugging Face",
+  "published_at": "2026-08-13T15:19:38+00:00",
+  "collected_at": "2026-08-13T17:06:06.806122+00:00",
+  "title_ko": "DeepSeek-V4-Pro GGUF 양자화 버전 허깅페이스 업로드",
+  "summary_ko": "Unsloth를 통해 최신 DeepSeek V4 Pro 모델의 GGUF 양자화 버전이 로컬 실행용으로 공유되었습니다.",
+  "category": "팁",
+  "tags": [
+   "DeepSeek",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "d410f7210702f948",
+  "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+  "source": "TechCrunch",
+  "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+  "published_at": "2026-08-13T15:08:00+00:00",
+  "collected_at": "2026-08-13T17:05:44.781736+00:00",
+  "title_ko": "엔비디아의 GPU 가치 유지를 위한 5천억 달러 규모 신규 전략",
+  "summary_ko": "엔비디아가 기존 GPU 자산의 가치를 보호하고 추가 인프라 투자를 이끌어내기 위한 새로운 금융 전략을 추진합니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "반도체",
+   "투자"
+  ]
+ },
+ {
+  "id": "ba099ae29fef4ed0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vndd6p/sensenovavision_a_7b_open_model_that_does/",
+  "source": "r/LocalLLaMA",
+  "title": "SenseNova-Vision: a 7B open model that does segmentation, depth, detection, OCR, and 3D reconstruction with no task-specific heads",
+  "published_at": "2026-08-13T15:07:39+00:00",
+  "collected_at": "2026-08-13T17:06:06.806122+00:00",
+  "title_ko": "오픈소스 비전 모델 SenseNova-Vision 공개",
+  "summary_ko": "분할, 깊이 추정, OCR 등을 단일 모델로 처리하는 7B 규모의 멀티모달 비전 모델이 아파치 2.0 라이선스로 공개되었습니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "비전AI"
   ]
  }
 ]

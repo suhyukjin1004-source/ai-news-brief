@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-13T15:07:14.489863+00:00",
+ "updated_at": "2026-08-13T17:06:29.967946+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -206,6 +206,21 @@
    ]
   },
   {
+   "id": "e83d70611f6b9834",
+   "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+   "source": "DeepMind",
+   "title": "Introducing Gemini 3.7 Flash",
+   "published_at": "2026-08-13T17:04:18+00:00",
+   "collected_at": "2026-08-13T17:05:46.937272+00:00",
+   "title_ko": "구글, Gemini 3.7 Flash 공개",
+   "summary_ko": "구글 딥마인드가 새로운 AI 모델인 Gemini 3.7 Flash를 발표했습니다. 향상된 성능과 속도를 제공하여 다양한 활용이 기대됩니다.",
+   "category": "속보",
+   "tags": [
+    "Google",
+    "Gemini"
+   ]
+  },
+  {
    "id": "1598429e2899048d",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213921",
    "source": "AI타임스",
@@ -250,6 +265,22 @@
    ]
   },
   {
+   "id": "05a8204afe0eb837",
+   "url": "https://news.hada.io/topic?id=32474",
+   "source": "GeekNews",
+   "title": "DeepSeek Harness - 모든 구성 요소를 플러그인으로 만든 오픈소스 코딩 에이전트",
+   "published_at": "2026-08-13T16:31:41+00:00",
+   "collected_at": "2026-08-13T17:06:21.285471+00:00",
+   "title_ko": "DeepSeek, 오픈소스 코딩 에이전트 하네스 공개",
+   "summary_ko": "모든 요소를 플러그인화한 'DeepSeek Harness'가 공개되었습니다. 모듈식 구조로 에이전트 동작과 환경을 쉽게 조립할 수 있습니다.",
+   "category": "속보",
+   "tags": [
+    "DeepSeek",
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
    "id": "4c6a1c7f586325ff",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213901",
    "source": "AI타임스",
@@ -263,6 +294,50 @@
     "오픈소스",
     "AI 에이전트",
     "규제"
+   ]
+  },
+  {
+   "id": "99962aaf2a8d4663",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnf6hn/a_124b_emitted_15128_tokens_in_a_single_response/",
+   "source": "r/LocalLLaMA",
+   "title": "A 124B emitted 15,128 tokens in a single response on one DGX Spark, decode went 35.62 → 35.68 tok/s across the whole thing",
+   "published_at": "2026-08-13T16:12:25+00:00",
+   "collected_at": "2026-08-13T17:06:06.806122+00:00",
+   "title_ko": "124B 대형 모델의 단일 응답 처리 성능 관측",
+   "summary_ko": "단일 하드웨어 환경에서 대형 언어 모델이 1만 5천 개 이상의 토큰을 안정적인 속도로 생성해내는 처리량 테스트 결과가유목되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "8a1f2c860067e0c3",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+   "source": "The Verge",
+   "title": "Suno is trying to look more like a real music production tool",
+   "published_at": "2026-08-13T16:00:00+00:00",
+   "collected_at": "2026-08-13T17:05:44.928192+00:00",
+   "title_ko": "Suno, AI 음악 제작 도구 Studio 2.0 발표",
+   "summary_ko": "생성형 AI 음악툴 Suno가 MIDI 지원 등을 포함한 Studio 2.0을 출시했습니다. 본격적인 디지털 오디오 워크숍(DAW) 도구로 진화하고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "생성형AI"
+   ]
+  },
+  {
+   "id": "407f6e867a5a9d9b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnervw/deepseekaideepseekv4pro0813_available_again/",
+   "source": "r/LocalLLaMA",
+   "title": "deepseek-ai/DeepSeek-V4-Pro-0813 (Available again) · Hugging Face",
+   "published_at": "2026-08-13T15:58:42+00:00",
+   "collected_at": "2026-08-13T17:06:06.806122+00:00",
+   "title_ko": "DeepSeek-V4-Pro-0813 모델 허깅페이스 공개",
+   "summary_ko": "DeepSeek의 최신 모델 버전인 V4-Pro가 허깅페이스에 다시 등록되었습니다.",
+   "category": "속보",
+   "tags": [
+    "DeepSeek",
+    "오픈소스"
    ]
   },
   {
@@ -332,6 +407,35 @@
    ]
   },
   {
+   "id": "7e04a9e0c364740a",
+   "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+   "source": "TechCrunch",
+   "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+   "published_at": "2026-08-13T15:30:52+00:00",
+   "collected_at": "2026-08-13T17:05:44.781736+00:00",
+   "title_ko": "마이크로소프트, 코파일럿 앱 통합 및 부가 AI 기능 중단",
+   "summary_ko": "MS가 소비자용과 기업용 코파일럿 앱을 통합하는 한편, AI 팟캐스트나 심층 리서치 등 일부 성과가 저조한 AI 기능을 정리합니다.",
+   "category": "중요",
+   "tags": [
+    "Microsoft",
+    "코파일럿"
+   ]
+  },
+  {
+   "id": "6c6d89f22af524bc",
+   "url": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
+   "source": "The Verge",
+   "title": "I looked inside an AI generated movie, and the best parts were all human",
+   "published_at": "2026-08-13T15:30:00+00:00",
+   "collected_at": "2026-08-13T17:05:44.928192+00:00",
+   "title_ko": "AI 생성 영화 속 인간 요소의 중요성",
+   "summary_ko": "AI로 제작된 영화 콘텐츠를 분석한 결과, 여전히 가장 매력적인 부분은 인간의 창의성이 가미된 지점이라는 평가가 나왔습니다.",
+   "category": "참고",
+   "tags": [
+    "생성형AI"
+   ]
+  },
+  {
    "id": "7da8316aedf7e7ca",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213904",
    "source": "AI타임스",
@@ -343,6 +447,52 @@
    "category": "속보",
    "tags": [
     "로보틱스"
+   ]
+  },
+  {
+   "id": "169e979faf2e7ebb",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vndovb/unslothdeepseekv4pro0813gguf_hugging_face/",
+   "source": "r/LocalLLaMA",
+   "title": "unsloth/DeepSeek-V4-Pro-0813-GGUF · Hugging Face",
+   "published_at": "2026-08-13T15:19:38+00:00",
+   "collected_at": "2026-08-13T17:06:06.806122+00:00",
+   "title_ko": "DeepSeek-V4-Pro GGUF 양자화 버전 허깅페이스 업로드",
+   "summary_ko": "Unsloth를 통해 최신 DeepSeek V4 Pro 모델의 GGUF 양자화 버전이 로컬 실행용으로 공유되었습니다.",
+   "category": "팁",
+   "tags": [
+    "DeepSeek",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "d410f7210702f948",
+   "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+   "source": "TechCrunch",
+   "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+   "published_at": "2026-08-13T15:08:00+00:00",
+   "collected_at": "2026-08-13T17:05:44.781736+00:00",
+   "title_ko": "엔비디아의 GPU 가치 유지를 위한 5천억 달러 규모 신규 전략",
+   "summary_ko": "엔비디아가 기존 GPU 자산의 가치를 보호하고 추가 인프라 투자를 이끌어내기 위한 새로운 금융 전략을 추진합니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "반도체",
+    "투자"
+   ]
+  },
+  {
+   "id": "ba099ae29fef4ed0",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vndd6p/sensenovavision_a_7b_open_model_that_does/",
+   "source": "r/LocalLLaMA",
+   "title": "SenseNova-Vision: a 7B open model that does segmentation, depth, detection, OCR, and 3D reconstruction with no task-specific heads",
+   "published_at": "2026-08-13T15:07:39+00:00",
+   "collected_at": "2026-08-13T17:06:06.806122+00:00",
+   "title_ko": "오픈소스 비전 모델 SenseNova-Vision 공개",
+   "summary_ko": "분할, 깊이 추정, OCR 등을 단일 모델로 처리하는 7B 규모의 멀티모달 비전 모델이 아파치 2.0 라이선스로 공개되었습니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "비전AI"
    ]
   },
   {
@@ -530,6 +680,22 @@
    ]
   },
   {
+   "id": "bb2f1e13a8a210d1",
+   "url": "https://deepseek.com/harness/en/",
+   "source": "Hacker News",
+   "title": "DeepSeek Harness developer preview",
+   "published_at": "2026-08-13T12:58:02+00:00",
+   "collected_at": "2026-08-13T17:05:48.639499+00:00",
+   "title_ko": "DeepSeek 하네스 개발자 프리뷰 출시",
+   "summary_ko": "DeepSeek이 코딩 에이전트 개발을 위한 모듈식 프레임워크 '하네스'의 개발자 프리뷰를 공개했습니다.",
+   "category": "속보",
+   "tags": [
+    "DeepSeek",
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
    "id": "889ea1c117f15b31",
    "url": "https://github.com/deepseek-ai/deepseek-harness",
    "source": "Hacker News",
@@ -588,6 +754,22 @@
    "category": "속보",
    "tags": [
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "78c979fe015b7865",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vn8zst/stolen_llm_reasoning_how_come_openai_anthrophic/",
+   "source": "r/LocalLLaMA",
+   "title": "Stolen LLM Reasoning: How come OpenAI, Anthrophic, Google have the same vulnerabilities?",
+   "published_at": "2026-08-13T12:13:15+00:00",
+   "collected_at": "2026-08-13T17:06:06.806122+00:00",
+   "title_ko": "주요 LLM의 추론 과정 암호화 취약점 발견",
+   "summary_ko": "대형 모델의 암호화된 추론 과정을 취약한 소형 모델에 이식할 수 있는 보안 취약점이 연구를 통해 밝혀졌습니다. 모델 간 암호화 키 공유 구조의 한계를 드러내어 AI 보안의 중요성을 시사합니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "Anthropic",
+    "Google"
    ]
   },
   {
@@ -801,6 +983,22 @@
    ]
   },
   {
+   "id": "6357d7795d215a7f",
+   "url": "https://openai.com/index/previewing-ultrafast",
+   "source": "OpenAI",
+   "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+   "published_at": "2026-08-13T10:00:00+00:00",
+   "collected_at": "2026-08-13T17:05:46.041933+00:00",
+   "title_ko": "OpenAI, 최대 14배 빠른 GPT-5.6 Sol 울트라패스트 모드 공개",
+   "summary_ko": "Cerebras 하드웨어를 기반으로 구동되는 새로운 API 서비스 티어로, 초당 최대 750개의 토큰을 생성해 속도를 대폭 끌어올렸습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "NVIDIA",
+    "반도체"
+   ]
+  },
+  {
    "id": "38cd552ee5aa0320",
    "url": "https://news.hada.io/topic?id=32462",
    "source": "GeekNews",
@@ -830,6 +1028,21 @@
     "llama.cpp",
     "오픈소스",
     "반도체"
+   ]
+  },
+  {
+   "id": "9e022b7caa78cba4",
+   "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+   "source": "OpenAI",
+   "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+   "published_at": "2026-08-13T09:00:00+00:00",
+   "collected_at": "2026-08-13T17:05:46.041933+00:00",
+   "title_ko": "OpenAI, 탈리 라직을 최고매출책임자(CRO)로 임명",
+   "summary_ko": "전 세계 글로벌 수익 조직을 이끌고 기업 고객의 AI 도입을 가속화하기 위해 새로운 CRO를 영입했습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "투자"
    ]
   },
   {
@@ -949,6 +1162,21 @@
    "tags": [
     "OpenAI",
     "ChatGPT"
+   ]
+  },
+  {
+   "id": "f4499451c6efa504",
+   "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
+   "source": "Hacker News",
+   "title": "Codex in ChatGPT desktop app for Linux is now in preview",
+   "published_at": "2026-08-13T04:53:41+00:00",
+   "collected_at": "2026-08-13T17:05:48.639499+00:00",
+   "title_ko": "리눅스용 ChatGPT 데스크톱 앱 내 코덱스 프리뷰 출시",
+   "summary_ko": "리눅스 사용자도 ChatGPT 데스크톱 앱에서 코덱스 기능을 미리 체험할 수 있게 되었습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "코딩"
    ]
   },
   {
@@ -2781,229 +3009,6 @@
     "OpenAI",
     "Claude",
     "오픈소스"
-   ]
-  },
-  {
-   "id": "219339176001aac9",
-   "url": "https://www.reddit.com/r/singularity/comments/1vmavo4/samsung_electronics_reported_efficiency_gains_due/",
-   "source": "r/singularity",
-   "title": "Samsung Electronics reported efficiency gains due to using Claude models.",
-   "published_at": "2026-08-12T10:58:32+00:00",
-   "collected_at": "2026-08-12T21:56:03.476036+00:00",
-   "title_ko": "삼성전자, Claude 도입으로 반도체 설계 효율 대폭 향상",
-   "summary_ko": "삼성전자가 Anthropic의 Claude를 도입한 후 반도체 설계 및 검증 소요 시간을 획기적으로 단축했습니다.",
-   "category": "중요",
-   "tags": [
-    "Claude",
-    "반도체"
-   ]
-  },
-  {
-   "id": "bea37135f97c2bda",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vmaofu/intel_llmscaler_ready_with_muse_glimmer_support/",
-   "source": "r/LocalLLaMA",
-   "title": "Intel LLM-Scaler ready with Muse Glimmer support, other LLMs & features",
-   "published_at": "2026-08-12T10:47:44+00:00",
-   "collected_at": "2026-08-12T11:55:04.260308+00:00",
-   "title_ko": "인텔 LLM-스칼러, 뮤즈 글리머 지원 추가",
-   "summary_ko": "인텔의 LLM 실행 도구인 LLM-스칼러가 최신 모델 지원과 새로운 기능을 업데이트했습니다.",
-   "category": "참고",
-   "tags": [
-    "반도체"
-   ]
-  },
-  {
-   "id": "949c9e5dda620490",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vma27w/tested_nemotron_35_lightning_locally_on_coding/",
-   "source": "r/LocalLLaMA",
-   "title": "Tested Nemotron 3.5 Lightning locally on coding, Hermes Agent and agentic work",
-   "published_at": "2026-08-12T10:15:01+00:00",
-   "collected_at": "2026-08-12T11:55:04.260308+00:00",
-   "title_ko": "네모트론 3.5 라이트닝 로컬 테스트 후기",
-   "summary_ko": "애플 실리콘 환경에서 네모트론 모델을 로컬로 구동해본 결과 속도와 에이전트 도구 호출 능력에서 우수한 성능을 보였습니다.",
-   "category": "팁",
-   "tags": [
-    "NVIDIA",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "9273d94d3b0d8a08",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vm9w5x/according_to_amd_arm_and_microsoft_agentic_ai/",
-   "source": "r/LocalLLaMA",
-   "title": "According to AMD, Arm, and Microsoft, agentic AI could push CPU-to-GPU ratios from 1:4 to even1:1",
-   "published_at": "2026-08-12T10:05:45+00:00",
-   "collected_at": "2026-08-12T10:16:12.948610+00:00",
-   "title_ko": "AI 에이전트 확산으로 CPU 대 GPU 비율 변화 전망",
-   "summary_ko": "AMD, Arm, 마이크로소프트 등에 따르면 에이전트 AI의 연산과 도구 호출 작업 급증으로 인해 서버 내 CPU 대 GPU 비율이 1:4에서 1:1 수준까지 높아질 수 있다. 하드웨어 인프라 시장의 변화를 예고한다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "반도체"
-   ]
-  },
-  {
-   "id": "14ba20b4c40281fb",
-   "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
-   "source": "Hacker News",
-   "title": "What sort of maths are LLMs good at?",
-   "published_at": "2026-08-12T10:04:25+00:00",
-   "collected_at": "2026-08-12T13:36:34.258311+00:00",
-   "title_ko": "LLM이 강점을 보이는 수학 영역 분석",
-   "summary_ko": "대형언어모델이 어떤 종류의 수학 문제에서 뛰어난 성능을 발휘하는지 분석한 연구 내용입니다.",
-   "category": "참고",
-   "tags": [
-    "LLM"
-   ]
-  },
-  {
-   "id": "80a484458baf3e8e",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vm9mr3/i_ran_qwen3508b_on_a_sub20_cpu_chip_in_under/",
-   "source": "r/LocalLLaMA",
-   "title": "I ran Qwen3.5-0.8B on a sub-$20 CPU chip in under 512MiB of memory",
-   "published_at": "2026-08-12T09:51:09+00:00",
-   "collected_at": "2026-08-12T13:36:36.632956+00:00",
-   "title_ko": "저가형 CPU 칩에서 초소형 LLM 구동 성공",
-   "summary_ko": "20달러 이하의 저사양 스마트홈 칩과 512MB 이하의 메모리 환경에서 커스텀 C 런타임을 이용해 소형 모델을 구동하는 데 성공했습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "e8d0923e34f1ddce",
-   "url": "https://www.reddit.com/r/singularity/comments/1vm9mh6/agentic_ai_could_push_cputogpu_ratios_from_14/",
-   "source": "r/singularity",
-   "title": "Agentic AI could push CPU-to-GPU ratios from 1:4 toward 1:1 according to AMD",
-   "published_at": "2026-08-12T09:50:41+00:00",
-   "collected_at": "2026-08-12T21:56:03.476036+00:00",
-   "title_ko": "AMD, 에이전트 AI 확산으로 CPU-GPU 수요 비율 변화 전망",
-   "summary_ko": "에이전트 AI의 발전으로 오케스트레이션과 제어 로직을 담당하는 CPU 수요가 늘어날 것이라는 전망이 나왔습니다.",
-   "category": "참고",
-   "tags": [
-    "반도체",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "93a73c6929549414",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vm8kev/rag_for_regular_users/",
-   "source": "r/LocalLLaMA",
-   "title": "RAG for regular users?",
-   "published_at": "2026-08-12T08:49:06+00:00",
-   "collected_at": "2026-08-12T10:16:12.948610+00:00",
-   "title_ko": "일반 사용자를 위한 로컬 RAG 도구 탐색",
-   "summary_ko": "복잡한 설정 없이 개인 문서나 도서를 기반으로 질문할 수 있는 사용자 친화적 RAG 도구에 대한 사용자들의 수요가 높다. 비전문가도 쉽게 접근할 수 있는 오픈소스 솔루션의 필요성이 커지고 있다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "0c1ec251570e2bf2",
-   "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
-   "source": "Hacker News",
-   "title": "Why Target Common Lisp for Code Generation?",
-   "published_at": "2026-08-12T08:40:53+00:00",
-   "collected_at": "2026-08-13T13:36:44.416312+00:00",
-   "title_ko": "코드 생성을 위한 타겟으로 Common Lisp이 주목받는 이유",
-   "summary_ko": "LLM 시대에 코드 생성 및 바이브 코딩(Vibe Coding) 관점에서 Common Lisp 언어가 가지는 고유한 장점과 활용 가능성을 분석합니다.",
-   "category": "참고",
-   "tags": [
-    "코딩",
-    "LLM"
-   ]
-  },
-  {
-   "id": "3783053d9ef93f01",
-   "url": "https://discoveredmaterials.com/research/",
-   "source": "Hacker News",
-   "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-   "published_at": "2026-08-12T07:51:20+00:00",
-   "collected_at": "2026-08-12T19:14:28.007106+00:00",
-   "title_ko": "반도체 소재 발굴용 AI 에이전트 개발사 'Discovered Materials' YC 합류",
-   "summary_ko": "급증하는 AI 반도체 발열 문제를 해결하기 위해 신소재를 발굴하는 AI 에이전트 스타트업이 YC에 선정되었습니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "반도체"
-   ]
-  },
-  {
-   "id": "46155e1a6a782626",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vm7iqx/its_the_final_countdown_baby_qwen_is_out_in_just/",
-   "source": "r/LocalLLaMA",
-   "title": "It's the final countdown, baby! Qwen is out in just over 7 hours!",
-   "published_at": "2026-08-12T07:45:19+00:00",
-   "collected_at": "2026-08-12T08:25:37.769419+00:00",
-   "title_ko": "Qwen 신버전 공개 임박",
-   "summary_ko": "알리바바의 새로운 Qwen 모델 공개를 앞두고 오픈소스 LLM 커뮤니티의 기대감이 고조되고 있다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "19e320751a361644",
-   "url": "https://news.hada.io/article/antirez-controls-the-ideas",
-   "source": "GeekNews",
-   "title": "AI가 코드를 쓰는 시대, antirez는 왜 다시 C로 만드는가",
-   "published_at": "2026-08-12T07:17:03+00:00",
-   "collected_at": "2026-08-12T08:25:51.794962+00:00",
-   "title_ko": "레디스 창업자 antirez, C 기반 추론 엔진 공개",
-   "summary_ko": "레디스 창업자 antirez가 애플 실리콘에서 멀티모달 모델을 구동하기 위한 C 및 메탈 기반 추론 엔진을 발표했다.",
-   "category": "참고",
-   "tags": [
-    "반도체",
-    "코딩"
-   ]
-  },
-  {
-   "id": "8107825be938e7f8",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vm6had/fyi_muse_glimmer_chat_template_got_updated/",
-   "source": "r/LocalLLaMA",
-   "title": "FYI: Muse Glimmer Chat Template Got Updated Recently",
-   "published_at": "2026-08-12T06:44:54+00:00",
-   "collected_at": "2026-08-12T08:25:37.769419+00:00",
-   "title_ko": "메타, Muse Glimmer 30B 챗템플레이트 업데이트",
-   "summary_ko": "메타의 Muse Glimmer 모델 챗 템플레이트가 최근 업데이트되어 성능 변화에 관심이 모이고 있다.",
-   "category": "참고",
-   "tags": [
-    "Meta",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "fb21820d806b1b78",
-   "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-   "source": "OpenAI",
-   "title": "From assistance to execution: How enterprises put AI to work",
-   "published_at": "2026-08-12T06:00:00+00:00",
-   "collected_at": "2026-08-12T13:36:32.200895+00:00",
-   "title_ko": "기업의 AI 에이전트 도입 실태 조사 결과 발표",
-   "summary_ko": "OpenAI가 기업들이 ChatGPT와 Codex 등 에이전트형 AI를 어떻게 도입하고 활용하는지 조사한 연구 결과를 공개했습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "GPT",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "43e25a24531932b1",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vm5e14/rtx_6000_pro_price_raised_to_16000_usd_on_the/",
-   "source": "r/LocalLLaMA",
-   "title": "RTX 6000 PRO price raised to $16,000 USD on the Nvidia website",
-   "published_at": "2026-08-12T05:42:49+00:00",
-   "collected_at": "2026-08-12T06:21:54.657746+00:00",
-   "title_ko": "엔비디아, RTX 6000 PRO 가격 1만 6천 달러로 인상",
-   "summary_ko": "엔비디아 웹사이트에서 RTX 6000 PRO GPU의 가격이 1만 6000달러로 상향 조정되었다.",
-   "category": "참고",
-   "tags": [
-    "NVIDIA",
-    "반도체"
    ]
   }
  ]
