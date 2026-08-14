@@ -1,8 +1,38 @@
 {
- "updated_at": "2026-08-14T19:06:49.707410+00:00",
+ "updated_at": "2026-08-14T20:39:02.169245+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "1f488d87fbbf1719",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vohpc8/the_difference_between_medium_and_xhigh_reasoning/",
+   "source": "r/LocalLLaMA",
+   "title": "The difference between \"medium\" and \"xhigh\" reasoning effort for Qwen3.8-27B is actually insane.",
+   "published_at": "2026-08-14T19:55:33+00:00",
+   "collected_at": "2026-08-14T20:38:44.897916+00:00",
+   "title_ko": "Qwen 3.8-27B의 추론 강도(reasoning_effort)에 따른 성능 차이",
+   "summary_ko": "로컬 환경에서 Qwen3.8-27B 모델을 테스트한 결과, 추론 강도 설정을 'medium'에서 'xhigh'로 변경했을 때의 성능 차이가 매우 컸습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "0d5a45124a3ff674",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voh7lk/stop_shitting_on_9b_models/",
+   "source": "r/LocalLLaMA",
+   "title": "Stop shitting on 9B models",
+   "published_at": "2026-08-14T19:36:58+00:00",
+   "collected_at": "2026-08-14T20:38:44.897916+00:00",
+   "title_ko": "저사양 사용자를 위한 9B 소형 모델의 중요성",
+   "summary_ko": "고성능 대형 모델이 주목받는 가운데, 제한된 하드웨어를 사용하는 일반 사용자들에게는 9B 같은 소형 모델의 실용성과 가치가 여전히 중요하다는 의견입니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
   {
    "id": "07d1f7f0a5aa825e",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vofnnf/muse_glimmer_was_frontier_in_the_model_class/",
@@ -16,6 +46,22 @@
    "tags": [
     "오픈소스",
     "LLM"
+   ]
+  },
+  {
+   "id": "9804d489acf0d849",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voer8u/qwen_38_27b_aquarium_burst_sample_test/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen 3.8 27B - Aquarium Burst Sample Test",
+   "published_at": "2026-08-14T18:07:58+00:00",
+   "collected_at": "2026-08-14T20:38:44.897916+00:00",
+   "title_ko": "Qwen 3.8 27B를 활용한 수조 시뮬레이션 에이전트 테스트",
+   "summary_ko": "VS Code GitHub Copilot 에이전트 모드에서 Qwen 3.8 27B 모델을 활용해 복잡한 물리 시뮬레이션 코드를 자율적으로 반복 생성하고 검증하는 테스트가 진행되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "코딩"
    ]
   },
   {
@@ -298,6 +344,21 @@
    ]
   },
   {
+   "id": "97ea0600b6d25b7a",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213980",
+   "source": "AI타임스",
+   "title": "[게시판] 원티드랩, AI 교육 성장 힘입어 17억 흑자전환 등 단신",
+   "published_at": "2026-08-14T16:00:00+00:00",
+   "collected_at": "2026-08-14T20:38:58.221088+00:00",
+   "title_ko": "원티드랩, AI 교육 사업 성장에 힘입어 흑자 전환",
+   "summary_ko": "기업과 공공기관의 AI 도입 확대로 실무형 AI 교육 수요가 증가하면서 원티드랩이 2분기 흑자 전환을 달성했습니다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트",
+    "투자"
+   ]
+  },
+  {
    "id": "b3c37ff188eacb34",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213978",
    "source": "AI타임스",
@@ -506,6 +567,20 @@
    "tags": [
     "오픈소스",
     "AI 모델"
+   ]
+  },
+  {
+   "id": "bda91c101fa73e8d",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213979",
+   "source": "AI타임스",
+   "title": "이스트소프트, 상반기 매출 607억...\"AI 중심 역대 최대\"",
+   "published_at": "2026-08-14T15:05:00+00:00",
+   "collected_at": "2026-08-14T20:38:58.221088+00:00",
+   "title_ko": "이스트소프트, AI 중심 사업 성장으로 상반기 최대 매출 달성",
+   "summary_ko": "AI 아바타 및 AX(AI 전환) 사업의 성장에 힘입어 이스트소프트가 상반기 기준 역대 최대 매출을 기록하고 영업손실을 대폭 줄였습니다.",
+   "category": "중요",
+   "tags": [
+    "투자"
    ]
   },
   {
@@ -2919,82 +2994,6 @@
    "tags": [
     "DeepSeek",
     "투자"
-   ]
-  },
-  {
-   "id": "f490a81c80ba391e",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213886",
-   "source": "AI타임스",
-   "title": "그래파이, AI 데이터 인프라로 170억 시리즈 A 투자 유치",
-   "published_at": "2026-08-13T11:56:41+00:00",
-   "collected_at": "2026-08-13T04:59:33.018618+00:00",
-   "title_ko": "그래파이, 엔터프라이즈 AI 데이터 인프라로 170억 원 투자 유치",
-   "summary_ko": "기업용 AI 데이터 플랫폼 '아카식'을 제공하는 그래파이가 170억 원 규모의 시리즈 A 투자를 유치하며 누적 206억 원을 달성했습니다.",
-   "category": "중요",
-   "tags": [
-    "투자"
-   ]
-  },
-  {
-   "id": "d6a9609b93d873a2",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vn8m1x/deepseek_were_launching_deepseekv4pro_today/",
-   "source": "r/LocalLLaMA",
-   "title": "DeepSeek: We’re launching DeepSeek-V4-Pro today!",
-   "published_at": "2026-08-13T11:56:04+00:00",
-   "collected_at": "2026-08-13T13:36:51.185102+00:00",
-   "title_ko": "DeepSeek, DeepSeek-V4-Pro 공식 출시",
-   "summary_ko": "DeepSeek이 차세대 대형 언어 모델인 DeepSeek-V4-Pro를 공식 출시했습니다. 성능 향상 여부에 업계의 이목이 집중됩니다.",
-   "category": "속보",
-   "tags": [
-    "DeepSeek",
-    "LLM"
-   ]
-  },
-  {
-   "id": "72a063c7b37bda04",
-   "url": "https://www.reddit.com/r/singularity/comments/1vn87tq/solution_to_hadamard_matrix_of_order_668_found_by/",
-   "source": "r/singularity",
-   "title": "Solution to Hadamard Matrix of Order 668 found by Anthropic Researcher using their internal model",
-   "published_at": "2026-08-13T11:36:35+00:00",
-   "collected_at": "2026-08-13T11:55:08.516082+00:00",
-   "title_ko": "Anthropic 연구원, 내부 모델로 아다마르 행렬 문제 해결",
-   "summary_ko": "Anthropic의 내부 AI 모델을 활용해 668차 아다마르 행렬 수학 난제를 해결했습니다. 최첨단 연구소들이 내부 모델을 통해 일반 연구원들보다 앞서 나가고 있음을 보여줍니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "수학",
-    "AI 모델"
-   ]
-  },
-  {
-   "id": "52bc752ba43990ba",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vn85kt/psa_reminder_that_minimax_h3_is_forbidden_to_use/",
-   "source": "r/LocalLLaMA",
-   "title": "PSA: reminder that Minimax H3 is forbidden to use in 🇺🇸 US, 🇪🇺 EU, 🇬🇧 UK, and 🇰🇷 South KoreaTutorial",
-   "published_at": "2026-08-13T11:33:30+00:00",
-   "collected_at": "2026-08-13T13:36:51.185102+00:00",
-   "title_ko": "MiniMax H3 라이선스상 한국·미국 등 사용 금지 주의",
-   "summary_ko": "MiniMax H3 모델의 라이선스 조항에 따라 한국, 미국, EU, 영국 내에서의 모델 사용이 엄격히 금지되어 있어 사용자들의 주의가 필요합니다.",
-   "category": "중요",
-   "tags": [
-    "규제",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "1a25a971679c6b03",
-   "url": "https://news.hada.io/topic?id=32463",
-   "source": "GeekNews",
-   "title": "Grok 4.6, AAII 61점으로 비용 효율에서 선두권 진입",
-   "published_at": "2026-08-13T11:32:07+00:00",
-   "collected_at": "2026-08-13T13:37:06.657531+00:00",
-   "title_ko": "Grok 4.6, 비용 효율성과 에이전트 성능에서 최상위권 진입",
-   "summary_ko": "Grok 4.6이 주요 평가에서 상위 모델들과 어깨를 나란히 하며 가성비와 에이전트 성능 측면에서 선두권에 올랐습니다.",
-   "category": "중요",
-   "tags": [
-    "Grok",
-    "AI 에이전트",
-    "LLM"
    ]
   }
  ]

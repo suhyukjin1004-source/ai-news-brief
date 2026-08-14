@@ -1,5 +1,35 @@
 [
  {
+  "id": "1f488d87fbbf1719",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vohpc8/the_difference_between_medium_and_xhigh_reasoning/",
+  "source": "r/LocalLLaMA",
+  "title": "The difference between \"medium\" and \"xhigh\" reasoning effort for Qwen3.8-27B is actually insane.",
+  "published_at": "2026-08-14T19:55:33+00:00",
+  "collected_at": "2026-08-14T20:38:44.897916+00:00",
+  "title_ko": "Qwen 3.8-27B의 추론 강도(reasoning_effort)에 따른 성능 차이",
+  "summary_ko": "로컬 환경에서 Qwen3.8-27B 모델을 테스트한 결과, 추론 강도 설정을 'medium'에서 'xhigh'로 변경했을 때의 성능 차이가 매우 컸습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "0d5a45124a3ff674",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voh7lk/stop_shitting_on_9b_models/",
+  "source": "r/LocalLLaMA",
+  "title": "Stop shitting on 9B models",
+  "published_at": "2026-08-14T19:36:58+00:00",
+  "collected_at": "2026-08-14T20:38:44.897916+00:00",
+  "title_ko": "저사양 사용자를 위한 9B 소형 모델의 중요성",
+  "summary_ko": "고성능 대형 모델이 주목받는 가운데, 제한된 하드웨어를 사용하는 일반 사용자들에게는 9B 같은 소형 모델의 실용성과 가치가 여전히 중요하다는 의견입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
   "id": "07d1f7f0a5aa825e",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vofnnf/muse_glimmer_was_frontier_in_the_model_class/",
   "source": "r/LocalLLaMA",
@@ -12,6 +42,22 @@
   "tags": [
    "오픈소스",
    "LLM"
+  ]
+ },
+ {
+  "id": "9804d489acf0d849",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voer8u/qwen_38_27b_aquarium_burst_sample_test/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen 3.8 27B - Aquarium Burst Sample Test",
+  "published_at": "2026-08-14T18:07:58+00:00",
+  "collected_at": "2026-08-14T20:38:44.897916+00:00",
+  "title_ko": "Qwen 3.8 27B를 활용한 수조 시뮬레이션 에이전트 테스트",
+  "summary_ko": "VS Code GitHub Copilot 에이전트 모드에서 Qwen 3.8 27B 모델을 활용해 복잡한 물리 시뮬레이션 코드를 자율적으로 반복 생성하고 검증하는 테스트가 진행되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "코딩"
   ]
  },
  {
@@ -309,6 +355,21 @@
   ]
  },
  {
+  "id": "97ea0600b6d25b7a",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=213980",
+  "source": "AI타임스",
+  "title": "[게시판] 원티드랩, AI 교육 성장 힘입어 17억 흑자전환 등 단신",
+  "published_at": "2026-08-14T16:00:00+00:00",
+  "collected_at": "2026-08-14T20:38:58.221088+00:00",
+  "title_ko": "원티드랩, AI 교육 사업 성장에 힘입어 흑자 전환",
+  "summary_ko": "기업과 공공기관의 AI 도입 확대로 실무형 AI 교육 수요가 증가하면서 원티드랩이 2분기 흑자 전환을 달성했습니다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트",
+   "투자"
+  ]
+ },
+ {
   "id": "0e8454be96a425c9",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213973",
   "source": "AI타임스",
@@ -502,6 +563,20 @@
   "tags": [
    "오픈소스",
    "AI 모델"
+  ]
+ },
+ {
+  "id": "bda91c101fa73e8d",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=213979",
+  "source": "AI타임스",
+  "title": "이스트소프트, 상반기 매출 607억...\"AI 중심 역대 최대\"",
+  "published_at": "2026-08-14T15:05:00+00:00",
+  "collected_at": "2026-08-14T20:38:58.221088+00:00",
+  "title_ko": "이스트소프트, AI 중심 사업 성장으로 상반기 최대 매출 달성",
+  "summary_ko": "AI 아바타 및 AX(AI 전환) 사업의 성장에 힘입어 이스트소프트가 상반기 기준 역대 최대 매출을 기록하고 영업손실을 대폭 줄였습니다.",
+  "category": "중요",
+  "tags": [
+   "투자"
   ]
  },
  {
