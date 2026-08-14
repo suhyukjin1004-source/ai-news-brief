@@ -15,6 +15,21 @@
   ]
  },
  {
+  "id": "37f51e26cfd7feca",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vod417/ninfer_day0_support_for_qwen38_27b_200_toks/",
+  "source": "r/LocalLLaMA",
+  "title": "NInfer day0 support for Qwen3.8 27b: ~200 tok/s generation, with tons of engine improvments",
+  "published_at": "2026-08-14T17:07:52+00:00",
+  "collected_at": "2026-08-14T18:00:48.565613+00:00",
+  "title_ko": "NInfer, Qwen3.8 27B 모델 지원 및 속도 개선",
+  "summary_ko": "추론 엔진 NInfer가 Qwen3.8-27B 모델을 지원하며 단일 RTX 5090에서 초당 200 토큰 생성 속도를 달성했습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
   "id": "c37ced353f9461e6",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213970",
   "source": "AI타임스",
@@ -42,6 +57,35 @@
   "tags": [
    "Google",
    "Gemini"
+  ]
+ },
+ {
+  "id": "ad166f309f6b3d39",
+  "url": "https://news.hada.io/topic?id=32507",
+  "source": "GeekNews",
+  "title": "넓게 만들고, 좁게 출시하기",
+  "published_at": "2026-08-14T16:36:56+00:00",
+  "collected_at": "2026-08-14T18:01:03.913178+00:00",
+  "title_ko": "AI 시대의 새로운 소프트웨어 설계 및 구현 방식",
+  "summary_ko": "AI를 활용해 미리 설계를 고정하는 대신 구현 후 코드를 바탕으로 기능을 나누는 개발 방식이 주목받고 있습니다.",
+  "category": "팁",
+  "tags": [
+   "코딩",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "8319d55a1580b1c1",
+  "url": "https://news.hada.io/topic?id=32505",
+  "source": "GeekNews",
+  "title": "하나의 프롬프트를 11개 AI 모델에 실행했더니 나온 서로 다른 결과",
+  "published_at": "2026-08-14T16:34:12+00:00",
+  "collected_at": "2026-08-14T18:01:03.913178+00:00",
+  "title_ko": "11개 AI 모델의 웹사이트 생성 결과 비교",
+  "summary_ko": "동일한 프롬프트로 11개 AI 모델을 테스트한 결과 디자인과 콘텐츠 품질에서 큰 차이를 보였습니다.",
+  "category": "참고",
+  "tags": [
+   "LLM"
   ]
  },
  {
@@ -296,6 +340,21 @@
   ]
  },
  {
+  "id": "543d69cb31ad761d",
+  "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+  "source": "Hacker News",
+  "title": "Google is making private AI practical with homomorphic encryption",
+  "published_at": "2026-08-14T15:43:10+00:00",
+  "collected_at": "2026-08-14T18:00:47.650714+00:00",
+  "title_ko": "구글, 동형 암호화로 프라이버시 보호 AI 실현",
+  "summary_ko": "구글이 동형 암호화 기술을 적용해 사용자 프라이버시를 완벽히 보호하면서 AI를 활용할 수 있는 방안을 공개했습니다.",
+  "category": "중요",
+  "tags": [
+   "Google",
+   "보안"
+  ]
+ },
+ {
   "id": "68fdb74b28541f67",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213974",
   "source": "AI타임스",
@@ -335,6 +394,21 @@
   "title_ko": "오픈랩들의 지속적인 사후 학습(Post-training) 중심 트렌드",
   "summary_ko": "최근 AI 업계가 완전히 새로운 베이스 모델을 처음부터 만들기보다 기존 모델의 지속적인 사후 학습을 통해 세대별 성능 도약을 이뤄내고 있습니다.",
   "category": "중요",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "f37531ac95ccc8fc",
+  "url": "https://www.reddit.com/r/singularity/comments/1voa4mo/qwen_38_27b_is_here/",
+  "source": "r/singularity",
+  "title": "Qwen 3.8 27b is here",
+  "published_at": "2026-08-14T15:18:19+00:00",
+  "collected_at": "2026-08-14T18:01:01.649509+00:00",
+  "title_ko": "알리바바, Qwen 3.8 27B 모델 공개",
+  "summary_ko": "고성능 오픈소스 LLM인 Qwen 3.8 27B 모델이 허깅페이스를 통해 공식 출시되었습니다.",
+  "category": "속보",
   "tags": [
    "오픈소스",
    "LLM"

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-14T17:03:03.003393+00:00",
+ "updated_at": "2026-08-14T18:01:06.409474+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -16,6 +16,21 @@
    "tags": [
     "Anthropic",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "37f51e26cfd7feca",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vod417/ninfer_day0_support_for_qwen38_27b_200_toks/",
+   "source": "r/LocalLLaMA",
+   "title": "NInfer day0 support for Qwen3.8 27b: ~200 tok/s generation, with tons of engine improvments",
+   "published_at": "2026-08-14T17:07:52+00:00",
+   "collected_at": "2026-08-14T18:00:48.565613+00:00",
+   "title_ko": "NInfer, Qwen3.8 27B 모델 지원 및 속도 개선",
+   "summary_ko": "추론 엔진 NInfer가 Qwen3.8-27B 모델을 지원하며 단일 RTX 5090에서 초당 200 토큰 생성 속도를 달성했습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "반도체"
    ]
   },
   {
@@ -46,6 +61,35 @@
    "tags": [
     "Google",
     "Gemini"
+   ]
+  },
+  {
+   "id": "ad166f309f6b3d39",
+   "url": "https://news.hada.io/topic?id=32507",
+   "source": "GeekNews",
+   "title": "넓게 만들고, 좁게 출시하기",
+   "published_at": "2026-08-14T16:36:56+00:00",
+   "collected_at": "2026-08-14T18:01:03.913178+00:00",
+   "title_ko": "AI 시대의 새로운 소프트웨어 설계 및 구현 방식",
+   "summary_ko": "AI를 활용해 미리 설계를 고정하는 대신 구현 후 코드를 바탕으로 기능을 나누는 개발 방식이 주목받고 있습니다.",
+   "category": "팁",
+   "tags": [
+    "코딩",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "8319d55a1580b1c1",
+   "url": "https://news.hada.io/topic?id=32505",
+   "source": "GeekNews",
+   "title": "하나의 프롬프트를 11개 AI 모델에 실행했더니 나온 서로 다른 결과",
+   "published_at": "2026-08-14T16:34:12+00:00",
+   "collected_at": "2026-08-14T18:01:03.913178+00:00",
+   "title_ko": "11개 AI 모델의 웹사이트 생성 결과 비교",
+   "summary_ko": "동일한 프롬프트로 11개 AI 모델을 테스트한 결과 디자인과 콘텐츠 품질에서 큰 차이를 보였습니다.",
+   "category": "참고",
+   "tags": [
+    "LLM"
    ]
   },
   {
@@ -300,6 +344,21 @@
    ]
   },
   {
+   "id": "543d69cb31ad761d",
+   "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+   "source": "Hacker News",
+   "title": "Google is making private AI practical with homomorphic encryption",
+   "published_at": "2026-08-14T15:43:10+00:00",
+   "collected_at": "2026-08-14T18:00:47.650714+00:00",
+   "title_ko": "구글, 동형 암호화로 프라이버시 보호 AI 실현",
+   "summary_ko": "구글이 동형 암호화 기술을 적용해 사용자 프라이버시를 완벽히 보호하면서 AI를 활용할 수 있는 방안을 공개했습니다.",
+   "category": "중요",
+   "tags": [
+    "Google",
+    "보안"
+   ]
+  },
+  {
    "id": "68fdb74b28541f67",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213974",
    "source": "AI타임스",
@@ -339,6 +398,21 @@
    "title_ko": "오픈랩들의 지속적인 사후 학습(Post-training) 중심 트렌드",
    "summary_ko": "최근 AI 업계가 완전히 새로운 베이스 모델을 처음부터 만들기보다 기존 모델의 지속적인 사후 학습을 통해 세대별 성능 도약을 이뤄내고 있습니다.",
    "category": "중요",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "f37531ac95ccc8fc",
+   "url": "https://www.reddit.com/r/singularity/comments/1voa4mo/qwen_38_27b_is_here/",
+   "source": "r/singularity",
+   "title": "Qwen 3.8 27b is here",
+   "published_at": "2026-08-14T15:18:19+00:00",
+   "collected_at": "2026-08-14T18:01:01.649509+00:00",
+   "title_ko": "알리바바, Qwen 3.8 27B 모델 공개",
+   "summary_ko": "고성능 오픈소스 LLM인 Qwen 3.8 27B 모델이 허깅페이스를 통해 공식 출시되었습니다.",
+   "category": "속보",
    "tags": [
     "오픈소스",
     "LLM"
@@ -2923,82 +2997,6 @@
     "OpenAI",
     "GPT",
     "AI 에이전트"
-   ]
-  },
-  {
-   "id": "6c13c663b17b2402",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vn7h1v/while_waiting_for_the_release_of_qwen3827b_lets/",
-   "source": "r/LocalLLaMA",
-   "title": "While waiting for the release of Qwen3.8-27B, let's try to guess what will happen",
-   "published_at": "2026-08-13T10:58:25+00:00",
-   "collected_at": "2026-08-13T11:54:55.379814+00:00",
-   "title_ko": "Qwen3.8-27B 카운트다운 페이지 공개",
-   "summary_ko": "Qwen 신규 모델 출시를 앞두고 VLM, 에이전트 성능 개선, 추론(Think) 모드 등 주요 기능에 대한 기사와 커뮤니티의 기대가 이어지고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "Qwen",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "f4537e0903cbbb95",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vn6lri/qwenqwen3827b_official_countdown_hugging_face/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen/Qwen3.8-27B · Official Countdown · Hugging Face",
-   "published_at": "2026-08-13T10:10:24+00:00",
-   "collected_at": "2026-08-13T11:54:55.379814+00:00",
-   "title_ko": "Qwen3.8-27B 허깅페이스 공식 카운트다운 시작",
-   "summary_ko": "허깅페이스에 Qwen3.8-27B 모델의 공식 출시 카운트다운 페이지가 등록되었습니다.",
-   "category": "속보",
-   "tags": [
-    "Qwen",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "79531bb62b839f57",
-   "url": "https://www.reddit.com/r/singularity/comments/1vn6hfr/terminal_bench_3_has_been_released_its_a_new/",
-   "source": "r/singularity",
-   "title": "Terminal Bench 3 has been released. It’s a new benchmark that hasn’t been included in model training sets yet. (I’m not showing the results from third-party harnesses to keep things fair.)",
-   "published_at": "2026-08-13T10:03:24+00:00",
-   "collected_at": "2026-08-13T11:55:08.516082+00:00",
-   "title_ko": "신규 벤치마크 'Terminal Bench 3' 출시",
-   "summary_ko": "아직 AI 모델 학습 데이터에 포함되지 않은 새로운 터미널 기반 벤치마크가 공개되어 공정한 성능 평가가 가능해졌습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 벤치마크"
-   ]
-  },
-  {
-   "id": "6357d7795d215a7f",
-   "url": "https://openai.com/index/previewing-ultrafast",
-   "source": "OpenAI",
-   "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-   "published_at": "2026-08-13T10:00:00+00:00",
-   "collected_at": "2026-08-13T17:05:46.041933+00:00",
-   "title_ko": "OpenAI, 최대 14배 빠른 GPT-5.6 Sol 울트라패스트 모드 공개",
-   "summary_ko": "Cerebras 하드웨어를 기반으로 구동되는 새로운 API 서비스 티어로, 초당 최대 750개의 토큰을 생성해 속도를 대폭 끌어올렸습니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "NVIDIA",
-    "반도체"
-   ]
-  },
-  {
-   "id": "38cd552ee5aa0320",
-   "url": "https://news.hada.io/topic?id=32462",
-   "source": "GeekNews",
-   "title": "Show GN: SSH Image Drop – 스크린샷을 원격 Claude Code 세션에 넘기는 Raycast 익스텐션",
-   "published_at": "2026-08-13T09:38:05+00:00",
-   "collected_at": "2026-08-13T11:55:10.620928+00:00",
-   "title_ko": "원격 Claude Code 세션용 스크린샷 전송 Raycast 익스텐션",
-   "summary_ko": "SSH로 원격 서버에 접속해 Claude Code 에이전트를 사용할 때 스크린샷을 손쉽게 전송할 수 있는 Raycast 확장 프로그램이 개발되었습니다.",
-   "category": "팁",
-   "tags": [
-    "Claude",
-    "AI 에이전트",
-    "개발도구"
    ]
   }
  ]
