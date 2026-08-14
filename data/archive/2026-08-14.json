@@ -29,6 +29,21 @@
   ]
  },
  {
+  "id": "90154964ed098046",
+  "url": "https://www.reddit.com/r/singularity/comments/1vo76vn/vision_is_the_current_bottleneck_imo/",
+  "source": "r/singularity",
+  "title": "\"Vision\" is the current bottleneck imo",
+  "published_at": "2026-08-14T13:23:22+00:00",
+  "collected_at": "2026-08-14T13:25:06.327872+00:00",
+  "title_ko": "LLM 코딩에서 시각적 피드백과 비전의 중요성",
+  "summary_ko": "LLM을 활용한 코딩 시 생성된 결과물을 눈으로 확인하고 피드백을 주는 '비전' 요소가 현재 개발의 주요 병목 현상임을 논합니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
   "id": "0b69dd10b5505f83",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213951",
   "source": "AI타임스",
@@ -39,6 +54,21 @@
   "summary_ko": "소크라 AI가 ETS 공식 알고리즘 기반 첨삭 서비스를 앞세워 인도와 파키스탄 등 글로벌 B2B 시장을 공략한다.",
   "category": "참고",
   "tags": []
+ },
+ {
+  "id": "86af1c67838db083",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vo6vvs/bitsandbytes_creator_teasing_new_quantization/",
+  "source": "r/LocalLLaMA",
+  "title": "bitsandbytes creator teasing new quantization method: GLM 5.3 on a single DGX Spark at 7t/s",
+  "published_at": "2026-08-14T13:10:39+00:00",
+  "collected_at": "2026-08-14T13:24:53.633331+00:00",
+  "title_ko": "팀 데트머스의 새로운 양자화 방법 예고",
+  "summary_ko": "bitsandbytes 개발자인 팀 데트머스가 단일 하드웨어에서 대형 모델을 구동할 수 있는 새로운 양자화 방법론을 시사했습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
  },
  {
   "id": "4e5f273594d83548",
@@ -68,6 +98,21 @@
   "category": "중요",
   "tags": [
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "96360d08b4520abe",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vo6fra/fantastic_latest_llamacpp_server_webui_can_now/",
+  "source": "r/LocalLLaMA",
+  "title": "fantastic: latest llama.cpp server webui can now run commands for tools into rootless sandboxed containers",
+  "published_at": "2026-08-14T12:51:34+00:00",
+  "collected_at": "2026-08-14T13:24:53.633331+00:00",
+  "title_ko": "llama.cpp 서버, 샌드박스 컨테이너 툴 실행 기능 지원",
+  "summary_ko": "llama.cpp 서버가 루트리스 샌드박스 컨테이너 내에서 안전하게 도구 관련 셸 명령어를 실행할 수 있는 실험적 옵션을 추가했습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
   ]
  },
  {
@@ -112,6 +157,20 @@
   ]
  },
  {
+  "id": "d24701874ce18552",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vo63d4/are_we_getting_qwen_38_35a3b/",
+  "source": "r/LocalLLaMA",
+  "title": "Are we getting Qwen 3.8 35-A3B?",
+  "published_at": "2026-08-14T12:36:25+00:00",
+  "collected_at": "2026-08-14T13:24:53.633331+00:00",
+  "title_ko": "Qwen 신규 모델 출시 임박 소식",
+  "summary_ko": "Qwen의 차기 모델이 MoE가 아닌 밀집(dense) 모델 형태로 곧 출시될 것이라는 커뮤니티의 관측이 제기되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "212f3f7df26da8ca",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213943",
   "source": "AI타임스",
@@ -150,6 +209,36 @@
   "tags": [
    "NVIDIA",
    "로보틱스"
+  ]
+ },
+ {
+  "id": "4d65fa912d788701",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vo5im4/what_kv_cache_tricks_do_you_guys_do_with_your/",
+  "source": "r/LocalLLaMA",
+  "title": "What KV cache tricks do you guys do with your agents?",
+  "published_at": "2026-08-14T12:10:22+00:00",
+  "collected_at": "2026-08-14T13:24:53.633331+00:00",
+  "title_ko": "에이전트 구동을 위한 KV 캐시 활용 팁",
+  "summary_ko": "llama.cpp의 프롬프트 캐싱 기능을 활용해 단일 GPU에서 여러 하위 에이전트를 효율적으로 전환하며 구동하는 방법입니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "e38833e73cd629d6",
+  "url": "https://www.reddit.com/r/singularity/comments/1vo56qy/glm_53_finds_2436_unpatched_open_source/",
+  "source": "r/singularity",
+  "title": "GLM 5.3 finds 2436 unpatched open source vulnerabilities likely missed by Mythos (Project Glasswing)",
+  "published_at": "2026-08-14T11:55:51+00:00",
+  "collected_at": "2026-08-14T13:25:06.327872+00:00",
+  "title_ko": "GLM 5.3, 오픈소스 취약점 2,400여 개 발견",
+  "summary_ko": "GLM 5.3 모델이 수십 년간 방치된 오픈소스 취약점을 대거 발견하며 보안 분야에서의 AI 활용 가능성을 보여주었습니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "보안"
   ]
  },
  {
@@ -210,6 +299,34 @@
   "tags": [
    "오픈소스",
    "LLM"
+  ]
+ },
+ {
+  "id": "e4d0a3db6c9c66e3",
+  "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+  "source": "Hacker News",
+  "title": "Why does Opus 5 feel worse to work with?",
+  "published_at": "2026-08-14T10:12:48+00:00",
+  "collected_at": "2026-08-14T13:24:49.333116+00:00",
+  "title_ko": "Opus 모델 사용감에 대한 개발자들의 평가",
+  "summary_ko": "최신 Opus 모델 작업 시 체감하는 성능과 사용성에 대한 개발자 커뮤니티의 논의가 이어지고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "Claude"
+  ]
+ },
+ {
+  "id": "343822196c2c85ea",
+  "url": "https://api-docs.deepseek.com/news/news260813/",
+  "source": "Hacker News",
+  "title": "DeepSeek peak/off-peak pricing update",
+  "published_at": "2026-08-14T09:55:33+00:00",
+  "collected_at": "2026-08-14T13:24:49.333116+00:00",
+  "title_ko": "딥시크 피크 및 오프피크 가격 정책 업데이트",
+  "summary_ko": "딥시크가 API 사용량에 대한 피크 및 오프피크 시간대별 가격 정책을 새롭게 업데이트했습니다.",
+  "category": "속보",
+  "tags": [
+   "투자"
   ]
  },
  {
