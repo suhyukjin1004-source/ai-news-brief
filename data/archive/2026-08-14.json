@@ -16,6 +16,68 @@
   ]
  },
  {
+  "id": "f7c54c0681426bf3",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnu366/1bit_qwen_38_24t_a95b_unsloth_iq1_s_medium/",
+  "source": "r/LocalLLaMA",
+  "title": "1BIT Qwen 3.8 2.4T a95b (unsloth iQ1_S) (MEDIUM Reasoning)",
+  "published_at": "2026-08-14T01:54:43+00:00",
+  "collected_at": "2026-08-14T02:36:04.444633+00:00",
+  "title_ko": "Mac에서 1비트 Qwen 3.8B 모델 구동 테스트",
+  "summary_ko": "애플 실리콘 환경에서 unsloth를 활용해 초저비트(1bit) Qwen 모델을 구동하고 성능을 테스트한 후기입니다. 고도화된 양자화 기술을 통한 대형 언어모델 로컬 구동 가능성을 보여줍니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "Qwen",
+   "LLM"
+  ]
+ },
+ {
+  "id": "ce567fa51d29f16d",
+  "url": "https://news.hada.io/topic?id=32484",
+  "source": "GeekNews",
+  "title": "palmier-pro - AI를 위해 만든 macOS 영상 편집기",
+  "published_at": "2026-08-14T00:30:03+00:00",
+  "collected_at": "2026-08-14T02:36:18.991006+00:00",
+  "title_ko": "AI 에이전트 결합 macOS 영상 편집기, palmier-pro",
+  "summary_ko": "사용자와 AI 에이전트가 타임라인에서 함께 협업하여 영상을 편집할 수 있는 오픈소스 macOS 영상 편집기입니다. AI 기반 워크플로 통합의 새로운 방향성을 제시합니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "5f1da29a0d57e57b",
+  "url": "https://declaude.org/watermarking/",
+  "source": "Hacker News",
+  "title": "How AI text watermarking works",
+  "published_at": "2026-08-13T23:16:55+00:00",
+  "collected_at": "2026-08-14T02:36:03.738672+00:00",
+  "title_ko": "AI 생성 텍스트 워터마킹 작동 원리",
+  "summary_ko": "AI가 생성한 텍스트를 판별하기 위한 워터마킹 기술의 내부 원리를 분석한 글입니다. 생성형 AI 콘텐츠 추적 및 식별에 대한 이해를 돕습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "4bbb9dd49ba0194f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnpqb5/ds4_cloud_30_min_vs_qwen36_36b_2_min_vs_muse/",
+  "source": "r/LocalLLaMA",
+  "title": "DS4 cloud (30 min) vs Qwen3.6 36B (2 min) vs Muse Glimmer 30B (3 min) on Llama.cpp (RTX 5080)",
+  "published_at": "2026-08-13T22:40:49+00:00",
+  "collected_at": "2026-08-14T02:36:04.444633+00:00",
+  "title_ko": "RTX 5080 기반 주요 LLM 성능 비교",
+  "summary_ko": "llama.cpp를 활용해 Qwen 및 Muse Glimmer 등 주요 오픈 모델들의 로컬 성능과 레이아웃을 비교한 테스트입니다. 하드웨어 환경별 LLM 구동 성능을 가늠할 수 있습니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "Qwen",
+   "반도체"
+  ]
+ },
+ {
   "id": "c8fee3924d05e4e7",
   "url": "https://news.hada.io/topic?id=32479",
   "source": "GeekNews",
@@ -138,6 +200,21 @@
   ]
  },
  {
+  "id": "0d1d047935ed1c6f",
+  "url": "https://simonwillison.net/2026/Aug/13/llm-gemini/",
+  "source": "Simon Willison",
+  "title": "llm-gemini 0.33",
+  "published_at": "2026-08-13T19:37:34+00:00",
+  "collected_at": "2026-08-14T02:36:03.898780+00:00",
+  "title_ko": "Gemini 3.7 Flash 지원하는 llm-gemini 0.33 출시",
+  "summary_ko": "Simon Willison의 LLM CLI 도구용 제미나이 플러그인이 업데이트되어 신규 모델들과 서버 사이드 도구 실행을 지원합니다. 개발자들이 최신 툴을 쉽게 연동할 수 있게 합니다.",
+  "category": "속보",
+  "tags": [
+   "Gemini",
+   "LLM"
+  ]
+ },
+ {
   "id": "102609d8d05c0ac4",
   "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
   "source": "The Verge",
@@ -149,6 +226,22 @@
   "category": "중요",
   "tags": [
    "OpenAI"
+  ]
+ },
+ {
+  "id": "1c14a4457a87dfb4",
+  "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+  "source": "Hacker News",
+  "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+  "published_at": "2026-08-13T19:25:38+00:00",
+  "collected_at": "2026-08-14T02:36:03.738672+00:00",
+  "title_ko": "조직에서의 ChatGPT 활용 실태 보고서",
+  "summary_ko": "OpenAI가 공개한 기업 및 조직의 실제 ChatGPT 활용 양상에 관한 데이터와 분석 보고서입니다. 기업 내 AI 도입 트렌드를 파악하는 데 중요합니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "ChatGPT",
+   "투자"
   ]
  },
  {
