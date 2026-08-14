@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-08-14T22:32:58.985760+00:00",
+ "updated_at": "2026-08-14T23:30:30.224421+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "a17a5dd5a69a72de",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vokrcy/qwen3827b_is_now_up_to_3_faster_on_apple_silicon/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8-27B is now up to ~3× faster on Apple Silicon with mlx-dspark",
+   "published_at": "2026-08-14T21:54:36+00:00",
+   "collected_at": "2026-08-14T23:30:13.634267+00:00",
+   "title_ko": "Apple Silicon에서 mlx-dspark로 Qwen 모델 속도 최대 3배 향상",
+   "summary_ko": "mlx-dspark 프레임워크를 통해 애플 실리콘 환경에서 Qwen3.8-27B 모델의 추론 속도가 최대 3배까지 빨라졌다. 로컬 환경에서의 대형 언어 모델 구동 효율성을 극대화한다는 점에서 중요하다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "Apple Silicon",
+    "LLM"
+   ]
+  },
   {
    "id": "245d0828ba0a8acb",
    "url": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/",
@@ -17,6 +33,37 @@
     "LLM",
     "임베딩",
     "코딩"
+   ]
+  },
+  {
+   "id": "fcecc042a57f0b14",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vokpw6/a_hunch_qwen3827bs_general_knowledge_got_pruned/",
+   "source": "r/LocalLLaMA",
+   "title": "A hunch: Qwen3.8-27B's general knowledge got pruned (good, if true)",
+   "published_at": "2026-08-14T21:52:55+00:00",
+   "collected_at": "2026-08-14T23:30:13.634267+00:00",
+   "title_ko": "Qwen3.8-27B 일반 지식 프루닝에 대한 분석",
+   "summary_ko": "Qwen3.8-27B 모델이 특정 지역 지식을 테스트한 결과 불필요한 일반 지식이 정제되었을 가능성이 제기되었다. 모델의 효율성과 추론 능력 개선 방향을 가늠할 수 있어 참고할 만하다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "8794b433e35f91f8",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voj571/retrocraft_qwen_38_27b_q8_one_shot_with_exact/",
+   "source": "r/LocalLLaMA",
+   "title": "RetroCraft - Qwen 3.8 27B Q8, one shot with exact performance data on dual 3090s.",
+   "published_at": "2026-08-14T20:50:38+00:00",
+   "collected_at": "2026-08-14T23:30:13.634267+00:00",
+   "title_ko": "Qwen 3.8 27B로 구현한 원샷 레트로 마인크래프트 클론 'RetroCraft'",
+   "summary_ko": "Qwen 3.8 27B 모델을 활용해 단 한 번의 프롬프트만으로 HTML/JS 기반의 레트로 마인크래프트 클론을 제작했다. LLM의 코딩 능력과 실무 활용도를 보여주는 사례다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩",
+    "LLM"
    ]
   },
   {
@@ -2953,52 +3000,6 @@
    "tags": [
     "오픈소스",
     "코딩"
-   ]
-  },
-  {
-   "id": "dd858c7001128667",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vn9it4/deepseekaideepseekv4pro0813_hugging_face/",
-   "source": "r/LocalLLaMA",
-   "title": "deepseek-ai/DeepSeek-V4-Pro-0813 · Hugging Face",
-   "published_at": "2026-08-13T12:37:23+00:00",
-   "collected_at": "2026-08-13T13:36:51.185102+00:00",
-   "title_ko": "DeepSeek-V4-Pro 모델 허깅페이스 등장",
-   "summary_ko": "허깅페이스에 DeepSeek의 차세대 모델로 추정되는 DeepSeek-V4-Pro-0813이 등록되었습니다. 업계의 큰 관심을 모으고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "DeepSeek",
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "293690506d115a52",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213882",
-   "source": "AI타임스",
-   "title": "그록 4.6, '세계 3위' 등극…프론티어 모델 경쟁 본격 합류",
-   "published_at": "2026-08-13T12:32:54+00:00",
-   "collected_at": "2026-08-13T04:59:33.018618+00:00",
-   "title_ko": "스페이스XAI, 프론티어 모델 '그록 4.6' 공개",
-   "summary_ko": "스페이스XAI가 장기 에이전트 작업과 코딩에 특화된 고성능 AI 모델 '그록 4.6'을 공개하며 글로벌 순위 상위권에 진입했습니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "78c979fe015b7865",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vn8zst/stolen_llm_reasoning_how_come_openai_anthrophic/",
-   "source": "r/LocalLLaMA",
-   "title": "Stolen LLM Reasoning: How come OpenAI, Anthrophic, Google have the same vulnerabilities?",
-   "published_at": "2026-08-13T12:13:15+00:00",
-   "collected_at": "2026-08-13T17:06:06.806122+00:00",
-   "title_ko": "주요 LLM의 추론 과정 암호화 취약점 발견",
-   "summary_ko": "대형 모델의 암호화된 추론 과정을 취약한 소형 모델에 이식할 수 있는 보안 취약점이 연구를 통해 밝혀졌습니다. 모델 간 암호화 키 공유 구조의 한계를 드러내어 AI 보안의 중요성을 시사합니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "Anthropic",
-    "Google"
    ]
   }
  ]

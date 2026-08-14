@@ -1,5 +1,21 @@
 [
  {
+  "id": "a17a5dd5a69a72de",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vokrcy/qwen3827b_is_now_up_to_3_faster_on_apple_silicon/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-27B is now up to ~3× faster on Apple Silicon with mlx-dspark",
+  "published_at": "2026-08-14T21:54:36+00:00",
+  "collected_at": "2026-08-14T23:30:13.634267+00:00",
+  "title_ko": "Apple Silicon에서 mlx-dspark로 Qwen 모델 속도 최대 3배 향상",
+  "summary_ko": "mlx-dspark 프레임워크를 통해 애플 실리콘 환경에서 Qwen3.8-27B 모델의 추론 속도가 최대 3배까지 빨라졌다. 로컬 환경에서의 대형 언어 모델 구동 효율성을 극대화한다는 점에서 중요하다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "Apple Silicon",
+   "LLM"
+  ]
+ },
+ {
   "id": "245d0828ba0a8acb",
   "url": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/",
   "source": "Simon Willison",
@@ -13,6 +29,37 @@
    "LLM",
    "임베딩",
    "코딩"
+  ]
+ },
+ {
+  "id": "fcecc042a57f0b14",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vokpw6/a_hunch_qwen3827bs_general_knowledge_got_pruned/",
+  "source": "r/LocalLLaMA",
+  "title": "A hunch: Qwen3.8-27B's general knowledge got pruned (good, if true)",
+  "published_at": "2026-08-14T21:52:55+00:00",
+  "collected_at": "2026-08-14T23:30:13.634267+00:00",
+  "title_ko": "Qwen3.8-27B 일반 지식 프루닝에 대한 분석",
+  "summary_ko": "Qwen3.8-27B 모델이 특정 지역 지식을 테스트한 결과 불필요한 일반 지식이 정제되었을 가능성이 제기되었다. 모델의 효율성과 추론 능력 개선 방향을 가늠할 수 있어 참고할 만하다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "8794b433e35f91f8",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voj571/retrocraft_qwen_38_27b_q8_one_shot_with_exact/",
+  "source": "r/LocalLLaMA",
+  "title": "RetroCraft - Qwen 3.8 27B Q8, one shot with exact performance data on dual 3090s.",
+  "published_at": "2026-08-14T20:50:38+00:00",
+  "collected_at": "2026-08-14T23:30:13.634267+00:00",
+  "title_ko": "Qwen 3.8 27B로 구현한 원샷 레트로 마인크래프트 클론 'RetroCraft'",
+  "summary_ko": "Qwen 3.8 27B 모델을 활용해 단 한 번의 프롬프트만으로 HTML/JS 기반의 레트로 마인크래프트 클론을 제작했다. LLM의 코딩 능력과 실무 활용도를 보여주는 사례다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩",
+   "LLM"
   ]
  },
  {
