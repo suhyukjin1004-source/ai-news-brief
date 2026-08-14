@@ -1,8 +1,23 @@
 {
- "updated_at": "2026-08-14T18:01:06.409474+00:00",
+ "updated_at": "2026-08-14T19:06:49.707410+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "07d1f7f0a5aa825e",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vofnnf/muse_glimmer_was_frontier_in_the_model_class/",
+   "source": "r/LocalLLaMA",
+   "title": "Muse Glimmer was frontier In the model class around 30b models for four days.",
+   "published_at": "2026-08-14T18:39:53+00:00",
+   "collected_at": "2026-08-14T19:06:33.134019+00:00",
+   "title_ko": "신규 30B급 오픈소스 LLM 'Muse Glimmer' 등장",
+   "summary_ko": "30B 모델 체급에서 일시적으로 최고 성능을 기록했던 Muse Glimmer 모델이 공개되었습니다. 오픈소스 LLM 생태계의 빠른 발전 속도를 보여줍니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
   {
    "id": "006899cc70a08526",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213964",
@@ -312,6 +327,21 @@
    ]
   },
   {
+   "id": "aaf05fa0c7fe71df",
+   "url": "https://www.byhand.ai/",
+   "source": "Hacker News",
+   "title": "AI by Hand",
+   "published_at": "2026-08-14T15:58:59+00:00",
+   "collected_at": "2026-08-14T19:06:32.322447+00:00",
+   "title_ko": "수작업으로 이해하는 AI 'AI by Hand' 소개",
+   "summary_ko": "인공신경망과 AI의 작동 원리를 직접 손으로 계산하며 이해할 수 있도록 돕는 학습 프로젝트입니다. AI의 기초 개념을 파악하는 데 유용합니다.",
+   "category": "참고",
+   "tags": [
+    "인공지능",
+    "학습"
+   ]
+  },
+  {
    "id": "a68c6ecff706595c",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vob107/poll_results_6_months_later_when_will_we_have/",
    "source": "r/LocalLLaMA",
@@ -446,6 +476,21 @@
    "tags": [
     "오픈소스",
     "AI 모델"
+   ]
+  },
+  {
+   "id": "13f7ecb3e12107b1",
+   "url": "https://www.mixedbread.com/blog/toast-1",
+   "source": "Hacker News",
+   "title": "Introducing Toast 1",
+   "published_at": "2026-08-14T15:07:57+00:00",
+   "collected_at": "2026-08-14T19:06:25.784960+00:00",
+   "title_ko": "신규 AI 모델 및 툴 'Toast 1' 공개",
+   "summary_ko": "Mixedbread에서 새롭게 선보인 Toast 1은 AI 개발 및 데이터 처리 워크플로우를 지원하는 도구입니다. 개발자들의 실무 활용도가 기대됩니다.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트",
+    "개발도구"
    ]
   },
   {
@@ -2950,53 +2995,6 @@
     "Grok",
     "AI 에이전트",
     "LLM"
-   ]
-  },
-  {
-   "id": "c55595789478970e",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vn7x0r/the_qwen_team_is_going_live/",
-   "source": "r/LocalLLaMA",
-   "title": "The Qwen team is going live!",
-   "published_at": "2026-08-13T11:21:37+00:00",
-   "collected_at": "2026-08-13T11:54:55.379814+00:00",
-   "title_ko": "Qwen 팀, 라이브 방송 진행",
-   "summary_ko": "알리바바 Qwen 팀이 실시간 방송을 통해 향후 계획이나 신규 모델 관련 소식을 전할 예정입니다.",
-   "category": "속보",
-   "tags": [
-    "Qwen",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "70ed522ada31981c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vn7ku6/openai_vs_anthropic/",
-   "source": "r/LocalLLaMA",
-   "title": "OpenAI vs. Anthropic",
-   "published_at": "2026-08-13T11:03:47+00:00",
-   "collected_at": "2026-08-13T11:54:55.379814+00:00",
-   "title_ko": "OpenAI와 Anthropic의 공개 모델 현황 비교",
-   "summary_ko": "OpenAI는 허깅페이스 등에 다수의 모델을 공개한 반면, Anthropic은 상대적으로 모델 공개에 소극적인 행보를 보이고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "Anthropic",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "855fa77e93e122bb",
-   "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-   "source": "OpenAI",
-   "title": "The builder’s guide to GPT‑5.6",
-   "published_at": "2026-08-13T11:00:00+00:00",
-   "collected_at": "2026-08-13T19:14:48.016762+00:00",
-   "title_ko": "오픈에이아이, GPT-5.6 빌더 가이드 공개",
-   "summary_ko": "스타트업들이 GPT-5.6과 새로운 Responses API를 활용해 효율적인 AI 에이전트를 구축하는 방법이 소개되었습니다.",
-   "category": "팁",
-   "tags": [
-    "OpenAI",
-    "GPT",
-    "AI 에이전트"
    ]
   }
  ]
