@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-08-14T20:39:02.169245+00:00",
+ "updated_at": "2026-08-14T22:32:58.985760+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "245d0828ba0a8acb",
+   "url": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/",
+   "source": "Simon Willison",
+   "title": "Don't classify. Hallucinate!",
+   "published_at": "2026-08-14T21:54:35+00:00",
+   "collected_at": "2026-08-14T22:32:41.874519+00:00",
+   "title_ko": "LLM을 활용한 효율적인 블로그 태깅 기법",
+   "summary_ko": "방대한 기존 태그 목록을 LLM에 직접 넣는 대신, 모델이 자유롭게 태그를 생성하게 한 뒤 벡터 임베딩으로 기존 어휘와 매칭하는 실용적인 방법입니다.",
+   "category": "팁",
+   "tags": [
+    "LLM",
+    "임베딩",
+    "코딩"
+   ]
+  },
   {
    "id": "1f488d87fbbf1719",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vohpc8/the_difference_between_medium_and_xhigh_reasoning/",
@@ -31,6 +47,22 @@
    "tags": [
     "오픈소스",
     "LLM"
+   ]
+  },
+  {
+   "id": "cfa68699f2881186",
+   "url": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
+   "source": "Hacker News",
+   "title": "Anthropic Risk August 2026 [pdf]",
+   "published_at": "2026-08-14T19:32:15+00:00",
+   "collected_at": "2026-08-14T22:32:41.740142+00:00",
+   "title_ko": "앤스로픽 리스크 보고서 공개",
+   "summary_ko": "앤스로픽이 AI 모델과 관련된 위험 요소를 분석한 최신 리스크 보고서를 공개했습니다.",
+   "category": "참고",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "규제"
    ]
   },
   {
@@ -228,6 +260,22 @@
    ]
   },
   {
+   "id": "9f1cc05b1c69965a",
+   "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+   "source": "Hacker News",
+   "title": "Maximizing the value of your Claude Code sessions",
+   "published_at": "2026-08-14T16:15:21+00:00",
+   "collected_at": "2026-08-14T22:32:40.219159+00:00",
+   "title_ko": "Claude Code 세션 활용 극대화 가이드",
+   "summary_ko": "개발자들이 Claude Code를 더욱 효과적으로 사용하여 코딩 생산성을 극대화할 수 있는 팁을 제공합니다.",
+   "category": "팁",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "코딩"
+   ]
+  },
+  {
    "id": "16915a944c9ee791",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vobndt/qwen38_benchmarks_converted_to_charts/",
    "source": "r/LocalLLaMA",
@@ -341,6 +389,22 @@
    "category": "팁",
    "tags": [
     "오픈소스"
+   ]
+  },
+  {
+   "id": "8d98ca9a9b97d3b6",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213984",
+   "source": "AI타임스",
+   "title": "\"AI·로봇으로 미래 국방 혁신\"...산업부-육군-현대차, 첨단기술 활용 MOU",
+   "published_at": "2026-08-14T16:00:00+00:00",
+   "collected_at": "2026-08-14T22:32:56.898865+00:00",
+   "title_ko": "산업부·육군·현대차, 피지컬 AI 국방 혁신 MOU 체결",
+   "summary_ko": "정부와 군, 현대차가 손잡고 첨단 피지컬 AI 기술과 국방 로봇을 도입하여 미래 국방 혁신에 나섭니다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트",
+    "로보틱스",
+    "투자"
    ]
   },
   {
@@ -2935,65 +2999,6 @@
     "OpenAI",
     "Anthropic",
     "Google"
-   ]
-  },
-  {
-   "id": "4d34dd491752816e",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213887",
-   "source": "AI타임스",
-   "title": "삼성SDS, 중앙부처 9곳에 AI 협업 솔루션 '브리티웍스' 공급",
-   "published_at": "2026-08-13T12:09:24+00:00",
-   "collected_at": "2026-08-13T04:59:33.018618+00:00",
-   "title_ko": "삼성SDS, 중앙부처 9곳에 AI 협업 솔루션 공급",
-   "summary_ko": "행정안전부의 지능형 업무관리 플랫폼 확산 계획에 따라 삼성SDS의 '브리티웍스'가 주요 정부 부처 9곳에 도입됩니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "4732ef3bffeb3351",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213881",
-   "source": "AI타임스",
-   "title": "오픈AI·엔비디아, 국내 첫 공동 밋업 개최...‘AI 에이전트’ 생태계 확장 모색",
-   "published_at": "2026-08-13T12:08:18+00:00",
-   "collected_at": "2026-08-13T04:59:33.018618+00:00",
-   "title_ko": "오픈AI·엔비디아, 국내 첫 개발자 밋업 개최",
-   "summary_ko": "오픈AI와 엔비디아가 서울에서 첫 공동 개발자 밋업을 열고, 최신 인프라와 개발자 도구를 활용한 AI 에이전트 구축 방안을 공유했습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "NVIDIA",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "7588e9465f51519d",
-   "url": "https://news.hada.io/topic?id=32465",
-   "source": "GeekNews",
-   "title": "인간이 루프의 중심이어야 한다",
-   "published_at": "2026-08-13T12:07:23+00:00",
-   "collected_at": "2026-08-13T13:37:06.657531+00:00",
-   "title_ko": "AI 의존도가 가져오는 지적 능력 저하에 대한 성찰",
-   "summary_ko": "AI 에이전트에 대한 과도한 의존이 오히려 호기심과 주체성을 약화할 수 있다는 점을 지적하며 인간 중심적 사고의 중요성을 강조합니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "7267e2f603b35fa8",
-   "url": "https://www.reddit.com/r/singularity/comments/1vn8qsr/deepseek_announce_price_increases_of_501000/",
-   "source": "r/singularity",
-   "title": "DeepSeek announce price increases of 50-1000%",
-   "published_at": "2026-08-13T12:01:43+00:00",
-   "collected_at": "2026-08-13T13:37:04.024632+00:00",
-   "title_ko": "DeepSeek, API 가격 대폭 인상 발표",
-   "summary_ko": "DeepSeek이 서비스 이용 가격을 50%에서 최대 1000까지 인상한다고 발표했습니다. API 사용 비용에 큰 변화가 예상됩니다.",
-   "category": "중요",
-   "tags": [
-    "DeepSeek",
-    "투자"
    ]
   }
  ]
