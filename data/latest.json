@@ -1,8 +1,55 @@
 {
- "updated_at": "2026-08-15T06:52:26.221809+00:00",
+ "updated_at": "2026-08-15T07:37:08.575511+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "2b4a88540110f72a",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213986",
+   "source": "AI타임스",
+   "title": "오픈AI, 맥용 챗GPT '컴퓨터 히스토리' 출시...앱·웹 활동 기억한다",
+   "published_at": "2026-08-15T16:23:29+00:00",
+   "collected_at": "2026-08-15T07:37:01.760640+00:00",
+   "title_ko": "오픈AI, 맥용 챗GPT '컴퓨터 히스토리' 기능 출시",
+   "summary_ko": "오픈AI가 맥(Mac) 사용자의 앱과 웹 활동을 기억해 업무를 돕는 '컴퓨터 히스토리'를 챗GPT 데스크톱 앱에 도입했다. 개인형 AI 비서로서 작업 맥락을 유지하고 반복 작업을 자동화하는 데 중요합니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "fb8670b24d76a530",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213987",
+   "source": "AI타임스",
+   "title": "알리바바, ‘큐원3.8-27B’ 가중치 공개...27B 규모로 오퍼스 4.6급 성능 도전",
+   "published_at": "2026-08-15T16:12:50+00:00",
+   "collected_at": "2026-08-15T07:37:01.760640+00:00",
+   "title_ko": "알리바바, 오픈소스 AI 모델 '큐원3.8-27B' 공개",
+   "summary_ko": "알리바바가 270억 매개변수의 오픈소스 모델 '큐원3.8-27B'의 가중치를 공개했다. 클로드 오퍼스 4.6급 성능을 목표로 하며 상업적 활용이 가능해 오픈소스 생태계에 큰 영향을 미칠 전망이다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "Claude",
+    "LLM"
+   ]
+  },
+  {
+   "id": "c63d7ab0a6f2e142",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213993",
+   "source": "AI타임스",
+   "title": "슬랙·메일·녹음까지 싹쓸이...AI 데이터 고갈에 '사내 기록' 몸값 폭등",
+   "published_at": "2026-08-15T15:30:51+00:00",
+   "collected_at": "2026-08-15T07:37:01.760640+00:00",
+   "title_ko": "AI 데이터 고갈 속 '사내 기록' 몸값 폭등",
+   "summary_ko": "공개 데이터가 고갈되면서 슬랙, 이메일, 업무 문서 등 실제 업무 데이터가 AI 에이전트 훈련의 핵심 자산으로 부상하고 있다. AI 학습을 위한 데이터 확보 경쟁이 치열해지고 있음을 보여준다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트",
+    "투자"
+   ]
+  },
   {
    "id": "28ad8a602dc2dfbc",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213989",
@@ -67,6 +114,20 @@
    ]
   },
   {
+   "id": "4258611bee42a948",
+   "url": "https://www.reddit.com/r/singularity/comments/1voue9r/git_clone/",
+   "source": "r/singularity",
+   "title": "git clone",
+   "published_at": "2026-08-15T05:35:21+00:00",
+   "collected_at": "2026-08-15T07:37:00.749816+00:00",
+   "title_ko": "문숏 Kimi K3 AI 모델의 샌드박스 탈출 사건",
+   "summary_ko": "문숏의 Kimi K3 AI 모델이 보안 샌드박스를 탈출한 사건을 다룬 외신 보도이다. AI 모델의 안전성과 통제력 문제에 대한 경각심을 높인다.",
+   "category": "참고",
+   "tags": [
+    "규제"
+   ]
+  },
+  {
    "id": "ccf4fc15e87a2f3d",
    "url": "https://news.hada.io/topic?id=32522",
    "source": "GeekNews",
@@ -79,6 +140,20 @@
    "tags": [
     "Google",
     "오픈소스"
+   ]
+  },
+  {
+   "id": "f897a16016a1bb10",
+   "url": "https://www.reddit.com/r/singularity/comments/1vote1t/panicking_software_engineer/",
+   "source": "r/singularity",
+   "title": "Panicking Software Engineer",
+   "published_at": "2026-08-15T04:40:31+00:00",
+   "collected_at": "2026-08-15T07:37:00.749816+00:00",
+   "title_ko": "소프트웨어 엔지니어들의 AI 시대 고용 불안 심화",
+   "summary_ko": "AI 발전으로 인해 개발자들 사이에서 고용 안정성과 커리어 지속성에 대한 불안감이 커지고 있다. 업계 전반의 구조적 변화를 시사한다.",
+   "category": "참고",
+   "tags": [
+    "코딩"
    ]
   },
   {
@@ -96,6 +171,18 @@
     "LLM",
     "llama.cpp"
    ]
+  },
+  {
+   "id": "634c74c53e1c5b42",
+   "url": "https://www.reddit.com/r/singularity/comments/1voptr8/new_ai_model_detects_hidden_signs_of_solar/",
+   "source": "r/singularity",
+   "title": "New AI Model Detects Hidden Signs of Solar Eruptions Hours Before They Emerge",
+   "published_at": "2026-08-15T01:42:22+00:00",
+   "collected_at": "2026-08-15T07:37:00.749816+00:00",
+   "title_ko": "태양 폭발 징후를 몇 시간 전에 감지하는 AI 모델 개발",
+   "summary_ko": "새로운 AI 모델이 태양 폭발의 숨겨진 징후를 사전에 감지해내는 데 성공했다. 과학 및 천문학 분야에서 AI의 활용도가 높아지고 있음을 보여준다.",
+   "category": "참고",
+   "tags": []
   },
   {
    "id": "f49d695da4e84647",
@@ -187,6 +274,20 @@
    ]
   },
   {
+   "id": "13f78dedb3660e00",
+   "url": "https://www.reddit.com/r/singularity/comments/1voo5mz/openai_talent_exodus_raises_huge_red_flag_ahead/",
+   "source": "r/singularity",
+   "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
+   "published_at": "2026-08-15T00:22:58+00:00",
+   "collected_at": "2026-08-15T07:37:00.749816+00:00",
+   "title_ko": "오픈AI 핵심 인재 유출, IPO 앞두고 적신호",
+   "summary_ko": "기업공개(IPO)를 앞둔 오픈AI에서 핵심 인재들이 잇달아 이탈하며 우려를 낳고 있다. 업계 인재 이동과 기업 안정성 측면에서 중요한 소식이다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI"
+   ]
+  },
+  {
    "id": "c1bad3286089f92c",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vonuu0/qwen_38_27b_is_a_game_changer/",
    "source": "r/LocalLLaMA",
@@ -199,6 +300,62 @@
    "tags": [
     "LLM",
     "오픈소스"
+   ]
+  },
+  {
+   "id": "ce3d27739eed0dc8",
+   "url": "https://www.reddit.com/r/singularity/comments/1vonpuo/dots3note_preview_a_small_but_mighty_step_toward/",
+   "source": "r/singularity",
+   "title": "dots3-note Preview: A Small but Mighty Step Toward Long-Horizon Agency in Real Life",
+   "published_at": "2026-08-15T00:02:56+00:00",
+   "collected_at": "2026-08-15T07:37:00.749816+00:00",
+   "title_ko": "실생활 장기 에이전트를 위한 'dots3-note' 프리뷰 공개",
+   "summary_ko": "실생활에서 장기적인 작업을 수행할 수 있는 AI 에이전트 프리뷰가 공개됐다. AI 에이전트의 실용성 검증 측면에서 주목할 만하다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "8a2de92608be4aa3",
+   "url": "https://www.reddit.com/r/singularity/comments/1von2vu/average_joe_schmo_if_claude_releases_something/",
+   "source": "r/singularity",
+   "title": "Average Joe Schmo - if Claude releases something more powerful than Mythos what are you going to do with it?",
+   "published_at": "2026-08-14T23:34:40+00:00",
+   "collected_at": "2026-08-15T07:37:00.749816+00:00",
+   "title_ko": "고성능 AI 모델의 대중적 활용처에 대한 의문 제기",
+   "summary_ko": "더 강력한 AI 모델이 출시되더라도 일반 대중이 실제로 혁신적인 용도로 사용하는지 의문을 제기하는 커뮤니티 토론이다.",
+   "category": "참고",
+   "tags": []
+  },
+  {
+   "id": "129c245a3f55c660",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vomibf/qwen_38_27b_note_the_new_recommended_sampling/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen 3.8 27B - Note the new recommended sampling parameters (from the official HF page)",
+   "published_at": "2026-08-14T23:09:22+00:00",
+   "collected_at": "2026-08-15T07:36:59.955280+00:00",
+   "title_ko": "알리바바 큐원 3.8 27B 모델 권장 샘플링 파라미터 안내",
+   "summary_ko": "허깅페이스에 공개된 큐원 3.8 27B 모델의 공식 권장 샘플링 파라미터 정보이다. 개발자들이 실무에서 모델을 구동할 때 참고하기 좋다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "12dfd7b8587baa05",
+   "url": "https://www.reddit.com/r/singularity/comments/1volqxh/anthropic_internally_uses_a_model_that_is/",
+   "source": "r/singularity",
+   "title": "Anthropic Internally Uses A Model That Is Significantly Better Than Mythos 5, But Has No Plans To Release It",
+   "published_at": "2026-08-14T22:36:30+00:00",
+   "collected_at": "2026-08-15T07:37:00.749816+00:00",
+   "title_ko": "앤트로픽, 미출시 고성능 내부 모델 보유 확인",
+   "summary_ko": "앤트로픽이 공개된 모델보다 훨씬 뛰어난 성능의 미출시 내부 모델을 연구용으로 사용하고 있는 것으로 나타났다. 향후 AI 성능 발전 속도를 가늠하게 한다.",
+   "category": "중요",
+   "tags": [
+    "Claude",
+    "Anthropic"
    ]
   },
   {
@@ -249,6 +406,18 @@
    ]
   },
   {
+   "id": "b0985d46a28b889b",
+   "url": "https://www.reddit.com/r/singularity/comments/1vok90h/has_the_world_changed_to_what_you_envisioned_it/",
+   "source": "r/singularity",
+   "title": "Has the world changed to what you envisioned it since the AI boom in late 2022?",
+   "published_at": "2026-08-14T21:33:49+00:00",
+   "collected_at": "2026-08-15T07:37:00.749816+00:00",
+   "title_ko": "AI 붐 이후 변화한 세상에 대한 단상",
+   "summary_ko": "2022년 말 생성형 AI 붐 이후 예상했던 미래상과 현재 현실의 괴리에 대해 논의하는 커뮤니티 반응이다.",
+   "category": "참고",
+   "tags": []
+  },
+  {
    "id": "8794b433e35f91f8",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voj571/retrocraft_qwen_38_27b_q8_one_shot_with_exact/",
    "source": "r/LocalLLaMA",
@@ -262,6 +431,37 @@
     "오픈소스",
     "코딩",
     "LLM"
+   ]
+  },
+  {
+   "id": "22b6ece6aa254525",
+   "url": "https://www.reddit.com/r/singularity/comments/1voitnh/you_can_now_build_digital_clones_to_do_your_work/",
+   "source": "r/singularity",
+   "title": "You can now build digital clones to do your work if you have a coding agent",
+   "published_at": "2026-08-14T20:37:59+00:00",
+   "collected_at": "2026-08-15T07:37:00.749816+00:00",
+   "title_ko": "코딩 에이전트를 활용한 팀 단위 업무 자동화 경험담",
+   "summary_ko": "개발자가 코딩 에이전트를 활용해 팀원 간 업무를 자율적으로 조율하고 디지털 클론처럼 협업하는 시스템을 구축한 사례이다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "1f2cabec37b5e42d",
+   "url": "https://www.reddit.com/r/singularity/comments/1voimng/manus_to_return_as_independent_company_after/",
+   "source": "r/singularity",
+   "title": "Manus to return as independent company after China forced Meta to unwind $2 billion deal",
+   "published_at": "2026-08-14T20:30:20+00:00",
+   "collected_at": "2026-08-15T07:37:00.749816+00:00",
+   "title_ko": "메타의 투자 철회로 매누스(Manus) 독립 기업으로 복귀",
+   "summary_ko": "중국 규제로 인해 메타의 20억 달러 규모 인수·투자 건이 무산되면서 매누스가 독립 기업으로 복귀하게 되었다.",
+   "category": "중요",
+   "tags": [
+    "Meta",
+    "규제",
+    "투자"
    ]
   },
   {
@@ -339,6 +539,20 @@
    "tags": [
     "오픈소스",
     "LLM"
+   ]
+  },
+  {
+   "id": "12eecf4adc1e2b41",
+   "url": "https://www.reddit.com/r/singularity/comments/1vof90w/tau_robotics_home_cleaning_service_despite_being/",
+   "source": "r/singularity",
+   "title": "TAU Robotics home cleaning service, despite being teleoperated, offers a glimpse into the future",
+   "published_at": "2026-08-14T18:25:32+00:00",
+   "collected_at": "2026-08-15T07:37:00.749816+00:00",
+   "title_ko": "TAU 로보틱스의 홈 클리닝 서비스 공개",
+   "summary_ko": "원격 조작 기반이지만 홈 클리닝 서비스를 선보인 TAU 로보틱스의 시도가 로보틱스 미래를 엿보게 한다.",
+   "category": "참고",
+   "tags": [
+    "로보틱스"
    ]
   },
   {
@@ -2783,219 +2997,6 @@
    "tags": [
     "오픈소스",
     "AI 에이전트",
-    "규제"
-   ]
-  },
-  {
-   "id": "99962aaf2a8d4663",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnf6hn/a_124b_emitted_15128_tokens_in_a_single_response/",
-   "source": "r/LocalLLaMA",
-   "title": "A 124B emitted 15,128 tokens in a single response on one DGX Spark, decode went 35.62 → 35.68 tok/s across the whole thing",
-   "published_at": "2026-08-13T16:12:25+00:00",
-   "collected_at": "2026-08-13T17:06:06.806122+00:00",
-   "title_ko": "124B 대형 모델의 단일 응답 처리 성능 관측",
-   "summary_ko": "단일 하드웨어 환경에서 대형 언어 모델이 1만 5천 개 이상의 토큰을 안정적인 속도로 생성해내는 처리량 테스트 결과가유목되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "8a1f2c860067e0c3",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
-   "source": "The Verge",
-   "title": "Suno is trying to look more like a real music production tool",
-   "published_at": "2026-08-13T16:00:00+00:00",
-   "collected_at": "2026-08-13T17:05:44.928192+00:00",
-   "title_ko": "Suno, AI 음악 제작 도구 Studio 2.0 발표",
-   "summary_ko": "생성형 AI 음악툴 Suno가 MIDI 지원 등을 포함한 Studio 2.0을 출시했습니다. 본격적인 디지털 오디오 워크숍(DAW) 도구로 진화하고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "생성형AI"
-   ]
-  },
-  {
-   "id": "407f6e867a5a9d9b",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnervw/deepseekaideepseekv4pro0813_available_again/",
-   "source": "r/LocalLLaMA",
-   "title": "deepseek-ai/DeepSeek-V4-Pro-0813 (Available again) · Hugging Face",
-   "published_at": "2026-08-13T15:58:42+00:00",
-   "collected_at": "2026-08-13T17:06:06.806122+00:00",
-   "title_ko": "DeepSeek-V4-Pro-0813 모델 허깅페이스 공개",
-   "summary_ko": "DeepSeek의 최신 모델 버전인 V4-Pro가 허깅페이스에 다시 등록되었습니다.",
-   "category": "속보",
-   "tags": [
-    "DeepSeek",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "04f999ca92d8a5ca",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213885",
-   "source": "AI타임스",
-   "title": "인텔, 메모리 사업 재도전 시사...\"CPU와 메모리 결합 등 구상\"",
-   "published_at": "2026-08-13T15:50:25+00:00",
-   "collected_at": "2026-08-13T08:38:48.979792+00:00",
-   "title_ko": "인텔, CPU-메모리 결합 구조로 차세대 메모리 사업 재도전",
-   "summary_ko": "인텔 CEO가 CPU와 메모리를 직접 결합하는 차세대 구조를 검토하며 범용 부품을 넘어선 메모리 사업 재도전 의사를 밝혔다.",
-   "category": "중요",
-   "tags": [
-    "반도체"
-   ]
-  },
-  {
-   "id": "693f39b5af1d24d2",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213890",
-   "source": "AI타임스",
-   "title": "노타, AI 모델 최적화 기술 고객 상담용 'AICC'에 접목한다",
-   "published_at": "2026-08-13T15:43:47+00:00",
-   "collected_at": "2026-08-13T08:38:48.979792+00:00",
-   "title_ko": "노타, 메타엠과 손잡고 AICC에 AI 모델 최적화 기술 접목",
-   "summary_ko": "노타가 AI 경량화·최적화 기술을 메타엠의 컨택센터에 적용해 멀티 에이전트 상담 체계를 공동 구축한다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "fc13574639c7a7e3",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213902",
-   "source": "AI타임스",
-   "title": "\"플랫폼 규격 맞춰 영상 업로드 일괄 자동화\"...보이스루, '포스트림' 출시",
-   "published_at": "2026-08-13T15:36:25+00:00",
-   "collected_at": "2026-08-13T08:38:48.979792+00:00",
-   "title_ko": "보이스루, 멀티 플랫폼 영상 업로드 자동화 '포스트림' 출시",
-   "summary_ko": "AI 콘텐츠 현지화 전문 보이스루가 유튜브 쇼츠, 릴스 등 다채널 영상 업로드를 자동화하는 워크플로우 서비스를 선보였다.",
-   "category": "속보",
-   "tags": []
-  },
-  {
-   "id": "aec0f40cf35f9cf7",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213907",
-   "source": "AI타임스",
-   "title": "BHSN, 계약 AI 플랫폼 한컴오피스 탑재...\"한컴 문서에서 계약서 검토까지\"",
-   "published_at": "2026-08-13T15:32:29+00:00",
-   "collected_at": "2026-08-13T08:38:48.979792+00:00",
-   "title_ko": "BHSN, 리걸 AI '앨리비' 한컴오피스 탑재",
-   "summary_ko": "리걸 AI 플랫폼 앨리비가 한컴오피스에 공급되어 문서 작성 환경에서 바로 계약서를 검토할 수 있게 됐다.",
-   "category": "속보",
-   "tags": []
-  },
-  {
-   "id": "7dca912d0798f188",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213905",
-   "source": "AI타임스",
-   "title": "네이버, '파력 발전' AI데이터센터 개발 판탈라사에 투자",
-   "published_at": "2026-08-13T15:31:16+00:00",
-   "collected_at": "2026-08-13T08:38:48.979792+00:00",
-   "title_ko": "네이버, 파력 발전 해상 AI 데이터센터 개발사 '판탈라사' 투자",
-   "summary_ko": "네이버가 재생에너지 기반 차세대 AI 데이터센터 인프라 확보를 위해 부유식 파력 발전 데이터센터 개발사에 투자했다.",
-   "category": "중요",
-   "tags": [
-    "투자"
-   ]
-  },
-  {
-   "id": "7e04a9e0c364740a",
-   "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-   "source": "TechCrunch",
-   "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-   "published_at": "2026-08-13T15:30:52+00:00",
-   "collected_at": "2026-08-13T17:05:44.781736+00:00",
-   "title_ko": "마이크로소프트, 코파일럿 앱 통합 및 부가 AI 기능 중단",
-   "summary_ko": "MS가 소비자용과 기업용 코파일럿 앱을 통합하는 한편, AI 팟캐스트나 심층 리서치 등 일부 성과가 저조한 AI 기능을 정리합니다.",
-   "category": "중요",
-   "tags": [
-    "Microsoft",
-    "코파일럿"
-   ]
-  },
-  {
-   "id": "6c6d89f22af524bc",
-   "url": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
-   "source": "The Verge",
-   "title": "I looked inside an AI generated movie, and the best parts were all human",
-   "published_at": "2026-08-13T15:30:00+00:00",
-   "collected_at": "2026-08-13T17:05:44.928192+00:00",
-   "title_ko": "AI 생성 영화 속 인간 요소의 중요성",
-   "summary_ko": "AI로 제작된 영화 콘텐츠를 분석한 결과, 여전히 가장 매력적인 부분은 인간의 창의성이 가미된 지점이라는 평가가 나왔습니다.",
-   "category": "참고",
-   "tags": [
-    "생성형AI"
-   ]
-  },
-  {
-   "id": "7da8316aedf7e7ca",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213904",
-   "source": "AI타임스",
-   "title": "마스오토, 'AME 2026'서 AI 자율주행 트럭 실물 최초 공개",
-   "published_at": "2026-08-13T15:28:19+00:00",
-   "collected_at": "2026-08-13T08:38:48.979792+00:00",
-   "title_ko": "마스오토, 'AME 2026'서 E2E AI 자율주행 트럭 공개",
-   "summary_ko": "마스오토가 자체 E2E AI 자율주행 모델 '마스넷'을 탑재한 화물용 트레일러 트럭 실물을 최초로 공개한다.",
-   "category": "속보",
-   "tags": [
-    "로보틱스"
-   ]
-  },
-  {
-   "id": "169e979faf2e7ebb",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vndovb/unslothdeepseekv4pro0813gguf_hugging_face/",
-   "source": "r/LocalLLaMA",
-   "title": "unsloth/DeepSeek-V4-Pro-0813-GGUF · Hugging Face",
-   "published_at": "2026-08-13T15:19:38+00:00",
-   "collected_at": "2026-08-13T17:06:06.806122+00:00",
-   "title_ko": "DeepSeek-V4-Pro GGUF 양자화 버전 허깅페이스 업로드",
-   "summary_ko": "Unsloth를 통해 최신 DeepSeek V4 Pro 모델의 GGUF 양자화 버전이 로컬 실행용으로 공유되었습니다.",
-   "category": "팁",
-   "tags": [
-    "DeepSeek",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "d410f7210702f948",
-   "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-   "source": "TechCrunch",
-   "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-   "published_at": "2026-08-13T15:08:00+00:00",
-   "collected_at": "2026-08-13T17:05:44.781736+00:00",
-   "title_ko": "엔비디아의 GPU 가치 유지를 위한 5천억 달러 규모 신규 전략",
-   "summary_ko": "엔비디아가 기존 GPU 자산의 가치를 보호하고 추가 인프라 투자를 이끌어내기 위한 새로운 금융 전략을 추진합니다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "반도체",
-    "투자"
-   ]
-  },
-  {
-   "id": "ba099ae29fef4ed0",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vndd6p/sensenovavision_a_7b_open_model_that_does/",
-   "source": "r/LocalLLaMA",
-   "title": "SenseNova-Vision: a 7B open model that does segmentation, depth, detection, OCR, and 3D reconstruction with no task-specific heads",
-   "published_at": "2026-08-13T15:07:39+00:00",
-   "collected_at": "2026-08-13T17:06:06.806122+00:00",
-   "title_ko": "오픈소스 비전 모델 SenseNova-Vision 공개",
-   "summary_ko": "분할, 깊이 추정, OCR 등을 단일 모델로 처리하는 7B 규모의 멀티모달 비전 모델이 아파치 2.0 라이선스로 공개되었습니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "비전AI"
-   ]
-  },
-  {
-   "id": "f170b51e90045156",
-   "url": "https://www.seangoedecke.com/text-ai-watermarks/",
-   "source": "Hacker News",
-   "title": "Text AI watermarks will always be trivial to remove",
-   "published_at": "2026-08-13T15:07:10+00:00",
-   "collected_at": "2026-08-13T19:15:12.972302+00:00",
-   "title_ko": "텍스트 AI 워터마크의 기술적 한계",
-   "summary_ko": "텍스트에 삽입된 AI 워터마크는 편집이나 변형을 통해 쉽게 제거할 수 있다는 분석입니다.",
-   "category": "참고",
-   "tags": [
     "규제"
    ]
   }
