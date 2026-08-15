@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-15T08:39:49.712165+00:00",
+ "updated_at": "2026-08-15T09:34:48.944791+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -126,6 +126,36 @@
    "tags": [
     "Anthropic",
     "투자"
+   ]
+  },
+  {
+   "id": "ec443f790cd5a38c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voxppd/qwen_38_35ba3b_spotted/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen 3.8 35BA3B spotted",
+   "published_at": "2026-08-15T08:49:06+00:00",
+   "collected_at": "2026-08-15T09:34:32.671825+00:00",
+   "title_ko": "신규 오픈소스 모델 Qwen 3.8 35B 포착",
+   "summary_ko": "GitHub 커밋 기록을 통해 새로운 Qwen 모델인 Qwen 3.8 35BA3B의 존재가 확인되었습니다. 향후 고성능 오픈소스 모델 생태계에 영향을 줄 것으로 기대됩니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "Qwen"
+   ]
+  },
+  {
+   "id": "7f5b96503311baeb",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vox89e/try_out_this_high_reasoning_mode_for_27b_tested/",
+   "source": "r/LocalLLaMA",
+   "title": "Try out this \"high\" reasoning mode for 27B (tested on VLLM)",
+   "published_at": "2026-08-15T08:19:05+00:00",
+   "collected_at": "2026-08-15T09:34:32.671825+00:00",
+   "title_ko": "27B 모델을 위한 추론 모드 최적화 팁",
+   "summary_ko": "27B 모델에서 중간 단계의 추론 모드가 제대로 작동하지 않는 문제를 분석하고 키워드를 활용해 고성능 추론 모드를 활성화하는 방법을 공유했습니다.",
+   "category": "팁",
+   "tags": [
+    "로컬LLM",
+    "코딩"
    ]
   },
   {
@@ -1544,6 +1574,21 @@
    ]
   },
   {
+   "id": "9351d217fcc8e429",
+   "url": "https://hashagent.pages.dev/",
+   "source": "Hacker News",
+   "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
+   "published_at": "2026-08-14T12:57:02+00:00",
+   "collected_at": "2026-08-15T09:34:31.879631+00:00",
+   "title_ko": "URL로 공유하고 WebGPU로 실행하는 HashAgent 출시",
+   "summary_ko": "별도의 서버 설정 없이 URL을 통해 AI 에이전트를 공유하고 사용자의 로컬 환경에서 WebGPU를 통해 실행할 수 있는 도구가 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
    "id": "96360d08b4520abe",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vo6fra/fantastic_latest_llamacpp_server_webui_can_now/",
    "source": "r/LocalLLaMA",
@@ -2953,50 +2998,6 @@
    "tags": [
     "오픈소스",
     "NVIDIA"
-   ]
-  },
-  {
-   "id": "1598429e2899048d",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213921",
-   "source": "AI타임스",
-   "title": "[게시판] 딥핑소스, 국내 자동차 전시장 대상 AI 영상분석 솔루션 적용 등 단신",
-   "published_at": "2026-08-13T17:00:00+00:00",
-   "collected_at": "2026-08-13T10:17:54.415634+00:00",
-   "title_ko": "딥핑소스, 자동차 전시장 대상 AI 영상분석 솔루션 적용",
-   "summary_ko": "딥핑소스가 자동차 전시장 내 고객 동선과 행동 데이터를 자동 분석하는 AI 영상분석 솔루션을 상용화했다.",
-   "category": "속보",
-   "tags": [
-    "반도체"
-   ]
-  },
-  {
-   "id": "a08f22b4bd56d97d",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213912",
-   "source": "AI타임스",
-   "title": "[게시판] 에어빌리티, AI 드론으로 우주청 ‘스케일업 팁스’ 선정 등 단신",
-   "published_at": "2026-08-13T17:00:00+00:00",
-   "collected_at": "2026-08-13T08:38:48.979792+00:00",
-   "title_ko": "에어빌리티·블럭스, AI 드론 및 CRM 에이전트 솔루션 공개",
-   "summary_ko": "에어빌리티가 AI 요격 드론으로 스케일업 팁스에 선정됐고, 블럭스는 AI 기반 CRM 마케팅 에이전트를 선보였다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트",
-    "로보틱스"
-   ]
-  },
-  {
-   "id": "ca7b12984affdd1d",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213914",
-   "source": "AI타임스",
-   "title": "'큐원' 만든 린쥔양, AI 에이전트 스타트업 출범…대규모 투자 유치 성공",
-   "published_at": "2026-08-13T16:38:29+00:00",
-   "collected_at": "2026-08-13T08:38:48.979792+00:00",
-   "title_ko": "'큐원' 개발자 린쥔양, AI 에이전트 스타트업 창업 및 대규모 투자 유치",
-   "summary_ko": "알리바바 출신 린쥔양이 상하이에 AI 에이전트 전문 스타트업 '프래그마틱 랩스'를 설립하고 2조원대 기업 가치로 투자 유치에 성공했다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "투자"
    ]
   }
  ]
