@@ -1,8 +1,72 @@
 {
- "updated_at": "2026-08-15T21:29:37.986965+00:00",
+ "updated_at": "2026-08-15T22:31:53.500087+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "66835ef2f4a683b8",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpf8j1/the_perfect_way_for_google_to_screw_over_oai_and/",
+   "source": "r/LocalLLaMA",
+   "title": "The perfect way for Google to screw over OAI and Anthropic is by releasing a 120B dense multimodal Gemma model",
+   "published_at": "2026-08-15T21:53:02+00:00",
+   "collected_at": "2026-08-15T22:31:36.936858+00:00",
+   "title_ko": "구글의 대형 멀티모달 Gemma 모델 공개 필요성 제기",
+   "summary_ko": "서구권 기업들이 중국산 오픈소스 모델의 대안으로 구글의 고성능 오픈웨이트 모델을 원하고 있어 OpenAI와 앤스로픽에 큰 위협이 될 수 있다는 분석입니다.",
+   "category": "참고",
+   "tags": [
+    "Google",
+    "오픈소스",
+    "Gemma"
+   ]
+  },
+  {
+   "id": "598fcd55816b31fd",
+   "url": "https://news.hada.io/topic?id=32539",
+   "source": "GeekNews",
+   "title": "AI는 수학자보다 더 잘 생각하는 게 아니라 더 많이 기억함",
+   "published_at": "2026-08-15T21:33:40+00:00",
+   "collected_at": "2026-08-15T22:31:51.676160+00:00",
+   "title_ko": "AI의 수학적 성능은 추론보다 방대한 기억력에서 기인",
+   "summary_ko": "AI가 긴 컨텍스트를 작업 공간처럼 활용해 수많은 조건과 계산 과정을 유지함으로써 수학적 문제를 해결한다는 분석입니다.",
+   "category": "참고",
+   "tags": [
+    "LLM",
+    "추론",
+    "연구"
+   ]
+  },
+  {
+   "id": "7aa9ac68236beedf",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vper67/club5060ti_refresh_tested_rtx_5060_ti_presets_a/",
+   "source": "r/LocalLLaMA",
+   "title": "club-5060ti refresh: tested RTX 5060 Ti presets, a proper high-context harness, and Qwen3.8 27B",
+   "published_at": "2026-08-15T21:32:14+00:00",
+   "collected_at": "2026-08-15T22:31:36.936858+00:00",
+   "title_ko": "RTX 5060 Ti 기반 로컬 LLM 프리셋 및 벤치마크 공개",
+   "summary_ko": "하드웨어 환경에서 로컬 LLM을 구동하려는 사용자들을 위해 검증된 설정 프리셋과 벤치마크 결과가 업데이트되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체",
+    "NVIDIA"
+   ]
+  },
+  {
+   "id": "d8cebe97b9a5af38",
+   "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+   "source": "TechCrunch",
+   "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+   "published_at": "2026-08-15T21:29:19+00:00",
+   "collected_at": "2026-08-15T22:31:19.969440+00:00",
+   "title_ko": "GroK의 아동 사진 악용 논란",
+   "summary_ko": "AI 도구가 일상적인 사진을 부적절한 이미지로 변조하는 데 악용되고 있다는 주장이 제기되어 AI 안전성 우려가 커지고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "xAI",
+    "규제",
+    "AI 안전"
+   ]
+  },
   {
    "id": "20b266c47fffc650",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpe2uw/880_toks_on_one_5090_qwen3827b_in_4bit_nvfp4_full/",
@@ -2943,66 +3007,6 @@
    "tags": [
     "오픈소스",
     "LLM"
-   ]
-  },
-  {
-   "id": "31a1a10bf79c3155",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnm7le/fixed_jinja_chat_template_for_qwen_35_36_and_the/",
-   "source": "r/LocalLLaMA",
-   "title": "Fixed Jinja chat template for Qwen 3.5, 3.6, and the new 3.8 release",
-   "published_at": "2026-08-13T20:22:56+00:00",
-   "collected_at": "2026-08-13T20:55:45.465813+00:00",
-   "title_ko": "Qwen 3.8 모델용 진자 챗템플릿 수정본 공개",
-   "summary_ko": "추론 제어 기능이 추가된 Qwen 3.8 모델의 공식 챗템플릿 충돌 및 버그를 해결한 커뮤니티 수정본이 공유되었습니다. 로컬 LLM 사용자들의 안정적인 프롬프트 제어에 도움을 줍니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "72c1714eb2a2ff3f",
-   "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-   "source": "TechCrunch",
-   "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-   "published_at": "2026-08-13T20:14:39+00:00",
-   "collected_at": "2026-08-13T20:55:05.421045+00:00",
-   "title_ko": "데이터브릭스, 1,900억 달러 가치로 50억 달러 투자 유치",
-   "summary_ko": "AI 개발 비용 증가 속에서 데이터브릭스가 당초 목표를 넘어선 50억 달러 규모의 대규모 투자를 유치했습니다. AI 인프라 시장의 뜨거운 열기를 보여줍니다.",
-   "category": "중요",
-   "tags": [
-    "투자"
-   ]
-  },
-  {
-   "id": "29b67bf5910ffe86",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnltec/gemma_4_12b_q3_855_coding_performance_from/",
-   "source": "r/LocalLLaMA",
-   "title": "Gemma 4 12B Q3: +8.55% Coding Performance From Tensor-Level Quantization Allocation",
-   "published_at": "2026-08-13T20:08:28+00:00",
-   "collected_at": "2026-08-13T21:56:01.267194+00:00",
-   "title_ko": "젬마 4 12B, 텐서 수준 양자화로 코딩 성능 향상",
-   "summary_ko": "태스크 인식 기반의 텐서별 비트 할당 방식을 적용해 젬마 4 12B 모델의 코딩 성능을 크게 끌어올린 실험 결과가 공유되었습니다.",
-   "category": "팁",
-   "tags": [
-    "Google",
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "8fa43e84181190df",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnl0um/trained_a_15b_to_write_shell_commands_so_id_stop/",
-   "source": "r/LocalLLaMA",
-   "title": "Trained a 1.5B to write shell commands so I'd stop googling tar flags. Runs on a laptop CPU in ~1 sec.",
-   "published_at": "2026-08-13T19:39:21+00:00",
-   "collected_at": "2026-08-13T20:55:45.465813+00:00",
-   "title_ko": "CPU에서 실행되는 셸 명령어 작성용 경량 AI 미세조정",
-   "summary_ko": "개발자가 노트북 CPU에서 1초 만에 실행되는 1.5B 크기의 Qwen 미세조정 모델을 개발했습니다. 가벼운 로컬 AI 활용의 좋은 사례를 보여줍니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "코딩"
    ]
   }
  ]
