@@ -1,5 +1,65 @@
 [
  {
+  "id": "20b266c47fffc650",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpe2uw/880_toks_on_one_5090_qwen3827b_in_4bit_nvfp4_full/",
+  "source": "r/LocalLLaMA",
+  "title": "880 tok/s on one 5090 Qwen3.8-27B in 4-bit NVFP4, full 262k context",
+  "published_at": "2026-08-15T21:04:01+00:00",
+  "collected_at": "2026-08-15T21:29:21.573193+00:00",
+  "title_ko": "RTX 5090에서 구동된 Qwen 모델의 고속 추론 성능",
+  "summary_ko": "단일 RTX 5090 환경에서 NInfer 엔진을 활용해 Qwen 모델이 262k 컨텍스트와 초당 880토큰의 속도를 기록했습니다. 대형 모델의 로컬 구동 효율성을 대폭 높여줍니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "반도체",
+   "NVIDIA"
+  ]
+ },
+ {
+  "id": "099e70541f852de9",
+  "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+  "source": "The Verge",
+  "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+  "published_at": "2026-08-15T20:45:00+00:00",
+  "collected_at": "2026-08-15T21:29:18.796310+00:00",
+  "title_ko": "AI 챗봇 역할을 체험하는 웹 서비스 등장",
+  "summary_ko": "사용자가 직접 AI 챗봇인 것처럼 응답을 작성하며 AI 생성 콘텐츠를 풍자하는 단순하지만 재치 있는 웹 서비스가 소개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "c7b3beb37ca75c09",
+  "url": "https://news.hada.io/topic?id=32537",
+  "source": "GeekNews",
+  "title": "DeepSeek 피크·오프피크 API 요금 업데이트",
+  "published_at": "2026-08-15T20:31:59+00:00",
+  "collected_at": "2026-08-15T21:29:35.683273+00:00",
+  "title_ko": "DeepSeek, V4 라인업 출시 및 API 요금제 개편",
+  "summary_ko": "DeepSeek이 V4 라인업을 출시하고 50% 저렴한 오프피크 API 요금제를 도입했습니다. 비용 효율적인 워크로드 운영이 가능해집니다.",
+  "category": "중요",
+  "tags": [
+   "DeepSeek",
+   "투자"
+  ]
+ },
+ {
+  "id": "28fb24b5c36fbe1e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpcj2j/agentic_harness_for_small_models/",
+  "source": "r/LocalLLaMA",
+  "title": "Agentic harness for small models",
+  "published_at": "2026-08-15T19:59:31+00:00",
+  "collected_at": "2026-08-15T21:29:21.573193+00:00",
+  "title_ko": "소형 로컬 모델을 위한 에이전트 도구 탐색",
+  "summary_ko": "웹 검색, 파일 시스템 접근, MCP 서버 연동 등을 지원하는 소형 로컬 LLM용 에이전트 하네스 구축에 대한 사용자 논의입니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "7086513972fc7e6b",
   "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
   "source": "TechCrunch",
@@ -13,6 +73,21 @@
    "Anthropic",
    "Claude",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "8903e1c9f927db21",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpax07/rtx_pro_4500_vs_a100_x4_purchase_being_made_today/",
+  "source": "r/LocalLLaMA",
+  "title": "RTX Pro 4500 vs. A100 (x4) - purchase being made today",
+  "published_at": "2026-08-15T18:54:16+00:00",
+  "collected_at": "2026-08-15T21:29:21.573193+00:00",
+  "title_ko": "AI 서버 구축용 GPU 선택 고민",
+  "summary_ko": "서버 구축을 위해 신형 RTX 프로와 중고 A100 GPU 사이에서 하드웨어 복잡성과 비용을 저울질하는 실무적 고민이 공유되었습니다.",
+  "category": "팁",
+  "tags": [
+   "반도체",
+   "NVIDIA"
   ]
  },
  {
