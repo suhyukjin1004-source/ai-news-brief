@@ -1,5 +1,21 @@
 [
  {
+  "id": "daa1b754c5dc8517",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vp438p/if_you_would_have_told_me_half_a_year_ago_that_a/",
+  "source": "r/LocalLLaMA",
+  "title": "If you would have told me half a year ago that a local model running in my office would be able to one-shot a Super Mario clone, I would have called you nuts. Qwen3.8-27B is a different beast.",
+  "published_at": "2026-08-15T14:19:46+00:00",
+  "collected_at": "2026-08-15T14:32:14.651653+00:00",
+  "title_ko": "Qwen3.8-27B 모델의 뛰어난 로컬 성능과 마리오 구현 사례",
+  "summary_ko": "사무실 로컬 환경에서 구동한 Qwen 모델이 슈퍼마리오 클론 게임을 한 번에 구현해내며 향상된 코딩 능력을 입증했습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "코딩"
+  ]
+ },
+ {
   "id": "8660f1aeefff1f71",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213996",
   "source": "AI타임스",
@@ -13,6 +29,67 @@
    "xAI",
    "AI 코딩",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "d6621f64709f0ab1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vp3zqc/a_nice_local_vision_test/",
+  "source": "r/LocalLLaMA",
+  "title": "A nice local vision test",
+  "published_at": "2026-08-15T14:15:37+00:00",
+  "collected_at": "2026-08-15T14:32:14.651653+00:00",
+  "title_ko": "로컬 비전 AI 모델의 이미지 인식 테스트",
+  "summary_ko": "미터기 숫자를 인식하는 비전 모델의 성능을 테스트하고 비교하는 사용자 사례입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "79fb683ebc1b16a7",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vp3oj0/alibaba_nuke_the_interia_close_source_ai_market/",
+  "source": "r/LocalLLaMA",
+  "title": "Alibaba nuke the interia close source AI market again",
+  "published_at": "2026-08-15T14:02:18+00:00",
+  "collected_at": "2026-08-15T14:32:14.651653+00:00",
+  "title_ko": "알리바바의 오픈소스 AI 공세 지속",
+  "summary_ko": "알리바바가 강력한 성능의 오픈소스 모델을 연이어 공개하며 폐쇄형 AI 시장에 위협을 가하고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "투자"
+  ]
+ },
+ {
+  "id": "427ca5034af7335a",
+  "url": "https://news.hada.io/topic?id=32529",
+  "source": "GeekNews",
+  "title": "ballast - 작업을 목표를 완성하는 시스템으로 만드는 플러그인(Claude Code plugin)",
+  "published_at": "2026-08-15T13:43:32+00:00",
+  "collected_at": "2026-08-15T14:32:29.683692+00:00",
+  "title_ko": "Claude Code용 작업 자동화 시스템 플러그인 'ballast'",
+  "summary_ko": "Claude Code에서 세션이 바뀌어도 학습한 절차와 규칙이 유지되도록 돕는 시스템 플러그인입니다.",
+  "category": "팁",
+  "tags": [
+   "Claude",
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "d64ccb5c4dd0f67d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vp2x49/gemma_4_e4b_iq2_xxs_14054_reasoning_performance/",
+  "source": "r/LocalLLaMA",
+  "title": "Gemma 4 E4B IQ2_XXS: + 140.54% Reasoning Performance From Tensor Level Quantization Allocation",
+  "published_at": "2026-08-15T13:29:08+00:00",
+  "collected_at": "2026-08-15T14:32:14.651653+00:00",
+  "title_ko": "텐서 레벨 양자화를 통한 Gemma 4 추론 성능 향상",
+  "summary_ko": "텐서 레벨 양자화 할당 기법을 통해 저용량 예산에서도 Gemma 모델의 추론 성능을 크게 끌어올렸습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "반도체"
   ]
  },
  {
@@ -91,6 +168,21 @@
    "오픈소스",
    "알리바바",
    "Meta"
+  ]
+ },
+ {
+  "id": "e7607846045a6e2f",
+  "url": "https://sankalp.bearblog.dev/autoresearch/",
+  "source": "Hacker News",
+  "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+  "published_at": "2026-08-15T11:00:02+00:00",
+  "collected_at": "2026-08-15T14:32:00.527904+00:00",
+  "title_ko": "코덱스를 활용한 커널 성능 232배 가속 연구",
+  "summary_ko": "AI 도구를 활용해 커널 코드를 자동으로 연구하고 최적화하여 획기적인 속도 향상을 이뤄낸 사례입니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
   ]
  },
  {

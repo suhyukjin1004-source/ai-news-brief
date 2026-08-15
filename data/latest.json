@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-15T13:37:49.430951+00:00",
+ "updated_at": "2026-08-15T14:32:32.082212+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -98,6 +98,22 @@
    ]
   },
   {
+   "id": "daa1b754c5dc8517",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vp438p/if_you_would_have_told_me_half_a_year_ago_that_a/",
+   "source": "r/LocalLLaMA",
+   "title": "If you would have told me half a year ago that a local model running in my office would be able to one-shot a Super Mario clone, I would have called you nuts. Qwen3.8-27B is a different beast.",
+   "published_at": "2026-08-15T14:19:46+00:00",
+   "collected_at": "2026-08-15T14:32:14.651653+00:00",
+   "title_ko": "Qwen3.8-27B 모델의 뛰어난 로컬 성능과 마리오 구현 사례",
+   "summary_ko": "사무실 로컬 환경에서 구동한 Qwen 모델이 슈퍼마리오 클론 게임을 한 번에 구현해내며 향상된 코딩 능력을 입증했습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "코딩"
+   ]
+  },
+  {
    "id": "8660f1aeefff1f71",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213996",
    "source": "AI타임스",
@@ -111,6 +127,67 @@
     "xAI",
     "AI 코딩",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "d6621f64709f0ab1",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vp3zqc/a_nice_local_vision_test/",
+   "source": "r/LocalLLaMA",
+   "title": "A nice local vision test",
+   "published_at": "2026-08-15T14:15:37+00:00",
+   "collected_at": "2026-08-15T14:32:14.651653+00:00",
+   "title_ko": "로컬 비전 AI 모델의 이미지 인식 테스트",
+   "summary_ko": "미터기 숫자를 인식하는 비전 모델의 성능을 테스트하고 비교하는 사용자 사례입니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "79fb683ebc1b16a7",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vp3oj0/alibaba_nuke_the_interia_close_source_ai_market/",
+   "source": "r/LocalLLaMA",
+   "title": "Alibaba nuke the interia close source AI market again",
+   "published_at": "2026-08-15T14:02:18+00:00",
+   "collected_at": "2026-08-15T14:32:14.651653+00:00",
+   "title_ko": "알리바바의 오픈소스 AI 공세 지속",
+   "summary_ko": "알리바바가 강력한 성능의 오픈소스 모델을 연이어 공개하며 폐쇄형 AI 시장에 위협을 가하고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "투자"
+   ]
+  },
+  {
+   "id": "427ca5034af7335a",
+   "url": "https://news.hada.io/topic?id=32529",
+   "source": "GeekNews",
+   "title": "ballast - 작업을 목표를 완성하는 시스템으로 만드는 플러그인(Claude Code plugin)",
+   "published_at": "2026-08-15T13:43:32+00:00",
+   "collected_at": "2026-08-15T14:32:29.683692+00:00",
+   "title_ko": "Claude Code용 작업 자동화 시스템 플러그인 'ballast'",
+   "summary_ko": "Claude Code에서 세션이 바뀌어도 학습한 절차와 규칙이 유지되도록 돕는 시스템 플러그인입니다.",
+   "category": "팁",
+   "tags": [
+    "Claude",
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "d64ccb5c4dd0f67d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vp2x49/gemma_4_e4b_iq2_xxs_14054_reasoning_performance/",
+   "source": "r/LocalLLaMA",
+   "title": "Gemma 4 E4B IQ2_XXS: + 140.54% Reasoning Performance From Tensor Level Quantization Allocation",
+   "published_at": "2026-08-15T13:29:08+00:00",
+   "collected_at": "2026-08-15T14:32:14.651653+00:00",
+   "title_ko": "텐서 레벨 양자화를 통한 Gemma 4 추론 성능 향상",
+   "summary_ko": "텐서 레벨 양자화 할당 기법을 통해 저용량 예산에서도 Gemma 모델의 추론 성능을 크게 끌어올렸습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "반도체"
    ]
   },
   {
@@ -189,6 +266,21 @@
     "오픈소스",
     "알리바바",
     "Meta"
+   ]
+  },
+  {
+   "id": "e7607846045a6e2f",
+   "url": "https://sankalp.bearblog.dev/autoresearch/",
+   "source": "Hacker News",
+   "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+   "published_at": "2026-08-15T11:00:02+00:00",
+   "collected_at": "2026-08-15T14:32:00.527904+00:00",
+   "title_ko": "코덱스를 활용한 커널 성능 232배 가속 연구",
+   "summary_ko": "AI 도구를 활용해 커널 코드를 자동으로 연구하고 최적화하여 획기적인 속도 향상을 이뤄낸 사례입니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
    ]
   },
   {
@@ -2909,99 +3001,6 @@
     "Anthropic",
     "Claude",
     "AI 에이전트"
-   ]
-  },
-  {
-   "id": "675fa85ef32eb8dd",
-   "url": "https://www.reddit.com/r/singularity/comments/1vnhlu6/37_flash_looks_fine_i_guess/",
-   "source": "r/singularity",
-   "title": "3.7 flash looks fine I guess",
-   "published_at": "2026-08-13T17:38:54+00:00",
-   "collected_at": "2026-08-14T10:13:02.471558+00:00",
-   "title_ko": "Gemini 3.7 Flash 가격 정책에 대한 사용자 반응",
-   "summary_ko": "새로 출시된 Gemini 3.7 Flash의 가격이 여전히 다소 높게 느껴지지만 이전보다는 합리적이라는 평가를 받고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "Google",
-    "Gemini"
-   ]
-  },
-  {
-   "id": "816428577ef41e39",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213913",
-   "source": "AI타임스",
-   "title": "구글, '픽셀 11' 공개…'제미나이 인텔리전스'로 애플과 승부",
-   "published_at": "2026-08-13T17:29:27+00:00",
-   "collected_at": "2026-08-13T10:17:54.415634+00:00",
-   "title_ko": "구글, AI 에이전트 품은 '픽셀 11' 시리즈 공개",
-   "summary_ko": "구글이 사용자의 화면과 행동을 실시간으로 이해하는 에이전트형 AI 스마트폰 픽셀 11을 공개하며 애플과의 경쟁에 나섰다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "Gemini",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "dd378ea08187ffc5",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-   "source": "Hacker News",
-   "title": "Gemini 3.7 Flash",
-   "published_at": "2026-08-13T17:23:22+00:00",
-   "collected_at": "2026-08-13T19:14:51.097029+00:00",
-   "title_ko": "구글, 제미나이 3.7 플래시 공개",
-   "summary_ko": "구글의 새로운 경량 모델인 Gemini 3.7 Flash API 문서가 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "Google",
-    "Gemini"
-   ]
-  },
-  {
-   "id": "3d18e26394b60a12",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213915",
-   "source": "AI타임스",
-   "title": "독일 시민단체, 메타 스마트 안경 판매업체 형사 고발...\"일반 안경과 구분 불가\"",
-   "published_at": "2026-08-13T17:22:42+00:00",
-   "collected_at": "2026-08-13T10:17:54.415634+00:00",
-   "title_ko": "독일 시민단체, 메타 스마트 안경 개인정보 위반 고발",
-   "summary_ko": "독일 권리단체가 무단 촬영 우려가 있는 메타의 스마트 안경 판매업체들을 개인정보 보호법 위반으로 형사 고발했다.",
-   "category": "중요",
-   "tags": [
-    "Meta",
-    "규제"
-   ]
-  },
-  {
-   "id": "cc4609e3a29c53d8",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213917",
-   "source": "AI타임스",
-   "title": "케빈 웨일 전 오픈AI 부사장, AI 과학 스타트업 창립…몸값 1조 목표",
-   "published_at": "2026-08-13T17:16:48+00:00",
-   "collected_at": "2026-08-13T08:38:48.979792+00:00",
-   "title_ko": "케빈 웨일 전 오픈AI 부사장, AI 과학 스타트업 창립",
-   "summary_ko": "오픈AI 전 CPO인 케빈 웨일이 AI 기반 과학 연구 스타트업을 설립하고 1조원대 기업 가치 목표로 투자 유치에 나섰다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "투자",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "c1c988556190aa29",
-   "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-   "source": "Hugging Face",
-   "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-   "published_at": "2026-08-13T17:16:04+00:00",
-   "collected_at": "2026-08-13T19:14:48.850961+00:00",
-   "title_ko": "허깅페이스 기반 AI 에이전트 및 로보틱스 통합 솔루션",
-   "summary_ko": "Strands Agents와 LeRobot을 활용해 데이터 기록부터 모델 학습, 배포까지 한 번에 처리할 수 있게 되었습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트",
-    "로보틱스"
    ]
   }
  ]
