@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-08-15T18:41:23.281652+00:00",
+ "updated_at": "2026-08-15T19:28:43.188818+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "7086513972fc7e6b",
+   "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+   "source": "TechCrunch",
+   "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+   "published_at": "2026-08-15T18:58:39+00:00",
+   "collected_at": "2026-08-15T19:28:16.830528+00:00",
+   "title_ko": "Anthropic, 클로드 신규 워터마크 작동 방식 상세 공개",
+   "summary_ko": "클로드의 새로운 워터마크 기술이 어떻게 작동하며 편집이나 코드 생성에 미치는 영향에 대한 세부 사항이 공개되었습니다. AI 생성 콘텐츠 식별과 신뢰성 확보 측면에서 중요한 의미를 갖습니다.",
+   "category": "참고",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "AI 에이전트"
+   ]
+  },
   {
    "id": "59e050c622818523",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpa9vn/qwen_38_27b_isnt_slower_its_thinking_more_and/",
@@ -2986,22 +3002,6 @@
    "tags": [
     "NVIDIA",
     "반도체"
-   ]
-  },
-  {
-   "id": "3603c10538bf291b",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213894",
-   "source": "AI타임스",
-   "title": "오픈AI·앤트로픽 암호화 '사고 과정' 통째 유출...API 설계 허점 파문",
-   "published_at": "2026-08-13T19:00:43+00:00",
-   "collected_at": "2026-08-13T10:17:54.415634+00:00",
-   "title_ko": "주요 LLM의 내부 사고 과정 암호화 우회 유출",
-   "summary_ko": "오픈AI와 앤트로픽 등의 LLM 내부 사고 과정이 API 허점을 통해 복원될 수 있다는 연구 결과가 나와 보안 우려가 커지고 있다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "Anthropic",
-    "Google"
    ]
   }
  ]
