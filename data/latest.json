@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-08-15T01:44:33.864384+00:00",
+ "updated_at": "2026-08-15T03:01:20.496857+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "c36255e51515b725",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213994",
+   "source": "AI타임스",
+   "title": "오픈AI 기업용 매출, '챗GPT' 넘어섰다…“강력한 매출로 악재 돌파”",
+   "published_at": "2026-08-15T11:23:17+00:00",
+   "collected_at": "2026-08-15T02:59:30.102967+00:00",
+   "title_ko": "오픈AI, 기업용 사업 매출이 챗GPT 추월",
+   "summary_ko": "오픈AI의 기업용(B2B) 사업 매출이 소비자용 사업을 앞지르며 수익 구조 다변화에 성공했습니다. 이는 최근 급증하는 기업 고객의 유입과 지출 증가 덕분입니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "투자",
+    "AI 에이전트"
+   ]
+  },
   {
    "id": "1c6e12f3f6f91db5",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213990",
@@ -213,6 +229,22 @@
    "tags": [
     "오픈소스",
     "LLM"
+   ]
+  },
+  {
+   "id": "650f9e0e22a2d0c5",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voh6tx/a_150m_param_recurrent_model_scores_295_on/",
+   "source": "r/LocalLLaMA",
+   "title": "A 150M param recurrent model scores 29.5% on ARC-AGI-1 at $0.0007 per task",
+   "published_at": "2026-08-14T19:36:11+00:00",
+   "collected_at": "2026-08-15T02:59:16.825250+00:00",
+   "title_ko": "1억 5천만 파라미터 순환 모델, ARC-AGI서 고효율 기록",
+   "summary_ko": "트랜스포머가 아닌 잠재 공간에서 추론하는 1억 5천만 파라미터 규모의 순환 모델이 ARC-AGI-1에서 높은 점수를 기록했습니다. 초저비용으로 구동되어 향후 소형 모델 발전의 가능성을 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "연구"
    ]
   },
   {
@@ -2963,36 +2995,6 @@
    "tags": [
     "오픈소스",
     "파운데이션 모델"
-   ]
-  },
-  {
-   "id": "01c24ca269ca5c0c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnb66j/deepseek_harness_is_up/",
-   "source": "r/LocalLLaMA",
-   "title": "Deepseek Harness is Up!",
-   "published_at": "2026-08-13T13:45:39+00:00",
-   "collected_at": "2026-08-13T15:06:55.447998+00:00",
-   "title_ko": "DeepSeek, 오픈소스 에이전트 프레임워크 공개",
-   "summary_ko": "딥시크가 모든 것을 플러그인 형태로 구성한 모듈식 오픈소스 에이전트 프레임워크 'DeepSeek Harness'를 개발자 프리뷰로 공개했다. 에이전트 개발 생태계에 큰 영향을 미칠 전망이다.",
-   "category": "속보",
-   "tags": [
-    "DeepSeek",
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "927ce55059d07259",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnb3nd/deepseek_new_pricing/",
-   "source": "r/LocalLLaMA",
-   "title": "Deepseek new pricing",
-   "published_at": "2026-08-13T13:42:48+00:00",
-   "collected_at": "2026-08-13T15:06:55.447998+00:00",
-   "title_ko": "DeepSeek, API 신규 가격 정책 발표",
-   "summary_ko": "딥시크가 자사 API 서비스의 새로운 가격 정책을 공개했다. 비용 효율적인 AI 모델 활용에 관심이 모인다.",
-   "category": "속보",
-   "tags": [
-    "DeepSeek"
    ]
   }
  ]
