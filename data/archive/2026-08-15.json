@@ -16,6 +16,52 @@
   ]
  },
  {
+  "id": "e9eec3e01486c283",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vp1gpr/pov_qwen_3827b/",
+  "source": "r/LocalLLaMA",
+  "title": "POV: Qwen 3.8-27B",
+  "published_at": "2026-08-15T12:21:27+00:00",
+  "collected_at": "2026-08-15T12:53:48.281604+00:00",
+  "title_ko": "Qwen 3.8-27B 모델 등장",
+  "summary_ko": "새로운 오픈 모델인 Qwen 3.8-27B가 커뮤니티에서 테스트 및 논의되고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "Qwen"
+  ]
+ },
+ {
+  "id": "20c0bf318fec8192",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vp1c22/qwen_38_27b_ud_q8_k_xl_racing_game/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen 3.8 27b UD Q8_K_XL - Racing Game",
+  "published_at": "2026-08-15T12:15:16+00:00",
+  "collected_at": "2026-08-15T12:53:48.281604+00:00",
+  "title_ko": "Qwen 3.8-27B 로컬 구동 및 레이싱 게임 시연",
+  "summary_ko": "RTX 5090 및 3090 하드웨어 환경에서 Qwen 3.8-27B 모델을 llama.cpp로 로컬 구동하여 레이싱 게임 제어에 활용한 사례입니다.",
+  "category": "팁",
+  "tags": [
+   "Qwen",
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "35c646e786431932",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vp15wq/qwen3827b_exl3_00074_kld_vs_00950_for_unsloth/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-27B EXL3: 0.0074 KLD vs 0.0950 for Unsloth NVFP4 at slightly lower VRAM",
+  "published_at": "2026-08-15T12:06:42+00:00",
+  "collected_at": "2026-08-15T12:53:48.281604+00:00",
+  "title_ko": "Qwen 3.8-27B 양자화 성능 비교",
+  "summary_ko": "새로 개발된 EXL3 양자화 방식이 기존 Unsloth NVFP4 및 공식 FP8 대비 손실률(KLD)을 크게 낮추면서도 메모리 효율성을 높인 결과를 공유했습니다.",
+  "category": "참고",
+  "tags": [
+   "Qwen",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "c36255e51515b725",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=213994",
   "source": "AI타임스",
@@ -45,6 +91,20 @@
    "오픈소스",
    "알리바바",
    "Meta"
+  ]
+ },
+ {
+  "id": "4d66148a6edbdf89",
+  "url": "https://news.hada.io/topic?id=32524",
+  "source": "GeekNews",
+  "title": "Going Dark와 법 집행기관 해킹의 시대",
+  "published_at": "2026-08-15T10:33:12+00:00",
+  "collected_at": "2026-08-15T12:54:03.529793+00:00",
+  "title_ko": "AI 취약점 탐지와 법 집행기관의 수사 역량 변화",
+  "summary_ko": "AI를 활용한 소프트웨어 보안 및 취약점 탐지 향상이 정보·수사 기관의 해킹 도구 의존 수사에 미칠 영향에 대한 분석입니다.",
+  "category": "참고",
+  "tags": [
+   "규제"
   ]
  },
  {
@@ -108,6 +168,20 @@
   ]
  },
  {
+  "id": "a4e34328d1a87c94",
+  "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+  "source": "Hacker News",
+  "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+  "published_at": "2026-08-15T07:31:46+00:00",
+  "collected_at": "2026-08-15T12:53:47.247213+00:00",
+  "title_ko": "법원의 AI 사용을 의심해 소송 서류에 프롬프트 인젝션 시도한 사례",
+  "summary_ko": "한 소송 당사자가 법원이 AI를 사용할 것으로 의심하여 승소를 위해 법원 제출 서류에 몰래 프롬프트 인젝션을 시도한 사건입니다.",
+  "category": "속보",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
   "id": "700bff062085575d",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vovb5a/github_metamodelsmetaosscookbook_all_recipes_for/",
   "source": "r/LocalLLaMA",
@@ -150,6 +224,20 @@
   "tags": [
    "Google",
    "오픈소스"
+  ]
+ },
+ {
+  "id": "a1a4fdb6d6a59196",
+  "url": "https://chenxiachan.github.io/thoughtdag/",
+  "source": "Hacker News",
+  "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+  "published_at": "2026-08-15T04:42:07+00:00",
+  "collected_at": "2026-08-15T12:53:47.247213+00:00",
+  "title_ko": "ThoughtDAG: LLM 대화를 위한 편집 가능한 컨텍스트 그래프",
+  "summary_ko": "LLM과의 대화 흐름을 그래프 형태로 시각화하고 편집할 수 있게 해주는 도구(ThoughtDAG)가 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트"
   ]
  },
  {
