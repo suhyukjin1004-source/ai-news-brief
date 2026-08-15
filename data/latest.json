@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-15T14:32:32.082212+00:00",
+ "updated_at": "2026-08-15T15:29:44.307485+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -82,6 +82,22 @@
    ]
   },
   {
+   "id": "f62b838287b6da9f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vp59eb/qwen38_much_thinking_for_nothing/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8: much thinking for nothing",
+   "published_at": "2026-08-15T15:09:23+00:00",
+   "collected_at": "2026-08-15T15:29:27.513537+00:00",
+   "title_ko": "Qwen3.8 27B 실사용 후기: 과도한 생각과 컨텍스트 낭비 지적",
+   "summary_ko": "Qwen3.8 27B 모델이 실제 사용 시 불필요한 추론 과정을 길게 거치며 작업을 지연시킨다는 사용자 불만이 제기되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "Qwen"
+   ]
+  },
+  {
    "id": "28ad8a602dc2dfbc",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213989",
    "source": "AI타임스",
@@ -95,6 +111,38 @@
     "Google",
     "Gemini",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "1ef0c61fdb1eedfc",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vp52ct/qwen38_27b_vs_qwen36_27b_vs_qwen35_27b_a_slight/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8 27B vs Qwen3.6 27B vs Qwen3.5 27B, a slight improvement in oneshotting ability across generations.",
+   "published_at": "2026-08-15T15:01:14+00:00",
+   "collected_at": "2026-08-15T15:29:27.513537+00:00",
+   "title_ko": "Qwen 27B 모델 세대별 성능 비교: 3.5에서 3.8까지의 변화",
+   "summary_ko": "Qwen 27B 모델들의 세대별 원샷 프롬프트 수행 능력을 비교한 결과, 버전이 오를수록 평균 평점이 향상된 것으로 나타났습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "Qwen"
+   ]
+  },
+  {
+   "id": "6cfbc73359a97611",
+   "url": "https://news.hada.io/topic?id=32530",
+   "source": "GeekNews",
+   "title": "AI by Hand — 손으로 익히는 AI 수학·알고리듬·아키텍처",
+   "published_at": "2026-08-15T14:31:43+00:00",
+   "collected_at": "2026-08-15T15:29:42.162329+00:00",
+   "title_ko": "AI by Hand: 손으로 직접 익히는 AI 수학과 아키텍처",
+   "summary_ko": "AI의 핵심 수학, 알고리즘, 아키텍처를 손으로 직접 따라가며 학습할 수 있는 콘텐츠가 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "AI",
+    "머신러닝",
+    "오픈소스"
    ]
   },
   {
@@ -142,6 +190,20 @@
    "tags": [
     "오픈소스",
     "LLM"
+   ]
+  },
+  {
+   "id": "b9d46b0c65a9546f",
+   "url": "https://opensauce.it/cloudflare-ai-psychosis/",
+   "source": "Hacker News",
+   "title": "Cloudflare's AI Psychosis",
+   "published_at": "2026-08-15T14:08:40+00:00",
+   "collected_at": "2026-08-15T15:29:26.603660+00:00",
+   "title_ko": "클라우드플레어의 AI 관련 이슈 분석",
+   "summary_ko": "클라우드플레어 인프라 및 서비스와 관련된 AI 현상에 대한 기술적 논의가 이루어졌습니다.",
+   "category": "참고",
+   "tags": [
+    "AI"
    ]
   },
   {
@@ -281,6 +343,21 @@
    "tags": [
     "AI 에이전트",
     "코딩"
+   ]
+  },
+  {
+   "id": "1b995b323154dff1",
+   "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+   "source": "Hacker News",
+   "title": "Working with AI Feels More Like Leadership Than Coding",
+   "published_at": "2026-08-15T10:39:41+00:00",
+   "collected_at": "2026-08-15T15:29:26.603660+00:00",
+   "title_ko": "AI와의 협업은 코딩보다 리더십에 가까운 경험",
+   "summary_ko": "개발에서 AI를 활용하는 방식이 단순한 코딩을 넘어 팀원을 리드하는 것과 유사한 형태로 진화하고 있다는 의견입니다.",
+   "category": "참고",
+   "tags": [
+    "코딩",
+    "AI 에이전트"
    ]
   },
   {
@@ -2922,81 +2999,6 @@
    "title_ko": "앤트로픽, 크롬 사이드 패널에 '클로드 코워크' 통합",
    "summary_ko": "앤트로픽이 웹브라우저 전용 AI 에이전트 기능을 강화하기 위해 클로드 인 크롬 사이드 패널을 통합 업데이트했다.",
    "category": "속보",
-   "tags": [
-    "Anthropic",
-    "Claude",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "2409163f709d83a7",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213900",
-   "source": "AI타임스",
-   "title": "머스크 \"스페이스X 전체 데이터로 그록 학습...직원들이 AI의 '부모' 될 것\"",
-   "published_at": "2026-08-13T18:11:30+00:00",
-   "collected_at": "2026-08-13T10:17:54.415634+00:00",
-   "title_ko": "머스크, 스페이스X 전체 데이터로 '그록' 학습 계획",
-   "summary_ko": "일론 머스크가 스페이스X의 방대한 내부 데이터와 직원들의 가치관을 그록 학습에 활용하겠다고 밝혔다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "투자"
-   ]
-  },
-  {
-   "id": "29213e0fec133e9f",
-   "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-   "source": "Hacker News",
-   "title": "Accelerating GPT-5.6 Sol Ultrafast",
-   "published_at": "2026-08-13T18:10:02+00:00",
-   "collected_at": "2026-08-13T20:55:08.365959+00:00",
-   "title_ko": "세레브라스, 오픈에이아이 모델 가속화 협력 발표",
-   "summary_ko": "세레브라스를 통해 오픈에이아이의 'GPT-5.6 솔 울트라패스트' 모델 추론을 가속화하는 기술 블로그가 공개되었습니다. 하드웨어와 모델 간 초고속 연산 협력이 주목받고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "반도체"
-   ]
-  },
-  {
-   "id": "92645329555025e0",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213918",
-   "source": "AI타임스",
-   "title": "유럽 서점가 덮친 ‘5000권 주문 미스터리’...“AI 학습용 책 수집 의혹 확산”",
-   "published_at": "2026-08-13T18:02:17+00:00",
-   "collected_at": "2026-08-13T10:17:54.415634+00:00",
-   "title_ko": "유럽 서점가 대량 도서 주문... AI 학습용 수집 의혹",
-   "summary_ko": "유럽 독립 서점들에 무작위 대량 도서 주문이 이어지면서 AI 모델 학습용 데이터 수집이라는 의혹이 확산하고 있다.",
-   "category": "참고",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "3e5db2475fb85df7",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213903",
-   "source": "AI타임스",
-   "title": "알트먼 \"진정한 AI 에이전트의 등장, 한 세대 발전만 남았다'\"",
-   "published_at": "2026-08-13T18:00:00+00:00",
-   "collected_at": "2026-08-13T10:17:54.415634+00:00",
-   "title_ko": "샘 알트만 \"진정한 AI 에이전트 시대, 한 세대 남았다\"",
-   "summary_ko": "샘 알트만 오픈AI CEO가 다음 세대 모델에서는 완벽한 맥락 파악 능력을 갖춘 가상 동료 형태의 에이전트가 등장할 것이라고 전망했다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "cd01db4a9a655ed6",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213916",
-   "source": "AI타임스",
-   "title": "실무 분석 에이전트 벤치마크 ‘AA-애널리스트에이전트’ 공개…'클로드 오퍼스 5' 1위",
-   "published_at": "2026-08-13T17:49:38+00:00",
-   "collected_at": "2026-08-13T10:17:54.415634+00:00",
-   "title_ko": "실무 분석 에이전트 벤치마크 공개…클로드 오퍼스 5 1위",
-   "summary_ko": "실제 스프레드시트와 문서 분석 능력을 평가하는 새로운 에이전트 벤치마크가 공개되며 AI 모델의 실무 활용성이 검증됐다.",
-   "category": "참고",
    "tags": [
     "Anthropic",
     "Claude",
