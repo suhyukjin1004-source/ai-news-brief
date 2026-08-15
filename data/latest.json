@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-15T19:28:43.188818+00:00",
+ "updated_at": "2026-08-15T20:33:23.379542+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -17,6 +17,36 @@
     "Anthropic",
     "Claude",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "f8790fdd17f432fc",
+   "url": "https://news.hada.io/topic?id=32535",
+   "source": "GeekNews",
+   "title": "Codex 자동 연구로 기준보다 232배 빠른 GPU 커널 만들기",
+   "published_at": "2026-08-15T18:41:34+00:00",
+   "collected_at": "2026-08-15T20:33:21.873347+00:00",
+   "title_ko": "Codex 기반 자동 연구로 GPU 커널 최적화 속도 232배 향상",
+   "summary_ko": "Codex를 활용한 반복 최적화를 통해 GPU 커널 성능을 기준 대비 232배 빠르게 끌어올려 대회에서 상위권을 기록했습니다. AI를 활용한 고성능 컴퓨팅 및 커널 최적화 가능성을 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "코딩",
+    "반도체"
+   ]
+  },
+  {
+   "id": "2dcdd2c35f5f843f",
+   "url": "https://news.hada.io/topic?id=32534",
+   "source": "GeekNews",
+   "title": "Claude Code 세션의 가치를 극대화하는 방법",
+   "published_at": "2026-08-15T18:38:34+00:00",
+   "collected_at": "2026-08-15T20:33:21.873347+00:00",
+   "title_ko": "Claude Code 세션 효율화 및 토큰 비용 절감 방법",
+   "summary_ko": "Claude Code 사용 시 컨텍스트 크기와 턴 수 조절을 통해 토큰 사용량과 비용을 최적화하는 방법입니다. 실무에서 AI 코딩 도구의 비용을 절감하는 데 유용합니다.",
+   "category": "팁",
+   "tags": [
+    "Claude",
+    "코딩"
    ]
   },
   {
@@ -2972,36 +3002,6 @@
    "category": "중요",
    "tags": [
     "OpenAI"
-   ]
-  },
-  {
-   "id": "ab52035281253efa",
-   "url": "https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/",
-   "source": "Hacker News",
-   "title": "Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them",
-   "published_at": "2026-08-13T19:04:52+00:00",
-   "collected_at": "2026-08-14T10:12:56.618008+00:00",
-   "title_ko": "법률 서류에 AI 대상 프롬프트 인젝션 공격 발생",
-   "summary_ko": "법원 제출 서류에 AI가 자신에게 유리한 판정을 내리도록 유도하는 프롬프트 인젝션이 숨겨진 채 발견되었습니다.",
-   "category": "중요",
-   "tags": [
-    "보안",
-    "규제"
-   ]
-  },
-  {
-   "id": "064625379d1dde07",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnjzu3/you_could_purchase_a_desktop_with_2tb_of_ddr5_it/",
-   "source": "r/LocalLLaMA",
-   "title": "You could purchase a Desktop with 2TB of DDR5 - It only sets you back some $200k+",
-   "published_at": "2026-08-13T19:02:31+00:00",
-   "collected_at": "2026-08-13T19:15:13.704186+00:00",
-   "title_ko": "2TB RAM 탑재 AI 워크스테이션 가격 분석",
-   "summary_ko": "고성능 워크스테이션의 RAM 가격과 GPU 패키지 구매 효율성을 분석한 글입니다.",
-   "category": "참고",
-   "tags": [
-    "NVIDIA",
-    "반도체"
    ]
   }
  ]
