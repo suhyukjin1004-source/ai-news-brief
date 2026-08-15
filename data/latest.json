@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-08-15T16:35:09.328433+00:00",
+ "updated_at": "2026-08-15T18:41:23.281652+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "59e050c622818523",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpa9vn/qwen_38_27b_isnt_slower_its_thinking_more_and/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen 3.8 27B - Isn’t Slower — It’s Thinking More, and That’s Necessary",
+   "published_at": "2026-08-15T18:29:04+00:00",
+   "collected_at": "2026-08-15T18:41:06.663171+00:00",
+   "title_ko": "Qwen 3.8 27B 모델의 추론 성능과 컴퓨팅 연산 분석",
+   "summary_ko": "새로 출시된 Qwen 3.8 27B 모델이 느려진 이유는 더 깊은 사고 과정을 거치기 때문이며, 실제 소스코드 테스트에서 프론티어 급의 향상된 추론 능력을 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "코딩"
+   ]
+  },
   {
    "id": "17a8027dc9855c01",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213998",
@@ -17,6 +33,21 @@
     "Anthropic",
     "Claude",
     "규제"
+   ]
+  },
+  {
+   "id": "627a59aedf9611fd",
+   "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+   "source": "Hacker News",
+   "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+   "published_at": "2026-08-15T18:13:02+00:00",
+   "collected_at": "2026-08-15T18:41:05.597605+00:00",
+   "title_ko": "AI는 수학자를 뛰어넘는가? 기억력의 문제인가에 대한 고찰",
+   "summary_ko": "AI가 수학적 문제를 해결하는 과정이 진정한 사고라기보다는 방대한 데이터의 기억과 패턴 매칭에 가깝다는 분석을 다룹니다.",
+   "category": "참고",
+   "tags": [
+    "LLM",
+    "인공지능"
    ]
   },
   {
@@ -64,6 +95,21 @@
     "OpenAI",
     "GPT",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "fd730188c4183b9c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vp6xec/doing_image_recognition_tests_of_muse_glimmer_v/",
+   "source": "r/LocalLLaMA",
+   "title": "Doing image recognition tests of Muse Glimmer v. Qwen 3.8 27B. Anyone else have notes?",
+   "published_at": "2026-08-15T16:16:40+00:00",
+   "collected_at": "2026-08-15T18:41:06.663171+00:00",
+   "title_ko": "Muse Glimmer와 Qwen 3.8 27B 이미지 인식 성능 비교",
+   "summary_ko": "이미지 인식 및 OCR 테스트에서 Muse Glimmer 모델이 빽빽한 텍스트 인식과 관계 묘사 측면에서 Qwen 3.8보다 우수한 성능을 보였다는 사용자 평가입니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "이미지 인식"
    ]
   },
   {
@@ -2956,53 +3002,6 @@
     "OpenAI",
     "Anthropic",
     "Google"
-   ]
-  },
-  {
-   "id": "4fb74fab9c1ca344",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnjtyh/doom_running_on_an_llm_hugging_face_checkpoint/",
-   "source": "r/LocalLLaMA",
-   "title": "Doom running on an LLM -- Hugging Face checkpoint included",
-   "published_at": "2026-08-13T18:56:49+00:00",
-   "collected_at": "2026-08-13T19:15:13.704186+00:00",
-   "title_ko": "트랜스포머 가중치로 둠(Doom) 실행",
-   "summary_ko": "학습 없이 컴파일러를 통해 둠의 렌더링 알고리즘을 LLM 가중치로 변환해 실행한 실험입니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "b0563b895280082a",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213889",
-   "source": "AI타임스",
-   "title": "오픈AI, \"8달러 내면 사용량 리셋\"...챗GPT 플러스 유료 재설정 기습 테스트",
-   "published_at": "2026-08-13T18:55:40+00:00",
-   "collected_at": "2026-08-13T10:17:54.415634+00:00",
-   "title_ko": "오픈AI, 챗GPT 플러스 주간 사용량 유료 리셋 테스트",
-   "summary_ko": "오픈AI가 챗GPT 플러스 사용자를 대상으로 추가 비용을 지불하고 사용 한도를 즉시 초기화하는 기능을 테스트 중이다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "GPT",
-    "투자"
-   ]
-  },
-  {
-   "id": "d4cbe757a51e5e7b",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnjpju/experiment_qwen3824ta95b_running_locally_on_an/",
-   "source": "r/LocalLLaMA",
-   "title": "EXPERIMENT: Qwen3.8-2.4T-A95B running locally on an RTX 5090 + RTX 5060 Ti at ~0.80 tok/s",
-   "published_at": "2026-08-13T18:52:42+00:00",
-   "collected_at": "2026-08-13T20:55:45.465813+00:00",
-   "title_ko": "RTX 5090에서 Qwen 거대 모형 로컬 구동 실험",
-   "summary_ko": "최신 하드웨어를 활용해 수백 GB에 달하는 대형 혼합전문가(MoE) 모델을 로컬 PC에서 구동한 실험 결과입니다. 하드웨어 한계 극복과 로컬 추론의 가능성을 보여줍니다.",
-   "category": "참고",
-   "tags": [
-    "NVIDIA",
-    "반도체",
-    "오픈소스"
    ]
   }
  ]
