@@ -1,8 +1,23 @@
 {
- "updated_at": "2026-08-15T07:37:08.575511+00:00",
+ "updated_at": "2026-08-15T08:39:49.712165+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "0a3fc7e08621c644",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213997",
+   "source": "AI타임스",
+   "title": "알리바바, '큐원3.8-맥스' 가중치 공개…상업적 이용엔 라이선스 필요",
+   "published_at": "2026-08-15T17:12:26+00:00",
+   "collected_at": "2026-08-15T08:39:46.829071+00:00",
+   "title_ko": "알리바바, 플래그십 AI '큐원3.8-맥스' 가중치 공개",
+   "summary_ko": "알리바바가 2조4000억 매개변수의 '큐원3.8-맥스' 모델 가중치를 무료 공개했으나 대기업 상업 이용엔 별도 라이선스를 요구합니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
   {
    "id": "2b4a88540110f72a",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213986",
@@ -111,6 +126,37 @@
    "tags": [
     "Anthropic",
     "투자"
+   ]
+  },
+  {
+   "id": "4aab4399e486df93",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vowi2d/gpu_prices_havent_stopped_climbing_for_3_weeks/",
+   "source": "r/LocalLLaMA",
+   "title": "GPU prices haven't stopped climbing for 3 weeks straight across the EU, here's the data",
+   "published_at": "2026-08-15T07:35:32+00:00",
+   "collected_at": "2026-08-15T08:39:33.348709+00:00",
+   "title_ko": "유럽 내 GPU 가격 한 달간 19% 급등",
+   "summary_ko": "유럽 9개국 25개 이상의 매장을 추적한 결과, AI 학습 및 구동에 쓰이는 GPU 가격이 3주 연속 상승하며 한 달 만에 약 19% 올랐습니다.",
+   "category": "참고",
+   "tags": [
+    "반도체",
+    "NVIDIA"
+   ]
+  },
+  {
+   "id": "700bff062085575d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vovb5a/github_metamodelsmetaosscookbook_all_recipes_for/",
+   "source": "r/LocalLLaMA",
+   "title": "GitHub - meta-models/meta-oss-cookbook: All recipes for oss models from Meta Inc.",
+   "published_at": "2026-08-15T06:26:40+00:00",
+   "collected_at": "2026-08-15T08:39:33.348709+00:00",
+   "title_ko": "메타, 오픈소스 모델 활용을 위한 쿡북 공개",
+   "summary_ko": "로컬 GPU에서 오프라인으로 AI 에이전트를 구축하고 실행할 수 있는 메타의 오픈소스 모델 레시피 모음이 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "Meta",
+    "오픈소스",
+    "AI 에이전트"
    ]
   },
   {
@@ -2951,53 +2997,6 @@
    "tags": [
     "AI 에이전트",
     "투자"
-   ]
-  },
-  {
-   "id": "05a8204afe0eb837",
-   "url": "https://news.hada.io/topic?id=32474",
-   "source": "GeekNews",
-   "title": "DeepSeek Harness - 모든 구성 요소를 플러그인으로 만든 오픈소스 코딩 에이전트",
-   "published_at": "2026-08-13T16:31:41+00:00",
-   "collected_at": "2026-08-13T17:06:21.285471+00:00",
-   "title_ko": "DeepSeek, 오픈소스 코딩 에이전트 하네스 공개",
-   "summary_ko": "모든 요소를 플러그인화한 'DeepSeek Harness'가 공개되었습니다. 모듈식 구조로 에이전트 동작과 환경을 쉽게 조립할 수 있습니다.",
-   "category": "속보",
-   "tags": [
-    "DeepSeek",
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "8f4802b238767567",
-   "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-   "source": "Hacker News",
-   "title": "AI At Home Part 1: A Box Of Scraps",
-   "published_at": "2026-08-13T16:22:05+00:00",
-   "collected_at": "2026-08-13T20:55:44.422570+00:00",
-   "title_ko": "홈랩 환경에서 저렴하게 구축하는 홈메이드 AI 박스",
-   "summary_ko": "남는 부품을 활용해 가정에서 로컬 AI 환경을 구축하는 과정에 대한 공유입니다. 개인 개발자가 진입장벽을 낮추고 AI를 실험하는 방법을 제시합니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "4c6a1c7f586325ff",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213901",
-   "source": "AI타임스",
-   "title": "중국 관련 해커, 오픈소스 에이전트로 대만 정부 공격...‘자율형 사이버전’ 현실화",
-   "published_at": "2026-08-13T16:19:26+00:00",
-   "collected_at": "2026-08-13T08:38:48.979792+00:00",
-   "title_ko": "중국 해커, 오픈소스 AI 에이전트로 대만 정부 공격",
-   "summary_ko": "해커들이 오픈소스 AI 도구를 조합해 자율적으로 취약점을 찾고 공격하는 자율형 사이버전을 감행한 정황이 포착됐다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트",
-    "규제"
    ]
   }
  ]
