@@ -1,8 +1,23 @@
 {
- "updated_at": "2026-08-15T22:31:53.500087+00:00",
+ "updated_at": "2026-08-15T23:28:58.516128+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "ea65578f1224a173",
+   "url": "https://news.hada.io/topic?id=32540",
+   "source": "GeekNews",
+   "title": "AI와 일하는 방식은 코딩보다 리더십에 가깝다",
+   "published_at": "2026-08-15T23:04:39+00:00",
+   "collected_at": "2026-08-15T23:28:56.415905+00:00",
+   "title_ko": "AI와의 협업, 코딩보다 리더십이 필요한 이유",
+   "summary_ko": "AI는 비대칭적이고 확률적인 특성이 있어 단순한 코딩보다는 명확한 맥락과 피드백을 주는 리더십 관점의 접근이 중요합니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
   {
    "id": "66835ef2f4a683b8",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpf8j1/the_perfect_way_for_google_to_screw_over_oai_and/",
@@ -84,6 +99,21 @@
    ]
   },
   {
+   "id": "54e94aae03b92224",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpdrxl/which_harness_for_local_coding_qwen_38_27b_do_you/",
+   "source": "r/LocalLLaMA",
+   "title": "Which Harness for Local Coding (Qwen 3.8 27b) do you Recommend?",
+   "published_at": "2026-08-15T20:51:09+00:00",
+   "collected_at": "2026-08-15T23:28:41.809792+00:00",
+   "title_ko": "로컬 코딩 모델(Qwen)을 위한 추천 도구",
+   "summary_ko": "로컬 환경에서 Qwen 등 오픈소스 코딩 모델을 활용하기 위해 커뮤니티에서 실제로 사용하는 구체적인 테스트 하니스와 도구를 논의합니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
    "id": "099e70541f852de9",
    "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
    "source": "The Verge",
@@ -125,6 +155,20 @@
    "tags": [
     "AI 에이전트",
     "오픈소스"
+   ]
+  },
+  {
+   "id": "9a40685f0d0b4e8a",
+   "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+   "source": "Hacker News",
+   "title": "AI in drug discovery – what it is, where we stand and the path forward",
+   "published_at": "2026-08-15T19:12:53+00:00",
+   "collected_at": "2026-08-15T23:28:40.807584+00:00",
+   "title_ko": "신약 개발 분야의 AI 활용 현황과 미래 전망",
+   "summary_ko": "네이처에 게재된 논문을 통해 AI가 신약 개발에 어떻게 적용되고 있으며 현재 어디까지 왔는지, 앞으로의 과제는 무엇인지 조명합니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트"
    ]
   },
   {
@@ -541,6 +585,21 @@
    "tags": [
     "OpenAI",
     "ChatGPT"
+   ]
+  },
+  {
+   "id": "9218b0468cdec5d6",
+   "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+   "source": "Hacker News",
+   "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
+   "published_at": "2026-08-15T13:43:46+00:00",
+   "collected_at": "2026-08-15T23:28:40.807584+00:00",
+   "title_ko": "AI 에이전트 시대를 위한 BDD 프레임워크 'Yadda 3.0.0' 공개",
+   "summary_ko": "AI 에이전트가 주도하는 개발 환경에 발맞춰 행동 중심 개발(BDD) 방식을 지원하는 Yadda 3.0.0이 발표되었습니다.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
    ]
   },
   {
@@ -2947,66 +3006,6 @@
    "tags": [
     "코딩",
     "AI 에이전트"
-   ]
-  },
-  {
-   "id": "2ef5a1d8c23bf0c8",
-   "url": "https://www.reddit.com/r/singularity/comments/1vnp6e5/grok_46_edges_out_gpt_56_sol_pro_on_simplebench/",
-   "source": "r/singularity",
-   "title": "Grok 4.6 Edges Out GPT 5.6 Sol Pro On SimpleBench",
-   "published_at": "2026-08-13T22:18:29+00:00",
-   "collected_at": "2026-08-14T10:13:02.471558+00:00",
-   "title_ko": "SimpleBench에서 GPT-5.6 능가한 Grok 4.6",
-   "summary_ko": "Grok 최신 버마인 Grok 4.6이 벤치마크 테스트에서 GPT-5.6 Sol Pro를 근소한 차이로 앞질렀습니다.",
-   "category": "속보",
-   "tags": [
-    "GPT"
-   ]
-  },
-  {
-   "id": "6b8f3c7d98ba4afc",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnod14/dotsstudiodots3noteprev_hugging_face/",
-   "source": "r/LocalLLaMA",
-   "title": "dots-studio/dots3-note-prev · Hugging Face",
-   "published_at": "2026-08-13T21:46:11+00:00",
-   "collected_at": "2026-08-13T22:54:19.669928+00:00",
-   "title_ko": "오픈웨이트 멀티모달 MoE 모델 dots3-note preview 공개",
-   "summary_ko": "총 280B 파라미터와 512K 컨텍스트를 지원하는 오픈웨이트 멀티모달 MoE 모델이 공개되었습니다. 텍스트, 이미지, 오디오, 비디오를 모두 이해하며 에이전트 워크플로우와 코딩 등에 활용할 수 있어 중요합니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "MoE",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "f615a9f56d1873ad",
-   "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-   "source": "The Verge",
-   "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-   "published_at": "2026-08-13T21:42:38+00:00",
-   "collected_at": "2026-08-13T21:55:48.741743+00:00",
-   "title_ko": "마이크로소프트, 코파일럿 음성 모드에서 마스코트 'Mico' 제외",
-   "summary_ko": "마이크로소프트가 코파일럿 챗봇의 음성 모드에서 노란색 마스코트 캐릭터 'Mico'를 더 이상 사용하지 않기로 하고 관련 플랫폼으로 이동시킵니다.",
-   "category": "참고",
-   "tags": [
-    "Microsoft",
-    "Copilot"
-   ]
-  },
-  {
-   "id": "db3e778cea5d66ad",
-   "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-   "source": "TechCrunch",
-   "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-   "published_at": "2026-08-13T21:13:24+00:00",
-   "collected_at": "2026-08-13T21:55:48.642519+00:00",
-   "title_ko": "라이터(Writer), 토큰 비용 절감 위한 신규 AI 모델 출시",
-   "summary_ko": "오픈소스 모델 기반의 새로운 AI 시스템을 도입하여 배포용 성능을 유지하면서도 토큰 비용을 대폭 낮췄습니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "LLM"
    ]
   }
  ]
