@@ -1,8 +1,82 @@
 {
- "updated_at": "2026-08-16T21:28:57.777883+00:00",
+ "updated_at": "2026-08-16T22:31:40.359376+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "0bc7fef7998a51c2",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq9zc8/qwen_38_27b_vs_36_27b_how_good_is_with_a_turtle/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen 3.8 27b vs 3.6 27b - how good is with a Turtle library.",
+   "published_at": "2026-08-16T22:01:23+00:00",
+   "collected_at": "2026-08-16T22:31:23.489515+00:00",
+   "title_ko": "Qwen 3.8 27B 모델의 터틀 그래픽 코딩 성능 비교",
+   "summary_ko": "파이썬 터틀 라이브러리를 활용한 재귀 알고리즘 테스트에서 Qwen 3.8 27B가 이전 버전에 비해 대폭 향상된 코딩 능력을 보여주었습니다. 로컬 LLM의 실무 코딩 활용도가 높아지고 있음을 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "81603460e9838e67",
+   "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+   "source": "Simon Willison",
+   "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
+   "published_at": "2026-08-16T22:00:39+00:00",
+   "collected_at": "2026-08-16T22:31:22.650904+00:00",
+   "title_ko": "알리바바, 오픈소스 비전 LLM 'Qwen 3.8 27B' 공개",
+   "summary_ko": "알리바바 Qwen 연구소가 Apache 2 라이선스의 27B 파라미터 비전 LLM을 출시했습니다. 랩탑에서 구동 가능한 크기이면서도 이전 세대와 폐쇄형 모델을 뛰어넘는 성능을 보여 주목받고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "AI"
+   ]
+  },
+  {
+   "id": "b5ab1203f10f4dab",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq9sdv/dario_amodei_defends_his_policy_proposals_warns/",
+   "source": "r/LocalLLaMA",
+   "title": "Dario Amodei defends his policy proposals, warns open weights won't decentralize power, endorses pre-launch vetting, says real accomplishments will earn trust",
+   "published_at": "2026-08-16T21:53:31+00:00",
+   "collected_at": "2026-08-16T22:31:23.489515+00:00",
+   "title_ko": "앤스로픽 다리오 아모데이, 오픈웨이트의 권력 분산 한계 지적",
+   "summary_ko": "앤스로픽 CEO가 오픈웨이트 모델이 권력을 분산시키지 못할 것이라며 사전 출시 검증 제도를 옹호했습니다. AI 안전성과 규제 방향에 대한 업계의 논쟁을 보여줍니다.",
+   "category": "중요",
+   "tags": [
+    "규제",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "c95ea65cc7e3da8a",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+   "source": "The Verge",
+   "title": "OpenAI reportedly disbanded its preparedness team",
+   "published_at": "2026-08-16T21:32:56+00:00",
+   "collected_at": "2026-08-16T22:31:04.310726+00:00",
+   "title_ko": "오픈AI, AI 위험성 평가 전담 '준비 태세 팀' 해체",
+   "summary_ko": "오픈AI가 모델의 심각한 위험을 평가하고 완화 방안을 연구하던 준비 태세 팀을 해체했습니다. AI 안전성 관리 체계에 대한 우려가 커지고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "규제"
+   ]
+  },
+  {
+   "id": "922eea2c427f321f",
+   "url": "https://news.hada.io/topic?id=32562",
+   "source": "GeekNews",
+   "title": "AI 크레딧 재판매 경제",
+   "published_at": "2026-08-16T21:31:44+00:00",
+   "collected_at": "2026-08-16T22:31:37.890504+00:00",
+   "title_ko": "스타트업 미사용 AI 크레딧 재판매 시장 형성",
+   "summary_ko": "스타트업의 미사용 AI 크레딧을 매입해 할인 판매하는 비공식 중개 시장이 상업적 규모로 확대되고 있습니다. AI 인프라 비용 절감과 관련된 새로운 트렌드입니다.",
+   "category": "참고",
+   "tags": [
+    "투자"
+   ]
+  },
   {
    "id": "1e88a402faf7245d",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq8rsf/qwen_38_9b/",
@@ -2938,81 +3012,6 @@
    "category": "팁",
    "tags": [
     "오픈소스"
-   ]
-  },
-  {
-   "id": "8d98ca9a9b97d3b6",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213984",
-   "source": "AI타임스",
-   "title": "\"AI·로봇으로 미래 국방 혁신\"...산업부-육군-현대차, 첨단기술 활용 MOU",
-   "published_at": "2026-08-14T16:00:00+00:00",
-   "collected_at": "2026-08-14T22:32:56.898865+00:00",
-   "title_ko": "산업부·육군·현대차, 피지컬 AI 국방 혁신 MOU 체결",
-   "summary_ko": "정부와 군, 현대차가 손잡고 첨단 피지컬 AI 기술과 국방 로봇을 도입하여 미래 국방 혁신에 나섭니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "로보틱스",
-    "투자"
-   ]
-  },
-  {
-   "id": "97ea0600b6d25b7a",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213980",
-   "source": "AI타임스",
-   "title": "[게시판] 원티드랩, AI 교육 성장 힘입어 17억 흑자전환 등 단신",
-   "published_at": "2026-08-14T16:00:00+00:00",
-   "collected_at": "2026-08-14T20:38:58.221088+00:00",
-   "title_ko": "원티드랩, AI 교육 사업 성장에 힘입어 흑자 전환",
-   "summary_ko": "기업과 공공기관의 AI 도입 확대로 실무형 AI 교육 수요가 증가하면서 원티드랩이 2분기 흑자 전환을 달성했습니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "투자"
-   ]
-  },
-  {
-   "id": "b3c37ff188eacb34",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213978",
-   "source": "AI타임스",
-   "title": "[게시판] 레티널, 중기부 팁스로 초경량 AI 글래스 광학 모듈 개발 등 단신",
-   "published_at": "2026-08-14T16:00:00+00:00",
-   "collected_at": "2026-08-14T08:23:47.813869+00:00",
-   "title_ko": "레티널·엑스와이지, 정부 R&D 및 고성능 컴퓨팅 지원 사업 선정",
-   "summary_ko": "국내 AI 관련 기업들이 중기부 팁스 및 과기부 고성능 컴퓨팅 지원 사업에 선정되며 기술 개발에 박차를 가한다.",
-   "category": "참고",
-   "tags": [
-    "NVIDIA",
-    "반도체"
-   ]
-  },
-  {
-   "id": "0e8454be96a425c9",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213973",
-   "source": "AI타임스",
-   "title": "애플, 차세대 시리 성능 강화 위해 언론사와 콘텐츠 라이선스 협상",
-   "published_at": "2026-08-14T15:59:31+00:00",
-   "collected_at": "2026-08-14T08:23:47.813869+00:00",
-   "title_ko": "애플, 차세대 시리 강화를 위해 언론사와 콘텐츠 협상",
-   "summary_ko": "애플이 AI 기반 시리의 뉴스 제공 능력을 높이기 위해 주요 출판사들과 라이선스 계약을 논의 중이다.",
-   "category": "참고",
-   "tags": [
-    "Apple"
-   ]
-  },
-  {
-   "id": "aaf05fa0c7fe71df",
-   "url": "https://www.byhand.ai/",
-   "source": "Hacker News",
-   "title": "AI by Hand",
-   "published_at": "2026-08-14T15:58:59+00:00",
-   "collected_at": "2026-08-14T19:06:32.322447+00:00",
-   "title_ko": "수작업으로 이해하는 AI 'AI by Hand' 소개",
-   "summary_ko": "인공신경망과 AI의 작동 원리를 직접 손으로 계산하며 이해할 수 있도록 돕는 학습 프로젝트입니다. AI의 기초 개념을 파악하는 데 유용합니다.",
-   "category": "참고",
-   "tags": [
-    "인공지능",
-    "학습"
    ]
   }
  ]
