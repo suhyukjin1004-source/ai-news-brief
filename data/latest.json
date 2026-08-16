@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-16T14:32:48.949041+00:00",
+ "updated_at": "2026-08-16T15:30:55.208172+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -112,6 +112,51 @@
    ]
   },
   {
+   "id": "752755ecd1d14a83",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpzhws/qwen3827b_hybrid_iq4_xs_quantization_for_16gb_gang/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8-27B Hybrid IQ4_XS quantization for 16GB gang",
+   "published_at": "2026-08-16T15:09:25+00:00",
+   "collected_at": "2026-08-16T15:30:38.302662+00:00",
+   "title_ko": "Qwen2.5-27B 하이브리드 양자화 모델 출시",
+   "summary_ko": "16GB VRAM 환경에서 구동 가능한 Qwen 모델의 경량화 양자화 버전이 공개되었습니다. 저사양 하드웨어에서 대형언어모델을 활용하려는 사용자에게 유용합니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "51f821562f2ee773",
+   "url": "https://simonwillison.net/2026/Aug/16/dario-amodei/",
+   "source": "Simon Willison",
+   "title": "Quoting Dario Amodei",
+   "published_at": "2026-08-16T15:05:36+00:00",
+   "collected_at": "2026-08-16T15:30:37.535010+00:00",
+   "title_ko": "다리오 아모데이가 진단한 대중의 AI 불신",
+   "summary_ko": "앤스로픽 CEO 다리오 아모데이가 AI에 대한 대중의 부정적 시선은 단순한 위험 경고 때문이 아니라 기업과 정부를 향한 근본적인 불신에서 비롯된 것이라고 진단했습니다.",
+   "category": "참고",
+   "tags": [
+    "Anthropic",
+    "규제"
+   ]
+  },
+  {
+   "id": "d07335db5af00cb7",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+   "source": "The Verge",
+   "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+   "published_at": "2026-08-16T14:56:40+00:00",
+   "collected_at": "2026-08-16T15:30:09.814954+00:00",
+   "title_ko": "ChatGPT macOS 앱, 사용자 행동 추적 기능 도입",
+   "summary_ko": "ChatGPT 맥OS 데스크톱 앱에 사용자의 클릭과 키 입력 등 활동을 기록해 작업 자동화와 업무 지원에 활용하는 '컴퓨터 히스토리' 기능이 추가되었습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "fa82b105374dc563",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpxbm8/newer_commits_removed_the_qwen_35b/",
    "source": "r/LocalLLaMA",
@@ -174,6 +219,21 @@
    ]
   },
   {
+   "id": "9ffac573dcb57e87",
+   "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+   "source": "Hacker News",
+   "title": "Claude: System Prompts",
+   "published_at": "2026-08-16T12:48:21+00:00",
+   "collected_at": "2026-08-16T15:30:31.559740+00:00",
+   "title_ko": "앤스로픽, Claude 시스템 프롬프트 문서 공개",
+   "summary_ko": "앤스로픽이 개발자 플랫폼을 통해 Claude의 시스템 프롬프트 관련 공식 문서를 업데이트 및 공개했습니다. 모델의 작동 방식을 이해하는 데 도움이 됩니다.",
+   "category": "참고",
+   "tags": [
+    "Anthropic",
+    "Claude"
+   ]
+  },
+  {
    "id": "c0ea7bd85f9595ab",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpw006/huihuiai_qwen_38_ablit_available/",
    "source": "r/LocalLLaMA",
@@ -200,6 +260,20 @@
    "category": "팁",
    "tags": [
     "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "09287bc9f79b9822",
+   "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
+   "source": "Hacker News",
+   "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
+   "published_at": "2026-08-16T12:22:20+00:00",
+   "collected_at": "2026-08-16T15:30:31.559740+00:00",
+   "title_ko": "AI 환각 현상으로 인한 학술 논문 오류 사례",
+   "summary_ko": "일부 연구 논문에서 AI 번역이나 생성 오류로 인해 '신부전(kidney failure)'이 '신장 실망(kidney disappointment)'과 같은 기괴한 표현으로 잘못 인용된 사례가 발견되었습니다.",
+   "category": "참고",
+   "tags": [
     "LLM"
    ]
   },
@@ -2943,81 +3017,6 @@
    "tags": [
     "투자",
     "반도체"
-   ]
-  },
-  {
-   "id": "1fe42c5e40c557c9",
-   "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-   "source": "TechCrunch",
-   "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-   "published_at": "2026-08-14T14:00:00+00:00",
-   "collected_at": "2026-08-14T16:00:20.207671+00:00",
-   "title_ko": "메타, 오픈웨이트 AI 모델 '글리머' 공개",
-   "summary_ko": "메타가 자체 하드웨어에서 실행 가능한 오픈웨이트 AI 모델 '글리머'를 공개하며 개방형 AI의 중요성을 강조했습니다. 이는 폐쇄형 API 중심의 모델들과 대조를 이루며 업계의 오픈소스 전략에 영향을 줍니다.",
-   "category": "중요",
-   "tags": [
-    "Meta",
-    "오픈소스",
-    "AI 모델"
-   ]
-  },
-  {
-   "id": "caee789c0107d08c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vo7ngv/qwen_live_ep2_agent_first_multimodal_gets_to_work/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen Live EP2 - Agent First: Multimodal Gets to Work - Streamed live 11 hours ago",
-   "published_at": "2026-08-14T13:42:34+00:00",
-   "collected_at": "2026-08-14T15:01:35.318472+00:00",
-   "title_ko": "Qwen 라이브 스트리밍: 에이전트와 멀티모달",
-   "summary_ko": "최신 Qwen 모델의 멀티모달 기능과 AI 에이전트 활용 방안을 다룬 라이브 방송이 진행되었습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "Qwen"
-   ]
-  },
-  {
-   "id": "f79499dd25b90aec",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213949",
-   "source": "AI타임스",
-   "title": "앤트로픽, 데카르트 AI 8조 규모 인수 추진…'클로드' 인프라 강화",
-   "published_at": "2026-08-14T13:33:04+00:00",
-   "collected_at": "2026-08-14T04:56:47.614862+00:00",
-   "title_ko": "앤트로픽, 데카르트 AI 8조 원 규모 인수 추진",
-   "summary_ko": "앤트로픽이 AI 인프라 효율성을 높이기 위해 데카르트 AI 인수를 추진하며 역대 최대 규모 M&A를 진행 중이다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "투자"
-   ]
-  },
-  {
-   "id": "ab961722be23298f",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213950",
-   "source": "AI타임스",
-   "title": "씨이랩, ‘AI 인프라’ 매출 187% 증가…“'GPU 전문 인력 확대' 전략 통했다”",
-   "published_at": "2026-08-14T13:25:12+00:00",
-   "collected_at": "2026-08-14T04:56:47.614862+00:00",
-   "title_ko": "씨이랩, AI 인프라 매출 187% 급증",
-   "summary_ko": "씨이랩이 GPU 전문 인력 확대 전략에 힘입어 상반기 AI 인프라 부문 매출이 크게 증가했다.",
-   "category": "참고",
-   "tags": [
-    "반도체"
-   ]
-  },
-  {
-   "id": "90154964ed098046",
-   "url": "https://www.reddit.com/r/singularity/comments/1vo76vn/vision_is_the_current_bottleneck_imo/",
-   "source": "r/singularity",
-   "title": "\"Vision\" is the current bottleneck imo",
-   "published_at": "2026-08-14T13:23:22+00:00",
-   "collected_at": "2026-08-14T13:25:06.327872+00:00",
-   "title_ko": "LLM 코딩에서 시각적 피드백과 비전의 중요성",
-   "summary_ko": "LLM을 활용한 코딩 시 생성된 결과물을 눈으로 확인하고 피드백을 주는 '비전' 요소가 현재 개발의 주요 병목 현상임을 논합니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
    ]
   }
  ]
