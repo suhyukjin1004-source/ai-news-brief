@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-16T17:28:12.037794+00:00",
+ "updated_at": "2026-08-16T18:41:02.273850+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -31,6 +31,50 @@
    "tags": [
     "오픈소스",
     "중국 AI"
+   ]
+  },
+  {
+   "id": "374a8ee9f4dbf106",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq3ssg/qwen_38_24t_at_288k_tokenss_on_nvidia_gb300_nvl72/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen 3.8 2.4T at 288k tokens/s on Nvidia GB300 NVL72",
+   "published_at": "2026-08-16T17:57:26+00:00",
+   "collected_at": "2026-08-16T18:40:44.918331+00:00",
+   "title_ko": "NVIDIA GB300에서 Qwen 3.8 모델의 초고속 추론 성능 달성",
+   "summary_ko": "NVIDIA GB300 NVL72 시스템에서 Qwen 3.8 모델이 GPU당 초당 4천 토큰 이상의 처리 속도를 기록했습니다. 이는 대규모 언어 모델의 실시간 서비스 효율성을 크게 높이는 성과입니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "반도체",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "6d79bc59054ed7d7",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq3gig/qwen_38_distillations/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen 3.8 distillations",
+   "published_at": "2026-08-16T17:44:28+00:00",
+   "collected_at": "2026-08-16T18:40:44.918331+00:00",
+   "title_ko": "Qwen 3.8 모델 증류 버전을 활용한 경량화 시도",
+   "summary_ko": "Qwen 3.8 모델을 기반으로 한 다양한 증류(distillation) 버전이 공개되었습니다. 대형 모델의 성능을 유지하면서도 자원 소모를 줄인 경량화 모델 연구에 기여합니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "939be7b85d732dc7",
+   "url": "https://news.hada.io/topic?id=32557",
+   "source": "GeekNews",
+   "title": "LLM이 5학년 이후의 학습 자료를 전혀 보지 못하면 어떻게 될까?",
+   "published_at": "2026-08-16T17:43:08+00:00",
+   "collected_at": "2026-08-16T18:40:59.460446+00:00",
+   "title_ko": "초등 교육과정 데이터로만 학습한 LLM의 능력 검증 연구",
+   "summary_ko": "미국 초등학교 5학년 수준 이하의 데이터만으로 LLM을 사전학습하여 학습 데이터의 범위가 모델 능력에 미치는 영향을 분석했습니다. AI 모델의 지식 경계와 학습 효율성을 이해하는 데 중요한 통찰을 줍니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
    ]
   },
   {
@@ -342,6 +386,20 @@
    ]
   },
   {
+   "id": "886316ca512557c1",
+   "url": "https://wildstatic.com/",
+   "source": "Hacker News",
+   "title": "Show HN: A public AI whose memory is shared across all users",
+   "published_at": "2026-08-16T13:21:45+00:00",
+   "collected_at": "2026-08-16T18:40:44.091389+00:00",
+   "title_ko": "모든 사용자가 메모리를 공유하는 공용 AI 서비스 등장",
+   "summary_ko": "모든 사용자가 대화 메모리를 공유하는 독특한 방식의 공용 AI 서비스가 공개되었습니다. 사용자 간 상호작용과 집단 기억이 AI 응답에 미치는 실험적인 시도입니다.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "7401a40e989dc9ab",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpwfpe/quick_psa_qwen3827b_reasoning_effort_vs_reasoning/",
    "source": "r/LocalLLaMA",
@@ -584,6 +642,20 @@
    "tags": [
     "로보틱스",
     "AI"
+   ]
+  },
+  {
+   "id": "7562ac74e0c9a33d",
+   "url": "https://peterbloem.nl/blog/craft-coding",
+   "source": "Hacker News",
+   "title": "AI Coding Without the Vibes",
+   "published_at": "2026-08-16T10:31:36+00:00",
+   "collected_at": "2026-08-16T18:40:44.091389+00:00",
+   "title_ko": "감각에 의존하지 않는 체계적인 AI 코딩 방법론",
+   "summary_ko": "AI를 활용한 코딩 시 직관이나 대충의 느낌에 의존하지 않고 체계적이고 신뢰성 있게 접근하는 방법론을 다룹니다. 실무에서 AI 코딩 도구의 생산성을 극대화하는 팁을 제공합니다.",
+   "category": "팁",
+   "tags": [
+    "코딩"
    ]
   },
   {
@@ -2942,80 +3014,6 @@
    "title_ko": "Unsloth, Qwen 3.8 27B GGUF 양자화 버전 공개",
    "summary_ko": "Unsloth가 Qwen 3.8 27B 모델의 GGUF 양자화 버전을 빠르게 공개했습니다. 로컬 하드웨어에서의 실행 속도가 대폭 향상되어 실용성이 높아졌습니다.",
    "category": "팁",
-   "tags": [
-    "오픈소스",
-    "AI 모델"
-   ]
-  },
-  {
-   "id": "bda91c101fa73e8d",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213979",
-   "source": "AI타임스",
-   "title": "이스트소프트, 상반기 매출 607억...\"AI 중심 역대 최대\"",
-   "published_at": "2026-08-14T15:05:00+00:00",
-   "collected_at": "2026-08-14T20:38:58.221088+00:00",
-   "title_ko": "이스트소프트, AI 중심 사업 성장으로 상반기 최대 매출 달성",
-   "summary_ko": "AI 아바타 및 AX(AI 전환) 사업의 성장에 힘입어 이스트소프트가 상반기 기준 역대 최대 매출을 기록하고 영업손실을 대폭 줄였습니다.",
-   "category": "중요",
-   "tags": [
-    "투자"
-   ]
-  },
-  {
-   "id": "f12d6398171654ef",
-   "url": "https://twitter.com/alibaba_qwen/status/2088280182356611304",
-   "source": "Hacker News",
-   "title": "Qwen3.8-27B",
-   "published_at": "2026-08-14T15:03:54+00:00",
-   "collected_at": "2026-08-14T16:00:24.251410+00:00",
-   "title_ko": "알리바바, Qwen 3.8 27B 모델 발표",
-   "summary_ko": "알리바바가 최신 AI 모델 Qwen3.8-27B를 공개하며 개발자 커뮤니티의 큰 관심을 받고 있습니다. 오픈소스 진영의 경쟁력이 한층 강화될 것으로 보입니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "AI 모델"
-   ]
-  },
-  {
-   "id": "bb35b7abb59f53e0",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vo9qjv/unsloth_qwen_38_27b_weights_released/",
-   "source": "r/LocalLLaMA",
-   "title": "Unsloth Qwen 3.8 27b Weights Released",
-   "published_at": "2026-08-14T15:03:42+00:00",
-   "collected_at": "2026-08-14T16:00:36.863017+00:00",
-   "title_ko": "Unsloth, Qwen 3.8 27B 가중치 배포",
-   "summary_ko": "Unsloth 팀이 Qwen 3.8 27B 모델의 가중치를 배포하여 효율적인 파인튜닝과 실행을 지원합니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "AI 모델"
-   ]
-  },
-  {
-   "id": "499015bd4d035f23",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vo9ox5/unsloth_qwen3827b_ggufs/",
-   "source": "r/LocalLLaMA",
-   "title": "Unsloth Qwen3.8-27B GGUFs",
-   "published_at": "2026-08-14T15:02:11+00:00",
-   "collected_at": "2026-08-14T16:00:36.863017+00:00",
-   "title_ko": "Qwen3.8-27B GGUF 포맷 배포",
-   "summary_ko": "로컬 구동을 위한 Qwen3.8-27B GGUF 포맷이 배포되어 저사양 하드웨어에서의 접근성이 좋아졌습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "AI 모델"
-   ]
-  },
-  {
-   "id": "d7705c2ed0170404",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vo9nn7/qwenqwen3827b_released/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen/Qwen3.8-27B · released",
-   "published_at": "2026-08-14T15:00:51+00:00",
-   "collected_at": "2026-08-14T16:00:36.863017+00:00",
-   "title_ko": "허깅페이스에 Qwen/Qwen3.8-27B 공식 출시",
-   "summary_ko": "허깅페이스 모델 허브에 Qwen3.8-27B가 공식 등록되어 누구나 다운로드하고 사용할 수 있게 되었습니다.",
-   "category": "속보",
    "tags": [
     "오픈소스",
     "AI 모델"
