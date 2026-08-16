@@ -76,6 +76,38 @@
   ]
  },
  {
+  "id": "8f281e6fbf46bdf1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq279o/based_on_an_accelerating_frontier_local/",
+  "source": "r/LocalLLaMA",
+  "title": "Based on an accelerating frontier -> local trajectory, expect a ~30b param 'Mythos at home' by as soon as Jan 2027 (rationalisation below)",
+  "published_at": "2026-08-16T16:55:55+00:00",
+  "collected_at": "2026-08-16T17:27:52.126600+00:00",
+  "title_ko": "2027년 초까지 고성능 오픈소스 소형 모델 등장 전망",
+  "summary_ko": "하드웨어 발전 속도를 고려할 때 일반 소비자용 기기에서도 최신 프론티어 모델 수준의 성능을 내는 오픈소스 모델이 2027년 초에 등장할 것이라는 전망이다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "하드웨어"
+  ]
+ },
+ {
+  "id": "d6cf8a00384c7939",
+  "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+  "source": "TechCrunch",
+  "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+  "published_at": "2026-08-16T16:53:51+00:00",
+  "collected_at": "2026-08-16T17:27:48.538532+00:00",
+  "title_ko": "앤스로픽 CEO \"AI 반발은 근본적으로 신뢰의 위기\"",
+  "summary_ko": "다리오 아모데이가 최근 AI 기술에 대한 사회적 반발과 비관적 전망에 대해 이는 기술 자체보다 신뢰의 부재에서 비롯된 위기라고 언급했다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "규제",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "911207630c3ce8cb",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214002",
   "source": "AI타임스",
@@ -92,6 +124,52 @@
   ]
  },
  {
+  "id": "5e3e75da4efbb161",
+  "url": "https://news.hada.io/topic?id=32553",
+  "source": "GeekNews",
+  "title": "Claude 시스템 프롬프트 변경 이력",
+  "published_at": "2026-08-16T16:41:28+00:00",
+  "collected_at": "2026-08-16T17:28:07.474885+00:00",
+  "title_ko": "클로드 시스템 프롬프트 변경 이력 분석",
+  "summary_ko": "클로드 웹 및 모바일 앱이 대화 시 전달하는 시스템 프롬프트와 응답 행동 지침의 변경 내역을 통해 응답 품질 개선 방향을 확인할 수 있다.",
+  "category": "참고",
+  "tags": [
+   "Claude",
+   "LLM",
+   "코딩"
+  ]
+ },
+ {
+  "id": "d69c589d27f695ef",
+  "url": "https://news.hada.io/topic?id=32552",
+  "source": "GeekNews",
+  "title": "소프트웨어 엔지니어링 기본기가 어느 때보다 중요해짐",
+  "published_at": "2026-08-16T16:38:28+00:00",
+  "collected_at": "2026-08-16T17:28:07.474885+00:00",
+  "title_ko": "AI 시대에 더욱 중요해진 소프트웨어 엔지니어링 기본기",
+  "summary_ko": "AI 에이전트와 모델이 코드를 구현하는 강력한 도구가 되었지만, 시스템 설계와 결합부를 결정하는 엔지니어링 판단력의 중요성은 더욱 커지고 있다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "7b46b4702a377d47",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq1n1l/lets_all_thank_georgi_gerganov_who_gave_use/",
+  "source": "r/LocalLLaMA",
+  "title": "Let’s all thank Georgi Gerganov who gave use llama.cpp",
+  "published_at": "2026-08-16T16:33:45+00:00",
+  "collected_at": "2026-08-16T17:27:52.126600+00:00",
+  "title_ko": "로컬 LLM 구동의 핵심 llama.cpp 개발 공로 조명",
+  "summary_ko": "개인용 컴퓨터에서 로컬 대형언어모델을 구동할 수 있도록 기여한 llama.cpp의 개발자 조르지 게르가노프의 업적이 재조명되고 있다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
   "id": "7ecec084700cceb9",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214001",
   "source": "AI타임스",
@@ -105,6 +183,22 @@
    "NVIDIA",
    "OpenAI",
    "투자"
+  ]
+ },
+ {
+  "id": "1865a5296eb4a6ad",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq128f/making_small_local_models_actually_useful_for/",
+  "source": "r/LocalLLaMA",
+  "title": "Making small local models actually useful for coding",
+  "published_at": "2026-08-16T16:11:14+00:00",
+  "collected_at": "2026-08-16T17:27:52.126600+00:00",
+  "title_ko": "소비자용 GPU에서 로컬 코딩 모델을 유용하게 활용하는 법",
+  "summary_ko": "제한된 VRAM 환경에서 소형 코딩 모델의 컨텍스트 관리와 툴 호출 실패 문제를 극복하고 일상적인 개발 작업에 활용하는 방법이 공유되었다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩",
+   "LLM"
   ]
  },
  {

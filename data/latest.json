@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-16T16:36:01.826072+00:00",
+ "updated_at": "2026-08-16T17:28:12.037794+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -80,6 +80,38 @@
    ]
   },
   {
+   "id": "8f281e6fbf46bdf1",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq279o/based_on_an_accelerating_frontier_local/",
+   "source": "r/LocalLLaMA",
+   "title": "Based on an accelerating frontier -> local trajectory, expect a ~30b param 'Mythos at home' by as soon as Jan 2027 (rationalisation below)",
+   "published_at": "2026-08-16T16:55:55+00:00",
+   "collected_at": "2026-08-16T17:27:52.126600+00:00",
+   "title_ko": "2027년 초까지 고성능 오픈소스 소형 모델 등장 전망",
+   "summary_ko": "하드웨어 발전 속도를 고려할 때 일반 소비자용 기기에서도 최신 프론티어 모델 수준의 성능을 내는 오픈소스 모델이 2027년 초에 등장할 것이라는 전망이다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "하드웨어"
+   ]
+  },
+  {
+   "id": "d6cf8a00384c7939",
+   "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+   "source": "TechCrunch",
+   "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+   "published_at": "2026-08-16T16:53:51+00:00",
+   "collected_at": "2026-08-16T17:27:48.538532+00:00",
+   "title_ko": "앤스로픽 CEO \"AI 반발은 근본적으로 신뢰의 위기\"",
+   "summary_ko": "다리오 아모데이가 최근 AI 기술에 대한 사회적 반발과 비관적 전망에 대해 이는 기술 자체보다 신뢰의 부재에서 비롯된 위기라고 언급했다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "규제",
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "911207630c3ce8cb",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214002",
    "source": "AI타임스",
@@ -96,6 +128,52 @@
    ]
   },
   {
+   "id": "5e3e75da4efbb161",
+   "url": "https://news.hada.io/topic?id=32553",
+   "source": "GeekNews",
+   "title": "Claude 시스템 프롬프트 변경 이력",
+   "published_at": "2026-08-16T16:41:28+00:00",
+   "collected_at": "2026-08-16T17:28:07.474885+00:00",
+   "title_ko": "클로드 시스템 프롬프트 변경 이력 분석",
+   "summary_ko": "클로드 웹 및 모바일 앱이 대화 시 전달하는 시스템 프롬프트와 응답 행동 지침의 변경 내역을 통해 응답 품질 개선 방향을 확인할 수 있다.",
+   "category": "참고",
+   "tags": [
+    "Claude",
+    "LLM",
+    "코딩"
+   ]
+  },
+  {
+   "id": "d69c589d27f695ef",
+   "url": "https://news.hada.io/topic?id=32552",
+   "source": "GeekNews",
+   "title": "소프트웨어 엔지니어링 기본기가 어느 때보다 중요해짐",
+   "published_at": "2026-08-16T16:38:28+00:00",
+   "collected_at": "2026-08-16T17:28:07.474885+00:00",
+   "title_ko": "AI 시대에 더욱 중요해진 소프트웨어 엔지니어링 기본기",
+   "summary_ko": "AI 에이전트와 모델이 코드를 구현하는 강력한 도구가 되었지만, 시스템 설계와 결합부를 결정하는 엔지니어링 판단력의 중요성은 더욱 커지고 있다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "7b46b4702a377d47",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq1n1l/lets_all_thank_georgi_gerganov_who_gave_use/",
+   "source": "r/LocalLLaMA",
+   "title": "Let’s all thank Georgi Gerganov who gave use llama.cpp",
+   "published_at": "2026-08-16T16:33:45+00:00",
+   "collected_at": "2026-08-16T17:27:52.126600+00:00",
+   "title_ko": "로컬 LLM 구동의 핵심 llama.cpp 개발 공로 조명",
+   "summary_ko": "개인용 컴퓨터에서 로컬 대형언어모델을 구동할 수 있도록 기여한 llama.cpp의 개발자 조르지 게르가노프의 업적이 재조명되고 있다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
    "id": "7ecec084700cceb9",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214001",
    "source": "AI타임스",
@@ -109,6 +187,22 @@
     "NVIDIA",
     "OpenAI",
     "투자"
+   ]
+  },
+  {
+   "id": "1865a5296eb4a6ad",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq128f/making_small_local_models_actually_useful_for/",
+   "source": "r/LocalLLaMA",
+   "title": "Making small local models actually useful for coding",
+   "published_at": "2026-08-16T16:11:14+00:00",
+   "collected_at": "2026-08-16T17:27:52.126600+00:00",
+   "title_ko": "소비자용 GPU에서 로컬 코딩 모델을 유용하게 활용하는 법",
+   "summary_ko": "제한된 VRAM 환경에서 소형 코딩 모델의 컨텍스트 관리와 툴 호출 실패 문제를 극복하고 일상적인 개발 작업에 활용하는 방법이 공유되었다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩",
+    "LLM"
    ]
   },
   {
@@ -184,6 +278,36 @@
    "tags": [
     "AI",
     "투자"
+   ]
+  },
+  {
+   "id": "2be4df40ae41f049",
+   "url": "https://www.reddit.com/r/singularity/comments/1vpxxv2/can_llms_realise_were_looking_at_a_problem_the/",
+   "source": "r/singularity",
+   "title": "Can LLMs realise we're looking at a problem the wrong way?",
+   "published_at": "2026-08-16T14:05:41+00:00",
+   "collected_at": "2026-08-16T17:28:05.260696+00:00",
+   "title_ko": "LLM이 기존 패러다임을 깨는 과학적 발견을 할 수 있을까",
+   "summary_ko": "기존 지식의 패턴을 학습하는 LLM이 인간처럼 기존의 가정과 전제를 거부하는 근본적인 과학적·수학적 혁신을 이뤄낼 수 있을지에 대한 논의이다.",
+   "category": "참고",
+   "tags": [
+    "LLM",
+    "AI"
+   ]
+  },
+  {
+   "id": "933241fb2c920eda",
+   "url": "https://www.reddit.com/r/singularity/comments/1vpxx90/what_ai_x_biology_developments_should_we_be/",
+   "source": "r/singularity",
+   "title": "What AI x Biology developments should we be watching?",
+   "published_at": "2026-08-16T14:05:02+00:00",
+   "collected_at": "2026-08-16T17:28:05.260696+00:00",
+   "title_ko": "주목해야 할 AI 바이오 분야 동향과 응용",
+   "summary_ko": "신약 개발 외에도 건강 보조제, 생체 활성 화합물 등 실생활에 적용할 수 있는 다양한 AI 기반 생명과학 프로젝트와 연구 동향에 대한 관심이 높아지고 있다.",
+   "category": "참고",
+   "tags": [
+    "AI",
+    "바이오"
    ]
   },
   {
@@ -369,6 +493,22 @@
    ]
   },
   {
+   "id": "edfb27c531e3280d",
+   "url": "https://www.reddit.com/r/singularity/comments/1vpum1k/antiai_activists_storm_openais_office_dressed_as/",
+   "source": "r/singularity",
+   "title": "Anti-AI activists storm OpenAI’s office dressed as “rogue AI agents.”",
+   "published_at": "2026-08-16T11:28:37+00:00",
+   "collected_at": "2026-08-16T17:28:05.260696+00:00",
+   "title_ko": "오픈아이에이치 사옥에서 '불량 AI 에이전트' 분장 시위 발생",
+   "summary_ko": "반AI 활동가들이 오픈AI 사무실에 난입해 불량 AI 에이전트를 모티브로 한 분장 시위를 벌였다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "규제",
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "b7f0712253bad375",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpujkc/geniestyle_playable_world_model_running_720p_at/",
    "source": "r/LocalLLaMA",
@@ -429,6 +569,21 @@
     "Qwen",
     "NVIDIA",
     "오픈소스"
+   ]
+  },
+  {
+   "id": "9ca5d9558dca2f1c",
+   "url": "https://www.reddit.com/r/singularity/comments/1vpu207/whats_your_opinion_on_laundry_folding_machine/",
+   "source": "r/singularity",
+   "title": "What's your opinion on laundry folding machine?",
+   "published_at": "2026-08-16T10:57:51+00:00",
+   "collected_at": "2026-08-16T17:28:05.260696+00:00",
+   "title_ko": "비전 AI를 탑재한 빨래 개기 로봇의 실효성 논의",
+   "summary_ko": "비전 AI와 로봇 팔을 결합해 의류를 인식하고 다림질 및 정리까지 자동으로 수행하는 가전 기기의 실현 가능성과 가치에 대한 논의가 이어지고 있다.",
+   "category": "참고",
+   "tags": [
+    "로보틱스",
+    "AI"
    ]
   },
   {
@@ -2864,160 +3019,6 @@
    "tags": [
     "오픈소스",
     "AI 모델"
-   ]
-  },
-  {
-   "id": "5699aa5f2ebbd232",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vo9nga/return_of_the_local_king_qwen3827b_performance/",
-   "source": "r/LocalLLaMA",
-   "title": "Return of the local King! Qwen3.8-27B performance chart",
-   "published_at": "2026-08-14T15:00:42+00:00",
-   "collected_at": "2026-08-14T16:00:36.863017+00:00",
-   "title_ko": "강력한 로컬 모델 Qwen3.8-27B 성능 화제",
-   "summary_ko": "새로 출시된 Qwen3.8-27B가 뛰어난 텍스트 및 비전 성능을 보여주며 로컬 AI 진영에서 큰 호평을 받고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "AI 모델"
-   ]
-  },
-  {
-   "id": "b4ea0d385a9b06f8",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vo9n0p/qwen3827b_released/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.8-27B Released!",
-   "published_at": "2026-08-14T15:00:19+00:00",
-   "collected_at": "2026-08-14T15:01:35.318472+00:00",
-   "title_ko": "Qwen 3.8 27B 오픈소스 모델 출시",
-   "summary_ko": "Alibaba에서 고성능 오픈소스 언어모델 Qwen 3.8의 27B 버전을 공개했습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "Qwen"
-   ]
-  },
-  {
-   "id": "afb6d0b8250661bc",
-   "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-   "source": "Hacker News",
-   "title": "Qwen 3.8 27B",
-   "published_at": "2026-08-14T15:00:00+00:00",
-   "collected_at": "2026-08-14T17:02:30.604603+00:00",
-   "title_ko": "허깅페이스에 공개된 Qwen 3.8 27B 모델",
-   "summary_ko": "허깅페이스에 Qwen 3.8 27B FP8 모델이 등록되며 개발자들과 커뮤니티의 큰 관심을 받고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "e008cb1a53f4bd85",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vo9mj4/its_out/",
-   "source": "r/LocalLLaMA",
-   "title": "IT'S OUT",
-   "published_at": "2026-08-14T14:59:51+00:00",
-   "collected_at": "2026-08-14T15:01:35.318472+00:00",
-   "title_ko": "신규 오픈소스 LLM 출시",
-   "summary_ko": "개발자 커뮤니티에서 새로운 오픈소스 AI 모델의 출시를 환영하고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "9dee1bd18bafdb5c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vo9k39/less_than_a_month_kimi_k3_qwen38/",
-   "source": "r/LocalLLaMA",
-   "title": "Less Than a Month: Kimi K3, Qwen3.8, DeepSeek-V4-Pro-0813, GLM-5.3",
-   "published_at": "2026-08-14T14:57:10+00:00",
-   "collected_at": "2026-08-14T15:01:35.318472+00:00",
-   "title_ko": "중국 AI 모델 연이은 대거 출시",
-   "summary_ko": "한 달 사이에 Kimi K3, Qwen 3.8, DeepSeek-V4 등 대형 중국 AI 모델들이 동시다발적으로 공개되었습니다.",
-   "category": "중요",
-   "tags": [
-    "LLM",
-    "오픈소스",
-    "DeepSeek"
-   ]
-  },
-  {
-   "id": "5f4cacaaf2bf7e98",
-   "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-   "source": "TechCrunch",
-   "title": "Kog is going deeper to squeeze more inference out of GPUs",
-   "published_at": "2026-08-14T14:50:11+00:00",
-   "collected_at": "2026-08-14T15:01:12.014786+00:00",
-   "title_ko": "프랑스 스타트업 Kog, GPU 추론 효율 극대화 추진",
-   "summary_ko": "GPU가 에이전틱 워크플로우에 부적합하다는 통념을 깨고 추론 성능을 극대화하려는 시도가 주목받고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "반도체",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "1beb1f37396c4677",
-   "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
-   "source": "Hacker News",
-   "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-   "published_at": "2026-08-14T14:34:49+00:00",
-   "collected_at": "2026-08-14T16:00:36.060036+00:00",
-   "title_ko": "AI 연구소들의 지적 오만함에 대한 비판",
-   "summary_ko": "최근 AI 업계 리딩 연구소들이 보이는 태도와 전략의 한계를 분석한 글이 해커뉴스에서 주목받고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "Anthropic"
-   ]
-  },
-  {
-   "id": "e237e8487c8969c4",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vo8y3v/does_anyone_have_a_local_benching_harness_to_try/",
-   "source": "r/LocalLLaMA",
-   "title": "Does anyone have a local benching harness to try out with Qwen 3.8 27b?",
-   "published_at": "2026-08-14T14:33:22+00:00",
-   "collected_at": "2026-08-14T15:01:35.318472+00:00",
-   "title_ko": "Qwen 3.8 27B 로컬 벤치마크 평가 문의",
-   "summary_ko": "새로 출시된 Qwen 모델의 처리 속도와 성능을 검증하기 위한 로컬 벤치마크 도구 공유가 논의되고 있습니다.",
-   "category": "팁",
-   "tags": [
-    "LLM",
-    "Qwen"
-   ]
-  },
-  {
-   "id": "f7e58f97ef14b49f",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vo8t8x/taking_qwen359b_quants_to_sota_new_lineup_incoming/",
-   "source": "r/LocalLLaMA",
-   "title": "Taking Qwen3.5-9B quants to SOTA. New lineup incoming :)",
-   "published_at": "2026-08-14T14:28:14+00:00",
-   "collected_at": "2026-08-14T15:01:35.318472+00:00",
-   "title_ko": "Qwen 3.5 9B 양자화 성능 개선판 공개",
-   "summary_ko": "기존 모델 대비 성능을 대폭 끌어올린 새로운 양자화(quantization) 파일 라인업이 공개되었습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "Qwen"
-   ]
-  },
-  {
-   "id": "6c975d4feeb5c0dc",
-   "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-   "source": "Ars Technica",
-   "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-   "published_at": "2026-08-14T14:27:14+00:00",
-   "collected_at": "2026-08-14T16:00:20.818494+00:00",
-   "title_ko": "중국 AI 공세에 오픈AI·앤스로픽 가격 전쟁 돌입",
-   "summary_ko": "중국 AI 기업들의 가파른 추격에 대응하기 위해 미국 주요 AI 기업들이 저렴한 모델을 잇따라 출시하며 가격 경쟁을 벌이고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "Anthropic",
-    "투자"
    ]
   }
  ]
