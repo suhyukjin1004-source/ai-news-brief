@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-16T05:37:23.343840+00:00",
+ "updated_at": "2026-08-16T06:53:50.805248+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -61,6 +61,38 @@
     "NVIDIA",
     "OpenAI",
     "반도체"
+   ]
+  },
+  {
+   "id": "bbe61f4039caf758",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vppox6/qwen3827b_abliterated_fp8_refusal_6499_06_and/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8-27B abliterated FP8: refusal 64–99% → 0–6%, and MMLU/GSM8K move less than 1.3 points",
+   "published_at": "2026-08-16T06:37:02+00:00",
+   "collected_at": "2026-08-16T06:53:34.935833+00:00",
+   "title_ko": "Qwen3.8-27B FP8 무해화 버전 공개",
+   "summary_ko": "Qwen3.8-27B 모델의 안전장치를 해제한 FP8 버전이 공개되었습니다. 성능 저하 없이 거부율이 대폭 낮아진 것이 특징입니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "Qwen"
+   ]
+  },
+  {
+   "id": "2b3da24d136e3fa1",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpotfv/anyone_managed_to_get_qwen_38_27b_running/",
+   "source": "r/LocalLLaMA",
+   "title": "Anyone managed to get Qwen 3.8 27B running smoothly on vLLM? Can't get rid of endless thinking",
+   "published_at": "2026-08-16T05:47:44+00:00",
+   "collected_at": "2026-08-16T06:53:34.935833+00:00",
+   "title_ko": "vLLM에서 Qwen 3.8 27B 추론 지연 이슈",
+   "summary_ko": "vLLM을 이용해 Qwen 3.8 27B를 구동할 때 과도한 사고 과정으로 인해 응답이 수 분씩 지연되는 현상이 보고되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "vLLM"
    ]
   },
   {
@@ -2968,36 +3000,6 @@
     "GLM",
     "코딩",
     "오픈소스"
-   ]
-  },
-  {
-   "id": "e3b5efcb9f4330c6",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnyiqa/its_actually_crazy_how_good_dsv4_flash_0731_is/",
-   "source": "r/LocalLLaMA",
-   "title": "It's actually crazy how good DSv4 Flash 0731 is",
-   "published_at": "2026-08-14T05:37:05+00:00",
-   "collected_at": "2026-08-14T06:22:02.981021+00:00",
-   "title_ko": "DeepSeek v4 Flash 0731 성능 및 가성비 주목",
-   "summary_ko": "일반 데스크톱 환경에서도 구동 가능한 고성능 모델로, 뛰어난 가성비와 성능을 보여주어 개발자들 사이에서 화제입니다.",
-   "category": "참고",
-   "tags": [
-    "DeepSeek",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "bef5500e4d1cff1b",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vny9zs/glm_53_released/",
-   "source": "r/LocalLLaMA",
-   "title": "GLM 5.3 Released",
-   "published_at": "2026-08-14T05:23:43+00:00",
-   "collected_at": "2026-08-14T06:22:02.981021+00:00",
-   "title_ko": "Zhipu AI, 새로운 코딩 모델 GLM-5.3 공개",
-   "summary_ko": "고도화된 코딩 능력과 새로운 기능을 탑재한 GLM-5.3 공식 발표되었습니다.",
-   "category": "속보",
-   "tags": [
-    "GLM",
-    "코딩"
    ]
   }
  ]
