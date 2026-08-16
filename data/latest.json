@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-16T12:55:28.066406+00:00",
+ "updated_at": "2026-08-16T13:38:36.824955+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -109,6 +109,53 @@
     "NVIDIA",
     "OpenAI",
     "투자"
+   ]
+  },
+  {
+   "id": "ad7c44384a9f1ace",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpwyem/lets_play_guess_the_model/",
+   "source": "r/LocalLLaMA",
+   "title": "Let's play : guess the model",
+   "published_at": "2026-08-16T13:22:57+00:00",
+   "collected_at": "2026-08-16T13:38:20.232112+00:00",
+   "title_ko": "LLM 추론 능력을 테스트하는 애니메이션 3D 씬 프롬프트 챌린지",
+   "summary_ko": "비전 없이 텍스트 프롬프트만으로 복잡한 3D 씬을 연산하게 만들어 주요 LLM들의 추론 성능을 비교한 글입니다. 모델별 한계와 성능 차이를 직관적으로 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "Claude",
+    "GPT",
+    "Qwen"
+   ]
+  },
+  {
+   "id": "7401a40e989dc9ab",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpwfpe/quick_psa_qwen3827b_reasoning_effort_vs_reasoning/",
+   "source": "r/LocalLLaMA",
+   "title": "Quick PSA: Qwen3.8-27B reasoning effort vs reasoning budget in llama.cpp",
+   "published_at": "2026-08-16T12:59:26+00:00",
+   "collected_at": "2026-08-16T13:38:20.232112+00:00",
+   "title_ko": "llama.cpp에서 Qwen3.8-27B 추론 예산 설정 시 주의사항",
+   "summary_ko": "llama-server의 웹 UI에서 제공하는 추론 선택기는 네이티브 추론 강도가 아닌 하드 캡(상한선)으로 작동하므로 설정을 잘못하면 추론이 잘릴 수 있다는 팁입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "Qwen",
+    "코딩"
+   ]
+  },
+  {
+   "id": "b309ea7656abc8db",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpwcnf/the_dream_is_to_reach_200gb_vram/",
+   "source": "r/LocalLLaMA",
+   "title": "The dream is to reach 200GB VRAM",
+   "published_at": "2026-08-16T12:55:30+00:00",
+   "collected_at": "2026-08-16T13:38:20.232112+00:00",
+   "title_ko": "200GB VRAM 구축을 위한 로컬 하드웨어 구성 사례",
+   "summary_ko": "다양한 RTX 프로 및 소비자용 그래픽 카드를 조합하여 파워 서플라이 용량 내에서 총 200GB의 VRAM을 달성하려는 로컬 LLM 마니아의 하드웨어 빌드 팁입니다.",
+   "category": "팁",
+   "tags": [
+    "반도체",
+    "오픈소스"
    ]
   },
   {
@@ -2968,51 +3015,6 @@
    "tags": [
     "오픈소스",
     "반도체"
-   ]
-  },
-  {
-   "id": "4e5f273594d83548",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213942",
-   "source": "AI타임스",
-   "title": "오픈AI, 코덱스 활성 사용자 1500만명 돌파...3주 만에 500만 추가",
-   "published_at": "2026-08-14T13:03:51+00:00",
-   "collected_at": "2026-08-14T04:56:47.614862+00:00",
-   "title_ko": "오픈AI 코덱스, 활성 사용자 1500만 명 돌파",
-   "summary_ko": "오픈소스 코딩 에이전트 코덱스의 사용자가 3주 만에 500만 명이 추가되며 빠른 성장세를 보이고 있다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "GPT",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "708f47b1461e9e9e",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213948",
-   "source": "AI타임스",
-   "title": "데이원컴퍼니 “AX 사업 본격화…기업 현장 직접 투입 ‘FDE’ 전략”",
-   "published_at": "2026-08-14T12:57:14+00:00",
-   "collected_at": "2026-08-14T04:56:47.614862+00:00",
-   "title_ko": "데이원컴퍼니, 기업 AX 전문 스페이스와이 인수",
-   "summary_ko": "데이원컴퍼니가 엔터프라이즈 AX 테크 스타트업을 인수하며 기업 현장 중심의 AI 전환 사업을 본격화한다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "9351d217fcc8e429",
-   "url": "https://hashagent.pages.dev/",
-   "source": "Hacker News",
-   "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
-   "published_at": "2026-08-14T12:57:02+00:00",
-   "collected_at": "2026-08-15T09:34:31.879631+00:00",
-   "title_ko": "URL로 공유하고 WebGPU로 실행하는 HashAgent 출시",
-   "summary_ko": "별도의 서버 설정 없이 URL을 통해 AI 에이전트를 공유하고 사용자의 로컬 환경에서 WebGPU를 통해 실행할 수 있는 도구가 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
    ]
   }
  ]

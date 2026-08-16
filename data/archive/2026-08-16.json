@@ -1,5 +1,52 @@
 [
  {
+  "id": "ad7c44384a9f1ace",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpwyem/lets_play_guess_the_model/",
+  "source": "r/LocalLLaMA",
+  "title": "Let's play : guess the model",
+  "published_at": "2026-08-16T13:22:57+00:00",
+  "collected_at": "2026-08-16T13:38:20.232112+00:00",
+  "title_ko": "LLM 추론 능력을 테스트하는 애니메이션 3D 씬 프롬프트 챌린지",
+  "summary_ko": "비전 없이 텍스트 프롬프트만으로 복잡한 3D 씬을 연산하게 만들어 주요 LLM들의 추론 성능을 비교한 글입니다. 모델별 한계와 성능 차이를 직관적으로 보여줍니다.",
+  "category": "참고",
+  "tags": [
+   "Claude",
+   "GPT",
+   "Qwen"
+  ]
+ },
+ {
+  "id": "7401a40e989dc9ab",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpwfpe/quick_psa_qwen3827b_reasoning_effort_vs_reasoning/",
+  "source": "r/LocalLLaMA",
+  "title": "Quick PSA: Qwen3.8-27B reasoning effort vs reasoning budget in llama.cpp",
+  "published_at": "2026-08-16T12:59:26+00:00",
+  "collected_at": "2026-08-16T13:38:20.232112+00:00",
+  "title_ko": "llama.cpp에서 Qwen3.8-27B 추론 예산 설정 시 주의사항",
+  "summary_ko": "llama-server의 웹 UI에서 제공하는 추론 선택기는 네이티브 추론 강도가 아닌 하드 캡(상한선)으로 작동하므로 설정을 잘못하면 추론이 잘릴 수 있다는 팁입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "Qwen",
+   "코딩"
+  ]
+ },
+ {
+  "id": "b309ea7656abc8db",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpwcnf/the_dream_is_to_reach_200gb_vram/",
+  "source": "r/LocalLLaMA",
+  "title": "The dream is to reach 200GB VRAM",
+  "published_at": "2026-08-16T12:55:30+00:00",
+  "collected_at": "2026-08-16T13:38:20.232112+00:00",
+  "title_ko": "200GB VRAM 구축을 위한 로컬 하드웨어 구성 사례",
+  "summary_ko": "다양한 RTX 프로 및 소비자용 그래픽 카드를 조합하여 파워 서플라이 용량 내에서 총 200GB의 VRAM을 달성하려는 로컬 LLM 마니아의 하드웨어 빌드 팁입니다.",
+  "category": "팁",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "c0ea7bd85f9595ab",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpw006/huihuiai_qwen_38_ablit_available/",
   "source": "r/LocalLLaMA",
