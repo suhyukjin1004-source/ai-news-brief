@@ -1,5 +1,20 @@
 [
  {
+  "id": "fa82b105374dc563",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpxbm8/newer_commits_removed_the_qwen_35b/",
+  "source": "r/LocalLLaMA",
+  "title": "Newer commits removed the Qwen 35B",
+  "published_at": "2026-08-16T13:39:26+00:00",
+  "collected_at": "2026-08-16T14:32:32.862931+00:00",
+  "title_ko": "Qwen 35B 모델 커밋 삭제 논란",
+  "summary_ko": "최근 깃허브 커밋에서 Qwen 35B 모델이 삭제되어 출시 무산 가능성이 제기되었습니다. 커뮤니티에서는 사용자들의 적극적인 피드백 필요성을 주장하고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
   "id": "ad7c44384a9f1ace",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpwyem/lets_play_guess_the_model/",
   "source": "r/LocalLLaMA",
@@ -59,6 +74,21 @@
   "tags": [
    "오픈소스",
    "Qwen"
+  ]
+ },
+ {
+  "id": "4d444705ce742e1e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpvwqh/qwen3827bint4autoround_18gb_with_working_mtp_spec/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-27B-int4-AutoRound (18GB) - with working MTP spec decode",
+  "published_at": "2026-08-16T12:34:37+00:00",
+  "collected_at": "2026-08-16T14:32:32.862931+00:00",
+  "title_ko": "Qwen3.8-27B 양자화 모델 공개",
+  "summary_ko": "MTP 스펙 디코딩을 지원하는 Qwen3.8-27B-int4-AutoRound 모델이 18GB 용량으로 공개되었습니다. 로컬 환경에서의 LLM 활용성이 높아질 것으로 기대됩니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
   ]
  },
  {

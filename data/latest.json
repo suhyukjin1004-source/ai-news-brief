@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-16T13:38:36.824955+00:00",
+ "updated_at": "2026-08-16T14:32:48.949041+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -112,6 +112,21 @@
    ]
   },
   {
+   "id": "fa82b105374dc563",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpxbm8/newer_commits_removed_the_qwen_35b/",
+   "source": "r/LocalLLaMA",
+   "title": "Newer commits removed the Qwen 35B",
+   "published_at": "2026-08-16T13:39:26+00:00",
+   "collected_at": "2026-08-16T14:32:32.862931+00:00",
+   "title_ko": "Qwen 35B 모델 커밋 삭제 논란",
+   "summary_ko": "최근 깃허브 커밋에서 Qwen 35B 모델이 삭제되어 출시 무산 가능성이 제기되었습니다. 커뮤니티에서는 사용자들의 적극적인 피드백 필요성을 주장하고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
    "id": "ad7c44384a9f1ace",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpwyem/lets_play_guess_the_model/",
    "source": "r/LocalLLaMA",
@@ -171,6 +186,21 @@
    "tags": [
     "오픈소스",
     "Qwen"
+   ]
+  },
+  {
+   "id": "4d444705ce742e1e",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpvwqh/qwen3827bint4autoround_18gb_with_working_mtp_spec/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8-27B-int4-AutoRound (18GB) - with working MTP spec decode",
+   "published_at": "2026-08-16T12:34:37+00:00",
+   "collected_at": "2026-08-16T14:32:32.862931+00:00",
+   "title_ko": "Qwen3.8-27B 양자화 모델 공개",
+   "summary_ko": "MTP 스펙 디코딩을 지원하는 Qwen3.8-27B-int4-AutoRound 모델이 18GB 용량으로 공개되었습니다. 로컬 환경에서의 LLM 활용성이 높아질 것으로 기대됩니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
    ]
   },
   {
@@ -2988,33 +3018,6 @@
    "tags": [
     "AI 에이전트",
     "코딩"
-   ]
-  },
-  {
-   "id": "0b69dd10b5505f83",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213951",
-   "source": "AI타임스",
-   "title": "소크라 AI, 토플 학습 서비스로 인도·파키스탄·일본 진출",
-   "published_at": "2026-08-14T13:22:18+00:00",
-   "collected_at": "2026-08-14T04:56:47.614862+00:00",
-   "title_ko": "소크라 AI, AI 토플 학습 서비스 아시아 진출",
-   "summary_ko": "소크라 AI가 ETS 공식 알고리즘 기반 첨삭 서비스를 앞세워 인도와 파키스탄 등 글로벌 B2B 시장을 공략한다.",
-   "category": "참고",
-   "tags": []
-  },
-  {
-   "id": "86af1c67838db083",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vo6vvs/bitsandbytes_creator_teasing_new_quantization/",
-   "source": "r/LocalLLaMA",
-   "title": "bitsandbytes creator teasing new quantization method: GLM 5.3 on a single DGX Spark at 7t/s",
-   "published_at": "2026-08-14T13:10:39+00:00",
-   "collected_at": "2026-08-14T13:24:53.633331+00:00",
-   "title_ko": "팀 데트머스의 새로운 양자화 방법 예고",
-   "summary_ko": "bitsandbytes 개발자인 팀 데트머스가 단일 하드웨어에서 대형 모델을 구동할 수 있는 새로운 양자화 방법론을 시사했습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "반도체"
    ]
   }
  ]
