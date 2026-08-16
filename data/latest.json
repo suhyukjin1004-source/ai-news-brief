@@ -1,8 +1,39 @@
 {
- "updated_at": "2026-08-16T20:33:08.257810+00:00",
+ "updated_at": "2026-08-16T21:28:57.777883+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "1e88a402faf7245d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq8rsf/qwen_38_9b/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen 3.8 9b?",
+   "published_at": "2026-08-16T21:10:53+00:00",
+   "collected_at": "2026-08-16T21:28:40.999666+00:00",
+   "title_ko": "Qwen 3.8 9B 모델 관련 루머 및 논의",
+   "summary_ko": "알리바바의 Qwen 시리즈 차기 모델로 추정되는 9B 모델에 대한 커뮤니티의 관심과 토론이 이어지고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "943d4b7d862e9ee3",
+   "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+   "source": "TechCrunch",
+   "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+   "published_at": "2026-08-16T20:57:04+00:00",
+   "collected_at": "2026-08-16T21:28:36.948142+00:00",
+   "title_ko": "스트라이프, AI 게이트웨이 스타트업 오픈라우터 70억 달러 이상에 인수 추진",
+   "summary_ko": "결제 거인 스트라이프가 AI API 통합 플랫폼인 오픈라우터를 70억 달러 이상에 인수할 것으로 보이며, 이는 AI 인프라 시장의 급격한 성장을 보여줍니다.",
+   "category": "중요",
+   "tags": [
+    "인수합병",
+    "AI 인프라",
+    "투자"
+   ]
+  },
   {
    "id": "25e650ae358e19b6",
    "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
@@ -104,6 +135,21 @@
    "tags": [
     "오픈소스",
     "코딩"
+   ]
+  },
+  {
+   "id": "08e6169d681d04d1",
+   "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+   "source": "Hacker News",
+   "title": "Models Are Getting Dumber on Purpose",
+   "published_at": "2026-08-16T19:04:26+00:00",
+   "collected_at": "2026-08-16T21:28:39.908587+00:00",
+   "title_ko": "일부 AI 모델들이 의도적으로 성능을 낮추고 있다는 분석",
+   "summary_ko": "AI 모델들이 비용 절감이나 안전성 등의 이유로 의도적으로 성능이 저하된 답변을 내놓고 있다는 주장이 제기되었습니다.",
+   "category": "참고",
+   "tags": [
+    "LLM",
+    "AI 성능"
    ]
   },
   {
@@ -2967,53 +3013,6 @@
    "tags": [
     "인공지능",
     "학습"
-   ]
-  },
-  {
-   "id": "a68c6ecff706595c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vob107/poll_results_6_months_later_when_will_we_have/",
-   "source": "r/LocalLLaMA",
-   "title": "Poll results 6 months later: When will we have Opus level with 30b model? Optimists win!",
-   "published_at": "2026-08-14T15:51:49+00:00",
-   "collected_at": "2026-08-14T17:02:43.929445+00:00",
-   "title_ko": "30B급 오픈소스 모델의 발전 속도에 대한 커뮤니티 투표 결과",
-   "summary_ko": "초고성능 모델 수준에 도달하는 30B급 오픈소스 모델의 등장 시기를 묻는 설문에서 낙관론자들이 예상보다 빠른 발전 속도를 맞추었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "투자"
-   ]
-  },
-  {
-   "id": "09cd4c66e1c4693e",
-   "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-   "source": "TechCrunch",
-   "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-   "published_at": "2026-08-14T15:43:28+00:00",
-   "collected_at": "2026-08-14T16:00:20.207671+00:00",
-   "title_ko": "메타, 오픈웨이트 AI 모델 '글리머' 공개",
-   "summary_ko": "메타가 누구나 다운로드해 실행할 수 있는 오픈웨이트 모델 글리머를 공개하며 AI 대중화 의지를 밝혔습니다. 개방형 AI 생태계 확산에 중요한 이정표가 될 전망입니다.",
-   "category": "중요",
-   "tags": [
-    "Meta",
-    "오픈소스",
-    "AI 모델"
-   ]
-  },
-  {
-   "id": "543d69cb31ad761d",
-   "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-   "source": "Hacker News",
-   "title": "Google is making private AI practical with homomorphic encryption",
-   "published_at": "2026-08-14T15:43:10+00:00",
-   "collected_at": "2026-08-14T18:00:47.650714+00:00",
-   "title_ko": "구글, 동형 암호화로 프라이버시 보호 AI 실현",
-   "summary_ko": "구글이 동형 암호화 기술을 적용해 사용자 프라이버시를 완벽히 보호하면서 AI를 활용할 수 있는 방안을 공개했습니다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "보안"
    ]
   }
  ]
