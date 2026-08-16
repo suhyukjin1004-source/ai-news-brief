@@ -1,5 +1,107 @@
 [
  {
+  "id": "dc3e48151803088d",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214003",
+  "source": "AI타임스",
+  "title": "앤트로픽, 2028년 매출 2000억달러 제시…'2조달러 IPO' 몸값 기준 됐다",
+  "published_at": "2026-08-16T09:33:02+00:00",
+  "collected_at": "2026-08-16T01:52:37.603030+00:00",
+  "title_ko": "앤트로픽, 2028년 매출 2000억 달러 전망 및 IPO 추진",
+  "summary_ko": "앤트로픽이 대규모 기업공개(IPO)를 추진하며 월가에 파격적인 2028년 매출 전망을 제시했습니다. 이를 바탕으로 2조 달러 규모의 상장 가치 산정이 이루어지고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "투자"
+  ]
+ },
+ {
+  "id": "605b1bd4cd49f30f",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214000",
+  "source": "AI타임스",
+  "title": "엔비디아, 오픈AI 오하이오 데이터센터 보증 지원 '절반 축소'",
+  "published_at": "2026-08-16T09:08:33+00:00",
+  "collected_at": "2026-08-16T01:52:37.603030+00:00",
+  "title_ko": "엔비디아, 오픈AI 오하이오 데이터센터 보증 지원 축소",
+  "summary_ko": "엔비디아가 오픈AI의 대규모 데이터센터 구축 프로젝트를 위한 신용 보증 규모를 초기 구상 대비 절반 수준으로 축소하는 협상을 진행 중입니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "OpenAI",
+   "반도체"
+  ]
+ },
+ {
+  "id": "5b8d6b17cd39c5ca",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpiyj9/qwen3827b_vs_qwen3627b_writing_raytracers_in_basic/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-27B vs Qwen3.6-27B writing ray-tracers in BASIC",
+  "published_at": "2026-08-16T00:45:04+00:00",
+  "collected_at": "2026-08-16T01:52:24.272086+00:00",
+  "title_ko": "Qwen3.8-27B 모델의 코딩 및 에이전트 성능 향상",
+  "summary_ko": "이전 모델인 Qwen3.6에 비해 Qwen3.8-27B가 BASIC 코딩 및 레이트레이서 구현 등 자율 에이전트 작업에서 훨씬 뛰어난 성능을 보여줍니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "eb44be3937fd1e0e",
+  "url": "https://news.hada.io/topic?id=32545",
+  "source": "GeekNews",
+  "title": "celld - 셀프호스팅 가능한 분산 Durable Objects",
+  "published_at": "2026-08-16T00:30:02+00:00",
+  "collected_at": "2026-08-16T01:52:38.754177+00:00",
+  "title_ko": "Deno, 오픈소스 셀프호스팅 분산 런타임 'celld' 공개",
+  "summary_ko": "Cloudflare Workers와 Durable Objects 모델을 자체 서버에서 실행할 수 있게 해주는 오픈소스 런타임 celld가 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "8b95ab4f7834667f",
+  "url": "https://news.hada.io/topic?id=32544",
+  "source": "GeekNews",
+  "title": "Graph 엔지니어링 vs Loop 엔지니어링: 실제로 달라진 것은 무엇인가",
+  "published_at": "2026-08-16T00:15:02+00:00",
+  "collected_at": "2026-08-16T01:52:38.754177+00:00",
+  "title_ko": "그래프 엔지니어링과 에이전트 루프의 관계 분석",
+  "summary_ko": "여러 에이전트 루프를 하나의 작업 흐름으로 연결하는 오케스트레이션 개념인 그래프 엔지니어링의 역할과 의미를 분석했습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "cbe8b5afde34ee5b",
+  "url": "https://news.hada.io/topic?id=32543",
+  "source": "GeekNews",
+  "title": "내가 여전히 회의적인 이유",
+  "published_at": "2026-08-16T00:01:57+00:00",
+  "collected_at": "2026-08-16T01:52:38.754177+00:00",
+  "title_ko": "LLM의 소프트웨어 개발 실효성에 대한 회의론",
+  "summary_ko": "LLM 혁명에도 불구하고 실제 비자명한 소프트웨어 개발 품질이나 보안이 뚜렷하게 개선되지 않았다는 회의적인 시각을 다룹니다.",
+  "category": "참고",
+  "tags": [
+   "코딩"
+  ]
+ },
+ {
+  "id": "a384b5538544c542",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vphr8u/sota_apple_silicon_inference_august_15_2026/",
+  "source": "r/LocalLLaMA",
+  "title": "SOTA Apple Silicon Inference (August 15, 2026)",
+  "published_at": "2026-08-15T23:48:29+00:00",
+  "collected_at": "2026-08-16T01:52:24.272086+00:00",
+  "title_ko": "애플 실리콘에서의 로컬 LLM 추론 최적화 현황",
+  "summary_ko": "맥(Mac) 환경에서 최신 로컬 모델을 구동할 때 겪는 최적화 한계와 CUDA 환경과의 소프트웨어 스택 격차를 분석했습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "ea65578f1224a173",
   "url": "https://news.hada.io/topic?id=32540",
   "source": "GeekNews",
@@ -12,6 +114,20 @@
   "tags": [
    "AI 에이전트",
    "코딩"
+  ]
+ },
+ {
+  "id": "12ebcfa2b271031e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpfrxw/llamacpp_windows_manager/",
+  "source": "r/LocalLLaMA",
+  "title": "llama.cpp Windows Manager",
+  "published_at": "2026-08-15T22:17:03+00:00",
+  "collected_at": "2026-08-16T01:52:24.272086+00:00",
+  "title_ko": "윈도우용 llama.cpp 관리 도구 공개",
+  "summary_ko": "윈도우 환경에서 llama.cpp 런타임을 시각적으로 관리하고 여러 로컬 엔드포인트를 쉽게 전환할 수 있는 오픈소스 관리 도구가 소개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
   ]
  },
  {
