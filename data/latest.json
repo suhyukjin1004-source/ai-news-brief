@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-16T04:45:14.171283+00:00",
+ "updated_at": "2026-08-16T05:37:23.343840+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -61,6 +61,22 @@
     "NVIDIA",
     "OpenAI",
     "반도체"
+   ]
+  },
+  {
+   "id": "96834750b436c1a4",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpncov/5090_windows_or_linux_for_qwen3827b/",
+   "source": "r/LocalLLaMA",
+   "title": "5090: Windows or Linux for Qwen3.8.27b",
+   "published_at": "2026-08-16T04:28:06+00:00",
+   "collected_at": "2026-08-16T05:37:08.099259+00:00",
+   "title_ko": "RTX 5090 환경에서 Qwen 구동을 위한 OS 및 추론 서버 추천",
+   "summary_ko": "고사양 AI PC에서 Qwen 모델의 성능을 극대화하기 위해 Windows와 Linux 중 최적의 운영체제와 추론 서버 조합을 묻는 사용자 문의입니다. 로컬 LLM 구동 환경 최적화에 참고가 됩니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "NVIDIA",
+    "로컬LLM"
    ]
   },
   {
@@ -2981,21 +2997,6 @@
    "category": "속보",
    "tags": [
     "GLM",
-    "코딩"
-   ]
-  },
-  {
-   "id": "a53eec201c306ec1",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vny9r5/deepseek_v4_flash_0731_oneshots_tetris_under/",
-   "source": "r/LocalLLaMA",
-   "title": "DeepSeek v4 Flash 0731 Oneshots Tetris under Windows XP (NyoCoder 1.5.5 Release)",
-   "published_at": "2026-08-14T05:23:19+00:00",
-   "collected_at": "2026-08-14T06:22:02.981021+00:00",
-   "title_ko": "DeepSeek v4 Flash로 윈도우 XP 환경에서 테트리스 구현",
-   "summary_ko": "로컬 서버에서 구동한 DeepSeek 모델이 오래된 운영체제 환경에서 코딩 어시스턴트 역할을 성공적으로 수행했습니다.",
-   "category": "팁",
-   "tags": [
-    "DeepSeek",
     "코딩"
    ]
   }
