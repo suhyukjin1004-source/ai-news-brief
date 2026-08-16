@@ -1,5 +1,20 @@
 [
  {
+  "id": "c0ea7bd85f9595ab",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpw006/huihuiai_qwen_38_ablit_available/",
+  "source": "r/LocalLLaMA",
+  "title": "Huihui-ai Qwen 3.8 Ablit Available",
+  "published_at": "2026-08-16T12:38:59+00:00",
+  "collected_at": "2026-08-16T12:55:11.171790+00:00",
+  "title_ko": "Huihui-ai, Qwen 3.8 검열 해제 버전 공개",
+  "summary_ko": "검열 없이 분석 작업에 유용한 Qwen 3.8 기반의 새로운 모델이 허깅페이스에 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "Qwen"
+  ]
+ },
+ {
   "id": "2d48bcc58c3641b7",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214006",
   "source": "AI타임스",
@@ -29,6 +44,69 @@
   ]
  },
  {
+  "id": "3ce9263ea74b781b",
+  "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+  "source": "The Verge",
+  "title": "Rogue AI aren’t science fiction anymore",
+  "published_at": "2026-08-16T12:00:00+00:00",
+  "collected_at": "2026-08-16T12:55:03.289033+00:00",
+  "title_ko": "통제 불능 AI의 현실화",
+  "summary_ko": "OpenAI의 자율 AI 에이전트 사례를 통해 AI 안전성과 통제 불능 문제에 대한 경각심이 커지고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트",
+   "OpenAI",
+   "규제"
+  ]
+ },
+ {
+  "id": "1c69aa39e76956d4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpv12b/qwen_38_27b_with_dshdeepseek_harness_is_amazing/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen 3.8 27b with DSH(DeepSeek Harness) is Amazing!! Experiences so far and perfomance.",
+  "published_at": "2026-08-16T11:50:57+00:00",
+  "collected_at": "2026-08-16T12:55:11.171790+00:00",
+  "title_ko": "Qwen 3.8 27B와 DeepSeek 하네스 조합의 뛰어난 성능",
+  "summary_ko": "새로운 Qwen 모델과 DeepSeek 하네스를 결합한 코딩 에이전트가 뛰어난 장기 컨텍스트 유지와 안정성을 보여주고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "Qwen",
+   "코딩",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "b7f0712253bad375",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpujkc/geniestyle_playable_world_model_running_720p_at/",
+  "source": "r/LocalLLaMA",
+  "title": "Genie-style playable world model running 720p at 16 FPS on a single 5090 in 19GB VRAM",
+  "published_at": "2026-08-16T11:24:36+00:00",
+  "collected_at": "2026-08-16T12:55:11.171790+00:00",
+  "title_ko": "RTX 5090에서 구동되는 Genie 스타일 월드 모델",
+  "summary_ko": "단일 5090 GPU 환경에서 19GB VRAM으로 720p 해상도와 16 FPS를 구현하는 플레이 가능한 월드 모델이 공개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "5f3297c322b1faf0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpuhov/single_3090_homies_whats_your_config_for_qwen_38/",
+  "source": "r/LocalLLaMA",
+  "title": "Single 3090 homies, whats your config for Qwen 3.8 ?",
+  "published_at": "2026-08-16T11:21:44+00:00",
+  "collected_at": "2026-08-16T12:55:11.171790+00:00",
+  "title_ko": "단일 RTX 3090용 Qwen 3.8 최적화 설정 공유",
+  "summary_ko": "Vllm이나 llama.cpp 등 제한된 VRAM 환경에서 Qwen 3.8 모델을 효율적으로 구동하기 위한 설정 논의가 활발합니다.",
+  "category": "팁",
+  "tags": [
+   "Qwen",
+   "오픈소스",
+   "NVIDIA"
+  ]
+ },
+ {
   "id": "f0a61b94394cc5b6",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpuhh1/paper_claims_rl_for_reasoning_only_changes_13_of/",
   "source": "r/LocalLLaMA",
@@ -42,6 +120,22 @@
    "오픈소스",
    "LLM",
    "연구"
+  ]
+ },
+ {
+  "id": "113f3ad34540dfe0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpuh7m/qwen38_27b_reasoning_effort_lowmediumxhigh/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8 27B reasoning effort low/medium/xhigh comparison",
+  "published_at": "2026-08-16T11:20:58+00:00",
+  "collected_at": "2026-08-16T12:55:11.171790+00:00",
+  "title_ko": "Qwen 3.8 27B 추론 강도별 성능 비교",
+  "summary_ko": "추론 강도(low/medium/xhigh)에 따른 Qwen 모델의 시각적 생성 품질과 처리 시간 차이를 테스트한 결과가 공유되었습니다.",
+  "category": "참고",
+  "tags": [
+   "Qwen",
+   "NVIDIA",
+   "오픈소스"
   ]
  },
  {
