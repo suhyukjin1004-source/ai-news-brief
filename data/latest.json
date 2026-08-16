@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-16T08:41:08.488180+00:00",
+ "updated_at": "2026-08-16T09:36:29.840916+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -31,6 +31,22 @@
    "tags": [
     "반도체",
     "규제"
+   ]
+  },
+  {
+   "id": "e987af80e7c9f52f",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214013",
+   "source": "AI타임스",
+   "title": "서울 AI 허브, 22일 '피지컬 AI' 해커톤 개최…“코드 개발부터 하드웨어 연결까지”",
+   "published_at": "2026-08-16T17:06:33+00:00",
+   "collected_at": "2026-08-16T09:36:28.228901+00:00",
+   "title_ko": "서울 AI 허브, 피지컬 AI 해커톤 개최",
+   "summary_ko": "서울 AI 허브가 오픈아이 등과 함께 소프트웨어와 하드웨어를 연결하는 피지컬 AI 해커톤을 개최한다. 빌더들이 아이디어를 실제 제품으로 구현할 수 있는 기회를 제공한다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "AI 에이전트",
+    "로보틱스"
    ]
   },
   {
@@ -107,6 +123,22 @@
    "tags": [
     "Anthropic",
     "투자"
+   ]
+  },
+  {
+   "id": "3c31117ae37831f1",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpsavl/littlelearner_language_models_under/",
+   "source": "r/LocalLLaMA",
+   "title": "LittleLearner: Language Models Under Pedagogically-Controlled Knowledge Exposure",
+   "published_at": "2026-08-16T09:12:07+00:00",
+   "collected_at": "2026-08-16T09:36:14.128403+00:00",
+   "title_ko": "교육과정 기반 데이터로 학습한 언어모델 연구 공개",
+   "summary_ko": "미국 초등학교 교육과정 데이터로 학습시킨 언어모델 연구를 통해, 사전학습 데이터 필터링이 모델의 최종 역량을 결정한다는 사실을 밝혔다. 후속 학습은 교육받은 범위 내의 능력만 증폭시킨다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "머신러닝"
    ]
   },
   {
@@ -2965,35 +2997,6 @@
    "tags": [
     "오픈소스",
     "AI 에이전트"
-   ]
-  },
-  {
-   "id": "e6a3b6831fc862fd",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vo3pmq/qwen_38_max_is_extremely_good_at_knowing_what_not/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen 3.8 Max Is Extremely Good at Knowing What Not to Build",
-   "published_at": "2026-08-14T10:38:58+00:00",
-   "collected_at": "2026-08-14T11:52:04.930371+00:00",
-   "title_ko": "추론 및 계획 능력이 강화된 Qwen 3.8 Max 공개",
-   "summary_ko": "새로 출시된 Qwen 3.8 Max는 빠른 속도와 뛰어난 계획 능력, 그리고 불필요한 복잡성을 줄이는 문제 해결력을 보여줍니다. 대형 언어 모델의 추론 성능 향상을 입증합니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "e4d0a3db6c9c66e3",
-   "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-   "source": "Hacker News",
-   "title": "Why does Opus 5 feel worse to work with?",
-   "published_at": "2026-08-14T10:12:48+00:00",
-   "collected_at": "2026-08-14T13:24:49.333116+00:00",
-   "title_ko": "Opus 모델 사용감에 대한 개발자들의 평가",
-   "summary_ko": "최신 Opus 모델 작업 시 체감하는 성능과 사용성에 대한 개발자 커뮤니티의 논의가 이어지고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "Claude"
    ]
   }
  ]
