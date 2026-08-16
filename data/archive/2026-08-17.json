@@ -1,5 +1,21 @@
 [
  {
+  "id": "ea1df8efba8790ce",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqa7qh/llamacpp_rocm_72714_upgrade_radeon_780m_igpu/",
+  "source": "r/LocalLLaMA",
+  "title": "Llama.cpp ROCm 7.2->7.14 upgrade, Radeon 780m iGPU benchmarks: ROCm vs Vulkan",
+  "published_at": "2026-08-16T22:11:19+00:00",
+  "collected_at": "2026-08-16T23:29:05.611001+00:00",
+  "title_ko": "Llama.cpp의 ROCm 7.14 업데이트와 Radeon 780m 벤치마크",
+  "summary_ko": "Llama.cpp가 ROCm을 7.14로 업그레이드하며 Radeon 780m iGPU 지원을 추가했습니다. 내장 그래픽 환경에서 로컬 LLM 구동 성능을 높이는 데 기여합니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
   "id": "0bc7fef7998a51c2",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq9zc8/qwen_38_27b_vs_36_27b_how_good_is_with_a_turtle/",
   "source": "r/LocalLLaMA",
@@ -30,6 +46,22 @@
   ]
  },
  {
+  "id": "0f2dda7c9a41a2bd",
+  "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+  "source": "Hacker News",
+  "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+  "published_at": "2026-08-16T21:53:43+00:00",
+  "collected_at": "2026-08-16T23:29:04.601625+00:00",
+  "title_ko": "Anthropic Claude의 워터마크 텍스트 변조 논란",
+  "summary_ko": "Claude가 생성하는 텍스트에 워터마크를 도입한 것이 글쓰기의 본질을 훼손한다는 비판이 제기되었습니다. AI 생성 콘텐츠 식별 방식에 대한 업계의 윤리적 논쟁을 보여줍니다.",
+  "category": "참고",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "규제"
+  ]
+ },
+ {
   "id": "b5ab1203f10f4dab",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq9sdv/dario_amodei_defends_his_policy_proposals_warns/",
   "source": "r/LocalLLaMA",
@@ -42,6 +74,21 @@
   "tags": [
    "규제",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "5e700f4f654a5fd5",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq9lsl/anyone_else_get_a_kick_out_of_qwen_38_27b/",
+  "source": "r/LocalLLaMA",
+  "title": "Anyone else get a kick out of Qwen 3.8 27B Reasoning Dialogue?",
+  "published_at": "2026-08-16T21:45:44+00:00",
+  "collected_at": "2026-08-16T23:29:05.611001+00:00",
+  "title_ko": "Qwen 3.8 27B 추론 모델의 독특한 내적 독백 반응",
+  "summary_ko": "Qwen 3.8 27B 추론 모델이 스스로 좌절하거나 자책하는 듯한 인간적인 내적 독백을 보여주어 흥미를 끌고 있습니다. LLM의 추론 과정에서 나타나는 재미있는 현상입니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
   ]
  },
  {
@@ -89,6 +136,22 @@
   ]
  },
  {
+  "id": "d7a5fddc6fe99ccb",
+  "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+  "source": "Hacker News",
+  "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+  "published_at": "2026-08-16T21:07:10+00:00",
+  "collected_at": "2026-08-16T23:29:04.601625+00:00",
+  "title_ko": "NVIDIA, OpenAI 인프라 금융 보증 규모 대폭 축소",
+  "summary_ko": "NVIDIA가 OpenAI의 데이터센터 구축을 위해 제공하려던 대규모 재정 보증 규모를 크게 줄였습니다. AI 인프라 투자 생태계에 미칠 영향이 주목됩니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "OpenAI",
+   "투자"
+  ]
+ },
+ {
   "id": "943d4b7d862e9ee3",
   "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
   "source": "TechCrunch",
@@ -117,6 +180,21 @@
   "tags": [
    "Meta",
    "투자"
+  ]
+ },
+ {
+  "id": "24eaa6f5c9f9f06b",
+  "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+  "source": "Hacker News",
+  "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+  "published_at": "2026-08-16T20:31:16+00:00",
+  "collected_at": "2026-08-16T23:29:00.992092+00:00",
+  "title_ko": "Stripe, AI 플랫폼 OpenRouter 70억 달러 이상에 인수",
+  "summary_ko": "결제 거인 Stripe가 AI 모델 라우팅 플랫폼인 OpenRouter를 70억 달러 이상에 인수하는 계약을 체결했습니다. 결제 기업과 AI 인프라 플랫폼 간의 결합이라는 점에서 중요합니다.",
+  "category": "속보",
+  "tags": [
+   "투자",
+   "AI 에이전트"
   ]
  },
  {
