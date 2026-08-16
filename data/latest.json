@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-16T01:52:42.545300+00:00",
+ "updated_at": "2026-08-16T03:08:36.100335+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -32,6 +32,22 @@
     "NVIDIA",
     "OpenAI",
     "반도체"
+   ]
+  },
+  {
+   "id": "0916408978f1395d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpkomt/showoff_saturday_intel_arc_b140_build/",
+   "source": "r/LocalLLaMA",
+   "title": "Show-off Saturday: Intel Arc B140 build.",
+   "published_at": "2026-08-16T02:10:38+00:00",
+   "collected_at": "2026-08-16T03:08:19.970564+00:00",
+   "title_ko": "Intel Arc B140 기반 로컬 LLM 추론 구축 사례",
+   "summary_ko": "인텔 Arc GPU와 Xeon 프로세서를 활용해 로컬 환경에서 llama.cpp로 LLM을 구동한 하드웨어 구축 사례입니다. 가성비 좋은 로컬 추론 환경을 구성하는 데 참고가 됩니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체",
+    "로컬LLM"
    ]
   },
   {
@@ -2983,20 +2999,6 @@
    "title_ko": "미스트랄, Z.ai의 GLM-5.2 모델 호스팅 제공",
    "summary_ko": "미스트랄이 경쟁사인 Z.ai의 모델을 자사 플랫폼에서 저렴하게 호스팅하기 시작해 향후 전략 변화에 관심이 모인다.",
    "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "7dd5369c331d1125",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnuu2t/if_you_dont_like_how_deepseek_v4_flash_0731_talks/",
-   "source": "r/LocalLLaMA",
-   "title": "If you don't like how DeepSeek V4 Flash 0731 talks, give Motif 3 NVFP4 a try (custom vLLM only) -- probably the most underrated model right now",
-   "published_at": "2026-08-14T02:30:04+00:00",
-   "collected_at": "2026-08-14T08:23:34.604542+00:00",
-   "title_ko": "딥시크 대항마로 꼽히는 'Motif 3 NVFP4' 모델 주목",
-   "summary_ko": "딥시크 신모델과 유사한 벤치마크 성능을 보이면서도 저평가된 오픈 모델 Motif 3가 개발자들 사이에서 화제다.",
-   "category": "팁",
    "tags": [
     "오픈소스"
    ]
