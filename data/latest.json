@@ -1,8 +1,38 @@
 {
- "updated_at": "2026-08-17T19:35:46.986574+00:00",
+ "updated_at": "2026-08-17T20:36:56.576375+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "b597a3d03ee72b44",
+   "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+   "source": "Hugging Face",
+   "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+   "published_at": "2026-08-17T19:46:21+00:00",
+   "collected_at": "2026-08-17T20:36:21.510727+00:00",
+   "title_ko": "연산 클러스터 작업 순서 변경으로 효율성 33% 향상",
+   "summary_ko": "동일한 하드웨어 클러스터에서 작업 순서만 조정하여 자원 활용도를 크게 높인 사례가 공유되었습니다. AI 학습 및 인프라 최적화에 기여합니다.",
+   "category": "팁",
+   "tags": [
+    "반도체",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "42c11949b21fb82e",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vr2oq8/opus_48_thinks_too_much_muse_glimmer_sits_between/",
+   "source": "r/LocalLLaMA",
+   "title": "\"Opus 4.8 thinks too much\", \"Muse Glimmer sits between Gemma and Qwen, that's boring\", \"Gemma 4 is too lazy\"",
+   "published_at": "2026-08-17T19:45:37+00:00",
+   "collected_at": "2026-08-17T20:36:40.263309+00:00",
+   "title_ko": "추론 모델의 성능과 사용자 불만에 대한 단상",
+   "summary_ko": "최신 추론 모델들이 지나치게 생각하거나 게으르다는 등의 사용자 피드백이 이어지고 있습니다. 모델 튜닝과 사용자 기대치 사이의 간극을 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "LLM",
+    "오픈소스"
+   ]
+  },
   {
    "id": "40a552deb8d679c1",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214026",
@@ -2996,38 +3026,6 @@
    "tags": [
     "오픈소스",
     "LLM"
-   ]
-  },
-  {
-   "id": "383a2b9d4c362f26",
-   "url": "https://www.reddit.com/r/singularity/comments/1vp77op/alibaba_ai_models_hit_3_billion_downloads_passing/",
-   "source": "r/singularity",
-   "title": "Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google",
-   "published_at": "2026-08-15T16:28:10+00:00",
-   "collected_at": "2026-08-15T16:35:03.775241+00:00",
-   "title_ko": "알리바바 AI 모델, 다운로드 30억 회 돌파",
-   "summary_ko": "알리바바의 AI 모델들이 누적 다운로드 30억 회를 기록하며 메타와 구글을 넘어섰습니다. 오픈소스 및 생태계 확장에서 중국 AI의 영향력이 커지고 있음을 보여줍니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "중국",
-    "AI 모델"
-   ]
-  },
-  {
-   "id": "2b4a88540110f72a",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213986",
-   "source": "AI타임스",
-   "title": "오픈AI, 맥용 챗GPT '컴퓨터 히스토리' 출시...앱·웹 활동 기억한다",
-   "published_at": "2026-08-15T16:23:29+00:00",
-   "collected_at": "2026-08-15T07:37:01.760640+00:00",
-   "title_ko": "오픈AI, 맥용 챗GPT '컴퓨터 히스토리' 기능 출시",
-   "summary_ko": "오픈AI가 맥(Mac) 사용자의 앱과 웹 활동을 기억해 업무를 돕는 '컴퓨터 히스토리'를 챗GPT 데스크톱 앱에 도입했다. 개인형 AI 비서로서 작업 맥락을 유지하고 반복 작업을 자동화하는 데 중요합니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "GPT",
-    "AI 에이전트"
    ]
   }
  ]
