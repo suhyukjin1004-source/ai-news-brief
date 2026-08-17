@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-17T09:52:27.736232+00:00",
+ "updated_at": "2026-08-17T10:42:01.967951+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -76,6 +76,22 @@
    "category": "중요",
    "tags": [
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "838ee81d90ff2a6b",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214028",
+   "source": "AI타임스",
+   "title": "공시로 드러난 거대 자본의 결실…엔비디아·알파벳, 스페이스X 투자로 대박",
+   "published_at": "2026-08-17T15:40:00+00:00",
+   "collected_at": "2026-08-17T10:41:58.518790+00:00",
+   "title_ko": "엔비디아·알파벳, SEC 공시로 AI 및 우주 투자 성과 공개",
+   "summary_ko": "미국 SEC 공시를 통해 엔비디아와 알파벳 등 빅테크 기업들의 스페이스X 및 AI 관련 투자 규모와 막대한 평가 차익이 확인되었습니다. 빅테크의 전략적 자본 투자의 성과를 보여주는 중요한 지표입니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "Google",
+    "투자"
    ]
   },
   {
@@ -169,6 +185,37 @@
    "tags": [
     "오픈소스",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "e54d0b259564440f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqnvfe/unpopular_opinion_qwen_38_27b_is_not_an/",
+   "source": "r/LocalLLaMA",
+   "title": "Unpopular opinion : Qwen 3.8 27b is not an overthinker",
+   "published_at": "2026-08-17T09:53:27+00:00",
+   "collected_at": "2026-08-17T10:41:45.079683+00:00",
+   "title_ko": "Qwen 모델의 추론 토큰 사용량과 성능에 대한 평가",
+   "summary_ko": "최신 Qwen 모델이 이전 버전보다 많은 추론 토큰을 사용하는 것에 대한 개발자 커뮤니티의 분석입니다. 하드웨어 한계로 인한 아쉬움은 있으나 추론 품질 면에서는 타사 모델과 유사한 수준을 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "3369c66f0328c34c",
+   "url": "https://news.hada.io/topic?id=32579",
+   "source": "GeekNews",
+   "title": "Claude의 ‘워터마크’가 글쓰기를 왜곡하는 방식",
+   "published_at": "2026-08-17T09:33:37+00:00",
+   "collected_at": "2026-08-17T10:42:00.073693+00:00",
+   "title_ko": "앤스로픽 클로드의 워터마크 도입과 글쓰기 영향",
+   "summary_ko": "앤스로픽이 EU 규정 준수를 위해 클로드 모델의 텍스트 생성 시 단어 선택 확률을 조정하는 워터마크 방식을 도입합니다. 규제 대응이 AI 모델의 텍스트 생성 방식에 미치는 영향을 보여줍니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "규제"
    ]
   },
   {
@@ -2979,49 +3026,6 @@
    "tags": [
     "코딩"
    ]
-  },
-  {
-   "id": "825135021534c217",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1votanb/quantized_ai9stars_g9v339a5b_to_gguf_and_created/",
-   "source": "r/LocalLLaMA",
-   "title": "Quantized AI9Stars' G9v3-39A5B to GGUF and created a llama.cpp fork to support it",
-   "published_at": "2026-08-15T04:35:34+00:00",
-   "collected_at": "2026-08-15T05:34:06.272928+00:00",
-   "title_ko": "AI9Stars G9v3 모델 GGUF 양자화 및 llama.cpp 포크 공개",
-   "summary_ko": "개발자가 AI9Stars의 G9v3 모델을 GGUF로 양자화하고 이를 지원하기 위한 llama.cpp 포크 버전을 제작해 공유했습니다. 로컬 LLM 구동 환경 개선에 기여합니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "llama.cpp"
-   ]
-  },
-  {
-   "id": "42aa95ed317118e7",
-   "url": "https://app.deltix.ai",
-   "source": "Hacker News",
-   "title": "Show HN: Deltix – AI Driven Testing",
-   "published_at": "2026-08-15T02:42:14+00:00",
-   "collected_at": "2026-08-16T01:52:23.060585+00:00",
-   "title_ko": "AI 기반 테스팅 툴 'Deltix' 소개",
-   "summary_ko": "AI를 활용해 소프트웨어 테스팅 과정을 자동화하고 효율화하는 개발자 도구 Deltix가 소개되었습니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "634c74c53e1c5b42",
-   "url": "https://www.reddit.com/r/singularity/comments/1voptr8/new_ai_model_detects_hidden_signs_of_solar/",
-   "source": "r/singularity",
-   "title": "New AI Model Detects Hidden Signs of Solar Eruptions Hours Before They Emerge",
-   "published_at": "2026-08-15T01:42:22+00:00",
-   "collected_at": "2026-08-15T07:37:00.749816+00:00",
-   "title_ko": "태양 폭발 징후를 몇 시간 전에 감지하는 AI 모델 개발",
-   "summary_ko": "새로운 AI 모델이 태양 폭발의 숨겨진 징후를 사전에 감지해내는 데 성공했다. 과학 및 천문학 분야에서 AI의 활용도가 높아지고 있음을 보여준다.",
-   "category": "참고",
-   "tags": []
   }
  ]
 }
