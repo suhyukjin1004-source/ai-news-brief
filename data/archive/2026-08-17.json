@@ -1,5 +1,36 @@
 [
  {
+  "id": "c812e330d26b98a5",
+  "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+  "source": "TechCrunch",
+  "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+  "published_at": "2026-08-17T13:10:05+00:00",
+  "collected_at": "2026-08-17T13:47:14.110909+00:00",
+  "title_ko": "Wispr, 2억 8,000만 달러 투자 유치 및 20억 달러 밸류에이션 달성",
+  "summary_ko": "AI 음성 입력 스타트업 Wispr가 받아쓰기를 넘어선 확장 가능성을 인정받으며 20억 달러의 기업 가치로 대규모 투자를 유치했습니다.",
+  "category": "중요",
+  "tags": [
+   "투자",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "81fcb1f3d0a05212",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqrt86/after_pushing_1m_tokens_through_qwen_38_27b_here/",
+  "source": "r/LocalLLaMA",
+  "title": "After pushing 1M+ tokens through Qwen 3.8 27B, here is my optimal llama.cpp config for 16GB VRAM (73k Context, Agentic Coding)",
+  "published_at": "2026-08-17T13:05:26+00:00",
+  "collected_at": "2026-08-17T13:47:24.572924+00:00",
+  "title_ko": "16GB VRAM 환경에서 Qwen 모델 최적화 구성을 통한 에이전트 코딩 팁",
+  "summary_ko": "한 개발자가 16GB VRAM 환경에서 대용량 토큰을 처리하며 에이전트 코딩 워크플로우를 테스트한 llama.cpp 최적화 설정을 공유했습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
   "id": "da258223d4ea22f1",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqrf6p/paper_interns2mobius_foundation_model_with/",
   "source": "r/LocalLLaMA",
@@ -60,6 +91,21 @@
   "tags": [
    "AI 벤치마크",
    "성능 평가"
+  ]
+ },
+ {
+  "id": "a511bed68f3ba4d1",
+  "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+  "source": "Hacker News",
+  "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+  "published_at": "2026-08-17T12:09:42+00:00",
+  "collected_at": "2026-08-17T13:47:23.725619+00:00",
+  "title_ko": "OpenAI의 새로운 비전 모델 GPT 5.6 Sol 평가",
+  "summary_ko": "OpenAI가 출시한 새로운 비전 모델 GPT 5.6 Sol이 지금까지 출시된 모델 중 시각 인식 능력이 가장 뛰어나다는 평가를 받고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "GPT"
   ]
  },
  {
@@ -184,6 +230,20 @@
   "tags": [
    "오픈소스",
    "LLM"
+  ]
+ },
+ {
+  "id": "e6d512a7b63a1564",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqntod/muse_glimmer_30b_with_512k_context/",
+  "source": "r/LocalLLaMA",
+  "title": "Muse Glimmer 30B with 512k context",
+  "published_at": "2026-08-17T09:50:37+00:00",
+  "collected_at": "2026-08-17T13:47:24.572924+00:00",
+  "title_ko": "512k 컨텍스트를 지원하는 Muse Glimmer 30B 아키텍처 분석",
+  "summary_ko": "독특한 아키텍처를 통해 긴 컨텍스트를 효율적으로 처리하는 Muse Glimmer 30B 모델의 구조적 특징과 주말 실험 후기입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
   ]
  },
  {
@@ -377,6 +437,35 @@
    "오픈소스",
    "LLM",
    "하드웨어"
+  ]
+ },
+ {
+  "id": "f137d9ea2f9f034d",
+  "url": "https://openai.com/index/the-defenders-window",
+  "source": "OpenAI",
+  "title": "The Defender’s Window",
+  "published_at": "2026-08-17T05:30:00+00:00",
+  "collected_at": "2026-08-17T13:47:15.127791+00:00",
+  "title_ko": "OpenAI, AI 기반 사이버 보안 대응 전략 발표",
+  "summary_ko": "AI가 공격자와 방어자 모두에게 미치는 영향 속에서 OpenAI가 자사 보안을 강화하고 보안 팀을 지원하기 위한 방안을 소개했습니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI"
+  ]
+ },
+ {
+  "id": "ad5623d5cc7091de",
+  "url": "https://openai.com/index/openai-joins-ports-pike-project",
+  "source": "OpenAI",
+  "title": "OpenAI joins PORTS-Pike project",
+  "published_at": "2026-08-17T05:00:00+00:00",
+  "collected_at": "2026-08-17T13:47:15.127791+00:00",
+  "title_ko": "OpenAI, PORTS-Pike 프로젝트 합류",
+  "summary_ko": "OpenAI가 지역 사회 투자를 확대하고 일자리를 지원하기 위해 PORTS-Pike 프로젝트에 참여했습니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "투자"
   ]
  },
  {

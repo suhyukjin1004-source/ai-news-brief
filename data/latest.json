@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-17T13:00:38.911246+00:00",
+ "updated_at": "2026-08-17T13:47:41.589571+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -111,6 +111,37 @@
    ]
   },
   {
+   "id": "c812e330d26b98a5",
+   "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+   "source": "TechCrunch",
+   "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+   "published_at": "2026-08-17T13:10:05+00:00",
+   "collected_at": "2026-08-17T13:47:14.110909+00:00",
+   "title_ko": "Wispr, 2억 8,000만 달러 투자 유치 및 20억 달러 밸류에이션 달성",
+   "summary_ko": "AI 음성 입력 스타트업 Wispr가 받아쓰기를 넘어선 확장 가능성을 인정받으며 20억 달러의 기업 가치로 대규모 투자를 유치했습니다.",
+   "category": "중요",
+   "tags": [
+    "투자",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "81fcb1f3d0a05212",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqrt86/after_pushing_1m_tokens_through_qwen_38_27b_here/",
+   "source": "r/LocalLLaMA",
+   "title": "After pushing 1M+ tokens through Qwen 3.8 27B, here is my optimal llama.cpp config for 16GB VRAM (73k Context, Agentic Coding)",
+   "published_at": "2026-08-17T13:05:26+00:00",
+   "collected_at": "2026-08-17T13:47:24.572924+00:00",
+   "title_ko": "16GB VRAM 환경에서 Qwen 모델 최적화 구성을 통한 에이전트 코딩 팁",
+   "summary_ko": "한 개발자가 16GB VRAM 환경에서 대용량 토큰을 처리하며 에이전트 코딩 워크플로우를 테스트한 llama.cpp 최적화 설정을 공유했습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
    "id": "da258223d4ea22f1",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqrf6p/paper_interns2mobius_foundation_model_with/",
    "source": "r/LocalLLaMA",
@@ -171,6 +202,21 @@
    "tags": [
     "AI 벤치마크",
     "성능 평가"
+   ]
+  },
+  {
+   "id": "a511bed68f3ba4d1",
+   "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+   "source": "Hacker News",
+   "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+   "published_at": "2026-08-17T12:09:42+00:00",
+   "collected_at": "2026-08-17T13:47:23.725619+00:00",
+   "title_ko": "OpenAI의 새로운 비전 모델 GPT 5.6 Sol 평가",
+   "summary_ko": "OpenAI가 출시한 새로운 비전 모델 GPT 5.6 Sol이 지금까지 출시된 모델 중 시각 인식 능력이 가장 뛰어나다는 평가를 받고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "GPT"
    ]
   },
   {
@@ -295,6 +341,20 @@
    "tags": [
     "오픈소스",
     "LLM"
+   ]
+  },
+  {
+   "id": "e6d512a7b63a1564",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqntod/muse_glimmer_30b_with_512k_context/",
+   "source": "r/LocalLLaMA",
+   "title": "Muse Glimmer 30B with 512k context",
+   "published_at": "2026-08-17T09:50:37+00:00",
+   "collected_at": "2026-08-17T13:47:24.572924+00:00",
+   "title_ko": "512k 컨텍스트를 지원하는 Muse Glimmer 30B 아키텍처 분석",
+   "summary_ko": "독특한 아키텍처를 통해 긴 컨텍스트를 효율적으로 처리하는 Muse Glimmer 30B 모델의 구조적 특징과 주말 실험 후기입니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
    ]
   },
   {
@@ -488,6 +548,35 @@
     "오픈소스",
     "LLM",
     "하드웨어"
+   ]
+  },
+  {
+   "id": "f137d9ea2f9f034d",
+   "url": "https://openai.com/index/the-defenders-window",
+   "source": "OpenAI",
+   "title": "The Defender’s Window",
+   "published_at": "2026-08-17T05:30:00+00:00",
+   "collected_at": "2026-08-17T13:47:15.127791+00:00",
+   "title_ko": "OpenAI, AI 기반 사이버 보안 대응 전략 발표",
+   "summary_ko": "AI가 공격자와 방어자 모두에게 미치는 영향 속에서 OpenAI가 자사 보안을 강화하고 보안 팀을 지원하기 위한 방안을 소개했습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI"
+   ]
+  },
+  {
+   "id": "ad5623d5cc7091de",
+   "url": "https://openai.com/index/openai-joins-ports-pike-project",
+   "source": "OpenAI",
+   "title": "OpenAI joins PORTS-Pike project",
+   "published_at": "2026-08-17T05:00:00+00:00",
+   "collected_at": "2026-08-17T13:47:15.127791+00:00",
+   "title_ko": "OpenAI, PORTS-Pike 프로젝트 합류",
+   "summary_ko": "OpenAI가 지역 사회 투자를 확대하고 일자리를 지원하기 위해 PORTS-Pike 프로젝트에 참여했습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "투자"
    ]
   },
   {
@@ -2943,97 +3032,6 @@
    "tags": [
     "Qwen",
     "오픈소스"
-   ]
-  },
-  {
-   "id": "c36255e51515b725",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213994",
-   "source": "AI타임스",
-   "title": "오픈AI 기업용 매출, '챗GPT' 넘어섰다…“강력한 매출로 악재 돌파”",
-   "published_at": "2026-08-15T11:23:17+00:00",
-   "collected_at": "2026-08-15T02:59:30.102967+00:00",
-   "title_ko": "오픈AI, 기업용 사업 매출이 챗GPT 추월",
-   "summary_ko": "오픈AI의 기업용(B2B) 사업 매출이 소비자용 사업을 앞지르며 수익 구조 다변화에 성공했습니다. 이는 최근 급증하는 기업 고객의 유입과 지출 증가 덕분입니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "투자",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "9e9e6d7248a8f7a9",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vozxbp/alibaba_ai_models_hit_3_billion_downloads_passing/",
-   "source": "r/LocalLLaMA",
-   "title": "Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google | Bloomberg - Hugging Face study",
-   "published_at": "2026-08-15T11:01:17+00:00",
-   "collected_at": "2026-08-15T11:29:17.369961+00:00",
-   "title_ko": "알리바바 AI 모델, 다운로드 30억 회 돌파해 메타·구글 추월",
-   "summary_ko": "허깅페이스 연구에 따르면 알리바바의 오픈소스 AI 모델 다운로드 수가 30억 회를 넘어서며 메타와 구글을 제쳤습니다. 오픈소스 AI 생태계에서 중국 기업의 영향력이 급부상하고 있음을 보여줍니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "알리바바",
-    "Meta"
-   ]
-  },
-  {
-   "id": "e7607846045a6e2f",
-   "url": "https://sankalp.bearblog.dev/autoresearch/",
-   "source": "Hacker News",
-   "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-   "published_at": "2026-08-15T11:00:02+00:00",
-   "collected_at": "2026-08-15T14:32:00.527904+00:00",
-   "title_ko": "코덱스를 활용한 커널 성능 232배 가속 연구",
-   "summary_ko": "AI 도구를 활용해 커널 코드를 자동으로 연구하고 최적화하여 획기적인 속도 향상을 이뤄낸 사례입니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "1b995b323154dff1",
-   "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-   "source": "Hacker News",
-   "title": "Working with AI Feels More Like Leadership Than Coding",
-   "published_at": "2026-08-15T10:39:41+00:00",
-   "collected_at": "2026-08-15T15:29:26.603660+00:00",
-   "title_ko": "AI와의 협업은 코딩보다 리더십에 가까운 경험",
-   "summary_ko": "개발에서 AI를 활용하는 방식이 단순한 코딩을 넘어 팀원을 리드하는 것과 유사한 형태로 진화하고 있다는 의견입니다.",
-   "category": "참고",
-   "tags": [
-    "코딩",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "4d66148a6edbdf89",
-   "url": "https://news.hada.io/topic?id=32524",
-   "source": "GeekNews",
-   "title": "Going Dark와 법 집행기관 해킹의 시대",
-   "published_at": "2026-08-15T10:33:12+00:00",
-   "collected_at": "2026-08-15T12:54:03.529793+00:00",
-   "title_ko": "AI 취약점 탐지와 법 집행기관의 수사 역량 변화",
-   "summary_ko": "AI를 활용한 소프트웨어 보안 및 취약점 탐지 향상이 정보·수사 기관의 해킹 도구 의존 수사에 미칠 영향에 대한 분석입니다.",
-   "category": "참고",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "1c6e12f3f6f91db5",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213990",
-   "source": "AI타임스",
-   "title": "앤트로픽, IPO 앞두고 첫 흑자 달성…2분기 매출 16.3조 돌파",
-   "published_at": "2026-08-15T10:22:05+00:00",
-   "collected_at": "2026-08-15T01:44:28.939704+00:00",
-   "title_ko": "앤트로픽, IPO 앞두고 첫 분기 흑자 달성",
-   "summary_ko": "앤트로픽이 2분기 115억 달러의 매출을 기록하며 주요 프론티어 AI 기업 중 최초로 영업이익 흑자를 달성했습니다. 이는 예상보다 2년 빠른 기록으로 가파른 성장세를 보여줍니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "투자"
    ]
   }
  ]
