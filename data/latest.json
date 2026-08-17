@@ -1,8 +1,55 @@
 {
- "updated_at": "2026-08-17T03:08:43.051298+00:00",
+ "updated_at": "2026-08-17T04:53:24.176104+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "627b904cb0cf4138",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214022",
+   "source": "AI타임스",
+   "title": "손짓·음성 알아듣는 로봇청소기…미국 매틱, '매틱 큐'로 중국과 차별화",
+   "published_at": "2026-08-17T12:32:15+00:00",
+   "collected_at": "2026-08-17T04:53:20.258823+00:00",
+   "title_ko": "매틱, 음성과 손짓으로 제어하는 로봇청소기 기능 공개",
+   "summary_ko": "미국 매틱이 앱 없이 음성과 손짓으로 제어하는 온디바이스 AI 기반 로봇청소기 기능을 선보였다. 중국산 중심의 시장에서 차별화된 사용성을 제공하기 위함이다.",
+   "category": "속보",
+   "tags": [
+    "로보틱스",
+    "온디바이스",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "c64d73f3036300d0",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214024",
+   "source": "AI타임스",
+   "title": "\"원하는 AI 벤치마크 직접 만든다\"…아티피셜 애널리시스, '옵티마' 출시",
+   "published_at": "2026-08-17T12:19:08+00:00",
+   "collected_at": "2026-08-17T04:53:20.258823+00:00",
+   "title_ko": "아티피셜 애널리시스, 맞춤형 AI 벤치마크 '옵티마' 출시",
+   "summary_ko": "사용자가 직접 업무 데이터를 기반으로 최신 AI 모델의 성능, 비용, 속도를 비교할 수 있는 맞춤형 벤치마크 플랫폼이 나왔다. 실제 업무 환경에 최적화된 AI 선택을 돕는다.",
+   "category": "속보",
+   "tags": [
+    "AI 벤치마크",
+    "성능 평가"
+   ]
+  },
+  {
+   "id": "f15b4f4f4098e543",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214021",
+   "source": "AI타임스",
+   "title": "'바이브 코딩' 러버블, 19조 가치로 텐센트 등서 5700억 투자 유치",
+   "published_at": "2026-08-17T12:03:36+00:00",
+   "collected_at": "2026-08-17T04:53:20.258823+00:00",
+   "title_ko": "바이브 코딩 스타트업 러버블, 19조 원 가치로 대규모 투자 유치",
+   "summary_ko": "스웨덴의 바이브 코딩 스타트업 러버블이 기업 가치 19조 원을 인정받으며 5700억 원 규모의 투자를 유치했다. AI 코딩 도구 시장의 급격한 성장을 보여준다.",
+   "category": "중요",
+   "tags": [
+    "투자",
+    "코딩",
+    "오픈소스"
+   ]
+  },
   {
    "id": "d90124515a954e95",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214015",
@@ -76,6 +123,22 @@
    "tags": [
     "규제",
     "오픈소스"
+   ]
+  },
+  {
+   "id": "82ab42a76cb79cbc",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqfyr6/i_just_ran_qwen_38_27_in_q4_against_gpt_56_sol/",
+   "source": "r/LocalLLaMA",
+   "title": "I just ran Qwen 3.8 27 in Q4 against GPT 5.6 Sol high - and it easily won against SOL - complex animated SVG tasks",
+   "published_at": "2026-08-17T02:35:31+00:00",
+   "collected_at": "2026-08-17T04:53:07.066248+00:00",
+   "title_ko": "Qwen 최신 모델, 고난도 SVG 생성 작업서 우수성 입증",
+   "summary_ko": "양자화된 Qwen 모델이 복잡한 애니메이션 SVG 생성 태스크에서 경쟁력 있는 성능을 보여주며 오픈소스 LLM의 가능성을 증명했다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "Qwen"
    ]
   },
   {
@@ -2957,68 +3020,6 @@
     "Meta",
     "규제",
     "투자"
-   ]
-  },
-  {
-   "id": "1f488d87fbbf1719",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vohpc8/the_difference_between_medium_and_xhigh_reasoning/",
-   "source": "r/LocalLLaMA",
-   "title": "The difference between \"medium\" and \"xhigh\" reasoning effort for Qwen3.8-27B is actually insane.",
-   "published_at": "2026-08-14T19:55:33+00:00",
-   "collected_at": "2026-08-14T20:38:44.897916+00:00",
-   "title_ko": "Qwen 3.8-27B의 추론 강도(reasoning_effort)에 따른 성능 차이",
-   "summary_ko": "로컬 환경에서 Qwen3.8-27B 모델을 테스트한 결과, 추론 강도 설정을 'medium'에서 'xhigh'로 변경했을 때의 성능 차이가 매우 컸습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "0d5a45124a3ff674",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voh7lk/stop_shitting_on_9b_models/",
-   "source": "r/LocalLLaMA",
-   "title": "Stop shitting on 9B models",
-   "published_at": "2026-08-14T19:36:58+00:00",
-   "collected_at": "2026-08-14T20:38:44.897916+00:00",
-   "title_ko": "저사양 사용자를 위한 9B 소형 모델의 중요성",
-   "summary_ko": "고성능 대형 모델이 주목받는 가운데, 제한된 하드웨어를 사용하는 일반 사용자들에게는 9B 같은 소형 모델의 실용성과 가치가 여전히 중요하다는 의견입니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "650f9e0e22a2d0c5",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voh6tx/a_150m_param_recurrent_model_scores_295_on/",
-   "source": "r/LocalLLaMA",
-   "title": "A 150M param recurrent model scores 29.5% on ARC-AGI-1 at $0.0007 per task",
-   "published_at": "2026-08-14T19:36:11+00:00",
-   "collected_at": "2026-08-15T02:59:16.825250+00:00",
-   "title_ko": "1억 5천만 파라미터 순환 모델, ARC-AGI서 고효율 기록",
-   "summary_ko": "트랜스포머가 아닌 잠재 공간에서 추론하는 1억 5천만 파라미터 규모의 순환 모델이 ARC-AGI-1에서 높은 점수를 기록했습니다. 초저비용으로 구동되어 향후 소형 모델 발전의 가능성을 보여줍니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "연구"
-   ]
-  },
-  {
-   "id": "cfa68699f2881186",
-   "url": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
-   "source": "Hacker News",
-   "title": "Anthropic Risk August 2026 [pdf]",
-   "published_at": "2026-08-14T19:32:15+00:00",
-   "collected_at": "2026-08-14T22:32:41.740142+00:00",
-   "title_ko": "앤스로픽 리스크 보고서 공개",
-   "summary_ko": "앤스로픽이 AI 모델과 관련된 위험 요소를 분석한 최신 리스크 보고서를 공개했습니다.",
-   "category": "참고",
-   "tags": [
-    "Anthropic",
-    "Claude",
-    "규제"
    ]
   }
  ]
