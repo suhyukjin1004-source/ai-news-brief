@@ -1,5 +1,21 @@
 [
  {
+  "id": "9d42513fa5c7d5e8",
+  "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+  "source": "Hacker News",
+  "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+  "published_at": "2026-08-17T14:18:38+00:00",
+  "collected_at": "2026-08-17T15:33:26.616894+00:00",
+  "title_ko": "GitHub 코파일럿 자동 수정 기능의 취약점을 악용한 시스템 침해 발생",
+  "summary_ko": "AI가 생성한 GitHub Copilot의 Autofix 기능 취약점으로 인해 스노플레이크의 Jira 시스템이 위험에 노출되었습니다. AI 코딩 도구의 보안 검증 중요성을 보여줍니다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트",
+   "코딩",
+   "보안"
+  ]
+ },
+ {
   "id": "98e56a4e5d374ad9",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqszw0/llamacpp_version_v010_has_been_released/",
   "source": "r/LocalLLaMA",
@@ -12,6 +28,51 @@
   "tags": [
    "오픈소스",
    "llama.cpp"
+  ]
+ },
+ {
+  "id": "0af92ec24fd0de34",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqswsh/deepseek_v4_flash_with_antirez_dwarfstar_4_is/",
+  "source": "r/LocalLLaMA",
+  "title": "DeepSeek V4 Flash with Antirez Dwarfstar 4 is amazing.",
+  "published_at": "2026-08-17T13:50:27+00:00",
+  "collected_at": "2026-08-17T15:33:27.543730+00:00",
+  "title_ko": "DeepSeek V4 플래시 모델 활용기",
+  "summary_ko": "고사양 맥 스튜디오 환경에서 DeepSeek V4 Flash와 오픈소스 프레임워크를 조합하여 뛰어난 성능을 얻었다는 사용자 리뷰입니다. 로컬 LLM 구동의 새로운 가능성을 보여줍니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "로컬LLM"
+  ]
+ },
+ {
+  "id": "5a7d0636b02bb83e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqsvqo/exl3_seems_to_be_fading_from_the_rlocalllama/",
+  "source": "r/LocalLLaMA",
+  "title": "EXL3 seems to be fading from the r/LocalLLaMa consciousness, and while I suspected it, I'm surprised at this point in time.",
+  "published_at": "2026-08-17T13:49:27+00:00",
+  "collected_at": "2026-08-17T15:33:27.543730+00:00",
+  "title_ko": "로컬 LLM 양자화 포맷 EXL3의 활용성과 한계",
+  "summary_ko": "llama.cpp의 대안인 EXL3 포맷과 TabbyAPI의 특징을 분석한 글입니다. 고성능 VRAM 환경에서의 효율성과 적용 고려사항을 다룹니다.",
+  "category": "참고",
+  "tags": [
+   "로컬LLM",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "9cf73f232e683609",
+  "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
+  "source": "Hacker News",
+  "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+  "published_at": "2026-08-17T13:44:23+00:00",
+  "collected_at": "2026-08-17T15:33:26.616894+00:00",
+  "title_ko": "희귀 도서 화물이 아마존 AI 학습 시설로 향한 사연",
+  "summary_ko": "희귀 도서 배송 추적 결과 아마존의 AI 학습 시설로 유입된 정황이 포착되었습니다. AI 모델 학습을 위한 데이터 수집 방식을 보여줍니다.",
+  "category": "참고",
+  "tags": [
+   "Amazon",
+   "데이터"
   ]
  },
  {

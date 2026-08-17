@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-17T14:37:19.176727+00:00",
+ "updated_at": "2026-08-17T15:33:45.703688+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -111,6 +111,38 @@
    ]
   },
   {
+   "id": "9ff0e06f273d7e9a",
+   "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+   "source": "TechCrunch",
+   "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+   "published_at": "2026-08-17T15:16:24+00:00",
+   "collected_at": "2026-08-17T15:33:14.531566+00:00",
+   "title_ko": "엔비디아, OpenAI 프로젝트 연계 소프트뱅크 데이터센터에 15억 달러 투자",
+   "summary_ko": "엔비디아가 소프트뱅크의 데이터센터 개발 자회사에 15억 달러를 투자해 자사 칩 공급을 보장받았습니다. OpenAI의 인프라 확장에 핵심적인 역할을 할 것으로 기대됩니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "OpenAI",
+    "반도체"
+   ]
+  },
+  {
+   "id": "9d42513fa5c7d5e8",
+   "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+   "source": "Hacker News",
+   "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+   "published_at": "2026-08-17T14:18:38+00:00",
+   "collected_at": "2026-08-17T15:33:26.616894+00:00",
+   "title_ko": "GitHub 코파일럿 자동 수정 기능의 취약점을 악용한 시스템 침해 발생",
+   "summary_ko": "AI가 생성한 GitHub Copilot의 Autofix 기능 취약점으로 인해 스노플레이크의 Jira 시스템이 위험에 노출되었습니다. AI 코딩 도구의 보안 검증 중요성을 보여줍니다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트",
+    "코딩",
+    "보안"
+   ]
+  },
+  {
    "id": "98e56a4e5d374ad9",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqszw0/llamacpp_version_v010_has_been_released/",
    "source": "r/LocalLLaMA",
@@ -123,6 +155,51 @@
    "tags": [
     "오픈소스",
     "llama.cpp"
+   ]
+  },
+  {
+   "id": "0af92ec24fd0de34",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqswsh/deepseek_v4_flash_with_antirez_dwarfstar_4_is/",
+   "source": "r/LocalLLaMA",
+   "title": "DeepSeek V4 Flash with Antirez Dwarfstar 4 is amazing.",
+   "published_at": "2026-08-17T13:50:27+00:00",
+   "collected_at": "2026-08-17T15:33:27.543730+00:00",
+   "title_ko": "DeepSeek V4 플래시 모델 활용기",
+   "summary_ko": "고사양 맥 스튜디오 환경에서 DeepSeek V4 Flash와 오픈소스 프레임워크를 조합하여 뛰어난 성능을 얻었다는 사용자 리뷰입니다. 로컬 LLM 구동의 새로운 가능성을 보여줍니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "로컬LLM"
+   ]
+  },
+  {
+   "id": "5a7d0636b02bb83e",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqsvqo/exl3_seems_to_be_fading_from_the_rlocalllama/",
+   "source": "r/LocalLLaMA",
+   "title": "EXL3 seems to be fading from the r/LocalLLaMa consciousness, and while I suspected it, I'm surprised at this point in time.",
+   "published_at": "2026-08-17T13:49:27+00:00",
+   "collected_at": "2026-08-17T15:33:27.543730+00:00",
+   "title_ko": "로컬 LLM 양자화 포맷 EXL3의 활용성과 한계",
+   "summary_ko": "llama.cpp의 대안인 EXL3 포맷과 TabbyAPI의 특징을 분석한 글입니다. 고성능 VRAM 환경에서의 효율성과 적용 고려사항을 다룹니다.",
+   "category": "참고",
+   "tags": [
+    "로컬LLM",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "9cf73f232e683609",
+   "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
+   "source": "Hacker News",
+   "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+   "published_at": "2026-08-17T13:44:23+00:00",
+   "collected_at": "2026-08-17T15:33:26.616894+00:00",
+   "title_ko": "희귀 도서 화물이 아마존 AI 학습 시설로 향한 사연",
+   "summary_ko": "희귀 도서 배송 추적 결과 아마존의 AI 학습 시설로 유입된 정황이 포착되었습니다. AI 모델 학습을 위한 데이터 수집 방식을 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "Amazon",
+    "데이터"
    ]
   },
   {
@@ -2954,83 +3031,6 @@
    "tags": [
     "OpenAI",
     "ChatGPT"
-   ]
-  },
-  {
-   "id": "9218b0468cdec5d6",
-   "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
-   "source": "Hacker News",
-   "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
-   "published_at": "2026-08-15T13:43:46+00:00",
-   "collected_at": "2026-08-15T23:28:40.807584+00:00",
-   "title_ko": "AI 에이전트 시대를 위한 BDD 프레임워크 'Yadda 3.0.0' 공개",
-   "summary_ko": "AI 에이전트가 주도하는 개발 환경에 발맞춰 행동 중심 개발(BDD) 방식을 지원하는 Yadda 3.0.0이 발표되었습니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "427ca5034af7335a",
-   "url": "https://news.hada.io/topic?id=32529",
-   "source": "GeekNews",
-   "title": "ballast - 작업을 목표를 완성하는 시스템으로 만드는 플러그인(Claude Code plugin)",
-   "published_at": "2026-08-15T13:43:32+00:00",
-   "collected_at": "2026-08-15T14:32:29.683692+00:00",
-   "title_ko": "Claude Code용 작업 자동화 시스템 플러그인 'ballast'",
-   "summary_ko": "Claude Code에서 세션이 바뀌어도 학습한 절차와 규칙이 유지되도록 돕는 시스템 플러그인입니다.",
-   "category": "팁",
-   "tags": [
-    "Claude",
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "d64ccb5c4dd0f67d",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vp2x49/gemma_4_e4b_iq2_xxs_14054_reasoning_performance/",
-   "source": "r/LocalLLaMA",
-   "title": "Gemma 4 E4B IQ2_XXS: + 140.54% Reasoning Performance From Tensor Level Quantization Allocation",
-   "published_at": "2026-08-15T13:29:08+00:00",
-   "collected_at": "2026-08-15T14:32:14.651653+00:00",
-   "title_ko": "텐서 레벨 양자화를 통한 Gemma 4 추론 성능 향상",
-   "summary_ko": "텐서 레벨 양자화 할당 기법을 통해 저용량 예산에서도 Gemma 모델의 추론 성능을 크게 끌어올렸습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "e2b9fee2b2ce6486",
-   "url": "https://www.reddit.com/r/singularity/comments/1vp2ezc/there_is_a_decent_indication_that_astragptnext_is/",
-   "source": "r/singularity",
-   "title": "There is a decent indication that Astra/gpt-next is going to release next month.",
-   "published_at": "2026-08-15T13:06:13+00:00",
-   "collected_at": "2026-08-15T16:35:03.775241+00:00",
-   "title_ko": "OpenAI 차세대 모델 'Astra/gpt-next' 다음 달 출시설",
-   "summary_ko": "파트너사들의 접근 정황과 소셜 미디어 활동을 기반으로 OpenAI의 차세대 모델이 다음 달 출시될 것이라는 추측이 제기되었습니다. 업계의 큰 관심을 받고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "GPT",
-    "AI 모델"
-   ]
-  },
-  {
-   "id": "e9eec3e01486c283",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vp1gpr/pov_qwen_3827b/",
-   "source": "r/LocalLLaMA",
-   "title": "POV: Qwen 3.8-27B",
-   "published_at": "2026-08-15T12:21:27+00:00",
-   "collected_at": "2026-08-15T12:53:48.281604+00:00",
-   "title_ko": "Qwen 3.8-27B 모델 등장",
-   "summary_ko": "새로운 오픈 모델인 Qwen 3.8-27B가 커뮤니티에서 테스트 및 논의되고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "Qwen"
    ]
   }
  ]
