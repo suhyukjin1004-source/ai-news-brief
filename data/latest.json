@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-17T11:34:50.262410+00:00",
+ "updated_at": "2026-08-17T13:00:38.911246+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -111,6 +111,22 @@
    ]
   },
   {
+   "id": "da258223d4ea22f1",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqrf6p/paper_interns2mobius_foundation_model_with/",
+   "source": "r/LocalLLaMA",
+   "title": "[Paper] Intern-S2-Mobius: Foundation Model with Decoupled Knowledge and Reasoning",
+   "published_at": "2026-08-17T12:49:03+00:00",
+   "collected_at": "2026-08-17T13:00:22.409569+00:00",
+   "title_ko": "지식과 추론을 분리한 파운데이션 모델 Intern-S2-Mobius 공개",
+   "summary_ko": "지식 저장과 추론 연산을 분리하는 아키텍처를 도입하여 지식 압축 효율과 추론 성능을 동시에 높인 새로운 7B 모델이 발표되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "인공지능",
+    "모델"
+   ]
+  },
+  {
    "id": "627b904cb0cf4138",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214022",
    "source": "AI타임스",
@@ -124,6 +140,22 @@
     "로보틱스",
     "온디바이스",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "a0b96461e4f5f481",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqqv2q/tencenteviepreview45b_hugging_face/",
+   "source": "r/LocalLLaMA",
+   "title": "tencent/EVIE-Preview-4.5B · Hugging Face",
+   "published_at": "2026-08-17T12:24:17+00:00",
+   "collected_at": "2026-08-17T13:00:22.409569+00:00",
+   "title_ko": "텐센트, 다국어 비주얼 문서 검색 모델 EVIE-Preview-4.5B 공개",
+   "summary_ko": "Qwen3.5 기반으로 개발된 이 모델은 멀티 벡터 임베딩을 통해 저장 및 인덱싱 비용을 획기적으로 줄이면서도 최고 수준의 문서 검색 성능을 제공합니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "임베딩",
+    "멀티모달"
    ]
   },
   {
@@ -560,6 +592,22 @@
    "tags": [
     "OpenRouter",
     "투자"
+   ]
+  },
+  {
+   "id": "5cf73db960dc1896",
+   "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+   "source": "Hacker News",
+   "title": "On A.I. regulation and messaging",
+   "published_at": "2026-08-17T01:59:56+00:00",
+   "collected_at": "2026-08-17T13:00:00.902468+00:00",
+   "title_ko": "Anthropic CEO의 AI 규제 및 메시징에 대한 견해",
+   "summary_ko": "앤스로픽의다리오 아모데이가 AI 규제의 방향성과 대중과의 소통 방식에 대한 입장을 밝혔습니다. 이는 향후 업계 정책 논의에 중요한 영향을 미칩니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "규제",
+    "AI"
    ]
   },
   {
@@ -2986,51 +3034,6 @@
    "tags": [
     "Anthropic",
     "투자"
-   ]
-  },
-  {
-   "id": "aaca96fa0e6a2afa",
-   "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
-   "source": "Hacker News",
-   "title": "Debian has begun voting on the future of AI/LLM contributions",
-   "published_at": "2026-08-15T09:20:07+00:00",
-   "collected_at": "2026-08-15T13:37:32.617042+00:00",
-   "title_ko": "데비안, AI 및 LLM 기여 관련 투표 개시",
-   "summary_ko": "리눅스 배포판 데비안이 AI 및 LLM 관련 코드 기여의 방향성과 수용 여부에 대한 투표를 시작했습니다. 오픈소스 생태계에서 AI 생성 코드의 지위를 결정하는 중요한 선례가 될 수 있습니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "규제"
-   ]
-  },
-  {
-   "id": "ec443f790cd5a38c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voxppd/qwen_38_35ba3b_spotted/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen 3.8 35BA3B spotted",
-   "published_at": "2026-08-15T08:49:06+00:00",
-   "collected_at": "2026-08-15T09:34:32.671825+00:00",
-   "title_ko": "신규 오픈소스 모델 Qwen 3.8 35B 포착",
-   "summary_ko": "GitHub 커밋 기록을 통해 새로운 Qwen 모델인 Qwen 3.8 35BA3B의 존재가 확인되었습니다. 향후 고성능 오픈소스 모델 생태계에 영향을 줄 것으로 기대됩니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "Qwen"
-   ]
-  },
-  {
-   "id": "7f5b96503311baeb",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vox89e/try_out_this_high_reasoning_mode_for_27b_tested/",
-   "source": "r/LocalLLaMA",
-   "title": "Try out this \"high\" reasoning mode for 27B (tested on VLLM)",
-   "published_at": "2026-08-15T08:19:05+00:00",
-   "collected_at": "2026-08-15T09:34:32.671825+00:00",
-   "title_ko": "27B 모델을 위한 추론 모드 최적화 팁",
-   "summary_ko": "27B 모델에서 중간 단계의 추론 모드가 제대로 작동하지 않는 문제를 분석하고 키워드를 활용해 고성능 추론 모드를 활성화하는 방법을 공유했습니다.",
-   "category": "팁",
-   "tags": [
-    "로컬LLM",
-    "코딩"
    ]
   }
  ]
