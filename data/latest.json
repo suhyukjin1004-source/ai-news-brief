@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-17T15:33:45.703688+00:00",
+ "updated_at": "2026-08-17T16:38:21.282473+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -95,6 +95,22 @@
    ]
   },
   {
+   "id": "d25c9a2bc4f16c78",
+   "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+   "source": "TechCrunch",
+   "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+   "published_at": "2026-08-17T16:15:12+00:00",
+   "collected_at": "2026-08-17T16:37:58.702746+00:00",
+   "title_ko": "Groq, AI 칩에서 네오클라우드로 전환하며 3.5억 달러 투자 유치",
+   "summary_ko": "AI 칩 제조사 Groq이 35억 달러 가치로 3.5억 달러의 투자를 유치하고 네오클라우드 사업으로의 피벗을 추진합니다. 이는 회사의 비즈니스 모델 변화를 보여주는 중요한 사건입니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "투자",
+    "반도체"
+   ]
+  },
+  {
    "id": "838ee81d90ff2a6b",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214028",
    "source": "AI타임스",
@@ -108,6 +124,21 @@
     "NVIDIA",
     "Google",
     "투자"
+   ]
+  },
+  {
+   "id": "d5b51fe322652879",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqvrh0/qwen_38_27b_overthinking_it_has_to_be_done_it_has/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen 3.8 27B Overthinking, It has to be done, it has to be overthinking to punch Opus 4.6",
+   "published_at": "2026-08-17T15:36:49+00:00",
+   "collected_at": "2026-08-17T16:38:04.886187+00:00",
+   "title_ko": "Qwen 모델의 과도한 추론 토큰 문제와 성능 트레이드오프",
+   "summary_ko": "소형 모델이 대형 모델과 경쟁하기 위해 과도한 추론 토큰을 소모하는 현상과 이에 따른 효율성 문제를 다룹니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
    ]
   },
   {
@@ -127,6 +158,21 @@
    ]
   },
   {
+   "id": "b20a07fed2953c9e",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqum89/deepseek_harnness_why_is_feels_better/",
+   "source": "r/LocalLLaMA",
+   "title": "Deepseek Harnness - why is feels better",
+   "published_at": "2026-08-17T14:54:57+00:00",
+   "collected_at": "2026-08-17T16:38:04.886187+00:00",
+   "title_ko": "Deepseek Harness의 효율성과 추론 성능 분석",
+   "summary_ko": "사용자들이 Deepseek Harness를 활용할 때 체감하는 뛰어난 효율성과 적절한 추론 과정의 비결에 대한 논의입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
    "id": "9d42513fa5c7d5e8",
    "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
    "source": "Hacker News",
@@ -140,6 +186,21 @@
     "AI 에이전트",
     "코딩",
     "보안"
+   ]
+  },
+  {
+   "id": "0c5fae00e926edf9",
+   "url": "https://www.librarian.net/notoai/",
+   "source": "Hacker News",
+   "title": "How to disable or avoid intrusive AI",
+   "published_at": "2026-08-17T14:07:56+00:00",
+   "collected_at": "2026-08-17T16:38:03.922799+00:00",
+   "title_ko": "침투형 AI 기능을 비활성화하거나 피하는 방법",
+   "summary_ko": "사용자 경험을 방해하는 강제적인 AI 기능을 차단하고 관리하는 방법에 대한 IT 커뮤니티의 논의입니다.",
+   "category": "팁",
+   "tags": [
+    "규제",
+    "AI 에이전트"
    ]
   },
   {
@@ -2972,65 +3033,6 @@
    "tags": [
     "오픈소스",
     "LLM"
-   ]
-  },
-  {
-   "id": "b9d46b0c65a9546f",
-   "url": "https://opensauce.it/cloudflare-ai-psychosis/",
-   "source": "Hacker News",
-   "title": "Cloudflare's AI Psychosis",
-   "published_at": "2026-08-15T14:08:40+00:00",
-   "collected_at": "2026-08-15T15:29:26.603660+00:00",
-   "title_ko": "클라우드플레어의 AI 관련 이슈 분석",
-   "summary_ko": "클라우드플레어 인프라 및 서비스와 관련된 AI 현상에 대한 기술적 논의가 이루어졌습니다.",
-   "category": "참고",
-   "tags": [
-    "AI"
-   ]
-  },
-  {
-   "id": "79fb683ebc1b16a7",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vp3oj0/alibaba_nuke_the_interia_close_source_ai_market/",
-   "source": "r/LocalLLaMA",
-   "title": "Alibaba nuke the interia close source AI market again",
-   "published_at": "2026-08-15T14:02:18+00:00",
-   "collected_at": "2026-08-15T14:32:14.651653+00:00",
-   "title_ko": "알리바바의 오픈소스 AI 공세 지속",
-   "summary_ko": "알리바바가 강력한 성능의 오픈소스 모델을 연이어 공개하며 폐쇄형 AI 시장에 위협을 가하고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "투자"
-   ]
-  },
-  {
-   "id": "5845863f75bda1d2",
-   "url": "https://www.reddit.com/r/singularity/comments/1vp3mps/the_second_cognitive_revolution_an_opinion_piece/",
-   "source": "r/singularity",
-   "title": "The Second Cognitive Revolution - an opinion piece",
-   "published_at": "2026-08-15T14:00:26+00:00",
-   "collected_at": "2026-08-15T16:35:03.775241+00:00",
-   "title_ko": "제2의 인지 혁명으로서의 AI",
-   "summary_ko": "기계가 인간의 언어를 습득하며 자가 발전하는 '제2의 인지 혁명'에 대한 고찰입니다. AI가 가져올 인류 지능의 변화를 다룹니다.",
-   "category": "참고",
-   "tags": [
-    "AI 철학",
-    "LLM"
-   ]
-  },
-  {
-   "id": "93e94f9651687b9f",
-   "url": "https://www.reddit.com/r/singularity/comments/1vp3eh6/chatgpt_upcoming_speed_improvements_summarized_by/",
-   "source": "r/singularity",
-   "title": "ChatGPT upcoming speed improvements summarized by OpenAI employee",
-   "published_at": "2026-08-15T13:50:22+00:00",
-   "collected_at": "2026-08-15T16:35:03.775241+00:00",
-   "title_ko": "ChatGPT 속도 개선 예정 사항 요약",
-   "summary_ko": "OpenAI 직원이 언급한 ChatGPT의 향후 속도 개선 관련 정보가 공유되었습니다. 서비스 성능 향상에 대한 기대를 높입니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "ChatGPT"
    ]
   }
  ]
