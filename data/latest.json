@@ -1,8 +1,40 @@
 {
- "updated_at": "2026-08-18T22:34:10.744313+00:00",
+ "updated_at": "2026-08-18T23:31:06.966345+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "b9dcf9b94a52b1b1",
+   "url": "https://www.reddit.com/r/singularity/comments/1vs524y/putting_money_where_their_mouth_is_anthropics/",
+   "source": "r/singularity",
+   "title": "Putting money where their mouth is: Anthropic’s Claude autonomously designs disease-targeting proteins with real wet-lab proof, hitting a 35% success rate vs 10–15% human average",
+   "published_at": "2026-08-18T23:06:38+00:00",
+   "collected_at": "2026-08-18T23:31:03.284316+00:00",
+   "title_ko": "앤트로픽 클로드, 자율 단백질 설계로 인간 기록 경신",
+   "summary_ko": "클로드가 습식 실험 검증을 거쳐 질병 표적 단백질을 자율 설계해 인간 평균(10~15%)을 뛰어넘는 35%의 성공률을 기록했습니다. AI의 신약 개발 역량이 실증 단계로 진입했음을 보여줍니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "바이오AI"
+   ]
+  },
+  {
+   "id": "d39afaf1897e764f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs43av/i_tested_dflash2_for_qwen38_27b_on_a_5090/",
+   "source": "r/LocalLLaMA",
+   "title": "I tested DFlash2 for Qwen3.8 27B on a 5090",
+   "published_at": "2026-08-18T22:26:53+00:00",
+   "collected_at": "2026-08-18T23:30:50.244230+00:00",
+   "title_ko": "Qwen 27B 모델 대상 DFlash2 추론 가속 테스트",
+   "summary_ko": "RTX 5090 환경에서 llama.cpp를 이용해 Qwen 모델과 DFlash2를 연동하여 추론 성능을 테스트한 사용자 후기입니다. 대형 언어 모델의 로컬 구동 효율성을 높이는 방법을 보여줍니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "코딩"
+   ]
+  },
   {
    "id": "6836a788ee9f93ee",
    "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
@@ -1907,6 +1939,22 @@
    ]
   },
   {
+   "id": "dfcf73efa3a68602",
+   "url": "https://openai.com/index/nvidia/chatgpt-work",
+   "source": "OpenAI",
+   "title": "How NVIDIA scales expertise with ChatGPT Work",
+   "published_at": "2026-08-18T00:00:00+00:00",
+   "collected_at": "2026-08-18T23:30:22.497664+00:00",
+   "title_ko": "엔비디아의 ChatGPT Work 활용을 통한 업무 효율화",
+   "summary_ko": "엔비디아 팀들이 ChatGPT Work를 도입해 수동 업무를 줄이고 전사적 워크플로우를 확장하는 사례를 공유했습니다. 기업용 AI 도입의 모범 사례를 제시합니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "NVIDIA",
+    "GPT"
+   ]
+  },
+  {
    "id": "e520424e436f5da3",
    "url": "https://huggingface.co/blog/multi-vector-encoder",
    "source": "Hugging Face",
@@ -2959,54 +3007,6 @@
    "tags": [
     "OpenAI",
     "GPT"
-   ]
-  },
-  {
-   "id": "f15b4f4f4098e543",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214021",
-   "source": "AI타임스",
-   "title": "'바이브 코딩' 러버블, 19조 가치로 텐센트 등서 5700억 투자 유치",
-   "published_at": "2026-08-17T12:03:36+00:00",
-   "collected_at": "2026-08-17T04:53:20.258823+00:00",
-   "title_ko": "바이브 코딩 스타트업 러버블, 19조 원 가치로 대규모 투자 유치",
-   "summary_ko": "스웨덴의 바이브 코딩 스타트업 러버블이 기업 가치 19조 원을 인정받으며 5700억 원 규모의 투자를 유치했다. AI 코딩 도구 시장의 급격한 성장을 보여준다.",
-   "category": "중요",
-   "tags": [
-    "투자",
-    "코딩",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "d90124515a954e95",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214015",
-   "source": "AI타임스",
-   "title": "스트라이프, 오픈라우터 10조에 인수...석달 만에 몸값 5배 폭등",
-   "published_at": "2026-08-17T11:50:55+00:00",
-   "collected_at": "2026-08-17T03:08:39.943179+00:00",
-   "title_ko": "스트라이프, 오픈라우터 10조 원대 인수",
-   "summary_ko": "핀테크 기업 스트라이프가 AI 모델 중개 플랫폼 오픈라우터를 약 10조 원에 인수하며 AI 인프라 시장에 진입했습니다. 멀티 모델 수요 급증에 따른 생태계 주도권 확보를 위한 행보입니다.",
-   "category": "중요",
-   "tags": [
-    "OpenRouter",
-    "투자",
-    "AI 인프라"
-   ]
-  },
-  {
-   "id": "659cc255316983d8",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqpc0f/100_worth_of_gpu_runs_qwen_38_27b_at_739_ts/",
-   "source": "r/LocalLLaMA",
-   "title": "100$ worth of gpu runs qwen 3.8 27b at 7.39 t/s",
-   "published_at": "2026-08-17T11:11:37+00:00",
-   "collected_at": "2026-08-17T11:34:32.623886+00:00",
-   "title_ko": "저렴한 중고 GPU로 대형 LLM 구동하기",
-   "summary_ko": "저렴한 중고 그래픽카드를 활용해 대형 오픈소스 모델인 Qwen을 로컬 환경에서 구동하는 실용적인 방법입니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체",
-    "코딩"
    ]
   }
  ]
