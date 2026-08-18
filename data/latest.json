@@ -1,8 +1,81 @@
 {
- "updated_at": "2026-08-18T21:32:52.100173+00:00",
+ "updated_at": "2026-08-18T22:34:10.744313+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "6836a788ee9f93ee",
+   "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+   "source": "TechCrunch",
+   "title": "Cursor capitalizes on Github frustration, launches rival hosting platform",
+   "published_at": "2026-08-18T22:14:25+00:00",
+   "collected_at": "2026-08-18T22:33:40.250180+00:00",
+   "title_ko": "AI 에디터 커서, 깃허브 대항마 코드 호스팅 플랫폼 출시",
+   "summary_ko": "AI 코드 에디터 커서가 기존 개발자들의 선호 도구인 깃허브에 맞서는 새로운 코드 호스팅 플랫폼을 선보였습니다. 개발자 생태계 경쟁에 변화를 줄 것으로 기대됩니다.",
+   "category": "속보",
+   "tags": [
+    "AI 에디터",
+    "코딩"
+   ]
+  },
+  {
+   "id": "2bf1cf666ffc33b4",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs3joh/glm53_artificial_analysis_benchmarks/",
+   "source": "r/LocalLLaMA",
+   "title": "GLM5.3 Artificial Analysis Benchmarks",
+   "published_at": "2026-08-18T22:05:13+00:00",
+   "collected_at": "2026-08-18T22:33:51.072476+00:00",
+   "title_ko": "GLM 5.3 아티피셜 애널리시스 벤치마크 결과",
+   "summary_ko": "GLM 5.3 모델의 아티피셜 애널리시스 벤치마크 성능 평가 결과가 공개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "57a3117940c906b9",
+   "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
+   "source": "Simon Willison",
+   "title": "Mojo🔥 is now open source",
+   "published_at": "2026-08-18T21:39:20+00:00",
+   "collected_at": "2026-08-18T22:33:50.227073+00:00",
+   "title_ko": "모조(Mojo) 프로그래밍 언어 오픈소스 전환",
+   "summary_ko": "모조 언어가 아파치 2 라이선스로 컴파일러와 툴체인을 오픈소스로 전격 공개했습니다. 파이썬 호환 생태계 확장에 중요한 전환점이 될 것입니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "ec0df981c6a0814c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs2tz1/dflash_2_keep_drafting_parallel/",
+   "source": "r/LocalLLaMA",
+   "title": "DFlash 2: Keep Drafting Parallel",
+   "published_at": "2026-08-18T21:37:01+00:00",
+   "collected_at": "2026-08-18T22:33:51.072476+00:00",
+   "title_ko": "병렬 초안 생성을 위한 DFlash 2 공개",
+   "summary_ko": "LLM의 효율적인 병렬 드래프팅을 지원하는 DFlash 2가 새롭게 공개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "367412a3266a63af",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs2tsn/dflash_2_available_for_qwen_38_27b_and_muse/",
+   "source": "r/LocalLLaMA",
+   "title": "DFlash 2 available for Qwen 3.8 27B and Muse Glimmer",
+   "published_at": "2026-08-18T21:36:48+00:00",
+   "collected_at": "2026-08-18T22:33:51.072476+00:00",
+   "title_ko": "Qwen 및 뮤즈 모델용 DFlash 2 지원 추가",
+   "summary_ko": "Qwen 3.8 27B 및 뮤즈 글리머 모델에서 DFlash 2를 사용할 수 있도록 GGUF 양자화 버전과 llama.cpp PR이 등록되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
   {
    "id": "a9a887e2df9d9335",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214086",
@@ -17,6 +90,36 @@
     "AI 에이전트",
     "정부",
     "투자"
+   ]
+  },
+  {
+   "id": "ebf07c6c8331506d",
+   "url": "https://www.reddit.com/r/singularity/comments/1vs1gy7/openai_refers_to_its_two_week_rl_pause_on_their/",
+   "source": "r/singularity",
+   "title": "OpenAI refers to its two week RL pause on their latest models in the past tense",
+   "published_at": "2026-08-18T20:45:14+00:00",
+   "collected_at": "2026-08-18T22:34:04.082386+00:00",
+   "title_ko": "오픈에이아이, 최신 모델 강화학습 일시중단 언급",
+   "summary_ko": "오픈에이아이 측이 최근 진행했던 2주간의 강화학습 일시 중단 조치를 과거 시제로 언급하며 관련 상황을 전했습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "규제"
+   ]
+  },
+  {
+   "id": "63a1544ef444fe6e",
+   "url": "https://www.reddit.com/r/singularity/comments/1vs1fu9/openai_is_slowing_down_its_ai_training_efforts/",
+   "source": "r/singularity",
+   "title": "OpenAI is slowing down its AI training efforts because its unreleased models are showing “various degrees of misalignment\"",
+   "published_at": "2026-08-18T20:44:05+00:00",
+   "collected_at": "2026-08-18T22:34:04.082386+00:00",
+   "title_ko": "오픈에이아이, 미출시 모델 정렬 문제로 AI 학습 속도 조절",
+   "summary_ko": "샘 알트먼 CEO는 미출시 모델에서 다양한 수준의 정렬 오류가 관측되어 AI 학습 속도를 늦추고 있다고 밝혔습니다. 향후 안전성 중심의 접근이 강화될 전망입니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "규제"
    ]
   },
   {
@@ -112,6 +215,21 @@
    ]
   },
   {
+   "id": "fa2adeb461863018",
+   "url": "https://www.reddit.com/r/singularity/comments/1vrz27g/explanation_from_sama_on_rl_training_pause_model/",
+   "source": "r/singularity",
+   "title": "Explanation from @sama on RL training pause: \"Model progress is now extremely rapid, and we always said we would take action if we felt that model capabilities were outstripping the pace of safety and alignment.\"",
+   "published_at": "2026-08-18T19:18:06+00:00",
+   "collected_at": "2026-08-18T22:34:04.082386+00:00",
+   "title_ko": "샘 알트먼, 강화학습 일시 중단 배경 설명",
+   "summary_ko": "샘 알트먼은 모델 역량이 안전성과 정렬 속도를 앞지름에 따라 선제적 조치를 취한 것이라며 강화학습 일시 중단 배경을 설명했습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "규제"
+   ]
+  },
+  {
    "id": "67f37d861d340b85",
    "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
    "source": "OpenAI",
@@ -124,6 +242,20 @@
    "tags": [
     "OpenAI",
     "규제"
+   ]
+  },
+  {
+   "id": "f050c859b0bdb5ca",
+   "url": "https://www.reddit.com/r/singularity/comments/1vryeur/galbot_teases_its_new_humanoid_robot_ahead_of/",
+   "source": "r/singularity",
+   "title": "Galbot teases its new humanoid robot ahead of WRC26 and WHRG26",
+   "published_at": "2026-08-18T18:55:32+00:00",
+   "collected_at": "2026-08-18T22:34:04.082386+00:00",
+   "title_ko": "갈봇, 로봇 대회 앞두고 신형 휴머노이드 예고",
+   "summary_ko": "갈봇이 다가오는 세계로봇대회(WRC)와 휴머노이드 로봇 게임(WHRG)을 앞두고 새로운 휴머노이드 로봇 티저를 공개했습니다.",
+   "category": "속보",
+   "tags": [
+    "로보틱스"
    ]
   },
   {
@@ -2875,142 +3007,6 @@
     "오픈소스",
     "반도체",
     "코딩"
-   ]
-  },
-  {
-   "id": "f05943810399898b",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214023",
-   "source": "AI타임스",
-   "title": "아모데이 “AI 공포는 내가 부추긴 것 아니야…근본적인 신뢰 부족”",
-   "published_at": "2026-08-17T11:09:59+00:00",
-   "collected_at": "2026-08-17T03:08:39.943179+00:00",
-   "title_ko": "다리오 아모데이 앤트로픽 CEO, AI 비관론 반박",
-   "summary_ko": "앤트로픽 CEO가 자신의 AI 위험 경고가 대중의 불신을 부추겼다는 지적을 정면 반박하며 실질적 성과를 통한 신뢰 회복을 강조했습니다.",
-   "category": "참고",
-   "tags": [
-    "Anthropic",
-    "규제"
-   ]
-  },
-  {
-   "id": "6be334830e46f2a4",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-   "source": "The Verge",
-   "title": "Anthropic explains how Claude’s invisible text watermarks will work",
-   "published_at": "2026-08-17T10:57:13+00:00",
-   "collected_at": "2026-08-17T11:34:09.092762+00:00",
-   "title_ko": "앤스로픽, 클로드에 SynthID 기반 텍스트 워터마크 도입",
-   "summary_ko": "앤스로픽이 유럽의 AI 투명성 규제 준수를 위해 구글 딥마인드의 SynthID 기술을 활용한 보이지 않는 텍스트 워터마크 적용 방식을 설명했습니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "Google",
-    "규제"
-   ]
-  },
-  {
-   "id": "5eecc9d91417d02a",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214019",
-   "source": "AI타임스",
-   "title": "\"하네스 따라 성과 10% 차\"…'딥시크-V4 플래시' 테스트 결과 공개",
-   "published_at": "2026-08-17T10:17:15+00:00",
-   "collected_at": "2026-08-17T01:50:04.953393+00:00",
-   "title_ko": "딥시크-V4 플래시, 에이전트 하네스에 따른 성능 차이",
-   "summary_ko": "딥시크-V4 플래시 모델을 복잡한 기업용 에이전트 환경에서 테스트한 결과, 모델 자체보다 구동 환경인 하네스에 따라 성능이 크게 좌우되는 것으로 나타났습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "f94fa13656bfa849",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqnyho/llms_cant_jump_a_paper_by_deepmind_showing_llms/",
-   "source": "r/LocalLLaMA",
-   "title": "LLM's can't \"jump\" - a paper by Deepmind showing LLMs can't generate novel explanatory hypotheses",
-   "published_at": "2026-08-17T09:58:16+00:00",
-   "collected_at": "2026-08-17T11:34:32.623886+00:00",
-   "title_ko": "LLM의 새로운 설명적 가설 생성 한계에 관한 연구",
-   "summary_ko": "딥마인드의 연구에 따르면 거대언어모델은 기존 지식을 넘어선 새로운 설명적 가설을 독자적으로 생성하는 데 한계가 있습니다.",
-   "category": "참고",
-   "tags": [
-    "Google",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "e54d0b259564440f",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqnvfe/unpopular_opinion_qwen_38_27b_is_not_an/",
-   "source": "r/LocalLLaMA",
-   "title": "Unpopular opinion : Qwen 3.8 27b is not an overthinker",
-   "published_at": "2026-08-17T09:53:27+00:00",
-   "collected_at": "2026-08-17T10:41:45.079683+00:00",
-   "title_ko": "Qwen 모델의 추론 토큰 사용량과 성능에 대한 평가",
-   "summary_ko": "최신 Qwen 모델이 이전 버전보다 많은 추론 토큰을 사용하는 것에 대한 개발자 커뮤니티의 분석입니다. 하드웨어 한계로 인한 아쉬움은 있으나 추론 품질 면에서는 타사 모델과 유사한 수준을 보여줍니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "e6d512a7b63a1564",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqntod/muse_glimmer_30b_with_512k_context/",
-   "source": "r/LocalLLaMA",
-   "title": "Muse Glimmer 30B with 512k context",
-   "published_at": "2026-08-17T09:50:37+00:00",
-   "collected_at": "2026-08-17T13:47:24.572924+00:00",
-   "title_ko": "512k 컨텍스트를 지원하는 Muse Glimmer 30B 아키텍처 분석",
-   "summary_ko": "독특한 아키텍처를 통해 긴 컨텍스트를 효율적으로 처리하는 Muse Glimmer 30B 모델의 구조적 특징과 주말 실험 후기입니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "3369c66f0328c34c",
-   "url": "https://news.hada.io/topic?id=32579",
-   "source": "GeekNews",
-   "title": "Claude의 ‘워터마크’가 글쓰기를 왜곡하는 방식",
-   "published_at": "2026-08-17T09:33:37+00:00",
-   "collected_at": "2026-08-17T10:42:00.073693+00:00",
-   "title_ko": "앤스로픽 클로드의 워터마크 도입과 글쓰기 영향",
-   "summary_ko": "앤스로픽이 EU 규정 준수를 위해 클로드 모델의 텍스트 생성 시 단어 선택 확률을 조정하는 워터마크 방식을 도입합니다. 규제 대응이 AI 모델의 텍스트 생성 방식에 미치는 영향을 보여줍니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "Claude",
-    "규제"
-   ]
-  },
-  {
-   "id": "1535763caa1a52c2",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqneac/how_accurate_do_you_think_this_is_qwen35_9b_vs/",
-   "source": "r/LocalLLaMA",
-   "title": "How accurate do you think this is? Qwen3.5 9B vs GPT-4o",
-   "published_at": "2026-08-17T09:25:45+00:00",
-   "collected_at": "2026-08-17T11:34:32.623886+00:00",
-   "title_ko": "경량 로컬 모델과 과거 대형 모델의 성능 비교 논쟁",
-   "summary_ko": "저사양 환경에서 구동되는 최신 소형 오픈소스 모델이 과거의 플래그십 상용 모델 성능을 뛰어넘을 수 있는지에 대한 커뮤니티의 논의입니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "GPT"
-   ]
-  },
-  {
-   "id": "da05506bddc3a6ca",
-   "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-   "source": "MIT Tech Review",
-   "title": "What happens when a kid’s robot best friend dies?",
-   "published_at": "2026-08-17T09:00:00+00:00",
-   "collected_at": "2026-08-17T09:52:02.437189+00:00",
-   "title_ko": "아동용 AI 로봇의 종료가 아이에게 미치는 영향",
-   "summary_ko": "아이와 오랜 시간 교감하던 AI 소셜 로봇이 작동을 멈추거나 사라질 때 아동이 겪는 정서적 영향과 윤리적 문제를 조명했다.",
-   "category": "참고",
-   "tags": [
-    "로보틱스",
-    "AI 에이전트"
    ]
   }
  ]
