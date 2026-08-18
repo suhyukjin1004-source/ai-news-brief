@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-18T11:34:34.498761+00:00",
+ "updated_at": "2026-08-18T13:02:42.015694+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -438,6 +438,21 @@
    ]
   },
   {
+   "id": "4c28f4f1fe56cd21",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vro3vf/linux_improves_vram_management_in_73_kernel/",
+   "source": "r/LocalLLaMA",
+   "title": "Linux Improves VRAM Management in 7.3 Kernel 🥳",
+   "published_at": "2026-08-18T12:43:26+00:00",
+   "collected_at": "2026-08-18T13:02:16.756860+00:00",
+   "title_ko": "리눅스 7.3 커널, VRAM 관리 기능 개선",
+   "summary_ko": "리눅스 7.3 커널에서 VRAM 관리가 개선되어 로컬 AI 모델 구동 시 메모리 효율성이 향상될 것으로 기대됩니다.",
+   "category": "참고",
+   "tags": [
+    "반도체",
+    "오픈소스"
+   ]
+  },
+  {
    "id": "270196da448656cd",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214048",
    "source": "AI타임스",
@@ -468,6 +483,21 @@
    ]
   },
   {
+   "id": "f62316247fefb399",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrnckt/hugging_face_just_surpassed_3_million_models_on/",
+   "source": "r/LocalLLaMA",
+   "title": "Hugging Face just surpassed 3 million models on the Hub",
+   "published_at": "2026-08-18T12:09:54+00:00",
+   "collected_at": "2026-08-18T13:02:16.756860+00:00",
+   "title_ko": "허깅페이스, 허브 등록 모델 300만 개 돌파",
+   "summary_ko": "오픈소스 AI 플랫폼 허깅페이스의 모델 허브에 등록된 AI 모델 수가 300만 개를 넘어섰습니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "Hugging Face"
+   ]
+  },
+  {
    "id": "bd442066f3137bc5",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214044",
    "source": "AI타임스",
@@ -495,6 +525,21 @@
    "category": "속보",
    "tags": [
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "c898a6c55ddbf9c7",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrm27o/deepseek_v4_flash_0731_on_strix_halo_draft_model/",
+   "source": "r/LocalLLaMA",
+   "title": "DeepSeek V4 Flash 0731 on Strix Halo: draft model, n_max sweep, and a launch line that actually helps",
+   "published_at": "2026-08-18T11:07:12+00:00",
+   "collected_at": "2026-08-18T13:02:16.756860+00:00",
+   "title_ko": "Strix Halo 하드웨어에서 DeepSeek V4 Flash 성능 분석",
+   "summary_ko": "Strix Halo 미니 PC 환경에서 DeepSeek V4 Flash 모델의 토큰 처리 속도와 메모리 사용량을 측정한 벤치마크 결과입니다.",
+   "category": "팁",
+   "tags": [
+    "DeepSeek",
+    "반도체"
    ]
   },
   {
@@ -542,6 +587,35 @@
    "tags": [
     "OpenAI",
     "GPT"
+   ]
+  },
+  {
+   "id": "722de7bce5319df6",
+   "url": "https://news.hada.io/topic?id=32615",
+   "source": "GeekNews",
+   "title": "Show GN: 해외 영상 자막으로 보기 피곤해서 한국어 음성 통역 데스크톱 앱을 만들었습니다",
+   "published_at": "2026-08-18T10:52:43+00:00",
+   "collected_at": "2026-08-18T13:02:31.230401+00:00",
+   "title_ko": "해외 영상 시청을 위한 한국어 음성 통역 데스크톱 앱 개발",
+   "summary_ko": "개발자가 해외 기술 영상 시청의 피로감을 줄이기 위해 직접 제작한 실시간 한국어 음성 통역 데스크톱 앱 소개입니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "9a14e181918fa1aa",
+   "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+   "source": "Hacker News",
+   "title": "Google buys crashed airline Spirit's data at auction, because AI",
+   "published_at": "2026-08-18T10:13:28+00:00",
+   "collected_at": "2026-08-18T13:01:55.041539+00:00",
+   "title_ko": "구글, AI 학습 목적으로 파산 항공사 데이터 경매 낙찰",
+   "summary_ko": "구글이 AI 모델 학습 데이터 확보를 위해 파산한 항공사 스피릿의 데이터를 경매를 통해 대량 매입했습니다.",
+   "category": "중요",
+   "tags": [
+    "Google",
+    "투자"
    ]
   },
   {
@@ -2926,80 +3000,6 @@
    "tags": [
     "오픈소스",
     "코딩"
-   ]
-  },
-  {
-   "id": "08e6169d681d04d1",
-   "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-   "source": "Hacker News",
-   "title": "Models Are Getting Dumber on Purpose",
-   "published_at": "2026-08-16T19:04:26+00:00",
-   "collected_at": "2026-08-16T21:28:39.908587+00:00",
-   "title_ko": "일부 AI 모델들이 의도적으로 성능을 낮추고 있다는 분석",
-   "summary_ko": "AI 모델들이 비용 절감이나 안전성 등의 이유로 의도적으로 성능이 저하된 답변을 내놓고 있다는 주장이 제기되었습니다.",
-   "category": "참고",
-   "tags": [
-    "LLM",
-    "AI 성능"
-   ]
-  },
-  {
-   "id": "ece8532ba7a93d6d",
-   "url": "https://math-ai-org.github.io/mathcode/",
-   "source": "Hacker News",
-   "title": "MathCode, Mathematical Coding Agent",
-   "published_at": "2026-08-16T18:17:10+00:00",
-   "collected_at": "2026-08-17T11:34:11.386301+00:00",
-   "title_ko": "수학 및 코딩 전문 AI 에이전트 'MathCode' 공개",
-   "summary_ko": "수학적 추론과 프로그래밍 작업을 수행할 수 있는 새로운 AI 에이전트 시스템이 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "51eaf489a07afc87",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214011",
-   "source": "AI타임스",
-   "title": "GLM-5.3, '커서' 보안 취약점 찾아냈다...AI 보안 역량 입증",
-   "published_at": "2026-08-16T18:16:38+00:00",
-   "collected_at": "2026-08-16T10:32:41.484449+00:00",
-   "title_ko": "지푸 AI 'GLM-5.3', 커서 보안 취약점 발견",
-   "summary_ko": "중국 지푸 AI의 오픈웨이트 모델 GLM-5.3이 코딩 플랫폼 커서의 심각한 보안 취약점을 발견하며 AI의 사이버 보안 역량을 입증했습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "보안"
-   ]
-  },
-  {
-   "id": "f2b0ce54033b3bb3",
-   "url": "https://www.reddit.com/r/singularity/comments/1vq47ol/we_are_not_at_singularity_moment_we_are_at_dexter/",
-   "source": "r/singularity",
-   "title": "We are not at singularity moment. We are at Dexter moment.",
-   "published_at": "2026-08-16T18:12:30+00:00",
-   "collected_at": "2026-08-16T20:33:02.497536+00:00",
-   "title_ko": "구글 TTS 모델의 오류와 AI 기술에 대한 환멸",
-   "summary_ko": "음성 변환 AI 모델 사용 중 발생한 치명적인 오류를 통해 현세대 AI의 한계와 환상을 지적함.",
-   "category": "참고",
-   "tags": [
-    "Google"
-   ]
-  },
-  {
-   "id": "d8599c007505d9e2",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214007",
-   "source": "AI타임스",
-   "title": "허깅페이스 점령한 중국 AI...'큐원' 다운로드 20억건·파생 모델 15만개",
-   "published_at": "2026-08-16T18:00:03+00:00",
-   "collected_at": "2026-08-16T10:32:41.484449+00:00",
-   "title_ko": "알리바바 큐원, 허깅페이스 다운로드 20억 건 돌파",
-   "summary_ko": "알리바바의 AI 모델 '큐원'이 허깅페이스에서 다운로드 20억 건과 파생 모델 15만 개를 기록하며 오픈소스 시장의 주류로 부상했습니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "중국 AI"
    ]
   }
  ]
