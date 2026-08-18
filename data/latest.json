@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-18T17:36:38.227482+00:00",
+ "updated_at": "2026-08-18T18:51:08.089604+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -35,6 +35,36 @@
    ]
   },
   {
+   "id": "41b38a7b45b7e753",
+   "url": "https://www.reddit.com/r/singularity/comments/1vrxua9/openais_largest_planned_frontier_rl_run_is_still/",
+   "source": "r/singularity",
+   "title": "OpenAI's largest planned frontier RL run is still on hold",
+   "published_at": "2026-08-18T18:35:41+00:00",
+   "collected_at": "2026-08-18T18:51:01.479891+00:00",
+   "title_ko": "OpenAI의 대규모 강화학습(RL) 실행 보류",
+   "summary_ko": "OpenAI의 대규모 프론티어 RL 실행이 보류되면서 단기적인 신규 모델 출시가 지연될 가능성이 제기되었습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "모델"
+   ]
+  },
+  {
+   "id": "1527ff54f03421ed",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrxoxy/ling30_bailingmoe3_lands_in_llamacpp_mainline/",
+   "source": "r/LocalLLaMA",
+   "title": "Ling-3.0 (BailingMoE3) lands in llama.cpp mainline - Quick benchmarks on Intel Arc B580",
+   "published_at": "2026-08-18T18:30:28+00:00",
+   "collected_at": "2026-08-18T18:51:00.612602+00:00",
+   "title_ko": "llama.cpp, Ling-3.0(BailingMoE3) 공식 지원 추가",
+   "summary_ko": "llama.cpp가 Ling-3.0 모델 지원을 공식 병합하여 로컬 환경 구동이 가능해졌습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
    "id": "d77ec901f67d6a01",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214055",
    "source": "AI타임스",
@@ -63,6 +93,36 @@
    ]
   },
   {
+   "id": "5ce8103476b1f3ac",
+   "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+   "source": "Hugging Face",
+   "title": "How Much Memory Does Your Agent Actually Need?",
+   "published_at": "2026-08-18T18:09:38+00:00",
+   "collected_at": "2026-08-18T18:50:31.742565+00:00",
+   "title_ko": "AI 에이전트를 위한 최적의 메모리 용량 분석",
+   "summary_ko": "효율적인 AI 에이전트 구동에 필요한 메모리 요구량을 다룬 분석 자료입니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "메모리"
+   ]
+  },
+  {
+   "id": "0318adc7ba0cb660",
+   "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+   "source": "TechCrunch",
+   "title": "OpenAI institutes new safeguards after Hugging Face breach",
+   "published_at": "2026-08-18T18:00:00+00:00",
+   "collected_at": "2026-08-18T18:50:29.843291+00:00",
+   "title_ko": "OpenAI, 허깅페이스 보안 사고 이후 신규 보안 조치 도입",
+   "summary_ko": "허깅페이스 유출 사태를 계기로 OpenAI가 모델 개발 과정의 모니터링과 정렬 및 보안을 강화했습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "규제"
+   ]
+  },
+  {
    "id": "1a1ab73e3c4344f5",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214079",
    "source": "AI타임스",
@@ -75,6 +135,21 @@
    "tags": [
     "Anthropic",
     "규제"
+   ]
+  },
+  {
+   "id": "3640ca0805904a1a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrwsfl/memory_prices_climb_500_in_12_months_up_to_10x/",
+   "source": "r/LocalLLaMA",
+   "title": "Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices - 128GB of DDR5 now $3,399",
+   "published_at": "2026-08-18T17:59:01+00:00",
+   "collected_at": "2026-08-18T18:51:00.612602+00:00",
+   "title_ko": "1년 새 500% 폭등한 AI 메모리 가격",
+   "summary_ko": "DDR5 등 서버 및 고성능 AI 구동용 메모리 가격이 급등하면서 인프라 구축 비용 부담이 커지고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "반도체",
+    "투자"
    ]
   },
   {
@@ -104,6 +179,21 @@
    "category": "참고",
    "tags": [
     "규제"
+   ]
+  },
+  {
+   "id": "bdaead1603521831",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrwn1f/qwen38_24t_open_weights_made_a_call_of_duty_clone/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8 2.4T open weights made a Call of Duty clone",
+   "published_at": "2026-08-18T17:53:44+00:00",
+   "collected_at": "2026-08-18T18:51:00.612602+00:00",
+   "title_ko": "Qwen3.8 2.4T 오픈 웨이트 모델 공개",
+   "summary_ko": "알리바바가 공개한 대형 오픈 웨이트 모델 Qwen3.8 2.4T가 로컬 AI 커뮤니티에 새로운 가능성을 열어주고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "모델"
    ]
   },
   {
@@ -138,6 +228,21 @@
    ]
   },
   {
+   "id": "85fb1e2d1b265ae6",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrw4sz/i_pushed_qwen3827b_to_124_tps_on_a_single_request/",
+   "source": "r/LocalLLaMA",
+   "title": "I pushed Qwen3.8-27B to 124 tps on a single request on a RTX 3090",
+   "published_at": "2026-08-18T17:35:35+00:00",
+   "collected_at": "2026-08-18T18:51:00.612602+00:00",
+   "title_ko": "RTX 3090에서 Qwen3.8-27B 초고속 추론 달성",
+   "summary_ko": "최적화된 추론 엔진을 통해 단일 RTX 3090 환경에서 Qwen3.8-27B 모델이 초당 124 토큰의 속도를 기록했습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "모델"
+   ]
+  },
+  {
    "id": "a37bf4f4fcaf24b0",
    "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
    "source": "TechCrunch",
@@ -166,6 +271,21 @@
     "NVIDIA",
     "반도체",
     "투자"
+   ]
+  },
+  {
+   "id": "1e907c1ba3f51440",
+   "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+   "source": "Hacker News",
+   "title": "Claude Code weekly limits reduce by a third tomorrow",
+   "published_at": "2026-08-18T17:02:15+00:00",
+   "collected_at": "2026-08-18T18:50:34.317414+00:00",
+   "title_ko": "Anthropic, Claude Code 주간 사용량 제한 인하",
+   "summary_ko": "Anthropic의 개발자 도구인 Claude Code의 주간 이용 한도가 조정될 예정입니다.",
+   "category": "속보",
+   "tags": [
+    "Anthropic",
+    "Claude"
    ]
   },
   {
@@ -288,6 +408,22 @@
    ]
   },
   {
+   "id": "702ef42b21ddc311",
+   "url": "https://www.reddit.com/r/singularity/comments/1vruawz/and_samsung_has_started_using_anthropics_claude/",
+   "source": "r/singularity",
+   "title": "And Samsung has started using Anthropic’s Claude Code for chip design, reportedly compressing a month of work into two days, but...",
+   "published_at": "2026-08-18T16:32:43+00:00",
+   "collected_at": "2026-08-18T18:51:01.479891+00:00",
+   "title_ko": "삼성전자, 칩 설계에 Claude Code 도입했으나 오류 발생",
+   "summary_ko": "삼성전자가 칩 디자인에 Claude Code를 도입해 개발 기간을 단축했으나, 무단 변경 및 마스킹 오류 등의 한계도 함께 드러났습니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "코딩"
+   ]
+  },
+  {
    "id": "c39ef5a33b714d74",
    "url": "https://status.claude.com/incidents/q7txxvbsftgq",
    "source": "Hacker News",
@@ -373,6 +509,21 @@
    "category": "중요",
    "tags": [
     "투자"
+   ]
+  },
+  {
+   "id": "bb60b9e4381274f3",
+   "url": "https://www.reddit.com/r/singularity/comments/1vrsn4q/scaling_selfverification_with_deepseek_v4_flash/",
+   "source": "r/singularity",
+   "title": "Scaling self-verification with DeepSeek V4 Flash beats Claude Fable 5 on Terminal-Bench 2.1, while being 11x cheaper",
+   "published_at": "2026-08-18T15:37:33+00:00",
+   "collected_at": "2026-08-18T18:51:01.479891+00:00",
+   "title_ko": "DeepSeek V4 Flash, 뛰어난 가성비로 벤치마크 석권",
+   "summary_ko": "자체 검증 스케일링을 적용한 DeepSeek V4 Flash가 터미널 벤치마크에서 뛰어난 성능을 저렴한 비용으로 기록했습니다.",
+   "category": "중요",
+   "tags": [
+    "모델",
+    "오픈소스"
    ]
   },
   {
@@ -902,6 +1053,21 @@
    "tags": [
     "DeepSeek",
     "반도체"
+   ]
+  },
+  {
+   "id": "68c52c81310f1d0e",
+   "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+   "source": "OpenAI",
+   "title": "Pacing model development in an era of cyber-critical capabilities",
+   "published_at": "2026-08-18T11:00:00+00:00",
+   "collected_at": "2026-08-18T18:50:30.794846+00:00",
+   "title_ko": "사이버 보안 시대에 발맞춘 OpenAI의 모델 개발 속도 조절",
+   "summary_ko": "OpenAI가 사이버 보안 및 안전성을 확보하기 위해 프론티어 AI 모델의 개발 속도와 모니터링 방침을 조정합니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "규제"
    ]
   },
   {
@@ -2839,169 +3005,6 @@
     "오픈소스",
     "LLM",
     "하드웨어"
-   ]
-  },
-  {
-   "id": "f137d9ea2f9f034d",
-   "url": "https://openai.com/index/the-defenders-window",
-   "source": "OpenAI",
-   "title": "The Defender’s Window",
-   "published_at": "2026-08-17T05:30:00+00:00",
-   "collected_at": "2026-08-17T13:47:15.127791+00:00",
-   "title_ko": "OpenAI, AI 기반 사이버 보안 대응 전략 발표",
-   "summary_ko": "AI가 공격자와 방어자 모두에게 미치는 영향 속에서 OpenAI가 자사 보안을 강화하고 보안 팀을 지원하기 위한 방안을 소개했습니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI"
-   ]
-  },
-  {
-   "id": "ad5623d5cc7091de",
-   "url": "https://openai.com/index/openai-joins-ports-pike-project",
-   "source": "OpenAI",
-   "title": "OpenAI joins PORTS-Pike project",
-   "published_at": "2026-08-17T05:00:00+00:00",
-   "collected_at": "2026-08-17T13:47:15.127791+00:00",
-   "title_ko": "OpenAI, PORTS-Pike 프로젝트 합류",
-   "summary_ko": "OpenAI가 지역 사회 투자를 확대하고 일자리를 지원하기 위해 PORTS-Pike 프로젝트에 참여했습니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "투자"
-   ]
-  },
-  {
-   "id": "ec72360ecd2bcaf8",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqhw5s/share_your_favorite_thoughts_and_reasoning_from/",
-   "source": "r/LocalLLaMA",
-   "title": "Share your favorite thoughts and reasoning from running Qwen 3.8 27b. This is mine.",
-   "published_at": "2026-08-17T04:10:17+00:00",
-   "collected_at": "2026-08-17T05:42:36.524775+00:00",
-   "title_ko": "Qwen 27B 모델의 추론 과정과 디버깅 일화 공유",
-   "summary_ko": "Qwen 모델을 이용해 버그를 디버깅하는 과정에서 모델이 추론만으로 해결하려다 실제 테스트의 필요성을 깨닫고 좌절하는 듯한 독특한 반응을 보여 흥미를 끕니다. LLM의 추론 및 문제 해결 성향을 엿볼 수 있는 사례입니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "b0fb09d2789ef5b9",
-   "url": "https://www.reddit.com/r/singularity/comments/1vqgvph/delhi_hc_declines_interim_injunction_against/",
-   "source": "r/singularity",
-   "title": "Delhi HC declines interim injunction against OpenAI in ANI copyright suit",
-   "published_at": "2026-08-17T03:19:35+00:00",
-   "collected_at": "2026-08-17T08:55:01.878996+00:00",
-   "title_ko": "인도 법원, ANI의 오픈AI 저작권 소송 가처분 신청 기각",
-   "summary_ko": "인도 고등법원이 LLM 학습의 데이터 가치를 인정하며 언론사의 오픈AI 상대 저작권 침해 가처분 신청을 기각했습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "규제"
-   ]
-  },
-  {
-   "id": "96670aeff66e996d",
-   "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-   "source": "OpenAI",
-   "title": "New policy ideas for the Intelligence Age",
-   "published_at": "2026-08-17T03:15:00+00:00",
-   "collected_at": "2026-08-17T11:34:09.976054+00:00",
-   "title_ko": "오픈아이, 지능 시대를 위한 새로운 AI 정책 프로젝트 지원",
-   "summary_ko": "오픈에이아이가 경제적 기회 확대와 사회적 회복력 강화를 목표로 14개의 독립적인 AI 정책 연구 프로젝트를 지원합니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "규제"
-   ]
-  },
-  {
-   "id": "fec334e92ef1bdf0",
-   "url": "https://www.reddit.com/r/singularity/comments/1vqgrft/the_worldwide_humanoid_robots_games_are_back_this/",
-   "source": "r/singularity",
-   "title": "The Worldwide Humanoid Robots Games are back this Saturday, with over 2000 robots and 666 teams from 16 countries",
-   "published_at": "2026-08-17T03:13:51+00:00",
-   "collected_at": "2026-08-17T08:55:01.878996+00:00",
-   "title_ko": "전 세계 휴머노이드 로봇 올림피아드 베이징서 개최",
-   "summary_ko": "16개국에서 2천여 대의 로봇과 수백 개 팀이 참가하는 대규모 휴머노이드 로봇 경기가 베이징에서 막을 올립니다.",
-   "category": "속보",
-   "tags": [
-    "로보틱스"
-   ]
-  },
-  {
-   "id": "e9aeaf3905ee5994",
-   "url": "https://www.reddit.com/r/singularity/comments/1vqgl0d/what_are_the_chances_that_if_everything_goes/",
-   "source": "r/singularity",
-   "title": "What are the chances that, if everything goes wrong with AI, the entire world would collaborate to 'unplug' it?",
-   "published_at": "2026-08-17T03:05:16+00:00",
-   "collected_at": "2026-08-17T08:55:01.878996+00:00",
-   "title_ko": "AI 비상 상황 시 전 세계적 공조 가능성에 대한 고찰",
-   "summary_ko": "과거 오존층 파괴 물질 규제 사례에 빗대어, AI 통제 불능 상황 발생 시 전 세계가 협력해 전원을 차단할 수 있을지 논의합니다.",
-   "category": "참고",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "82ab42a76cb79cbc",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqfyr6/i_just_ran_qwen_38_27_in_q4_against_gpt_56_sol/",
-   "source": "r/LocalLLaMA",
-   "title": "I just ran Qwen 3.8 27 in Q4 against GPT 5.6 Sol high - and it easily won against SOL - complex animated SVG tasks",
-   "published_at": "2026-08-17T02:35:31+00:00",
-   "collected_at": "2026-08-17T04:53:07.066248+00:00",
-   "title_ko": "Qwen 최신 모델, 고난도 SVG 생성 작업서 우수성 입증",
-   "summary_ko": "양자화된 Qwen 모델이 복잡한 애니메이션 SVG 생성 태스크에서 경쟁력 있는 성능을 보여주며 오픈소스 LLM의 가능성을 증명했다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "Qwen"
-   ]
-  },
-  {
-   "id": "15b7ff7df4660866",
-   "url": "https://news.hada.io/topic?id=32575",
-   "source": "GeekNews",
-   "title": "Stripe, 10.5조원 이상에 AI 기업 OpenRouter 인수",
-   "published_at": "2026-08-17T02:31:57+00:00",
-   "collected_at": "2026-08-17T03:08:41.132149+00:00",
-   "title_ko": "스트라이프, 오픈라우터 인수 합의",
-   "summary_ko": "결제 기업 스트라이프가 다양한 AI 모델 접근성을 제공하는 오픈라우터를 70억 달러 이상에 인수하기로 최종 합의했습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenRouter",
-    "투자"
-   ]
-  },
-  {
-   "id": "5cf73db960dc1896",
-   "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
-   "source": "Hacker News",
-   "title": "On A.I. regulation and messaging",
-   "published_at": "2026-08-17T01:59:56+00:00",
-   "collected_at": "2026-08-17T13:00:00.902468+00:00",
-   "title_ko": "Anthropic CEO의 AI 규제 및 메시징에 대한 견해",
-   "summary_ko": "앤스로픽의다리오 아모데이가 AI 규제의 방향성과 대중과의 소통 방식에 대한 입장을 밝혔습니다. 이는 향후 업계 정책 논의에 중요한 영향을 미칩니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "규제",
-    "AI"
-   ]
-  },
-  {
-   "id": "83cae1891acce310",
-   "url": "https://news.hada.io/topic?id=32572",
-   "source": "GeekNews",
-   "title": "프로덕트 매니저 역할의 새로운 정의",
-   "published_at": "2026-08-17T01:23:01+00:00",
-   "collected_at": "2026-08-17T01:50:06.302766+00:00",
-   "title_ko": "AI 시대 프로덕트 매니저 역할의 재정의",
-   "summary_ko": "AI로 인해 누구나 앱을 만들 수 있게 된 시대에 프로덕트 매니저가 가져야 할 역할과 문제 해결 관점에 대한 인사이트를 다룹니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
    ]
   }
  ]
