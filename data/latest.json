@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-18T14:44:08.929498+00:00",
+ "updated_at": "2026-08-18T15:40:02.298522+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -391,6 +391,21 @@
    ]
   },
   {
+   "id": "ed5a97356ebf3d3d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrqamv/if_the_weights_never_change_is_it_really/",
+   "source": "r/LocalLLaMA",
+   "title": "If the weights never change, is it really recursive self-improvement?",
+   "published_at": "2026-08-18T14:10:40+00:00",
+   "collected_at": "2026-08-18T15:39:45.399310+00:00",
+   "title_ko": "가중치 고정 상태의 재귀적 자기 개선에 대한 고찰",
+   "summary_ko": "모델 가중치의 변화 없이 지속적인 메모리와 연구 상태를 활용하는 방식이 진정한 의미의 자기 개선인지 논의합니다. 이는 모델의 구조적 변화 없이 메모리를 활용하는 자동화 연구의 범주에 속합니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
    "id": "54f29b2d7e96220b",
    "url": "https://news.hada.io/topic?id=32618",
    "source": "GeekNews",
@@ -463,6 +478,21 @@
    "tags": [
     "코딩",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "6123ae6c9dc8bb46",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrps78/what_sandbox_are_you_all_using_for_ai_agents/",
+   "source": "r/LocalLLaMA",
+   "title": "What sandbox are you all using for AI agents?",
+   "published_at": "2026-08-18T13:51:22+00:00",
+   "collected_at": "2026-08-18T15:39:45.399310+00:00",
+   "title_ko": "AI 코딩 에이전트를 위한 샌드박스 환경 추천",
+   "summary_ko": "파일 삭제 등 예기치 않은 위험을 방지하기 위해 AI 코딩 에이전트 실행 시 활용할 수 있는 안전한 샌드박스 환경에 대한 개발자들의 논의입니다. 실무에서 에이전트의 안전한 격리를 위해 중요합니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
    ]
   },
   {
@@ -662,6 +692,21 @@
    "tags": [
     "오픈소스",
     "코딩"
+   ]
+  },
+  {
+   "id": "ee61bce9e9c8d1f3",
+   "url": "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/",
+   "source": "Hacker News",
+   "title": "Meta Files Patent for Facial Recognition, Automatic Recording of People",
+   "published_at": "2026-08-18T12:23:55+00:00",
+   "collected_at": "2026-08-18T15:39:43.768707+00:00",
+   "title_ko": "메타, 안면 인식 및 자동 녹화 특허 출원",
+   "summary_ko": "메타가 안면 인식과 사람들의 자동 녹화를 위한 기술 특허를 출원했습니다. 이는 AI 기반 프라이버시 침해 우려와 규제 논의에 중요한 영향을 미칩니다.",
+   "category": "중요",
+   "tags": [
+    "Meta",
+    "규제"
    ]
   },
   {
@@ -1409,6 +1454,20 @@
     "오픈소스",
     "LLM",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "7d5bd78428be34b8",
+   "url": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/",
+   "source": "Hacker News",
+   "title": "My friends all hate AI; I just joined an AI startup",
+   "published_at": "2026-08-17T21:47:30+00:00",
+   "collected_at": "2026-08-18T15:39:44.193817+00:00",
+   "title_ko": "AI 스타트업 합류와 업계 인식에 대한 소회",
+   "summary_ko": "주변의 AI 회의론에도 불구하고 AI 스타트업에 합류하게 된 배경과 업계 동향에 대한 단상입니다. 현재 AI 산업에 대한 개발자 사회의 시각을 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "투자"
    ]
   },
   {
@@ -2940,68 +2999,6 @@
     "Qwen",
     "오픈소스",
     "LLM"
-   ]
-  },
-  {
-   "id": "ea1df8efba8790ce",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqa7qh/llamacpp_rocm_72714_upgrade_radeon_780m_igpu/",
-   "source": "r/LocalLLaMA",
-   "title": "Llama.cpp ROCm 7.2->7.14 upgrade, Radeon 780m iGPU benchmarks: ROCm vs Vulkan",
-   "published_at": "2026-08-16T22:11:19+00:00",
-   "collected_at": "2026-08-16T23:29:05.611001+00:00",
-   "title_ko": "Llama.cpp의 ROCm 7.14 업데이트와 Radeon 780m 벤치마크",
-   "summary_ko": "Llama.cpp가 ROCm을 7.14로 업그레이드하며 Radeon 780m iGPU 지원을 추가했습니다. 내장 그래픽 환경에서 로컬 LLM 구동 성능을 높이는 데 기여합니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "NVIDIA",
-    "반도체"
-   ]
-  },
-  {
-   "id": "0bc7fef7998a51c2",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq9zc8/qwen_38_27b_vs_36_27b_how_good_is_with_a_turtle/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen 3.8 27b vs 3.6 27b - how good is with a Turtle library.",
-   "published_at": "2026-08-16T22:01:23+00:00",
-   "collected_at": "2026-08-16T22:31:23.489515+00:00",
-   "title_ko": "Qwen 3.8 27B 모델의 터틀 그래픽 코딩 성능 비교",
-   "summary_ko": "파이썬 터틀 라이브러리를 활용한 재귀 알고리즘 테스트에서 Qwen 3.8 27B가 이전 버전에 비해 대폭 향상된 코딩 능력을 보여주었습니다. 로컬 LLM의 실무 코딩 활용도가 높아지고 있음을 보여줍니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "81603460e9838e67",
-   "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-   "source": "Simon Willison",
-   "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
-   "published_at": "2026-08-16T22:00:39+00:00",
-   "collected_at": "2026-08-16T22:31:22.650904+00:00",
-   "title_ko": "알리바바, 오픈소스 비전 LLM 'Qwen 3.8 27B' 공개",
-   "summary_ko": "알리바바 Qwen 연구소가 Apache 2 라이선스의 27B 파라미터 비전 LLM을 출시했습니다. 랩탑에서 구동 가능한 크기이면서도 이전 세대와 폐쇄형 모델을 뛰어넘는 성능을 보여 주목받고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "AI"
-   ]
-  },
-  {
-   "id": "0f2dda7c9a41a2bd",
-   "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-   "source": "Hacker News",
-   "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-   "published_at": "2026-08-16T21:53:43+00:00",
-   "collected_at": "2026-08-16T23:29:04.601625+00:00",
-   "title_ko": "Anthropic Claude의 워터마크 텍스트 변조 논란",
-   "summary_ko": "Claude가 생성하는 텍스트에 워터마크를 도입한 것이 글쓰기의 본질을 훼손한다는 비판이 제기되었습니다. AI 생성 콘텐츠 식별 방식에 대한 업계의 윤리적 논쟁을 보여줍니다.",
-   "category": "참고",
-   "tags": [
-    "Anthropic",
-    "Claude",
-    "규제"
    ]
   }
  ]
