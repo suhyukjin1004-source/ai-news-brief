@@ -16,6 +16,66 @@
   ]
  },
  {
+  "id": "74c79ad006e4bdbe",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs0wsl/alibabas_riscv_cpu_xuantie_c950_runs_qwen38_27b/",
+  "source": "r/LocalLLaMA",
+  "title": "Alibaba's RISC-V CPU, XuanTie C950, Runs Qwen-3.8 27B at 30 tps",
+  "published_at": "2026-08-18T20:24:39+00:00",
+  "collected_at": "2026-08-18T20:33:30.227226+00:00",
+  "title_ko": "알리바바 RISC-V CPU, Qwen-3.8 27B 구동 성공",
+  "summary_ko": "알리바바의 XuanTie C950 RISC-V CPU가 Qwen-3.8 27B 모델을 초당 30토큰 속도로 구동해 GPU 없이도 고성능 LLM 실행이 가능함을 입증했습니다.",
+  "category": "속보",
+  "tags": [
+   "Alibaba",
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "c07d18dda2ca1d55",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs05w0/qwen_38_27b_is_the_deepseek_moment_for_local/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen 3.8 27B is the DeepSeek moment for local models. It matches frontier intelligence from just a few months ago and outperforms Google’s current frontier model. No big data center is needed as almost every serious local model expert can run it on their own hardware.",
+  "published_at": "2026-08-18T19:57:54+00:00",
+  "collected_at": "2026-08-18T20:33:30.227226+00:00",
+  "title_ko": "Qwen 3.8 27B, 로컬 AI 모델의 판도를 바꾸다",
+  "summary_ko": "새롭게 공개된 Qwen 3.8 27B 모델은 불과 몇 달 전의 최첨단 AI 성능을 기록하며 개인 하드웨어에서도 고성능 AI를 구동할 수 있는 전환점을 마련했습니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "2d51ba718fc2d759",
+  "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+  "source": "The Verge",
+  "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+  "published_at": "2026-08-18T19:48:26+00:00",
+  "collected_at": "2026-08-18T20:33:26.617986+00:00",
+  "title_ko": "고(故) 로빈 윌리엄스 인스타그램, AI 무단 도용 방지에 활용",
+  "summary_ko": "로빈 윌리엄스의 자녀들이 고인의 인스타그램 계정을 직접 관리하며 무분별한 AI 음성 및 초상권 도용에 대응하기로 했습니다.",
+  "category": "참고",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
+  "id": "0efd95a70269b1cf",
+  "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+  "source": "Hacker News",
+  "title": "Norway Should Buy OpenAI",
+  "published_at": "2026-08-18T19:30:29+00:00",
+  "collected_at": "2026-08-18T20:33:28.764146+00:00",
+  "title_ko": "노르웨이는 왜 OpenAI를 인수해야 하는가",
+  "summary_ko": "국가 차원에서 AI 주권과 공공성을 확보하기 위해 노르웨이가 OpenAI를 인수해야 한다는 흥미로운 주장이 제기되었습니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "투자"
+  ]
+ },
+ {
   "id": "a051e04f37c6be45",
   "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
   "source": "The Verge",
@@ -29,6 +89,21 @@
    "OpenAI",
    "보안",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "67f37d861d340b85",
+  "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+  "source": "OpenAI",
+  "title": "Strengthening Democratic Oversight in National Security",
+  "published_at": "2026-08-18T19:00:00+00:00",
+  "collected_at": "2026-08-18T20:33:27.588518+00:00",
+  "title_ko": "OpenAI, 국가 안보 분야 민주적 감독 강화 이니셔티브 출범",
+  "summary_ko": "OpenAI가 국가 안보 영역에서 AI의 민주적 통제와 감독을 강화하기 위해 정부 기관에 툴과 교육을 지원하는 프로그램을 시작했습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "규제"
   ]
  },
  {
@@ -147,6 +222,21 @@
   "tags": [
    "AI 에이전트",
    "메모리"
+  ]
+ },
+ {
+  "id": "af3d9b9037a917a6",
+  "url": "https://github.com/RyanCodrai/turbovec",
+  "source": "Hacker News",
+  "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+  "published_at": "2026-08-18T18:07:21+00:00",
+  "collected_at": "2026-08-18T20:33:28.764146+00:00",
+  "title_ko": "구글 TurboQuant 기반 러스트용 벡터 검색 툴 'Turbovec'",
+  "summary_ko": "구글의 TurboQuant 알고리즘을 러스트(Rust)로 구현한 벡터 검색 오픈소스 툴이 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "Google",
+   "오픈소스"
   ]
  },
  {
