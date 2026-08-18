@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-18T13:02:42.015694+00:00",
+ "updated_at": "2026-08-18T13:52:01.888913+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -360,6 +360,22 @@
    ]
   },
   {
+   "id": "60c60b76327531a5",
+   "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+   "source": "TechCrunch",
+   "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+   "published_at": "2026-08-18T13:50:30+00:00",
+   "collected_at": "2026-08-18T13:51:25.978977+00:00",
+   "title_ko": "OpenAI, 청소년용 안전 기능 강화된 ChatGPT 출시",
+   "summary_ko": "OpenAI가 유해 콘텐츠 차단 및 숙제 부정행위 방지 기능 등을 포함한 청소년용 ChatGPT를 출시했습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT",
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "4272d5427e329fd2",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214054",
    "source": "AI타임스",
@@ -373,6 +389,21 @@
     "OpenAI",
     "규제",
     "정책"
+   ]
+  },
+  {
+   "id": "5d36f3cb10c36962",
+   "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+   "source": "TechCrunch",
+   "title": "Perplexity’s free AI offer left it with millions more users in India",
+   "published_at": "2026-08-18T13:45:40+00:00",
+   "collected_at": "2026-08-18T13:51:25.978977+00:00",
+   "title_ko": "퍼플렉시티, 인도 무료 프로모션 이후 사용자 급증",
+   "summary_ko": "인도 통신사와의 제휴 프로모션 종료 이후에도 퍼플렉시티의 매출이 크게 상승하며 현지 사용자 기반을 넓혔습니다.",
+   "category": "중요",
+   "tags": [
+    "투자",
+    "오픈소스"
    ]
   },
   {
@@ -438,6 +469,21 @@
    ]
   },
   {
+   "id": "376acf82448907aa",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vroao0/opencode_overrides_the_samplers_for_qwen_models/",
+   "source": "r/LocalLLaMA",
+   "title": "OpenCode overrides the samplers for Qwen models to the wrong values",
+   "published_at": "2026-08-18T12:51:35+00:00",
+   "collected_at": "2026-08-18T13:51:44.741429+00:00",
+   "title_ko": "OpenCode의 Qwen 모델 샘플러 설정 오류 발견",
+   "summary_ko": "OpenCode 도구가 Qwen 모델에 잘못된 샘플러 값을 전달하는 문제가 발견되어 주의가 요구됩니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
    "id": "4c28f4f1fe56cd21",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vro3vf/linux_improves_vram_management_in_73_kernel/",
    "source": "r/LocalLLaMA",
@@ -465,6 +511,21 @@
    "tags": [
     "오픈소스",
     "투자"
+   ]
+  },
+  {
+   "id": "b863f51d5826a75a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrnsmj/any_4b_models_with_decent_programming_knowledge/",
+   "source": "r/LocalLLaMA",
+   "title": "Any ~4B models with decent programming knowledge? NO VIBECODE/ONE SHOT",
+   "published_at": "2026-08-18T12:29:52+00:00",
+   "collected_at": "2026-08-18T13:51:44.741429+00:00",
+   "title_ko": "프로그래밍 학습용 4B 이하 소형 모델 추천 요청",
+   "summary_ko": "오프라인 환경에서 코드 개념 설명과 오류 검출을 수행할 수 있는 가벼운 프로그래밍용 LLM을 찾는 개발자들의 논의가 이어지고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "코딩"
    ]
   },
   {
@@ -511,6 +572,20 @@
     "AI 신약발견",
     "오픈소스",
     "허깅페이스"
+   ]
+  },
+  {
+   "id": "60d84695ef4657cf",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrnay3/what_would_make_an_uploaderrun_refusal_table/",
+   "source": "r/LocalLLaMA",
+   "title": "What would make an uploader-run refusal table independently reproducible?",
+   "published_at": "2026-08-18T12:07:49+00:00",
+   "collected_at": "2026-08-18T13:51:44.741429+00:00",
+   "title_ko": "LLM 모델 카드의 거부율(Refusal) 지표 재현성 문제",
+   "summary_ko": "업로더가 직접 실행한 모델 거부율 측정 결과가 독립적으로 재현되기 어려운 한계와 프롬프트 검증의 투명성 문제가 제기되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
    ]
   },
   {
@@ -1046,6 +1121,21 @@
    "tags": [
     "투자",
     "반도체"
+   ]
+  },
+  {
+   "id": "e520424e436f5da3",
+   "url": "https://huggingface.co/blog/multi-vector-encoder",
+   "source": "Hugging Face",
+   "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+   "published_at": "2026-08-18T00:00:00+00:00",
+   "collected_at": "2026-08-18T13:51:27.986180+00:00",
+   "title_ko": "Sentence Transformers를 활용한 다중 벡터 임베딩 모델 가이드",
+   "summary_ko": "최신 센텐스 트랜스포머 라이브러리를 이용해 지연 상호작용(Late Interaction) 다중 벡터 임베딩 모델을 다루는 방법이 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
    ]
   },
   {
@@ -2912,94 +3002,6 @@
    "tags": [
     "AI 에이전트",
     "오픈소스"
-   ]
-  },
-  {
-   "id": "496d1b27235f8157",
-   "url": "https://www.reddit.com/r/singularity/comments/1vq6vla/young_people_hate_ai_ceos_so_passionately_that/",
-   "source": "r/singularity",
-   "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-   "published_at": "2026-08-16T19:55:58+00:00",
-   "collected_at": "2026-08-16T20:33:02.497536+00:00",
-   "title_ko": "젊은 층 사이의 AI 기업가들에 대한 반발",
-   "summary_ko": "일부 젊은 세대 사이에서 주요 AI 기업 최고경영자들에 대한 강한 반감이 형성되고 있다는 소식.",
-   "category": "참고",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "0a6ced3806dc7dfd",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq6fdj/qwen3827b_on_rtx_3090_82_tps_single_request_up_to/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.8-27b on RTX 3090 - 82 tps single request, up to 672 tps peak",
-   "published_at": "2026-08-16T19:38:07+00:00",
-   "collected_at": "2026-08-16T20:32:49.316848+00:00",
-   "title_ko": "RTX 3090에서 구동되는 Qwen 추론 최적화 기법",
-   "summary_ko": "단일 RTX 3090 환경에서 양자화와 KV 캐시 최적화를 통해 Qwen 모델의 추론 속도를 극대화한 실무 팁.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "1d2bd5d27ac773e2",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq6bs5/why_are_rtx_6000_pros_still_getting_bought_at/",
-   "source": "r/LocalLLaMA",
-   "title": "Why are RTX 6000 PROs still getting bought at 16000+ USD? And who are buying them?",
-   "published_at": "2026-08-16T19:34:08+00:00",
-   "collected_at": "2026-08-16T20:32:49.316848+00:00",
-   "title_ko": "고가의 RTX 6000 PRO 수요 지속 현상",
-   "summary_ko": "수만 달러에 달하는 고가 GPU인 RTX 6000 PRO가 기업들을 중심으로 여전히 높은 가격에 팔리는 이유에 대한 논의.",
-   "category": "참고",
-   "tags": [
-    "반도체",
-    "투자"
-   ]
-  },
-  {
-   "id": "70ed44559b88c197",
-   "url": "https://www.reddit.com/r/singularity/comments/1vq69nc/what_would_the_requirements_of_agi_be/",
-   "source": "r/singularity",
-   "title": "what would the requirements of AGI be?",
-   "published_at": "2026-08-16T19:31:45+00:00",
-   "collected_at": "2026-08-16T20:33:02.497536+00:00",
-   "title_ko": "AGI의 정의와 충족 조건에 대한 고찰",
-   "summary_ko": "범용인공지능(AGI) 도달을 위한 구체적인 정의와 필수 요구 조건에 대한 커뮤니티 토론.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "a2e1152298dc8a0a",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq60on/qwen38_27b_q2_vs_q3_vs_qwen36_35ba3b_moe_on_12gb/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.8 27B Q2 vs Q3 vs Qwen3.6 35B-A3B MoE on 12GB VRAM",
-   "published_at": "2026-08-16T19:21:58+00:00",
-   "collected_at": "2026-08-16T20:32:49.316848+00:00",
-   "title_ko": "저사양 VRAM 환경에서의 Qwen 모델 비교 테스트",
-   "summary_ko": "12GB VRAM을 가진 노트북 GPU 환경에서 Qwen 밀집 모델과 MoE 모델의 성능 및 사용성을 비교.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "885e2632e38f0a5d",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq5to0/qwen_3827b_unusable_long_thinking/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen 3.8-27b unusable long thinking?",
-   "published_at": "2026-08-16T19:14:28+00:00",
-   "collected_at": "2026-08-16T20:32:49.316848+00:00",
-   "title_ko": "Qwen 모델의 과도한 '생각(Thinking)' 프로세스 문제",
-   "summary_ko": "코딩 테스트 중 Qwen 모델이 과도하게 긴 사고 과정에 빠져 작업을 완료하지 못하는 현상과 설정 이슈.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "코딩"
    ]
   }
  ]

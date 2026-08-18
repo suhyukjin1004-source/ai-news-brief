@@ -45,6 +45,22 @@
   ]
  },
  {
+  "id": "60c60b76327531a5",
+  "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+  "source": "TechCrunch",
+  "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+  "published_at": "2026-08-18T13:50:30+00:00",
+  "collected_at": "2026-08-18T13:51:25.978977+00:00",
+  "title_ko": "OpenAI, 청소년용 안전 기능 강화된 ChatGPT 출시",
+  "summary_ko": "OpenAI가 유해 콘텐츠 차단 및 숙제 부정행위 방지 기능 등을 포함한 청소년용 ChatGPT를 출시했습니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "GPT",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "4272d5427e329fd2",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214054",
   "source": "AI타임스",
@@ -58,6 +74,21 @@
    "OpenAI",
    "규제",
    "정책"
+  ]
+ },
+ {
+  "id": "5d36f3cb10c36962",
+  "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+  "source": "TechCrunch",
+  "title": "Perplexity’s free AI offer left it with millions more users in India",
+  "published_at": "2026-08-18T13:45:40+00:00",
+  "collected_at": "2026-08-18T13:51:25.978977+00:00",
+  "title_ko": "퍼플렉시티, 인도 무료 프로모션 이후 사용자 급증",
+  "summary_ko": "인도 통신사와의 제휴 프로모션 종료 이후에도 퍼플렉시티의 매출이 크게 상승하며 현지 사용자 기반을 넓혔습니다.",
+  "category": "중요",
+  "tags": [
+   "투자",
+   "오픈소스"
   ]
  },
  {
@@ -123,6 +154,21 @@
   ]
  },
  {
+  "id": "376acf82448907aa",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vroao0/opencode_overrides_the_samplers_for_qwen_models/",
+  "source": "r/LocalLLaMA",
+  "title": "OpenCode overrides the samplers for Qwen models to the wrong values",
+  "published_at": "2026-08-18T12:51:35+00:00",
+  "collected_at": "2026-08-18T13:51:44.741429+00:00",
+  "title_ko": "OpenCode의 Qwen 모델 샘플러 설정 오류 발견",
+  "summary_ko": "OpenCode 도구가 Qwen 모델에 잘못된 샘플러 값을 전달하는 문제가 발견되어 주의가 요구됩니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
   "id": "4c28f4f1fe56cd21",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vro3vf/linux_improves_vram_management_in_73_kernel/",
   "source": "r/LocalLLaMA",
@@ -150,6 +196,21 @@
   "tags": [
    "오픈소스",
    "투자"
+  ]
+ },
+ {
+  "id": "b863f51d5826a75a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrnsmj/any_4b_models_with_decent_programming_knowledge/",
+  "source": "r/LocalLLaMA",
+  "title": "Any ~4B models with decent programming knowledge? NO VIBECODE/ONE SHOT",
+  "published_at": "2026-08-18T12:29:52+00:00",
+  "collected_at": "2026-08-18T13:51:44.741429+00:00",
+  "title_ko": "프로그래밍 학습용 4B 이하 소형 모델 추천 요청",
+  "summary_ko": "오프라인 환경에서 코드 개념 설명과 오류 검출을 수행할 수 있는 가벼운 프로그래밍용 LLM을 찾는 개발자들의 논의가 이어지고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "코딩"
   ]
  },
  {
@@ -196,6 +257,20 @@
    "AI 신약발견",
    "오픈소스",
    "허깅페이스"
+  ]
+ },
+ {
+  "id": "60d84695ef4657cf",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrnay3/what_would_make_an_uploaderrun_refusal_table/",
+  "source": "r/LocalLLaMA",
+  "title": "What would make an uploader-run refusal table independently reproducible?",
+  "published_at": "2026-08-18T12:07:49+00:00",
+  "collected_at": "2026-08-18T13:51:44.741429+00:00",
+  "title_ko": "LLM 모델 카드의 거부율(Refusal) 지표 재현성 문제",
+  "summary_ko": "업로더가 직접 실행한 모델 거부율 측정 결과가 독립적으로 재현되기 어려운 한계와 프롬프트 검증의 투명성 문제가 제기되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
   ]
  },
  {
@@ -731,6 +806,21 @@
   "tags": [
    "투자",
    "반도체"
+  ]
+ },
+ {
+  "id": "e520424e436f5da3",
+  "url": "https://huggingface.co/blog/multi-vector-encoder",
+  "source": "Hugging Face",
+  "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+  "published_at": "2026-08-18T00:00:00+00:00",
+  "collected_at": "2026-08-18T13:51:27.986180+00:00",
+  "title_ko": "Sentence Transformers를 활용한 다중 벡터 임베딩 모델 가이드",
+  "summary_ko": "최신 센텐스 트랜스포머 라이브러리를 이용해 지연 상호작용(Late Interaction) 다중 벡터 임베딩 모델을 다루는 방법이 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
   ]
  },
  {
