@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-18T15:40:02.298522+00:00",
+ "updated_at": "2026-08-18T16:41:53.230600+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -273,6 +273,21 @@
    ]
   },
   {
+   "id": "b795f2b98eaa8be9",
+   "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+   "source": "TechCrunch",
+   "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+   "published_at": "2026-08-18T16:19:10+00:00",
+   "collected_at": "2026-08-18T16:41:26.341759+00:00",
+   "title_ko": "애플 카메라 탑재 에어팟의 프라이버시 우려 해소 전망",
+   "summary_ko": "카메라가 달린 애플 에어팟 유출 건과 관련해, 사용자의 무단 촬영을 방지하여 기존 AI 웨어러블의 사생활 침해 논란을 피할 수 있다는 분석입니다.",
+   "category": "참고",
+   "tags": [
+    "Apple",
+    "AI 웨어러블"
+   ]
+  },
+  {
    "id": "c1f2abe835ccd128",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214062",
    "source": "AI타임스",
@@ -313,6 +328,22 @@
    "category": "중요",
    "tags": [
     "투자"
+   ]
+  },
+  {
+   "id": "0568fffb0f825f5d",
+   "url": "https://news.hada.io/topic?id=32621",
+   "source": "GeekNews",
+   "title": "Cursor, Origin로 코드 호스팅 시작",
+   "published_at": "2026-08-18T15:30:02+00:00",
+   "collected_at": "2026-08-18T16:41:50.793452+00:00",
+   "title_ko": "커서, 자체 코드 호스팅 기능 'Origin' 공개",
+   "summary_ko": "AI 코드 에디터 커서(Cursor)가 유료 플랜 사용자를 대상으로 자체 코드 호스팅 플랫폼인 Origin의 얼리 베타 버전을 출시했습니다.",
+   "category": "속보",
+   "tags": [
+    "Cursor",
+    "코딩",
+    "오픈소스"
    ]
   },
   {
@@ -890,6 +921,21 @@
    ]
   },
   {
+   "id": "591caafbd864d44d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrl2ou/altrouter_an_openrouter_alternative/",
+   "source": "r/LocalLLaMA",
+   "title": "AltRouter, an OpenRouter alternative",
+   "published_at": "2026-08-18T10:15:47+00:00",
+   "collected_at": "2026-08-18T16:41:36.163195+00:00",
+   "title_ko": "오픈소스 기반 오픈라우터 대안 'AltRouter' 등장",
+   "summary_ko": "오픈라우터의 대안으로 투명하고 비용 효율적인 오픈소스 기반 API 라우팅 서비스 AltRouter가 개발되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
    "id": "9a14e181918fa1aa",
    "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
    "source": "Hacker News",
@@ -1020,6 +1066,22 @@
    "tags": [
     "오픈소스",
     "Qwen"
+   ]
+  },
+  {
+   "id": "7d7eacff40aa330c",
+   "url": "https://openai.com/index/asana",
+   "source": "OpenAI",
+   "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+   "published_at": "2026-08-18T07:00:00+00:00",
+   "collected_at": "2026-08-18T16:41:27.206289+00:00",
+   "title_ko": "아사나, OpenAI 코덱스로 5년치 엔지니어링 작업 2주 만에 완료",
+   "summary_ko": "아사나가 OpenAI Codex를 활용해 레거시 테스트 시스템을 교체함으로써 5년이 소요될 작업을 단 2주 만에 비용 효율적으로 마쳤습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "코딩",
+    "AI 에이전트"
    ]
   },
   {
@@ -1934,6 +1996,21 @@
     "Qwen",
     "오픈소스",
     "LLM"
+   ]
+  },
+  {
+   "id": "39d537a07acbde7a",
+   "url": "https://cursor.com/changelog/origin-code-hosting",
+   "source": "Hacker News",
+   "title": "Cursor launches Origin, GitHub alternative",
+   "published_at": "2026-08-17T17:02:44+00:00",
+   "collected_at": "2026-08-18T16:41:30.238842+00:00",
+   "title_ko": "커서, 깃허브 대항마 코드 호스팅 'Origin' 출시",
+   "summary_ko": "AI 코드 에디터 커서가 개발자 생태계 확장을 위해 자체 코드 호스팅 서비스인 Origin을 공식 출시했습니다.",
+   "category": "중요",
+   "tags": [
+    "Cursor",
+    "코딩"
    ]
   },
   {
@@ -2925,81 +3002,6 @@
    "summary_ko": "마크다운 문서 내에서 SVG 문서를 쉽게 공유하고 렌더링할 수 있는 'markdown-svg-renderer' 도구의 기능 개선 사항을 소개합니다.",
    "category": "팁",
    "tags": []
-  },
-  {
-   "id": "9b5a5fd1c1e80bd5",
-   "url": "https://www.reddit.com/r/singularity/comments/1vqbedw/ai_futures_q25_2026_timelines_update_uplift_and/",
-   "source": "r/singularity",
-   "title": "Ai Futures: Q2.5 2026 Timelines Update: Uplift and Revenue",
-   "published_at": "2026-08-16T23:02:40+00:00",
-   "collected_at": "2026-08-17T01:50:03.897707+00:00",
-   "title_ko": "AI 퓨처스 2026 Q2.5 타임라인 및 수익 전망 업데이트",
-   "summary_ko": "AI 발전 속도와 상용화 타임라인을 다루는 AI 퓨처스 모델의 최신 전망 업데이트 소식입니다.",
-   "category": "참고",
-   "tags": [
-    "투자"
-   ]
-  },
-  {
-   "id": "6be3292bf8eb0652",
-   "url": "https://www.reddit.com/r/singularity/comments/1vqb5xu/which_ai_model_is_the_best_as_a_tutor_in_math/",
-   "source": "r/singularity",
-   "title": "Which ai model is the best as a tutor in math physics and engineering?",
-   "published_at": "2026-08-16T22:52:26+00:00",
-   "collected_at": "2026-08-17T01:50:03.897707+00:00",
-   "title_ko": "수학 및 물리학 학습을 위한 최적의 AI 튜터 모델",
-   "summary_ko": "기초부터 수학, 물리학, 공학을 학습할 때 추론 능력과 긴 컨텍스트 윈도우를 활용해 튜터 역할을 잘 수행할 수 있는 AI 모델을 논의합니다.",
-   "category": "참고",
-   "tags": [
-    "Gemini"
-   ]
-  },
-  {
-   "id": "09aff20b4454032f",
-   "url": "https://news.hada.io/topic?id=32564",
-   "source": "GeekNews",
-   "title": "모델은 의도적으로 더 멍청해지고 있다",
-   "published_at": "2026-08-16T22:36:54+00:00",
-   "collected_at": "2026-08-17T01:50:06.302766+00:00",
-   "title_ko": "소형 LLM의 지식 암기력 저하와 추론 능력 강화 트렌드",
-   "summary_ko": "최근 소형 모델과 MoE 모델은 세부 지식 암기보다 문제 해결과 추론 절차에 집중하면서 지식 회상 능력이 약화되는 경향을 보이고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "LLM",
-    "오픈소스",
-    "추론"
-   ]
-  },
-  {
-   "id": "815943a0141cfe90",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqasuk/audiocpp_release_06_dotstts_minimaxh3_text2audio/",
-   "source": "r/LocalLLaMA",
-   "title": "[audio.cpp] Release 0.6: dots.tts, MiniMax-H3 text2audio (up to 3x realtime), MiniMax-Music3 (preview), and more new audio models. 5+ demos included.",
-   "published_at": "2026-08-16T22:36:23+00:00",
-   "collected_at": "2026-08-17T01:49:50.909629+00:00",
-   "title_ko": "오디오 AI 모델 라이브러리 audio.cpp 0.6 버전 출시",
-   "summary_ko": "dots.tts 및 MiniMax 모델 등을 대거 추가하여 49개 모델 가족을 지원하는 audio.cpp 0.6 버전이 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "음성AI"
-   ]
-  },
-  {
-   "id": "8356d030f59dffd2",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqaqgn/simon_willison_qwen_38_27b_is_excellent_but_it/",
-   "source": "r/LocalLLaMA",
-   "title": "Simon Willison: Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
-   "published_at": "2026-08-16T22:33:32+00:00",
-   "collected_at": "2026-08-17T01:49:50.909629+00:00",
-   "title_ko": "사이먼 윌리슨의 Qwen 3.8 27B 평가",
-   "summary_ko": "로컬 환경에서 구동 가능한 Qwen 3.8 27B 모델이 뛰어난 성능을 보이지만 기본값 설정으로 인해 과도한 사고(overthinking) 경향이 있다고 평가했습니다.",
-   "category": "참고",
-   "tags": [
-    "Qwen",
-    "오픈소스",
-    "LLM"
-   ]
   }
  ]
 }
