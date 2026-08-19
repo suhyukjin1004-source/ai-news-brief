@@ -1,5 +1,21 @@
 [
  {
+  "id": "fc11e015eee532a7",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214105",
+  "source": "AI타임스",
+  "title": "삼성전자, 전남 광주에 플랙트그룹 HVAC 신규 생산라인 구축",
+  "published_at": "2026-08-19T14:37:43+00:00",
+  "collected_at": "2026-08-19T05:38:45.497743+00:00",
+  "title_ko": "삼성전자, AI 데이터센터용 액체냉각 장치 생산라인 구축",
+  "summary_ko": "삼성전자가 광주사업장에 플랙트그룹의 HVAC 생산라인을 구축하고, 2028년부터 AI 데이터센터용 액체 냉각 장치(CDU)를 생산할 예정입니다.",
+  "category": "중요",
+  "tags": [
+   "반도체",
+   "인프라",
+   "데이터센터"
+  ]
+ },
+ {
   "id": "3076d5ad722bf6fb",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214094",
   "source": "AI타임스",
@@ -73,6 +89,22 @@
   "category": "팁",
   "tags": [
    "온디바이스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "1d1517bf4a670358",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsccit/qwen3827b_on_2x_3090_vllm_dflash2_218_toks_single/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-27B on 2x 3090 + vLLM + DFlash2: 218 tok/s single request",
+  "published_at": "2026-08-19T04:39:19+00:00",
+  "collected_at": "2026-08-19T05:38:32.096115+00:00",
+  "title_ko": "Qwen 모델과 vLLM을 활용한 고속 추론 구성 사례",
+  "summary_ko": "RTX 3090 듀얼 구성 환경에서 Qwen 모델과 vLLM, DFlash2를 활용해 초당 218 토큰의 높은 추론 성능을 달성한 실무 벤치마크 공유입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM",
    "코딩"
   ]
  },

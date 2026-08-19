@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-08-19T04:45:59.372474+00:00",
+ "updated_at": "2026-08-19T05:38:48.910292+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "fc11e015eee532a7",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214105",
+   "source": "AI타임스",
+   "title": "삼성전자, 전남 광주에 플랙트그룹 HVAC 신규 생산라인 구축",
+   "published_at": "2026-08-19T14:37:43+00:00",
+   "collected_at": "2026-08-19T05:38:45.497743+00:00",
+   "title_ko": "삼성전자, AI 데이터센터용 액체냉각 장치 생산라인 구축",
+   "summary_ko": "삼성전자가 광주사업장에 플랙트그룹의 HVAC 생산라인을 구축하고, 2028년부터 AI 데이터센터용 액체 냉각 장치(CDU)를 생산할 예정입니다.",
+   "category": "중요",
+   "tags": [
+    "반도체",
+    "인프라",
+    "데이터센터"
+   ]
+  },
   {
    "id": "3076d5ad722bf6fb",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214094",
@@ -77,6 +93,22 @@
    "category": "팁",
    "tags": [
     "온디바이스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "1d1517bf4a670358",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsccit/qwen3827b_on_2x_3090_vllm_dflash2_218_toks_single/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8-27B on 2x 3090 + vLLM + DFlash2: 218 tok/s single request",
+   "published_at": "2026-08-19T04:39:19+00:00",
+   "collected_at": "2026-08-19T05:38:32.096115+00:00",
+   "title_ko": "Qwen 모델과 vLLM을 활용한 고속 추론 구성 사례",
+   "summary_ko": "RTX 3090 듀얼 구성 환경에서 Qwen 모델과 vLLM, DFlash2를 활용해 초당 218 토큰의 높은 추론 성능을 달성한 실무 벤치마크 공유입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM",
     "코딩"
    ]
   },
@@ -1462,6 +1494,21 @@
    "tags": [
     "Meta",
     "규제"
+   ]
+  },
+  {
+   "id": "b0b9e03ac3e70c55",
+   "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+   "source": "Hacker News",
+   "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+   "published_at": "2026-08-18T12:22:58+00:00",
+   "collected_at": "2026-08-19T05:38:30.238805+00:00",
+   "title_ko": "Claude를 이용한 맥OS용 프린터 드라이버 자체 개발",
+   "summary_ko": "개발자가 Claude의 도움을 받아 윈도우 전용 구형 프린터의 맥OS 드라이버를 성공적으로 작성한 사례입니다.",
+   "category": "팁",
+   "tags": [
+    "Claude",
+    "코딩"
    ]
   },
   {
@@ -2961,51 +3008,6 @@
    "tags": [
     "오픈소스",
     "LLM"
-   ]
-  },
-  {
-   "id": "d8464475132d0e53",
-   "url": "https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/",
-   "source": "Hacker News",
-   "title": "Judge relying wholly on AI in order is covered by judicial immunity, court rules",
-   "published_at": "2026-08-17T14:30:09+00:00",
-   "collected_at": "2026-08-18T01:44:51.173019+00:00",
-   "title_ko": "법원, 판사의 전적인 AI 의존 판결에 사법 면책권 인정",
-   "summary_ko": "판사가 판결문 작성 시 AI에 전적으로 의존한 사안에 대해 사법 면책권이 적용된다는 법원 판결이 내려졌다.",
-   "category": "중요",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "9d42513fa5c7d5e8",
-   "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-   "source": "Hacker News",
-   "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
-   "published_at": "2026-08-17T14:18:38+00:00",
-   "collected_at": "2026-08-17T15:33:26.616894+00:00",
-   "title_ko": "GitHub 코파일럿 자동 수정 기능의 취약점을 악용한 시스템 침해 발생",
-   "summary_ko": "AI가 생성한 GitHub Copilot의 Autofix 기능 취약점으로 인해 스노플레이크의 Jira 시스템이 위험에 노출되었습니다. AI 코딩 도구의 보안 검증 중요성을 보여줍니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "코딩",
-    "보안"
-   ]
-  },
-  {
-   "id": "0c5fae00e926edf9",
-   "url": "https://www.librarian.net/notoai/",
-   "source": "Hacker News",
-   "title": "How to disable or avoid intrusive AI",
-   "published_at": "2026-08-17T14:07:56+00:00",
-   "collected_at": "2026-08-17T16:38:03.922799+00:00",
-   "title_ko": "침투형 AI 기능을 비활성화하거나 피하는 방법",
-   "summary_ko": "사용자 경험을 방해하는 강제적인 AI 기능을 차단하고 관리하는 방법에 대한 IT 커뮤니티의 논의입니다.",
-   "category": "팁",
-   "tags": [
-    "규제",
-    "AI 에이전트"
    ]
   }
  ]
