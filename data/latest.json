@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-19T13:53:43.651519+00:00",
+ "updated_at": "2026-08-19T14:44:22.873313+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -327,6 +327,65 @@
    ]
   },
   {
+   "id": "e2f95ae810b5d581",
+   "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+   "source": "VentureBeat",
+   "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+   "published_at": "2026-08-19T14:18:12+00:00",
+   "collected_at": "2026-08-19T14:44:00.886896+00:00",
+   "title_ko": "벤처비트, 기업용 AI 연구 강화를 위해 수석 애널리스트 영입",
+   "summary_ko": "벤처비트가 기업용 AI 도입을 평가하고 배포하는 기술 의사결정권자들을 지원하기 위해 롭 스트레차이를 첫 수석 애널리스트로 영입했습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "투자"
+   ]
+  },
+  {
+   "id": "f4edabb712ff29db",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsnllv/ornith_15_9b_dense_and_35b397b_moes/",
+   "source": "r/LocalLLaMA",
+   "title": "Ornith 1.5: 9B dense and 35B/397B MoEs",
+   "published_at": "2026-08-19T14:12:25+00:00",
+   "collected_at": "2026-08-19T14:44:06.027818+00:00",
+   "title_ko": "오르니스 1.5 오픈소스 언어모델 시리즈 공개",
+   "summary_ko": "9B 밀집 모델과 35B, 397B 규모의 혼합전문가(MoE) 모델로 구성된 오르니스 1.5가 허깅페이스에 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "모델명"
+   ]
+  },
+  {
+   "id": "3a0abca930dbe44e",
+   "url": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
+   "source": "TechCrunch",
+   "title": "Calendly throws its hat into meeting note-taker circus",
+   "published_at": "2026-08-19T14:09:39+00:00",
+   "collected_at": "2026-08-19T14:44:00.515866+00:00",
+   "title_ko": "캘들리, AI 회의록 작성 및 일정 예약 비서 출시",
+   "summary_ko": "일정 관리 서비스 캘들리가 회의록 작성 기능과 AI 예약 비서 '칼리'를 선보이며 관련 시장에 진입했습니다.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "52956a1503a8eb5d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsn2xw/we_have_q38_35b_at_home_3x_new_ornith_15_released/",
+   "source": "r/LocalLLaMA",
+   "title": "We have Q3.8 35B at home: 3x new Ornith 1.5 released",
+   "published_at": "2026-08-19T13:53:01+00:00",
+   "collected_at": "2026-08-19T14:44:06.027818+00:00",
+   "title_ko": "오르니스 1.5 신규 모델 및 GGUF 포맷 출시",
+   "summary_ko": "오르니스 1.5의 다양한 크기 모델과 로컬 실행을 위한 GGUF 포맷이 허깅페이스를 통해 배포되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "모델명"
+   ]
+  },
+  {
    "id": "22e214c525696116",
    "url": "https://huggingface.co/blog/LiquidAI/qad",
    "source": "Hugging Face",
@@ -354,6 +413,21 @@
    "tags": [
     "오픈소스",
     "LLM"
+   ]
+  },
+  {
+   "id": "3cd55df08b12b710",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsm8b2/tencentarcscope_hugging_face/",
+   "source": "r/LocalLLaMA",
+   "title": "TencentARC/SCoPE · Hugging Face",
+   "published_at": "2026-08-19T13:19:41+00:00",
+   "collected_at": "2026-08-19T14:44:06.027818+00:00",
+   "title_ko": "텐센트 ARC, 비디오 생성 위한 'SCoPE' 인코딩 공개",
+   "summary_ko": "비디오 확산 모델의 카메라 움직임 제어를 돕는 'SCoPE' 위치 인코딩 기술이 공개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "영상 생성"
    ]
   },
   {
@@ -844,6 +918,22 @@
    "tags": [
     "오픈소스",
     "LLM"
+   ]
+  },
+  {
+   "id": "9ac0643f24279d08",
+   "url": "https://openai.com/index/replit",
+   "source": "OpenAI",
+   "title": "Replit expands access to software creation with GPT-5.6 Luna",
+   "published_at": "2026-08-19T07:00:00+00:00",
+   "collected_at": "2026-08-19T14:44:01.856833+00:00",
+   "title_ko": "레플릿, GPT-5.6 루나 기반 무료 소프트웨어 제작 모드 출시",
+   "summary_ko": "레플릿이 토큰 비용 부담 없이 아이디어를 소프트웨어로 구현할 수 있는 GPT-5.6 루나 기반의 무료 모드를 도입했습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "GPT",
+    "코딩"
    ]
   },
   {
@@ -2918,94 +3008,6 @@
    "tags": [
     "NVIDIA",
     "반도체"
-   ]
-  },
-  {
-   "id": "fad621055074c3e6",
-   "url": "https://danluu.com/benchpocalypse/",
-   "source": "Hacker News",
-   "title": "The Benchmarkpocalypse",
-   "published_at": "2026-08-18T02:11:02+00:00",
-   "collected_at": "2026-08-18T10:38:13.101289+00:00",
-   "title_ko": "AI 벤치마크의 신뢰성 위기 조명",
-   "summary_ko": "현재 AI 업계에서 쏟아지는 수많은 성능 벤치마크의 신뢰성과 실효성에 의문을 제기하는 분석이 공유되어 주목을 받고 있다.",
-   "category": "참고",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "38f98e2d57fbae5a",
-   "url": "https://www.reddit.com/r/singularity/comments/1vrbia3/business_adoption_of_ai_agents_tripled_this_year/",
-   "source": "r/singularity",
-   "title": "Business adoption of AI agents tripled this year",
-   "published_at": "2026-08-18T01:43:11+00:00",
-   "collected_at": "2026-08-18T01:45:05.141828+00:00",
-   "title_ko": "AI 에이전트 도입 기업 올해 들어 3배 급증",
-   "summary_ko": "기업들이 자율적인 다중 단계 워크플로우를 처리하는 AI 에이전트 도입을 빠르게 늘리며 생산성이 3배 가까이 증가했습니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "b74251993e30e3b7",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrbct8/cdw_has_bumped_the_msrp_of_the_rtx_pro_6000_from/",
-   "source": "r/LocalLLaMA",
-   "title": "CDW has bumped the MSRP of the RTX Pro 6000 from $16,000 to $19,999",
-   "published_at": "2026-08-18T01:36:14+00:00",
-   "collected_at": "2026-08-18T03:03:43.216389+00:00",
-   "title_ko": "NVIDIA RTX Pro 6000 가격 인상 포착",
-   "summary_ko": "주요 유통업체 CDW에서 RTX Pro 6000 그래픽 카드의 가격이 기존 1만 6천 달러에서 1만 9,999달러로 인상되었습니다. AI 하드웨어 비용 상승 트렌드를 보여주는 지표입니다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "반도체"
-   ]
-  },
-  {
-   "id": "83895545349f5254",
-   "url": "https://www.reddit.com/r/singularity/comments/1vrasl0/big_tech_is_raising_billions_to_stop_ubi/",
-   "source": "r/singularity",
-   "title": "Big Tech Is Raising Billions To Stop UBI",
-   "published_at": "2026-08-18T01:10:39+00:00",
-   "collected_at": "2026-08-18T01:45:05.141828+00:00",
-   "title_ko": "빅테크, AI 기본소득(UBI) 저지를 위한 단체 결성",
-   "summary_ko": "빅테크 지원을 받는 단체 'RAISE US'가 출범해 AI 발전으로 인한 기본소득 도입 여론에 대응하기 시작했습니다.",
-   "category": "중요",
-   "tags": [
-    "규제",
-    "투자"
-   ]
-  },
-  {
-   "id": "774e642ec20f9244",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrabno/made_this_game_in_two_prompts_with_q4_qwen_38_is/",
-   "source": "r/LocalLLaMA",
-   "title": "Made this game in two prompts with Q4, Qwen 3.8 is amazing",
-   "published_at": "2026-08-18T00:49:54+00:00",
-   "collected_at": "2026-08-18T01:44:52.149859+00:00",
-   "title_ko": "Qwen 모델로 단 두 번의 프롬프트만에 게임 제작",
-   "summary_ko": "로컬 환경에서 Qwen 모델을 활용해 HTML과 자바스크립트 기반의 게임을 성공적으로 구현했습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "869788c7a5bd5f1e",
-   "url": "https://news.hada.io/topic?id=32600",
-   "source": "GeekNews",
-   "title": "Codex에서 GPT-5.6 Sol의 1M 토큰 컨텍스트 윈도우 활성화하기",
-   "published_at": "2026-08-18T00:45:03+00:00",
-   "collected_at": "2026-08-18T01:45:07.223306+00:00",
-   "title_ko": "Codex에서 GPT-5.6 Sol의 1M 토큰 컨텍스트 활성화",
-   "summary_ko": "코덱스에서 대규모 코드와 대화 기록을 유지할 수 있도록 GPT-5.6 Sol의 100만 토큰 컨텍스트를 직접 활성화하는 방법입니다.",
-   "category": "팁",
-   "tags": [
-    "GPT",
-    "코딩"
    ]
   }
  ]

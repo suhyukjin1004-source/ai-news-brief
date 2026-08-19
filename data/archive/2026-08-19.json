@@ -31,6 +31,65 @@
   ]
  },
  {
+  "id": "e2f95ae810b5d581",
+  "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+  "source": "VentureBeat",
+  "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+  "published_at": "2026-08-19T14:18:12+00:00",
+  "collected_at": "2026-08-19T14:44:00.886896+00:00",
+  "title_ko": "벤처비트, 기업용 AI 연구 강화를 위해 수석 애널리스트 영입",
+  "summary_ko": "벤처비트가 기업용 AI 도입을 평가하고 배포하는 기술 의사결정권자들을 지원하기 위해 롭 스트레차이를 첫 수석 애널리스트로 영입했습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "투자"
+  ]
+ },
+ {
+  "id": "f4edabb712ff29db",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsnllv/ornith_15_9b_dense_and_35b397b_moes/",
+  "source": "r/LocalLLaMA",
+  "title": "Ornith 1.5: 9B dense and 35B/397B MoEs",
+  "published_at": "2026-08-19T14:12:25+00:00",
+  "collected_at": "2026-08-19T14:44:06.027818+00:00",
+  "title_ko": "오르니스 1.5 오픈소스 언어모델 시리즈 공개",
+  "summary_ko": "9B 밀집 모델과 35B, 397B 규모의 혼합전문가(MoE) 모델로 구성된 오르니스 1.5가 허깅페이스에 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "모델명"
+  ]
+ },
+ {
+  "id": "3a0abca930dbe44e",
+  "url": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
+  "source": "TechCrunch",
+  "title": "Calendly throws its hat into meeting note-taker circus",
+  "published_at": "2026-08-19T14:09:39+00:00",
+  "collected_at": "2026-08-19T14:44:00.515866+00:00",
+  "title_ko": "캘들리, AI 회의록 작성 및 일정 예약 비서 출시",
+  "summary_ko": "일정 관리 서비스 캘들리가 회의록 작성 기능과 AI 예약 비서 '칼리'를 선보이며 관련 시장에 진입했습니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "52956a1503a8eb5d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsn2xw/we_have_q38_35b_at_home_3x_new_ornith_15_released/",
+  "source": "r/LocalLLaMA",
+  "title": "We have Q3.8 35B at home: 3x new Ornith 1.5 released",
+  "published_at": "2026-08-19T13:53:01+00:00",
+  "collected_at": "2026-08-19T14:44:06.027818+00:00",
+  "title_ko": "오르니스 1.5 신규 모델 및 GGUF 포맷 출시",
+  "summary_ko": "오르니스 1.5의 다양한 크기 모델과 로컬 실행을 위한 GGUF 포맷이 허깅페이스를 통해 배포되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "모델명"
+  ]
+ },
+ {
   "id": "22e214c525696116",
   "url": "https://huggingface.co/blog/LiquidAI/qad",
   "source": "Hugging Face",
@@ -58,6 +117,21 @@
   "tags": [
    "오픈소스",
    "LLM"
+  ]
+ },
+ {
+  "id": "3cd55df08b12b710",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsm8b2/tencentarcscope_hugging_face/",
+  "source": "r/LocalLLaMA",
+  "title": "TencentARC/SCoPE · Hugging Face",
+  "published_at": "2026-08-19T13:19:41+00:00",
+  "collected_at": "2026-08-19T14:44:06.027818+00:00",
+  "title_ko": "텐센트 ARC, 비디오 생성 위한 'SCoPE' 인코딩 공개",
+  "summary_ko": "비디오 확산 모델의 카메라 움직임 제어를 돕는 'SCoPE' 위치 인코딩 기술이 공개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "영상 생성"
   ]
  },
  {
@@ -548,6 +622,22 @@
   "tags": [
    "오픈소스",
    "LLM"
+  ]
+ },
+ {
+  "id": "9ac0643f24279d08",
+  "url": "https://openai.com/index/replit",
+  "source": "OpenAI",
+  "title": "Replit expands access to software creation with GPT-5.6 Luna",
+  "published_at": "2026-08-19T07:00:00+00:00",
+  "collected_at": "2026-08-19T14:44:01.856833+00:00",
+  "title_ko": "레플릿, GPT-5.6 루나 기반 무료 소프트웨어 제작 모드 출시",
+  "summary_ko": "레플릿이 토큰 비용 부담 없이 아이디어를 소프트웨어로 구현할 수 있는 GPT-5.6 루나 기반의 무료 모드를 도입했습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "GPT",
+   "코딩"
   ]
  },
  {
