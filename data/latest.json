@@ -1,8 +1,38 @@
 {
- "updated_at": "2026-08-19T07:48:11.876776+00:00",
+ "updated_at": "2026-08-19T08:49:10.516133+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "ee06c03a7db6f908",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214128",
+   "source": "AI타임스",
+   "title": "[게시판] 로브로스, 반도체·자동차 공장에 휴머노이드 9대 공급 등 단신",
+   "published_at": "2026-08-19T17:00:00+00:00",
+   "collected_at": "2026-08-19T08:49:06.518601+00:00",
+   "title_ko": "로브로스, 반도체·자동차 공장에 휴머노이드 공급",
+   "summary_ko": "로브로스가 이족보행 휴머노이드 '이그리스-C'를 제조 및 물류 현장 9개 기관에 공급하며 실증 사업에 나섰다. AI 로봇의 실제 산업 현장 도입이 가속화되고 있음을 보여준다.",
+   "category": "중요",
+   "tags": [
+    "로보틱스",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "c6979fd97528744a",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214109",
+   "source": "AI타임스",
+   "title": "'추론 칩' 에치드, 기업 가치 29조 돌파...한 달 만에 몸값 2배로 상승",
+   "published_at": "2026-08-19T16:51:43+00:00",
+   "collected_at": "2026-08-19T08:49:06.518601+00:00",
+   "title_ko": "AI 추론 칩 스타트업 '에치드', 기업가치 29조 돌파",
+   "summary_ko": "AI 추론 전용 반도체를 개발하는 에치드가 한 달 만에 가치가 두 배로 뛰며 29조 원을 기록했다. AI 서비스 실행을 위한 추론 칩 수요가 급증하고 있음을 증명한다.",
+   "category": "중요",
+   "tags": [
+    "반도체",
+    "투자"
+   ]
+  },
   {
    "id": "fe6d24c43468d59a",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214125",
@@ -250,6 +280,21 @@
    ]
   },
   {
+   "id": "24986045471718fc",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsdt09/hw_for_deepseekv4flash0731/",
+   "source": "r/LocalLLaMA",
+   "title": "HW for DeepSeek-V4-Flash-0731",
+   "published_at": "2026-08-19T05:55:50+00:00",
+   "collected_at": "2026-08-19T08:48:52.537455+00:00",
+   "title_ko": "딥시크 신규 모델용 하드웨어 구성 논의",
+   "summary_ko": "딥시크의 최신 모델 구동을 위한 데스크톱 하드웨어와 어댑터 구성 방안이 레딧에서 공유되었다. 로컬 LLM 구동을 위한 고성능 하드웨어 요구사항을 보여준다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
    "id": "1d1517bf4a670358",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsccit/qwen3827b_on_2x_3090_vllm_dflash2_218_toks_single/",
    "source": "r/LocalLLaMA",
@@ -308,6 +353,21 @@
    "tags": [
     "오픈소스",
     "LLM"
+   ]
+  },
+  {
+   "id": "fd80ba5546c00f4c",
+   "url": "https://news.hada.io/topic?id=32639",
+   "source": "GeekNews",
+   "title": "카메라 탑재 AirPods 확인, 실제 작동 모습 공개",
+   "published_at": "2026-08-19T03:32:29+00:00",
+   "collected_at": "2026-08-19T08:49:07.706900+00:00",
+   "title_ko": "카메라 탑재 에어팟 출시 임박, 비주얼 인텔리전스 연동",
+   "summary_ko": "macOS 베타에서 카메라가 탑재된 에어팟의 시연 영상과 문구가 발견되었다. 주변 시각 정보를 수집해 시리와 비주얼 인텔리전스에 활용할 것으로 예상된다.",
+   "category": "속보",
+   "tags": [
+    "Apple",
+    "AI 에이전트"
    ]
   },
   {
@@ -2952,66 +3012,6 @@
    "category": "중요",
    "tags": [
     "AI 에이전트"
-   ]
-  },
-  {
-   "id": "2c6e76663db995c9",
-   "url": "https://www.reddit.com/r/singularity/comments/1vqzdz2/qwen3827b_lands_next_to_deepseek_v4_and_gpt56/",
-   "source": "r/singularity",
-   "title": "Qwen3.8-27B lands next to DeepSeek V4 and GPT-5.6 Luna Max on the Artificial Analysis Benchmark. You can now run a near frontier model with just a RTX 3090.",
-   "published_at": "2026-08-17T17:49:29+00:00",
-   "collected_at": "2026-08-18T01:45:05.141828+00:00",
-   "title_ko": "Qwen3.8-27B, 준프론티어 성능을 RTX 3090에서 구동",
-   "summary_ko": "알리바바의 새로운 오픈소스 모델 Qwen3.8-27B가 데스크톱 하드웨어인 RTX 3090에서 프론티어급 성능을 보여주어 주목받고 있다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "421784f4fe8e7a81",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214016",
-   "source": "AI타임스",
-   "title": "오픈AI, 코덱스 대대적 개편 예고… 로딩 속도 94%·메모리 사용량 88% 감축",
-   "published_at": "2026-08-17T17:34:00+00:00",
-   "collected_at": "2026-08-17T08:55:02.787635+00:00",
-   "title_ko": "오픈AI, 코덱스 대규모 업데이트로 속도 및 메모리 개선 예고",
-   "summary_ko": "오픈AI가 AI 코딩 에이전트 코덱스의 장시간 작업 성능을 개선해 로딩 속도와 메모리 사용량을 대폭 줄이는 업데이트를 진행합니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "코딩"
-   ]
-  },
-  {
-   "id": "728231bdae4fd280",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqysne/qwen38_27b_gpt56_luna_compressed_into_27b/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.8 27B = GPT-5.6 Luna compressed into 27B",
-   "published_at": "2026-08-17T17:29:04+00:00",
-   "collected_at": "2026-08-17T17:36:28.568781+00:00",
-   "title_ko": "Qwen3.8 27B 모델 공개",
-   "summary_ko": "소형 모델임에도 고성능을 발휘하는 Qwen3.8 27B가 공개되어 주목을 받고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "2f89a16eea32e4b6",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqyq8r/artificial_analysis_qwen3827b_benchmarks_put_it/",
-   "source": "r/LocalLLaMA",
-   "title": "Artificial Analysis' Qwen3.8-27B benchmarks put it neck and neck with DeepSeek V4 and GPT-5.6 Luna Max",
-   "published_at": "2026-08-17T17:26:46+00:00",
-   "collected_at": "2026-08-17T17:36:28.568781+00:00",
-   "title_ko": "Qwen3.8-27B 벤치마크 결과 발표",
-   "summary_ko": "Artificial Analysis 벤치마크에서 Qwen3.8-27B가 최신 대형 모델들과 어깨를 나란히 하는 성능을 기록했습니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "벤치마크"
    ]
   }
  ]
