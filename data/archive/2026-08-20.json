@@ -1,5 +1,81 @@
 [
  {
+  "id": "d78531ea4a63f465",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vt2jef/qwen3823bminime_a_depthpruned_qwen3827b_to_227bb/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-23B-Mini-Me: A Depth-Pruned Qwen3.8-27B (to ~22.7BB)",
+  "published_at": "2026-08-19T23:19:16+00:00",
+  "collected_at": "2026-08-19T23:31:48.436015+00:00",
+  "title_ko": "Qwen3.8-27B 모델의 깊이 가지치기 버전 공개",
+  "summary_ko": "개발자가 Qwen3.8-27B 모델의 레이어를 전략적으로 제거하여 추론 능력 저하 없이 22.7B 파라미터로 경량화한 모델을 공유했습니다. 리소스가 제한된 환경에서 코딩 및 에이전트 용도로 활용할 수 있습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "0a9fa676909b8364",
+  "url": "https://simonwillison.net/2026/Aug/19/jeremy-morrell/",
+  "source": "Simon Willison",
+  "title": "Quoting Jeremy Morrell",
+  "published_at": "2026-08-19T22:56:31+00:00",
+  "collected_at": "2026-08-19T23:31:47.741281+00:00",
+  "title_ko": "LLM 시대의 확장 가능한 소프트웨어 기회",
+  "summary_ko": "LLM이 확장 기능 작성 비용을 낮추고 샌드박스 기술이 보안을 보장하면서, 사용자가 AI를 통해 소프트웨어를 안전하게 확장할 수 있는 새로운 기회가 열리고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "986320ef31b6f3af",
+  "url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
+  "source": "Simon Willison",
+  "title": "Conceptual integrity and counting lines of code",
+  "published_at": "2026-08-19T22:46:07+00:00",
+  "collected_at": "2026-08-19T23:31:47.741281+00:00",
+  "title_ko": "AI 코딩 에이전트 시대의 생산성 지표와 코드 라인 수",
+  "summary_ko": "AI를 활용한 소프트웨어 개발에서 코드 라인 수가 생산성의 지표로 다시 유효해질 수 있는지에 대한 논의를 다룹니다.",
+  "category": "참고",
+  "tags": [
+   "코딩",
+   "LLM"
+  ]
+ },
+ {
+  "id": "1bf112424fe729d7",
+  "url": "https://www.reddit.com/r/singularity/comments/1vt155o/introducing_gen15_a_oneshot_learner/",
+  "source": "r/singularity",
+  "title": "Introducing GEN-1.5, a one-shot learner",
+  "published_at": "2026-08-19T22:22:36+00:00",
+  "collected_at": "2026-08-19T23:32:01.489300+00:00",
+  "title_ko": "원샷 학습 AI 모델 GEN-1.5 소개",
+  "summary_ko": "한 번의 예시만으로 학습을 수행하는 원샷 학습 모델 GEN-1.5가 새롭게 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "인공지능",
+   "모델명"
+  ]
+ },
+ {
+  "id": "d030512f153abd19",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vt0y1g/anyone_not_on_full_auto_when_coding_with_local/",
+  "source": "r/LocalLLaMA",
+  "title": "Anyone NOT on full auto when coding with local LLMs?",
+  "published_at": "2026-08-19T22:14:52+00:00",
+  "collected_at": "2026-08-19T23:31:48.436015+00:00",
+  "title_ko": "로컬 LLM 코딩 시 완전 자동화 워크플로우 활용 현황",
+  "summary_ko": "개발자들이 로컬 환경의 소형 LLM을 사용할 때 완전 자동화 방식을 선호하는지 수동 워크플로우를 유지하는지에 대한 개발자 커뮤니티의 논의입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
   "id": "801a3672f2c6a152",
   "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
   "source": "TechCrunch",
@@ -28,6 +104,22 @@
   "tags": [
    "코딩",
    "스타트업",
+   "투자"
+  ]
+ },
+ {
+  "id": "575c1b97f673a625",
+  "url": "https://news.hada.io/topic?id=32674",
+  "source": "GeekNews",
+  "title": "OpenRouter가 Stripe에 합류함",
+  "published_at": "2026-08-19T21:34:45+00:00",
+  "collected_at": "2026-08-19T23:32:03.475003+00:00",
+  "title_ko": "AI 모델 마켓플레이스 OpenRouter, Stripe에 합류",
+  "summary_ko": "대규모 AI 모델 게이트웨이인 OpenRouter가 결제 거인 Stripe에 인수 합병되었습니다. 기존 서비스와 브랜드는 그대로 유지됩니다.",
+  "category": "중요",
+  "tags": [
+   "OpenRouter",
+   "Stripe",
    "투자"
   ]
  },
