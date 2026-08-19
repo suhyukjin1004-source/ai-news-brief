@@ -1,8 +1,23 @@
 {
- "updated_at": "2026-08-19T19:33:31.094652+00:00",
+ "updated_at": "2026-08-19T20:38:06.817575+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "86480a16ba7c3ccb",
+   "url": "https://www.reddit.com/r/singularity/comments/1vsxvba/hokmind_showcases_primal_f1_m1_interactive_bots/",
+   "source": "r/singularity",
+   "title": "HOKMIND showcases Primal F1 / M1 interactive bots at WRC (translated)",
+   "published_at": "2026-08-19T20:18:32+00:00",
+   "collected_at": "2026-08-19T20:38:00.977669+00:00",
+   "title_ko": "WRC에서 공개된 HOKMIND의 Primal F1·M1 로봇",
+   "summary_ko": "HOKMIND가 WRC에서 상호작용 가능한 Primal F1 및 M1 로봇을 선보이며 로보틱스 기술을 뽐냈습니다.",
+   "category": "속보",
+   "tags": [
+    "로보틱스",
+    "AI 에이전트"
+   ]
+  },
   {
    "id": "f6c4155bd62a11b0",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214099",
@@ -96,6 +111,21 @@
    ]
   },
   {
+   "id": "690d13d57ec6b1db",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsvr7f/ornith15_9b_might_not_be_bad_at_all/",
+   "source": "r/LocalLLaMA",
+   "title": "Ornith-1.5 9B might not be bad at all",
+   "published_at": "2026-08-19T19:01:53+00:00",
+   "collected_at": "2026-08-19T20:37:56.342734+00:00",
+   "title_ko": "Ornith-1.5 9B 소형 모델 성능 평가",
+   "summary_ko": "저사양 환경에서 의료 물리 연구용 스크립트 생성을 위해 다양한 소형 오픈소스 LLM을 테스트한 사용자 경험 공유입니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
    "id": "a2e455278fc2c8bd",
    "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
    "source": "The Verge",
@@ -173,6 +203,20 @@
    ]
   },
   {
+   "id": "80bb85a1917544df",
+   "url": "https://www.reddit.com/r/singularity/comments/1vsvdai/stripe_says_the_singularity_has_begun/",
+   "source": "r/singularity",
+   "title": "Stripe says \"the singularity\" has begun",
+   "published_at": "2026-08-19T18:48:21+00:00",
+   "collected_at": "2026-08-19T20:38:00.977669+00:00",
+   "title_ko": "스트라이프, '특이점(Singularity)' 도래 선언",
+   "summary_ko": "결제 플랫폼 스트라이프가 기술적 특이점 시대가 시작되었다고 언급하며 업계의 이목을 끌었습니다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "a5d719298de17140",
    "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
    "source": "TechCrunch",
@@ -231,6 +275,36 @@
     "오픈소스",
     "코딩",
     "LLM"
+   ]
+  },
+  {
+   "id": "03fb8b63266ef8e0",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vstyge/i_might_have_found_the_perfect_config_parameters/",
+   "source": "r/LocalLLaMA",
+   "title": "I might have found the perfect config parameters for qwen 3.8 27b",
+   "published_at": "2026-08-19T17:59:04+00:00",
+   "collected_at": "2026-08-19T20:37:56.342734+00:00",
+   "title_ko": "Qwen 3.8 27B 모델 최적화 설정 공유",
+   "summary_ko": "로컬 환경에서 Qwen 모델의 성능을 극대화하여 초당 70토큰을 달성한 최적화 구성 파라미터가 공유되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "bb3bb0727f40453b",
+   "url": "https://www.reddit.com/r/singularity/comments/1vstr1x/what_would_happen_if_we_gave_a_single_ai_problem/",
+   "source": "r/singularity",
+   "title": "What would happen if we gave a single ai problem the compute currently used for millions of prompts?",
+   "published_at": "2026-08-19T17:51:53+00:00",
+   "collected_at": "2026-08-19T20:38:00.977669+00:00",
+   "title_ko": "전 세계 AI 연산력을 단일 과학 난제에 집중한다면",
+   "summary_ko": "분산된 수백만 개의 AI 프롬프트 연산력을 단 하나의 거대한 과학적 문제 해결에 집중했을 때의 가능성을 고찰합니다.",
+   "category": "참고",
+   "tags": [
+    "LLM",
+    "투자"
    ]
   },
   {
@@ -1646,6 +1720,22 @@
    ]
   },
   {
+   "id": "bb00701314a45b68",
+   "url": "https://fx.sh",
+   "source": "Hacker News",
+   "title": "fx :Tiny, open, native coding agent.",
+   "published_at": "2026-08-18T22:00:21+00:00",
+   "collected_at": "2026-08-19T20:37:55.078308+00:00",
+   "title_ko": "가볍고 네이티브한 코딩 에이전트 'fx' 공개",
+   "summary_ko": "개발 실무에 활용할 수 있는 작고 빠른 오픈소스 네이티브 코딩 에이전트 도구가 소개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "코딩",
+    "오픈소스"
+   ]
+  },
+  {
    "id": "e4563871866d3a63",
    "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
    "source": "OpenAI",
@@ -2424,6 +2514,21 @@
    ]
   },
   {
+   "id": "1da3a508f6ec04f3",
+   "url": "https://github.com/vixhal-baraiya/microgpt-c",
+   "source": "Hacker News",
+   "title": "Microgpt in pure C hits 10M tps on Apple m5",
+   "published_at": "2026-08-18T15:46:46+00:00",
+   "collected_at": "2026-08-19T20:37:55.078308+00:00",
+   "title_ko": "C언어로 작성된 Microgpt, 애플 M5에서 초당 1,000만 토큰 달성",
+   "summary_ko": "순수 C언어로 구현된 Microgpt가 애플 M5 칩 환경에서 초당 1,000만 토큰 처리 속도를 기록했습니다.",
+   "category": "중요",
+   "tags": [
+    "LLM",
+    "반도체"
+   ]
+  },
+  {
    "id": "bb60b9e4381274f3",
    "url": "https://www.reddit.com/r/singularity/comments/1vrsn4q/scaling_selfverification_with_deepseek_v4_flash/",
    "source": "r/singularity",
@@ -2906,110 +3011,6 @@
    "tags": [
     "오픈소스",
     "Hugging Face"
-   ]
-  },
-  {
-   "id": "bd442066f3137bc5",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214044",
-   "source": "AI타임스",
-   "title": "비드래프트, AI 신약발견 프로젝트 공개…3일 만에 2000건 이상 후보물질 제출",
-   "published_at": "2026-08-18T12:08:35+00:00",
-   "collected_at": "2026-08-18T03:54:09.048324+00:00",
-   "title_ko": "비드래프트, AI 신약발견 프로젝트 공개 3일 만에 2천 건 돌파",
-   "summary_ko": "비드래프트가 허깅페이스에 공개한 AI 신약발견 프로젝트에 3일 만에 2천 건 이상의 후보물질이 제출되었습니다. 첨단 AI 모델을 활용해 신약 후보 물질을 발굴하고 시뮬레이션하는 능력을 겨루는 점에서 중요합니다.",
-   "category": "중요",
-   "tags": [
-    "AI 신약발견",
-    "오픈소스",
-    "허깅페이스"
-   ]
-  },
-  {
-   "id": "60d84695ef4657cf",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrnay3/what_would_make_an_uploaderrun_refusal_table/",
-   "source": "r/LocalLLaMA",
-   "title": "What would make an uploader-run refusal table independently reproducible?",
-   "published_at": "2026-08-18T12:07:49+00:00",
-   "collected_at": "2026-08-18T13:51:44.741429+00:00",
-   "title_ko": "LLM 모델 카드의 거부율(Refusal) 지표 재현성 문제",
-   "summary_ko": "업로더가 직접 실행한 모델 거부율 측정 결과가 독립적으로 재현되기 어려운 한계와 프롬프트 검증의 투명성 문제가 제기되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "156270e738419264",
-   "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
-   "source": "The Verge",
-   "title": "Google’s Pet Memory forgot who my cats are",
-   "published_at": "2026-08-18T12:01:29+00:00",
-   "collected_at": "2026-08-18T14:43:39.531269+00:00",
-   "title_ko": "구글 제미나이 홈의 펫 메모리 기능 오류 논란",
-   "summary_ko": "구글 스마트홈의 새로운 펫 인식 AI 기능이 반려동물을 제대로 식별하지 못하는 등 정확도 문제가 제기되었습니다.",
-   "category": "참고",
-   "tags": [
-    "Google",
-    "Gemini"
-   ]
-  },
-  {
-   "id": "a5d8d27293e7e6d3",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214051",
-   "source": "AI타임스",
-   "title": "클라우드네트웍스, Kong과 파트너십 체결...AI 트래픽 통합 관리 AI 게이트웨이 국내 공급",
-   "published_at": "2026-08-18T11:40:00+00:00",
-   "collected_at": "2026-08-18T04:45:28.246290+00:00",
-   "title_ko": "클라우드네트웍스, 콩 AI 게이트웨이 국내 공급",
-   "summary_ko": "클라우드네트웍스가 콩과 파트너십을 맺고 기업의 AI 트래픽을 통합 관리하는 '콩 AI 게이트웨이'를 국내에 공급한다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "01995fdf7eac4094",
-   "url": "https://www.reddit.com/r/singularity/comments/1vrmal8/7_years_to_get_from_virtual_hilarity_to_physical/",
-   "source": "r/singularity",
-   "title": "7 Years to Get From Virtual Hilarity to Physical One",
-   "published_at": "2026-08-18T11:18:58+00:00",
-   "collected_at": "2026-08-18T14:44:01.447109+00:00",
-   "title_ko": "가상에서 물리적 세계로의 AI 진화 속도",
-   "summary_ko": "가상 영역의 AI 기술이 물리적 로보틱스 영역으로 확장되기까지 걸린 짧은 시간에 대한 고찰입니다.",
-   "category": "참고",
-   "tags": [
-    "로보틱스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "c898a6c55ddbf9c7",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrm27o/deepseek_v4_flash_0731_on_strix_halo_draft_model/",
-   "source": "r/LocalLLaMA",
-   "title": "DeepSeek V4 Flash 0731 on Strix Halo: draft model, n_max sweep, and a launch line that actually helps",
-   "published_at": "2026-08-18T11:07:12+00:00",
-   "collected_at": "2026-08-18T13:02:16.756860+00:00",
-   "title_ko": "Strix Halo 하드웨어에서 DeepSeek V4 Flash 성능 분석",
-   "summary_ko": "Strix Halo 미니 PC 환경에서 DeepSeek V4 Flash 모델의 토큰 처리 속도와 메모리 사용량을 측정한 벤치마크 결과입니다.",
-   "category": "팁",
-   "tags": [
-    "DeepSeek",
-    "반도체"
-   ]
-  },
-  {
-   "id": "01003c6680bc2ecc",
-   "url": "https://openai.com/index/chatgpt-for-teens",
-   "source": "OpenAI",
-   "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-   "published_at": "2026-08-18T11:00:00+00:00",
-   "collected_at": "2026-08-19T13:02:52.150176+00:00",
-   "title_ko": "청소년용 ChatGPT 출시",
-   "summary_ko": "학습과 비판적 사고를 돕고 강력한 보호 기능과 부모 제어 기능을 탑재한 청소년 전용 ChatGPT가 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "ChatGPT"
    ]
   }
  ]
