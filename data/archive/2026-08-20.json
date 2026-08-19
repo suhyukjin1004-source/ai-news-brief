@@ -109,6 +109,22 @@
   ]
  },
  {
+  "id": "a5d719298de17140",
+  "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+  "source": "TechCrunch",
+  "title": "Researchers complain that OpenAI revoked their access to limited cyber program",
+  "published_at": "2026-08-19T18:46:14+00:00",
+  "collected_at": "2026-08-19T18:47:52.166946+00:00",
+  "title_ko": "OpenAI, 사이버보안 연구원 대상 제한 프로그램 접근 차단 논란",
+  "summary_ko": "보안 연구원들이 OpenAI의 사이버보안 신뢰 프로그램(TAC) 접근 권한을 갑자기 상실했다고 불만을 제기했습니다. 안전장치가 완화된 모델을 제공하던 프로그램으로 연구 생태계에 영향을 줄 수 있습니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "보안",
+   "연구"
+  ]
+ },
+ {
   "id": "ebab89ae14ece76c",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214124",
   "source": "AI타임스",
@@ -120,6 +136,37 @@
   "category": "참고",
   "tags": [
    "로보틱스"
+  ]
+ },
+ {
+  "id": "08816b422dfbc5b9",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsuaoj/dflash2_speeds_qwen_38_27b_up_to_4_times/",
+  "source": "r/LocalLLaMA",
+  "title": "DFlash2 speeds Qwen 3.8 27B up to 4 times",
+  "published_at": "2026-08-19T18:10:35+00:00",
+  "collected_at": "2026-08-19T18:48:15.009284+00:00",
+  "title_ko": "DFlash2 기술로 Qwen 모델 속도 최대 4배 향상",
+  "summary_ko": "llama.cpp 업데이트에 DFlash2 기법이 추가되면서 Qwen 3.8 27B 모델의 토큰 처리 속도가 대폭 빨라졌습니다. 로컬 LLM의 추론 성능을 크게 개선할 수 있습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩",
+   "LLM"
+  ]
+ },
+ {
+  "id": "f9b6fc261a9c2d2c",
+  "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+  "source": "Hacker News",
+  "title": "Openrouter is joining Stripe",
+  "published_at": "2026-08-19T17:32:38+00:00",
+  "collected_at": "2026-08-19T18:47:54.663170+00:00",
+  "title_ko": "스트라이프(Stripe), 오픈라우터 인수",
+  "summary_ko": "결제 기업 스트라이프가 AI 모델 라우팅 플랫폼인 오픈라우터를 인수했습니다. AI 인프라 시장의 대형 인수합병으로 업계 주목을 받고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "투자",
+   "인프라"
   ]
  },
  {
@@ -150,6 +197,22 @@
   "tags": [
    "OpenAI",
    "Anthropic"
+  ]
+ },
+ {
+  "id": "1a1f00882f77a355",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vssd63/qwen_38_27b_vs_gemini_37_flash_high_for_real/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen 3.8 27B vs Gemini 3.7 Flash (High) for real coding: open-source 27B model did a much better job",
+  "published_at": "2026-08-19T17:03:20+00:00",
+  "collected_at": "2026-08-19T18:48:15.009284+00:00",
+  "title_ko": "오픈소스 Qwen 27B, 코딩 디버깅에서 상용 모델 능가해",
+  "summary_ko": "실제 C++ 디버깅 프로젝트에서 Qwen 3.8 27B가 Gemini 3.7 Flash보다 더 정확하고 신뢰도 높은 엔지니어링 판단을 보여주었습니다. 오픈소스 모델의 실무 코딩 경쟁력이 입증되고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "코딩",
+   "Gemini"
   ]
  },
  {
