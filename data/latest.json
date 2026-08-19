@@ -1,8 +1,84 @@
 {
- "updated_at": "2026-08-19T01:47:00.697852+00:00",
+ "updated_at": "2026-08-19T03:06:46.331880+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "99e0fd063c65d14a",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214095",
+   "source": "AI타임스",
+   "title": "오픈AI, 사이버 보안 위험으로 차세대 모델 '아스트라' 개발 2주 중단",
+   "published_at": "2026-08-19T11:53:32+00:00",
+   "collected_at": "2026-08-19T03:06:41.739757+00:00",
+   "title_ko": "오픈AI, 사이버 보안 위험으로 차세대 모델 개발 일시 중단",
+   "summary_ko": "오픈AI가 AI 모델의 사이버 공격 능력 고도화에 따른 보안 위험을 예방하기 위해 차세대 모델 '아스트라'의 훈련을 2주간 중단하고 보안을 재정비한다. AI 안전성 확보의 중요성이 커지는 시점에서 업계에 큰 시사점을 준다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "AI 에이전트",
+    "규제"
+   ]
+  },
+  {
+   "id": "5e000ba3462155a7",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214093",
+   "source": "AI타임스",
+   "title": "스노우플레이크, AI 모델 라우팅 기능 출시...\"프론티어·오픈 모델 최적화\"",
+   "published_at": "2026-08-19T11:36:58+00:00",
+   "collected_at": "2026-08-19T03:06:41.739757+00:00",
+   "title_ko": "스노우플레이크, AI 모델 라우팅 기능 출시",
+   "summary_ko": "스노우플레이크가 작업 성격에 맞춰 오픈소스와 프론티어 모델을 자동 배분하는 '다이나믹 모델 라우팅'을 선보였다. 기업들이 AI 비용을 절감하고 효율성을 높이는 데 기여할 것으로 보인다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "b9b0918394929327",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214096",
+   "source": "AI타임스",
+   "title": "엠아이큐브솔루션, 팔도 라면 공장에 AI 자율제조 플랫폼 공급",
+   "published_at": "2026-08-19T11:35:24+00:00",
+   "collected_at": "2026-08-19T03:06:41.739757+00:00",
+   "title_ko": "엠아이큐브솔루션, 팔도 라면 공장에 AI 자율제조 플랫폼 구축",
+   "summary_ko": "엠아이큐브솔루션이 정부 지원 사업을 통해 팔도 나주 공장에 AI 기반 자율제조 공정 최적화 엔진을 도입한다. 제조업의 AI 전환(AX) 가속화 측면에서 의미가 크다.",
+   "category": "참고",
+   "tags": [
+    "스마트팩토리",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "dd2647b4e3d08455",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214098",
+   "source": "AI타임스",
+   "title": "뉴플로이, 개인 PC에서 구동하는 '온디바이스 AI OCR 솔루션' 출시",
+   "published_at": "2026-08-19T11:34:00+00:00",
+   "collected_at": "2026-08-19T03:06:41.739757+00:00",
+   "title_ko": "뉴플로이, 개인 PC 구동 온디바이스 AI OCR 솔루션 출시",
+   "summary_ko": "뉴플로이가 외부 서버 전송 없이 개인 PC에서 작동하는 온디바이스 AI 문서 OCR 솔루션을 무료로 출시했다. 보안성이 중요한 문서 처리 업무에 유용하다.",
+   "category": "팁",
+   "tags": [
+    "온디바이스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "48e531516effd5e9",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs9zym/new_midsize_qwen_38_model_coming_next_week/",
+   "source": "r/LocalLLaMA",
+   "title": "New midsize Qwen 3.8 model coming next week (hopefully) according to community manager!",
+   "published_at": "2026-08-19T02:44:37+00:00",
+   "collected_at": "2026-08-19T03:06:28.575266+00:00",
+   "title_ko": "알리바바 큐원, 차세대 오픈웨이트 모델 출시 임박",
+   "summary_ko": "커뮤니티 매니저에 따르면 알리바바의 큐원(Qwen) 차세대 중형 오픈웨이트 모델이 다음 주 출시될 예정이다. 오픈소스 LLM 생태계에 큰 영향을 미칠 것으로 기대된다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "Qwen"
+   ]
+  },
   {
    "id": "62e4674504d22132",
    "url": "https://news.hada.io/topic?id=32631",
@@ -36,6 +112,22 @@
    ]
   },
   {
+   "id": "14f8bb53babd7a37",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs4wo9/what_is_the_best_qwen38_27b_abliterated_version/",
+   "source": "r/LocalLLaMA",
+   "title": "What is the best Qwen3.8 27b Abliterated version out there?",
+   "published_at": "2026-08-18T23:00:28+00:00",
+   "collected_at": "2026-08-19T03:06:28.575266+00:00",
+   "title_ko": "큐원 모델의 무검열(Abliterated) 버전 활용 수요 증가",
+   "summary_ko": "개발자들이 오래된 프로그램 역공학 등 기술적 작업을 위해 검열이 제거된 큐원 모델 버전을 찾는 수요가 늘고 있다. 오픈소스 모델의 커뮤니티 활용 양상을 보여준다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "Qwen",
+    "코딩"
+   ]
+  },
+  {
    "id": "d39afaf1897e764f",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs43av/i_tested_dflash2_for_qwen38_27b_on_a_5090/",
    "source": "r/LocalLLaMA",
@@ -64,6 +156,21 @@
    "tags": [
     "AI 에디터",
     "코딩"
+   ]
+  },
+  {
+   "id": "d3c89fb31dea3c6d",
+   "url": "https://linear.app/data",
+   "source": "Hacker News",
+   "title": "AI usage patterns in software teams",
+   "published_at": "2026-08-18T22:08:07+00:00",
+   "collected_at": "2026-08-19T03:06:27.696307+00:00",
+   "title_ko": "소프트웨어 팀의 AI 활용 패턴 분석 공개",
+   "summary_ko": "개발팀 내에서 AI 도구가 실제로 어떻게 사용되고 있는지에 대한 데이터와 패턴이 공개되었다. 실무 개발 환경에서의 AI 도입 트렌드를 파악할 수 있다.",
+   "category": "참고",
+   "tags": [
+    "코딩",
+    "AI 에이전트"
    ]
   },
   {
@@ -2900,114 +3007,6 @@
    "tags": [
     "투자",
     "AI 에이전트"
-   ]
-  },
-  {
-   "id": "5a23028218fcb743",
-   "url": "https://mkornreich.me/projects/sokoban/",
-   "source": "Hacker News",
-   "title": "Show HN: Sokoban AI Solver",
-   "published_at": "2026-08-17T13:07:00+00:00",
-   "collected_at": "2026-08-17T18:52:20.828766+00:00",
-   "title_ko": "소코반 퍼즐을 해결하는 AI 솔버 프로젝트",
-   "summary_ko": "고전 퍼즐 게임인 소코반을 AI 알고리즘으로 해결하는 프로젝트가 공개되어 관심을 끌고 있습니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "81fcb1f3d0a05212",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqrt86/after_pushing_1m_tokens_through_qwen_38_27b_here/",
-   "source": "r/LocalLLaMA",
-   "title": "After pushing 1M+ tokens through Qwen 3.8 27B, here is my optimal llama.cpp config for 16GB VRAM (73k Context, Agentic Coding)",
-   "published_at": "2026-08-17T13:05:26+00:00",
-   "collected_at": "2026-08-17T13:47:24.572924+00:00",
-   "title_ko": "16GB VRAM 환경에서 Qwen 모델 최적화 구성을 통한 에이전트 코딩 팁",
-   "summary_ko": "한 개발자가 16GB VRAM 환경에서 대용량 토큰을 처리하며 에이전트 코딩 워크플로우를 테스트한 llama.cpp 최적화 설정을 공유했습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "da258223d4ea22f1",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqrf6p/paper_interns2mobius_foundation_model_with/",
-   "source": "r/LocalLLaMA",
-   "title": "[Paper] Intern-S2-Mobius: Foundation Model with Decoupled Knowledge and Reasoning",
-   "published_at": "2026-08-17T12:49:03+00:00",
-   "collected_at": "2026-08-17T13:00:22.409569+00:00",
-   "title_ko": "지식과 추론을 분리한 파운데이션 모델 Intern-S2-Mobius 공개",
-   "summary_ko": "지식 저장과 추론 연산을 분리하는 아키텍처를 도입하여 지식 압축 효율과 추론 성능을 동시에 높인 새로운 7B 모델이 발표되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "인공지능",
-    "모델"
-   ]
-  },
-  {
-   "id": "905e1fd0a9a3b192",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqr70m/mimir_did_the_vikings_train_a_17b_killer_model/",
-   "source": "r/LocalLLaMA",
-   "title": "Mimir: Did the vikings train a 1.7B killer model?",
-   "published_at": "2026-08-17T12:39:16+00:00",
-   "collected_at": "2026-08-17T14:37:03.271009+00:00",
-   "title_ko": "고성능 소형 LLM 미미르(Mimir) 1.7B 공개",
-   "summary_ko": "기존 소형 모델들의 성능을 뛰어넘는다고 주장하는 1.7B 파라미터 규모의 미미르 모델이 공개되었습니다. 독특한 레이어 순환 아키텍처를 적용해 소형 AI 모델 효율성 연구에 새로운 가능성을 제시합니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "627b904cb0cf4138",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214022",
-   "source": "AI타임스",
-   "title": "손짓·음성 알아듣는 로봇청소기…미국 매틱, '매틱 큐'로 중국과 차별화",
-   "published_at": "2026-08-17T12:32:15+00:00",
-   "collected_at": "2026-08-17T04:53:20.258823+00:00",
-   "title_ko": "매틱, 음성과 손짓으로 제어하는 로봇청소기 기능 공개",
-   "summary_ko": "미국 매틱이 앱 없이 음성과 손짓으로 제어하는 온디바이스 AI 기반 로봇청소기 기능을 선보였다. 중국산 중심의 시장에서 차별화된 사용성을 제공하기 위함이다.",
-   "category": "속보",
-   "tags": [
-    "로보틱스",
-    "온디바이스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "a0b96461e4f5f481",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqqv2q/tencenteviepreview45b_hugging_face/",
-   "source": "r/LocalLLaMA",
-   "title": "tencent/EVIE-Preview-4.5B · Hugging Face",
-   "published_at": "2026-08-17T12:24:17+00:00",
-   "collected_at": "2026-08-17T13:00:22.409569+00:00",
-   "title_ko": "텐센트, 다국어 비주얼 문서 검색 모델 EVIE-Preview-4.5B 공개",
-   "summary_ko": "Qwen3.5 기반으로 개발된 이 모델은 멀티 벡터 임베딩을 통해 저장 및 인덱싱 비용을 획기적으로 줄이면서도 최고 수준의 문서 검색 성능을 제공합니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "임베딩",
-    "멀티모달"
-   ]
-  },
-  {
-   "id": "c64d73f3036300d0",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214024",
-   "source": "AI타임스",
-   "title": "\"원하는 AI 벤치마크 직접 만든다\"…아티피셜 애널리시스, '옵티마' 출시",
-   "published_at": "2026-08-17T12:19:08+00:00",
-   "collected_at": "2026-08-17T04:53:20.258823+00:00",
-   "title_ko": "아티피셜 애널리시스, 맞춤형 AI 벤치마크 '옵티마' 출시",
-   "summary_ko": "사용자가 직접 업무 데이터를 기반으로 최신 AI 모델의 성능, 비용, 속도를 비교할 수 있는 맞춤형 벤치마크 플랫폼이 나왔다. 실제 업무 환경에 최적화된 AI 선택을 돕는다.",
-   "category": "속보",
-   "tags": [
-    "AI 벤치마크",
-    "성능 평가"
    ]
   }
  ]

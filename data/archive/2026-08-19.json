@@ -1,5 +1,81 @@
 [
  {
+  "id": "99e0fd063c65d14a",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214095",
+  "source": "AI타임스",
+  "title": "오픈AI, 사이버 보안 위험으로 차세대 모델 '아스트라' 개발 2주 중단",
+  "published_at": "2026-08-19T11:53:32+00:00",
+  "collected_at": "2026-08-19T03:06:41.739757+00:00",
+  "title_ko": "오픈AI, 사이버 보안 위험으로 차세대 모델 개발 일시 중단",
+  "summary_ko": "오픈AI가 AI 모델의 사이버 공격 능력 고도화에 따른 보안 위험을 예방하기 위해 차세대 모델 '아스트라'의 훈련을 2주간 중단하고 보안을 재정비한다. AI 안전성 확보의 중요성이 커지는 시점에서 업계에 큰 시사점을 준다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트",
+   "규제"
+  ]
+ },
+ {
+  "id": "5e000ba3462155a7",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214093",
+  "source": "AI타임스",
+  "title": "스노우플레이크, AI 모델 라우팅 기능 출시...\"프론티어·오픈 모델 최적화\"",
+  "published_at": "2026-08-19T11:36:58+00:00",
+  "collected_at": "2026-08-19T03:06:41.739757+00:00",
+  "title_ko": "스노우플레이크, AI 모델 라우팅 기능 출시",
+  "summary_ko": "스노우플레이크가 작업 성격에 맞춰 오픈소스와 프론티어 모델을 자동 배분하는 '다이나믹 모델 라우팅'을 선보였다. 기업들이 AI 비용을 절감하고 효율성을 높이는 데 기여할 것으로 보인다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "b9b0918394929327",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214096",
+  "source": "AI타임스",
+  "title": "엠아이큐브솔루션, 팔도 라면 공장에 AI 자율제조 플랫폼 공급",
+  "published_at": "2026-08-19T11:35:24+00:00",
+  "collected_at": "2026-08-19T03:06:41.739757+00:00",
+  "title_ko": "엠아이큐브솔루션, 팔도 라면 공장에 AI 자율제조 플랫폼 구축",
+  "summary_ko": "엠아이큐브솔루션이 정부 지원 사업을 통해 팔도 나주 공장에 AI 기반 자율제조 공정 최적화 엔진을 도입한다. 제조업의 AI 전환(AX) 가속화 측면에서 의미가 크다.",
+  "category": "참고",
+  "tags": [
+   "스마트팩토리",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "dd2647b4e3d08455",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214098",
+  "source": "AI타임스",
+  "title": "뉴플로이, 개인 PC에서 구동하는 '온디바이스 AI OCR 솔루션' 출시",
+  "published_at": "2026-08-19T11:34:00+00:00",
+  "collected_at": "2026-08-19T03:06:41.739757+00:00",
+  "title_ko": "뉴플로이, 개인 PC 구동 온디바이스 AI OCR 솔루션 출시",
+  "summary_ko": "뉴플로이가 외부 서버 전송 없이 개인 PC에서 작동하는 온디바이스 AI 문서 OCR 솔루션을 무료로 출시했다. 보안성이 중요한 문서 처리 업무에 유용하다.",
+  "category": "팁",
+  "tags": [
+   "온디바이스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "48e531516effd5e9",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs9zym/new_midsize_qwen_38_model_coming_next_week/",
+  "source": "r/LocalLLaMA",
+  "title": "New midsize Qwen 3.8 model coming next week (hopefully) according to community manager!",
+  "published_at": "2026-08-19T02:44:37+00:00",
+  "collected_at": "2026-08-19T03:06:28.575266+00:00",
+  "title_ko": "알리바바 큐원, 차세대 오픈웨이트 모델 출시 임박",
+  "summary_ko": "커뮤니티 매니저에 따르면 알리바바의 큐원(Qwen) 차세대 중형 오픈웨이트 모델이 다음 주 출시될 예정이다. 오픈소스 LLM 생태계에 큰 영향을 미칠 것으로 기대된다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "Qwen"
+  ]
+ },
+ {
   "id": "62e4674504d22132",
   "url": "https://news.hada.io/topic?id=32631",
   "source": "GeekNews",
@@ -32,6 +108,22 @@
   ]
  },
  {
+  "id": "14f8bb53babd7a37",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs4wo9/what_is_the_best_qwen38_27b_abliterated_version/",
+  "source": "r/LocalLLaMA",
+  "title": "What is the best Qwen3.8 27b Abliterated version out there?",
+  "published_at": "2026-08-18T23:00:28+00:00",
+  "collected_at": "2026-08-19T03:06:28.575266+00:00",
+  "title_ko": "큐원 모델의 무검열(Abliterated) 버전 활용 수요 증가",
+  "summary_ko": "개발자들이 오래된 프로그램 역공학 등 기술적 작업을 위해 검열이 제거된 큐원 모델 버전을 찾는 수요가 늘고 있다. 오픈소스 모델의 커뮤니티 활용 양상을 보여준다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "Qwen",
+   "코딩"
+  ]
+ },
+ {
   "id": "d39afaf1897e764f",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs43av/i_tested_dflash2_for_qwen38_27b_on_a_5090/",
   "source": "r/LocalLLaMA",
@@ -60,6 +152,21 @@
   "tags": [
    "AI 에디터",
    "코딩"
+  ]
+ },
+ {
+  "id": "d3c89fb31dea3c6d",
+  "url": "https://linear.app/data",
+  "source": "Hacker News",
+  "title": "AI usage patterns in software teams",
+  "published_at": "2026-08-18T22:08:07+00:00",
+  "collected_at": "2026-08-19T03:06:27.696307+00:00",
+  "title_ko": "소프트웨어 팀의 AI 활용 패턴 분석 공개",
+  "summary_ko": "개발팀 내에서 AI 도구가 실제로 어떻게 사용되고 있는지에 대한 데이터와 패턴이 공개되었다. 실무 개발 환경에서의 AI 도입 트렌드를 파악할 수 있다.",
+  "category": "참고",
+  "tags": [
+   "코딩",
+   "AI 에이전트"
   ]
  },
  {
