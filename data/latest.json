@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-19T15:39:41.520832+00:00",
+ "updated_at": "2026-08-19T16:40:51.182595+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -188,6 +188,21 @@
    ]
   },
   {
+   "id": "0a53e94f5a6e062d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsr67c/introducing_qwen3827b_dynamic_v3_unsloth_ggufs/",
+   "source": "r/LocalLLaMA",
+   "title": "Introducing Qwen3.8-27B Dynamic v3 Unsloth GGUFs",
+   "published_at": "2026-08-19T16:21:31+00:00",
+   "collected_at": "2026-08-19T16:40:33.825274+00:00",
+   "title_ko": "정확도 향상된 Qwen3.8-27B GGUF 모델 공개",
+   "summary_ko": "동일 크기에서 10% 더 높은 정확도를 제공하는 새로운 Dynamic v3 Unsloth GGUF 모델이 공개되어 저사양 환경에서도 효율적인 LLM 실행이 가능해졌습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
    "id": "bf56bab8e18bf5b1",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214108",
    "source": "AI타임스",
@@ -248,6 +263,66 @@
     "Anthropic",
     "투자",
     "규제"
+   ]
+  },
+  {
+   "id": "d5f2aafdea25f673",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsqfmj/antlingve_opensourced_6_base_model_checkpoints/",
+   "source": "r/LocalLLaMA",
+   "title": "AntLing’ve open-sourced 6 Base Model checkpoints for Ling-3.0-tiny & Ling-3.0-flash, covering pre-trained, mid-trained, and WSM-merged stages.",
+   "published_at": "2026-08-19T15:56:11+00:00",
+   "collected_at": "2026-08-19T16:40:33.825274+00:00",
+   "title_ko": "InclusionAI, Ling-3.0 베이스 모델 오픈소스 공개",
+   "summary_ko": "연구자들이 사전학습 및 미세조정을 유연하게 시작할 수 있도록 다양한 학습 단계의 Ling-3.0 베이스 모델 체크포인트들이 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "06dce36c57c17a63",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsq7gh/ling_30_flashtiny_base_models/",
+   "source": "r/LocalLLaMA",
+   "title": "ling 3.0 flash/tiny base models",
+   "published_at": "2026-08-19T15:47:55+00:00",
+   "collected_at": "2026-08-19T16:40:33.825274+00:00",
+   "title_ko": "Ling-3.0 Tiny 및 Flash 베이스 모델 체크포인트 출시",
+   "summary_ko": "학습 단계별로 구분된 Ling-3.0 모델의 체크포인트가 허깅페이스에 공개되어 커뮤니티 연구의 유연성이 높아졌습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "26eafa8274e4f294",
+   "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+   "source": "TechCrunch",
+   "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+   "published_at": "2026-08-19T15:44:53+00:00",
+   "collected_at": "2026-08-19T16:40:28.984820+00:00",
+   "title_ko": "테라파워 원자로, AI 데이터센터 전력 공급의 핵심으로 부상",
+   "summary_ko": "테라파워의 원자력 발전소가 AI 데이터센터와의 전력 공급 계약 경쟁에서 전략적 우위를 차지하고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "반도체",
+    "투자"
+   ]
+  },
+  {
+   "id": "7587bed4595f6ee2",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsq3zg/nvfp4_on_volta_despite_being_built_for_blackwell/",
+   "source": "r/LocalLLaMA",
+   "title": "NVFP4 on VOLTA! Despite being built for Blackwell, I made four 2017 V100s run Qwen 3.8 NVFP4 natively and match my $6000 RTX 5090.",
+   "published_at": "2026-08-19T15:44:29+00:00",
+   "collected_at": "2026-08-19T16:40:33.825274+00:00",
+   "title_ko": "구형 V100 GPU에서 최신 Qwen 모델 구동 성공",
+   "summary_ko": "소프트웨어 최적화를 통해 2017년형 V100 GPU에서 최신 NVFP4 모델을 네이티브로 구동하여 최신 플래그십 GPU와 성능 대등함을 증명했습니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "LLM"
    ]
   },
   {
@@ -459,6 +534,21 @@
    "tags": [
     "오픈소스",
     "영상 생성"
+   ]
+  },
+  {
+   "id": "0e755b0c80a979a1",
+   "url": "https://news.hada.io/topic?id=32663",
+   "source": "GeekNews",
+   "title": "Mojo 전체 컴파일러와 툴체인 오픈소스 공개",
+   "published_at": "2026-08-19T13:01:09+00:00",
+   "collected_at": "2026-08-19T16:40:47.991289+00:00",
+   "title_ko": "모듈러, Mojo 컴파일러 및 툴체인 오픈소스 전면 공개",
+   "summary_ko": "Modular가 고성능 AI 및 GPU 가속을 위해 설계된 프로그래밍 언어 Mojo의 컴파일러와 툴체인을 오픈소스로 공개했습니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "반도체"
    ]
   },
   {
@@ -2918,96 +3008,6 @@
    "category": "중요",
    "tags": [
     "규제"
-   ]
-  },
-  {
-   "id": "3928a63fd88f62bf",
-   "url": "https://news.hada.io/topic?id=32608",
-   "source": "GeekNews",
-   "title": "GPT-5.6 Sol 가격 50% 인하",
-   "published_at": "2026-08-18T06:35:58+00:00",
-   "collected_at": "2026-08-18T07:48:06.119392+00:00",
-   "title_ko": "OpenRouter, GPT-5.6 Sol 요금 50% 인하",
-   "summary_ko": "OpenRouter에서 고성능 추론 모델인 GPT-5.6 Sol의 API 이용 요금이 50% 인하되었습니다. 복잡한 코딩과 에이전트 워크플로 활용 비용이 줄어들 전망입니다.",
-   "category": "속보",
-   "tags": [
-    "GPT",
-    "코딩",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "ff3750c3b3199367",
-   "url": "https://www.reddit.com/r/singularity/comments/1vrgbt1/one_of_the_few_companies_making_the_lasers_that/",
-   "source": "r/singularity",
-   "title": "One of the few companies making the lasers that move data inside AI data centers just said it's keeping all of them for itself",
-   "published_at": "2026-08-18T05:41:01+00:00",
-   "collected_at": "2026-08-18T07:48:03.607631+00:00",
-   "title_ko": "광학 부품사 코히어런트, AI 데이터센터용 레이저 전량 자체 사용",
-   "summary_ko": "AI 칩 간 데이터 전송에 필수적인 레이저를 생산하는 코히어런트가 내부 수요 충당을 위해 외부 판매를 전면 중단한다고 밝혔습니다. 새로운 공급망 병목 현상이 우려됩니다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "반도체"
-   ]
-  },
-  {
-   "id": "dc46c88c00c13444",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrg907/qwen_38_27b_xhigh_vs_medium_small_comparison/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen 3.8 27B xhigh vs medium small comparison (+ others for fun)",
-   "published_at": "2026-08-18T05:36:41+00:00",
-   "collected_at": "2026-08-18T06:58:02.873917+00:00",
-   "title_ko": "큐원 모델의 추론 강도별 성능 비교 실험",
-   "summary_ko": "큐원 모델의 '추론 강도(thinking effort)' 설정에 따른 코드 생성 결과를 비교한 실험입니다. 고강도 추론 설정이 복잡한 작업에서 우수한 결과를 낸다는 것을 보여줍니다.",
-   "category": "참고",
-   "tags": [
-    "코딩"
-   ]
-  },
-  {
-   "id": "0db71958ae0d7bf6",
-   "url": "https://news.hada.io/topic?id=32606",
-   "source": "GeekNews",
-   "title": "Show GN: Codex 한도 차감 없이 ChatGPT 웹 채팅으로 코딩해보기",
-   "published_at": "2026-08-18T05:15:18+00:00",
-   "collected_at": "2026-08-18T06:58:17.488960+00:00",
-   "title_ko": "ChatGPT 웹 채팅을 통한 무료 코딩 활용 팁",
-   "summary_ko": "ChatGPT 웹 채팅의 작업 컨테이너 환경을 활용해 코딩 한도를 차감받지 않고 코드를 실행하는 팁입니다. 실무에서 유용하게 쓸 수 있는 방법입니다.",
-   "category": "팁",
-   "tags": [
-    "ChatGPT",
-    "코딩"
-   ]
-  },
-  {
-   "id": "f88fc0001495f141",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrfdjx/the_goat_of_local_llm_youtube_is_back/",
-   "source": "r/LocalLLaMA",
-   "title": "The GOAT of local LLM youtube is back",
-   "published_at": "2026-08-18T04:50:01+00:00",
-   "collected_at": "2026-08-18T08:48:29.411307+00:00",
-   "title_ko": "로컬 LLM 유튜브 채널 복귀 소식",
-   "summary_ko": "LLM 이해를 돕는 인기 로컬 LLM 유튜브 크리에이터가 복귀하여 관련 커뮤니티에서 큰 호응을 얻고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "99ccec147e7c9adf",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrf477/aa_is_the_reason_for_qwen38_27b_shipped_with_xhigh/",
-   "source": "r/LocalLLaMA",
-   "title": "AA is the reason for Qwen3.8 27B shipped with xhigh",
-   "published_at": "2026-08-18T04:36:17+00:00",
-   "collected_at": "2026-08-18T05:37:45.681848+00:00",
-   "title_ko": "Qwen 27B 모델이 최고 추론 수준으로 기본 설정된 이유",
-   "summary_ko": "Qwen 모델이 벤치마크 성능을 극대화하기 위해 최고 추론 수준을 기본값으로 탑재한 배경에 대한 분석입니다. 오픈소스 모델의 성능 평가와 벤치마크 경향을 보여줍니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "Qwen"
    ]
   }
  ]
