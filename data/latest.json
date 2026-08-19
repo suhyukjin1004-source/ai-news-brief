@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-08-19T03:06:46.331880+00:00",
+ "updated_at": "2026-08-19T04:45:59.372474+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "3076d5ad722bf6fb",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214094",
+   "source": "AI타임스",
+   "title": "오픈AI, 청소년 전용 ‘챗GPT 포 틴즈’ 글로벌 출시...안전장치·학습 기능 강화",
+   "published_at": "2026-08-19T12:20:22+00:00",
+   "collected_at": "2026-08-19T04:45:55.671553+00:00",
+   "title_ko": "오픈AI, 청소년 전용 '챗GPT 포 틴즈' 글로벌 출시",
+   "summary_ko": "오픈AI가 13~17세 청소년을 위한 안전장치와 학습 기능이 강화된 전용 챗봇을 출시했습니다. 청소년의 안전한 AI 활용을 돕기 위해 도입되었습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT",
+    "AI 에이전트"
+   ]
+  },
   {
    "id": "99e0fd063c65d14a",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214095",
@@ -77,6 +93,50 @@
    "tags": [
     "오픈소스",
     "Qwen"
+   ]
+  },
+  {
+   "id": "7735d31cac52970d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs9x4r/ling30tiny_is_a_very_interesting_model_run_on/",
+   "source": "r/LocalLLaMA",
+   "title": "Ling-3.0-tiny is a very interesting model. Run on NVIDIA Orin Nano Super 8GB at 128K context with IQ4_NL quant.",
+   "published_at": "2026-08-19T02:41:00+00:00",
+   "collected_at": "2026-08-19T04:45:42.517741+00:00",
+   "title_ko": "Ling-3.0-tiny 모델, 엔비디아 오린 나노에서 구동 테스트",
+   "summary_ko": "8GB RAM의 저렴한 엣지 디바이스인 엔비디아 오린 나노에서 Ling-3.0-tiny 모델이 128K 컨텍스트로 원활히 작동하는 결과가 공유되었습니다.",
+   "category": "참고",
+   "tags": [
+    "NVIDIA",
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "04ffcdfb046bc48a",
+   "url": "https://news.hada.io/topic?id=32636",
+   "source": "GeekNews",
+   "title": "Qwen3.8-27B-Uncensored-MLX - 애플 실리콘용 검열 제거 버전",
+   "published_at": "2026-08-19T02:24:02+00:00",
+   "collected_at": "2026-08-19T04:45:56.934971+00:00",
+   "title_ko": "Qwen3.8-27B 검열 제거 버전, 애플 실리콘 MLX용 공개",
+   "summary_ko": "Qwen 모델의 안전 정렬을 제거하여 유해 요청에도 응답하도록 만든 연구용 버전이 애플 실리콘 환경에서 실행 가능하도록 공개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "1d17b12bb91eaa8d",
+   "url": "https://www.cerebras.ai/cs4",
+   "source": "Hacker News",
+   "title": "Cerebras CS-4",
+   "published_at": "2026-08-19T00:28:18+00:00",
+   "collected_at": "2026-08-19T04:45:38.732604+00:00",
+   "title_ko": "세레브라스, AI 연산용 신형 시스템 'CS-4' 공개",
+   "summary_ko": "초고속 AI 하드웨어 기업 세레브라스가 새로운 인공지능 연산 시스템 CS-4를 선보였습니다.",
+   "category": "중요",
+   "tags": [
+    "반도체"
    ]
   },
   {
@@ -171,6 +231,20 @@
    "tags": [
     "코딩",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "2156e302859a8392",
+   "url": "https://artificialanalysis.ai/models/glm-5-3",
+   "source": "Hacker News",
+   "title": "GLM-5.3 Artificial Analysis Benchmarks",
+   "published_at": "2026-08-18T22:06:10+00:00",
+   "collected_at": "2026-08-19T04:45:38.732604+00:00",
+   "title_ko": "GLM-5.3 인공지능 분석 벤치마크 결과 공개",
+   "summary_ko": "최신 언어모델 GLM-5.3의 성능을 평가한 아티피셜 ANALYSIS 벤치마크 결과가 발표되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
    ]
   },
   {
@@ -2931,81 +3005,6 @@
    "category": "팁",
    "tags": [
     "규제",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "98e56a4e5d374ad9",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqszw0/llamacpp_version_v010_has_been_released/",
-   "source": "r/LocalLLaMA",
-   "title": "llama.cpp version v0.1.0 has been released",
-   "published_at": "2026-08-17T13:53:51+00:00",
-   "collected_at": "2026-08-17T14:37:03.271009+00:00",
-   "title_ko": "llama.cpp v0.1.0 정식 버전 출시",
-   "summary_ko": "llama.cpp가 기존 빌드 번호 방식에서 벗어나 시멘틱 버Versioning 체계를 도입하며 첫 v0.1.0 버전을 공개했습니다. 오픈소스 LLM 로컬 구동 생태계의 성숙을 보여주는 중요 업데이트입니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "llama.cpp"
-   ]
-  },
-  {
-   "id": "0af92ec24fd0de34",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqswsh/deepseek_v4_flash_with_antirez_dwarfstar_4_is/",
-   "source": "r/LocalLLaMA",
-   "title": "DeepSeek V4 Flash with Antirez Dwarfstar 4 is amazing.",
-   "published_at": "2026-08-17T13:50:27+00:00",
-   "collected_at": "2026-08-17T15:33:27.543730+00:00",
-   "title_ko": "DeepSeek V4 플래시 모델 활용기",
-   "summary_ko": "고사양 맥 스튜디오 환경에서 DeepSeek V4 Flash와 오픈소스 프레임워크를 조합하여 뛰어난 성능을 얻었다는 사용자 리뷰입니다. 로컬 LLM 구동의 새로운 가능성을 보여줍니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "로컬LLM"
-   ]
-  },
-  {
-   "id": "5a7d0636b02bb83e",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqsvqo/exl3_seems_to_be_fading_from_the_rlocalllama/",
-   "source": "r/LocalLLaMA",
-   "title": "EXL3 seems to be fading from the r/LocalLLaMa consciousness, and while I suspected it, I'm surprised at this point in time.",
-   "published_at": "2026-08-17T13:49:27+00:00",
-   "collected_at": "2026-08-17T15:33:27.543730+00:00",
-   "title_ko": "로컬 LLM 양자화 포맷 EXL3의 활용성과 한계",
-   "summary_ko": "llama.cpp의 대안인 EXL3 포맷과 TabbyAPI의 특징을 분석한 글입니다. 고성능 VRAM 환경에서의 효율성과 적용 고려사항을 다룹니다.",
-   "category": "참고",
-   "tags": [
-    "로컬LLM",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "9cf73f232e683609",
-   "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
-   "source": "Hacker News",
-   "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-   "published_at": "2026-08-17T13:44:23+00:00",
-   "collected_at": "2026-08-17T15:33:26.616894+00:00",
-   "title_ko": "희귀 도서 화물이 아마존 AI 학습 시설로 향한 사연",
-   "summary_ko": "희귀 도서 배송 추적 결과 아마존의 AI 학습 시설로 유입된 정황이 포착되었습니다. AI 모델 학습을 위한 데이터 수집 방식을 보여줍니다.",
-   "category": "참고",
-   "tags": [
-    "Amazon",
-    "데이터"
-   ]
-  },
-  {
-   "id": "c812e330d26b98a5",
-   "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-   "source": "TechCrunch",
-   "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-   "published_at": "2026-08-17T13:10:05+00:00",
-   "collected_at": "2026-08-17T13:47:14.110909+00:00",
-   "title_ko": "Wispr, 2억 8,000만 달러 투자 유치 및 20억 달러 밸류에이션 달성",
-   "summary_ko": "AI 음성 입력 스타트업 Wispr가 받아쓰기를 넘어선 확장 가능성을 인정받으며 20억 달러의 기업 가치로 대규모 투자를 유치했습니다.",
-   "category": "중요",
-   "tags": [
-    "투자",
     "AI 에이전트"
    ]
   }
