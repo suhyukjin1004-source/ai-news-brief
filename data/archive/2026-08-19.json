@@ -108,6 +108,66 @@
   ]
  },
  {
+  "id": "fe2c422c583b5e3e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsjcf7/stop_anthropomorphisizing_intermediate_tokens/",
+  "source": "r/LocalLLaMA",
+  "title": "Stop Anthropomorphisizing Intermediate Tokens: Qwen3.8 doesn't \"overthink\"",
+  "published_at": "2026-08-19T11:09:16+00:00",
+  "collected_at": "2026-08-19T11:34:11.795805+00:00",
+  "title_ko": "LLM의 중간 토큰에 대한 오해와 진실",
+  "summary_ko": "LLM의 '생성 과정(thinking)' 토큰은 인간의 단계적 사고와 다르며 프롬프트를 보강하기 위한 통계적 과정이라는 분석이다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "fd7cce09a070d812",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsitp5/are_cards_like_the_p40_or_mi50_still_worth_it/",
+  "source": "r/LocalLLaMA",
+  "title": "Are cards like the p40 or mi50 still worth it?",
+  "published_at": "2026-08-19T10:42:09+00:00",
+  "collected_at": "2026-08-19T11:34:11.795805+00:00",
+  "title_ko": "예산 부족 시 구형 데이터센터 GPU 구매 가치 분석",
+  "summary_ko": "P40이나 MI50 같은 구형 데이터센터 GPU가 예산이 부족한 로컬 AI 입문자에게 여전히 쓸모가 있는지에 대한 논의이다.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "81fbd39f4e52413b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsinej/am_i_doing_something_wrong_qwen_38_27b_seems/",
+  "source": "r/LocalLLaMA",
+  "title": "Am I doing something wrong? Qwen 3.8 27B seems useless for agentic coding",
+  "published_at": "2026-08-19T10:32:34+00:00",
+  "collected_at": "2026-08-19T11:34:11.795805+00:00",
+  "title_ko": "로컬 모델 Qwen 3.8 코딩 성능 한계 논란",
+  "summary_ko": "Qwen 3.8 27B 모델을 에이전트 코딩에 사용할 때 클라우드 모델 대비 성능이 떨어진다는 사용자 피드백이다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "4e0a4e6d378fdc92",
+  "url": "https://news.hada.io/topic?id=32653",
+  "source": "GeekNews",
+  "title": "Show GN: 시냅스라는 이름의 VSCODE 및 FORK 버전에서 호환되는 확장을 만들고 있습니다.",
+  "published_at": "2026-08-19T10:13:08+00:00",
+  "collected_at": "2026-08-19T11:34:25.901393+00:00",
+  "title_ko": "VS코드 호환 캔버스 기반 시각화 확장 '시냅스'",
+  "summary_ko": "거대 모노레포를 시각적으로 분석할 수 있는 VS코드 및 포크 버전 호환 확장 프로그램 개발 소식이다.",
+  "category": "팁",
+  "tags": [
+   "코딩"
+  ]
+ },
+ {
   "id": "3a872f4d802b3b22",
   "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
   "source": "TechCrunch",
@@ -135,6 +195,21 @@
   "tags": [
    "로보틱스",
    "투자"
+  ]
+ },
+ {
+  "id": "dcced40cbfc559e8",
+  "url": "https://news.hada.io/topic?id=32652",
+  "source": "GeekNews",
+  "title": "Show GN: Oh My Portal - 브라우저에서 CLI 에이전트를 원격으로 사용하기",
+  "published_at": "2026-08-19T09:21:44+00:00",
+  "collected_at": "2026-08-19T11:34:25.901393+00:00",
+  "title_ko": "브라우저에서 CLI 에이전트를 원격 제어하는 'Oh My Portal'",
+  "summary_ko": "다양한 CLI AI 에이전트를 터널링을 통해 브라우저에서 원격으로 사용할 수 있게 해주는 도구이다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
   ]
  },
  {

@@ -1,8 +1,54 @@
 {
- "updated_at": "2026-08-19T10:38:12.316503+00:00",
+ "updated_at": "2026-08-19T11:34:28.917759+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "f6c4155bd62a11b0",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214099",
+   "source": "AI타임스",
+   "title": "오픈AI, 오픈라우터서 'GPT-5.6' 절반가 할인...앤트로픽 사용량 2배 넘어",
+   "published_at": "2026-08-19T19:54:38+00:00",
+   "collected_at": "2026-08-19T11:34:24.926284+00:00",
+   "title_ko": "오픈AI, GPT-5.6 가격 인하로 개발자 시장 경쟁",
+   "summary_ko": "오픈AI가 오픈라우터에서 GPT-5.6 제품군 가격을 50% 인하하며 앤트로픽과 본격적인 개발자 시장 경쟁에 나섰다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "Anthropic",
+    "GPT"
+   ]
+  },
+  {
+   "id": "534ffebd21f6c855",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214103",
+   "source": "AI타임스",
+   "title": "앤트로픽 '클로드' 워터마크 도입에 제거 도구 우후죽순",
+   "published_at": "2026-08-19T19:39:30+00:00",
+   "collected_at": "2026-08-19T11:34:24.926284+00:00",
+   "title_ko": "앤트로픽 클로드 워터마크 등장에 제거 도구 확산",
+   "summary_ko": "앤트로픽이 클로드에 비가시적 워터마크를 도입하자 이를 우회하고 제거하려는 소프트웨어가 빠르게 확산하고 있다.",
+   "category": "속보",
+   "tags": [
+    "Anthropic",
+    "Claude"
+   ]
+  },
+  {
+   "id": "f5cef2a2cfbd7be2",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214101",
+   "source": "AI타임스",
+   "title": "커서, 자체 코드 플랫폼 '오리진' 출시...\"사람 대신 에이전트 중심\"",
+   "published_at": "2026-08-19T19:24:03+00:00",
+   "collected_at": "2026-08-19T11:34:24.926284+00:00",
+   "title_ko": "커서, 에이전트 중심 코드 플랫폼 '오리진' 출시",
+   "summary_ko": "커서가 AI 에이전트 작업에 특화된 자체 코드 호스팅 및 관리 플랫폼 '오리진'을 베타 출시했다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
   {
    "id": "715fd8af72c2bdb9",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214117",
@@ -358,6 +404,66 @@
    ]
   },
   {
+   "id": "fe2c422c583b5e3e",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsjcf7/stop_anthropomorphisizing_intermediate_tokens/",
+   "source": "r/LocalLLaMA",
+   "title": "Stop Anthropomorphisizing Intermediate Tokens: Qwen3.8 doesn't \"overthink\"",
+   "published_at": "2026-08-19T11:09:16+00:00",
+   "collected_at": "2026-08-19T11:34:11.795805+00:00",
+   "title_ko": "LLM의 중간 토큰에 대한 오해와 진실",
+   "summary_ko": "LLM의 '생성 과정(thinking)' 토큰은 인간의 단계적 사고와 다르며 프롬프트를 보강하기 위한 통계적 과정이라는 분석이다.",
+   "category": "참고",
+   "tags": [
+    "LLM",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "fd7cce09a070d812",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsitp5/are_cards_like_the_p40_or_mi50_still_worth_it/",
+   "source": "r/LocalLLaMA",
+   "title": "Are cards like the p40 or mi50 still worth it?",
+   "published_at": "2026-08-19T10:42:09+00:00",
+   "collected_at": "2026-08-19T11:34:11.795805+00:00",
+   "title_ko": "예산 부족 시 구형 데이터센터 GPU 구매 가치 분석",
+   "summary_ko": "P40이나 MI50 같은 구형 데이터센터 GPU가 예산이 부족한 로컬 AI 입문자에게 여전히 쓸모가 있는지에 대한 논의이다.",
+   "category": "참고",
+   "tags": [
+    "반도체",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "81fbd39f4e52413b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsinej/am_i_doing_something_wrong_qwen_38_27b_seems/",
+   "source": "r/LocalLLaMA",
+   "title": "Am I doing something wrong? Qwen 3.8 27B seems useless for agentic coding",
+   "published_at": "2026-08-19T10:32:34+00:00",
+   "collected_at": "2026-08-19T11:34:11.795805+00:00",
+   "title_ko": "로컬 모델 Qwen 3.8 코딩 성능 한계 논란",
+   "summary_ko": "Qwen 3.8 27B 모델을 에이전트 코딩에 사용할 때 클라우드 모델 대비 성능이 떨어진다는 사용자 피드백이다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "4e0a4e6d378fdc92",
+   "url": "https://news.hada.io/topic?id=32653",
+   "source": "GeekNews",
+   "title": "Show GN: 시냅스라는 이름의 VSCODE 및 FORK 버전에서 호환되는 확장을 만들고 있습니다.",
+   "published_at": "2026-08-19T10:13:08+00:00",
+   "collected_at": "2026-08-19T11:34:25.901393+00:00",
+   "title_ko": "VS코드 호환 캔버스 기반 시각화 확장 '시냅스'",
+   "summary_ko": "거대 모노레포를 시각적으로 분석할 수 있는 VS코드 및 포크 버전 호환 확장 프로그램 개발 소식이다.",
+   "category": "팁",
+   "tags": [
+    "코딩"
+   ]
+  },
+  {
    "id": "3a872f4d802b3b22",
    "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
    "source": "TechCrunch",
@@ -385,6 +491,21 @@
    "tags": [
     "로보틱스",
     "투자"
+   ]
+  },
+  {
+   "id": "dcced40cbfc559e8",
+   "url": "https://news.hada.io/topic?id=32652",
+   "source": "GeekNews",
+   "title": "Show GN: Oh My Portal - 브라우저에서 CLI 에이전트를 원격으로 사용하기",
+   "published_at": "2026-08-19T09:21:44+00:00",
+   "collected_at": "2026-08-19T11:34:25.901393+00:00",
+   "title_ko": "브라우저에서 CLI 에이전트를 원격 제어하는 'Oh My Portal'",
+   "summary_ko": "다양한 CLI AI 에이전트를 터널링을 통해 브라우저에서 원격으로 사용할 수 있게 해주는 도구이다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
    ]
   },
   {
@@ -2893,125 +3014,6 @@
    "tags": [
     "OpenAI",
     "GPT"
-   ]
-  },
-  {
-   "id": "4b340e692b03e958",
-   "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
-   "source": "Hacker News",
-   "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-   "published_at": "2026-08-17T20:46:10+00:00",
-   "collected_at": "2026-08-18T01:44:51.173019+00:00",
-   "title_ko": "이스라엘, AI 챗봇 속이기 위한 가짜 싱크탱크 설립",
-   "summary_ko": "이스라엘이 AI 챗봇의 여론 형성을 유도하기 위해 가짜 싱크탱크를 운영한 정황이 드러났다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "b03a9850a0c7218e",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vr4bs4/local_agentic_coding_benchmark_qwen_38_27b_in/",
-   "source": "r/LocalLLaMA",
-   "title": "Local agentic coding Benchmark : Qwen 3.8 27B (in many weights quants / cache quants / engine / reasoning effort) vs others.",
-   "published_at": "2026-08-17T20:45:23+00:00",
-   "collected_at": "2026-08-17T21:33:37.881153+00:00",
-   "title_ko": "Qwen 3.8 27B 로컬 코딩 에이전트 벤치마크 결과",
-   "summary_ko": "Qwen 3.8 27B 모델의 추론 모드별 코딩 성능을 비교한 결과, 미디엄 모드가 효율성과 성능 면에서 우수한 것으로 나타났습니다. 로컬 LLM 환경에서 실용적인 모델 활용법을 제시합니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "코딩",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "e092545d411d9ca1",
-   "url": "https://www.reddit.com/r/singularity/comments/1vr3rvq/the_most_attractive_quadrant_is_already_occupied/",
-   "source": "r/singularity",
-   "title": "The Most Attractive Quadrant is already occupied ! It's happening !",
-   "published_at": "2026-08-17T20:25:02+00:00",
-   "collected_at": "2026-08-18T01:45:05.141828+00:00",
-   "title_ko": "오픈소스 AI 모델의 성능 대 파라미터 지표 분석",
-   "summary_ko": "Artificial Analysis에서 공개한 오픈소스 AI 모델들의 지능 지수와 파라미터 수 비교 분석 결과가 주목받고 있다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "e824555e10364c88",
-   "url": "https://www.reddit.com/r/singularity/comments/1vr3oo8/anthropic_has_finished_training_mythos_2_but_does/",
-   "source": "r/singularity",
-   "title": "Anthropic Has Finished Training Mythos 2 But Does Not Currently Plan To Release It. Focus Is Now On Internal Improvements.",
-   "published_at": "2026-08-17T20:21:38+00:00",
-   "collected_at": "2026-08-18T01:45:05.141828+00:00",
-   "title_ko": "앤스로픽, Mythos 2 훈련 완료했으나 비공개 방침",
-   "summary_ko": "앤스로픽이 Mythos 2 모델의 학습을 마쳤으나 중국 기업의 증류(distillation)를 막기 위해 외부 공개 없이 내부 고도화에 집중할 계획이다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "Claude"
-   ]
-  },
-  {
-   "id": "f917786db3152582",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vr3cma/weirdly_no_one_talks_about_temperature_setting/",
-   "source": "r/LocalLLaMA",
-   "title": "Weirdly, no one talks about Temperature setting for the Qwen3.8 27b",
-   "published_at": "2026-08-17T20:09:26+00:00",
-   "collected_at": "2026-08-17T21:33:37.881153+00:00",
-   "title_ko": "Qwen 3.8 27B 온도(Temperature) 설정 팁",
-   "summary_ko": "기본값인 1.0 대신 온도를 0.7로 낮추면 불필요한 장문 사고를 줄이고 효율적으로 편집 작업을 수행할 수 있습니다. 로컬 LLM 실무 활용에 유용한 팁입니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "b597a3d03ee72b44",
-   "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-   "source": "Hugging Face",
-   "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-   "published_at": "2026-08-17T19:46:21+00:00",
-   "collected_at": "2026-08-17T20:36:21.510727+00:00",
-   "title_ko": "연산 클러스터 작업 순서 변경으로 효율성 33% 향상",
-   "summary_ko": "동일한 하드웨어 클러스터에서 작업 순서만 조정하여 자원 활용도를 크게 높인 사례가 공유되었습니다. AI 학습 및 인프라 최적화에 기여합니다.",
-   "category": "팁",
-   "tags": [
-    "반도체",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "42c11949b21fb82e",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vr2oq8/opus_48_thinks_too_much_muse_glimmer_sits_between/",
-   "source": "r/LocalLLaMA",
-   "title": "\"Opus 4.8 thinks too much\", \"Muse Glimmer sits between Gemma and Qwen, that's boring\", \"Gemma 4 is too lazy\"",
-   "published_at": "2026-08-17T19:45:37+00:00",
-   "collected_at": "2026-08-17T20:36:40.263309+00:00",
-   "title_ko": "추론 모델의 성능과 사용자 불만에 대한 단상",
-   "summary_ko": "최신 추론 모델들이 지나치게 생각하거나 게으르다는 등의 사용자 피드백이 이어지고 있습니다. 모델 튜닝과 사용자 기대치 사이의 간극을 보여줍니다.",
-   "category": "참고",
-   "tags": [
-    "LLM",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "337ff98bc752affa",
-   "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
-   "source": "Hacker News",
-   "title": "AirTag reveals Amazon is trashing rare books to train AI",
-   "published_at": "2026-08-17T19:06:11+00:00",
-   "collected_at": "2026-08-17T21:33:37.165627+00:00",
-   "title_ko": "아마존, AI 학습 위해 희귀 도서 폐기 정황 포착",
-   "summary_ko": "위치 추적기 에어태그를 통해 아마존이 AI 모델 학습용 데이터 수집을 위해 희귀 도서들을 폐기하고 있다는 사실이 드러났습니다. AI 학습 데이터 확보 과정의 윤리적 논란을 보여줍니다.",
-   "category": "중요",
-   "tags": [
-    "규제",
-    "데이터"
    ]
   }
  ]
