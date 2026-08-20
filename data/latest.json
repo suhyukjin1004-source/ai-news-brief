@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-20T14:46:57.304110+00:00",
+ "updated_at": "2026-08-20T15:43:11.319548+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -313,6 +313,21 @@
    "summary_ko": "인트릭스가 생성형 AI 검색 결과에서 특정 브랜드가 인용되지 않는 원인을 분석하는 '인트릭스-CT'를 개발했다. 생성 엔진 최적화(GEO)에 활용될 예정이다.",
    "category": "참고",
    "tags": []
+  },
+  {
+   "id": "3ac42bd6dd67d0f1",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtlmtx/massive_tiny_release_supra2mediumbase_a_tiny_25m/",
+   "source": "r/LocalLLaMA",
+   "title": "[MASSIVE TINY RELEASE] - Supra2-Medium-Base - a tiny 25M parameters model competing heavily with our previous 50M model!",
+   "published_at": "2026-08-20T14:50:15+00:00",
+   "collected_at": "2026-08-20T15:42:27.359504+00:00",
+   "title_ko": "초소형 오픈소스 모델 'Supra2-Medium-Base' 공개",
+   "summary_ko": "25M 파라미터 규모의 초소형 오픈소스 모델이 공개되어 기존 50M 모델과 맞먹는 성능을 보여줍니다. 효율적인 소형 모델 연구에 기여할 것입니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
   },
   {
    "id": "81f41c633210dd92",
@@ -640,6 +655,21 @@
    "tags": [
     "LLM",
     "중국 AI"
+   ]
+  },
+  {
+   "id": "1d71add133bf5973",
+   "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
+   "source": "Hacker News",
+   "title": "AI didn't erase the junior engineer's value, it increased it it",
+   "published_at": "2026-08-20T11:42:20+00:00",
+   "collected_at": "2026-08-20T15:42:26.159277+00:00",
+   "title_ko": "AI 시대 주니어 엔지니어의 역할과 가치 재조명",
+   "summary_ko": "AI 도입이 주니어 엔지니어의 가치를 지우는 것이 아니라 오히려 높이고 있다는 분석입니다. 실무에서의 AI 활용 능력이 중요해지고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
    ]
   },
   {
@@ -1077,6 +1107,22 @@
    "tags": [
     "오픈소스",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "cb030de2dd9418a3",
+   "url": "https://openai.com/index/stampli",
+   "source": "OpenAI",
+   "title": "How ChatGPT Work helps Stampli move ideas to market",
+   "published_at": "2026-08-20T00:00:00+00:00",
+   "collected_at": "2026-08-20T15:42:22.906179+00:00",
+   "title_ko": "ChatGPT Work를 통한 Stampli의 제품 출시 기간 단축",
+   "summary_ko": "기업용 솔루션인 ChatGPT Work와 Codex를 활용해 몇 주 걸리던 제품 출시 과정을 며칠 만에 압축했습니다. 실무 생산성 향상 사례를 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "ChatGPT",
+    "코딩"
    ]
   },
   {
@@ -2965,53 +3011,6 @@
     "Anthropic",
     "Claude",
     "바이오AI"
-   ]
-  },
-  {
-   "id": "14f8bb53babd7a37",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs4wo9/what_is_the_best_qwen38_27b_abliterated_version/",
-   "source": "r/LocalLLaMA",
-   "title": "What is the best Qwen3.8 27b Abliterated version out there?",
-   "published_at": "2026-08-18T23:00:28+00:00",
-   "collected_at": "2026-08-19T03:06:28.575266+00:00",
-   "title_ko": "큐원 모델의 무검열(Abliterated) 버전 활용 수요 증가",
-   "summary_ko": "개발자들이 오래된 프로그램 역공학 등 기술적 작업을 위해 검열이 제거된 큐원 모델 버전을 찾는 수요가 늘고 있다. 오픈소스 모델의 커뮤니티 활용 양상을 보여준다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "Qwen",
-    "코딩"
-   ]
-  },
-  {
-   "id": "d39afaf1897e764f",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs43av/i_tested_dflash2_for_qwen38_27b_on_a_5090/",
-   "source": "r/LocalLLaMA",
-   "title": "I tested DFlash2 for Qwen3.8 27B on a 5090",
-   "published_at": "2026-08-18T22:26:53+00:00",
-   "collected_at": "2026-08-18T23:30:50.244230+00:00",
-   "title_ko": "Qwen 27B 모델 대상 DFlash2 추론 가속 테스트",
-   "summary_ko": "RTX 5090 환경에서 llama.cpp를 이용해 Qwen 모델과 DFlash2를 연동하여 추론 성능을 테스트한 사용자 후기입니다. 대형 언어 모델의 로컬 구동 효율성을 높이는 방법을 보여줍니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "코딩"
-   ]
-  },
-  {
-   "id": "6836a788ee9f93ee",
-   "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-   "source": "TechCrunch",
-   "title": "Cursor capitalizes on Github frustration, launches rival hosting platform",
-   "published_at": "2026-08-18T22:14:25+00:00",
-   "collected_at": "2026-08-18T22:33:40.250180+00:00",
-   "title_ko": "AI 에디터 커서, 깃허브 대항마 코드 호스팅 플랫폼 출시",
-   "summary_ko": "AI 코드 에디터 커서가 기존 개발자들의 선호 도구인 깃허브에 맞서는 새로운 코드 호스팅 플랫폼을 선보였습니다. 개발자 생태계 경쟁에 변화를 줄 것으로 기대됩니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에디터",
-    "코딩"
    ]
   }
  ]
