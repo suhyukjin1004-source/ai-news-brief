@@ -1,5 +1,53 @@
 [
  {
+  "id": "c2d8e084a2e6d57c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtrxxb/aquas_selfimprovement_updates_research_state_not/",
+  "source": "r/LocalLLaMA",
+  "title": "AQuA's \"self-improvement\" updates research state, not the agent LM. What should a local port freeze?",
+  "published_at": "2026-08-20T18:38:35+00:00",
+  "collected_at": "2026-08-20T18:52:56.107721+00:00",
+  "title_ko": "AQuA 연구의 재귀적 자기 개선과 연구 상태 업데이트 분석",
+  "summary_ko": "AQuA 논문에서 다룬 재귀적 자기 개선은 LLM 가중치 자체의 수정이 아니라 연구 상태와 작업 모델의 업데이트를 의미하며, AI 에이전트 구조 이해에 중요합니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "LLM",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "4f019cde60f7f12d",
+  "url": "https://www.reddit.com/r/singularity/comments/1vtr6nv/a_question_on_gradual_displacement/",
+  "source": "r/singularity",
+  "title": "A question on gradual displacement",
+  "published_at": "2026-08-20T18:11:35+00:00",
+  "collected_at": "2026-08-20T18:53:18.593210+00:00",
+  "title_ko": "AI 의존성에 따른 사회적 제도적 점진적 약화 고찰",
+  "summary_ko": "AI 모델이 초래할 미래의 의존성뿐만 아니라 현재 진행 중인 사회적·조직적 기능 저하가 오히려 AI 의존성을 심화시키고 있는지에 대한 분석입니다.",
+  "category": "참고",
+  "tags": [
+   "AI 안전",
+   "인류",
+   "사회"
+  ]
+ },
+ {
+  "id": "01156e74410b46b7",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtr3h0/ladies_and_gentlemen_i_present_to_you_qwen38_27b/",
+  "source": "r/LocalLLaMA",
+  "title": "Ladies and gentlemen I present to you Qwen3.8 27b 1bit brain damage quant",
+  "published_at": "2026-08-20T18:08:26+00:00",
+  "collected_at": "2026-08-20T18:52:56.107721+00:00",
+  "title_ko": "Qwen3.8 27B 1비트 양자화 모델 테스트 후기",
+  "summary_ko": "저사양 VRAM 환경에서 실행하기 위해 1비트로 양자화된 Qwen 모델을 테스트한 커뮤니티 사용자의 소소한 경험담입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "Qwen"
+  ]
+ },
+ {
   "id": "2adc4cf1968a7fa8",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214171",
   "source": "AI타임스",
@@ -46,6 +94,21 @@
   ]
  },
  {
+  "id": "0c5d0bcb1cdb43e7",
+  "url": "https://www.reddit.com/r/singularity/comments/1vtqssh/another_crash_during_practices_ahead_of_the/",
+  "source": "r/singularity",
+  "title": "Another crash during practices ahead of the Worldwide Humanoid Robot Games",
+  "published_at": "2026-08-20T17:58:11+00:00",
+  "collected_at": "2026-08-20T18:53:18.593210+00:00",
+  "title_ko": "휴머노이드 로봇 대회 연습 중 발생한 로봇 추락 사고",
+  "summary_ko": "세계 휴머노이드 로봇 게임(Worldwide Humanoid Robot Games) 연습 경기 도중 로봇이 추락하는 사고가 발생했습니다.",
+  "category": "속보",
+  "tags": [
+   "로보틱스",
+   "휴머노이드"
+  ]
+ },
+ {
   "id": "b4383ee4efa94895",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214144",
   "source": "AI타임스",
@@ -88,6 +151,37 @@
    "NVIDIA",
    "반도체",
    "하드웨어"
+  ]
+ },
+ {
+  "id": "815037201ffe4bc0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtqd5d/theres_surely_someone_out_there_whose_job_is_just/",
+  "source": "r/LocalLLaMA",
+  "title": "Theres surely SOMEONE out there whose job is just pumping out low-poly oneshot ThreeJS assets..",
+  "published_at": "2026-08-20T17:42:17+00:00",
+  "collected_at": "2026-08-20T18:52:56.107721+00:00",
+  "title_ko": "특정 반복 작업 영역에서 실질적인 AGI 체감 사례",
+  "summary_ko": "단순 3D 에셋 생성 같은 특정 실무 영역에서는 이미 AI를 통해 AGI 수준의 생산성 향상이 이루어졌다는 개발자들의 의견입니다.",
+  "category": "참고",
+  "tags": [
+   "AGI",
+   "생산성"
+  ]
+ },
+ {
+  "id": "3f5f5bc1449e7d60",
+  "url": "https://www.reddit.com/r/singularity/comments/1vtqalk/ai_is_finally_curing_cancer/",
+  "source": "r/singularity",
+  "title": "AI is finally curing cancer",
+  "published_at": "2026-08-20T17:39:54+00:00",
+  "collected_at": "2026-08-20T18:53:18.593210+00:00",
+  "title_ko": "AI를 활용한 암 치료 연구 가속화",
+  "summary_ko": "최근 AI 기술이 바이오 및 의료 분야에 본격적으로 적용되면서 난치병인 암 치료 연구에서 가시적인 성과가 나타나고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "바이오",
+   "AI",
+   "헬스케어"
   ]
  },
  {
@@ -514,5 +608,21 @@
   "summary_ko": "인트릭스가 생성형 AI 검색 결과에서 특정 브랜드가 인용되지 않는 원인을 분석하는 '인트릭스-CT'를 개발했다. 생성 엔진 최적화(GEO)에 활용될 예정이다.",
   "category": "참고",
   "tags": []
+ },
+ {
+  "id": "157e2ca74123ec7d",
+  "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+  "source": "Hacker News",
+  "title": "Anti-AI fonts are useless and harmful",
+  "published_at": "2026-08-20T15:06:53+00:00",
+  "collected_at": "2026-08-20T18:52:55.383165+00:00",
+  "title_ko": "AI 크롤링 방지용 폰트의 실효성 논란",
+  "summary_ko": "AI 학습을 막기 위해 고안된 이른바 안티 AI 폰트가 실제로는 효과가 없으며 오히려 부작용을 낳을 수 있다는 분석입니다.",
+  "category": "참고",
+  "tags": [
+   "규제",
+   "저작권",
+   "AI"
+  ]
  }
 ]
