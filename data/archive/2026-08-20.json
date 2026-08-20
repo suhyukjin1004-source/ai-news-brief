@@ -120,6 +120,21 @@
   ]
  },
  {
+  "id": "3008ad1f12c01993",
+  "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+  "source": "TechCrunch",
+  "title": "Meta AI’s new Mac app wants you to talk to your apps",
+  "published_at": "2026-08-20T12:11:57+00:00",
+  "collected_at": "2026-08-20T13:04:42.843393+00:00",
+  "title_ko": "메타, Mac용 AI 앱에 Muse Spark 기반 받아쓰기 기능 도입",
+  "summary_ko": "메타는 Mac용 새로운 AI 앱에 Muse Spark 모델을 탑재한 받아쓰기 기능을 선보이며 앱 간 연동을 확대하고 있습니다. 사용자가 다양한 앱과 자연스럽게 소통할 수 있도록 돕는 데 의의가 있습니다.",
+  "category": "속보",
+  "tags": [
+   "Meta",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "88de6004f77a754b",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214139",
   "source": "AI타임스",
@@ -146,6 +161,111 @@
   "category": "참고",
   "tags": [
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "1490b559acff056c",
+  "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+  "source": "The Verge",
+  "title": "Slack is launching collaborative vibe-coding channels",
+  "published_at": "2026-08-20T12:00:00+00:00",
+  "collected_at": "2026-08-20T13:04:42.926419+00:00",
+  "title_ko": "슬랙, AI 에이전트와 함께 코딩하는 '슬랙 코드' 채널 출시",
+  "summary_ko": "슬랙이 개발팀이 도구 전환 없이 AI 에이전트와 함께 협업하며 코딩할 수 있는 전용 채널 '슬랙 코드'를 출시했습니다. 코드 변경 사항 비교 및 HTML 미리보기 기능을 제공하여 개발 생산성을 높여줍니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "b0b646eba1f6979f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vthcwk/the_boring_way_to_run_deepseek_v4_flash0731/",
+  "source": "r/LocalLLaMA",
+  "title": "The boring way to run Deepseek V4 Flash-0731 130-150 tks - 16x5060ti 16GB over 2 PLX88096 switches",
+  "published_at": "2026-08-20T11:53:54+00:00",
+  "collected_at": "2026-08-20T13:04:47.266242+00:00",
+  "title_ko": "RTX 5060 Ti 16개로 구성된 DeepSeek V4 로컬 구동 환경",
+  "summary_ko": "16대의 RTX 5060 Ti GPU와 PLX 스위치를 활용해 DeepSeek 모델을 로컬에서 효율적으로 구동하는 하드웨어 구성 사례가 공유되었습니다. 고성능 로컬 LLM 구동을 위한 구체적인 하드웨어 셋팅을 참고할 수 있습니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "c90172e27b9d7a3e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vth6n3/aurora80k_releases_a_modern_tiny_language_model/",
+  "source": "r/LocalLLaMA",
+  "title": "Aurora-80K releases! A modern tiny language model.",
+  "published_at": "2026-08-20T11:45:39+00:00",
+  "collected_at": "2026-08-20T13:04:47.266242+00:00",
+  "title_ko": "8만 개 파라미터 가진 초소형 언어 모델 'Aurora-80K' 공개",
+  "summary_ko": "단 8만 개의 파라미터만으로 구성된 모던 초소형 언어 모델 Aurora-80K가 허깅페이스에 공개되었습니다. 극도로 작은 규모에서도 텍스트 생성과 벤치마크 테스트를 수행할 수 있는 것이 특징입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "d7fa7abd3af15ef1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vth4lo/tencent_begins_testing_its_new_flagship_model/",
+  "source": "r/LocalLLaMA",
+  "title": "Tencent begins testing its new flagship model Hunyuan Hy4",
+  "published_at": "2026-08-20T11:42:48+00:00",
+  "collected_at": "2026-08-20T13:04:47.266242+00:00",
+  "title_ko": "텐센트, 차세대 플래그십 모델 'Hunyuan Hy4' 테스트 시작",
+  "summary_ko": "텐센트가 원바오 앱에서 새로운 플래그십 모델 'Hunyuan Hy4'의 비공개 테스트에 돌입했습니다. 전문가급 모델로 포지셔닝되어 추론 중심의 모델들과 경쟁할 것으로 기대됩니다.",
+  "category": "속보",
+  "tags": [
+   "LLM",
+   "중국 AI"
+  ]
+ },
+ {
+  "id": "62569bfcb04570d2",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vth1c3/i_just_built_a_mini_kimik3_from_scratch_under_250/",
+  "source": "r/LocalLLaMA",
+  "title": "I just built a mini Kimi-K3 from Scratch under 250$. Already beats GPT-2 (124M)!",
+  "published_at": "2026-08-20T11:38:22+00:00",
+  "collected_at": "2026-08-20T13:04:47.266242+00:00",
+  "title_ko": "250달러로 GPT-2 성능 뛰어넘는 미니 Kimi-K3 구현",
+  "summary_ko": "개발자가 250달러의 비용으로 Kimi K3의 아키텍처를 차용한 10억 파라미터 규모의 미니 모델을 직접 사전 학습했습니다. 대형 모델의 아키텍처를 저비용으로 재현해 주목받고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "9498057ce402f5ff",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtgyzf/draft_open_pr_avx2_speed_up_large_batch_size/",
+  "source": "r/LocalLLaMA",
+  "title": "[Draft - Open PR] AVX2: Speed up large batch size prompt processing of IQ models by bartowski1182 · Pull Request #27402 · ggml-org/llama.cpp",
+  "published_at": "2026-08-20T11:35:10+00:00",
+  "collected_at": "2026-08-20T13:04:47.266242+00:00",
+  "title_ko": "llama.cpp, 대형 배치 크기 IQ 모델 처리 속도 개선 PR 등록",
+  "summary_ko": "llama.cpp 프로젝트에 CPU 환경에서 IQ 양자화 모델의 대규모 배치 프롬프트 처리 속도를 대폭 끌어올리는 AVX2 최적화 Pull Request가 등록되었습니다. 로컬 LLM 구동 성능 최적화에 기여합니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "e7cfaca019cb66e8",
+  "url": "https://news.hada.io/topic?id=32699",
+  "source": "GeekNews",
+  "title": "AI 답변을 그대로 붙여넣지 마세요",
+  "published_at": "2026-08-20T11:33:05+00:00",
+  "collected_at": "2026-08-20T13:05:01.576508+00:00",
+  "title_ko": "AI 답변을 그대로 복사·붙여넣기하는 행위의 문제점",
+  "summary_ko": "업무나 소통 시 AI 챗봇의 답변을 편집 없이 그대로 전달하는 것은 상대방의 맥락과 취향을 반영하지 못해 실효성이 떨어집니다. AI는 초안 작성 도구로 활용하고 인간의 편집을 거쳐야 한다는 조언입니다.",
+  "category": "팁",
+  "tags": [
+   "ChatGPT",
+   "생산성"
   ]
  },
  {
