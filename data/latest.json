@@ -1,8 +1,23 @@
 {
- "updated_at": "2026-08-20T22:37:28.209591+00:00",
+ "updated_at": "2026-08-20T23:34:27.108236+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "d1f072eca8e0c010",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtz1o1/gonna_be_huge_for_us_open_source/",
+   "source": "r/LocalLLaMA",
+   "title": "Gonna be huge for US open source",
+   "published_at": "2026-08-20T23:03:37+00:00",
+   "collected_at": "2026-08-20T23:34:10.715407+00:00",
+   "title_ko": "미국 오픈소스 AI 생태계의 대형 호재",
+   "summary_ko": "미국 내 오픈소스 AI 진영에 큰 영향을 미칠 소식이 전해졌습니다. 오픈소스 생태계의 발전에 중요한 전환점이 될 수 있습니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "AI"
+   ]
+  },
   {
    "id": "093a040722715e60",
    "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
@@ -17,6 +32,37 @@
     "OpenAI",
     "Anthropic",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "eadb5b3f8d694256",
+   "url": "https://news.hada.io/topic?id=32710",
+   "source": "GeekNews",
+   "title": "Aaron Swartz는 스크래핑으로 기소됐지만 Meta는 별다른 제재 없이 계속하고 있음",
+   "published_at": "2026-08-20T22:31:40+00:00",
+   "collected_at": "2026-08-20T23:34:25.270396+00:00",
+   "title_ko": "AI 학습용 데이터 스크래핑과 법적용 형평성 논란",
+   "summary_ko": "과거 아론 스워츠의 스크래핑 기소 사건과 대비하여, Meta의 대규모 저작물 학습에 대한 느슨한 제재가 법적용의 격차를 보여준다는 지적입니다. AI 학습 데이터 수집의 합법성과 저작권 문제에 중요한 시사점을 줍니다.",
+   "category": "중요",
+   "tags": [
+    "Meta",
+    "규제",
+    "저작권"
+   ]
+  },
+  {
+   "id": "b008c1893593b806",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vty1g4/been_tweaking_my_qwen_38_setup_up_to_45_steady/",
+   "source": "r/LocalLLaMA",
+   "title": "Been tweaking my Qwen 3.8 setup, up to 45+ steady T/ps at 8bit quant. Realised I'm now top T/ps for this model+ctx across all benchmarked M-series chips. Full args linked below, happy to discuss as this was a pain of trial and error.",
+   "published_at": "2026-08-20T22:23:20+00:00",
+   "collected_at": "2026-08-20T23:34:10.715407+00:00",
+   "title_ko": "Qwen 모델 8비트 양자화 환경 성능 최적화 공유",
+   "summary_ko": "Apple M시리즈 칩에서 Qwen 모델 구동 시 안정적인 초당 토큰 처리량(T/ps)을 달성한 튜닝 설정 공유입니다. 실무 개발자들에게 유용한 성능 최적화 팁을 제공합니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
    ]
   },
   {
@@ -2990,52 +3036,6 @@
    "category": "속보",
    "tags": [
     "반도체"
-   ]
-  },
-  {
-   "id": "3076d5ad722bf6fb",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214094",
-   "source": "AI타임스",
-   "title": "오픈AI, 청소년 전용 ‘챗GPT 포 틴즈’ 글로벌 출시...안전장치·학습 기능 강화",
-   "published_at": "2026-08-19T12:20:22+00:00",
-   "collected_at": "2026-08-19T04:45:55.671553+00:00",
-   "title_ko": "오픈AI, 청소년 전용 '챗GPT 포 틴즈' 글로벌 출시",
-   "summary_ko": "오픈AI가 13~17세 청소년을 위한 안전장치와 학습 기능이 강화된 전용 챗봇을 출시했습니다. 청소년의 안전한 AI 활용을 돕기 위해 도입되었습니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "GPT",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "2b49b61367c7f52d",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vskfzh/glm53_is_out_on_aa_and_im_fed_up_with_their/",
-   "source": "r/LocalLLaMA",
-   "title": "GLM-5.3 is out on AA, and I'm fed up with their Intelligence/cost plot",
-   "published_at": "2026-08-19T12:01:30+00:00",
-   "collected_at": "2026-08-19T13:53:14.370087+00:00",
-   "title_ko": "GLM-5.3 출시 및 AI 모델 성능 대비 비용 분석 재조명",
-   "summary_ko": "새로운 GLM-5.3 모델이 출시된 가운데, 기존 AI 벤치마크 플랫폼의 지능 대 비용 그래프의 한계를 지적하고 선형 스케일 기반의 새로운 비교 분석이 공유되었습니다.",
-   "category": "참고",
-   "tags": [
-    "DeepSeek",
-    "LLM",
-    "투자"
-   ]
-  },
-  {
-   "id": "2e04a0ee4f664730",
-   "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
-   "source": "TechCrunch",
-   "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
-   "published_at": "2026-08-19T12:00:00+00:00",
-   "collected_at": "2026-08-19T13:02:51.168659+00:00",
-   "title_ko": "암 치료를 위한 AI 데이터 혁신",
-   "summary_ko": "AI가 즉각적으로 암을 정복하기는 어렵지만, 데이터 중심의 접근 방식이 해결책이 될 수 있다는 스타트업의 주장입니다.",
-   "category": "참고",
-   "tags": [
-    "투자"
    ]
   }
  ]
