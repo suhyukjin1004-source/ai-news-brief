@@ -1,8 +1,54 @@
 {
- "updated_at": "2026-08-20T19:38:31.145571+00:00",
+ "updated_at": "2026-08-20T20:39:07.401794+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "61da6ad0f2deee3b",
+   "url": "https://www.reddit.com/r/singularity/comments/1vtumsz/when_will_scicode_be_saturated/",
+   "source": "r/singularity",
+   "title": "When will scicode be saturated?",
+   "published_at": "2026-08-20T20:12:40+00:00",
+   "collected_at": "2026-08-20T20:39:01.989367+00:00",
+   "title_ko": "AI 과학 벤치마크 포화 속도 분석",
+   "summary_ko": "SciCode 및 HLE 등 과학 AI 벤치마크에서 모델들의 성능 향상 속도와 정체기를 분석한 글입니다. 모델의 과학 연구 활용도를 가늠하는 지표로 주목받고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "벤치마크",
+    "LLM"
+   ]
+  },
+  {
+   "id": "7bde2648c4db203f",
+   "url": "https://news.hada.io/topic?id=32709",
+   "source": "GeekNews",
+   "title": "온디바이스에서 피아노를 자동 완성하는 1억 2,500만 매개변수 모델",
+   "published_at": "2026-08-20T19:34:16+00:00",
+   "collected_at": "2026-08-20T20:39:04.587524+00:00",
+   "title_ko": "온디바이스 피아노 자동 완성 AI 'RollTab' 공개",
+   "summary_ko": "아이폰 15에서 실시간으로 작동하는 1억 2,500만 매개변수의 피아노 연주 자동 완성 모델이 개발되었습니다. 모바일 환경에서의 효율적인 실시간 생성 AI 활용 사례를 보여줍니다.",
+   "category": "속보",
+   "tags": [
+    "온디바이스",
+    "Transformer"
+   ]
+  },
+  {
+   "id": "85b4adfe117f532b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vttie3/nvidia_dropped_an_nvidiahosted_cuda_mcp_for/",
+   "source": "r/LocalLLaMA",
+   "title": "NVIDIA dropped an NVIDIA-hosted CUDA MCP for AI-assisted CUDA operations, such as searching official, up-to-date documentation, writing optimized GPU code, and analyzing performance data",
+   "published_at": "2026-08-20T19:31:44+00:00",
+   "collected_at": "2026-08-20T20:38:57.251295+00:00",
+   "title_ko": "엔비디아, AI 보조 CUDA 작업용 MCP 출시",
+   "summary_ko": "엔비디아가 최신 공식 문서 검색, 최적화된 GPU 코드 작성, 성능 데이터 분석을 지원하는 AI 연동 CUDA MCP를 공개했습니다. 개발자들의 GPU 프로그래밍 효율성이 향상될 것으로 기대됩니다.",
+   "category": "속보",
+   "tags": [
+    "NVIDIA",
+    "코딩",
+    "반도체"
+   ]
+  },
   {
    "id": "ed75b67b67e270aa",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vttdss/any_speculation_on_whether_or_not_google_will/",
@@ -33,6 +79,21 @@
     "Google",
     "검색",
     "규제"
+   ]
+  },
+  {
+   "id": "c146019457b77fad",
+   "url": "https://www.danielvaughn.dev/posts/huzzah/",
+   "source": "Hacker News",
+   "title": "Show HN: Huzzah – a novel approach to coding with AI",
+   "published_at": "2026-08-20T19:05:36+00:00",
+   "collected_at": "2026-08-20T20:38:56.265290+00:00",
+   "title_ko": "새로운 AI 코딩 에디터 'Huzzah' 소개",
+   "summary_ko": "기존 코딩 에이전트의 복잡성 한계와 피로감을 해결하기 위해 개발된 실험적 AI 코딩 에디터입니다. 수동 코딩과 에이전트 방식의 절충안을 제시합니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
    ]
   },
   {
@@ -1306,6 +1367,21 @@
     "오픈소스",
     "LLM",
     "모델명"
+   ]
+  },
+  {
+   "id": "027379c08484bed2",
+   "url": "https://openai.com/index/introducing-ai-futures",
+   "source": "OpenAI",
+   "title": "Introducing AI Futures",
+   "published_at": "2026-08-20T07:00:00+00:00",
+   "collected_at": "2026-08-20T20:38:33.752616+00:00",
+   "title_ko": "오픈에이아이, 신규 블로그 'AI Futures' 런칭",
+   "summary_ko": "혁신적인 AI가 권력, 거버넌스, 경제, 개인의 자유에 미칠 영향을 탐구하는 오픈에이아이의 새 블로그 시리즈입니다. AI가 가져올 거대한 사회적 변화를 다룹니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "규제"
    ]
   },
   {
@@ -2953,81 +3029,6 @@
    "tags": [
     "오픈소스",
     "AI 에이전트"
-   ]
-  },
-  {
-   "id": "b88ae5665d4b838c",
-   "url": "https://arxiv.org/abs/2504.09762",
-   "source": "Hacker News",
-   "title": "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces",
-   "published_at": "2026-08-19T11:35:26+00:00",
-   "collected_at": "2026-08-20T16:44:58.071112+00:00",
-   "title_ko": "LLM의 중간 토큰을 '추론 과정'으로 의인화하지 말 것",
-   "summary_ko": "최근 LLM이 출력하는 중간 토큰들을 인간의 사고나 추론 트레이스로 과도하게 의인화해 해석하는 시각에 대한 경고를 담은 논문 연구입니다.",
-   "category": "참고",
-   "tags": [
-    "LLM",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "b9b0918394929327",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214096",
-   "source": "AI타임스",
-   "title": "엠아이큐브솔루션, 팔도 라면 공장에 AI 자율제조 플랫폼 공급",
-   "published_at": "2026-08-19T11:35:24+00:00",
-   "collected_at": "2026-08-19T03:06:41.739757+00:00",
-   "title_ko": "엠아이큐브솔루션, 팔도 라면 공장에 AI 자율제조 플랫폼 구축",
-   "summary_ko": "엠아이큐브솔루션이 정부 지원 사업을 통해 팔도 나주 공장에 AI 기반 자율제조 공정 최적화 엔진을 도입한다. 제조업의 AI 전환(AX) 가속화 측면에서 의미가 크다.",
-   "category": "참고",
-   "tags": [
-    "스마트팩토리",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "dd2647b4e3d08455",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214098",
-   "source": "AI타임스",
-   "title": "뉴플로이, 개인 PC에서 구동하는 '온디바이스 AI OCR 솔루션' 출시",
-   "published_at": "2026-08-19T11:34:00+00:00",
-   "collected_at": "2026-08-19T03:06:41.739757+00:00",
-   "title_ko": "뉴플로이, 개인 PC 구동 온디바이스 AI OCR 솔루션 출시",
-   "summary_ko": "뉴플로이가 외부 서버 전송 없이 개인 PC에서 작동하는 온디바이스 AI 문서 OCR 솔루션을 무료로 출시했다. 보안성이 중요한 문서 처리 업무에 유용하다.",
-   "category": "팁",
-   "tags": [
-    "온디바이스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "fe2c422c583b5e3e",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsjcf7/stop_anthropomorphisizing_intermediate_tokens/",
-   "source": "r/LocalLLaMA",
-   "title": "Stop Anthropomorphisizing Intermediate Tokens: Qwen3.8 doesn't \"overthink\"",
-   "published_at": "2026-08-19T11:09:16+00:00",
-   "collected_at": "2026-08-19T11:34:11.795805+00:00",
-   "title_ko": "LLM의 중간 토큰에 대한 오해와 진실",
-   "summary_ko": "LLM의 '생성 과정(thinking)' 토큰은 인간의 단계적 사고와 다르며 프롬프트를 보강하기 위한 통계적 과정이라는 분석이다.",
-   "category": "참고",
-   "tags": [
-    "LLM",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "fd7cce09a070d812",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsitp5/are_cards_like_the_p40_or_mi50_still_worth_it/",
-   "source": "r/LocalLLaMA",
-   "title": "Are cards like the p40 or mi50 still worth it?",
-   "published_at": "2026-08-19T10:42:09+00:00",
-   "collected_at": "2026-08-19T11:34:11.795805+00:00",
-   "title_ko": "예산 부족 시 구형 데이터센터 GPU 구매 가치 분석",
-   "summary_ko": "P40이나 MI50 같은 구형 데이터센터 GPU가 예산이 부족한 로컬 AI 입문자에게 여전히 쓸모가 있는지에 대한 논의이다.",
-   "category": "참고",
-   "tags": [
-    "반도체",
-    "오픈소스"
    ]
   }
  ]
