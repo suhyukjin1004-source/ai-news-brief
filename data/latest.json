@@ -1,8 +1,54 @@
 {
- "updated_at": "2026-08-19T23:32:06.236052+00:00",
+ "updated_at": "2026-08-20T01:45:40.942767+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "44881d9d1928a992",
+   "url": "https://news.hada.io/topic?id=32684",
+   "source": "GeekNews",
+   "title": "일반 텍스트 회계가 꽤 멋진 이유",
+   "published_at": "2026-08-20T00:16:53+00:00",
+   "collected_at": "2026-08-20T01:45:37.389931+00:00",
+   "title_ko": "일반 텍스트 회계와 AI 도구의 결합",
+   "summary_ko": "hledger 기반 복식부기 데이터를 Claude Code 등 AI 도구와 연동하여 텍스트 파일로 자산과 지출을 관리하는 방법입니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "Claude"
+   ]
+  },
+  {
+   "id": "519ede47470bb476",
+   "url": "https://news.hada.io/topic?id=32683",
+   "source": "GeekNews",
+   "title": "Kimi Code CLI - 터미널에서 사용하는 오픈소스 코딩 에이전트",
+   "published_at": "2026-08-20T00:15:01+00:00",
+   "collected_at": "2026-08-20T01:45:37.389931+00:00",
+   "title_ko": "Moonshot AI, 터미널 코딩 에이전트 'Kimi Code CLI' 공개",
+   "summary_ko": "Moonshot AI가 터미널에서 코드 수정, 쉘 명령 실행 등을 자율적으로 수행하는 오픈소스 AI 코딩 에이전트를 공개했습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "77011f59b88856c9",
+   "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+   "source": "TechCrunch",
+   "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+   "published_at": "2026-08-19T23:32:00+00:00",
+   "collected_at": "2026-08-20T01:45:15.798462+00:00",
+   "title_ko": "Stripe의 OpenRouter 인수 배경 분석",
+   "summary_ko": "결제 거인 Stripe가 AI 모델 라우팅 스타트업 OpenRouter를 인수한 진짜 이유를 분석했습니다.",
+   "category": "중요",
+   "tags": [
+    "투자",
+    "OpenRouter"
+   ]
+  },
   {
    "id": "d78531ea4a63f465",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vt2jef/qwen3823bminime_a_depthpruned_qwen3827b_to_227bb/",
@@ -17,6 +63,36 @@
     "오픈소스",
     "코딩",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "a76a88cb6bb59a73",
+   "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
+   "source": "Simon Willison",
+   "title": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
+   "published_at": "2026-08-19T23:16:00+00:00",
+   "collected_at": "2026-08-20T01:45:22.369503+00:00",
+   "title_ko": "신뢰할 수 없는 코드 실행을 위한 smolvm 샌드박스",
+   "summary_ko": "Claude Code를 활용해 파이썬과 자바스크립트의 안전한 실행을 위한 smolvm 샌드박스의 성능과 보안성을 테스트한 연구입니다.",
+   "category": "참고",
+   "tags": [
+    "Claude",
+    "보안"
+   ]
+  },
+  {
+   "id": "e48de7c3cfbb32bc",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vt2cjy/qwen_38_27b_slopcodebench_results/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen 3.8 27B SlopCodeBench results",
+   "published_at": "2026-08-19T23:11:28+00:00",
+   "collected_at": "2026-08-20T01:45:23.220536+00:00",
+   "title_ko": "Qwen 27B 모델의 코딩 벤치마크 결과",
+   "summary_ko": "Qwen 모델의 SlopCodeBench 결과, 단독 코드베이스 관리보다는 보조 코파일럿으로 활용하기에 적합한 성능을 보였습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "코딩"
    ]
   },
   {
@@ -125,6 +201,22 @@
     "OpenRouter",
     "Stripe",
     "투자"
+   ]
+  },
+  {
+   "id": "d829edc693d41220",
+   "url": "https://github.com/anthropics/claude-code/issues/6235",
+   "source": "Hacker News",
+   "title": "Feature Request: Support AGENTS.md",
+   "published_at": "2026-08-19T21:19:50+00:00",
+   "collected_at": "2026-08-20T01:45:21.074269+00:00",
+   "title_ko": "Claude Code에 AGENTS.md 지원 요청",
+   "summary_ko": "앤트로픽의 Claude Code에 AGENTS.md 파일 지원을 요구하는 개발자 커뮤니티의 기능 요청 이슈입니다.",
+   "category": "참고",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "AI 에이전트"
    ]
   },
   {
@@ -659,6 +751,21 @@
     "데이터센터",
     "규제",
     "반도체"
+   ]
+  },
+  {
+   "id": "7cb24afa7d5a03d0",
+   "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+   "source": "Hacker News",
+   "title": "Extensible Software in the age of LLMs",
+   "published_at": "2026-08-19T16:26:05+00:00",
+   "collected_at": "2026-08-20T01:45:21.074269+00:00",
+   "title_ko": "LLM 시대의 확장 가능한 소프트웨어 설계",
+   "summary_ko": "인공지능과 LLM의 발전이 소프트웨어 아키텍처와 확장성에 미치는 영향에 대한 고찰입니다.",
+   "category": "참고",
+   "tags": [
+    "LLM",
+    "코딩"
    ]
   },
   {
@@ -2908,115 +3015,6 @@
    "tags": [
     "Anthropic",
     "투자"
-   ]
-  },
-  {
-   "id": "7e9a207261ee6b69",
-   "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
-   "source": "TechCrunch",
-   "title": "Warp’s new system is an out-of-the-box software factory for AI development",
-   "published_at": "2026-08-18T14:00:00+00:00",
-   "collected_at": "2026-08-18T14:43:39.399547+00:00",
-   "title_ko": "워프, AI 소프트웨어 개발용 인프라 시스템 공개",
-   "summary_ko": "Warp가 AI 개발 환경 구축을 손쉽게 만들어주는 인프라 시스템 'Warp Factories'를 새롭게 출시했습니다.",
-   "category": "속보",
-   "tags": [
-    "코딩",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "6123ae6c9dc8bb46",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrps78/what_sandbox_are_you_all_using_for_ai_agents/",
-   "source": "r/LocalLLaMA",
-   "title": "What sandbox are you all using for AI agents?",
-   "published_at": "2026-08-18T13:51:22+00:00",
-   "collected_at": "2026-08-18T15:39:45.399310+00:00",
-   "title_ko": "AI 코딩 에이전트를 위한 샌드박스 환경 추천",
-   "summary_ko": "파일 삭제 등 예기치 않은 위험을 방지하기 위해 AI 코딩 에이전트 실행 시 활용할 수 있는 안전한 샌드박스 환경에 대한 개발자들의 논의입니다. 실무에서 에이전트의 안전한 격리를 위해 중요합니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "60c60b76327531a5",
-   "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
-   "source": "TechCrunch",
-   "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-   "published_at": "2026-08-18T13:50:30+00:00",
-   "collected_at": "2026-08-18T13:51:25.978977+00:00",
-   "title_ko": "OpenAI, 청소년용 안전 기능 강화된 ChatGPT 출시",
-   "summary_ko": "OpenAI가 유해 콘텐츠 차단 및 숙제 부정행위 방지 기능 등을 포함한 청소년용 ChatGPT를 출시했습니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "GPT",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "4272d5427e329fd2",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214054",
-   "source": "AI타임스",
-   "title": "오픈AI, 전세계 14개 AI 정책 연구 지원...국내 연세대 선정",
-   "published_at": "2026-08-18T13:45:42+00:00",
-   "collected_at": "2026-08-18T05:37:58.945447+00:00",
-   "title_ko": "오픈AI, 전 세계 14개 AI 정책 연구 지원… 국내 연세대 선정",
-   "summary_ko": "오픈AI가 전 세계 14개 AI 정책 연구 과제를 지원하며, 국내에서는 연세대가 선정되었습니다. AI가 가져올 경제적 기회와 사회적 회복력을 다루는 중요한 정책 연구입니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "규제",
-    "정책"
-   ]
-  },
-  {
-   "id": "5d36f3cb10c36962",
-   "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
-   "source": "TechCrunch",
-   "title": "Perplexity’s free AI offer left it with millions more users in India",
-   "published_at": "2026-08-18T13:45:40+00:00",
-   "collected_at": "2026-08-18T13:51:25.978977+00:00",
-   "title_ko": "퍼플렉시티, 인도 무료 프로모션 이후 사용자 급증",
-   "summary_ko": "인도 통신사와의 제휴 프로모션 종료 이후에도 퍼플렉시티의 매출이 크게 상승하며 현지 사용자 기반을 넓혔습니다.",
-   "category": "중요",
-   "tags": [
-    "투자",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "78df88084e1a23ec",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214042",
-   "source": "AI타임스",
-   "title": "바이트댄스, 할리우드와 AI 저작권·딥페이크 차단 합의",
-   "published_at": "2026-08-18T13:25:56+00:00",
-   "collected_at": "2026-08-18T04:45:28.246290+00:00",
-   "title_ko": "바이트댄스, 할리우드와 AI 저작권·딥페이크 차단 합의",
-   "summary_ko": "바이트댄스가 미국영화협회(MPA)와 협약을 맺고 영상·이미지 생성 모델에 강력한 저작권 보호 장치를 적용하기로 했다.",
-   "category": "중요",
-   "tags": [
-    "바이트댄스",
-    "저작권",
-    "규제"
-   ]
-  },
-  {
-   "id": "243a2400a9b6a9ad",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214038",
-   "source": "AI타임스",
-   "title": "엔비디아, 오픈AI 오하이오 데이터센터에 최대 148조 보증 지원",
-   "published_at": "2026-08-18T13:12:23+00:00",
-   "collected_at": "2026-08-18T04:45:28.246290+00:00",
-   "title_ko": "엔비디아, 오픈AI 오하이오 데이터센터에 148조 보증",
-   "summary_ko": "엔비디아가 오픈AI의 대규모 AI 데이터센터 구축을 위해 최대 148조원 규모의 보증과 하드웨어 독점 공급에 나선다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "OpenAI",
-    "반도체"
    ]
   }
  ]
