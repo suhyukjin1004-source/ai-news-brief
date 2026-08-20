@@ -1,8 +1,68 @@
 {
- "updated_at": "2026-08-20T01:45:40.942767+00:00",
+ "updated_at": "2026-08-20T03:06:07.683371+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "5a3e62559c6bd779",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vt78xd/qwen3827b_has_the_highest_level_of_agency_ive/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8-27b has the highest level of \"agency\" I've ever seen in a local model",
+   "published_at": "2026-08-20T02:45:59+00:00",
+   "collected_at": "2026-08-20T03:05:50.692093+00:00",
+   "title_ko": "Qwen 로컬 모델의 뛰어난 자율 에이전트 성능 화제",
+   "summary_ko": "사용자의 단일 프롬프트로 복잡한 웹사이트에서 시간표를 조회하고 80회의 도구 호출을 수행하는 등 높은 자율성을 보였습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "50d604536506f7fa",
+   "url": "https://news.hada.io/topic?id=32686",
+   "source": "GeekNews",
+   "title": "fx - Unix 셸처럼 가볍게 쓰고 임베드할 수 있는 코딩 에이전트",
+   "published_at": "2026-08-20T00:45:01+00:00",
+   "collected_at": "2026-08-20T03:06:05.598013+00:00",
+   "title_ko": "유닉스 셸 방식의 경량 코딩 에이전트 'fx' 공개",
+   "summary_ko": "Vercel Labs가 Zig로 개발한 초경량 오픈소스 코딩 에이전트로, 복잡한 터미널 IDE 대신 유닉스 셸 같은 단순한 인터페이스를 제공합니다.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "a7c258220b1fbf91",
+   "url": "https://www.reddit.com/r/singularity/comments/1vt49z0/when_ai_art_has_no_author_study_finds_generated/",
+   "source": "r/singularity",
+   "title": "When AI art has no author: Study finds generated images often can’t be traced to training data",
+   "published_at": "2026-08-20T00:33:04+00:00",
+   "collected_at": "2026-08-20T03:06:03.772398+00:00",
+   "title_ko": "AI 생성 이미지의 학습 데이터 추적 한계 연구 결과",
+   "summary_ko": "AI가 생성한 이미지는 저자 특정이나 학습 데이터 추적이 불가능한 경우가 많다는 연구 결과가 발표되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "39f8abb7f7be6a97",
+   "url": "https://news.hada.io/topic?id=32685",
+   "source": "GeekNews",
+   "title": "OpenSandbox - AI 에이전트를 위한 샌드박스 런타임",
+   "published_at": "2026-08-20T00:30:02+00:00",
+   "collected_at": "2026-08-20T03:06:05.598013+00:00",
+   "title_ko": "AI 에이전트를 위한 샌드박스 런타임 'OpenSandbox' 공개",
+   "summary_ko": "코딩 및 GUI AI 에이전트의 안전한 실행과 평가를 위해 도커와 쿠버네티스 기반의 범용 샌드박스 플랫폼이 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
   {
    "id": "44881d9d1928a992",
    "url": "https://news.hada.io/topic?id=32684",
@@ -2955,66 +3015,6 @@
    "tags": [
     "AI 에이전트",
     "오픈소스"
-   ]
-  },
-  {
-   "id": "54f29b2d7e96220b",
-   "url": "https://news.hada.io/topic?id=32618",
-   "source": "GeekNews",
-   "title": "젊은 층의 AI CEO 반감, 믿기 어려울 만큼 강하다",
-   "published_at": "2026-08-18T14:04:58+00:00",
-   "collected_at": "2026-08-18T14:44:04.386437+00:00",
-   "title_ko": "미국 청년층의 AI CEO들에 대한 강한 불신",
-   "summary_ko": "조사 결과 미국 18~34세 성인의 대다수가 주요 AI 기업 경영자들이 책임을 다할 것이라 신뢰하지 않는 것으로 나타났습니다.",
-   "category": "참고",
-   "tags": [
-    "규제",
-    "투자"
-   ]
-  },
-  {
-   "id": "4a16a6402ee8372e",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrq3na/is_ling_3_tiny_underrated_for_its_size/",
-   "source": "r/LocalLLaMA",
-   "title": "Is Ling 3 tiny underrated for its size?",
-   "published_at": "2026-08-18T14:03:26+00:00",
-   "collected_at": "2026-08-18T14:43:56.749558+00:00",
-   "title_ko": "숨겨진 고성능 오픈소스 모델 Ling 3 발견",
-   "summary_ko": "기존 대형 랩의 모델들에 가려졌던 소형 오픈소스 모델 'Ling 3'가 벤치마크에서 우수한 성능을 보여 주목받고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "1142a8028fa0da64",
-   "url": "https://news.hada.io/topic?id=32617",
-   "source": "GeekNews",
-   "title": "희귀 서적 배송을 추적하자 Amazon AI 훈련 시설에 도착",
-   "published_at": "2026-08-18T14:01:00+00:00",
-   "collected_at": "2026-08-18T14:44:04.386437+00:00",
-   "title_ko": "아마존의 희귀 도서 대량 구매, AI 훈련용으로 확인",
-   "summary_ko": "희귀 서적 대량 주문의 배송 경로를 추적한 결과, AI 모델 훈련용 데이터 스캔 시설로 향하고 있던 것으로 밝혀졌습니다.",
-   "category": "참고",
-   "tags": [
-    "데이터",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "75109e1dad0ca9f4",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214039",
-   "source": "AI타임스",
-   "title": "앤트로픽, 연간 매출 92조 돌파...두 달 만에 1.4배 폭풍 성장",
-   "published_at": "2026-08-18T14:00:01+00:00",
-   "collected_at": "2026-08-18T06:58:16.223540+00:00",
-   "title_ko": "앤트로픽, 연간 반복 매출 92조 원 돌파",
-   "summary_ko": "앤트로픽의 연간 반복 매출이 두 달 만에 38% 급증하며 가파른 성장세를 기록했습니다. 생성형 AI 시장에서 주요 플레이어들의 실적 성장을 보여줍니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "투자"
    ]
   }
  ]
