@@ -1,8 +1,39 @@
 {
- "updated_at": "2026-08-20T06:59:58.169119+00:00",
+ "updated_at": "2026-08-20T07:50:41.057393+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "1f973eea81f1eeb6",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214172",
+   "source": "AI타임스",
+   "title": "독파모 결과 추가 공개에도 '세부 내역 미흡' 논란",
+   "published_at": "2026-08-20T16:16:48+00:00",
+   "collected_at": "2026-08-20T07:50:38.597199+00:00",
+   "title_ko": "국내 독자 AI 모델 2차 평가, 불투명성 논란 지속",
+   "summary_ko": "과기부의 독자 AI 파운데이션 모델 개발 프로젝트 2차 평가 결과 공개에도 세부 지표가 베일에 싸여 있어 업계의 불만이 이어지고 있다.",
+   "category": "중요",
+   "tags": [
+    "규제",
+    "AI 파운데이션 모델"
+   ]
+  },
+  {
+   "id": "aecd9525a7fd2319",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214142",
+   "source": "AI타임스",
+   "title": "오픈AI, 2분기 매출 9조·영업손실 17조...앤트로픽과 격차 벌어져",
+   "published_at": "2026-08-20T15:54:11+00:00",
+   "collected_at": "2026-08-20T07:50:37.551975+00:00",
+   "title_ko": "오픈AI, 2분기 9조 매출에도 영업손실 17조 기록",
+   "summary_ko": "오픈AI의 2분기 매출이 증가했으나 영업손실이 급증한 반면, 경쟁사 앤트로픽은 호실적을 거두며 격차가 좁혀지고 있다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "Anthropic",
+    "투자"
+   ]
+  },
   {
    "id": "e1ced63cddd46c78",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214153",
@@ -277,6 +308,37 @@
    "category": "참고",
    "tags": [
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "091287dd591a41e3",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtc4b4/qwen_38_27b_kv_f16_vs_q8_0_are_not_equivalents/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen 3.8 27B KV f16 vs q8_0 are not equivalents",
+   "published_at": "2026-08-20T07:01:44+00:00",
+   "collected_at": "2026-08-20T07:50:24.108485+00:00",
+   "title_ko": "Qwen 모델 KV 캐시 F16과 q8_0 비교 및 성능 차이",
+   "summary_ko": "Qwen 모델 테스트 결과 KV 캐시의 F16과 q8_0이 완전히 동일하지 않으며 긴 문맥 유지력에서 차이가 난다는 분석이다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "모델명"
+   ]
+  },
+  {
+   "id": "fbb400bac8f26bf9",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtc0z7/3_days_benchmarking_most_llamacpp_flags_on_my/",
+   "source": "r/LocalLLaMA",
+   "title": "3 days benchmarking most llama.cpp flags on my weird 40gb vram laptop + tb4 egpu setup. Got +70% generation, +40% prefill, 60k more context, and filed a bug in llama around MTP. What I learned.",
+   "published_at": "2026-08-20T06:56:49+00:00",
+   "collected_at": "2026-08-20T07:50:24.108485+00:00",
+   "title_ko": "llama.cpp 최적화를 통한 LLM 성능 대폭 향상 팁",
+   "summary_ko": "다양한 llama.cpp 플래그 벤치마크를 통해 특수 하드웨어 환경에서 생성 속도와 컨텍스트 길이를 극대화한 실무 팁이다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
    ]
   },
   {
@@ -2945,67 +3007,6 @@
     "투자",
     "로보틱스",
     "AI 에이전트"
-   ]
-  },
-  {
-   "id": "85fb1e2d1b265ae6",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrw4sz/i_pushed_qwen3827b_to_124_tps_on_a_single_request/",
-   "source": "r/LocalLLaMA",
-   "title": "I pushed Qwen3.8-27B to 124 tps on a single request on a RTX 3090",
-   "published_at": "2026-08-18T17:35:35+00:00",
-   "collected_at": "2026-08-18T18:51:00.612602+00:00",
-   "title_ko": "RTX 3090에서 Qwen3.8-27B 초고속 추론 달성",
-   "summary_ko": "최적화된 추론 엔진을 통해 단일 RTX 3090 환경에서 Qwen3.8-27B 모델이 초당 124 토큰의 속도를 기록했습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "모델"
-   ]
-  },
-  {
-   "id": "a37bf4f4fcaf24b0",
-   "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-   "source": "TechCrunch",
-   "title": "Etched’s valuation doubles to $21B in a month",
-   "published_at": "2026-08-18T17:21:58+00:00",
-   "collected_at": "2026-08-18T17:35:54.364123+00:00",
-   "title_ko": "에치드, 한 달 만에 기업가치 210억 달러로 급등",
-   "summary_ko": "제인 스트리트가 에치드의 첫 AI 클러스터 시스템을 도입한 후 대규모 후속 투자를 주도하며 기업가치가 한 달 만에 두 배로 뛰어올랐다.",
-   "category": "중요",
-   "tags": [
-    "반도체",
-    "투자"
-   ]
-  },
-  {
-   "id": "766e3aa58018bceb",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214071",
-   "source": "AI타임스",
-   "title": "그로크, 4900억 추가 유치…AI 칩 개발사서 '네오클라우드'로 체질 개선",
-   "published_at": "2026-08-18T17:05:00+00:00",
-   "collected_at": "2026-08-18T08:48:42.745722+00:00",
-   "title_ko": "그로크, 4900억 투자 유치하며 네오클라우드로 사업 전환",
-   "summary_ko": "AI 칩 개발사 그로크가 엔비디아 GPU 기반의 네오클라우드 및 데이터센터 사업자로 체질 개선을 위해 4900억 원의 자금을 유치했습니다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "반도체",
-    "투자"
-   ]
-  },
-  {
-   "id": "1e907c1ba3f51440",
-   "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-   "source": "Hacker News",
-   "title": "Claude Code weekly limits reduce by a third tomorrow",
-   "published_at": "2026-08-18T17:02:15+00:00",
-   "collected_at": "2026-08-18T18:50:34.317414+00:00",
-   "title_ko": "Anthropic, Claude Code 주간 사용량 제한 인하",
-   "summary_ko": "Anthropic의 개발자 도구인 Claude Code의 주간 이용 한도가 조정될 예정입니다.",
-   "category": "속보",
-   "tags": [
-    "Anthropic",
-    "Claude"
    ]
   }
  ]

@@ -149,6 +149,37 @@
   ]
  },
  {
+  "id": "091287dd591a41e3",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtc4b4/qwen_38_27b_kv_f16_vs_q8_0_are_not_equivalents/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen 3.8 27B KV f16 vs q8_0 are not equivalents",
+  "published_at": "2026-08-20T07:01:44+00:00",
+  "collected_at": "2026-08-20T07:50:24.108485+00:00",
+  "title_ko": "Qwen 모델 KV 캐시 F16과 q8_0 비교 및 성능 차이",
+  "summary_ko": "Qwen 모델 테스트 결과 KV 캐시의 F16과 q8_0이 완전히 동일하지 않으며 긴 문맥 유지력에서 차이가 난다는 분석이다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "모델명"
+  ]
+ },
+ {
+  "id": "fbb400bac8f26bf9",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtc0z7/3_days_benchmarking_most_llamacpp_flags_on_my/",
+  "source": "r/LocalLLaMA",
+  "title": "3 days benchmarking most llama.cpp flags on my weird 40gb vram laptop + tb4 egpu setup. Got +70% generation, +40% prefill, 60k more context, and filed a bug in llama around MTP. What I learned.",
+  "published_at": "2026-08-20T06:56:49+00:00",
+  "collected_at": "2026-08-20T07:50:24.108485+00:00",
+  "title_ko": "llama.cpp 최적화를 통한 LLM 성능 대폭 향상 팁",
+  "summary_ko": "다양한 llama.cpp 플래그 벤치마크를 통해 특수 하드웨어 환경에서 생성 속도와 컨텍스트 길이를 극대화한 실무 팁이다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
   "id": "1f4b292878dd3514",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtboss/spiderman_brand_new_day_does_peter_self_host_his/",
   "source": "r/LocalLLaMA",
