@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-20T13:05:06.478620+00:00",
+ "updated_at": "2026-08-20T13:56:05.326448+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -374,6 +374,51 @@
    ]
   },
   {
+   "id": "886322f48718cf00",
+   "url": "https://www.reddit.com/r/singularity/comments/1vtjxk2/future_of_benchmarking/",
+   "source": "r/singularity",
+   "title": "Future of benchmarking",
+   "published_at": "2026-08-20T13:44:41+00:00",
+   "collected_at": "2026-08-20T13:56:00.879519+00:00",
+   "title_ko": "AI 성능 벤치마크의 미래와 한계",
+   "summary_ko": "모든 모델의 벤치마크 점수가 포화 상태에 이름에 따라, 향후 AI 기업들은 새로운 고유 역량 향상에 집중할 것이라는 전망입니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "3abdeb9c9ab011ce",
+   "url": "https://www.reddit.com/r/singularity/comments/1vtjivs/gpt56_is_far_better_than_gemini_37_flash_in_art/",
+   "source": "r/singularity",
+   "title": "GPT-5.6 is far better than Gemini 3.7 Flash in art direction and emotional communication through images",
+   "published_at": "2026-08-20T13:27:52+00:00",
+   "collected_at": "2026-08-20T13:56:00.879519+00:00",
+   "title_ko": "가상의 인물 시각화를 통한 차세대 모델 비교",
+   "summary_ko": "복잡한 텍스트 파일을 분석하여 시각적 예술성과 감정적 소통을 구현하는 과정에서 최신 AI 모델들의 성능 차이를 비교한 사용자 후기입니다.",
+   "category": "참고",
+   "tags": [
+    "GPT",
+    "Gemini"
+   ]
+  },
+  {
+   "id": "2bfd09fe03ca10a3",
+   "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+   "source": "Ars Technica",
+   "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+   "published_at": "2026-08-20T13:00:35+00:00",
+   "collected_at": "2026-08-20T13:55:55.063841+00:00",
+   "title_ko": "암호화된 악성 명령으로 인한 Grok 데이터 유출 취약점",
+   "summary_ko": "암호화된 컨텍스트 주입을 통해 LLM의 안전장치를 우회하고 사용자 데이터를 유출하는 새로운 공격 기법이 발견되었습니다.",
+   "category": "중요",
+   "tags": [
+    "규제",
+    "보안"
+   ]
+  },
+  {
    "id": "70d2305f888a07f3",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214143",
    "source": "AI타임스",
@@ -432,6 +477,20 @@
    "tags": [
     "로보틱스",
     "투자"
+   ]
+  },
+  {
+   "id": "dca8c552a961fe02",
+   "url": "https://www.reddit.com/r/singularity/comments/1vthwpm/daxais_all_terrain_robothorse_debuts_at_wrc26/",
+   "source": "r/singularity",
+   "title": "DaxAI's all terrain robot-horse debuts at WRC'26: 100Km/10h autonomy, 300Kg max load, 40Km/h max speed",
+   "published_at": "2026-08-20T12:18:50+00:00",
+   "collected_at": "2026-08-20T13:56:00.879519+00:00",
+   "title_ko": "대스AI, 4족 보행 로봇마 공개",
+   "summary_ko": "10시간 주행 거리와 300kg 적재 용량을 갖춘 전천후 AI 로봇마가 WRC 2026에서 데뷔했습니다.",
+   "category": "속보",
+   "tags": [
+    "로보틱스"
    ]
   },
   {
@@ -2952,65 +3011,6 @@
     "AI 에이전트",
     "코딩",
     "오픈소스"
-   ]
-  },
-  {
-   "id": "e4563871866d3a63",
-   "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-   "source": "OpenAI",
-   "title": "ChatGPT Ads expands across Europe",
-   "published_at": "2026-08-18T22:00:00+00:00",
-   "collected_at": "2026-08-19T06:58:49.782297+00:00",
-   "title_ko": "OpenAI, 유럽 31개국으로 ChatGPT 광고 확대",
-   "summary_ko": "OpenAI가 ChatGPT 광고 기능을 유럽 31개 시장으로 확대하여 광고주들이 사용자와 소통할 수 있는 접점을 넓힌다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "GPT"
-   ]
-  },
-  {
-   "id": "57a3117940c906b9",
-   "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
-   "source": "Simon Willison",
-   "title": "Mojo🔥 is now open source",
-   "published_at": "2026-08-18T21:39:20+00:00",
-   "collected_at": "2026-08-18T22:33:50.227073+00:00",
-   "title_ko": "모조(Mojo) 프로그래밍 언어 오픈소스 전환",
-   "summary_ko": "모조 언어가 아파치 2 라이선스로 컴파일러와 툴체인을 오픈소스로 전격 공개했습니다. 파이썬 호환 생태계 확장에 중요한 전환점이 될 것입니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "ec0df981c6a0814c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs2tz1/dflash_2_keep_drafting_parallel/",
-   "source": "r/LocalLLaMA",
-   "title": "DFlash 2: Keep Drafting Parallel",
-   "published_at": "2026-08-18T21:37:01+00:00",
-   "collected_at": "2026-08-18T22:33:51.072476+00:00",
-   "title_ko": "병렬 초안 생성을 위한 DFlash 2 공개",
-   "summary_ko": "LLM의 효율적인 병렬 드래프팅을 지원하는 DFlash 2가 새롭게 공개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "367412a3266a63af",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs2tsn/dflash_2_available_for_qwen_38_27b_and_muse/",
-   "source": "r/LocalLLaMA",
-   "title": "DFlash 2 available for Qwen 3.8 27B and Muse Glimmer",
-   "published_at": "2026-08-18T21:36:48+00:00",
-   "collected_at": "2026-08-18T22:33:51.072476+00:00",
-   "title_ko": "Qwen 및 뮤즈 모델용 DFlash 2 지원 추가",
-   "summary_ko": "Qwen 3.8 27B 및 뮤즈 글리머 모델에서 DFlash 2를 사용할 수 있도록 GGUF 양자화 버전과 llama.cpp PR이 등록되었습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM"
    ]
   }
  ]
