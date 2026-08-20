@@ -1,8 +1,54 @@
 {
- "updated_at": "2026-08-20T21:37:06.429030+00:00",
+ "updated_at": "2026-08-20T22:37:28.209591+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "093a040722715e60",
+   "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+   "source": "TechCrunch",
+   "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+   "published_at": "2026-08-20T22:36:37+00:00",
+   "collected_at": "2026-08-20T22:37:03.472930+00:00",
+   "title_ko": "OpenAI, 기업 고객 시장에서 앤트로픽 추격",
+   "summary_ko": "기업 고객들이 새 모델 출시마다 벤더를 바꾸는 경향을 보이며, 이는 엔터프라이즈 AI 지출의 지속성에 대한 의문을 제기합니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "Anthropic",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "62b5f81689b5df13",
+   "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+   "source": "TechCrunch",
+   "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+   "published_at": "2026-08-20T22:09:51+00:00",
+   "collected_at": "2026-08-20T22:37:03.472930+00:00",
+   "title_ko": "ChatGPT, 애플 메시지 플러그인으로 문자 전송 지원",
+   "summary_ko": "ChatGPT가 새로운 애플 메시지 연동을 통해 사용자의 문자를 자동으로 작성하고 전송하는 기능을 제공합니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "03a51df1de68f28d",
+   "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+   "source": "The Verge",
+   "title": "Google Discover is getting an AI chatbot-tuned feed",
+   "published_at": "2026-08-20T21:50:22+00:00",
+   "collected_at": "2026-08-20T22:37:03.648210+00:00",
+   "title_ko": "구글 디스버, AI 챗봇 맞춤형 피드 도입",
+   "summary_ko": "구글이 사용자가 원하는 콘텐츠를 설명하면 AI가 자동으로 피드를 맞춤 설정하고 선호도를 기억하는 기능을 도입합니다.",
+   "category": "속보",
+   "tags": [
+    "Google",
+    "AI 에이전트"
+   ]
+  },
   {
    "id": "9be9c255aeedfc4b",
    "url": "https://www.reddit.com/r/singularity/comments/1vtwm9q/claude_with_levent_alpöge_and_ava_howell_found_an/",
@@ -2990,48 +3036,6 @@
    "category": "참고",
    "tags": [
     "투자"
-   ]
-  },
-  {
-   "id": "ffbb96afc74087b4",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
-   "source": "The Verge",
-   "title": "Nvidia’s new financial strategy does not compute",
-   "published_at": "2026-08-19T12:00:00+00:00",
-   "collected_at": "2026-08-19T13:02:51.247319+00:00",
-   "title_ko": "NVIDIA와 대형 금융사의 5천억 달러 규모 자금 조달",
-   "summary_ko": "컴퓨팅 자산이 새로운 자산 클래스로 부상하면서 NVIDIA와 글로벌 금융사들이 대규모 인프라 금융 협력을 추진합니다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "투자"
-   ]
-  },
-  {
-   "id": "809df6950eb38f56",
-   "url": "https://www.reddit.com/r/singularity/comments/1vske3i/teaching_ai_with_quantum_data/",
-   "source": "r/singularity",
-   "title": "Teaching AI with Quantum Data",
-   "published_at": "2026-08-19T11:59:53+00:00",
-   "collected_at": "2026-08-19T13:03:08.587393+00:00",
-   "title_ko": "양자 데이터를 활용한 AI 학습 방식",
-   "summary_ko": "양자 데이터와 인공지능을 접목하여 AI 모델의 학습 역량을 강화하는 연구 및 논의가 진행 중입니다.",
-   "category": "참고",
-   "tags": []
-  },
-  {
-   "id": "dd50ded953164c5b",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vskdwf/waiting_for_a_122b_because_of_world_knowledge/",
-   "source": "r/LocalLLaMA",
-   "title": "Waiting for a 122B because of world knowledge?",
-   "published_at": "2026-08-19T11:59:37+00:00",
-   "collected_at": "2026-08-19T13:02:55.574299+00:00",
-   "title_ko": "LLM 환각 현상 완화를 위한 소형 모델 활용법",
-   "summary_ko": "대형 모델의 세계 지식 환각을 막기 위해 로컬 위키백과 등 검색 증강(RAG) 기법을 소형 모델과 결합하는 실무 팁입니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "코딩"
    ]
   }
  ]
