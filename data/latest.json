@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-20T16:45:23.307801+00:00",
+ "updated_at": "2026-08-20T17:39:07.996833+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -95,6 +95,22 @@
    ]
   },
   {
+   "id": "f3338c918ca49bda",
+   "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+   "source": "TechCrunch",
+   "title": "Grok keeps sending gibberish responses to users",
+   "published_at": "2026-08-20T17:32:16+00:00",
+   "collected_at": "2026-08-20T17:38:29.439359+00:00",
+   "title_ko": "xAI 그록, 사용자에게 횡설수설 응답 오류 발생",
+   "summary_ko": "일부 그록 라이트 사용자들 사이에서 AI가 의미 없는 횡설수설 답변을 반복하는 오류가 보고되었습니다.",
+   "category": "속보",
+   "tags": [
+    "xAI",
+    "Grok",
+    "AI 오류"
+   ]
+  },
+  {
    "id": "5bed27180db3b705",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214176",
    "source": "AI타임스",
@@ -107,6 +123,38 @@
    "tags": [
     "AI 에이전트",
     "보안"
+   ]
+  },
+  {
+   "id": "95994e2e130d1607",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtpsqf/ling30_released_all_6_base_checkpoints_2_sizes_3/",
+   "source": "r/LocalLLaMA",
+   "title": "Ling-3.0 released all 6 base checkpoints: 2 sizes × 3 stages",
+   "published_at": "2026-08-20T17:22:09+00:00",
+   "collected_at": "2026-08-20T17:38:48.799289+00:00",
+   "title_ko": "앤트링, Ling-3.0 베이스 모델 체크포인트 6종 전면 공개",
+   "summary_ko": "앤트링이 사전학습 및 연구 목적을 위한 Ling-3.0 베이스 모델의 6개 체크포인트를 MIT 라이선스로 전격 공개했습니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "Ling-3.0"
+   ]
+  },
+  {
+   "id": "81d194be8e0a17c1",
+   "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+   "source": "TechCrunch",
+   "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+   "published_at": "2026-08-20T17:18:58+00:00",
+   "collected_at": "2026-08-20T17:38:29.439359+00:00",
+   "title_ko": "챗GPT 출시 이후 웹페이지의 3분의 1이 AI 생성 흔적 보여",
+   "summary_ko": "연구에 따르면 챗GPT 등장 이후 새로 발행된 웹 콘텐츠의 상당 부분이 AI에 의해 작성되거나 편집된 것으로 나타났습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "ChatGPT",
+    "AI 콘텐츠"
    ]
   },
   {
@@ -139,6 +187,70 @@
     "NVIDIA",
     "투자",
     "오픈소스"
+   ]
+  },
+  {
+   "id": "c7cdb6722fd86cc4",
+   "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+   "source": "Hugging Face",
+   "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+   "published_at": "2026-08-20T16:52:57+00:00",
+   "collected_at": "2026-08-20T17:38:31.568205+00:00",
+   "title_ko": "LFM2.5-DSpark, 최대 3.2배 향상된 추론 속도 제공",
+   "summary_ko": "허깅페이스를 통해 추론 속도가 최대 3.2배 빨라진 LFM2.5-DSpark 모델이 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "Hugging Face",
+    "AI 추론",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "919ab6a8c9eed1fe",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtozjq/qwenmix37_kept_seeing_posts_about_qwen38_and_36/",
+   "source": "r/LocalLLaMA",
+   "title": "QwenMix-3.7: Kept seeing posts about Qwen3.8 and 3.6 sharing the same structure.. so I had Qwen3.8 combine them.",
+   "published_at": "2026-08-20T16:52:33+00:00",
+   "collected_at": "2026-08-20T17:38:48.799289+00:00",
+   "title_ko": "개발자가 Qwen3.8과 3.6 모델 결합해 실험적 모델 제작",
+   "summary_ko": "한 개발자가 구조가 유사한 Qwen 3.8과 3.6 모델을 GGUF 기반으로 병합하여 작동 가능함을 실험적으로 입증했습니다.",
+   "category": "팁",
+   "tags": [
+    "Qwen",
+    "오픈소스",
+    "모델 병합"
+   ]
+  },
+  {
+   "id": "83bdb87ab15bc4a5",
+   "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+   "source": "TechCrunch",
+   "title": "Ramp launches its own AI model router, called Router",
+   "published_at": "2026-08-20T16:46:00+00:00",
+   "collected_at": "2026-08-20T17:38:29.439359+00:00",
+   "title_ko": "램프, 자체 AI 모델 라우팅 서비스 '라우터' 출시",
+   "summary_ko": "핀테크 기업 램프가 API를 통해 다양한 대형 언어 모델을 손쉽게 전환하며 사용할 수 있는 라우터 서비스를 선보였습니다.",
+   "category": "속보",
+   "tags": [
+    "AI 모델",
+    "API",
+    "LLM"
+   ]
+  },
+  {
+   "id": "f765867c9c98db08",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtoqr9/getting_better_at_coding_doesnt_make_a_model/",
+   "source": "r/LocalLLaMA",
+   "title": "Getting better at coding doesn't make a model better at everything else",
+   "published_at": "2026-08-20T16:43:50+00:00",
+   "collected_at": "2026-08-20T17:38:48.799289+00:00",
+   "title_ko": "코딩 능력 향상이 곧 전반적인 LLM 성능 향상으로 이어지지 않아",
+   "summary_ko": "코딩 및 에이전트 작업 능력이 뛰어나다고 해서 창의적 글쓰기나 일반 추론 등 다른 영역의 성능 저하가 자동으로 해결되지는 않는다는 지적입니다.",
+   "category": "참고",
+   "tags": [
+    "LLM",
+    "AI 에이전트",
+    "코딩"
    ]
   },
   {
@@ -200,6 +312,22 @@
    "tags": [
     "Meta",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "d0a3c26ef487fbaf",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtnnf0/glm_53_slopcodebench_results/",
+   "source": "r/LocalLLaMA",
+   "title": "GLM 5.3 SlopCodeBench Results",
+   "published_at": "2026-08-20T16:04:11+00:00",
+   "collected_at": "2026-08-20T17:38:48.799289+00:00",
+   "title_ko": "GLM 5.3 모델의 SlopCodeBench 코딩 벤치마크 결과 공개",
+   "summary_ko": "까다로운 단계별 코딩 요구사항을 테스트하는 SlopCodeBench 벤치마크에서 GLM 5.3의 수행 결과가 공유되었습니다.",
+   "category": "참고",
+   "tags": [
+    "코딩",
+    "LLM",
+    "벤치마크"
    ]
   },
   {
@@ -2890,126 +3018,6 @@
    "tags": [
     "OpenAI",
     "GPT",
-    "코딩"
-   ]
-  },
-  {
-   "id": "24986045471718fc",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsdt09/hw_for_deepseekv4flash0731/",
-   "source": "r/LocalLLaMA",
-   "title": "HW for DeepSeek-V4-Flash-0731",
-   "published_at": "2026-08-19T05:55:50+00:00",
-   "collected_at": "2026-08-19T08:48:52.537455+00:00",
-   "title_ko": "딥시크 신규 모델용 하드웨어 구성 논의",
-   "summary_ko": "딥시크의 최신 모델 구동을 위한 데스크톱 하드웨어와 어댑터 구성 방안이 레딧에서 공유되었다. 로컬 LLM 구동을 위한 고성능 하드웨어 요구사항을 보여준다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "1d1517bf4a670358",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsccit/qwen3827b_on_2x_3090_vllm_dflash2_218_toks_single/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.8-27B on 2x 3090 + vLLM + DFlash2: 218 tok/s single request",
-   "published_at": "2026-08-19T04:39:19+00:00",
-   "collected_at": "2026-08-19T05:38:32.096115+00:00",
-   "title_ko": "Qwen 모델과 vLLM을 활용한 고속 추론 구성 사례",
-   "summary_ko": "RTX 3090 듀얼 구성 환경에서 Qwen 모델과 vLLM, DFlash2를 활용해 초당 218 토큰의 높은 추론 성능을 달성한 실무 벤치마크 공유입니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "코딩"
-   ]
-  },
-  {
-   "id": "3247cdcf56686bc2",
-   "url": "https://www.reddit.com/r/singularity/comments/1vsc1bv/where_do_you_think_current_models_will_be_placed/",
-   "source": "r/singularity",
-   "title": "Where do you think current models will be placed on METR's time horizon score?",
-   "published_at": "2026-08-19T04:23:02+00:00",
-   "collected_at": "2026-08-19T07:48:04.966068+00:00",
-   "title_ko": "최신 AI 모델의 METR 시간 지평선 평가 점수 전망",
-   "summary_ko": "최신 고성능 AI 모델들이 METR의 자율성 및 시간 지평선 평가에서 어느 정도의 성능을 보일지에 대한 업계의 토론이다. 모델의 발전 속도를 가늠하는 지표로 주목받는다.",
-   "category": "참고",
-   "tags": [
-    "Claude",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "633adb51390c521a",
-   "url": "https://www.reddit.com/r/singularity/comments/1vsbwdl/codex_patched_my_samsung_odyssey_g9_firmware_to/",
-   "source": "r/singularity",
-   "title": "Codex Patched My Samsung Odyssey G9 Firmware to Add a New Gaming Crosshair",
-   "published_at": "2026-08-19T04:15:47+00:00",
-   "collected_at": "2026-08-19T07:48:04.966068+00:00",
-   "title_ko": "코덱을 활용한 모니터 펌웨어 수정 및 게이밍 크로스헤어 추가",
-   "summary_ko": "AI 코딩 도구를 활용해 삼성 모니터의 펌웨어를 직접 수정하고 새로운 기능을 추가한 사례다. 실무에서 AI의 코드 생성 및 디버깅 능력을 보여주는 흥미로운 활용 팁이다.",
-   "category": "팁",
-   "tags": [
-    "코딩",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "5259748e03cfbba8",
-   "url": "https://www.reddit.com/r/singularity/comments/1vsb5og/glm53_max_intelligence_performance_price_analysis/",
-   "source": "r/singularity",
-   "title": "GLM-5.3 (max) Intelligence, Performance & Price Analysis",
-   "published_at": "2026-08-19T03:38:40+00:00",
-   "collected_at": "2026-08-19T07:48:04.966068+00:00",
-   "title_ko": "GLM-5.3 맥스 모델의 성능 및 가격 분석",
-   "summary_ko": "새롭게 공개된 GLM-5.3 맥스 모델의 성능과 비용 효율성을 분석한 내용이다. 최신 오픈웨이트 모델의 경쟁력을 파악하는 데 참고할 수 있다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "fd80ba5546c00f4c",
-   "url": "https://news.hada.io/topic?id=32639",
-   "source": "GeekNews",
-   "title": "카메라 탑재 AirPods 확인, 실제 작동 모습 공개",
-   "published_at": "2026-08-19T03:32:29+00:00",
-   "collected_at": "2026-08-19T08:49:07.706900+00:00",
-   "title_ko": "카메라 탑재 에어팟 출시 임박, 비주얼 인텔리전스 연동",
-   "summary_ko": "macOS 베타에서 카메라가 탑재된 에어팟의 시연 영상과 문구가 발견되었다. 주변 시각 정보를 수집해 시리와 비주얼 인텔리전스에 활용할 것으로 예상된다.",
-   "category": "속보",
-   "tags": [
-    "Apple",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "48e531516effd5e9",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs9zym/new_midsize_qwen_38_model_coming_next_week/",
-   "source": "r/LocalLLaMA",
-   "title": "New midsize Qwen 3.8 model coming next week (hopefully) according to community manager!",
-   "published_at": "2026-08-19T02:44:37+00:00",
-   "collected_at": "2026-08-19T03:06:28.575266+00:00",
-   "title_ko": "알리바바 큐원, 차세대 오픈웨이트 모델 출시 임박",
-   "summary_ko": "커뮤니티 매니저에 따르면 알리바바의 큐원(Qwen) 차세대 중형 오픈웨이트 모델이 다음 주 출시될 예정이다. 오픈소스 LLM 생태계에 큰 영향을 미칠 것으로 기대된다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "Qwen"
-   ]
-  },
-  {
-   "id": "308b95afa299b852",
-   "url": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
-   "source": "Hacker News",
-   "title": "Palomar: A registry of Lean verified mathematics",
-   "published_at": "2026-08-19T02:41:50+00:00",
-   "collected_at": "2026-08-19T10:37:48.410951+00:00",
-   "title_ko": "테렌스 타오 교수, 린(Lean) 검증 수학 레지스트리 '팔로마' 소개",
-   "summary_ko": "테렌스 타오 교수가 AI 기반 정형 검증 도구인 Lean을 활용한 수학 정리를 모아둔 레지스트리 '팔로마'를 공개했습니다.",
-   "category": "참고",
-   "tags": [
     "코딩"
    ]
   }

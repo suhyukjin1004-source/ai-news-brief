@@ -91,6 +91,22 @@
   ]
  },
  {
+  "id": "f3338c918ca49bda",
+  "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+  "source": "TechCrunch",
+  "title": "Grok keeps sending gibberish responses to users",
+  "published_at": "2026-08-20T17:32:16+00:00",
+  "collected_at": "2026-08-20T17:38:29.439359+00:00",
+  "title_ko": "xAI 그록, 사용자에게 횡설수설 응답 오류 발생",
+  "summary_ko": "일부 그록 라이트 사용자들 사이에서 AI가 의미 없는 횡설수설 답변을 반복하는 오류가 보고되었습니다.",
+  "category": "속보",
+  "tags": [
+   "xAI",
+   "Grok",
+   "AI 오류"
+  ]
+ },
+ {
   "id": "5bed27180db3b705",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214176",
   "source": "AI타임스",
@@ -103,6 +119,38 @@
   "tags": [
    "AI 에이전트",
    "보안"
+  ]
+ },
+ {
+  "id": "95994e2e130d1607",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtpsqf/ling30_released_all_6_base_checkpoints_2_sizes_3/",
+  "source": "r/LocalLLaMA",
+  "title": "Ling-3.0 released all 6 base checkpoints: 2 sizes × 3 stages",
+  "published_at": "2026-08-20T17:22:09+00:00",
+  "collected_at": "2026-08-20T17:38:48.799289+00:00",
+  "title_ko": "앤트링, Ling-3.0 베이스 모델 체크포인트 6종 전면 공개",
+  "summary_ko": "앤트링이 사전학습 및 연구 목적을 위한 Ling-3.0 베이스 모델의 6개 체크포인트를 MIT 라이선스로 전격 공개했습니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "Ling-3.0"
+  ]
+ },
+ {
+  "id": "81d194be8e0a17c1",
+  "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+  "source": "TechCrunch",
+  "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+  "published_at": "2026-08-20T17:18:58+00:00",
+  "collected_at": "2026-08-20T17:38:29.439359+00:00",
+  "title_ko": "챗GPT 출시 이후 웹페이지의 3분의 1이 AI 생성 흔적 보여",
+  "summary_ko": "연구에 따르면 챗GPT 등장 이후 새로 발행된 웹 콘텐츠의 상당 부분이 AI에 의해 작성되거나 편집된 것으로 나타났습니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "ChatGPT",
+   "AI 콘텐츠"
   ]
  },
  {
@@ -135,6 +183,70 @@
    "NVIDIA",
    "투자",
    "오픈소스"
+  ]
+ },
+ {
+  "id": "c7cdb6722fd86cc4",
+  "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+  "source": "Hugging Face",
+  "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+  "published_at": "2026-08-20T16:52:57+00:00",
+  "collected_at": "2026-08-20T17:38:31.568205+00:00",
+  "title_ko": "LFM2.5-DSpark, 최대 3.2배 향상된 추론 속도 제공",
+  "summary_ko": "허깅페이스를 통해 추론 속도가 최대 3.2배 빨라진 LFM2.5-DSpark 모델이 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "Hugging Face",
+   "AI 추론",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "919ab6a8c9eed1fe",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtozjq/qwenmix37_kept_seeing_posts_about_qwen38_and_36/",
+  "source": "r/LocalLLaMA",
+  "title": "QwenMix-3.7: Kept seeing posts about Qwen3.8 and 3.6 sharing the same structure.. so I had Qwen3.8 combine them.",
+  "published_at": "2026-08-20T16:52:33+00:00",
+  "collected_at": "2026-08-20T17:38:48.799289+00:00",
+  "title_ko": "개발자가 Qwen3.8과 3.6 모델 결합해 실험적 모델 제작",
+  "summary_ko": "한 개발자가 구조가 유사한 Qwen 3.8과 3.6 모델을 GGUF 기반으로 병합하여 작동 가능함을 실험적으로 입증했습니다.",
+  "category": "팁",
+  "tags": [
+   "Qwen",
+   "오픈소스",
+   "모델 병합"
+  ]
+ },
+ {
+  "id": "83bdb87ab15bc4a5",
+  "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+  "source": "TechCrunch",
+  "title": "Ramp launches its own AI model router, called Router",
+  "published_at": "2026-08-20T16:46:00+00:00",
+  "collected_at": "2026-08-20T17:38:29.439359+00:00",
+  "title_ko": "램프, 자체 AI 모델 라우팅 서비스 '라우터' 출시",
+  "summary_ko": "핀테크 기업 램프가 API를 통해 다양한 대형 언어 모델을 손쉽게 전환하며 사용할 수 있는 라우터 서비스를 선보였습니다.",
+  "category": "속보",
+  "tags": [
+   "AI 모델",
+   "API",
+   "LLM"
+  ]
+ },
+ {
+  "id": "f765867c9c98db08",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtoqr9/getting_better_at_coding_doesnt_make_a_model/",
+  "source": "r/LocalLLaMA",
+  "title": "Getting better at coding doesn't make a model better at everything else",
+  "published_at": "2026-08-20T16:43:50+00:00",
+  "collected_at": "2026-08-20T17:38:48.799289+00:00",
+  "title_ko": "코딩 능력 향상이 곧 전반적인 LLM 성능 향상으로 이어지지 않아",
+  "summary_ko": "코딩 및 에이전트 작업 능력이 뛰어나다고 해서 창의적 글쓰기나 일반 추론 등 다른 영역의 성능 저하가 자동으로 해결되지는 않는다는 지적입니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "AI 에이전트",
+   "코딩"
   ]
  },
  {
@@ -196,6 +308,22 @@
   "tags": [
    "Meta",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "d0a3c26ef487fbaf",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtnnf0/glm_53_slopcodebench_results/",
+  "source": "r/LocalLLaMA",
+  "title": "GLM 5.3 SlopCodeBench Results",
+  "published_at": "2026-08-20T16:04:11+00:00",
+  "collected_at": "2026-08-20T17:38:48.799289+00:00",
+  "title_ko": "GLM 5.3 모델의 SlopCodeBench 코딩 벤치마크 결과 공개",
+  "summary_ko": "까다로운 단계별 코딩 요구사항을 테스트하는 SlopCodeBench 벤치마크에서 GLM 5.3의 수행 결과가 공유되었습니다.",
+  "category": "참고",
+  "tags": [
+   "코딩",
+   "LLM",
+   "벤치마크"
   ]
  },
  {
