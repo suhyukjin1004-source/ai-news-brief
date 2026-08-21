@@ -1,8 +1,110 @@
 {
- "updated_at": "2026-08-20T23:34:27.108236+00:00",
+ "updated_at": "2026-08-21T01:51:36.505491+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "13b746abdbe80881",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vu1e3u/i_did_it_im_free_its_been_7_hours_since_i_used/",
+   "source": "r/LocalLLaMA",
+   "title": "I did it! I'm free! It's been 7 hours since I used claudecode",
+   "published_at": "2026-08-21T00:44:22+00:00",
+   "collected_at": "2026-08-21T01:51:18.297251+00:00",
+   "title_ko": "클라우드 구독 만료 후 로컬 LLM으로 전환한 개발자",
+   "summary_ko": "유료 구독 종료 후 Qwen 모델과 로컬 하드웨어를 활용해 클라우드 코딩 도구의 대안을 구축한 사례입니다. 로컬 LLM 환경을 통한 개발 실무 활용 가능성을 보여줍니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "코딩"
+   ]
+  },
+  {
+   "id": "9b18f42798507eed",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vu0u2v/qwen_38_27b_pi_agent_vs_opencode/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen 3.8 27b - PI AGENT vs OPENCODE",
+   "published_at": "2026-08-21T00:19:37+00:00",
+   "collected_at": "2026-08-21T01:51:18.297251+00:00",
+   "title_ko": "Qwen 모델 기반 PI 에이전트와 오프코드 성능 비교",
+   "summary_ko": "동일한 로컬 모델 환경에서 PI 에이전트가 오프코드 대비 토큰 효율성과 속도 측면에서 더 우수한 성능을 보인다는 사용자의 테스트 결과입니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "ad9e90903af423fa",
+   "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+   "source": "Hacker News",
+   "title": "Copyright does not protect AI-generated content in EU",
+   "published_at": "2026-08-21T00:15:12+00:00",
+   "collected_at": "2026-08-21T01:51:17.291742+00:00",
+   "title_ko": "EU, AI 생성 콘텐츠에 대한 저작권 보호 불인정",
+   "summary_ko": "유럽연합에서 AI가 생성한 콘텐츠는 저작권 보호를 받을 수 없다는 점이 다시 한번 확인되었습니다. AI 콘텐츠의 법적 지위에 중요한 기준이 됩니다.",
+   "category": "중요",
+   "tags": [
+    "규제"
+   ]
+  },
+  {
+   "id": "794937fb4df571ec",
+   "url": "https://news.hada.io/topic?id=32712",
+   "source": "GeekNews",
+   "title": "대화를 지식으로 바꾸기: Slack이 인간-에이전트 팀을 만드는 방법",
+   "published_at": "2026-08-21T00:15:02+00:00",
+   "collected_at": "2026-08-21T01:51:33.030804+00:00",
+   "title_ko": "Slack, Claude 기반 AI 에이전트로 업무 맥락 활용",
+   "summary_ko": "Slack이 공개 채널의 대화와 결정을 AI 에이전트로 분석하여 조직 지식으로 전환하는 방식을 소개했습니다. 업무 환경에서 AI 에이전트의 활용도를 높이는 사례입니다.",
+   "category": "중요",
+   "tags": [
+    "Claude",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "14a842e57416a58d",
+   "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+   "source": "TechCrunch",
+   "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+   "published_at": "2026-08-21T00:13:44+00:00",
+   "collected_at": "2026-08-21T01:51:15.089730+00:00",
+   "title_ko": "AI 학습 데이터 스타트업 Micro1, 연 매출 5억 달러 달성",
+   "summary_ko": "AI 학습 데이터 수요 급증에 힘입어 관련 스타트업인 Micro1이 급성장하고 있습니다. AI 인프라 및 데이터 시장의 확장세를 보여줍니다.",
+   "category": "중요",
+   "tags": [
+    "투자"
+   ]
+  },
+  {
+   "id": "071e11ee2c220477",
+   "url": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
+   "source": "Simon Willison",
+   "title": "ChatGPT search now uses the site:operator at scale",
+   "published_at": "2026-08-20T23:57:32+00:00",
+   "collected_at": "2026-08-21T01:51:17.497031+00:00",
+   "title_ko": "ChatGPT 검색 기능의 대규모 사이트 연산자 활용",
+   "summary_ko": "ChatGPT 검색이 대규모로 특정 사이트 연산자를 활용하기 시작하면서 생성형 엔진 최적화(GEO) 시장이 주목받고 있습니다. 챗봇 응답 노출을 위한 새로운 최적화 트렌드를 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "ChatGPT"
+   ]
+  },
+  {
+   "id": "e825744f97921386",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtzyl9/this_benchmark_is_getting_out_of_hand/",
+   "source": "r/LocalLLaMA",
+   "title": "This benchmark is getting out of hand",
+   "published_at": "2026-08-20T23:42:34+00:00",
+   "collected_at": "2026-08-21T01:51:18.297251+00:00",
+   "title_ko": "과열되는 AI 모델 벤치마크 경쟁",
+   "summary_ko": "최근 AI 모델들의 성능을 평가하는 벤치마크 방식이 지나치게 복잡해지고 과열되는 양상을 비판적으로 다룬 소식입니다.",
+   "category": "참고",
+   "tags": [
+    "LLM"
+   ]
+  },
   {
    "id": "d1f072eca8e0c010",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtz1o1/gonna_be_huge_for_us_open_source/",
@@ -2932,110 +3034,6 @@
    "tags": [
     "오픈소스",
     "영상 생성"
-   ]
-  },
-  {
-   "id": "0e755b0c80a979a1",
-   "url": "https://news.hada.io/topic?id=32663",
-   "source": "GeekNews",
-   "title": "Mojo 전체 컴파일러와 툴체인 오픈소스 공개",
-   "published_at": "2026-08-19T13:01:09+00:00",
-   "collected_at": "2026-08-19T16:40:47.991289+00:00",
-   "title_ko": "모듈러, Mojo 컴파일러 및 툴체인 오픈소스 전면 공개",
-   "summary_ko": "Modular가 고성능 AI 및 GPU 가속을 위해 설계된 프로그래밍 언어 Mojo의 컴파일러와 툴체인을 오픈소스로 공개했습니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "cd28dcfc9f14119f",
-   "url": "https://news.hada.io/topic?id=32662",
-   "source": "GeekNews",
-   "title": "AI 시대, 개발자는 면사무소가 아니라 목욕탕을 만들어야 한다",
-   "published_at": "2026-08-19T12:49:43+00:00",
-   "collected_at": "2026-08-19T13:03:10.830770+00:00",
-   "title_ko": "AI 시대 개발자의 역할과 본질",
-   "summary_ko": "AI 도입으로 개발 환경이 변하는 시점에서 기술적 도구보다 사용자에게 진정 필요한 본질을 파악해야 한다는 시사점입니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "3b0f97350b8b8477",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsl6yf/qwen_38_35ba3b_vagueposting/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen 3.8 35B-A3B vagueposting",
-   "published_at": "2026-08-19T12:35:21+00:00",
-   "collected_at": "2026-08-19T13:02:55.574299+00:00",
-   "title_ko": "Qwen 3.8 35B-A3B 관련 소문",
-   "summary_ko": "오픈소스 모델 Qwen 시리즈의 신규 버전 관련 커뮤니티 추측과 논의가 이어지고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "모델명"
-   ]
-  },
-  {
-   "id": "aeeec8e9513c7fec",
-   "url": "https://news.hada.io/topic?id=32661",
-   "source": "GeekNews",
-   "title": "소프트웨어 팀의 AI 사용 패턴",
-   "published_at": "2026-08-19T12:31:31+00:00",
-   "collected_at": "2026-08-19T13:03:10.830770+00:00",
-   "title_ko": "소프트웨어 팀의 AI 사용 패턴 분석",
-   "summary_ko": "개발 조직에서 AI 기능 사용이 급증하면서 기존 업무 방식과 워크플로우에 변화가 나타나고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "6a52414ba1f381b2",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsl0hv/finally_found_a_really_solid_sunolike_minimax/",
-   "source": "r/LocalLLaMA",
-   "title": "Finally found a really solid suno-like minimax music UI!!",
-   "published_at": "2026-08-19T12:27:27+00:00",
-   "collected_at": "2026-08-19T13:53:14.370087+00:00",
-   "title_ko": "Minimax 음악 생성 모델을 위한 오픈소스 웹 UI 등장",
-   "summary_ko": "Suno와 유사한 워크플로우로 Minimax 음악 생성 모델을 CLI 없이 웹에서 편리하게 사용할 수 있는 UI가 공개되었습니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "3fa762b0841599cf",
-   "url": "https://news.hada.io/topic?id=32658",
-   "source": "GeekNews",
-   "title": "Turbovec - Rust로 구현한 벡터 검색용 Google TurboQuant",
-   "published_at": "2026-08-19T12:25:05+00:00",
-   "collected_at": "2026-08-19T13:03:10.830770+00:00",
-   "title_ko": "Rust 기반의 고성능 벡터 검색 엔진 'Turbovec'",
-   "summary_ko": "Google의 TurboQuant를 구현한 Rust 벡터 인덱스로, 메모리 사용량을 대폭 줄이고 검색 속도를 극대화했습니다.",
-   "category": "팁",
-   "tags": [
-    "Google",
-    "반도체"
-   ]
-  },
-  {
-   "id": "3bc2c6278609007c",
-   "url": "https://news.hada.io/topic?id=32656",
-   "source": "GeekNews",
-   "title": "Cerebras CS-4, 랙 규모 AI 추론 시스템",
-   "published_at": "2026-08-19T12:21:47+00:00",
-   "collected_at": "2026-08-19T13:03:10.830770+00:00",
-   "title_ko": "Cerebras, 랙 규모 AI 추론 시스템 'CS-4' 공개",
-   "summary_ko": "WSE-3 칩을 탑재해 기존 GPU 시스템 대비 추론 속도와 와트당 처리량을 대폭 향상시킨 랙 규모 AI 시스템입니다.",
-   "category": "속보",
-   "tags": [
-    "반도체"
    ]
   }
  ]
