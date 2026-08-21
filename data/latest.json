@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-21T10:39:39.781348+00:00",
+ "updated_at": "2026-08-21T11:34:58.348629+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -369,6 +369,36 @@
    "summary_ko": "셀렉트스타가 AI 신뢰성 평가 플랫폼 '다투모'를 통해 더핑크퐁컴퍼니의 아기상어 AI 전시 대화 안전성과 다국어 품질을 검증했습니다. 캐릭터 세계관 유지와 부적절한 답변 방지를 위해 활용되었습니다.",
    "category": "참고",
    "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "d7f38792b0b083b8",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vud6va/when_9_of_top_12_models_are_just_exactly_one/",
+   "source": "r/LocalLLaMA",
+   "title": "When 9 of top 12 models are just exactly one.",
+   "published_at": "2026-08-21T11:02:53+00:00",
+   "collected_at": "2026-08-21T11:34:42.603287+00:00",
+   "title_ko": "오픈소스 LLM 랭킹의 모델 중복 문제",
+   "summary_ko": "상위 모델 상당수가 사실상 동일한 모델의 리패키징인 현상이 지적되고 있습니다. 모델 평가의 신뢰성과 다양성 측면에서 시사하는 바가 큽니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "fa575089e7aa4468",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vuce59/ornith1535ba3bninfer_250_toks_58k_prefill_5090/",
+   "source": "r/LocalLLaMA",
+   "title": "Ornith-1.5-35B-A3B-NInfer - 250 tok/s, 5-8k prefill, 5090",
+   "published_at": "2026-08-21T10:21:21+00:00",
+   "collected_at": "2026-08-21T11:34:42.603287+00:00",
+   "title_ko": "Ornith-1.5-35B 로컬 LLM 성능 후기",
+   "summary_ko": "고속 추론 환경에서 뛰어난 응답 속도와 에이전트 작업 수행 능력을 보여주는 새로운 로컬 모델 사용 후기입니다. 개인용 하드웨어에서의 실용성 검증 측면에서 중요합니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
     "AI 에이전트"
    ]
   },
@@ -3005,36 +3035,6 @@
     "OpenAI",
     "GPT",
     "규제"
-   ]
-  },
-  {
-   "id": "a68280091e8915a3",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214122",
-   "source": "AI타임스",
-   "title": "구글, FDE 업무도 AI로 자동화...\"데이터 정리, 사람만으론 한계\"",
-   "published_at": "2026-08-19T18:54:40+00:00",
-   "collected_at": "2026-08-19T10:38:06.930044+00:00",
-   "title_ko": "구글 클라우드, 전방 배치 엔지니어(FDE) 업무 AI로 자동화",
-   "summary_ko": "구글이 방대한 기업 데이터 분석과 AI 도입을 지원하는 FDE 업무의 일부를 제미나이 기반 AI 에이전트로 자동화하는 실험에 나섰습니다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "Gemini",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "80bb85a1917544df",
-   "url": "https://www.reddit.com/r/singularity/comments/1vsvdai/stripe_says_the_singularity_has_begun/",
-   "source": "r/singularity",
-   "title": "Stripe says \"the singularity\" has begun",
-   "published_at": "2026-08-19T18:48:21+00:00",
-   "collected_at": "2026-08-19T20:38:00.977669+00:00",
-   "title_ko": "스트라이프, '특이점(Singularity)' 도래 선언",
-   "summary_ko": "결제 플랫폼 스트라이프가 기술적 특이점 시대가 시작되었다고 언급하며 업계의 이목을 끌었습니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트"
    ]
   }
  ]
