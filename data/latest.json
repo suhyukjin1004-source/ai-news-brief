@@ -1,8 +1,23 @@
 {
- "updated_at": "2026-08-21T18:50:26.767501+00:00",
+ "updated_at": "2026-08-21T20:34:41.008202+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "2b7b4ffceb6b58cb",
+   "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+   "source": "TechCrunch",
+   "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+   "published_at": "2026-08-21T19:43:39+00:00",
+   "collected_at": "2026-08-21T20:34:18.925882+00:00",
+   "title_ko": "엔비디아, 모델 성능보다 '하네스'가 AI 에이전트 성공의 핵심",
+   "summary_ko": "엔비디아 연구에 따르면 뛰어난 모델이 아니더라도 파인튜닝과 적절한 하네스를 통해 AI 에이전트의 성능을 크게 높일 수 있습니다. 이는 에이전트 시스템 설계에서 모델 자체 외의 구조적 요소가 중요함을 보여줍니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "AI 에이전트"
+   ]
+  },
   {
    "id": "91b87a9e9a360750",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vuotqr/qwen3827b_q6_is_a_beast_at_agentic_coding/",
@@ -266,6 +281,21 @@
    ]
   },
   {
+   "id": "86140beb2ccc0475",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vukf57/ultrafast_qwen3tts_at_34_ms_timetofirstaudio/",
+   "source": "r/LocalLLaMA",
+   "title": "Ultrafast Qwen3-TTS at 34 ms Time-to-First-Audio, Handling 10 Requests Per Second [OSS]",
+   "published_at": "2026-08-21T16:01:06+00:00",
+   "collected_at": "2026-08-21T20:34:24.560033+00:00",
+   "title_ko": "초고속 Qwen3-TTS 오픈소스 구현체 공개",
+   "summary_ko": "지연 시간을 대폭 줄이고 초당 10개 이상의 요청을 처리할 수 있는 Qwen3-TTS 오픈소스 구현체가 공개되었습니다. 로컬 환경에서 음성 합성 모델의 응답 속도 문제를 해결하여 실시간 활용도를 높였습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "음성 합성"
+   ]
+  },
+  {
    "id": "b0a144892c395d59",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vuke8o/i_benchmarked_ox_alpha_on_swebench_verified_mini/",
    "source": "r/LocalLLaMA",
@@ -443,6 +473,22 @@
    "category": "속보",
    "tags": [
     "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "0dbbd03afc616e4a",
+   "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+   "source": "Hacker News",
+   "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+   "published_at": "2026-08-21T14:31:52+00:00",
+   "collected_at": "2026-08-21T20:34:23.238210+00:00",
+   "title_ko": "Claude의 버즈피드 스타일 말투를 교정하는 도구",
+   "summary_ko": "Claude가 과도하게 자극적이거나 가벼운 버즈피드 기사 같은 말투로 답변하는 것을 방지하기 위한 오픈소스 도구입니다. 프롬프트 및 응답 스타일을 개선하여 실무 활용성을 높여줍니다.",
+   "category": "팁",
+   "tags": [
+    "Claude",
+    "Anthropic",
     "코딩"
    ]
   },
@@ -2981,52 +3027,6 @@
     "오픈소스",
     "AI 에이전트",
     "코딩"
-   ]
-  },
-  {
-   "id": "f06bf1e450fb7b44",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vt3ttl/ling_30_tiny_makes_an_amazing_auxillery_model_for/",
-   "source": "r/LocalLLaMA",
-   "title": "Ling 3.0 Tiny makes an amazing auxillery model for Hermes (Qwen 3.8 27B as the primary model)",
-   "published_at": "2026-08-20T00:13:33+00:00",
-   "collected_at": "2026-08-20T04:46:40.932352+00:00",
-   "title_ko": "Qwen 27B와 Ling Tiny 모델 조합의 에이전트 구성 팁",
-   "summary_ko": "대형 모델의 속도와 효율을 높이기 위해 Qwen 27B를 주력 모델로, 경량화된 Ling Tiny를 컨텍스트 압축 등 보조 작업에 분담시키는 에이전트 구성법이 공유됐다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "cb030de2dd9418a3",
-   "url": "https://openai.com/index/stampli",
-   "source": "OpenAI",
-   "title": "How ChatGPT Work helps Stampli move ideas to market",
-   "published_at": "2026-08-20T00:00:00+00:00",
-   "collected_at": "2026-08-20T15:42:22.906179+00:00",
-   "title_ko": "ChatGPT Work를 통한 Stampli의 제품 출시 기간 단축",
-   "summary_ko": "기업용 솔루션인 ChatGPT Work와 Codex를 활용해 몇 주 걸리던 제품 출시 과정을 며칠 만에 압축했습니다. 실무 생산성 향상 사례를 보여줍니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "ChatGPT",
-    "코딩"
-   ]
-  },
-  {
-   "id": "77011f59b88856c9",
-   "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-   "source": "TechCrunch",
-   "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
-   "published_at": "2026-08-19T23:32:00+00:00",
-   "collected_at": "2026-08-20T01:45:15.798462+00:00",
-   "title_ko": "Stripe의 OpenRouter 인수 배경 분석",
-   "summary_ko": "결제 거인 Stripe가 AI 모델 라우팅 스타트업 OpenRouter를 인수한 진짜 이유를 분석했습니다.",
-   "category": "중요",
-   "tags": [
-    "투자",
-    "OpenRouter"
    ]
   }
  ]

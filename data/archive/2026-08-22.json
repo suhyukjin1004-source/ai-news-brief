@@ -1,5 +1,20 @@
 [
  {
+  "id": "2b7b4ffceb6b58cb",
+  "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+  "source": "TechCrunch",
+  "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+  "published_at": "2026-08-21T19:43:39+00:00",
+  "collected_at": "2026-08-21T20:34:18.925882+00:00",
+  "title_ko": "엔비디아, 모델 성능보다 '하네스'가 AI 에이전트 성공의 핵심",
+  "summary_ko": "엔비디아 연구에 따르면 뛰어난 모델이 아니더라도 파인튜닝과 적절한 하네스를 통해 AI 에이전트의 성능을 크게 높일 수 있습니다. 이는 에이전트 시스템 설계에서 모델 자체 외의 구조적 요소가 중요함을 보여줍니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "91b87a9e9a360750",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vuotqr/qwen3827b_q6_is_a_beast_at_agentic_coding/",
   "source": "r/LocalLLaMA",
@@ -259,6 +274,21 @@
   "tags": [
    "AI 에이전트",
    "RAG"
+  ]
+ },
+ {
+  "id": "86140beb2ccc0475",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vukf57/ultrafast_qwen3tts_at_34_ms_timetofirstaudio/",
+  "source": "r/LocalLLaMA",
+  "title": "Ultrafast Qwen3-TTS at 34 ms Time-to-First-Audio, Handling 10 Requests Per Second [OSS]",
+  "published_at": "2026-08-21T16:01:06+00:00",
+  "collected_at": "2026-08-21T20:34:24.560033+00:00",
+  "title_ko": "초고속 Qwen3-TTS 오픈소스 구현체 공개",
+  "summary_ko": "지연 시간을 대폭 줄이고 초당 10개 이상의 요청을 처리할 수 있는 Qwen3-TTS 오픈소스 구현체가 공개되었습니다. 로컬 환경에서 음성 합성 모델의 응답 속도 문제를 해결하여 실시간 활용도를 높였습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "음성 합성"
   ]
  },
  {
