@@ -1,5 +1,35 @@
 [
  {
+  "id": "550e68a4d7aeddbc",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214211",
+  "source": "AI타임스",
+  "title": "\"AI로 사회문제 해결한다\"…과기부, 2026 AI·디지털 챌린지 공모",
+  "published_at": "2026-08-21T14:47:03+00:00",
+  "collected_at": "2026-08-21T07:01:03.331461+00:00",
+  "title_ko": "과기정통부, 2026 AI·디지털 챌린지 공모 개최",
+  "summary_ko": "과학기술정보통신부가 AI 에이전트와 바이브 코딩을 활용해 사회문제를 해결하는 대국민 공모전을 개최합니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "fbf4cf4b3a771e14",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214215",
+  "source": "AI타임스",
+  "title": "알리바바, AI·클라우드 성장에도 대규모 투자로 순이익 75% 급감",
+  "published_at": "2026-08-21T14:42:02+00:00",
+  "collected_at": "2026-08-21T07:01:02.186950+00:00",
+  "title_ko": "알리바바, 대규모 AI 인프라 투자로 순이익 급감",
+  "summary_ko": "알리바바가 AI와 클라우드 인프라에 대한 공격적인 투자로 인해 단기 순이익이 크게 감소했습니다.",
+  "category": "중요",
+  "tags": [
+   "투자",
+   "반도체"
+  ]
+ },
+ {
   "id": "1a149ed4e14f5fb1",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214212",
   "source": "AI타임스",
@@ -152,6 +182,67 @@
   ]
  },
  {
+  "id": "e0822fe6b91334c1",
+  "url": "https://www.reddit.com/r/singularity/comments/1vu87p5/a_stealth_model_called_oxalpha_has_been_released/",
+  "source": "r/singularity",
+  "title": "A stealth model called Ox-Alpha has been released, outperforming Fable on SWE.",
+  "published_at": "2026-08-21T06:20:26+00:00",
+  "collected_at": "2026-08-21T07:01:01.010454+00:00",
+  "title_ko": "신규 코딩 모델 'Ox-Alpha' 공개",
+  "summary_ko": "SWE벤치마크 등에서 기존 모델을 뛰어넘는 성능을 보여준 스텔스 코딩 AI 모델 'Ox-Alpha'가 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "935cb8417804c2b9",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vu7yce/qwen3827b_at_262k_context_on_a_strix_halo_rtx/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-27B at 262K context on a Strix Halo + RTX 3090 Ti: 9.5 -> 153 tok/s, and it beats a dual-3090 vLLM box on HumanEval",
+  "published_at": "2026-08-21T06:06:07+00:00",
+  "collected_at": "2026-08-21T07:01:00.356731+00:00",
+  "title_ko": "Qwen3.8-27B, 멀티 하드웨어 환경서 고속 구동",
+  "summary_ko": "AMD와 NVIDIA GPU를 혼합한 환경에서 Qwen 모델이 대규모 컨텍스트를 매우 빠른 속도로 처리하는 성능을 기록했습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "2b791230106645e9",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vu7m53/fastest_qwen_38_27b_for_amd_gpu/",
+  "source": "r/LocalLLaMA",
+  "title": "Fastest qwen 3.8 27b for AMD gpu?",
+  "published_at": "2026-08-21T05:47:36+00:00",
+  "collected_at": "2026-08-21T07:01:00.356731+00:00",
+  "title_ko": "AMD GPU 환경용 Qwen 27B 최적화 실행 팁",
+  "summary_ko": "AMD GPU 환경에서 Qwen 27B 모델을 가장 빠르게 구동하기 위한 GGUF 버전 및 하드웨어 구성 논의입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "cc11677b7bc61a71",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vu620d/new_stealth_model_ox_alpha_look_like_glm_or_mimo/",
+  "source": "r/LocalLLaMA",
+  "title": "New stealth model Ox Alpha look like glm or mimo new model",
+  "published_at": "2026-08-21T04:24:18+00:00",
+  "collected_at": "2026-08-21T07:01:00.356731+00:00",
+  "title_ko": "신규 프론티어 모델 'Ox Alpha' 정체 분석",
+  "summary_ko": "100만 토큰 컨텍스트와 에이전트 코딩 기능을 지원하는 신규 스텔스 AI 모델 'Ox Alpha'의 특징이 공유되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
   "id": "46c18cdd2acfeb7b",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vu5dzi/sensenova_u15lite_full_release_expert_training/",
   "source": "r/LocalLLaMA",
@@ -249,6 +340,20 @@
   "tags": [
    "오픈소스",
    "음성AI"
+  ]
+ },
+ {
+  "id": "3e6e166f598cf8e5",
+  "url": "https://www.reddit.com/r/singularity/comments/1vu1iyd/yuval_noah_harari_we_need_to_resist_giving_als/",
+  "source": "r/singularity",
+  "title": "Yuval Noah Harari: we \"need to resist\" giving Als rights",
+  "published_at": "2026-08-21T00:50:32+00:00",
+  "collected_at": "2026-08-21T07:01:01.010454+00:00",
+  "title_ko": "유발 하라리 \"AI에게 권리 부여 저항해야\"",
+  "summary_ko": "역사학자 유발 하라리가 AI에게 법적·사회적 권리를 부여하는 것에 대해 경고하며 저항이 필요하다고 주장했습니다.",
+  "category": "참고",
+  "tags": [
+   "규제"
   ]
  },
  {
