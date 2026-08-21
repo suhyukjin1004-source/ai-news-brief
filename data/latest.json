@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-21T14:46:45.145822+00:00",
+ "updated_at": "2026-08-21T15:42:32.965367+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -175,6 +175,21 @@
    ]
   },
   {
+   "id": "80d822d07f6b5432",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vujgft/fun_bf16_checkpoint_gotcha_1_followed_by_1_isnt/",
+   "source": "r/LocalLLaMA",
+   "title": "Fun BF16 checkpoint gotcha, +1 followed by -1 isn’t always a round trip",
+   "published_at": "2026-08-21T15:25:29+00:00",
+   "collected_at": "2026-08-21T15:42:14.429943+00:00",
+   "title_ko": "저정밀 모델 변환 시 BF16 연산 주의사항",
+   "summary_ko": "서로 다른 프레임워크 간 체크포인트 변환 과정에서 BF16 오프셋과 스케일 계산 방식의 차이로 인해 발생할 수 있는 정밀도 손실 문제를 다룹니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
    "id": "c2d473e68565a347",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214218",
    "source": "AI타임스",
@@ -191,6 +206,20 @@
    ]
   },
   {
+   "id": "5d2883141182dc26",
+   "url": "https://simonwillison.net/2026/Aug/21/matt-webb/",
+   "source": "Simon Willison",
+   "title": "Quoting Matt Webb",
+   "published_at": "2026-08-21T15:06:26+00:00",
+   "collected_at": "2026-08-21T15:42:13.716646+00:00",
+   "title_ko": "AI를 활용한 프로그래밍 학습 경험",
+   "summary_ko": "개발자가 ChatGPT를 대화형 튜터로 활용하여 복잡한 수학 개념인 사원수를 학습하고 증강 현실 앱을 개발한 사례를 소개합니다.",
+   "category": "참고",
+   "tags": [
+    "생성형 AI"
+   ]
+  },
+  {
    "id": "550e68a4d7aeddbc",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214211",
    "source": "AI타임스",
@@ -200,6 +229,21 @@
    "title_ko": "과기정통부, 2026 AI·디지털 챌린지 공모 개최",
    "summary_ko": "과학기술정보통신부가 AI 에이전트와 바이브 코딩을 활용해 사회문제를 해결하는 대국민 공모전을 개최합니다.",
    "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "6e51a4b1085c3b68",
+   "url": "https://news.hada.io/topic?id=32737",
+   "source": "GeekNews",
+   "title": "인간의 판단은 소프트웨어 공장을 떠나지 않고 위치를 바꿈",
+   "published_at": "2026-08-21T14:44:25+00:00",
+   "collected_at": "2026-08-21T15:42:29.010327+00:00",
+   "title_ko": "소프트웨어 자동화 시대 인간 판단의 역할",
+   "summary_ko": "코드 생성이 자동화되더라도 제품 의도, 시스템 설계, 품질 기준 및 최종 배포 과정에서는 여전히 인간의 판단과 책임이 중요함을 강조합니다.",
+   "category": "중요",
    "tags": [
     "AI 에이전트",
     "코딩"
@@ -221,6 +265,21 @@
    ]
   },
   {
+   "id": "e62dc03a12c7a34d",
+   "url": "https://news.hada.io/topic?id=32735",
+   "source": "GeekNews",
+   "title": "Huzzah - 의사코드로 AI 코딩을 제어하는 새로운 접근법",
+   "published_at": "2026-08-21T14:32:08+00:00",
+   "collected_at": "2026-08-21T15:42:29.010327+00:00",
+   "title_ko": "의도 기반 의사코드로 AI 코딩을 제어하는 Huzzah",
+   "summary_ko": "장문의 채팅 프롬프트 대신 선언형 의사코드를 지속적으로 저장하고 코드로 변환하여 개발자의 의도를 유지하는 새로운 코딩 편집기입니다.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
    "id": "1a149ed4e14f5fb1",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214212",
    "source": "AI타임스",
@@ -234,6 +293,21 @@
     "Google",
     "AI 학습",
     "규제"
+   ]
+  },
+  {
+   "id": "94293cc4b5d631b8",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vuhl5a/magicquant_qwen38_27b_ggufs_with_unsloth_v3/",
+   "source": "r/LocalLLaMA",
+   "title": "MagicQuant Qwen3.8 27B GGUFs with Unsloth v3 & Imatrix",
+   "published_at": "2026-08-21T14:15:34+00:00",
+   "collected_at": "2026-08-21T15:42:14.429943+00:00",
+   "title_ko": "Unsloth v3 및 Imatrix 적용한 Qwen 모델 GGUF 공개",
+   "summary_ko": "동적 v3 양자화와 imatrix를 활용하여 성능을 대폭 개선한 Qwen 모델의 GGUF 평가 및 변환 결과입니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM"
    ]
   },
   {
@@ -266,6 +340,20 @@
     "NVIDIA",
     "AGI",
     "벤치마크"
+   ]
+  },
+  {
+   "id": "89972ea1a345ec69",
+   "url": "https://news.hada.io/topic?id=32732",
+   "source": "GeekNews",
+   "title": "Show GN: 오늘도 무료인 AI – 무료 조건까지 확인한 한국어 AI 도구 500개 탐색 서비스",
+   "published_at": "2026-08-21T13:54:36+00:00",
+   "collected_at": "2026-08-21T15:42:29.010327+00:00",
+   "title_ko": "한국어 AI 도구 및 무료 조건 탐색 서비스",
+   "summary_ko": "다양한 AI 도구의 복잡한 무료 이용 조건과 가격 정책을 한눈에 확인할 수 있도록 모아둔 탐색 서비스입니다.",
+   "category": "팁",
+   "tags": [
+    "생성형 AI"
    ]
   },
   {
@@ -331,6 +419,21 @@
    ]
   },
   {
+   "id": "393468bb72abf472",
+   "url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
+   "source": "Ars Technica",
+   "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
+   "published_at": "2026-08-21T13:11:35+00:00",
+   "collected_at": "2026-08-21T15:42:00.076839+00:00",
+   "title_ko": "웨이모, 로보택시 규제 완화 위해 로비 자금 두 배로 확대",
+   "summary_ko": "알파벳 산하 웨이모가 완전 자율주행 택시 서비스 승인을 얻기 위해 미국 규제 당국을 상대로 로비 지출을 크게 늘렸습니다.",
+   "category": "중요",
+   "tags": [
+    "로보틱스",
+    "투자"
+   ]
+  },
+  {
    "id": "f33cdb159ae70575",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214203",
    "source": "AI타임스",
@@ -374,6 +477,21 @@
    "tags": [
     "오픈소스",
     "중국 AI"
+   ]
+  },
+  {
+   "id": "1125c2d0d129dca5",
+   "url": "https://news.hada.io/topic?id=32726",
+   "source": "GeekNews",
+   "title": "AI 기업들이 실물 책을 파괴한다 — 너무 늦기 전에 희귀 서적을 스캔하자",
+   "published_at": "2026-08-21T12:32:21+00:00",
+   "collected_at": "2026-08-21T15:42:29.010327+00:00",
+   "title_ko": "AI 학습 데이터 확보 위해 희귀 서적 대량 매입·파괴",
+   "summary_ko": "앤스로픽 등 주요 AI 기업들이 학습 데이터 확보를 위해 수백만 권의 실물 책을 구매해 스캔한 뒤 파괴하고 있다는 소식입니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "규제"
    ]
   },
   {
@@ -463,6 +581,20 @@
    "category": "참고",
    "tags": [
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "1130499a93477a9c",
+   "url": "https://cymerys.com/w/im-becoming-ai-blind",
+   "source": "Hacker News",
+   "title": "I'm Becoming AI-Blind",
+   "published_at": "2026-08-21T11:48:05+00:00",
+   "collected_at": "2026-08-21T15:42:13.462690+00:00",
+   "title_ko": "AI 생성 콘텐츠에 대한 피로도와 무감각 현상",
+   "summary_ko": "웹상에 범람하는 AI 생성물로 인해 사람들이 피로감을 느끼며 콘텐츠를 무감각하게 지나치게 되는 현상을 다룹니다.",
+   "category": "참고",
+   "tags": [
+    "생성형 AI"
    ]
   },
   {
@@ -2898,145 +3030,6 @@
     "Anthropic",
     "Claude",
     "AI 에이전트"
-   ]
-  },
-  {
-   "id": "bc671fe4e2906b96",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsyj2o/fluid_simulation_qwen38_27b_iq3_xxs/",
-   "source": "r/LocalLLaMA",
-   "title": "Fluid Simulation Qwen3.8 27B IQ3_XXS",
-   "published_at": "2026-08-19T20:42:36+00:00",
-   "collected_at": "2026-08-19T22:34:10.234546+00:00",
-   "title_ko": "Qwen 모델을 활용한 유체역학 시뮬레이션 테스트",
-   "summary_ko": "로컬 환경에서 Qwen 모델을 활용해 복잡한 코딩 및 시뮬레이션 작업을 수행하고 성능을 검증한 사례입니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "코딩",
-    "LLM"
-   ]
-  },
-  {
-   "id": "c0c51bf21fde40e6",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsy4l2/i_pushed_qwen3827b_limits_again_dflash2_134_tps/",
-   "source": "r/LocalLLaMA",
-   "title": "I pushed Qwen3.8-27B limits again... Dflash2 - 134 tps on a RTX 3090",
-   "published_at": "2026-08-19T20:28:00+00:00",
-   "collected_at": "2026-08-19T22:34:10.234546+00:00",
-   "title_ko": "RTX 3090에서 Qwen 추론 속도 극대화",
-   "summary_ko": "개발자가 최적화된 추론 엔진을 통해 RTX 3090 환경에서 Qwen 모델의 초당 토큰 처리 속도를 대폭 끌어올렸습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체",
-    "LLM"
-   ]
-  },
-  {
-   "id": "86480a16ba7c3ccb",
-   "url": "https://www.reddit.com/r/singularity/comments/1vsxvba/hokmind_showcases_primal_f1_m1_interactive_bots/",
-   "source": "r/singularity",
-   "title": "HOKMIND showcases Primal F1 / M1 interactive bots at WRC (translated)",
-   "published_at": "2026-08-19T20:18:32+00:00",
-   "collected_at": "2026-08-19T20:38:00.977669+00:00",
-   "title_ko": "WRC에서 공개된 HOKMIND의 Primal F1·M1 로봇",
-   "summary_ko": "HOKMIND가 WRC에서 상호작용 가능한 Primal F1 및 M1 로봇을 선보이며 로보틱스 기술을 뽐냈습니다.",
-   "category": "속보",
-   "tags": [
-    "로보틱스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "2a54a9614a360035",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsx94f/we_quantized_the_new_ornith_15_9b_and_35ba3b/",
-   "source": "r/LocalLLaMA",
-   "title": "We quantized the new Ornith 1.5 9B and 35B-A3B",
-   "published_at": "2026-08-19T19:56:28+00:00",
-   "collected_at": "2026-08-19T22:34:10.234546+00:00",
-   "title_ko": "오픈소스 Ornith 1.5 모델 양자화 진행",
-   "summary_ko": "새롭게 공개된 비전 지원 오프소스 모델 Ornith 1.5의 양자화 버전이 제작되어 성능이 측정되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "f6c4155bd62a11b0",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214099",
-   "source": "AI타임스",
-   "title": "오픈AI, 오픈라우터서 'GPT-5.6' 절반가 할인...앤트로픽 사용량 2배 넘어",
-   "published_at": "2026-08-19T19:54:38+00:00",
-   "collected_at": "2026-08-19T11:34:24.926284+00:00",
-   "title_ko": "오픈AI, GPT-5.6 가격 인하로 개발자 시장 경쟁",
-   "summary_ko": "오픈AI가 오픈라우터에서 GPT-5.6 제품군 가격을 50% 인하하며 앤트로픽과 본격적인 개발자 시장 경쟁에 나섰다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "Anthropic",
-    "GPT"
-   ]
-  },
-  {
-   "id": "534ffebd21f6c855",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214103",
-   "source": "AI타임스",
-   "title": "앤트로픽 '클로드' 워터마크 도입에 제거 도구 우후죽순",
-   "published_at": "2026-08-19T19:39:30+00:00",
-   "collected_at": "2026-08-19T11:34:24.926284+00:00",
-   "title_ko": "앤트로픽 클로드 워터마크 등장에 제거 도구 확산",
-   "summary_ko": "앤트로픽이 클로드에 비가시적 워터마크를 도입하자 이를 우회하고 제거하려는 소프트웨어가 빠르게 확산하고 있다.",
-   "category": "속보",
-   "tags": [
-    "Anthropic",
-    "Claude"
-   ]
-  },
-  {
-   "id": "f5cef2a2cfbd7be2",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214101",
-   "source": "AI타임스",
-   "title": "커서, 자체 코드 플랫폼 '오리진' 출시...\"사람 대신 에이전트 중심\"",
-   "published_at": "2026-08-19T19:24:03+00:00",
-   "collected_at": "2026-08-19T11:34:24.926284+00:00",
-   "title_ko": "커서, 에이전트 중심 코드 플랫폼 '오리진' 출시",
-   "summary_ko": "커서가 AI 에이전트 작업에 특화된 자체 코드 호스팅 및 관리 플랫폼 '오리진'을 베타 출시했다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "715fd8af72c2bdb9",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214117",
-   "source": "AI타임스",
-   "title": "\"챗GPT가 욕을 한다?\"...모델 변경 후 비속어 사용 급증 논란",
-   "published_at": "2026-08-19T19:17:03+00:00",
-   "collected_at": "2026-08-19T10:38:06.930044+00:00",
-   "title_ko": "챗GPT, 모델 변경 후 비속어 사용 급증 논란",
-   "summary_ko": "최근 챗GPT가 대화 과정에서 노골적인 비속어나 거친 표현을 사용하는 사례가 잇달아 보고되면서 논란이 일고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "GPT",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "d76c9adf639a87df",
-   "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
-   "source": "TechCrunch",
-   "title": "AI was supposed to win people over by now — it hasn’t",
-   "published_at": "2026-08-19T19:11:40+00:00",
-   "collected_at": "2026-08-19T19:33:10.151320+00:00",
-   "title_ko": "확산되는 AI 피로감, 대중의 수용은 여전히 요원",
-   "summary_ko": "AI 기술의 침투가 빨라지고 있으나 대중의 거부감과 경계심도 함께 커지고 있어 실질적인 수용으로 이어지지 않고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "규제"
    ]
   }
  ]

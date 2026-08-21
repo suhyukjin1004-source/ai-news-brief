@@ -171,6 +171,21 @@
   ]
  },
  {
+  "id": "80d822d07f6b5432",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vujgft/fun_bf16_checkpoint_gotcha_1_followed_by_1_isnt/",
+  "source": "r/LocalLLaMA",
+  "title": "Fun BF16 checkpoint gotcha, +1 followed by -1 isn’t always a round trip",
+  "published_at": "2026-08-21T15:25:29+00:00",
+  "collected_at": "2026-08-21T15:42:14.429943+00:00",
+  "title_ko": "저정밀 모델 변환 시 BF16 연산 주의사항",
+  "summary_ko": "서로 다른 프레임워크 간 체크포인트 변환 과정에서 BF16 오프셋과 스케일 계산 방식의 차이로 인해 발생할 수 있는 정밀도 손실 문제를 다룹니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
   "id": "c2d473e68565a347",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214218",
   "source": "AI타임스",
@@ -184,6 +199,20 @@
    "Meta",
    "AI 에이전트",
    "코딩"
+  ]
+ },
+ {
+  "id": "5d2883141182dc26",
+  "url": "https://simonwillison.net/2026/Aug/21/matt-webb/",
+  "source": "Simon Willison",
+  "title": "Quoting Matt Webb",
+  "published_at": "2026-08-21T15:06:26+00:00",
+  "collected_at": "2026-08-21T15:42:13.716646+00:00",
+  "title_ko": "AI를 활용한 프로그래밍 학습 경험",
+  "summary_ko": "개발자가 ChatGPT를 대화형 튜터로 활용하여 복잡한 수학 개념인 사원수를 학습하고 증강 현실 앱을 개발한 사례를 소개합니다.",
+  "category": "참고",
+  "tags": [
+   "생성형 AI"
   ]
  }
 ]
