@@ -182,6 +182,21 @@
   ]
  },
  {
+  "id": "4b7f48ce96beb17f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vubpn4/i_got_fed_up_with_lockeddown_autocomplete_so_i/",
+  "source": "r/LocalLLaMA",
+  "title": "I got fed up with locked-down autocomplete, so I forked Continue and stripped it down to just tab-completion. Any model, no subscription and no remote telemetry",
+  "published_at": "2026-08-21T09:45:18+00:00",
+  "collected_at": "2026-08-21T10:39:22.760329+00:00",
+  "title_ko": "오픈소스 자동완성 도구 포크 버전 출시",
+  "summary_ko": "개발자가 기존 코딩 플러그인의 제약에 불만을 느껴 모델 선택이 자유롭고 원격 텔레메트리가 없는 탭 자동완성 전용 포크 버전을 공개했다. 실무 개발 환경에 유용한 도구다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
   "id": "65f22ded016ac579",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vubb20/deepseekv4flashvisionexp/",
   "source": "r/LocalLLaMA",
@@ -211,6 +226,21 @@
    "오픈소스",
    "NVIDIA",
    "반도체"
+  ]
+ },
+ {
+  "id": "dfb2fd9b0706056e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vub1ff/does_pcie_matter_much_for_inference/",
+  "source": "r/LocalLLaMA",
+  "title": "Does PCIe matter much for inference?",
+  "published_at": "2026-08-21T09:06:54+00:00",
+  "collected_at": "2026-08-21T10:39:22.760329+00:00",
+  "title_ko": "LLM 추론 시 PCIe 대역폭 영향 분석",
+  "summary_ko": "다중 GPU 환경에서 LLM 추론 시 PCIe 슬롯 대역폭이 성능 병목 현상에 미치는 영향과 사용자 경험을 공유했다. 로컬 LLM 구동 최적화에 참고할 만한 정보이다.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "오픈소스"
   ]
  },
  {

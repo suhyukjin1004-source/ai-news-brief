@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-21T09:47:07.258230+00:00",
+ "updated_at": "2026-08-21T10:39:39.781348+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -48,6 +48,21 @@
    "tags": [
     "GPT",
     "오픈소스"
+   ]
+  },
+  {
+   "id": "4071959139979bd6",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214201",
+   "source": "AI타임스",
+   "title": "[게시판] 메가존소프트, 농심그룹 14개 계열사 AX 체계 구축 등 단신",
+   "published_at": "2026-08-21T17:00:00+00:00",
+   "collected_at": "2026-08-21T10:39:36.016260+00:00",
+   "title_ko": "메가존소프트, 농심그룹 AI 전환 체계 구축",
+   "summary_ko": "메가존소프트가 농심그룹의 국내외 계열사에 구글 워크스페이스 기반 AI 전환 체계를 구축했다. 기업의 클라우드 및 AI 도입 사례로 중요성을닌다.",
+   "category": "중요",
+   "tags": [
+    "Google",
+    "AI 에이전트"
    ]
   },
   {
@@ -111,6 +126,21 @@
     "Google",
     "오픈소스",
     "Gemini"
+   ]
+  },
+  {
+   "id": "e58e5946905afb05",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214231",
+   "source": "AI타임스",
+   "title": "포티투마루, 화성시 '민원 행정 AI 플랫폼' 구축한다",
+   "published_at": "2026-08-21T16:05:00+00:00",
+   "collected_at": "2026-08-21T10:39:36.016260+00:00",
+   "title_ko": "포티투마루, 화성시 민원 행정 AI 플랫폼 구축",
+   "summary_ko": "포티투마루가 화성시의 공공 AI 서비스 지원 사업을 통해 민원 분석 및 에이전틱 AI 플랫폼을 구축한다. 공공 부문의 AI 도입과 RAG 활용 확산에 기여한다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트",
+    "RAG"
    ]
   },
   {
@@ -343,6 +373,21 @@
    ]
   },
   {
+   "id": "4b7f48ce96beb17f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vubpn4/i_got_fed_up_with_lockeddown_autocomplete_so_i/",
+   "source": "r/LocalLLaMA",
+   "title": "I got fed up with locked-down autocomplete, so I forked Continue and stripped it down to just tab-completion. Any model, no subscription and no remote telemetry",
+   "published_at": "2026-08-21T09:45:18+00:00",
+   "collected_at": "2026-08-21T10:39:22.760329+00:00",
+   "title_ko": "오픈소스 자동완성 도구 포크 버전 출시",
+   "summary_ko": "개발자가 기존 코딩 플러그인의 제약에 불만을 느껴 모델 선택이 자유롭고 원격 텔레메트리가 없는 탭 자동완성 전용 포크 버전을 공개했다. 실무 개발 환경에 유용한 도구다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
    "id": "65f22ded016ac579",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vubb20/deepseekv4flashvisionexp/",
    "source": "r/LocalLLaMA",
@@ -372,6 +417,21 @@
     "오픈소스",
     "NVIDIA",
     "반도체"
+   ]
+  },
+  {
+   "id": "dfb2fd9b0706056e",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vub1ff/does_pcie_matter_much_for_inference/",
+   "source": "r/LocalLLaMA",
+   "title": "Does PCIe matter much for inference?",
+   "published_at": "2026-08-21T09:06:54+00:00",
+   "collected_at": "2026-08-21T10:39:22.760329+00:00",
+   "title_ko": "LLM 추론 시 PCIe 대역폭 영향 분석",
+   "summary_ko": "다중 GPU 환경에서 LLM 추론 시 PCIe 슬롯 대역폭이 성능 병목 현상에 미치는 영향과 사용자 경험을 공유했다. 로컬 LLM 구동 최적화에 참고할 만한 정보이다.",
+   "category": "참고",
+   "tags": [
+    "반도체",
+    "오픈소스"
    ]
   },
   {
@@ -2975,66 +3035,6 @@
    "category": "중요",
    "tags": [
     "AI 에이전트"
-   ]
-  },
-  {
-   "id": "a5d719298de17140",
-   "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-   "source": "TechCrunch",
-   "title": "Researchers complain that OpenAI revoked their access to limited cyber program",
-   "published_at": "2026-08-19T18:46:14+00:00",
-   "collected_at": "2026-08-19T18:47:52.166946+00:00",
-   "title_ko": "OpenAI, 사이버보안 연구원 대상 제한 프로그램 접근 차단 논란",
-   "summary_ko": "보안 연구원들이 OpenAI의 사이버보안 신뢰 프로그램(TAC) 접근 권한을 갑자기 상실했다고 불만을 제기했습니다. 안전장치가 완화된 모델을 제공하던 프로그램으로 연구 생태계에 영향을 줄 수 있습니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "보안",
-    "연구"
-   ]
-  },
-  {
-   "id": "5bdbe701c0fd467f",
-   "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-   "source": "Hacker News",
-   "title": "Unsloth Dynamic 3.0 GGUFs",
-   "published_at": "2026-08-19T18:36:45+00:00",
-   "collected_at": "2026-08-19T21:33:56.662921+00:00",
-   "title_ko": "Unsloth, 다이나믹 3.0 GGUF 포맷 공개",
-   "summary_ko": "Unsloth가 대형 언어 모델의 효율적인 양자화를 위한 다이나믹 3.0 GGUF를 공개했습니다. 모델 경량화 및 성능 유지에 도움을 줍니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "ebab89ae14ece76c",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214124",
-   "source": "AI타임스",
-   "title": "\"기술 개발은 미국, 상업화는 중국\"...유니트리, 미국 연구 기반으로 로봇견 시장 장악",
-   "published_at": "2026-08-19T18:32:51+00:00",
-   "collected_at": "2026-08-19T10:38:06.930044+00:00",
-   "title_ko": "중국 유니트리, 미국 연구 기반 기술로 로봇견 시장 장악",
-   "summary_ko": "중국 로봇 기업 유니트리가 미국 정부와 대학의 사족보행 로봇 연구 성과를 바탕으로 제품을 상용화해 세계 시장을 빠르게 장악하고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "로보틱스"
-   ]
-  },
-  {
-   "id": "474b9c1d468ce25d",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsudsl/reverseengineering_the_rk3588_npu_building_an/",
-   "source": "r/LocalLLaMA",
-   "title": "Reverse-Engineering the RK3588 NPU: Building an Open Compiler to Run GPT-2 at 36 tok/s",
-   "published_at": "2026-08-19T18:13:31+00:00",
-   "collected_at": "2026-08-19T19:33:14.183291+00:00",
-   "title_ko": "RK3588 NPU 리버스 엔지니어링 및 오픈 컴파일러 개발",
-   "summary_ko": "개발자가 벤더 SDK 없이 RK3588 NPU를 구동하는 오픈 컴파일러를 구축해 GPT-2를 초당 36토큰으로 실행하는 데 성공했습니다.",
-   "category": "팁",
-   "tags": [
-    "반도체",
-    "오픈소스"
    ]
   }
  ]
