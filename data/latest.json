@@ -1,8 +1,68 @@
 {
- "updated_at": "2026-08-21T17:37:41.813420+00:00",
+ "updated_at": "2026-08-21T18:50:26.767501+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "91b87a9e9a360750",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vuotqr/qwen3827b_q6_is_a_beast_at_agentic_coding/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8-27B Q6 is a beast at agentic coding",
+   "published_at": "2026-08-21T18:41:24+00:00",
+   "collected_at": "2026-08-21T18:50:09.754263+00:00",
+   "title_ko": "Qwen3.8-27B 모델의 에이전틱 코딩 성능 테스트 후기",
+   "summary_ko": "Qwen3.8-27B 모델이 20시간 동안 끊김없이 고속으로 에이전틱 코딩 작업을 수행해 뛰어난 성능을 입증했습니다.",
+   "category": "참고",
+   "tags": [
+    "Qwen",
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "a04364c70d455a65",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vunrrp/model_add_dots3note_by_ngxson_pull_request_27060/",
+   "source": "r/LocalLLaMA",
+   "title": "model: add dots3-note by ngxson · Pull Request #27060 · ggml-org/llama.cpp",
+   "published_at": "2026-08-21T18:03:27+00:00",
+   "collected_at": "2026-08-21T18:50:09.754263+00:00",
+   "title_ko": "llama.cpp, dots3-note 멀티모달 MoE 모델 지원 추가",
+   "summary_ko": "280B 파라미터의 오픈웨이트 MoE 모델인 dots3-note 프리뷰가 llama.cpp에 추가되어 텍스트와 멀티모달 입력을 지원합니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "fd13f2ca2291b6a2",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vunqoz/llamacpp_dspark_pc_tree_fork_up_to_3295_faster/",
+   "source": "r/LocalLLaMA",
+   "title": "Llama.cpp DSpark PC Tree Fork (up to 3%-29.5% faster!)",
+   "published_at": "2026-08-21T18:02:21+00:00",
+   "collected_at": "2026-08-21T18:50:09.754263+00:00",
+   "title_ko": "Llama.cpp DSpark 포크로 추론 속도 최대 29% 향상",
+   "summary_ko": "연구 논문을 바탕으로 구현된 부모 조건부 드래프팅 트리(DSpark)를 통해 llama.cpp의 LLM 추론 속도가 대폭 빨라졌습니다.",
+   "category": "팁",
+   "tags": [
+    "NVIDIA",
+    "LLM"
+   ]
+  },
+  {
+   "id": "a6200af31ea69a69",
+   "url": "https://news.hada.io/topic?id=32741",
+   "source": "GeekNews",
+   "title": "DeepSeek-v4-flash-vision-exp 비전 API",
+   "published_at": "2026-08-21T17:33:37+00:00",
+   "collected_at": "2026-08-21T18:50:24.206909+00:00",
+   "title_ko": "DeepSeek, 비전 기능 갖춘 'DeepSeek-v4-flash-vision-exp' API 공개",
+   "summary_ko": "텍스트와 이미지를 동시에 처리할 수 있는 DeepSeek의 새로운 비전 모델 API가 공개되어 다양한 멀티모달 작업을 지원합니다.",
+   "category": "속보",
+   "tags": [
+    "DeepSeek"
+   ]
+  },
   {
    "id": "f19cb131d972cae9",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214205",
@@ -2967,67 +3027,6 @@
    "tags": [
     "투자",
     "OpenRouter"
-   ]
-  },
-  {
-   "id": "d78531ea4a63f465",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vt2jef/qwen3823bminime_a_depthpruned_qwen3827b_to_227bb/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.8-23B-Mini-Me: A Depth-Pruned Qwen3.8-27B (to ~22.7BB)",
-   "published_at": "2026-08-19T23:19:16+00:00",
-   "collected_at": "2026-08-19T23:31:48.436015+00:00",
-   "title_ko": "Qwen3.8-27B 모델의 깊이 가지치기 버전 공개",
-   "summary_ko": "개발자가 Qwen3.8-27B 모델의 레이어를 전략적으로 제거하여 추론 능력 저하 없이 22.7B 파라미터로 경량화한 모델을 공유했습니다. 리소스가 제한된 환경에서 코딩 및 에이전트 용도로 활용할 수 있습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "코딩",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "a76a88cb6bb59a73",
-   "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
-   "source": "Simon Willison",
-   "title": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
-   "published_at": "2026-08-19T23:16:00+00:00",
-   "collected_at": "2026-08-20T01:45:22.369503+00:00",
-   "title_ko": "신뢰할 수 없는 코드 실행을 위한 smolvm 샌드박스",
-   "summary_ko": "Claude Code를 활용해 파이썬과 자바스크립트의 안전한 실행을 위한 smolvm 샌드박스의 성능과 보안성을 테스트한 연구입니다.",
-   "category": "참고",
-   "tags": [
-    "Claude",
-    "보안"
-   ]
-  },
-  {
-   "id": "e48de7c3cfbb32bc",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vt2cjy/qwen_38_27b_slopcodebench_results/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen 3.8 27B SlopCodeBench results",
-   "published_at": "2026-08-19T23:11:28+00:00",
-   "collected_at": "2026-08-20T01:45:23.220536+00:00",
-   "title_ko": "Qwen 27B 모델의 코딩 벤치마크 결과",
-   "summary_ko": "Qwen 모델의 SlopCodeBench 결과, 단독 코드베이스 관리보다는 보조 코파일럿으로 활용하기에 적합한 성능을 보였습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "0a9fa676909b8364",
-   "url": "https://simonwillison.net/2026/Aug/19/jeremy-morrell/",
-   "source": "Simon Willison",
-   "title": "Quoting Jeremy Morrell",
-   "published_at": "2026-08-19T22:56:31+00:00",
-   "collected_at": "2026-08-19T23:31:47.741281+00:00",
-   "title_ko": "LLM 시대의 확장 가능한 소프트웨어 기회",
-   "summary_ko": "LLM이 확장 기능 작성 비용을 낮추고 샌드박스 기술이 보안을 보장하면서, 사용자가 AI를 통해 소프트웨어를 안전하게 확장할 수 있는 새로운 기회가 열리고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "LLM",
-    "AI 에이전트"
    ]
   }
  ]
