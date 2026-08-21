@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-21T08:52:33.412339+00:00",
+ "updated_at": "2026-08-21T09:47:07.258230+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -340,6 +340,38 @@
    "category": "참고",
    "tags": [
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "65f22ded016ac579",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vubb20/deepseekv4flashvisionexp/",
+   "source": "r/LocalLLaMA",
+   "title": "DeepSeek-V4-Flash-Vision-Exp",
+   "published_at": "2026-08-21T09:22:09+00:00",
+   "collected_at": "2026-08-21T09:46:58.893919+00:00",
+   "title_ko": "DeepSeek-V4-Flash-Vision-Exp 모델 등장",
+   "summary_ko": "DeepSeek의 새로운 비전 및 멀티모달 실험 모델인 V4-Flash-Vision-Exp가 공개되었습니다. 향상된 멀티모달 처리 성능과 효율성을 보여줄 것으로 기대됩니다.",
+   "category": "속보",
+   "tags": [
+    "DeepSeek",
+    "멀티모달",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "b140e90af0988ecb",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vub9od/fastest_nvfp4_quant_of_qwen38_27b_out_there/",
+   "source": "r/LocalLLaMA",
+   "title": "Fastest NVFP4 quant of Qwen3.8 27B out there",
+   "published_at": "2026-08-21T09:19:54+00:00",
+   "collected_at": "2026-08-21T09:46:58.893919+00:00",
+   "title_ko": "Qwen3.8 27B용 초고속 NVFP4 양자화 버전 공개",
+   "summary_ko": "Blackwell 아키텍처에 최적화된 Qwen3.8 27B의 4비트 양자화 모델이 공개되어 RTX 5090 등 호환 하드웨어에서 속도가 대폭 향상되었습니다. 로컬 LLM 구동 효율성을 극대화하는 데 중요합니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "NVIDIA",
+    "반도체"
    ]
   },
   {
@@ -3003,37 +3035,6 @@
    "tags": [
     "반도체",
     "오픈소스"
-   ]
-  },
-  {
-   "id": "08816b422dfbc5b9",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsuaoj/dflash2_speeds_qwen_38_27b_up_to_4_times/",
-   "source": "r/LocalLLaMA",
-   "title": "DFlash2 speeds Qwen 3.8 27B up to 4 times",
-   "published_at": "2026-08-19T18:10:35+00:00",
-   "collected_at": "2026-08-19T18:48:15.009284+00:00",
-   "title_ko": "DFlash2 기술로 Qwen 모델 속도 최대 4배 향상",
-   "summary_ko": "llama.cpp 업데이트에 DFlash2 기법이 추가되면서 Qwen 3.8 27B 모델의 토큰 처리 속도가 대폭 빨라졌습니다. 로컬 LLM의 추론 성능을 크게 개선할 수 있습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "코딩",
-    "LLM"
-   ]
-  },
-  {
-   "id": "03fb8b63266ef8e0",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vstyge/i_might_have_found_the_perfect_config_parameters/",
-   "source": "r/LocalLLaMA",
-   "title": "I might have found the perfect config parameters for qwen 3.8 27b",
-   "published_at": "2026-08-19T17:59:04+00:00",
-   "collected_at": "2026-08-19T20:37:56.342734+00:00",
-   "title_ko": "Qwen 3.8 27B 모델 최적화 설정 공유",
-   "summary_ko": "로컬 환경에서 Qwen 모델의 성능을 극대화하여 초당 70토큰을 달성한 최적화 구성 파라미터가 공유되었습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM"
    ]
   }
  ]
