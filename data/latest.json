@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-21T13:55:12.434752+00:00",
+ "updated_at": "2026-08-21T14:46:45.145822+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -250,6 +250,54 @@
     "NVIDIA",
     "반도체",
     "투자"
+   ]
+  },
+  {
+   "id": "756d5f472b406dbc",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vuh7to/nvidia_avo_got_100_on_arcagi3_it_completed_all/",
+   "source": "r/LocalLLaMA",
+   "title": "NVIDIA AVO got 100% on ARC-AGI-3. It completed all 183 levels across all 25 public environments, figuring out what to do with no instructions, explicit rules, or stated goals.",
+   "published_at": "2026-08-21T14:01:07+00:00",
+   "collected_at": "2026-08-21T14:46:29.214590+00:00",
+   "title_ko": "NVIDIA AVO, ARC-AGI-3 벤치마크 100% 달성",
+   "summary_ko": "NVIDIA AVO가 사전 지시나 규칙 없이 모든 환경과 레벨을 완벽하게 해결하며 AGI 발전 가능성을 보여주었습니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "AGI",
+    "벤치마크"
+   ]
+  },
+  {
+   "id": "d13d3e1349aa1fce",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vugyfe/deepseek_harness_v011_released/",
+   "source": "r/LocalLLaMA",
+   "title": "DeepSeek Harness v0.1.1 released",
+   "published_at": "2026-08-21T13:51:00+00:00",
+   "collected_at": "2026-08-21T14:46:29.214590+00:00",
+   "title_ko": "DeepSeek 하네스 v0.1.1 출시",
+   "summary_ko": "멀티모달 시각 이해 모델과 이미지 입력 기능을 지원하는 DeepSeek 하네스 신규 버전이 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "DeepSeek",
+    "오픈소스",
+    "멀티모달"
+   ]
+  },
+  {
+   "id": "961f920df668304d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vugryn/qwen_38_27b_is_strong_even_at_q3_xxs/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen 3.8 27b is strong even at Q3_xxs",
+   "published_at": "2026-08-21T13:43:39+00:00",
+   "collected_at": "2026-08-21T14:46:29.214590+00:00",
+   "title_ko": "Qwen 3.8 27B 모델 양자화 성능 평가",
+   "summary_ko": "저용량 양자화 버전에서도 뛰어난 코딩 성능을 보여주는 Qwen 신규 모델에 대한 사용자 평가가 공유되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "코딩",
+    "LLM"
    ]
   },
   {
@@ -2989,51 +3037,6 @@
    "tags": [
     "AI 에이전트",
     "규제"
-   ]
-  },
-  {
-   "id": "7ec095819651664b",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214118",
-   "source": "AI타임스",
-   "title": "구글, 안드로이드용 크롬에 ‘제미나이’ 탑재...모바일·실생활로 생태계 확장",
-   "published_at": "2026-08-19T19:03:48+00:00",
-   "collected_at": "2026-08-19T10:38:06.930044+00:00",
-   "title_ko": "구글, 안드로이드 크롬에 '제미나이' 통합",
-   "summary_ko": "구글이 안드로이드용 크롬 브라우저에 제미나이를 기본 탑재하고 유료 구독자를 위한 자동 탐색 기능을 선보이며 모바일 AI 생태계 확장에 나섰습니다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "Gemini"
-   ]
-  },
-  {
-   "id": "690d13d57ec6b1db",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsvr7f/ornith15_9b_might_not_be_bad_at_all/",
-   "source": "r/LocalLLaMA",
-   "title": "Ornith-1.5 9B might not be bad at all",
-   "published_at": "2026-08-19T19:01:53+00:00",
-   "collected_at": "2026-08-19T20:37:56.342734+00:00",
-   "title_ko": "Ornith-1.5 9B 소형 모델 성능 평가",
-   "summary_ko": "저사양 환경에서 의료 물리 연구용 스크립트 생성을 위해 다양한 소형 오픈소스 LLM을 테스트한 사용자 경험 공유입니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "ef913e9fdabc01a8",
-   "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-   "source": "OpenAI",
-   "title": "Offering Zero Data Retention for frontier models",
-   "published_at": "2026-08-19T19:00:00+00:00",
-   "collected_at": "2026-08-21T03:11:08.068575+00:00",
-   "title_ko": "OpenAI, API 고객 대상 제로 데이터 리텐션 정책 재확인",
-   "summary_ko": "OpenAI가 적격 API 고객을 위한 제로 데이터 리텐션(Zero Data Retention) 정책을 재확인하고, 프라이버시를 보호하면서도 안전성을 높이는 프라이빗 안전 처리 기능을 예고했습니다. 기업 고객의 데이터 보안 우려를 해소하기 위한 조치입니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "보안"
    ]
   }
  ]
