@@ -1,8 +1,56 @@
 {
- "updated_at": "2026-08-21T07:01:07.494573+00:00",
+ "updated_at": "2026-08-21T07:51:29.988252+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "732917d3df1e3333",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214222",
+   "source": "AI타임스",
+   "title": "메타, MS '애저' 최대 고객사로 부상...빅테크 ‘AI 순환 의존’ 심화",
+   "published_at": "2026-08-21T16:49:40+00:00",
+   "collected_at": "2026-08-21T07:51:26.525368+00:00",
+   "title_ko": "메타, MS 애저 대규모 이용…빅테크 AI 순환 의존 심화",
+   "summary_ko": "메타가 MS의 애저를 통해 외부 AI 인프라를 대규모로 활용하면서 빅테크 간 AI 순환 의존 현상이 뚜렷해지고 있다.",
+   "category": "중요",
+   "tags": [
+    "Meta",
+    "Microsoft",
+    "클라우드"
+   ]
+  },
+  {
+   "id": "e9a7b251f4325416",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214219",
+   "source": "AI타임스",
+   "title": "오픈AI, 맥용 챗GPT에 '애플 메시지' 플러그인 탑재...\"아이메시지 읽고 답장까지\"",
+   "published_at": "2026-08-21T16:40:33+00:00",
+   "collected_at": "2026-08-21T07:51:26.525368+00:00",
+   "title_ko": "오픈AI, 맥용 챗GPT에 애플 메시지 플러그인 탑재",
+   "summary_ko": "맥용 챗GPT가 아이메시지 대화를 요약하고 답장을 전송하는 기능을 지원하며 커뮤니케이션 업무로 영역을 확장했다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "2a62a62426bae9c6",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214224",
+   "source": "AI타임스",
+   "title": "구글, '젬마' 누적 다운로드 10억회 돌파…'어썸 젬마' 저장소 공개",
+   "published_at": "2026-08-21T16:15:20+00:00",
+   "collected_at": "2026-08-21T07:51:26.525368+00:00",
+   "title_ko": "구글 '젬마', 누적 다운로드 10억회 돌파",
+   "summary_ko": "구글의 오픈 모델 젬마가 출시 이후 누적 다운로드 10억 건을 넘어서며 강력한 오픈소스 생태계를 구축했다.",
+   "category": "중요",
+   "tags": [
+    "Google",
+    "오픈소스",
+    "Gemini"
+   ]
+  },
   {
    "id": "d98f332ac3590aad",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214217",
@@ -233,6 +281,21 @@
    ]
   },
   {
+   "id": "9b96e03f33f5ec6a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vu8n8i/new_stealth_model_on_openrouter_ox_alph/",
+   "source": "r/LocalLLaMA",
+   "title": "New stealth model on OpenRouter: Ox Alph",
+   "published_at": "2026-08-21T06:45:34+00:00",
+   "collected_at": "2026-08-21T07:51:13.136186+00:00",
+   "title_ko": "오픈라우터에 미스터리 스텔스 모델 'Ox Alpha' 등장",
+   "summary_ko": "출처가 알려지지 않은 새로운 AI 모델 'Ox Alpha'가 오픈라우터에 등록되어 커뮤니티의 추정이 이어지고 있다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
    "id": "e0822fe6b91334c1",
    "url": "https://www.reddit.com/r/singularity/comments/1vu87p5/a_stealth_model_called_oxalpha_has_been_released/",
    "source": "r/singularity",
@@ -333,6 +396,21 @@
    "category": "참고",
    "tags": [
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "f8d5e817777c09d7",
+   "url": "https://github.com/openai/codex/issues/37674",
+   "source": "Hacker News",
+   "title": "Codex on AWS bedrock bug causing 10x charges",
+   "published_at": "2026-08-21T03:17:43+00:00",
+   "collected_at": "2026-08-21T07:51:11.759148+00:00",
+   "title_ko": "AWS 베드록의 코덱스 관련 버그로 10배 과금 발생",
+   "summary_ko": "AWS 베드록에서 구동되는 코덱스 관련 결함으로 인해 사용자에게 요금이 과다 청구되는 이슈가 발생했다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "클라우드"
    ]
   },
   {
@@ -493,6 +571,21 @@
    "category": "참고",
    "tags": [
     "ChatGPT"
+   ]
+  },
+  {
+   "id": "2f7b33868b153a76",
+   "url": "https://openrouter.ai/stealth/ox-alpha",
+   "source": "Hacker News",
+   "title": "Ox Alpha",
+   "published_at": "2026-08-20T23:56:35+00:00",
+   "collected_at": "2026-08-21T07:51:11.759148+00:00",
+   "title_ko": "오픈라우터 신규 스텔스 모델 'Ox Alpha' 화제",
+   "summary_ko": "오픈라우터에 갑자기 추가된 미확인 AI 모델 'Ox Alpha'에 대해 개발자 커뮤니티의 관심이 집중되고 있다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
    ]
   },
   {
@@ -2940,98 +3033,6 @@
    "tags": [
     "Meta",
     "AI 에이전트"
-   ]
-  },
-  {
-   "id": "ee06c03a7db6f908",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214128",
-   "source": "AI타임스",
-   "title": "[게시판] 로브로스, 반도체·자동차 공장에 휴머노이드 9대 공급 등 단신",
-   "published_at": "2026-08-19T17:00:00+00:00",
-   "collected_at": "2026-08-19T08:49:06.518601+00:00",
-   "title_ko": "로브로스, 반도체·자동차 공장에 휴머노이드 공급",
-   "summary_ko": "로브로스가 이족보행 휴머노이드 '이그리스-C'를 제조 및 물류 현장 9개 기관에 공급하며 실증 사업에 나섰다. AI 로봇의 실제 산업 현장 도입이 가속화되고 있음을 보여준다.",
-   "category": "중요",
-   "tags": [
-    "로보틱스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "c1aa687a8bc20600",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vss944/lfm_25_qad/",
-   "source": "r/LocalLLaMA",
-   "title": "LFM 2.5 QAD",
-   "published_at": "2026-08-19T16:59:34+00:00",
-   "collected_at": "2026-08-19T17:34:49.246971+00:00",
-   "title_ko": "Liquid AI, LFM 2.5 모델 GGUF 버전 공개",
-   "summary_ko": "Liquid AI의 최신 소형 언어 모델인 LFM 2.5의 GGUF 양자화 버전이 허깅페이스에 공개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "모델"
-   ]
-  },
-  {
-   "id": "c6979fd97528744a",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214109",
-   "source": "AI타임스",
-   "title": "'추론 칩' 에치드, 기업 가치 29조 돌파...한 달 만에 몸값 2배로 상승",
-   "published_at": "2026-08-19T16:51:43+00:00",
-   "collected_at": "2026-08-19T08:49:06.518601+00:00",
-   "title_ko": "AI 추론 칩 스타트업 '에치드', 기업가치 29조 돌파",
-   "summary_ko": "AI 추론 전용 반도체를 개발하는 에치드가 한 달 만에 가치가 두 배로 뛰며 29조 원을 기록했다. AI 서비스 실행을 위한 추론 칩 수요가 급증하고 있음을 증명한다.",
-   "category": "중요",
-   "tags": [
-    "반도체",
-    "투자"
-   ]
-  },
-  {
-   "id": "e2fe8d0eb1aeee2a",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214110",
-   "source": "AI타임스",
-   "title": "바이두, 실적 악화 악재 속 ‘어니’ 카드로 AI 반격 선언",
-   "published_at": "2026-08-19T16:45:00+00:00",
-   "collected_at": "2026-08-19T09:42:28.649845+00:00",
-   "title_ko": "바이두, 실적 악화 속 어니 중심 AI 반격 선언",
-   "summary_ko": "바이두가 실적 부진과 경쟁 심화 속에서 LLM '어니'의 성능 개선을 통해 AI 경쟁력 회복에 나선다고 밝혔다. 중국 AI 시장에서 뒤처진다는 지적을 극복하기 위한 전략적 대응이다.",
-   "category": "중요",
-   "tags": [
-    "중국 AI",
-    "LLM",
-    "바이두"
-   ]
-  },
-  {
-   "id": "fe6d24c43468d59a",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214125",
-   "source": "AI타임스",
-   "title": "크리어스, 스토리 공모전 대상작 AI 영화로 제작…부산국제영화제 출품 추진",
-   "published_at": "2026-08-19T16:33:16+00:00",
-   "collected_at": "2026-08-19T07:48:05.686047+00:00",
-   "title_ko": "크리어스, 공모전 대상작 AI 영화 제작 및 부산국제영화제 출품 추진",
-   "summary_ko": "AI 콘텐츠 기업 크리어스가 스토리 공모전 대상작을 AI 영화로 제작해 부산국제영화제에 출품한다. AI 기술이 스토리텔링과 영상 제작 영역으로 확산되는 흐름을 보여준다.",
-   "category": "속보",
-   "tags": [
-    "AI 콘텐츠",
-    "영상 제작"
-   ]
-  },
-  {
-   "id": "cc97cf855b768159",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214113",
-   "source": "AI타임스",
-   "title": "펜실베이니아, AI 데이터센터 규제 대열 합류...주지사 행정명령 서명",
-   "published_at": "2026-08-19T16:28:43+00:00",
-   "collected_at": "2026-08-19T07:48:05.686047+00:00",
-   "title_ko": "미국 펜실베이니아주, AI 데이터센터 규제 행정명령 서명",
-   "summary_ko": "펜실베이니아주가 급증하는 AI 데이터센터에 대해 환경·전력 기준을 충족하도록 하는 규제 행정명령을 발효했다. 전력 및 수자원 부족 우려에 따라 주정부 차원의 통제가 강화되는 추세를 보여준다.",
-   "category": "중요",
-   "tags": [
-    "데이터센터",
-    "규제",
-    "반도체"
    ]
   }
  ]
