@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-21T22:34:08.899613+00:00",
+ "updated_at": "2026-08-21T23:32:53.124011+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -16,6 +16,54 @@
    "tags": [
     "투자",
     "규제"
+   ]
+  },
+  {
+   "id": "37d0ec5dad9491f4",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vuvx0t/i_tried_to_do_agenic_coding_with_qwen_38_27b_3bit/",
+   "source": "r/LocalLLaMA",
+   "title": "I tried to do agenic coding with Qwen 3.8 27B 3bit quant on a macbook air m2 24gb. It took 63 hours, but amazingly, the flight simulator worked.",
+   "published_at": "2026-08-21T23:19:10+00:00",
+   "collected_at": "2026-08-21T23:32:36.537550+00:00",
+   "title_ko": "맥북 에어에서 Qwen 모델로 63시간 만에 에이전틱 코딩 성공",
+   "summary_ko": "맥북 에어에서 저전력 양자화된 Qwen 모델을 이용해 63시간의 연산 끝에 웹 기반 비행 시뮬레이터 제작에 성공했습니다. 로컬 환경에서 대형언어모델을 활용한 장기 자율 코딩의 가능성을 보여줍니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "c3928314b15f8ce4",
+   "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+   "source": "TechCrunch",
+   "title": "Anthropic’s Opus 4.6 is a smut-machine",
+   "published_at": "2026-08-21T23:07:25+00:00",
+   "collected_at": "2026-08-21T23:32:15.923402+00:00",
+   "title_ko": "앤스로픽 클로드, 성인물 생성 제한 우회 논란",
+   "summary_ko": "앤스로픽의 최신 Claude 모델이 엄격한 자체 검열 규정에도 불구하고 간단한 우회 테스트를 통해 성인용 콘텐츠를 생성하는 것으로 드러났습니다. AI 모델의 안전 장치 허점에 대한 우려를 낳고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "규제"
+   ]
+  },
+  {
+   "id": "568c94c0a09090c4",
+   "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+   "source": "TechCrunch",
+   "title": "Nvidia partners with data center developer Cloverleaf",
+   "published_at": "2026-08-21T22:37:38+00:00",
+   "collected_at": "2026-08-21T23:32:15.923402+00:00",
+   "title_ko": "엔비디아, 데이터센터 개발사 클로버잎과 파트너십 체결",
+   "summary_ko": "엔비디아가 AI 데이터센터 인프라 확장을 위해 개발사 클로버잎과 손을 잡았습니다. AI 인프라 수요 급증에 대응하기 위한 전략적 투자 행보입니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "반도체",
+    "투자"
    ]
   },
   {
@@ -2981,52 +3029,6 @@
    "category": "참고",
    "tags": [
     "코딩"
-   ]
-  },
-  {
-   "id": "2cabffd64f1e512b",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtcz8t/syzygyresearchmach1additive35bgguf_hugging_face/",
-   "source": "r/LocalLLaMA",
-   "title": "SyzygyResearch/Mach-1-Additive-35B-GGUF · Hugging Face",
-   "published_at": "2026-08-20T07:52:22+00:00",
-   "collected_at": "2026-08-20T08:50:25.275913+00:00",
-   "title_ko": "모바일 및 엣지용 35B MoE 모델 'Mach-1' 공개",
-   "summary_ko": "7GB 크기로 모바일과 저사양 기기에서 구동 가능한 35B MoE 모델과 GGUF 파일이 공개됐다. 소비자용 노트북에서도 빠른 추론 속도를 보여준다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "091287dd591a41e3",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtc4b4/qwen_38_27b_kv_f16_vs_q8_0_are_not_equivalents/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen 3.8 27B KV f16 vs q8_0 are not equivalents",
-   "published_at": "2026-08-20T07:01:44+00:00",
-   "collected_at": "2026-08-20T07:50:24.108485+00:00",
-   "title_ko": "Qwen 모델 KV 캐시 F16과 q8_0 비교 및 성능 차이",
-   "summary_ko": "Qwen 모델 테스트 결과 KV 캐시의 F16과 q8_0이 완전히 동일하지 않으며 긴 문맥 유지력에서 차이가 난다는 분석이다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "모델명"
-   ]
-  },
-  {
-   "id": "027379c08484bed2",
-   "url": "https://openai.com/index/introducing-ai-futures",
-   "source": "OpenAI",
-   "title": "Introducing AI Futures",
-   "published_at": "2026-08-20T07:00:00+00:00",
-   "collected_at": "2026-08-20T20:38:33.752616+00:00",
-   "title_ko": "오픈에이아이, 신규 블로그 'AI Futures' 런칭",
-   "summary_ko": "혁신적인 AI가 권력, 거버넌스, 경제, 개인의 자유에 미칠 영향을 탐구하는 오픈에이아이의 새 블로그 시리즈입니다. AI가 가져올 거대한 사회적 변화를 다룹니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "규제"
    ]
   }
  ]
