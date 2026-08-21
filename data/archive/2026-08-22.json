@@ -125,6 +125,52 @@
   ]
  },
  {
+  "id": "edb44b02bcabb275",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vukppf/whats_the_best_local_ai_harness_for_coding/",
+  "source": "r/LocalLLaMA",
+  "title": "What’s the best local AI harness for coding + general use?",
+  "published_at": "2026-08-21T16:11:56+00:00",
+  "collected_at": "2026-08-21T16:45:34.975946+00:00",
+  "title_ko": "로컬 AI 코딩 및 범용 에이전트 인터페이스 논의",
+  "summary_ko": "오픈소스 LLM을 활용한 로컬 환경에서 코딩과 범용 작업을 수행하기 위한 최적의 인터페이스와 도구 조합에 대한 커뮤니티 의견이 공유되었습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "2b90eef6053740b6",
+  "url": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
+  "source": "Simon Willison",
+  "title": "Stop Making TUIs",
+  "published_at": "2026-08-21T16:07:32+00:00",
+  "collected_at": "2026-08-21T16:45:34.295369+00:00",
+  "title_ko": "AI 에이전트 시대의 TUI 대신 네이티브 GUI 제작",
+  "summary_ko": "코딩 에이전트로 인해 GUI 제작 비용이 대폭 낮아짐에 따라, 텍스트 기반 인터페이스(TUI) 대신 가벼운 네이티브 GUI 앱을 직접 만드는 것이 유리하다는 주장이 제기되었습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "ae88367fad4df446",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vukj3m/fireredaudio_fireredtts3_by_fireredteam/",
+  "source": "r/LocalLLaMA",
+  "title": "FireRedAudio & FireRedTTS3 by FireRedTeam - Huggingface",
+  "published_at": "2026-08-21T16:05:05+00:00",
+  "collected_at": "2026-08-21T16:45:34.975946+00:00",
+  "title_ko": "범용 오디오 언어 모델 FireRedAudio 공개",
+  "summary_ko": "음성 이해와 생성을 모두 지원하는 9B 파라미터 기반의 범용 오디오 언어 모델 FireRedAudio와 FireRedTTS3가 공개되었습니다. 음성 인식 및 제로샷 합성 성능을 제공합니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
   "id": "e58e5946905afb05",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214231",
   "source": "AI타임스",
@@ -137,6 +183,21 @@
   "tags": [
    "AI 에이전트",
    "RAG"
+  ]
+ },
+ {
+  "id": "b0a144892c395d59",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vuke8o/i_benchmarked_ox_alpha_on_swebench_verified_mini/",
+  "source": "r/LocalLLaMA",
+  "title": "I benchmarked Ox Alpha on SWE-bench Verified Mini (50 tasks): 96% resolved. Now I’m skeptical of myself.",
+  "published_at": "2026-08-21T16:00:19+00:00",
+  "collected_at": "2026-08-21T16:45:34.975946+00:00",
+  "title_ko": "SWE-bench에서 96% 기록한 Ox Alpha 모델 등장",
+  "summary_ko": "소프트웨어 엔지니어링 벤치마크인 SWE-bench에서 무료 등급의 Ox Alpha 모델이 96% 해결률을 기록하며 뛰어난 코딩 능력을 입증했습니다.",
+  "category": "중요",
+  "tags": [
+   "코딩",
+   "AI 에이전트"
   ]
  },
  {
@@ -167,6 +228,21 @@
   "category": "참고",
   "tags": [
    "Meta",
+   "규제"
+  ]
+ },
+ {
+  "id": "96b89cf11440fb47",
+  "url": "https://news.hada.io/topic?id=32738",
+  "source": "GeekNews",
+  "title": "AI 기업이 실물 책을 파괴한다 — 너무 늦기 전에 희귀 도서를 스캔하자",
+  "published_at": "2026-08-21T15:32:39+00:00",
+  "collected_at": "2026-08-21T16:45:49.638841+00:00",
+  "title_ko": "AI 학습 데이터 확보를 위한 실물 책 대량 파기 논란",
+  "summary_ko": "Anthropic 등 AI 기업들이 고품질 학습 데이터를 얻기 위해 희귀 도서를 매입해 스캔 후 폐기하고 있다는 사실이 알려져 데이터 수집 윤리 논란이 일고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
    "규제"
   ]
  },
