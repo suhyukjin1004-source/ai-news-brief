@@ -1,8 +1,53 @@
 {
- "updated_at": "2026-08-21T20:34:41.008202+00:00",
+ "updated_at": "2026-08-21T21:33:17.595495+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "1370362d9a1cf369",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+   "source": "The Verge",
+   "title": "Over one million people have clicked LinkedIn’s AI slop button",
+   "published_at": "2026-08-21T21:25:50+00:00",
+   "collected_at": "2026-08-21T21:32:56.192549+00:00",
+   "title_ko": "링크드인 AI 콘텐츠 신고 버튼, 이용자 100만 명 돌파",
+   "summary_ko": "링크드인의 AI 작성물 신고 기능이 출시 이후 큰 호응을 얻으며 100만 건 이상의 클릭을 기록했습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "소셜미디어"
+   ]
+  },
+  {
+   "id": "098f8b573ffa56fa",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vusds8/qwen3827b_different_thinking_levels/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8-27B different thinking levels",
+   "published_at": "2026-08-21T20:55:11+00:00",
+   "collected_at": "2026-08-21T21:33:00.954820+00:00",
+   "title_ko": "Qwen 3.8-27B 추론 레벨별 성능 비교",
+   "summary_ko": "Qwen 3.8-27B 모델의 낮은 추론 설정이 이전 버전의 향상된 모델보다 뛰어난 성능을 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "8fb80904007ede40",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vus4ko/qwen_38_low_and_medium_are_goated/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen 3.8 Low and Medium are goated",
+   "published_at": "2026-08-21T20:45:14+00:00",
+   "collected_at": "2026-08-21T21:33:00.954820+00:00",
+   "title_ko": "Qwen 3.8 저·중강도 모드 벤치마크 호평",
+   "summary_ko": "인공지능 분석 결과 Qwen 3.8의 로우 및 미디엄 모드가 과도한 추론 없이도 뛰어난 벤치마크 점수를 기록했습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
   {
    "id": "2b7b4ffceb6b58cb",
    "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
@@ -111,6 +156,21 @@
    ]
   },
   {
+   "id": "10e3fbb000b426e3",
+   "url": "https://simonwillison.net/2026/Aug/21/llm/",
+   "source": "Simon Willison",
+   "title": "llm 0.32.1",
+   "published_at": "2026-08-21T17:16:13+00:00",
+   "collected_at": "2026-08-21T21:33:00.071143+00:00",
+   "title_ko": "LLM CLI 도구 v0.32.1 패치 배포",
+   "summary_ko": "OpenAI 라이브러리 변경으로 인한 설치 오류를 해결하기 위한 llm 도구의 마이너 업데이트가 배포되었습니다.",
+   "category": "팁",
+   "tags": [
+    "OpenAI",
+    "코딩"
+   ]
+  },
+  {
    "id": "b2d78ecac40b51d6",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214213",
    "source": "AI타임스",
@@ -138,6 +198,21 @@
    "tags": [
     "Google",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "663269e9c4eca463",
+   "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
+   "source": "Simon Willison",
+   "title": "llm-openrouter 0.7",
+   "published_at": "2026-08-21T16:58:19+00:00",
+   "collected_at": "2026-08-21T21:33:00.071143+00:00",
+   "title_ko": "llm-openrouter 0.7 버전 출시",
+   "summary_ko": "오픈라우터 플러그인이 LLM 0.32와 호환되도록 업데이트되어 추론 모델 활용도와 서버사이드 도구 지원이 강화되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
    ]
   },
   {
@@ -2951,82 +3026,6 @@
    "tags": [
     "오픈소스",
     "반도체"
-   ]
-  },
-  {
-   "id": "50d604536506f7fa",
-   "url": "https://news.hada.io/topic?id=32686",
-   "source": "GeekNews",
-   "title": "fx - Unix 셸처럼 가볍게 쓰고 임베드할 수 있는 코딩 에이전트",
-   "published_at": "2026-08-20T00:45:01+00:00",
-   "collected_at": "2026-08-20T03:06:05.598013+00:00",
-   "title_ko": "유닉스 셸 방식의 경량 코딩 에이전트 'fx' 공개",
-   "summary_ko": "Vercel Labs가 Zig로 개발한 초경량 오픈소스 코딩 에이전트로, 복잡한 터미널 IDE 대신 유닉스 셸 같은 단순한 인터페이스를 제공합니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "a7c258220b1fbf91",
-   "url": "https://www.reddit.com/r/singularity/comments/1vt49z0/when_ai_art_has_no_author_study_finds_generated/",
-   "source": "r/singularity",
-   "title": "When AI art has no author: Study finds generated images often can’t be traced to training data",
-   "published_at": "2026-08-20T00:33:04+00:00",
-   "collected_at": "2026-08-20T03:06:03.772398+00:00",
-   "title_ko": "AI 생성 이미지의 학습 데이터 추적 한계 연구 결과",
-   "summary_ko": "AI가 생성한 이미지는 저자 특정이나 학습 데이터 추적이 불가능한 경우가 많다는 연구 결과가 발표되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "39f8abb7f7be6a97",
-   "url": "https://news.hada.io/topic?id=32685",
-   "source": "GeekNews",
-   "title": "OpenSandbox - AI 에이전트를 위한 샌드박스 런타임",
-   "published_at": "2026-08-20T00:30:02+00:00",
-   "collected_at": "2026-08-20T03:06:05.598013+00:00",
-   "title_ko": "AI 에이전트를 위한 샌드박스 런타임 'OpenSandbox' 공개",
-   "summary_ko": "코딩 및 GUI AI 에이전트의 안전한 실행과 평가를 위해 도커와 쿠버네티스 기반의 범용 샌드박스 플랫폼이 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "44881d9d1928a992",
-   "url": "https://news.hada.io/topic?id=32684",
-   "source": "GeekNews",
-   "title": "일반 텍스트 회계가 꽤 멋진 이유",
-   "published_at": "2026-08-20T00:16:53+00:00",
-   "collected_at": "2026-08-20T01:45:37.389931+00:00",
-   "title_ko": "일반 텍스트 회계와 AI 도구의 결합",
-   "summary_ko": "hledger 기반 복식부기 데이터를 Claude Code 등 AI 도구와 연동하여 텍스트 파일로 자산과 지출을 관리하는 방법입니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "Claude"
-   ]
-  },
-  {
-   "id": "519ede47470bb476",
-   "url": "https://news.hada.io/topic?id=32683",
-   "source": "GeekNews",
-   "title": "Kimi Code CLI - 터미널에서 사용하는 오픈소스 코딩 에이전트",
-   "published_at": "2026-08-20T00:15:01+00:00",
-   "collected_at": "2026-08-20T01:45:37.389931+00:00",
-   "title_ko": "Moonshot AI, 터미널 코딩 에이전트 'Kimi Code CLI' 공개",
-   "summary_ko": "Moonshot AI가 터미널에서 코드 수정, 쉘 명령 실행 등을 자율적으로 수행하는 오픈소스 AI 코딩 에이전트를 공개했습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트",
-    "코딩"
    ]
   }
  ]
