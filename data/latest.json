@@ -1,8 +1,39 @@
 {
- "updated_at": "2026-08-21T21:33:17.595495+00:00",
+ "updated_at": "2026-08-21T22:34:08.899613+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "6d3f5103ed4d68e1",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214237",
+   "source": "AI타임스",
+   "title": "정부, ‘미래대응기금’ 신설…초과세수로 AI·첨단기술 집중 투자",
+   "published_at": "2026-08-22T06:02:24+00:00",
+   "collected_at": "2026-08-21T22:34:05.245096+00:00",
+   "title_ko": "정부, '미래대응기금' 신설해 AI·첨단기술 집중 투자",
+   "summary_ko": "정부가 초과 세수를 활용해 미래대응기금을 신설하고 AI 전환 및 첨단기술 주도권 확보에 대규모 투자를 단행합니다.",
+   "category": "중요",
+   "tags": [
+    "투자",
+    "규제"
+   ]
+  },
+  {
+   "id": "78675f85ef072e71",
+   "url": "https://news.hada.io/topic?id=32746",
+   "source": "GeekNews",
+   "title": "AI 에이전트의 제3자 침해 사례를 집계하는 Felony Bench",
+   "published_at": "2026-08-21T21:32:11+00:00",
+   "collected_at": "2026-08-21T22:34:05.571687+00:00",
+   "title_ko": "AI 에이전트의 제3자 침해 사례 집계 플랫폼 '펠로니 벤치'",
+   "summary_ko": "AI 에이전트가 제3자에게 미친 불법 활동이나 부작용 사례를 기업별로 집계하여 평가하는 벤치마크가 공개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "Anthropic",
+    "OpenAI"
+   ]
+  },
   {
    "id": "1370362d9a1cf369",
    "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
@@ -46,6 +77,21 @@
    "tags": [
     "오픈소스",
     "LLM"
+   ]
+  },
+  {
+   "id": "e598461324bcd378",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vuqwd8/strix_halo_8060s_gfx1151_qwen3827b_q8_and_q6_ud/",
+   "source": "r/LocalLLaMA",
+   "title": "Strix Halo (8060S / gfx1151), Qwen-3.8-27B @ Q8 and Q6 UD v3, up to 256K ctx, llama.cpp, DFlash2, vision, real workloads quality and steady performances, optimized recipes, ...",
+   "published_at": "2026-08-21T19:58:02+00:00",
+   "collected_at": "2026-08-21T22:33:58.356037+00:00",
+   "title_ko": "로컬 LLM 구동을 위한 최적화 및 API 엔드포인트 구축 가이드",
+   "summary_ko": "하드웨어 환경에서 Qwen 등 오픈소스 모델을 로컬로 구동하고 최적화하여 API로 활용하는 가이드와 레시피가 공유되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
    ]
   },
   {
@@ -263,6 +309,20 @@
    ]
   },
   {
+   "id": "9ff21a2dc4d1b499",
+   "url": "https://www.reddit.com/r/singularity/comments/1vulofb/glm53_max_takes_2nd_place_on_the_short_story/",
+   "source": "r/singularity",
+   "title": "GLM-5.3 (max) takes 2nd place on the Short Story Creative Writing Benchmark!",
+   "published_at": "2026-08-21T16:47:19+00:00",
+   "collected_at": "2026-08-21T22:34:03.166711+00:00",
+   "title_ko": "GLM-5.3 맥스, 창의적 글쓰기 벤치마크 2위 차지",
+   "summary_ko": "새로운 LLM인 GLM-5.3 맥스가 까다로운 단편 소설 창작 평가에서 뛰어난 서사 구조 능력을 보여주며 상위권에 올랐습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
    "id": "e9a7b251f4325416",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214219",
    "source": "AI타임스",
@@ -399,6 +459,22 @@
     "반도체",
     "로보틱스",
     "NVIDIA"
+   ]
+  },
+  {
+   "id": "07770f3032d96caf",
+   "url": "https://www.reddit.com/r/singularity/comments/1vujrdg/open_weight_progression_with_no_frontier_release/",
+   "source": "r/singularity",
+   "title": "Open weight progression with no frontier release",
+   "published_at": "2026-08-21T15:36:34+00:00",
+   "collected_at": "2026-08-21T22:34:03.166711+00:00",
+   "title_ko": "최신 프론티어 모델 성능 향상과 개발자 생산성 변화",
+   "summary_ko": "최신 AI 모델들의 성능 비약으로 소프트웨어 개발 생산성이 극대화된 한편, 오픈소스 추격에 대한 업계의 전략적 변화가 논의되고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "Anthropic",
+    "GPT"
    ]
   },
   {
@@ -584,6 +660,21 @@
    ]
   },
   {
+   "id": "6cb57ff6f164d403",
+   "url": "https://www.reddit.com/r/singularity/comments/1vuhlhn/nvidias_coding_agent_scored_100_on_arcagi3/",
+   "source": "r/singularity",
+   "title": "NVIDIA’s coding agent scored 100% on ARC-AGI-3 interactive reasoning benchmark",
+   "published_at": "2026-08-21T14:15:56+00:00",
+   "collected_at": "2026-08-21T22:34:03.166711+00:00",
+   "title_ko": "엔비디아 코딩 에이전트, ARC-AGI-3 추론 벤치마크 100점 달성",
+   "summary_ko": "엔비디아의 AI 코딩 에이전트가 인터랙티브 추론 능력 측정 벤치마크에서 만점을 기록하며 뛰어난 문제 해결력을 입증했습니다.",
+   "category": "속보",
+   "tags": [
+    "NVIDIA",
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "94293cc4b5d631b8",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vuhl5a/magicquant_qwen38_27b_ggufs_with_unsloth_v3/",
    "source": "r/LocalLLaMA",
@@ -596,6 +687,20 @@
    "tags": [
     "오픈소스",
     "LLM"
+   ]
+  },
+  {
+   "id": "67fdf84118d5a0a9",
+   "url": "https://www.reddit.com/r/singularity/comments/1vuhk5b/at_wrc26_galbot_showcased_its_new_agile_humanoid/",
+   "source": "r/singularity",
+   "title": "At WRC'26 Galbot showcased its new agile humanoid robot",
+   "published_at": "2026-08-21T14:14:29+00:00",
+   "collected_at": "2026-08-21T22:34:03.166711+00:00",
+   "title_ko": "갈봇, WRC'26서 신형 휴머노이드 로봇 공개",
+   "summary_ko": "로보틱스 기업 갈봇이 WRC'26 행사에서 향상된 민첩성을 갖춘 새로운 이족보행 휴머노이드 로봇을 선보였습니다.",
+   "category": "속보",
+   "tags": [
+    "로보틱스"
    ]
   },
   {
@@ -2922,110 +3027,6 @@
    "tags": [
     "OpenAI",
     "규제"
-   ]
-  },
-  {
-   "id": "fbb400bac8f26bf9",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtc0z7/3_days_benchmarking_most_llamacpp_flags_on_my/",
-   "source": "r/LocalLLaMA",
-   "title": "3 days benchmarking most llama.cpp flags on my weird 40gb vram laptop + tb4 egpu setup. Got +70% generation, +40% prefill, 60k more context, and filed a bug in llama around MTP. What I learned.",
-   "published_at": "2026-08-20T06:56:49+00:00",
-   "collected_at": "2026-08-20T07:50:24.108485+00:00",
-   "title_ko": "llama.cpp 최적화를 통한 LLM 성능 대폭 향상 팁",
-   "summary_ko": "다양한 llama.cpp 플래그 벤치마크를 통해 특수 하드웨어 환경에서 생성 속도와 컨텍스트 길이를 극대화한 실무 팁이다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "1f4b292878dd3514",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtboss/spiderman_brand_new_day_does_peter_self_host_his/",
-   "source": "r/LocalLLaMA",
-   "title": "Spider-man: Brand New Day, does Peter self host his AI? (Spoilers)",
-   "published_at": "2026-08-20T06:37:03+00:00",
-   "collected_at": "2026-08-20T06:59:35.676285+00:00",
-   "title_ko": "스파이더맨 속 에이전틱 AI 시스템 구현에 대한 고찰",
-   "summary_ko": "영화 속 에이전트 시스템이 현실의 LLM 기반 에이전트와 유사하다는 점에 착안해 주인공이 자체 호스팅 모델을 사용하는지 다루는 팬 커뮤니티 토론이다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "78bd15a7da42fef3",
-   "url": "https://news.hada.io/article/code-outruns-review",
-   "source": "GeekNews",
-   "title": "코드는 다 읽을 수 없고, 코드 리뷰가 맡아온 책임은 사라지지 않는다",
-   "published_at": "2026-08-20T05:26:11+00:00",
-   "collected_at": "2026-08-20T06:59:50.628494+00:00",
-   "title_ko": "AI 시대의 가속화된 코드 생성과 코드 리뷰의 역할 변화",
-   "summary_ko": "AI로 인해 코드가 작성되는 속도가 사람이 검토하는 속도보다 빨라지면서 소프트웨어 개발에서 코드 리뷰가 직면한 근본적인 변화를 다룬다.",
-   "category": "참고",
-   "tags": [
-    "코딩"
-   ]
-  },
-  {
-   "id": "407db216fbab8df6",
-   "url": "https://news.hada.io/topic?id=32689",
-   "source": "GeekNews",
-   "title": "아직도 커밋 메시지를 직접 작성하는 이유",
-   "published_at": "2026-08-20T05:02:14+00:00",
-   "collected_at": "2026-08-20T06:59:50.628494+00:00",
-   "title_ko": "LLM 시대에도 직접 커밋 메시지를 작성해야 하는 이유",
-   "summary_ko": "LLM이 커밋 메시지를 자동 생성할 수 있지만, 직접 작성하는 과정은 코드 변경의 맥락과 트레이드오프를 깊이 이해하는 데 가치가 있습니다.",
-   "category": "팁",
-   "tags": [
-    "코딩",
-    "LLM"
-   ]
-  },
-  {
-   "id": "35074639d839b11e",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vt7l3e/qwen3827b_took_a_serious_hit_to_knowledge_vs_36/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.8-27B took a serious hit to *knowledge* vs 3.6",
-   "published_at": "2026-08-20T03:02:12+00:00",
-   "collected_at": "2026-08-20T04:46:40.932352+00:00",
-   "title_ko": "Qwen 3.8-27B, 이전 버전 대비 지식 정확도 저하 논란",
-   "summary_ko": "새로 출시된 Qwen 3.8-27B 모델이 특정 트비아 및 지식 벤치마크에서 이전 버전인 Qwen 3.6보다 부진한 모습을 보인다는 사용자 피드백이 공유됐다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "모델명"
-   ]
-  },
-  {
-   "id": "5a3e62559c6bd779",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vt78xd/qwen3827b_has_the_highest_level_of_agency_ive/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.8-27b has the highest level of \"agency\" I've ever seen in a local model",
-   "published_at": "2026-08-20T02:45:59+00:00",
-   "collected_at": "2026-08-20T03:05:50.692093+00:00",
-   "title_ko": "Qwen 로컬 모델의 뛰어난 자율 에이전트 성능 화제",
-   "summary_ko": "사용자의 단일 프롬프트로 복잡한 웹사이트에서 시간표를 조회하고 80회의 도구 호출을 수행하는 등 높은 자율성을 보였습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "89326853fae24fb2",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vt6hwc/ornith1535ba3b_q4_running_60tks_on_4070ti/",
-   "source": "r/LocalLLaMA",
-   "title": "Ornith-1.5-35B-A3B Q4 running 60tk/s on 4070Ti.",
-   "published_at": "2026-08-20T02:11:39+00:00",
-   "collected_at": "2026-08-20T04:46:40.932352+00:00",
-   "title_ko": "RTX 4070 Ti에서 구동하는 35B MoE 모델 벤치마크",
-   "summary_ko": "한 하드웨어 사용자가 데스크탑 환경에서 35B MoE 모델인 Ornith-1.5를 VRAM과 시스템 램에 분산 오프로딩하여 효율적으로 구동한 후기를 공유했다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체"
    ]
   }
  ]
