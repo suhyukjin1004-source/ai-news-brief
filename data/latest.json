@@ -1,8 +1,83 @@
 {
- "updated_at": "2026-08-21T01:51:36.505491+00:00",
+ "updated_at": "2026-08-21T03:11:30.090302+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "9759208fdac3bf45",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214196",
+   "source": "AI타임스",
+   "title": "바이브컴퍼니 “온톨로지 RAG로 기업 문서·정보 등록 자동화”",
+   "published_at": "2026-08-21T11:57:38+00:00",
+   "collected_at": "2026-08-21T03:11:25.461641+00:00",
+   "title_ko": "바이브컴퍼니, 온톨로지 RAG 기반 기업 지식관리 시스템 고도화",
+   "summary_ko": "바이브컴퍼니가 AI 지식관리시스템에 온톨로지 기반 지식 등록 자동화 및 상품 비교 기능을 탑재했습니다. 복잡한 조건의 기업 문서 검색 한계를 극복하기 위해 도입되었습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "RAG"
+   ]
+  },
+  {
+   "id": "279c68e4baeea5fd",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214198",
+   "source": "AI타임스",
+   "title": "카카오, 두 개로 나뉜다…“카카오AI·카카오X로 인적분할해 AI 혁신 가속”",
+   "published_at": "2026-08-21T11:56:11+00:00",
+   "collected_at": "2026-08-21T03:11:25.461641+00:00",
+   "title_ko": "카카오, AI 혁신 가속 위해 카카오AI·카카오X로 인적분할",
+   "summary_ko": "카카오가 이사회에서 카카오AI와 카카오X로의 인적분할을 결의했습니다. AI 시대에 맞춘 빠른 의사결정과 실행 속도를 확보하기 위한 조치입니다.",
+   "category": "중요",
+   "tags": [
+    "투자",
+    "규제"
+   ]
+  },
+  {
+   "id": "d62f30fda9719dee",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214194",
+   "source": "AI타임스",
+   "title": "\"AI로 만나는 아기상어\"...셀렉트스타, '다투모'로 대화 안전성 검증",
+   "published_at": "2026-08-21T11:53:30+00:00",
+   "collected_at": "2026-08-21T03:11:25.461641+00:00",
+   "title_ko": "셀렉트스타, AI 인터랙티브 전시 '아기상어' 대화 안전성 검증",
+   "summary_ko": "셀렉트스타가 AI 신뢰성 평가 플랫폼 '다투모'를 통해 더핑크퐁컴퍼니의 아기상어 AI 전시 대화 안전성과 다국어 품질을 검증했습니다. 캐릭터 세계관 유지와 부적절한 답변 방지를 위해 활용되었습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "2b7a927a77e6c220",
+   "url": "https://news.hada.io/topic?id=32716",
+   "source": "GeekNews",
+   "title": "기능 요청: AGENTS.md 지원",
+   "published_at": "2026-08-21T02:33:15+00:00",
+   "collected_at": "2026-08-21T03:11:27.206264+00:00",
+   "title_ko": "Claude Code에 AGENTS.md 공통 프로젝트 지침 파일 지원 요청",
+   "summary_ko": "Claude Code가 여러 코딩 에이전트의 공통 지침 파일인 AGENTS.md를 읽어 코드베이스 맥락을 활용할 수 있게 해달라는 기능 요청입니다. 개발 편의성과 호환성 향상을 목표로 합니다.",
+   "category": "팁",
+   "tags": [
+    "Claude",
+    "코딩",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "d8e50a8405f4f18f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vu34b1/make_jensen_huang_sound_like_anyone_new_streaming/",
+   "source": "r/LocalLLaMA",
+   "title": "Make Jensen Huang Sound Like Anyone. New Streaming Voice Conversion Model MeanVC2 Released!",
+   "published_at": "2026-08-21T02:03:29+00:00",
+   "collected_at": "2026-08-21T03:11:12.156832+00:00",
+   "title_ko": "실시간 음성 변환 모델 MeanVC2 공개",
+   "summary_ko": "교차 성별 및 교차 언어 음성 변환을 지원하는 새로운 오픈소스 모델 MeanVC2가 출시되었습니다. CPU 환경에서도 실시간 구동이 가능하여 음성 AI 활용도가 높아질 것으로 기대됩니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "음성AI"
+   ]
+  },
   {
    "id": "13b746abdbe80881",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vu1e3u/i_did_it_im_free_its_been_7_hours_since_i_used/",
@@ -2251,6 +2326,21 @@
    ]
   },
   {
+   "id": "ef913e9fdabc01a8",
+   "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+   "source": "OpenAI",
+   "title": "Offering Zero Data Retention for frontier models",
+   "published_at": "2026-08-19T19:00:00+00:00",
+   "collected_at": "2026-08-21T03:11:08.068575+00:00",
+   "title_ko": "OpenAI, API 고객 대상 제로 데이터 리텐션 정책 재확인",
+   "summary_ko": "OpenAI가 적격 API 고객을 위한 제로 데이터 리텐션(Zero Data Retention) 정책을 재확인하고, 프라이버시를 보호하면서도 안전성을 높이는 프라이빗 안전 처리 기능을 예고했습니다. 기업 고객의 데이터 보안 우려를 해소하기 위한 조치입니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "보안"
+   ]
+  },
+  {
    "id": "a2e455278fc2c8bd",
    "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
    "source": "The Verge",
@@ -2945,95 +3035,6 @@
    "tags": [
     "AI 에이전트",
     "투자"
-   ]
-  },
-  {
-   "id": "f4edabb712ff29db",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsnllv/ornith_15_9b_dense_and_35b397b_moes/",
-   "source": "r/LocalLLaMA",
-   "title": "Ornith 1.5: 9B dense and 35B/397B MoEs",
-   "published_at": "2026-08-19T14:12:25+00:00",
-   "collected_at": "2026-08-19T14:44:06.027818+00:00",
-   "title_ko": "오르니스 1.5 오픈소스 언어모델 시리즈 공개",
-   "summary_ko": "9B 밀집 모델과 35B, 397B 규모의 혼합전문가(MoE) 모델로 구성된 오르니스 1.5가 허깅페이스에 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "모델명"
-   ]
-  },
-  {
-   "id": "3a0abca930dbe44e",
-   "url": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
-   "source": "TechCrunch",
-   "title": "Calendly throws its hat into meeting note-taker circus",
-   "published_at": "2026-08-19T14:09:39+00:00",
-   "collected_at": "2026-08-19T14:44:00.515866+00:00",
-   "title_ko": "캘들리, AI 회의록 작성 및 일정 예약 비서 출시",
-   "summary_ko": "일정 관리 서비스 캘들리가 회의록 작성 기능과 AI 예약 비서 '칼리'를 선보이며 관련 시장에 진입했습니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "52956a1503a8eb5d",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsn2xw/we_have_q38_35b_at_home_3x_new_ornith_15_released/",
-   "source": "r/LocalLLaMA",
-   "title": "We have Q3.8 35B at home: 3x new Ornith 1.5 released",
-   "published_at": "2026-08-19T13:53:01+00:00",
-   "collected_at": "2026-08-19T14:44:06.027818+00:00",
-   "title_ko": "오르니스 1.5 신규 모델 및 GGUF 포맷 출시",
-   "summary_ko": "오르니스 1.5의 다양한 크기 모델과 로컬 실행을 위한 GGUF 포맷이 허깅페이스를 통해 배포되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "모델명"
-   ]
-  },
-  {
-   "id": "22e214c525696116",
-   "url": "https://huggingface.co/blog/LiquidAI/qad",
-   "source": "Hugging Face",
-   "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
-   "published_at": "2026-08-19T13:48:49+00:00",
-   "collected_at": "2026-08-19T13:52:53.543639+00:00",
-   "title_ko": "양자화 지식 증류 기반 LFM2.5 Q4_0 체크포인트 공개",
-   "summary_ko": "LFM2.5 모델의 양자화 인식 지식 증류(QAD) 체크포인트가 공개되어 모델 경량화와 효율성 향상에 기여합니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "모델"
-   ]
-  },
-  {
-   "id": "814cfa2cefef465d",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsmdni/updated_unslothqwen3827bgguf_hugging_face/",
-   "source": "r/LocalLLaMA",
-   "title": "updated unsloth/Qwen3.8-27B-GGUF · Hugging Face",
-   "published_at": "2026-08-19T13:25:18+00:00",
-   "collected_at": "2026-08-19T13:53:14.370087+00:00",
-   "title_ko": "Unsloth, Qwen3.8-27B-GGUF 파일 업데이트",
-   "summary_ko": "Unsloth에서 Qwen3.8-27B 모델의 GGUF 포맷 파일을 최신 버전으로 업데이트했습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "3cd55df08b12b710",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsm8b2/tencentarcscope_hugging_face/",
-   "source": "r/LocalLLaMA",
-   "title": "TencentARC/SCoPE · Hugging Face",
-   "published_at": "2026-08-19T13:19:41+00:00",
-   "collected_at": "2026-08-19T14:44:06.027818+00:00",
-   "title_ko": "텐센트 ARC, 비디오 생성 위한 'SCoPE' 인코딩 공개",
-   "summary_ko": "비디오 확산 모델의 카메라 움직임 제어를 돕는 'SCoPE' 위치 인코딩 기술이 공개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "영상 생성"
    ]
   }
  ]
