@@ -1,8 +1,40 @@
 {
- "updated_at": "2026-08-22T03:02:36.357251+00:00",
+ "updated_at": "2026-08-22T03:51:31.876827+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "5b856935e3e41a91",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214247",
+   "source": "AI타임스",
+   "title": "앤트로픽, 구글 TPU 주역 영입…자체 AI 칩 개발 가속",
+   "published_at": "2026-08-22T12:24:15+00:00",
+   "collected_at": "2026-08-22T03:51:29.029144+00:00",
+   "title_ko": "앤트로픽, 구글 TPU 주역 영입해 자체 AI 칩 개발 가속",
+   "summary_ko": "앤트로픽이 구글 TPU 개발을 주도했던 아미르 살렉을 영입하며 자체 AI 반도체 개발에 속도를 내고 있습니다. 인프라 경쟁력을 강화하여 AI 모델 학습 및 추론 비용을 절감하려는 전략입니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "Google",
+    "반도체"
+   ]
+  },
+  {
+   "id": "490cc0a414298dc4",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214244",
+   "source": "AI타임스",
+   "title": "엔비디아, 데이터센터 개발사 클로버리프 지분 투자… \"전력·부지부터 잡는다\"",
+   "published_at": "2026-08-22T11:28:05+00:00",
+   "collected_at": "2026-08-22T03:51:29.029144+00:00",
+   "title_ko": "엔비디아, 데이터센터 개발사 클로버리프 지분 투자",
+   "summary_ko": "엔비디아가 AI 데이터센터 인프라 개발업체 클로버리프에 투자하며 전력과 부지 확보에 나섰습니다. 급증하는 AI 연산 수요에 맞춰 인프라 단계부터 주도권을 잡으려는 행보입니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "반도체",
+    "투자"
+   ]
+  },
   {
    "id": "eba7c7680328be84",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214242",
@@ -108,6 +140,21 @@
    "tags": [
     "오픈소스",
     "코딩"
+   ]
+  },
+  {
+   "id": "c7b5561c7bd34a79",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vuykgj/how_to_give_a_local_llmagent_access_to_a_real_web/",
+   "source": "r/LocalLLaMA",
+   "title": "How to give a local LLM/agent access to a \"real\" web browser",
+   "published_at": "2026-08-22T01:17:29+00:00",
+   "collected_at": "2026-08-22T03:51:15.825095+00:00",
+   "title_ko": "로컬 LLM 에이전트에 실제 웹 브라우저 연동 방법",
+   "summary_ko": "스크래핑 방지 우회를 위해 로컬 LLM 에이전트가 헤드리스 방식 대신 실제 웹 브라우저를 직접 구동하도록 설정하는 방법에 대한 개발자 커뮤니티의 논의입니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
    ]
   },
   {
@@ -2984,51 +3031,6 @@
    "tags": [
     "LLM",
     "중국 AI"
-   ]
-  },
-  {
-   "id": "1d71add133bf5973",
-   "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
-   "source": "Hacker News",
-   "title": "AI didn't erase the junior engineer's value, it increased it it",
-   "published_at": "2026-08-20T11:42:20+00:00",
-   "collected_at": "2026-08-20T15:42:26.159277+00:00",
-   "title_ko": "AI 시대 주니어 엔지니어의 역할과 가치 재조명",
-   "summary_ko": "AI 도입이 주니어 엔지니어의 가치를 지우는 것이 아니라 오히려 높이고 있다는 분석입니다. 실무에서의 AI 활용 능력이 중요해지고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "62569bfcb04570d2",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vth1c3/i_just_built_a_mini_kimik3_from_scratch_under_250/",
-   "source": "r/LocalLLaMA",
-   "title": "I just built a mini Kimi-K3 from Scratch under 250$. Already beats GPT-2 (124M)!",
-   "published_at": "2026-08-20T11:38:22+00:00",
-   "collected_at": "2026-08-20T13:04:47.266242+00:00",
-   "title_ko": "250달러로 GPT-2 성능 뛰어넘는 미니 Kimi-K3 구현",
-   "summary_ko": "개발자가 250달러의 비용으로 Kimi K3의 아키텍처를 차용한 10억 파라미터 규모의 미니 모델을 직접 사전 학습했습니다. 대형 모델의 아키텍처를 저비용으로 재현해 주목받고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "9498057ce402f5ff",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtgyzf/draft_open_pr_avx2_speed_up_large_batch_size/",
-   "source": "r/LocalLLaMA",
-   "title": "[Draft - Open PR] AVX2: Speed up large batch size prompt processing of IQ models by bartowski1182 · Pull Request #27402 · ggml-org/llama.cpp",
-   "published_at": "2026-08-20T11:35:10+00:00",
-   "collected_at": "2026-08-20T13:04:47.266242+00:00",
-   "title_ko": "llama.cpp, 대형 배치 크기 IQ 모델 처리 속도 개선 PR 등록",
-   "summary_ko": "llama.cpp 프로젝트에 CPU 환경에서 IQ 양자화 모델의 대규모 배치 프롬프트 처리 속도를 대폭 끌어올리는 AVX2 최적화 Pull Request가 등록되었습니다. 로컬 LLM 구동 성능 최적화에 기여합니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM"
    ]
   }
  ]
