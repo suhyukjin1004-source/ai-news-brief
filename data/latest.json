@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-22T17:32:21.056922+00:00",
+ "updated_at": "2026-08-22T18:42:37.146875+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -17,6 +17,68 @@
     "AI 에이전트",
     "보안",
     "OpenAI"
+   ]
+  },
+  {
+   "id": "746d45a6da6b4d4f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvjxg1/i_forked_ninfer_3090_and_converted_it_to_run_on/",
+   "source": "r/LocalLLaMA",
+   "title": "I forked Ninfer 3090 and converted it to run on the CMP170HX - doubled my Qwen3.6-35B from llama.cpp",
+   "published_at": "2026-08-22T18:27:18+00:00",
+   "collected_at": "2026-08-22T18:42:20.490017+00:00",
+   "title_ko": "CMP170HX에서 Qwen 구동 성능을 두 배로 높인 Ninfer 포크 공개",
+   "summary_ko": "개발자가 Ninfer를 채굴용 하드웨어인 CMP170HX에 맞게 포크하여 로컬 환경에서 Qwen 모델의 실행 속도를 대폭 끌어올렸습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체",
+    "로컬LLM"
+   ]
+  },
+  {
+   "id": "43aa0c036180460e",
+   "url": "https://simonwillison.net/2026/Aug/22/llm/",
+   "source": "Simon Willison",
+   "title": "llm 0.33",
+   "published_at": "2026-08-22T17:01:16+00:00",
+   "collected_at": "2026-08-22T18:42:19.734944+00:00",
+   "title_ko": "LLM CLI 도구 'llm 0.33' 버전 출시",
+   "summary_ko": "OpenAI Python 라이브러리 3.x 업그레이드와 임베딩 키 처리 기능 등이 추가된 llm 0.33 버전이 릴리즈되었습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "304760d427667b9e",
+   "url": "https://twitter.com/argofowl/status/2091150597374537729",
+   "source": "Hacker News",
+   "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+   "published_at": "2026-08-22T16:58:49+00:00",
+   "collected_at": "2026-08-22T18:42:19.564042+00:00",
+   "title_ko": "Anthropic, Claude Code에서 연산 수준 A/B 테스트 진행 포착",
+   "summary_ko": "앤트로픽이 개발자 도구인 Claude Code에서 추론 및 연산 노력을 조절하는 A/B 테스트를 진행 중인 정황이 포착되었습니다.",
+   "category": "속보",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "40a6b0e5a87dbe44",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvh7b1/who_is_leading_the_pack_for_best_llm_gateway_2k26/",
+   "source": "r/LocalLLaMA",
+   "title": "Who is leading the pack for best llm gateway 2k26?",
+   "published_at": "2026-08-22T16:41:41+00:00",
+   "collected_at": "2026-08-22T18:42:20.490017+00:00",
+   "title_ko": "기업용 LLM 게이트웨이 트렌드 및 추천 논의",
+   "summary_ko": "프롬프트 캐싱, 비용 산정, 최신 추론 모델을 지원하는 엔터프라이즈 급 LLM 게이트웨이 솔루션에 대한 커뮤니티 논의가 활발합니다.",
+   "category": "참고",
+   "tags": [
+    "LLM",
+    "인프라"
    ]
   },
   {
@@ -142,6 +204,20 @@
     "OpenRouter",
     "코딩",
     "AI"
+   ]
+  },
+  {
+   "id": "32dc5360b273728e",
+   "url": "https://quantumi.sh/public/labs.html",
+   "source": "Hacker News",
+   "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+   "published_at": "2026-08-22T14:54:07+00:00",
+   "collected_at": "2026-08-22T18:42:19.094540+00:00",
+   "title_ko": "유사한 이름을 가진 AI 스타트업들 조명",
+   "summary_ko": "ElevenLabs, TwelveLabs 등 비슷한 네이밍을 가진 음성 및 영상 생성 AI 스타트업들의 동향을 다루고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "스타트업"
    ]
   },
   {
@@ -2982,84 +3058,6 @@
     "Qwen",
     "오픈소스",
     "모델 병합"
-   ]
-  },
-  {
-   "id": "83bdb87ab15bc4a5",
-   "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
-   "source": "TechCrunch",
-   "title": "Ramp launches its own AI model router, called Router",
-   "published_at": "2026-08-20T16:46:00+00:00",
-   "collected_at": "2026-08-20T17:38:29.439359+00:00",
-   "title_ko": "램프, 자체 AI 모델 라우팅 서비스 '라우터' 출시",
-   "summary_ko": "핀테크 기업 램프가 API를 통해 다양한 대형 언어 모델을 손쉽게 전환하며 사용할 수 있는 라우터 서비스를 선보였습니다.",
-   "category": "속보",
-   "tags": [
-    "AI 모델",
-    "API",
-    "LLM"
-   ]
-  },
-  {
-   "id": "f765867c9c98db08",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtoqr9/getting_better_at_coding_doesnt_make_a_model/",
-   "source": "r/LocalLLaMA",
-   "title": "Getting better at coding doesn't make a model better at everything else",
-   "published_at": "2026-08-20T16:43:50+00:00",
-   "collected_at": "2026-08-20T17:38:48.799289+00:00",
-   "title_ko": "코딩 능력 향상이 곧 전반적인 LLM 성능 향상으로 이어지지 않아",
-   "summary_ko": "코딩 및 에이전트 작업 능력이 뛰어나다고 해서 창의적 글쓰기나 일반 추론 등 다른 영역의 성능 저하가 자동으로 해결되지는 않는다는 지적입니다.",
-   "category": "참고",
-   "tags": [
-    "LLM",
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "0e8e65daf6ae47c7",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214169",
-   "source": "AI타임스",
-   "title": "메타, 맥OS 전용 AI 데스크톱 앱 정식 출시...‘슈퍼 앱’ 시장 추격전",
-   "published_at": "2026-08-20T16:33:11+00:00",
-   "collected_at": "2026-08-20T08:50:38.592779+00:00",
-   "title_ko": "메타, 맥OS 전용 메타 AI 데스크톱 앱 정식 출시",
-   "summary_ko": "메타가 맥OS용 독립 데스크톱 앱을 출시하며 AI 슈퍼 앱 시장 경쟁에 가세했다. 화면 공유 등 데스크톱 환경과 연동되는 다양한 컨텍스트 기능을 제공한다.",
-   "category": "속보",
-   "tags": [
-    "Meta",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "1f973eea81f1eeb6",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214172",
-   "source": "AI타임스",
-   "title": "독파모 결과 추가 공개에도 '세부 내역 미흡' 논란",
-   "published_at": "2026-08-20T16:16:48+00:00",
-   "collected_at": "2026-08-20T07:50:38.597199+00:00",
-   "title_ko": "국내 독자 AI 모델 2차 평가, 불투명성 논란 지속",
-   "summary_ko": "과기부의 독자 AI 파운데이션 모델 개발 프로젝트 2차 평가 결과 공개에도 세부 지표가 베일에 싸여 있어 업계의 불만이 이어지고 있다.",
-   "category": "중요",
-   "tags": [
-    "규제",
-    "AI 파운데이션 모델"
-   ]
-  },
-  {
-   "id": "4e8a89f36c6f24ec",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtnuuk/claude_sonnet_46_was_really_good_at_estimating/",
-   "source": "r/LocalLLaMA",
-   "title": "Claude sonnet 4.6 was really good at estimating the future qwen 3.8 27b performance",
-   "published_at": "2026-08-20T16:11:44+00:00",
-   "collected_at": "2026-08-20T16:45:03.676983+00:00",
-   "title_ko": "Claude를 활용한 차세대 LLM 성능 예측 사례",
-   "summary_ko": "클로드(Claude)가 미래의 미출시 모델 성능과 벤치마크 수치를 정확하게 예측해 주목받았습니다. LLM의 추론 및 외삽 능력을 보여주는 흥미로운 사례입니다.",
-   "category": "참고",
-   "tags": [
-    "Anthropic",
-    "Claude",
-    "LLM"
    ]
   }
  ]

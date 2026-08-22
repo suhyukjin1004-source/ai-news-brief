@@ -16,6 +16,68 @@
   ]
  },
  {
+  "id": "746d45a6da6b4d4f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvjxg1/i_forked_ninfer_3090_and_converted_it_to_run_on/",
+  "source": "r/LocalLLaMA",
+  "title": "I forked Ninfer 3090 and converted it to run on the CMP170HX - doubled my Qwen3.6-35B from llama.cpp",
+  "published_at": "2026-08-22T18:27:18+00:00",
+  "collected_at": "2026-08-22T18:42:20.490017+00:00",
+  "title_ko": "CMP170HX에서 Qwen 구동 성능을 두 배로 높인 Ninfer 포크 공개",
+  "summary_ko": "개발자가 Ninfer를 채굴용 하드웨어인 CMP170HX에 맞게 포크하여 로컬 환경에서 Qwen 모델의 실행 속도를 대폭 끌어올렸습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체",
+   "로컬LLM"
+  ]
+ },
+ {
+  "id": "43aa0c036180460e",
+  "url": "https://simonwillison.net/2026/Aug/22/llm/",
+  "source": "Simon Willison",
+  "title": "llm 0.33",
+  "published_at": "2026-08-22T17:01:16+00:00",
+  "collected_at": "2026-08-22T18:42:19.734944+00:00",
+  "title_ko": "LLM CLI 도구 'llm 0.33' 버전 출시",
+  "summary_ko": "OpenAI Python 라이브러리 3.x 업그레이드와 임베딩 키 처리 기능 등이 추가된 llm 0.33 버전이 릴리즈되었습니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "304760d427667b9e",
+  "url": "https://twitter.com/argofowl/status/2091150597374537729",
+  "source": "Hacker News",
+  "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+  "published_at": "2026-08-22T16:58:49+00:00",
+  "collected_at": "2026-08-22T18:42:19.564042+00:00",
+  "title_ko": "Anthropic, Claude Code에서 연산 수준 A/B 테스트 진행 포착",
+  "summary_ko": "앤트로픽이 개발자 도구인 Claude Code에서 추론 및 연산 노력을 조절하는 A/B 테스트를 진행 중인 정황이 포착되었습니다.",
+  "category": "속보",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "40a6b0e5a87dbe44",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvh7b1/who_is_leading_the_pack_for_best_llm_gateway_2k26/",
+  "source": "r/LocalLLaMA",
+  "title": "Who is leading the pack for best llm gateway 2k26?",
+  "published_at": "2026-08-22T16:41:41+00:00",
+  "collected_at": "2026-08-22T18:42:20.490017+00:00",
+  "title_ko": "기업용 LLM 게이트웨이 트렌드 및 추천 논의",
+  "summary_ko": "프롬프트 캐싱, 비용 산정, 최신 추론 모델을 지원하는 엔터프라이즈 급 LLM 게이트웨이 솔루션에 대한 커뮤니티 논의가 활발합니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "인프라"
+  ]
+ },
+ {
   "id": "d51e721fb7e8c21a",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvgyvk/does_anyone_actually_respect_benchmarks/",
   "source": "r/LocalLLaMA",
