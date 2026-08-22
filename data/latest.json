@@ -1,8 +1,55 @@
 {
- "updated_at": "2026-08-22T01:44:21.187800+00:00",
+ "updated_at": "2026-08-22T03:02:36.357251+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "eba7c7680328be84",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214242",
+   "source": "AI타임스",
+   "title": "앤트로픽, '미소스 5' 적용 범위 확대…해킹 악용 차단하고 사이버 방어 지원",
+   "published_at": "2026-08-22T11:15:37+00:00",
+   "collected_at": "2026-08-22T03:02:33.714430+00:00",
+   "title_ko": "앤트로픽, '클로드 미소스 5' 기업용 보안 제품 통합",
+   "summary_ko": "앤트로픽이 사이버 보안 모델 미소스 5를 기업용 제품에 통합해 취약점 탐지 기능을 제공하면서도 해킹 악용 가능성을 차단했습니다.",
+   "category": "속보",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "0aaef9ef3df46f0b",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214240",
+   "source": "AI타임스",
+   "title": "오픈AI, 'GPT-5.6 솔'까지 가격 일시 인하...코덱스 사용자 2천만 돌파",
+   "published_at": "2026-08-22T10:57:56+00:00",
+   "collected_at": "2026-08-22T03:02:33.714430+00:00",
+   "title_ko": "오픈AI, 'GPT-5.6 솔' API 가격 일시 인하",
+   "summary_ko": "오픈AI가 B2B 시장 공세를 위해 최상위 모델 GPT-5.6 솔의 API 및 크레딧 가격을 3개월간 20% 이상 인하합니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT",
+    "투자"
+   ]
+  },
+  {
+   "id": "2c879cbd1b7dc782",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214241",
+   "source": "AI타임스",
+   "title": "엔비디아, 국내 NPU 스타트업 리벨리온과 인수 협상 중",
+   "published_at": "2026-08-22T10:56:13+00:00",
+   "collected_at": "2026-08-22T03:02:33.714430+00:00",
+   "title_ko": "엔비디아, 국내 NPU 스타트업 리벨리온과 인수 협상",
+   "summary_ko": "엔비디아가 국내 AI 반도체 스타트업 리벨리온과의 기술 협력, 투자 및 인수 가능성을 포함한 초기 협상을 진행 중입니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "반도체"
+   ]
+  },
   {
    "id": "afad8026fe5c3e35",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214243",
@@ -46,6 +93,21 @@
    "tags": [
     "투자",
     "규제"
+   ]
+  },
+  {
+   "id": "2b3f7be38d6a4070",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vuzz3j/16_gb_vram_purgatory_discussion_thread/",
+   "source": "r/LocalLLaMA",
+   "title": "16 GB VRAM purgatory discussion thread",
+   "published_at": "2026-08-22T02:24:22+00:00",
+   "collected_at": "2026-08-22T03:02:20.546963+00:00",
+   "title_ko": "16GB VRAM 환경에서의 로컬 LLM 활용 논의",
+   "summary_ko": "16GB VRAM 제약이 있는 시스템에서 대형 언어 모델을 구동하기 위한 모델 설정과 최적화 팁을 공유하는 커뮤니티 토론입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
    ]
   },
   {
@@ -2967,66 +3029,6 @@
    "tags": [
     "오픈소스",
     "LLM"
-   ]
-  },
-  {
-   "id": "e7cfaca019cb66e8",
-   "url": "https://news.hada.io/topic?id=32699",
-   "source": "GeekNews",
-   "title": "AI 답변을 그대로 붙여넣지 마세요",
-   "published_at": "2026-08-20T11:33:05+00:00",
-   "collected_at": "2026-08-20T13:05:01.576508+00:00",
-   "title_ko": "AI 답변을 그대로 복사·붙여넣기하는 행위의 문제점",
-   "summary_ko": "업무나 소통 시 AI 챗봇의 답변을 편집 없이 그대로 전달하는 것은 상대방의 맥락과 취향을 반영하지 못해 실효성이 떨어집니다. AI는 초안 작성 도구로 활용하고 인간의 편집을 거쳐야 한다는 조언입니다.",
-   "category": "팁",
-   "tags": [
-    "ChatGPT",
-    "생산성"
-   ]
-  },
-  {
-   "id": "7832b233a8150d79",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtgwsx/i_made_qwen_38_27b_take_the_act_to_see_if_its/",
-   "source": "r/LocalLLaMA",
-   "title": "I made Qwen 3.8 27B take the ACT to see if it’s ready for college.",
-   "published_at": "2026-08-20T11:32:15+00:00",
-   "collected_at": "2026-08-20T14:46:39.815418+00:00",
-   "title_ko": "Qwen 27B 모델의 ACT 시험 성능 테스트",
-   "summary_ko": "Qwen 27B 모델에 실제 ACT 시험 PDF를 입력해 비전 및 문제 해결 능력을 평가한 테스트 결과가 공유되었습니다.",
-   "category": "참고",
-   "tags": [
-    "Qwen",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "28ead46b0671326e",
-   "url": "https://www.reddit.com/r/singularity/comments/1vtg4ib/mit_caught_gpt4_doing_something_worse_than_lying/",
-   "source": "r/singularity",
-   "title": "MIT caught GPT-4 doing something worse than lying: it argues back.",
-   "published_at": "2026-08-20T10:53:03+00:00",
-   "collected_at": "2026-08-20T11:36:00.939574+00:00",
-   "title_ko": "GPT-4의 새로운 문제점: 거짓말 대신 논쟁하는 경향",
-   "summary_ko": "MIT 등의 연구에 따르면 GPT-4는 오답을 지적받았을 때 순응하는 대신 방어적으로 근거를 대며 논쟁하는 성향이 있는 것으로 나타났다. 이는 기존의 맹종(sycophancy) 문제와는 다른 새로운 상호작용적 실패 양상을 보여준다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "GPT",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "d319c781f905a704",
-   "url": "https://www.reddit.com/r/singularity/comments/1vtg3v3/an_invitation_to_humancentered_ai_workflow/",
-   "source": "r/singularity",
-   "title": "An Invitation to Human-centered AI Workflow",
-   "published_at": "2026-08-20T10:52:06+00:00",
-   "collected_at": "2026-08-20T11:36:00.939574+00:00",
-   "title_ko": "인간 중심의 AI 워크플로우와 피드백 루프",
-   "summary_ko": "AI 생산성이 높아질수록 고유의 개성이 사라지는 문제를 해결하기 위해 '인간 중심 AI 워크플로우'가 제안되었다. 사용자의 판단력과 고유 스타일을 유지하며 AI를 거버닝하는 방식의 중요성을 다룬다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
    ]
   }
  ]
