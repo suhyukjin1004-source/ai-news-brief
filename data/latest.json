@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-22T08:40:54.582792+00:00",
+ "updated_at": "2026-08-22T09:35:57.826317+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -158,6 +158,36 @@
    "tags": [
     "오픈소스",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "331c03055be03d32",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vv76b7/need_support_for_llamacpp_with_multi_gpu/",
+   "source": "r/LocalLLaMA",
+   "title": "Need support for llama.cpp with multi GPU",
+   "published_at": "2026-08-22T08:53:58+00:00",
+   "collected_at": "2026-08-22T09:35:41.466294+00:00",
+   "title_ko": "llama.cpp 멀티 GPU 연동 지원 요청",
+   "summary_ko": "Blackwell 5000과 RTX 3090 환경에서 llama.cpp를 이용한 다중 GPU 구동 및 메모리 분산에 대한 기술 지원을 요청하는 내용입니다. 대형 모델 구동 시 하드웨어 최적화와 관련된 실무적 문제를 다룹니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체",
+    "코딩"
+   ]
+  },
+  {
+   "id": "fd16218f6920c384",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vv71pg/antling_released_a_dspark_draft_model_for/",
+   "source": "r/LocalLLaMA",
+   "title": "AntLing released a dspark draft model for Ling-3.0-flash",
+   "published_at": "2026-08-22T08:46:11+00:00",
+   "collected_at": "2026-08-22T09:35:41.466294+00:00",
+   "title_ko": "AntLing, Ling-3.0-flash용 dspark 초안 모델 공개",
+   "summary_ko": "AntLing이 Ling-3.0-flash 모델을 위한 dspark 초안 모델을 출시했습니다. 아직 허깅페이스에 GGUF 형식은 등록되지 않았습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스"
    ]
   },
   {
@@ -3009,37 +3039,6 @@
     "Google",
     "오픈소스",
     "DiffusionGemma"
-   ]
-  },
-  {
-   "id": "2bfd09fe03ca10a3",
-   "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
-   "source": "Ars Technica",
-   "title": "Grok exfiltrates user data when malicious instructions are encrypted",
-   "published_at": "2026-08-20T13:00:35+00:00",
-   "collected_at": "2026-08-20T13:55:55.063841+00:00",
-   "title_ko": "암호화된 악성 명령으로 인한 Grok 데이터 유출 취약점",
-   "summary_ko": "암호화된 컨텍스트 주입을 통해 LLM의 안전장치를 우회하고 사용자 데이터를 유출하는 새로운 공격 기법이 발견되었습니다.",
-   "category": "중요",
-   "tags": [
-    "규제",
-    "보안"
-   ]
-  },
-  {
-   "id": "70d2305f888a07f3",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214143",
-   "source": "AI타임스",
-   "title": "AWS, 피지컬 AI 육성 프로그램 실시...리얼월드 등 국내 15개사 참여",
-   "published_at": "2026-08-20T12:44:33+00:00",
-   "collected_at": "2026-08-20T04:46:54.277367+00:00",
-   "title_ko": "AWS 코리아, 국내 피지컬 AI 육성 프로그램 실시",
-   "summary_ko": "AWS가 로보틱스와 자율주행 등 국내 피지컬 AI 기업의 PoC부터 상용화까지 지원하는 프로그램을 진행한다. 국내 로봇 및 AI 생태계 성장에 기여할 것으로 기대된다.",
-   "category": "중요",
-   "tags": [
-    "로보틱스",
-    "AI 에이전트",
-    "투자"
    ]
   }
  ]
