@@ -1,8 +1,23 @@
 {
- "updated_at": "2026-08-22T21:30:57.453393+00:00",
+ "updated_at": "2026-08-22T22:32:20.720560+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "ca1bb3e81f45e80c",
+   "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+   "source": "TechCrunch",
+   "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+   "published_at": "2026-08-22T21:46:56+00:00",
+   "collected_at": "2026-08-22T22:31:51.463255+00:00",
+   "title_ko": "하버드 스타트업 부트캠프, 강사 AI 아바타 도입",
+   "summary_ko": "하버드 비즈니스 스쿨 창업 프로그램에서 피치 연습과 이사회 회의 시 피드백을 제공하는 AI 아바타를 도입했습니다. 교육 분야의 AI 활용 사례로 주목받고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 아바타",
+    "교육"
+   ]
+  },
   {
    "id": "686686b80dcf4d54",
    "url": "https://simonwillison.net/2026/Aug/22/linus-torvalds/",
@@ -160,6 +175,21 @@
     "오픈소스",
     "반도체",
     "로컬LLM"
+   ]
+  },
+  {
+   "id": "c0f9d10986f58071",
+   "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+   "source": "Hacker News",
+   "title": "Why your local LLM feels dumber than it is",
+   "published_at": "2026-08-22T18:14:16+00:00",
+   "collected_at": "2026-08-22T22:32:03.273204+00:00",
+   "title_ko": "로컬 LLM이 기대보다 멍청하게 느껴지는 이유",
+   "summary_ko": "로컬 환경에서 구동하는 언어 모델이 실제 성능보다 부족하게 느껴지는 원인과 이를 해결하기 위한 배경을 다룹니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
    ]
   },
   {
@@ -391,6 +421,21 @@
     "AI 에이전트",
     "코딩",
     "오픈소스"
+   ]
+  },
+  {
+   "id": "b210c461563e5d25",
+   "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+   "source": "Hacker News",
+   "title": "Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
+   "published_at": "2026-08-22T14:13:05+00:00",
+   "collected_at": "2026-08-22T22:32:03.273204+00:00",
+   "title_ko": "할리우드 창작자들의 AI 학습 참여 논란",
+   "summary_ko": "할리우드 창작자들이 자신의 일자리를 대체할 AI 모델을 직접 학습시키며 겪는 윤리적·실무적 딜레마를 조명합니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "규제"
    ]
   },
   {
@@ -3012,50 +3057,6 @@
    "tags": [
     "오픈소스",
     "AI 에이전트"
-   ]
-  },
-  {
-   "id": "0c5d0bcb1cdb43e7",
-   "url": "https://www.reddit.com/r/singularity/comments/1vtqssh/another_crash_during_practices_ahead_of_the/",
-   "source": "r/singularity",
-   "title": "Another crash during practices ahead of the Worldwide Humanoid Robot Games",
-   "published_at": "2026-08-20T17:58:11+00:00",
-   "collected_at": "2026-08-20T18:53:18.593210+00:00",
-   "title_ko": "휴머노이드 로봇 대회 연습 중 발생한 로봇 추락 사고",
-   "summary_ko": "세계 휴머노이드 로봇 게임(Worldwide Humanoid Robot Games) 연습 경기 도중 로봇이 추락하는 사고가 발생했습니다.",
-   "category": "속보",
-   "tags": [
-    "로보틱스",
-    "휴머노이드"
-   ]
-  },
-  {
-   "id": "b4383ee4efa94895",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214144",
-   "source": "AI타임스",
-   "title": "중국 로봇 업계, ‘눈요기’ 벗어나 상용화 실적에 사활",
-   "published_at": "2026-08-20T17:53:00+00:00",
-   "collected_at": "2026-08-20T09:43:56.120494+00:00",
-   "title_ko": "중국 로봇 업계, 눈요기 시연 넘어 상용화 본격 전환",
-   "summary_ko": "중국 휴머노이드 로봇 업계가 단순 시연을 벗어나 물류·제조 등 실제 산업 현장에서 수익을 창출하는 상용화 단계에 집중하고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "로보틱스"
-   ]
-  },
-  {
-   "id": "d9f3d72ab6823c69",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214182",
-   "source": "AI타임스",
-   "title": "구글, AI 기반 학습 도구 대거 공개…대학생 1년 무료 이벤트까지",
-   "published_at": "2026-08-20T17:45:00+00:00",
-   "collected_at": "2026-08-20T09:43:56.120494+00:00",
-   "title_ko": "구글, AI 기반 학습 도구 대거 공개",
-   "summary_ko": "구글이 검색과 제미나이에 대화형 3D 시뮬레이션과 맞춤형 퀴즈 등 학생들을 위한 새로운 AI 학습 기능을 대거 선보였습니다.",
-   "category": "속보",
-   "tags": [
-    "Google",
-    "Gemini"
    ]
   }
  ]
