@@ -1,5 +1,35 @@
 [
  {
+  "id": "afad8026fe5c3e35",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214243",
+  "source": "AI타임스",
+  "title": "'비전 프로' 대신 AI·스마트 안경에 올인…애플, 200명 구조조정",
+  "published_at": "2026-08-22T10:34:58+00:00",
+  "collected_at": "2026-08-22T01:44:16.303652+00:00",
+  "title_ko": "애플, 비전 프로 조직 축소 및 AI 스마트 안경에 집중",
+  "summary_ko": "애플이 AI 및 차세대 기기 개발에 집중하기 위해 시리와 비전 프로 전담 조직에서 200여 명 규모의 구조조정을 단행했습니다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트",
+   "투자"
+  ]
+ },
+ {
+  "id": "5adfc1118b844db4",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214238",
+  "source": "AI타임스",
+  "title": "딥시크, 멀티모달 에이전트 'V4-플래시-비전' 공개...'오퍼스 4.8'에 도전",
+  "published_at": "2026-08-22T10:08:55+00:00",
+  "collected_at": "2026-08-22T01:44:16.303652+00:00",
+  "title_ko": "딥시크, 멀티모달 에이전트 'V4-플래시-비전' 공개",
+  "summary_ko": "딥시크가 이미지와 텍스트를 동시에 처리하며 에이전트 작업이 가능한 실험적 멀티모달 모델을 출시해 앤트로픽에 도전합니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "6d3f5103ed4d68e1",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214237",
   "source": "AI타임스",
@@ -12,6 +42,36 @@
   "tags": [
    "투자",
    "규제"
+  ]
+ },
+ {
+  "id": "da5634e3740e839a",
+  "url": "https://news.hada.io/topic?id=32753",
+  "source": "GeekNews",
+  "title": "Huggingface Speech To Speech - 오픈소스 모델로 로컬 음성 에이전트를 만드는 파이프라인",
+  "published_at": "2026-08-22T00:30:02+00:00",
+  "collected_at": "2026-08-22T01:44:17.792595+00:00",
+  "title_ko": "오픈소스 기반 로컬 음성 에이전트 파이프라인 구축",
+  "summary_ko": "STT, LLM, TTS를 조합해 로컬 환경에서 완전한 음성 대화 파이프라인을 구축하는 방법을 소개합니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "dd71c304c4768b81",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vuwwww/qwen_38_27b_pi_agent_vs_opencode_another_smaple/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen 3.8 27b - PI AGENT vs OPENCODE - another smaple",
+  "published_at": "2026-08-22T00:02:12+00:00",
+  "collected_at": "2026-08-22T01:44:03.089947+00:00",
+  "title_ko": "Qwen 3.8 27B 모델의 에이전트 환경 성능 비교",
+  "summary_ko": "로컬 환경에서 Qwen 모델을 활용할 때 일반 인터페이스보다 PI 에이전트를 사용하는 것이 토큰 효율과 속도 측면에서 더 우수한 성능을 보입니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
   ]
  },
  {
@@ -60,6 +120,21 @@
    "NVIDIA",
    "반도체",
    "투자"
+  ]
+ },
+ {
+  "id": "836d96ac916446c6",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vutzeu/im_really_hoping_were_in_2026s_2monthgap_between/",
+  "source": "r/LocalLLaMA",
+  "title": "I'm really hoping we're in 2026's 2-month-gap between QwQ and Qwen3 right now",
+  "published_at": "2026-08-21T21:58:51+00:00",
+  "collected_at": "2026-08-22T01:44:03.089947+00:00",
+  "title_ko": "로컬 LLM 추론 모델의 발전과 실무 활용의 과제",
+  "summary_ko": "고성능 추론 모델이 등장하고 있으나 긴 추론 시간으로 인해 에이전트 코딩 등 실무 활용에서 여전히 제약이 존재합니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
   ]
  },
  {
@@ -121,6 +196,21 @@
   "tags": [
    "오픈소스",
    "LLM"
+  ]
+ },
+ {
+  "id": "a6efb289ad223413",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vurjwc/i_feel_like_i_finally_graduated/",
+  "source": "r/LocalLLaMA",
+  "title": "I feel like I finally graduated.",
+  "published_at": "2026-08-21T20:22:48+00:00",
+  "collected_at": "2026-08-22T01:44:03.089947+00:00",
+  "title_ko": "vLLM 도입을 통한 로컬 LLM 추론 속도 개선",
+  "summary_ko": "LM Studio에서 vLLM으로 전환하여 하드웨어 성능을 극대화하고 로컬 모델의 추론 속도를 획기적으로 높인 사례입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "NVIDIA"
   ]
  },
  {
@@ -383,6 +473,21 @@
   ]
  },
  {
+  "id": "7b8d3d36b349acda",
+  "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+  "source": "Hacker News",
+  "title": "What happens when a GPU reads memory",
+  "published_at": "2026-08-21T16:16:42+00:00",
+  "collected_at": "2026-08-22T01:44:01.889630+00:00",
+  "title_ko": "GPU의 메모리 읽기 동작 원리 분석",
+  "summary_ko": "하드웨어 레벨에서 GPU가 메모리에 접근하고 데이터를 읽어오는 과정의 기술적 분석을 다룹니다.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "NVIDIA"
+  ]
+ },
+ {
   "id": "2a62a62426bae9c6",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214224",
   "source": "AI타임스",
@@ -487,6 +592,20 @@
   "tags": [
    "코딩",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "68a680ec4501be57",
+  "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+  "source": "Hacker News",
+  "title": "How we made a text-to-speech model respond in sub-50 ms",
+  "published_at": "2026-08-21T15:51:10+00:00",
+  "collected_at": "2026-08-22T01:44:01.889630+00:00",
+  "title_ko": "50ms 미만 응답 속도를 구현한 텍스트 음성 변환 모델",
+  "summary_ko": "초고속 응답을 제공하는 음성 합성 모델의 아키텍처와 비용 효율화 방안을 소개합니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
   ]
  },
  {
