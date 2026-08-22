@@ -1,5 +1,37 @@
 [
  {
+  "id": "686686b80dcf4d54",
+  "url": "https://simonwillison.net/2026/Aug/22/linus-torvalds/",
+  "source": "Simon Willison",
+  "title": "Quoting Linus Torvalds",
+  "published_at": "2026-08-22T21:04:26+00:00",
+  "collected_at": "2026-08-22T21:30:39.129017+00:00",
+  "title_ko": "리누스 토발즈의 AI 디버깅 경험담",
+  "summary_ko": "리누스 토발즈가 복잡한 디버깅 과정에서 AI가 불가능하다고 포기를 권유했음에도 끈질긴 협업 끝에 해결했다고 밝혔습니다.",
+  "category": "참고",
+  "tags": [
+   "AI",
+   "디버깅",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "9bdb14b54455c0dc",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvncyh/i_benchmark_dflash_2_pr_build_in_llamacpp_on_qwen/",
+  "source": "r/LocalLLaMA",
+  "title": "I benchmark DFlash 2 (PR build) in llama.cpp on Qwen 3.8 27B against all speculative methods for 3 days. 2.26x on 100 real coding prompts, 4.68x with one n-gram drafter on top. Up to 8x on specific cases.",
+  "published_at": "2026-08-22T20:41:35+00:00",
+  "collected_at": "2026-08-22T21:30:40.073923+00:00",
+  "title_ko": "llama.cpp에서 DFlash 2 추론 성능 벤치마크 결과",
+  "summary_ko": "Inco AI의 DFlash 2를 Qwen 모델에 적용한 결과, 기존 방식 대비 최대 2배 이상의 빠른 토큰 생성 속도를 기록했습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "코딩"
+  ]
+ },
+ {
   "id": "789416160679c858",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvmxls/new_100b_liquid_ai_model_coming_soon/",
   "source": "r/LocalLLaMA",
@@ -13,6 +45,21 @@
    "Liquid AI",
    "오픈소스",
    "LLM"
+  ]
+ },
+ {
+  "id": "3fe3ead726ba19a4",
+  "url": "https://news.hada.io/topic?id=32772",
+  "source": "GeekNews",
+  "title": "새로운 세계: 우리는 J.G. Ballard와 William Gibson의 미래에 살고 있다",
+  "published_at": "2026-08-22T19:32:45+00:00",
+  "collected_at": "2026-08-22T21:30:54.293676+00:00",
+  "title_ko": "일상으로 스며든 사이버펑크와 AI 현실",
+  "summary_ko": "로봇과 AI, 자율주행 등이 일상에 밀접하게 파고들며 SF 작가들이 상상했던 미래가 이미 현실이 되었음을 조명합니다.",
+  "category": "참고",
+  "tags": [
+   "AI",
+   "로보틱스"
   ]
  },
  {
