@@ -1,5 +1,53 @@
 [
  {
+  "id": "789416160679c858",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvmxls/new_100b_liquid_ai_model_coming_soon/",
+  "source": "r/LocalLLaMA",
+  "title": "New 100B Liquid AI model coming soon",
+  "published_at": "2026-08-22T20:24:18+00:00",
+  "collected_at": "2026-08-22T20:33:34.631604+00:00",
+  "title_ko": "리퀴드 AI, 100B 규모 신규 모델 출시 예고",
+  "summary_ko": "빠른 속도로 주목받는 리퀴드 AI가 100B 규모의 차세대 LFM 모델 출시를 예고해 기대감을 모으고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "Liquid AI",
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "cbb6e8cb391315de",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvljbz/glm_and_i_created_a_llamacpp_fork_optimized_for/",
+  "source": "r/LocalLLaMA",
+  "title": "GLM and I created a llama.cpp fork optimized for AMD GFX906 (Mi50, Mi60, Radeon VII, GCN HIP) - Machine Learning, LLMs, & AI",
+  "published_at": "2026-08-22T19:29:19+00:00",
+  "collected_at": "2026-08-22T20:33:34.631604+00:00",
+  "title_ko": "AMD GFX906 최적화 llama.cpp 포크 공개",
+  "summary_ko": "AMD 구형 GPU(Mi50, Mi60, Radeon VII 등)에서 머신러닝 구동을 최적화한 llama.cpp 포크 버전이 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "AMD",
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "6983112a8abf4de8",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvl7pc/single_rtx_5090_qwen3827b_nvfp4_at_a_real_262k/",
+  "source": "r/LocalLLaMA",
+  "title": "Single RTX 5090: Qwen3.8-27B NVFP4 at a real 262K context in vLLM — 77 tok/s short-context, 64.7 tok/s at 128K",
+  "published_at": "2026-08-22T19:16:31+00:00",
+  "collected_at": "2026-08-22T20:33:34.631604+00:00",
+  "title_ko": "RTX 5090에서 Qwen 27B 모델 262K 컨텍스트 구동 성공",
+  "summary_ko": "단일 RTX 5090 환경에서 vLLM을 활용해 대용량 컨텍스트와 비전 기능을 갖춘 Qwen 모델을 안정적으로 구동하는 설정이 공유되었습니다.",
+  "category": "팁",
+  "tags": [
+   "NVIDIA",
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
   "id": "4d6a7d16818af602",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214018",
   "source": "AI타임스",
@@ -29,6 +77,22 @@
    "AI 에이전트",
    "OpenAI",
    "Anthropic"
+  ]
+ },
+ {
+  "id": "aca35349bec31887",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvkgs6/watching_that_wattage_in_your_terminal/",
+  "source": "r/LocalLLaMA",
+  "title": "Watching that wattage, in your terminal.",
+  "published_at": "2026-08-22T18:47:37+00:00",
+  "collected_at": "2026-08-22T20:33:34.631604+00:00",
+  "title_ko": "터미널 전력 모니터링 툴 'energygraph' v1.3 출시",
+  "summary_ko": "CPU 및 주요 GPU 제조사의 전력 소모량을 터미널에서 실시간으로 확인할 수 있는 가벼운 모니터링 툴이 업데이트되었습니다.",
+  "category": "팁",
+  "tags": [
+   "NVIDIA",
+   "AMD",
+   "반도체"
   ]
  },
  {
