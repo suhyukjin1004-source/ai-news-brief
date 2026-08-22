@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-22T15:31:13.054714+00:00",
+ "updated_at": "2026-08-22T16:35:03.496445+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -17,6 +17,99 @@
     "AI 에이전트",
     "보안",
     "OpenAI"
+   ]
+  },
+  {
+   "id": "897fc0b9ac4740bc",
+   "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+   "source": "TechCrunch",
+   "title": "OpenAI says California should strengthen its AI safety bill",
+   "published_at": "2026-08-22T16:30:34+00:00",
+   "collected_at": "2026-08-22T16:34:39.512458+00:00",
+   "title_ko": "OpenAI, 캘리포니아 AI 안전 법안 강화 촉구",
+   "summary_ko": "과거 반대 입장을 표명했던 OpenAI가 캘리포니아주의 AI 안전 법안(SB 53)을 강화해야 한다고 주장했습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "규제",
+    "AI 안전"
+   ]
+  },
+  {
+   "id": "f814008d85fbd8c1",
+   "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+   "source": "TechCrunch",
+   "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+   "published_at": "2026-08-22T16:00:00+00:00",
+   "collected_at": "2026-08-22T16:34:39.512458+00:00",
+   "title_ko": "주요 AI 연구소들의 통제 불능 모델 대응 계획 부재",
+   "summary_ko": "최신 연구에 따르면 주요 AI 연구소들이 통제력을 잃은 AI 모델을 통제할 공개된 대응 계획을 거의 갖추지 못한 것으로 나타났습니다.",
+   "category": "중요",
+   "tags": [
+    "AI 안전",
+    "연구"
+   ]
+  },
+  {
+   "id": "6cda44a27fa95dfd",
+   "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
+   "source": "Simon Willison",
+   "title": "More than just code review",
+   "published_at": "2026-08-22T15:56:54+00:00",
+   "collected_at": "2026-08-22T16:34:45.873941+00:00",
+   "title_ko": "코딩 에이전트 활용을 위한 핵심 역량",
+   "summary_ko": "코딩 에이전트를 생산적으로 사용하려면 코드 한 줄씩 검토하는 것보다 명확한 지시와 효과적인 검증 능력이 중요합니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "코딩",
+    "생성형 AI"
+   ]
+  },
+  {
+   "id": "babb31d8a6a73242",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvft7b/fixed_the_mtp_head_on_ornith15_35b_a3b_3_tps_33/",
+   "source": "r/LocalLLaMA",
+   "title": "Fixed the MTP head on Ornith1.5 35B A3B. +3% TPS -33% wall clock",
+   "published_at": "2026-08-22T15:46:27+00:00",
+   "collected_at": "2026-08-22T16:34:46.557807+00:00",
+   "title_ko": "Ornith 35B 모델의 MTP 헤드 수정으로 성능 향상",
+   "summary_ko": "사용자가 로컬 LLM인 Ornith 35B의 MTP 헤드를 수정하여 처리 속도를 대폭 개선했습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "로컬LLM"
+   ]
+  },
+  {
+   "id": "58f4bf7b7ca9b8b9",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvfbde/how_to_remove_trendy_speech_from_llms/",
+   "source": "r/LocalLLaMA",
+   "title": "How to remove trendy speech from llms?",
+   "published_at": "2026-08-22T15:26:22+00:00",
+   "collected_at": "2026-08-22T16:34:46.557807+00:00",
+   "title_ko": "LLM의 과도한 유행어 및 상투적 표현 제거 방법",
+   "summary_ko": "LLM이 답변 시 자주 사용하는 부자연스러운 유행어나 은유적 표현을 시스템 프롬프트로 교정하는 방법에 대한 논의입니다.",
+   "category": "팁",
+   "tags": [
+    "LLM",
+    "프롬프트"
+   ]
+  },
+  {
+   "id": "1a82b7bd9aa5a839",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvf7tk/your_own_gguf/",
+   "source": "r/LocalLLaMA",
+   "title": "Your own GGUF",
+   "published_at": "2026-08-22T15:22:23+00:00",
+   "collected_at": "2026-08-22T16:34:46.557807+00:00",
+   "title_ko": "직접 GGUF 포맷을 생성하는 것의 실효성",
+   "summary_ko": "로컬 LLM 사용자들 사이에서 자체적으로 GGUF 모델을 양자화하고 컴파일하는 것의 이점과 성능 차이에 대한 논의입니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
    ]
   },
   {
@@ -2966,98 +3059,6 @@
     "코딩",
     "LLM",
     "벤치마크"
-   ]
-  },
-  {
-   "id": "aecd9525a7fd2319",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214142",
-   "source": "AI타임스",
-   "title": "오픈AI, 2분기 매출 9조·영업손실 17조...앤트로픽과 격차 벌어져",
-   "published_at": "2026-08-20T15:54:11+00:00",
-   "collected_at": "2026-08-20T07:50:37.551975+00:00",
-   "title_ko": "오픈AI, 2분기 9조 매출에도 영업손실 17조 기록",
-   "summary_ko": "오픈AI의 2분기 매출이 증가했으나 영업손실이 급증한 반면, 경쟁사 앤트로픽은 호실적을 거두며 격차가 좁혀지고 있다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "Anthropic",
-    "투자"
-   ]
-  },
-  {
-   "id": "46d6d720fd103d0c",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-   "source": "The Verge",
-   "title": "It’s Greg Brockman’s OpenAI now",
-   "published_at": "2026-08-20T15:45:55+00:00",
-   "collected_at": "2026-08-20T16:44:55.397768+00:00",
-   "title_ko": "IPO 준비하는 오픈AI, 그렉 브록먼 중심 체제 재편",
-   "summary_ko": "오픈AI가 IPO를 준비하는 과정에서 소송과 내부 변화를 겪으며 그렉 브록먼 중심의 리더십 체제로 재편되고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "투자"
-   ]
-  },
-  {
-   "id": "7ddcc9a127ceefd5",
-   "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-   "source": "MIT Tech Review",
-   "title": "Debates over AI consciousness are a trap",
-   "published_at": "2026-08-20T15:42:39+00:00",
-   "collected_at": "2026-08-20T16:44:55.945855+00:00",
-   "title_ko": "AI 의식 논쟁은 함정인가",
-   "summary_ko": "AI 에이전트의 자율성과 위험성을 강조하는 업계의 수사와 규제 논의가 실제 기술의 본질을 가리는 함정일 수 있다는 지적입니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "규제"
-   ]
-  },
-  {
-   "id": "e1ced63cddd46c78",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214153",
-   "source": "AI타임스",
-   "title": "구글, 마벨과 17조 규모 TPU 공동 개발 협력...추론 수요 폭증 대비",
-   "published_at": "2026-08-20T15:34:41+00:00",
-   "collected_at": "2026-08-20T06:59:49.002407+00:00",
-   "title_ko": "구글, 마벨과 17조 원 규모 TPU 공동 개발 협력",
-   "summary_ko": "구글이 AI 데이터센터용 맞춤형 칩 경쟁력을 강화하기 위해 마벨과 17조 원 규모의 TPU 공동 개발 및 지분 투자 협력을 체결했다. 폭증하는 AI 추론 수요에 대응하기 위한 조치다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "반도체",
-    "투자"
-   ]
-  },
-  {
-   "id": "0ac0123bfb33b14e",
-   "url": "https://github.com/zachahn/vomit",
-   "source": "Hacker News",
-   "title": "Clean up Claude 5's token vomit with a separate LLM",
-   "published_at": "2026-08-20T15:26:02+00:00",
-   "collected_at": "2026-08-20T16:45:02.312934+00:00",
-   "title_ko": "별도 LLM을 통한 Claude 5 토큰 정제 도구",
-   "summary_ko": "클로드(Claude)의 장황한 추론 토큰 출력을 깔끔하게 정리해 주는 오픈소스 도구가 공개되었습니다.",
-   "category": "팁",
-   "tags": [
-    "Anthropic",
-    "Claude",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "180c1f1156a0c11e",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214167",
-   "source": "AI타임스",
-   "title": "LGU+, AI 통합 건물 관리 솔루션 'AI빌딩넷 by 익시' 출시",
-   "published_at": "2026-08-20T15:21:46+00:00",
-   "collected_at": "2026-08-20T06:59:49.002407+00:00",
-   "title_ko": "LG유플러스, AI 건물 관리 솔루션 'AI빌딩넷' 출시",
-   "summary_ko": "LG유플러스가 AI와 IoT 기기를 연동해 시설 관리 효율을 높이는 'AI빌딩넷 by 익시'를 출시했다. 첫 적용 영역으로 시니어 케어 시설 전용 웰니스 솔루션을 선보였다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
    ]
   }
  ]

@@ -16,6 +16,99 @@
   ]
  },
  {
+  "id": "897fc0b9ac4740bc",
+  "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+  "source": "TechCrunch",
+  "title": "OpenAI says California should strengthen its AI safety bill",
+  "published_at": "2026-08-22T16:30:34+00:00",
+  "collected_at": "2026-08-22T16:34:39.512458+00:00",
+  "title_ko": "OpenAI, 캘리포니아 AI 안전 법안 강화 촉구",
+  "summary_ko": "과거 반대 입장을 표명했던 OpenAI가 캘리포니아주의 AI 안전 법안(SB 53)을 강화해야 한다고 주장했습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "규제",
+   "AI 안전"
+  ]
+ },
+ {
+  "id": "f814008d85fbd8c1",
+  "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+  "source": "TechCrunch",
+  "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+  "published_at": "2026-08-22T16:00:00+00:00",
+  "collected_at": "2026-08-22T16:34:39.512458+00:00",
+  "title_ko": "주요 AI 연구소들의 통제 불능 모델 대응 계획 부재",
+  "summary_ko": "최신 연구에 따르면 주요 AI 연구소들이 통제력을 잃은 AI 모델을 통제할 공개된 대응 계획을 거의 갖추지 못한 것으로 나타났습니다.",
+  "category": "중요",
+  "tags": [
+   "AI 안전",
+   "연구"
+  ]
+ },
+ {
+  "id": "6cda44a27fa95dfd",
+  "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
+  "source": "Simon Willison",
+  "title": "More than just code review",
+  "published_at": "2026-08-22T15:56:54+00:00",
+  "collected_at": "2026-08-22T16:34:45.873941+00:00",
+  "title_ko": "코딩 에이전트 활용을 위한 핵심 역량",
+  "summary_ko": "코딩 에이전트를 생산적으로 사용하려면 코드 한 줄씩 검토하는 것보다 명확한 지시와 효과적인 검증 능력이 중요합니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "코딩",
+   "생성형 AI"
+  ]
+ },
+ {
+  "id": "babb31d8a6a73242",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvft7b/fixed_the_mtp_head_on_ornith15_35b_a3b_3_tps_33/",
+  "source": "r/LocalLLaMA",
+  "title": "Fixed the MTP head on Ornith1.5 35B A3B. +3% TPS -33% wall clock",
+  "published_at": "2026-08-22T15:46:27+00:00",
+  "collected_at": "2026-08-22T16:34:46.557807+00:00",
+  "title_ko": "Ornith 35B 모델의 MTP 헤드 수정으로 성능 향상",
+  "summary_ko": "사용자가 로컬 LLM인 Ornith 35B의 MTP 헤드를 수정하여 처리 속도를 대폭 개선했습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "로컬LLM"
+  ]
+ },
+ {
+  "id": "58f4bf7b7ca9b8b9",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvfbde/how_to_remove_trendy_speech_from_llms/",
+  "source": "r/LocalLLaMA",
+  "title": "How to remove trendy speech from llms?",
+  "published_at": "2026-08-22T15:26:22+00:00",
+  "collected_at": "2026-08-22T16:34:46.557807+00:00",
+  "title_ko": "LLM의 과도한 유행어 및 상투적 표현 제거 방법",
+  "summary_ko": "LLM이 답변 시 자주 사용하는 부자연스러운 유행어나 은유적 표현을 시스템 프롬프트로 교정하는 방법에 대한 논의입니다.",
+  "category": "팁",
+  "tags": [
+   "LLM",
+   "프롬프트"
+  ]
+ },
+ {
+  "id": "1a82b7bd9aa5a839",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvf7tk/your_own_gguf/",
+  "source": "r/LocalLLaMA",
+  "title": "Your own GGUF",
+  "published_at": "2026-08-22T15:22:23+00:00",
+  "collected_at": "2026-08-22T16:34:46.557807+00:00",
+  "title_ko": "직접 GGUF 포맷을 생성하는 것의 실효성",
+  "summary_ko": "로컬 LLM 사용자들 사이에서 자체적으로 GGUF 모델을 양자화하고 컴파일하는 것의 이점과 성능 차이에 대한 논의입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
   "id": "7c5ceaaf1c9e4b19",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214249",
   "source": "AI타임스",
