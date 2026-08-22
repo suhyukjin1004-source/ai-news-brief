@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-08-22T18:42:37.146875+00:00",
+ "updated_at": "2026-08-22T19:29:59.286282+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "683931e34e4d9cf3",
+   "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+   "source": "TechCrunch",
+   "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+   "published_at": "2026-08-22T19:00:00+00:00",
+   "collected_at": "2026-08-22T19:29:24.757774+00:00",
+   "title_ko": "딥마인드 출신 인헤어런트, 과학 연구 재현하는 AI 에이전트 '패러데이' 공개",
+   "summary_ko": "딥마인드 출신들이 설립한 인헤어런트가 논문 재현 능력을 갖춘 AI 에이전트 '패러데이'를 공개했습니다. 이는 과학 연구 혁신을 가속화할 중요한 진전으로 평가받습니다.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트",
+    "OpenAI",
+    "Anthropic"
+   ]
+  },
   {
    "id": "4d6a7d16818af602",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214018",
@@ -32,6 +48,21 @@
    "tags": [
     "오픈소스",
     "반도체",
+    "로컬LLM"
+   ]
+  },
+  {
+   "id": "c572c693c452d984",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vviy88/current_best_model_for_narrative_chat_prompt/",
+   "source": "r/LocalLLaMA",
+   "title": "Current best model for narrative, chat, prompt creation (so basically everything except agentic coding)? - 5090",
+   "published_at": "2026-08-22T17:49:39+00:00",
+   "collected_at": "2026-08-22T19:29:32.526506+00:00",
+   "title_ko": "코딩 외 텍스트·대화 작업에 적합한 로컬 LLM 추천 요청",
+   "summary_ko": "에이전트 코딩을 제외하고 긴 글 작성, 이미지 기반 프롬프트 생성, 대화 및 피드백에 적합한 로컬 LLM 모델을 찾는 개발자의 커뮤니티 토론입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
     "로컬LLM"
    ]
   },
@@ -79,6 +110,21 @@
    "tags": [
     "LLM",
     "인프라"
+   ]
+  },
+  {
+   "id": "499e84f658442dd6",
+   "url": "https://news.hada.io/topic?id=32771",
+   "source": "GeekNews",
+   "title": "TUI를 그만 만드세요",
+   "published_at": "2026-08-22T16:33:47+00:00",
+   "collected_at": "2026-08-22T19:29:46.879340+00:00",
+   "title_ko": "LLM 에이전트의 발전으로 TUI 시대가 저물고 네이티브 UI가 부상",
+   "summary_ko": "LLM 에이전트가 실용적인 수준의 네이티브 UI를 생성하게 되면서 시스템 프로그래머들이 TUI 대신 풍부한 인터페이스의 개인용 도구를 만들 수 있게 된 변화를 조명합니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "UI"
    ]
   },
   {
@@ -3010,54 +3056,6 @@
     "AI 에이전트",
     "코딩",
     "오픈소스"
-   ]
-  },
-  {
-   "id": "b1e34579c8c79a86",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214173",
-   "source": "AI타임스",
-   "title": "엔비디아, AI 데이터 전문 '머코어'에 투자 논의...몸값 28조 달성 전망",
-   "published_at": "2026-08-20T16:59:44+00:00",
-   "collected_at": "2026-08-20T08:50:38.592779+00:00",
-   "title_ko": "엔비디아, AI 데이터 스타트업 '머코어' 투자 논의",
-   "summary_ko": "엔비디아가 오픈소스 AI 학습용 데이터 공급사인 머코어의 신규 투자 라운드 참여를 논의하고 있다. 머코어의 기업 가치는 28조 원에 이를 것으로 전망된다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "투자",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "c7cdb6722fd86cc4",
-   "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-   "source": "Hugging Face",
-   "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-   "published_at": "2026-08-20T16:52:57+00:00",
-   "collected_at": "2026-08-20T17:38:31.568205+00:00",
-   "title_ko": "LFM2.5-DSpark, 최대 3.2배 향상된 추론 속도 제공",
-   "summary_ko": "허깅페이스를 통해 추론 속도가 최대 3.2배 빨라진 LFM2.5-DSpark 모델이 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "Hugging Face",
-    "AI 추론",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "919ab6a8c9eed1fe",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtozjq/qwenmix37_kept_seeing_posts_about_qwen38_and_36/",
-   "source": "r/LocalLLaMA",
-   "title": "QwenMix-3.7: Kept seeing posts about Qwen3.8 and 3.6 sharing the same structure.. so I had Qwen3.8 combine them.",
-   "published_at": "2026-08-20T16:52:33+00:00",
-   "collected_at": "2026-08-20T17:38:48.799289+00:00",
-   "title_ko": "개발자가 Qwen3.8과 3.6 모델 결합해 실험적 모델 제작",
-   "summary_ko": "한 개발자가 구조가 유사한 Qwen 3.8과 3.6 모델을 GGUF 기반으로 병합하여 작동 가능함을 실험적으로 입증했습니다.",
-   "category": "팁",
-   "tags": [
-    "Qwen",
-    "오픈소스",
-    "모델 병합"
    ]
   }
  ]
