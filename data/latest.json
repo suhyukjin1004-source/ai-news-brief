@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-08-22T05:36:07.726641+00:00",
+ "updated_at": "2026-08-22T06:54:12.605371+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "7c5ceaaf1c9e4b19",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214249",
+   "source": "AI타임스",
+   "title": "익명 'Ox 알파' 등장…코딩 성능·100조 토큰 무상 제공에 '발칵'",
+   "published_at": "2026-08-22T15:18:55+00:00",
+   "collected_at": "2026-08-22T06:54:09.203823+00:00",
+   "title_ko": "정체불명 AI 모델 'Ox 알파' 오픈라우터 깜짝 등장",
+   "summary_ko": "운영 주체가 베일에 가려진 프론티어급 모델 Ox 알파가 오픈라우터에 등장해 파격적인 무료 토큰 제공과 뛰어난 코딩 성능으로 주목받고 있다.",
+   "category": "속보",
+   "tags": [
+    "OpenRouter",
+    "코딩",
+    "AI"
+   ]
+  },
   {
    "id": "1f498842b60de3cb",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214234",
@@ -145,6 +161,21 @@
    ]
   },
   {
+   "id": "639e282d2ffb00f6",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vv4mei/llamacpp_version_020_is_out/",
+   "source": "r/LocalLLaMA",
+   "title": "Llama.cpp version 0.2.0 is out!",
+   "published_at": "2026-08-22T06:23:58+00:00",
+   "collected_at": "2026-08-22T06:53:55.208248+00:00",
+   "title_ko": "Llama.cpp v0.2.0 버전 출시",
+   "summary_ko": "로컬 LLM 구동을 위한 대표적인 오픈소스 도구인 Llama.cpp의 새로운 0.2.0 버전이 릴리즈되었다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "Llama"
+   ]
+  },
+  {
    "id": "6d3f5103ed4d68e1",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214237",
    "source": "AI타임스",
@@ -157,6 +188,36 @@
    "tags": [
     "투자",
     "규제"
+   ]
+  },
+  {
+   "id": "cb12e4898a82b696",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vv47sr/bro_wtf_qwen_lab_cooked_with_qwen_38_27b_its_so/",
+   "source": "r/LocalLLaMA",
+   "title": "Bro wtf, Qwen Lab cooked with Qwen 3.8 27B, it's so fucking good",
+   "published_at": "2026-08-22T06:01:31+00:00",
+   "collected_at": "2026-08-22T06:53:55.208248+00:00",
+   "title_ko": "Qwen 3.8 27B 모델 뛰어난 성능으로 호평",
+   "summary_ko": "알리바바 Qwen Lab의 신규 오픈소스 모델 Qwen 3.8 27B가 이전 세대 대비 현저히 향상된 추론 및 렌더링 성능을 보여주어 커뮤니티에서 화제다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "모델명"
+   ]
+  },
+  {
+   "id": "1d90359fb6ad819f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vv3b6o/sharp_template_to_ninfer_42_output_tokens_same/",
+   "source": "r/LocalLLaMA",
+   "title": "Sharp template to NInfer: -42% output tokens, same speed",
+   "published_at": "2026-08-22T05:12:58+00:00",
+   "collected_at": "2026-08-22T06:53:55.208248+00:00",
+   "title_ko": "NInfer용 Sharp 템플릿 적용으로 토큰 절감",
+   "summary_ko": "추론 엔진 NInfer에서 Qwen 모델의 출력 토큰을 42% 줄이면서도 정확도를 유지하는 최적화 기법이 공유되었다.",
+   "category": "팁",
+   "tags": [
+    "코딩",
+    "오픈소스"
    ]
   },
   {
@@ -2978,65 +3039,6 @@
    "tags": [
     "AI 에이전트",
     "코딩"
-   ]
-  },
-  {
-   "id": "7cd7d395e0ae8e6d",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214137",
-   "source": "AI타임스",
-   "title": "오픈AI, '기업용 데이터 보안'으로 승부...프롬프트·응답 저장 안 해",
-   "published_at": "2026-08-20T12:29:58+00:00",
-   "collected_at": "2026-08-20T04:46:54.277367+00:00",
-   "title_ko": "오픈AI, 데이터 보안 강화한 프라이빗 안전 처리 기술 공개",
-   "summary_ko": "오픈AI가 프롬프트와 응답을 저장하지 않으면서도 다중 대화 속 위협을 탐지하는 기업용 보안 기술을 선보였다. 민감한 데이터를 다루는 기업 고객의 보안 우려를 해소할 전망이다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "규제"
-   ]
-  },
-  {
-   "id": "6014abf9931946c9",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214138",
-   "source": "AI타임스",
-   "title": "유니트리, 상하이 상장 첫날 460% 폭등…시총 70조 달해",
-   "published_at": "2026-08-20T12:20:01+00:00",
-   "collected_at": "2026-08-20T04:46:54.277367+00:00",
-   "title_ko": "중국 로봇 기업 유니트리, 상장 첫날 시총 70조 원 돌파",
-   "summary_ko": "휴머노이드 로봇 기업 유니트리가 상하이 증시 상장 첫날 주가가 460% 폭등하며 시총 70조 원을 기록했다. 로봇 산업에 대한 시장의 폭발적인 관심을 보여준다.",
-   "category": "중요",
-   "tags": [
-    "로보틱스",
-    "투자"
-   ]
-  },
-  {
-   "id": "dca8c552a961fe02",
-   "url": "https://www.reddit.com/r/singularity/comments/1vthwpm/daxais_all_terrain_robothorse_debuts_at_wrc26/",
-   "source": "r/singularity",
-   "title": "DaxAI's all terrain robot-horse debuts at WRC'26: 100Km/10h autonomy, 300Kg max load, 40Km/h max speed",
-   "published_at": "2026-08-20T12:18:50+00:00",
-   "collected_at": "2026-08-20T13:56:00.879519+00:00",
-   "title_ko": "대스AI, 4족 보행 로봇마 공개",
-   "summary_ko": "10시간 주행 거리와 300kg 적재 용량을 갖춘 전천후 AI 로봇마가 WRC 2026에서 데뷔했습니다.",
-   "category": "속보",
-   "tags": [
-    "로보틱스"
-   ]
-  },
-  {
-   "id": "3008ad1f12c01993",
-   "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
-   "source": "TechCrunch",
-   "title": "Meta AI’s new Mac app wants you to talk to your apps",
-   "published_at": "2026-08-20T12:11:57+00:00",
-   "collected_at": "2026-08-20T13:04:42.843393+00:00",
-   "title_ko": "메타, Mac용 AI 앱에 Muse Spark 기반 받아쓰기 기능 도입",
-   "summary_ko": "메타는 Mac용 새로운 AI 앱에 Muse Spark 모델을 탑재한 받아쓰기 기능을 선보이며 앱 간 연동을 확대하고 있습니다. 사용자가 다양한 앱과 자연스럽게 소통할 수 있도록 돕는 데 의의가 있습니다.",
-   "category": "속보",
-   "tags": [
-    "Meta",
-    "AI 에이전트"
    ]
   }
  ]
