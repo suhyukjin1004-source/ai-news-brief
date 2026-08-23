@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-08-23T06:55:08.678309+00:00",
+ "updated_at": "2026-08-23T07:40:54.817313+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "b4916600cc770d4f",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214263",
+   "source": "AI타임스",
+   "title": "메타, '뮤즈 스파크 1.2' 오픈라우터에 현존 최저가로 할인",
+   "published_at": "2026-08-23T16:23:09+00:00",
+   "collected_at": "2026-08-23T07:40:51.411333+00:00",
+   "title_ko": "메타, 오픈라우터서 최저가 요금제 출시",
+   "summary_ko": "메타가 오픈라우터에 플래그십 모델 '뮤즈 스파크 1.2'를 파격적인 저가로 출시하며 AI 모델 가격 경쟁에 가세했습니다. 개발자 및 기업 고객 확보를 위한 플랫폼 경쟁이 치열해지고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "Meta",
+    "오픈소스",
+    "LLM"
+   ]
+  },
   {
    "id": "4d99e92a400a781c",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214260",
@@ -185,6 +201,54 @@
    "tags": [
     "NVIDIA",
     "반도체"
+   ]
+  },
+  {
+   "id": "9633fa5738be3685",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw0mcd/nvidia_poolside_deal_to_compete_with_chinese_open/",
+   "source": "r/LocalLLaMA",
+   "title": "Nvidia Poolside deal to compete with Chinese Open Weights",
+   "published_at": "2026-08-23T07:31:55+00:00",
+   "collected_at": "2026-08-23T07:40:38.219925+00:00",
+   "title_ko": "엔비디아, 풀사이드에 70억 달러 투자 및 기술 라이선스 계약",
+   "summary_ko": "엔비디아가 풀사이드에 10억 달러를 투자하고 60억 달러 규모의 라이선스 계약을 체결했습니다. 핵심 인력을 영입해 Nemotron 모델 개발을 강화할 예정이며, 중국 오픈웨이트 모델과의 경쟁에 대응하기 위한 조치입니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "투자",
+    "반도체"
+   ]
+  },
+  {
+   "id": "818e27a6bace0180",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvzzlm/best_harness_for_qwen_38_27b/",
+   "source": "r/LocalLLaMA",
+   "title": "Best harness for Qwen 3.8 27b ?",
+   "published_at": "2026-08-23T06:56:07+00:00",
+   "collected_at": "2026-08-23T07:40:38.219925+00:00",
+   "title_ko": "Qwen 3.8 27b 모델 활용을 위한 인터페이스 논의",
+   "summary_ko": "개발자들이 Qwen 3.8 27b 모델을 사용하기 위한 다양한 도구와 인터페이스를 비교하고 있습니다. Qwen Code가 좋은 평가를 받는 한편 CLI 인터페이스 개선에 대한 피드백이 공유되고 있습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩",
+    "LLM"
+   ]
+  },
+  {
+   "id": "80574d13959b8e47",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvzo4v/agent_quest_now_tells_you_when_claude_code_or/",
+   "source": "r/LocalLLaMA",
+   "title": "Agent Quest now tells you when Claude Code or Codex needs you visually and with sound",
+   "published_at": "2026-08-23T06:38:14+00:00",
+   "collected_at": "2026-08-23T07:40:38.219925+00:00",
+   "title_ko": "에이전트 퀘스트, 시각·청각 알림 기능 추가",
+   "summary_ko": "AI 코딩 에이전트 세션을 2D 게임 세계로 시각화하는 오픈소스 도구 '에이전트 퀘스트'가 업데이트되었습니다. 에이전트의 대기 및 오류 상태를 시각·청각적으로 알려 모니터링 효율성을 높였습니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스",
+    "코딩"
    ]
   },
   {
@@ -2994,63 +3058,6 @@
    "category": "참고",
    "tags": [
     "코딩"
-   ]
-  },
-  {
-   "id": "0358b54f2a31e710",
-   "url": "https://news.hada.io/topic?id=32719",
-   "source": "GeekNews",
-   "title": "A2A 에이전트 등록소를 통째로 받아서 세봤다: 200곳 중 응답 73곳",
-   "published_at": "2026-08-21T03:25:21+00:00",
-   "collected_at": "2026-08-21T04:49:18.427159+00:00",
-   "title_ko": "A2A 에이전트 등록소 실태 조사 결과, 정상 응답률 36.5%",
-   "summary_ko": "A2A 에이전트 디렉토리에 등록된 200여 곳의 공개 API를 대상으로 작업 응답률을 조사한 결과, 실제 정상 통과한 곳은 36.5%에 불과한 것으로 나타났습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "f8d5e817777c09d7",
-   "url": "https://github.com/openai/codex/issues/37674",
-   "source": "Hacker News",
-   "title": "Codex on AWS bedrock bug causing 10x charges",
-   "published_at": "2026-08-21T03:17:43+00:00",
-   "collected_at": "2026-08-21T07:51:11.759148+00:00",
-   "title_ko": "AWS 베드록의 코덱스 관련 버그로 10배 과금 발생",
-   "summary_ko": "AWS 베드록에서 구동되는 코덱스 관련 결함으로 인해 사용자에게 요금이 과다 청구되는 이슈가 발생했다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "클라우드"
-   ]
-  },
-  {
-   "id": "92d0acf4aa3ac450",
-   "url": "https://annas-archive.gl/blog/physical-destruction.html",
-   "source": "Hacker News",
-   "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-   "published_at": "2026-08-21T02:37:47+00:00",
-   "collected_at": "2026-08-21T04:48:45.728463+00:00",
-   "title_ko": "AI 기업의 물리적 서적 파괴에 대응한 희귀 도서 스캔 촉구",
-   "summary_ko": "일부 AI 기업들이 데이터 수집을 위해 물리적 서적을 파괴하는 행태가 지적되면서, 손실을 막기 위해 희귀 도서를 서둘러 스캔해야 한다는 목소리가 나오고 있습니다.",
-   "category": "참고",
-   "tags": []
-  },
-  {
-   "id": "2b7a927a77e6c220",
-   "url": "https://news.hada.io/topic?id=32716",
-   "source": "GeekNews",
-   "title": "기능 요청: AGENTS.md 지원",
-   "published_at": "2026-08-21T02:33:15+00:00",
-   "collected_at": "2026-08-21T03:11:27.206264+00:00",
-   "title_ko": "Claude Code에 AGENTS.md 공통 프로젝트 지침 파일 지원 요청",
-   "summary_ko": "Claude Code가 여러 코딩 에이전트의 공통 지침 파일인 AGENTS.md를 읽어 코드베이스 맥락을 활용할 수 있게 해달라는 기능 요청입니다. 개발 편의성과 호환성 향상을 목표로 합니다.",
-   "category": "팁",
-   "tags": [
-    "Claude",
-    "코딩",
-    "AI 에이전트"
    ]
   }
  ]
