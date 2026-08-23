@@ -1,8 +1,23 @@
 {
- "updated_at": "2026-08-23T22:31:53.514247+00:00",
+ "updated_at": "2026-08-23T23:29:52.624522+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "3f80288f331596d5",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwkicx/any_upcoming_models_to_be_excited_about/",
+   "source": "r/LocalLLaMA",
+   "title": "Any upcoming models to be excited about?",
+   "published_at": "2026-08-23T22:07:42+00:00",
+   "collected_at": "2026-08-23T23:29:37.163455+00:00",
+   "title_ko": "출시 예정인 AI 모델에 대한 커뮤니티의 기대",
+   "summary_ko": "커뮤니티 사용자들이 앞으로 출시될 기대되는 오픈소스 AI 모델들에 대해 의견을 나누고 정보를 공유함.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
   {
    "id": "67bc36e3fd30af1d",
    "url": "https://news.hada.io/topic?id=32813",
@@ -3045,21 +3060,6 @@
    "tags": [
     "AI 에이전트",
     "규제"
-   ]
-  },
-  {
-   "id": "80d822d07f6b5432",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vujgft/fun_bf16_checkpoint_gotcha_1_followed_by_1_isnt/",
-   "source": "r/LocalLLaMA",
-   "title": "Fun BF16 checkpoint gotcha, +1 followed by -1 isn’t always a round trip",
-   "published_at": "2026-08-21T15:25:29+00:00",
-   "collected_at": "2026-08-21T15:42:14.429943+00:00",
-   "title_ko": "저정밀 모델 변환 시 BF16 연산 주의사항",
-   "summary_ko": "서로 다른 프레임워크 간 체크포인트 변환 과정에서 BF16 오프셋과 스케일 계산 방식의 차이로 인해 발생할 수 있는 정밀도 손실 문제를 다룹니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
    ]
   }
  ]
