@@ -1,5 +1,67 @@
 [
  {
+  "id": "57a95f6b2cbb75c1",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214258",
+  "source": "AI타임스",
+  "title": "리퀴드 AI ‘디스파크’, 메모리 병목 뚫었다…소형 모델이 미리 쓰고 대형 모델이 검증",
+  "published_at": "2026-08-23T11:48:18+00:00",
+  "collected_at": "2026-08-23T03:11:44.417087+00:00",
+  "title_ko": "리퀴드 AI, LLM 메모리 병목 해결하는 디스파크 공개",
+  "summary_ko": "리퀴드 AI가 소형 모델이 토큰을 생성하고 대형 모델이 검증하는 방식의 새로운 추론 가속 기술 '디스파크'를 선보여 추론 속도와 효율성을 높였습니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트",
+   "반도체",
+   "LLM"
+  ]
+ },
+ {
+  "id": "2eae9c19fe6e4e8e",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214083",
+  "source": "AI타임스",
+  "title": "아이벡스, 오염 데이터 극복한 AI 이상탐지 기술 개발...‘AI 완전 무인 자동화’ 시동",
+  "published_at": "2026-08-23T11:28:08+00:00",
+  "collected_at": "2026-08-23T03:11:44.417087+00:00",
+  "title_ko": "아이벡스, 오염 데이터 극복한 AI 이상탐지 기술 개발",
+  "summary_ko": "아이벡스가 산업 현장의 기술적 난제를 해결하는 피지컬 AI 생태계 구축을 위해 AI 이상탐지 기술을 개발했습니다.",
+  "category": "중요",
+  "tags": [
+   "로보틱스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "3211739346e25927",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214256",
+  "source": "AI타임스",
+  "title": "\"LLM보다 하네스가 핵심\"…엔비디아 AVO, 장기 자율 AI 에이전트 가능성 입증",
+  "published_at": "2026-08-23T10:55:48+00:00",
+  "collected_at": "2026-08-23T03:11:44.417087+00:00",
+  "title_ko": "엔비디아 AVO, 하네스 시스템으로 장기 자율 AI 에이전트 성능 입증",
+  "summary_ko": "엔비디아가 범용 AI 에이전트 시스템 AVO를 통해 모델 자체뿐만 아니라 이를 제어하는 하네스 구조의 중요성을 입증했습니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "0b1cb1a1c71571a1",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214255",
+  "source": "AI타임스",
+  "title": "\"중소형 모델로 빅테크 압도\"...인히어런트, '연구 감각' 갖춘 AI 과학자 선보여",
+  "published_at": "2026-08-23T10:41:45+00:00",
+  "collected_at": "2026-08-23T03:11:44.417087+00:00",
+  "title_ko": "인히어런트, 거대 모델 뛰어넘는 AI 과학자 패러데이 공개",
+  "summary_ko": "영국 스타트업 인히어런트가 중소형 모델 기반의 AI 에이전트 '패러데이'를 공개해 프런티어 모델 수준의 과학적 연구 역량을 입증했습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "Anthropic",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "5dda1e75072f54cb",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214235",
   "source": "AI타임스",
@@ -72,6 +134,51 @@
   "tags": [
    "NVIDIA",
    "반도체"
+  ]
+ },
+ {
+  "id": "4af66509c6755ea9",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvv7iv/the_all_spark_cluster_upgrading_from_16_36_dgx/",
+  "source": "r/LocalLLaMA",
+  "title": "“The All Spark” Cluster: Upgrading from 16 - 36 DGX Sparks",
+  "published_at": "2026-08-23T02:38:29+00:00",
+  "collected_at": "2026-08-23T03:11:31.184199+00:00",
+  "title_ko": "홈랩 서버 구축을 위한 36개 DGX 스파크 클러스터 업그레이드",
+  "summary_ko": "사용자가 36개의 DGX 스파크를 연결해 4.6TB의 통합 메모리를 갖춘 대규모 로컬 LLM 추론 클러스터를 구축했습니다.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "ff52571b90974a34",
+  "url": "https://news.hada.io/topic?id=32788",
+  "source": "GeekNews",
+  "title": "Munder Difflin - 나를 복제한 직원들로 사무실을 운영하는 에이전트 하네스",
+  "published_at": "2026-08-23T02:32:37+00:00",
+  "collected_at": "2026-08-23T03:11:45.397136+00:00",
+  "title_ko": "로컬에서 다중 AI 에이전트를 실행하는 오픈소스 하네스 Munder Difflin",
+  "summary_ko": "다양한 에이전트 CLI를 활용해 사용자의 지식과 맥락을 공유하는 복제 에이전트를 로컬에서 실행할 수 있는 오픈소스 도구입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "3411dbb98b71e44d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvu15m/qwen3827b_one_week_later_the_rlocalllama/",
+  "source": "r/LocalLLaMA",
+  "title": "# Qwen3.8-27B — One Week Later: The r/LocalLLaMA + r/LocalLLM Verdict",
+  "published_at": "2026-08-23T01:39:46+00:00",
+  "collected_at": "2026-08-23T03:11:31.184199+00:00",
+  "title_ko": "Qwen 3.8-27B 모델 출시 일주일간 커뮤니티 반응",
+  "summary_ko": "로컬 코딩과 에이전트 작업에서 뛰어난 성능을 보여준 Qwen 27B 모델에 대한 개발자 커뮤니티의 평가와 반응을 정리했습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
   ]
  },
  {

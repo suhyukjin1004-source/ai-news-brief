@@ -1,8 +1,70 @@
 {
- "updated_at": "2026-08-23T01:54:30.486403+00:00",
+ "updated_at": "2026-08-23T03:11:48.655054+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "57a95f6b2cbb75c1",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214258",
+   "source": "AI타임스",
+   "title": "리퀴드 AI ‘디스파크’, 메모리 병목 뚫었다…소형 모델이 미리 쓰고 대형 모델이 검증",
+   "published_at": "2026-08-23T11:48:18+00:00",
+   "collected_at": "2026-08-23T03:11:44.417087+00:00",
+   "title_ko": "리퀴드 AI, LLM 메모리 병목 해결하는 디스파크 공개",
+   "summary_ko": "리퀴드 AI가 소형 모델이 토큰을 생성하고 대형 모델이 검증하는 방식의 새로운 추론 가속 기술 '디스파크'를 선보여 추론 속도와 효율성을 높였습니다.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트",
+    "반도체",
+    "LLM"
+   ]
+  },
+  {
+   "id": "2eae9c19fe6e4e8e",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214083",
+   "source": "AI타임스",
+   "title": "아이벡스, 오염 데이터 극복한 AI 이상탐지 기술 개발...‘AI 완전 무인 자동화’ 시동",
+   "published_at": "2026-08-23T11:28:08+00:00",
+   "collected_at": "2026-08-23T03:11:44.417087+00:00",
+   "title_ko": "아이벡스, 오염 데이터 극복한 AI 이상탐지 기술 개발",
+   "summary_ko": "아이벡스가 산업 현장의 기술적 난제를 해결하는 피지컬 AI 생태계 구축을 위해 AI 이상탐지 기술을 개발했습니다.",
+   "category": "중요",
+   "tags": [
+    "로보틱스",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "3211739346e25927",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214256",
+   "source": "AI타임스",
+   "title": "\"LLM보다 하네스가 핵심\"…엔비디아 AVO, 장기 자율 AI 에이전트 가능성 입증",
+   "published_at": "2026-08-23T10:55:48+00:00",
+   "collected_at": "2026-08-23T03:11:44.417087+00:00",
+   "title_ko": "엔비디아 AVO, 하네스 시스템으로 장기 자율 AI 에이전트 성능 입증",
+   "summary_ko": "엔비디아가 범용 AI 에이전트 시스템 AVO를 통해 모델 자체뿐만 아니라 이를 제어하는 하네스 구조의 중요성을 입증했습니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "0b1cb1a1c71571a1",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214255",
+   "source": "AI타임스",
+   "title": "\"중소형 모델로 빅테크 압도\"...인히어런트, '연구 감각' 갖춘 AI 과학자 선보여",
+   "published_at": "2026-08-23T10:41:45+00:00",
+   "collected_at": "2026-08-23T03:11:44.417087+00:00",
+   "title_ko": "인히어런트, 거대 모델 뛰어넘는 AI 과학자 패러데이 공개",
+   "summary_ko": "영국 스타트업 인히어런트가 중소형 모델 기반의 AI 에이전트 '패러데이'를 공개해 프런티어 모델 수준의 과학적 연구 역량을 입증했습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "Anthropic",
+    "AI 에이전트"
+   ]
+  },
   {
    "id": "5dda1e75072f54cb",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214235",
@@ -76,6 +138,51 @@
    "tags": [
     "NVIDIA",
     "반도체"
+   ]
+  },
+  {
+   "id": "4af66509c6755ea9",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvv7iv/the_all_spark_cluster_upgrading_from_16_36_dgx/",
+   "source": "r/LocalLLaMA",
+   "title": "“The All Spark” Cluster: Upgrading from 16 - 36 DGX Sparks",
+   "published_at": "2026-08-23T02:38:29+00:00",
+   "collected_at": "2026-08-23T03:11:31.184199+00:00",
+   "title_ko": "홈랩 서버 구축을 위한 36개 DGX 스파크 클러스터 업그레이드",
+   "summary_ko": "사용자가 36개의 DGX 스파크를 연결해 4.6TB의 통합 메모리를 갖춘 대규모 로컬 LLM 추론 클러스터를 구축했습니다.",
+   "category": "참고",
+   "tags": [
+    "반도체",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "ff52571b90974a34",
+   "url": "https://news.hada.io/topic?id=32788",
+   "source": "GeekNews",
+   "title": "Munder Difflin - 나를 복제한 직원들로 사무실을 운영하는 에이전트 하네스",
+   "published_at": "2026-08-23T02:32:37+00:00",
+   "collected_at": "2026-08-23T03:11:45.397136+00:00",
+   "title_ko": "로컬에서 다중 AI 에이전트를 실행하는 오픈소스 하네스 Munder Difflin",
+   "summary_ko": "다양한 에이전트 CLI를 활용해 사용자의 지식과 맥락을 공유하는 복제 에이전트를 로컬에서 실행할 수 있는 오픈소스 도구입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "3411dbb98b71e44d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvu15m/qwen3827b_one_week_later_the_rlocalllama/",
+   "source": "r/LocalLLaMA",
+   "title": "# Qwen3.8-27B — One Week Later: The r/LocalLLaMA + r/LocalLLM Verdict",
+   "published_at": "2026-08-23T01:39:46+00:00",
+   "collected_at": "2026-08-23T03:11:31.184199+00:00",
+   "title_ko": "Qwen 3.8-27B 모델 출시 일주일간 커뮤니티 반응",
+   "summary_ko": "로컬 코딩과 에이전트 작업에서 뛰어난 성능을 보여준 Qwen 27B 모델에 대한 개발자 커뮤니티의 평가와 반응을 정리했습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
    ]
   },
   {
@@ -2936,112 +3043,6 @@
    "tags": [
     "오픈소스",
     "LLM"
-   ]
-  },
-  {
-   "id": "e825744f97921386",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtzyl9/this_benchmark_is_getting_out_of_hand/",
-   "source": "r/LocalLLaMA",
-   "title": "This benchmark is getting out of hand",
-   "published_at": "2026-08-20T23:42:34+00:00",
-   "collected_at": "2026-08-21T01:51:18.297251+00:00",
-   "title_ko": "과열되는 AI 모델 벤치마크 경쟁",
-   "summary_ko": "최근 AI 모델들의 성능을 평가하는 벤치마크 방식이 지나치게 복잡해지고 과열되는 양상을 비판적으로 다룬 소식입니다.",
-   "category": "참고",
-   "tags": [
-    "LLM"
-   ]
-  },
-  {
-   "id": "d1f072eca8e0c010",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtz1o1/gonna_be_huge_for_us_open_source/",
-   "source": "r/LocalLLaMA",
-   "title": "Gonna be huge for US open source",
-   "published_at": "2026-08-20T23:03:37+00:00",
-   "collected_at": "2026-08-20T23:34:10.715407+00:00",
-   "title_ko": "미국 오픈소스 AI 생태계의 대형 호재",
-   "summary_ko": "미국 내 오픈소스 AI 진영에 큰 영향을 미칠 소식이 전해졌습니다. 오픈소스 생태계의 발전에 중요한 전환점이 될 수 있습니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "AI"
-   ]
-  },
-  {
-   "id": "093a040722715e60",
-   "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-   "source": "TechCrunch",
-   "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-   "published_at": "2026-08-20T22:36:37+00:00",
-   "collected_at": "2026-08-20T22:37:03.472930+00:00",
-   "title_ko": "OpenAI, 기업 고객 시장에서 앤트로픽 추격",
-   "summary_ko": "기업 고객들이 새 모델 출시마다 벤더를 바꾸는 경향을 보이며, 이는 엔터프라이즈 AI 지출의 지속성에 대한 의문을 제기합니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "Anthropic",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "eadb5b3f8d694256",
-   "url": "https://news.hada.io/topic?id=32710",
-   "source": "GeekNews",
-   "title": "Aaron Swartz는 스크래핑으로 기소됐지만 Meta는 별다른 제재 없이 계속하고 있음",
-   "published_at": "2026-08-20T22:31:40+00:00",
-   "collected_at": "2026-08-20T23:34:25.270396+00:00",
-   "title_ko": "AI 학습용 데이터 스크래핑과 법적용 형평성 논란",
-   "summary_ko": "과거 아론 스워츠의 스크래핑 기소 사건과 대비하여, Meta의 대규모 저작물 학습에 대한 느슨한 제재가 법적용의 격차를 보여준다는 지적입니다. AI 학습 데이터 수집의 합법성과 저작권 문제에 중요한 시사점을 줍니다.",
-   "category": "중요",
-   "tags": [
-    "Meta",
-    "규제",
-    "저작권"
-   ]
-  },
-  {
-   "id": "b008c1893593b806",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vty1g4/been_tweaking_my_qwen_38_setup_up_to_45_steady/",
-   "source": "r/LocalLLaMA",
-   "title": "Been tweaking my Qwen 3.8 setup, up to 45+ steady T/ps at 8bit quant. Realised I'm now top T/ps for this model+ctx across all benchmarked M-series chips. Full args linked below, happy to discuss as this was a pain of trial and error.",
-   "published_at": "2026-08-20T22:23:20+00:00",
-   "collected_at": "2026-08-20T23:34:10.715407+00:00",
-   "title_ko": "Qwen 모델 8비트 양자화 환경 성능 최적화 공유",
-   "summary_ko": "Apple M시리즈 칩에서 Qwen 모델 구동 시 안정적인 초당 토큰 처리량(T/ps)을 달성한 튜닝 설정 공유입니다. 실무 개발자들에게 유용한 성능 최적화 팁을 제공합니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "62b5f81689b5df13",
-   "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-   "source": "TechCrunch",
-   "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-   "published_at": "2026-08-20T22:09:51+00:00",
-   "collected_at": "2026-08-20T22:37:03.472930+00:00",
-   "title_ko": "ChatGPT, 애플 메시지 플러그인으로 문자 전송 지원",
-   "summary_ko": "ChatGPT가 새로운 애플 메시지 연동을 통해 사용자의 문자를 자동으로 작성하고 전송하는 기능을 제공합니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "03a51df1de68f28d",
-   "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-   "source": "The Verge",
-   "title": "Google Discover is getting an AI chatbot-tuned feed",
-   "published_at": "2026-08-20T21:50:22+00:00",
-   "collected_at": "2026-08-20T22:37:03.648210+00:00",
-   "title_ko": "구글 디스버, AI 챗봇 맞춤형 피드 도입",
-   "summary_ko": "구글이 사용자가 원하는 콘텐츠를 설명하면 AI가 자동으로 피드를 맞춤 설정하고 선호도를 기억하는 기능을 도입합니다.",
-   "category": "속보",
-   "tags": [
-    "Google",
-    "AI 에이전트"
    ]
   }
  ]
