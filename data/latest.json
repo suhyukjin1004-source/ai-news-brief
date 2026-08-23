@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-23T08:41:54.937577+00:00",
+ "updated_at": "2026-08-23T09:36:34.165602+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -188,6 +188,38 @@
    "tags": [
     "KT",
     "AI 교육"
+   ]
+  },
+  {
+   "id": "c5042a582c151530",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw2cop/dont_want_to_be_this_guy_but_i_need_qwen_38_35b/",
+   "source": "r/LocalLLaMA",
+   "title": "Don't want to be this guy, but I need Qwen 3.8 35B A3B",
+   "published_at": "2026-08-23T09:13:39+00:00",
+   "collected_at": "2026-08-23T09:36:17.904213+00:00",
+   "title_ko": "Qwen 27B 모델의 속도와 추론 시간에 대한 사용자 갈증",
+   "summary_ko": "사용자들이 대형 언어 모델의 향상된 지능과 실용적인 구동 속도 사이의 균형을 요구하고 있습니다. 고성능 하드웨어 부재 시 대형 모델의 긴 추론 시간이 실무 활용의 걸림돌이 됨을 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "코딩"
+   ]
+  },
+  {
+   "id": "e06834a683cef516",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw2ayp/qwen3827b_klds/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8-27B KLDs",
+   "published_at": "2026-08-23T09:10:44+00:00",
+   "collected_at": "2026-08-23T09:36:17.904213+00:00",
+   "title_ko": "Qwen3.8-27B 양자화 버전 성능 비교 실험",
+   "summary_ko": "한 레딧 사용자가 코딩 및 STEM 작업에 특화된 Qwen 3.8-27B 모델의 양자화(quantization) 버전별 성능을 비교 분석했습니다. 다양한 정밀도 수준에서 모델의 실효성을 가늠하는 데 참고가 됩니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "코딩"
    ]
   },
   {
@@ -3029,36 +3061,6 @@
    "tags": [
     "투자",
     "LLM"
-   ]
-  },
-  {
-   "id": "9b96e03f33f5ec6a",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vu8n8i/new_stealth_model_on_openrouter_ox_alph/",
-   "source": "r/LocalLLaMA",
-   "title": "New stealth model on OpenRouter: Ox Alph",
-   "published_at": "2026-08-21T06:45:34+00:00",
-   "collected_at": "2026-08-21T07:51:13.136186+00:00",
-   "title_ko": "오픈라우터에 미스터리 스텔스 모델 'Ox Alpha' 등장",
-   "summary_ko": "출처가 알려지지 않은 새로운 AI 모델 'Ox Alpha'가 오픈라우터에 등록되어 커뮤니티의 추정이 이어지고 있다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "e0822fe6b91334c1",
-   "url": "https://www.reddit.com/r/singularity/comments/1vu87p5/a_stealth_model_called_oxalpha_has_been_released/",
-   "source": "r/singularity",
-   "title": "A stealth model called Ox-Alpha has been released, outperforming Fable on SWE.",
-   "published_at": "2026-08-21T06:20:26+00:00",
-   "collected_at": "2026-08-21T07:01:01.010454+00:00",
-   "title_ko": "신규 코딩 모델 'Ox-Alpha' 공개",
-   "summary_ko": "SWE벤치마크 등에서 기존 모델을 뛰어넘는 성능을 보여준 스텔스 코딩 AI 모델 'Ox-Alpha'가 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "코딩"
    ]
   }
  ]
