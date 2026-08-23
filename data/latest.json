@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-08-23T07:40:54.817313+00:00",
+ "updated_at": "2026-08-23T08:41:54.937577+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "5bc6a1862904f25f",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214264",
+   "source": "AI타임스",
+   "title": "샤오미 '미모-V3-프로' 유출 스크린샷 논란…\"코딩·에이전트 최상위권\"",
+   "published_at": "2026-08-23T17:13:27+00:00",
+   "collected_at": "2026-08-23T08:41:51.160939+00:00",
+   "title_ko": "샤오미 미모-V3-프로 벤치마크 유출 논란",
+   "summary_ko": "샤오미의 미공개 AI 모델 '미모-V3-프로'의 코딩 및 에이전트 성능 벤치마크 스크린샷이 유출되어 업계의 관심을 모으고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "Xiaomi",
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
   {
    "id": "b4916600cc770d4f",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214263",
@@ -201,6 +217,65 @@
    "tags": [
     "NVIDIA",
     "반도체"
+   ]
+  },
+  {
+   "id": "98c891a9fdceecc5",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw1j2p/i_hosted_kimi_k3_28t_parameters_using_8_b300s_92/",
+   "source": "r/LocalLLaMA",
+   "title": "I hosted Kimi K3 (2.8T parameters) using 8 B300s. 92 tok/s, $190 per million tokens",
+   "published_at": "2026-08-23T08:25:35+00:00",
+   "collected_at": "2026-08-23T08:41:37.759061+00:00",
+   "title_ko": "2.8조 파라미터 Kimi K3 모델 호스팅 사례",
+   "summary_ko": "모달(Modal)에서 B300 GPU 8개를 활용해 대형 모델 Kimi K3를 구동한 결과 초당 92토큰의 속도와 비용 효율성을 기록했습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "1401b05d20c9a398",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw16z9/amd_users_have_you_tried_the_llammacpp/",
+   "source": "r/LocalLLaMA",
+   "title": "AMD Users: Have you tried the llamma.cpp AMD-Ecosystem branch? Up to 2x PP Speed",
+   "published_at": "2026-08-23T08:05:40+00:00",
+   "collected_at": "2026-08-23T08:41:37.759061+00:00",
+   "title_ko": "llama.cpp AMD 전용 브랜치 성능 향상",
+   "summary_ko": "AMD 에코시스템 브랜치를 사용할 경우 ROCm 환경에서 프롬프트 처리 속도가 기존 대비 최대 2배 이상 빨라진다는 사용자 경험이 공유되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "09cbc64968d1b10d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw15bm/i_finally_switched_from_windows_to_linux_and_got/",
+   "source": "r/LocalLLaMA",
+   "title": "i finally switched from windows to linux and got a 30-50% boost in speed.",
+   "published_at": "2026-08-23T08:02:53+00:00",
+   "collected_at": "2026-08-23T08:41:37.759061+00:00",
+   "title_ko": "윈도우에서 리눅스로 전환 후 LLM 구동 속도 향상",
+   "summary_ko": "윈도우 기반 llm.cpp에서 리눅스 기반 vLLM 환경으로 전환한 결과 속도가 30~50% 향상되었다는 후기가 공유되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "97a528151581e75d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw10m3/deepseek_harness_is_insanely_good/",
+   "source": "r/LocalLLaMA",
+   "title": "DeepSeek Harness is Insanely Good",
+   "published_at": "2026-08-23T07:55:30+00:00",
+   "collected_at": "2026-08-23T08:41:37.759061+00:00",
+   "title_ko": "DeepSeek 기반 웹UI 도구 사용 후기",
+   "summary_ko": "DeepSeek 연동 도구가 간편한 설정과 뛰어난 UX로 자연스러운 AI 에이전트 통합을 지원해 좋은 반응을 얻고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "DeepSeek",
+    "AI 에이전트"
    ]
   },
   {
@@ -2983,80 +3058,6 @@
    "category": "속보",
    "tags": [
     "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "935cb8417804c2b9",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vu7yce/qwen3827b_at_262k_context_on_a_strix_halo_rtx/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.8-27B at 262K context on a Strix Halo + RTX 3090 Ti: 9.5 -> 153 tok/s, and it beats a dual-3090 vLLM box on HumanEval",
-   "published_at": "2026-08-21T06:06:07+00:00",
-   "collected_at": "2026-08-21T07:01:00.356731+00:00",
-   "title_ko": "Qwen3.8-27B, 멀티 하드웨어 환경서 고속 구동",
-   "summary_ko": "AMD와 NVIDIA GPU를 혼합한 환경에서 Qwen 모델이 대규모 컨텍스트를 매우 빠른 속도로 처리하는 성능을 기록했습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "2b791230106645e9",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vu7m53/fastest_qwen_38_27b_for_amd_gpu/",
-   "source": "r/LocalLLaMA",
-   "title": "Fastest qwen 3.8 27b for AMD gpu?",
-   "published_at": "2026-08-21T05:47:36+00:00",
-   "collected_at": "2026-08-21T07:01:00.356731+00:00",
-   "title_ko": "AMD GPU 환경용 Qwen 27B 최적화 실행 팁",
-   "summary_ko": "AMD GPU 환경에서 Qwen 27B 모델을 가장 빠르게 구동하기 위한 GGUF 버전 및 하드웨어 구성 논의입니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "cc11677b7bc61a71",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vu620d/new_stealth_model_ox_alpha_look_like_glm_or_mimo/",
-   "source": "r/LocalLLaMA",
-   "title": "New stealth model Ox Alpha look like glm or mimo new model",
-   "published_at": "2026-08-21T04:24:18+00:00",
-   "collected_at": "2026-08-21T07:01:00.356731+00:00",
-   "title_ko": "신규 프론티어 모델 'Ox Alpha' 정체 분석",
-   "summary_ko": "100만 토큰 컨텍스트와 에이전트 코딩 기능을 지원하는 신규 스텔스 AI 모델 'Ox Alpha'의 특징이 공유되었습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "46c18cdd2acfeb7b",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vu5dzi/sensenova_u15lite_full_release_expert_training/",
-   "source": "r/LocalLLaMA",
-   "title": "SenseNova U1.5-Lite full release: expert training, OPD distillation, one model at inference",
-   "published_at": "2026-08-21T03:52:03+00:00",
-   "collected_at": "2026-08-21T04:49:03.664081+00:00",
-   "title_ko": "센스노바, 전문가 훈련 통합한 'SenseNova U1.5-Lite' 출시",
-   "summary_ko": "센스노바가 태스크별 전문가 모델을 훈련한 뒤 OPD 증류 기술을 통해 단일 모델로 통합한 'SenseNova U1.5-Lite'를 정식 출시했습니다. 추론 시 별도의 라우터 없이 고성능을 발휘합니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "d0419b36903b3e14",
-   "url": "https://news.hada.io/topic?id=32720",
-   "source": "GeekNews",
-   "title": "8월 17일 GitHub 대규모 장애",
-   "published_at": "2026-08-21T03:32:08+00:00",
-   "collected_at": "2026-08-21T04:49:18.427159+00:00",
-   "title_ko": "GitHub, 인프라 확장 실패로 전 세계 7시간 대규모 장애 발생",
-   "summary_ko": "트래픽 최고치를 기록한 8월 17일, GitHub 중앙 데이터센터의 인프라 확장 실패로 7시간 넘게 Copilot 등을 포함한 전 세계 서비스가 중단되었습니다.",
-   "category": "참고",
-   "tags": [
     "코딩"
    ]
   }

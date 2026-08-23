@@ -184,6 +184,65 @@
   ]
  },
  {
+  "id": "98c891a9fdceecc5",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw1j2p/i_hosted_kimi_k3_28t_parameters_using_8_b300s_92/",
+  "source": "r/LocalLLaMA",
+  "title": "I hosted Kimi K3 (2.8T parameters) using 8 B300s. 92 tok/s, $190 per million tokens",
+  "published_at": "2026-08-23T08:25:35+00:00",
+  "collected_at": "2026-08-23T08:41:37.759061+00:00",
+  "title_ko": "2.8조 파라미터 Kimi K3 모델 호스팅 사례",
+  "summary_ko": "모달(Modal)에서 B300 GPU 8개를 활용해 대형 모델 Kimi K3를 구동한 결과 초당 92토큰의 속도와 비용 효율성을 기록했습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "1401b05d20c9a398",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw16z9/amd_users_have_you_tried_the_llammacpp/",
+  "source": "r/LocalLLaMA",
+  "title": "AMD Users: Have you tried the llamma.cpp AMD-Ecosystem branch? Up to 2x PP Speed",
+  "published_at": "2026-08-23T08:05:40+00:00",
+  "collected_at": "2026-08-23T08:41:37.759061+00:00",
+  "title_ko": "llama.cpp AMD 전용 브랜치 성능 향상",
+  "summary_ko": "AMD 에코시스템 브랜치를 사용할 경우 ROCm 환경에서 프롬프트 처리 속도가 기존 대비 최대 2배 이상 빨라진다는 사용자 경험이 공유되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "09cbc64968d1b10d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw15bm/i_finally_switched_from_windows_to_linux_and_got/",
+  "source": "r/LocalLLaMA",
+  "title": "i finally switched from windows to linux and got a 30-50% boost in speed.",
+  "published_at": "2026-08-23T08:02:53+00:00",
+  "collected_at": "2026-08-23T08:41:37.759061+00:00",
+  "title_ko": "윈도우에서 리눅스로 전환 후 LLM 구동 속도 향상",
+  "summary_ko": "윈도우 기반 llm.cpp에서 리눅스 기반 vLLM 환경으로 전환한 결과 속도가 30~50% 향상되었다는 후기가 공유되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "97a528151581e75d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw10m3/deepseek_harness_is_insanely_good/",
+  "source": "r/LocalLLaMA",
+  "title": "DeepSeek Harness is Insanely Good",
+  "published_at": "2026-08-23T07:55:30+00:00",
+  "collected_at": "2026-08-23T08:41:37.759061+00:00",
+  "title_ko": "DeepSeek 기반 웹UI 도구 사용 후기",
+  "summary_ko": "DeepSeek 연동 도구가 간편한 설정과 뛰어난 UX로 자연스러운 AI 에이전트 통합을 지원해 좋은 반응을 얻고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "DeepSeek",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "9633fa5738be3685",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw0mcd/nvidia_poolside_deal_to_compete_with_chinese_open/",
   "source": "r/LocalLLaMA",
