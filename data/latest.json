@@ -1,8 +1,40 @@
 {
- "updated_at": "2026-08-23T03:11:48.655054+00:00",
+ "updated_at": "2026-08-23T04:47:24.271845+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "4d99e92a400a781c",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214260",
+   "source": "AI타임스",
+   "title": "앤트로픽서 유행하는 클로드 코드 ‘/eli5’ 스킬... \"복잡한 코드를 그림으로 설명\"",
+   "published_at": "2026-08-23T12:19:35+00:00",
+   "collected_at": "2026-08-23T04:47:21.401927+00:00",
+   "title_ko": "앤트로픽, 클로드 코드 시각화 도구 ‘/eli5’ 공개",
+   "summary_ko": "복잡한 코드와 기술 개념을 다이어그램과 HTML 자료로 쉽게 시각화해 주는 앤트로픽 내부 개발 스킬이 주목받고 있다.",
+   "category": "팁",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "코딩"
+   ]
+  },
+  {
+   "id": "4f5d3c0a88c6c5de",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214259",
+   "source": "AI타임스",
+   "title": "구글, '안티그래비티' 원격 제어 출시...\"이동 중에도 AI 개발 계속\"",
+   "published_at": "2026-08-23T12:06:47+00:00",
+   "collected_at": "2026-08-23T04:47:21.401927+00:00",
+   "title_ko": "구글, AI 개발 환경 ‘안티그래비티’ 원격 제어 기능 출시",
+   "summary_ko": "구글이 이동 중에도 웹브라우저로 AI 코딩 에이전트의 작업 상황을 제어할 수 있는 원격 기능을 개발 환경에 도입했다.",
+   "category": "속보",
+   "tags": [
+    "Google",
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
   {
    "id": "57a95f6b2cbb75c1",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214258",
@@ -138,6 +170,22 @@
    "tags": [
     "NVIDIA",
     "반도체"
+   ]
+  },
+  {
+   "id": "44144f6ac82d070f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvw4h5/would_it_be_possible_to_distill_deepseek_v4_flash/",
+   "source": "r/LocalLLaMA",
+   "title": "Would it be possible to distill DeepSeek V4 Flash 0731 onto Nemotron 3.5 Lightning?",
+   "published_at": "2026-08-23T03:24:53+00:00",
+   "collected_at": "2026-08-23T04:47:08.273282+00:00",
+   "title_ko": "오픈소스 LLM 모델 증류 관련 커뮤니티 논의",
+   "summary_ko": "로컬 LLM 사용자가 하드웨어 클러스터를 활용해 특정 모델을 다른 모델로 증류하는 방법 가능성을 질문하고 토론하고 있다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "DeepSeek",
+    "NVIDIA"
    ]
   },
   {
@@ -2999,50 +3047,6 @@
    "category": "중요",
    "tags": [
     "투자"
-   ]
-  },
-  {
-   "id": "68e9fb1705e10808",
-   "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-   "source": "Hugging Face",
-   "title": "Measuring benchmark optimization in speech recognition",
-   "published_at": "2026-08-21T00:00:00+00:00",
-   "collected_at": "2026-08-21T13:54:45.497360+00:00",
-   "title_ko": "음성 인식 벤치마크 최적화 측정 연구 발표",
-   "summary_ko": "음성 인식 모델의 벤치마크 최적화 정도를 측정하는 방법론에 대한 허깅페이스의 연구 소식입니다. 모델 성능 평가의 신뢰성을 높이는 데 기여합니다.",
-   "category": "참고",
-   "tags": [
-    "음성 인식",
-    "Hugging Face"
-   ]
-  },
-  {
-   "id": "071e11ee2c220477",
-   "url": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
-   "source": "Simon Willison",
-   "title": "ChatGPT search now uses the site:operator at scale",
-   "published_at": "2026-08-20T23:57:32+00:00",
-   "collected_at": "2026-08-21T01:51:17.497031+00:00",
-   "title_ko": "ChatGPT 검색 기능의 대규모 사이트 연산자 활용",
-   "summary_ko": "ChatGPT 검색이 대규모로 특정 사이트 연산자를 활용하기 시작하면서 생성형 엔진 최적화(GEO) 시장이 주목받고 있습니다. 챗봇 응답 노출을 위한 새로운 최적화 트렌드를 보여줍니다.",
-   "category": "참고",
-   "tags": [
-    "ChatGPT"
-   ]
-  },
-  {
-   "id": "2f7b33868b153a76",
-   "url": "https://openrouter.ai/stealth/ox-alpha",
-   "source": "Hacker News",
-   "title": "Ox Alpha",
-   "published_at": "2026-08-20T23:56:35+00:00",
-   "collected_at": "2026-08-21T07:51:11.759148+00:00",
-   "title_ko": "오픈라우터 신규 스텔스 모델 'Ox Alpha' 화제",
-   "summary_ko": "오픈라우터에 갑자기 추가된 미확인 AI 모델 'Ox Alpha'에 대해 개발자 커뮤니티의 관심이 집중되고 있다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
    ]
   }
  ]
