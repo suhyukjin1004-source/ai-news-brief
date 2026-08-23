@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-23T10:33:33.574488+00:00",
+ "updated_at": "2026-08-23T11:29:09.709543+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -127,6 +127,21 @@
     "OpenAI",
     "Anthropic",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "29a0e5a7892419e0",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw3rjp/what_is_your_worst_sandboxing_fail/",
+   "source": "r/LocalLLaMA",
+   "title": "What is your worst sandboxing fail?",
+   "published_at": "2026-08-23T10:36:00+00:00",
+   "collected_at": "2026-08-23T11:28:53.751179+00:00",
+   "title_ko": "LLM 코드 실행 환경의 보안 및 샌드박싱 실태",
+   "summary_ko": "LLM이 생성한 명령어를 실행할 때 샌드박스 보안의 필요성과 실제 위험성에 대한 개발자들의 논의입니다. AI 도구 활용 시 보안 관리 방안을 고민하는 데 참고가 됩니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "보안"
    ]
   },
   {
@@ -3046,21 +3061,6 @@
     "오픈소스",
     "NVIDIA",
     "반도체"
-   ]
-  },
-  {
-   "id": "dfb2fd9b0706056e",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vub1ff/does_pcie_matter_much_for_inference/",
-   "source": "r/LocalLLaMA",
-   "title": "Does PCIe matter much for inference?",
-   "published_at": "2026-08-21T09:06:54+00:00",
-   "collected_at": "2026-08-21T10:39:22.760329+00:00",
-   "title_ko": "LLM 추론 시 PCIe 대역폭 영향 분석",
-   "summary_ko": "다중 GPU 환경에서 LLM 추론 시 PCIe 슬롯 대역폭이 성능 병목 현상에 미치는 영향과 사용자 경험을 공유했다. 로컬 LLM 구동 최적화에 참고할 만한 정보이다.",
-   "category": "참고",
-   "tags": [
-    "반도체",
-    "오픈소스"
    ]
   }
  ]
