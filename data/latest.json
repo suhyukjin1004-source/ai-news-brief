@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-23T15:31:35.298634+00:00",
+ "updated_at": "2026-08-23T16:37:07.262991+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -51,6 +51,64 @@
    ]
   },
   {
+   "id": "134533210f9e5df9",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwazhv/has_anyone_tried_agentlightning/",
+   "source": "r/LocalLLaMA",
+   "title": "Has anyone tried agent-lightning?",
+   "published_at": "2026-08-23T16:00:31+00:00",
+   "collected_at": "2026-08-23T16:36:56.762144+00:00",
+   "title_ko": "AI 에이전트 프레임워크 agent-lightning 활용 경험 공유",
+   "summary_ko": "개발자 커뮤니티에서 agent-lightning 에이전트 도구의 효용성에 대한 논의가 진행되었습니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "b8eb3288ecfe9d63",
+   "url": "https://www.reddit.com/r/singularity/comments/1vwak0v/whrg26_tiangong_humanoid_robot_crushed_the_400m/",
+   "source": "r/singularity",
+   "title": "WHRG'26: Tiangong humanoid robot crushed the 400m in 38.15 and the 1500m in 2:21.6, smashing the human world records of 43.03 and 3:26 set by Niekerk (2016) and Guerrouj (1998) respectively",
+   "published_at": "2026-08-23T15:43:47+00:00",
+   "collected_at": "2026-08-23T16:37:01.600950+00:00",
+   "title_ko": "중국 휴머노이드 로봇 천공, 인간 육상 세계 신기록 경신",
+   "summary_ko": "천공 로봇이 400m와 1500m 종목에서 인간의 기존 세계 기록을 뛰어넘는 기록을 세우며 로보틱스 성능의 비약적 발전을 보여주었습니다.",
+   "category": "속보",
+   "tags": [
+    "로보틱스"
+   ]
+  },
+  {
+   "id": "309c5a68f1fd5d35",
+   "url": "https://www.reddit.com/r/singularity/comments/1vwaetf/i_gave_qwen_38_27b_a_reverseengineering_job_i/",
+   "source": "r/singularity",
+   "title": "I gave Qwen 3.8 27B a reverse-engineering job I assumed needed a frontier model, and it finished in 30 minutes",
+   "published_at": "2026-08-23T15:38:09+00:00",
+   "collected_at": "2026-08-23T16:37:01.600950+00:00",
+   "title_ko": "Qwen 오픈소스 모델의 고난도 리버스 엔지니어링 수행",
+   "summary_ko": "Qwen 27B 모델이 대형 프런티어 모델 수준의 복잡한 리버스 엔지니어링 작업을 단시간에 완수해 주목을 받았습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "9d4c4c333982c2dc",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw9lp9/ling_tiny_king_of_speed/",
+   "source": "r/LocalLLaMA",
+   "title": "Ling Tiny, King of Speed",
+   "published_at": "2026-08-23T15:06:31+00:00",
+   "collected_at": "2026-08-23T16:36:56.762144+00:00",
+   "title_ko": "초고속 로컬 LLM 링 타이니(Ling Tiny) 활용기",
+   "summary_ko": "보급형 GPU 환경에서 뛰어난 속도를 자랑하는 링 타이니 모델이 로컬 LLM 세팅의 새로운 대안으로 소개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
    "id": "cb6e4e4530f6661c",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw9k4k/1100_44100_finetuning_a_450m_vlm_on_50k_browser/",
    "source": "r/LocalLLaMA",
@@ -92,6 +150,65 @@
    "tags": [
     "오픈소스",
     "코딩"
+   ]
+  },
+  {
+   "id": "2814339f34ca4f1d",
+   "url": "https://www.reddit.com/r/singularity/comments/1vw8umk/a_stupid_question_for_people_who_know_something/",
+   "source": "r/singularity",
+   "title": "A (stupid?) question for people who know something about AI",
+   "published_at": "2026-08-23T14:36:37+00:00",
+   "collected_at": "2026-08-23T16:37:01.600950+00:00",
+   "title_ko": "AGI 시대의 물리적 인프라 의존성과 생존 가능성에 대한 고찰",
+   "summary_ko": "초지능 AI가 고도로 복잡한 공급망과 인프라에 의존할 수밖에 없는 현실이 인류와의 공존을 담보하는 요인이 될 수 있다는 분석입니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "반도체"
+   ]
+  },
+  {
+   "id": "c8463e29e8e0c50d",
+   "url": "https://news.hada.io/topic?id=32801",
+   "source": "GeekNews",
+   "title": "Claude보다 Codex를 더 많이 써본 일주일",
+   "published_at": "2026-08-23T14:36:10+00:00",
+   "collected_at": "2026-08-23T16:37:03.464459+00:00",
+   "title_ko": "Claude와 Codex 코딩 도구 사용 경험 비교",
+   "summary_ko": "확장된 의도를 추론하는 Claude와 명시된 범위에 집중하는 Codex의 코드 작성 성향 차이가 실무 개발자 관점에서 비교되었습니다.",
+   "category": "팁",
+   "tags": [
+    "코딩",
+    "Claude"
+   ]
+  },
+  {
+   "id": "266d40e10d88345a",
+   "url": "https://www.reddit.com/r/singularity/comments/1vw8hdg/robot_plays_ping_pong_with_ding_ning_2016_olympic/",
+   "source": "r/singularity",
+   "title": "Robot plays ping pong with Ding Ning (2016 Olympic champion)",
+   "published_at": "2026-08-23T14:21:33+00:00",
+   "collected_at": "2026-08-23T16:37:01.600950+00:00",
+   "title_ko": "올림픽 챔피언과 탁구 경기 펼친 AI 로봇",
+   "summary_ko": "탁구 올림픽 챔피언과의 대결에서 로봇이 라켓의 다양한 그립 위치와 방향 변화에 능동적으로 대처하며 높은 수준의 일반화 성능을 입증했습니다.",
+   "category": "참고",
+   "tags": [
+    "로보틱스"
+   ]
+  },
+  {
+   "id": "7a798088e635681d",
+   "url": "https://www.reddit.com/r/singularity/comments/1vw7gyh/alibaba_to_issue_us10_billion_in_new_shares_for/",
+   "source": "r/singularity",
+   "title": "Alibaba to issue US$10 billion in new shares for global AI push",
+   "published_at": "2026-08-23T13:39:03+00:00",
+   "collected_at": "2026-08-23T16:37:01.600950+00:00",
+   "title_ko": "알리바바, 글로벌 AI 인프라 확장을 위해 100억 달러 유상증자",
+   "summary_ko": "알리바바가 대규모 AI 컴퓨팅 인프라 구축 투자를 가속화하기 위해 막대한 자금 조달에 나서며 글로벌 AI 시장 경쟁에 박차를 가하고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "투자",
+    "반도체"
    ]
   },
   {
@@ -2939,127 +3056,6 @@
    "tags": [
     "AI 에이전트",
     "규제"
-   ]
-  },
-  {
-   "id": "6f5f2844621ba226",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
-   "source": "The Verge",
-   "title": "Major YouTube creators are facing backlash for accepting AI money",
-   "published_at": "2026-08-21T13:37:52+00:00",
-   "collected_at": "2026-08-21T13:54:43.667992+00:00",
-   "title_ko": "유명 유튜버들, AI 영상 플랫폼 광고로 역풍",
-   "summary_ko": "유명 영상 크리에이터들이 Higgsfield의 AI 영상 생성 기술을 홍보했다가 구독자들의 거센 비판에 직면했습니다. 크리에이터들의 AI 스폰서십 수용을 둘러싼 대중의 반발을 보여줍니다.",
-   "category": "참고",
-   "tags": [
-    "AI 영상",
-    "크리에이터"
-   ]
-  },
-  {
-   "id": "5f2cb8845a90e410",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214204",
-   "source": "AI타임스",
-   "title": "\"시연 한 번으로 기술 습득\"…제너럴리스트, 로봇 모델 'GEN-1.5' 공개",
-   "published_at": "2026-08-21T13:37:48+00:00",
-   "collected_at": "2026-08-21T04:49:17.006338+00:00",
-   "title_ko": "제너럴리스트, 시연 한 번으로 로봇을 학습하는 'GEN-1.5' 공개",
-   "summary_ko": "제너럴리스트가 단 한 번의 시연만으로 로봇이 새로운 작업을 몇 초 만에 학습할 수 있는 파운데이션 모델 'GEN-1.5'를 공개했습니다. 범용 로봇 상용화를 앞당길 핵심 기술로 주목받고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "로보틱스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "393468bb72abf472",
-   "url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
-   "source": "Ars Technica",
-   "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
-   "published_at": "2026-08-21T13:11:35+00:00",
-   "collected_at": "2026-08-21T15:42:00.076839+00:00",
-   "title_ko": "웨이모, 로보택시 규제 완화 위해 로비 자금 두 배로 확대",
-   "summary_ko": "알파벳 산하 웨이모가 완전 자율주행 택시 서비스 승인을 얻기 위해 미국 규제 당국을 상대로 로비 지출을 크게 늘렸습니다.",
-   "category": "중요",
-   "tags": [
-    "로보틱스",
-    "투자"
-   ]
-  },
-  {
-   "id": "f33cdb159ae70575",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214203",
-   "source": "AI타임스",
-   "title": "메타, '뮤즈 비디오' 테스트 착수…오디오 동시 생성 10초 영상 선보여",
-   "published_at": "2026-08-21T13:10:37+00:00",
-   "collected_at": "2026-08-21T04:49:17.006338+00:00",
-   "title_ko": "메타, 오디오 동시 생성 영상 AI '뮤즈 비디오' 테스트 돌입",
-   "summary_ko": "메타가 영상과 음성을 동시에 생성하는 차세대 AI 모델 '뮤즈 비디오'의 비공개 베타 테스트를 시작했습니다. 크리에이터를 대상으로 10초 분량의 영상 생성 성능을 검증하고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "Meta",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "372453d5f05aaa19",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214200",
-   "source": "AI타임스",
-   "title": "엔비디아, 코딩 스타트업 풀사이드와 8조 규모 라이선스·인재 채용 계약",
-   "published_at": "2026-08-21T12:59:31+00:00",
-   "collected_at": "2026-08-21T04:49:17.006338+00:00",
-   "title_ko": "엔비디아, AI 코딩 스타트업 풀사이드와 8조 원 규모 계약",
-   "summary_ko": "엔비디아가 AI 코딩 스타트업 풀사이드와 60억 달러 규모의 라이선스 및 인재 채용 계약을 체결했습니다. AI 모델 개발 역량을 강화하기 위한 전략적 투자입니다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "투자",
-    "코딩"
-   ]
-  },
-  {
-   "id": "7d4e69220e8772e2",
-   "url": "https://www.reddit.com/r/singularity/comments/1vufbx1/i_fingerprinted_ox_alpha_same_tokenizer_as_glm53/",
-   "source": "r/singularity",
-   "title": "I fingerprinted Ox Alpha: same tokenizer as GLM-5.3 (+75 token offset), z.ai's exact error strings, near-identical temp-0 outputs",
-   "published_at": "2026-08-21T12:43:54+00:00",
-   "collected_at": "2026-08-21T13:55:07.751952+00:00",
-   "title_ko": "스텔스 AI 모델 'Ox Alpha', GLM-5.3 리패키징 의혹",
-   "summary_ko": "블랙박스 지문 테스트 결과 익명의 스텔스 모델 Ox Alpha가 토크나이저와 에러 메시지 등을 분석했을 때 GLM-5.3과 정확히 일치하는 것으로 드러났습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "중국 AI"
-   ]
-  },
-  {
-   "id": "1125c2d0d129dca5",
-   "url": "https://news.hada.io/topic?id=32726",
-   "source": "GeekNews",
-   "title": "AI 기업들이 실물 책을 파괴한다 — 너무 늦기 전에 희귀 서적을 스캔하자",
-   "published_at": "2026-08-21T12:32:21+00:00",
-   "collected_at": "2026-08-21T15:42:29.010327+00:00",
-   "title_ko": "AI 학습 데이터 확보 위해 희귀 서적 대량 매입·파괴",
-   "summary_ko": "앤스로픽 등 주요 AI 기업들이 학습 데이터 확보를 위해 수백만 권의 실물 책을 구매해 스캔한 뒤 파괴하고 있다는 소식입니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "규제"
-   ]
-  },
-  {
-   "id": "599242b46b556c66",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214192",
-   "source": "AI타임스",
-   "title": "앤트로픽, 사내 AI 교육 노하우 담은 '클로드 아카데미' 공개",
-   "published_at": "2026-08-21T12:31:59+00:00",
-   "collected_at": "2026-08-21T04:49:17.006338+00:00",
-   "title_ko": "앤트로픽, 사내 AI 교육 노하우 담은 '클로드 아카데미' 공개",
-   "summary_ko": "앤트로픽이 기업과 일반 사용자의 실질적인 AI 활용 역량 강화를 위한 교육 플랫폼 '클로드 아카데미'를 공개했습니다. 업무 적용과 결과 검증 등 지속 가능한 AI 활용법을 다룹니다.",
-   "category": "참고",
-   "tags": [
-    "Anthropic",
-    "Claude"
    ]
   }
  ]
