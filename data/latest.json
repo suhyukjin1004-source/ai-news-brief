@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-23T16:37:07.262991+00:00",
+ "updated_at": "2026-08-23T17:28:38.494457+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -35,6 +35,38 @@
    ]
   },
   {
+   "id": "575df47cada39131",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwbyzr/benchmark_results_what_is_the_best_and_fastest/",
+   "source": "r/LocalLLaMA",
+   "title": "Benchmark results: what is the best and fastest engine to run Qwen3.8-27B on macOS",
+   "published_at": "2026-08-23T16:37:44+00:00",
+   "collected_at": "2026-08-23T17:28:22.782167+00:00",
+   "title_ko": "Qwen 3.8 27B macOS 실행 엔진 성능 벤치마크",
+   "summary_ko": "로컬 에이전트 작업에 뛰어난 Qwen 3.8 27B 모델을 macOS에서 가장 빠르고 효율적으로 구동할 수 있는 엔진을 비교 분석했습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "코딩"
+   ]
+  },
+  {
+   "id": "ee722e3f7335d9ed",
+   "url": "https://news.hada.io/topic?id=32808",
+   "source": "GeekNews",
+   "title": "Qwen 3.8 27B, 리버스 엔지니어링 작업을 30분 만에 완료",
+   "published_at": "2026-08-23T16:32:39+00:00",
+   "collected_at": "2026-08-23T17:28:36.868654+00:00",
+   "title_ko": "Qwen 3.8 27B로 30분 만에 수행한 리버스 엔지니어링",
+   "summary_ko": "Qwen 3.8 27B 모델이 단일 머신에서 상용 앱의 바이너리를 정적 분석하고 인증 우회 개념증명까지 30분 만에 완성했습니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "코딩"
+   ]
+  },
+  {
    "id": "b4916600cc770d4f",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214263",
    "source": "AI타임스",
@@ -48,6 +80,21 @@
     "Meta",
     "오픈소스",
     "LLM"
+   ]
+  },
+  {
+   "id": "f943092e5899c4e1",
+   "url": "https://news.hada.io/topic?id=32807",
+   "source": "GeekNews",
+   "title": "Linus Torvalds가 AI로 Intel GPU 드라이버 버그를 추적한 과정",
+   "published_at": "2026-08-23T16:01:31+00:00",
+   "collected_at": "2026-08-23T17:28:36.868654+00:00",
+   "title_ko": "Linus Torvalds의 AI 활용 Intel GPU 버그 추적",
+   "summary_ko": "리누스 토발즈가 AI를 활용해 인텔 Xe GPU 드라이버의 복잡한 메모리 할당 버그를 추적하고 해결한 사례를 공유했습니다.",
+   "category": "참고",
+   "tags": [
+    "반도체",
+    "코딩"
    ]
   },
   {
@@ -3009,53 +3056,6 @@
    "category": "팁",
    "tags": [
     "생성형 AI"
-   ]
-  },
-  {
-   "id": "d13d3e1349aa1fce",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vugyfe/deepseek_harness_v011_released/",
-   "source": "r/LocalLLaMA",
-   "title": "DeepSeek Harness v0.1.1 released",
-   "published_at": "2026-08-21T13:51:00+00:00",
-   "collected_at": "2026-08-21T14:46:29.214590+00:00",
-   "title_ko": "DeepSeek 하네스 v0.1.1 출시",
-   "summary_ko": "멀티모달 시각 이해 모델과 이미지 입력 기능을 지원하는 DeepSeek 하네스 신규 버전이 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "DeepSeek",
-    "오픈소스",
-    "멀티모달"
-   ]
-  },
-  {
-   "id": "961f920df668304d",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vugryn/qwen_38_27b_is_strong_even_at_q3_xxs/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen 3.8 27b is strong even at Q3_xxs",
-   "published_at": "2026-08-21T13:43:39+00:00",
-   "collected_at": "2026-08-21T14:46:29.214590+00:00",
-   "title_ko": "Qwen 3.8 27B 모델 양자화 성능 평가",
-   "summary_ko": "저용량 양자화 버전에서도 뛰어난 코딩 성능을 보여주는 Qwen 신규 모델에 대한 사용자 평가가 공유되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "코딩",
-    "LLM"
-   ]
-  },
-  {
-   "id": "a21f2900e2165361",
-   "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-   "source": "Hacker News",
-   "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-   "published_at": "2026-08-21T13:43:33+00:00",
-   "collected_at": "2026-08-22T20:33:33.877943+00:00",
-   "title_ko": "텍사스 학생의 AI 해킹 시도 내부고발 사건",
-   "summary_ko": "한 텍사스 학생이 AI를 활용한 비정상적인 해킹 시도를 발견하고 이를 고발한 사건이 보도되었습니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "규제"
    ]
   }
  ]
