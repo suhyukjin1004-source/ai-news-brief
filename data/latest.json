@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-23T19:29:11.569815+00:00",
+ "updated_at": "2026-08-23T20:33:22.506360+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -16,6 +16,113 @@
    "tags": [
     "AI 에이전트",
     "OCR"
+   ]
+  },
+  {
+   "id": "d6c0f7eda20e5cca",
+   "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
+   "source": "Simon Willison",
+   "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+   "published_at": "2026-08-23T20:24:52+00:00",
+   "collected_at": "2026-08-23T20:33:03.779184+00:00",
+   "title_ko": "앤트로픽 최고급 모델의 사용자 유치 난항과 저가 도구의 약진",
+   "summary_ko": "앤트로픽의 최고 성능 AI 모델이 고비용 문제로 사용자 확보에 어려움을 겪는 반면, 저렴한 대안 도구들이 빠르게 성장하고 있습니다. 이는 LLM 시장에서 가격 대비 성능과 실용성이 점차 중요해지고 있음을 보여줍니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "OpenAI",
+    "Claude"
+   ]
+  },
+  {
+   "id": "3a73191094d4fd8a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwhj0l/you_can_now_use_mtp_in_glmair/",
+   "source": "r/LocalLLaMA",
+   "title": "you can now use MTP in GLM-Air",
+   "published_at": "2026-08-23T20:08:04+00:00",
+   "collected_at": "2026-08-23T20:33:04.550280+00:00",
+   "title_ko": "GLM-Air 모델의 MTP 지원을 통한 실행 속도 개선",
+   "summary_ko": "GLM-Air 모델이 llama.cpp에서 MTP(Multi-Token Prediction)를 지원하게 되어 로컬 환경에서의 추론 속도가 크게 향상되었습니다. 이는 메모리가 넉넉하고 연산이 제한된 환경에서 대형 MoE 모델을 활용하는 데 유용합니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "055017b0a06036dc",
+   "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+   "source": "TechCrunch",
+   "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+   "published_at": "2026-08-23T20:01:36+00:00",
+   "collected_at": "2026-08-23T20:32:56.521407+00:00",
+   "title_ko": "신규 스텔스 AI 모델 'Ox Alpha' 등장",
+   "summary_ko": "Ox Alpha라는 미스터리한 신규 AI 모델이 등장해 업계의 뜨거운 추측과 관심을 불러일으키고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "bfc57f68b0c46c6d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwhcuf/qwen_38_27b_helped_me_with_something_unique_that/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen 3.8 27b helped me with something unique that Opus 4 couldn't - Firmware + Software preservation and emulation on an early 2000's ARM based POS system",
+   "published_at": "2026-08-23T20:01:28+00:00",
+   "collected_at": "2026-08-23T20:33:04.550280+00:00",
+   "title_ko": "Qwen 3.8 27B의 독창적 펌웨어 및 소프트웨어 에뮬레이션 활용기",
+   "summary_ko": "Qwen 3.8 27B 모델이 과거 ARM 기반 POS 시스템의 소프트웨어 보존 및 에뮬레이션 같은 독창적인 실무 작업에서 뛰어난 성능을 보였습니다. 로컬 LLM이 복잡한 기술적 문제 해결에 유용하게 쓰일 수 있음을 시사합니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "02dbe79386a69164",
+   "url": "https://simonwillison.net/2026/Aug/23/drew-breunig/",
+   "source": "Simon Willison",
+   "title": "Quoting Drew Breunig",
+   "published_at": "2026-08-23T19:55:30+00:00",
+   "collected_at": "2026-08-23T20:33:03.779184+00:00",
+   "title_ko": "고성능 고비용 AI 모델 시대의 개발 전략 변화",
+   "summary_ko": "고비용의 고성능 모델 등장으로 인해 개발자들이 무조건적인 최신 모델 도입 대신 비용과 효율성을 고려한 코딩 하네스 및 컨텍스트 전략을 고민하기 시작했습니다.",
+   "category": "참고",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "코딩"
+   ]
+  },
+  {
+   "id": "900a591b743f91d8",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwh3u7/we_quantized_qwen_38_27b_and_compared_the_quants/",
+   "source": "r/LocalLLaMA",
+   "title": "We quantized Qwen 3.8 27B and compared the quants on an RTX 6000",
+   "published_at": "2026-08-23T19:52:11+00:00",
+   "collected_at": "2026-08-23T20:33:04.550280+00:00",
+   "title_ko": "Qwen 3.8 27B 양자화 버전 성능 비교",
+   "summary_ko": "연구팀이 Qwen 3.8 27B의 다양한 양자화(GGUF) 버전을 RTX 6000 환경에서 테스트하고 3D 씬 생성 작업을 통해 성능과 속도를 비교했습니다. 로컬 환경에서 하드웨어 제약에 맞는 모델 최적화 정보를 제공합니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "275cb45eba1ab802",
+   "url": "https://news.hada.io/topic?id=32811",
+   "source": "GeekNews",
+   "title": "GLM-5.3 오픈 웨이트, Anthropic·OpenAI 모델을 5분의 1 비용으로 제침",
+   "published_at": "2026-08-23T19:35:19+00:00",
+   "collected_at": "2026-08-23T20:33:18.993127+00:00",
+   "title_ko": "오픈 웨이트 모델 GLM-5.3, 주요 빅테크 모델 성능 능가",
+   "summary_ko": "오픈 웨이트 모델인 GLM-5.3이 주요 실무 과제에서 우수한 성적을 거두며 기존 대형 모델들을 5분의 1 수준의 비용으로 압도했습니다. 고성능 오픈소스 모델의 가격 경쟁력이 한층 강화되었음을 보여줍니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "OpenAI",
+    "Anthropic"
    ]
   },
   {
@@ -2952,113 +3059,6 @@
    "category": "참고",
    "tags": [
     "생성형 AI"
-   ]
-  },
-  {
-   "id": "550e68a4d7aeddbc",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214211",
-   "source": "AI타임스",
-   "title": "\"AI로 사회문제 해결한다\"…과기부, 2026 AI·디지털 챌린지 공모",
-   "published_at": "2026-08-21T14:47:03+00:00",
-   "collected_at": "2026-08-21T07:01:03.331461+00:00",
-   "title_ko": "과기정통부, 2026 AI·디지털 챌린지 공모 개최",
-   "summary_ko": "과학기술정보통신부가 AI 에이전트와 바이브 코딩을 활용해 사회문제를 해결하는 대국민 공모전을 개최합니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "6e51a4b1085c3b68",
-   "url": "https://news.hada.io/topic?id=32737",
-   "source": "GeekNews",
-   "title": "인간의 판단은 소프트웨어 공장을 떠나지 않고 위치를 바꿈",
-   "published_at": "2026-08-21T14:44:25+00:00",
-   "collected_at": "2026-08-21T15:42:29.010327+00:00",
-   "title_ko": "소프트웨어 자동화 시대 인간 판단의 역할",
-   "summary_ko": "코드 생성이 자동화되더라도 제품 의도, 시스템 설계, 품질 기준 및 최종 배포 과정에서는 여전히 인간의 판단과 책임이 중요함을 강조합니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "fbf4cf4b3a771e14",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214215",
-   "source": "AI타임스",
-   "title": "알리바바, AI·클라우드 성장에도 대규모 투자로 순이익 75% 급감",
-   "published_at": "2026-08-21T14:42:02+00:00",
-   "collected_at": "2026-08-21T07:01:02.186950+00:00",
-   "title_ko": "알리바바, 대규모 AI 인프라 투자로 순이익 급감",
-   "summary_ko": "알리바바가 AI와 클라우드 인프라에 대한 공격적인 투자로 인해 단기 순이익이 크게 감소했습니다.",
-   "category": "중요",
-   "tags": [
-    "투자",
-    "반도체"
-   ]
-  },
-  {
-   "id": "e62dc03a12c7a34d",
-   "url": "https://news.hada.io/topic?id=32735",
-   "source": "GeekNews",
-   "title": "Huzzah - 의사코드로 AI 코딩을 제어하는 새로운 접근법",
-   "published_at": "2026-08-21T14:32:08+00:00",
-   "collected_at": "2026-08-21T15:42:29.010327+00:00",
-   "title_ko": "의도 기반 의사코드로 AI 코딩을 제어하는 Huzzah",
-   "summary_ko": "장문의 채팅 프롬프트 대신 선언형 의사코드를 지속적으로 저장하고 코드로 변환하여 개발자의 의도를 유지하는 새로운 코딩 편집기입니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "0dbbd03afc616e4a",
-   "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-   "source": "Hacker News",
-   "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
-   "published_at": "2026-08-21T14:31:52+00:00",
-   "collected_at": "2026-08-21T20:34:23.238210+00:00",
-   "title_ko": "Claude의 버즈피드 스타일 말투를 교정하는 도구",
-   "summary_ko": "Claude가 과도하게 자극적이거나 가벼운 버즈피드 기사 같은 말투로 답변하는 것을 방지하기 위한 오픈소스 도구입니다. 프롬프트 및 응답 스타일을 개선하여 실무 활용성을 높여줍니다.",
-   "category": "팁",
-   "tags": [
-    "Claude",
-    "Anthropic",
-    "코딩"
-   ]
-  },
-  {
-   "id": "1a149ed4e14f5fb1",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214212",
-   "source": "AI타임스",
-   "title": "구글, 승무원 노조 반발로 스피릿 항공 데이터 매입 제동",
-   "published_at": "2026-08-21T14:16:32+00:00",
-   "collected_at": "2026-08-21T05:40:42.830151+00:00",
-   "title_ko": "구글, 승무원 노조 반발로 스피릿 항공 데이터 매입 제동",
-   "summary_ko": "구글이 AI 학습용으로 스피릿 항공의 데이터를 매입하려 했으나, 승무원 노조의 개인정보 보호 우려 제기로 매각 승인이 연기되었습니다. AI 학습 데이터 확보 과정에서 프라이버시와 노동권 이슈가 중요하게 부각되고 있음을 보여줍니다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "AI 학습",
-    "규제"
-   ]
-  },
-  {
-   "id": "6cb57ff6f164d403",
-   "url": "https://www.reddit.com/r/singularity/comments/1vuhlhn/nvidias_coding_agent_scored_100_on_arcagi3/",
-   "source": "r/singularity",
-   "title": "NVIDIA’s coding agent scored 100% on ARC-AGI-3 interactive reasoning benchmark",
-   "published_at": "2026-08-21T14:15:56+00:00",
-   "collected_at": "2026-08-21T22:34:03.166711+00:00",
-   "title_ko": "엔비디아 코딩 에이전트, ARC-AGI-3 추론 벤치마크 100점 달성",
-   "summary_ko": "엔비디아의 AI 코딩 에이전트가 인터랙티브 추론 능력 측정 벤치마크에서 만점을 기록하며 뛰어난 문제 해결력을 입증했습니다.",
-   "category": "속보",
-   "tags": [
-    "NVIDIA",
-    "AI 에이전트"
    ]
   }
  ]
