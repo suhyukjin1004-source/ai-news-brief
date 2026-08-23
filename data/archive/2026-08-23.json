@@ -1,5 +1,229 @@
 [
  {
+  "id": "5dda1e75072f54cb",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214235",
+  "source": "AI타임스",
+  "title": "“솔라 프로4로 코드 리뷰 가능”…업스테이지, ‘코드 솔라’ 공개",
+  "published_at": "2026-08-23T10:11:47+00:00",
+  "collected_at": "2026-08-23T01:54:20.906000+00:00",
+  "title_ko": "업스테이지, 솔라 프로 4 기반 AI 코드 리뷰어 공개",
+  "summary_ko": "업스테이지가 솔라 프로 4 모델을 활용해 자동으로 버그와 성능 이슈를 검토하는 '코드 솔라'를 선보였다. 개발 생산성을 높이는 데 기여할 것으로 기대된다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "1ca86638623ea8b0",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214257",
+  "source": "AI타임스",
+  "title": "\"AI 모델 해킹 사고 때문?\"…오픈AI, 캘리포니아 AI 규제법 지지로 급선회",
+  "published_at": "2026-08-23T09:45:49+00:00",
+  "collected_at": "2026-08-23T01:54:20.906000+00:00",
+  "title_ko": "오픈아이, 캘리포니아 AI 규제법 지지로 선회",
+  "summary_ko": "오픈AI가 AI 안전 장치와 모니터링 강화를 요구하며 캘리포니아주 AI 규제 법안을 지지한다는 입장을 밝혔다. 과거의 반대 입장에서 선회한 것으로 주목된다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "규제"
+  ]
+ },
+ {
+  "id": "6e3046fe9ea3da18",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214254",
+  "source": "AI타임스",
+  "title": "앤트로픽, IPO서 138조 조달 목표…역대 최대 상장 기록 경신 전망",
+  "published_at": "2026-08-23T09:17:39+00:00",
+  "collected_at": "2026-08-23T01:54:20.906000+00:00",
+  "title_ko": "앤트로픽, IPO서 138조 원 조달 목표 추진",
+  "summary_ko": "앤트로픽이 미국 증시 상장을 통해 최대 1,000억 달러 규모의 자금 조달을 추진한다. 성사 시 역대 최대 공모 기록을 경신할 전망이다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "투자"
+  ]
+ },
+ {
+  "id": "6620d2e8f28cfc29",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214252",
+  "source": "AI타임스",
+  "title": "LGU+·유튜브 '유쓰 AI 쇼츠 페스티벌'에 작품 5009개 접수",
+  "published_at": "2026-08-23T09:00:00+00:00",
+  "collected_at": "2026-08-23T01:54:20.906000+00:00",
+  "title_ko": "LGU+-유튜브, AI 쇼츠 페스티벌에 5천여 개 작품 접수",
+  "summary_ko": "LG유플러스와 유튜브가 공동 개최한 생성형 AI 기반 쇼츠 영상 공모전에 5천 건이 넘는 작품이 접수됐다. AI 콘텐츠 창작 문화 확산을 보여준다.",
+  "category": "참고",
+  "tags": [
+   "Gemini"
+  ]
+ },
+ {
+  "id": "40bc035d9fb0a8aa",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214253",
+  "source": "AI타임스",
+  "title": "메모리 폭등에 엔비디아 서버 최대 15% 인상...빅테크 부담 가중",
+  "published_at": "2026-08-23T08:36:05+00:00",
+  "collected_at": "2026-08-23T01:54:20.906000+00:00",
+  "title_ko": "메모리 가격 폭등에 엔비디아 AI 서버 가격 최대 15% 인상",
+  "summary_ko": "메모리 반도체 가격 상승 여파로 내년 초 출하되는 엔비디아 AI 서버 가격이 최대 15% 인상된다. 빅테크 기업들의 비용 부담이 커질 것으로 보인다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
+  "id": "a9c3dbc4b93b79b4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvtu9z/i_fine_tuned_gemma_4_12b_for_a_27x_improvement_on/",
+  "source": "r/LocalLLaMA",
+  "title": "I fine tuned Gemma 4 12B for a 2.7x improvement on tool calling because I can't fit anything else comfortably into my 16 GBs of Vram",
+  "published_at": "2026-08-23T01:30:21+00:00",
+  "collected_at": "2026-08-23T01:54:07.632379+00:00",
+  "title_ko": "제마 12B 모델 파인튜닝으로 도구 호출 성능 개선",
+  "summary_ko": "VRAM 제약이 있는 환경에서 로컬 모델의 도구 호출 및 CLI 성능을 높이기 위해 제마 12B를 파인튜닝한 사례다. 에이전트 코딩 효율을 크게 향상시켰다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "c73e0af0be0a4bfe",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvt7lo/closed_ai_has_been_real_quiet_since_qwen_38_27b/",
+  "source": "r/LocalLLaMA",
+  "title": "Closed AI has been real quiet since Qwen 3.8 27B dropped.",
+  "published_at": "2026-08-23T00:59:42+00:00",
+  "collected_at": "2026-08-23T01:54:07.632379+00:00",
+  "title_ko": "오픈소스 큐웬 27B 등장에 유료 폐쇄형 AI 업계 긴장",
+  "summary_ko": "성능이 뛰어난 오픈소스 모델 '큐웬 3.8 27B'가 공개되면서 로컬 실행 환경에서 유료 클라우드 모델을 대체할 수 있다는 평가가 나오고 있다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "1c7d9f3e4837b23b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvt3c4/has_anyone_actually_made_64k_feel_like_300k_with/",
+  "source": "r/LocalLLaMA",
+  "title": "Has anyone actually made 64k feel like 300k+ with recursive local agents?",
+  "published_at": "2026-08-23T00:54:06+00:00",
+  "collected_at": "2026-08-23T01:54:07.632379+00:00",
+  "title_ko": "로컬 에이전트의 컨텍스트 한계 극복을 위한 재귀적 구조 활용",
+  "summary_ko": "로컬 LLM 구동 시 제한된 컨텍스트 윈도우를 효율적으로 관리하기 위해 하위 자식 에이전트를 순차적으로 생성하는 아키텍처 아이디어다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "849d8a1cd25fba80",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvsokm/tested_in_coding_q8_k_xl_qwen38_27b_vs_bf16/",
+  "source": "r/LocalLLaMA",
+  "title": "Tested in Coding: Q8_K_XL Qwen3.8 27B vs BF16 Qwen3.6 27B",
+  "published_at": "2026-08-23T00:34:31+00:00",
+  "collected_at": "2026-08-23T01:54:07.632379+00:00",
+  "title_ko": "큐웬 최신 버전 코딩 및 대용량 컨텍스트 성능 비교",
+  "summary_ko": "대규모 컨텍스트와 확장된 양자화를 적용한 큐웬 모델의 코딩 작업 성능을 비교 분석한 테스트다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "860388f508db67e3",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvsgsp/best_harness_for_long_autonomous_tasks/",
+  "source": "r/LocalLLaMA",
+  "title": "Best harness for long autonomous tasks",
+  "published_at": "2026-08-23T00:24:26+00:00",
+  "collected_at": "2026-08-23T01:54:07.632379+00:00",
+  "title_ko": "자율 장기 태스크 수행을 위한 최적의 AI 에이전트 도구 탐색",
+  "summary_ko": "로컬 LLM을 활용해 장시간 동안 자율적으로 코딩 및 작업을 수행하는 에이전트 하네스 구성에 대한 논의다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "073a574d86d48a2d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvrcx5/3_experiments_running_dsv4flash0731_q4_quants_on/",
+  "source": "r/LocalLLaMA",
+  "title": "3 experiments running dsv4-flash-0731 q4+ quants on 128GB RAM + ~60 GB VRAM (with a quite bad pcie infra) with an acceptable tgs and relatively acceptable pp speed",
+  "published_at": "2026-08-22T23:34:46+00:00",
+  "collected_at": "2026-08-23T01:54:07.632379+00:00",
+  "title_ko": "DeepSeek 양자화 모델 로컬 구동 실험기",
+  "summary_ko": "제한된 하드웨어 환경에서 DeepSeek 양자화 모델을 효율적으로 구동하기 위한 실험 결과와 성능 수치를 공유합니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "e034cead24b89b47",
+  "url": "https://news.hada.io/topic?id=32781",
+  "source": "GeekNews",
+  "title": "GPT-5.6 Sol 가격 20% 인하",
+  "published_at": "2026-08-22T23:23:20+00:00",
+  "collected_at": "2026-08-23T01:54:22.108426+00:00",
+  "title_ko": "OpenAI, GPT-5.6 Sol API 가격 인하",
+  "summary_ko": "OpenAI가 GPT-5.6 Sol 모델의 API 가격을 최대 33% 인하하여 개발자 비용 부담을 완화했습니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "GPT"
+  ]
+ },
+ {
+  "id": "59d73cfb30644637",
+  "url": "https://news.hada.io/topic?id=32780",
+  "source": "GeekNews",
+  "title": "중국 로봇, 100m에서 우사인 볼트의 세계 기록보다 빠르게 달려",
+  "published_at": "2026-08-22T23:13:40+00:00",
+  "collected_at": "2026-08-23T01:54:22.108426+00:00",
+  "title_ko": "중국 아너 휴머노이드 로봇, 우사인 볼트 기록 경신",
+  "summary_ko": "아너의 휴머노이드 로봇 'Lightning'이 100m를 9.32초에 주주하며 로보틱스 기술의 발전 속도를 증명했습니다.",
+  "category": "중요",
+  "tags": [
+   "로보틱스"
+  ]
+ },
+ {
+  "id": "7e0224c0c4aced8f",
+  "url": "https://news.hada.io/topic?id=32778",
+  "source": "GeekNews",
+  "title": "Anthropic, Claude Code의 추론 노력 수준 축소를 A/B 테스트하는 것으로 보임",
+  "published_at": "2026-08-22T23:11:08+00:00",
+  "collected_at": "2026-08-23T01:54:22.108426+00:00",
+  "title_ko": "Anthropic, Claude Code 추론 노력 수준 A/B 테스트",
+  "summary_ko": "Anthropic이 Claude Code에서 추론 노력 수준을 조정하는 서버 측 A/B 테스트를 진행 중입니다.",
+  "category": "참고",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "cd92e6f5813401d4",
+  "url": "https://news.hada.io/topic?id=32777",
+  "source": "GeekNews",
+  "title": "새로운 MCP 로드맵 - 앞으로 집중할 5가지 영역",
+  "published_at": "2026-08-22T23:09:36+00:00",
+  "collected_at": "2026-08-23T01:54:22.108426+00:00",
+  "title_ko": "MCP, 향후 5대 발전 영역 로드맵 공개",
+  "summary_ko": "MCP가 장시간 실행되는 에이전트 작업과 권한 위임 등을 포함한 향후 명세 개발 방향을 발표했습니다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "ca1bb3e81f45e80c",
   "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
   "source": "TechCrunch",
