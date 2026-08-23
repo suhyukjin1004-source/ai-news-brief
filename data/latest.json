@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-23T14:32:36.045637+00:00",
+ "updated_at": "2026-08-23T15:31:35.298634+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -48,6 +48,50 @@
     "Meta",
     "오픈소스",
     "LLM"
+   ]
+  },
+  {
+   "id": "cb6e4e4530f6661c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw9k4k/1100_44100_finetuning_a_450m_vlm_on_50k_browser/",
+   "source": "r/LocalLLaMA",
+   "title": "1/100 → 44/100: fine-tuning a 450M VLM on 50K browser screenshots",
+   "published_at": "2026-08-23T15:04:50+00:00",
+   "collected_at": "2026-08-23T15:31:18.587739+00:00",
+   "title_ko": "브라우저 스크린샷 학습을 통한 VLM 파인튜닝 성능 향상",
+   "summary_ko": "4.5억 파라미터의 VLM을 5만 개의 브라우저 스크린샷으로 미세조정하여 성능을 크게 높인 사례 공유. 소형 비전언어모델의 실무 활용 가능성을 보여줌.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "8dafa127b694766c",
+   "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+   "source": "TechCrunch",
+   "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+   "published_at": "2026-08-23T15:00:00+00:00",
+   "collected_at": "2026-08-23T15:30:57.702445+00:00",
+   "title_ko": "저작권 도서의 AI 모델 학습 합법성 논란",
+   "summary_ko": "작가 동의 없이 저작물을 AI 학습에 사용하는 것의 법적 정당성을 두고 복잡한 논란이 지속됨. AI 업계의 데이터 수집 윤리와 저작권 이슈를 다룸.",
+   "category": "중요",
+   "tags": [
+    "규제"
+   ]
+  },
+  {
+   "id": "43a7e1b6e54a7373",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw8vuh/qwen_38_27b_for_actual_local_programming/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen 3.8 27B for actual local programming",
+   "published_at": "2026-08-23T14:38:07+00:00",
+   "collected_at": "2026-08-23T15:31:18.587739+00:00",
+   "title_ko": "로컬 코딩용 모델 Qwen 27B의 실무 프로그래밍 성능 논의",
+   "summary_ko": "Qwen 27B 같은 로컬 모델이 단순 테스트를 넘어 Rust나 C++ 기반의 복잡한 시스템 프로그래밍과 실제 기능 구현에 실제로 유용한지 개발자들이 토론함.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
    ]
   },
   {
@@ -3016,51 +3060,6 @@
    "tags": [
     "Anthropic",
     "Claude"
-   ]
-  },
-  {
-   "id": "7ba9a8235286035c",
-   "url": "https://www.reddit.com/r/singularity/comments/1vuezmb/openai_introducing_chatgpt_for_teens/",
-   "source": "r/singularity",
-   "title": "OpenAI: Introducing ChatGPT for Teens",
-   "published_at": "2026-08-21T12:28:20+00:00",
-   "collected_at": "2026-08-21T13:55:07.751952+00:00",
-   "title_ko": "OpenAI, 청소년용 ChatGPT 출시",
-   "summary_ko": "OpenAI가 청소년 사용자층을 겨냥한 맞춤형 ChatGPT 서비스를 새롭게 선보였습니다. 청소년 이용자의 안전과 접근성을 높이기 위한 조치입니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "ChatGPT"
-   ]
-  },
-  {
-   "id": "1ed030d9ef91efc3",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214191",
-   "source": "AI타임스",
-   "title": "앤트로픽도 기업 데이터 보존 정책 개편... \"고객 인프라에 직접 보관\"",
-   "published_at": "2026-08-21T12:16:57+00:00",
-   "collected_at": "2026-08-21T04:49:17.006338+00:00",
-   "title_ko": "앤트로픽, 기업 고객 인프라에 직접 데이터 보관하는 보안 체계 마련",
-   "summary_ko": "앤트로픽이 자사 서버 대신 고객의 자체 클라우드 인프라에 데이터를 보존할 수 있도록 기업 데이터 보존 정책을 개편합니다. 기존의 30일 데이터 보존 정책에 대한 기업들의 우려를 해소하기 위한 조치입니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "규제"
-   ]
-  },
-  {
-   "id": "9759208fdac3bf45",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214196",
-   "source": "AI타임스",
-   "title": "바이브컴퍼니 “온톨로지 RAG로 기업 문서·정보 등록 자동화”",
-   "published_at": "2026-08-21T11:57:38+00:00",
-   "collected_at": "2026-08-21T03:11:25.461641+00:00",
-   "title_ko": "바이브컴퍼니, 온톨로지 RAG 기반 기업 지식관리 시스템 고도화",
-   "summary_ko": "바이브컴퍼니가 AI 지식관리시스템에 온톨로지 기반 지식 등록 자동화 및 상품 비교 기능을 탑재했습니다. 복잡한 조건의 기업 문서 검색 한계를 극복하기 위해 도입되었습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "RAG"
    ]
   }
  ]
