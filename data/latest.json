@@ -1,8 +1,23 @@
 {
- "updated_at": "2026-08-23T12:56:29.264360+00:00",
+ "updated_at": "2026-08-23T13:39:39.510569+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "82d866d681cae052",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214266",
+   "source": "AI타임스",
+   "title": "한국딥러닝 “문서 에이전트, 인식률 넘어 ‘오답 찾는 능력’이 더 중요해”",
+   "published_at": "2026-08-23T20:57:27+00:00",
+   "collected_at": "2026-08-23T13:39:36.789733+00:00",
+   "title_ko": "한국딥러닝 대표 \"문서 AI 에이전트는 오답 찾는 능력이 핵심\"",
+   "summary_ko": "단순 문서 인식을 넘어 사람의 검수 부담을 줄여주는 문서 AI 에이전트와 오류 수정 능력의 중요성을 강조했습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "OCR"
+   ]
+  },
   {
    "id": "5bc6a1862904f25f",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214264",
@@ -33,6 +48,36 @@
     "Meta",
     "오픈소스",
     "LLM"
+   ]
+  },
+  {
+   "id": "fad2d2df7c76a47c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw6zsq/i_trained_a_game_music_generator/",
+   "source": "r/LocalLLaMA",
+   "title": "I trained a game music generator",
+   "published_at": "2026-08-23T13:18:15+00:00",
+   "collected_at": "2026-08-23T13:39:23.631852+00:00",
+   "title_ko": "1.2B 파라미터 게임 음악 생성 모델 개발",
+   "summary_ko": "H100 GPU 1대로 8일간 학습해 다양한 기계음악을 생성할 수 있는 오픈소스 모델이 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "NVIDIA"
+   ]
+  },
+  {
+   "id": "396d78937bf18f74",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw6nba/qwen359b_tripleloop/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.5-9B Triple-Loop",
+   "published_at": "2026-08-23T13:02:37+00:00",
+   "collected_at": "2026-08-23T13:39:23.631852+00:00",
+   "title_ko": "Qwen 기반 모델 구조 개선 실험 공유",
+   "summary_ko": "중간 레이어에 삼중 루프 아키텍처를 적용해 모델의 자체 표현력을 높이는 실험적 시도가 공유되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "Qwen"
    ]
   },
   {
@@ -3014,50 +3059,6 @@
    "summary_ko": "셀렉트스타가 AI 신뢰성 평가 플랫폼 '다투모'를 통해 더핑크퐁컴퍼니의 아기상어 AI 전시 대화 안전성과 다국어 품질을 검증했습니다. 캐릭터 세계관 유지와 부적절한 답변 방지를 위해 활용되었습니다.",
    "category": "참고",
    "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "1130499a93477a9c",
-   "url": "https://cymerys.com/w/im-becoming-ai-blind",
-   "source": "Hacker News",
-   "title": "I'm Becoming AI-Blind",
-   "published_at": "2026-08-21T11:48:05+00:00",
-   "collected_at": "2026-08-21T15:42:13.462690+00:00",
-   "title_ko": "AI 생성 콘텐츠에 대한 피로도와 무감각 현상",
-   "summary_ko": "웹상에 범람하는 AI 생성물로 인해 사람들이 피로감을 느끼며 콘텐츠를 무감각하게 지나치게 되는 현상을 다룹니다.",
-   "category": "참고",
-   "tags": [
-    "생성형 AI"
-   ]
-  },
-  {
-   "id": "d7f38792b0b083b8",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vud6va/when_9_of_top_12_models_are_just_exactly_one/",
-   "source": "r/LocalLLaMA",
-   "title": "When 9 of top 12 models are just exactly one.",
-   "published_at": "2026-08-21T11:02:53+00:00",
-   "collected_at": "2026-08-21T11:34:42.603287+00:00",
-   "title_ko": "오픈소스 LLM 랭킹의 모델 중복 문제",
-   "summary_ko": "상위 모델 상당수가 사실상 동일한 모델의 리패키징인 현상이 지적되고 있습니다. 모델 평가의 신뢰성과 다양성 측면에서 시사하는 바가 큽니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "fa575089e7aa4468",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vuce59/ornith1535ba3bninfer_250_toks_58k_prefill_5090/",
-   "source": "r/LocalLLaMA",
-   "title": "Ornith-1.5-35B-A3B-NInfer - 250 tok/s, 5-8k prefill, 5090",
-   "published_at": "2026-08-21T10:21:21+00:00",
-   "collected_at": "2026-08-21T11:34:42.603287+00:00",
-   "title_ko": "Ornith-1.5-35B 로컬 LLM 성능 후기",
-   "summary_ko": "고속 추론 환경에서 뛰어난 응답 속도와 에이전트 작업 수행 능력을 보여주는 새로운 로컬 모델 사용 후기입니다. 개인용 하드웨어에서의 실용성 검증 측면에서 중요합니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
     "AI 에이전트"
    ]
   }
