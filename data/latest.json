@@ -1,8 +1,40 @@
 {
- "updated_at": "2026-08-24T09:58:39.141912+00:00",
+ "updated_at": "2026-08-24T10:47:45.256195+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "11daa0743d4e47a3",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214316",
+   "source": "AI타임스",
+   "title": "엔비디아, 퍼플렉시티에 수십억달러 투자 논의…기업 가치 41조 평가",
+   "published_at": "2026-08-24T18:24:49+00:00",
+   "collected_at": "2026-08-24T10:47:25.382033+00:00",
+   "title_ko": "엔비디아, 퍼플렉시티에 수십억달러 투자 논의",
+   "summary_ko": "엔비디아가 AI 검색 스타트업 퍼플렉시티에 대규모 투자를 논의 중이며, 기업 가치가 41조 원 이상으로 평가받고 있습니다. 폭발적인 매출 성장이 기업 가치 급등을 이끌었습니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "투자",
+    "AI 검색"
+   ]
+  },
+  {
+   "id": "bd4473a83ce729ab",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214291",
+   "source": "AI타임스",
+   "title": "엔비디아, AI 모델 라우팅 병목 뚫었다...‘선형 연산’으로 KV 캐시 전송 성공",
+   "published_at": "2026-08-24T18:07:44+00:00",
+   "collected_at": "2026-08-24T10:47:25.382033+00:00",
+   "title_ko": "엔비디아, 모델 전환 지연 줄이는 KV 캐시 전송 기술 공개",
+   "summary_ko": "엔비디아가 AI 에이전트 작업 시 모델 간 전환에서 발생하는 라우팅 병목을 해결할 크로스 모델 KV 캐시 전송 기술을 발표했습니다. 이를 통해 모델 전환 시 연산 비용과 지연 시간을 대폭 줄일 수 있습니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "반도체",
+    "AI 에이전트"
+   ]
+  },
   {
    "id": "f76bc23de48e744b",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214299",
@@ -378,6 +410,21 @@
     "NVIDIA",
     "오픈소스",
     "반도체"
+   ]
+  },
+  {
+   "id": "72f054aea9651cb3",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwyh1k/at_a_certain_point_speed_smartness/",
+   "source": "r/LocalLLaMA",
+   "title": "At a certain point, speed >> smartness",
+   "published_at": "2026-08-24T10:02:41+00:00",
+   "collected_at": "2026-08-24T10:47:12.044439+00:00",
+   "title_ko": "LLM 활용 시 지능보다 속도가 중요하다는 의견",
+   "summary_ko": "에이전트 작업을 수행할 수 있는 수준의 지능에 도달한 후에는 모델의 속도가 실용성을 좌우하는 핵심 요소가 된다는 개발자 커뮤니티의 논의입니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
    ]
   },
   {
@@ -3003,52 +3050,6 @@
     "오픈소스",
     "반도체",
     "코딩"
-   ]
-  },
-  {
-   "id": "fd16218f6920c384",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vv71pg/antling_released_a_dspark_draft_model_for/",
-   "source": "r/LocalLLaMA",
-   "title": "AntLing released a dspark draft model for Ling-3.0-flash",
-   "published_at": "2026-08-22T08:46:11+00:00",
-   "collected_at": "2026-08-22T09:35:41.466294+00:00",
-   "title_ko": "AntLing, Ling-3.0-flash용 dspark 초안 모델 공개",
-   "summary_ko": "AntLing이 Ling-3.0-flash 모델을 위한 dspark 초안 모델을 출시했습니다. 아직 허깅페이스에 GGUF 형식은 등록되지 않았습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "615b62bdbb95fdb5",
-   "url": "https://news.hada.io/topic?id=32761",
-   "source": "GeekNews",
-   "title": "소프트웨어가 더 이상 느릴 이유는 없다",
-   "published_at": "2026-08-22T08:35:28+00:00",
-   "collected_at": "2026-08-22T10:33:40.758359+00:00",
-   "title_ko": "코딩 에이전트를 활용한 소프트웨어 성능 최적화",
-   "summary_ko": "코딩 에이전트의 등장으로 컴파일러 및 멀티스레딩 등 소프트웨어 성능 최적화 비용이 크게 낮아졌습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "코딩",
-    "성능최적화"
-   ]
-  },
-  {
-   "id": "8e5b7121bcb4a4a3",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vv6v00/freetokens_project_is_impressive/",
-   "source": "r/LocalLLaMA",
-   "title": "Freetokens project is impressive",
-   "published_at": "2026-08-22T08:34:53+00:00",
-   "collected_at": "2026-08-22T08:40:39.261197+00:00",
-   "title_ko": "로컬 LLM 추론 속도 개선하는 Freetokens 프로젝트 공개",
-   "summary_ko": "RTX 5080 환경에서 Qwen 모델 추론 시 초당 100토큰을 달성하는 새로운 오픈소스 프로젝트와 논문이 공개되었습니다. 로컬 환경에서의 LLM 성능 최적화에 중요한 기여를 할 수 있습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체",
-    "LLM"
    ]
   }
  ]
