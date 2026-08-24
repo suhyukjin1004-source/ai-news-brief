@@ -1,8 +1,70 @@
 {
- "updated_at": "2026-08-24T19:37:23.038621+00:00",
+ "updated_at": "2026-08-24T20:40:52.487356+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "4db1e86bf1f43ae3",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxdvmv/jetbrains_local_ai_using_qwen36_27b/",
+   "source": "r/LocalLLaMA",
+   "title": "JetBrains local AI (using Qwen3.6 27B)",
+   "published_at": "2026-08-24T20:06:20+00:00",
+   "collected_at": "2026-08-24T20:40:35.754682+00:00",
+   "title_ko": "JetBrains, 로컬 코딩 AI로 Qwen 모델 도입",
+   "summary_ko": "유명 IDE 제공업체인 JetBrains가 코딩 보조 기능에 Qwen 모델을 최적화하여 적용했습니다. 개발 환경에서 로컬 AI 활용도가 높아지고 있음을 보여줍니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "코딩",
+    "LLM"
+   ]
+  },
+  {
+   "id": "e8e97675c49a807c",
+   "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+   "source": "TechCrunch",
+   "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+   "published_at": "2026-08-24T19:54:19+00:00",
+   "collected_at": "2026-08-24T20:40:32.066213+00:00",
+   "title_ko": "Replit CEO, TechCrunch Disrupt 2026 연사로 참가",
+   "summary_ko": "Replit의 공동 창업자 겸 CEO인 암자드 마사드가 행사에서 프로그래밍의 미래와 회사의 역할을 공유할 예정입니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "257b72207ec8be0f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxd6yb/please_join_rlowendlocalai_a_community_for/",
+   "source": "r/LocalLLaMA",
+   "title": "Please join r/LowEndLocalAI, a community for running local LLMs on low spec hardware",
+   "published_at": "2026-08-24T19:41:38+00:00",
+   "collected_at": "2026-08-24T20:40:35.754682+00:00",
+   "title_ko": "저사양 하드웨어용 로컬 LLM 커뮤니티 신설",
+   "summary_ko": "일반 노트북이나 구형 PC, 제한된 VRAM 환경에서 로컬 LLM을 구동하기 위한 팁과 벤치마크를 공유하는 커뮤니티가 생겼습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "54076a86aff5271b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxc1gh/planning_to_spend_100_benchmarking_differnet/",
+   "source": "r/LocalLLaMA",
+   "title": "Planning to spend ~$100 benchmarking differnet Qwen3.8-27B quants and kv cache and looking for input before I start",
+   "published_at": "2026-08-24T19:00:54+00:00",
+   "collected_at": "2026-08-24T20:40:35.754682+00:00",
+   "title_ko": "Qwen 모델 양자화 및 KV 캐시 벤치마크 계획",
+   "summary_ko": "한 개발자가 클라우드 GPU를 활용해 Qwen 모델의 양자화 수준, KV 캐시, 컨텍스트 길이 등에 따른 성능을 벤치마크할 계획입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "반도체"
+   ]
+  },
   {
    "id": "5e3a7aed89b3bb7a",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxbpcc/mobilemoe_a_facebook_collection/",
@@ -846,6 +908,22 @@
     "오픈소스",
     "NVIDIA",
     "반도체"
+   ]
+  },
+  {
+   "id": "df015003760c1205",
+   "url": "https://openai.com/index/gpt-5-6-in-kiro",
+   "source": "OpenAI",
+   "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+   "published_at": "2026-08-24T12:00:00+00:00",
+   "collected_at": "2026-08-24T20:40:32.929047+00:00",
+   "title_ko": "OpenAI, Kiro에 GPT-5.6 탑재하여 가격 대비 성능 강화",
+   "summary_ko": "Kiro에 GPT-5.6이 도입되어 개발자들이 더 나은 가성비로 소프트웨어를 계획, 구축, 테스트할 수 있게 되었습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT",
+    "코딩"
    ]
   },
   {
@@ -2944,85 +3022,6 @@
    "category": "속보",
    "tags": [
     "로보틱스"
-   ]
-  },
-  {
-   "id": "3fe3ead726ba19a4",
-   "url": "https://news.hada.io/topic?id=32772",
-   "source": "GeekNews",
-   "title": "새로운 세계: 우리는 J.G. Ballard와 William Gibson의 미래에 살고 있다",
-   "published_at": "2026-08-22T19:32:45+00:00",
-   "collected_at": "2026-08-22T21:30:54.293676+00:00",
-   "title_ko": "일상으로 스며든 사이버펑크와 AI 현실",
-   "summary_ko": "로봇과 AI, 자율주행 등이 일상에 밀접하게 파고들며 SF 작가들이 상상했던 미래가 이미 현실이 되었음을 조명합니다.",
-   "category": "참고",
-   "tags": [
-    "AI",
-    "로보틱스"
-   ]
-  },
-  {
-   "id": "cbb6e8cb391315de",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvljbz/glm_and_i_created_a_llamacpp_fork_optimized_for/",
-   "source": "r/LocalLLaMA",
-   "title": "GLM and I created a llama.cpp fork optimized for AMD GFX906 (Mi50, Mi60, Radeon VII, GCN HIP) - Machine Learning, LLMs, & AI",
-   "published_at": "2026-08-22T19:29:19+00:00",
-   "collected_at": "2026-08-22T20:33:34.631604+00:00",
-   "title_ko": "AMD GFX906 최적화 llama.cpp 포크 공개",
-   "summary_ko": "AMD 구형 GPU(Mi50, Mi60, Radeon VII 등)에서 머신러닝 구동을 최적화한 llama.cpp 포크 버전이 공개되었습니다.",
-   "category": "팁",
-   "tags": [
-    "AMD",
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "6983112a8abf4de8",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvl7pc/single_rtx_5090_qwen3827b_nvfp4_at_a_real_262k/",
-   "source": "r/LocalLLaMA",
-   "title": "Single RTX 5090: Qwen3.8-27B NVFP4 at a real 262K context in vLLM — 77 tok/s short-context, 64.7 tok/s at 128K",
-   "published_at": "2026-08-22T19:16:31+00:00",
-   "collected_at": "2026-08-22T20:33:34.631604+00:00",
-   "title_ko": "RTX 5090에서 Qwen 27B 모델 262K 컨텍스트 구동 성공",
-   "summary_ko": "단일 RTX 5090 환경에서 vLLM을 활용해 대용량 컨텍스트와 비전 기능을 갖춘 Qwen 모델을 안정적으로 구동하는 설정이 공유되었습니다.",
-   "category": "팁",
-   "tags": [
-    "NVIDIA",
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "683931e34e4d9cf3",
-   "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-   "source": "TechCrunch",
-   "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-   "published_at": "2026-08-22T19:00:00+00:00",
-   "collected_at": "2026-08-22T19:29:24.757774+00:00",
-   "title_ko": "딥마인드 출신 인헤어런트, 과학 연구 재현하는 AI 에이전트 '패러데이' 공개",
-   "summary_ko": "딥마인드 출신들이 설립한 인헤어런트가 논문 재현 능력을 갖춘 AI 에이전트 '패러데이'를 공개했습니다. 이는 과학 연구 혁신을 가속화할 중요한 진전으로 평가받습니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트",
-    "OpenAI",
-    "Anthropic"
-   ]
-  },
-  {
-   "id": "4d6a7d16818af602",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214018",
-   "source": "AI타임스",
-   "title": "에임인텔리전스 \"AI 보안 사고 막으려면 공격·방어 결합한 '퍼플티밍'이 해답\"",
-   "published_at": "2026-08-22T19:00:00+00:00",
-   "collected_at": "2026-08-22T10:33:39.066930+00:00",
-   "title_ko": "AI 보안 사고 대안으로 '퍼플티밍' 주목",
-   "summary_ko": "자율 AI 에이전트의 잇따른 보안 이탈 사고에 대해, 공격과 방어를 결합한 퍼플티밍이 실효성 있는 해결책으로 제시되었습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "보안",
-    "OpenAI"
    ]
   }
  ]
