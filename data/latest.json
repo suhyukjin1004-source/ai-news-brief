@@ -1,8 +1,37 @@
 {
- "updated_at": "2026-08-24T22:36:50.018474+00:00",
+ "updated_at": "2026-08-24T23:30:11.639386+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "136703452c93af59",
+   "url": "https://www.reddit.com/r/singularity/comments/1vxgc8o/parsewave_reviewers_favourite_mystery_did_the_ai/",
+   "source": "r/singularity",
+   "title": "Parsewave Reviewer’s Favourite Mystery- Did the AI fail, or did a human write the worst instructions ever created?",
+   "published_at": "2026-08-24T21:36:59+00:00",
+   "collected_at": "2026-08-24T23:30:05.252436+00:00",
+   "title_ko": "AI 평가 시 모호한 프롬프트가 미치는 영향",
+   "summary_ko": "AI 모델을 평가할 때 명확하지 않은 지시사항이 모델의 성능 오판으로 이어질 수 있다는 분석이다. 프롬프트 품질 관리가 AI 평가의 핵심 과제로 부각되고 있다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "7d05e9467c7a029d",
+   "url": "https://news.hada.io/topic?id=32854",
+   "source": "GeekNews",
+   "title": "AI 의존이 코딩 전문성의 성장 경로를 무너뜨릴 수 있음",
+   "published_at": "2026-08-24T21:33:40+00:00",
+   "collected_at": "2026-08-24T23:30:07.706297+00:00",
+   "title_ko": "AI 코딩 도구가 초보 개발자의 성장에 미치는 영향",
+   "summary_ko": "AI 코딩 도구의 과도한 의존이 초보 개발자의 시행착오와 문제 해결 능력 성장을 방해할 수 있다는 우려가 제기됐다. 장기적인 전문성 확보를 위한 균형 있는 활용이 필요하다.",
+   "category": "참고",
+   "tags": [
+    "코딩",
+    "AI 에이전트"
+   ]
+  },
   {
    "id": "c63b04630f2fca14",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxg8be/the_journey_of_letting_qwen_3638_autonomously/",
@@ -32,6 +61,20 @@
    "tags": [
     "오픈소스",
     "코딩"
+   ]
+  },
+  {
+   "id": "3e73ff892fc589de",
+   "url": "https://www.reddit.com/r/singularity/comments/1vxg3xh/why_do_antis_still_believe_ai_is/",
+   "source": "r/singularity",
+   "title": "Why do antis still believe ai is incompetent/useless? This will lead to regulation coming too late.",
+   "published_at": "2026-08-24T21:28:17+00:00",
+   "collected_at": "2026-08-24T23:30:05.252436+00:00",
+   "title_ko": "AI 회의론과 규제 논의의 시급성",
+   "summary_ko": "일부 대중과 개발자의 AI 효용성에 대한 회의론이 대규모 실직 등에 대비한 시의적절한 규제 도입을 지연시키고 있다는 지적이다.",
+   "category": "참고",
+   "tags": [
+    "규제"
    ]
   },
   {
@@ -78,6 +121,34 @@
    "tags": [
     "오픈소스",
     "LLM"
+   ]
+  },
+  {
+   "id": "85e02ac01b620e0a",
+   "url": "https://news.hada.io/topic?id=32853",
+   "source": "GeekNews",
+   "title": "Varkos - 대화를 넘어 Skyrim 세계를 인식하고 행동하는 AI 동료",
+   "published_at": "2026-08-24T19:39:44+00:00",
+   "collected_at": "2026-08-24T23:30:07.706297+00:00",
+   "title_ko": "스카이림 세계를 인식하고 행동하는 AI 동료 'Varkos'",
+   "summary_ko": "Varkos는 단순 대화를 넘어 게임 세계 상태를 인식하고 복합 명령을 수행하는 실시간 AI 동료다. 게임 내 AI의 상호작용 수준을 한 단계 끌어올렸다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "d278b12e264eba60",
+   "url": "https://news.hada.io/topic?id=32852",
+   "source": "GeekNews",
+   "title": "MS Paint와 Photos, 로컬 AI 이미지에 서버 발급 GUID를 보이지 않는 워터마크로 삽입",
+   "published_at": "2026-08-24T19:36:44+00:00",
+   "collected_at": "2026-08-24T23:30:07.706297+00:00",
+   "title_ko": "마이크로소프트, 페인트·사진 앱 로컬 AI 이미지에 워터마크 삽입",
+   "summary_ko": "MS는 로컬 기기에서 생성된 AI 이미지에도 서버에서 발급받은 식별자를 보이지 않는 워터마크로 삽입한다. AI 콘텐츠 추적 및 식별 기능 강화를 위한 조치다.",
+   "category": "중요",
+   "tags": [
+    "Microsoft"
    ]
   },
   {
@@ -2947,81 +3018,6 @@
    "category": "중요",
    "tags": [
     "로보틱스"
-   ]
-  },
-  {
-   "id": "7e0224c0c4aced8f",
-   "url": "https://news.hada.io/topic?id=32778",
-   "source": "GeekNews",
-   "title": "Anthropic, Claude Code의 추론 노력 수준 축소를 A/B 테스트하는 것으로 보임",
-   "published_at": "2026-08-22T23:11:08+00:00",
-   "collected_at": "2026-08-23T01:54:22.108426+00:00",
-   "title_ko": "Anthropic, Claude Code 추론 노력 수준 A/B 테스트",
-   "summary_ko": "Anthropic이 Claude Code에서 추론 노력 수준을 조정하는 서버 측 A/B 테스트를 진행 중입니다.",
-   "category": "참고",
-   "tags": [
-    "Anthropic",
-    "Claude",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "cd92e6f5813401d4",
-   "url": "https://news.hada.io/topic?id=32777",
-   "source": "GeekNews",
-   "title": "새로운 MCP 로드맵 - 앞으로 집중할 5가지 영역",
-   "published_at": "2026-08-22T23:09:36+00:00",
-   "collected_at": "2026-08-23T01:54:22.108426+00:00",
-   "title_ko": "MCP, 향후 5대 발전 영역 로드맵 공개",
-   "summary_ko": "MCP가 장시간 실행되는 에이전트 작업과 권한 위임 등을 포함한 향후 명세 개발 방향을 발표했습니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "e3fab2832e65b3e5",
-   "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-   "source": "Hacker News",
-   "title": "NanoGPT Speedrun Frontier",
-   "published_at": "2026-08-22T22:14:27+00:00",
-   "collected_at": "2026-08-23T10:33:13.907711+00:00",
-   "title_ko": "나노GPT 스피드런 프론티어 연구 공개",
-   "summary_ko": "초소형 GPT 모델 학습 속도를 극대화하기 위한 연구 결과입니다. 소형 언어모델 학습 최적화 과정에 대한 통찰을 제공합니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "머신러닝"
-   ]
-  },
-  {
-   "id": "ca1bb3e81f45e80c",
-   "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-   "source": "TechCrunch",
-   "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-   "published_at": "2026-08-22T21:46:56+00:00",
-   "collected_at": "2026-08-22T22:31:51.463255+00:00",
-   "title_ko": "하버드 스타트업 부트캠프, 강사 AI 아바타 도입",
-   "summary_ko": "하버드 비즈니스 스쿨 창업 프로그램에서 피치 연습과 이사회 회의 시 피드백을 제공하는 AI 아바타를 도입했습니다. 교육 분야의 AI 활용 사례로 주목받고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 아바타",
-    "교육"
-   ]
-  },
-  {
-   "id": "b89d46b64e34cb1a",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvnzwx/best_tiiiny_model_for_session_compression/",
-   "source": "r/LocalLLaMA",
-   "title": "Best tiiiny model for session compression?",
-   "published_at": "2026-08-22T21:07:35+00:00",
-   "collected_at": "2026-08-22T23:28:55.271264+00:00",
-   "title_ko": "세션 압축을 위한 초소형 언어모델 활용 논의",
-   "summary_ko": "컨텍스트 절약을 위해 대형 모델 대신 소형 언어모델을 세션 압축 및 요약에 활용하는 방안에 대한 실무적 논의입니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "코딩"
    ]
   }
  ]
