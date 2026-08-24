@@ -1,8 +1,143 @@
 {
- "updated_at": "2026-08-23T23:29:52.624522+00:00",
+ "updated_at": "2026-08-24T01:51:44.857381+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "1c657f0cbdb7198a",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214269",
+   "source": "AI타임스",
+   "title": "프리윌린, 피어슨과 협력으로 콘텐츠 강화…“국내 100개 대학이 선택한 에듀테크”",
+   "published_at": "2026-08-24T08:38:06+00:00",
+   "collected_at": "2026-08-24T01:51:39.250010+00:00",
+   "title_ko": "프리윌린, 피어슨과 협력해 AI 코스웨어 콘텐츠 강화",
+   "summary_ko": "에듀테크 기업 프리윌린이 피어슨과 파트너십을 맺고 AI 코스웨어 '풀리캠퍼스'에 글로벌 교육 콘텐츠를 접목한다. 맞춤형 AI 교육 솔루션 고도화에 기여할 것으로 보인다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트",
+    "에듀테크"
+   ]
+  },
+  {
+   "id": "47956349ca734187",
+   "url": "https://news.hada.io/topic?id=32825",
+   "source": "GeekNews",
+   "title": "내가 가진 모든 것, 모두 장악당하다",
+   "published_at": "2026-08-24T01:33:10+00:00",
+   "collected_at": "2026-08-24T01:51:40.153636+00:00",
+   "title_ko": "Claude Opus를 활용한 주변기기 펌웨어 역공학",
+   "summary_ko": "개발자가 Claude Opus를 이용해 주변기기 5종의 펌웨어를 역공학하고 보안 취약점과 숨겨진 기능을 찾아냈다. AI가 복잡한 보안 분석 작업에 유용하게 쓰일 수 있음을 보여준다.",
+   "category": "참고",
+   "tags": [
+    "Claude",
+    "보안",
+    "코딩"
+   ]
+  },
+  {
+   "id": "1024aae329678e3c",
+   "url": "https://news.hada.io/topic?id=32824",
+   "source": "GeekNews",
+   "title": "AI가 인간의 실행력을 확장하려면 무엇이 필요한가",
+   "published_at": "2026-08-24T01:30:02+00:00",
+   "collected_at": "2026-08-24T01:51:40.153636+00:00",
+   "title_ko": "AI가 인간의 실행력을 확장하는 방법",
+   "summary_ko": "벤처캐피털 분석을 통해 AI가 단순히 작업을 대신하는 것을 넘어 인간의 실행력을 어떻게 확장하고 가치를 창출하는지 조명한다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "투자"
+   ]
+  },
+  {
+   "id": "1a473ae013c89e60",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwowbu/qwen_38_27b_just_wanted_to_say_thanks_to_you_guys/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen 3.8 27B, just wanted to say thanks to you guys",
+   "published_at": "2026-08-24T01:22:02+00:00",
+   "collected_at": "2026-08-24T01:51:26.227190+00:00",
+   "title_ko": "로컬 LLM과 홈 어시스턴트를 연동한 AI 에이전트 구축기",
+   "summary_ko": "사용자가 오픈소스 모델과 llama.cpp를 활용해 로컬 환경에서 스마트홈과 연동되는 코딩 및 홈 오토메이션 에이전트를 구축했다. 로컬 LLM 생태계의 실용성을 보여준다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "ee1792416809be52",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwoseh/convrot_quant_method_now_in_llamacppturboquant/",
+   "source": "r/LocalLLaMA",
+   "title": "ConvRot Quant method now in llama-cpp-turboquant",
+   "published_at": "2026-08-24T01:16:57+00:00",
+   "collected_at": "2026-08-24T01:51:26.227190+00:00",
+   "title_ko": "llama-cpp-turboquant에 ConvRot 양자화 방식 추가",
+   "summary_ko": "LLM 양자화 성능을 높여주는 ConvRot 방식이 llama-cpp-turboquant에 적용되었다. 모델 품질 손실을 줄이면서 효율적인 구동이 가능해진다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "48f64f97c1d8d06c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwon35/clean_your_dust_bunnies/",
+   "source": "r/LocalLLaMA",
+   "title": "clean your dust bunnies",
+   "published_at": "2026-08-24T01:10:04+00:00",
+   "collected_at": "2026-08-24T01:51:26.227190+00:00",
+   "title_ko": "증류 모델을 활용한 로컬 AI 하드웨어 점검 밈",
+   "summary_ko": "로컬로 구동되는 증류 모델이 하드웨어 유지보수를 제안하는 개발자의 유머러스한 경험 공유다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "53513252a2cd4a59",
+   "url": "https://news.hada.io/topic?id=32820",
+   "source": "GeekNews",
+   "title": "srelens - 엔지니어와 AI 에이전트 모두를 위한 쿠버네티스 컨트롤룸",
+   "published_at": "2026-08-24T00:30:02+00:00",
+   "collected_at": "2026-08-24T01:51:40.153636+00:00",
+   "title_ko": "엔지니어와 AI 에이전트를 위한 쿠버네티스 툴 'srelens'",
+   "summary_ko": "쿠버네티스 트러블슈팅 과정을 하나로 통합한 데스크톱 워크스페이스가 공개됐다. 인간 엔지니어뿐만 아니라 AI 에이전트의 작업 효율도 높여준다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "86703f41940a97af",
+   "url": "https://news.hada.io/topic?id=32819",
+   "source": "GeekNews",
+   "title": "Hister - 직접 통제하는 비공개 전체 콘텐츠 검색 인덱스",
+   "published_at": "2026-08-24T00:01:49+00:00",
+   "collected_at": "2026-08-24T01:51:40.153636+00:00",
+   "title_ko": "개인용 전체 콘텐츠 검색 인덱스 도구 'Hister'",
+   "summary_ko": "웹페이지와 파일을 자체 서버에 저장하고 MCP 등과 연동해 통합 검색을 지원하는 도구다. 로컬 AI 에이전트의 컨텍스트 소스로 활용하기 좋다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "2d95292ff63e0e45",
+   "url": "https://news.hada.io/topic?id=32818",
+   "source": "GeekNews",
+   "title": "프로덕트 엔지니어의 사고방식 - 태스크 수행자에서 문제 해결의 주체로",
+   "published_at": "2026-08-24T00:00:03+00:00",
+   "collected_at": "2026-08-24T01:51:40.153636+00:00",
+   "title_ko": "AI 시대 프로덕트 엔지니어의 역할 변화",
+   "summary_ko": "코딩 자동화로 인해 엔지니어의 역량이 단순 구현을 넘어 문제를 정의하고 해결하는 주체로 이동하고 있음을 분석한다.",
+   "category": "참고",
+   "tags": [
+    "코딩"
+   ]
+  },
   {
    "id": "3f80288f331596d5",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwkicx/any_upcoming_models_to_be_excited_about/",
@@ -31,6 +166,21 @@
    "tags": [
     "AI 에이전트",
     "소프트웨어"
+   ]
+  },
+  {
+   "id": "7018ff8264c8ab5d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwizvm/looking_at_a_powercolor_r9700_for_qwen3827b_q4_k/",
+   "source": "r/LocalLLaMA",
+   "title": "Looking at a PowerColor R9700 for Qwen3.8-27B, Q4_K_XL, llama.cpp/Vulkan.",
+   "published_at": "2026-08-23T21:05:37+00:00",
+   "collected_at": "2026-08-24T01:51:26.227190+00:00",
+   "title_ko": "로컬 LLM 구동을 위한 하드웨어 성능 및 벤치마크 논의",
+   "summary_ko": "특정 GPU와 Vulkan 환경에서 대형 오픈소스 모델 구동 시 컨텍스트 길이에 따른 성능 저하와 토큰 처리 속도를 점검하는 사용자들의 논의다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "NVIDIA"
    ]
   },
   {
@@ -2909,157 +3059,6 @@
    "tags": [
     "AI 에이전트",
     "코딩"
-   ]
-  },
-  {
-   "id": "ae88367fad4df446",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vukj3m/fireredaudio_fireredtts3_by_fireredteam/",
-   "source": "r/LocalLLaMA",
-   "title": "FireRedAudio & FireRedTTS3 by FireRedTeam - Huggingface",
-   "published_at": "2026-08-21T16:05:05+00:00",
-   "collected_at": "2026-08-21T16:45:34.975946+00:00",
-   "title_ko": "범용 오디오 언어 모델 FireRedAudio 공개",
-   "summary_ko": "음성 이해와 생성을 모두 지원하는 9B 파라미터 기반의 범용 오디오 언어 모델 FireRedAudio와 FireRedTTS3가 공개되었습니다. 음성 인식 및 제로샷 합성 성능을 제공합니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "e58e5946905afb05",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214231",
-   "source": "AI타임스",
-   "title": "포티투마루, 화성시 '민원 행정 AI 플랫폼' 구축한다",
-   "published_at": "2026-08-21T16:05:00+00:00",
-   "collected_at": "2026-08-21T10:39:36.016260+00:00",
-   "title_ko": "포티투마루, 화성시 민원 행정 AI 플랫폼 구축",
-   "summary_ko": "포티투마루가 화성시의 공공 AI 서비스 지원 사업을 통해 민원 분석 및 에이전틱 AI 플랫폼을 구축한다. 공공 부문의 AI 도입과 RAG 활용 확산에 기여한다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "RAG"
-   ]
-  },
-  {
-   "id": "86140beb2ccc0475",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vukf57/ultrafast_qwen3tts_at_34_ms_timetofirstaudio/",
-   "source": "r/LocalLLaMA",
-   "title": "Ultrafast Qwen3-TTS at 34 ms Time-to-First-Audio, Handling 10 Requests Per Second [OSS]",
-   "published_at": "2026-08-21T16:01:06+00:00",
-   "collected_at": "2026-08-21T20:34:24.560033+00:00",
-   "title_ko": "초고속 Qwen3-TTS 오픈소스 구현체 공개",
-   "summary_ko": "지연 시간을 대폭 줄이고 초당 10개 이상의 요청을 처리할 수 있는 Qwen3-TTS 오픈소스 구현체가 공개되었습니다. 로컬 환경에서 음성 합성 모델의 응답 속도 문제를 해결하여 실시간 활용도를 높였습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "음성 합성"
-   ]
-  },
-  {
-   "id": "b0a144892c395d59",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vuke8o/i_benchmarked_ox_alpha_on_swebench_verified_mini/",
-   "source": "r/LocalLLaMA",
-   "title": "I benchmarked Ox Alpha on SWE-bench Verified Mini (50 tasks): 96% resolved. Now I’m skeptical of myself.",
-   "published_at": "2026-08-21T16:00:19+00:00",
-   "collected_at": "2026-08-21T16:45:34.975946+00:00",
-   "title_ko": "SWE-bench에서 96% 기록한 Ox Alpha 모델 등장",
-   "summary_ko": "소프트웨어 엔지니어링 벤치마크인 SWE-bench에서 무료 등급의 Ox Alpha 모델이 96% 해결률을 기록하며 뛰어난 코딩 능력을 입증했습니다.",
-   "category": "중요",
-   "tags": [
-    "코딩",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "68a680ec4501be57",
-   "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
-   "source": "Hacker News",
-   "title": "How we made a text-to-speech model respond in sub-50 ms",
-   "published_at": "2026-08-21T15:51:10+00:00",
-   "collected_at": "2026-08-22T01:44:01.889630+00:00",
-   "title_ko": "50ms 미만 응답 속도를 구현한 텍스트 음성 변환 모델",
-   "summary_ko": "초고속 응답을 제공하는 음성 합성 모델의 아키텍처와 비용 효율화 방안을 소개합니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "d98f332ac3590aad",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214217",
-   "source": "AI타임스",
-   "title": "웨이모, 로보택시용 맞춤형 자체 칩 개발...외부 의존 낮추고 주행 판단 강화",
-   "published_at": "2026-08-21T15:50:14+00:00",
-   "collected_at": "2026-08-21T07:01:02.186950+00:00",
-   "title_ko": "웨이모, 로보택시용 자체 AI 칩 개발",
-   "summary_ko": "웨이모가 주행 판단 능력을 강화하고 외부 의존도를 낮추기 위해 로보택시 전용 자체 ASIC 칩을 개발해 탑재하기 시작했습니다.",
-   "category": "중요",
-   "tags": [
-    "반도체",
-    "로보틱스",
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "07770f3032d96caf",
-   "url": "https://www.reddit.com/r/singularity/comments/1vujrdg/open_weight_progression_with_no_frontier_release/",
-   "source": "r/singularity",
-   "title": "Open weight progression with no frontier release",
-   "published_at": "2026-08-21T15:36:34+00:00",
-   "collected_at": "2026-08-21T22:34:03.166711+00:00",
-   "title_ko": "최신 프론티어 모델 성능 향상과 개발자 생산성 변화",
-   "summary_ko": "최신 AI 모델들의 성능 비약으로 소프트웨어 개발 생산성이 극대화된 한편, 오픈소스 추격에 대한 업계의 전략적 변화가 논의되고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "Anthropic",
-    "GPT"
-   ]
-  },
-  {
-   "id": "36896af2381131ee",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214216",
-   "source": "AI타임스",
-   "title": "영국 영화관서 메타 '스마트 안경' 착용 제한...“사생활·영화 불법 촬영 우려”",
-   "published_at": "2026-08-21T15:35:26+00:00",
-   "collected_at": "2026-08-21T07:01:02.186950+00:00",
-   "title_ko": "영국 영화관, 메타 스마트 안경 착용 제한",
-   "summary_ko": "영국 영화관들이 사생활 침해와 불법 촬영 우려로 메타의 AI 스마트 안경 사용을 금지하기 시작했습니다.",
-   "category": "참고",
-   "tags": [
-    "Meta",
-    "규제"
-   ]
-  },
-  {
-   "id": "96b89cf11440fb47",
-   "url": "https://news.hada.io/topic?id=32738",
-   "source": "GeekNews",
-   "title": "AI 기업이 실물 책을 파괴한다 — 너무 늦기 전에 희귀 도서를 스캔하자",
-   "published_at": "2026-08-21T15:32:39+00:00",
-   "collected_at": "2026-08-21T16:45:49.638841+00:00",
-   "title_ko": "AI 학습 데이터 확보를 위한 실물 책 대량 파기 논란",
-   "summary_ko": "Anthropic 등 AI 기업들이 고품질 학습 데이터를 얻기 위해 희귀 도서를 매입해 스캔 후 폐기하고 있다는 사실이 알려져 데이터 수집 윤리 논란이 일고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "규제"
-   ]
-  },
-  {
-   "id": "edbcb2faff40a31e",
-   "url": "https://canews24.online/?p=71",
-   "source": "Hacker News",
-   "title": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
-   "published_at": "2026-08-21T15:25:42+00:00",
-   "collected_at": "2026-08-21T17:37:23.536153+00:00",
-   "title_ko": "AI로 과제 점수 높이자 실제 시험 성적은 20% 하락",
-   "summary_ko": "연구에 따르면 AI를 활용해 과제 점수가 18% 향상되었으나, 정작 시험 성적은 오히려 20% 하락한 것으로 나타났습니다. 교육 분야에서 AI 활용의 역효과를 보여주는 중요한 연구 결과입니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "규제"
    ]
   }
  ]
