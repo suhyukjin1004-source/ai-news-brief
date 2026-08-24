@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-08-24T08:58:43.108171+00:00",
+ "updated_at": "2026-08-24T09:58:39.141912+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "f76bc23de48e744b",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214299",
+   "source": "AI타임스",
+   "title": "맥북에서 돌리는 '무삭제 큐원 3.8' 등장...엔비디아 GPU·클라우드 없이 구동",
+   "published_at": "2026-08-24T18:00:13+00:00",
+   "collected_at": "2026-08-24T09:57:46.546750+00:00",
+   "title_ko": "맥북에서 구동 가능한 무삭제판 큐원 3.8 모델 등장",
+   "summary_ko": "알리바바의 큐원 3.8 27B 모델을 기반으로 안전성 제약을 완화한 무삭제 버전이 공개되었으며, 애플 실리콘 맥에서 클라우드 없이 로컬 구동이 가능하다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "Qwen"
+   ]
+  },
   {
    "id": "8891f55eb9b6c331",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214304",
@@ -365,6 +381,21 @@
    ]
   },
   {
+   "id": "77888645ead0eeed",
+   "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+   "source": "MIT Tech Review",
+   "title": "Kids outlearn AI—and we still don’t know why",
+   "published_at": "2026-08-24T09:00:00+00:00",
+   "collected_at": "2026-08-24T09:57:28.931491+00:00",
+   "title_ko": "인간 아동의 언어 학습 능력이 AI를 뛰어넘는 이유와 미스터리",
+   "summary_ko": "인간 아이들은 적은 데이터로도 완벽한 언어 유창성을 습득하지만, 대형언어모델과 비교했을 때 그 학습 메커니즘은 여전히 완전히 밝혀지지 않았다.",
+   "category": "참고",
+   "tags": [
+    "LLM",
+    "AI"
+   ]
+  },
+  {
    "id": "1c657f0cbdb7198a",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214269",
    "source": "AI타임스",
@@ -377,6 +408,21 @@
    "tags": [
     "AI 에이전트",
     "에듀테크"
+   ]
+  },
+  {
+   "id": "1a69afbe936e82c2",
+   "url": "https://news.hada.io/topic?id=32840",
+   "source": "GeekNews",
+   "title": "Show GN: Preflight - 바이브코딩 앱을 위한 배포 전 보안 점검 도구",
+   "published_at": "2026-08-24T08:21:24+00:00",
+   "collected_at": "2026-08-24T09:57:47.831287+00:00",
+   "title_ko": "AI 코딩 앱 배포 전 보안 점검 도구 'Preflight' 소개",
+   "summary_ko": "바이브코딩 및 AI 교육 과정에서 배포 직전 보안을 쉽게 점검할 수 있도록 개발된 도구와 그 제작 과정의 교훈을 공유한다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
    ]
   },
   {
@@ -451,6 +497,22 @@
    "category": "팁",
    "tags": [
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "f1bfa8bc3a032273",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwumiu/what_are_all_the_things_qwen_38_27b_is_not_good/",
+   "source": "r/LocalLLaMA",
+   "title": "What are all the things qwen 3.8 27B is NOT good for?",
+   "published_at": "2026-08-24T06:16:01+00:00",
+   "collected_at": "2026-08-24T09:57:33.386519+00:00",
+   "title_ko": "큐원 3.8 27B 모델의 한계점과 취약한 작업 분석",
+   "summary_ko": "개발자 커뮤니티에서 새로 공개된 큐원 3.8 27B 모델이 성능을 제대로 발휘하지 못하거나 부족한 작업 영역에 대한 논의가 이루어지고 있다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "Qwen"
    ]
   },
   {
@@ -2987,66 +3049,6 @@
     "오픈소스",
     "반도체",
     "LLM"
-   ]
-  },
-  {
-   "id": "d7229ec51b54ac69",
-   "url": "https://news.hada.io/topic?id=32760",
-   "source": "GeekNews",
-   "title": "나는 AI가 쓴 글을 자동으로 무시하기 시작했다",
-   "published_at": "2026-08-22T07:32:05+00:00",
-   "collected_at": "2026-08-22T10:33:40.758359+00:00",
-   "title_ko": "업무 문서 속 AI 생성 텍스트 피로도 증가",
-   "summary_ko": "무분별한 AI 생성 문서와 정형화된 문구로 인해 업무 현장에서 가독성과 집중력이 떨어지는 현상이 나타나고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "Claude",
-    "생성형AI"
-   ]
-  },
-  {
-   "id": "639e282d2ffb00f6",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vv4mei/llamacpp_version_020_is_out/",
-   "source": "r/LocalLLaMA",
-   "title": "Llama.cpp version 0.2.0 is out!",
-   "published_at": "2026-08-22T06:23:58+00:00",
-   "collected_at": "2026-08-22T06:53:55.208248+00:00",
-   "title_ko": "Llama.cpp v0.2.0 버전 출시",
-   "summary_ko": "로컬 LLM 구동을 위한 대표적인 오픈소스 도구인 Llama.cpp의 새로운 0.2.0 버전이 릴리즈되었다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "Llama"
-   ]
-  },
-  {
-   "id": "6d3f5103ed4d68e1",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214237",
-   "source": "AI타임스",
-   "title": "정부, ‘미래대응기금’ 신설…초과세수로 AI·첨단기술 집중 투자",
-   "published_at": "2026-08-22T06:02:24+00:00",
-   "collected_at": "2026-08-21T22:34:05.245096+00:00",
-   "title_ko": "정부, '미래대응기금' 신설해 AI·첨단기술 집중 투자",
-   "summary_ko": "정부가 초과 세수를 활용해 미래대응기금을 신설하고 AI 전환 및 첨단기술 주도권 확보에 대규모 투자를 단행합니다.",
-   "category": "중요",
-   "tags": [
-    "투자",
-    "규제"
-   ]
-  },
-  {
-   "id": "cb12e4898a82b696",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vv47sr/bro_wtf_qwen_lab_cooked_with_qwen_38_27b_its_so/",
-   "source": "r/LocalLLaMA",
-   "title": "Bro wtf, Qwen Lab cooked with Qwen 3.8 27B, it's so fucking good",
-   "published_at": "2026-08-22T06:01:31+00:00",
-   "collected_at": "2026-08-22T06:53:55.208248+00:00",
-   "title_ko": "Qwen 3.8 27B 모델 뛰어난 성능으로 호평",
-   "summary_ko": "알리바바 Qwen Lab의 신규 오픈소스 모델 Qwen 3.8 27B가 이전 세대 대비 현저히 향상된 추론 및 렌더링 성능을 보여주어 커뮤니티에서 화제다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "모델명"
    ]
   }
  ]
