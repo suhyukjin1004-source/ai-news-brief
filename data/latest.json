@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-24T10:47:45.256195+00:00",
+ "updated_at": "2026-08-24T11:37:37.940103+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -410,6 +410,22 @@
     "NVIDIA",
     "오픈소스",
     "반도체"
+   ]
+  },
+  {
+   "id": "94d8bce94ca1d4be",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwzqu2/top_10_most_liked_models_on_qwens_huggingface_page/",
+   "source": "r/LocalLLaMA",
+   "title": "Top 10 most liked models on Qwen's HuggingFace page",
+   "published_at": "2026-08-24T11:09:03+00:00",
+   "collected_at": "2026-08-24T11:37:22.012681+00:00",
+   "title_ko": "HuggingFace Qwen 시리즈 인기 모델 순위",
+   "summary_ko": "Qwen3.8-27B 모델이 출시 한 달 만에 압도적인 지지를 받으며 기존 인기 모델들을 제쳤습니다. 개발자들은 주로 9B 및 27B 크기의 범용 LLM을 선호하는 경향을 보였습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "HuggingFace"
    ]
   },
   {
@@ -3033,22 +3049,6 @@
    "category": "참고",
    "tags": [
     "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "331c03055be03d32",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vv76b7/need_support_for_llamacpp_with_multi_gpu/",
-   "source": "r/LocalLLaMA",
-   "title": "Need support for llama.cpp with multi GPU",
-   "published_at": "2026-08-22T08:53:58+00:00",
-   "collected_at": "2026-08-22T09:35:41.466294+00:00",
-   "title_ko": "llama.cpp 멀티 GPU 연동 지원 요청",
-   "summary_ko": "Blackwell 5000과 RTX 3090 환경에서 llama.cpp를 이용한 다중 GPU 구동 및 메모리 분산에 대한 기술 지원을 요청하는 내용입니다. 대형 모델 구동 시 하드웨어 최적화와 관련된 실무적 문제를 다룹니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체",
     "코딩"
    ]
   }
