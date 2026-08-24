@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-24T15:50:01.336612+00:00",
+ "updated_at": "2026-08-24T16:49:31.864614+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -173,6 +173,21 @@
    ]
   },
   {
+   "id": "c1fe722555fd9666",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx7ei1/best_local_vision_language_models_august_2026/",
+   "source": "r/LocalLLaMA",
+   "title": "Best Local Vision Language Models - August 2026",
+   "published_at": "2026-08-24T16:18:56+00:00",
+   "collected_at": "2026-08-24T16:49:15.306283+00:00",
+   "title_ko": "2026년 8월 추천 로컬 비전 언어 모델(VLM)",
+   "summary_ko": "오픈 웨이트 기반의 로컬 비전 언어 모델 활용 사례와 메모리 용량별 추천 모델이 공유되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "VLM"
+   ]
+  },
+  {
    "id": "6ea9e93a6f501650",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214303",
    "source": "AI타임스",
@@ -184,6 +199,21 @@
    "category": "참고",
    "tags": [
     "오픈소스"
+   ]
+  },
+  {
+   "id": "1ef547c8e4ff617c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx7aci/bart_a_vintage_llm/",
+   "source": "r/LocalLLaMA",
+   "title": "Bart: A vintage llm",
+   "published_at": "2026-08-24T16:14:44+00:00",
+   "collected_at": "2026-08-24T16:49:15.306283+00:00",
+   "title_ko": "1931년 이전 데이터로 학습된 빈티지 LLM 'Bart' 공개",
+   "summary_ko": "과거 사상가와 과학자들의 결론을 도출하기 위해 1931년 이전의 영어 텍스트로만 학습된 28억 파라미터 규모의 모델입니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "LLM"
    ]
   },
   {
@@ -3012,38 +3042,6 @@
     "AI 에이전트",
     "오픈소스",
     "코딩"
-   ]
-  },
-  {
-   "id": "cb87fd9466702425",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvc6pw/qwen_35_4b_iq2_xs_1667_reasoning_performance_from/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen 3.5 4B IQ2_XS: +16.67% Reasoning Performance From Tensor-Level Allocation",
-   "published_at": "2026-08-22T13:15:55+00:00",
-   "collected_at": "2026-08-22T13:38:54.079217+00:00",
-   "title_ko": "Qwen 3.5 4B 모델 추론 성능 향상 기법 공개",
-   "summary_ko": "텐서 레벨 할당 기법을 적용하여 Qwen 3.5 4B 양자화 모델의 추론 성능을 대폭 끌어올렸습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "코딩",
-    "LLM"
-   ]
-  },
-  {
-   "id": "a6042b9fd9d7c6ab",
-   "url": "https://www.reddit.com/r/singularity/comments/1vvbocc/meta_muse_spark_12_contributor_is_now_available/",
-   "source": "r/singularity",
-   "title": "Meta Muse Spark 1.2 Contributor is now available globally at a huge discount",
-   "published_at": "2026-08-22T12:53:14+00:00",
-   "collected_at": "2026-08-22T13:39:07.165322+00:00",
-   "title_ko": "메타 Muse Spark 1.2 글로벌 오픈이터 출시",
-   "summary_ko": "메타의 새로운 모델이 오픈루터를 통해 글로벌 할인 가격으로 출시되어 가격 대비 성능 주목을 받고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "Meta",
-    "오픈소스",
-    "AI 에이전트"
    ]
   }
  ]
