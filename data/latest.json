@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-08-24T18:53:14.786233+00:00",
+ "updated_at": "2026-08-24T19:37:23.038621+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "5e3a7aed89b3bb7a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxbpcc/mobilemoe_a_facebook_collection/",
+   "source": "r/LocalLLaMA",
+   "title": "MobileMoE - a facebook Collection",
+   "published_at": "2026-08-24T18:49:26+00:00",
+   "collected_at": "2026-08-24T19:37:05.522800+00:00",
+   "title_ko": "메타, 온디바이스용 초소형 MoE 모델 'MobileMoE' 공개",
+   "summary_ko": "메타가 모바일 환경에 최적화된 서브 빌리언 파라미터 규모의 MoE 언어 모델 시리즈를 공개했습니다. 스마트폰 메모리에 탑재 가능한 저용량 고성능 온디바이스 AI 구현을 목표로 합니다.",
+   "category": "속보",
+   "tags": [
+    "Meta",
+    "오픈소스",
+    "온디바이스"
+   ]
+  },
   {
    "id": "11daa0743d4e47a3",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214316",
@@ -246,6 +262,22 @@
    "tags": [
     "LLM",
     "규제"
+   ]
+  },
+  {
+   "id": "cce482eca04d1925",
+   "url": "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
+   "source": "Simon Willison",
+   "title": "llm-anthropic 0.27",
+   "published_at": "2026-08-24T16:27:04+00:00",
+   "collected_at": "2026-08-24T19:37:04.774153+00:00",
+   "title_ko": "llm-anthropic 0.27 업데이트 배포",
+   "summary_ko": "앤트로픽 최신 파이썬 라이브러리와 호환되도록 업데이트된 llm-anthropic 0.27이 공개되었습니다. 클로드 코드를 활용한 업그레이드 작업이 포함되어 있습니다.",
+   "category": "참고",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "코딩"
    ]
   },
   {
@@ -1055,6 +1087,36 @@
    ]
   },
   {
+   "id": "86d587d69f77a825",
+   "url": "https://status.claude.com/uptime",
+   "source": "Hacker News",
+   "title": "Anthropic Claude and API service outages",
+   "published_at": "2026-08-24T06:32:28+00:00",
+   "collected_at": "2026-08-24T19:37:04.477795+00:00",
+   "title_ko": "앤트로픽 Claude 및 API 서비스 장애 발생",
+   "summary_ko": "앤트로픽의 Claude 서비스와 API에서 일시적인 접속 및 서비스 중단 장애가 보고되었습니다. 개발자 생태계에 영향을 미치는 안정성 이슈입니다.",
+   "category": "속보",
+   "tags": [
+    "Anthropic",
+    "Claude"
+   ]
+  },
+  {
+   "id": "b0c0eb916d8271a1",
+   "url": "https://github.com/thiagotigaz/ocr-it",
+   "source": "Hacker News",
+   "title": "OCR It – pull text out of un-copyable documents for your LLM",
+   "published_at": "2026-08-24T06:25:31+00:00",
+   "collected_at": "2026-08-24T19:37:04.477795+00:00",
+   "title_ko": "LLM 활용을 위한 텍스트 추출 도구 'OCR It' 소개",
+   "summary_ko": "복사할 수 없는 문서에서 텍스트를 추출해 LLM에 전달하기 쉽게 만들어주는 오픈소스 도구입니다. 실무에서 문서 분석 효율을 높여줍니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
    "id": "f22d3490e310d83d",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwus60/best_ai_voice_cloning_in_2026_how_to_clone_your/",
    "source": "r/LocalLLaMA",
@@ -1400,6 +1462,20 @@
    ]
   },
   {
+   "id": "5d36aa2deb2ba216",
+   "url": "https://pantel.is/projects/ai-gaming-companion/",
+   "source": "Hacker News",
+   "title": "I built a low-latency AI companion that plays Skyrim with me",
+   "published_at": "2026-08-23T23:18:17+00:00",
+   "collected_at": "2026-08-24T19:37:04.477795+00:00",
+   "title_ko": "스카이림 게임을 함께 즐기는 저지연 AI 컴패니언 개발",
+   "summary_ko": "사용자와 실시간으로 상호작용하며 게임을 함께 플레이하는 저지연 AI 컴패니언 프로젝트가 공개되었습니다. 음성 및 AI 에이전트 기술의 실시간 응용 사례를 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "3f80288f331596d5",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwkicx/any_upcoming_models_to_be_excited_about/",
    "source": "r/LocalLLaMA",
@@ -1702,6 +1778,21 @@
     "오픈소스",
     "코딩",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "677a1d2d645ae40a",
+   "url": "https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473",
+   "source": "Hacker News",
+   "title": "We must not grant AI agents legal personhood",
+   "published_at": "2026-08-23T17:25:03+00:00",
+   "collected_at": "2026-08-24T19:37:04.477795+00:00",
+   "title_ko": "AI 에이전트의 법적 인격체 부여 반대 목소리 확산",
+   "summary_ko": "AI 에이전트에게 법적 인격체를 부여해서는 안 된다는 주장이 제기되었습니다. 향후 AI 관련 법규와 책임 소재를 다룰 핵심 규제 쟁점입니다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트",
+    "규제"
    ]
   },
   {
@@ -2932,97 +3023,6 @@
     "AI 에이전트",
     "보안",
     "OpenAI"
-   ]
-  },
-  {
-   "id": "790b97a0d62fb7c0",
-   "url": "https://www.reddit.com/r/singularity/comments/1vvkmoa/prediction_thread_base_camptosummittobase_camp_mt/",
-   "source": "r/singularity",
-   "title": "Prediction thread: base camp-to-summit-to-base camp Mt. Everest climb before end of 2027? And, how soon will the humanoid robots be able to outperform the #1 human player in soccer, basketball, tennis, etc playing against humans in actual gameplay (over a span of a game/multiple games)?",
-   "published_at": "2026-08-22T18:53:57+00:00",
-   "collected_at": "2026-08-22T23:29:08.292184+00:00",
-   "title_ko": "휴머노이드 로봇의 고난도 등산 및 스포츠 능력 예측 토론",
-   "summary_ko": "휴머노이드 로봇의 신기록 달성을 계기로 에베레스트 등반 및 인간 프로 선수 수준의 스포츠 경기 능력을 달성할 시점에 대한 커뮤니티 예측 토론입니다.",
-   "category": "참고",
-   "tags": [
-    "로보틱스"
-   ]
-  },
-  {
-   "id": "aca35349bec31887",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvkgs6/watching_that_wattage_in_your_terminal/",
-   "source": "r/LocalLLaMA",
-   "title": "Watching that wattage, in your terminal.",
-   "published_at": "2026-08-22T18:47:37+00:00",
-   "collected_at": "2026-08-22T20:33:34.631604+00:00",
-   "title_ko": "터미널 전력 모니터링 툴 'energygraph' v1.3 출시",
-   "summary_ko": "CPU 및 주요 GPU 제조사의 전력 소모량을 터미널에서 실시간으로 확인할 수 있는 가벼운 모니터링 툴이 업데이트되었습니다.",
-   "category": "팁",
-   "tags": [
-    "NVIDIA",
-    "AMD",
-    "반도체"
-   ]
-  },
-  {
-   "id": "746d45a6da6b4d4f",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvjxg1/i_forked_ninfer_3090_and_converted_it_to_run_on/",
-   "source": "r/LocalLLaMA",
-   "title": "I forked Ninfer 3090 and converted it to run on the CMP170HX - doubled my Qwen3.6-35B from llama.cpp",
-   "published_at": "2026-08-22T18:27:18+00:00",
-   "collected_at": "2026-08-22T18:42:20.490017+00:00",
-   "title_ko": "CMP170HX에서 Qwen 구동 성능을 두 배로 높인 Ninfer 포크 공개",
-   "summary_ko": "개발자가 Ninfer를 채굴용 하드웨어인 CMP170HX에 맞게 포크하여 로컬 환경에서 Qwen 모델의 실행 속도를 대폭 끌어올렸습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체",
-    "로컬LLM"
-   ]
-  },
-  {
-   "id": "c0f9d10986f58071",
-   "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-   "source": "Hacker News",
-   "title": "Why your local LLM feels dumber than it is",
-   "published_at": "2026-08-22T18:14:16+00:00",
-   "collected_at": "2026-08-22T22:32:03.273204+00:00",
-   "title_ko": "로컬 LLM이 기대보다 멍청하게 느껴지는 이유",
-   "summary_ko": "로컬 환경에서 구동하는 언어 모델이 실제 성능보다 부족하게 느껴지는 원인과 이를 해결하기 위한 배경을 다룹니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "c572c693c452d984",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vviy88/current_best_model_for_narrative_chat_prompt/",
-   "source": "r/LocalLLaMA",
-   "title": "Current best model for narrative, chat, prompt creation (so basically everything except agentic coding)? - 5090",
-   "published_at": "2026-08-22T17:49:39+00:00",
-   "collected_at": "2026-08-22T19:29:32.526506+00:00",
-   "title_ko": "코딩 외 텍스트·대화 작업에 적합한 로컬 LLM 추천 요청",
-   "summary_ko": "에이전트 코딩을 제외하고 긴 글 작성, 이미지 기반 프롬프트 생성, 대화 및 피드백에 적합한 로컬 LLM 모델을 찾는 개발자의 커뮤니티 토론입니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "로컬LLM"
-   ]
-  },
-  {
-   "id": "43aa0c036180460e",
-   "url": "https://simonwillison.net/2026/Aug/22/llm/",
-   "source": "Simon Willison",
-   "title": "llm 0.33",
-   "published_at": "2026-08-22T17:01:16+00:00",
-   "collected_at": "2026-08-22T18:42:19.734944+00:00",
-   "title_ko": "LLM CLI 도구 'llm 0.33' 버전 출시",
-   "summary_ko": "OpenAI Python 라이브러리 3.x 업그레이드와 임베딩 키 처리 기능 등이 추가된 llm 0.33 버전이 릴리즈되었습니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "오픈소스"
    ]
   }
  ]
