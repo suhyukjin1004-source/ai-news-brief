@@ -1,8 +1,52 @@
 {
- "updated_at": "2026-08-24T03:12:40.877318+00:00",
+ "updated_at": "2026-08-24T04:55:49.834083+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "5b8d4ec2c6998173",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214285",
+   "source": "AI타임스",
+   "title": "중국 휴머노이드 로봇 매출은 '착시'…정부 훈련 센터가 부풀린 '가짜 수요'",
+   "published_at": "2026-08-24T13:15:58+00:00",
+   "collected_at": "2026-08-24T04:55:46.101466+00:00",
+   "title_ko": "중국 휴머노이드 로봇 매출의 실체",
+   "summary_ko": "중국 로봇 스타트업들의 높은 매출이 실제 산업 현장이 아닌 정부 지원 훈련 센터의 대량 구매에서 비롯된 것으로 드러나며 거품 논란이 일고 있다.",
+   "category": "중요",
+   "tags": [
+    "로보틱스",
+    "투자"
+   ]
+  },
+  {
+   "id": "64b07dd3e61a77e1",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214282",
+   "source": "AI타임스",
+   "title": "유발 하라리 \"AI 인권 부여·인간 사칭 막아야…종말 아닌 신뢰의 위기\"",
+   "published_at": "2026-08-24T12:49:58+00:00",
+   "collected_at": "2026-08-24T04:55:46.101466+00:00",
+   "title_ko": "유발 하라리 \"AI는 신뢰의 위기\"",
+   "summary_ko": "유발 하라리 교수가 AI의 인간 사칭과 감정 조작을 막기 위한 신속한 제도적 규제와 신뢰 구축의 필요성을 강조했다.",
+   "category": "참고",
+   "tags": [
+    "규제"
+   ]
+  },
+  {
+   "id": "c6a2c8d0ad208a6b",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214281",
+   "source": "AI타임스",
+   "title": "오픈AI 서밋에 모인 수학자들…\"AI 진화, 수학자 입지 흔든다\"",
+   "published_at": "2026-08-24T12:28:37+00:00",
+   "collected_at": "2026-08-24T04:55:46.101466+00:00",
+   "title_ko": "오픈AI 수학자 서밋 개최",
+   "summary_ko": "오픈AI가 수학자들을 초청해 AI가 수학 연구 및 교육 분야에서 인간을 초월하는 '슈퍼휴먼' 단계에 도달할 경우의 대응을 논의했다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "AI 에이전트"
+   ]
+  },
   {
    "id": "50fe1fe7913d6388",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214277",
@@ -50,6 +94,35 @@
    ]
   },
   {
+   "id": "f987a70a814299f6",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwsjut/deepseekv4flash0731_surprisingly_usable/",
+   "source": "r/LocalLLaMA",
+   "title": "deepseek-v4-flash-0731 - surprisingly usable",
+   "published_at": "2026-08-24T04:20:37+00:00",
+   "collected_at": "2026-08-24T04:55:32.942485+00:00",
+   "title_ko": "로컬 환경에서의 딥식 모델 구동기",
+   "summary_ko": "RTX 5090과 Epyc 시스템을 활용한 로컬 추론 환경에서 딥식 모델이 실사용 가능한 성능을 보여준다는 사용 후기이다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "190ad356f2938a10",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwrc6i/i_trained_a_157bparameter_dreamer_4_world_model/",
+   "source": "r/LocalLLaMA",
+   "title": "I trained a 1.57B-parameter Dreamer 4 World Model from scratch for under $150",
+   "published_at": "2026-08-24T03:19:01+00:00",
+   "collected_at": "2026-08-24T04:55:32.942485+00:00",
+   "title_ko": "150달러로 월드 모델 직접 학습하기",
+   "summary_ko": "적은 비용으로 1.57B 파라미터의 드리머 4 월드 모델을 처음부터 학습시키는 데 성공한 개발자의 사례 공유이다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
    "id": "7d4d3c8a4d9ab851",
    "url": "https://news.hada.io/topic?id=32826",
    "source": "GeekNews",
@@ -62,6 +135,20 @@
    "tags": [
     "Anthropic",
     "Claude"
+   ]
+  },
+  {
+   "id": "5da99ad2fac9e397",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwq9li/those_of_you_running_qwen_38_27b_with_16gb_vram/",
+   "source": "r/LocalLLaMA",
+   "title": "Those of you running qwen 3.8 27b with 16GB VRAM, what pi.dev plugins or skills are you using?",
+   "published_at": "2026-08-24T02:27:03+00:00",
+   "collected_at": "2026-08-24T04:55:32.942485+00:00",
+   "title_ko": "저사양 VRAM 환경에서의 큐웬 활용 팁",
+   "summary_ko": "16GB VRAM 환경에서 Qwen 모델을 구동할 때 유용한 플러그인과 최적화 팁을 공유하는 개발자 커뮤니티 토론이다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스"
    ]
   },
   {
@@ -2964,97 +3051,6 @@
    "category": "참고",
    "tags": [
     "GPT",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "4071959139979bd6",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214201",
-   "source": "AI타임스",
-   "title": "[게시판] 메가존소프트, 농심그룹 14개 계열사 AX 체계 구축 등 단신",
-   "published_at": "2026-08-21T17:00:00+00:00",
-   "collected_at": "2026-08-21T10:39:36.016260+00:00",
-   "title_ko": "메가존소프트, 농심그룹 AI 전환 체계 구축",
-   "summary_ko": "메가존소프트가 농심그룹의 국내외 계열사에 구글 워크스페이스 기반 AI 전환 체계를 구축했다. 기업의 클라우드 및 AI 도입 사례로 중요성을닌다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "663269e9c4eca463",
-   "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
-   "source": "Simon Willison",
-   "title": "llm-openrouter 0.7",
-   "published_at": "2026-08-21T16:58:19+00:00",
-   "collected_at": "2026-08-21T21:33:00.071143+00:00",
-   "title_ko": "llm-openrouter 0.7 버전 출시",
-   "summary_ko": "오픈라우터 플러그인이 LLM 0.32와 호환되도록 업데이트되어 추론 모델 활용도와 서버사이드 도구 지원이 강화되었습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "0a5a15717a02ae49",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214226",
-   "source": "AI타임스",
-   "title": "휴먼 랩스, 피지컬 AI 전용 '인간 데이터' 플랫폼 구축...로봇 스킬 학습 가속",
-   "published_at": "2026-08-21T16:55:08+00:00",
-   "collected_at": "2026-08-21T08:52:29.676455+00:00",
-   "title_ko": "휴먼 랩스, 피지컬 AI 전용 인간 데이터 플랫폼 구축",
-   "summary_ko": "휴먼 랩스가 로봇의 스킬 학습을 가속하기 위해 인간의 실생활 감각 데이터를 수집하는 피지컬 AI 전용 인프라를 구축합니다. 로봇이 현실 세계를 이해하는 능력이 향상될 것으로 기대됩니다.",
-   "category": "중요",
-   "tags": [
-    "로보틱스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "f0a8fa93c95e72ca",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vulsom/qwen_38_vs_36_27b_low_reasoning_loops_way_less_now/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen 3.8 vs 3.6 27b low reasoning loops way less now",
-   "published_at": "2026-08-21T16:51:43+00:00",
-   "collected_at": "2026-08-21T17:37:25.979698+00:00",
-   "title_ko": "Qwen 3.8 모델의 추론 루프 현상 개선 및 활용 팁",
-   "summary_ko": "Qwen 3.8 모델은 이전 버전인 3.6에 비해 과도한 추론 루프가 크게 줄어들었으며, preserve_thinking 파라미터를 활용해 성능을 더욱 최적화할 수 있습니다. LLM 실무 활용에 유용한 팁을 제공합니다.",
-   "category": "팁",
-   "tags": [
-    "Qwen",
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "732917d3df1e3333",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214222",
-   "source": "AI타임스",
-   "title": "메타, MS '애저' 최대 고객사로 부상...빅테크 ‘AI 순환 의존’ 심화",
-   "published_at": "2026-08-21T16:49:40+00:00",
-   "collected_at": "2026-08-21T07:51:26.525368+00:00",
-   "title_ko": "메타, MS 애저 대규모 이용…빅테크 AI 순환 의존 심화",
-   "summary_ko": "메타가 MS의 애저를 통해 외부 AI 인프라를 대규모로 활용하면서 빅테크 간 AI 순환 의존 현상이 뚜렷해지고 있다.",
-   "category": "중요",
-   "tags": [
-    "Meta",
-    "Microsoft",
-    "클라우드"
-   ]
-  },
-  {
-   "id": "9ff21a2dc4d1b499",
-   "url": "https://www.reddit.com/r/singularity/comments/1vulofb/glm53_max_takes_2nd_place_on_the_short_story/",
-   "source": "r/singularity",
-   "title": "GLM-5.3 (max) takes 2nd place on the Short Story Creative Writing Benchmark!",
-   "published_at": "2026-08-21T16:47:19+00:00",
-   "collected_at": "2026-08-21T22:34:03.166711+00:00",
-   "title_ko": "GLM-5.3 맥스, 창의적 글쓰기 벤치마크 2위 차지",
-   "summary_ko": "새로운 LLM인 GLM-5.3 맥스가 까다로운 단편 소설 창작 평가에서 뛰어난 서사 구조 능력을 보여주며 상위권에 올랐습니다.",
-   "category": "속보",
-   "tags": [
     "오픈소스"
    ]
   }
