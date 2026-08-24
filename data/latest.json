@@ -1,8 +1,39 @@
 {
- "updated_at": "2026-08-24T01:51:44.857381+00:00",
+ "updated_at": "2026-08-24T03:12:40.877318+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "50fe1fe7913d6388",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214277",
+   "source": "AI타임스",
+   "title": "허깅페이스, 18조 매각 추진...빅테크 인수전 펼쳐지나",
+   "published_at": "2026-08-24T11:47:51+00:00",
+   "collected_at": "2026-08-24T03:12:37.440997+00:00",
+   "title_ko": "허깅페이스, 18조 원 규모 매각 추진",
+   "summary_ko": "오픈소스 AI 플랫폼 허깅페이스가 18조 원 이상의 가치로 매각을 검토하며 빅테크 기업들의 인수전 가능성이 대두되고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "투자"
+   ]
+  },
+  {
+   "id": "b76c0e2d12570418",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214276",
+   "source": "AI타임스",
+   "title": "엔비디아, 중국 '오픈 모델' 독주 막는다...자체 모델 개발로 전면전",
+   "published_at": "2026-08-24T11:41:55+00:00",
+   "collected_at": "2026-08-24T03:12:37.440997+00:00",
+   "title_ko": "엔비디아, 자체 오픈 모델 개발로 중국 AI에 전면전 선포",
+   "summary_ko": "엔비디아가 중국의 오픈 모델 확산을 막기 위해 자체 오픈 웨이트 모델 개발과 대규모 투자를 단행하며 AI 모델 생태계 진출을 가속화합니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "오픈소스",
+    "반도체"
+   ]
+  },
   {
    "id": "1c657f0cbdb7198a",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214269",
@@ -16,6 +47,50 @@
    "tags": [
     "AI 에이전트",
     "에듀테크"
+   ]
+  },
+  {
+   "id": "7d4d3c8a4d9ab851",
+   "url": "https://news.hada.io/topic?id=32826",
+   "source": "GeekNews",
+   "title": "Anthropic의 최고 AI 모델, 저렴한 도구의 성장 속에서 사용자 확보에 고전",
+   "published_at": "2026-08-24T02:31:40+00:00",
+   "collected_at": "2026-08-24T03:12:38.818160+00:00",
+   "title_ko": "앤스로픽 최고급 모델, 저가 AI 공세에 사용자 확보 고전",
+   "summary_ko": "저렴하고 효율적인 AI 도구들이 급성장하면서 앤스로픽의 플래그십 모델이 사용자 확보에 어려움을 겪고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "Anthropic",
+    "Claude"
+   ]
+  },
+  {
+   "id": "b4fc5d2adfeebfe4",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwpi9z/qwen_27b_38_quants_how_low_can_you_go/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen 27B 3.8 quants: How low can you go?",
+   "published_at": "2026-08-24T01:51:00+00:00",
+   "collected_at": "2026-08-24T03:12:24.198194+00:00",
+   "title_ko": "저사양 Mac mini에서 Qwen 27B 저양자화 활용 후기",
+   "summary_ko": "제한된 하드웨어 환경에서 Qwen 27B 모델의 저양자화(Q3 XXS 등) 성능과 자율 작업 수행 가능성을 다룬 실무 팁입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "5cb16c8388d84dcb",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwp91v/is_there_a_music_upscaler_llm/",
+   "source": "r/LocalLLaMA",
+   "title": "is there a music UPSCALER llm?",
+   "published_at": "2026-08-24T01:38:57+00:00",
+   "collected_at": "2026-08-24T03:12:24.198194+00:00",
+   "title_ko": "음악 및 오디오 업스케일링을 위한 LLM 기술 탐색",
+   "summary_ko": "저품질 모노 음원을 고음질 스테레오로 복원하는 AI 기반 오디오 업스케일링 최신 기술 동향을 논의합니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
    ]
   },
   {
@@ -2981,84 +3056,6 @@
    "category": "속보",
    "tags": [
     "오픈소스"
-   ]
-  },
-  {
-   "id": "e9a7b251f4325416",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214219",
-   "source": "AI타임스",
-   "title": "오픈AI, 맥용 챗GPT에 '애플 메시지' 플러그인 탑재...\"아이메시지 읽고 답장까지\"",
-   "published_at": "2026-08-21T16:40:33+00:00",
-   "collected_at": "2026-08-21T07:51:26.525368+00:00",
-   "title_ko": "오픈AI, 맥용 챗GPT에 애플 메시지 플러그인 탑재",
-   "summary_ko": "맥용 챗GPT가 아이메시지 대화를 요약하고 답장을 전송하는 기능을 지원하며 커뮤니케이션 업무로 영역을 확장했다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "GPT",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "7b8d3d36b349acda",
-   "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-   "source": "Hacker News",
-   "title": "What happens when a GPU reads memory",
-   "published_at": "2026-08-21T16:16:42+00:00",
-   "collected_at": "2026-08-22T01:44:01.889630+00:00",
-   "title_ko": "GPU의 메모리 읽기 동작 원리 분석",
-   "summary_ko": "하드웨어 레벨에서 GPU가 메모리에 접근하고 데이터를 읽어오는 과정의 기술적 분석을 다룹니다.",
-   "category": "참고",
-   "tags": [
-    "반도체",
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "2a62a62426bae9c6",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214224",
-   "source": "AI타임스",
-   "title": "구글, '젬마' 누적 다운로드 10억회 돌파…'어썸 젬마' 저장소 공개",
-   "published_at": "2026-08-21T16:15:20+00:00",
-   "collected_at": "2026-08-21T07:51:26.525368+00:00",
-   "title_ko": "구글 '젬마', 누적 다운로드 10억회 돌파",
-   "summary_ko": "구글의 오픈 모델 젬마가 출시 이후 누적 다운로드 10억 건을 넘어서며 강력한 오픈소스 생태계를 구축했다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "오픈소스",
-    "Gemini"
-   ]
-  },
-  {
-   "id": "edb44b02bcabb275",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vukppf/whats_the_best_local_ai_harness_for_coding/",
-   "source": "r/LocalLLaMA",
-   "title": "What’s the best local AI harness for coding + general use?",
-   "published_at": "2026-08-21T16:11:56+00:00",
-   "collected_at": "2026-08-21T16:45:34.975946+00:00",
-   "title_ko": "로컬 AI 코딩 및 범용 에이전트 인터페이스 논의",
-   "summary_ko": "오픈소스 LLM을 활용한 로컬 환경에서 코딩과 범용 작업을 수행하기 위한 최적의 인터페이스와 도구 조합에 대한 커뮤니티 의견이 공유되었습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "2b90eef6053740b6",
-   "url": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
-   "source": "Simon Willison",
-   "title": "Stop Making TUIs",
-   "published_at": "2026-08-21T16:07:32+00:00",
-   "collected_at": "2026-08-21T16:45:34.295369+00:00",
-   "title_ko": "AI 에이전트 시대의 TUI 대신 네이티브 GUI 제작",
-   "summary_ko": "코딩 에이전트로 인해 GUI 제작 비용이 대폭 낮아짐에 따라, 텍스트 기반 인터페이스(TUI) 대신 가벼운 네이티브 GUI 앱을 직접 만드는 것이 유리하다는 주장이 제기되었습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
    ]
   }
  ]
