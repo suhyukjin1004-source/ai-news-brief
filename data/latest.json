@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-24T11:37:37.940103+00:00",
+ "updated_at": "2026-08-24T13:06:54.757311+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -382,6 +382,38 @@
    ]
   },
   {
+   "id": "d17f2fa546f8667b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx15zb/who_would_buy_huggingface/",
+   "source": "r/LocalLLaMA",
+   "title": "Who would buy HuggingFace",
+   "published_at": "2026-08-24T12:17:23+00:00",
+   "collected_at": "2026-08-24T13:06:37.726742+00:00",
+   "title_ko": "허깅페이스 인수 후보군에 대한 업계 관심",
+   "summary_ko": "AI 모델의 깃허브로 불리는 허깅페이스의 130억 달러 규모 인수 가능성을 두고 애플 등이 잠재적 인수 후보로 거론되고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "HuggingFace",
+    "Apple",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "71d4464f18d2f9b2",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx14gl/benchmark_optimal_dflash2_quants_for_speed_and/",
+   "source": "r/LocalLLaMA",
+   "title": "[Benchmark] Optimal DFlash2 quants for speed and context size, 5090 RTX, llama.cpp, Qwen 3.8 27B Dynamic3 Unsloth. Comparison with MTP",
+   "published_at": "2026-08-24T12:15:27+00:00",
+   "collected_at": "2026-08-24T13:06:37.726742+00:00",
+   "title_ko": "DFlash2 양자화 모델 성능 벤치마크 분석",
+   "summary_ko": "RTX 5090 환경에서 llama.cpp를 활용해 DFlash2 양자화 버전의 속도와 컨텍스트 크기를 비교 측정한 결과입니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "NVIDIA",
+    "반도체"
+   ]
+  },
+  {
    "id": "50fe1fe7913d6388",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214277",
    "source": "AI타임스",
@@ -413,6 +445,21 @@
    ]
   },
   {
+   "id": "e9dcd60d6dc8e4df",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx09za/gpu_poor_dont_overlook_laguna_xs_21/",
+   "source": "r/LocalLLaMA",
+   "title": "GPU Poor - Don't overlook Laguna XS 2.1",
+   "published_at": "2026-08-24T11:35:22+00:00",
+   "collected_at": "2026-08-24T13:06:37.726742+00:00",
+   "title_ko": "저사양 GPU 사용자를 위한 Laguna XS 2.1 모델 소개",
+   "summary_ko": "VRAM이 부족한 저사양 환경에서도 빠른 속도와 긴 컨텍스트를 지원해 실용적인 소형 AI 모델 대안으로 주목받고 있습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "NVIDIA"
+   ]
+  },
+  {
    "id": "94d8bce94ca1d4be",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwzqu2/top_10_most_liked_models_on_qwens_huggingface_page/",
    "source": "r/LocalLLaMA",
@@ -426,6 +473,36 @@
     "오픈소스",
     "LLM",
     "HuggingFace"
+   ]
+  },
+  {
+   "id": "3d299428eda9491f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwzoi0/agnesaiagnes25proalpha_huggingface/",
+   "source": "r/LocalLLaMA",
+   "title": "Agnes-AI/Agnes-2.5-Pro-Alpha • HuggingFace",
+   "published_at": "2026-08-24T11:05:55+00:00",
+   "collected_at": "2026-08-24T13:06:37.726742+00:00",
+   "title_ko": "Agnes-2.5-Pro-Alpha 모델 허깅페이스 공개",
+   "summary_ko": "허깅페이스에 새로운 오픈소스 AI 모델인 Agnes-2.5-Pro-Alpha가 등록되어 개발자들의 관심을 끌고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "HuggingFace",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "f2d1afcd0acafe8f",
+   "url": "https://news.hada.io/topic?id=32842",
+   "source": "GeekNews",
+   "title": "AI 코드 리뷰는 몇 번 돌려야 할까.. 약 400번 돌려보고 알게 된 것",
+   "published_at": "2026-08-24T11:01:28+00:00",
+   "collected_at": "2026-08-24T13:06:52.375652+00:00",
+   "title_ko": "효과적인 AI 코드 리뷰 활용법 분석",
+   "summary_ko": "약 400회의 LLM 호출 실험을 통해 AI 코드 리뷰의 반복 횟수가 코드 품질에 미치는 영향과 최적의 활용 방식을 분석했습니다.",
+   "category": "팁",
+   "tags": [
+    "코딩",
+    "LLM"
    ]
   },
   {
@@ -2974,82 +3051,6 @@
    "tags": [
     "AI 에이전트",
     "투자"
-   ]
-  },
-  {
-   "id": "5adfc1118b844db4",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214238",
-   "source": "AI타임스",
-   "title": "딥시크, 멀티모달 에이전트 'V4-플래시-비전' 공개...'오퍼스 4.8'에 도전",
-   "published_at": "2026-08-22T10:08:55+00:00",
-   "collected_at": "2026-08-22T01:44:16.303652+00:00",
-   "title_ko": "딥시크, 멀티모달 에이전트 'V4-플래시-비전' 공개",
-   "summary_ko": "딥시크가 이미지와 텍스트를 동시에 처리하며 에이전트 작업이 가능한 실험적 멀티모달 모델을 출시해 앤트로픽에 도전합니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "93b991f0f95efab1",
-   "url": "https://munderdiffl.in/",
-   "source": "Hacker News",
-   "title": "Munder Difflin – Agent harness to run an office of your clones",
-   "published_at": "2026-08-22T09:49:14+00:00",
-   "collected_at": "2026-08-22T14:30:40.581185+00:00",
-   "title_ko": "내 분신들로 사무실을 운영하는 에이전트 하네스 '먼더 디플린'",
-   "summary_ko": "사용자의 AI 분신들을 생성해 가상 사무실 환경에서 협업 작업을 수행하도록 만드는 에이전트 하네스 도구가 공개되었다. 멀티 에이전트 시스템을 활용한 색다른 실무 적용 사례로 주목받고 있다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "f3070b65e557f5a6",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vv80xa/artificial_analysis_intelligence_a_meaningless/",
-   "source": "r/LocalLLaMA",
-   "title": "Artificial Analysis \"Intelligence\": A meaningless benchmark",
-   "published_at": "2026-08-22T09:43:38+00:00",
-   "collected_at": "2026-08-22T10:33:25.726030+00:00",
-   "title_ko": "LLM 벤치마크 지표의 실효성 논란",
-   "summary_ko": "일부 AI 벤치마크 플랫폼의 지표가 실제 모델 성능을 제대로 반영하지 못한다는 커뮤니티의 비판이 제기되었습니다.",
-   "category": "참고",
-   "tags": [
-    "LLM",
-    "벤치마크",
-    "DeepSeek"
-   ]
-  },
-  {
-   "id": "93286a65cb1265c8",
-   "url": "https://news.hada.io/topic?id=32762",
-   "source": "GeekNews",
-   "title": "Show GN: Three.js로 만든 일본 오늘의 운세 체험",
-   "published_at": "2026-08-22T09:16:30+00:00",
-   "collected_at": "2026-08-22T10:33:40.758359+00:00",
-   "title_ko": "AI와 Three.js를 활용한 일본 운세 웹게임",
-   "summary_ko": "Three.js와 AI 기술을 접목해 일본 신사의 오미쿠지(운세)를 체험할 수 있는 웹 기반 게임이 소개되었습니다.",
-   "category": "팁",
-   "tags": [
-    "AI",
-    "웹게임"
-   ]
-  },
-  {
-   "id": "034a88d1685f17be",
-   "url": "https://www.reddit.com/r/singularity/comments/1vv79k5/the_amount_of_activity_on_github_right_now_is/",
-   "source": "r/singularity",
-   "title": "The amount of activity on GitHub right now is crazy. Thoughts?",
-   "published_at": "2026-08-22T08:59:34+00:00",
-   "collected_at": "2026-08-22T13:39:07.165322+00:00",
-   "title_ko": "GitHub 최근 개발 활동 급증",
-   "summary_ko": "최근 GitHub 플랫폼 내 개발 및 AI 관련 활동량이 급증하면서 업계의 주목을 받고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "코딩"
    ]
   }
  ]

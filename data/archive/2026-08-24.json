@@ -106,6 +106,38 @@
   ]
  },
  {
+  "id": "d17f2fa546f8667b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx15zb/who_would_buy_huggingface/",
+  "source": "r/LocalLLaMA",
+  "title": "Who would buy HuggingFace",
+  "published_at": "2026-08-24T12:17:23+00:00",
+  "collected_at": "2026-08-24T13:06:37.726742+00:00",
+  "title_ko": "허깅페이스 인수 후보군에 대한 업계 관심",
+  "summary_ko": "AI 모델의 깃허브로 불리는 허깅페이스의 130억 달러 규모 인수 가능성을 두고 애플 등이 잠재적 인수 후보로 거론되고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "HuggingFace",
+   "Apple",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "71d4464f18d2f9b2",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx14gl/benchmark_optimal_dflash2_quants_for_speed_and/",
+  "source": "r/LocalLLaMA",
+  "title": "[Benchmark] Optimal DFlash2 quants for speed and context size, 5090 RTX, llama.cpp, Qwen 3.8 27B Dynamic3 Unsloth. Comparison with MTP",
+  "published_at": "2026-08-24T12:15:27+00:00",
+  "collected_at": "2026-08-24T13:06:37.726742+00:00",
+  "title_ko": "DFlash2 양자화 모델 성능 벤치마크 분석",
+  "summary_ko": "RTX 5090 환경에서 llama.cpp를 활용해 DFlash2 양자화 버전의 속도와 컨텍스트 크기를 비교 측정한 결과입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
   "id": "50fe1fe7913d6388",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214277",
   "source": "AI타임스",
@@ -137,6 +169,21 @@
   ]
  },
  {
+  "id": "e9dcd60d6dc8e4df",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx09za/gpu_poor_dont_overlook_laguna_xs_21/",
+  "source": "r/LocalLLaMA",
+  "title": "GPU Poor - Don't overlook Laguna XS 2.1",
+  "published_at": "2026-08-24T11:35:22+00:00",
+  "collected_at": "2026-08-24T13:06:37.726742+00:00",
+  "title_ko": "저사양 GPU 사용자를 위한 Laguna XS 2.1 모델 소개",
+  "summary_ko": "VRAM이 부족한 저사양 환경에서도 빠른 속도와 긴 컨텍스트를 지원해 실용적인 소형 AI 모델 대안으로 주목받고 있습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "NVIDIA"
+  ]
+ },
+ {
   "id": "94d8bce94ca1d4be",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwzqu2/top_10_most_liked_models_on_qwens_huggingface_page/",
   "source": "r/LocalLLaMA",
@@ -150,6 +197,36 @@
    "오픈소스",
    "LLM",
    "HuggingFace"
+  ]
+ },
+ {
+  "id": "3d299428eda9491f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwzoi0/agnesaiagnes25proalpha_huggingface/",
+  "source": "r/LocalLLaMA",
+  "title": "Agnes-AI/Agnes-2.5-Pro-Alpha • HuggingFace",
+  "published_at": "2026-08-24T11:05:55+00:00",
+  "collected_at": "2026-08-24T13:06:37.726742+00:00",
+  "title_ko": "Agnes-2.5-Pro-Alpha 모델 허깅페이스 공개",
+  "summary_ko": "허깅페이스에 새로운 오픈소스 AI 모델인 Agnes-2.5-Pro-Alpha가 등록되어 개발자들의 관심을 끌고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "HuggingFace",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "f2d1afcd0acafe8f",
+  "url": "https://news.hada.io/topic?id=32842",
+  "source": "GeekNews",
+  "title": "AI 코드 리뷰는 몇 번 돌려야 할까.. 약 400번 돌려보고 알게 된 것",
+  "published_at": "2026-08-24T11:01:28+00:00",
+  "collected_at": "2026-08-24T13:06:52.375652+00:00",
+  "title_ko": "효과적인 AI 코드 리뷰 활용법 분석",
+  "summary_ko": "약 400회의 LLM 호출 실험을 통해 AI 코드 리뷰의 반복 횟수가 코드 품질에 미치는 영향과 최적의 활용 방식을 분석했습니다.",
+  "category": "팁",
+  "tags": [
+   "코딩",
+   "LLM"
   ]
  },
  {
