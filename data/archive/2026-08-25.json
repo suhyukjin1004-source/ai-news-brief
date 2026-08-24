@@ -16,6 +16,21 @@
   ]
  },
  {
+  "id": "75b42ed2ab2b2b8b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxajio/one_llm_wrote_a_trading_feature_another_reviewed/",
+  "source": "r/LocalLLaMA",
+  "title": "One LLM wrote a trading feature. Another reviewed it. Both missed a future-data bug",
+  "published_at": "2026-08-24T18:09:22+00:00",
+  "collected_at": "2026-08-24T18:52:57.991895+00:00",
+  "title_ko": "LLM 간 코드 작성 및 검토 과정에서의 데이터 누출 오류 발견",
+  "summary_ko": "두 개의 LLM이 협업하여 트레이딩 기능을 만들고 검토했으나 미래 데이터 참조 오류를 잡아내지 못했습니다. AI 에이전트의 한계와 검증 도구의 중요성을 보여줍니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
   "id": "bd4473a83ce729ab",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214291",
   "source": "AI타임스",
@@ -32,6 +47,21 @@
   ]
  },
  {
+  "id": "5c896f150adea243",
+  "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+  "source": "TechCrunch",
+  "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+  "published_at": "2026-08-24T18:03:55+00:00",
+  "collected_at": "2026-08-24T18:52:49.899723+00:00",
+  "title_ko": "인스틱트 AI 어시스턴트의 강력한 기능과 프라이버시 우려",
+  "summary_ko": "강력한 성능으로 주목받는 AI 어시스턴트가 광범위한 권한과 데이터 접근성으로 인해 프라이버시 및 보안 우려를 낳고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "AI 어시스턴트",
+   "규제"
+  ]
+ },
+ {
   "id": "f76bc23de48e744b",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214299",
   "source": "AI타임스",
@@ -45,6 +75,21 @@
    "오픈소스",
    "LLM",
    "Qwen"
+  ]
+ },
+ {
+  "id": "8f12c311bf72d071",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx9xt0/do_not_blindly_delete_your_older_models_some_are/",
+  "source": "r/LocalLLaMA",
+  "title": "Do not blindly delete your older models, some are still precious",
+  "published_at": "2026-08-24T17:48:23+00:00",
+  "collected_at": "2026-08-24T18:52:57.991895+00:00",
+  "title_ko": "구형 오픈소스 LLM을 성급하게 삭제하면 안 되는 이유",
+  "summary_ko": "최신 모델이 더 뛰어나지만 구형 대형 언어 모델들이 여전히 특정 영역에서 우수한 세계 지식과 디테일을 보여준다는 사용자 경험 공유입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
   ]
  },
  {
@@ -185,6 +230,21 @@
   ]
  },
  {
+  "id": "48b0088ea68cb753",
+  "url": "https://arxiv.org/abs/2608.16603",
+  "source": "Hacker News",
+  "title": "Public services are increasingly strained by LLM-written appeals for benefits",
+  "published_at": "2026-08-24T16:30:21+00:00",
+  "collected_at": "2026-08-24T18:52:56.938225+00:00",
+  "title_ko": "LLM이 작성한 복지 수당 이의 신청으로 가중되는 공공 서비스 부담",
+  "summary_ko": "생성형 AI로 작성된 대규모 이의 신청서가 공공 서비스 운영에 부담을 주고 있다는 연구 결과입니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "규제"
+  ]
+ },
+ {
   "id": "c1fe722555fd9666",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx7ei1/best_local_vision_language_models_august_2026/",
   "source": "r/LocalLLaMA",
@@ -229,6 +289,21 @@
   ]
  },
  {
+  "id": "42f46d423de7607a",
+  "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+  "source": "Hacker News",
+  "title": "Coding expertise is going to collapse from AI reliance",
+  "published_at": "2026-08-24T15:52:33+00:00",
+  "collected_at": "2026-08-24T18:52:54.231370+00:00",
+  "title_ko": "AI 의존도로 인해 우려되는 개발자 코딩 전문성 저하",
+  "summary_ko": "개발자들이 AI에 과도하게 의존하면서 장기적으로 핵심 코딩 전문성과 문제 해결 능력이 붕괴될 수 있다는 지적입니다.",
+  "category": "참고",
+  "tags": [
+   "코딩",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "3e2b3baed9b4332a",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214300",
   "source": "AI타임스",
@@ -259,6 +334,20 @@
   ]
  },
  {
+  "id": "89a72fa1cc6079d7",
+  "url": "https://www.reddit.com/r/singularity/comments/1vx6kaw/premise_ai_is_only_useful_for_whatever_you_can/",
+  "source": "r/singularity",
+  "title": "Premise: AI is only useful for whatever you can personally understand. Not an artist? Bad AI art. Not a coder? Unmaintainable AI code. If you are good at what you do, you are safe.",
+  "published_at": "2026-08-24T15:48:46+00:00",
+  "collected_at": "2026-08-24T18:53:02.977892+00:00",
+  "title_ko": "개인의 이해도에 따라 갈리는 AI 활용의 한계",
+  "summary_ko": "AI는 사용자가 직접 이해하고 검증할 수 있는 영역에서만 진정한 가치를 발휘한다는 주장을 다룬 글입니다.",
+  "category": "참고",
+  "tags": [
+   "LLM"
+  ]
+ },
+ {
   "id": "29cfdc8019227fe0",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214301",
   "source": "AI타임스",
@@ -271,6 +360,20 @@
   "tags": [
    "OpenAI",
    "GPT"
+  ]
+ },
+ {
+  "id": "db36f883b48c142b",
+  "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+  "source": "Hacker News",
+  "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+  "published_at": "2026-08-24T15:28:04+00:00",
+  "collected_at": "2026-08-24T18:52:54.231370+00:00",
+  "title_ko": "MS 페인트와 사진 앱, 로컬 생성 결과물에도 보이지 않는 워터마크 삽입",
+  "summary_ko": "마이크로소프트의 기본 이미지 도구들이 로컬에서 생성된 파일에도 고유 식별자(GUID) 기반의 보이지 않는 워터마크를 남기는 것으로 확인되었습니다.",
+  "category": "참고",
+  "tags": [
+   "규제"
   ]
  },
  {
@@ -305,6 +408,21 @@
   ]
  },
  {
+  "id": "7a2032ac105cac3c",
+  "url": "https://developers.openai.com/api/docs/pricing",
+  "source": "Hacker News",
+  "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+  "published_at": "2026-08-24T15:22:43+00:00",
+  "collected_at": "2026-08-24T18:52:54.231370+00:00",
+  "title_ko": "오픈아이가 GPT-5.6 Sol API 가격 인하 발표",
+  "summary_ko": "오픈아이가 개발자를 위한 GPT-5.6 Sol 모델의 API 가격을 한시적으로 인하한다고 밝혔습니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "GPT"
+  ]
+ },
+ {
   "id": "17d12eb31497928e",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214298",
   "source": "AI타임스",
@@ -331,6 +449,21 @@
   "tags": [
    "SKT",
    "인재양성"
+  ]
+ },
+ {
+  "id": "5050df1f7eea9643",
+  "url": "https://www.reddit.com/r/singularity/comments/1vx5ezk/why_do_we_assume_anyone_will_give_us_access_to/",
+  "source": "r/singularity",
+  "title": "Why do we assume anyone will give us access to superintelligence?",
+  "published_at": "2026-08-24T15:06:17+00:00",
+  "collected_at": "2026-08-24T18:53:02.977892+00:00",
+  "title_ko": "초지능 시대, 인간에게 접근권을 줄 것인가",
+  "summary_ko": "초지능 개발 시 기업이 이를 구독 형태로 외부에 개방하는 것이 경제적·전략적으로 타당한지에 대한 고찰.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "투자"
   ]
  },
  {

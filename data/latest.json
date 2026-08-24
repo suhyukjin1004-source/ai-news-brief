@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-24T17:39:02.251970+00:00",
+ "updated_at": "2026-08-24T18:53:14.786233+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -20,6 +20,21 @@
    ]
   },
   {
+   "id": "75b42ed2ab2b2b8b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxajio/one_llm_wrote_a_trading_feature_another_reviewed/",
+   "source": "r/LocalLLaMA",
+   "title": "One LLM wrote a trading feature. Another reviewed it. Both missed a future-data bug",
+   "published_at": "2026-08-24T18:09:22+00:00",
+   "collected_at": "2026-08-24T18:52:57.991895+00:00",
+   "title_ko": "LLM 간 코드 작성 및 검토 과정에서의 데이터 누출 오류 발견",
+   "summary_ko": "두 개의 LLM이 협업하여 트레이딩 기능을 만들고 검토했으나 미래 데이터 참조 오류를 잡아내지 못했습니다. AI 에이전트의 한계와 검증 도구의 중요성을 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
    "id": "bd4473a83ce729ab",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214291",
    "source": "AI타임스",
@@ -36,6 +51,21 @@
    ]
   },
   {
+   "id": "5c896f150adea243",
+   "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+   "source": "TechCrunch",
+   "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+   "published_at": "2026-08-24T18:03:55+00:00",
+   "collected_at": "2026-08-24T18:52:49.899723+00:00",
+   "title_ko": "인스틱트 AI 어시스턴트의 강력한 기능과 프라이버시 우려",
+   "summary_ko": "강력한 성능으로 주목받는 AI 어시스턴트가 광범위한 권한과 데이터 접근성으로 인해 프라이버시 및 보안 우려를 낳고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "AI 어시스턴트",
+    "규제"
+   ]
+  },
+  {
    "id": "f76bc23de48e744b",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214299",
    "source": "AI타임스",
@@ -49,6 +79,21 @@
     "오픈소스",
     "LLM",
     "Qwen"
+   ]
+  },
+  {
+   "id": "8f12c311bf72d071",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx9xt0/do_not_blindly_delete_your_older_models_some_are/",
+   "source": "r/LocalLLaMA",
+   "title": "Do not blindly delete your older models, some are still precious",
+   "published_at": "2026-08-24T17:48:23+00:00",
+   "collected_at": "2026-08-24T18:52:57.991895+00:00",
+   "title_ko": "구형 오픈소스 LLM을 성급하게 삭제하면 안 되는 이유",
+   "summary_ko": "최신 모델이 더 뛰어나지만 구형 대형 언어 모델들이 여전히 특정 영역에서 우수한 세계 지식과 디테일을 보여준다는 사용자 경험 공유입니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
    ]
   },
   {
@@ -189,6 +234,21 @@
    ]
   },
   {
+   "id": "48b0088ea68cb753",
+   "url": "https://arxiv.org/abs/2608.16603",
+   "source": "Hacker News",
+   "title": "Public services are increasingly strained by LLM-written appeals for benefits",
+   "published_at": "2026-08-24T16:30:21+00:00",
+   "collected_at": "2026-08-24T18:52:56.938225+00:00",
+   "title_ko": "LLM이 작성한 복지 수당 이의 신청으로 가중되는 공공 서비스 부담",
+   "summary_ko": "생성형 AI로 작성된 대규모 이의 신청서가 공공 서비스 운영에 부담을 주고 있다는 연구 결과입니다.",
+   "category": "참고",
+   "tags": [
+    "LLM",
+    "규제"
+   ]
+  },
+  {
    "id": "c1fe722555fd9666",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx7ei1/best_local_vision_language_models_august_2026/",
    "source": "r/LocalLLaMA",
@@ -233,6 +293,21 @@
    ]
   },
   {
+   "id": "42f46d423de7607a",
+   "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+   "source": "Hacker News",
+   "title": "Coding expertise is going to collapse from AI reliance",
+   "published_at": "2026-08-24T15:52:33+00:00",
+   "collected_at": "2026-08-24T18:52:54.231370+00:00",
+   "title_ko": "AI 의존도로 인해 우려되는 개발자 코딩 전문성 저하",
+   "summary_ko": "개발자들이 AI에 과도하게 의존하면서 장기적으로 핵심 코딩 전문성과 문제 해결 능력이 붕괴될 수 있다는 지적입니다.",
+   "category": "참고",
+   "tags": [
+    "코딩",
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "3e2b3baed9b4332a",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214300",
    "source": "AI타임스",
@@ -263,6 +338,20 @@
    ]
   },
   {
+   "id": "89a72fa1cc6079d7",
+   "url": "https://www.reddit.com/r/singularity/comments/1vx6kaw/premise_ai_is_only_useful_for_whatever_you_can/",
+   "source": "r/singularity",
+   "title": "Premise: AI is only useful for whatever you can personally understand. Not an artist? Bad AI art. Not a coder? Unmaintainable AI code. If you are good at what you do, you are safe.",
+   "published_at": "2026-08-24T15:48:46+00:00",
+   "collected_at": "2026-08-24T18:53:02.977892+00:00",
+   "title_ko": "개인의 이해도에 따라 갈리는 AI 활용의 한계",
+   "summary_ko": "AI는 사용자가 직접 이해하고 검증할 수 있는 영역에서만 진정한 가치를 발휘한다는 주장을 다룬 글입니다.",
+   "category": "참고",
+   "tags": [
+    "LLM"
+   ]
+  },
+  {
    "id": "29cfdc8019227fe0",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214301",
    "source": "AI타임스",
@@ -275,6 +364,20 @@
    "tags": [
     "OpenAI",
     "GPT"
+   ]
+  },
+  {
+   "id": "db36f883b48c142b",
+   "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+   "source": "Hacker News",
+   "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+   "published_at": "2026-08-24T15:28:04+00:00",
+   "collected_at": "2026-08-24T18:52:54.231370+00:00",
+   "title_ko": "MS 페인트와 사진 앱, 로컬 생성 결과물에도 보이지 않는 워터마크 삽입",
+   "summary_ko": "마이크로소프트의 기본 이미지 도구들이 로컬에서 생성된 파일에도 고유 식별자(GUID) 기반의 보이지 않는 워터마크를 남기는 것으로 확인되었습니다.",
+   "category": "참고",
+   "tags": [
+    "규제"
    ]
   },
   {
@@ -309,6 +412,21 @@
    ]
   },
   {
+   "id": "7a2032ac105cac3c",
+   "url": "https://developers.openai.com/api/docs/pricing",
+   "source": "Hacker News",
+   "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+   "published_at": "2026-08-24T15:22:43+00:00",
+   "collected_at": "2026-08-24T18:52:54.231370+00:00",
+   "title_ko": "오픈아이가 GPT-5.6 Sol API 가격 인하 발표",
+   "summary_ko": "오픈아이가 개발자를 위한 GPT-5.6 Sol 모델의 API 가격을 한시적으로 인하한다고 밝혔습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT"
+   ]
+  },
+  {
    "id": "17d12eb31497928e",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214298",
    "source": "AI타임스",
@@ -335,6 +453,21 @@
    "tags": [
     "SKT",
     "인재양성"
+   ]
+  },
+  {
+   "id": "5050df1f7eea9643",
+   "url": "https://www.reddit.com/r/singularity/comments/1vx5ezk/why_do_we_assume_anyone_will_give_us_access_to/",
+   "source": "r/singularity",
+   "title": "Why do we assume anyone will give us access to superintelligence?",
+   "published_at": "2026-08-24T15:06:17+00:00",
+   "collected_at": "2026-08-24T18:53:02.977892+00:00",
+   "title_ko": "초지능 시대, 인간에게 접근권을 줄 것인가",
+   "summary_ko": "초지능 개발 시 기업이 이를 구독 형태로 외부에 개방하는 것이 경제적·전략적으로 타당한지에 대한 고찰.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "투자"
    ]
   },
   {
@@ -445,6 +578,20 @@
    ]
   },
   {
+   "id": "37ce5187d34a959b",
+   "url": "https://www.reddit.com/r/singularity/comments/1vx443u/an_unusual_parade_was_held_in_kyiv_it_featured/",
+   "source": "r/singularity",
+   "title": "An unusual parade was held in Kyiv. It featured ground-based robotic systems, maritime drones, and aerial drones",
+   "published_at": "2026-08-24T14:17:35+00:00",
+   "collected_at": "2026-08-24T18:53:02.977892+00:00",
+   "title_ko": "우크라이나 군사 퍼레이드에 등장한 로봇 시스템",
+   "summary_ko": "키이우에서 열린 퍼레이드에 지상 로봇 시스템과 해상·공중 드론이 대거 등장함.",
+   "category": "속보",
+   "tags": [
+    "로보틱스"
+   ]
+  },
+  {
    "id": "49ef03fb88a410e3",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214290",
    "source": "AI타임스",
@@ -532,6 +679,20 @@
    "category": "참고",
    "tags": [
     "LLM"
+   ]
+  },
+  {
+   "id": "b1c4a7b241679c48",
+   "url": "https://www.reddit.com/r/singularity/comments/1vx2qcj/being_part_of_the_first_class_that_had_ai_through/",
+   "source": "r/singularity",
+   "title": "being part of the first class that had ai through all of high school and then college hit different",
+   "published_at": "2026-08-24T13:23:49+00:00",
+   "collected_at": "2026-08-24T18:53:02.977892+00:00",
+   "title_ko": "AI와 함께 성장한 세대의 노동시장 진입 우려",
+   "summary_ko": "학창 시절 내내 AI를 사용해 온 세대가 향후 노동시장에 미칠 영향에 대한 우려와 논의.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트"
    ]
   },
   {
@@ -748,6 +909,20 @@
    ]
   },
   {
+   "id": "5c59876f0dbed7da",
+   "url": "https://www.reddit.com/r/singularity/comments/1vwyo98/california_signed_a_law_in_which_the_state_bar/",
+   "source": "r/singularity",
+   "title": "California signed a law in which the state bar should need to disclose when AI wrote the exam questions",
+   "published_at": "2026-08-24T10:13:52+00:00",
+   "collected_at": "2026-08-24T18:53:02.977892+00:00",
+   "title_ko": "캘리포니아 주, AI 출제 변호사시험 공표 의무화",
+   "summary_ko": "시험 출제 시 AI 사용 논란 이후 캘리포니아주가 변호사시험 내 AI 출제 여부 공개를 의무화하는 법안을 통과시킴.",
+   "category": "중요",
+   "tags": [
+    "규제"
+   ]
+  },
+  {
    "id": "72f054aea9651cb3",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwyh1k/at_a_certain_point_speed_smartness/",
    "source": "r/LocalLLaMA",
@@ -761,6 +936,18 @@
     "오픈소스",
     "LLM"
    ]
+  },
+  {
+   "id": "c2e4f54f7f8daedc",
+   "url": "https://corkmac.app/our-ai-stance/",
+   "source": "Hacker News",
+   "title": "We never use AI. For anything",
+   "published_at": "2026-08-24T09:32:32+00:00",
+   "collected_at": "2026-08-24T18:52:56.938225+00:00",
+   "title_ko": "AI를 전혀 사용하지 않는 개발 철학",
+   "summary_ko": "업무 전반에서 AI를 배제하고 인간의 힘으로만 개발을 진행하는 사례와 철학에 대한 공유.",
+   "category": "참고",
+   "tags": []
   },
   {
    "id": "77888645ead0eeed",
@@ -1006,6 +1193,21 @@
    ]
   },
   {
+   "id": "21e2214b93db915c",
+   "url": "https://cmart.blog/claude-writing/",
+   "source": "Hacker News",
+   "title": "Why is Anthropic's public writing style so unlike Claude's?",
+   "published_at": "2026-08-24T03:32:42+00:00",
+   "collected_at": "2026-08-24T18:52:56.938225+00:00",
+   "title_ko": "앤스로픽의 공개 글과 클로드의 글쓰기 스타일 차이",
+   "summary_ko": "앤스로픽 공식 블로그의 글쓰기 스타일과 AI 모델인 클로드의 화법 간의 차이점을 분석함.",
+   "category": "참고",
+   "tags": [
+    "Anthropic",
+    "Claude"
+   ]
+  },
+  {
    "id": "190ad356f2938a10",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwrc6i/i_trained_a_157bparameter_dreamer_4_world_model/",
    "source": "r/LocalLLaMA",
@@ -1213,6 +1415,21 @@
    ]
   },
   {
+   "id": "7ac69527ecf9c5ca",
+   "url": "https://www.reddit.com/r/singularity/comments/1vwju3e/sam_altman_with_some_sad_statements_about_ai/",
+   "source": "r/singularity",
+   "title": "Sam Altman with some sad statements about AI",
+   "published_at": "2026-08-23T21:39:38+00:00",
+   "collected_at": "2026-08-24T18:53:02.977892+00:00",
+   "title_ko": "샘 알트만, AI 영향력 확산 속도에 대한 오판 인정",
+   "summary_ko": "사회와 경제의 관성으로 인해 GPT-4 이후 예상보다 AI에 의한 시장 파괴와 변화 속도가 느리다고 샘 알트만이 언급함.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "GPT"
+   ]
+  },
+  {
    "id": "67bc36e3fd30af1d",
    "url": "https://news.hada.io/topic?id=32813",
    "source": "GeekNews",
@@ -1271,6 +1488,21 @@
     "코딩",
     "오픈소스",
     "LLM"
+   ]
+  },
+  {
+   "id": "969a834ab81544b6",
+   "url": "https://twitter.com/paulg/status/2091544343589060625",
+   "source": "Hacker News",
+   "title": "I were 17, I'd learn how to build LLMs from scratch",
+   "published_at": "2026-08-23T20:38:09+00:00",
+   "collected_at": "2026-08-24T18:52:54.231370+00:00",
+   "title_ko": "17세로 돌아간다면 LLM을 바닥부터 구현하겠다",
+   "summary_ko": "폴 그레이엄이 젊은 세대에게 LLM의 기초 원리와 구현 방법을 직접 배우는 것의 중요성을 강조함.",
+   "category": "팁",
+   "tags": [
+    "코딩",
+    "오픈소스"
    ]
   },
   {
@@ -1365,6 +1597,20 @@
    ]
   },
   {
+   "id": "c597baa01631b102",
+   "url": "https://www.reddit.com/r/singularity/comments/1vwh3nq/us_startup_just_put_autonomous_excavators_to_work/",
+   "source": "r/singularity",
+   "title": "US startup just put autonomous excavators to work",
+   "published_at": "2026-08-23T19:52:00+00:00",
+   "collected_at": "2026-08-24T18:53:02.977892+00:00",
+   "title_ko": "미국 스타트업, 자율주행 굴착기 현장 투입",
+   "summary_ko": "미국의 한 스타트업이 현장에 완전 자율주행 기능을 갖춘 굴착기를 투입해 가동을 시작함.",
+   "category": "속보",
+   "tags": [
+    "로보틱스"
+   ]
+  },
+  {
    "id": "275cb45eba1ab802",
    "url": "https://news.hada.io/topic?id=32811",
    "source": "GeekNews",
@@ -1394,6 +1640,21 @@
     "AI",
     "검열",
     "중국"
+   ]
+  },
+  {
+   "id": "451496f8489c5cad",
+   "url": "https://fabiensanglard.net/agent.md/index.html",
+   "source": "Hacker News",
+   "title": "My agent.md to improve LLM-assisted code quality",
+   "published_at": "2026-08-23T17:59:52+00:00",
+   "collected_at": "2026-08-24T18:52:56.938225+00:00",
+   "title_ko": "LLM 기반 코드 품질 향상을 위한 agent.md 활용법",
+   "summary_ko": "AI 코딩 어시스턴트의 효율과 코드 품질을 극대화하기 위해 agent.md 파일을 활용하는 실무 팁.",
+   "category": "팁",
+   "tags": [
+    "코딩",
+    "AI 에이전트"
    ]
   },
   {
@@ -1667,6 +1928,20 @@
    "tags": [
     "코딩",
     "Claude"
+   ]
+  },
+  {
+   "id": "36a58a3d58419260",
+   "url": "https://ericpardee.github.io/fire-hd-ownership/",
+   "source": "Hacker News",
+   "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+   "published_at": "2026-08-23T14:23:09+00:00",
+   "collected_at": "2026-08-24T18:52:56.938225+00:00",
+   "title_ko": "AI 모델을 활용한 태블릿 제어권 확보 사례",
+   "summary_ko": "여러 AI 모델과 비용을 들여 태블릿 기기 소유권을 완전히 확보한 프로젝트에서 GLM-5.3이 최종 성공함.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
    ]
   },
   {
@@ -2748,300 +3023,6 @@
    "tags": [
     "OpenAI",
     "오픈소스"
-   ]
-  },
-  {
-   "id": "304760d427667b9e",
-   "url": "https://twitter.com/argofowl/status/2091150597374537729",
-   "source": "Hacker News",
-   "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-   "published_at": "2026-08-22T16:58:49+00:00",
-   "collected_at": "2026-08-22T18:42:19.564042+00:00",
-   "title_ko": "Anthropic, Claude Code에서 연산 수준 A/B 테스트 진행 포착",
-   "summary_ko": "앤트로픽이 개발자 도구인 Claude Code에서 추론 및 연산 노력을 조절하는 A/B 테스트를 진행 중인 정황이 포착되었습니다.",
-   "category": "속보",
-   "tags": [
-    "Anthropic",
-    "Claude",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "e3098b9d51c496ae",
-   "url": "https://www.reddit.com/r/singularity/comments/1vvhlfi/93_secondshumanoid_robots_now_run_faster_than/",
-   "source": "r/singularity",
-   "title": "9.3 seconds…Humanoid robots now run faster than humans",
-   "published_at": "2026-08-22T16:57:11+00:00",
-   "collected_at": "2026-08-22T23:29:08.292184+00:00",
-   "title_ko": "휴머노이드 로봇, 인간보다 빠른 100m 질주 기록 달성",
-   "summary_ko": "휴머노이드 로봇이 9.3초 만에 100m를 주주하여 기존 인간의 세계 기록을 뛰어넘는 성능을 시연했습니다.",
-   "category": "속보",
-   "tags": [
-    "로보틱스"
-   ]
-  },
-  {
-   "id": "40a6b0e5a87dbe44",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvh7b1/who_is_leading_the_pack_for_best_llm_gateway_2k26/",
-   "source": "r/LocalLLaMA",
-   "title": "Who is leading the pack for best llm gateway 2k26?",
-   "published_at": "2026-08-22T16:41:41+00:00",
-   "collected_at": "2026-08-22T18:42:20.490017+00:00",
-   "title_ko": "기업용 LLM 게이트웨이 트렌드 및 추천 논의",
-   "summary_ko": "프롬프트 캐싱, 비용 산정, 최신 추론 모델을 지원하는 엔터프라이즈 급 LLM 게이트웨이 솔루션에 대한 커뮤니티 논의가 활발합니다.",
-   "category": "참고",
-   "tags": [
-    "LLM",
-    "인프라"
-   ]
-  },
-  {
-   "id": "499e84f658442dd6",
-   "url": "https://news.hada.io/topic?id=32771",
-   "source": "GeekNews",
-   "title": "TUI를 그만 만드세요",
-   "published_at": "2026-08-22T16:33:47+00:00",
-   "collected_at": "2026-08-22T19:29:46.879340+00:00",
-   "title_ko": "LLM 에이전트의 발전으로 TUI 시대가 저물고 네이티브 UI가 부상",
-   "summary_ko": "LLM 에이전트가 실용적인 수준의 네이티브 UI를 생성하게 되면서 시스템 프로그래머들이 TUI 대신 풍부한 인터페이스의 개인용 도구를 만들 수 있게 된 변화를 조명합니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "UI"
-   ]
-  },
-  {
-   "id": "d51e721fb7e8c21a",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvgyvk/does_anyone_actually_respect_benchmarks/",
-   "source": "r/LocalLLaMA",
-   "title": "Does anyone actually respect benchmarks?",
-   "published_at": "2026-08-22T16:32:20+00:00",
-   "collected_at": "2026-08-22T17:29:19.034603+00:00",
-   "title_ko": "LLM 벤치마크의 실효성에 대한 개발자 회의론",
-   "summary_ko": "AI 모델 벤치마크 점수가 실제 사용자의 작업 환경과 일치하지 않아 신뢰하기 어렵다는 개발자들의 지적이 이어지고 있습니다. 실제 성능 검증을 위해서는 개별 워크로드에 기반한 직접 테스트가 중요합니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "개발"
-   ]
-  },
-  {
-   "id": "897fc0b9ac4740bc",
-   "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-   "source": "TechCrunch",
-   "title": "OpenAI says California should strengthen its AI safety bill",
-   "published_at": "2026-08-22T16:30:34+00:00",
-   "collected_at": "2026-08-22T16:34:39.512458+00:00",
-   "title_ko": "OpenAI, 캘리포니아 AI 안전 법안 강화 촉구",
-   "summary_ko": "과거 반대 입장을 표명했던 OpenAI가 캘리포니아주의 AI 안전 법안(SB 53)을 강화해야 한다고 주장했습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "규제",
-    "AI 안전"
-   ]
-  },
-  {
-   "id": "f814008d85fbd8c1",
-   "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-   "source": "TechCrunch",
-   "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-   "published_at": "2026-08-22T16:00:00+00:00",
-   "collected_at": "2026-08-22T16:34:39.512458+00:00",
-   "title_ko": "주요 AI 연구소들의 통제 불능 모델 대응 계획 부재",
-   "summary_ko": "최신 연구에 따르면 주요 AI 연구소들이 통제력을 잃은 AI 모델을 통제할 공개된 대응 계획을 거의 갖추지 못한 것으로 나타났습니다.",
-   "category": "중요",
-   "tags": [
-    "AI 안전",
-    "연구"
-   ]
-  },
-  {
-   "id": "6cda44a27fa95dfd",
-   "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
-   "source": "Simon Willison",
-   "title": "More than just code review",
-   "published_at": "2026-08-22T15:56:54+00:00",
-   "collected_at": "2026-08-22T16:34:45.873941+00:00",
-   "title_ko": "코딩 에이전트 활용을 위한 핵심 역량",
-   "summary_ko": "코딩 에이전트를 생산적으로 사용하려면 코드 한 줄씩 검토하는 것보다 명확한 지시와 효과적인 검증 능력이 중요합니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "코딩",
-    "생성형 AI"
-   ]
-  },
-  {
-   "id": "babb31d8a6a73242",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvft7b/fixed_the_mtp_head_on_ornith15_35b_a3b_3_tps_33/",
-   "source": "r/LocalLLaMA",
-   "title": "Fixed the MTP head on Ornith1.5 35B A3B. +3% TPS -33% wall clock",
-   "published_at": "2026-08-22T15:46:27+00:00",
-   "collected_at": "2026-08-22T16:34:46.557807+00:00",
-   "title_ko": "Ornith 35B 모델의 MTP 헤드 수정으로 성능 향상",
-   "summary_ko": "사용자가 로컬 LLM인 Ornith 35B의 MTP 헤드를 수정하여 처리 속도를 대폭 개선했습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "로컬LLM"
-   ]
-  },
-  {
-   "id": "58f4bf7b7ca9b8b9",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvfbde/how_to_remove_trendy_speech_from_llms/",
-   "source": "r/LocalLLaMA",
-   "title": "How to remove trendy speech from llms?",
-   "published_at": "2026-08-22T15:26:22+00:00",
-   "collected_at": "2026-08-22T16:34:46.557807+00:00",
-   "title_ko": "LLM의 과도한 유행어 및 상투적 표현 제거 방법",
-   "summary_ko": "LLM이 답변 시 자주 사용하는 부자연스러운 유행어나 은유적 표현을 시스템 프롬프트로 교정하는 방법에 대한 논의입니다.",
-   "category": "팁",
-   "tags": [
-    "LLM",
-    "프롬프트"
-   ]
-  },
-  {
-   "id": "1a82b7bd9aa5a839",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvf7tk/your_own_gguf/",
-   "source": "r/LocalLLaMA",
-   "title": "Your own GGUF",
-   "published_at": "2026-08-22T15:22:23+00:00",
-   "collected_at": "2026-08-22T16:34:46.557807+00:00",
-   "title_ko": "직접 GGUF 포맷을 생성하는 것의 실효성",
-   "summary_ko": "로컬 LLM 사용자들 사이에서 자체적으로 GGUF 모델을 양자화하고 컴파일하는 것의 이점과 성능 차이에 대한 논의입니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "7c5ceaaf1c9e4b19",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214249",
-   "source": "AI타임스",
-   "title": "익명 'Ox 알파' 등장…코딩 성능·100조 토큰 무상 제공에 '발칵'",
-   "published_at": "2026-08-22T15:18:55+00:00",
-   "collected_at": "2026-08-22T06:54:09.203823+00:00",
-   "title_ko": "정체불명 AI 모델 'Ox 알파' 오픈라우터 깜짝 등장",
-   "summary_ko": "운영 주체가 베일에 가려진 프론티어급 모델 Ox 알파가 오픈라우터에 등장해 파격적인 무료 토큰 제공과 뛰어난 코딩 성능으로 주목받고 있다.",
-   "category": "속보",
-   "tags": [
-    "OpenRouter",
-    "코딩",
-    "AI"
-   ]
-  },
-  {
-   "id": "32dc5360b273728e",
-   "url": "https://quantumi.sh/public/labs.html",
-   "source": "Hacker News",
-   "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-   "published_at": "2026-08-22T14:54:07+00:00",
-   "collected_at": "2026-08-22T18:42:19.094540+00:00",
-   "title_ko": "유사한 이름을 가진 AI 스타트업들 조명",
-   "summary_ko": "ElevenLabs, TwelveLabs 등 비슷한 네이밍을 가진 음성 및 영상 생성 AI 스타트업들의 동향을 다루고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "스타트업"
-   ]
-  },
-  {
-   "id": "9397d41e08f74190",
-   "url": "https://news.hada.io/topic?id=32769",
-   "source": "GeekNews",
-   "title": "Labor0를 만든 이유",
-   "published_at": "2026-08-22T14:28:07+00:00",
-   "collected_at": "2026-08-22T15:30:05.189907+00:00",
-   "title_ko": "AI 에이전트 병목 해소를 위한 Labor0 개발 배경",
-   "summary_ko": "AI 에이전트 작업 시 사람의 확인과 조율 병목을 줄이기 위해 작은 PR 단위로 쪼개고 자동화된 작업 체계를 구성한 이유를 설명합니다. 실무에서 AI 에이전트 효율을 높이는 데 중요한 시사점을 줍니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "코딩",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "b210c461563e5d25",
-   "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
-   "source": "Hacker News",
-   "title": "Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
-   "published_at": "2026-08-22T14:13:05+00:00",
-   "collected_at": "2026-08-22T22:32:03.273204+00:00",
-   "title_ko": "할리우드 창작자들의 AI 학습 참여 논란",
-   "summary_ko": "할리우드 창작자들이 자신의 일자리를 대체할 AI 모델을 직접 학습시키며 겪는 윤리적·실무적 딜레마를 조명합니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "규제"
-   ]
-  },
-  {
-   "id": "1f498842b60de3cb",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214234",
-   "source": "AI타임스",
-   "title": "플리토, 쓰면 쓸수록 똑똑해지는 '자가발전 AI 통역 비서' 고도화",
-   "published_at": "2026-08-22T13:47:13+00:00",
-   "collected_at": "2026-08-22T05:36:02.707120+00:00",
-   "title_ko": "플리토, 자가발전 AI 통역 비서 고도화",
-   "summary_ko": "플리토가 학습할 지점을 스스로 찾는 자가발전 AI 기술을 적용해 실시간 통역 솔루션을 고도화했다. 사용자 데이터를 바탕으로 맞춤형 번역 품질을 높이는 데 기여한다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트",
-    "번역",
-    "플리토"
-   ]
-  },
-  {
-   "id": "f99d19193e7de61d",
-   "url": "https://www.reddit.com/r/singularity/comments/1vvcmy2/modernas_vaccine_breakthrough_supported_by_ai/",
-   "source": "r/singularity",
-   "title": "Moderna's Vaccine Breakthrough Supported by AI: Musk Praises mRNA Despite 'Obvious Misuse During COVID'",
-   "published_at": "2026-08-22T13:35:46+00:00",
-   "collected_at": "2026-08-22T13:39:07.165322+00:00",
-   "title_ko": "AI 기술로 지원받는 모더나 백신 연구 성과",
-   "summary_ko": "AI가 모더나의 mRNA 백신 개발을 지원한 성과가 조명받았으며 일론 머스크가 이에 대해 언급했습니다.",
-   "category": "참고",
-   "tags": [
-    "AI",
-    "바이오",
-    "투자"
-   ]
-  },
-  {
-   "id": "4f8707c0778d40f2",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214246",
-   "source": "AI타임스",
-   "title": "플로리다, 챗GPT ‘공공 위해 요소’ 지정 요구...알트먼·오픈AI 전방위 압박",
-   "published_at": "2026-08-22T13:33:39+00:00",
-   "collected_at": "2026-08-22T05:36:02.707120+00:00",
-   "title_ko": "플리디로주, 챗GPT '공공 위해 요소' 지정 요구",
-   "summary_ko": "미국 플로리다주가 오픈아이와 샘 알트먼을 상대로 한 소송에서 챗GPT를 공공 위해 요소로 규정해 줄 것을 법원에 요구했다. 안전성과 미성년자 보호 등을 둘러싼 법적 공방이 심화되고 있다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "규제",
-    "GPT"
-   ]
-  },
-  {
-   "id": "80d4d98280b49fb5",
-   "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-   "source": "Hacker News",
-   "title": "The New MCP Roadmap",
-   "published_at": "2026-08-22T13:31:34+00:00",
-   "collected_at": "2026-08-22T17:29:15.689915+00:00",
-   "title_ko": "모델 콘텍스트 프로토콜(MCP) 신규 로드맵 공개",
-   "summary_ko": "AI 모델 연동을 위한 표준 프로토콜인 MCP의 향후 발전 방향을 담은 새로운 로드맵이 공개되었습니다. AI 에이전트와 외부 데이터 연동 생태계 확장에 중요한 이정표가 될 것입니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스",
-    "개발"
    ]
   }
  ]
