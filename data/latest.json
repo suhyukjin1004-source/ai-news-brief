@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-24T14:52:57.953703+00:00",
+ "updated_at": "2026-08-24T15:50:01.336612+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -232,6 +232,22 @@
    ]
   },
   {
+   "id": "351f69dcf090598e",
+   "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+   "source": "TechCrunch",
+   "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+   "published_at": "2026-08-24T15:24:18+00:00",
+   "collected_at": "2026-08-24T15:49:22.345479+00:00",
+   "title_ko": "제너럴 인튜이션, 60억 달러 가치로 투자 유치 추진",
+   "summary_ko": "공간과 시간을 이동하는 AI 에이전트 파운데이션 모델을 개발하는 제너럴 인튜이션이 60억 달러 가치로 투자를 유치 중이다. 로보틱스 분야로의 AI 확장 가능성을 보여주는 중요한 움직임이다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트",
+    "로보틱스",
+    "투자"
+   ]
+  },
+  {
    "id": "e38d60e55e8df510",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214279",
    "source": "AI타임스",
@@ -276,6 +292,21 @@
    ]
   },
   {
+   "id": "b0c3b7c6480ea483",
+   "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+   "source": "TechCrunch",
+   "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+   "published_at": "2026-08-24T15:00:00+00:00",
+   "collected_at": "2026-08-24T15:49:22.345479+00:00",
+   "title_ko": "OpenAI, 전면적인 AI 에이전트 개발 가속화",
+   "summary_ko": "OpenAI가 소프트웨어 엔지니어뿐만 아니라 대중을 위한 범용 AI 에이전트 개발에 박차를 가하고 있다. 향후 일상과 업무 전반에 큰 변화를 가져올 수 있다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "f11014577efb5649",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214296",
    "source": "AI타임스",
@@ -288,6 +319,22 @@
    "tags": [
     "Google",
     "투자"
+   ]
+  },
+  {
+   "id": "34dedf49d5c009d5",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx4k9g/whats_the_best_local_model_youve_found_for_8_gb/",
+   "source": "r/LocalLLaMA",
+   "title": "What's the best local model you've found for 8 GB of VRAM?",
+   "published_at": "2026-08-24T14:34:40+00:00",
+   "collected_at": "2026-08-24T15:49:45.037863+00:00",
+   "title_ko": "8GB VRAM 환경에 최적화된 로컬 LLM 코딩 모델 공유",
+   "summary_ko": "8GB VRAM 환경에서 에이전틱 코딩 작업을 수행하기 위한 로컬 모델과 퀀텀 설정 공유 내용이다. 저사양 하드웨어에서 실무적인 로컬 LLM 활용법을 보여준다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩",
+    "로컬LLM"
    ]
   },
   {
@@ -2996,53 +3043,6 @@
    "tags": [
     "Meta",
     "오픈소스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "fe509d58fbe2cca9",
-   "url": "https://news.hada.io/topic?id=32767",
-   "source": "GeekNews",
-   "title": "Claudette - Claude의 BuzzFeed식 말투를 평범한 영어로 바꾸는 도구",
-   "published_at": "2026-08-22T12:36:39+00:00",
-   "collected_at": "2026-08-22T15:30:05.189907+00:00",
-   "title_ko": "Claude의 장황한 말투를 평범한 영어로 바꾸는 'Claudette' 도구",
-   "summary_ko": "Claude 특유의 극적이고 장황한 말투를 평범한 영어로 변환해 주는 Claude Code 스킬 도구입니다. LLM 출력의 가독성을 높이고 실무 활용도를 개선하는 데 유용합니다.",
-   "category": "팁",
-   "tags": [
-    "Claude",
-    "코딩"
-   ]
-  },
-  {
-   "id": "cd30822c56f78962",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvbabx/newold_benchmark_that_provides_a_lot_of_answers/",
-   "source": "r/LocalLLaMA",
-   "title": "New/Old benchmark that provides a lot of answers for local LLM",
-   "published_at": "2026-08-22T12:34:39+00:00",
-   "collected_at": "2026-08-22T12:54:47.299371+00:00",
-   "title_ko": "로컬 LLM VRAM 최적화 및 테스트용 벤치마크 등장",
-   "summary_ko": "하드웨어 한계를 극대화하기 위해 VRAM 적재 및 서버 설정을 테스트할 수 있는 새로운 벤치마크가 공개되었습니다. 로컬 LLM 구동 시 세밀한 성능 조율에 유용합니다.",
-   "category": "팁",
-   "tags": [
-    "로컬LLM",
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "bee5108baab9293a",
-   "url": "https://www.reddit.com/r/singularity/comments/1vvb47a/gemini_37_flash_is_currently_75_off_on_openrouter/",
-   "source": "r/singularity",
-   "title": "Gemini 3.7 Flash is currently 75% off on OpenRouter, beating DeepSeek on price/performance",
-   "published_at": "2026-08-22T12:26:29+00:00",
-   "collected_at": "2026-08-22T13:39:07.165322+00:00",
-   "title_ko": "구글 Gemini 3.7 Flash 오픈루터 대폭 할인",
-   "summary_ko": "구글이 Gemini 3.7 Flash의 가격을 대폭 인하하여 뛰어난 가격 대비 성능으로 경쟁력을 높였습니다.",
-   "category": "속보",
-   "tags": [
-    "Google",
-    "Gemini",
     "AI 에이전트"
    ]
   }
