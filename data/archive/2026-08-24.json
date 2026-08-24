@@ -30,6 +30,21 @@
   ]
  },
  {
+  "id": "40aa975149dfcfaa",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx4969/llamacpp_docs_now_have_a_new_home/",
+  "source": "r/LocalLLaMA",
+  "title": "llama.cpp docs now have a new home ❤️",
+  "published_at": "2026-08-24T14:22:55+00:00",
+  "collected_at": "2026-08-24T14:52:38.814362+00:00",
+  "title_ko": "llama.cpp 공식 문서 이전 안내",
+  "summary_ko": "llama.cpp 프로젝트의 공식 문서가 새로운 주소로 이전되었습니다. 사용자들은 업데이트된 링크를 통해 최신 가이드를 확인할 수 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "llama.cpp"
+  ]
+ },
+ {
   "id": "65f8887bfd801c49",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214286",
   "source": "AI타임스",
@@ -43,6 +58,21 @@
    "Google",
    "신약 개발",
    "바이오"
+  ]
+ },
+ {
+  "id": "7192836a021f9199",
+  "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+  "source": "MIT Tech Review",
+  "title": "How to encourage smarter AI use in the classroom",
+  "published_at": "2026-08-24T14:20:19+00:00",
+  "collected_at": "2026-08-24T14:52:31.985622+00:00",
+  "title_ko": "교실 내 스마트한 AI 활용을 장려하는 방법",
+  "summary_ko": "MIT 테크놀로지 리뷰가 교육 현장에서 챗봇과 LLM을 효과적이고 교육적으로 활용하는 방안을 조명했습니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "교육"
   ]
  },
  {
@@ -62,6 +92,96 @@
   ]
  },
  {
+  "id": "832a773a93a2fb6d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx3img/paper_tomoe_converting_dense_large_language/",
+  "source": "r/LocalLLaMA",
+  "title": "[Paper] ToMoE: Converting Dense Large Language Models to Mixture-of-Experts through Dynamic Structural Pruning",
+  "published_at": "2026-08-24T13:54:54+00:00",
+  "collected_at": "2026-08-24T14:52:38.814362+00:00",
+  "title_ko": "밀집 LLM을 MoE로 변환하는 'ToMoE' 기법",
+  "summary_ko": "동적 구조 가지치기를 통해 밀집형 대형 언어 모델을 혼합 전문가(MoE) 모델로 효율적으로 변환하는 연구가 공개되었습니다. 자원이 제한된 환경에서의 연산 비용 절감을 목표로 합니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "7eabb76804645236",
+  "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+  "source": "TechCrunch",
+  "title": "Hugging Face reportedly in talks to be acquired for $13B",
+  "published_at": "2026-08-24T13:47:26+00:00",
+  "collected_at": "2026-08-24T14:52:31.230389+00:00",
+  "title_ko": "허깅페이스, 130억 달러 규모 인수 제안 논의 중",
+  "summary_ko": "허깅페이스가 약 130억 달러의 기업 가치로 인수 제안을 받고 논의 중이라는 보도가 나왔습니다. 다만 창업자들의 커뮤니티 책임감 때문에 실제 매각 여부는 불투명합니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "투자"
+  ]
+ },
+ {
+  "id": "56fb3e7449c50a6a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx33zj/tielcoders_22_gb_4bit_quant_matches_opus46_medium/",
+  "source": "r/LocalLLaMA",
+  "title": "TielCoder's 22 GB 4-bit quant matches Opus4.6 medium on recent real life coding issues, surpassing KAT-Coder and Nail as strongest and fastest MoE picks.",
+  "published_at": "2026-08-24T13:38:52+00:00",
+  "collected_at": "2026-08-24T14:52:38.814362+00:00",
+  "title_ko": "코딩 작업에 특화된 고성능 MoE 양자화 모델 등장",
+  "summary_ko": "실제 코드베이스 문제 해결에 뛰어난 성능을 보이는 35B MoE 코딩 모델의 양자화 버전이 공개되었습니다. 제한된 하드웨어에서도 빠르고 정확한 에이전트 코딩을 지원합니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "f2241051751eb65e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx2yg4/iphone_local_tts_epub_reading_audiobookify/",
+  "source": "r/LocalLLaMA",
+  "title": "iPhone Local TTS EPUB Reading - Audiobookify",
+  "published_at": "2026-08-24T13:32:43+00:00",
+  "collected_at": "2026-08-24T14:52:38.814362+00:00",
+  "title_ko": "아이폰용 로컬 오프라인 TTS 기반 EPUB 리더",
+  "summary_ko": "배터리 효율과 음성 품질을 극대화한 로컬 오프라인 텍스트 음성 변환(TTS) 기능을 갖춘 아이폰용 전자책 리더 앱이 소개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "efe2a1bb25d6b167",
+  "url": "https://news.hada.io/topic?id=32846",
+  "source": "GeekNews",
+  "title": "내가 17살이라면 LLM을 처음부터 만드는 법을 배우겠다",
+  "published_at": "2026-08-24T13:31:46+00:00",
+  "collected_at": "2026-08-24T14:52:54.023151+00:00",
+  "title_ko": "LLM을 처음부터 만드는 법에 대한 조언",
+  "summary_ko": "기존 도구를 단순히 사용하는 것을 넘어, 확보 가능한 하드웨어로 LLM을 직접 설계하고 훈련하며 근본적인 작동 원리를 학습하는 것의 중요성을 다룹니다.",
+  "category": "참고",
+  "tags": [
+   "LLM"
+  ]
+ },
+ {
+  "id": "31b2bd23aa695cc9",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx2pk7/real_local_agentic_coding_on_a_12gb_vram_budget/",
+  "source": "r/LocalLLaMA",
+  "title": "Real local agentic coding on a 12GB VRAM budget.",
+  "published_at": "2026-08-24T13:22:55+00:00",
+  "collected_at": "2026-08-24T14:52:38.814362+00:00",
+  "title_ko": "12GB VRAM 환경에서의 로컬 에이전트 코딩 실습",
+  "summary_ko": "최신 양자화 기법과 27B 모델을 활용해 제한된 VRAM 환경에서도 실용적인 속도로 로컬 코딩 에이전트를 구동하는 구성 방법이 공유되었습니다.",
+  "category": "팁",
+  "tags": [
+   "LLM",
+   "코딩",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "5b8d4ec2c6998173",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214285",
   "source": "AI타임스",
@@ -77,6 +197,20 @@
   ]
  },
  {
+  "id": "cbecea26e6d84892",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx2fhz/i_irradiated_llms_and_found_that_they_die_really/",
+  "source": "r/LocalLLaMA",
+  "title": "I irradiated LLMs and found that they die really quickly",
+  "published_at": "2026-08-24T13:11:31+00:00",
+  "collected_at": "2026-08-24T14:52:38.814362+00:00",
+  "title_ko": "저궤도 환경 시뮬레이션을 위한 LLM 방사선 실험",
+  "summary_ko": "우주 환경 등 저궤도에서의 비트 플립 현상을 시뮬레이션하기 위해 LLM에 인위적인 오류를 주입한 실험 결과가 공유되었습니다.",
+  "category": "참고",
+  "tags": [
+   "LLM"
+  ]
+ },
+ {
   "id": "64b07dd3e61a77e1",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214282",
   "source": "AI타임스",
@@ -87,6 +221,21 @@
   "summary_ko": "유발 하라리 교수가 AI의 인간 사칭과 감정 조작을 막기 위한 신속한 제도적 규제와 신뢰 구축의 필요성을 강조했다.",
   "category": "참고",
   "tags": [
+   "규제"
+  ]
+ },
+ {
+  "id": "f8ca232c79a4b320",
+  "url": "https://news.hada.io/topic?id=32844",
+  "source": "GeekNews",
+  "title": "Andreessen Horowitz가 수십억 달러를 투자하는 암울한 미래",
+  "published_at": "2026-08-24T12:35:04+00:00",
+  "collected_at": "2026-08-24T14:52:54.023151+00:00",
+  "title_ko": "a16z의 AI 및 기술 투자 논란 조명",
+  "summary_ko": "유명 벤처캐피털 a16z가 투자한 일부 스타트업들의 가짜 계정, AI 부정행위 도구, 유해 챗봇 등 윤리적·법적 문제들이 도시에 올랐습니다.",
+  "category": "중요",
+  "tags": [
+   "투자",
    "규제"
   ]
  },
