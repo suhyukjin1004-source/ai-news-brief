@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-25T10:42:37.695677+00:00",
+ "updated_at": "2026-08-25T11:36:54.738502+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -273,6 +273,52 @@
    "tags": [
     "AI 교육",
     "생성AI"
+   ]
+  },
+  {
+   "id": "6f0feab6f75e08b7",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxwu4g/qwen38_flash_next/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8 flash next",
+   "published_at": "2026-08-25T11:13:41+00:00",
+   "collected_at": "2026-08-25T11:36:37.699973+00:00",
+   "title_ko": "Qwen 3.8 Flash Next 모델 관련 논의",
+   "summary_ko": "새롭게 언급된 Qwen 3.8 Flash Next 모델에 대한 커뮤니티의 기대와 관심이 높아지고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "c22a357b4682f57b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxwtyd/qwen38flashnext_tomorrow/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8-Flash-Next tomorrow",
+   "published_at": "2026-08-25T11:13:28+00:00",
+   "collected_at": "2026-08-25T11:36:37.699973+00:00",
+   "title_ko": "Qwen 3.8-Flash-Next 출시 임박",
+   "summary_ko": "Qwen 3.8-Flash-Next 모델의 공개가 하루 앞으로 다가오며 사용자들의 이목이 집중되고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "b67d5d1560dc4039",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxwa0o/i_want_to_try_qwen_38_but_which_gguf_are_we_all/",
+   "source": "r/LocalLLaMA",
+   "title": "I want to try qwen 3.8... but which gguf are we all using?",
+   "published_at": "2026-08-25T10:45:46+00:00",
+   "collected_at": "2026-08-25T11:36:37.699973+00:00",
+   "title_ko": "Qwen 3.8 GGUF 양자화 모델 추천 및 활용법",
+   "summary_ko": "32GB VRAM 환경에서 성능을 극대화할 수 있는 Qwen 3.8 GGUF 양자화 버전에 대한 사용자들의 논의가 이어지고 있습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "코딩"
    ]
   },
   {
@@ -2972,52 +3018,6 @@
    "category": "속보",
    "tags": [
     "반도체"
-   ]
-  },
-  {
-   "id": "57a95f6b2cbb75c1",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214258",
-   "source": "AI타임스",
-   "title": "리퀴드 AI ‘디스파크’, 메모리 병목 뚫었다…소형 모델이 미리 쓰고 대형 모델이 검증",
-   "published_at": "2026-08-23T11:48:18+00:00",
-   "collected_at": "2026-08-23T03:11:44.417087+00:00",
-   "title_ko": "리퀴드 AI, LLM 메모리 병목 해결하는 디스파크 공개",
-   "summary_ko": "리퀴드 AI가 소형 모델이 토큰을 생성하고 대형 모델이 검증하는 방식의 새로운 추론 가속 기술 '디스파크'를 선보여 추론 속도와 효율성을 높였습니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트",
-    "반도체",
-    "LLM"
-   ]
-  },
-  {
-   "id": "16af25c489226a74",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw4qzf/deepseek_v4_flash_on_an_m2_ultra_repacked_to_141/",
-   "source": "r/LocalLLaMA",
-   "title": "DeepSeek V4 Flash on an M2 Ultra: repacked to 141 GiB losslessly, smaller than the Q4 GGUF, at 25.8 t/s (42 t/s peak)",
-   "published_at": "2026-08-23T11:28:58+00:00",
-   "collected_at": "2026-08-23T12:56:12.816826+00:00",
-   "title_ko": "M2 Ultra에서 DeepSeek V4 최적화 구동",
-   "summary_ko": "M2 Ultra 환경에서 llama.cpp 포크를 이용해 DeepSeek V4 모델을 무손실 압축하여 고속으로 구동한 최적화 사례.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "2eae9c19fe6e4e8e",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214083",
-   "source": "AI타임스",
-   "title": "아이벡스, 오염 데이터 극복한 AI 이상탐지 기술 개발...‘AI 완전 무인 자동화’ 시동",
-   "published_at": "2026-08-23T11:28:08+00:00",
-   "collected_at": "2026-08-23T03:11:44.417087+00:00",
-   "title_ko": "아이벡스, 오염 데이터 극복한 AI 이상탐지 기술 개발",
-   "summary_ko": "아이벡스가 산업 현장의 기술적 난제를 해결하는 피지컬 AI 생태계 구축을 위해 AI 이상탐지 기술을 개발했습니다.",
-   "category": "중요",
-   "tags": [
-    "로보틱스",
-    "AI 에이전트"
    ]
   }
  ]
