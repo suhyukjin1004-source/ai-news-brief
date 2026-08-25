@@ -1,8 +1,54 @@
 {
- "updated_at": "2026-08-25T05:40:00.261460+00:00",
+ "updated_at": "2026-08-25T07:02:26.988507+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "62db1eaa3065a140",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214339",
+   "source": "AI타임스",
+   "title": "‘반도체 자립’ 속도 내는 샤오미...차세대 3나노 SoC ‘엑스링 O3’ 공개",
+   "published_at": "2026-08-25T15:58:38+00:00",
+   "collected_at": "2026-08-25T07:02:24.003711+00:00",
+   "title_ko": "샤오미, 차세대 3나노 AI 칩 '엑스링 O3' 공개",
+   "summary_ko": "샤오미가 AI 연산 기능을 통합한 3나노 공정 기반의 자체 모바일 SoC '엑스링 O3'를 공개하며 반도체 자립을 가속화하고 있다.",
+   "category": "속보",
+   "tags": [
+    "반도체",
+    "샤오미"
+   ]
+  },
+  {
+   "id": "09b585fc93506cb0",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214341",
+   "source": "AI타임스",
+   "title": "샤오펑 로봇 자회사 도고틱스, 1.2조 유치…중국 휴머노이드 역대 최대 규모",
+   "published_at": "2026-08-25T15:50:05+00:00",
+   "collected_at": "2026-08-25T07:02:24.003711+00:00",
+   "title_ko": "샤오펑 로봇 자회사 도고틱스, 1조 2천억 원 투자 유치",
+   "summary_ko": "샤오펑의 휴머노이드 로봇 자회사 도고틱스가 중국 피지컬 AI 업계 사상 최대 규모의 투자를 유치하며 기업 가치를 크게 높였다.",
+   "category": "중요",
+   "tags": [
+    "로보틱스",
+    "투자",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "8f80b48fcf45ead2",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214335",
+   "source": "AI타임스",
+   "title": "영국, 우크라이나 전장 AI 빅데이터 확보...국방·안보 AI 공동 개발 착수",
+   "published_at": "2026-08-25T15:38:44+00:00",
+   "collected_at": "2026-08-25T07:02:24.003711+00:00",
+   "title_ko": "영국-우크라이나, 전장 AI 데이터 기반 국방 기술 공동 개발",
+   "summary_ko": "영국이 우크라이나의 실제 전장 데이터를 활용해 국방 및 안보 분야의 차세대 AI 기술을 공동 개발하기로 협정을 체결했다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트",
+    "국방"
+   ]
+  },
   {
    "id": "1e76641ab481d66b",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214340",
@@ -2978,52 +3024,6 @@
     "AI 에이전트",
     "Claude",
     "GPT"
-   ]
-  },
-  {
-   "id": "44144f6ac82d070f",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvw4h5/would_it_be_possible_to_distill_deepseek_v4_flash/",
-   "source": "r/LocalLLaMA",
-   "title": "Would it be possible to distill DeepSeek V4 Flash 0731 onto Nemotron 3.5 Lightning?",
-   "published_at": "2026-08-23T03:24:53+00:00",
-   "collected_at": "2026-08-23T04:47:08.273282+00:00",
-   "title_ko": "오픈소스 LLM 모델 증류 관련 커뮤니티 논의",
-   "summary_ko": "로컬 LLM 사용자가 하드웨어 클러스터를 활용해 특정 모델을 다른 모델로 증류하는 방법 가능성을 질문하고 토론하고 있다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "DeepSeek",
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "4af66509c6755ea9",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvv7iv/the_all_spark_cluster_upgrading_from_16_36_dgx/",
-   "source": "r/LocalLLaMA",
-   "title": "“The All Spark” Cluster: Upgrading from 16 - 36 DGX Sparks",
-   "published_at": "2026-08-23T02:38:29+00:00",
-   "collected_at": "2026-08-23T03:11:31.184199+00:00",
-   "title_ko": "홈랩 서버 구축을 위한 36개 DGX 스파크 클러스터 업그레이드",
-   "summary_ko": "사용자가 36개의 DGX 스파크를 연결해 4.6TB의 통합 메모리를 갖춘 대규모 로컬 LLM 추론 클러스터를 구축했습니다.",
-   "category": "참고",
-   "tags": [
-    "반도체",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "ff52571b90974a34",
-   "url": "https://news.hada.io/topic?id=32788",
-   "source": "GeekNews",
-   "title": "Munder Difflin - 나를 복제한 직원들로 사무실을 운영하는 에이전트 하네스",
-   "published_at": "2026-08-23T02:32:37+00:00",
-   "collected_at": "2026-08-23T03:11:45.397136+00:00",
-   "title_ko": "로컬에서 다중 AI 에이전트를 실행하는 오픈소스 하네스 Munder Difflin",
-   "summary_ko": "다양한 에이전트 CLI를 활용해 사용자의 지식과 맥락을 공유하는 복제 에이전트를 로컬에서 실행할 수 있는 오픈소스 도구입니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트"
    ]
   }
  ]
