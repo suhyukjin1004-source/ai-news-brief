@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-25T20:39:09.831707+00:00",
+ "updated_at": "2026-08-25T21:37:40.784878+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -497,6 +497,21 @@
    "category": "참고",
    "tags": [
     "AI 트렌드"
+   ]
+  },
+  {
+   "id": "7369d43a2315535c",
+   "url": "https://github.com/ThinkOffApp/CarWatch",
+   "source": "Hacker News",
+   "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+   "published_at": "2026-08-25T15:20:20+00:00",
+   "collected_at": "2026-08-25T21:37:24.179855+00:00",
+   "title_ko": "라즈베리파이와  Qwen으로 구축한 차량용 로컬 AI",
+   "summary_ko": "라즈베리파이에서 Qwen 모델을 구동하고 차량 OBD와 연동해 오프라인에서도 작동하는 차량용 AI 어시스턴트를 개발했습니다. 임베디드 환경에서의 로컬 LLM 활용 가능성을 보여줍니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
    ]
   },
   {
@@ -2991,22 +3006,6 @@
    "tags": [
     "AI 에이전트",
     "투자"
-   ]
-  },
-  {
-   "id": "1a473ae013c89e60",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwowbu/qwen_38_27b_just_wanted_to_say_thanks_to_you_guys/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen 3.8 27B, just wanted to say thanks to you guys",
-   "published_at": "2026-08-24T01:22:02+00:00",
-   "collected_at": "2026-08-24T01:51:26.227190+00:00",
-   "title_ko": "로컬 LLM과 홈 어시스턴트를 연동한 AI 에이전트 구축기",
-   "summary_ko": "사용자가 오픈소스 모델과 llama.cpp를 활용해 로컬 환경에서 스마트홈과 연동되는 코딩 및 홈 오토메이션 에이전트를 구축했다. 로컬 LLM 생태계의 실용성을 보여준다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트",
-    "코딩"
    ]
   }
  ]
