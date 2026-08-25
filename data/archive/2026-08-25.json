@@ -15,6 +15,51 @@
   ]
  },
  {
+  "id": "9493941dd2c5b932",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy1g90/intel_arc_pro_b60_dual_48g_spotted/",
+  "source": "r/LocalLLaMA",
+  "title": "Intel Arc Pro B60 Dual 48G spotted",
+  "published_at": "2026-08-25T14:29:04+00:00",
+  "collected_at": "2026-08-25T14:55:37.097071+00:00",
+  "title_ko": "인텔 아크 프로 B60 듀얼 48GB 제품 포착",
+  "summary_ko": "인텔의 새로운 듀얼 AI 가속 하드웨어가 등록되어 로컬 LLM 구동을 위한 대안으로 주목받고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "d1df00f6f18c79cd",
+  "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+  "source": "TechCrunch",
+  "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+  "published_at": "2026-08-25T14:22:04+00:00",
+  "collected_at": "2026-08-25T14:55:29.004144+00:00",
+  "title_ko": "오픈에이아이의 자체 AI 칩 '할라피뇨', 벤치마크에서 뛰어난 추론 성능 입증",
+  "summary_ko": "오픈에이아이의 맞춤형 추론 칩 할라피뇨가 기존 최고 수준의 칩 대비 전력당 처리량과 사용자당 토큰 생성 수에서 우수한 성능을 기록했습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "반도체"
+  ]
+ },
+ {
+  "id": "33818196d37f6673",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+  "source": "The Verge",
+  "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+  "published_at": "2026-08-25T14:00:00+00:00",
+  "collected_at": "2026-08-25T14:55:29.102263+00:00",
+  "title_ko": "오픈에이아이, 고성능 AI 추론 칩 '할라피뇨' 공개",
+  "summary_ko": "오픈에이아이가 저지연과 고처리량을 동시에 만족하는 자체 AI 칩 할라피뇨를 통해 더 빠른 응답 속도를 제공한다고 밝혔습니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "반도체"
+  ]
+ },
+ {
   "id": "96aac27e9c9456c8",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214338",
   "source": "AI타임스",
@@ -42,6 +87,20 @@
   "tags": [
    "AI 교육",
    "생성AI"
+  ]
+ },
+ {
+  "id": "ccd09e6cf6d62026",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy09xv/apple_unveils_a_more_powerful_mac_mini_featuring/",
+  "source": "r/LocalLLaMA",
+  "title": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
+  "published_at": "2026-08-25T13:44:25+00:00",
+  "collected_at": "2026-08-25T14:55:37.097071+00:00",
+  "title_ko": "애플, 신경망 가속기 탑재한 M6 및 M5 Pro 맥 미니 공개",
+  "summary_ko": "새로운 맥 미니는 코어별 뉴럴 액셀러레이터와 듀얼 뉴럴 엔진을 탑재해 이전 세대보다 대폭 향상된 AI 성능을 제공합니다.",
+  "category": "속보",
+  "tags": [
+   "반도체"
   ]
  },
  {
@@ -135,6 +194,21 @@
   ]
  },
  {
+  "id": "22b21fdfaf665230",
+  "url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/",
+  "source": "Hacker News",
+  "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
+  "published_at": "2026-08-25T12:33:00+00:00",
+  "collected_at": "2026-08-25T14:55:36.168070+00:00",
+  "title_ko": "오픈에이아이, ChatGPT 플러스 이용자 대상 코덱스 및 업무 제한 복원",
+  "summary_ko": "오픈에이아이가 유료 구독자를 위한 서비스 이용 제한을 원래대로 복원했습니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "GPT"
+  ]
+ },
+ {
   "id": "123a1997e3037346",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxybmy/qwen_38_flash_next_day_0_support_from_unsloth/",
   "source": "r/LocalLLaMA",
@@ -162,6 +236,20 @@
   "tags": [
    "OpenAI",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "041b97a09ff0e580",
+  "url": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next",
+  "source": "Hacker News",
+  "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
+  "published_at": "2026-08-25T11:49:43+00:00",
+  "collected_at": "2026-08-25T14:55:31.540590+00:00",
+  "title_ko": "알리바바, 신규 모델 'Qwen 3.8-Flash-Next' 출시 예정",
+  "summary_ko": "알리바바의 새로운 대형 언어 모델 Qwen 시리즈의 신제품이 공개를 앞두고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
   ]
  },
  {
@@ -344,6 +432,21 @@
   "tags": [
    "Claude",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "9ad99bb5f40a3110",
+  "url": "https://openai.com/index/jalapeno-first-results",
+  "source": "OpenAI",
+  "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+  "published_at": "2026-08-25T07:00:00+00:00",
+  "collected_at": "2026-08-25T14:55:29.865787+00:00",
+  "title_ko": "오픈에이아이 맞춤형 추론 칩 '할라피뇨' 초기 성능 결과 공개",
+  "summary_ko": "오픈에이아이의 자체 칩 할라피뇨가 최신 AI 모델 구동 시 업계 최고 수준의 속도와 전력 효율을 보여주었습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "반도체"
   ]
  },
  {
