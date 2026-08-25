@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-25T14:55:55.248650+00:00",
+ "updated_at": "2026-08-25T15:53:22.487114+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -231,6 +231,79 @@
    ]
   },
   {
+   "id": "b15a1197829636bc",
+   "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+   "source": "Hacker News",
+   "title": "How much of HN is AI?",
+   "published_at": "2026-08-25T15:23:41+00:00",
+   "collected_at": "2026-08-25T15:53:02.797921+00:00",
+   "title_ko": "해커뉴스 콘텐츠 중 AI 비중 분석",
+   "summary_ko": "해커뉴스 게시글에서 AI 관련 콘텐츠가 차지하는 비중을 분석한 글입니다. 커뮤니티 내 AI 트렌드를 파악하는 데 참고가 됩니다.",
+   "category": "참고",
+   "tags": [
+    "AI 트렌드"
+   ]
+  },
+  {
+   "id": "74043a2c13e42e05",
+   "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+   "source": "Hugging Face",
+   "title": "Granite 4.2 LLMs: How They're Built",
+   "published_at": "2026-08-25T15:14:14+00:00",
+   "collected_at": "2026-08-25T15:53:00.002376+00:00",
+   "title_ko": "IBM Granite 4.2 LLM 구조 공개",
+   "summary_ko": "IBM이 새롭게 선보인 Granite 4.2 대형언어모델의 아키텍처와 구축 방식이 공개되었습니다. 오픈소스 모델 생태계 확장에 기여합니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "91e559409d12e489",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy2jz7/ibmgranitegranite4230b_hugging_face/",
+   "source": "r/LocalLLaMA",
+   "title": "ibm-granite/granite-4.2-30b · Hugging Face",
+   "published_at": "2026-08-25T15:10:57+00:00",
+   "collected_at": "2026-08-25T15:53:03.583236+00:00",
+   "title_ko": "IBM, 추론 특화 모델 'Granite-4.2-30B' 공개",
+   "summary_ko": "내장된 사고 사슬(Chain-of-Thought)과 유연한 추론 모드를 지원하는 플래그십 추론 모델 Granite-4.2-30B가 출시되었습니다. 복잡한 수학과 코딩 작업에서 뛰어난 성능을 발휘합니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "b0e00151fb378e4f",
+   "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+   "source": "TechCrunch",
+   "title": "Gamma acquires Accel-backed design startup Lica",
+   "published_at": "2026-08-25T15:00:00+00:00",
+   "collected_at": "2026-08-25T15:52:58.151701+00:00",
+   "title_ko": "감마, 디자인 스타트업 Lica 인수",
+   "summary_ko": "AI 기반 문서 제작 플랫폼 감마(Gamma)가 디자인 스타트업 Lica를 인수하고 신규 연구팀에 공동 창업자들을 영입했습니다. AI 프로덕트 역량 강화로 이어질 전망입니다.",
+   "category": "중요",
+   "tags": [
+    "투자"
+   ]
+  },
+  {
+   "id": "8c2bae7dd5c872ce",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy1q1l/12_abliterated_gemma_4_12b_variants_one_base_165/",
+   "source": "r/LocalLLaMA",
+   "title": "12 abliterated Gemma 4 12B variants, one base, 165 GPU hours - Abliterlitics",
+   "published_at": "2026-08-25T14:39:42+00:00",
+   "collected_at": "2026-08-25T15:53:03.583236+00:00",
+   "title_ko": "Gemma 4 12B 언검수 버전 변종 성능 비교 분석",
+   "summary_ko": "Gemma 4 12B 모델의 다양한 언검수(abliterated) 변종들을 비교 분석한 연구 보고서입니다. 오픈소스 모델의 안전성과 성능 트레이드오프를 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "Google"
+   ]
+  },
+  {
    "id": "1e76641ab481d66b",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214340",
    "source": "AI타임스",
@@ -243,6 +316,20 @@
    "tags": [
     "AI",
     "트렌드"
+   ]
+  },
+  {
+   "id": "d61399e933bf680d",
+   "url": "https://news.hada.io/topic?id=32878",
+   "source": "GeekNews",
+   "title": "Show GN: homebutler - 홈서버 관리에 필요한 걸 한 바이너리에 담고 AI까지 붙였습니다",
+   "published_at": "2026-08-25T14:30:57+00:00",
+   "collected_at": "2026-08-25T15:53:18.287593+00:00",
+   "title_ko": "AI와 MCP 기능을 탑재한 홈서버 관리 도구 'homebutler'",
+   "summary_ko": "홈서버 관리 기능과 MCP 서버를 단일 Go 바이너리에 담아 AI로 제어할 수 있게 만든 도구입니다. 실무와 개인 프로젝트 활용에 유용합니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트"
    ]
   },
   {
@@ -273,6 +360,20 @@
    "tags": [
     "OpenAI",
     "반도체"
+   ]
+  },
+  {
+   "id": "4d61925ba6fc43cb",
+   "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
+   "source": "Hacker News",
+   "title": "Anthropic tells staff to work from home due to possible security team strike",
+   "published_at": "2026-08-25T14:00:27+00:00",
+   "collected_at": "2026-08-25T15:53:02.797921+00:00",
+   "title_ko": "앤스로픽, 보안팀 파업 우려로 직원 재택근무 권고",
+   "summary_ko": "보안팀의 잠재적 파업 가능성으로 인해 앤스로픽이 샌프란시스코 직원들에게 재택근무를 권고했습니다. 주요 AI랩의 내부 운영 상황을 보여줍니다.",
+   "category": "속보",
+   "tags": [
+    "Anthropic"
    ]
   },
   {
@@ -663,6 +764,22 @@
    "tags": [
     "Claude",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "829e237a888dfb1d",
+   "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+   "source": "OpenAI",
+   "title": "The full stack behind abundant intelligence",
+   "published_at": "2026-08-25T07:05:00+00:00",
+   "collected_at": "2026-08-25T15:52:59.336027+00:00",
+   "title_ko": "오픈AI CFO가 밝힌 지능 비용 절감의 풀스택 전략",
+   "summary_ko": "칩, 연산 인프라, 모델, 제품 전반의 혁신이 어떻게 결합하여 더 낮은 비용으로 대규모 지능을 제공하는지 설명합니다. AI 인프라의 미래 방향성을 제시합니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "반도체",
+    "투자"
    ]
   },
   {
@@ -2895,128 +3012,6 @@
     "Xiaomi",
     "AI 에이전트",
     "코딩"
-   ]
-  },
-  {
-   "id": "eb42303f3f5fb6ab",
-   "url": "https://www.reddit.com/r/singularity/comments/1vwclb9/whrg26_galbots_humanoid_robot_just_completed_100/",
-   "source": "r/singularity",
-   "title": "WHRG'26: Galbot’s humanoid robot just completed +100 consecutive tennis rallies autonomously",
-   "published_at": "2026-08-23T17:01:46+00:00",
-   "collected_at": "2026-08-23T19:29:07.156670+00:00",
-   "title_ko": "갈봇 휴머노이드 로봇, 테니스 랠리 100회 연속 성공",
-   "summary_ko": "갈봇의 휴머노이드 로봇이 자율주행 기술을 기반으로 테니스 랠리 100회 이상을 연속으로 성공하며 로보틱스 성능을 입증했습니다.",
-   "category": "속보",
-   "tags": [
-    "로보틱스",
-    "AI"
-   ]
-  },
-  {
-   "id": "575df47cada39131",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwbyzr/benchmark_results_what_is_the_best_and_fastest/",
-   "source": "r/LocalLLaMA",
-   "title": "Benchmark results: what is the best and fastest engine to run Qwen3.8-27B on macOS",
-   "published_at": "2026-08-23T16:37:44+00:00",
-   "collected_at": "2026-08-23T17:28:22.782167+00:00",
-   "title_ko": "Qwen 3.8 27B macOS 실행 엔진 성능 벤치마크",
-   "summary_ko": "로컬 에이전트 작업에 뛰어난 Qwen 3.8 27B 모델을 macOS에서 가장 빠르고 효율적으로 구동할 수 있는 엔진을 비교 분석했습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "코딩"
-   ]
-  },
-  {
-   "id": "ee722e3f7335d9ed",
-   "url": "https://news.hada.io/topic?id=32808",
-   "source": "GeekNews",
-   "title": "Qwen 3.8 27B, 리버스 엔지니어링 작업을 30분 만에 완료",
-   "published_at": "2026-08-23T16:32:39+00:00",
-   "collected_at": "2026-08-23T17:28:36.868654+00:00",
-   "title_ko": "Qwen 3.8 27B로 30분 만에 수행한 리버스 엔지니어링",
-   "summary_ko": "Qwen 3.8 27B 모델이 단일 머신에서 상용 앱의 바이너리를 정적 분석하고 인증 우회 개념증명까지 30분 만에 완성했습니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "코딩"
-   ]
-  },
-  {
-   "id": "0790a69251314d7f",
-   "url": "https://reinvently.co.uk/tools/ed-o-meter/",
-   "source": "Hacker News",
-   "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-   "published_at": "2026-08-23T16:24:21+00:00",
-   "collected_at": "2026-08-24T22:36:32.451245+00:00",
-   "title_ko": "저렴한 비용의 오픈웨이트 모델 GLM-5.3 공개",
-   "summary_ko": "GLM-5.3이 주요 상용 모델들을 저렴한 비용으로 능가하는 성능을 보여 주목받고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "OpenAI",
-    "Anthropic"
-   ]
-  },
-  {
-   "id": "b4916600cc770d4f",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214263",
-   "source": "AI타임스",
-   "title": "메타, '뮤즈 스파크 1.2' 오픈라우터에 현존 최저가로 할인",
-   "published_at": "2026-08-23T16:23:09+00:00",
-   "collected_at": "2026-08-23T07:40:51.411333+00:00",
-   "title_ko": "메타, 오픈라우터서 최저가 요금제 출시",
-   "summary_ko": "메타가 오픈라우터에 플래그십 모델 '뮤즈 스파크 1.2'를 파격적인 저가로 출시하며 AI 모델 가격 경쟁에 가세했습니다. 개발자 및 기업 고객 확보를 위한 플랫폼 경쟁이 치열해지고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "Meta",
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "f943092e5899c4e1",
-   "url": "https://news.hada.io/topic?id=32807",
-   "source": "GeekNews",
-   "title": "Linus Torvalds가 AI로 Intel GPU 드라이버 버그를 추적한 과정",
-   "published_at": "2026-08-23T16:01:31+00:00",
-   "collected_at": "2026-08-23T17:28:36.868654+00:00",
-   "title_ko": "Linus Torvalds의 AI 활용 Intel GPU 버그 추적",
-   "summary_ko": "리누스 토발즈가 AI를 활용해 인텔 Xe GPU 드라이버의 복잡한 메모리 할당 버그를 추적하고 해결한 사례를 공유했습니다.",
-   "category": "참고",
-   "tags": [
-    "반도체",
-    "코딩"
-   ]
-  },
-  {
-   "id": "134533210f9e5df9",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwazhv/has_anyone_tried_agentlightning/",
-   "source": "r/LocalLLaMA",
-   "title": "Has anyone tried agent-lightning?",
-   "published_at": "2026-08-23T16:00:31+00:00",
-   "collected_at": "2026-08-23T16:36:56.762144+00:00",
-   "title_ko": "AI 에이전트 프레임워크 agent-lightning 활용 경험 공유",
-   "summary_ko": "개발자 커뮤니티에서 agent-lightning 에이전트 도구의 효용성에 대한 논의가 진행되었습니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "b8eb3288ecfe9d63",
-   "url": "https://www.reddit.com/r/singularity/comments/1vwak0v/whrg26_tiangong_humanoid_robot_crushed_the_400m/",
-   "source": "r/singularity",
-   "title": "WHRG'26: Tiangong humanoid robot crushed the 400m in 38.15 and the 1500m in 2:21.6, smashing the human world records of 43.03 and 3:26 set by Niekerk (2016) and Guerrouj (1998) respectively",
-   "published_at": "2026-08-23T15:43:47+00:00",
-   "collected_at": "2026-08-23T16:37:01.600950+00:00",
-   "title_ko": "중국 휴머노이드 로봇 천공, 인간 육상 세계 신기록 경신",
-   "summary_ko": "천공 로봇이 400m와 1500m 종목에서 인간의 기존 세계 기록을 뛰어넘는 기록을 세우며 로보틱스 성능의 비약적 발전을 보여주었습니다.",
-   "category": "속보",
-   "tags": [
-    "로보틱스"
    ]
   }
  ]
