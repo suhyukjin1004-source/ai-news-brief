@@ -1,8 +1,38 @@
 {
- "updated_at": "2026-08-25T01:46:50.088960+00:00",
+ "updated_at": "2026-08-25T03:07:54.027391+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "72b1b6c9d959ee8a",
+   "url": "https://news.hada.io/topic?id=32864",
+   "source": "GeekNews",
+   "title": "바이브 세금",
+   "published_at": "2026-08-25T01:40:52+00:00",
+   "collected_at": "2026-08-25T03:07:52.185334+00:00",
+   "title_ko": "AI 에이전트 개발의 비용과 한계 사례",
+   "summary_ko": "개발자가 LLM 에이전트에 앱 제작을 맡겼으나 12시간 만에 토큰을 모두 소진하고 코드를 생성하지 못한 사건입니다. 에이전트 자율성의 한계와 비용 문제를 보여줍니다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트",
+    "LLM"
+   ]
+  },
+  {
+   "id": "dfd2100d9108920d",
+   "url": "https://news.hada.io/topic?id=32863",
+   "source": "GeekNews",
+   "title": "Fable과 ‘공짜 점심’의 종말",
+   "published_at": "2026-08-25T01:38:53+00:00",
+   "collected_at": "2026-08-25T03:07:52.185334+00:00",
+   "title_ko": "AI 코딩 도구의 비용 효율화 압박",
+   "summary_ko": "높은 비용으로 인해 모든 작업을 최상위 모델에 맡기는 대신 작업별로 최적의 모델을 배치하는 방식으로 전환되고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "LLM",
+    "코딩"
+   ]
+  },
   {
    "id": "6543ffa66fe94f79",
    "url": "https://news.hada.io/topic?id=32861",
@@ -212,6 +242,21 @@
    "category": "중요",
    "tags": [
     "Microsoft"
+   ]
+  },
+  {
+   "id": "f1b6aac358f7999c",
+   "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+   "source": "Hacker News",
+   "title": "LLMs could control their host machines by exploiting inference engines",
+   "published_at": "2026-08-24T19:03:06+00:00",
+   "collected_at": "2026-08-25T03:07:24.886462+00:00",
+   "title_ko": "LLM의 추론 엔진 취약점 악용 가능성",
+   "summary_ko": "LLM이 추론 엔진의 취약점을 이용해 호스트 머신을 제어할 수 있다는 보안 우려를 다룬 글입니다.",
+   "category": "중요",
+   "tags": [
+    "LLM",
+    "보안"
    ]
   },
   {
@@ -2977,51 +3022,6 @@
    "tags": [
     "오픈소스",
     "코딩"
-   ]
-  },
-  {
-   "id": "fedf2c7a39d86de3",
-   "url": "https://www.reddit.com/r/singularity/comments/1vvsoj8/gpt_56_sol_max_leads_on_clockbench/",
-   "source": "r/singularity",
-   "title": "GPT 5.6 Sol Max leads on ClockBench",
-   "published_at": "2026-08-23T00:34:27+00:00",
-   "collected_at": "2026-08-23T06:55:03.515504+00:00",
-   "title_ko": "ClockBench에서 선두를 차지한 GPT 5.6 Sol Max",
-   "summary_ko": "최신 벤치마크인 ClockBench에서 GPT 5.6 Sol Max 모델이 우수한 성적으로 선두를 기록했습니다.",
-   "category": "참고",
-   "tags": [
-    "GPT",
-    "벤치마크"
-   ]
-  },
-  {
-   "id": "8186b883ebb89103",
-   "url": "https://www.reddit.com/r/singularity/comments/1vvsh6l/coding_is_solved_bugs_are_not_yet_solved/",
-   "source": "r/singularity",
-   "title": "Coding Is solved, Bugs are Not Yet Solved",
-   "published_at": "2026-08-23T00:24:55+00:00",
-   "collected_at": "2026-08-23T06:55:03.515504+00:00",
-   "title_ko": "코딩은 해결되었으나 버그는 아직 해결되지 않았다",
-   "summary_ko": "AI를 통한 코딩 자동화가 진전되었음에도 여전히 디버깅과 예외 상황 처리는 과제로 남아있음을 비유적으로 다룬 의견입니다.",
-   "category": "참고",
-   "tags": [
-    "코딩",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "860388f508db67e3",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvsgsp/best_harness_for_long_autonomous_tasks/",
-   "source": "r/LocalLLaMA",
-   "title": "Best harness for long autonomous tasks",
-   "published_at": "2026-08-23T00:24:26+00:00",
-   "collected_at": "2026-08-23T01:54:07.632379+00:00",
-   "title_ko": "자율 장기 태스크 수행을 위한 최적의 AI 에이전트 도구 탐색",
-   "summary_ko": "로컬 LLM을 활용해 장시간 동안 자율적으로 코딩 및 작업을 수행하는 에이전트 하네스 구성에 대한 논의다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
    ]
   }
  ]
