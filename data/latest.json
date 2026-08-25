@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-25T07:02:26.988507+00:00",
+ "updated_at": "2026-08-25T07:53:24.954191+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -108,6 +108,22 @@
     "Claude Code",
     "AI 에이전트",
     "오픈소스"
+   ]
+  },
+  {
+   "id": "05403881b28b011c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxoif0/spent_a_day_seeing_how_far_extreme_moe_models_can/",
+   "source": "r/LocalLLaMA",
+   "title": "Spent a day seeing how far extreme MoE models can be pushed on a 4070 Ti + 32GB RAM. Kimi K3, DeepSeek V4 Flash, and Qwen3.5-122B results + research paper🔧",
+   "published_at": "2026-08-25T03:28:19+00:00",
+   "collected_at": "2026-08-25T07:53:08.448356+00:00",
+   "title_ko": "소비자용 하드웨어에서 대형 MoE 모델 구동 실험 결과 공개",
+   "summary_ko": "RTX 4070 Ti와 32GB RAM 환경에서 초대형 MoE 모델을 구동한 실험으로, 개인용 PC에서의 LLM 활용 가능성을 보여줍니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "코딩"
    ]
   },
   {
@@ -3008,22 +3024,6 @@
    "tags": [
     "반도체",
     "인프라"
-   ]
-  },
-  {
-   "id": "36f4183de7c1ff26",
-   "url": "https://www.reddit.com/r/singularity/comments/1vvw76g/i_tested_every_frontier_model_from_every_ai_lab/",
-   "source": "r/singularity",
-   "title": "I tested every frontier model from every AI lab - Claude Fable 5, GPT 5.6 Sol, Kimi K3, GLM 5.3, Qwen 3.8 Max, DS v4 Pro, Grok 4.6 and just 1 made it through.",
-   "published_at": "2026-08-23T03:28:41+00:00",
-   "collected_at": "2026-08-23T06:55:03.515504+00:00",
-   "title_ko": "대형 로그 파일 분석을 통한 프론티어 AI 모델 성능 테스트",
-   "summary_ko": "방대한 로그 파일과 지시사항을 바탕으로 주요 최신 AI 모델들의 실제 에이전트 작업 수행 능력을 비교 테스트한 내용입니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "Claude",
-    "GPT"
    ]
   }
  ]
