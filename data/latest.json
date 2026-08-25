@@ -1,8 +1,69 @@
 {
- "updated_at": "2026-08-25T03:07:54.027391+00:00",
+ "updated_at": "2026-08-25T05:40:00.261460+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "1e76641ab481d66b",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214340",
+   "source": "AI타임스",
+   "title": "중국 초저예산 애니, '옥스 알파' 밈 타고 글로벌 테크 이슈로 급부상",
+   "published_at": "2026-08-25T14:37:37+00:00",
+   "collected_at": "2026-08-25T05:39:57.031973+00:00",
+   "title_ko": "중국 저예산 애니메이션의 '옥스 알파' AI 밈 확산",
+   "summary_ko": "중국의 초저예산 애니메이션 흥행이 정체불명의 AI 모델인 '옥스 알파' 연계설과 엮이며 글로벌 테크 이슈로 부상했습니다.",
+   "category": "속보",
+   "tags": [
+    "AI",
+    "트렌드"
+   ]
+  },
+  {
+   "id": "96aac27e9c9456c8",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214338",
+   "source": "AI타임스",
+   "title": "한국전자통신연구원, ‘AAIF’ 가입…국내 '에이전틱 AI 글로벌 표준 선점' 지원",
+   "published_at": "2026-08-25T13:57:54+00:00",
+   "collected_at": "2026-08-25T05:39:57.879780+00:00",
+   "title_ko": "ETRI, 리눅스재단 AAIF 가입으로 에이전틱 AI 표준 선점 추진",
+   "summary_ko": "한국전자통신연구원이 에이전트형 인공지능 재단에 가입하여 에이전틱 AI 글로벌 표준 선점과 국제협력을 강화합니다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "ff74cd09776e9552",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214334",
+   "source": "AI타임스",
+   "title": "엔백스, AI 교육 운영 플랫폼 ‘뮤즈’ 공식 출시",
+   "published_at": "2026-08-25T13:54:26+00:00",
+   "collected_at": "2026-08-25T05:39:57.031973+00:00",
+   "title_ko": "엔백스, 생성 AI 기반 교육 플랫폼 '뮤즈' 출시",
+   "summary_ko": "대화, 코딩, 멀티미디어 등 다양한 생성 AI를 교육 과정에 통합하여 활용할 수 있는 플랫폼 '뮤즈'가 공식 출시되었습니다.",
+   "category": "속보",
+   "tags": [
+    "AI 교육",
+    "생성AI"
+   ]
+  },
+  {
+   "id": "18d3a32e00a4191b",
+   "url": "https://news.hada.io/topic?id=32868",
+   "source": "GeekNews",
+   "title": "Show GN: forge-harness — AI가 쓴 코드를 커밋 전에 막는 Claude Code 게이트 하네스 (오픈소스)",
+   "published_at": "2026-08-25T04:11:34+00:00",
+   "collected_at": "2026-08-25T05:39:58.084803+00:00",
+   "title_ko": "AI 코드 검증 오픈소스 도구 'forge-harness' 공개",
+   "summary_ko": "AI가 작성한 코드를 커밋 전에 자동으로 검사하고 차단하는 깃 훅 기반의 오픈소스 게이트 하네스가 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "Claude Code",
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
   {
    "id": "72b1b6c9d959ee8a",
    "url": "https://news.hada.io/topic?id=32864",
@@ -1975,6 +2036,22 @@
    ]
   },
   {
+   "id": "b832fd5e09720b88",
+   "url": "https://surya.website/rling-qwen-to-paint-with-code",
+   "source": "Hacker News",
+   "title": "Training AI to Paint with Code",
+   "published_at": "2026-08-23T19:39:29+00:00",
+   "collected_at": "2026-08-25T05:39:31.259374+00:00",
+   "title_ko": "코드로 그림 그리기를 학습하는 AI 모델",
+   "summary_ko": "Qwen 모델 등을 활용하여 AI가 코드를 작성해 그림을 그리도록 학습시키는 방법론에 대한 글입니다.",
+   "category": "참고",
+   "tags": [
+    "Qwen",
+    "코딩",
+    "오픈소스"
+   ]
+  },
+  {
    "id": "275cb45eba1ab802",
    "url": "https://news.hada.io/topic?id=32811",
    "source": "GeekNews",
@@ -2947,81 +3024,6 @@
    "tags": [
     "오픈소스",
     "AI 에이전트"
-   ]
-  },
-  {
-   "id": "3411dbb98b71e44d",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvu15m/qwen3827b_one_week_later_the_rlocalllama/",
-   "source": "r/LocalLLaMA",
-   "title": "# Qwen3.8-27B — One Week Later: The r/LocalLLaMA + r/LocalLLM Verdict",
-   "published_at": "2026-08-23T01:39:46+00:00",
-   "collected_at": "2026-08-23T03:11:31.184199+00:00",
-   "title_ko": "Qwen 3.8-27B 모델 출시 일주일간 커뮤니티 반응",
-   "summary_ko": "로컬 코딩과 에이전트 작업에서 뛰어난 성능을 보여준 Qwen 27B 모델에 대한 개발자 커뮤니티의 평가와 반응을 정리했습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "a9c3dbc4b93b79b4",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvtu9z/i_fine_tuned_gemma_4_12b_for_a_27x_improvement_on/",
-   "source": "r/LocalLLaMA",
-   "title": "I fine tuned Gemma 4 12B for a 2.7x improvement on tool calling because I can't fit anything else comfortably into my 16 GBs of Vram",
-   "published_at": "2026-08-23T01:30:21+00:00",
-   "collected_at": "2026-08-23T01:54:07.632379+00:00",
-   "title_ko": "제마 12B 모델 파인튜닝으로 도구 호출 성능 개선",
-   "summary_ko": "VRAM 제약이 있는 환경에서 로컬 모델의 도구 호출 및 CLI 성능을 높이기 위해 제마 12B를 파인튜닝한 사례다. 에이전트 코딩 효율을 크게 향상시켰다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "c73e0af0be0a4bfe",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvt7lo/closed_ai_has_been_real_quiet_since_qwen_38_27b/",
-   "source": "r/LocalLLaMA",
-   "title": "Closed AI has been real quiet since Qwen 3.8 27B dropped.",
-   "published_at": "2026-08-23T00:59:42+00:00",
-   "collected_at": "2026-08-23T01:54:07.632379+00:00",
-   "title_ko": "오픈소스 큐웬 27B 등장에 유료 폐쇄형 AI 업계 긴장",
-   "summary_ko": "성능이 뛰어난 오픈소스 모델 '큐웬 3.8 27B'가 공개되면서 로컬 실행 환경에서 유료 클라우드 모델을 대체할 수 있다는 평가가 나오고 있다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "1c7d9f3e4837b23b",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvt3c4/has_anyone_actually_made_64k_feel_like_300k_with/",
-   "source": "r/LocalLLaMA",
-   "title": "Has anyone actually made 64k feel like 300k+ with recursive local agents?",
-   "published_at": "2026-08-23T00:54:06+00:00",
-   "collected_at": "2026-08-23T01:54:07.632379+00:00",
-   "title_ko": "로컬 에이전트의 컨텍스트 한계 극복을 위한 재귀적 구조 활용",
-   "summary_ko": "로컬 LLM 구동 시 제한된 컨텍스트 윈도우를 효율적으로 관리하기 위해 하위 자식 에이전트를 순차적으로 생성하는 아키텍처 아이디어다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "849d8a1cd25fba80",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvsokm/tested_in_coding_q8_k_xl_qwen38_27b_vs_bf16/",
-   "source": "r/LocalLLaMA",
-   "title": "Tested in Coding: Q8_K_XL Qwen3.8 27B vs BF16 Qwen3.6 27B",
-   "published_at": "2026-08-23T00:34:31+00:00",
-   "collected_at": "2026-08-23T01:54:07.632379+00:00",
-   "title_ko": "큐웬 최신 버전 코딩 및 대용량 컨텍스트 성능 비교",
-   "summary_ko": "대규모 컨텍스트와 확장된 양자화를 적용한 큐웬 모델의 코딩 작업 성능을 비교 분석한 테스트다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "코딩"
    ]
   }
  ]
