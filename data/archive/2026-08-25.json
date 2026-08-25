@@ -45,6 +45,81 @@
   ]
  },
  {
+  "id": "ef17614b42a2f75a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxytg2/should_if_use_pi/",
+  "source": "r/LocalLLaMA",
+  "title": "Should if use Pi ?",
+  "published_at": "2026-08-25T12:44:35+00:00",
+  "collected_at": "2026-08-25T13:04:24.003670+00:00",
+  "title_ko": "토큰 절약을 위한 Claude Code 대신 Pi 사용 경험 공유",
+  "summary_ko": "클로드 코드(Claude Code) 대신 Pi를 사용하여 토큰을 절약하는 방법에 대한 사용자 경험 공유 요청 글입니다. AI 코딩 도구 최적화와 관련된 실무적 관심을 반영합니다.",
+  "category": "팁",
+  "tags": [
+   "AI 코딩",
+   "Claude"
+  ]
+ },
+ {
+  "id": "123a1997e3037346",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxybmy/qwen_38_flash_next_day_0_support_from_unsloth/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen 3.8 Flash Next day 0 support from unsloth",
+  "published_at": "2026-08-25T12:23:11+00:00",
+  "collected_at": "2026-08-25T13:04:24.003670+00:00",
+  "title_ko": "Unsloth의 Qwen 3.8 Flash Next 지원 소식",
+  "summary_ko": "Unsloth가 Qwen 3.8 Flash Next 모델을 즉각 지원하기 시작했습니다. 오픈소스 LLM 파인튜닝과 빠른 대응을 보여줍니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "파인튜닝"
+  ]
+ },
+ {
+  "id": "2e53f3d9af1ba282",
+  "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+  "source": "TechCrunch",
+  "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+  "published_at": "2026-08-25T12:00:00+00:00",
+  "collected_at": "2026-08-25T13:04:15.775411+00:00",
+  "title_ko": "OpenAI 제품 책임자 Thibault Sottiaux 인터뷰",
+  "summary_ko": "OpenAI의 제품 총괄이 AI 에이전트와 사용자 경험(UX)의 미래에 대해 언급했습니다. 향후 AI 제품 방향성을 파악하는 데 중요합니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "f6b26e55a4899220",
+  "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+  "source": "Hugging Face",
+  "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+  "published_at": "2026-08-25T11:39:24+00:00",
+  "collected_at": "2026-08-25T13:04:17.619412+00:00",
+  "title_ko": "원본을 뛰어넘는 4비트 양자화 모델 'Quantization-Aware Healing'",
+  "summary_ko": "압축된 4비트 양자화 모델이 풀프리시전 원본 모델의 성능을 능가하는 연구 결과입니다. 모델 효율성 향상에 중요한 기여를 합니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "800ef3578d128aa0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxxa9x/new_llamacpp_adaptive_speculation_for_faster/",
+  "source": "r/LocalLLaMA",
+  "title": "New: Llama.cpp adaptive speculation for faster inference",
+  "published_at": "2026-08-25T11:35:40+00:00",
+  "collected_at": "2026-08-25T13:04:24.003670+00:00",
+  "title_ko": "Llama.cpp, 추론 속도 향상을 위한 적응형 추론 기능 도입",
+  "summary_ko": "Llama.cpp에 토큰 생성 속도를 최대 50%까지 향상시키는 적응형 추론(adaptive speculation) 기능이 추가되었습니다. 로컬 LLM 성능 최적화에 큰 도움이 됩니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "Llama"
+  ]
+ },
+ {
   "id": "6f0feab6f75e08b7",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxwu4g/qwen38_flash_next/",
   "source": "r/LocalLLaMA",

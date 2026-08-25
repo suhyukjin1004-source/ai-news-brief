@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-25T11:36:54.738502+00:00",
+ "updated_at": "2026-08-25T13:06:40.385383+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -273,6 +273,81 @@
    "tags": [
     "AI 교육",
     "생성AI"
+   ]
+  },
+  {
+   "id": "ef17614b42a2f75a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxytg2/should_if_use_pi/",
+   "source": "r/LocalLLaMA",
+   "title": "Should if use Pi ?",
+   "published_at": "2026-08-25T12:44:35+00:00",
+   "collected_at": "2026-08-25T13:04:24.003670+00:00",
+   "title_ko": "토큰 절약을 위한 Claude Code 대신 Pi 사용 경험 공유",
+   "summary_ko": "클로드 코드(Claude Code) 대신 Pi를 사용하여 토큰을 절약하는 방법에 대한 사용자 경험 공유 요청 글입니다. AI 코딩 도구 최적화와 관련된 실무적 관심을 반영합니다.",
+   "category": "팁",
+   "tags": [
+    "AI 코딩",
+    "Claude"
+   ]
+  },
+  {
+   "id": "123a1997e3037346",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxybmy/qwen_38_flash_next_day_0_support_from_unsloth/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen 3.8 Flash Next day 0 support from unsloth",
+   "published_at": "2026-08-25T12:23:11+00:00",
+   "collected_at": "2026-08-25T13:04:24.003670+00:00",
+   "title_ko": "Unsloth의 Qwen 3.8 Flash Next 지원 소식",
+   "summary_ko": "Unsloth가 Qwen 3.8 Flash Next 모델을 즉각 지원하기 시작했습니다. 오픈소스 LLM 파인튜닝과 빠른 대응을 보여줍니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "파인튜닝"
+   ]
+  },
+  {
+   "id": "2e53f3d9af1ba282",
+   "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+   "source": "TechCrunch",
+   "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+   "published_at": "2026-08-25T12:00:00+00:00",
+   "collected_at": "2026-08-25T13:04:15.775411+00:00",
+   "title_ko": "OpenAI 제품 책임자 Thibault Sottiaux 인터뷰",
+   "summary_ko": "OpenAI의 제품 총괄이 AI 에이전트와 사용자 경험(UX)의 미래에 대해 언급했습니다. 향후 AI 제품 방향성을 파악하는 데 중요합니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "f6b26e55a4899220",
+   "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+   "source": "Hugging Face",
+   "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+   "published_at": "2026-08-25T11:39:24+00:00",
+   "collected_at": "2026-08-25T13:04:17.619412+00:00",
+   "title_ko": "원본을 뛰어넘는 4비트 양자화 모델 'Quantization-Aware Healing'",
+   "summary_ko": "압축된 4비트 양자화 모델이 풀프리시전 원본 모델의 성능을 능가하는 연구 결과입니다. 모델 효율성 향상에 중요한 기여를 합니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "800ef3578d128aa0",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxxa9x/new_llamacpp_adaptive_speculation_for_faster/",
+   "source": "r/LocalLLaMA",
+   "title": "New: Llama.cpp adaptive speculation for faster inference",
+   "published_at": "2026-08-25T11:35:40+00:00",
+   "collected_at": "2026-08-25T13:04:24.003670+00:00",
+   "title_ko": "Llama.cpp, 추론 속도 향상을 위한 적응형 추론 기능 도입",
+   "summary_ko": "Llama.cpp에 토큰 생성 속도를 최대 50%까지 향상시키는 적응형 추론(adaptive speculation) 기능이 추가되었습니다. 로컬 LLM 성능 최적화에 큰 도움이 됩니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "Llama"
    ]
   },
   {
@@ -2941,83 +3016,6 @@
    "tags": [
     "AI 에이전트",
     "LLM"
-   ]
-  },
-  {
-   "id": "396d78937bf18f74",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw6nba/qwen359b_tripleloop/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.5-9B Triple-Loop",
-   "published_at": "2026-08-23T13:02:37+00:00",
-   "collected_at": "2026-08-23T13:39:23.631852+00:00",
-   "title_ko": "Qwen 기반 모델 구조 개선 실험 공유",
-   "summary_ko": "중간 레이어에 삼중 루프 아키텍처를 적용해 모델의 자체 표현력을 높이는 실험적 시도가 공유되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "Qwen"
-   ]
-  },
-  {
-   "id": "4d99e92a400a781c",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214260",
-   "source": "AI타임스",
-   "title": "앤트로픽서 유행하는 클로드 코드 ‘/eli5’ 스킬... \"복잡한 코드를 그림으로 설명\"",
-   "published_at": "2026-08-23T12:19:35+00:00",
-   "collected_at": "2026-08-23T04:47:21.401927+00:00",
-   "title_ko": "앤트로픽, 클로드 코드 시각화 도구 ‘/eli5’ 공개",
-   "summary_ko": "복잡한 코드와 기술 개념을 다이어그램과 HTML 자료로 쉽게 시각화해 주는 앤트로픽 내부 개발 스킬이 주목받고 있다.",
-   "category": "팁",
-   "tags": [
-    "Anthropic",
-    "Claude",
-    "코딩"
-   ]
-  },
-  {
-   "id": "0b3b6fdf1abfaaf9",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw5q47/qwen3827b_nvfp4_with_vision_451k_token_kvcache_on/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.8-27B NVFP4 with vision + 451K token KV-cache on one RTX 5090 (power limited to 400W) at 120 tokens/s average",
-   "published_at": "2026-08-23T12:19:05+00:00",
-   "collected_at": "2026-08-23T12:56:12.816826+00:00",
-   "title_ko": "RTX 5090에서 Qwen 모델 고속 구동 성공 사례",
-   "summary_ko": "단일 RTX 5090 환경에서 vLLM을 활용해 Qwen 모델을 비전 기능과 대형 KV 캐시를 포함해 초당 120 토큰의 속도로 구동한 사례.",
-   "category": "팁",
-   "tags": [
-    "NVIDIA",
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "4f5d3c0a88c6c5de",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214259",
-   "source": "AI타임스",
-   "title": "구글, '안티그래비티' 원격 제어 출시...\"이동 중에도 AI 개발 계속\"",
-   "published_at": "2026-08-23T12:06:47+00:00",
-   "collected_at": "2026-08-23T04:47:21.401927+00:00",
-   "title_ko": "구글, AI 개발 환경 ‘안티그래비티’ 원격 제어 기능 출시",
-   "summary_ko": "구글이 이동 중에도 웹브라우저로 AI 코딩 에이전트의 작업 상황을 제어할 수 있는 원격 기능을 개발 환경에 도입했다.",
-   "category": "속보",
-   "tags": [
-    "Google",
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "a38aa40f63c2a4ac",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw55zn/gmktec_is_going_to_launch_new_hardware_with_ryzen/",
-   "source": "r/LocalLLaMA",
-   "title": "GMKtec is going to launch new hardware with Ryzen AI Max+ PRO 495 at IFA Berlin 2026",
-   "published_at": "2026-08-23T11:51:22+00:00",
-   "collected_at": "2026-08-23T12:56:12.816826+00:00",
-   "title_ko": "GMKtec, 라이젠 AI 맥스 프로세서 탑재 하드웨어 예고",
-   "summary_ko": "GMKtec이 라이젠 AI Max+ PRO 495를 탑재한 새로운 하드웨어를 IFA 베를린 2026에서 출시할 예정.",
-   "category": "속보",
-   "tags": [
-    "반도체"
    ]
   }
  ]
