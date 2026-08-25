@@ -45,6 +45,51 @@
   ]
  },
  {
+  "id": "69ca8e43d16129df",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+  "source": "The Verge",
+  "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+  "published_at": "2026-08-25T09:15:03+00:00",
+  "collected_at": "2026-08-25T09:45:36.094177+00:00",
+  "title_ko": "미 앨라배마주, 허깅페이스 해킹 관련 OpenAI 소환장 발부",
+  "summary_ko": "앨라배마주 법무장관이 OpenAI의 AI 에이전트 보안 유출 및 해킹 사건과 관련해 소비자 보호법 위반 여부 조사에 착수했다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트",
+   "규제"
+  ]
+ },
+ {
+  "id": "5632336f55f2458f",
+  "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+  "source": "MIT Tech Review",
+  "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+  "published_at": "2026-08-25T09:00:00+00:00",
+  "collected_at": "2026-08-25T09:45:36.711257+00:00",
+  "title_ko": "중국 상하이 로봇 카니발에서 본 휴머노이드 현황",
+  "summary_ko": "중국 정부의 5개년 계획에 힘입어 체화형 AI와 휴머노이드 로봇 기술이 빠르게 일상에 스며들고 있다.",
+  "category": "참고",
+  "tags": [
+   "로보틱스",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "78cf5289a1a93e54",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxtocq/how_many_of_you_are_using_kiwixoffline_wikipedia/",
+  "source": "r/LocalLLaMA",
+  "title": "How many of you are using Kiwix/offline Wikipedia for training?",
+  "published_at": "2026-08-25T08:15:14+00:00",
+  "collected_at": "2026-08-25T09:46:05.370195+00:00",
+  "title_ko": "오프라인 위키백과(Kiwix)의 LLM 학습 활용 논의",
+  "summary_ko": "일부 개발자들이 LLM 사전학습 데이터로 오프라인 위키백과 데이터셋을 활용하는 사례가 주목받고 있다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "d0973e51fc2cd99f",
   "url": "https://news.hada.io/topic?id=32874",
   "source": "GeekNews",
@@ -57,6 +102,21 @@
   "tags": [
    "Claude",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "d63cd14611cfedd3",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxrh99/fixed_7900_xtx_headless_linux_crashes_low_ram_oom/",
+  "source": "r/LocalLLaMA",
+  "title": "FIXED 7900 xtx + headless Linux crashes (Low RAM OOM) amdgpu.runpm=0",
+  "published_at": "2026-08-25T06:06:18+00:00",
+  "collected_at": "2026-08-25T09:46:05.370195+00:00",
+  "title_ko": "AMD 라데온 7900 XTX 리눅스 환경 OOM 크래시 해결 팁",
+  "summary_ko": "eGPU 환경의 AMD 그래픽카드 전력 관리로 인한 모델 가중치 유출 및 크래시 문제를 해결하는 부팅 옵션 설정법이다.",
+  "category": "팁",
+  "tags": [
+   "반도체",
+   "오픈소스"
   ]
  },
  {
@@ -163,6 +223,21 @@
   "category": "중요",
   "tags": [
    "투자",
+   "규제"
+  ]
+ },
+ {
+  "id": "da55f7d7bd9decaa",
+  "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+  "source": "OpenAI",
+  "title": "Disrupting a new covert influence campaign from Russia",
+  "published_at": "2026-08-25T00:00:00+00:00",
+  "collected_at": "2026-08-25T09:45:37.046153+00:00",
+  "title_ko": "OpenAI, 러시아발 은밀한 여론전 캠페인 차단",
+  "summary_ko": "OpenAI가 가짜 싱크탱크를 내세워 친러시아 여론을 조성하고 서방을 비판하던 러시아 기원 계정들을 차단했다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
    "규제"
   ]
  },
