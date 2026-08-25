@@ -1,8 +1,54 @@
 {
- "updated_at": "2026-08-25T21:37:40.784878+00:00",
+ "updated_at": "2026-08-25T23:32:58.963873+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "310464847d4d8274",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyewwd/qwen_38_27b_has_threejs_locked_down/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen 3.8 27b has ThreeJs locked down.",
+   "published_at": "2026-08-25T22:37:04+00:00",
+   "collected_at": "2026-08-25T23:32:39.216240+00:00",
+   "title_ko": "Qwen 모델을 활용한 Three.js 코드 생성 사례 공유",
+   "summary_ko": "로컬 환경에서 Qwen 모델을 사용하여 Three.js 관련 코드를 성공적으로 생성한 사례가 공유되었습니다.",
+   "category": "참고",
+   "tags": [
+    "Qwen",
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "bf763cd1c7f883e8",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyephx/peak_portable_personal_datacenter/",
+   "source": "r/LocalLLaMA",
+   "title": "Peak Portable Personal Datacenter",
+   "published_at": "2026-08-25T22:28:30+00:00",
+   "collected_at": "2026-08-25T23:32:39.216240+00:00",
+   "title_ko": "대규모 컨텍스트 문서를 위한 휴대용 로컬 LLM 구동 환경",
+   "summary_ko": "휴대용 장비에서 Qwen 모델을 고정밀 법률 문서 분석과 대규모 컨텍스트 처리에 활용하는 구성이 소개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "Qwen",
+    "오픈소스",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "5423c253a78e6ed3",
+   "url": "https://news.hada.io/topic?id=32887",
+   "source": "GeekNews",
+   "title": "내 친구 Aaron",
+   "published_at": "2026-08-25T21:32:35+00:00",
+   "collected_at": "2026-08-25T23:32:53.239580+00:00",
+   "title_ko": "AI 에이전트를 활용한 3,000개 봇 구축 사례",
+   "summary_ko": "해커톤에서 받은 AI 에이전트 크레딧을 이용해 3,000개의 봇을 구축한 개발자의 흥미로운 에피소드가 소개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
   {
    "id": "2e52adf44939c980",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyaxip/35ba3b_tool_calling_benchmark_original_qwen_vs/",
@@ -2961,51 +3007,6 @@
    "tags": [
     "오픈소스",
     "코딩"
-   ]
-  },
-  {
-   "id": "5cb16c8388d84dcb",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwp91v/is_there_a_music_upscaler_llm/",
-   "source": "r/LocalLLaMA",
-   "title": "is there a music UPSCALER llm?",
-   "published_at": "2026-08-24T01:38:57+00:00",
-   "collected_at": "2026-08-24T03:12:24.198194+00:00",
-   "title_ko": "음악 및 오디오 업스케일링을 위한 LLM 기술 탐색",
-   "summary_ko": "저품질 모노 음원을 고음질 스테레오로 복원하는 AI 기반 오디오 업스케일링 최신 기술 동향을 논의합니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "47956349ca734187",
-   "url": "https://news.hada.io/topic?id=32825",
-   "source": "GeekNews",
-   "title": "내가 가진 모든 것, 모두 장악당하다",
-   "published_at": "2026-08-24T01:33:10+00:00",
-   "collected_at": "2026-08-24T01:51:40.153636+00:00",
-   "title_ko": "Claude Opus를 활용한 주변기기 펌웨어 역공학",
-   "summary_ko": "개발자가 Claude Opus를 이용해 주변기기 5종의 펌웨어를 역공학하고 보안 취약점과 숨겨진 기능을 찾아냈다. AI가 복잡한 보안 분석 작업에 유용하게 쓰일 수 있음을 보여준다.",
-   "category": "참고",
-   "tags": [
-    "Claude",
-    "보안",
-    "코딩"
-   ]
-  },
-  {
-   "id": "1024aae329678e3c",
-   "url": "https://news.hada.io/topic?id=32824",
-   "source": "GeekNews",
-   "title": "AI가 인간의 실행력을 확장하려면 무엇이 필요한가",
-   "published_at": "2026-08-24T01:30:02+00:00",
-   "collected_at": "2026-08-24T01:51:40.153636+00:00",
-   "title_ko": "AI가 인간의 실행력을 확장하는 방법",
-   "summary_ko": "벤처캐피털 분석을 통해 AI가 단순히 작업을 대신하는 것을 넘어 인간의 실행력을 어떻게 확장하고 가치를 창출하는지 조명한다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "투자"
    ]
   }
  ]
