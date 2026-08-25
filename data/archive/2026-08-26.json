@@ -1,5 +1,110 @@
 [
  {
+  "id": "2e52adf44939c980",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyaxip/35ba3b_tool_calling_benchmark_original_qwen_vs/",
+  "source": "r/LocalLLaMA",
+  "title": "35B-A3B tool calling benchmark: Original Qwen vs. KAT Coder, Ornith and Tiel-Coder",
+  "published_at": "2026-08-25T20:07:51+00:00",
+  "collected_at": "2026-08-25T20:38:59.932354+00:00",
+  "title_ko": "Qwen 35B 파인튜닝 모델 툴 콜링 성능 비교",
+  "summary_ko": "저사양 하드웨어에서 구동 가능한 Qwen 35B 파인튜닝 모델들의 툴 콜링 성능을 벤치마크한 결과, Ornith 1.5와 Tiel-Coder가 공동 1위를 차지했습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "db63214a0c8976de",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyajjd/how_to_run_llms_as_regular_guy_with_low_resources/",
+  "source": "r/LocalLLaMA",
+  "title": "How to run LLMs as regular guy with low resources?",
+  "published_at": "2026-08-25T19:54:13+00:00",
+  "collected_at": "2026-08-25T20:38:59.932354+00:00",
+  "title_ko": "저사양 하드웨어에서 로컬 LLM 구동 방법",
+  "summary_ko": "고성능 GPU나 Mac 없이 구형 PC(i7, RTX 2060 6GB) 환경에서 로컬 LLM을 실험하고 구동하는 방법을 공유하는 사용자 토론입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "bd76b21a88fcff72",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vya9ok/granite_speech_50_turbo_ctc_extremely_fast_and/",
+  "source": "r/LocalLLaMA",
+  "title": "Granite Speech 5.0 Turbo CTC: Extremely Fast and Accurate Transcription",
+  "published_at": "2026-08-25T19:44:29+00:00",
+  "collected_at": "2026-08-25T20:38:59.932354+00:00",
+  "title_ko": "Granite Speech 5.0 Turbo CTC 음성 인식 모델 공개",
+  "summary_ko": "매우 빠르고 정확한 음성 인식을 제공하는 Granite Speech 5.0 Turbo CTC 모델이 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "IBM",
+   "음성인식"
+  ]
+ },
+ {
+  "id": "e69dd41afc24045e",
+  "url": "https://news.hada.io/topic?id=32884",
+  "source": "GeekNews",
+  "title": "M6·M5 Pro를 탑재한 새로운 Mac mini",
+  "published_at": "2026-08-25T19:40:29+00:00",
+  "collected_at": "2026-08-25T20:39:02.422036+00:00",
+  "title_ko": "M6·M5 Pro 탑재 신형 Mac mini 출시",
+  "summary_ko": "초소형 데스크톱 Mac mini가 M6 및 M5 Pro를 탑재해 로컬 AI 모델과 상시 실행 AI 에이전트 성능을 대폭 강화했습니다.",
+  "category": "속보",
+  "tags": [
+   "반도체",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "82e57b7e90e15f75",
+  "url": "https://www.reddit.com/r/singularity/comments/1vy9lfj/figureai_just_dropped_index_the_biggest_and_most/",
+  "source": "r/singularity",
+  "title": "Figure.AI just dropped Index, the biggest and most diverse robot dataset ever with 16 million videos; From now on, everyone can record their daily tasks and get paid for it",
+  "published_at": "2026-08-25T19:20:31+00:00",
+  "collected_at": "2026-08-25T20:39:00.626361+00:00",
+  "title_ko": "Figure.AI, 1,600만 개 영상 담은 로봇 데이터셋 'Index' 공개",
+  "summary_ko": "Figure.AI가 역대 최대 규모이자 가장 다양성을 갖춘 로봇 학습용 데이터셋 'Index'를 공개하고 일반 참여자 보상 프로그램을 시작했습니다.",
+  "category": "중요",
+  "tags": [
+   "로보틱스",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "e44abafe4191a5c5",
+  "url": "https://www.reddit.com/r/singularity/comments/1vy99vk/according_to_leo_openai_just_finished_its_next/",
+  "source": "r/singularity",
+  "title": "According to Leo, OpenAI just finished its next >10T pretrain \"Bel\"",
+  "published_at": "2026-08-25T19:09:18+00:00",
+  "collected_at": "2026-08-25T20:39:00.626361+00:00",
+  "title_ko": "OpenAI, 10T 규모 차세대 사전 학습 모델 'Bel' 완료 소문",
+  "summary_ko": "OpenAI가 10조 토큰을 초과하는 차세대 사전 학습 모델 'Bel'의 학습을 마쳤다는 관측이 제기되었습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "GPT"
+  ]
+ },
+ {
+  "id": "19d40b9a1fe53531",
+  "url": "https://news.hada.io/topic?id=32882",
+  "source": "GeekNews",
+  "title": "OpenAI GPT-5.6 Sol 가격 인하, 최소 2026년 11월 21일까지",
+  "published_at": "2026-08-25T18:33:02+00:00",
+  "collected_at": "2026-08-25T20:39:02.422036+00:00",
+  "title_ko": "OpenAI, GPT-5.6 Sol 가격 인하 단행",
+  "summary_ko": "OpenAI가 GPT-5.6 Sol 모델의 프로모션 가격 인하를 최소 2026년 11월까지 연장 및 적용한다고 발표했습니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "GPT"
+  ]
+ },
+ {
   "id": "330f9eaebad0e6e2",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214329",
   "source": "AI타임스",
@@ -28,6 +133,21 @@
    "xAI",
    "Grok",
    "투자"
+  ]
+ },
+ {
+  "id": "5a742cc27f00a0d1",
+  "url": "https://www.reddit.com/r/singularity/comments/1vy7cry/the_next_ai_hardware_race_might_be_about_inference/",
+  "source": "r/singularity",
+  "title": "The next AI hardware race might be about inference",
+  "published_at": "2026-08-25T18:02:31+00:00",
+  "collected_at": "2026-08-25T20:39:00.626361+00:00",
+  "title_ko": "추론 속도와 비용 중심으로 전환되는 AI 하드웨어 경쟁",
+  "summary_ko": "AI 에이전트의 실무 도입이 늘면서 대규모 모델 학습뿐만 아니라 초고속 토큰 처리와 추론 비용 효율성이 핵심 경쟁력으로 부각되고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "반도체"
   ]
  },
  {
@@ -124,6 +244,20 @@
   ]
  },
  {
+  "id": "fc55d7c03235750a",
+  "url": "https://www.reddit.com/r/singularity/comments/1vy6klj/new_figurepiteslasunday_competitor_just_dropped/",
+  "source": "r/singularity",
+  "title": "New Figure/PI/Tesla/Sunday competitor just dropped",
+  "published_at": "2026-08-25T17:35:02+00:00",
+  "collected_at": "2026-08-25T20:39:00.626361+00:00",
+  "title_ko": "휴머노이드 로봇 시장 신규 경쟁자 등장",
+  "summary_ko": "Figure, 테슬라 등의 로보틱스 경쟁 구도에 뛰어든 새로운 휴머노이드 로봇 프로젝트가 주목받고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "로보틱스"
+  ]
+ },
+ {
   "id": "568a86905cf99261",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214351",
   "source": "AI타임스",
@@ -136,6 +270,21 @@
   "tags": [
    "오픈소스",
    "규제"
+  ]
+ },
+ {
+  "id": "1a3262f291255b34",
+  "url": "https://www.reddit.com/r/singularity/comments/1vy6bmm/openai_blog_post_on_their_new_custom_inference/",
+  "source": "r/singularity",
+  "title": "OpenAI blog post on their new custom inference chip",
+  "published_at": "2026-08-25T17:26:09+00:00",
+  "collected_at": "2026-08-25T20:39:00.626361+00:00",
+  "title_ko": "OpenAI, 자체 커스텀 추론 칩 개발 블로그 게시",
+  "summary_ko": "OpenAI가 자사 AI 모델의 추론 효율을 극대화하기 위해 개발한 커스텀 AI 칩에 대한 블로그 포스트를 공개했습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "반도체"
   ]
  },
  {
