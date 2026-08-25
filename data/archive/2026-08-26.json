@@ -47,6 +47,67 @@
   ]
  },
  {
+  "id": "f421de6069eb2a4c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy71my/about_the_huggingface_sale/",
+  "source": "r/LocalLLaMA",
+  "title": "About the Huggingface sale..",
+  "published_at": "2026-08-25T17:51:51+00:00",
+  "collected_at": "2026-08-25T18:51:21.302491+00:00",
+  "title_ko": "허깅페이스 인수설에 따른 llama.cpp 생태계 영향 우려",
+  "summary_ko": "허깅페이스의 인수설이 제기되면서 오픈소스 LLM 생태계의 핵심인 llama.cpp와 ggml에 미칠 영향과 라이선스 보호 여부에 대한 커뮤니티의 우려와 토론이 이어지고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "4b53c711439f45df",
+  "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+  "source": "TechCrunch",
+  "title": "Claude Cowork finally remembers what you told the app in chat",
+  "published_at": "2026-08-25T17:50:33+00:00",
+  "collected_at": "2026-08-25T18:51:17.137296+00:00",
+  "title_ko": "앤스로픽, 클로드 채팅과 Cowork 간 공유 메모리 기능 도입",
+  "summary_ko": "앤스로픽이 클로드에 채팅과 Cowork 간의 공유 메모리 기능을 도입하여 사용자가 프로젝트와 선호도를 반복해서 설명할 필요가 없어졌습니다.",
+  "category": "속보",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "c28e14a417aca8f0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy6smx/qwen38flashnext_this_architecture_could_be/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-Flash-Next. This architecture could be surprisingly local-friendly once the weights drop. 👀",
+  "published_at": "2026-08-25T17:42:49+00:00",
+  "collected_at": "2026-08-25T18:51:21.302491+00:00",
+  "title_ko": "신규 모델 'Qwen3.8-Flash-Next'의 로컬 실행 가능성 분석",
+  "summary_ko": "약 125B 규모의 Qwen3.8-Flash-Next 아키텍처가 대규모 n-gram 테이블을 시스템 RAM으로 오프로드하는 방식으로 로컬 환경에서도 효율적으로 구동될 수 있다는 분석이 제기되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "cb061c94558a2781",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy6mjb/cnbc_television_nvidia_partner_with_perplexity_ai/",
+  "source": "r/LocalLLaMA",
+  "title": "CNBC Television: Nvidia partner with Perplexity AI to run locally in DGX Spark.",
+  "published_at": "2026-08-25T17:36:50+00:00",
+  "collected_at": "2026-08-25T18:51:21.302491+00:00",
+  "title_ko": "엔비디아, DGX Spark 환경에서 퍼플렉시티 AI 로컬 구동 파트너십 체결",
+  "summary_ko": "엔비디아가 퍼플렉시티 AI와 손잡고 DGX Spark 시스템에서 AI 모델을 로컬로 실행할 수 있도록 지원하는 파트너십을 맺었습니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
   "id": "0f97e56768f3d429",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214350",
   "source": "AI타임스",
@@ -178,6 +239,21 @@
   "tags": [
    "AI 에이전트",
    "고용"
+  ]
+ },
+ {
+  "id": "d92be75ee16498bc",
+  "url": "https://news.hada.io/topic?id=32880",
+  "source": "GeekNews",
+  "title": "M5 Max·M5 Ultra를 탑재한 새로운 Mac Studio",
+  "published_at": "2026-08-25T16:36:14+00:00",
+  "collected_at": "2026-08-25T18:51:36.132872+00:00",
+  "title_ko": "애플, M5 Max·Ultra 탑재 Mac Studio 공개",
+  "summary_ko": "애플이 최대 512GB 통합 메모리와 Neural Accelerator를 탑재한 M5 Max 및 M5 Ultra 기반 Mac Studio를 공개하여 대규모 AI 모델의 로컬 실행 성능을 대폭 강화했습니다.",
+  "category": "중요",
+  "tags": [
+   "반도체",
+   "AI 에이전트"
   ]
  },
  {

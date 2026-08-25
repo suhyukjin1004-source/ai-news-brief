@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-25T17:39:39.307430+00:00",
+ "updated_at": "2026-08-25T18:51:40.087600+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -48,6 +48,67 @@
     "Google",
     "Gemini",
     "오픈소스"
+   ]
+  },
+  {
+   "id": "f421de6069eb2a4c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy71my/about_the_huggingface_sale/",
+   "source": "r/LocalLLaMA",
+   "title": "About the Huggingface sale..",
+   "published_at": "2026-08-25T17:51:51+00:00",
+   "collected_at": "2026-08-25T18:51:21.302491+00:00",
+   "title_ko": "허깅페이스 인수설에 따른 llama.cpp 생태계 영향 우려",
+   "summary_ko": "허깅페이스의 인수설이 제기되면서 오픈소스 LLM 생태계의 핵심인 llama.cpp와 ggml에 미칠 영향과 라이선스 보호 여부에 대한 커뮤니티의 우려와 토론이 이어지고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "4b53c711439f45df",
+   "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+   "source": "TechCrunch",
+   "title": "Claude Cowork finally remembers what you told the app in chat",
+   "published_at": "2026-08-25T17:50:33+00:00",
+   "collected_at": "2026-08-25T18:51:17.137296+00:00",
+   "title_ko": "앤스로픽, 클로드 채팅과 Cowork 간 공유 메모리 기능 도입",
+   "summary_ko": "앤스로픽이 클로드에 채팅과 Cowork 간의 공유 메모리 기능을 도입하여 사용자가 프로젝트와 선호도를 반복해서 설명할 필요가 없어졌습니다.",
+   "category": "속보",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "c28e14a417aca8f0",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy6smx/qwen38flashnext_this_architecture_could_be/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8-Flash-Next. This architecture could be surprisingly local-friendly once the weights drop. 👀",
+   "published_at": "2026-08-25T17:42:49+00:00",
+   "collected_at": "2026-08-25T18:51:21.302491+00:00",
+   "title_ko": "신규 모델 'Qwen3.8-Flash-Next'의 로컬 실행 가능성 분석",
+   "summary_ko": "약 125B 규모의 Qwen3.8-Flash-Next 아키텍처가 대규모 n-gram 테이블을 시스템 RAM으로 오프로드하는 방식으로 로컬 환경에서도 효율적으로 구동될 수 있다는 분석이 제기되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "cb061c94558a2781",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy6mjb/cnbc_television_nvidia_partner_with_perplexity_ai/",
+   "source": "r/LocalLLaMA",
+   "title": "CNBC Television: Nvidia partner with Perplexity AI to run locally in DGX Spark.",
+   "published_at": "2026-08-25T17:36:50+00:00",
+   "collected_at": "2026-08-25T18:51:21.302491+00:00",
+   "title_ko": "엔비디아, DGX Spark 환경에서 퍼플렉시티 AI 로컬 구동 파트너십 체결",
+   "summary_ko": "엔비디아가 퍼플렉시티 AI와 손잡고 DGX Spark 시스템에서 AI 모델을 로컬로 실행할 수 있도록 지원하는 파트너십을 맺었습니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "반도체"
    ]
   },
   {
@@ -182,6 +243,21 @@
    "tags": [
     "AI 에이전트",
     "고용"
+   ]
+  },
+  {
+   "id": "d92be75ee16498bc",
+   "url": "https://news.hada.io/topic?id=32880",
+   "source": "GeekNews",
+   "title": "M5 Max·M5 Ultra를 탑재한 새로운 Mac Studio",
+   "published_at": "2026-08-25T16:36:14+00:00",
+   "collected_at": "2026-08-25T18:51:36.132872+00:00",
+   "title_ko": "애플, M5 Max·Ultra 탑재 Mac Studio 공개",
+   "summary_ko": "애플이 최대 512GB 통합 메모리와 Neural Accelerator를 탑재한 M5 Max 및 M5 Ultra 기반 Mac Studio를 공개하여 대규모 AI 모델의 로컬 실행 성능을 대폭 강화했습니다.",
+   "category": "중요",
+   "tags": [
+    "반도체",
+    "AI 에이전트"
    ]
   },
   {
@@ -433,6 +509,22 @@
    "category": "중요",
    "tags": [
     "OpenAI",
+    "반도체"
+   ]
+  },
+  {
+   "id": "e61f241d4e2e3b1b",
+   "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+   "source": "Hacker News",
+   "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+   "published_at": "2026-08-25T14:06:02+00:00",
+   "collected_at": "2026-08-25T18:51:20.188329+00:00",
+   "title_ko": "오픈AI 자체 AI 칩 'Jalapeño', 엔비디아 블랙웰 우위 주장",
+   "summary_ko": "오픈AI가 자체 개발 중인 AI 칩 'Jalapeño'가 엔비디아의 블랙웰 칩보다 뛰어난 성능을 보일 것이라는 소식이 전해지며 AI 반도체 시장의 경쟁 구도에 관심이 집중되고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "NVIDIA",
     "반도체"
    ]
   },
@@ -1094,6 +1186,22 @@
    "tags": [
     "투자",
     "규제"
+   ]
+  },
+  {
+   "id": "cfc376addf8c8224",
+   "url": "https://openai.com/index/introducing-admin-plugin",
+   "source": "OpenAI",
+   "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+   "published_at": "2026-08-25T00:00:00+00:00",
+   "collected_at": "2026-08-25T18:51:18.427866+00:00",
+   "title_ko": "챗GPT 워크 및 코덱스를 위한 Admin 플러그인 출시",
+   "summary_ko": "오픈AI가 워크스페이스 사용량 분석, 멤버 권한 관리, 제한 조정을 지원하는 챗GPT 워크 및 코덱스용 Admin 플러그인을 선보였습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT",
+    "코딩"
    ]
   },
   {
@@ -2897,112 +3005,6 @@
    "tags": [
     "오픈소스",
     "NVIDIA"
-   ]
-  },
-  {
-   "id": "82d866d681cae052",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214266",
-   "source": "AI타임스",
-   "title": "한국딥러닝 “문서 에이전트, 인식률 넘어 ‘오답 찾는 능력’이 더 중요해”",
-   "published_at": "2026-08-23T20:57:27+00:00",
-   "collected_at": "2026-08-23T13:39:36.789733+00:00",
-   "title_ko": "한국딥러닝 대표 \"문서 AI 에이전트는 오답 찾는 능력이 핵심\"",
-   "summary_ko": "단순 문서 인식을 넘어 사람의 검수 부담을 줄여주는 문서 AI 에이전트와 오류 수정 능력의 중요성을 강조했습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "OCR"
-   ]
-  },
-  {
-   "id": "494b928c1b8e47e5",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwidnm/best_general_purpose_uncensored_or_censored/",
-   "source": "r/LocalLLaMA",
-   "title": "Best general purpose uncensored or censored coding model with 6GB VRAM and 64GB of RAM?",
-   "published_at": "2026-08-23T20:41:30+00:00",
-   "collected_at": "2026-08-23T21:29:47.079097+00:00",
-   "title_ko": "저사양 PC를 위한 로컬 코딩용 LLM 추천 문의",
-   "summary_ko": "6GB VRAM과 64GB RAM 환경에서 C, C++, Python 등 다양한 프로그래밍 언어를 지원하는 로컬 코딩 AI 모델 추천을 묻는 사용자 질문입니다. 제한적인 하드웨어 환경에서 실용적인 성능을 내는 소형 모델 탐색의 어려움을 보여줍니다.",
-   "category": "팁",
-   "tags": [
-    "코딩",
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "969a834ab81544b6",
-   "url": "https://twitter.com/paulg/status/2091544343589060625",
-   "source": "Hacker News",
-   "title": "I were 17, I'd learn how to build LLMs from scratch",
-   "published_at": "2026-08-23T20:38:09+00:00",
-   "collected_at": "2026-08-24T18:52:54.231370+00:00",
-   "title_ko": "17세로 돌아간다면 LLM을 바닥부터 구현하겠다",
-   "summary_ko": "폴 그레이엄이 젊은 세대에게 LLM의 기초 원리와 구현 방법을 직접 배우는 것의 중요성을 강조함.",
-   "category": "팁",
-   "tags": [
-    "코딩",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "d6c0f7eda20e5cca",
-   "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
-   "source": "Simon Willison",
-   "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
-   "published_at": "2026-08-23T20:24:52+00:00",
-   "collected_at": "2026-08-23T20:33:03.779184+00:00",
-   "title_ko": "앤트로픽 최고급 모델의 사용자 유치 난항과 저가 도구의 약진",
-   "summary_ko": "앤트로픽의 최고 성능 AI 모델이 고비용 문제로 사용자 확보에 어려움을 겪는 반면, 저렴한 대안 도구들이 빠르게 성장하고 있습니다. 이는 LLM 시장에서 가격 대비 성능과 실용성이 점차 중요해지고 있음을 보여줍니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "OpenAI",
-    "Claude"
-   ]
-  },
-  {
-   "id": "3a73191094d4fd8a",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwhj0l/you_can_now_use_mtp_in_glmair/",
-   "source": "r/LocalLLaMA",
-   "title": "you can now use MTP in GLM-Air",
-   "published_at": "2026-08-23T20:08:04+00:00",
-   "collected_at": "2026-08-23T20:33:04.550280+00:00",
-   "title_ko": "GLM-Air 모델의 MTP 지원을 통한 실행 속도 개선",
-   "summary_ko": "GLM-Air 모델이 llama.cpp에서 MTP(Multi-Token Prediction)를 지원하게 되어 로컬 환경에서의 추론 속도가 크게 향상되었습니다. 이는 메모리가 넉넉하고 연산이 제한된 환경에서 대형 MoE 모델을 활용하는 데 유용합니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "055017b0a06036dc",
-   "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-   "source": "TechCrunch",
-   "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-   "published_at": "2026-08-23T20:01:36+00:00",
-   "collected_at": "2026-08-23T20:32:56.521407+00:00",
-   "title_ko": "신규 스텔스 AI 모델 'Ox Alpha' 등장",
-   "summary_ko": "Ox Alpha라는 미스터리한 신규 AI 모델이 등장해 업계의 뜨거운 추측과 관심을 불러일으키고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "bfc57f68b0c46c6d",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwhcuf/qwen_38_27b_helped_me_with_something_unique_that/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen 3.8 27b helped me with something unique that Opus 4 couldn't - Firmware + Software preservation and emulation on an early 2000's ARM based POS system",
-   "published_at": "2026-08-23T20:01:28+00:00",
-   "collected_at": "2026-08-23T20:33:04.550280+00:00",
-   "title_ko": "Qwen 3.8 27B의 독창적 펌웨어 및 소프트웨어 에뮬레이션 활용기",
-   "summary_ko": "Qwen 3.8 27B 모델이 과거 ARM 기반 POS 시스템의 소프트웨어 보존 및 에뮬레이션 같은 독창적인 실무 작업에서 뛰어난 성능을 보였습니다. 로컬 LLM이 복잡한 기술적 문제 해결에 유용하게 쓰일 수 있음을 시사합니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "코딩"
    ]
   }
  ]
