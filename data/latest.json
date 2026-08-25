@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-25T16:49:09.468883+00:00",
+ "updated_at": "2026-08-25T17:39:39.307430+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -522,6 +522,22 @@
    "tags": [
     "Anthropic",
     "Claude"
+   ]
+  },
+  {
+   "id": "67d3c75a34cd3e4c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxzjps/qwen_4_architecture_what_do_we_know/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen 4 architecture: What do we know?",
+   "published_at": "2026-08-25T13:15:12+00:00",
+   "collected_at": "2026-08-25T17:39:23.339774+00:00",
+   "title_ko": "Qwen 4 아키텍처 구조 추정 및 분석",
+   "summary_ko": "오픈소스 LLM인 Qwen 4의 예상 아키텍처와 기술적 특징에 대한 개발자 커뮤니티의 분석이 공유되었습니다. 향후 고성능 오픈소스 모델의 발전 방향을 가늠하는 데 중요합니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "Qwen"
    ]
   },
   {
@@ -2986,22 +3002,6 @@
    "category": "참고",
    "tags": [
     "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "02dbe79386a69164",
-   "url": "https://simonwillison.net/2026/Aug/23/drew-breunig/",
-   "source": "Simon Willison",
-   "title": "Quoting Drew Breunig",
-   "published_at": "2026-08-23T19:55:30+00:00",
-   "collected_at": "2026-08-23T20:33:03.779184+00:00",
-   "title_ko": "고성능 고비용 AI 모델 시대의 개발 전략 변화",
-   "summary_ko": "고비용의 고성능 모델 등장으로 인해 개발자들이 무조건적인 최신 모델 도입 대신 비용과 효율성을 고려한 코딩 하네스 및 컨텍스트 전략을 고민하기 시작했습니다.",
-   "category": "참고",
-   "tags": [
-    "Anthropic",
-    "Claude",
     "코딩"
    ]
   }
