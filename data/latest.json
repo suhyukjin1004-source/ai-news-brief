@@ -1,8 +1,39 @@
 {
- "updated_at": "2026-08-25T07:53:24.954191+00:00",
+ "updated_at": "2026-08-25T08:53:40.399958+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "f32212971a38da74",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214352",
+   "source": "AI타임스",
+   "title": "래블업, GPU 분할 기술로 코스닥 상장 공모절차 착수",
+   "published_at": "2026-08-25T16:59:16+00:00",
+   "collected_at": "2026-08-25T08:53:35.476617+00:00",
+   "title_ko": "AI 인프라 기업 래블업, 코스닥 상장 추진",
+   "summary_ko": "GPU 분할 기술을 보유한 래블업이 증권신고서를 제출하고 코스닥 상장 공모 절차에 착수했습니다. AI 인프라 수요 증가에 힘입어 성장이 기대됩니다.",
+   "category": "중요",
+   "tags": [
+    "반도체",
+    "투자",
+    "AI 인프라"
+   ]
+  },
+  {
+   "id": "1416a27bd5ea5395",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214353",
+   "source": "AI타임스",
+   "title": "KT, 대졸 신입 채용서 'AX 활용 역량' 집중 평가…140명 규모",
+   "published_at": "2026-08-25T16:50:00+00:00",
+   "collected_at": "2026-08-25T08:53:35.476617+00:00",
+   "title_ko": "KT, 신입 채용에서 AX 활용 역량 집중 평가",
+   "summary_ko": "KT가 대졸 신입사원 채용 과정에서 AI 전환(AX) 활용 역량을 주요 평가 요소로 도입했습니다. 실무 전반에 AI 역량이 필수가 되고 있음을 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "고용"
+   ]
+  },
   {
    "id": "62db1eaa3065a140",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214339",
@@ -95,6 +126,21 @@
    ]
   },
   {
+   "id": "d0973e51fc2cd99f",
+   "url": "https://news.hada.io/topic?id=32874",
+   "source": "GeekNews",
+   "title": "Show GN: Macchiato - 내 에이전트를 아이폰으로 원격 조종하는 앱",
+   "published_at": "2026-08-25T07:07:52+00:00",
+   "collected_at": "2026-08-25T08:53:37.034886+00:00",
+   "title_ko": "맥끼아토: 아이폰으로 AI 에이전트를 원격 조종하는 앱",
+   "summary_ko": "개발자가 컴퓨터에서 실행 중인 Claude Code 등의 AI 에이전트를 아이폰으로 원격 제어하고 소통할 수 있는 AI 네이티브 도구를 출시했습니다.",
+   "category": "팁",
+   "tags": [
+    "Claude",
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "18d3a32e00a4191b",
    "url": "https://news.hada.io/topic?id=32868",
    "source": "GeekNews",
@@ -124,6 +170,20 @@
     "오픈소스",
     "LLM",
     "코딩"
+   ]
+  },
+  {
+   "id": "7215b98e82ad9fcb",
+   "url": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
+   "source": "Hacker News",
+   "title": "Thomson Reuters Launches Its Own Frontier Model",
+   "published_at": "2026-08-25T02:11:39+00:00",
+   "collected_at": "2026-08-25T08:53:21.126257+00:00",
+   "title_ko": "톰슨 로이터, 자체 파운데이션 모델 출시",
+   "summary_ko": "톰슨 로이터가 자사의 방대한 데이터 자산을 활용해 개발한 자체 프론티어 AI 모델을 공개했습니다. 법률 및 금융 분야의 전문 AI 경쟁이 심화될 전망입니다.",
+   "category": "속보",
+   "tags": [
+    "AI 모델"
    ]
   },
   {
@@ -2962,68 +3022,6 @@
     "오픈소스",
     "코딩",
     "LLM"
-   ]
-  },
-  {
-   "id": "80574d13959b8e47",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvzo4v/agent_quest_now_tells_you_when_claude_code_or/",
-   "source": "r/LocalLLaMA",
-   "title": "Agent Quest now tells you when Claude Code or Codex needs you visually and with sound",
-   "published_at": "2026-08-23T06:38:14+00:00",
-   "collected_at": "2026-08-23T07:40:38.219925+00:00",
-   "title_ko": "에이전트 퀘스트, 시각·청각 알림 기능 추가",
-   "summary_ko": "AI 코딩 에이전트 세션을 2D 게임 세계로 시각화하는 오픈소스 도구 '에이전트 퀘스트'가 업데이트되었습니다. 에이전트의 대기 및 오류 상태를 시각·청각적으로 알려 모니터링 효율성을 높였습니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "2c868fb21a459787",
-   "url": "https://news.hada.io/topic?id=32791",
-   "source": "GeekNews",
-   "title": "로컬 LLM이 실제 성능보다 더 멍청하게 느껴지는 이유",
-   "published_at": "2026-08-23T05:33:19+00:00",
-   "collected_at": "2026-08-23T06:55:05.724655+00:00",
-   "title_ko": "로컬 LLM 성능 체감이 떨어지는 이유와 추론 설정의 중요성",
-   "summary_ko": "동일한 모델 가중치라도 GPU 명령어, 추론 소프트웨어, 정밀도 설정에 따라 실제 성능과 에이전트 작업 결과가 크게 달라질 수 있습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "36cd9da7342817ad",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvyacg/qwen_38_27b_is_a_game_changer/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen 3.8 27B is a game changer.",
-   "published_at": "2026-08-23T05:19:48+00:00",
-   "collected_at": "2026-08-23T05:37:40.523611+00:00",
-   "title_ko": "Qwen 3.8 27B 모델의 뛰어난 성능과 실무 활용성",
-   "summary_ko": "개발자들이 Qwen 3.8 27B 모델을 테스트한 결과 코딩 성능이 우수하고 OCR 품질이 기존 대형 모델을 상회하여 자체 하드웨어 도입 논의가 활발해졌습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "Qwen",
-    "LLM"
-   ]
-  },
-  {
-   "id": "60e0cef06071f469",
-   "url": "https://www.reddit.com/r/singularity/comments/1vvwfbq/what_do_you_think_is_the_long_term_solution_andor/",
-   "source": "r/singularity",
-   "title": "What do you think is the long term solution and/or endgame of this RAM crisis? Asking here, because I am pro-AI.",
-   "published_at": "2026-08-23T03:40:29+00:00",
-   "collected_at": "2026-08-23T06:55:03.515504+00:00",
-   "title_ko": "AI 시대의 RAM 부족 위기와 장기적 해결책 고찰",
-   "summary_ko": "AGI를 향한 수요 증가로 심화되는 RAM 공급 부족 문제와 테크 마니아층이 겪는 어려움에 대한 분석입니다.",
-   "category": "참고",
-   "tags": [
-    "반도체",
-    "인프라"
    ]
   }
  ]
