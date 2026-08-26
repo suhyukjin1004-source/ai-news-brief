@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-26T04:50:54.642457+00:00",
+ "updated_at": "2026-08-26T05:43:05.262834+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -123,6 +123,38 @@
    "tags": [
     "투자",
     "OpenAI"
+   ]
+  },
+  {
+   "id": "460f7cfa5268a3f5",
+   "url": "https://www.reddit.com/r/singularity/comments/1vynk48/per_dwarkesh_there_is_a_compelling_argument_the/",
+   "source": "r/singularity",
+   "title": "Per Dwarkesh, there is a compelling argument the biggest AI labs have control of most of the world's compute (flops) by 2028.",
+   "published_at": "2026-08-26T05:07:10+00:00",
+   "collected_at": "2026-08-26T05:43:01.416417+00:00",
+   "title_ko": "대형 AI 랩의 연산 자원 독점 전망",
+   "summary_ko": "2028년까지 소수의 대형 AI 연구소가 전 세계 컴퓨팅 연산 능력의 대부분을 통제할 것이라는 분석이 제기되었습니다. 이는 향후 AI 산업의 진입 장벽과 독점 구조 심화에 큰 영향을 미칠 수 있습니다.",
+   "category": "중요",
+   "tags": [
+    "반도체",
+    "인프라",
+    "AI 업계"
+   ]
+  },
+  {
+   "id": "4cff708193235a60",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyn07o/underrated_muse_glimmer/",
+   "source": "r/LocalLLaMA",
+   "title": "Underrated Muse Glimmer",
+   "published_at": "2026-08-26T04:38:32+00:00",
+   "collected_at": "2026-08-26T05:42:56.478157+00:00",
+   "title_ko": "Muse Glimmer 모델 벤치암크 결과 공개",
+   "summary_ko": "로컬 LLM 벤치마크 테스트에서 Muse Glimmer가 대형 모델인 Qwen을 뛰어넘는 의외의 성능을 보여주었습니다. RAG 등과 결합하면 프론티어 모델과 동등한 수준에 이를 것으로 평가됩니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "벤치마크"
    ]
   },
   {
@@ -2976,37 +3008,6 @@
     "NVIDIA",
     "오픈소스",
     "반도체"
-   ]
-  },
-  {
-   "id": "e9dcd60d6dc8e4df",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx09za/gpu_poor_dont_overlook_laguna_xs_21/",
-   "source": "r/LocalLLaMA",
-   "title": "GPU Poor - Don't overlook Laguna XS 2.1",
-   "published_at": "2026-08-24T11:35:22+00:00",
-   "collected_at": "2026-08-24T13:06:37.726742+00:00",
-   "title_ko": "저사양 GPU 사용자를 위한 Laguna XS 2.1 모델 소개",
-   "summary_ko": "VRAM이 부족한 저사양 환경에서도 빠른 속도와 긴 컨텍스트를 지원해 실용적인 소형 AI 모델 대안으로 주목받고 있습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "94d8bce94ca1d4be",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwzqu2/top_10_most_liked_models_on_qwens_huggingface_page/",
-   "source": "r/LocalLLaMA",
-   "title": "Top 10 most liked models on Qwen's HuggingFace page",
-   "published_at": "2026-08-24T11:09:03+00:00",
-   "collected_at": "2026-08-24T11:37:22.012681+00:00",
-   "title_ko": "HuggingFace Qwen 시리즈 인기 모델 순위",
-   "summary_ko": "Qwen3.8-27B 모델이 출시 한 달 만에 압도적인 지지를 받으며 기존 인기 모델들을 제쳤습니다. 개발자들은 주로 9B 및 27B 크기의 범용 LLM을 선호하는 경향을 보였습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "HuggingFace"
    ]
   }
  ]
