@@ -1,5 +1,94 @@
 [
  {
+  "id": "8c645fef9c66e06c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyie86/fully_quantized_nvfp4_qwen3827b_with_quasar_qad/",
+  "source": "r/LocalLLaMA",
+  "title": "Fully quantized NVFP4 Qwen3.8-27B with QUASAR QAD",
+  "published_at": "2026-08-26T01:04:56+00:00",
+  "collected_at": "2026-08-26T01:51:33.337325+00:00",
+  "title_ko": "Qwen3.8-27B NVFP4 양자화 모델 공개",
+  "summary_ko": "QUASAR 알고리즘을 적용한 Qwen3.8-27B의 NVFP4 양자화 버전이 공개되어 엔비디아 블랙웰 GPU에서 vLLM 구동을 지원합니다. 모델 효율성을 높여 온디바이스 및 고성능 추론에 기여합니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "반도체",
+   "NVIDIA"
+  ]
+ },
+ {
+  "id": "cd9e55a321574520",
+  "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+  "source": "TechCrunch",
+  "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+  "published_at": "2026-08-26T00:40:59+00:00",
+  "collected_at": "2026-08-26T01:51:13.525549+00:00",
+  "title_ko": "피지컬 AI 스타트업 제너럴리스트, 30억 달러 가치 평가",
+  "summary_ko": "피지컬 AI 스타트업 제너럴리스트가 2억 달러 규모의 투자를 추가로 유치하며 기업 가치 30억 달러를 기록했습니다. 로보틱스와 AI 융합 분야의 투자 열기를 보여줍니다.",
+  "category": "중요",
+  "tags": [
+   "투자",
+   "로보틱스"
+  ]
+ },
+ {
+  "id": "1f7e138f05c4a35d",
+  "url": "https://news.hada.io/topic?id=32892",
+  "source": "GeekNews",
+  "title": "OpenAI Jalapeño: Nvidia Blackwell을 앞선 LLM 추론 칩",
+  "published_at": "2026-08-26T00:18:45+00:00",
+  "collected_at": "2026-08-26T01:51:48.217460+00:00",
+  "title_ko": "OpenAI, 자체 LLM 추론 칩 '잘라페뇨' 공개",
+  "summary_ko": "OpenAI가 브로드컴과 공동 설계한 LLM 추론 ASIC '잘라페뇨'가 초기 테스트에서 엔비디아 블랙웰을 능가하는 전력당 처리량을 기록했습니다. AI 가속기 시장의 판도 변화가 예상됩니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "반도체",
+   "NVIDIA"
+  ]
+ },
+ {
+  "id": "d4b5d5c6d6332b27",
+  "url": "https://news.hada.io/topic?id=32891",
+  "source": "GeekNews",
+  "title": "AI로 만든 웹사이트마다 전용 DB를 하나씩 제공하는 이유",
+  "published_at": "2026-08-26T00:15:01+00:00",
+  "collected_at": "2026-08-26T01:51:48.217460+00:00",
+  "title_ko": "개인 비서 앱 Poke, 웹사이트별 전용 DB 제공",
+  "summary_ko": "메신저 기반 개인 비서 Poke가 사용자의 요청에 따라 생성한 웹사이트마다 Turso 데이터베이스를 개별 할당하는 방식을 도입했습니다. AI 생성 앱의 백엔드 아키텍처 사례를 보여줍니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "3c7ff1efc47f93a0",
+  "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+  "source": "TechCrunch",
+  "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+  "published_at": "2026-08-26T00:06:20+00:00",
+  "collected_at": "2026-08-26T01:51:13.525549+00:00",
+  "title_ko": "OpenAI, 핵심 인프라 임원 퇴사 등 조직 개편",
+  "summary_ko": "OpenAI에서 인프라 담당 고위 임원이 퇴사하며 주요 리더십 이탈이 이어지고 있습니다. 회사는 인프라 조직 개편을 통해 대응하고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI"
+  ]
+ },
+ {
+  "id": "505ddd25a800dfd8",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyfved/m5_ultra_96gb_vs_m5_max_128gb_is_2x_bandwidth/",
+  "source": "r/LocalLLaMA",
+  "title": "M5 Ultra 96GB vs M5 Max 128GB — is 2x bandwidth worth losing 32GB of RAM, with Qwen3.8-Flash-Next dropping tomorrow?",
+  "published_at": "2026-08-25T23:16:37+00:00",
+  "collected_at": "2026-08-26T01:51:33.337325+00:00",
+  "title_ko": "맥 스튜디오 M5 울트라와 맥스 하드웨어 선택 고민",
+  "summary_ko": "로컬 LLM 구동을 위해 메모리 대역폭과 통합 메모리 용량 사이에서 고민하는 맥 스튜디오 하드웨어 비교입니다. 대규모 언어 모델 실행 환경 구축에 참고할 수 있습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "310464847d4d8274",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyewwd/qwen_38_27b_has_threejs_locked_down/",
   "source": "r/LocalLLaMA",
