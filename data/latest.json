@@ -1,8 +1,53 @@
 {
- "updated_at": "2026-08-26T01:51:51.890892+00:00",
+ "updated_at": "2026-08-26T03:14:35.650443+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "2490fffbefd5b79c",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214372",
+   "source": "AI타임스",
+   "title": "진학사 캐치, AI 활용 강의부터 평가까지 지원하는 ‘AX 직무 역량검사’ 출시",
+   "published_at": "2026-08-26T11:56:36+00:00",
+   "collected_at": "2026-08-26T03:14:31.717731+00:00",
+   "title_ko": "진학사 캐치, AI 실무 역량 검사 출시",
+   "summary_ko": "진학사가 AI 활용 능력을 진단하고 교육하는 직무 역량 검사를 출시했습니다. 채용 시장에서 AI 실무 활용도가 중요해지고 있음을 보여줍니다.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "fe3e7ee0fae0d7c0",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214369",
+   "source": "AI타임스",
+   "title": "크라우드웍스, 피지컬 AI 데이터로 정부 ‘M.AX 전문 기업‘ 선정",
+   "published_at": "2026-08-26T11:55:18+00:00",
+   "collected_at": "2026-08-26T03:14:31.717731+00:00",
+   "title_ko": "크라우드웍스, 제조업 AI 대전환 전문기업 선정",
+   "summary_ko": "크라우드웍스가 제조 AI 데이터 구축과 피지컬 AI 데이터 플랫폼 기술력을 인정받아 정부 사업 전문기업으로 선정되었습니다.",
+   "category": "중요",
+   "tags": [
+    "로보틱스",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "ab1e2ebd3d0772f3",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214368",
+   "source": "AI타임스",
+   "title": "뤼튼, 1000억 시리즈 C 투자 유치...기업 가치 1조 돌파",
+   "published_at": "2026-08-26T11:48:14+00:00",
+   "collected_at": "2026-08-26T03:14:31.717731+00:00",
+   "title_ko": "뤼튼테크놀로지스, 1000억 원 규모 시리즈 C 투자 유치",
+   "summary_ko": "뤼튼이 1000억 원의 투자를 유치하며 국내 AI 스타트업 최초로 기업 가치 1조 원을 돌파했습니다. 글로벌 시장 확장이 가속화될 전망입니다.",
+   "category": "중요",
+   "tags": [
+    "투자",
+    "OpenAI"
+   ]
+  },
   {
    "id": "8c645fef9c66e06c",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyie86/fully_quantized_nvfp4_qwen3827b_with_quasar_qad/",
@@ -20,6 +65,21 @@
    ]
   },
   {
+   "id": "fc5ceb06deb330d4",
+   "url": "https://news.hada.io/topic?id=32895",
+   "source": "GeekNews",
+   "title": "Qwen 3.8-Flash-Next(125B a6B), 2026년 8월 26일 공개 예정",
+   "published_at": "2026-08-26T00:48:50+00:00",
+   "collected_at": "2026-08-26T03:14:32.950493+00:00",
+   "title_ko": "알리바바, 차세대 모델 'Qwen 3.8-Flash-Next' 공개 예정",
+   "summary_ko": "알리바바가 차세대 Qwen4 아키텍처 기반의 멀티모달 MoE 모델을 공개를 앞두고 미리 아키텍처를 선보였습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "cd9e55a321574520",
    "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
    "source": "TechCrunch",
@@ -32,6 +92,37 @@
    "tags": [
     "투자",
     "로보틱스"
+   ]
+  },
+  {
+   "id": "1818737c279aef47",
+   "url": "https://news.hada.io/topic?id=32893",
+   "source": "GeekNews",
+   "title": "key-amnesia - AI 에이전트에 시크릿을 노출하지 않고 명령을 실행하는 도구",
+   "published_at": "2026-08-26T00:30:02+00:00",
+   "collected_at": "2026-08-26T03:14:32.950493+00:00",
+   "title_ko": "AI 에이전트 환경에서 시크릿 키를 보호하는 'key-amnesia'",
+   "summary_ko": "로컬 환경에서 AI 에이전트가 민감한 시크릿 정보에 접근하는 것을 막고 명령을 실행할 수 있게 돕는 도구입니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "7b186011b50ed1a0",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyhcz3/qwen3827b_iq3_xxs_wrote_a_correct_multilayer_tmm/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8-27B IQ3_XXS wrote a correct multilayer TMM on a 16 GB Quadro — after 100 minutes, 3 compactions, and 108k output tokens",
+   "published_at": "2026-08-26T00:19:09+00:00",
+   "collected_at": "2026-08-26T03:14:18.150138+00:00",
+   "title_ko": "Qwen 모델을 활용한 로컬 환경 고도화 코딩 테스트 후기",
+   "summary_ko": "16GB 구형 워크스테이션 GPU 환경에서 양자화된 Qwen 모델을 구동해 복잡한 광학 시뮬레이션 코드를 성공적으로 구현한 사례입니다.",
+   "category": "참고",
+   "tags": [
+    "NVIDIA",
+    "코딩",
+    "오픈소스"
    ]
   },
   {
@@ -2915,99 +3006,6 @@
     "오픈소스",
     "LLM",
     "Qwen"
-   ]
-  },
-  {
-   "id": "1eeaf22dc09ecd37",
-   "url": "https://news.hada.io/topic?id=32834",
-   "source": "GeekNews",
-   "title": "Show GN: 내 GPU로 어떤 LLM을 돌릴 수 있는지 계산해주는 오픈소스 도구 만들었습니다",
-   "published_at": "2026-08-24T05:39:01+00:00",
-   "collected_at": "2026-08-24T07:14:33.528407+00:00",
-   "title_ko": "내 GPU로 구동 가능한 LLM 계산 오픈소스 도구",
-   "summary_ko": "사용 중인 GPU 기종을 선택하면 실행 가능한 LLM과 양자화 수준, 예상 속도를 계산해 주는 오픈소스 도구가 공개됐다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체",
-    "LLM"
-   ]
-  },
-  {
-   "id": "405aea386545dcba",
-   "url": "https://news.hada.io/topic?id=32833",
-   "source": "GeekNews",
-   "title": "agent.md로 LLM 생성 코드의 품질 높이기",
-   "published_at": "2026-08-24T05:32:20+00:00",
-   "collected_at": "2026-08-24T07:14:33.528407+00:00",
-   "title_ko": "agent.md를 활용한 LLM 코드 생성 품질 향상 법",
-   "summary_ko": "반복되는 코드 리뷰 지침을 agent.md 파일로 관리해 프롬프트에 자동 주입함으로써 LLM 생성 코드의 품질을 높이는 팁이다.",
-   "category": "팁",
-   "tags": [
-    "코딩",
-    "LLM"
-   ]
-  },
-  {
-   "id": "f033ae2c71c036b9",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwtdbg/the_cursor_team_shipped_grok_bot_0180_with/",
-   "source": "r/LocalLLaMA",
-   "title": "The Cursor team shipped Grok bot (0.18.0) with runtime source maps enabled. Source code reconstructed here.",
-   "published_at": "2026-08-24T05:05:37+00:00",
-   "collected_at": "2026-08-24T05:47:34.085921+00:00",
-   "title_ko": "Cursor 팀, Grok 봇 런타임 소스 공개",
-   "summary_ko": "Cursor 개발팀이 런타임 소스 맵이 활성화된 Grok 봇을 배포하면서 관련 소스 코드가 복원 및 공유되었다.",
-   "category": "참고",
-   "tags": [
-    "Cursor",
-    "코딩"
-   ]
-  },
-  {
-   "id": "73312849b474091e",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwt6m7/i_developed_my_own_quantized_llm_from_scratch/",
-   "source": "r/LocalLLaMA",
-   "title": "I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB",
-   "published_at": "2026-08-24T04:55:45+00:00",
-   "collected_at": "2026-08-24T05:47:34.085921+00:00",
-   "title_ko": "60MB 크기의 초경량 자체 양자화 LLM 개발",
-   "summary_ko": "개발자가 250M 파라미터 모델을 직접 학습하고 2비트 이하로 양자화하여, CPU 환경에서 고속으로 구동되는 60MB 크기의 LLM을 선보였다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "반도체"
-   ]
-  },
-  {
-   "id": "6d34e2c371aac794",
-   "url": "https://news.hada.io/topic?id=32831",
-   "source": "GeekNews",
-   "title": "Show GN: 카카오톡 테마 제작 툴을 만들었습니다",
-   "published_at": "2026-08-24T04:52:32+00:00",
-   "collected_at": "2026-08-24T05:47:48.744375+00:00",
-   "title_ko": "Claude를 활용한 카카오톡 테마 제작 툴 개발",
-   "summary_ko": "개발자가 Claude의 도움을 받아 가이드를 바탕으로 손쉽게 카카오톡 테마를 제작할 수 있는 툴을 개발했다.",
-   "category": "팁",
-   "tags": [
-    "Claude",
-    "코딩"
-   ]
-  },
-  {
-   "id": "7507d3fba09c8ad6",
-   "url": "https://news.hada.io/topic?id=32830",
-   "source": "GeekNews",
-   "title": "SonicMoE로 보는 GPU 커널 최적화",
-   "published_at": "2026-08-24T04:39:22+00:00",
-   "collected_at": "2026-08-24T05:47:48.744375+00:00",
-   "title_ko": "SonicMoE로 살펴보는 효율적인 GPU 커널 최적화",
-   "summary_ko": "SonicMoE 사례를 통해 AI 연산 성능 극대화를 위한 효율적인 GPU 커널 설계 방식을 분석했다.",
-   "category": "참고",
-   "tags": [
-    "NVIDIA",
-    "GPU",
-    "반도체"
    ]
   }
  ]
