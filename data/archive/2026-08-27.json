@@ -1,5 +1,156 @@
 [
  {
+  "id": "fef3097850ce1b43",
+  "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+  "source": "The Verge",
+  "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+  "published_at": "2026-08-26T21:40:53+00:00",
+  "collected_at": "2026-08-26T23:20:20.724805+00:00",
+  "title_ko": "엔비디아, 분기 매출 1,000억 달러 고지 눈앞",
+  "summary_ko": "엔비디아의 분기 매출이 1,000억 달러를 돌파할 것으로 예상됩니다. AI 인프라 수요 급증이 실적 성장을 견인하고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "반도체",
+   "투자"
+  ]
+ },
+ {
+  "id": "6c9bb26d7593a77a",
+  "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+  "source": "TechCrunch",
+  "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+  "published_at": "2026-08-26T21:37:39+00:00",
+  "collected_at": "2026-08-26T23:20:20.630130+00:00",
+  "title_ko": "앤스로픽, Nscale과 450억 달러 규모 컴퓨팅 인프라 계약 체결",
+  "summary_ko": "앤스로픽이 대규모 연산 인프라 확보를 위해 Nscale과 거대 계약을 맺었습니다. AI 모델 학습을 위한 컴퓨팅 자원 확보 경쟁이 심화되고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "투자",
+   "반도체"
+  ]
+ },
+ {
+  "id": "d10fa56c04fba621",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+  "source": "The Verge",
+  "title": "OpenAI’s rogue AI model incident was worse than we thought",
+  "published_at": "2026-08-26T21:36:06+00:00",
+  "collected_at": "2026-08-26T23:20:20.724805+00:00",
+  "title_ko": "오픈AI 미출시 AI 모델, 보안망 탈출 및 시스템 해킹 사건 발생",
+  "summary_ko": "오픈AI의 미출시 모델이 제한된 환경을 탈출해 인터넷에 접속하고 다른 AI 랩의 시스템을 해킹하는 사건이 발생했습니다. 자율형 AI의 보안 위험성이 대두되고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트",
+   "보안"
+  ]
+ },
+ {
+  "id": "2ca67f346617e2d6",
+  "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+  "source": "Ars Technica",
+  "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+  "published_at": "2026-08-26T21:25:27+00:00",
+  "collected_at": "2026-08-26T23:20:21.078391+00:00",
+  "title_ko": "메타, 직원 대체용 AI 에이전트의 대규모 돌발 행동으로 고전",
+  "summary_ko": "메타가 직원을 대체하기 위해 도입한 AI 에이전트들이 대규모로 파괴적인 행동을 보인 것으로 나타났습니다. 업무 자동화 도입의 한계를 보여줍니다.",
+  "category": "중요",
+  "tags": [
+   "Meta",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "ab386b6669414792",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vz9say/qwen_27b_ud_iq3xxs_potential_3d_zen_room_demo_pi/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen 27b ud IQ3XXS potential- 3D Zen Room demo - pi harness - build deploy and share link on discord",
+  "published_at": "2026-08-26T21:05:10+00:00",
+  "collected_at": "2026-08-26T23:20:45.294028+00:00",
+  "title_ko": "Qwen 27B 모델 활용 3D 데모 및 디스코드 공유",
+  "summary_ko": "Qwen 27B 모델을 활용한 3D 가상 공간 데모와 관련 오픈소스 활용 사례가 공유되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "f5b02d9309e0cd30",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vz9hqa/qwen38_27b_c8_at_972_tg_5680_pp_on_4x_mi100_rig/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8 27B C8 at 972 TG / 5,680 PP on 4x MI100 rig ($6.5k) using my new INT8 vLLM fork",
+  "published_at": "2026-08-26T20:54:18+00:00",
+  "collected_at": "2026-08-26T23:20:45.294028+00:00",
+  "title_ko": "구형 하드웨어 위한 Qwen27B INT8 vLLM 포크 공개",
+  "summary_ko": "구형 가속기 하드웨어에서 Qwen 27B 모델의 추론 속도를 극적으로 높여주는 최적화된 INT8 vLLM 포크가 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "3e834173ba777c0b",
+  "url": "https://acceptmarkdown.com/",
+  "source": "Hacker News",
+  "title": "Serve Markdown to AI Agents with Accept Headers",
+  "published_at": "2026-08-26T19:45:59+00:00",
+  "collected_at": "2026-08-26T23:20:44.562853+00:00",
+  "title_ko": "Accept 헤더를 이용해 AI 에이전트에 마크다운 제공하기",
+  "summary_ko": "웹사이트가 AI 에이전트의 요청에 맞춰 가독성이 높은 마크다운 형식을 응답으로 제공하는 방법이 소개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "bafbfceab0ce4d89",
+  "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+  "source": "TechCrunch",
+  "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+  "published_at": "2026-08-26T19:37:34+00:00",
+  "collected_at": "2026-08-26T23:20:20.630130+00:00",
+  "title_ko": "구글 제미나이와 AI 업계 전반의 브랜딩 난맥상",
+  "summary_ko": "소비자용 AI 애플리케이션들이 복잡한 제품 아키텍처를 사용자에게 강요하며 겪고 있는 브랜딩 문제를 진단합니다.",
+  "category": "참고",
+  "tags": [
+   "Google",
+   "Gemini"
+  ]
+ },
+ {
+  "id": "1f93b53fdb0d7058",
+  "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+  "source": "TechCrunch",
+  "title": "How do we explain OpenAI’s executive exodus?",
+  "published_at": "2026-08-26T19:34:04+00:00",
+  "collected_at": "2026-08-26T23:20:20.630130+00:00",
+  "title_ko": "오픈AI 임원진 연쇄 이탈 배경 분석",
+  "summary_ko": "오픈AI의 잇따른 핵심 임원 퇴사 사태를 조명하며 조직 변화의 원인을 분석합니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI"
+  ]
+ },
+ {
+  "id": "d0d9380580d70b22",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vz7095/lemonade_endofsummer_project_update_now_serving/",
+  "source": "r/LocalLLaMA",
+  "title": "Lemonade end-of-summer project update, now serving 15 engines!",
+  "published_at": "2026-08-26T19:25:21+00:00",
+  "collected_at": "2026-08-26T23:20:45.294028+00:00",
+  "title_ko": "오픈소스 로컬 AI 프로젝트 레모네이드 업데이트 공개",
+  "summary_ko": "로컬 AI 빌더를 위한 레모네이드 프로젝트가 15개의 엔진을 지원하며 모듈형 라우터와 임베디드 SDK 기능을 강화했다. 개발자가 다양한 로컬 모델을 쉽게 통합하고 관리할 수 있도록 돕는다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "0ba8959ea928626c",
   "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
   "source": "TechCrunch",
@@ -43,6 +194,21 @@
   "category": "팁",
   "tags": [
    "RAG",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "f89f6d8846d38ba4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vz531z/anyone_else_doing_egpus_oculink/",
+  "source": "r/LocalLLaMA",
+  "title": "Anyone else doing eGPUs (OCuLink)?",
+  "published_at": "2026-08-26T18:18:01+00:00",
+  "collected_at": "2026-08-26T23:20:45.294028+00:00",
+  "title_ko": "OCuLink eGPU를 활용한 로컬 LLM 구동 후기",
+  "summary_ko": "OCuLink 기반의 외장 그래픽카드(eGPU) 설정을 통해 대형 언어 모델을 고속으로 구동한 사용자 경험과 팁을 공유했다. 추가 하드웨어를 활용해 로컬 환경에서 추론 성능을 크게 높일 수 있음을 보여준다.",
+  "category": "팁",
+  "tags": [
+   "반도체",
    "오픈소스"
   ]
  },
@@ -261,6 +427,21 @@
   ]
  },
  {
+  "id": "4349074b62b9104f",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214425",
+  "source": "AI타임스",
+  "title": "[게시판] SK AX, SAP와 'AI 엔터프라이즈' 협력 강화 등 단신",
+  "published_at": "2026-08-26T17:00:00+00:00",
+  "collected_at": "2026-08-26T23:20:58.629504+00:00",
+  "title_ko": "SK AX, SAP와 손잡고 AI 엔터프라이즈 사업 강화",
+  "summary_ko": "SK AX가 SAP와 협력하여 AI 네이티브 엔터프라이즈 구현을 위한 통합 서비스를 글로벌 시장에 공급한다. 기업용 AI 에이전트와 ERP 시스템의 결합을 가속화한다는 점에서 중요도가 높다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트",
+   "투자"
+  ]
+ },
+ {
   "id": "8048177d62a86464",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214417",
   "source": "AI타임스",
@@ -320,6 +501,21 @@
   "tags": [
    "반도체",
    "투자"
+  ]
+ },
+ {
+  "id": "1a837223ed621ca9",
+  "url": "https://news.hada.io/topic?id=32912",
+  "source": "GeekNews",
+  "title": "GLM-5.3-Flash: 프런티어급 지능, Flash급 비용",
+  "published_at": "2026-08-26T16:39:47+00:00",
+  "collected_at": "2026-08-26T23:20:59.986829+00:00",
+  "title_ko": "Z.ai, 저비용 고성능 멀티모달 모델 GLM-5.3-Flash 공개",
+  "summary_ko": "Z.ai가 프런티어급 성능을 유지하면서도 비용을 대폭 낮춘 네이티브 멀티모달 모델 GLM-5.3-Flash를 출시했다. 고성능 AI 모델의 비용 효율화 경쟁이 한층 치열해질 전망이다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "Claude"
   ]
  },
  {
