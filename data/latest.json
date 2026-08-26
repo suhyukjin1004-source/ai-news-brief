@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-26T11:38:20.207274+00:00",
+ "updated_at": "2026-08-26T13:09:42.522859+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -329,6 +329,36 @@
    ]
   },
   {
+   "id": "038853b2471eeae6",
+   "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+   "source": "TechCrunch",
+   "title": "Arga is building a better way to train enterprise AI agents",
+   "published_at": "2026-08-26T12:55:28+00:00",
+   "collected_at": "2026-08-26T13:09:13.150581+00:00",
+   "title_ko": "기업용 AI 에이전트 학습 플랫폼 'Arga', 1000만 달러 투자 유치",
+   "summary_ko": "기업용 AI 에이전트 훈련 방식을 혁신하는 스타트업 Arga가 General Catalyst 주도로 1000만 달러 규모의 시드 투자를 받았다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트",
+    "투자"
+   ]
+  },
+  {
+   "id": "677da434ef4915d2",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyw7e7/a_minecraft_clone_i_fully_vibecoded_with/",
+   "source": "r/LocalLLaMA",
+   "title": "A minecraft clone I fully vibecoded with Qwen3.8-27b Q4",
+   "published_at": "2026-08-26T12:50:47+00:00",
+   "collected_at": "2026-08-26T13:09:21.840851+00:00",
+   "title_ko": "Qwen 3.8B 모델로 마인크래프트 클론을 로컬 개발",
+   "summary_ko": "개발자가 Qwen3.8-27b 모델을 로컬 환경에서 구동해 코드, 오디오, 3D 모델까지 포함된 마인크래프트 클론 게임을 성공적으로 제작했다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
    "id": "54829551b4588db2",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214378",
    "source": "AI타임스",
@@ -356,6 +386,77 @@
    "tags": [
     "오픈소스",
     "규제"
+   ]
+  },
+  {
+   "id": "b2140a53fa4a0f57",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyw1wo/forget_the_pelican_its_weeviltime/",
+   "source": "r/LocalLLaMA",
+   "title": "Forget the Pelican, it's Weevil-Time! / Benchmaxxing-Proof SVG and Vision Benchmark",
+   "published_at": "2026-08-26T12:44:22+00:00",
+   "collected_at": "2026-08-26T13:09:21.840851+00:00",
+   "title_ko": "Qwen 모델을 활용한 SVG 및 비전 벤치마크 테스트",
+   "summary_ko": "Qwen3.8-27B 양자화 모델을 이용해 이미지 복제 및 SVG 생성을 수행하며 모델의 시각적 성능과 벤치마크 저항력을 테스트했다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "358a1c3e94514c96",
+   "url": "https://news.hada.io/topic?id=32908",
+   "source": "GeekNews",
+   "title": "분노, 불안, 그리고 주체성",
+   "published_at": "2026-08-26T12:34:22+00:00",
+   "collected_at": "2026-08-26T13:09:35.677541+00:00",
+   "title_ko": "AI 시대를 맞이하는 기술 업계의 불안과 주체성",
+   "summary_ko": "AI와 에이전트가 급부상하는 기술 환경 속에서 불확실성과 불안에 대처하는 자세와 주체성의 중요성을 조명했다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "a8b9820f790f1a4c",
+   "url": "https://news.hada.io/topic?id=32907",
+   "source": "GeekNews",
+   "title": "AI가 신입 일자리를 가장 크게 위축시킨다",
+   "published_at": "2026-08-26T12:32:00+00:00",
+   "collected_at": "2026-08-26T13:09:35.677541+00:00",
+   "title_ko": "스탠포드 연구: AI가 신입 고용 시장에 미치는 타격",
+   "summary_ko": "연구 결과 AI 노출도가 높은 직종에서 젊은 근로자의 고용 감소 폭이 더 크게 나타나며 신입 일자리가 위축되고 있다.",
+   "category": "중요",
+   "tags": [
+    "규제"
+   ]
+  },
+  {
+   "id": "f08bc0a6efc51b63",
+   "url": "https://news.hada.io/topic?id=32906",
+   "source": "GeekNews",
+   "title": "Headlong - 스스로 계속 생각하는 지속형 에이전트를 위한 마이크로 하네스",
+   "published_at": "2026-08-26T12:29:48+00:00",
+   "collected_at": "2026-08-26T13:09:35.677541+00:00",
+   "title_ko": "자율 지속형 AI 에이전트를 위한 오픈소스 하네스 'Headlong'",
+   "summary_ko": "사용자의 지속적인 입력 없이도 스스로 생각하고 우선순위를 정해 행동하는 지속형 AI 에이전트를 위한 오픈소스 마이크로 하네스가 공개됐다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "37b1bc497524dc63",
+   "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
+   "source": "TechCrunch",
+   "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+   "published_at": "2026-08-26T12:00:00+00:00",
+   "collected_at": "2026-08-26T13:09:13.150581+00:00",
+   "title_ko": "AI 청각 보조 안경 개발사 'Legato', 1200만 달러 투자 유치",
+   "summary_ko": "특허받은 청각 보조 기술과 AI를 결합한 스마트 안경을 개발하는 스타트업 Legato가 스텔스 모드를 벗어나 1200만 달러의 투자를 유치했다.",
+   "category": "속보",
+   "tags": [
+    "투자"
    ]
   },
   {
@@ -401,6 +502,20 @@
    "tags": [
     "투자",
     "OpenAI"
+   ]
+  },
+  {
+   "id": "b72d2238b8c571cb",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyup1v/zai_confirms_ox_alpha_is_a_glm_model_plans_to/",
+   "source": "r/LocalLLaMA",
+   "title": "Z.AI confirms Ox Alpha is a GLM model, plans to release its weights",
+   "published_at": "2026-08-26T11:43:03+00:00",
+   "collected_at": "2026-08-26T13:09:21.840851+00:00",
+   "title_ko": "Z.AI, 'Ox Alpha'가 GLM 기반 모델임을 확인 및 가중치 공개 예정",
+   "summary_ko": "중국 Z.AI가 스텔스 모델로 선보인 Ox Alpha가 GLM 시리즈 모델임을 확인하고 관련 가중치를 공개할 계획이라고 밝혔다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스"
    ]
   },
   {
@@ -467,6 +582,20 @@
    ]
   },
   {
+   "id": "50c057f19e4ba4c3",
+   "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+   "source": "Hacker News",
+   "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+   "published_at": "2026-08-26T10:04:55+00:00",
+   "collected_at": "2026-08-26T13:09:15.973223+00:00",
+   "title_ko": "중국 Z.ai, DeepSeek 대항마 'Ox Alpha' 모델 가중치 공개 예정",
+   "summary_ko": "DeepSeek의 대항마로 꼽히는 Z.ai의 신규 스텔스 모델 'Ox Alpha'가 GLM 시리즈 기반임이 확인되고 가중치 공개가 예고됐다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
    "id": "7f959ede3955eceb",
    "url": "https://www.reddit.com/r/singularity/comments/1vyrvk8/amazon_to_discontinue_amazon_turk_by_september_30/",
    "source": "r/singularity",
@@ -509,6 +638,20 @@
    "tags": [
     "오픈소스",
     "LLM"
+   ]
+  },
+  {
+   "id": "28a246d447de35bd",
+   "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+   "source": "Hacker News",
+   "title": "RAG Is Simpler Than You Think",
+   "published_at": "2026-08-26T08:39:17+00:00",
+   "collected_at": "2026-08-26T13:09:15.973223+00:00",
+   "title_ko": "RAG(검색 증강 생성) 구현의 단순성에 대한 고찰",
+   "summary_ko": "복잡하게 여겨지던 RAG 시스템의 구조와 핵심 원리가 생각보다 훨씬 간단하게 구현될 수 있음을 설명한다.",
+   "category": "팁",
+   "tags": [
+    "코딩"
    ]
   },
   {
@@ -2873,154 +3016,6 @@
     "Anthropic",
     "Claude",
     "코딩"
-   ]
-  },
-  {
-   "id": "c1fe722555fd9666",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx7ei1/best_local_vision_language_models_august_2026/",
-   "source": "r/LocalLLaMA",
-   "title": "Best Local Vision Language Models - August 2026",
-   "published_at": "2026-08-24T16:18:56+00:00",
-   "collected_at": "2026-08-24T16:49:15.306283+00:00",
-   "title_ko": "2026년 8월 추천 로컬 비전 언어 모델(VLM)",
-   "summary_ko": "오픈 웨이트 기반의 로컬 비전 언어 모델 활용 사례와 메모리 용량별 추천 모델이 공유되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "VLM"
-   ]
-  },
-  {
-   "id": "6ea9e93a6f501650",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214303",
-   "source": "AI타임스",
-   "title": "포지큐브 DVLM, ‘OCR벤치 v2’ 국내 1위·글로벌 2위",
-   "published_at": "2026-08-24T16:18:45+00:00",
-   "collected_at": "2026-08-24T08:58:37.651163+00:00",
-   "title_ko": "포지큐브 DVLM, OCR벤치 v2 국내 1위 달성",
-   "summary_ko": "포지큐브의 멀티모달 문서 비전언어모델이 국제 벤치마크 OCR벤치 v2에서 국내 1위와 글로벌 2위를 기록했다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "1ef547c8e4ff617c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx7aci/bart_a_vintage_llm/",
-   "source": "r/LocalLLaMA",
-   "title": "Bart: A vintage llm",
-   "published_at": "2026-08-24T16:14:44+00:00",
-   "collected_at": "2026-08-24T16:49:15.306283+00:00",
-   "title_ko": "1931년 이전 데이터로 학습된 빈티지 LLM 'Bart' 공개",
-   "summary_ko": "과거 사상가와 과학자들의 결론을 도출하기 위해 1931년 이전의 영어 텍스트로만 학습된 28억 파라미터 규모의 모델입니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "42f46d423de7607a",
-   "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-   "source": "Hacker News",
-   "title": "Coding expertise is going to collapse from AI reliance",
-   "published_at": "2026-08-24T15:52:33+00:00",
-   "collected_at": "2026-08-24T18:52:54.231370+00:00",
-   "title_ko": "AI 의존도로 인해 우려되는 개발자 코딩 전문성 저하",
-   "summary_ko": "개발자들이 AI에 과도하게 의존하면서 장기적으로 핵심 코딩 전문성과 문제 해결 능력이 붕괴될 수 있다는 지적입니다.",
-   "category": "참고",
-   "tags": [
-    "코딩",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "3e2b3baed9b4332a",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214300",
-   "source": "AI타임스",
-   "title": "코난테크놀로지, 실사례 중심 ‘AI 서밋’ 9월9일 개최…”도구 넘어 ‘일하는’ AI”",
-   "published_at": "2026-08-24T15:51:53+00:00",
-   "collected_at": "2026-08-24T07:14:32.399634+00:00",
-   "title_ko": "코난테크놀로지, '제4회 코난 AI 서밋 2026' 개최",
-   "summary_ko": "코난테크놀로지가 에이전틱 AI 플랫폼을 주제로 한 '제4회 코난 AI 서밋 2026'을 9월 9일 개최한다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "코난테크놀로지"
-   ]
-  },
-  {
-   "id": "a955d3b26f25804c",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214312",
-   "source": "AI타임스",
-   "title": "과기부 “AI와 과학기술 결합해 공학 분야 한계 돌파할 것”",
-   "published_at": "2026-08-24T15:50:00+00:00",
-   "collected_at": "2026-08-24T08:58:38.705374+00:00",
-   "title_ko": "과기정통부, AI+과학기술 기반기술 개발 본격화",
-   "summary_ko": "과학기술정보통신부가 AI를 활용해 과학 현상을 해석하고 공학 분야 한계를 돌파하기 위한 신규 연구 과제 착수에 나섰다.",
-   "category": "참고",
-   "tags": [
-    "규제",
-    "정부"
-   ]
-  },
-  {
-   "id": "89a72fa1cc6079d7",
-   "url": "https://www.reddit.com/r/singularity/comments/1vx6kaw/premise_ai_is_only_useful_for_whatever_you_can/",
-   "source": "r/singularity",
-   "title": "Premise: AI is only useful for whatever you can personally understand. Not an artist? Bad AI art. Not a coder? Unmaintainable AI code. If you are good at what you do, you are safe.",
-   "published_at": "2026-08-24T15:48:46+00:00",
-   "collected_at": "2026-08-24T18:53:02.977892+00:00",
-   "title_ko": "개인의 이해도에 따라 갈리는 AI 활용의 한계",
-   "summary_ko": "AI는 사용자가 직접 이해하고 검증할 수 있는 영역에서만 진정한 가치를 발휘한다는 주장을 다룬 글입니다.",
-   "category": "참고",
-   "tags": [
-    "LLM"
-   ]
-  },
-  {
-   "id": "29cfdc8019227fe0",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214301",
-   "source": "AI타임스",
-   "title": "\"누끼 제거는 옛말\"…오픈AI, API로 '배경 없는 투명 이미지' 직접 생성",
-   "published_at": "2026-08-24T15:48:24+00:00",
-   "collected_at": "2026-08-24T07:14:32.399634+00:00",
-   "title_ko": "오픈아이, API로 투명 배경 PNG 이미지 생성 지원",
-   "summary_ko": "오픈아이가 이미지 생성 모델 API에 네이티브 알파 채널을 추가해 후처리 없이 투명 배경 이미지를 생성할 수 있게 됐다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "GPT"
-   ]
-  },
-  {
-   "id": "db36f883b48c142b",
-   "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-   "source": "Hacker News",
-   "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-   "published_at": "2026-08-24T15:28:04+00:00",
-   "collected_at": "2026-08-24T18:52:54.231370+00:00",
-   "title_ko": "MS 페인트와 사진 앱, 로컬 생성 결과물에도 보이지 않는 워터마크 삽입",
-   "summary_ko": "마이크로소프트의 기본 이미지 도구들이 로컬에서 생성된 파일에도 고유 식별자(GUID) 기반의 보이지 않는 워터마크를 남기는 것으로 확인되었습니다.",
-   "category": "참고",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "351f69dcf090598e",
-   "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-   "source": "TechCrunch",
-   "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-   "published_at": "2026-08-24T15:24:18+00:00",
-   "collected_at": "2026-08-24T15:49:22.345479+00:00",
-   "title_ko": "제너럴 인튜이션, 60억 달러 가치로 투자 유치 추진",
-   "summary_ko": "공간과 시간을 이동하는 AI 에이전트 파운데이션 모델을 개발하는 제너럴 인튜이션이 60억 달러 가치로 투자를 유치 중이다. 로보틱스 분야로의 AI 확장 가능성을 보여주는 중요한 움직임이다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "로보틱스",
-    "투자"
    ]
   }
  ]
