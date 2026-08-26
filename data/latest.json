@@ -1,8 +1,56 @@
 {
- "updated_at": "2026-08-26T05:43:05.262834+00:00",
+ "updated_at": "2026-08-26T07:03:37.255603+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "1923b84f35da7275",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214389",
+   "source": "AI타임스",
+   "title": "마키나락스, 삼성디스플레이 베트남 공장에 'AI 설비 제어 솔루션' 적용",
+   "published_at": "2026-08-26T15:53:12+00:00",
+   "collected_at": "2026-08-26T07:02:53.341087+00:00",
+   "title_ko": "마키나락스, 삼성디스플레이 베트남 공장에 AI 설비 제어 솔루션 적용",
+   "summary_ko": "마키나락스가 삼성디스플레이 베트남 공장의 양산 라인에 AI 기반 설비 제어 솔루션을 적용한다. 제조 현장의 노후화된 PLC 제어 한계를 극복하고 AI 연산 효율을 높이기 위한 목적이다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트",
+    "스마트팩토리",
+    "제조업"
+   ]
+  },
+  {
+   "id": "f887a770006ea0f4",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214388",
+   "source": "AI타임스",
+   "title": "과기부, ‘BCI 얼라이언스’ 출범...“2035년 BCI 상용화 추진”",
+   "published_at": "2026-08-26T15:50:32+00:00",
+   "collected_at": "2026-08-26T07:02:54.036709+00:00",
+   "title_ko": "정부, 'BCI 얼라이언스' 출범... 2035년 뇌-컴퓨터 인터페이스 상용화 추진",
+   "summary_ko": "과학기술정보통신부가 BCI(뇌-컴퓨터 인터페이스) 기술의 상용화를 위해 얼라이언스를 출범하고 2035년까지 대규모 투자를 추진한다. 장애 극복 및 차세대 AI 소통 기술로 주목받고 있다.",
+   "category": "중요",
+   "tags": [
+    "규제",
+    "로보틱스",
+    "정부정책"
+   ]
+  },
+  {
+   "id": "41305f63d1cf5f3d",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214384",
+   "source": "AI타임스",
+   "title": "LG CNS, 삼송 데이터센터에 '액체냉각' 인프라 도입",
+   "published_at": "2026-08-26T15:47:23+00:00",
+   "collected_at": "2026-08-26T07:02:53.341087+00:00",
+   "title_ko": "LG CNS, 삼송 AI 데이터센터에 차세대 액체냉각 인프라 도입",
+   "summary_ko": "LG CNS가 고양 삼송 데이터센터에 엔비디아 고성능 GPU를 위한 직접 칩 냉각(DTC) 방식의 액체냉각 인프라를 구축한다. 고성능 AI 인프라의 발열 제어 역량을 강화하기 위한 조치다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "반도체",
+    "인프라"
+   ]
+  },
   {
    "id": "19768d6391af30a9",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214373",
@@ -123,6 +171,22 @@
    "tags": [
     "투자",
     "OpenAI"
+   ]
+  },
+  {
+   "id": "c749a1cab998c0b2",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyp1l9/first_serious_confirmation_ox_alpha_is_glm53flash/",
+   "source": "r/LocalLLaMA",
+   "title": "First serious confirmation. Ox Alpha is GLM-5.3-Flash",
+   "published_at": "2026-08-26T06:28:10+00:00",
+   "collected_at": "2026-08-26T07:02:40.285903+00:00",
+   "title_ko": "신규 멀티모달 모델 'Ox Alpha'는 GLM-5.3-Flash로 확인",
+   "summary_ko": "최근 화제가 된 'Ox Alpha' 모델이 100만 토큰 컨텍스트 윈도우를 지원하는 'GLM-5.3-Flash'인 것으로 확인됐다. 멀티모달 비전 기능과 뛰어난 코딩 성능을 갖추고 있다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "멀티모달",
+    "LLM"
    ]
   },
   {
@@ -2945,69 +3009,6 @@
     "HuggingFace",
     "Apple",
     "오픈소스"
-   ]
-  },
-  {
-   "id": "71d4464f18d2f9b2",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx14gl/benchmark_optimal_dflash2_quants_for_speed_and/",
-   "source": "r/LocalLLaMA",
-   "title": "[Benchmark] Optimal DFlash2 quants for speed and context size, 5090 RTX, llama.cpp, Qwen 3.8 27B Dynamic3 Unsloth. Comparison with MTP",
-   "published_at": "2026-08-24T12:15:27+00:00",
-   "collected_at": "2026-08-24T13:06:37.726742+00:00",
-   "title_ko": "DFlash2 양자화 모델 성능 벤치마크 분석",
-   "summary_ko": "RTX 5090 환경에서 llama.cpp를 활용해 DFlash2 양자화 버전의 속도와 컨텍스트 크기를 비교 측정한 결과입니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "NVIDIA",
-    "반도체"
-   ]
-  },
-  {
-   "id": "df015003760c1205",
-   "url": "https://openai.com/index/gpt-5-6-in-kiro",
-   "source": "OpenAI",
-   "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-   "published_at": "2026-08-24T12:00:00+00:00",
-   "collected_at": "2026-08-24T20:40:32.929047+00:00",
-   "title_ko": "OpenAI, Kiro에 GPT-5.6 탑재하여 가격 대비 성능 강화",
-   "summary_ko": "Kiro에 GPT-5.6이 도입되어 개발자들이 더 나은 가성비로 소프트웨어를 계획, 구축, 테스트할 수 있게 되었습니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "GPT",
-    "코딩"
-   ]
-  },
-  {
-   "id": "50fe1fe7913d6388",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214277",
-   "source": "AI타임스",
-   "title": "허깅페이스, 18조 매각 추진...빅테크 인수전 펼쳐지나",
-   "published_at": "2026-08-24T11:47:51+00:00",
-   "collected_at": "2026-08-24T03:12:37.440997+00:00",
-   "title_ko": "허깅페이스, 18조 원 규모 매각 추진",
-   "summary_ko": "오픈소스 AI 플랫폼 허깅페이스가 18조 원 이상의 가치로 매각을 검토하며 빅테크 기업들의 인수전 가능성이 대두되고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "투자"
-   ]
-  },
-  {
-   "id": "b76c0e2d12570418",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214276",
-   "source": "AI타임스",
-   "title": "엔비디아, 중국 '오픈 모델' 독주 막는다...자체 모델 개발로 전면전",
-   "published_at": "2026-08-24T11:41:55+00:00",
-   "collected_at": "2026-08-24T03:12:37.440997+00:00",
-   "title_ko": "엔비디아, 자체 오픈 모델 개발로 중국 AI에 전면전 선포",
-   "summary_ko": "엔비디아가 중국의 오픈 모델 확산을 막기 위해 자체 오픈 웨이트 모델 개발과 대규모 투자를 단행하며 AI 모델 생태계 진출을 가속화합니다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "오픈소스",
-    "반도체"
    ]
   }
  ]
