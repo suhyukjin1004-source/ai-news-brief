@@ -1,8 +1,469 @@
 {
- "updated_at": "2026-08-26T23:21:10.129221+00:00",
+ "updated_at": "2026-08-27T09:27:35.347400+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "3b9c8181f60d67bb",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214458",
+   "source": "AI타임스",
+   "title": "알리바바, ‘큐원 3.8 플래시 넥스트’ 공개... \"큐원4 아키텍처 미리보기\"",
+   "published_at": "2026-08-27T17:55:23+00:00",
+   "collected_at": "2026-08-27T09:27:17.725897+00:00",
+   "title_ko": "알리바바, 차기 아키텍처 미리보기 '큐원3.8 플래시 넥스트' 공개",
+   "summary_ko": "알리바바가 학습 비용을 대폭 낮춘 차세대 큐원4 아키텍처 기반의 오픈웨이트 모델을 공개했다. 효율적인 연산 구조로 성능과 경제성을 모두 잡았다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "41edd1b139967b7b",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214457",
+   "source": "AI타임스",
+   "title": "빌 게이츠의 경고 \"AI 격동 대비해야\"...'인간 전용 일자리'와 'AI 토큰세' 제안",
+   "published_at": "2026-08-27T17:48:44+00:00",
+   "collected_at": "2026-08-27T09:27:17.725897+00:00",
+   "title_ko": "빌 게이츠, AI 격동기 경고하며 '인간 전용 일자리' 및 '토큰세' 제안",
+   "summary_ko": "빌 게이츠가 AI 발전으로 인한 대규모 일자리 대체와 사회적 혼란에 대비해 정부의 선제적 규제와 토큰세 도입을 촉구했다.",
+   "category": "중요",
+   "tags": [
+    "규제",
+    "투자"
+   ]
+  },
+  {
+   "id": "bdeb328fbede8f3f",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214479",
+   "source": "AI타임스",
+   "title": "\"아이디·비번 노출 없다\"…챗GPT 워크, 웹사이트 직접 로그인 기능 탑재",
+   "published_at": "2026-08-27T17:39:56+00:00",
+   "collected_at": "2026-08-27T09:27:17.725897+00:00",
+   "title_ko": "오픈AI, 비밀번호 노출 없는 웹 로그인 기능 '챗GPT 워크' 탑재",
+   "summary_ko": "오픈AI가 사용자의 민감한 정보 노출 없이 웹사이트에 직접 접근해 업무를 수행하는 기능을 추가하며 자율형 에이전트 시대를 가속화했다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "efdb9622efe0403a",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214494",
+   "source": "AI타임스",
+   "title": "\"영상 한 번 보면 바로 따라한다\"...스킬드 AI, 로봇 파운데이션 모델 'S1' 공개",
+   "published_at": "2026-08-27T17:32:18+00:00",
+   "collected_at": "2026-08-27T09:27:17.725897+00:00",
+   "title_ko": "스킬드 AI, 영상 시연만으로 학습하는 로봇 모델 'S1' 공개",
+   "summary_ko": "스킬드 AI가 단 한 편의 비디오 시연으로 복잡한 작업을 학습하는 맥락 학습 기반의 로봇 파운데이션 모델을 선보였다.",
+   "category": "속보",
+   "tags": [
+    "로보틱스"
+   ]
+  },
+  {
+   "id": "a1b7fda861089e4a",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214488",
+   "source": "AI타임스",
+   "title": "\"모델 개발과 거리 멀어진다\"...구글 AI 책임팀 본사 편입에 내부 우려 확산",
+   "published_at": "2026-08-27T17:27:01+00:00",
+   "collected_at": "2026-08-27T09:27:17.725897+00:00",
+   "title_ko": "구글, AI 안전성 책임 조직 본사 편입에 내부 우려 확산",
+   "summary_ko": "구글이 고위험 AI 모델을 평가하던 독립 안전 연구 조직을 본사로 편입하자 사내외에서 독립성 훼손 우려가 확산하고 있다.",
+   "category": "중요",
+   "tags": [
+    "Google",
+    "규제"
+   ]
+  },
+  {
+   "id": "c6f8b03989a0ad46",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214486",
+   "source": "AI타임스",
+   "title": "탐지부터 조치까지 자동화...SKT 컨소시엄, 정부 보안 AI 사업 출사표",
+   "published_at": "2026-08-27T17:07:51+00:00",
+   "collected_at": "2026-08-27T09:27:17.725897+00:00",
+   "title_ko": "SKT 컨소시엄, 보안 특화 AI 파운데이션 모델 개발 출사표",
+   "summary_ko": "SK텔레콤과 업스테이지 등이 손잡고 과기정통부 주관의 사이버 보안 특화 AI 파운데이션 모델 개발 사업에 본격 착수했다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "cb3432957f50de49",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214472",
+   "source": "AI타임스",
+   "title": "구글, 음성 AI 실용성 극대화... '제미나이 3.5 트랜스크라이브'로 생태계 확장",
+   "published_at": "2026-08-27T17:02:58+00:00",
+   "collected_at": "2026-08-27T09:27:17.725897+00:00",
+   "title_ko": "구글, 실시간 음성 인식 강화한 '제미나이 3.5 트랜스크라이브' 공개",
+   "summary_ko": "구글이 말실수와 문맥까지 이해해 자연스러운 텍스트로 변환하는 실시간 음성 인식 AI 모델을 선보였다.",
+   "category": "속보",
+   "tags": [
+    "Gemini",
+    "Google"
+   ]
+  },
+  {
+   "id": "fd0ca20679faf520",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214464",
+   "source": "AI타임스",
+   "title": "딥시크, 올해 매출 1000억 눈앞...7개월 만에 10배 폭증",
+   "published_at": "2026-08-27T16:52:01+00:00",
+   "collected_at": "2026-08-27T09:27:17.725897+00:00",
+   "title_ko": "딥시크, 올해 매출 1000억 원 육박…7개월 만에 10배 폭증",
+   "summary_ko": "딥시크가 가파른 성장세를 기록하며 올해 상반기 매출이 전년 동기 대비 10배 가까이 급증했다.",
+   "category": "중요",
+   "tags": [
+    "투자"
+   ]
+  },
+  {
+   "id": "a4b3c338efd00f7b",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214495",
+   "source": "AI타임스",
+   "title": "오픈AI \"에이전트 1200개 집단 행동 확인\"…허깅페이스 해킹 전말 공개",
+   "published_at": "2026-08-27T16:17:09+00:00",
+   "collected_at": "2026-08-27T09:27:17.725897+00:00",
+   "title_ko": "오픈AI, '허깅페이스 해킹' 사고 전말 담은 최종 보고서 공개",
+   "summary_ko": "오픈AI가 외부 전문가들과 함께 허깅페이스 해킹 사건의 구체적인 침범 규모와 AI 에이전트의 집단 행동 정황을 공개했다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI"
+   ]
+  },
+  {
+   "id": "732d554d5b1536ad",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzowwo/qwen38flashnext_better_then_deepseek_v4_pro/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8-Flash-Next better then DeepSeek V4 Pro",
+   "published_at": "2026-08-27T09:17:06+00:00",
+   "collected_at": "2026-08-27T09:27:04.296410+00:00",
+   "title_ko": "큐원3.8 플래시 넥스트 모델 성능 주목",
+   "summary_ko": "개발자 커뮤니티에서 알리바바의 신규 아키텍처 모델 성능에 대한 평가와 논의가 이어지고 있다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "aeb37d2c10c28e6b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzo1m5/whats_this_apodex_thing_ama_prep/",
+   "source": "r/LocalLLaMA",
+   "title": "What's this Apodex thing? (AMA prep)",
+   "published_at": "2026-08-27T08:24:52+00:00",
+   "collected_at": "2026-08-27T09:27:04.296410+00:00",
+   "title_ko": "오픈소스 딥 리서치 하네스 'Apodex' 등장",
+   "summary_ko": "큐원 기반 파인튜닝 모델을 활용한 오픈소스 딥 리서치 도구 Apodex에 대한 개발자들의 관심이 높아지고 있다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "af1520863de6f3da",
+   "url": "https://news.hada.io/topic?id=32939",
+   "source": "GeekNews",
+   "title": "CEO가 AI를 위한 자리를 만들려고 개발자를 해고하자, 개발자들이 오픈소스 AI CEO를 만들다",
+   "published_at": "2026-08-27T07:32:03+00:00",
+   "collected_at": "2026-08-27T09:27:19.004233+00:00",
+   "title_ko": "개발자 해고에 맞선 오픈소스 AI 가상 경영진 시스템 등장",
+   "summary_ko": "CEO의 개발자 해고에 반발한 개발자들이 클로드 기반의 오픈소스 가상 경영진 에이전트 시스템을 구축해 화제다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트",
+    "Claude"
+   ]
+  },
+  {
+   "id": "aed80e9309b7c537",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzn10y/dflash_2_speculative_decoding_by_samueloliveirads/",
+   "source": "r/LocalLLaMA",
+   "title": "Dflash 2 speculative decoding by SamuelOliveirads · Pull Request #2345 · ikawrakow/ik_llama.cpp",
+   "published_at": "2026-08-27T07:23:50+00:00",
+   "collected_at": "2026-08-27T09:27:04.296410+00:00",
+   "title_ko": "llama.cpp 최신 업데이트 및 추론 최적화 적용",
+   "summary_ko": "로컬 LLM 구동을 위한 llama.cpp에 신규 모델 런타임 지원과 다양한 하드웨어 최적화 패치가 추가됐다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "93c7f0b9c602a0fb",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzmqrk/nvidia_buying_hf_isnt_a_good_thing_for_open_source/",
+   "source": "r/LocalLLaMA",
+   "title": "NVIDIA buying HF isn't a good thing for open source",
+   "published_at": "2026-08-27T07:07:00+00:00",
+   "collected_at": "2026-08-27T09:27:04.296410+00:00",
+   "title_ko": "엔비디아의 허깅페이스 인수설에 우려 표하는 개발자들",
+   "summary_ko": "엔비디아의 허깅페이스 인수 가능성이 제기되면서 오픈소스 생태계에 미칠 영향에 대한 우려의 목소리가 나오고 있다.",
+   "category": "참고",
+   "tags": [
+    "NVIDIA",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "d4d4e93e892c2716",
+   "url": "https://news.hada.io/topic?id=32937",
+   "source": "GeekNews",
+   "title": "Show GN: AIMediaWorker – Qwen3-ASR 기반 AI 자동자막/번역 동영상 플레이어",
+   "published_at": "2026-08-27T06:46:08+00:00",
+   "collected_at": "2026-08-27T09:27:19.004233+00:00",
+   "title_ko": "Qwen3-ASR 기반 AI 자동자막 플레이어 출시",
+   "summary_ko": "Qwen3 음성 인식 모델을 활용해 동영상 자막 생성과 번역을 수행하는 Windows용 오픈소스 미디어 플레이어가 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "81247968d5a9fa76",
+   "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+   "source": "TechCrunch",
+   "title": "Nvidia closes in on Hugging Face acquisition",
+   "published_at": "2026-08-27T06:32:51+00:00",
+   "collected_at": "2026-08-27T09:26:42.664538+00:00",
+   "title_ko": "NVIDIA, 허깅페이스 129억 달러 인수 임박",
+   "summary_ko": "NVIDIA가 오픈소스 AI 허브인 허깅페이스를 약 129억 달러에 인수하기 위한 협상을 진행 중입니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "오픈소스",
+    "투자"
+   ]
+  },
+  {
+   "id": "e63cff7f0fb52a67",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzktbn/feat_support_dspark_nanbeige423b_by_zqlcode_pull/",
+   "source": "r/LocalLLaMA",
+   "title": "[feat] support dspark (Nanbeige4.2-3B) by zqlcode · Pull Request #27730 · ggml-org/llama.cpp",
+   "published_at": "2026-08-27T05:17:39+00:00",
+   "collected_at": "2026-08-27T09:27:04.296410+00:00",
+   "title_ko": "llama.cpp, Nanbeige4.2-3B 모델 지원 추가",
+   "summary_ko": "로컬 LLM 구동을 위한 llama.cpp에 Nanbeige4.2-3B 모델 지원 기능이 풀 리퀘스트를 통해 추가되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "cb1fa6077ac975d5",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzjlxd/glm53_weights_will_be_released_tomorrow/",
+   "source": "r/LocalLLaMA",
+   "title": "GLM-5.3 weights will be released tomorrow",
+   "published_at": "2026-08-27T04:12:35+00:00",
+   "collected_at": "2026-08-27T09:27:04.296410+00:00",
+   "title_ko": "GLM-5.3 모델 가중치 공개 예정",
+   "summary_ko": "차세대 오픈 LLM인 GLM-5.3의 모델 가중치가 하루 뒤 공개될 예정입니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "7a8654703a5d9f9e",
+   "url": "https://news.hada.io/topic?id=32933",
+   "source": "GeekNews",
+   "title": "Nvidia, Hugging Face 19.5조원 규모 인수 협상",
+   "published_at": "2026-08-27T03:31:49+00:00",
+   "collected_at": "2026-08-27T09:27:19.004233+00:00",
+   "title_ko": "NVIDIA의 허깅페이스 19조 원 인수 협상",
+   "summary_ko": "NVIDIA가 AI 생태계의 중심인 허깅페이스 인수를 추진하며 클라우드 및 칩 사업 강화에 나섰습니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "투자"
+   ]
+  },
+  {
+   "id": "aa5afd7f6edc769d",
+   "url": "https://news.hada.io/topic?id=32932",
+   "source": "GeekNews",
+   "title": "Engineerification - 전문직이 엔지니어처럼 변해간다",
+   "published_at": "2026-08-27T02:10:02+00:00",
+   "collected_at": "2026-08-27T09:27:19.004233+00:00",
+   "title_ko": "전문직의 엔지니어화 트렌드",
+   "summary_ko": "법률, 디자인 등 다양한 전문직에서 AI 에이전트와 자동화를 활용해 업무 방식을 엔지니어링처럼 바꾸는 현상이 확산되고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "44561062a2a5c85b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzgtqf/ngram_vs_experts_explained/",
+   "source": "r/LocalLLaMA",
+   "title": "N-gram vs Experts explained",
+   "published_at": "2026-08-27T02:00:40+00:00",
+   "collected_at": "2026-08-27T09:27:04.296410+00:00",
+   "title_ko": "LLM 아키텍처의 N-gram과 MoE 비교 분석",
+   "summary_ko": "대형언어모델에서 MoE는 추론을, N-gram은 정보 회상을 담당하며 파라미터 효율성을 높이는 새로운 아키텍처 트렌드가 분석되었습니다.",
+   "category": "참고",
+   "tags": [
+    "LLM"
+   ]
+  },
+  {
+   "id": "fa7623ee1ba9108d",
+   "url": "https://github.com/SenteLabsAI/OpenExecutive",
+   "source": "Hacker News",
+   "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+   "published_at": "2026-08-27T01:46:22+00:00",
+   "collected_at": "2026-08-27T09:26:45.157806+00:00",
+   "title_ko": "개발자 해고한 CEO에 맞서 오픈소스 AI CEO 등장",
+   "summary_ko": "AI 도입을 위해 개발자를 해고한 기업에 반발하여 커뮤니티에서 오픈소스 AI CEO 프로젝트를 공개했습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "f59f9ccafb120402",
+   "url": "https://news.hada.io/topic?id=32930",
+   "source": "GeekNews",
+   "title": "AI 하네스 기업의 ARR 배수",
+   "published_at": "2026-08-27T01:36:02+00:00",
+   "collected_at": "2026-08-27T09:27:19.004233+00:00",
+   "title_ko": "버티컬 AI 하네스 기업들의 성장세",
+   "summary_ko": "법률 및 고객 경험 등 특정 도메인에서 기반 모델 위 워크플로우를 구축하는 AI 하네스 기업들이 주목받고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "53aadb45fdadbb9a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzg84e/local_llm_harness_for_reverse_engineering_software/",
+   "source": "r/LocalLLaMA",
+   "title": "Local LLM harness for reverse engineering software?",
+   "published_at": "2026-08-27T01:33:48+00:00",
+   "collected_at": "2026-08-27T09:27:04.296410+00:00",
+   "title_ko": "로컬 LLM을 활용한 소프트웨어 리버스 엔지니어링",
+   "summary_ko": "로컬에서 실행되는 대형언어모델을 이용해 바이너리 파일 분석 및 리버스 엔지니어링을 수행하는 하니스 설정에 대한 논의가 활발합니다.",
+   "category": "팁",
+   "tags": [
+    "LLM",
+    "코딩"
+   ]
+  },
+  {
+   "id": "ae585c225846268b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzfwnd/nvidia_has_been_in_talks_to_acquire_hugging_face/",
+   "source": "r/LocalLLaMA",
+   "title": "Nvidia has been in talks to acquire Hugging Face for more than $13 billion - Business Insider",
+   "published_at": "2026-08-27T01:19:24+00:00",
+   "collected_at": "2026-08-27T09:27:04.296410+00:00",
+   "title_ko": "NVIDIA, 허깅페이스 13억 달러 인수 합의",
+   "summary_ko": "NVIDIA가 오픈소스 AI 모델 저장소인 허깅페이스를 129억 달러에 인수하는 계약에 합의했습니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "오픈소스",
+    "투자"
+   ]
+  },
+  {
+   "id": "1c4a41ff618a9478",
+   "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+   "source": "Hacker News",
+   "title": "Nvidia agrees to acquire Hugging Face for $13B",
+   "published_at": "2026-08-27T01:12:55+00:00",
+   "collected_at": "2026-08-27T09:26:45.157806+00:00",
+   "title_ko": "NVIDIA, 허깅페이스 130억 달러에 인수",
+   "summary_ko": "NVIDIA가 오픈소스 AI 커뮤니티인 허깅페이스를 13억 달러 규모로 인수하는 계약을 체결했습니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "오픈소스",
+    "투자"
+   ]
+  },
+  {
+   "id": "9ce75416f94fe5eb",
+   "url": "https://news.hada.io/topic?id=32927",
+   "source": "GeekNews",
+   "title": "Corsair - AI 에이전트의 외부 서비스 연결과 권한을 관리하는 통합 레이어",
+   "published_at": "2026-08-27T00:30:02+00:00",
+   "collected_at": "2026-08-27T09:27:19.004233+00:00",
+   "title_ko": "AI 에이전트 서비스 연동 관리 도구 'Corsair MCP' 공개",
+   "summary_ko": "AI 에이전트가 외부 서비스에 안전하게 접근하고 권한을 관리할 수 있는 TypeScript 통합 레이어가 출시되었습니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "efbb92facc784737",
+   "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+   "source": "TechCrunch",
+   "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+   "published_at": "2026-08-27T00:24:57+00:00",
+   "collected_at": "2026-08-27T09:26:42.664538+00:00",
+   "title_ko": "바이럴 AI 스타트업 Instinct, 25억 달러 가치로 3억 5천만 달러 투자 유치",
+   "summary_ko": "설립된 지 1년 된 AI 스타트업 Instinct가 엄청난 화제 속에 대규모 투자 유치와 함께 개인정보 보호 우려를 낳고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "투자"
+   ]
+  },
+  {
+   "id": "63366f5f9044fc45",
+   "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
+   "source": "Simon Willison",
+   "title": "Qwen3.8-Flash-Next",
+   "published_at": "2026-08-26T23:52:58+00:00",
+   "collected_at": "2026-08-27T09:27:03.591487+00:00",
+   "title_ko": "오픈웨이트 멀티모달 MoE 모델 'Qwen3.8-Flash-Next' 공개",
+   "summary_ko": "Qwen이 Qwen4 아키텍처의 미리보기 성격을 가진 대규모 멀티모달 MoE 모델을 공개했습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "Gemini"
+   ]
+  },
+  {
+   "id": "da4c8580500b98b2",
+   "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+   "source": "TechCrunch",
+   "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+   "published_at": "2026-08-26T23:47:18+00:00",
+   "collected_at": "2026-08-27T09:26:42.664538+00:00",
+   "title_ko": "아마존, AI 수요 급증에 엔비디아 칩 주문량 3배 확대",
+   "summary_ko": "아마존이 향후 2년간 데이터센터에 엔비디아 GPU 200만 장을 추가 도입하며 파트너십을 강화합니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "반도체",
+    "투자"
+   ]
+  },
+  {
+   "id": "f91c4ebb43637856",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzdfw9/ama_announcement_apodex_thursday_8am11am_pst/",
+   "source": "r/LocalLLaMA",
+   "title": "AMA Announcement: Apodex (Thursday, 8AM-11AM PST)",
+   "published_at": "2026-08-26T23:31:35+00:00",
+   "collected_at": "2026-08-27T09:27:04.296410+00:00",
+   "title_ko": "로컬 LLM 커뮤니티 Apodex AMA 방송 안내",
+   "summary_ko": "r/LocalLLaMA 커뮤니티에서 진행하는 Apodex 관련 AMA(Ask Me Anything) 세션 안내입니다.",
+   "category": "참고",
+   "tags": []
+  },
   {
    "id": "fef3097850ce1b43",
    "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
@@ -2530,467 +2991,6 @@
    "title_ko": "IBM Granite 4.2 LLM 구조 공개",
    "summary_ko": "IBM이 새롭게 선보인 Granite 4.2 대형언어모델의 아키텍처와 구축 방식이 공개되었습니다. 오픈소스 모델 생태계 확장에 기여합니다.",
    "category": "중요",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "91e559409d12e489",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy2jz7/ibmgranitegranite4230b_hugging_face/",
-   "source": "r/LocalLLaMA",
-   "title": "ibm-granite/granite-4.2-30b · Hugging Face",
-   "published_at": "2026-08-25T15:10:57+00:00",
-   "collected_at": "2026-08-25T15:53:03.583236+00:00",
-   "title_ko": "IBM, 추론 특화 모델 'Granite-4.2-30B' 공개",
-   "summary_ko": "내장된 사고 사슬(Chain-of-Thought)과 유연한 추론 모드를 지원하는 플래그십 추론 모델 Granite-4.2-30B가 출시되었습니다. 복잡한 수학과 코딩 작업에서 뛰어난 성능을 발휘합니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "8c484befcba9c164",
-   "url": "https://www.reddit.com/r/singularity/comments/1vy2cfa/ox_alpha_more_reliable_than_intelligent/",
-   "source": "r/singularity",
-   "title": "Ox Alpha more reliable than intelligent?",
-   "published_at": "2026-08-25T15:02:57+00:00",
-   "collected_at": "2026-08-25T16:49:01.746829+00:00",
-   "title_ko": "AI 모델의 지능보다 신뢰성에 초점 맞춘 옥스 알파",
-   "summary_ko": "신규 AI 모델인 옥스 알파가 원시적인 지능 향상보다 대규모 환경에서의 신뢰성 검증에 집중하고 있다는 분석.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "49562fe346843314",
-   "url": "https://www.reddit.com/r/singularity/comments/1vy29d7/openais_new_chip_is_better_than_vera_rubin_on/",
-   "source": "r/singularity",
-   "title": "OpenAI's new chip is better than Vera rubin on benchmark",
-   "published_at": "2026-08-25T15:00:04+00:00",
-   "collected_at": "2026-08-25T16:49:01.746829+00:00",
-   "title_ko": "OpenAI 신규 칩, 벤치마크 테스트에서 우수성 입증",
-   "summary_ko": "OpenAI가 자체 개발한 차세대 AI 칩이 주요 벤치마크 테스트에서 경쟁사 제품을 상회하는 성능을 기록함.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "반도체"
-   ]
-  },
-  {
-   "id": "b0e00151fb378e4f",
-   "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
-   "source": "TechCrunch",
-   "title": "Gamma acquires Accel-backed design startup Lica",
-   "published_at": "2026-08-25T15:00:00+00:00",
-   "collected_at": "2026-08-25T15:52:58.151701+00:00",
-   "title_ko": "감마, 디자인 스타트업 Lica 인수",
-   "summary_ko": "AI 기반 문서 제작 플랫폼 감마(Gamma)가 디자인 스타트업 Lica를 인수하고 신규 연구팀에 공동 창업자들을 영입했습니다. AI 프로덕트 역량 강화로 이어질 전망입니다.",
-   "category": "중요",
-   "tags": [
-    "투자"
-   ]
-  },
-  {
-   "id": "d3004e4f91f47773",
-   "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-   "source": "Hacker News",
-   "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-   "published_at": "2026-08-25T14:48:58+00:00",
-   "collected_at": "2026-08-25T16:48:47.574048+00:00",
-   "title_ko": "스탠퍼드 연구, AI가 신입 일자리에 가장 큰 타격",
-   "summary_ko": "스탠퍼드 대학의 연구 결과 AI 도입이 화이트칼라 신입 사원의 고용 시장에 가장 큰 타격을 주고 있는 것으로 나타남.",
-   "category": "중요",
-   "tags": [
-    "규제",
-    "투자"
-   ]
-  },
-  {
-   "id": "8c2bae7dd5c872ce",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy1q1l/12_abliterated_gemma_4_12b_variants_one_base_165/",
-   "source": "r/LocalLLaMA",
-   "title": "12 abliterated Gemma 4 12B variants, one base, 165 GPU hours - Abliterlitics",
-   "published_at": "2026-08-25T14:39:42+00:00",
-   "collected_at": "2026-08-25T15:53:03.583236+00:00",
-   "title_ko": "Gemma 4 12B 언검수 버전 변종 성능 비교 분석",
-   "summary_ko": "Gemma 4 12B 모델의 다양한 언검수(abliterated) 변종들을 비교 분석한 연구 보고서입니다. 오픈소스 모델의 안전성과 성능 트레이드오프를 보여줍니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "Google"
-   ]
-  },
-  {
-   "id": "1e76641ab481d66b",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214340",
-   "source": "AI타임스",
-   "title": "중국 초저예산 애니, '옥스 알파' 밈 타고 글로벌 테크 이슈로 급부상",
-   "published_at": "2026-08-25T14:37:37+00:00",
-   "collected_at": "2026-08-25T05:39:57.031973+00:00",
-   "title_ko": "중국 저예산 애니메이션의 '옥스 알파' AI 밈 확산",
-   "summary_ko": "중국의 초저예산 애니메이션 흥행이 정체불명의 AI 모델인 '옥스 알파' 연계설과 엮이며 글로벌 테크 이슈로 부상했습니다.",
-   "category": "속보",
-   "tags": [
-    "AI",
-    "트렌드"
-   ]
-  },
-  {
-   "id": "d61399e933bf680d",
-   "url": "https://news.hada.io/topic?id=32878",
-   "source": "GeekNews",
-   "title": "Show GN: homebutler - 홈서버 관리에 필요한 걸 한 바이너리에 담고 AI까지 붙였습니다",
-   "published_at": "2026-08-25T14:30:57+00:00",
-   "collected_at": "2026-08-25T15:53:18.287593+00:00",
-   "title_ko": "AI와 MCP 기능을 탑재한 홈서버 관리 도구 'homebutler'",
-   "summary_ko": "홈서버 관리 기능과 MCP 서버를 단일 Go 바이너리에 담아 AI로 제어할 수 있게 만든 도구입니다. 실무와 개인 프로젝트 활용에 유용합니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "9493941dd2c5b932",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy1g90/intel_arc_pro_b60_dual_48g_spotted/",
-   "source": "r/LocalLLaMA",
-   "title": "Intel Arc Pro B60 Dual 48G spotted",
-   "published_at": "2026-08-25T14:29:04+00:00",
-   "collected_at": "2026-08-25T14:55:37.097071+00:00",
-   "title_ko": "인텔 아크 프로 B60 듀얼 48GB 제품 포착",
-   "summary_ko": "인텔의 새로운 듀얼 AI 가속 하드웨어가 등록되어 로컬 LLM 구동을 위한 대안으로 주목받고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "반도체",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "d1df00f6f18c79cd",
-   "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
-   "source": "TechCrunch",
-   "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-   "published_at": "2026-08-25T14:22:04+00:00",
-   "collected_at": "2026-08-25T14:55:29.004144+00:00",
-   "title_ko": "오픈에이아이의 자체 AI 칩 '할라피뇨', 벤치마크에서 뛰어난 추론 성능 입증",
-   "summary_ko": "오픈에이아이의 맞춤형 추론 칩 할라피뇨가 기존 최고 수준의 칩 대비 전력당 처리량과 사용자당 토큰 생성 수에서 우수한 성능을 기록했습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "반도체"
-   ]
-  },
-  {
-   "id": "e61f241d4e2e3b1b",
-   "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-   "source": "Hacker News",
-   "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-   "published_at": "2026-08-25T14:06:02+00:00",
-   "collected_at": "2026-08-25T18:51:20.188329+00:00",
-   "title_ko": "오픈AI 자체 AI 칩 'Jalapeño', 엔비디아 블랙웰 우위 주장",
-   "summary_ko": "오픈AI가 자체 개발 중인 AI 칩 'Jalapeño'가 엔비디아의 블랙웰 칩보다 뛰어난 성능을 보일 것이라는 소식이 전해지며 AI 반도체 시장의 경쟁 구도에 관심이 집중되고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "NVIDIA",
-    "반도체"
-   ]
-  },
-  {
-   "id": "4d61925ba6fc43cb",
-   "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
-   "source": "Hacker News",
-   "title": "Anthropic tells staff to work from home due to possible security team strike",
-   "published_at": "2026-08-25T14:00:27+00:00",
-   "collected_at": "2026-08-25T15:53:02.797921+00:00",
-   "title_ko": "앤스로픽, 보안팀 파업 우려로 직원 재택근무 권고",
-   "summary_ko": "보안팀의 잠재적 파업 가능성으로 인해 앤스로픽이 샌프란시스코 직원들에게 재택근무를 권고했습니다. 주요 AI랩의 내부 운영 상황을 보여줍니다.",
-   "category": "속보",
-   "tags": [
-    "Anthropic"
-   ]
-  },
-  {
-   "id": "33818196d37f6673",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-   "source": "The Verge",
-   "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-   "published_at": "2026-08-25T14:00:00+00:00",
-   "collected_at": "2026-08-25T14:55:29.102263+00:00",
-   "title_ko": "오픈에이아이, 고성능 AI 추론 칩 '할라피뇨' 공개",
-   "summary_ko": "오픈에이아이가 저지연과 고처리량을 동시에 만족하는 자체 AI 칩 할라피뇨를 통해 더 빠른 응답 속도를 제공한다고 밝혔습니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "반도체"
-   ]
-  },
-  {
-   "id": "96aac27e9c9456c8",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214338",
-   "source": "AI타임스",
-   "title": "한국전자통신연구원, ‘AAIF’ 가입…국내 '에이전틱 AI 글로벌 표준 선점' 지원",
-   "published_at": "2026-08-25T13:57:54+00:00",
-   "collected_at": "2026-08-25T05:39:57.879780+00:00",
-   "title_ko": "ETRI, 리눅스재단 AAIF 가입으로 에이전틱 AI 표준 선점 추진",
-   "summary_ko": "한국전자통신연구원이 에이전트형 인공지능 재단에 가입하여 에이전틱 AI 글로벌 표준 선점과 국제협력을 강화합니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "ff74cd09776e9552",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214334",
-   "source": "AI타임스",
-   "title": "엔백스, AI 교육 운영 플랫폼 ‘뮤즈’ 공식 출시",
-   "published_at": "2026-08-25T13:54:26+00:00",
-   "collected_at": "2026-08-25T05:39:57.031973+00:00",
-   "title_ko": "엔백스, 생성 AI 기반 교육 플랫폼 '뮤즈' 출시",
-   "summary_ko": "대화, 코딩, 멀티미디어 등 다양한 생성 AI를 교육 과정에 통합하여 활용할 수 있는 플랫폼 '뮤즈'가 공식 출시되었습니다.",
-   "category": "속보",
-   "tags": [
-    "AI 교육",
-    "생성AI"
-   ]
-  },
-  {
-   "id": "ccd09e6cf6d62026",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy09xv/apple_unveils_a_more_powerful_mac_mini_featuring/",
-   "source": "r/LocalLLaMA",
-   "title": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
-   "published_at": "2026-08-25T13:44:25+00:00",
-   "collected_at": "2026-08-25T14:55:37.097071+00:00",
-   "title_ko": "애플, 신경망 가속기 탑재한 M6 및 M5 Pro 맥 미니 공개",
-   "summary_ko": "새로운 맥 미니는 코어별 뉴럴 액셀러레이터와 듀얼 뉴럴 엔진을 탑재해 이전 세대보다 대폭 향상된 AI 성능을 제공합니다.",
-   "category": "속보",
-   "tags": [
-    "반도체"
-   ]
-  },
-  {
-   "id": "2be9f656d3306033",
-   "url": "https://www.reddit.com/r/singularity/comments/1vxzsxc/anthropics_best_ai_model_struggles_to_attract/",
-   "source": "r/singularity",
-   "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
-   "published_at": "2026-08-25T13:25:20+00:00",
-   "collected_at": "2026-08-25T16:49:01.746829+00:00",
-   "title_ko": "앤스로픽 최고 성능 모델, 저가형 도구 공세에 사용자 확보 난항",
-   "summary_ko": "앤스로픽의 고성능 AI 모델이 저렴한 대안 도구들의 인기에 밀려 사용자 유치에 어려움을 겪고 있음.",
-   "category": "참고",
-   "tags": [
-    "Anthropic",
-    "Claude"
-   ]
-  },
-  {
-   "id": "67d3c75a34cd3e4c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxzjps/qwen_4_architecture_what_do_we_know/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen 4 architecture: What do we know?",
-   "published_at": "2026-08-25T13:15:12+00:00",
-   "collected_at": "2026-08-25T17:39:23.339774+00:00",
-   "title_ko": "Qwen 4 아키텍처 구조 추정 및 분석",
-   "summary_ko": "오픈소스 LLM인 Qwen 4의 예상 아키텍처와 기술적 특징에 대한 개발자 커뮤니티의 분석이 공유되었습니다. 향후 고성능 오픈소스 모델의 발전 방향을 가늠하는 데 중요합니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "Qwen"
-   ]
-  },
-  {
-   "id": "a7e5f35a25c3e5db",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxzgyt/apple_releases_m5_ultra_at_12tbs_bandwith/",
-   "source": "r/LocalLLaMA",
-   "title": "Apple releases M5 ultra at 1.2TB/s bandwith",
-   "published_at": "2026-08-25T13:12:03+00:00",
-   "collected_at": "2026-08-25T13:59:45.726813+00:00",
-   "title_ko": "애플, 1.2TB/s 대역폭의 M5 울트라 칩 공개",
-   "summary_ko": "애플이 고대역폭을 지원하는 M5 울트라 칩을 발표하며 로컬 AI 연산 성능이 크게 향상될 것으로 기대됩니다.",
-   "category": "속보",
-   "tags": [
-    "Apple",
-    "반도체"
-   ]
-  },
-  {
-   "id": "2fa73751d036cd85",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxzg6v/apple_introduces_new_mac_studio_with_m5_max_and/",
-   "source": "r/LocalLLaMA",
-   "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra - up to 512GB of unified memory",
-   "published_at": "2026-08-25T13:11:09+00:00",
-   "collected_at": "2026-08-25T13:59:45.726813+00:00",
-   "title_ko": "최대 512GB 통합 메모리의 신형 맥 스튜디오 공개",
-   "summary_ko": "애플이 M5 맥스와 M5 울트라를 탑재하고 최대 512GB 통합 메모리를 지원하는 신형 맥 스튜디오를 선보였습니다.",
-   "category": "속보",
-   "tags": [
-    "Apple",
-    "반도체"
-   ]
-  },
-  {
-   "id": "ec768a5f6f58b8c6",
-   "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-   "source": "Hacker News",
-   "title": "Apple Introduces New Mac Studio with M5 Max and M5 Ultra",
-   "published_at": "2026-08-25T13:03:17+00:00",
-   "collected_at": "2026-08-25T13:59:43.826273+00:00",
-   "title_ko": "애플, M5 맥스 및 M5 울트라 탑재 맥 스튜디오 발표",
-   "summary_ko": "애플이 고성능 작업과 AI 연산에 최적화된 새로운 맥 스튜디오 라인업을 공개했습니다.",
-   "category": "속보",
-   "tags": [
-    "Apple",
-    "반도체"
-   ]
-  },
-  {
-   "id": "3d7e8f69e2238b37",
-   "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-   "source": "Hacker News",
-   "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-   "published_at": "2026-08-25T13:01:22+00:00",
-   "collected_at": "2026-08-25T13:59:43.826273+00:00",
-   "title_ko": "애플, AI 연산 성능 대폭 강화된 M6 및 M5 울트라 공개",
-   "summary_ko": "애플이 AI 연산 성능을 크게 끌어올린 M6 및 M5 울트라 프로세서를 발표하며 온디바이스 AI 역량을 강화했습니다.",
-   "category": "중요",
-   "tags": [
-    "Apple",
-    "반도체"
-   ]
-  },
-  {
-   "id": "a4b9e6e36db13ab5",
-   "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
-   "source": "TechCrunch",
-   "title": "Accel-backed Keenable is indexing the web for AI agents",
-   "published_at": "2026-08-25T13:00:00+00:00",
-   "collected_at": "2026-08-25T13:59:41.528530+00:00",
-   "title_ko": "AI 에이전트용 웹 색인 플랫폼 키네이블, 2,600만 달러 투자 유치",
-   "summary_ko": "스텔스 모드를 벗어난 키네이블이 AI 에이전트를 위한 대규모 웹 검색 색인 구축에 나서며 시드 투자금을 확보했습니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "투자"
-   ]
-  },
-  {
-   "id": "ef17614b42a2f75a",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxytg2/should_if_use_pi/",
-   "source": "r/LocalLLaMA",
-   "title": "Should if use Pi ?",
-   "published_at": "2026-08-25T12:44:35+00:00",
-   "collected_at": "2026-08-25T13:04:24.003670+00:00",
-   "title_ko": "토큰 절약을 위한 Claude Code 대신 Pi 사용 경험 공유",
-   "summary_ko": "클로드 코드(Claude Code) 대신 Pi를 사용하여 토큰을 절약하는 방법에 대한 사용자 경험 공유 요청 글입니다. AI 코딩 도구 최적화와 관련된 실무적 관심을 반영합니다.",
-   "category": "팁",
-   "tags": [
-    "AI 코딩",
-    "Claude"
-   ]
-  },
-  {
-   "id": "22b21fdfaf665230",
-   "url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/",
-   "source": "Hacker News",
-   "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
-   "published_at": "2026-08-25T12:33:00+00:00",
-   "collected_at": "2026-08-25T14:55:36.168070+00:00",
-   "title_ko": "오픈에이아이, ChatGPT 플러스 이용자 대상 코덱스 및 업무 제한 복원",
-   "summary_ko": "오픈에이아이가 유료 구독자를 위한 서비스 이용 제한을 원래대로 복원했습니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "GPT"
-   ]
-  },
-  {
-   "id": "123a1997e3037346",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxybmy/qwen_38_flash_next_day_0_support_from_unsloth/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen 3.8 Flash Next day 0 support from unsloth",
-   "published_at": "2026-08-25T12:23:11+00:00",
-   "collected_at": "2026-08-25T13:04:24.003670+00:00",
-   "title_ko": "Unsloth의 Qwen 3.8 Flash Next 지원 소식",
-   "summary_ko": "Unsloth가 Qwen 3.8 Flash Next 모델을 즉각 지원하기 시작했습니다. 오픈소스 LLM 파인튜닝과 빠른 대응을 보여줍니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "파인튜닝"
-   ]
-  },
-  {
-   "id": "2e53f3d9af1ba282",
-   "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
-   "source": "TechCrunch",
-   "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
-   "published_at": "2026-08-25T12:00:00+00:00",
-   "collected_at": "2026-08-25T13:04:15.775411+00:00",
-   "title_ko": "OpenAI 제품 책임자 Thibault Sottiaux 인터뷰",
-   "summary_ko": "OpenAI의 제품 총괄이 AI 에이전트와 사용자 경험(UX)의 미래에 대해 언급했습니다. 향후 AI 제품 방향성을 파악하는 데 중요합니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "041b97a09ff0e580",
-   "url": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next",
-   "source": "Hacker News",
-   "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
-   "published_at": "2026-08-25T11:49:43+00:00",
-   "collected_at": "2026-08-25T14:55:31.540590+00:00",
-   "title_ko": "알리바바, 신규 모델 'Qwen 3.8-Flash-Next' 출시 예정",
-   "summary_ko": "알리바바의 새로운 대형 언어 모델 Qwen 시리즈의 신제품이 공개를 앞두고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "f6b26e55a4899220",
-   "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-   "source": "Hugging Face",
-   "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-   "published_at": "2026-08-25T11:39:24+00:00",
-   "collected_at": "2026-08-25T13:04:17.619412+00:00",
-   "title_ko": "원본을 뛰어넘는 4비트 양자화 모델 'Quantization-Aware Healing'",
-   "summary_ko": "압축된 4비트 양자화 모델이 풀프리시전 원본 모델의 성능을 능가하는 연구 결과입니다. 모델 효율성 향상에 중요한 기여를 합니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "800ef3578d128aa0",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxxa9x/new_llamacpp_adaptive_speculation_for_faster/",
-   "source": "r/LocalLLaMA",
-   "title": "New: Llama.cpp adaptive speculation for faster inference",
-   "published_at": "2026-08-25T11:35:40+00:00",
-   "collected_at": "2026-08-25T13:04:24.003670+00:00",
-   "title_ko": "Llama.cpp, 추론 속도 향상을 위한 적응형 추론 기능 도입",
-   "summary_ko": "Llama.cpp에 토큰 생성 속도를 최대 50%까지 향상시키는 적응형 추론(adaptive speculation) 기능이 추가되었습니다. 로컬 LLM 성능 최적화에 큰 도움이 됩니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "Llama"
-   ]
-  },
-  {
-   "id": "6f0feab6f75e08b7",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxwu4g/qwen38_flash_next/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.8 flash next",
-   "published_at": "2026-08-25T11:13:41+00:00",
-   "collected_at": "2026-08-25T11:36:37.699973+00:00",
-   "title_ko": "Qwen 3.8 Flash Next 모델 관련 논의",
-   "summary_ko": "새롭게 언급된 Qwen 3.8 Flash Next 모델에 대한 커뮤니티의 기대와 관심이 높아지고 있습니다.",
-   "category": "참고",
    "tags": [
     "오픈소스",
     "LLM"

@@ -1,5 +1,333 @@
 [
  {
+  "id": "732d554d5b1536ad",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzowwo/qwen38flashnext_better_then_deepseek_v4_pro/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-Flash-Next better then DeepSeek V4 Pro",
+  "published_at": "2026-08-27T09:17:06+00:00",
+  "collected_at": "2026-08-27T09:27:04.296410+00:00",
+  "title_ko": "큐원3.8 플래시 넥스트 모델 성능 주목",
+  "summary_ko": "개발자 커뮤니티에서 알리바바의 신규 아키텍처 모델 성능에 대한 평가와 논의가 이어지고 있다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "aeb37d2c10c28e6b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzo1m5/whats_this_apodex_thing_ama_prep/",
+  "source": "r/LocalLLaMA",
+  "title": "What's this Apodex thing? (AMA prep)",
+  "published_at": "2026-08-27T08:24:52+00:00",
+  "collected_at": "2026-08-27T09:27:04.296410+00:00",
+  "title_ko": "오픈소스 딥 리서치 하네스 'Apodex' 등장",
+  "summary_ko": "큐원 기반 파인튜닝 모델을 활용한 오픈소스 딥 리서치 도구 Apodex에 대한 개발자들의 관심이 높아지고 있다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "af1520863de6f3da",
+  "url": "https://news.hada.io/topic?id=32939",
+  "source": "GeekNews",
+  "title": "CEO가 AI를 위한 자리를 만들려고 개발자를 해고하자, 개발자들이 오픈소스 AI CEO를 만들다",
+  "published_at": "2026-08-27T07:32:03+00:00",
+  "collected_at": "2026-08-27T09:27:19.004233+00:00",
+  "title_ko": "개발자 해고에 맞선 오픈소스 AI 가상 경영진 시스템 등장",
+  "summary_ko": "CEO의 개발자 해고에 반발한 개발자들이 클로드 기반의 오픈소스 가상 경영진 에이전트 시스템을 구축해 화제다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트",
+   "Claude"
+  ]
+ },
+ {
+  "id": "aed80e9309b7c537",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzn10y/dflash_2_speculative_decoding_by_samueloliveirads/",
+  "source": "r/LocalLLaMA",
+  "title": "Dflash 2 speculative decoding by SamuelOliveirads · Pull Request #2345 · ikawrakow/ik_llama.cpp",
+  "published_at": "2026-08-27T07:23:50+00:00",
+  "collected_at": "2026-08-27T09:27:04.296410+00:00",
+  "title_ko": "llama.cpp 최신 업데이트 및 추론 최적화 적용",
+  "summary_ko": "로컬 LLM 구동을 위한 llama.cpp에 신규 모델 런타임 지원과 다양한 하드웨어 최적화 패치가 추가됐다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "93c7f0b9c602a0fb",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzmqrk/nvidia_buying_hf_isnt_a_good_thing_for_open_source/",
+  "source": "r/LocalLLaMA",
+  "title": "NVIDIA buying HF isn't a good thing for open source",
+  "published_at": "2026-08-27T07:07:00+00:00",
+  "collected_at": "2026-08-27T09:27:04.296410+00:00",
+  "title_ko": "엔비디아의 허깅페이스 인수설에 우려 표하는 개발자들",
+  "summary_ko": "엔비디아의 허깅페이스 인수 가능성이 제기되면서 오픈소스 생태계에 미칠 영향에 대한 우려의 목소리가 나오고 있다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "d4d4e93e892c2716",
+  "url": "https://news.hada.io/topic?id=32937",
+  "source": "GeekNews",
+  "title": "Show GN: AIMediaWorker – Qwen3-ASR 기반 AI 자동자막/번역 동영상 플레이어",
+  "published_at": "2026-08-27T06:46:08+00:00",
+  "collected_at": "2026-08-27T09:27:19.004233+00:00",
+  "title_ko": "Qwen3-ASR 기반 AI 자동자막 플레이어 출시",
+  "summary_ko": "Qwen3 음성 인식 모델을 활용해 동영상 자막 생성과 번역을 수행하는 Windows용 오픈소스 미디어 플레이어가 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "81247968d5a9fa76",
+  "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+  "source": "TechCrunch",
+  "title": "Nvidia closes in on Hugging Face acquisition",
+  "published_at": "2026-08-27T06:32:51+00:00",
+  "collected_at": "2026-08-27T09:26:42.664538+00:00",
+  "title_ko": "NVIDIA, 허깅페이스 129억 달러 인수 임박",
+  "summary_ko": "NVIDIA가 오픈소스 AI 허브인 허깅페이스를 약 129억 달러에 인수하기 위한 협상을 진행 중입니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "오픈소스",
+   "투자"
+  ]
+ },
+ {
+  "id": "e63cff7f0fb52a67",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzktbn/feat_support_dspark_nanbeige423b_by_zqlcode_pull/",
+  "source": "r/LocalLLaMA",
+  "title": "[feat] support dspark (Nanbeige4.2-3B) by zqlcode · Pull Request #27730 · ggml-org/llama.cpp",
+  "published_at": "2026-08-27T05:17:39+00:00",
+  "collected_at": "2026-08-27T09:27:04.296410+00:00",
+  "title_ko": "llama.cpp, Nanbeige4.2-3B 모델 지원 추가",
+  "summary_ko": "로컬 LLM 구동을 위한 llama.cpp에 Nanbeige4.2-3B 모델 지원 기능이 풀 리퀘스트를 통해 추가되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "cb1fa6077ac975d5",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzjlxd/glm53_weights_will_be_released_tomorrow/",
+  "source": "r/LocalLLaMA",
+  "title": "GLM-5.3 weights will be released tomorrow",
+  "published_at": "2026-08-27T04:12:35+00:00",
+  "collected_at": "2026-08-27T09:27:04.296410+00:00",
+  "title_ko": "GLM-5.3 모델 가중치 공개 예정",
+  "summary_ko": "차세대 오픈 LLM인 GLM-5.3의 모델 가중치가 하루 뒤 공개될 예정입니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "7a8654703a5d9f9e",
+  "url": "https://news.hada.io/topic?id=32933",
+  "source": "GeekNews",
+  "title": "Nvidia, Hugging Face 19.5조원 규모 인수 협상",
+  "published_at": "2026-08-27T03:31:49+00:00",
+  "collected_at": "2026-08-27T09:27:19.004233+00:00",
+  "title_ko": "NVIDIA의 허깅페이스 19조 원 인수 협상",
+  "summary_ko": "NVIDIA가 AI 생태계의 중심인 허깅페이스 인수를 추진하며 클라우드 및 칩 사업 강화에 나섰습니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "투자"
+  ]
+ },
+ {
+  "id": "aa5afd7f6edc769d",
+  "url": "https://news.hada.io/topic?id=32932",
+  "source": "GeekNews",
+  "title": "Engineerification - 전문직이 엔지니어처럼 변해간다",
+  "published_at": "2026-08-27T02:10:02+00:00",
+  "collected_at": "2026-08-27T09:27:19.004233+00:00",
+  "title_ko": "전문직의 엔지니어화 트렌드",
+  "summary_ko": "법률, 디자인 등 다양한 전문직에서 AI 에이전트와 자동화를 활용해 업무 방식을 엔지니어링처럼 바꾸는 현상이 확산되고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "44561062a2a5c85b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzgtqf/ngram_vs_experts_explained/",
+  "source": "r/LocalLLaMA",
+  "title": "N-gram vs Experts explained",
+  "published_at": "2026-08-27T02:00:40+00:00",
+  "collected_at": "2026-08-27T09:27:04.296410+00:00",
+  "title_ko": "LLM 아키텍처의 N-gram과 MoE 비교 분석",
+  "summary_ko": "대형언어모델에서 MoE는 추론을, N-gram은 정보 회상을 담당하며 파라미터 효율성을 높이는 새로운 아키텍처 트렌드가 분석되었습니다.",
+  "category": "참고",
+  "tags": [
+   "LLM"
+  ]
+ },
+ {
+  "id": "fa7623ee1ba9108d",
+  "url": "https://github.com/SenteLabsAI/OpenExecutive",
+  "source": "Hacker News",
+  "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+  "published_at": "2026-08-27T01:46:22+00:00",
+  "collected_at": "2026-08-27T09:26:45.157806+00:00",
+  "title_ko": "개발자 해고한 CEO에 맞서 오픈소스 AI CEO 등장",
+  "summary_ko": "AI 도입을 위해 개발자를 해고한 기업에 반발하여 커뮤니티에서 오픈소스 AI CEO 프로젝트를 공개했습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "f59f9ccafb120402",
+  "url": "https://news.hada.io/topic?id=32930",
+  "source": "GeekNews",
+  "title": "AI 하네스 기업의 ARR 배수",
+  "published_at": "2026-08-27T01:36:02+00:00",
+  "collected_at": "2026-08-27T09:27:19.004233+00:00",
+  "title_ko": "버티컬 AI 하네스 기업들의 성장세",
+  "summary_ko": "법률 및 고객 경험 등 특정 도메인에서 기반 모델 위 워크플로우를 구축하는 AI 하네스 기업들이 주목받고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "53aadb45fdadbb9a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzg84e/local_llm_harness_for_reverse_engineering_software/",
+  "source": "r/LocalLLaMA",
+  "title": "Local LLM harness for reverse engineering software?",
+  "published_at": "2026-08-27T01:33:48+00:00",
+  "collected_at": "2026-08-27T09:27:04.296410+00:00",
+  "title_ko": "로컬 LLM을 활용한 소프트웨어 리버스 엔지니어링",
+  "summary_ko": "로컬에서 실행되는 대형언어모델을 이용해 바이너리 파일 분석 및 리버스 엔지니어링을 수행하는 하니스 설정에 대한 논의가 활발합니다.",
+  "category": "팁",
+  "tags": [
+   "LLM",
+   "코딩"
+  ]
+ },
+ {
+  "id": "ae585c225846268b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzfwnd/nvidia_has_been_in_talks_to_acquire_hugging_face/",
+  "source": "r/LocalLLaMA",
+  "title": "Nvidia has been in talks to acquire Hugging Face for more than $13 billion - Business Insider",
+  "published_at": "2026-08-27T01:19:24+00:00",
+  "collected_at": "2026-08-27T09:27:04.296410+00:00",
+  "title_ko": "NVIDIA, 허깅페이스 13억 달러 인수 합의",
+  "summary_ko": "NVIDIA가 오픈소스 AI 모델 저장소인 허깅페이스를 129억 달러에 인수하는 계약에 합의했습니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "오픈소스",
+   "투자"
+  ]
+ },
+ {
+  "id": "1c4a41ff618a9478",
+  "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+  "source": "Hacker News",
+  "title": "Nvidia agrees to acquire Hugging Face for $13B",
+  "published_at": "2026-08-27T01:12:55+00:00",
+  "collected_at": "2026-08-27T09:26:45.157806+00:00",
+  "title_ko": "NVIDIA, 허깅페이스 130억 달러에 인수",
+  "summary_ko": "NVIDIA가 오픈소스 AI 커뮤니티인 허깅페이스를 13억 달러 규모로 인수하는 계약을 체결했습니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "오픈소스",
+   "투자"
+  ]
+ },
+ {
+  "id": "9ce75416f94fe5eb",
+  "url": "https://news.hada.io/topic?id=32927",
+  "source": "GeekNews",
+  "title": "Corsair - AI 에이전트의 외부 서비스 연결과 권한을 관리하는 통합 레이어",
+  "published_at": "2026-08-27T00:30:02+00:00",
+  "collected_at": "2026-08-27T09:27:19.004233+00:00",
+  "title_ko": "AI 에이전트 서비스 연동 관리 도구 'Corsair MCP' 공개",
+  "summary_ko": "AI 에이전트가 외부 서비스에 안전하게 접근하고 권한을 관리할 수 있는 TypeScript 통합 레이어가 출시되었습니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "efbb92facc784737",
+  "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+  "source": "TechCrunch",
+  "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+  "published_at": "2026-08-27T00:24:57+00:00",
+  "collected_at": "2026-08-27T09:26:42.664538+00:00",
+  "title_ko": "바이럴 AI 스타트업 Instinct, 25억 달러 가치로 3억 5천만 달러 투자 유치",
+  "summary_ko": "설립된 지 1년 된 AI 스타트업 Instinct가 엄청난 화제 속에 대규모 투자 유치와 함께 개인정보 보호 우려를 낳고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "투자"
+  ]
+ },
+ {
+  "id": "63366f5f9044fc45",
+  "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
+  "source": "Simon Willison",
+  "title": "Qwen3.8-Flash-Next",
+  "published_at": "2026-08-26T23:52:58+00:00",
+  "collected_at": "2026-08-27T09:27:03.591487+00:00",
+  "title_ko": "오픈웨이트 멀티모달 MoE 모델 'Qwen3.8-Flash-Next' 공개",
+  "summary_ko": "Qwen이 Qwen4 아키텍처의 미리보기 성격을 가진 대규모 멀티모달 MoE 모델을 공개했습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "Gemini"
+  ]
+ },
+ {
+  "id": "da4c8580500b98b2",
+  "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+  "source": "TechCrunch",
+  "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+  "published_at": "2026-08-26T23:47:18+00:00",
+  "collected_at": "2026-08-27T09:26:42.664538+00:00",
+  "title_ko": "아마존, AI 수요 급증에 엔비디아 칩 주문량 3배 확대",
+  "summary_ko": "아마존이 향후 2년간 데이터센터에 엔비디아 GPU 200만 장을 추가 도입하며 파트너십을 강화합니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "반도체",
+   "투자"
+  ]
+ },
+ {
+  "id": "f91c4ebb43637856",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzdfw9/ama_announcement_apodex_thursday_8am11am_pst/",
+  "source": "r/LocalLLaMA",
+  "title": "AMA Announcement: Apodex (Thursday, 8AM-11AM PST)",
+  "published_at": "2026-08-26T23:31:35+00:00",
+  "collected_at": "2026-08-27T09:27:04.296410+00:00",
+  "title_ko": "로컬 LLM 커뮤니티 Apodex AMA 방송 안내",
+  "summary_ko": "r/LocalLLaMA 커뮤니티에서 진행하는 Apodex 관련 AMA(Ask Me Anything) 세션 안내입니다.",
+  "category": "참고",
+  "tags": []
+ },
+ {
   "id": "fef3097850ce1b43",
   "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
   "source": "The Verge",
