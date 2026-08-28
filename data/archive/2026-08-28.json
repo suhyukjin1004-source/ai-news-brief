@@ -1,5 +1,19 @@
 [
  {
+  "id": "84109ba71cb263e8",
+  "url": "https://news.hada.io/topic?id=32977",
+  "source": "GeekNews",
+  "title": "블랙박스 LLM의 크기를 재는 법",
+  "published_at": "2026-08-28T14:16:39+00:00",
+  "collected_at": "2026-08-28T18:33:40.806926+00:00",
+  "title_ko": "블랙박스 LLM의 모델 크기 추정 방법",
+  "summary_ko": "모델이 학습한 희귀한 사실을 활용해 비공개 LLM의 대략적인 파라미터 규모를 추정하는 연구입니다. 모델의 내부 정보를 유추하는 흥미로운 접근을 제시합니다.",
+  "category": "참고",
+  "tags": [
+   "LLM"
+  ]
+ },
+ {
   "id": "dcdfcd76bad7fe04",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214545",
   "source": "AI타임스",
@@ -26,6 +40,21 @@
   "summary_ko": "오케스트로가 사내 AI 경진대회를 통해 법인카드 결산 자동화 등 현업 문제를 해결한 AI 혁신 과제들을 공개했다.",
   "category": "참고",
   "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "c6ee74f624cb5d9f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0r66e/how_to_setup_llamacpp_and_blender_to_make_lovely/",
+  "source": "r/LocalLLaMA",
+  "title": "how to setup llama.cpp and blender to make lovely 3d stuff together",
+  "published_at": "2026-08-28T13:51:19+00:00",
+  "collected_at": "2026-08-28T18:33:26.544278+00:00",
+  "title_ko": "llama.cpp와 Blender를 연동한 3D AI 작업 팁",
+  "summary_ko": "로컬 LLM 구동 도구인 llama.cpp와 3D 그래픽 툴인 Blender를 Model Context Protocol(MCP)을 통해 연동하는 방법입니다. 실무에서 AI를 활용해 3D 작업을 자동화하는 팁을 제공합니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
    "AI 에이전트"
   ]
  },
@@ -62,6 +91,36 @@
   ]
  },
  {
+  "id": "3aa44be8a3843e76",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0pscn/qwen3827b_q8_kv_cache_does_seem_to_actually_hurt/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-27b q8 KV cache does seem to actually hurt model performance",
+  "published_at": "2026-08-28T12:54:01+00:00",
+  "collected_at": "2026-08-28T18:33:26.544278+00:00",
+  "title_ko": "Qwen3.8-27b Q8 KV 캐시 성능 저하 현상 분석",
+  "summary_ko": "일부 백엔드에서 KV 캐시를 쓰기 시점에 양자화할 때 모델 성능 저하가 발생한다는 실험 결과와 원인 분석.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "d62db5e9a1ea4a6d",
+  "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+  "source": "TechCrunch",
+  "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+  "published_at": "2026-08-28T12:46:12+00:00",
+  "collected_at": "2026-08-28T18:33:20.580314+00:00",
+  "title_ko": "법원, 펜타곤의 앤스로픽 공급망 위험 지정에 제동",
+  "summary_ko": "연방 판사가 트럼프 행정부의 앤스로픽 공급망 위험 지정이 위법하다고 판결하며 AI 기업의 손을 들어줌.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "규제"
+  ]
+ },
+ {
   "id": "45ec53ae2ebec063",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214543",
   "source": "AI타임스",
@@ -73,6 +132,36 @@
   "category": "참고",
   "tags": [
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "e6d59a56613c44f0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0p5ho/after_meta_avocado_we_get_watermelon_due_in/",
+  "source": "r/LocalLLaMA",
+  "title": "After Meta avocado we get watermelon, due in November",
+  "published_at": "2026-08-28T12:25:28+00:00",
+  "collected_at": "2026-08-28T18:33:26.544278+00:00",
+  "title_ko": "메타, 차세대 AI 모델 '워터멜론' 개발 진행 중",
+  "summary_ko": "메타가 앤스로픽의 최고급 모델 수준을 목표로 하는 차세대 AI 모델 '워터멜론'을 개발 중이며 일정이 지연되고 있음.",
+  "category": "중요",
+  "tags": [
+   "Meta",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "b8d3f0cb5de26b4c",
+  "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+  "source": "TechCrunch",
+  "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+  "published_at": "2026-08-28T12:21:06+00:00",
+  "collected_at": "2026-08-28T18:33:20.580314+00:00",
+  "title_ko": "메타 임원 산디아 데바나탄, OpenAI로 이직",
+  "summary_ko": "메타의 인도 및 동남아시아 고위 임원이 OpenAI로 합류해 동남아·호주 지역 운영을 총괄할 예정.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "Meta"
   ]
  },
  {
@@ -92,6 +181,21 @@
   ]
  },
  {
+  "id": "a8673fb7f14838d5",
+  "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
+  "source": "Hacker News",
+  "title": "Migrating to HTTPX2",
+  "published_at": "2026-08-28T11:51:20+00:00",
+  "collected_at": "2026-08-28T18:33:24.503087+00:00",
+  "title_ko": "OpenAI 파이썬 SDK, HTTPX2 마이그레이션 가이드 공개",
+  "summary_ko": "OpenAI 파이썬 라이브러리에서 최신 HTTPX2로 전환하기 위한 가이드라인이 공개됨.",
+  "category": "팁",
+  "tags": [
+   "OpenAI",
+   "코딩"
+  ]
+ },
+ {
   "id": "c58a784a693ed301",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214540",
   "source": "AI타임스",
@@ -102,6 +206,21 @@
   "summary_ko": "비아임이 음성 인식과 실시간 번역, 회의 요약 기능을 갖춘 AI 하드웨어 제품군을 국내에 선보이며 생산성 생태계 구축에 나선다.",
   "category": "참고",
   "tags": []
+ },
+ {
+  "id": "ccad920655687165",
+  "url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/",
+  "source": "Hacker News",
+  "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
+  "published_at": "2026-08-28T11:25:30+00:00",
+  "collected_at": "2026-08-28T18:33:25.387739+00:00",
+  "title_ko": "법원, 펜타곤의 앤스로픽 블랙리스트 지정은 위법 판결",
+  "summary_ko": "미 연방 법원이 국방부의 앤스로픽 블랙리스트 지정이 위헌이자 위법이라고 판결함.",
+  "category": "속보",
+  "tags": [
+   "Anthropic",
+   "규제"
+  ]
  },
  {
   "id": "517636fb988a0316",
@@ -115,6 +234,21 @@
   "category": "중요",
   "tags": [
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "7948a4241e660cf3",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0na2z/qwen38flashnext_udiq4_xs_on_2x_rtx_3060_7800x3d/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-Flash-Next (UD-IQ4_XS) on 2x RTX 3060 + 7800X3D, from initial 36 tps prefill to 400 tps and other benchmarks (-sm tensor trap) + VRAM/RAM usage",
+  "published_at": "2026-08-28T10:55:24+00:00",
+  "collected_at": "2026-08-28T18:33:26.544278+00:00",
+  "title_ko": "Qwen3.8-Flash-Next 로컬 구동 벤치마크 및 최적화 팁",
+  "summary_ko": "듀얼 RTX 3060 환경에서 llama.cpp 설정을 조정해 프리필 및 디코딩 속도를 극대화한 실무 벤치마크.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
   ]
  },
  {
@@ -146,6 +280,21 @@
   "tags": [
    "오픈소스",
    "반도체"
+  ]
+ },
+ {
+  "id": "4d15ac0470f2055e",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+  "source": "The Verge",
+  "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+  "published_at": "2026-08-28T03:14:06+00:00",
+  "collected_at": "2026-08-28T18:33:20.780514+00:00",
+  "title_ko": "법원, 트럼프 행정부의 앤스로픽 블랙리스트 지정 위법 판결",
+  "summary_ko": "펜타곤이 앤스로픽을 부당하게 블랙리스트에 올렸다는 법원 판결로 AI 기업이 규제 소송에서 승소함.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "규제"
   ]
  },
  {
@@ -192,6 +341,21 @@
   "tags": [
    "Anthropic",
    "규제"
+  ]
+ },
+ {
+  "id": "0b00c80d502cc3ab",
+  "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+  "source": "OpenAI",
+  "title": "Supporting Thailand’s next generation of AI startups",
+  "published_at": "2026-08-28T02:00:00+00:00",
+  "collected_at": "2026-08-28T18:33:22.003142+00:00",
+  "title_ko": "OpenAI, 태국 정부와 AI 스타트업 육성 프로그램 출범",
+  "summary_ko": "OpenAI가 태국 고등교육과학연구혁신부와 손잡고 의료·교육 등 분야의 AI 스타트업 액셀러레이터를 시작함.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "투자"
   ]
  },
  {
