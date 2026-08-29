@@ -46,6 +46,38 @@
   ]
  },
  {
+  "id": "42e64e323f38b4e2",
+  "url": "https://news.hada.io/topic?id=33015",
+  "source": "GeekNews",
+  "title": "LLM 메모리를 만들다 우연히 프로그램 분석 엔진이 된 이야기",
+  "published_at": "2026-08-29T19:39:01+00:00",
+  "collected_at": "2026-08-29T21:40:23.672390+00:00",
+  "title_ko": "LLM 메모리 구조를 활용한 Datalog 분석 엔진 개발",
+  "summary_ko": "LLM의 출력을 구조화된 사실로 변환하고 유효한 분석 상태를 유지하는 Datalog 엔진 Lemmalog가 개발되어 장기 취약점 분석의 효율성을 높였습니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "5aa99e9fc09cefb8",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1vbal/qwen3827b_thinking_xhigh_vs_thinking_off_apple_m5/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-27B thinking xhigh Vs. thinking off - Apple M5 Max",
+  "published_at": "2026-08-29T19:17:02+00:00",
+  "collected_at": "2026-08-29T21:40:08.954519+00:00",
+  "title_ko": "Qwen3.8-27B 추론(Thinking) 기능 유무에 따른 성능 비교",
+  "summary_ko": "Qwen3.8-27B 모델에서 추론 기능을 끄면 토큰 소비와 처리 시간이 크게 줄어들지만, 출력 품질 면에서 MoE 모델 등에 비해 뒤처질 수 있음이 확인되었습니다.",
+  "category": "참고",
+  "tags": [
+   "Qwen",
+   "LLM",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "c784c34e1c35dada",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214604",
   "source": "AI타임스",
@@ -62,6 +94,83 @@
   ]
  },
  {
+  "id": "e234b6272f99b352",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1uug2/6784_ts_deepseek_flash_v4_off_2x_gx10s/",
+  "source": "r/LocalLLaMA",
+  "title": "67-84 t/s DeepSeek flash v4 off 2x GX10s",
+  "published_at": "2026-08-29T18:59:15+00:00",
+  "collected_at": "2026-08-29T21:40:08.954519+00:00",
+  "title_ko": "듀얼 GX10 환경에서 구동하는 DeepSeek 플래시 추론",
+  "summary_ko": "듀얼 GX10 하드웨어 환경에서 DeepSeek 플래시 모델을 활용해 초당 65토큰 이상의 지속적인 추론 속도를 달성했습니다.",
+  "category": "팁",
+  "tags": [
+   "DeepSeek",
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "e46b21911e53eed4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1uu6d/llamacpp_open_prs_list_cpuramdiskhybrid_related/",
+  "source": "r/LocalLLaMA",
+  "title": "llama.cpp Open PRs list - CPU/RAM/Disk/Hybrid Related - Better for CPU-only & Hybrid inference",
+  "published_at": "2026-08-29T18:58:58+00:00",
+  "collected_at": "2026-08-29T21:40:08.954519+00:00",
+  "title_ko": "llama.cpp CPU 및 하이브리드 추론 성능 개선 진행 상황",
+  "summary_ko": "llama.cpp에서 CPU 및 하이브리드 환경의 추론 속도를 높이기 위한 MoE 캐시, AVX-512 최적화 등 다양한 오픈소스 PR이 진행 중입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "4d9cf7893a2e0f3b",
+  "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+  "source": "TechCrunch",
+  "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+  "published_at": "2026-08-29T18:41:59+00:00",
+  "collected_at": "2026-08-29T21:39:58.095123+00:00",
+  "title_ko": "소니 뮤직과 워너, 앤스로픽을 상대로 저작권 침해 소송 제기",
+  "summary_ko": "소니 뮤직과 워너가 앤스로픽을 상대로 대규모 무단 저작물 사용 및 불법 해킹 혐의로 소송을 제기하여 AI 업계의 저작권 논란이 심화되고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "규제"
+  ]
+ },
+ {
+  "id": "3446adbcd78b4799",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1txyk/ninfer_fork_i_wanted_to_have_a_1m_context_qwen38/",
+  "source": "r/LocalLLaMA",
+  "title": "(NInfer Fork) I wanted to have a 1M context Qwen-3.8 27B, tp2, dual 5090s",
+  "published_at": "2026-08-29T18:24:17+00:00",
+  "collected_at": "2026-08-29T21:40:08.954519+00:00",
+  "title_ko": "듀얼 RTX 5090 환경에서 1M 컨텍스트 지원 Qwen 커스텀 추론 엔진 포크",
+  "summary_ko": "NInfer 엔진을 포크하여 듀얼 5090 환경에서 Qwen 모델의 100만 토큰 컨텍스트와 텐서 병렬 처리를 구현해 vLLM 대비 압도적인 성능을 기록했습니다.",
+  "category": "팁",
+  "tags": [
+   "Qwen",
+   "NVIDIA",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "734058f6b7eb8906",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+  "source": "The Verge",
+  "title": "Sony Music and Warner Chappell are suing Anthropic",
+  "published_at": "2026-08-29T18:19:53+00:00",
+  "collected_at": "2026-08-29T21:39:58.252162+00:00",
+  "title_ko": "소니 뮤직·워너, 저작권 침해로 앤스로픽 피소",
+  "summary_ko": "소니 뮤직과 워너 채플이 캘리포니아 법원에 앤스로픽을 상대로 수만 건의 저작물 무단 사용에 대한 손해배상을 청구하는 소송을 제기했습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "규제"
+  ]
+ },
+ {
   "id": "fa438d4d78578fcb",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214585",
   "source": "AI타임스",
@@ -73,6 +182,21 @@
   "category": "참고",
   "tags": [
    "규제",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "8ccabc81377acc05",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1tfkc/this_financemodel_benchmark_card_is_more_useful/",
+  "source": "r/LocalLLaMA",
+  "title": "This finance-model benchmark card is more useful for what it discloses than for who \"wins\"",
+  "published_at": "2026-08-29T18:04:08+00:00",
+  "collected_at": "2026-08-29T21:40:08.954519+00:00",
+  "title_ko": "금융 AI 모델 벤치마크 공개와 평가 환경의 중요성",
+  "summary_ko": "금융 AI 모델 벤치마크 카드를 통해 단순 모델 성능뿐만 아니라 프롬프트 설정, 검색 도구, 에이전트 스캐폴드 등 테스트 환경 전체가 결과에 큰 영향을 미침을 보여줍니다.",
+  "category": "참고",
+  "tags": [
+   "Claude",
    "AI 에이전트"
   ]
  },
@@ -105,6 +229,22 @@
    "투자",
    "바이오",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "2539b2a1ce534bd4",
+  "url": "https://news.hada.io/topic?id=33010",
+  "source": "GeekNews",
+  "title": "Debian, 생성형 AI의 ‘책임 있는 사용’을 허용하기로 결정",
+  "published_at": "2026-08-29T17:33:49+00:00",
+  "collected_at": "2026-08-29T21:40:23.672390+00:00",
+  "title_ko": "데비안, 생성형 AI의 '책임 있는 사용' 허용 결정",
+  "summary_ko": "데비안이 소프트웨어 개발과 문서화 등에서 생성형 AI의 책임 있는 활용을 허용하는 일반결의를 채택했습니다. 오픈소스 진영에서 AI 도구 도입에 대한 유연한 입장을 보여주는 사례입니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "개발"
   ]
  },
  {
@@ -151,6 +291,22 @@
   "tags": [
    "오픈소스",
    "반도체"
+  ]
+ },
+ {
+  "id": "6a55c76d0a2a8776",
+  "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/",
+  "source": "Hacker News",
+  "title": "The growing divide between AI hype and software engineering reality",
+  "published_at": "2026-08-29T16:16:32+00:00",
+  "collected_at": "2026-08-29T21:40:07.981413+00:00",
+  "title_ko": "AI 과장 광고와 소프트웨어 엔지니어링 현실의 괴리",
+  "summary_ko": "오픈소스 프로젝트들이 AI 코드 생성을 금지하는 현상 등을 통해 AI 마케팅과 실제 개발 현장 간의 간극을 조명합니다. 실무에서 AI 도입의 한계를 돌아보게 하는 내용입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "소프트웨어",
+   "LLM"
   ]
  },
  {
