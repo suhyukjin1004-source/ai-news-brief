@@ -1,5 +1,34 @@
 [
  {
+  "id": "d8a50a6181e76bdb",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1o324/tencent_compressed_hy4preview_from_15tb_to_about/",
+  "source": "r/LocalLLaMA",
+  "title": "Tencent compressed Hy4-preview from 1.5TB to about 200GB GGUF and kept about 98% performance.",
+  "published_at": "2026-08-29T14:31:38+00:00",
+  "collected_at": "2026-08-29T18:21:02.451592+00:00",
+  "title_ko": "텐센트, Hy4-preview 모델을 200GB로 압축",
+  "summary_ko": "텐센트가 1.5TB 크기의 Hy4-preview 모델을 GGUF 포맷으로 약 200GB까지 압축하면서도 성능의 98%를 유지했습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "모델명"
+  ]
+ },
+ {
+  "id": "341aca6c472a74c3",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1o1ji/someone_tested_various_models_on_the_political/",
+  "source": "r/LocalLLaMA",
+  "title": "Someone tested various Models on the Political Compass test...",
+  "published_at": "2026-08-29T14:30:05+00:00",
+  "collected_at": "2026-08-29T18:21:02.451592+00:00",
+  "title_ko": "다양한 AI 모델의 정치 성향 테스트 결과",
+  "summary_ko": "여러 AI 모델을 대상으로 정치 컴퍼스(Political Compass) 테스트를 진행한 결과가 공유되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "6e5a27d32c74fb34",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1nhpp/did_anyone_else_notice_the_ornith_15_35b_ggufs/",
   "source": "r/LocalLLaMA",
@@ -10,6 +39,21 @@
   "summary_ko": "허깅페이스에 업로드된 특정 오픈소스 GGUF 모델 파일이 사전 고지 없이 조용히 변경되어 개발자들 사이에서 원인 분석이 이어지고 있다.",
   "category": "참고",
   "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "9b2727cbce1548ab",
+  "url": "https://lwn.net/Articles/1091231/",
+  "source": "Hacker News",
+  "title": "Debian votes to allow \"responsible use of generative AI\"",
+  "published_at": "2026-08-29T14:02:10+00:00",
+  "collected_at": "2026-08-29T18:20:59.461135+00:00",
+  "title_ko": "데비안, 생성형 AI의 책임 있는 사용 허용 의결",
+  "summary_ko": "데비안 프로젝트가 오픈소스 커뮤니티 내에서 생성형 AI의 책임 있는 활용을 공식적으로 허용하는 안건을 통과시켰습니다.",
+  "category": "중요",
+  "tags": [
+   "규제",
    "오픈소스"
   ]
  },
@@ -41,6 +85,21 @@
   "tags": [
    "NVIDIA",
    "반도체"
+  ]
+ },
+ {
+  "id": "d2ec630b5c221888",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1lu77/is_it_possible_to_run_it_with_a_combined_memory/",
+  "source": "r/LocalLLaMA",
+  "title": "Is it possible to run it with a combined memory setup: 16 GB VRAM + 64 GB RAM + SSD for offloading n-grams?",
+  "published_at": "2026-08-29T12:55:14+00:00",
+  "collected_at": "2026-08-29T18:21:02.451592+00:00",
+  "title_ko": "VRAM과 시스템 RAM을 활용한 대형 모델 구동 문의",
+  "summary_ko": "16GB VRAM과 64GB 시스템 RAM 환경에서 Llama.cpp 등을 활용해 대형 언어 모델을 효율적으로 오프로딩하며 구동하는 방법에 대한 논의입니다.",
+  "category": "팁",
+  "tags": [
+   "NVIDIA",
+   "오픈소스"
   ]
  },
  {
