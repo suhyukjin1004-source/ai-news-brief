@@ -1,5 +1,227 @@
 [
  {
+  "id": "d0b1907379a4f618",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w18pu9/tenstorrent_quietbox_2_arrived/",
+  "source": "r/LocalLLaMA",
+  "title": "Tenstorrent Quietbox 2 Arrived!",
+  "published_at": "2026-08-29T01:16:18+00:00",
+  "collected_at": "2026-08-29T02:04:46.632363+00:00",
+  "title_ko": "Tenstorrent Quietbox 2 AI 개발 장비 출시",
+  "summary_ko": "256GB 시스템 메모리와 128GB GDDR을 탑재한 Tenstorrent Quietbox 2가 출시되어 새로운 하드웨어 아키텍처에서의 LLM 구동 테스트가 가능해졌습니다.",
+  "category": "속보",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "885fbf9c3eb851f3",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w18b1k/qwen_38_flash_next_ngram_look_up_table_offloaded/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen 3.8 Flash Next ngram look up table offloaded to SSD and streamed in SGLang",
+  "published_at": "2026-08-29T00:56:57+00:00",
+  "collected_at": "2026-08-29T02:04:46.632363+00:00",
+  "title_ko": "SGLang에서 SSD 기반 Qwen 3.8 Flash Next 스트리밍 지원",
+  "summary_ko": "Qwen 3.8 Flash Next의 n-gram 룩업 테이블을 SSD에 오프로드하고 스트리밍하는 방식이 성능 저하 없이 유망한 결과를 보이고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "2d5974e401bc9a39",
+  "url": "https://news.hada.io/topic?id=32999",
+  "source": "GeekNews",
+  "title": "Yap: 특정 유형의 AI 슬롭",
+  "published_at": "2026-08-29T00:19:04+00:00",
+  "collected_at": "2026-08-29T02:05:01.362738+00:00",
+  "title_ko": "LLM 생성 코드의 무의미한 주석 문제 지적",
+  "summary_ko": "LLM이 생성한 코드에 실제 정보 없이 장황하기만 한 주석이 많아지는 현상을 'Yap'으로 명명하고 코드 리뷰 시 주의를 당부했습니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "코딩"
+  ]
+ },
+ {
+  "id": "e4088fc3fa76f31e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w16nfx/hot_or_not/",
+  "source": "r/LocalLLaMA",
+  "title": "Hot or not?",
+  "published_at": "2026-08-28T23:41:49+00:00",
+  "collected_at": "2026-08-29T02:04:46.632363+00:00",
+  "title_ko": "DGX 서버 스택을 위한 커스텀 수랭 쿨링 솔루션",
+  "summary_ko": "고부하 작업 시 발열이 심한 DGX 스택에 액티브 쿨링을 추가해 온도를 낮추고 효율을 높인 사례가 공유되었습니다.",
+  "category": "팁",
+  "tags": [
+   "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
+  "id": "18aabd2e01b80f8b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w16kts/is_it_worth_running_qwen_38_flash_next_on_4x3090/",
+  "source": "r/LocalLLaMA",
+  "title": "Is it worth running Qwen 3.8 Flash Next on 4x3090 vs 27B?",
+  "published_at": "2026-08-28T23:38:37+00:00",
+  "collected_at": "2026-08-29T02:04:46.632363+00:00",
+  "title_ko": "멀티 GPU 환경에서의 Qwen 모델 구동 고민",
+  "summary_ko": "4개의 3090 GPU 환경에서 Qwen 3.8 Flash Next와 27B 모델 중 어느 것을 구동하는 것이 효율적인지 성능과 속도 측면에서 논의가 이루어졌습니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "20919fd9c0f9478e",
+  "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
+  "source": "Simon Willison",
+  "title": "Just a rumour of a bug is enough to find a security exploit these days",
+  "published_at": "2026-08-28T22:12:02+00:00",
+  "collected_at": "2026-08-29T02:04:45.940782+00:00",
+  "title_ko": "보안 패치 공개 직후 자동화된 익스플로잇 탐지 기승",
+  "summary_ko": "최근 보안 취약점 루머나 패치가 공유되자마자 자동화된 봇이 몇 분 안에 공격을 시도하는 보안 위협이 증가하고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
+  "id": "4aaf17d147ad335d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1486l/today_i_hit_181_tokss_aggregate_on/",
+  "source": "r/LocalLLaMA",
+  "title": "Today I hit 181 toks/s (aggregate) on Qwen3.8-Flash-Next on 2x DGX Sparks",
+  "published_at": "2026-08-28T22:00:36+00:00",
+  "collected_at": "2026-08-29T02:04:46.632363+00:00",
+  "title_ko": "DGX Spark 클러스터에서 Qwen3.8-Flash-Next 고속 구동",
+  "summary_ko": "2개의 NVIDIA DGX Spark 노드를 연동하여 멀티 에이전트 환경에서 Qwen3.8-Flash-Next 모델로 초당 181 토큰의 높은 처리량을 달성했습니다.",
+  "category": "속보",
+  "tags": [
+   "NVIDIA",
+   "LLM"
+  ]
+ },
+ {
+  "id": "25148c008ce143b2",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w13vse/release_sota_ggufs_for_qwen3827b_gsqrco_at_25_to/",
+  "source": "r/LocalLLaMA",
+  "title": "[Release] SOTA GGUFs for Qwen3.8-27B: GSQ-RCO at 2.5 to 3.0 bpw",
+  "published_at": "2026-08-28T21:46:58+00:00",
+  "collected_at": "2026-08-29T02:04:46.632363+00:00",
+  "title_ko": "Qwen3.8-27B를 위한 고품질 GGUF 양자화 모델 공개",
+  "summary_ko": "새로운 양자화 기법(GSQ 및 RCO)을 적용하여 파일 크기는 유지하면서 성능을 극대화한 Qwen3.8-27B GGUF 모델이 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "LLM",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "1546804b7d315afa",
+  "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+  "source": "TechCrunch",
+  "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+  "published_at": "2026-08-28T20:24:11+00:00",
+  "collected_at": "2026-08-29T02:04:42.398716+00:00",
+  "title_ko": "네오클라우드 램다, AI 칩 구매용 10억 달러 부채 조달",
+  "summary_ko": "램다가 엔비디아 AI 칩 구매를 위해 10억 달러의 사모 부채를 조달했다. AI 붐에 따른 막대한 인프라 투자 비용을 보여준다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "투자"
+  ]
+ },
+ {
+  "id": "26f6be75d3dfbf11",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w11ob5/i_audited_443_gguf_quants_across_25_repos_64_of/",
+  "source": "r/LocalLLaMA",
+  "title": "I audited 443 GGUF quants across 25 repos. 64 of them can't be the quant their filename claims.",
+  "published_at": "2026-08-28T20:20:26+00:00",
+  "collected_at": "2026-08-29T02:04:46.632363+00:00",
+  "title_ko": "일부 GGUF 양자화 파일의 잘못된 파일명 표기 발견",
+  "summary_ko": "오픈소스 LLM의 GGUF 양자화 파일 중 일부가 텐서 차원 제약으로 인해 실제로는 다른 방식으로 양자화되었음에도 원래 이름으로 저장되는 문제가 발견됐다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "39212d3f6bf66f0c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w11epf/glm53_on_hf_viewer/",
+  "source": "r/LocalLLaMA",
+  "title": "GLM-5.3 on HF Viewer",
+  "published_at": "2026-08-28T20:10:20+00:00",
+  "collected_at": "2026-08-29T02:04:46.632363+00:00",
+  "title_ko": "GLM-5.3 아키텍처 및 학습 개선 내용 공개",
+  "summary_ko": "GLM-5.3 모델이 허깅페이스 뷰어를 통해 공개됐다. 아키텍처는 전작과 같지만 향상된 학습으로 성능이 크게 개선되었다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "0f9a4538df033614",
+  "url": "https://news.hada.io/topic?id=32990",
+  "source": "GeekNews",
+  "title": "근거 없는 AI 저작권 통지로 Google Play에서 삭제된 Luanti",
+  "published_at": "2026-08-28T19:40:26+00:00",
+  "collected_at": "2026-08-29T02:05:01.362738+00:00",
+  "title_ko": "저작권 통지로 구글플레이에서 삭제된 오픈소스 게임 Luanti",
+  "summary_ko": "마이크로소프트의 DMCA 통지로 오픈소스 픽셀 게임 루안티의 안드로이드 앱이 구글플레이에서 삭제됐다. 명확한 저작권 침해 증거가 없어 논란이 되고 있다.",
+  "category": "참고",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
+  "id": "c3673eed547430a8",
+  "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+  "source": "TechCrunch",
+  "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+  "published_at": "2026-08-28T19:30:38+00:00",
+  "collected_at": "2026-08-29T02:04:42.398716+00:00",
+  "title_ko": "앤트로픽 연구원, 자체 개선하는 AI 시스템 시연",
+  "summary_ko": "자동화된 AI 시스템이 전체 성능 저하 없이 특정 부정렬 행동 벤치마크를 스스로 개선하는 능력을 보여주었다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "b62ff021589a071e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1002h/breezetts2_initial_impressions_genuinely_frontier/",
+  "source": "r/LocalLLaMA",
+  "title": "Breeze-TTS-2 initial impressions: genuinely 'frontier' TTS",
+  "published_at": "2026-08-28T19:18:12+00:00",
+  "collected_at": "2026-08-29T02:04:46.632363+00:00",
+  "title_ko": "고성능 오픈소스 음성 합성 모델 Breeze-TTS-2 공개",
+  "summary_ko": "약 7GB 크기로 로컬 구동이 가능한 고성능 음성 합성(TTS) 모델 Breeze-TTS-2의 초기 평가가 긍정적으로 나오고 있다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "17014e89851f6374",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0zl5q/i_benchmarked_9_open_models_on_spotting_fake/",
+  "source": "r/LocalLLaMA",
+  "title": "I benchmarked 9 open models on spotting fake sources during agentic search (DeepSeek V4, Qwen 3.8, Nemotron 3 Ultra)",
+  "published_at": "2026-08-28T19:03:11+00:00",
+  "collected_at": "2026-08-29T02:04:46.632363+00:00",
+  "title_ko": "에이전트 검색 시 가짜 소스 식별 능력 벤치마크 평가",
+  "summary_ko": "오픈 모델들의 에이전틱 검색 시 허위 정보와 가짜 소스를 구별하는 능력을 테스트한 EchoNet 벤치마크 결과가 공개됐다.",
+  "category": "참고",
+  "tags": [
+   "DeepSeek",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "6b50d29329ae4ca3",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214546",
   "source": "AI타임스",
@@ -154,6 +376,35 @@
   ]
  },
  {
+  "id": "8b01a6d9ecd14774",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214572",
+  "source": "AI타임스",
+  "title": "\"AI 양자화 정확하고 안전하게\"...옵트에이아이, EMNLP 논문 2편 채택",
+  "published_at": "2026-08-28T16:55:00+00:00",
+  "collected_at": "2026-08-29T02:04:59.968767+00:00",
+  "title_ko": "옵트AI, EMNLP 2026 논문 2편 채택",
+  "summary_ko": "옵트AI의 LLM 양자화 및 온디바이스 안전성 관련 논문 2편이 자연어처리 국제학술대회 EMNLP에 채택되었다.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "LLM"
+  ]
+ },
+ {
+  "id": "a66fa94c7ac6a292",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214578",
+  "source": "AI타임스",
+  "title": "딥노이드, “의료 판독 자동화 라인업 확대...AI 의료 에이전트 본격화”",
+  "published_at": "2026-08-28T16:45:00+00:00",
+  "collected_at": "2026-08-29T02:04:59.968767+00:00",
+  "title_ko": "딥노이드, 의료 AI 에이전트용 뇌 MRI 정량 분석 기기 허가 획득",
+  "summary_ko": "딥노이드가 뇌 MRI 정량 분석 의료기기 인허가를 완료하며 퇴행성 뇌질환 진단을 위한 의료 AI 에이전트 라인업을 확대했다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "b486f24541b4b7c0",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0vrrx/qwen38_27b_int4_with_dflash2_at_165ts_and_18m_kv/",
   "source": "r/LocalLLaMA",
@@ -182,6 +433,47 @@
    "OpenAI",
    "AI 에이전트"
   ]
+ },
+ {
+  "id": "cb3d8851df126150",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214577",
+  "source": "AI타임스",
+  "title": "코히어, 대규모 엔터프라이즈 문서 분석 AI ‘파스’ 공개...“성능·비용 다 잡았다”",
+  "published_at": "2026-08-28T16:25:16+00:00",
+  "collected_at": "2026-08-29T02:04:59.968767+00:00",
+  "title_ko": "코히어, 기업용 문서 분석 비전 언어 모델 '파스' 공개",
+  "summary_ko": "코히어가 대용량 비즈니스 문서를 마크다운 형태로 변환해 주는 2.3B 파라미터 규모의 비전 언어 모델 파스를 출시했다.",
+  "category": "중요",
+  "tags": [
+   "LLM"
+  ]
+ },
+ {
+  "id": "d8c36d286904b8a4",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214562",
+  "source": "AI타임스",
+  "title": "미 법원 \"앤트로픽 블랙리스트 지정은 위법\"...트럼프 행정부 보복 조치에 제동",
+  "published_at": "2026-08-28T16:08:26+00:00",
+  "collected_at": "2026-08-29T02:04:59.968767+00:00",
+  "title_ko": "미 법원, 국방부의 앤트로픽 블랙리스트 지정 위법 판결",
+  "summary_ko": "미국 법원이 국방부의 앤트로픽 공급망 위험 지정 및 사용 금지 조치에 대해 근거가 부족하다며 위법 판결을 내렸다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "규제"
+  ]
+ },
+ {
+  "id": "6da0570fbf664bf6",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214564",
+  "source": "AI타임스",
+  "title": "AWS, 전 세계 대학생 AI 역량 강화 위해 7000억 투입한다",
+  "published_at": "2026-08-28T15:59:02+00:00",
+  "collected_at": "2026-08-29T02:04:59.968767+00:00",
+  "title_ko": "AWS, 대학생 AI 역량 강화를 위해 7,000억 원 규모 지원",
+  "summary_ko": "AWS가 전 세계 대학생들을 대상으로 클라우드와 AI 학습을 지원하는 5억 달러 규모의 스튜던트 리워드 프로그램을 시작한다.",
+  "category": "참고",
+  "tags": []
  },
  {
   "id": "6a9902f9c1359df7",
