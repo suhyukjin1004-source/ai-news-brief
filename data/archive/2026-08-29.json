@@ -1,5 +1,64 @@
 [
  {
+  "id": "6e5a27d32c74fb34",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1nhpp/did_anyone_else_notice_the_ornith_15_35b_ggufs/",
+  "source": "r/LocalLLaMA",
+  "title": "Did anyone else notice the Ornith 1.5 35B GGUFs got a \"silent\" update?",
+  "published_at": "2026-08-29T14:07:10+00:00",
+  "collected_at": "2026-08-29T14:24:15.453712+00:00",
+  "title_ko": "오르니스 1.5 35B GGUF 모델 조용히 업데이트",
+  "summary_ko": "허깅페이스에 업로드된 특정 오픈소스 GGUF 모델 파일이 사전 고지 없이 조용히 변경되어 개발자들 사이에서 원인 분석이 이어지고 있다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "2039b809c22bee1e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1nc1c/exo_labs_claiming_48_tbs_memory_bandwidth_through/",
+  "source": "r/LocalLLaMA",
+  "title": "Exo labs claiming 4.8 tb/s memory bandwidth through m5u Mac Studio clustering",
+  "published_at": "2026-08-29T14:00:49+00:00",
+  "collected_at": "2026-08-29T14:24:15.453712+00:00",
+  "title_ko": "엑소 랩스, 맥 스튜디오 클러스터링으로 고속 대역폭 주장",
+  "summary_ko": "엑소 랩스가 맥 스튜디오를 클러스터링하여 대규모 메모리 대역폭을 선형적으로 확장하는 기술을 주장해 관심을 모으고 있다.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "9764c79bea7cd185",
+  "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+  "source": "TechCrunch",
+  "title": "Nvidia’s AI advantage is moving beyond the GPU",
+  "published_at": "2026-08-29T13:00:00+00:00",
+  "collected_at": "2026-08-29T14:24:09.013358+00:00",
+  "title_ko": "엔비디아의 AI 경쟁력, GPU를 넘어 데이터센터로 확장",
+  "summary_ko": "차세대 데이터센터 시스템이 단순 연산 능력을 넘어 스마트 트래픽 제어를 통해 효율성을 높이는 방향으로 진화하고 있다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
+  "id": "f5a737f5cc5ff4f1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1lq7u/qwen_38_27b_at_50_toks_with_100k_context_on_a/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen 3.8 27B at 50 tok/s with 100k Context on a 16GB GPU! (beellama.cpp)",
+  "published_at": "2026-08-29T12:50:05+00:00",
+  "collected_at": "2026-08-29T14:24:15.453712+00:00",
+  "title_ko": "일반 16GB GPU서 큐원 27B 모델 고속 구동 팁",
+  "summary_ko": "소비자용 GPU 환경에서 커스텀 양자화와 최적화 템플릿을 활용해 대형 오픈소스 모델을 원활하게 실행하는 방법이 공유됐다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
   "id": "d1c100d17de4e056",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214594",
   "source": "AI타임스",
@@ -16,6 +75,20 @@
   ]
  },
  {
+  "id": "3ab3c9babcad88aa",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1l3a2/how_important_is_it_for_chinese_llms_to_reach_the/",
+  "source": "r/LocalLLaMA",
+  "title": "How important is it for Chinese LLMs to reach the Opus 4.8 level?",
+  "published_at": "2026-08-29T12:19:44+00:00",
+  "collected_at": "2026-08-29T14:24:15.453712+00:00",
+  "title_ko": "중국 LLM의 성능 향상과 오픈소스 생태계 영향",
+  "summary_ko": "최신 중국산 오픈소스 LLM들이 최고 수준 모델의 성능을 빠르게 추격하면서 시장에 새로운 위협과 변화를 가져오고 있다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "a1c51513e3aa8504",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214593",
   "source": "AI타임스",
@@ -29,6 +102,65 @@
    "Meta",
    "오픈소스",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "14ce9d686894631b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1kt83/an_official_1bit_quant_for_hy4/",
+  "source": "r/LocalLLaMA",
+  "title": "An official 1-bit quant for Hy4??? 👀",
+  "published_at": "2026-08-29T12:05:52+00:00",
+  "collected_at": "2026-08-29T14:24:15.453712+00:00",
+  "title_ko": "텐센트 혼원, 성능 저하 최소화한 초저비트 양자화 공개",
+  "summary_ko": "텐센트 혼원 모델의 새로운 초저비트 양자화 버전이 기존 BF16 대비 정확도 손실을 최소화하면서 높은 성능을 보여 주목받고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "64ea7198066a818d",
+  "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+  "source": "The Verge",
+  "title": "Musicians-turned-detectives are hunting for AI grifters",
+  "published_at": "2026-08-29T12:00:00+00:00",
+  "collected_at": "2026-08-29T14:24:09.156088+00:00",
+  "title_ko": "AI 생성 음악 무단 도용 적발하는 뮤지션 탐정들",
+  "summary_ko": "생성형 AI 기술의 발전으로 인간 아티스트의 음악을 무단 학습한 AI 가짜 음악이 늘어나자, 뮤지션들이 직접 이를 추적하고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "003c1188b9734244",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1kg1v/were_designing_a_tiny_autonomous_research_agent/",
+  "source": "r/LocalLLaMA",
+  "title": "Were designing a tiny autonomous research agent",
+  "published_at": "2026-08-29T11:47:42+00:00",
+  "collected_at": "2026-08-29T14:24:15.453712+00:00",
+  "title_ko": "arXiv 논문 데이터로 학습하는 초소형 자율 연구 에이전트 개발",
+  "summary_ko": "과학 논문 데이터만을 학습해 자율적으로 연구와 새로운 발견을 수행할 수 있는 소형 언어 모델 기반의 에이전트 개발이 진행 중입니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "401e399f6cc3aa14",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1je5d/if_your_ts_is_low_enough_you_can_see_speculative/",
+  "source": "r/LocalLLaMA",
+  "title": "If your t/s is low enough, you can see speculative decoding with your own eyes",
+  "published_at": "2026-08-29T10:51:58+00:00",
+  "collected_at": "2026-08-29T14:24:15.453712+00:00",
+  "title_ko": "추론 속도가 느릴 때 눈으로 확인하는 추론 가속 기법",
+  "summary_ko": "로컬 환경에서 낮은 생성 속도로 LLM을 구동할 때 예측 가능한 문구에서 추론 가속(Speculative Decoding)이 작동하는 과정을 직접 관찰한 사례입니다.",
+  "category": "팁",
+  "tags": [
+   "LLM",
+   "오픈소스"
   ]
  },
  {
@@ -88,6 +220,35 @@
   "category": "중요",
   "tags": [
    "OpenAI",
+   "코딩"
+  ]
+ },
+ {
+  "id": "e287e9396e84a680",
+  "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+  "source": "Hacker News",
+  "title": "Samsung's Processing-in-Memory (PIM)",
+  "published_at": "2026-08-29T06:06:51+00:00",
+  "collected_at": "2026-08-29T14:24:11.062148+00:00",
+  "title_ko": "삼성전자의 PIM(Processing-in-Memory) 기술 분석",
+  "summary_ko": "AI 연산 성능 향상을 위한 차세대 메모리 기술인 삼성의 PIM 구조와 핫칩스 발표 내용이 공유되었습니다.",
+  "category": "참고",
+  "tags": [
+   "반도체"
+  ]
+ },
+ {
+  "id": "f825f5afb7e4245a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1e1uq/qwen3827b_vs_qwen38flashnext_smaller_quant/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-27B vs Qwen3.8-Flash-Next smaller quant?",
+  "published_at": "2026-08-29T05:44:05+00:00",
+  "collected_at": "2026-08-29T14:24:15.453712+00:00",
+  "title_ko": "128GB RAM 환경에서의 Qwen 모델 양자화 비교",
+  "summary_ko": "제한된 메모리 환경에서 대형 Qwen 모델과 저비트 양자화된 플래시 모델 중 어떤 모델이 더 높은 지능과 코딩 능력을 보여주는지 논의합니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
    "코딩"
   ]
  },
