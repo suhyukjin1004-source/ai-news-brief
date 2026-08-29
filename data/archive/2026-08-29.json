@@ -1,5 +1,154 @@
 [
  {
+  "id": "d1c100d17de4e056",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214594",
+  "source": "AI타임스",
+  "title": "클로드, 테스트 중 700GB 홈 디렉터리 삭제...\"안전 분류기가 사고 키웠다\"",
+  "published_at": "2026-08-29T12:36:31+00:00",
+  "collected_at": "2026-08-29T08:58:41.729805+00:00",
+  "title_ko": "클로드, 테스트 중 700GB 홈 디렉터리 삭제 사고",
+  "summary_ko": "앤트로픽의 클로드가 삭제 기능 안전성 시험 중 사용자의 700GB 데이터를 통째로 삭제하는 사고가 발생했습니다. AI 에이전트의 자율성과 통제 가능성에 대한 우려를 키우고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "Claude",
+   "Anthropic",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "a1c51513e3aa8504",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214593",
+  "source": "AI타임스",
+  "title": "메타, 80억 소형 AI로 ‘클로드 오퍼스 4.5’급 성능 구현…‘에보하네스-RL’ 공개",
+  "published_at": "2026-08-29T12:15:15+00:00",
+  "collected_at": "2026-08-29T08:58:41.729805+00:00",
+  "title_ko": "메타, 소형 모델 성능 높이는 에보하네스-RL 공개",
+  "summary_ko": "메타와 UIUC 연구진이 AI가 외부 실행 환경을 스스로 학습해 관리할 수 있게 하는 '에보하네스-RL'을 공개했습니다. AI 에이전트의 복잡한 업무 수행 능력을 크게 향상시킵니다.",
+  "category": "참고",
+  "tags": [
+   "Meta",
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "d7e5e32ba1902e68",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214596",
+  "source": "AI타임스",
+  "title": "텐센트, 차세대 모델 'Hy4 프리뷰' 오픈 출시로 기업용 시장 정조준",
+  "published_at": "2026-08-29T09:27:43+00:00",
+  "collected_at": "2026-08-29T08:58:41.729805+00:00",
+  "title_ko": "텐센트, 770B MoE 오픈소스 모델 'Hy4 프리뷰' 공개",
+  "summary_ko": "텐센트가 코딩과 사무 작업 등 생산성 향상을 겨냥한 대규모 오픈소스 모델 'Hy4 프리뷰'를 출시했습니다. 기업용 AI 생태계 주도권 경쟁에 불을 지피고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "5b8f2a188d86c6f2",
+  "url": "https://news.hada.io/topic?id=33005",
+  "source": "GeekNews",
+  "title": "버그 소문만으로 익스플로잇이 만들어지는 시대",
+  "published_at": "2026-08-29T07:33:08+00:00",
+  "collected_at": "2026-08-29T08:58:42.996529+00:00",
+  "title_ko": "AI 에이전트 시대, 소문만으로 익스플로잇 생성 우려",
+  "summary_ko": "보안 취약점 수정 PR이 공개되자마자 AI 에이전트가 1분 만에 공격 코드를 생성하는 사례가 발생했습니다. 상세 패치 없이도 취약점을 조사할 수 있어 보안 위협이 커지고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "c989cf292a8f7287",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1fpxi/terminal_bench_40_just_dropped_glm53_is_at_the/",
+  "source": "r/LocalLLaMA",
+  "title": "Terminal Bench 4.0 just dropped, GLM-5.3 is at the same level as Fable 5, accounting for margin of error",
+  "published_at": "2026-08-29T07:17:09+00:00",
+  "collected_at": "2026-08-29T08:58:28.406645+00:00",
+  "title_ko": "터미널 벤치 4.0 공개 및 코딩 에이전트 평가",
+  "summary_ko": "최신 코딩 에이전트 성능을 평가하기 위한 Terminal Bench 4.0이 공개되었습니다. 벤치마크 포화에 대응하기 위한 빠른 반복 개선이 특징입니다.",
+  "category": "참고",
+  "tags": [
+   "코딩",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "f2619051e6c53f8c",
+  "url": "https://news.hada.io/topic?id=33003",
+  "source": "GeekNews",
+  "title": "SpaceX의 Cursor 인수 이후 OpenAI가 내린 결정",
+  "published_at": "2026-08-29T06:31:45+00:00",
+  "collected_at": "2026-08-29T08:58:42.996529+00:00",
+  "title_ko": "OpenAI, 스페이스X에 인수된 Cursor와 모델 공급 계약 종료",
+  "summary_ko": "스페이스X가 인수한 개발자 도구 Cursor에 대해 OpenAI가 모델 공급 계약 종료를 통보했습니다. 향후 출시될 모델은 Cursor에 제공되지 않을 예정입니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "코딩"
+  ]
+ },
+ {
+  "id": "a825e35b04e2473d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1cbb0/saved_my_fiances_phone_with_qwen_38_27b/",
+  "source": "r/LocalLLaMA",
+  "title": "Saved my fiances phone with qwen 3.8 27b",
+  "published_at": "2026-08-29T04:12:59+00:00",
+  "collected_at": "2026-08-29T08:58:28.406645+00:00",
+  "title_ko": "Qwen 27B 모델 활용해 벽돌된 스마트폰 복구 성공",
+  "summary_ko": "부팅 루프에 빠져 수리가 불가능했던 폴더블폰을 대형 언어 모델 Qwen의 도움으로 성공적으로 복구한 사례가 공유되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "184d998ea9cbcfc3",
+  "url": "https://news.hada.io/topic?id=33001",
+  "source": "GeekNews",
+  "title": "바이브코딩으로 만든 퍼저가 FFmpeg의 0 나누기 버그를 발견",
+  "published_at": "2026-08-29T03:32:25+00:00",
+  "collected_at": "2026-08-29T08:58:42.996529+00:00",
+  "title_ko": "AI로 만든 퍼저가 FFmpeg의 치명적 버그 발견",
+  "summary_ko": "AI 기반으로 제작된 퍼징 도구가 FFmpeg 디먹서의 0 나누기 취약점을 발견했습니다. 애플리케이션 충돌을 유발할 수 있는 보안 이슈입니다.",
+  "category": "참고",
+  "tags": [
+   "코딩"
+  ]
+ },
+ {
+  "id": "4bc1b1ed0f4643aa",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1996t/50_tg_increase_with_offloading_hot_experts_to_vram/",
+  "source": "r/LocalLLaMA",
+  "title": "50% tg increase with offloading \"hot\" experts to VRAM",
+  "published_at": "2026-08-29T01:42:09+00:00",
+  "collected_at": "2026-08-29T08:58:28.406645+00:00",
+  "title_ko": "MoE 모델의 VRAM 오프로딩 최적화로 성능 50% 향상",
+  "summary_ko": "VRAM 용량이 부족한 MoE 모델에서 자주 쓰이는 '핫 엑스퍼트'만 선택적으로 오프로딩하여 속도를 크게 높이는 방법이 소개되었습니다. 하드웨어 제약 속에서 대형 모델을 구동하는 실무자에게 유용합니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "0110e72feee352c4",
+  "url": "https://github.com/stemdeckapp/stemdeck",
+  "source": "Hacker News",
+  "title": "StemDeck, a free, open-source and local AI stem separator",
+  "published_at": "2026-08-29T01:24:13+00:00",
+  "collected_at": "2026-08-29T08:58:27.552118+00:00",
+  "title_ko": "로컬 환경에서 실행되는 오픈소스 AI 음원 분리 도구 'StemDeck'",
+  "summary_ko": "사용자의 로컬 기기에서 무료로 음악의 보컬과 악기 음원을 분리해 주는 오픈소스 AI 도구입니다. 개인 작업 환경에서 고품질 음원 분리를 수행할 수 있습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "d0b1907379a4f618",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w18pu9/tenstorrent_quietbox_2_arrived/",
   "source": "r/LocalLLaMA",
@@ -26,6 +175,20 @@
   "category": "참고",
   "tags": [
    "LLM",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "31f3effab12ce092",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w17zbg/atomicchatqwen38flashnextgguf_is_really_good/",
+  "source": "r/LocalLLaMA",
+  "title": "AtomicChat/Qwen3.8-Flash-Next-GGUF is Really Good",
+  "published_at": "2026-08-29T00:41:27+00:00",
+  "collected_at": "2026-08-29T08:58:28.406645+00:00",
+  "title_ko": "Qwen3.8-Flash-Next 모델의 GGUF 양자화 성능 평가",
+  "summary_ko": "맥 스튜디오 환경에서 llama.cpp를 활용해 Qwen3.8-Flash-Next 모델의 양자화 버전을 테스트한 결과, 메모리 제약을 효과적으로 극복하며 우수한 성능을 보여주었습니다.",
+  "category": "참고",
+  "tags": [
    "오픈소스"
   ]
  },
@@ -73,6 +236,32 @@
    "LLM",
    "오픈소스"
   ]
+ },
+ {
+  "id": "6f0715608976cb6d",
+  "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+  "source": "Hacker News",
+  "title": "I accidentally turned LLM memory into program analysis",
+  "published_at": "2026-08-28T23:27:45+00:00",
+  "collected_at": "2026-08-29T08:58:27.070087+00:00",
+  "title_ko": "LLM 메모리를 프로그램 분석에 활용하는 기법",
+  "summary_ko": "LLM의 내부 메모리 구조를 활용해 프로그램 분석을 수행하는 독특한 접근 방식을 다룹니다. 코드 분석 및 보안 분야에서 AI 활용도를 넓히는 참고 자료입니다.",
+  "category": "참고",
+  "tags": [
+   "코딩"
+  ]
+ },
+ {
+  "id": "1da15a1b03f8406d",
+  "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
+  "source": "Hacker News",
+  "title": "Identifying fake cosmetics using AI",
+  "published_at": "2026-08-28T22:18:27+00:00",
+  "collected_at": "2026-08-29T08:58:27.552118+00:00",
+  "title_ko": "AI를 활용한 위조 화장품 식별 기술",
+  "summary_ko": "인공지능을 이용해 시중의 가짜 화장품을 판별하는 연구 결과가 공개되었습니다. 컴퓨터 비전 기술의 실생활 적용 사례를 보여줍니다.",
+  "category": "참고",
+  "tags": []
  },
  {
   "id": "20919fd9c0f9478e",
@@ -178,6 +367,22 @@
   ]
  },
  {
+  "id": "6d151df28949853f",
+  "url": "https://news.hada.io/topic?id=32989",
+  "source": "GeekNews",
+  "title": "GLM-5.3, 오픈 웨이트로 공개",
+  "published_at": "2026-08-28T19:37:26+00:00",
+  "collected_at": "2026-08-29T08:58:42.996529+00:00",
+  "title_ko": "코딩 및 에이전트 성능 강화된 'GLM-5.3' 오픈 웨이트 공개",
+  "summary_ko": "Z.ai가 복잡한 코딩과 장기 에이전트 작업에 특화된 GLM-5.3 모델 가중치를 공개했습니다. 자체 환경 구축 및 미세 조정을 원하는 개발자들에게 유용합니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
   "id": "c3673eed547430a8",
   "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
   "source": "TechCrunch",
@@ -235,6 +440,21 @@
    "Google",
    "Gemini",
    "오픈소스"
+  ]
+ },
+ {
+  "id": "be9214442cfc1a0e",
+  "url": "https://news.hada.io/topic?id=32987",
+  "source": "GeekNews",
+  "title": "미 법원, 국방부의 Anthropic 블랙리스트 지정은 불법이라고 판결",
+  "published_at": "2026-08-28T18:32:16+00:00",
+  "collected_at": "2026-08-29T08:58:42.996529+00:00",
+  "title_ko": "미 법원, 국방부의 앤스로픽 블랙리스트 지정 '불법' 판결",
+  "summary_ko": "미 캘리포니아 연방법원이 트럼프 행정부의 앤스로픽 국가안보 위험 기업 지정 조치를 위법으로 판결했습니다. AI 기업과 정부 간의 계약 및 규제 이슈에 큰 영향을 미치는 소식입니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "규제"
   ]
  },
  {
@@ -373,6 +593,20 @@
   "tags": [
    "오픈소스",
    "코딩"
+  ]
+ },
+ {
+  "id": "fb769fc67e24cb83",
+  "url": "https://arxiv.org/abs/2608.23691",
+  "source": "Hacker News",
+  "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+  "published_at": "2026-08-28T17:01:12+00:00",
+  "collected_at": "2026-08-29T08:58:27.070087+00:00",
+  "title_ko": "오픈월드 멀티 에이전트 환경에서의 자율적 수학적 발견",
+  "summary_ko": "멀티 에이전트 시스템을 활용해 열린 환경에서 AI가 자율적으로 새로운 수학적 사실을 발견하는 연구가 발표되었습니다. AI의 추론 및 과학적 발견 능력을 확장하는 중요 연구입니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
   ]
  },
  {
