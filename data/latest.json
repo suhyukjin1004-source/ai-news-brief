@@ -1,8 +1,54 @@
 {
- "updated_at": "2026-08-30T06:31:26.564728+00:00",
+ "updated_at": "2026-08-30T12:47:14.810172+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "323e3e53c3d1c104",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214627",
+   "source": "AI타임스",
+   "title": "\"AI가 AI 칩을 만든다\"...'핫칩스 2026'서 확인된 반도체 설계의 대변혁",
+   "published_at": "2026-08-30T18:16:42+00:00",
+   "collected_at": "2026-08-30T12:47:04.937752+00:00",
+   "title_ko": "AI가 AI 칩을 직접 설계하는 시대 도래",
+   "summary_ko": "핫칩스 2026에서 빅테크 기업들이 AI 기반 반도체 설계 자동화 솔루션을 공개하며 AI가 직접 칩을 설계하는 패러다임 전환을 보여주었습니다.",
+   "category": "중요",
+   "tags": [
+    "반도체",
+    "NVIDIA",
+    "Google"
+   ]
+  },
+  {
+   "id": "368f151d7e846ea5",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214626",
+   "source": "AI타임스",
+   "title": "웨이모, 테슬라 향해 직격탄… “2억마일 뛰어보니 카메라만으론 한계”",
+   "published_at": "2026-08-30T17:26:32+00:00",
+   "collected_at": "2026-08-30T12:47:04.937752+00:00",
+   "title_ko": "웨이모, 테슬라의 카메라 전용 자율주행 전략 비판",
+   "summary_ko": "웨이모가 실제 무인 데이터 분석 결과를 바탕으로 카메라 센서만으로는 완전 자율주행의 안전성을 담보하기 어렵다고 지적했습니다.",
+   "category": "중요",
+   "tags": [
+    "로보틱스",
+    "자율주행"
+   ]
+  },
+  {
+   "id": "58521c6f79f31879",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214624",
+   "source": "AI타임스",
+   "title": "하정우 전 수석, AI전략위 복귀...‘구글 출신’ 이해민 AI수석 합류",
+   "published_at": "2026-08-30T17:02:07+00:00",
+   "collected_at": "2026-08-30T12:47:05.808613+00:00",
+   "title_ko": "정부 국가AI전략위원회 진용 재정비",
+   "summary_ko": "하정우 전 AI수석이 국가AI전략위원회 부위원장으로 복귀하고 이해민 AI수석이 합류하며 정부의 AI 컨트롤타워가 진용을 갖췄습니다.",
+   "category": "참고",
+   "tags": [
+    "규제",
+    "정책"
+   ]
+  },
   {
    "id": "241a67786b4c81c8",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214614",
@@ -35,6 +81,66 @@
    ]
   },
   {
+   "id": "220b62602c5176f0",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2f1lf/is_it_possible_to_run_dlss_5_on_rtx_3000series/",
+   "source": "r/LocalLLaMA",
+   "title": "Is it possible to run DLSS 5 on RTX 3000-series GPUs with an INT8 conversion?",
+   "published_at": "2026-08-30T11:27:23+00:00",
+   "collected_at": "2026-08-30T12:46:51.050311+00:00",
+   "title_ko": "구형 GPU에서 최신 AI 및 그래픽 기술 적용 가능성 논의",
+   "summary_ko": "로컬 AI 모델 최적화처럼 구형 아키텍처 GPU에서 INT8 변환 등을 통해 고도화된 그래픽 기술을 구동할 수 있는지에 대한 기술적 논의가 이루어졌습니다.",
+   "category": "팁",
+   "tags": [
+    "반도체",
+    "NVIDIA"
+   ]
+  },
+  {
+   "id": "2295fda68b4afe33",
+   "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+   "source": "Ars Technica",
+   "title": "Inside Meta’s push to put robots to work in data centers",
+   "published_at": "2026-08-30T11:03:47+00:00",
+   "collected_at": "2026-08-30T12:46:34.746683+00:00",
+   "title_ko": "메타, 데이터센터에 로봇 투입 추진",
+   "summary_ko": "메타가 데이터센터 내 테크니션의 반복 업무를 대체하기 위해 로봇 도입을 테스트하고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "Meta",
+    "로보틱스"
+   ]
+  },
+  {
+   "id": "615b5beacec3d546",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2elkb/i_finetuned_a_08b_local_model_for_dictation/",
+   "source": "r/LocalLLaMA",
+   "title": "I fine-tuned a 0.8B local model for dictation cleanup. It matched a hosted frontier model on this narrow task",
+   "published_at": "2026-08-30T11:03:04+00:00",
+   "collected_at": "2026-08-30T12:46:51.050311+00:00",
+   "title_ko": "음성 받아쓰기 정리를 위한 소형 오픈소스 모델 공개",
+   "summary_ko": "Qwen 기반의 소형 모델을 미세조정하여 불필요한 수정 없이 음성 텍스트의 실제 교정만 정확히 수행하는 특화 모델이 개발되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "9d47ad98f264f0e4",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2e40k/experience_report_qwen_38_flash_next_on_memory/",
+   "source": "r/LocalLLaMA",
+   "title": "Experience report - Qwen 3.8 Flash Next on memory rich, GPU poor setup",
+   "published_at": "2026-08-30T10:36:09+00:00",
+   "collected_at": "2026-08-30T12:46:51.050311+00:00",
+   "title_ko": "고용량 메모리 기반 홈 서버에서의 대형 모델 구동 경험",
+   "summary_ko": "가성비 좋은 워크스테이션과 고용량 RAM을 활용해 로컬 환경에서 대형 언어 모델을 효율적으로 구동하는 세팅 공유가 주목받고 있습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
    "id": "ea81e1ba2096a38a",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214616",
    "source": "AI타임스",
@@ -51,6 +157,21 @@
    ]
   },
   {
+   "id": "ef625d41fabe427e",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2dij0/when_you_say_because_i_can_limits_of_x870e/",
+   "source": "r/LocalLLaMA",
+   "title": "When you say, because I can. Limits of X870e",
+   "published_at": "2026-08-30T10:02:30+00:00",
+   "collected_at": "2026-08-30T12:46:51.050311+00:00",
+   "title_ko": "고성능 홈랩 구축을 통한 대형 언어 모델 로컬 구동",
+   "summary_ko": "대용량 메모리와 최신 하드웨어를 결합해 로컬 환경에서 대형 오픈소스 모델을 원활하게 실행하는 사용자 사례가 공유되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
    "id": "97bdcacffb837ecb",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214613",
    "source": "AI타임스",
@@ -63,6 +184,22 @@
    "tags": [
     "OpenAI",
     "코딩"
+   ]
+  },
+  {
+   "id": "deb9ddfd97bac804",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2cxcw/some_people_said_the_minecraft_clone_i_fully/",
+   "source": "r/LocalLLaMA",
+   "title": "Some people said the Minecraft clone I fully vibecoded with Qwen3.8-27B Q4 is not that impressive because Minecraft is in the training data, so I had the model add 4 things that are probably not.",
+   "published_at": "2026-08-30T09:28:27+00:00",
+   "collected_at": "2026-08-30T12:46:51.050311+00:00",
+   "title_ko": "LLM으로 완전히 구현한 마인크래프트 클론 프로젝트",
+   "summary_ko": "오픈소스 LLM을 활용해 코딩부터 구현까지 마인크래프트 클론을 완성하고, 학습 데이터 외의 창의적 기능을 추가한 사례가 공유되었습니다.",
+   "category": "참고",
+   "tags": [
+    "코딩",
+    "오픈소스",
+    "LLM"
    ]
   },
   {
@@ -91,6 +228,66 @@
    "summary_ko": "KT가 서울대, KAIST와 함께 자율형 에이전트와 신뢰성 AI 등 지난 1년간의 산학 공동연구 성과를 공유하고 기술 내재화를 추진합니다.",
    "category": "참고",
    "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "9bac41d86f95d428",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2c4el/koboldcpp_v1120_released/",
+   "source": "r/LocalLLaMA",
+   "title": "Koboldcpp v1.120 released",
+   "published_at": "2026-08-30T08:42:07+00:00",
+   "collected_at": "2026-08-30T12:46:51.050311+00:00",
+   "title_ko": "로컬 LLM 구동 도구 'Koboldcpp v1.120' 출시",
+   "summary_ko": "로컬 환경에서 대형 언어 모델을 쉽게 실행할 수 있도록 돕는 인기 도구 Koboldcpp의 새 버전이 배포되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "ac472b20a8c85a2b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2b2j0/qwen38flashnext_at_170k_context_on_a_single_96_gb/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8-Flash-Next at 170K context on a single 96 GB card. ~110 tok/s.",
+   "published_at": "2026-08-30T07:41:06+00:00",
+   "collected_at": "2026-08-30T12:46:51.050311+00:00",
+   "title_ko": "Qwen3.8-Flash-Next, 단일 GPU에서 170K 컨텍스트 구동",
+   "summary_ko": "양자화된 Qwen 모델이 96GB VRAM 단일 카드에서 170K 이상의 긴 컨텍스트를 안정적으로 처리하며 고성능을 보여줍니다. 로컬 LLM 구동 효율성을 높이는 데 기여합니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "9d38959a9cf3071b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w29ukk/qwen38flashnext_nvfp4_day3_support_for_4xv100/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8-Flash-Next NVFP4 Day-3 support for 4xV100",
+   "published_at": "2026-08-30T06:31:25+00:00",
+   "collected_at": "2026-08-30T12:46:51.050311+00:00",
+   "title_ko": "SGLang, Qwen3.8-Flash-Next NVFP4 지원 추가",
+   "summary_ko": "SGLang이 구형 V100 GPU 환경에서도 Qwen 모델의 256k 풀 컨텍스트를 지원하기 시작했습니다. 대형 모델의 로컬 추론 접근성을 넓혀줍니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "1d13d848dea2dbeb",
+   "url": "https://www.reddit.com/r/singularity/comments/1w29ou2/introducing_s1_a_robot_model_that_learns_from_one/",
+   "source": "r/singularity",
+   "title": "Introducing S1: A robot model that learns from one example",
+   "published_at": "2026-08-30T06:22:29+00:00",
+   "collected_at": "2026-08-30T12:47:04.057306+00:00",
+   "title_ko": "단 한 번의 예시로 학습하는 로봇 모델 'S1' 공개",
+   "summary_ko": "단 한 개의 예시만 보고 학습할 수 있는 로봇 모델 S1이 공개되었습니다. 로봇 학습의 효율성을 극적으로 높여줄 잠재력이 있습니다.",
+   "category": "속보",
+   "tags": [
+    "로보틱스",
     "AI 에이전트"
    ]
   },
@@ -213,6 +410,21 @@
    "tags": [
     "NVIDIA",
     "오픈소스"
+   ]
+  },
+  {
+   "id": "04a5e7ee9d09536e",
+   "url": "https://www.reddit.com/r/singularity/comments/1w243so/glm_53_weights_are_now_public/",
+   "source": "r/singularity",
+   "title": "GLM 5.3 weights are now public",
+   "published_at": "2026-08-30T01:33:51+00:00",
+   "collected_at": "2026-08-30T12:47:04.057306+00:00",
+   "title_ko": "GLM 5.3 모델 가중치 공개",
+   "summary_ko": "GLM 5.3의 모델 가중치가 대중에 전면 공개되었습니다. 오픈소스 AI 연구 및 활용 생태계에 중요한 진전입니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM"
    ]
   },
   {
@@ -2797,213 +3009,6 @@
    "category": "속보",
    "tags": [
     "로보틱스"
-   ]
-  },
-  {
-   "id": "1ecc2ab9e1f9af6f",
-   "url": "https://news.ycombinator.com/item?id=49468252",
-   "source": "Hacker News",
-   "title": "Tell HN: Man, AI is killing my brain",
-   "published_at": "2026-08-27T17:28:27+00:00",
-   "collected_at": "2026-08-29T02:04:45.727255+00:00",
-   "title_ko": "개발 생산성 압박 속 AI가 인지 능력을 저하시키는 현상",
-   "summary_ko": "생산성 압박으로 인해 AI 코딩 도구에 과도하게 의존하게 되면서 깊이 있는 사고와 코드 검토 능력이 저하되는 개발자의 고충이 공유되었습니다. AI 시대 개발자들의 번아웃과 역량 의존성 문제를 다룹니다.",
-   "category": "참고",
-   "tags": [
-    "코딩",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "a1b7fda861089e4a",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214488",
-   "source": "AI타임스",
-   "title": "\"모델 개발과 거리 멀어진다\"...구글 AI 책임팀 본사 편입에 내부 우려 확산",
-   "published_at": "2026-08-27T17:27:01+00:00",
-   "collected_at": "2026-08-27T09:27:17.725897+00:00",
-   "title_ko": "구글, AI 안전성 책임 조직 본사 편입에 내부 우려 확산",
-   "summary_ko": "구글이 고위험 AI 모델을 평가하던 독립 안전 연구 조직을 본사로 편입하자 사내외에서 독립성 훼손 우려가 확산하고 있다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "규제"
-   ]
-  },
-  {
-   "id": "c6f8b03989a0ad46",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214486",
-   "source": "AI타임스",
-   "title": "탐지부터 조치까지 자동화...SKT 컨소시엄, 정부 보안 AI 사업 출사표",
-   "published_at": "2026-08-27T17:07:51+00:00",
-   "collected_at": "2026-08-27T09:27:17.725897+00:00",
-   "title_ko": "SKT 컨소시엄, 보안 특화 AI 파운데이션 모델 개발 출사표",
-   "summary_ko": "SK텔레콤과 업스테이지 등이 손잡고 과기정통부 주관의 사이버 보안 특화 AI 파운데이션 모델 개발 사업에 본격 착수했다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "9411c1d36bb5cf9a",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
-   "source": "Hacker News",
-   "title": "Gemini Omni 1.1 Flash",
-   "published_at": "2026-08-27T17:06:32+00:00",
-   "collected_at": "2026-08-27T20:18:21.694103+00:00",
-   "title_ko": "구글, 'Gemini Omni 1.1 Flash' 공개",
-   "summary_ko": "개발자들이 더 정밀하게 제어하며 애플리케이션을 구축할 수 있는 새로운 멀티모달 모델 Gemini Omni 1.1 Flash가 공개되었다.",
-   "category": "속보",
-   "tags": [
-    "Google",
-    "Gemini"
-   ]
-  },
-  {
-   "id": "cb3432957f50de49",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214472",
-   "source": "AI타임스",
-   "title": "구글, 음성 AI 실용성 극대화... '제미나이 3.5 트랜스크라이브'로 생태계 확장",
-   "published_at": "2026-08-27T17:02:58+00:00",
-   "collected_at": "2026-08-27T09:27:17.725897+00:00",
-   "title_ko": "구글, 실시간 음성 인식 강화한 '제미나이 3.5 트랜스크라이브' 공개",
-   "summary_ko": "구글이 말실수와 문맥까지 이해해 자연스러운 텍스트로 변환하는 실시간 음성 인식 AI 모델을 선보였다.",
-   "category": "속보",
-   "tags": [
-    "Gemini",
-    "Google"
-   ]
-  },
-  {
-   "id": "02265797964f8b1f",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214504",
-   "source": "AI타임스",
-   "title": "[게시판] KAIST, 글로벌 기업과 ‘자율실험실’ 구축 등 단신",
-   "published_at": "2026-08-27T17:00:00+00:00",
-   "collected_at": "2026-08-27T20:18:36.371999+00:00",
-   "title_ko": "KAIST, 글로벌 기업과 차세대 자율실험실 구축 추진",
-   "summary_ko": "KAIST가 첨단 연구장비와 자동화 시스템을 결합한 차세대 자율형 연구허브 구축을 위해 글로벌 과학 기업과 손을 잡았다.",
-   "category": "참고",
-   "tags": [
-    "연구",
-    "자동화"
-   ]
-  },
-  {
-   "id": "34125dee69c5da37",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzzkd6/nvidia_next_gen_vera_rubin_gpus_scheduled_for/",
-   "source": "r/LocalLLaMA",
-   "title": "NVIDIA Next Gen Vera Rubin GPUs scheduled for mid-2027",
-   "published_at": "2026-08-27T16:56:18+00:00",
-   "collected_at": "2026-08-28T05:17:20.473114+00:00",
-   "title_ko": "NVIDIA 차세대 베라 루빈 GPU, 2027년 중반 출시 예정",
-   "summary_ko": "NVIDIA의 차세대 아키텍처 기반 '베라 루빈' GPU가 2027년 중반에 출시될 예정입니다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "반도체"
-   ]
-  },
-  {
-   "id": "fd0ca20679faf520",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214464",
-   "source": "AI타임스",
-   "title": "딥시크, 올해 매출 1000억 눈앞...7개월 만에 10배 폭증",
-   "published_at": "2026-08-27T16:52:01+00:00",
-   "collected_at": "2026-08-27T09:27:17.725897+00:00",
-   "title_ko": "딥시크, 올해 매출 1000억 원 육박…7개월 만에 10배 폭증",
-   "summary_ko": "딥시크가 가파른 성장세를 기록하며 올해 상반기 매출이 전년 동기 대비 10배 가까이 급증했다.",
-   "category": "중요",
-   "tags": [
-    "투자"
-   ]
-  },
-  {
-   "id": "a4b3c338efd00f7b",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214495",
-   "source": "AI타임스",
-   "title": "오픈AI \"에이전트 1200개 집단 행동 확인\"…허깅페이스 해킹 전말 공개",
-   "published_at": "2026-08-27T16:17:09+00:00",
-   "collected_at": "2026-08-27T09:27:17.725897+00:00",
-   "title_ko": "오픈AI, '허깅페이스 해킹' 사고 전말 담은 최종 보고서 공개",
-   "summary_ko": "오픈AI가 외부 전문가들과 함께 허깅페이스 해킹 사건의 구체적인 침범 규모와 AI 에이전트의 집단 행동 정황을 공개했다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI"
-   ]
-  },
-  {
-   "id": "4bff0fc5b0f15553",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
-   "source": "The Verge",
-   "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
-   "published_at": "2026-08-27T16:15:52+00:00",
-   "collected_at": "2026-08-27T20:18:19.805331+00:00",
-   "title_ko": "젠슨 황 \"NVIDIA가 AGI 달성했다\" 발언의 진의",
-   "summary_ko": "NVIDIA CEO 젠슨 황이 실적 발표에서 AGI를 달성했다고 언급했으나, 동시에 그 기준의 모호함을 지적하며 큰 의미를 두지 않았다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "AGI"
-   ]
-  },
-  {
-   "id": "3f31cf6defd07cb6",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214491",
-   "source": "AI타임스",
-   "title": "미니맥스, 상반기 매출 4배 뛰어도 적자 폭 확대...인프라 투자 부담 급증",
-   "published_at": "2026-08-27T16:15:00+00:00",
-   "collected_at": "2026-08-27T20:18:36.371999+00:00",
-   "title_ko": "미니맥스, 상반기 매출 급증에도 인프라 비용으로 적자 확대",
-   "summary_ko": "중국 AI 스타트업 미니맥스가 기업용 사업 성장으로 상반기 매출이 4배 늘었으나, 인프라 투자 부담으로 적자 폭도 함께 커졌다.",
-   "category": "중요",
-   "tags": [
-    "투자",
-    "스타트업"
-   ]
-  },
-  {
-   "id": "5b132fba12b8380b",
-   "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-   "source": "DeepMind",
-   "title": "Gemini Omni 1.1 Flash lets you build with more control",
-   "published_at": "2026-08-27T16:11:32+00:00",
-   "collected_at": "2026-08-27T20:18:21.179009+00:00",
-   "title_ko": "구글, 개발자를 위한 Gemini Omni 1.1 Flash 발표",
-   "summary_ko": "개발자가 더욱 세밀하게 제어할 수 있는 Gemini Omni 1.1 Flash 모델이 새롭게 출시되었다.",
-   "category": "속보",
-   "tags": [
-    "Google",
-    "Gemini"
-   ]
-  },
-  {
-   "id": "69bc715c77971c63",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214500",
-   "source": "AI타임스",
-   "title": "과기부, 독파모 프로젝트서 확보한 AI 학습용 데이터 29종 개방",
-   "published_at": "2026-08-27T16:10:00+00:00",
-   "collected_at": "2026-08-28T05:17:34.957619+00:00",
-   "title_ko": "과기정통부, 독자 AI 파운데이션 모델 학습용 데이터 29종 개방",
-   "summary_ko": "정부의 독자 AI 프로젝트를 통해 확보된 멀티모달 및 사전학습용 대규모 데이터셋이 AI허브를 통해 전격 공개되었습니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "38e38808c623ab61",
-   "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-   "source": "Google AI",
-   "title": "3 new ways to plan and book travel in Search",
-   "published_at": "2026-08-27T16:00:00+00:00",
-   "collected_at": "2026-08-27T20:18:20.844274+00:00",
-   "title_ko": "구글 검색, AI 기반 여행 일정 계획 기능 도입",
-   "summary_ko": "구글 검색의 AI 모드에 항공권 가격 추적 및 호텔 예약 등 새로운 여행 계획 기능이 추가되었다.",
-   "category": "속보",
-   "tags": [
-    "Google",
-    "AI 에이전트"
    ]
   }
  ]
