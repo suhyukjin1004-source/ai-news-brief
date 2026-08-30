@@ -1,8 +1,142 @@
 {
- "updated_at": "2026-08-30T12:47:14.810172+00:00",
+ "updated_at": "2026-08-30T20:57:53.824353+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "383da4ee8bba2dcd",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2r6v8/we_used_hflow_to_evaluate_the_latest_open_weights/",
+   "source": "r/LocalLLaMA",
+   "title": "We used HFlow to evaluate the latest open weights VLMs for processing egocentric data",
+   "published_at": "2026-08-30T19:40:15+00:00",
+   "collected_at": "2026-08-30T20:57:31.062554+00:00",
+   "title_ko": "오픈소스 VLM 평가에서 Gemma와 Qwen이 뛰어난 성능 입증",
+   "summary_ko": "HFlow를 이용한 시각 언어 모델(VLM) 평가에서 Gemma와 Qwen 모델이 Gemini에 준하는 성능을 내면서도 훨씬 저렴한 비용으로 구동 가능함을 확인했습니다.",
+   "category": "참고",
+   "tags": [
+    "Gemma",
+    "Qwen",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "2b80ecca1d216d63",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2r37q/are_there_any_interesting_architectural/",
+   "source": "r/LocalLLaMA",
+   "title": "Are there any interesting architectural innovations that we seem to be on the verge of for LLM models or AI models that might be a big deal? (Excluding maybe N-gram, since everyone is already well aware of that one)",
+   "published_at": "2026-08-30T19:36:21+00:00",
+   "collected_at": "2026-08-30T20:57:31.062554+00:00",
+   "title_ko": "LLM 아키텍처의 차세대 혁신 가능성에 대한 논의",
+   "summary_ko": "기존에 잘 알려진 N-gram이나 양자화 기술 외에 LLM 및 AI 모델의 근본적인 구조 변화를 가져올 새로운 아키텍처 혁신에 대한 탐색이 이루어지고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "LLM",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "55762f8399acccb3",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2qe1t/demo_of_local_document_extraction_52_pages_using/",
+   "source": "r/LocalLLaMA",
+   "title": "Demo of local document extraction (52 pages) using Arctic Embed and Bonsai 8B on an Iphone 16 (KernelAI app)",
+   "published_at": "2026-08-30T19:09:57+00:00",
+   "collected_at": "2026-08-30T20:57:31.062554+00:00",
+   "title_ko": "모바일 기기에서 로컬 8B 모델을 활용한 문서 추출 기능 시연",
+   "summary_ko": "아이폰에서 KernelAI 앱을 통해 대용량 문서를 로컬에서 직접 추출하고 8B 모델을 구동하는 시연이 공유되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "fb84d74af867b13b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2qcf0/qwen3827budiq3xxs_end_to_end_build_app_prompt/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8-27b-UD-IQ3XXS - End to end Build App -> Prompt Flow-> Test to Image -> Image to Video - Stitch",
+   "published_at": "2026-08-30T19:08:14+00:00",
+   "collected_at": "2026-08-30T20:57:31.062554+00:00",
+   "title_ko": "Qwen 3.8B 모델을 활용한 앱 빌드부터 멀티모달 파이프라인 시연",
+   "summary_ko": "Qwen 3.8B 모델을 활용해 프롬프트 플로우부터 텍스트-이미지, 이미지-비디오 변환까지 아우르는 파이프라인 구축 사례가 공유되었습니다.",
+   "category": "팁",
+   "tags": [
+    "Qwen",
+    "코딩"
+   ]
+  },
+  {
+   "id": "d79689fe6bae7404",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2qb2y/will_apple_still_release_devices_with_mobile_hbm/",
+   "source": "r/LocalLLaMA",
+   "title": "Will apple still release devices with mobile HbM in 2027 ?",
+   "published_at": "2026-08-30T19:06:49+00:00",
+   "collected_at": "2026-08-30T20:57:31.062554+00:00",
+   "title_ko": "애플의 모바일 HBM 탑재 기기 출시 계획 주목",
+   "summary_ko": "메모리 가격 상승으로 인해 애플이 향후 모바일 HBM 탑재 기기 출시 계획을 수정할 것인지에 대한 업계의 관심이 이어지고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "반도체"
+   ]
+  },
+  {
+   "id": "34be4c2c4031da05",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2q1ug/nvidia_dgx_station_delivering_datacenterclass/",
+   "source": "r/LocalLLaMA",
+   "title": "NVIDIA® DGX Station™ Delivering Data-Center-Class Performance from the Desktop",
+   "published_at": "2026-08-30T18:57:22+00:00",
+   "collected_at": "2026-08-30T20:57:31.062554+00:00",
+   "title_ko": "데스크톱에서 데이터센터급 성능 제공하는 NVIDIA DGX Station",
+   "summary_ko": "막대한 VRAM 대역폭을 제공하여 소규모 비즈니스나 로컬 환경에서도 고성능 AI 연산이 가능한 NVIDIA DGX Station이 주목받고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "NVIDIA",
+    "반도체"
+   ]
+  },
+  {
+   "id": "7b848f1d52c31102",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2q1hx/whatever_happened_to_openclaw_and_its_derivatives/",
+   "source": "r/LocalLLaMA",
+   "title": "Whatever happened to OpenClaw and its derivatives?",
+   "published_at": "2026-08-30T18:56:59+00:00",
+   "collected_at": "2026-08-30T20:57:31.062554+00:00",
+   "title_ko": "OpenClaw 프로젝트의 최근 동향과 활용도 점검",
+   "summary_ko": "한때 큰 인기를 끌었던 OpenClaw 및 파생 프로젝트들의 인기가 식어감에 따라 실제 실무 활용 현황에 대한 논의가 진행되고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "ece7c731975e0c33",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2pwym/1x32gb_v100_vs_2x16gb_v100_vs_5060ti_16gb_for/",
+   "source": "r/LocalLLaMA",
+   "title": "1x32GB V100 vs 2x16GB V100 vs 5060ti 16GB for QWEN 3.8",
+   "published_at": "2026-08-30T18:52:15+00:00",
+   "collected_at": "2026-08-30T20:57:31.062554+00:00",
+   "title_ko": "Qwen 3.8 모델 구동을 위한 하드웨어 및 VRAM 구성 비교",
+   "summary_ko": "Qwen 3.8 모델의 컨텍스트 확장과 원활한 양자화 구동을 위해 V100 GPU 구성과 소비자용 GPU 간의 성능 및 대역폭을 비교하는 논의가 이루어졌습니다.",
+   "category": "팁",
+   "tags": [
+    "Qwen",
+    "반도체"
+   ]
+  },
+  {
+   "id": "2cf8f1ccfc363546",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2pvsd/here_my_pretty_good_qwen38_27b_setup_hope_it_helps/",
+   "source": "r/LocalLLaMA",
+   "title": "Here my pretty good qwen3.8 27B setup, hope it helps",
+   "published_at": "2026-08-30T18:51:03+00:00",
+   "collected_at": "2026-08-30T20:57:31.062554+00:00",
+   "title_ko": "Qwen 3.8 27B 모델의 리눅스 로컬 구동 최적화 셋업",
+   "summary_ko": "AMD와 데비안 환경에서 Qwen 3.8 27B 모델을 안정적으로 구동하기 위한 하드웨어 및 소프트웨어 스택 구성 공유가 공유되었습니다.",
+   "category": "팁",
+   "tags": [
+    "Qwen",
+    "오픈소스"
+   ]
+  },
   {
    "id": "323e3e53c3d1c104",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214627",
@@ -17,6 +151,21 @@
     "반도체",
     "NVIDIA",
     "Google"
+   ]
+  },
+  {
+   "id": "acbae17cad15edf6",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2nz07/qwen_38_flash_next_locally_on_simple_mobile_phone/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen 3.8 Flash Next locally on simple mobile phone at 3.5 tok/s",
+   "published_at": "2026-08-30T17:39:30+00:00",
+   "collected_at": "2026-08-30T20:57:31.062554+00:00",
+   "title_ko": "중저가 스마트폰에서 Qwen 3.8 Flash 모델 로컬 구동 성공",
+   "summary_ko": "최적화와 저양자화 기법을 적용하여 400~500달러 대의 보급형 안드로이드 스마트폰에서도 대형 모델을 구동할 수 있음을 보여주었습니다.",
+   "category": "참고",
+   "tags": [
+    "Qwen",
+    "오픈소스"
    ]
   },
   {
@@ -47,6 +196,35 @@
    "tags": [
     "규제",
     "정책"
+   ]
+  },
+  {
+   "id": "1bf3b4451c9182e2",
+   "url": "https://news.hada.io/topic?id=33041",
+   "source": "GeekNews",
+   "title": "AI 없는 금요일",
+   "published_at": "2026-08-30T16:32:24+00:00",
+   "collected_at": "2026-08-30T20:57:45.630099+00:00",
+   "title_ko": "개발팀의 AI 의존도 낮추기를 위한 'AI 없는 금요일' 실천",
+   "summary_ko": "소프트웨어 개발팀이 매주 하루 AI 코딩 도우미 없이 코딩하며 기술 저하를 막고 비판적 사고를 점검하는 실천 방식이 소개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "코딩"
+   ]
+  },
+  {
+   "id": "2929f114895fb92b",
+   "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/",
+   "source": "Hacker News",
+   "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+   "published_at": "2026-08-30T14:06:54+00:00",
+   "collected_at": "2026-08-30T20:57:29.264653+00:00",
+   "title_ko": "허깅페이스 해킹 사태 분석 보고서 공개",
+   "summary_ko": "METR과 레드우드 리서치가 최근 발생한 허깅페이스 해킹 사건의 원인과 대응 과정을 분석한 포스트모템을 발표했습니다. AI 플랫폼 보안 강화의 중요성을 시사합니다.",
+   "category": "참고",
+   "tags": [
+    "보안",
+    "오픈소스"
    ]
   },
   {
@@ -2828,187 +3006,6 @@
     "NVIDIA",
     "오픈소스",
     "투자"
-   ]
-  },
-  {
-   "id": "1673cfd4c00e7608",
-   "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-   "source": "Hacker News",
-   "title": "Previewing the Model Hardware Standard",
-   "published_at": "2026-08-27T18:04:50+00:00",
-   "collected_at": "2026-08-28T05:17:18.984515+00:00",
-   "title_ko": "앤스로픽, '모델 하드웨어 표준' 연구 프리뷰 공개",
-   "summary_ko": "앤스로픽이 AI 모델 구동을 위한 하드웨어 표준 연구 프리뷰를 공개하며 인프라 기준 정립에 나섰습니다.",
-   "category": "참고",
-   "tags": [
-    "Anthropic",
-    "반도체"
-   ]
-  },
-  {
-   "id": "dacb3424514f96fe",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
-   "source": "Hacker News",
-   "title": "Gemini-3.5-Transcribe",
-   "published_at": "2026-08-27T18:03:42+00:00",
-   "collected_at": "2026-08-28T05:17:18.984515+00:00",
-   "title_ko": "구글, 'Gemini 3.5 Transcribe' 모델 발표",
-   "summary_ko": "구글이 음성 인식 및 전사(Transcription) 성능을 대폭 강화한 새로운 제미나이 모델을 공개했습니다.",
-   "category": "속보",
-   "tags": [
-    "Google",
-    "Gemini"
-   ]
-  },
-  {
-   "id": "0a2d8e9f5bc740a3",
-   "url": "https://news.hada.io/topic?id=32947",
-   "source": "GeekNews",
-   "title": "범용 VM은 사이버 역량을 갖춘 에이전트를 격리하지 못함",
-   "published_at": "2026-08-27T18:02:24+00:00",
-   "collected_at": "2026-08-27T20:18:37.856671+00:00",
-   "title_ko": "범용 VM의 AI 사이버 에이전트 격리 한계 지적",
-   "summary_ko": "보안 연구 결과 가상 머신 환경이 자율적인 사이버 보안 AI 에이전트의 탈출을 완벽히 막지 못하는 것으로 나타났습니다.",
-   "category": "참고",
-   "tags": [
-    "규제",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "0b46c6475cb0ef80",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214477",
-   "source": "AI타임스",
-   "title": "오픈AI \"AGI 임계점에 도달…올해 말 내부 구축 완료할 것\"",
-   "published_at": "2026-08-27T18:00:00+00:00",
-   "collected_at": "2026-08-27T20:18:36.371999+00:00",
-   "title_ko": "오픈AI, \"올해 말 내부 AGI 도달 목표\"",
-   "summary_ko": "샘 알트만 오픈AI CEO가 인터뷰를 통해 올해 말까지 내부적으로 AGI 시스템을 구축할 것이라고 밝혔습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "투자"
-   ]
-  },
-  {
-   "id": "64cc67311211537e",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0198r/no_engrams_wont_let_you_run_1t_models_locally_it/",
-   "source": "r/LocalLLaMA",
-   "title": "No, Engrams won't let you run 1T models locally. It does something even better.",
-   "published_at": "2026-08-27T17:56:34+00:00",
-   "collected_at": "2026-08-27T20:18:22.899485+00:00",
-   "title_ko": "로컬 LLM 성능을 높이는 N-gram 임베딩 기술 분석",
-   "summary_ko": "대형 모델 구동에 대한 오해를 바로잡고, N-gram 기반 임베딩 테이블이 로컬 모델의 효율을 어떻게 높이는지 설명합니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "AI 모델"
-   ]
-  },
-  {
-   "id": "3b9c8181f60d67bb",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214458",
-   "source": "AI타임스",
-   "title": "알리바바, ‘큐원 3.8 플래시 넥스트’ 공개... \"큐원4 아키텍처 미리보기\"",
-   "published_at": "2026-08-27T17:55:23+00:00",
-   "collected_at": "2026-08-27T09:27:17.725897+00:00",
-   "title_ko": "알리바바, 차기 아키텍처 미리보기 '큐원3.8 플래시 넥스트' 공개",
-   "summary_ko": "알리바바가 학습 비용을 대폭 낮춘 차세대 큐원4 아키텍처 기반의 오픈웨이트 모델을 공개했다. 효율적인 연산 구조로 성능과 경제성을 모두 잡았다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "9e24a6935969c689",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214501",
-   "source": "AI타임스",
-   "title": "SKT, AIDC 전문 기업 'SK호라이즌' 설립...SK하이퍼와 차별점은",
-   "published_at": "2026-08-27T17:55:00+00:00",
-   "collected_at": "2026-08-27T20:18:36.371999+00:00",
-   "title_ko": "SK텔레콤, AIDC 인프라 전문 기업 'SK호라이즌' 설립",
-   "summary_ko": "SK텔레콤이 SK브로드밴드를 인적분할해 AI 데이터센터 인프라 전문 기업 'SK호라이즌'을 신설하고 318MW 규모의 인프라 확장에 나선다.",
-   "category": "중요",
-   "tags": [
-    "인프라",
-    "데이터센터"
-   ]
-  },
-  {
-   "id": "41edd1b139967b7b",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214457",
-   "source": "AI타임스",
-   "title": "빌 게이츠의 경고 \"AI 격동 대비해야\"...'인간 전용 일자리'와 'AI 토큰세' 제안",
-   "published_at": "2026-08-27T17:48:44+00:00",
-   "collected_at": "2026-08-27T09:27:17.725897+00:00",
-   "title_ko": "빌 게이츠, AI 격동기 경고하며 '인간 전용 일자리' 및 '토큰세' 제안",
-   "summary_ko": "빌 게이츠가 AI 발전으로 인한 대규모 일자리 대체와 사회적 혼란에 대비해 정부의 선제적 규제와 토큰세 도입을 촉구했다.",
-   "category": "중요",
-   "tags": [
-    "규제",
-    "투자"
-   ]
-  },
-  {
-   "id": "d75be4dbd95d5a20",
-   "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-   "source": "TechCrunch",
-   "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-   "published_at": "2026-08-27T17:43:24+00:00",
-   "collected_at": "2026-08-27T20:18:19.689247+00:00",
-   "title_ko": "OpenAI·Anthropic 등, AI 위협 대응 위한 공동 행동 촉구",
-   "summary_ko": "세계 주요 AI 기업들이 사이버 보안의 현주소를 비판하며 차세대 사이버 위협을 방어하기 위한 새로운 솔루션을 공동으로 선보였다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "Anthropic",
-    "Google"
-   ]
-  },
-  {
-   "id": "bdeb328fbede8f3f",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214479",
-   "source": "AI타임스",
-   "title": "\"아이디·비번 노출 없다\"…챗GPT 워크, 웹사이트 직접 로그인 기능 탑재",
-   "published_at": "2026-08-27T17:39:56+00:00",
-   "collected_at": "2026-08-27T09:27:17.725897+00:00",
-   "title_ko": "오픈AI, 비밀번호 노출 없는 웹 로그인 기능 '챗GPT 워크' 탑재",
-   "summary_ko": "오픈AI가 사용자의 민감한 정보 노출 없이 웹사이트에 직접 접근해 업무를 수행하는 기능을 추가하며 자율형 에이전트 시대를 가속화했다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "GPT",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "4e6c2dcd052dc29c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w00ngm/support_for_dflash2_in_llamacpp_has_been_merged/",
-   "source": "r/LocalLLaMA",
-   "title": "Support for DFlash2 in llama.cpp has been merged! - spec : add DFlash2 support (local convolution + candidate selector) by SubSir · Pull Request #27342 · ggml-org/llama.cpp",
-   "published_at": "2026-08-27T17:35:16+00:00",
-   "collected_at": "2026-08-27T20:18:22.899485+00:00",
-   "title_ko": "llama.cpp, DFlash2 지원 기능 병합",
-   "summary_ko": "로컬 LLM 구동을 위한 llama.cpp에 DFlash2(로컬 컨볼루션 및 후보 선택기) 지원 기능이 정식 병합되었다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "efdb9622efe0403a",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214494",
-   "source": "AI타임스",
-   "title": "\"영상 한 번 보면 바로 따라한다\"...스킬드 AI, 로봇 파운데이션 모델 'S1' 공개",
-   "published_at": "2026-08-27T17:32:18+00:00",
-   "collected_at": "2026-08-27T09:27:17.725897+00:00",
-   "title_ko": "스킬드 AI, 영상 시연만으로 학습하는 로봇 모델 'S1' 공개",
-   "summary_ko": "스킬드 AI가 단 한 편의 비디오 시연으로 복잡한 작업을 학습하는 맥락 학습 기반의 로봇 파운데이션 모델을 선보였다.",
-   "category": "속보",
-   "tags": [
-    "로보틱스"
    ]
   }
  ]
