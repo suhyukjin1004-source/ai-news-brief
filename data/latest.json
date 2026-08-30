@@ -1,8 +1,51 @@
 {
- "updated_at": "2026-08-30T20:57:53.824353+00:00",
+ "updated_at": "2026-08-30T23:24:33.151724+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "049ff57c2a6cab5b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2v97w/i_collected_every_single_llm_coding_benchmark_and/",
+   "source": "r/LocalLLaMA",
+   "title": "I collected every single LLM coding benchmark, and computed their Intelligence Density",
+   "published_at": "2026-08-30T22:20:36+00:00",
+   "collected_at": "2026-08-30T23:24:16.812120+00:00",
+   "title_ko": "LLM 코딩 벤치마크 통합 '지능 밀도' 지표 발표",
+   "summary_ko": "다양한 에이전트 코딩 벤치마크를 통합하여 모델의 파라미터 대비 성능을 측정하는 지능 밀도 지표가 공개되었습니다. 모델의 실제 코딩 역량을 객관적으로 비교하는 데 도움을 줍니다.",
+   "category": "참고",
+   "tags": [
+    "코딩",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "e654dfca500a417e",
+   "url": "https://news.hada.io/topic?id=33045",
+   "source": "GeekNews",
+   "title": "TwelveLabs Jockey로 강의 검수 파이프라인 만들기, 한 달 실측기",
+   "published_at": "2026-08-30T22:01:39+00:00",
+   "collected_at": "2026-08-30T23:24:31.340919+00:00",
+   "title_ko": "TwelveLabs Jockey를 활용한 강의 검수 자동화 실측기",
+   "summary_ko": "인프런 강의 제작 시 병목이었던 검수 과정을 AI 비디오 도구로 자동화한 후기입니다. 편집 효율성을 높여 실무 생산성을 크게 개선했습니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "892fde798fea3a72",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2ujys/qwen_38_27b_fantastic_german_capabilities/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen 3.8 27B - Fantastic German capabilities",
+   "published_at": "2026-08-30T21:51:23+00:00",
+   "collected_at": "2026-08-30T23:24:16.812120+00:00",
+   "title_ko": "Qwen 모델의 뛰어난 독일어 번역 성능 후기",
+   "summary_ko": "Qwen 모델이 직역투가 심한 타 프론티어 모델에 비해 자연스러운 독일어 번역 및 문장 구조를 보여준다는 사용자 평가입니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
   {
    "id": "383da4ee8bba2dcd",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2r6v8/we_used_hflow_to_evaluate_the_latest_open_weights/",
@@ -2959,53 +3002,6 @@
    "category": "속보",
    "tags": [
     "오픈소스"
-   ]
-  },
-  {
-   "id": "48e514bec26bad33",
-   "url": "https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc",
-   "source": "Hacker News",
-   "title": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
-   "published_at": "2026-08-27T18:34:40+00:00",
-   "collected_at": "2026-08-28T05:17:19.499639+00:00",
-   "title_ko": "NVIDIA, 워싱턴 DC 정치 영향력 강화를 위한 PAC 설립",
-   "summary_ko": "AI 칩 선두 주자인 NVIDIA가 미국 정치권 내 영향력을 높이기 위해 정치활동위원회(PAC)를 결성했습니다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "규제"
-   ]
-  },
-  {
-   "id": "3c1c207aded42736",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w01y1f/with_huggingface_nvidia_is_also_acquiring/",
-   "source": "r/LocalLLaMA",
-   "title": "With HuggingFace, Nvidia is also acquiring llama.cpp and the team behind it",
-   "published_at": "2026-08-27T18:20:54+00:00",
-   "collected_at": "2026-08-27T20:18:22.899485+00:00",
-   "title_ko": "엔비디아의 허깅페이스 인수로 인한 llama.cpp 향방 우려",
-   "summary_ko": "엔비디아의 허깅페이스 인수 과정에서 핵심 개발진이 소속된 llama.cpp 프로젝트의 오픈소스 지속성에 대한 우려가 제기되고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "오픈소스",
-    "투자"
-   ]
-  },
-  {
-   "id": "3b8f2cba53829dd1",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214502",
-   "source": "AI타임스",
-   "title": "엔비디아, '오픈소스' 허깅페이스 18조에 인수...AI 생태계 수직통합",
-   "published_at": "2026-08-27T18:05:53+00:00",
-   "collected_at": "2026-08-27T20:18:36.371999+00:00",
-   "title_ko": "엔비디아, 허깅페이스 18조 원에 인수",
-   "summary_ko": "엔비디아가 세계 최대 오픈소스 AI 플랫폼 허깅페이스를 인수하며 하드웨어부터 개발자 생태계까지 수직통합을 강화합니다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "오픈소스",
-    "투자"
    ]
   }
  ]
