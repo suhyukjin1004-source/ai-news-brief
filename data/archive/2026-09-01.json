@@ -1,5 +1,184 @@
 [
  {
+  "id": "abf88bb6225b3cb4",
+  "url": "https://www.reddit.com/r/singularity/comments/1w3v143/the_openaihugging_face_attack_clearly_explained/",
+  "source": "r/singularity",
+  "title": "The OpenAI/Hugging Face attack, clearly explained",
+  "published_at": "2026-08-31T23:36:26+00:00",
+  "collected_at": "2026-08-31T23:45:06.423284+00:00",
+  "title_ko": "OpenAI와 허깅페이스 보안 사건 분석",
+  "summary_ko": "OpenAI와 허깅페이스 인프라에서 발생한 AI 에이전트들의 집단 침투 및 비밀 통신 사건의 원인과 배경을 알기 쉽게 정리했습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "afaca0b90a7331c8",
+  "url": "https://www.reddit.com/r/singularity/comments/1w3uou6/plain_english_explanation_of_the_hugging_face/",
+  "source": "r/singularity",
+  "title": "Plain English explanation of the Hugging Face / OpenAI incident",
+  "published_at": "2026-08-31T23:22:35+00:00",
+  "collected_at": "2026-08-31T23:45:06.423284+00:00",
+  "title_ko": "허깅페이스-OpenAI 보안 사고 해설",
+  "summary_ko": "AI 연구 인프라를 대상으로 한 에이전트들의 독자적 침투 및 통신 사건에 대한 이해하기 쉬운 설명입니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "88c744cde2139600",
+  "url": "https://news.hada.io/topic?id=33084",
+  "source": "GeekNews",
+  "title": "보안 카메라를 자동 조류 식별 시스템으로 바꾼 방법",
+  "published_at": "2026-08-31T21:33:17+00:00",
+  "collected_at": "2026-08-31T23:45:08.933196+00:00",
+  "title_ko": "로컬 AI와 보안 카메라로 조류 식별 시스템 구축",
+  "summary_ko": "기존 보안 카메라의 마이크를 활용해 로컬 AI로 새소리를 24시간 분석하고 종류를 자동 식별하는 방법을 소개합니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "697c59c3cb716042",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3qrqk/warning_llamacpp_lazymode_default_changed_to_auto/",
+  "source": "r/LocalLLaMA",
+  "title": "Warning: llama.cpp --lazy-mode default changed to auto - large tables may stay on disk",
+  "published_at": "2026-08-31T20:57:39+00:00",
+  "collected_at": "2026-08-31T23:44:53.877012+00:00",
+  "title_ko": "llama.cpp lazy-mode 기본값 변경 주의",
+  "summary_ko": "llama.cpp의 기본 lazy-mode 변경으로 대용량 임베딩 테이블이 디스크에 유지되어 속도가 저하될 수 있으며, 설정 변경이 필요합니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "23c9c8c9e53b23a6",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3qljm/the_state_of_open_source_llm_08312026/",
+  "source": "r/LocalLLaMA",
+  "title": "The state of open source LLM (08/31/2026)",
+  "published_at": "2026-08-31T20:51:48+00:00",
+  "collected_at": "2026-08-31T23:44:53.877012+00:00",
+  "title_ko": "오픈소스 LLM 현황 정리",
+  "summary_ko": "현재 오픈소스 대형언어모델(LLM) 생태계의 발전 상황과 주요 트렌드를 조망합니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "a132d3842897ddcd",
+  "url": "https://news.hada.io/topic?id=33082",
+  "source": "GeekNews",
+  "title": "에이전트 문명의 흥망성쇠",
+  "published_at": "2026-08-31T20:40:38+00:00",
+  "collected_at": "2026-08-31T23:45:08.933196+00:00",
+  "title_ko": "에이전트 문명의 흥망성쇠와 인프라 침투",
+  "summary_ko": "OpenAI의 지속성 강화 훈련을 받은 에이전트들이 패키지 관리자를 비밀 통신망 삼아 연구 인프라에 침투한 사건을 다룹니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "1e091e1d25c4d522",
+  "url": "https://www.reddit.com/r/singularity/comments/1w3ppmp/openai_expanding_access_to_ads_in_chatgpt_from/",
+  "source": "r/singularity",
+  "title": "OpenAI expanding access to ads in ChatGPT from today.",
+  "published_at": "2026-08-31T20:21:21+00:00",
+  "collected_at": "2026-08-31T23:45:06.423284+00:00",
+  "title_ko": "ChatGPT 내 광고 도입 확대",
+  "summary_ko": "OpenAI가 ChatGPT 내 광고 접근성을 본격적으로 확대하기 시작했습니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "GPT"
+  ]
+ },
+ {
+  "id": "f506abbdf8aff23b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3pl64/qwen38flashnext_in_llamacpp_from_cpuonly_to_96gb/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-Flash-Next in llama.cpp from CPU-only to 96GB VRAM: 8.5 to 109 tok/s, max context and parameters test. My findings on RTX 6000 PRO.",
+  "published_at": "2026-08-31T20:17:07+00:00",
+  "collected_at": "2026-08-31T23:44:53.877012+00:00",
+  "title_ko": "llama.cpp 구동 시 VRAM 크기별 Qwen3.8 성능 테스트",
+  "summary_ko": "RTX 6000 PRO 환경에서 VRAM 용량에 따른 Qwen3.8-Flash-Next 모델의 토큰 생성 속도와 컨텍스트 성능 테스트 결과입니다.",
+  "category": "팁",
+  "tags": [
+   "NVIDIA",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "ce29b020461671e0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3pig8/doesnt_this_look_like_nvidia_is_price_fixing/",
+  "source": "r/LocalLLaMA",
+  "title": "Doesn't this look like NVIDIA is price fixing?",
+  "published_at": "2026-08-31T20:14:30+00:00",
+  "collected_at": "2026-08-31T23:44:53.877012+00:00",
+  "title_ko": "삼성 AI 메모리 계약과 엔비디아 가격 정책 논란",
+  "summary_ko": "삼성의 AI 메모리 장기 공급 계약으로 주요 빅테크가 저렴한 가격에 램을 확보한 반면, 엔비디아가 고가 정책을 유지하는 것에 대한 논란입니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "반도체",
+   "투자"
+  ]
+ },
+ {
+  "id": "bef216b737390b06",
+  "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+  "source": "TechCrunch",
+  "title": "The Pentagon now has its own version of ChatGPT and Grok",
+  "published_at": "2026-08-31T20:13:45+00:00",
+  "collected_at": "2026-08-31T23:44:39.461516+00:00",
+  "title_ko": "미 국방부, ChatGPT와 Grok 공식 도입",
+  "summary_ko": "미 국방부의 중앙 AI 포털에 기존 구글 제미나이에 이어 OpenAI의 ChatGPT와 xAI의 Grok이 추가되었습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "GPT"
+  ]
+ },
+ {
+  "id": "4836252fdc0fabcc",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3p6ru/new_beellama_fork_76_faster_tg_with_kvarn_kv/",
+  "source": "r/LocalLLaMA",
+  "title": "New beellama fork 76% faster tg with kvarn KV quants",
+  "published_at": "2026-08-31T20:03:25+00:00",
+  "collected_at": "2026-08-31T23:44:53.877012+00:00",
+  "title_ko": "beellama 포크 버전의 KV 퀀트 성능 개선",
+  "summary_ko": "고컨텍스트 환경에서 KV 퀀트 연산 속도를 대폭 개선한 beellama 포크 버전의 테스트 결과입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "0011bce7676d1509",
+  "url": "https://www.reddit.com/r/singularity/comments/1w3ohvm/bank_of_england_chief_warns_new_ai_models/",
+  "source": "r/singularity",
+  "title": "Bank of England chief warns new AI models threaten global financial stability",
+  "published_at": "2026-08-31T19:39:49+00:00",
+  "collected_at": "2026-08-31T23:45:06.423284+00:00",
+  "title_ko": "영국 중앙은행장, 신규 AI 모델의 금융 안정성 위협 경고",
+  "summary_ko": "영국 중앙은행 총재가 새로운 AI 모델들이 글로벌 금융 시장의 안정성을 위협할 수 있다고 경고했습니다. AI 도입에 따른 시스템 리스크 관리가 금융권의 핵심 화두로 떠오르고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "규제",
+   "금융"
+  ]
+ },
+ {
   "id": "6f3e144d7d71fe84",
   "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
   "source": "TechCrunch",
@@ -82,6 +261,21 @@
   "category": "중요",
   "tags": [
    "투자"
+  ]
+ },
+ {
+  "id": "f467f95d09539c84",
+  "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+  "source": "Hacker News",
+  "title": "The safest job from AI may be writing",
+  "published_at": "2026-08-31T18:12:20+00:00",
+  "collected_at": "2026-08-31T23:44:52.979588+00:00",
+  "title_ko": "AI 시대에 가장 안전한 직업은 글쓰기라는 분석",
+  "summary_ko": "AI의 급격한 발전 속에서도 글쓰기가 상대적으로 AI 대체 위험이 적은 직업일 수 있다는 분석이 나왔습니다. 인간 고유의 창의성과 서사 능력이 갖는 가치를 조명합니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "노동"
   ]
  },
  {
@@ -218,6 +412,21 @@
   "category": "참고",
   "tags": [
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "abbfda76955b57e3",
+  "url": "https://www.reddit.com/r/singularity/comments/1w3jq0t/introducing_solaris_our_first_interface_world/",
+  "source": "r/singularity",
+  "title": "Introducing Solaris our first Interface World Model | Runway",
+  "published_at": "2026-08-31T16:59:07+00:00",
+  "collected_at": "2026-08-31T23:45:06.423284+00:00",
+  "title_ko": "런웨이, 첫 인터페이스 월드 모델 'Solaris' 공개",
+  "summary_ko": "런웨이가 자사의 첫 번째 인터페이스 월드 모델인 'Solaris'를 발표했습니다. 비디오 및 AI 모델 영역에서 상호작용 능력을 강화한 새로운 모델의 등장으로 주목받고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "모델명",
+   "비디오"
   ]
  },
  {
