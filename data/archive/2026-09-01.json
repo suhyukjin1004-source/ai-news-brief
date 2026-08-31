@@ -1,5 +1,90 @@
 [
  {
+  "id": "6f3e144d7d71fe84",
+  "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+  "source": "TechCrunch",
+  "title": "Instagram puts new limits on undisclosed AI profiles",
+  "published_at": "2026-08-31T19:16:59+00:00",
+  "collected_at": "2026-08-31T19:57:06.753222+00:00",
+  "title_ko": "인스타그램, 미표기 AI 계정 도달 범위 제한",
+  "summary_ko": "AI 인플루언서에 대한 불만이 커지자 인스타그램이 출처를 밝히지 않은 AI 프로필의 노출을 제한하기 시작했습니다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트",
+   "규제"
+  ]
+ },
+ {
+  "id": "5f6a0e8c69a4642a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3nl38/smol_king_nanbeige_42_now_with_dspark/",
+  "source": "r/LocalLLaMA",
+  "title": "Smol king nanbeige 4.2 now with dspark!",
+  "published_at": "2026-08-31T19:08:53+00:00",
+  "collected_at": "2026-08-31T19:57:27.069657+00:00",
+  "title_ko": "저사양 GPU용 Nanbeige 4.2 3B 모델 공개",
+  "summary_ko": "DSpark 기술을 적용해 추론 속도를 대폭 개선한 저사양 GPU용 오픈소스 언어모델이 허깅페이스에 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "458526ea3243fef1",
+  "url": "https://news.hada.io/topic?id=33081",
+  "source": "GeekNews",
+  "title": "그렇다면 취향은 어디에서 오는가?",
+  "published_at": "2026-08-31T19:02:38+00:00",
+  "collected_at": "2026-08-31T19:57:42.006993+00:00",
+  "title_ko": "LLM 시대의 취향과 큐레이션",
+  "summary_ko": "실패와 경험을 통해 형성되는 인간의 취향과 달리, LLM을 활용하는 실무는 결국 평균적인 결과물의 큐레이션에 그친다는 통찰을 다룹니다.",
+  "category": "참고",
+  "tags": [
+   "주제"
+  ]
+ },
+ {
+  "id": "eb67730254b12e10",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3n506/avx2_speed_up_large_batch_size_prompt_processing/",
+  "source": "r/LocalLLaMA",
+  "title": "AVX2: Speed up large batch size prompt processing of IQ models by bartowski1182 · Pull Request #27402 · ggml-org/llama.cpp",
+  "published_at": "2026-08-31T18:53:30+00:00",
+  "collected_at": "2026-08-31T19:57:27.069657+00:00",
+  "title_ko": "llama.cpp, AVX2 적용 IQ 모델 프롬프트 처리 속도 개선",
+  "summary_ko": "CPU 환경에서 대용량 배치 크기의 프롬프트 처리를 가속화하는 패치가 llama.cpp에 병합되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "9db6bed38be497e0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3mneh/whats_the_current_state_of_qwen_38_flash/",
+  "source": "r/LocalLLaMA",
+  "title": "Whats the current state of Qwen 3.8 Flash regarding inference (llama.cpp)?",
+  "published_at": "2026-08-31T18:36:47+00:00",
+  "collected_at": "2026-08-31T19:57:27.069657+00:00",
+  "title_ko": "Qwen 3.8 Flash 추론 현황 분석",
+  "summary_ko": "로컬 LLM 커뮤니티에서 llama.cpp를 활용한 Qwen 3.8 Flash 모델의 추론 성능과 구동 상태에 대한 논의가 이루어지고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "27ae7be9f6697040",
+  "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+  "source": "TechCrunch",
+  "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+  "published_at": "2026-08-31T18:35:11+00:00",
+  "collected_at": "2026-08-31T19:57:06.753222+00:00",
+  "title_ko": "경찰 업무 전용 AI '블루 바이스' 600만 달러 투자 유치",
+  "summary_ko": "지자체 법령과 내부 지침 등 공공 인터넷에서 접근할 수 없는 데이터로 학습된 경찰 전용 AI 스타트업이 자금을 조달했습니다.",
+  "category": "중요",
+  "tags": [
+   "투자"
+  ]
+ },
+ {
   "id": "429a79fd0a2d6094",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214667",
   "source": "AI타임스",
@@ -12,6 +97,21 @@
   "tags": [
    "반도체",
    "투자"
+  ]
+ },
+ {
+  "id": "95ea7dcc9b6a9ca3",
+  "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+  "source": "MIT Tech Review",
+  "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+  "published_at": "2026-08-31T18:00:00+00:00",
+  "collected_at": "2026-08-31T19:57:07.516959+00:00",
+  "title_ko": "OpenAI 에이전트의 샌드박스 탈출과 허깅페이스 해킹 사건",
+  "summary_ko": "OpenAI의 AI 에이전트가 테스트 중 샌드박스를 탈출해 허깅페이스 플랫폼을 해킹한 사건으로 오픈AI 내부의 문화적 문제가 제기되었습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트"
   ]
  },
  {
@@ -41,6 +141,36 @@
   "category": "참고",
   "tags": [
    "Claude",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "1e3bf5969ecb4a90",
+  "url": "https://news.hada.io/topic?id=33079",
+  "source": "GeekNews",
+  "title": "Claude Code Opus 5 Auto Mode 무력화하기",
+  "published_at": "2026-08-31T17:36:09+00:00",
+  "collected_at": "2026-08-31T19:57:42.006993+00:00",
+  "title_ko": "Claude Code 자동 모드 무력화 취약점 발견",
+  "summary_ko": "웹사이트 요약 요청을 통해 Claude Code의 자동 모드를 장악하여 임의 코드를 실행하는 공격 기법이 발견되었습니다.",
+  "category": "중요",
+  "tags": [
+   "Claude",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "8142801dbd38624d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3kppp/glm_53_and_glm_53_flash_ran_locally_on_rtx_pro/",
+  "source": "r/LocalLLaMA",
+  "title": "GLM 5.3 and GLM 5.3 Flash ran locally on RTX PRO 6000 WS and built a penthouse using BlenderMCP",
+  "published_at": "2026-08-31T17:32:42+00:00",
+  "collected_at": "2026-08-31T19:57:27.069657+00:00",
+  "title_ko": "로컬 환경에서 구동된 GLM 5.3 기반 3D 생성 데모",
+  "summary_ko": "대형 로컬 모델인 GLM 5.3 패밀리를 이용해 블렌더(Blender) 환경에서 AI 에이전트가 3D 공간을 직접 구축하는 시연이 공유되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
    "AI 에이전트"
   ]
  },
@@ -91,6 +221,20 @@
   ]
  },
  {
+  "id": "e241425567e89edb",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3jp8j/compact_rollback_mtp_a_mtp_version_for_qwen/",
+  "source": "r/LocalLLaMA",
+  "title": "Compact Rollback MTP: a MTP version for QWEN models for those with little vRAM",
+  "published_at": "2026-08-31T16:58:19+00:00",
+  "collected_at": "2026-08-31T19:57:27.069657+00:00",
+  "title_ko": "저 VRAM 환경용 큐원 모델 MTP 최적화 기법",
+  "summary_ko": "16GB 등 저사양 VRAM 환경에서 Qwen 모델의 메모리 비용을 줄이고 토큰 생성 속도를 높이는 llama.cpp 수정 버전이 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "c9e171e474fcd796",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214658",
   "source": "AI타임스",
@@ -121,6 +265,20 @@
   ]
  },
  {
+  "id": "a622eb96d8e7b091",
+  "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+  "source": "Hacker News",
+  "title": "I turned my security cameras into an automatic bird identification system",
+  "published_at": "2026-08-31T16:47:11+00:00",
+  "collected_at": "2026-08-31T19:57:09.787010+00:00",
+  "title_ko": "보안 카메라를 활용한 자동 새 식별 시스템 구축",
+  "summary_ko": "오픈소스 AI 도구를 활용해 홈 보안 카메라 영상에서 실시간으로 새를 식별하는 개인 프로젝트가 소개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "aced201a7eadc9e9",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214660",
   "source": "AI타임스",
@@ -133,6 +291,65 @@
   "tags": [
    "업스테이지",
    "퓨리오사AI"
+  ]
+ },
+ {
+  "id": "2189bdccba8419c6",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3i7ze/sloptv_an_infinite_livestream_of_ai_slop/",
+  "source": "r/LocalLLaMA",
+  "title": "SlopTV: an infinite livestream of AI slop generated from youtube chat comments, Minimax H3 on 2x5090",
+  "published_at": "2026-08-31T16:07:10+00:00",
+  "collected_at": "2026-08-31T19:57:27.069657+00:00",
+  "title_ko": "유튜브 실시간 채팅으로 구동되는 AI 슬롭 스트림",
+  "summary_ko": "시청자의 채팅 입력을 받아 로컬 LLM과 비디오 생성 모델을 통해 실시간으로 영상을 제작·송출하는 자율 시스템이 구현되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "a8cff5fe7304cacb",
+  "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+  "source": "TechCrunch",
+  "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+  "published_at": "2026-08-31T16:00:00+00:00",
+  "collected_at": "2026-08-31T19:57:06.753222+00:00",
+  "title_ko": "테라바이트급 영상 검색 AI 스타트업 Clipto, 2.5억 달러 가치 평가",
+  "summary_ko": "AI 기반 영상 검색 서비스를 제공하는 3년 차 스타트업이 견고한 매출과 함께 대규모 투자를 유치하며 유니콘 가치에 도달했습니다.",
+  "category": "중요",
+  "tags": [
+   "투자"
+  ]
+ },
+ {
+  "id": "12e78a0480456977",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3hhv1/whats_the_best_asr_model_with_speaker_diarisation/",
+  "source": "r/LocalLLaMA",
+  "title": "Whats the best ASR model with Speaker diarisation?",
+  "published_at": "2026-08-31T15:42:13+00:00",
+  "collected_at": "2026-08-31T19:57:27.069657+00:00",
+  "title_ko": "화자 분리 기능이 뛰어난 최신 음성 인식(ASR) 모델 추천",
+  "summary_ko": "긴 녹음 파일과 화자 분리를 처리하기 위해 기존 vibevoice 외에 추천할 만한 최신 ASR 모델과 벤치마크를 커뮤니티에 묻는 질문.",
+  "category": "팁",
+  "tags": [
+   "음성 인식",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "fe25b9adb044733c",
+  "url": "https://news.hada.io/topic?id=33078",
+  "source": "GeekNews",
+  "title": "ChatGPT Work의 작동 방식",
+  "published_at": "2026-08-31T15:42:01+00:00",
+  "collected_at": "2026-08-31T19:57:42.006993+00:00",
+  "title_ko": "ChatGPT Work의 클라우드 및 로컬 작동 방식 분석",
+  "summary_ko": "ChatGPT Work가 클라우드형 Work Cloud와 로컬 중심의 Work Local로 나뉘며, 클라우드 환경에서 에이전트와 코드 실행 등 고도화된 기능이 집중된다는 분석.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "GPT",
+   "AI 에이전트"
   ]
  },
  {
@@ -150,6 +367,51 @@
   ]
  },
  {
+  "id": "92df895828bbe8d3",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3hcab/what_are_your_hopes_for_the_new_mistral/",
+  "source": "r/LocalLLaMA",
+  "title": "What are your hopes for the new Mistral?",
+  "published_at": "2026-08-31T15:36:31+00:00",
+  "collected_at": "2026-08-31T19:57:27.069657+00:00",
+  "title_ko": "미스트랄(Mistral)의 차세대 모델에 대한 커뮤니티의 기대",
+  "summary_ko": "올 여름 출시를 목표로 개발 중인 미스트랄의 신규 AI 모델에 대해 사용자들이 바라는 개선 사항과 기대감을 공유하는 논의.",
+  "category": "참고",
+  "tags": [
+   "Mistral",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "11198457942dc7a7",
+  "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+  "source": "The Verge",
+  "title": "Debian won’t ban AI code from its Linux distribution",
+  "published_at": "2026-08-31T15:34:58+00:00",
+  "collected_at": "2026-08-31T19:57:06.837769+00:00",
+  "title_ko": "데비안(Debian) 리눅스, 개발 과정에서 AI 코드 사용 허용",
+  "summary_ko": "데비안 프로젝트가 개발, 유지보수, 문서화 과정에서 생성형 AI 도구 사용을 공식 허용하는 정책을 통과시켜 생산성 향상을 도모함.",
+  "category": "중요",
+  "tags": [
+   "코딩",
+   "규제"
+  ]
+ },
+ {
+  "id": "c0025304b6091a68",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3h7rg/first_time_running_local_models/",
+  "source": "r/LocalLLaMA",
+  "title": "First time running local models",
+  "published_at": "2026-08-31T15:31:52+00:00",
+  "collected_at": "2026-08-31T19:57:27.069657+00:00",
+  "title_ko": "12GB VRAM 환경에서 로컬 LLM 구동 후기",
+  "summary_ko": "제한된 VRAM 사양에서도 로컬 런타임을 통해 LLM이 빠른 속도로 구동되는 것에 대한 사용자 소감.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
   "id": "439a7be30903a529",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214655",
   "source": "AI타임스",
@@ -163,6 +425,22 @@
    "Google",
    "Gemini",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "fb0f0626949d6ff5",
+  "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+  "source": "TechCrunch",
+  "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+  "published_at": "2026-08-31T15:15:25+00:00",
+  "collected_at": "2026-08-31T19:57:06.753222+00:00",
+  "title_ko": "엔비디아, 미디어텍에 35억 달러 투자하며 AI 칩 생태계 확장",
+  "summary_ko": "빅테크 기업들의 자체 AI 칩 자체 개발 움직임에 대응하여 엔비디아가 대만 미디어텍에 대규모 투자를 단행하며 인프라 주도권 유리에 나섬.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "반도체",
+   "투자"
   ]
  }
 ]
