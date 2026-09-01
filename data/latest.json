@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-01T09:57:20.502619+00:00",
+ "updated_at": "2026-09-01T14:46:02.419380+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -237,6 +237,205 @@
    "tags": [
     "투자",
     "반도체"
+   ]
+  },
+  {
+   "id": "52aa414f4d416a0d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4dsrw/new_model_sparkx254b_sparkx2517b/",
+   "source": "r/LocalLLaMA",
+   "title": "New Model: Spark-X2.5-4B, Spark-X2.5-1.7B",
+   "published_at": "2026-09-01T14:35:56+00:00",
+   "collected_at": "2026-09-01T14:45:04.441269+00:00",
+   "title_ko": "신규 소형 오픈소스 모델 Spark-X2.5 공개",
+   "summary_ko": "자체 아키텍처를 가진 1.7B 및 4B 크기의 소형 LLM Spark-X2.5가 공개되었습니다. 4B 모델은 상위 모델과 맞먹는 벤치마크 성능을 보여 주목받고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "인공지능"
+   ]
+  },
+  {
+   "id": "8f293d936b00aafe",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4dfi1/getting_slower_speeds_with_mtp_on_gemma_4_12b_qat/",
+   "source": "r/LocalLLaMA",
+   "title": "Getting slower speeds WITH MTP on Gemma 4 12B QAT than without...",
+   "published_at": "2026-09-01T14:22:00+00:00",
+   "collected_at": "2026-09-01T14:45:04.441269+00:00",
+   "title_ko": "Gemma 4 12B QAT 모델의 MTP 적용 시 속도 저하 이슈",
+   "summary_ko": "Gemma 4 12B QAT 모델 구동 시 MTP(Multi-Token Prediction) 기능을 켜면 오히려 처리 속도가 느려지는 현상이 보고되었습니다.",
+   "category": "참고",
+   "tags": [
+    "LLM",
+    "Google"
+   ]
+  },
+  {
+   "id": "e85be935268c108e",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4d3th/kiro_crew_amazons_coding_frontend_is_open_source/",
+   "source": "r/LocalLLaMA",
+   "title": "Kiro Crew (Amazon's coding frontend) is open source",
+   "published_at": "2026-09-01T14:10:17+00:00",
+   "collected_at": "2026-09-01T14:45:04.441269+00:00",
+   "title_ko": "아마존의 코딩 프론트엔드 도구 'Kiro Crew' 오픈소스화",
+   "summary_ko": "아마존이 개발한 개발자용 채팅 중심 AI 클라이언트 'Kiro Crew'가 오픈소스화되었습니다. 기존 Amazon Q Developer를 대체하는 도구입니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "29e655380ae341a0",
+   "url": "https://news.hada.io/topic?id=33113",
+   "source": "GeekNews",
+   "title": "Show GN: Can I Remove This? – JS 의존성 제거를 검토하는 Agent Skill",
+   "published_at": "2026-09-01T12:59:53+00:00",
+   "collected_at": "2026-09-01T14:45:18.999677+00:00",
+   "title_ko": "JS 의존성 제거 검토를 위한 AI 에이전트 스킬",
+   "summary_ko": "프로젝트의 package.json 의존성을 분석해 실제 사용 여부와 번들 비용 등을 평가하고 제거를 제안하는 마크다운 기반 에이전트 스킬입니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "51cd5ec3c09f04f4",
+   "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+   "source": "Hacker News",
+   "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+   "published_at": "2026-09-01T12:53:51+00:00",
+   "collected_at": "2026-09-01T14:44:46.947127+00:00",
+   "title_ko": "EFF, AI 과대 광고로 인한 저작권법 왜곡 경고",
+   "summary_ko": "미국 전자자유재단(EFF)이 법원에 AI 관련 과대 포장으로 인해 기존 저작권법을 무리하게 재작성하지 말 것을 촉구했습니다.",
+   "category": "중요",
+   "tags": [
+    "규제"
+   ]
+  },
+  {
+   "id": "a3d1dd2b13ed3ef2",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4a043/all_currently_popular_local_models_in_one_table/",
+   "source": "r/LocalLLaMA",
+   "title": "All currently popular local models in one table + Opus 4.8 results",
+   "published_at": "2026-09-01T12:04:38+00:00",
+   "collected_at": "2026-09-01T14:45:04.441269+00:00",
+   "title_ko": "로컬 구동 가능한 주요 LLM 성능 비교표",
+   "summary_ko": "하드웨어 사양에 맞춰 로컬에서 실행할 수 있는 인기 오픈소스 LLM들의 파라미터 크기와 에이전트 벤치마크 점수를리 한눈에 비교할 수 있는 표가 공유되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "DeepSeek"
+   ]
+  },
+  {
+   "id": "fe69d46e7ff6156d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w49id7/i_pushed_qwen3827b_to_2000_prefill_per_second_and/",
+   "source": "r/LocalLLaMA",
+   "title": "I pushed Qwen3.8-27B to 2.000 prefill per second and 132 decode per second on A RTX 3090.",
+   "published_at": "2026-09-01T11:43:02+00:00",
+   "collected_at": "2026-09-01T14:45:04.441269+00:00",
+   "title_ko": "RTX 3090에서 Qwen3.8-27B 추론 속도 극대화",
+   "summary_ko": "커스텀 커널과 최적화를 통해 RTX 3090 환경에서 Qwen3.8-27B 모델의 프리필 및 디코드 속도를 대폭 끌어올린 추론 엔진이 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "Qwen",
+    "반도체",
+    "LLM"
+   ]
+  },
+  {
+   "id": "10191c01c4eefab5",
+   "url": "https://news.hada.io/topic?id=33110",
+   "source": "GeekNews",
+   "title": "GPU World: 모두가 GPU를 한 대씩 쓰는 미래 공모전",
+   "published_at": "2026-09-01T11:33:06+00:00",
+   "collected_at": "2026-09-01T14:45:18.999677+00:00",
+   "title_ko": "모든 사람이 GPU를 사용하는 미래를 그린 'GPU World' 공모전",
+   "summary_ko": "2040년까지 모든 인류가 고성능 GPU와 최첨단 LLM을 상시 이용하는 미래상을 주제로 한 스토리 공모전이 개최되었습니다.",
+   "category": "참고",
+   "tags": [
+    "반도체",
+    "LLM"
+   ]
+  },
+  {
+   "id": "b043ef7634b80f3a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w48azv/vellium_v110_live_voice_local_stttts_and_easier/",
+   "source": "r/LocalLLaMA",
+   "title": "Vellium v1.1.0 — Live voice, local STT/TTS and easier llama.cpp setup",
+   "published_at": "2026-09-01T10:45:02+00:00",
+   "collected_at": "2026-09-01T14:45:04.441269+00:00",
+   "title_ko": "로컬 AI 데스크톱 앱 'Vellium v1.1.0' 업데이트",
+   "summary_ko": "로컬 음성 인식, TTS 및 간편한 llama.cpp 연동을 지원하는 오픈소스 데스크톱 AI 앱 Vellium의 신규 버전이 배포되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "aa5b2de9ac00ca3b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4821c/qwen_38_27b_q4km_oneshot_a_super_mario_clone/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen 3.8 27b (Q4KM) oneshot a Super Mario clone",
+   "published_at": "2026-09-01T10:31:56+00:00",
+   "collected_at": "2026-09-01T14:45:04.441269+00:00",
+   "title_ko": "Qwen 3.8 27B로 슈퍼마리오 클론 게임 단번에 제작",
+   "summary_ko": "로컬 환경에서 구동한 Qwen 3.8 27B 모델이 프롬프트 하나만으로 완성도 높은 웹 기반 슈퍼마리오 게임 코드를 한 번에 작성해 화제입니다.",
+   "category": "참고",
+   "tags": [
+    "Qwen",
+    "코딩",
+    "LLM"
+   ]
+  },
+  {
+   "id": "6e552436de5d4e7f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w47qfe/which_current_local_models_that_can_run_within/",
+   "source": "r/LocalLLaMA",
+   "title": "Which current local models that can run within 128GB generate the best SVG pelicans?",
+   "published_at": "2026-09-01T10:15:19+00:00",
+   "collected_at": "2026-09-01T14:45:04.441269+00:00",
+   "title_ko": "128GB 맥북 환경에서 로컬 LLM의 SVG 생성 성능 비교",
+   "summary_ko": "128GB Apple Silicon 환경에서 실행 가능한 주요 로컬 LLM들을 대상으로 SVG 이미지 생성 능력을 벤치마킹한 결과가 공유되었습니다.",
+   "category": "참고",
+   "tags": [
+    "LLM",
+    "오픈소스",
+    "Qwen"
+   ]
+  },
+  {
+   "id": "2e16c43fbb4a7121",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w47nif/new_gemma_models_on_arena_ai/",
+   "source": "r/LocalLLaMA",
+   "title": "New Gemma models on arena ai",
+   "published_at": "2026-09-01T10:11:06+00:00",
+   "collected_at": "2026-09-01T14:45:04.441269+00:00",
+   "title_ko": "Chatbot Arena에 신규 Gemma 모델 등장",
+   "summary_ko": "AI 모델 블라인드 테스트 플랫폼인 Chatbot Arena에 구글의 차세대 Gemma 시리즈로 추정되는 신규 모델이 포착되었습니다.",
+   "category": "속보",
+   "tags": [
+    "Google",
+    "LLM"
+   ]
+  },
+  {
+   "id": "44526c1223b0d00a",
+   "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+   "source": "Hacker News",
+   "title": "44% on ARC-AGI-1 in 67 cents",
+   "published_at": "2026-09-01T09:52:45+00:00",
+   "collected_at": "2026-09-01T14:44:46.947127+00:00",
+   "title_ko": "67센트의 비용으로 ARC-AGI-1 44% 달성",
+   "summary_ko": "저렴한 비용으로 AI의 일반지능을 평가하는 ARC-AGI-1 벤치마크에서 44%를 기록한 효율적인 접근법이 소개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "인공지능"
    ]
   },
   {
@@ -2789,203 +2988,6 @@
    "category": "참고",
    "tags": [
     "반도체",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "b45dab18fff6d8b7",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w28alw/an_unscientific_qwen_38_flash_next_and_glm_53/",
-   "source": "r/LocalLLaMA",
-   "title": "an unscientific qwen 3.8 flash next and glm 5.3 flash comparison",
-   "published_at": "2026-08-30T05:06:24+00:00",
-   "collected_at": "2026-08-30T06:31:01.637748+00:00",
-   "title_ko": "Qwen과 GLM 플래시 모델 성능 비교",
-   "summary_ko": "최신 오픈 웨이트 모델인 Qwen과 GLM의 플래시 버전을 활용해 기술 데모 구현 능력을 비교한 실험 결과가 공유되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "ef69809cf52f5712",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w27woy/flashmla_sm_120_kernel_build_with_23x_performance/",
-   "source": "r/LocalLLaMA",
-   "title": "FlashMLA sm_120 kernel build with 2-3x performance increase from SPDA",
-   "published_at": "2026-08-30T04:46:15+00:00",
-   "collected_at": "2026-08-30T06:31:01.637748+00:00",
-   "title_ko": "블랙웰 GPU용 FlashMLA 커널 빌드 공개",
-   "summary_ko": "딥시크의 MLA 구조를 위한 FlashMLA를 소비자용 블랙웰 GPU(sm_120) 환경에서 빌드하여 학습 및 추론 성능을 향상시킨 오픈소스 저장소가 공개되었습니다.",
-   "category": "팁",
-   "tags": [
-    "NVIDIA",
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "0f706bed99d2a645",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w26y0w/ran_qwen38flashnext_79_gb_2bit_at_350k_ctx_for_35/",
-   "source": "r/LocalLLaMA",
-   "title": "Ran Qwen3.8-Flash-Next (79 GB, 2-bit) at 350K ctx for 3.5 hours on a 128 GB M5 Max — speed vs context depth, 100 turns, one graph",
-   "published_at": "2026-08-30T03:56:19+00:00",
-   "collected_at": "2026-08-30T06:31:01.637748+00:00",
-   "title_ko": "맥북에서 Qwen3.8-Flash 모델 350K 컨텍스트 구동 테스트",
-   "summary_ko": "애플 실리콘 맥북 환경에서 대용량 컨텍스트와 양자화 기법을 적용해 대형 언어 모델을 장시간 안정적으로 구동한 벤치마크 결과입니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "452146c7e8fe9722",
-   "url": "https://news.hada.io/topic?id=33025",
-   "source": "GeekNews",
-   "title": "Show GN: memnest, 세션이 바뀌어도 AI 코딩 에이전트가 기억을 잃지 않게 하는 로컬 메모리 서비스",
-   "published_at": "2026-08-30T03:16:08+00:00",
-   "collected_at": "2026-08-30T06:31:16.434991+00:00",
-   "title_ko": "AI 코딩 에이전트 메모리 유지 로컬 서비스 'memnest' 공개",
-   "summary_ko": "세션이 바뀌어도 AI 코딩 에이전트가 이전 맥락과 설정을 잃지 않도록 돕는 로컬 메모리 서비스가 공개되었습니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "코딩",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "1476c0a38623dd29",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2479z/what_would_you_do_with_4000/",
-   "source": "r/LocalLLaMA",
-   "title": "What would you do with $4,000?",
-   "published_at": "2026-08-30T01:38:29+00:00",
-   "collected_at": "2026-08-30T06:31:01.637748+00:00",
-   "title_ko": "대형 VRAM 모델 구동을 위한 하드웨어 구성 논의",
-   "summary_ko": "RTX 5090 환경에서 VRAM 한계를 넘는 대형 모델 구동과 미디어 생성, 코딩 활용을 위한 추가 하드웨어 구성 방안을 논의합니다.",
-   "category": "참고",
-   "tags": [
-    "NVIDIA",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "04a5e7ee9d09536e",
-   "url": "https://www.reddit.com/r/singularity/comments/1w243so/glm_53_weights_are_now_public/",
-   "source": "r/singularity",
-   "title": "GLM 5.3 weights are now public",
-   "published_at": "2026-08-30T01:33:51+00:00",
-   "collected_at": "2026-08-30T12:47:04.057306+00:00",
-   "title_ko": "GLM 5.3 모델 가중치 공개",
-   "summary_ko": "GLM 5.3의 모델 가중치가 대중에 전면 공개되었습니다. 오픈소스 AI 연구 및 활용 생태계에 중요한 진전입니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "185fd1446d31236b",
-   "url": "https://news.hada.io/topic?id=33023",
-   "source": "GeekNews",
-   "title": "Tencent Hy4 프리뷰 공개",
-   "published_at": "2026-08-30T01:13:58+00:00",
-   "collected_at": "2026-08-30T06:31:16.434991+00:00",
-   "title_ko": "텐센트, 차세대 오픈소스 LLM 'Hy4 프리뷰' 공개",
-   "summary_ko": "텐센트가 770B 규모와 100만 토큰 컨텍스트 창을 갖춘 차세대 대형언어모델 'Hy4'를 공개하고 오픈소스로 배포했습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "코딩"
-   ]
-  },
-  {
-   "id": "5a20f66b5bdd0f34",
-   "url": "https://news.hada.io/topic?id=33020",
-   "source": "GeekNews",
-   "title": "Debian의 LLM 사용, 지지도 금지도 하지 않음",
-   "published_at": "2026-08-30T00:11:51+00:00",
-   "collected_at": "2026-08-30T06:31:16.434991+00:00",
-   "title_ko": "데비안, 생성형 AI 기여에 대한 공식 방침 발표",
-   "summary_ko": "데비안 프로젝트가 생성형 AI 사용을 특별히 금지하거나 허용하지 않고, 기존의 품질 및 법적 기준을 동일하게 적용하기로 했습니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "규제"
-   ]
-  },
-  {
-   "id": "4debc95b36f5400f",
-   "url": "https://news.hada.io/topic?id=33019",
-   "source": "GeekNews",
-   "title": "소름 끼치는 크롤러들",
-   "published_at": "2026-08-30T00:08:51+00:00",
-   "collected_at": "2026-08-30T06:31:16.434991+00:00",
-   "title_ko": "AI 학습용 크롤러의 과도한 서버 부하 문제",
-   "summary_ko": "AI 학습용 크롤러가 git.kernel.org에서 저장소 전체 복제보다 과도한 개별 URL 요청으로 막대한 CPU 자원을 소모하고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "848d13434d3b16ff",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214608",
-   "source": "AI타임스",
-   "title": "앤트로픽 \"AI가 인간 대신 정렬 작업 수행…안전성 크게 높였다\"",
-   "published_at": "2026-08-29T21:08:08+00:00",
-   "collected_at": "2026-08-29T14:24:28.674579+00:00",
-   "title_ko": "앤트로픽, AI 에이전트 활용한 자율 정렬 연구 공개",
-   "summary_ko": "앤트로픽 연구진이 AI 에이전트를 이용해 모델의 정렬 오류를 자율적으로 수정하고 안전성을 높인 연구 결과를 발표했다.",
-   "category": "참고",
-   "tags": [
-    "Anthropic",
-    "Claude",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "e1488885ee3b10d0",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214607",
-   "source": "AI타임스",
-   "title": "허깅페이스, 55만원짜리 오픈소스 로봇 '마이크로덕' 공개",
-   "published_at": "2026-08-29T20:30:35+00:00",
-   "collected_at": "2026-08-29T14:24:28.674579+00:00",
-   "title_ko": "허깅페이스, 55만 원대 오픈소스 로봇 '마이크로덕' 공개",
-   "summary_ko": "허깅페이스가 프랑스 로봇 스타트업과 협력해 강화학습 기반의 저가형 이족보행 오픈소스 로봇을 선보였다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "로보틱스"
-   ]
-  },
-  {
-   "id": "d245ac610f069f35",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214605",
-   "source": "AI타임스",
-   "title": "실리콘밸리 매료시킨 ‘인스팅트’ 3.5조 가치 인정...\"진짜 AI 비서\"",
-   "published_at": "2026-08-29T19:59:22+00:00",
-   "collected_at": "2026-08-29T14:24:28.674579+00:00",
-   "title_ko": "실리콘밸리서 주목받는 AI 비서 '인스팅트' 3.5조 가치 인정",
-   "summary_ko": "AI 비서 서비스를 개발한 스피어 스트리트 테크놀로지가 대규모 투자를 유치하며 높은 기업 가치를 인정받았다.",
-   "category": "중요",
-   "tags": [
-    "투자",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "2db13cb97ddfdf35",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1vw3c/any_current_voice2voice_ai_model_that_runs/",
-   "source": "r/LocalLLaMA",
-   "title": "Any current Voice2Voice AI model that runs locally that’s good?",
-   "published_at": "2026-08-29T19:39:50+00:00",
-   "collected_at": "2026-08-30T06:31:01.637748+00:00",
-   "title_ko": "소비자용 GPU에서 구동 가능한 로컬 음성 AI 모델",
-   "summary_ko": "일반 소비자용 GPU 환경에서 실시간으로 구동할 수 있는 고성능 음성 대 음성(Voice2Voice) 오픈소스 AI 모델에 대한 사용자들의 관심이 커지고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "NVIDIA",
     "오픈소스"
    ]
   }
