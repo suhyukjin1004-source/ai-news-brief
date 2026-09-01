@@ -16,6 +16,20 @@
   ]
  },
  {
+  "id": "9082423643bdd12c",
+  "url": "https://news.hada.io/topic?id=33121",
+  "source": "GeekNews",
+  "title": "Show GN: Booova - 당신의 책 한 권을 다 써주는 AI Book Agent",
+  "published_at": "2026-09-01T14:28:26+00:00",
+  "collected_at": "2026-09-01T18:22:58.193337+00:00",
+  "title_ko": "책 한 권을 완성해 주는 AI 북 에이전트 'Booova' 출시",
+  "summary_ko": "사용자의 아이디어와 메모를 바탕으로 책 한 권을 완성해 주는 AI 에이전트가 공개됨. 창작 영역에서 AI의 활용도가 높아지고 있음.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "8f293d936b00aafe",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4dfi1/getting_slower_speeds_with_mtp_on_gemma_4_12b_qat/",
   "source": "r/LocalLLaMA",
@@ -28,6 +42,21 @@
   "tags": [
    "LLM",
    "Google"
+  ]
+ },
+ {
+  "id": "a1506ca0ad071e4f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4d52c/update_llamacpp_for_radeon_vii_mi50_mi60_14_pp_9/",
+  "source": "r/LocalLLaMA",
+  "title": "Update: llama.cpp for Radeon VII / MI50 / MI60 — +14% PP, +9% long-context fill vs upstream + adaptive Flash Attention",
+  "published_at": "2026-09-01T14:11:29+00:00",
+  "collected_at": "2026-09-01T18:22:43.556716+00:00",
+  "title_ko": "llama.cpp, 라데온 GPU 성능 최적화 포크 공개",
+  "summary_ko": "특정 AMD GPU 환경에서 llama.cpp의 성능을 대폭 끌어올린 포크 버전이 공개됨. 로컬 LLM 구동 시 하드웨어 최적화 효율을 높임.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
   ]
  },
  {
@@ -44,6 +73,34 @@
    "오픈소스",
    "AI 에이전트",
    "코딩"
+  ]
+ },
+ {
+  "id": "bc1ef17801f6ac4c",
+  "url": "https://news.hada.io/topic?id=33119",
+  "source": "GeekNews",
+  "title": "사이보그가 되지 않기 위하여",
+  "published_at": "2026-09-01T14:03:33+00:00",
+  "collected_at": "2026-09-01T18:22:58.193337+00:00",
+  "title_ko": "AI 에이전트 시대, 인간의 고유한 목소리를 지키기 위하여",
+  "summary_ko": "LLM과 장기간 상호작용하면서 AI의 문체에 동화되는 현상을 짚고, AI 시대에도 독창적인 인간의 사유와 문체를 유지해야 한다는 성찰을 담은 에세이.",
+  "category": "참고",
+  "tags": []
+ },
+ {
+  "id": "87a21f5f92279f42",
+  "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+  "source": "The Verge",
+  "title": "Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+  "published_at": "2026-09-01T13:00:00+00:00",
+  "collected_at": "2026-09-01T18:22:38.028028+00:00",
+  "title_ko": "엔비디아, 논란의 DLSS 5 9월 3일 출시",
+  "summary_ko": "생성형 AI 필터 기술인 엔비디아 DLSS 5가 RTX 50 시리즈를 대상으로 출시됩니다. 고성능 GPU가 요구되며 게임 내 영상 처리 방식에 큰 변화를 줄 것으로 보입니다.",
+  "category": "속보",
+  "tags": [
+   "NVIDIA",
+   "반도체",
+   "AI"
   ]
  },
  {
@@ -89,6 +146,22 @@
    "오픈소스",
    "LLM",
    "DeepSeek"
+  ]
+ },
+ {
+  "id": "50e05f9b472e33e2",
+  "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+  "source": "OpenAI",
+  "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+  "published_at": "2026-09-01T12:00:00+00:00",
+  "collected_at": "2026-09-01T18:22:39.132027+00:00",
+  "title_ko": "OpenAI, 헬스케어 데이터 연동 기능 출시",
+  "summary_ko": "의료 기관이 전자의무기록(EHR) 및 산업 데이터를 ChatGPT에 안전하게 연결할 수 있게 되었습니다. 임상 의사결정과 환자 맥락 파악을 지원하여 의료 분야 AI 활용도가 높아질 것입니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "GPT",
+   "AI 에이전트"
   ]
  },
  {
@@ -509,6 +582,21 @@
   "category": "참고",
   "tags": [
    "LLM"
+  ]
+ },
+ {
+  "id": "85562dc16345cc8b",
+  "url": "https://huggingface.co/blog/webgpu-kernels",
+  "source": "Hugging Face",
+  "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+  "published_at": "2026-09-01T00:00:00+00:00",
+  "collected_at": "2026-09-01T18:22:40.588344+00:00",
+  "title_ko": "허깅페이스, 로컬 AI용 WebGPU 커널 공개",
+  "summary_ko": "허깅페이스가 웹 브라우저 등에서 로컬 AI를 구동할 수 있는 200개 이상의 WebGPU 커널을 발표했습니다. 웹 환경에서의 온디바이스 AI 성능 향상에 기여할 것입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "AI"
   ]
  },
  {

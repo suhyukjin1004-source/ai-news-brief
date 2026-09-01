@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-01T14:46:02.419380+00:00",
+ "updated_at": "2026-09-01T18:23:15.372063+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -16,6 +16,22 @@
    "tags": [
     "오픈소스",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "d4e4c8d0cfad1834",
+   "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+   "source": "The Verge",
+   "title": "Apple accuses OpenAI of destroying evidence",
+   "published_at": "2026-09-01T18:19:26+00:00",
+   "collected_at": "2026-09-01T18:22:38.028028+00:00",
+   "title_ko": "애플, 오픈AI의 증거 인멸 정황 제기",
+   "summary_ko": "애플이 오픈AI와의 법적 분쟁 과정에서 전 직원의 맥북을 뒤늦게 제출한 점을 들어 증거 인멸 우려와 함께 신속한 증거 개시를 요구했습니다. 양사 간 법적 공방이 격화되고 있음을 보여줍니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "Apple",
+    "규제"
    ]
   },
   {
@@ -50,6 +66,37 @@
    ]
   },
   {
+   "id": "12881ea49223de11",
+   "url": "https://news.hada.io/topic?id=33127",
+   "source": "GeekNews",
+   "title": "ChatGPT Work 도구와 스킬 레퍼런스",
+   "published_at": "2026-09-01T17:44:21+00:00",
+   "collected_at": "2026-09-01T18:22:58.193337+00:00",
+   "title_ko": "ChatGPT Work 도구 및 스킬 레퍼런스 공개",
+   "summary_ko": "ChatGPT Work와 Codex에서 사용하는 파일 편집, 웹 검색, 에이전트 협업 등의 입력 형식과 호출 조건을 정리한 레퍼런스입니다. 자동화 구현 시 실무적인 참고 자료가 됩니다.",
+   "category": "팁",
+   "tags": [
+    "OpenAI",
+    "ChatGPT",
+    "코딩"
+   ]
+  },
+  {
+   "id": "a5ab9354f6b784b4",
+   "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+   "source": "TechCrunch",
+   "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+   "published_at": "2026-09-01T17:35:37+00:00",
+   "collected_at": "2026-09-01T18:22:37.857159+00:00",
+   "title_ko": "구글, AI 기반 디자인 도구 'Google Pics' 공개",
+   "summary_ko": "구글이 캔바와 어도비의 아성에 도전하기 위해 프롬프트 기반의 AI 이미지 생성 및 편집 도구인 Google Pics를 선보였습니다.",
+   "category": "속보",
+   "tags": [
+    "Google",
+    "Gemini"
+   ]
+  },
+  {
    "id": "2cd9af819f345f1c",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214714",
    "source": "AI타임스",
@@ -62,6 +109,67 @@
    "tags": [
     "반도체",
     "투자"
+   ]
+  },
+  {
+   "id": "9658836c8e4ce085",
+   "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+   "source": "DeepMind",
+   "title": "Introducing agentic video understanding with Gemini",
+   "published_at": "2026-09-01T17:08:51+00:00",
+   "collected_at": "2026-09-01T18:22:40.255828+00:00",
+   "title_ko": "구글 딥마인드, 제미나이 기반 에이전트형 비디오 이해 기능 발표",
+   "summary_ko": "구글 딥마인드가 영상 데이터를 더욱 능동적으로 분석하고 이해하는 에이전트형 비디오 이해 기술을 소개했습니다.",
+   "category": "속보",
+   "tags": [
+    "Google",
+    "Gemini",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "422deba41706634a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4i2id/question_why_is_prefill_unbelievably_faster_in/",
+   "source": "r/LocalLLaMA",
+   "title": "Question: Why is prefill unbelievably faster in vLLM than other inference engines?",
+   "published_at": "2026-09-01T17:05:27+00:00",
+   "collected_at": "2026-09-01T18:22:43.556716+00:00",
+   "title_ko": "vLLM 추론 엔진의 압도적인 Prefill 속도 분석",
+   "summary_ko": "vLLM 포크 버전이 기존 llama.cpp 등 다른 추론 엔진에 비해 프리필(prefill) 단계에서 훨씬 빠른 속도를 보여주는 이유와 구조적 차이에 대한 개발자 토론입니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "3b5f2688fec1191a",
+   "url": "https://openai.com/index/ai-native-company-workflows",
+   "source": "OpenAI",
+   "title": "How AI-native companies turn workflows into operating capability",
+   "published_at": "2026-09-01T17:00:00+00:00",
+   "collected_at": "2026-09-01T18:22:39.132027+00:00",
+   "title_ko": "AI 네이티브 기업들의 워크플로우 운영 역량 전환 사례",
+   "summary_ko": "Basis, Clay, Exa Labs 등이 AI 에이전트를 활용해 온보딩과 고객 관리를 개선한 사례를 통해 기업 리더들이 적용할 수 있는 인사이트를 제공합니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "투자"
+   ]
+  },
+  {
+   "id": "de425f98bc3e789a",
+   "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+   "source": "TechCrunch",
+   "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+   "published_at": "2026-09-01T17:00:00+00:00",
+   "collected_at": "2026-09-01T18:22:37.857159+00:00",
+   "title_ko": "ChatGPT Health, 임상의를 위한 Epic 환자 데이터 연동 추가",
+   "summary_ko": "오픈라이가 의료진이 환자 기록에 읽기 전용으로 접근할 수 있도록 Epic 시스템과의 연동 기능을 ChatGPT Health에 추가했습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "ChatGPT"
    ]
   },
   {
@@ -123,6 +231,36 @@
    ]
   },
   {
+   "id": "34be0f2e79928694",
+   "url": "https://news.hada.io/topic?id=33126",
+   "source": "GeekNews",
+   "title": "67센트로 ARC-AGI-1에서 44% 달성",
+   "published_at": "2026-09-01T16:44:07+00:00",
+   "collected_at": "2026-09-01T18:22:58.193337+00:00",
+   "title_ko": "67센트로 ARC-AGI-1 44% 달성한 소형 모델 학습 사례",
+   "summary_ko": "RTX 5090에서 소형 트랜스포머를 처음부터 학습시켜 단 67센트의 비용으로 ARC-AGI-1에서 44%의 성능을 기록하며 대형 모델 못지않은 효율성을 입증했습니다.",
+   "category": "중요",
+   "tags": [
+    "반도체",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "e69dad8044e219df",
+   "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+   "source": "TechCrunch",
+   "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+   "published_at": "2026-09-01T16:31:04+00:00",
+   "collected_at": "2026-09-01T18:22:37.857159+00:00",
+   "title_ko": "세쿼이아 인큐베이팅 스타트업 Empirik, 2,100만 달러 투자 유치",
+   "summary_ko": "소프트웨어 엔지니어링을 위한 Cursor처럼 IT 인프라 장애를 사전에 예측하는 스타트업 Empirik이 출범하며 대규모 자금을 조달했습니다.",
+   "category": "중요",
+   "tags": [
+    "투자",
+    "코딩"
+   ]
+  },
+  {
    "id": "588c922fe1623798",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214705",
    "source": "AI타임스",
@@ -167,6 +305,21 @@
    ]
   },
   {
+   "id": "6bfa9b2bcb5dd6cb",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4g8gk/keenable_select_an_agent_that_searches_the_web_in/",
+   "source": "r/LocalLLaMA",
+   "title": "Keenable SELECT: an agent that searches the web in SQL",
+   "published_at": "2026-09-01T16:02:41+00:00",
+   "collected_at": "2026-09-01T18:22:43.556716+00:00",
+   "title_ko": "SQL로 웹을 검색하는 AI 에이전트 'Keenable SELECT'",
+   "summary_ko": "SQL 쿼리를 활용해 웹을 탐색하는 새로운 형태의 리서치 에이전트가 소개되었습니다. 차세대 딥서치 기술의 방향성을 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
    "id": "4caeae1fbe97aa4b",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214693",
    "source": "AI타임스",
@@ -179,6 +332,50 @@
    "tags": [
     "OpenAI",
     "투자"
+   ]
+  },
+  {
+   "id": "10e1c97e093728a0",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+   "source": "The Verge",
+   "title": "John Deere launched an AI chatbot for farmers",
+   "published_at": "2026-09-01T16:00:52+00:00",
+   "collected_at": "2026-09-01T18:22:38.028028+00:00",
+   "title_ko": "존디어, 농부들을 위한 전용 AI 챗봇 출시",
+   "summary_ko": "농기계 업체 존디어가 농부들의 장비 데이터와 영농 이력을 기반으로 최적의 작업 시기와 연료 사용법 등을 조언해 주는 AI 비서 'JD'를 테스트합니다.",
+   "category": "속보",
+   "tags": [
+    "로보틱스"
+   ]
+  },
+  {
+   "id": "ab183206da806772",
+   "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+   "source": "Google AI",
+   "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+   "published_at": "2026-09-01T16:00:00+00:00",
+   "collected_at": "2026-09-01T18:22:39.520049+00:00",
+   "title_ko": "구글 워크스페이스에 통합된 이미지 생성 도구 Google Pics",
+   "summary_ko": "구글 워크스페이스 사용자가 손쉽게 전문적인 이미지를 만들고 편집할 수 있는 Google Pics의 사용법이 안내되었습니다.",
+   "category": "속보",
+   "tags": [
+    "Google",
+    "Gemini"
+   ]
+  },
+  {
+   "id": "eafd89ecb2f4e2c0",
+   "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+   "source": "The Verge",
+   "title": "Google Pics is like Canva, but with even more AI",
+   "published_at": "2026-09-01T16:00:00+00:00",
+   "collected_at": "2026-09-01T18:22:38.028028+00:00",
+   "title_ko": "구글, AI 중심의 크리에이티브 디자인 도구 'Google Pics' 공개",
+   "summary_ko": "제미나이와 생성형 AI 모델을 기반으로 프롬프트만으로 정밀한 이미지 생성과 편집을 지원하는 구글의 기업용 디자인 툴 수이트입니다.",
+   "category": "중요",
+   "tags": [
+    "Google",
+    "Gemini"
    ]
   },
   {
@@ -196,6 +393,45 @@
    ]
   },
   {
+   "id": "4edb30721096c422",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4g0oh/help_me_set_up_local_ai_for_my_85_year_old_aunt/",
+   "source": "r/LocalLLaMA",
+   "title": "Help me set up local AI for my 85 year old aunt who is blind.",
+   "published_at": "2026-09-01T15:55:08+00:00",
+   "collected_at": "2026-09-01T18:22:43.556716+00:00",
+   "title_ko": "시각 장애 고모를 위한 로컬 AI 작문 도우미 구축기",
+   "summary_ko": "시력이 거의 안 남은 85세 고모의 창작 활동을 돕기 위해 로컬 AI 환경을 구축하려는 사례. AI가 일상적 한계를 극복하는 실용적 도구로 활용됨을 보여줌.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "d1bfe22b3e8ddbbf",
+   "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
+   "source": "Hacker News",
+   "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
+   "published_at": "2026-09-01T15:53:42+00:00",
+   "collected_at": "2026-09-01T18:22:42.465725+00:00",
+   "title_ko": "드워프 포트리스 개발자, AI로 혼란에 빠진 업계 비판",
+   "summary_ko": "게임 업계가 AI 도입과 잇따른 해고로 인해 혼란에 빠졌으며, 경영진들이 이상 증세를 보이고 있다고 비판함. AI가 게임 및 테크 업계 전반에 미치는 심리적·구조적 불안감을 시사.",
+   "category": "중요",
+   "tags": []
+  },
+  {
+   "id": "2801e0e5ca555a16",
+   "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+   "source": "TechCrunch",
+   "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
+   "published_at": "2026-09-01T15:51:55+00:00",
+   "collected_at": "2026-09-01T18:22:37.857159+00:00",
+   "title_ko": "아마존 알렉사, 쇼핑 유도 알림 기능 추가",
+   "summary_ko": "아마존이 알렉사에 개인화된 쇼핑 알림 기능을 도입해 상품 출시와 이벤트 정보를 제공함. AI 기반 음성 비서의 상용화 기능 확장.",
+   "category": "속보",
+   "tags": []
+  },
+  {
    "id": "72541ae7a1b55b7b",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214704",
    "source": "AI타임스",
@@ -207,6 +443,21 @@
    "category": "참고",
    "tags": [
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "304efa39c78bd636",
+   "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+   "source": "TechCrunch",
+   "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+   "published_at": "2026-09-01T15:45:51+00:00",
+   "collected_at": "2026-09-01T18:22:37.857159+00:00",
+   "title_ko": "AIR, AI 에이전트 보안 검증 플랫폼 위해 5천만 달러 투자 유치",
+   "summary_ko": "기업 내 AI 에이전트와 이들이 사용하는 스킬을 탐색·검증하고 원치 않는 행동을 차단하는 플랫폼 기업이 대규모 투자를 받음. 기업용 AI 보안의 중요성이 커지고 있음을 방증.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트",
+    "투자"
    ]
   },
   {
@@ -240,6 +491,34 @@
    ]
   },
   {
+   "id": "daf3badb06c9d9ab",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4f8t2/deceptive_model_quantization_from_atomicchat/",
+   "source": "r/LocalLLaMA",
+   "title": "Deceptive model quantization from AtomicChat?",
+   "published_at": "2026-09-01T15:27:28+00:00",
+   "collected_at": "2026-09-01T18:22:43.556716+00:00",
+   "title_ko": "AtomicChat의 기만적인 모델 양자화 논란",
+   "summary_ko": "특정 모델의 양자화 파일이 실제 표기 방식과 다른 저급 압축 방식을 사용했다는 의혹이 제기됨. 오픈소스 LLM 생태계 내 양자화 투명성에 대한 경각심을 일깨움.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "741d2e1ace69a666",
+   "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+   "source": "TechCrunch",
+   "title": "Fambot introduces an ‘AI chief of staff’ for families",
+   "published_at": "2026-09-01T15:10:58+00:00",
+   "collected_at": "2026-09-01T18:22:37.857159+00:00",
+   "title_ko": "가족을 위한 AI 비서 '팸봇' 등장",
+   "summary_ko": "이메일, 일정, 학교 소식 등 육아와 관련된 가사 물류를 관리해 주는 AI 비서 서비스가 출시됨. LLM이 일상 영역으로 깊숙이 침투하고 있음을 보여줌.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "52aa414f4d416a0d",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4dsrw/new_model_sparkx254b_sparkx2517b/",
    "source": "r/LocalLLaMA",
@@ -253,6 +532,20 @@
     "오픈소스",
     "LLM",
     "인공지능"
+   ]
+  },
+  {
+   "id": "9082423643bdd12c",
+   "url": "https://news.hada.io/topic?id=33121",
+   "source": "GeekNews",
+   "title": "Show GN: Booova - 당신의 책 한 권을 다 써주는 AI Book Agent",
+   "published_at": "2026-09-01T14:28:26+00:00",
+   "collected_at": "2026-09-01T18:22:58.193337+00:00",
+   "title_ko": "책 한 권을 완성해 주는 AI 북 에이전트 'Booova' 출시",
+   "summary_ko": "사용자의 아이디어와 메모를 바탕으로 책 한 권을 완성해 주는 AI 에이전트가 공개됨. 창작 영역에서 AI의 활용도가 높아지고 있음.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트"
    ]
   },
   {
@@ -271,6 +564,21 @@
    ]
   },
   {
+   "id": "a1506ca0ad071e4f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4d52c/update_llamacpp_for_radeon_vii_mi50_mi60_14_pp_9/",
+   "source": "r/LocalLLaMA",
+   "title": "Update: llama.cpp for Radeon VII / MI50 / MI60 — +14% PP, +9% long-context fill vs upstream + adaptive Flash Attention",
+   "published_at": "2026-09-01T14:11:29+00:00",
+   "collected_at": "2026-09-01T18:22:43.556716+00:00",
+   "title_ko": "llama.cpp, 라데온 GPU 성능 최적화 포크 공개",
+   "summary_ko": "특정 AMD GPU 환경에서 llama.cpp의 성능을 대폭 끌어올린 포크 버전이 공개됨. 로컬 LLM 구동 시 하드웨어 최적화 효율을 높임.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
    "id": "e85be935268c108e",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4d3th/kiro_crew_amazons_coding_frontend_is_open_source/",
    "source": "r/LocalLLaMA",
@@ -284,6 +592,34 @@
     "오픈소스",
     "AI 에이전트",
     "코딩"
+   ]
+  },
+  {
+   "id": "bc1ef17801f6ac4c",
+   "url": "https://news.hada.io/topic?id=33119",
+   "source": "GeekNews",
+   "title": "사이보그가 되지 않기 위하여",
+   "published_at": "2026-09-01T14:03:33+00:00",
+   "collected_at": "2026-09-01T18:22:58.193337+00:00",
+   "title_ko": "AI 에이전트 시대, 인간의 고유한 목소리를 지키기 위하여",
+   "summary_ko": "LLM과 장기간 상호작용하면서 AI의 문체에 동화되는 현상을 짚고, AI 시대에도 독창적인 인간의 사유와 문체를 유지해야 한다는 성찰을 담은 에세이.",
+   "category": "참고",
+   "tags": []
+  },
+  {
+   "id": "87a21f5f92279f42",
+   "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+   "source": "The Verge",
+   "title": "Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+   "published_at": "2026-09-01T13:00:00+00:00",
+   "collected_at": "2026-09-01T18:22:38.028028+00:00",
+   "title_ko": "엔비디아, 논란의 DLSS 5 9월 3일 출시",
+   "summary_ko": "생성형 AI 필터 기술인 엔비디아 DLSS 5가 RTX 50 시리즈를 대상으로 출시됩니다. 고성능 GPU가 요구되며 게임 내 영상 처리 방식에 큰 변화를 줄 것으로 보입니다.",
+   "category": "속보",
+   "tags": [
+    "NVIDIA",
+    "반도체",
+    "AI"
    ]
   },
   {
@@ -329,6 +665,22 @@
     "오픈소스",
     "LLM",
     "DeepSeek"
+   ]
+  },
+  {
+   "id": "50e05f9b472e33e2",
+   "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+   "source": "OpenAI",
+   "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+   "published_at": "2026-09-01T12:00:00+00:00",
+   "collected_at": "2026-09-01T18:22:39.132027+00:00",
+   "title_ko": "OpenAI, 헬스케어 데이터 연동 기능 출시",
+   "summary_ko": "의료 기관이 전자의무기록(EHR) 및 산업 데이터를 ChatGPT에 안전하게 연결할 수 있게 되었습니다. 임상 의사결정과 환자 맥락 파악을 지원하여 의료 분야 AI 활용도가 높아질 것입니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "GPT",
+    "AI 에이전트"
    ]
   },
   {
@@ -749,6 +1101,21 @@
    "category": "참고",
    "tags": [
     "LLM"
+   ]
+  },
+  {
+   "id": "85562dc16345cc8b",
+   "url": "https://huggingface.co/blog/webgpu-kernels",
+   "source": "Hugging Face",
+   "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+   "published_at": "2026-09-01T00:00:00+00:00",
+   "collected_at": "2026-09-01T18:22:40.588344+00:00",
+   "title_ko": "허깅페이스, 로컬 AI용 WebGPU 커널 공개",
+   "summary_ko": "허깅페이스가 웹 브라우저 등에서 로컬 AI를 구동할 수 있는 200개 이상의 WebGPU 커널을 발표했습니다. 웹 환경에서의 온디바이스 AI 성능 향상에 기여할 것입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "AI"
    ]
   },
   {
@@ -2613,382 +2980,6 @@
    "category": "참고",
    "tags": [
     "코딩"
-   ]
-  },
-  {
-   "id": "0819f34fa157a093",
-   "url": "https://www.reddit.com/r/singularity/comments/1w2kom2/code_world_model_coding_agent_as_world_brain/",
-   "source": "r/singularity",
-   "title": "Code World Model: Coding Agent as World Brain",
-   "published_at": "2026-08-30T15:33:26+00:00",
-   "collected_at": "2026-08-31T13:32:04.522395+00:00",
-   "title_ko": "코드 세계 모델: 월드 브레인으로서의 코딩 에이전트",
-   "summary_ko": "코딩 에이전트가 단순한 코드 생성을 넘어 세계 모델(World Model)로서 작동하는 방식에 대한 논의입니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "1d126fe5baf18846",
-   "url": "https://www.reddit.com/r/singularity/comments/1w2k0gz/braincos_braincomputer_interface_turns_eeg/",
-   "source": "r/singularity",
-   "title": "BrainCo's brain-computer interface turns EEG signals into a humanoid robot's movement and manipulation",
-   "published_at": "2026-08-30T15:06:49+00:00",
-   "collected_at": "2026-08-31T13:32:04.522395+00:00",
-   "title_ko": "뇌-컴퓨터 인터페이스로 휴머노이드 로봇 제어",
-   "summary_ko": "BrainCo의 BCI 기술을 통해 뇌파 신호를 휴머노이드 로봇의 움직임과 조작으로 변환하는 시도가 공개되었습니다.",
-   "category": "중요",
-   "tags": [
-    "로보틱스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "7193072139f64337",
-   "url": "https://www.reddit.com/r/singularity/comments/1w2jwql/ai_can_now_credibly_complete_most_undergraduate/",
-   "source": "r/singularity",
-   "title": "AI can now credibly complete most undergraduate assignments, MIT warns",
-   "published_at": "2026-08-30T15:02:48+00:00",
-   "collected_at": "2026-08-31T13:32:04.522395+00:00",
-   "title_ko": "MIT, AI의 학부 과제 수행 능력 경고",
-   "summary_ko": "AI가 이제 대부분의 대학 학부 과제를 신뢰성 있게 완수할 수 수준에 도달했다고 MIT가 경고했습니다.",
-   "category": "중요",
-   "tags": [
-    "LLM",
-    "규제"
-   ]
-  },
-  {
-   "id": "2929f114895fb92b",
-   "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/",
-   "source": "Hacker News",
-   "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-   "published_at": "2026-08-30T14:06:54+00:00",
-   "collected_at": "2026-08-30T20:57:29.264653+00:00",
-   "title_ko": "허깅페이스 해킹 사태 분석 보고서 공개",
-   "summary_ko": "METR과 레드우드 리서치가 최근 발생한 허깅페이스 해킹 사건의 원인과 대응 과정을 분석한 포스트모템을 발표했습니다. AI 플랫폼 보안 강화의 중요성을 시사합니다.",
-   "category": "참고",
-   "tags": [
-    "보안",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "02395271e24654e7",
-   "url": "https://www.reddit.com/r/singularity/comments/1w2gxvr/why_is_almost_nobody_talking_about_mammal_model/",
-   "source": "r/singularity",
-   "title": "Why is almost nobody talking about MAMMAL model?",
-   "published_at": "2026-08-30T12:59:53+00:00",
-   "collected_at": "2026-08-31T13:32:04.522395+00:00",
-   "title_ko": "신약 개발 가속화하는 바이오인포매틱스 모델 MAMMAL 조명",
-   "summary_ko": "범용성이 높고 신약 개발의 한계를 극복할 잠재력을 지닌 바이오 AI 모델 MAMMAL에 대한 커뮤니티의 관심과 분석입니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "241a67786b4c81c8",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214614",
-   "source": "AI타임스",
-   "title": "소니·워너, 앤트로픽에 저작권 소송...\"클로드 훈련용 음악 무단 취득\"",
-   "published_at": "2026-08-30T12:12:05+00:00",
-   "collected_at": "2026-08-30T06:31:15.095082+00:00",
-   "title_ko": "소니·워너, 앤트로픽 상대로 음악 저작권 소송 제기",
-   "summary_ko": "소니와 워너 등 주요 음악 출판사들이 앤트로픽이 클로드 훈련에 무단으로 음악 저작물을 사용했다며 소송을 제기했습니다. LLM 학습 데이터의 저작권 문제를 둘러싼 법적 공방이 거세지고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "Claude",
-    "규제"
-   ]
-  },
-  {
-   "id": "a29c4eb4e9f2f7f5",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214620",
-   "source": "AI타임스",
-   "title": "구글, 'AI 개요' 자동 확장 개편…검색 결과서 파란색 링크 축소",
-   "published_at": "2026-08-30T11:40:39+00:00",
-   "collected_at": "2026-08-30T06:31:15.095082+00:00",
-   "title_ko": "구글, 검색 결과 'AI 개요' 자동 확장 기능 도입",
-   "summary_ko": "구글이 검색 상단의 'AI 개요'를 대화형 모드로 전환하는 개편을 실험 중입니다. 전통적인 링크 중심 검색에서 AI 답변 중심 검색으로의 전환을 보여줍니다.",
-   "category": "속보",
-   "tags": [
-    "Google",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "220b62602c5176f0",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2f1lf/is_it_possible_to_run_dlss_5_on_rtx_3000series/",
-   "source": "r/LocalLLaMA",
-   "title": "Is it possible to run DLSS 5 on RTX 3000-series GPUs with an INT8 conversion?",
-   "published_at": "2026-08-30T11:27:23+00:00",
-   "collected_at": "2026-08-30T12:46:51.050311+00:00",
-   "title_ko": "구형 GPU에서 최신 AI 및 그래픽 기술 적용 가능성 논의",
-   "summary_ko": "로컬 AI 모델 최적화처럼 구형 아키텍처 GPU에서 INT8 변환 등을 통해 고도화된 그래픽 기술을 구동할 수 있는지에 대한 기술적 논의가 이루어졌습니다.",
-   "category": "팁",
-   "tags": [
-    "반도체",
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "2295fda68b4afe33",
-   "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
-   "source": "Ars Technica",
-   "title": "Inside Meta’s push to put robots to work in data centers",
-   "published_at": "2026-08-30T11:03:47+00:00",
-   "collected_at": "2026-08-30T12:46:34.746683+00:00",
-   "title_ko": "메타, 데이터센터에 로봇 투입 추진",
-   "summary_ko": "메타가 데이터센터 내 테크니션의 반복 업무를 대체하기 위해 로봇 도입을 테스트하고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "Meta",
-    "로보틱스"
-   ]
-  },
-  {
-   "id": "615b5beacec3d546",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2elkb/i_finetuned_a_08b_local_model_for_dictation/",
-   "source": "r/LocalLLaMA",
-   "title": "I fine-tuned a 0.8B local model for dictation cleanup. It matched a hosted frontier model on this narrow task",
-   "published_at": "2026-08-30T11:03:04+00:00",
-   "collected_at": "2026-08-30T12:46:51.050311+00:00",
-   "title_ko": "음성 받아쓰기 정리를 위한 소형 오픈소스 모델 공개",
-   "summary_ko": "Qwen 기반의 소형 모델을 미세조정하여 불필요한 수정 없이 음성 텍스트의 실제 교정만 정확히 수행하는 특화 모델이 개발되었습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "9d47ad98f264f0e4",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2e40k/experience_report_qwen_38_flash_next_on_memory/",
-   "source": "r/LocalLLaMA",
-   "title": "Experience report - Qwen 3.8 Flash Next on memory rich, GPU poor setup",
-   "published_at": "2026-08-30T10:36:09+00:00",
-   "collected_at": "2026-08-30T12:46:51.050311+00:00",
-   "title_ko": "고용량 메모리 기반 홈 서버에서의 대형 모델 구동 경험",
-   "summary_ko": "가성비 좋은 워크스테이션과 고용량 RAM을 활용해 로컬 환경에서 대형 언어 모델을 효율적으로 구동하는 세팅 공유가 주목받고 있습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "ea81e1ba2096a38a",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214616",
-   "source": "AI타임스",
-   "title": "'클로드 코드' 주간 한도 25% 인상…실제 17% 감소에 개발자 '발끈'",
-   "published_at": "2026-08-30T10:33:21+00:00",
-   "collected_at": "2026-08-30T06:31:15.095082+00:00",
-   "title_ko": "앤트로픽, '클로드 코드' 한도 개편에 개발자 반발",
-   "summary_ko": "앤트로픽이 클로드 코드의 기본 주간 한도를 영구 인상했으나 기존 프로모션 종료로 실질 한도가 줄어들어 개발자들의 반발을 사고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "Anthropic",
-    "Claude",
-    "코딩"
-   ]
-  },
-  {
-   "id": "aff552f1146bf300",
-   "url": "https://www.whatwetellai.com/",
-   "source": "Hacker News",
-   "title": "What We Tell AI",
-   "published_at": "2026-08-30T10:16:14+00:00",
-   "collected_at": "2026-08-31T19:57:26.343389+00:00",
-   "title_ko": "우리가 AI에게 전달하는 지시어에 대한 고찰",
-   "summary_ko": "인간이 AI와 상호작용할 때 입력하는 프롬프트와 지시어의 의미를 분석한 프로젝트입니다. 프롬프트 엔지니어링의 본질을 돌아보게 합니다.",
-   "category": "참고",
-   "tags": [
-    "LLM"
-   ]
-  },
-  {
-   "id": "ef625d41fabe427e",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2dij0/when_you_say_because_i_can_limits_of_x870e/",
-   "source": "r/LocalLLaMA",
-   "title": "When you say, because I can. Limits of X870e",
-   "published_at": "2026-08-30T10:02:30+00:00",
-   "collected_at": "2026-08-30T12:46:51.050311+00:00",
-   "title_ko": "고성능 홈랩 구축을 통한 대형 언어 모델 로컬 구동",
-   "summary_ko": "대용량 메모리와 최신 하드웨어를 결합해 로컬 환경에서 대형 오픈소스 모델을 원활하게 실행하는 사용자 사례가 공유되었습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "97bdcacffb837ecb",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214613",
-   "source": "AI타임스",
-   "title": "오픈AI, '코덱스' 용량 한계 보완 조치 단행…\"사용 효율 최대 50% 개선\"",
-   "published_at": "2026-08-30T09:56:50+00:00",
-   "collected_at": "2026-08-30T06:31:15.095082+00:00",
-   "title_ko": "오픈AI, 코덱스 사용량 한도 리셋 및 효율성 개선",
-   "summary_ko": "오픈AI가 사용자 급증에 대응해 코덱스와 챗GPT 워크 유료 사용자의 사용량 한도를 초기화하고 토큰 효율을 대폭 개선했습니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "코딩"
-   ]
-  },
-  {
-   "id": "deb9ddfd97bac804",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2cxcw/some_people_said_the_minecraft_clone_i_fully/",
-   "source": "r/LocalLLaMA",
-   "title": "Some people said the Minecraft clone I fully vibecoded with Qwen3.8-27B Q4 is not that impressive because Minecraft is in the training data, so I had the model add 4 things that are probably not.",
-   "published_at": "2026-08-30T09:28:27+00:00",
-   "collected_at": "2026-08-30T12:46:51.050311+00:00",
-   "title_ko": "LLM으로 완전히 구현한 마인크래프트 클론 프로젝트",
-   "summary_ko": "오픈소스 LLM을 활용해 코딩부터 구현까지 마인크래프트 클론을 완성하고, 학습 데이터 외의 창의적 기능을 추가한 사례가 공유되었습니다.",
-   "category": "참고",
-   "tags": [
-    "코딩",
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "68f722bd16057705",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214611",
-   "source": "AI타임스",
-   "title": "오픈AI '아스트라' 성능 포착...웹 개발부터 3D 그래픽까지 원샷 구현",
-   "published_at": "2026-08-30T09:19:00+00:00",
-   "collected_at": "2026-08-30T06:31:15.095082+00:00",
-   "title_ko": "오픈AI 차세대 모델 '아스트라' 성능 포착",
-   "summary_ko": "오픈AI의 신규 AI 모델 '아스트라'의 내부 테스트 결과가 포착되었습니다. 단 한 번의 명령으로 웹 개발과 3D 그래픽을 구현하는 성능을 보여주었습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "254d20d7d17245ad",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214609",
-   "source": "AI타임스",
-   "title": "KT, 서울대·KAIST와 AI 공동연구 최종 성과 공유...핵심 기술 내재화 추진",
-   "published_at": "2026-08-30T09:00:00+00:00",
-   "collected_at": "2026-08-30T06:31:15.095082+00:00",
-   "title_ko": "KT, 서울대·KAIST와 AI 공동연구 성과 공유",
-   "summary_ko": "KT가 서울대, KAIST와 함께 자율형 에이전트와 신뢰성 AI 등 지난 1년간의 산학 공동연구 성과를 공유하고 기술 내재화를 추진합니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "9bac41d86f95d428",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2c4el/koboldcpp_v1120_released/",
-   "source": "r/LocalLLaMA",
-   "title": "Koboldcpp v1.120 released",
-   "published_at": "2026-08-30T08:42:07+00:00",
-   "collected_at": "2026-08-30T12:46:51.050311+00:00",
-   "title_ko": "로컬 LLM 구동 도구 'Koboldcpp v1.120' 출시",
-   "summary_ko": "로컬 환경에서 대형 언어 모델을 쉽게 실행할 수 있도록 돕는 인기 도구 Koboldcpp의 새 버전이 배포되었습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "ac472b20a8c85a2b",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2b2j0/qwen38flashnext_at_170k_context_on_a_single_96_gb/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.8-Flash-Next at 170K context on a single 96 GB card. ~110 tok/s.",
-   "published_at": "2026-08-30T07:41:06+00:00",
-   "collected_at": "2026-08-30T12:46:51.050311+00:00",
-   "title_ko": "Qwen3.8-Flash-Next, 단일 GPU에서 170K 컨텍스트 구동",
-   "summary_ko": "양자화된 Qwen 모델이 96GB VRAM 단일 카드에서 170K 이상의 긴 컨텍스트를 안정적으로 처리하며 고성능을 보여줍니다. 로컬 LLM 구동 효율성을 높이는 데 기여합니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "9d38959a9cf3071b",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w29ukk/qwen38flashnext_nvfp4_day3_support_for_4xv100/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.8-Flash-Next NVFP4 Day-3 support for 4xV100",
-   "published_at": "2026-08-30T06:31:25+00:00",
-   "collected_at": "2026-08-30T12:46:51.050311+00:00",
-   "title_ko": "SGLang, Qwen3.8-Flash-Next NVFP4 지원 추가",
-   "summary_ko": "SGLang이 구형 V100 GPU 환경에서도 Qwen 모델의 256k 풀 컨텍스트를 지원하기 시작했습니다. 대형 모델의 로컬 추론 접근성을 넓혀줍니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "1d13d848dea2dbeb",
-   "url": "https://www.reddit.com/r/singularity/comments/1w29ou2/introducing_s1_a_robot_model_that_learns_from_one/",
-   "source": "r/singularity",
-   "title": "Introducing S1: A robot model that learns from one example",
-   "published_at": "2026-08-30T06:22:29+00:00",
-   "collected_at": "2026-08-30T12:47:04.057306+00:00",
-   "title_ko": "단 한 번의 예시로 학습하는 로봇 모델 'S1' 공개",
-   "summary_ko": "단 한 개의 예시만 보고 학습할 수 있는 로봇 모델 S1이 공개되었습니다. 로봇 학습의 효율성을 극적으로 높여줄 잠재력이 있습니다.",
-   "category": "속보",
-   "tags": [
-    "로보틱스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "d9ed159cd4e1a111",
-   "url": "https://news.hada.io/topic?id=33028",
-   "source": "GeekNews",
-   "title": "Debian과 세이렌",
-   "published_at": "2026-08-30T06:01:06+00:00",
-   "collected_at": "2026-08-30T06:31:16.434991+00:00",
-   "title_ko": "데비안 프로젝트, 개발 과정 내 LLM 사용 허용",
-   "summary_ko": "리눅스 배포판 데비안이 개발 과정에서 LLM 사용을 공식 허용하기로 했습니다. 다만 장기적인 코드 복잡성 증가를 우려하는 목소리도 존재합니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "f34f55ceecbb940b",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w296bx/qwen38flashnext_optimised_for_macs/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.8-Flash-Next optimised for Macs",
-   "published_at": "2026-08-30T05:54:00+00:00",
-   "collected_at": "2026-08-30T06:31:01.637748+00:00",
-   "title_ko": "맥(Mac) 환경 최적화된 Qwen3.8-Flash-Next 공개",
-   "summary_ko": "맥 제품군에서 SSD 스트리밍과 커스텀 양자화를 통해 대형 모델을 고속으로 구동하는 최적화 기법이유저 커뮤니티에 공유되었습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "cc886b4f786677e7",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w28x8u/its_official_192gb_framework/",
-   "source": "r/LocalLLaMA",
-   "title": "It's official! 192GB Framework",
-   "published_at": "2026-08-30T05:39:44+00:00",
-   "collected_at": "2026-08-30T06:31:01.637748+00:00",
-   "title_ko": "192GB 메모리 지원 프레임워크 메인보드 등장",
-   "summary_ko": "대용량 통합 메모리를 지원하는 프레임워크 노트북 메인보드 사양이 공개되었습니다. 로컬 LLM 구동 환경 구축에 유용할 것으로 기대됩니다.",
-   "category": "참고",
-   "tags": [
-    "반도체",
-    "오픈소스"
    ]
   }
  ]

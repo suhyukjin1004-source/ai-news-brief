@@ -15,6 +15,22 @@
   ]
  },
  {
+  "id": "d4e4c8d0cfad1834",
+  "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+  "source": "The Verge",
+  "title": "Apple accuses OpenAI of destroying evidence",
+  "published_at": "2026-09-01T18:19:26+00:00",
+  "collected_at": "2026-09-01T18:22:38.028028+00:00",
+  "title_ko": "애플, 오픈AI의 증거 인멸 정황 제기",
+  "summary_ko": "애플이 오픈AI와의 법적 분쟁 과정에서 전 직원의 맥북을 뒤늦게 제출한 점을 들어 증거 인멸 우려와 함께 신속한 증거 개시를 요구했습니다. 양사 간 법적 공방이 격화되고 있음을 보여줍니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "Apple",
+   "규제"
+  ]
+ },
+ {
   "id": "6bbf26e5f8dc7f1c",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214684",
   "source": "AI타임스",
@@ -46,6 +62,37 @@
   ]
  },
  {
+  "id": "12881ea49223de11",
+  "url": "https://news.hada.io/topic?id=33127",
+  "source": "GeekNews",
+  "title": "ChatGPT Work 도구와 스킬 레퍼런스",
+  "published_at": "2026-09-01T17:44:21+00:00",
+  "collected_at": "2026-09-01T18:22:58.193337+00:00",
+  "title_ko": "ChatGPT Work 도구 및 스킬 레퍼런스 공개",
+  "summary_ko": "ChatGPT Work와 Codex에서 사용하는 파일 편집, 웹 검색, 에이전트 협업 등의 입력 형식과 호출 조건을 정리한 레퍼런스입니다. 자동화 구현 시 실무적인 참고 자료가 됩니다.",
+  "category": "팁",
+  "tags": [
+   "OpenAI",
+   "ChatGPT",
+   "코딩"
+  ]
+ },
+ {
+  "id": "a5ab9354f6b784b4",
+  "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+  "source": "TechCrunch",
+  "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+  "published_at": "2026-09-01T17:35:37+00:00",
+  "collected_at": "2026-09-01T18:22:37.857159+00:00",
+  "title_ko": "구글, AI 기반 디자인 도구 'Google Pics' 공개",
+  "summary_ko": "구글이 캔바와 어도비의 아성에 도전하기 위해 프롬프트 기반의 AI 이미지 생성 및 편집 도구인 Google Pics를 선보였습니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "Gemini"
+  ]
+ },
+ {
   "id": "2cd9af819f345f1c",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214714",
   "source": "AI타임스",
@@ -58,6 +105,37 @@
   "tags": [
    "반도체",
    "투자"
+  ]
+ },
+ {
+  "id": "9658836c8e4ce085",
+  "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+  "source": "DeepMind",
+  "title": "Introducing agentic video understanding with Gemini",
+  "published_at": "2026-09-01T17:08:51+00:00",
+  "collected_at": "2026-09-01T18:22:40.255828+00:00",
+  "title_ko": "구글 딥마인드, 제미나이 기반 에이전트형 비디오 이해 기능 발표",
+  "summary_ko": "구글 딥마인드가 영상 데이터를 더욱 능동적으로 분석하고 이해하는 에이전트형 비디오 이해 기술을 소개했습니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "Gemini",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "422deba41706634a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4i2id/question_why_is_prefill_unbelievably_faster_in/",
+  "source": "r/LocalLLaMA",
+  "title": "Question: Why is prefill unbelievably faster in vLLM than other inference engines?",
+  "published_at": "2026-09-01T17:05:27+00:00",
+  "collected_at": "2026-09-01T18:22:43.556716+00:00",
+  "title_ko": "vLLM 추론 엔진의 압도적인 Prefill 속도 분석",
+  "summary_ko": "vLLM 포크 버전이 기존 llama.cpp 등 다른 추론 엔진에 비해 프리필(prefill) 단계에서 훨씬 빠른 속도를 보여주는 이유와 구조적 차이에 대한 개발자 토론입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "코딩"
   ]
  },
  {
@@ -89,6 +167,36 @@
   ]
  },
  {
+  "id": "3b5f2688fec1191a",
+  "url": "https://openai.com/index/ai-native-company-workflows",
+  "source": "OpenAI",
+  "title": "How AI-native companies turn workflows into operating capability",
+  "published_at": "2026-09-01T17:00:00+00:00",
+  "collected_at": "2026-09-01T18:22:39.132027+00:00",
+  "title_ko": "AI 네이티브 기업들의 워크플로우 운영 역량 전환 사례",
+  "summary_ko": "Basis, Clay, Exa Labs 등이 AI 에이전트를 활용해 온보딩과 고객 관리를 개선한 사례를 통해 기업 리더들이 적용할 수 있는 인사이트를 제공합니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "투자"
+  ]
+ },
+ {
+  "id": "de425f98bc3e789a",
+  "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+  "source": "TechCrunch",
+  "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+  "published_at": "2026-09-01T17:00:00+00:00",
+  "collected_at": "2026-09-01T18:22:37.857159+00:00",
+  "title_ko": "ChatGPT Health, 임상의를 위한 Epic 환자 데이터 연동 추가",
+  "summary_ko": "오픈라이가 의료진이 환자 기록에 읽기 전용으로 접근할 수 있도록 Epic 시스템과의 연동 기능을 ChatGPT Health에 추가했습니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "ChatGPT"
+  ]
+ },
+ {
   "id": "81d3f2027210c726",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214719",
   "source": "AI타임스",
@@ -116,6 +224,36 @@
   "tags": [
    "Meta",
    "규제"
+  ]
+ },
+ {
+  "id": "34be0f2e79928694",
+  "url": "https://news.hada.io/topic?id=33126",
+  "source": "GeekNews",
+  "title": "67센트로 ARC-AGI-1에서 44% 달성",
+  "published_at": "2026-09-01T16:44:07+00:00",
+  "collected_at": "2026-09-01T18:22:58.193337+00:00",
+  "title_ko": "67센트로 ARC-AGI-1 44% 달성한 소형 모델 학습 사례",
+  "summary_ko": "RTX 5090에서 소형 트랜스포머를 처음부터 학습시켜 단 67센트의 비용으로 ARC-AGI-1에서 44%의 성능을 기록하며 대형 모델 못지않은 효율성을 입증했습니다.",
+  "category": "중요",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "e69dad8044e219df",
+  "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+  "source": "TechCrunch",
+  "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+  "published_at": "2026-09-01T16:31:04+00:00",
+  "collected_at": "2026-09-01T18:22:37.857159+00:00",
+  "title_ko": "세쿼이아 인큐베이팅 스타트업 Empirik, 2,100만 달러 투자 유치",
+  "summary_ko": "소프트웨어 엔지니어링을 위한 Cursor처럼 IT 인프라 장애를 사전에 예측하는 스타트업 Empirik이 출범하며 대규모 자금을 조달했습니다.",
+  "category": "중요",
+  "tags": [
+   "투자",
+   "코딩"
   ]
  },
  {
@@ -163,6 +301,21 @@
   ]
  },
  {
+  "id": "6bfa9b2bcb5dd6cb",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4g8gk/keenable_select_an_agent_that_searches_the_web_in/",
+  "source": "r/LocalLLaMA",
+  "title": "Keenable SELECT: an agent that searches the web in SQL",
+  "published_at": "2026-09-01T16:02:41+00:00",
+  "collected_at": "2026-09-01T18:22:43.556716+00:00",
+  "title_ko": "SQL로 웹을 검색하는 AI 에이전트 'Keenable SELECT'",
+  "summary_ko": "SQL 쿼리를 활용해 웹을 탐색하는 새로운 형태의 리서치 에이전트가 소개되었습니다. 차세대 딥서치 기술의 방향성을 보여줍니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "4caeae1fbe97aa4b",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214693",
   "source": "AI타임스",
@@ -175,6 +328,20 @@
   "tags": [
    "OpenAI",
    "투자"
+  ]
+ },
+ {
+  "id": "10e1c97e093728a0",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+  "source": "The Verge",
+  "title": "John Deere launched an AI chatbot for farmers",
+  "published_at": "2026-09-01T16:00:52+00:00",
+  "collected_at": "2026-09-01T18:22:38.028028+00:00",
+  "title_ko": "존디어, 농부들을 위한 전용 AI 챗봇 출시",
+  "summary_ko": "농기계 업체 존디어가 농부들의 장비 데이터와 영농 이력을 기반으로 최적의 작업 시기와 연료 사용법 등을 조언해 주는 AI 비서 'JD'를 테스트합니다.",
+  "category": "속보",
+  "tags": [
+   "로보틱스"
   ]
  },
  {
@@ -192,6 +359,75 @@
   ]
  },
  {
+  "id": "ab183206da806772",
+  "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+  "source": "Google AI",
+  "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+  "published_at": "2026-09-01T16:00:00+00:00",
+  "collected_at": "2026-09-01T18:22:39.520049+00:00",
+  "title_ko": "구글 워크스페이스에 통합된 이미지 생성 도구 Google Pics",
+  "summary_ko": "구글 워크스페이스 사용자가 손쉽게 전문적인 이미지를 만들고 편집할 수 있는 Google Pics의 사용법이 안내되었습니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "Gemini"
+  ]
+ },
+ {
+  "id": "eafd89ecb2f4e2c0",
+  "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+  "source": "The Verge",
+  "title": "Google Pics is like Canva, but with even more AI",
+  "published_at": "2026-09-01T16:00:00+00:00",
+  "collected_at": "2026-09-01T18:22:38.028028+00:00",
+  "title_ko": "구글, AI 중심의 크리에이티브 디자인 도구 'Google Pics' 공개",
+  "summary_ko": "제미나이와 생성형 AI 모델을 기반으로 프롬프트만으로 정밀한 이미지 생성과 편집을 지원하는 구글의 기업용 디자인 툴 수이트입니다.",
+  "category": "중요",
+  "tags": [
+   "Google",
+   "Gemini"
+  ]
+ },
+ {
+  "id": "4edb30721096c422",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4g0oh/help_me_set_up_local_ai_for_my_85_year_old_aunt/",
+  "source": "r/LocalLLaMA",
+  "title": "Help me set up local AI for my 85 year old aunt who is blind.",
+  "published_at": "2026-09-01T15:55:08+00:00",
+  "collected_at": "2026-09-01T18:22:43.556716+00:00",
+  "title_ko": "시각 장애 고모를 위한 로컬 AI 작문 도우미 구축기",
+  "summary_ko": "시력이 거의 안 남은 85세 고모의 창작 활동을 돕기 위해 로컬 AI 환경을 구축하려는 사례. AI가 일상적 한계를 극복하는 실용적 도구로 활용됨을 보여줌.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "d1bfe22b3e8ddbbf",
+  "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
+  "source": "Hacker News",
+  "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
+  "published_at": "2026-09-01T15:53:42+00:00",
+  "collected_at": "2026-09-01T18:22:42.465725+00:00",
+  "title_ko": "드워프 포트리스 개발자, AI로 혼란에 빠진 업계 비판",
+  "summary_ko": "게임 업계가 AI 도입과 잇따른 해고로 인해 혼란에 빠졌으며, 경영진들이 이상 증세를 보이고 있다고 비판함. AI가 게임 및 테크 업계 전반에 미치는 심리적·구조적 불안감을 시사.",
+  "category": "중요",
+  "tags": []
+ },
+ {
+  "id": "2801e0e5ca555a16",
+  "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+  "source": "TechCrunch",
+  "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
+  "published_at": "2026-09-01T15:51:55+00:00",
+  "collected_at": "2026-09-01T18:22:37.857159+00:00",
+  "title_ko": "아마존 알렉사, 쇼핑 유도 알림 기능 추가",
+  "summary_ko": "아마존이 알렉사에 개인화된 쇼핑 알림 기능을 도입해 상품 출시와 이벤트 정보를 제공함. AI 기반 음성 비서의 상용화 기능 확장.",
+  "category": "속보",
+  "tags": []
+ },
+ {
   "id": "72541ae7a1b55b7b",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214704",
   "source": "AI타임스",
@@ -203,6 +439,21 @@
   "category": "참고",
   "tags": [
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "304efa39c78bd636",
+  "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+  "source": "TechCrunch",
+  "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+  "published_at": "2026-09-01T15:45:51+00:00",
+  "collected_at": "2026-09-01T18:22:37.857159+00:00",
+  "title_ko": "AIR, AI 에이전트 보안 검증 플랫폼 위해 5천만 달러 투자 유치",
+  "summary_ko": "기업 내 AI 에이전트와 이들이 사용하는 스킬을 탐색·검증하고 원치 않는 행동을 차단하는 플랫폼 기업이 대규모 투자를 받음. 기업용 AI 보안의 중요성이 커지고 있음을 방증.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트",
+   "투자"
   ]
  },
  {
@@ -233,6 +484,34 @@
   "tags": [
    "투자",
    "반도체"
+  ]
+ },
+ {
+  "id": "daf3badb06c9d9ab",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4f8t2/deceptive_model_quantization_from_atomicchat/",
+  "source": "r/LocalLLaMA",
+  "title": "Deceptive model quantization from AtomicChat?",
+  "published_at": "2026-09-01T15:27:28+00:00",
+  "collected_at": "2026-09-01T18:22:43.556716+00:00",
+  "title_ko": "AtomicChat의 기만적인 모델 양자화 논란",
+  "summary_ko": "특정 모델의 양자화 파일이 실제 표기 방식과 다른 저급 압축 방식을 사용했다는 의혹이 제기됨. 오픈소스 LLM 생태계 내 양자화 투명성에 대한 경각심을 일깨움.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "741d2e1ace69a666",
+  "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+  "source": "TechCrunch",
+  "title": "Fambot introduces an ‘AI chief of staff’ for families",
+  "published_at": "2026-09-01T15:10:58+00:00",
+  "collected_at": "2026-09-01T18:22:37.857159+00:00",
+  "title_ko": "가족을 위한 AI 비서 '팸봇' 등장",
+  "summary_ko": "이메일, 일정, 학교 소식 등 육아와 관련된 가사 물류를 관리해 주는 AI 비서 서비스가 출시됨. LLM이 일상 영역으로 깊숙이 침투하고 있음을 보여줌.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트"
   ]
  }
 ]
