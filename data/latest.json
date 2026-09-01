@@ -1,8 +1,69 @@
 {
- "updated_at": "2026-09-01T21:42:53.995634+00:00",
+ "updated_at": "2026-09-01T23:59:52.373958+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "8fa50c1916c00004",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214725",
+   "source": "AI타임스",
+   "title": "앤트로픽, 최고 성능 '페이블 5.1' 출시...캐시 읽기 75% 파격 할인",
+   "published_at": "2026-09-02T06:07:40+00:00",
+   "collected_at": "2026-09-01T23:59:47.330908+00:00",
+   "title_ko": "앤트로픽, 차세대 모델 클로드 5.1 시리즈 출시 및 캐시 할인",
+   "summary_ko": "앤트로픽이 추론 능력을 강화한 '클로드 페이블 5.1'과 '미소스 5.1'을 공개하고, 입력 캐시 읽기 비용을 대폭 인하해 AI 에이전트 운용 부담을 낮췄습니다.",
+   "category": "속보",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "497c5bb1a4bb32de",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4tejh/gave_a_try_to_exllamav3_and_its_great/",
+   "source": "r/LocalLLaMA",
+   "title": "Gave a try to Exllamav3 and it's great!",
+   "published_at": "2026-09-01T23:24:47+00:00",
+   "collected_at": "2026-09-01T23:59:34.043129+00:00",
+   "title_ko": "Exllamav3를 활용한 로컬 LLM 구동 후기",
+   "summary_ko": "Exllamav3를 이용해 8x3090 환경에서 GLM 5.3 Flash 모델을 구동하여 고속의 프리필 및 디코딩 성능을 달성한 사용자의 소식입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "dffd97640aaacdc7",
+   "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+   "source": "The Verge",
+   "title": "Google needs Hollywood more than the studios need AI",
+   "published_at": "2026-09-01T22:50:29+00:00",
+   "collected_at": "2026-09-01T23:59:27.050257+00:00",
+   "title_ko": "구글, AI 학습용 저작권 확보 위해 할리우드 스튜디오와 접촉",
+   "summary_ko": "구글이 AI 모델 학습에 저작권 콘텐츠를 활용하기 위해 할리우드 대형 스튜디오들과 라이선스 체결을 추진하고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "Google",
+    "규제"
+   ]
+  },
+  {
+   "id": "2e05cec5016b0188",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4s68k/how_i_got_280_toks_on_qwen38_27b_on_2xr9700s_and/",
+   "source": "r/LocalLLaMA",
+   "title": "How I got 280 tok/s on Qwen3.8 27B on 2xr9700's and 940k tokens kv cache",
+   "published_at": "2026-09-01T22:35:13+00:00",
+   "collected_at": "2026-09-01T23:59:34.043129+00:00",
+   "title_ko": "듀얼 GPU 환경에서 Qwen3.8 모델 고속 구동 최적화",
+   "summary_ko": "개발자가 자체 하드웨어 환경과 MXFP4를 활용해 대형 모델의 KV 캐시와 처리 속도를 극대화한 경험을 공유했습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
   {
    "id": "29cae09a96b61c47",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214723",
@@ -16,6 +77,51 @@
    "tags": [
     "AI 에이전트",
     "인프라"
+   ]
+  },
+  {
+   "id": "99fd0624cc78f76c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4rzbd/given_how_common_rtx_3090_use_is_for_llms_why/",
+   "source": "r/LocalLLaMA",
+   "title": "Given how common RTX 3090 use is for LLMs, why don't we see more INT8 W8A8 models ?",
+   "published_at": "2026-09-01T22:27:47+00:00",
+   "collected_at": "2026-09-01T23:59:34.043129+00:00",
+   "title_ko": "RTX 3090에서 INT8 W8A8 모델이 드문 이유에 대한 토론",
+   "summary_ko": "RTX 3090이 AI 애호가들 사이에서 널리 쓰임에도 불구하고, 네이티브 INT8 텐서 코어를 활용한 W8A8 모델 대신 FP8 등이 기본값으로 쓰이는 이유에 대한 커뮤니티 토론입니다.",
+   "category": "참고",
+   "tags": [
+    "반도체",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "46741aa0d646aea5",
+   "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+   "source": "TechCrunch",
+   "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+   "published_at": "2026-09-01T22:08:24+00:00",
+   "collected_at": "2026-09-01T23:59:26.847422+00:00",
+   "title_ko": "AI 학습 스타트업 AfterQuery, 32억 달러 가치 평가로 급성장",
+   "summary_ko": "AI 모델 학습 스타트업 AfterQuery가 시드 투자 후 불과 몇 달 만에 32억 달러의 기업 가치를 인정받으며 최단기간 유니콘에 올랐습니다.",
+   "category": "중요",
+   "tags": [
+    "투자"
+   ]
+  },
+  {
+   "id": "f8f3841e3720e8c0",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+   "source": "The Verge",
+   "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
+   "published_at": "2026-09-01T22:01:36+00:00",
+   "collected_at": "2026-09-01T23:59:27.050257+00:00",
+   "title_ko": "앤트로픽, 에이전트 작업 비용 낮춘 클로드 5.1 출시",
+   "summary_ko": "앤트로픽이 복잡한 에이전트 작업에서 비용을 최대 45%까지 낮춘 신규 모델 페이블 5.1과 미소스 5.1을 출시했습니다.",
+   "category": "속보",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "AI 에이전트"
    ]
   },
   {
@@ -332,6 +438,20 @@
    ]
   },
   {
+   "id": "4fb7266c20451448",
+   "url": "https://www.worldlabs.ai/blog/atlas",
+   "source": "Hacker News",
+   "title": "Atlas: A World Model for Spatial Intelligence",
+   "published_at": "2026-09-01T17:36:02+00:00",
+   "collected_at": "2026-09-01T23:59:29.613864+00:00",
+   "title_ko": "월드랩스, 공간 지능을 위한 월드 모델 'Atlas' 공개",
+   "summary_ko": "월드랩스가 공간 지능과 3D러닝을 지원하는 새로운 AI 월드 모델 'Atlas'의 블로그를 공개했습니다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "a5ab9354f6b784b4",
    "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
    "source": "TechCrunch",
@@ -344,6 +464,21 @@
    "tags": [
     "Google",
     "Gemini"
+   ]
+  },
+  {
+   "id": "2863ae41951ced11",
+   "url": "https://www.norirobotics.com/",
+   "source": "Hacker News",
+   "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
+   "published_at": "2026-09-01T17:35:10+00:00",
+   "collected_at": "2026-09-01T23:59:29.613864+00:00",
+   "title_ko": "노리 로보틱스, 연구용 저렴한 휴머노이드 로봇 공개",
+   "summary_ko": "YC(Y Combinator) 출신 스타트업이 로보틱스 연구 개발을 위해 1,688달러 가격의 저렴한 양팔 모바일 휴머노이드 로봇을 공개했습니다.",
+   "category": "속보",
+   "tags": [
+    "로보틱스",
+    "투자"
    ]
   },
   {
@@ -2840,144 +2975,6 @@
    "tags": [
     "OpenAI",
     "GPT"
-   ]
-  },
-  {
-   "id": "48a83e60d1e29126",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2z2zo/qwen38flashnextnvfp4_vs_qwen3827bfp_test_results/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.8-Flash-Next-NVFP4 vs Qwen3.8-27B-FP Test Results",
-   "published_at": "2026-08-31T01:09:25+00:00",
-   "collected_at": "2026-08-31T05:20:47.398789+00:00",
-   "title_ko": "Qwen 최신 모델 로컬 벤치마크 테스트 결과",
-   "summary_ko": "블랙웰 하드웨어 환경에서 Qwen 플래시 모델과 FP8 모델의 실제 에이전트 워크로드 성능을 비교 평가했습니다.",
-   "category": "참고",
-   "tags": [
-    "NVIDIA",
-    "LLM",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "8b981b32cd816dfb",
-   "url": "https://news.hada.io/topic?id=33059",
-   "source": "GeekNews",
-   "title": "NVIDIA-labs OO Agents (NOOA) - Python 클래스로 에이전트를 정의하는 프레임워크",
-   "published_at": "2026-08-31T01:00:04+00:00",
-   "collected_at": "2026-08-31T05:21:02.066988+00:00",
-   "title_ko": "파이썬 클래스로 에이전트를 정의하는 NOOA 프레임워크",
-   "summary_ko": "엔비디아 랩스에서 공개한 NOOA는 파이썬 클래스 구조를 활용해 모델 독립적인 AI 에이전트를 쉽게 정의할 수 있는 도구입니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "NVIDIA",
-    "Python"
-   ]
-  },
-  {
-   "id": "243be371f89f6da0",
-   "url": "https://news.hada.io/topic?id=33058",
-   "source": "GeekNews",
-   "title": "The Agentic Awakening - 코딩이 10배 빨라져도 조직 생산성이 따라오지 않는 이유",
-   "published_at": "2026-08-31T00:55:02+00:00",
-   "collected_at": "2026-08-31T05:21:02.066988+00:00",
-   "title_ko": "AI 코딩 도구 도입에 따른 조직 생산성의 한계",
-   "summary_ko": "개인의 코딩 속도가 크게 향상되어도 기존의 승인 및 배포 프로세스로 인해 조직 전체의 생산성 향상은 제한적이라는 분석입니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "코딩",
-    "투자"
-   ]
-  },
-  {
-   "id": "f2849e3bd41099e8",
-   "url": "https://www.reddit.com/r/singularity/comments/1w2y9rb/using_llms/",
-   "source": "r/singularity",
-   "title": "Using LLMs",
-   "published_at": "2026-08-31T00:32:02+00:00",
-   "collected_at": "2026-08-31T13:32:04.522395+00:00",
-   "title_ko": "일상 속 AI 및 LLM 활용도에 대한 고찰",
-   "summary_ko": "주변 지인들의 실생활 속 ChatGPT 및 AI 도구 사용 빈도와 인식에 대한 커뮤니티 토론입니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "LLM"
-   ]
-  },
-  {
-   "id": "560e78a0404466b6",
-   "url": "https://news.hada.io/topic?id=33054",
-   "source": "GeekNews",
-   "title": "mu - 에이전트가 들어 있는 개인 서버",
-   "published_at": "2026-08-31T00:30:03+00:00",
-   "collected_at": "2026-08-31T05:21:02.066988+00:00",
-   "title_ko": "AI 에이전트가 내장된 개인 서버 플랫폼 'mu'",
-   "summary_ko": "다양한 서비스와 AI 에이전트 도구를 하나의 Go 바이너리로 통합하여 개인 서버에서 직접 운영할 수 있게 합니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "ea7f583606e84b04",
-   "url": "https://news.hada.io/topic?id=33052",
-   "source": "GeekNews",
-   "title": "AI로 가짜 화장품 식별하기",
-   "published_at": "2026-08-31T00:18:41+00:00",
-   "collected_at": "2026-08-31T05:21:02.066988+00:00",
-   "title_ko": "멀티모달 AI를 활용한 가짜 화장품 식별",
-   "summary_ko": "Gemini 플래시 모델을 이용해 제품 포장의 미세한 불일치를 감지하고 위조품을 판별하는 사례를 소개합니다.",
-   "category": "참고",
-   "tags": [
-    "Google",
-    "Gemini"
-   ]
-  },
-  {
-   "id": "8a095ed78533e21f",
-   "url": "https://news.hada.io/topic?id=33050",
-   "source": "GeekNews",
-   "title": "좋은 조직문화가 AI보다 큰 생산성 향상을 만드는 이유",
-   "published_at": "2026-08-31T00:15:02+00:00",
-   "collected_at": "2026-08-31T05:21:02.066988+00:00",
-   "title_ko": "조직문화와 심리적 안전감이 AI 생산성을 좌우하는 이유",
-   "summary_ko": "AI 도구 도입만으로는 생산성 향상에 한계가 있으며, 협력적인 조직 환경과 심리적 안전감이 선행되어야 실질적인 성과를 낼 수 있습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "조직문화"
-   ]
-  },
-  {
-   "id": "c72404b4d2167e2b",
-   "url": "https://www.reddit.com/r/singularity/comments/1w2xdqz/gpt_56_has_broken_the_record_on_large_gaps/",
-   "source": "r/singularity",
-   "title": "GPT 5.6 has broken the record on large gaps between primes.",
-   "published_at": "2026-08-30T23:52:55+00:00",
-   "collected_at": "2026-08-31T13:32:04.522395+00:00",
-   "title_ko": "GPT 5.6의 소수 간격 관련 기록 경신 소문",
-   "summary_ko": "GPT 5.6 모델이 대규모 소수(prime numbers) 간격 문제에서 새로운 기록을 세웠다는 내용의 게시물입니다.",
-   "category": "속보",
-   "tags": [
-    "GPT",
-    "LLM"
-   ]
-  },
-  {
-   "id": "7a93a6b4598f4246",
-   "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
-   "source": "Hacker News",
-   "title": "How to build a diffusion language model",
-   "published_at": "2026-08-30T23:41:32+00:00",
-   "collected_at": "2026-08-31T13:31:35.098567+00:00",
-   "title_ko": "확산 언어 모델 구축 방법 가이드",
-   "summary_ko": "최근 주목받는 확산 모델(Diffusion model) 원리를 활용해 언어 모델을 직접 구축하는 방법을 다룬 기술 가이드입니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM"
    ]
   }
  ]
