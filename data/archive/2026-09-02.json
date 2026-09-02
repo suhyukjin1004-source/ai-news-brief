@@ -1,5 +1,46 @@
 [
  {
+  "id": "92b00fb02e6c5738",
+  "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+  "source": "TechCrunch",
+  "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+  "published_at": "2026-09-02T14:56:34+00:00",
+  "collected_at": "2026-09-02T18:34:32.803143+00:00",
+  "title_ko": "아마존 쇼핑 앱, AI 기반 스팸 메시지 감지 기능 추가",
+  "summary_ko": "아마존이 알렉사에 의심스러운 이메일과 문자가 사기인지 판별해 주는 AI 보안 기능을 도입했습니다.",
+  "category": "속보",
+  "tags": []
+ },
+ {
+  "id": "3f755cb7de04d3bf",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+  "source": "The Verge",
+  "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
+  "published_at": "2026-09-02T14:35:03+00:00",
+  "collected_at": "2026-09-02T18:34:32.919704+00:00",
+  "title_ko": "오픈AI, 캐나다 총기 난사 사건 관련 방조 혐의로 피소",
+  "summary_ko": "학생과 교사들이 오픈AI와 샘 알트먼을 상대로 총기 난사범에게 실질적 도움을 제공했다며 다수의 소송을 제기했습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "규제"
+  ]
+ },
+ {
+  "id": "281245409d26a962",
+  "url": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
+  "source": "The Verge",
+  "title": "NYC bans AI use for students until they reach high school",
+  "published_at": "2026-09-02T14:30:00+00:00",
+  "collected_at": "2026-09-02T18:34:32.919704+00:00",
+  "title_ko": "뉴욕시, 중학교 이하 학생들의 교실 내 AI 사용 전면 금지",
+  "summary_ko": "뉴욕시가 어린 학생들의 과도한 디지털 기기 의존을 막기 위해 2026-2027 학년도부터 교내 AI 사용을 한시적으로 금지합니다.",
+  "category": "중요",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
   "id": "7c32fbb7723eb736",
   "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
   "source": "Simon Willison",
@@ -13,6 +54,74 @@
    "Anthropic",
    "Claude",
    "LLM"
+  ]
+ },
+ {
+  "id": "348964925e4462a7",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5bkrf/do_we_forget_about_another_qwen_model_for_a_while/",
+  "source": "r/LocalLLaMA",
+  "title": "Do we forget about another Qwen model for a while now ?",
+  "published_at": "2026-09-02T14:14:05+00:00",
+  "collected_at": "2026-09-02T18:34:38.437995+00:00",
+  "title_ko": "알리바바 Qwen 모델 출시 전략 변화에 대한 개발자 분석",
+  "summary_ko": "최근 Qwen 3.8 등 대형 모델 위주로 출시 주기가 바뀌면서 다양한 크기의 모델을 기대하던 개발자들 사이에서 논의가 이어지고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "e77ccb8ba0f6cd16",
+  "url": "https://github.com/mlc-ai/web-llm",
+  "source": "Hacker News",
+  "title": "WebLLM: high-performance in-browser LLM inference engine",
+  "published_at": "2026-09-02T14:02:35+00:00",
+  "collected_at": "2026-09-02T18:34:37.268367+00:00",
+  "title_ko": "웹브라우저 기반 고성능 LLM 추론 엔진 'WebLLM'",
+  "summary_ko": "웹 브라우저 환경에서 LLM을 고성능으로 직접 구동할 수 있는 오픈소스 인퍼런스 엔진 프로젝트가 주목받고 있습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "6a052858f31dc1af",
+  "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+  "source": "MIT Tech Review",
+  "title": "Facilitating AI integration with simplicity at scale",
+  "published_at": "2026-09-02T14:00:00+00:00",
+  "collected_at": "2026-09-02T18:34:33.347487+00:00",
+  "title_ko": "제조업 환경에서의 대규모 AI 통합 및 단순화 전략",
+  "summary_ko": "글로벌 제조기업들이 데이터 사일을 해소하고 효율적인 의사결정을 위해 AI를 현장에 어떻게 통합하는지에 대한 인사이트입니다.",
+  "category": "참고",
+  "tags": []
+ },
+ {
+  "id": "164af9b8614259fa",
+  "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+  "source": "Hacker News",
+  "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+  "published_at": "2026-09-02T13:59:59+00:00",
+  "collected_at": "2026-09-02T18:34:35.507841+00:00",
+  "title_ko": "AI 추천 시스템을 오염시키는 대규모 허위 '최고의 소프트웨어' 페이지",
+  "summary_ko": "일부 사이트들이 AI 추천 엔진인 Perplexity 등을 속이기 위해 수십만 개의 저품질 추천 페이지를 대량 생성한 사실이 드러났습니다.",
+  "category": "중요",
+  "tags": []
+ },
+ {
+  "id": "8040da37227a912a",
+  "url": "https://hausresearch.com/reports/perplexity-citation-audit/",
+  "source": "Hacker News",
+  "title": "A third of Perplexity's citations don't contain the number they're cited for",
+  "published_at": "2026-09-02T13:49:23+00:00",
+  "collected_at": "2026-09-02T18:34:35.507841+00:00",
+  "title_ko": "퍼플렉시티 인용 출처의 3분의 1은 해당 숫자를 포함하지 않아",
+  "summary_ko": "퍼플렉시티의 인용 기능 중 상당수가 실제 출처 문서에 존재하지 않는 데이터를 인용하고 있는 것으로 나타나 AI 검색의 신뢰성 검증이 중요해졌습니다.",
+  "category": "중요",
+  "tags": [
+   "Perplexity",
+   "AI 검색",
+   "할루시네이션"
   ]
  },
  {
@@ -32,6 +141,22 @@
   ]
  },
  {
+  "id": "cf155639f674bca9",
+  "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
+  "source": "Hacker News",
+  "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
+  "published_at": "2026-09-02T13:43:14+00:00",
+  "collected_at": "2026-09-02T18:34:35.507841+00:00",
+  "title_ko": "AI가 발견하지 못한 curl 취약점 6건",
+  "summary_ko": "OpenAI와 Anthropic의 AI 모델이 찾아내지 못한 curl 보안 취약점을 인간 연구원이 추가로 발견하여 AI 보안 진단의 한계를 시사했습니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "Anthropic",
+   "보안"
+  ]
+ },
+ {
   "id": "1034d17f120b27ae",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5akpy/h3world_turning_language_understanding_into_world/",
   "source": "r/LocalLLaMA",
@@ -45,6 +170,38 @@
    "LLM",
    "AI 에이전트",
    "오픈소스"
+  ]
+ },
+ {
+  "id": "441ed5a219b2ca7a",
+  "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+  "source": "Hacker News",
+  "title": "Mistral now trains on user input by default, except on enterprise tier",
+  "published_at": "2026-09-02T12:30:39+00:00",
+  "collected_at": "2026-09-02T18:34:35.507841+00:00",
+  "title_ko": "미스트랄, 엔터프라이즈 제외 기본적으로 사용자 입력 데이터로 학습",
+  "summary_ko": "미스트랄 AI가 엔터프라이즈 등급을 제외한 일반 사용자 입력 데이터를 기본적으로 모델 학습에 활용하기 시작하여 프라이버시 주의가 요구됩니다.",
+  "category": "중요",
+  "tags": [
+   "Mistral",
+   "데이터 프라이버시",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "0705366de62bf93b",
+  "url": "https://claude.com/check-content",
+  "source": "Hacker News",
+  "title": "Check if a file was made with Claude",
+  "published_at": "2026-09-02T12:23:20+00:00",
+  "collected_at": "2026-09-02T18:34:35.507841+00:00",
+  "title_ko": "클로드(Claude) 생성 파일 확인 기능 등장",
+  "summary_ko": "특정 파일이 앤스로픽의 클로드에 의해 생성되었는지 여부를 확인할 수 있는 도구가 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "AI 워터마크"
   ]
  },
  {
