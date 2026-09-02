@@ -1,5 +1,114 @@
 [
  {
+  "id": "7c32fbb7723eb736",
+  "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+  "source": "Simon Willison",
+  "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
+  "published_at": "2026-09-02T14:16:42+00:00",
+  "collected_at": "2026-09-02T14:21:15.340323+00:00",
+  "title_ko": "앤트로픽, 클로드의 시스템 프롬프트 변경 내역 공개",
+  "summary_ko": "앤트로픽이 자사 소비자용 애플리케이션에 사용되는 클로드의 모델별 시스템 프롬프트와 히스토리를 공개했다.",
+  "category": "참고",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "LLM"
+  ]
+ },
+ {
+  "id": "22915ca8a27338bf",
+  "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+  "source": "Hugging Face",
+  "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+  "published_at": "2026-09-02T13:49:14+00:00",
+  "collected_at": "2026-09-02T14:20:49.669378+00:00",
+  "title_ko": "IBM 시계열 모델 기반 실시간 인텔리전스 공개",
+  "summary_ko": "허깅페이스에서 IBM의 시계열 모델을 콘플루언트와 연동해 실시간 데이터를 처리하는 방안을 다뤘다.",
+  "category": "참고",
+  "tags": [
+   "IBM",
+   "시계열",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "1034d17f120b27ae",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5akpy/h3world_turning_language_understanding_into_world/",
+  "source": "r/LocalLLaMA",
+  "title": "H3-World: Turning Language Understanding into World Control",
+  "published_at": "2026-09-02T13:35:44+00:00",
+  "collected_at": "2026-09-02T14:21:15.973518+00:00",
+  "title_ko": "언어 이해를 월드 제어로 전환하는 'H3-World' 공개",
+  "summary_ko": "텍스트 지시어를 캐릭터와 카메라 액션으로 변환해 정밀한 비디오 제어를 수행하는 오픈소스 연구가 공개됐다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "b98012d6ac0654a4",
+  "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+  "source": "TechCrunch",
+  "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+  "published_at": "2026-09-02T12:09:42+00:00",
+  "collected_at": "2026-09-02T14:20:47.299203+00:00",
+  "title_ko": "오픈AI, 총기 난사 사건 관련 추가 소송 직면",
+  "summary_ko": "오픈AI가 총기 난사 사건과 관련해 방조 혐의 등을 포함한 30건의 추가 소송을 당했다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "규제"
+  ]
+ },
+ {
+  "id": "2b017540ad80643e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w583o7/llms_intelligence_vs_cost_openteams/",
+  "source": "r/LocalLLaMA",
+  "title": "LLMs: Intelligence vs. cost | OpenTeams",
+  "published_at": "2026-09-02T11:50:28+00:00",
+  "collected_at": "2026-09-02T14:21:15.973518+00:00",
+  "title_ko": "LLM의 지능 대 비용 분석 도구 공유",
+  "summary_ko": "개발자가 LLM의 성능과 비용 효율성을 비교할 수 있는 자체 분석 차트와 데이터가 공유됐다.",
+  "category": "팁",
+  "tags": [
+   "LLM",
+   "코딩"
+  ]
+ },
+ {
+  "id": "be0160498e020eac",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w56y4r/i_have_qwen36_27b_on_pc1_and_qwen36_35b_on_pc2_so/",
+  "source": "r/LocalLLaMA",
+  "title": "I have Qwen3.6 27B on PC-1 and Qwen3.6 35B on PC-2, So they can run parallel. Which roles should I assign to them for agent codng?",
+  "published_at": "2026-09-02T10:51:35+00:00",
+  "collected_at": "2026-09-02T14:21:15.973518+00:00",
+  "title_ko": "다중 PC 환경에서 Qwen 모델 역할 분담 전략",
+  "summary_ko": "두 대의 PC에서 각각 27B와 35B 모델을 병렬 구동할 때, 코딩 에이전트의 계획·문서화·코드 작성·테스트 등 각 역할에 어떤 모델을 배치해야 할지 논의합니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "1d990f15f58a8978",
+  "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
+  "source": "Hacker News",
+  "title": "Quasar 438B: Europe's Leading AI Model",
+  "published_at": "2026-09-02T10:02:41+00:00",
+  "collected_at": "2026-09-02T14:21:15.113706+00:00",
+  "title_ko": "유럽의 주요 AI 모델 'Quasar 438B' 공개",
+  "summary_ko": "유럽에서 개발된 대규모 AI 모델인 Quasar 438B가 공개되며 지역 기반 AI 기술 발전의 주목할 만한 사례가 되었습니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
   "id": "4404f7ff9c9696b6",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w54fqs/your_favorite_fastest_abliteratedsafety_removed/",
   "source": "r/LocalLLaMA",
