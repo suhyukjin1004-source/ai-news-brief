@@ -1,5 +1,65 @@
 [
  {
+  "id": "4404f7ff9c9696b6",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w54fqs/your_favorite_fastest_abliteratedsafety_removed/",
+  "source": "r/LocalLLaMA",
+  "title": "Your favorite fastest abliterated/safety removed 3.6 and 3.8 27b?",
+  "published_at": "2026-09-02T08:29:39+00:00",
+  "collected_at": "2026-09-02T09:28:33.716168+00:00",
+  "title_ko": "Qwen 27B 검열 해제 모델 성능 비교",
+  "summary_ko": "사용자들이 저추론 작업에서 더 나은 성능을 내는 검열 해제된 Qwen 모델의 변형들을 비교하고 논의합니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "6450d3027deeb5fc",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w53ti8/qwen_will_be_the_king/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen will be the king?",
+  "published_at": "2026-09-02T07:53:02+00:00",
+  "collected_at": "2026-09-02T09:28:33.716168+00:00",
+  "title_ko": "오픈소스 LLM 시장의 강자로 떠오르는 Qwen",
+  "summary_ko": "확장된 추론과 후학습을 통해 성능을 극대화하는 Qwen 등 오픈소스 모델들의 발전 방향을 조명합니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "df1c7ccc376cd002",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w53mwu/opencode_vs_deepseek_harness_my_experience_with/",
+  "source": "r/LocalLLaMA",
+  "title": "Opencode vs Deepseek harness: my experience with Qwen 3.8 27b",
+  "published_at": "2026-09-02T07:42:03+00:00",
+  "collected_at": "2026-09-02T09:28:33.716168+00:00",
+  "title_ko": "Opencode와 DeepSeek 하네스 사용 경험 비교",
+  "summary_ko": "개발 환경에서 Qwen 모델을 활용할 때 Opencode와 DeepSeek 하네스의 장단점을 비교한 사용자 경험 공유입니다.",
+  "category": "팁",
+  "tags": [
+   "LLM",
+   "코딩"
+  ]
+ },
+ {
+  "id": "f7dc77bf16c6c549",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w53b96/android_studios_native_gemma_4_runs_on_llamacpp/",
+  "source": "r/LocalLLaMA",
+  "title": "Android Studios native Gemma 4 runs on llama.cpp",
+  "published_at": "2026-09-02T07:23:19+00:00",
+  "collected_at": "2026-09-02T09:28:33.716168+00:00",
+  "title_ko": "안드로이드 스튜디오의 네이티브 Gemma 4 llama.cpp 구동",
+  "summary_ko": "구글이 안드로이드 스튜디오에서 llama.cpp를 활용해 Gemma 4 모델을 구동하며 멀티 GPU와 대용량 컨텍스트를 지원합니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "LLM"
+  ]
+ },
+ {
   "id": "8fa50c1916c00004",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214725",
   "source": "AI타임스",
@@ -13,6 +73,51 @@
    "Anthropic",
    "Claude",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "cd5da1960a4afcad",
+  "url": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
+  "source": "Simon Willison",
+  "title": "Quoting Rick Brewster",
+  "published_at": "2026-09-02T05:50:57+00:00",
+  "collected_at": "2026-09-02T09:28:32.977034+00:00",
+  "title_ko": "AI를 활용한 WINE용 Direct2D 재구현 사례",
+  "summary_ko": "Paint.NET 개발자가 클로드(Claude)의 도움을 받아 WINE 환경을 위한 Direct2D를 자체적으로 재구현하여 호환성 문제를 해결했습니다.",
+  "category": "중요",
+  "tags": [
+   "Claude",
+   "코딩"
+  ]
+ },
+ {
+  "id": "037fd1c0ff5ca443",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w50ur8/localllama_is_unironically_one_of_the_best_places/",
+  "source": "r/LocalLLaMA",
+  "title": "LocalLLaMA is unironically one of the best places to go to get up to date AI news.",
+  "published_at": "2026-09-02T05:09:30+00:00",
+  "collected_at": "2026-09-02T09:28:33.716168+00:00",
+  "title_ko": "LocalLLaMA 커뮤니티의 AI 뉴스 허브 역할",
+  "summary_ko": "레딧의 LocalLLaMA 커뮤니티가 과장된 광고를 배제하고 최신 AI 기술 소식을 다루는 신뢰할 수 있는 공간으로 평가받고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "c4a33f02a5356fed",
+  "url": "https://arxiv.org/abs/2608.29530",
+  "source": "Hacker News",
+  "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+  "published_at": "2026-09-02T04:15:56+00:00",
+  "collected_at": "2026-09-02T09:28:29.201381+00:00",
+  "title_ko": "인공신경망의 신흥 기호 구조 연구",
+  "summary_ko": "인공신경망 내부에서 기호학적 구조가 어떻게 발현되는지 다룬 최신 아카이브 논문입니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "LLM"
   ]
  },
  {
@@ -1020,6 +1125,21 @@
   "tags": [
    "투자",
    "반도체"
+  ]
+ },
+ {
+  "id": "1a5adf2188977d1f",
+  "url": "https://simonwillison.net/2026/Sep/1/datasette-mcp/",
+  "source": "Simon Willison",
+  "title": "datasette-mcp 0.2",
+  "published_at": "2026-09-01T15:30:12+00:00",
+  "collected_at": "2026-09-02T09:28:32.977034+00:00",
+  "title_ko": "Datasette MCP 0.2 버전 출시",
+  "summary_ko": "모델 컨텍스트 프로토콜(MCP)을 지원하는 datasette-mcp 0.2가 출시되어 약한 모델의 SQL 결과 매핑 정확도를 개선했습니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
   ]
  },
  {
