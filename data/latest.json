@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-01T23:59:52.373958+00:00",
+ "updated_at": "2026-09-02T04:18:17.010681+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -20,6 +20,82 @@
    ]
   },
   {
+   "id": "eae838fcfb6b99e1",
+   "url": "https://news.hada.io/topic?id=33137",
+   "source": "GeekNews",
+   "title": "ChatGPT/Codex 앱, macOS 런타임에 헤드리스 LibreOffice 포함",
+   "published_at": "2026-09-02T00:19:46+00:00",
+   "collected_at": "2026-09-02T04:17:39.444694+00:00",
+   "title_ko": "macOS용 ChatGPT 앱 내부의 LibreOffice 포함 논란",
+   "summary_ko": "OpenAI의 macOS용 ChatGPT 데스크톱 앱 런타임에 Python, Node.js와 함께 430MB 규모의 헤드리스 LibreOffice가 포함되어 있어 용량 및 구성 배경에 관심이 쏠리고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "GPT"
+   ]
+  },
+  {
+   "id": "50bb3869139653c5",
+   "url": "https://news.hada.io/topic?id=33135",
+   "source": "GeekNews",
+   "title": "에이전트 메모리는 파이프라인이 아니라 파일 형식이어야 한다",
+   "published_at": "2026-09-02T00:15:06+00:00",
+   "collected_at": "2026-09-02T04:17:39.444694+00:00",
+   "title_ko": "AI 에이전트 메모리는 파일 형식이어야 한다",
+   "summary_ko": "복잡한 파이프라인 대신 마크다운 문서와 YAML 메타데이터를 활용해 AI 에이전트의 메모리를 단순하고 이식 가능한 데이터 형식으로 다루어야 한다는 제안입니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "b400d22e4c06abda",
+   "url": "https://news.hada.io/topic?id=33134",
+   "source": "GeekNews",
+   "title": "Ed Zitron의 AI 회의론 예측은 얼마나 정확했나?",
+   "published_at": "2026-09-02T00:09:19+00:00",
+   "collected_at": "2026-09-02T04:17:39.444694+00:00",
+   "title_ko": "주요 AI 회의론자들의 발전 정체 예측 검증",
+   "summary_ko": "AI 회의론자들이 주장했던 발전 정체와 버블 붕괴 예측이 실제 빅테크 기업들의 강력한 실적과 성장세 앞에 대부분 빗나간 것으로 나타났습니다.",
+   "category": "참고",
+   "tags": [
+    "투자",
+    "Meta",
+    "Google"
+   ]
+  },
+  {
+   "id": "0e0a28d0130f277a",
+   "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+   "source": "Simon Willison",
+   "title": "Claude Fable 5.1 made me a really nice animated pelican",
+   "published_at": "2026-09-01T23:57:28+00:00",
+   "collected_at": "2026-09-02T04:17:24.085117+00:00",
+   "title_ko": "앤스로픽, Claude Fable 5.1 공개",
+   "summary_ko": "앤스로픽이 코딩, 지식 작업 및 과학 연구 성능을 대폭 향상시킨 새로운 모델 Claude Fable 5.1을 발표했습니다.",
+   "category": "속보",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "코딩"
+   ]
+  },
+  {
+   "id": "e31fae506f78042a",
+   "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+   "source": "Hacker News",
+   "title": "The efficient frontier of LLM inference",
+   "published_at": "2026-09-01T23:48:05+00:00",
+   "collected_at": "2026-09-02T04:17:23.840168+00:00",
+   "title_ko": "LLM 추론의 효율적 경계 분석",
+   "summary_ko": "대규모 언어 모델(LLM) 추론 과정에서 비용과 성능의 최적 균형점을 찾는 효율적 프론티어에 대한 분석 글입니다.",
+   "category": "참고",
+   "tags": [
+    "LLM"
+   ]
+  },
+  {
    "id": "497c5bb1a4bb32de",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4tejh/gave_a_try_to_exllamav3_and_its_great/",
    "source": "r/LocalLLaMA",
@@ -32,6 +108,21 @@
    "tags": [
     "오픈소스",
     "반도체"
+   ]
+  },
+  {
+   "id": "7fb7b23ea602cc42",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4syn5/dgx_spark_about_to_jump_in_price_asus_ascent_gx10/",
+   "source": "r/LocalLLaMA",
+   "title": "DGX Spark about to jump in price? Asus Ascent GX10 jumped from $3999 to $5999 today...",
+   "published_at": "2026-09-01T23:06:50+00:00",
+   "collected_at": "2026-09-02T04:17:24.918169+00:00",
+   "title_ko": "AI 데스크톱 슈퍼컴퓨터 가격 급등",
+   "summary_ko": "에이수스의 데스크톱 AI 슈퍼컴퓨터 가격이 큰 폭으로 인상되면서 관련 하드웨어 가격 상승 조짐이 나타나고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "반도체",
+    "NVIDIA"
    ]
   },
   {
@@ -62,6 +153,21 @@
    "tags": [
     "오픈소스",
     "반도체"
+   ]
+  },
+  {
+   "id": "40dff6f34dba234b",
+   "url": "https://lws.io/blog/my-local-model-setup/",
+   "source": "Hacker News",
+   "title": "My local model setup on an M4 Pro Mac Mini",
+   "published_at": "2026-09-01T22:30:52+00:00",
+   "collected_at": "2026-09-02T04:17:22.297830+00:00",
+   "title_ko": "M4 Pro 맥미니에서의 로컬 AI 모델 구축기",
+   "summary_ko": "M4 Pro 칩이 탑재된 맥미니 환경에서 사용자가 직접 로컬 LLM 환경을 구축하고 활용하는 방법과 경험을 공유합니다.",
+   "category": "팁",
+   "tags": [
+    "LLM",
+    "오픈소스"
    ]
   },
   {
@@ -106,6 +212,20 @@
    "category": "중요",
    "tags": [
     "투자"
+   ]
+  },
+  {
+   "id": "8a013d3b01f27f05",
+   "url": "https://masteranza.github.io/weedout/",
+   "source": "Hacker News",
+   "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+   "published_at": "2026-09-01T22:06:57+00:00",
+   "collected_at": "2026-09-02T04:17:23.840168+00:00",
+   "title_ko": "유튜브 AI 라벨 영상 숨기기 Safari 확장 프로그램",
+   "summary_ko": "유튜브에서 'AI로 제작됨' 라벨이 붙은 영상들을 피드와 검색 결과에서 자동으로 숨겨주는 사파리 확장 프로그램이 출시되었습니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트"
    ]
   },
   {
@@ -373,6 +493,22 @@
     "OpenAI",
     "Apple",
     "규제"
+   ]
+  },
+  {
+   "id": "5c2753a2624a1b50",
+   "url": "https://simonwillison.net/2026/Sep/1/geojson/",
+   "source": "Simon Willison",
+   "title": "GeoJSON Map Viewer",
+   "published_at": "2026-09-01T18:05:45+00:00",
+   "collected_at": "2026-09-02T04:17:24.085117+00:00",
+   "title_ko": "LLM을 활용한 GeoJSON 맵 뷰어 제작",
+   "summary_ko": "GPT-5.6과 Claude 코딩 도구를 활용해 정치 구역 데이터를 시각화하는 GeoJSON 맵 뷰어 웹툴을 구축한 사례입니다.",
+   "category": "팁",
+   "tags": [
+    "GPT",
+    "Claude",
+    "코딩"
    ]
   },
   {
@@ -1426,6 +1562,21 @@
    "tags": [
     "반도체",
     "NVIDIA"
+   ]
+  },
+  {
+   "id": "631a857c7a24a6f9",
+   "url": "https://openai.com/index/gilbert-tobin",
+   "source": "OpenAI",
+   "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+   "published_at": "2026-09-01T01:00:00+00:00",
+   "collected_at": "2026-09-02T04:17:20.704411+00:00",
+   "title_ko": "글로벌 로펌 길버트앤토빈의 OpenAI 도입 사례",
+   "summary_ko": "대형 로펌 길버트앤토빈이 CEO 주도 하에 거버넌스를 갖추고 ChatGPT Enterprise와 Codex를 사내에 성공적으로 확장한 사례를 소개합니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "GPT"
    ]
   },
   {
@@ -2822,159 +2973,6 @@
     "Meta",
     "AI 에이전트",
     "보안"
-   ]
-  },
-  {
-   "id": "0703988e3a331916",
-   "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-   "source": "OpenAI",
-   "title": "OpenAI supports California’s bill to advance youth AI safety",
-   "published_at": "2026-08-31T07:00:00+00:00",
-   "collected_at": "2026-09-01T09:56:54.686335+00:00",
-   "title_ko": "오픈AI, 캘리포니아주의 청소년 AI 안전 법안 지지",
-   "summary_ko": "오픈AI가 청소년을 위한 안전장치를 강화하면서도 학습 기회를 보장하는 캘리포니아주의 AI 관련 법안을 공식 지지했습니다. 산업 내 규제와 안전 기준립에 영향을 줍니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "규제"
-   ]
-  },
-  {
-   "id": "7bc3415714321008",
-   "url": "https://openai.com/index/polimill",
-   "source": "OpenAI",
-   "title": "Polimill builds Japan's next-generation public AI infrastructure",
-   "published_at": "2026-08-31T07:00:00+00:00",
-   "collected_at": "2026-08-31T23:44:40.502002+00:00",
-   "title_ko": "폴리밀, 오픈AI 기술로 일본 공공 AI 인프라 구축",
-   "summary_ko": "일본의 폴리밀이 오픈AI의 GPT 모델과 코덱스를 활용해 지방자치단체의 행정 지식 검색과 업무 효율화를 지원하는 차세대 공공 AI 인프라를 구축했습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "GPT",
-    "공공"
-   ]
-  },
-  {
-   "id": "b258c613f299ac06",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w33g9t/glm_53_glm_53_flash_or_38_qwen_flash_for/",
-   "source": "r/LocalLLaMA",
-   "title": "GLM 5.3, GLM 5.3 Flash or 3.8 Qwen Flash for Replacing Kimi k3 IQ2_XXS",
-   "published_at": "2026-08-31T04:38:24+00:00",
-   "collected_at": "2026-08-31T13:31:51.607784+00:00",
-   "title_ko": "경량 LLM 대체 모델 비교 및 성능 탐색",
-   "summary_ko": "느린 속도의 저정밀 모델을 대체하기 위해 GLM 및 Qwen Flash 등 인터랙티브 성능이 뛰어난 모델을 비교하는 토론입니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "44f61163770f758b",
-   "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-   "source": "OpenAI",
-   "title": "A milestone in expanding access to AI",
-   "published_at": "2026-08-31T04:00:00+00:00",
-   "collected_at": "2026-08-31T19:57:07.914628+00:00",
-   "title_ko": "OpenAI, ChatGPT 광고 수익 연 10억 달러 돌파",
-   "summary_ko": "ChatGPT의 광고 기반 매출이 연환산 기준 10억 달러를 돌파하며 글로벌 시장으로 확장되고 있습니다. 무료 및 저렴한 옵션을 통한 AI 접근성 확대 전략의 일환입니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "GPT",
-    "투자"
-   ]
-  },
-  {
-   "id": "2daccc78ec94fa64",
-   "url": "https://news.hada.io/topic?id=33071",
-   "source": "GeekNews",
-   "title": "대한민국 AI 윤리원칙 확정, 3대 가치와 7대 원칙 제시",
-   "published_at": "2026-08-31T03:50:02+00:00",
-   "collected_at": "2026-08-31T05:21:02.066988+00:00",
-   "title_ko": "정부, 대한민국 AI 윤리원칙 확정... 3대 가치·7대 원칙 제시",
-   "summary_ko": "정부가 AI 기본법에 따라 인간중심성, 안전성 등을 골자로 하는 사회 전 영역 적용 AI 윤리원칙을 확정했다.",
-   "category": "중요",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "0d9761f8f2f2ff5a",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w317fn/snkiisori1b_audiogrounded_lm_trained_from_scratch/",
-   "source": "r/LocalLLaMA",
-   "title": "snkii/Sori-1B: Audio-Grounded LM Trained From Scratch (No Text-Only Pretraining)",
-   "published_at": "2026-08-31T02:48:24+00:00",
-   "collected_at": "2026-08-31T05:20:47.398789+00:00",
-   "title_ko": "텍스트 사전학습 없이 오디오로만 학습한 1B 오디오 언어모델 'Sori-1B' 공개",
-   "summary_ko": "순수 오디오 짝지어진 텍스트만으로 디코더를 처음부터 학습해 소리에 기반한 답변이 가능한 10억 파라미터 오디오-언어 모델이 공개됐다.",
-   "category": "속보",
-   "tags": [
-    "NVIDIA",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "de9bfecb2a8ed427",
-   "url": "https://news.hada.io/topic?id=33062",
-   "source": "GeekNews",
-   "title": "AI 시대의 데이터 아키텍처 - 저장보다 의미와 계약이 중요해지는 이유",
-   "published_at": "2026-08-31T01:58:07+00:00",
-   "collected_at": "2026-08-31T05:21:02.066988+00:00",
-   "title_ko": "AI 시대 데이터 아키텍처의 패러다임 변화",
-   "summary_ko": "AI 애플리케이션과 RAG의 확산으로 데이터 저장보다 의미와 계약 중심의 시맨틱 아키텍처가 중요해지고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "데이터",
-    "RAG"
-   ]
-  },
-  {
-   "id": "6cfac0112d751577",
-   "url": "https://news.hada.io/topic?id=33061",
-   "source": "GeekNews",
-   "title": "Booking.com이 OpenSearch 대신 Weaviate를 벡터 DB로 선택한 과정",
-   "published_at": "2026-08-31T01:55:31+00:00",
-   "collected_at": "2026-08-31T05:21:02.066988+00:00",
-   "title_ko": "부킹닷컴, 벡터 DB로 OpenSearch 대신 Weaviate 채택",
-   "summary_ko": "대규모 임베딩과 복잡한 필터 검색을 처리하기 위해 부킹닷컴이 벡터 검색 인프라를 Weaviate로 전환했습니다.",
-   "category": "참고",
-   "tags": [
-    "데이터베이스",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "1525857790e32fe3",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2zice/optimal_125_bit_quantization_of_qwen38flashnext/",
-   "source": "r/LocalLLaMA",
-   "title": "Optimal 1.25 bit quantization of Qwen3.8-Flash-Next",
-   "published_at": "2026-08-31T01:29:22+00:00",
-   "collected_at": "2026-08-31T05:20:47.398789+00:00",
-   "title_ko": "Qwen 모델의 저비트 양자화 방법론 연구",
-   "summary_ko": "대형 언어 모델의 효율적인 구동을 위해 1.25비트 수준의 고도화된 양자화 적용 가능성을 탐색합니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "인프라"
-   ]
-  },
-  {
-   "id": "d20b99a49a7d386e",
-   "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-   "source": "Hacker News",
-   "title": "Understanding ChatGPT Work",
-   "published_at": "2026-08-31T01:28:22+00:00",
-   "collected_at": "2026-08-31T05:20:38.416841+00:00",
-   "title_ko": "ChatGPT Work의 기능과 활용 이해",
-   "summary_ko": "업무 환경에 특화된 ChatGPT Work의 주요 기능과 실제 활용 방식을 분석합니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "GPT"
    ]
   }
  ]
