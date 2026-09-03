@@ -1,5 +1,67 @@
 [
  {
+  "id": "701b06bf43a56586",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214786",
+  "source": "AI타임스",
+  "title": "베슬AI, SK바이오팜에 GPU 128장 공급...신약 개발 지원 나선다",
+  "published_at": "2026-09-03T12:22:28+00:00",
+  "collected_at": "2026-09-03T04:16:51.572469+00:00",
+  "title_ko": "베슬AI, SK바이오팜에 엔비디아 B200 GPU 공급",
+  "summary_ko": "베슬AI가 SK바이오팜에 엔비디아 B200 GPU 128장을 공급하여 신약 개발 및 AI 파운데이션 모델 학습을 지원합니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "반도체",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "171c325dbdf8a0d8",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214787",
+  "source": "AI타임스",
+  "title": "네이버클라우드, 정부 '사이버 보안 AI 모델' 개발 사업자로 최종 발탁",
+  "published_at": "2026-09-03T12:06:01+00:00",
+  "collected_at": "2026-09-03T04:16:51.572469+00:00",
+  "title_ko": "네이버클라우드, 사이버 보안 AI 모델 개발 사업자 선정",
+  "summary_ko": "네이버클라우드 컨소시엄이 정부의 사이버 보안 분야 특화 인공지능 파운데이션 모델 개발 사업자로 최종 선정되었습니다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트",
+   "규제"
+  ]
+ },
+ {
+  "id": "353d444fba8cce01",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214790",
+  "source": "AI타임스",
+  "title": "오픈AI ‘아스트라’ 이번 주 출시설…API에 ‘GPT-6’ 흔적 포착",
+  "published_at": "2026-09-03T11:57:22+00:00",
+  "collected_at": "2026-09-03T04:16:51.572469+00:00",
+  "title_ko": "오픈AI 차세대 모델 '아스트라' 출시 임박",
+  "summary_ko": "오픈AI의 신규 모델 '아스트라'가 곧 출시될 예정인 가운데, API 내부에서 'GPT-6' 명칭이 포착되며 기대감이 높아지고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "GPT"
+  ]
+ },
+ {
+  "id": "c34f99fa0f7f3cb5",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214781",
+  "source": "AI타임스",
+  "title": "\"3주 만에 반격\"...구글, 코딩 성능 강화한 '제미나이 3.8 플래시' 공개",
+  "published_at": "2026-09-03T11:07:58+00:00",
+  "collected_at": "2026-09-03T04:16:51.572469+00:00",
+  "title_ko": "구글, 코딩 성능 강화한 '제미나이 3.8 플래시' 공개",
+  "summary_ko": "구글이 추론 능력을 대폭 강화한 '제미나이 3.8 플래시'와 사이버보안 특화 모델을 동시에 공개하며 프론티어 모델 경쟁에 속도를 내고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "Gemini",
+   "코딩"
+  ]
+ },
+ {
   "id": "5abce7a223c84e75",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214774",
   "source": "AI타임스",
@@ -13,6 +75,166 @@
    "Meta",
    "AI 에이전트",
    "코딩"
+  ]
+ },
+ {
+  "id": "52df9d05064f1c41",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5vjp6/qwen38flashnext_on_2x3090_ddr4_17_2529_ts_decode/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-Flash-Next on 2x3090 + DDR4: 17 → 25-29 t/s decode with the expert cache PR",
+  "published_at": "2026-09-03T03:04:41+00:00",
+  "collected_at": "2026-09-03T04:16:38.215930+00:00",
+  "title_ko": "Qwen 모델 로컬 구동 성능 최적화 공유",
+  "summary_ko": "듀얼 3090 환경에서 전문가 캐시 PR을 활용해 Qwen 모델의 로컬 추론 속도를 대폭 향상시킨 사례가 공유되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "c7731c77363ec747",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5vb13/to_llamacpp_i_love_you_i_owe_my_entire_local/",
+  "source": "r/LocalLLaMA",
+  "title": "To llama.cpp: I love you. I owe my entire local inference experience to you. But can we have quantization recipes that actually mean something?",
+  "published_at": "2026-09-03T02:53:13+00:00",
+  "collected_at": "2026-09-03T04:16:38.215930+00:00",
+  "title_ko": "LLM 양자화 레시피의 표준화 필요성 제기",
+  "summary_ko": "다양한 양자화 버전마다 파일 크기 편차가 심해 사용자 혼란을 야기하며 일관된 기준이 필요하다는 지적이 나왔습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "9f08f449e038c7b9",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5u9w8/wvy_is_a_handwritten_language_model_every/",
+  "source": "r/LocalLLaMA",
+  "title": "WVY is a handwritten language model. Every response was written by one person to demonstrate that the illusion of intelligence is not exclusive to parameter count.",
+  "published_at": "2026-09-03T02:04:17+00:00",
+  "collected_at": "2026-09-03T04:16:38.215930+00:00",
+  "title_ko": "파라미터 규모보다 데이터가 중요한 핸드메이드 언어 모델",
+  "summary_ko": "소규모 파라미터 모델임에도 직접 정성들여 구축한 데이터셋을 통해 지능의 환상을 구현한 연구 사례입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "2ba98708e34757e7",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5ttgb/glm53_flash_over_dsv4_flash/",
+  "source": "r/LocalLLaMA",
+  "title": "GLM5.3 Flash over DSV4 Flash?",
+  "published_at": "2026-09-03T01:43:06+00:00",
+  "collected_at": "2026-09-03T04:16:38.215930+00:00",
+  "title_ko": "로컬 환경에서 GLM-5.3 Flash와 DeepSeek V4 Flash 비교",
+  "summary_ko": "맥 스튜디오 환경에서 두 최신 플래시 모델을 직접 구동해본 사용자들의 성능 및 사용감 비교 피드백입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "3c357c5d861f5399",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5trnb/microsoft_vibevoiceasrstreaming_released/",
+  "source": "r/LocalLLaMA",
+  "title": "Microsoft VibeVoice-ASR-Streaming Released",
+  "published_at": "2026-09-03T01:40:39+00:00",
+  "collected_at": "2026-09-03T04:16:38.215930+00:00",
+  "title_ko": "마이크로소프트, VibeVoice-ASR-Streaming 공개",
+  "summary_ko": "마이크로소프트가 실시간 음성 인식을 위한 새로운 스트리밍 모델을 공개했습니다.",
+  "category": "속보",
+  "tags": [
+   "Microsoft"
+  ]
+ },
+ {
+  "id": "62572dc0a84a4f41",
+  "url": "https://news.hada.io/topic?id=33177",
+  "source": "GeekNews",
+  "title": "마케팅 인텔리전스 레이어 - 흩어진 경험을 AI의 재사용 가능한 컨텍스트로 만들기",
+  "published_at": "2026-09-03T01:10:09+00:00",
+  "collected_at": "2026-09-03T04:16:52.722683+00:00",
+  "title_ko": "마케팅 경험을 AI 재사용 컨텍스트로 구축하는 법",
+  "summary_ko": "조직 내 흩어진 문자와 회의록 등을 구조화하여 AI 도구가 활용할 수 있는 마케팅 인텔리전스 레이어를 구축하는 방법입니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "b5c14f37a9edeeea",
+  "url": "https://news.hada.io/topic?id=33176",
+  "source": "GeekNews",
+  "title": "Claude로 커머스 에이전트 구축하기",
+  "published_at": "2026-09-03T01:03:14+00:00",
+  "collected_at": "2026-09-03T04:16:52.722683+00:00",
+  "title_ko": "앤트로픽, Claude 활용 커머스 에이전트 블루프린트 공개",
+  "summary_ko": "앤트로픽이 쇼핑 및 판매자 에이전트를 빠르게 구축할 수 있는 Claude Code 플러그인과 블루프린트를 공개했습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "6641da53c5366e7f",
+  "url": "https://news.hada.io/topic?id=33175",
+  "source": "GeekNews",
+  "title": "Claude Fable 5.1 프롬프팅 가이드",
+  "published_at": "2026-09-03T01:01:50+00:00",
+  "collected_at": "2026-09-03T04:16:52.722683+00:00",
+  "title_ko": "Claude Fable 5.1 프롬프팅 가이드",
+  "summary_ko": "새롭게 업데이트된 Claude Fable 5.1의 변경된 프롬프트 설정과 활용 팁을 정리한 가이드입니다.",
+  "category": "팁",
+  "tags": [
+   "Anthropic",
+   "Claude"
+  ]
+ },
+ {
+  "id": "a838f9c0690ad402",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5svj4/chrome_browser_addon_that_uses_local_llms_to_move/",
+  "source": "r/LocalLLaMA",
+  "title": "Chrome browser add-on that uses local LLMs to move thousands of unsorted bookmarks into a smart list of automatically calculated categories",
+  "published_at": "2026-09-03T01:00:09+00:00",
+  "collected_at": "2026-09-03T04:16:38.215930+00:00",
+  "title_ko": "로컬 LLM 활용 크롬 북마크 자동 분류 브라우저 확장 프로그램",
+  "summary_ko": "로컬 LLM을 이용해 수많은 북마크를 자동으로 카테고리화하고 정리해주는 크롬 확장 프로그램 개발 소식입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "111c66e5b199ed31",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5sb4g/deepseekv4flash_vs_glm53flash_on_2_dgx_spark/",
+  "source": "r/LocalLLaMA",
+  "title": "DeepSeek-V4-Flash vs. GLM-5.3-Flash on 2× DGX Spark",
+  "published_at": "2026-09-03T00:34:18+00:00",
+  "collected_at": "2026-09-03T04:16:38.215930+00:00",
+  "title_ko": "고성능 하드웨어에서 DeepSeek-V4와 GLM-5.3 Flash 비교",
+  "summary_ko": "듀얼 DGX Spark 환경에서 DeepSeek과 GLM 플래시 모델을 테스트한 사용자들의 실제 사용 소감과 성능 비교입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "9bae9c99bb7422a4",
+  "url": "https://news.hada.io/topic?id=33173",
+  "source": "GeekNews",
+  "title": "범용 로봇은 어디까지 왔나 [유튜브]",
+  "published_at": "2026-09-03T00:25:02+00:00",
+  "collected_at": "2026-09-03T04:16:52.722683+00:00",
+  "title_ko": "범용 로봇을 위한 물리 지능 모델의 현황",
+  "summary_ko": "Physical Intelligence사가 하나의 모델로 다양한 로봇 작업을 수행하는 범용 물리 지능을 개발 중이며, 신뢰성과 일반화가 핵심 과제로 꼽힙니다.",
+  "category": "참고",
+  "tags": [
+   "로보틱스",
+   "AI 에이전트"
   ]
  },
  {
