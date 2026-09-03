@@ -1,8 +1,99 @@
 {
- "updated_at": "2026-09-03T09:38:55.960036+00:00",
+ "updated_at": "2026-09-03T14:24:59.406156+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "c7b8db5667c35e0b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w67wso/ifmk2horizonmova36ba4bgguf_hugging_face/",
+   "source": "r/LocalLLaMA",
+   "title": "IFM/K2-Horizon-MoVA-36B-A4B-GGUF · Hugging Face",
+   "published_at": "2026-09-03T13:47:54+00:00",
+   "collected_at": "2026-09-03T14:24:35.282551+00:00",
+   "title_ko": "K2-Horizon-MoVA-36B 오픈소스 MoE 모델 공개",
+   "summary_ko": "혼합 값 어텐션(MoVA)을 적용한 36B 파라미터 규모의 고성능 오픈소스 모델이 허깅페이스에 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "74fa47d42d888922",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w67nkz/frontier_models_sabotaging_local_ai/",
+   "source": "r/LocalLLaMA",
+   "title": "Frontier models sabotaging local AI implementations?",
+   "published_at": "2026-09-03T13:37:43+00:00",
+   "collected_at": "2026-09-03T14:24:35.282551+00:00",
+   "title_ko": "프론티어 LLM의 로컬 AI 에이전트 구현 방해 문제",
+   "summary_ko": "최신 프론티어 모델들이 로컬 환경에서 지나친 제약과 불필요한 가이드라인을 추가해 오히려 개발 생산성을 떨어뜨린다는 지적이 나오고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "GPT"
+   ]
+  },
+  {
+   "id": "96a3500c5a4b2fb7",
+   "url": "https://huggingface.co/blog/Hcompany/neomme",
+   "source": "Hugging Face",
+   "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+   "published_at": "2026-09-03T13:13:48+00:00",
+   "collected_at": "2026-09-03T14:24:25.729100+00:00",
+   "title_ko": "효율적인 멀티모달 멀티언어 인코더 NeoMME 공개",
+   "summary_ko": "다양한 언어와 멀티모달 입력을 효율적으로 처리할 수 있는 새로운 인코더 모델이 공개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "멀티모달"
+   ]
+  },
+  {
+   "id": "0d74e9b537b99e60",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w66lyh/would_i_be_mad_to_collocate_my_own_server/",
+   "source": "r/LocalLLaMA",
+   "title": "Would I be mad to collocate my own server?",
+   "published_at": "2026-09-03T12:55:17+00:00",
+   "collected_at": "2026-09-03T14:24:35.282551+00:00",
+   "title_ko": "개인 서버 구축 및 AI 모델 호스팅의 실효성 논의",
+   "summary_ko": "중고 서버를 구매해 직접 토큰 서빙이나 클라우드 서비스를 운영하는 방식의 경제성과 타당성을 커뮤니티에서 논의하고 있습니다.",
+   "category": "팁",
+   "tags": [
+    "반도체",
+    "인프라"
+   ]
+  },
+  {
+   "id": "4f602ed541c753cc",
+   "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+   "source": "TechCrunch",
+   "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+   "published_at": "2026-09-03T12:42:45+00:00",
+   "collected_at": "2026-09-03T14:24:04.797808+00:00",
+   "title_ko": "엔비디아, 허깅페이스 129억 달러에 인수 공식 확인",
+   "summary_ko": "엔비디아가 세계 최대 AI 모델 공유 플랫폼인 허깅페이스를 약 129억 달러에 인수한다고 밝혔습니다.",
+   "category": "속보",
+   "tags": [
+    "NVIDIA",
+    "투자",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "6b4c1449f4396743",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w65xkj/could_the_shortage_be_getting_better/",
+   "source": "r/LocalLLaMA",
+   "title": "Could the shortage be getting better?",
+   "published_at": "2026-09-03T12:25:53+00:00",
+   "collected_at": "2026-09-03T14:24:35.282551+00:00",
+   "title_ko": "RTX 5090 GPU 재고 안정화 조짐",
+   "summary_ko": "오프라인 매장에서 고성능 AI용 GPU인 5090의 재고가 발견되면서 공급난 해소에 대한 기대감이 커지고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "NVIDIA",
+    "반도체"
+   ]
+  },
   {
    "id": "701b06bf43a56586",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214786",
@@ -17,6 +108,54 @@
     "NVIDIA",
     "반도체",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "b631d4c63420a802",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w65uhf/its_official_nvidia_to_acquire_hugging_face_for/",
+   "source": "r/LocalLLaMA",
+   "title": "It's official! Nvidia to acquire Hugging Face for 12.9 billion dollars.",
+   "published_at": "2026-09-03T12:22:05+00:00",
+   "collected_at": "2026-09-03T14:24:35.282551+00:00",
+   "title_ko": "엔비디아의 허깅페이스 인수 공식화",
+   "summary_ko": "엔비디아가 AI 개발자 핵심 플랫폼인 허깅페이스를 129억 달러에 인수하는 계약을 체결했습니다.",
+   "category": "속보",
+   "tags": [
+    "NVIDIA",
+    "투자",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "67c7aa5f3d1152ae",
+   "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+   "source": "The Verge",
+   "title": "Nvidia is buying Hugging Face for almost $13 billion",
+   "published_at": "2026-09-03T12:12:06+00:00",
+   "collected_at": "2026-09-03T14:24:04.875891+00:00",
+   "title_ko": "엔비디아, 허깅페이스 13억 달러 규모 인수",
+   "summary_ko": "엔비디아가 오픈소스 AI 생태계의 중심인 허깅페이스를 인수하며 AI 인프라 장악력을 더욱 강화하게 되었습니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "투자",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "3a38abad23be82a7",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w65ise/we_built_an_opensource_modelneutral_agent_harness/",
+   "source": "r/LocalLLaMA",
+   "title": "We built an open-source, model-neutral agent harness and compared it with claude managed agents - for the same model, got same accuracy, upto 75% lower cost",
+   "published_at": "2026-09-03T12:07:16+00:00",
+   "collected_at": "2026-09-03T14:24:35.282551+00:00",
+   "title_ko": "오픈소스 에이전트 하네스 TrueForge 공개",
+   "summary_ko": "동일한 모델을 사용하면서도 토큰 비용을 대폭 절감할 수 있는 모델 중립적 오픈소스 에이전트 하네스가 개발되었습니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스",
+    "Claude"
    ]
   },
   {
@@ -50,6 +189,36 @@
    ]
   },
   {
+   "id": "5b859d50a3ba240f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w655he/qwen36_35b_q2_xxs_being_gpu_poor_in_2026_is_not/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.6 35b Q2_XXS: Being GPU poor in 2026 is not so bad",
+   "published_at": "2026-09-03T11:50:18+00:00",
+   "collected_at": "2026-09-03T14:24:35.282551+00:00",
+   "title_ko": "저사양 환경에서의 Qwen3.6 35B 모델 구동 후기",
+   "summary_ko": "VRAM이 없는 저사양 노트북 환경에서도 양자화된 대형 모델을 활용해 로컬에서 게임 등을 제작할 수 있음을 보여줍니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "f2b0bf40cd129408",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w64y26/qwen38nextflash_ngram_hotswappable_knowledge/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen-3.8-Next-Flash Ngram Hot-Swappable Knowledge Injector for llama.cpp",
+   "published_at": "2026-09-03T11:40:27+00:00",
+   "collected_at": "2026-09-03T14:24:35.282551+00:00",
+   "title_ko": "llama.cpp용 Qwen Ngram 지식 주입기 구현",
+   "summary_ko": "모델을 재로딩하지 않고도 실시간으로 지식을 패치할 수 있는 Ngram 기반 핫스왑 지식 주입 기능이 개발되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
    "id": "c34f99fa0f7f3cb5",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214781",
    "source": "AI타임스",
@@ -63,6 +232,35 @@
     "Google",
     "Gemini",
     "코딩"
+   ]
+  },
+  {
+   "id": "8970f35603af87d6",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w62w8e/how_to_handle_naughty_model/",
+   "source": "r/LocalLLaMA",
+   "title": "How to handle naughty model",
+   "published_at": "2026-09-03T09:53:51+00:00",
+   "collected_at": "2026-09-03T14:24:35.282551+00:00",
+   "title_ko": "AI 에이전트의 오류 방지 및 디버깅 스킬 기법",
+   "summary_ko": "AI 에이전트가 실수를 반복하지 않도록 오류 발생 시 자동으로 개입하는 스킬을 구현하여 반복적인 사과 응답을 줄이는 방법입니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "fd01b1d9f4ec46e9",
+   "url": "https://news.hada.io/topic?id=33187",
+   "source": "GeekNews",
+   "title": "Diffusion으로 OCR 디코딩 가속하기",
+   "published_at": "2026-09-03T09:01:18+00:00",
+   "collected_at": "2026-09-03T14:24:49.962767+00:00",
+   "title_ko": "확산 모델을 활용한 OCR 디코딩 가속 기법",
+   "summary_ko": "디퓨전과 자기회귀 방식을 결합한 self-speculative decoding으로 품질 손실 없이 OCR 디코딩 속도를 3.85배 향상했습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
    ]
   },
   {
@@ -346,6 +544,36 @@
    ]
   },
   {
+   "id": "45020768fad998be",
+   "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+   "source": "Hugging Face",
+   "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+   "published_at": "2026-09-03T00:00:00+00:00",
+   "collected_at": "2026-09-03T14:24:25.729100+00:00",
+   "title_ko": "GRPO 학습을 통한 3.5억 파라미터 소형 모델 파인튜닝",
+   "summary_ko": "100회의 GRPO 학습 단계를 거쳐 구조화된 출력을 더 잘 생성하도록 소형 모델을 파인튜닝하는 방법입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "86b47b47cb7422fd",
+   "url": "https://huggingface.co/blog/funes",
+   "source": "Hugging Face",
+   "title": "Give Your Coding Agents a Memory You Own",
+   "published_at": "2026-09-03T00:00:00+00:00",
+   "collected_at": "2026-09-03T14:24:25.729100+00:00",
+   "title_ko": "코딩 에이전트를 위한 자체 소유 메모리 구축 방법",
+   "summary_ko": "코딩 AI 에이전트가 작업 맥락을 유지하고 활용할 수 있도록 사용자가 직접 소유하고 관리하는 메모리를 제공하는 방법입니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
    "id": "b844bdeeb825fb68",
    "url": "https://huggingface.co/blog/train-to-paint-with-code",
    "source": "Hugging Face",
@@ -357,6 +585,22 @@
    "category": "참고",
    "tags": [
     "오픈소스"
+   ]
+  },
+  {
+   "id": "362ae46d9e3c09fa",
+   "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
+   "source": "Hacker News",
+   "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
+   "published_at": "2026-09-02T23:08:47+00:00",
+   "collected_at": "2026-09-03T14:24:34.528375+00:00",
+   "title_ko": "OpenAI 및 Hugging Face 해킹 사건 METR 조사 보고서",
+   "summary_ko": "METR이 공개한 OpenAI와 Hugging Face 관련 해킹 사건 조사 보고서로, AI 업계 보안 시큐리티와 관련된 주요 시사점을 다룹니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "Hugging Face",
+    "규제"
    ]
   },
   {
@@ -1002,6 +1246,20 @@
    "category": "속보",
    "tags": [
     "Google"
+   ]
+  },
+  {
+   "id": "84ec180a52b60661",
+   "url": "https://dbushell.com/ai/",
+   "source": "Hacker News",
+   "title": "AI Policy",
+   "published_at": "2026-09-02T15:36:24+00:00",
+   "collected_at": "2026-09-03T14:24:34.528375+00:00",
+   "title_ko": "AI 정책 및 가이드라인에 대한 논의",
+   "summary_ko": "개발 및 운영 환경에서 AI를 활용하기 위한 정책과 가이드라인을 다룬 토론 글입니다.",
+   "category": "참고",
+   "tags": [
+    "규제"
    ]
   },
   {
@@ -2725,260 +2983,6 @@
    "tags": [
     "오픈소스",
     "LLM"
-   ]
-  },
-  {
-   "id": "aa5b2de9ac00ca3b",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4821c/qwen_38_27b_q4km_oneshot_a_super_mario_clone/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen 3.8 27b (Q4KM) oneshot a Super Mario clone",
-   "published_at": "2026-09-01T10:31:56+00:00",
-   "collected_at": "2026-09-01T14:45:04.441269+00:00",
-   "title_ko": "Qwen 3.8 27B로 슈퍼마리오 클론 게임 단번에 제작",
-   "summary_ko": "로컬 환경에서 구동한 Qwen 3.8 27B 모델이 프롬프트 하나만으로 완성도 높은 웹 기반 슈퍼마리오 게임 코드를 한 번에 작성해 화제입니다.",
-   "category": "참고",
-   "tags": [
-    "Qwen",
-    "코딩",
-    "LLM"
-   ]
-  },
-  {
-   "id": "6e552436de5d4e7f",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w47qfe/which_current_local_models_that_can_run_within/",
-   "source": "r/LocalLLaMA",
-   "title": "Which current local models that can run within 128GB generate the best SVG pelicans?",
-   "published_at": "2026-09-01T10:15:19+00:00",
-   "collected_at": "2026-09-01T14:45:04.441269+00:00",
-   "title_ko": "128GB 맥북 환경에서 로컬 LLM의 SVG 생성 성능 비교",
-   "summary_ko": "128GB Apple Silicon 환경에서 실행 가능한 주요 로컬 LLM들을 대상으로 SVG 이미지 생성 능력을 벤치마킹한 결과가 공유되었습니다.",
-   "category": "참고",
-   "tags": [
-    "LLM",
-    "오픈소스",
-    "Qwen"
-   ]
-  },
-  {
-   "id": "2e16c43fbb4a7121",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w47nif/new_gemma_models_on_arena_ai/",
-   "source": "r/LocalLLaMA",
-   "title": "New Gemma models on arena ai",
-   "published_at": "2026-09-01T10:11:06+00:00",
-   "collected_at": "2026-09-01T14:45:04.441269+00:00",
-   "title_ko": "Chatbot Arena에 신규 Gemma 모델 등장",
-   "summary_ko": "AI 모델 블라인드 테스트 플랫폼인 Chatbot Arena에 구글의 차세대 Gemma 시리즈로 추정되는 신규 모델이 포착되었습니다.",
-   "category": "속보",
-   "tags": [
-    "Google",
-    "LLM"
-   ]
-  },
-  {
-   "id": "44526c1223b0d00a",
-   "url": "https://mvakde.github.io/blog/44-on-arc-1/",
-   "source": "Hacker News",
-   "title": "44% on ARC-AGI-1 in 67 cents",
-   "published_at": "2026-09-01T09:52:45+00:00",
-   "collected_at": "2026-09-01T14:44:46.947127+00:00",
-   "title_ko": "67센트의 비용으로 ARC-AGI-1 44% 달성",
-   "summary_ko": "저렴한 비용으로 AI의 일반지능을 평가하는 ARC-AGI-1 벤치마크에서 44%를 기록한 효율적인 접근법이 소개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "인공지능"
-   ]
-  },
-  {
-   "id": "e92628dc6e502c2d",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w45t3d/qwen4exp_fixes_in_llamacpp/",
-   "source": "r/LocalLLaMA",
-   "title": "qwen4exp fixes in llama.cpp",
-   "published_at": "2026-09-01T08:28:09+00:00",
-   "collected_at": "2026-09-01T09:56:58.188612+00:00",
-   "title_ko": "llama.cpp, Qwen 실험적 모델 지원 업데이트",
-   "summary_ko": "로컬 LLM 구동 도구인 llama.cpp에 Qwen 플래시 모델 관련 최적화와 수정 사항들이 대거 병합되었습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "cb8ca1af49ecb44c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w44jnv/exllamav3_recent_updates_cpu_offload_glm53flash/",
-   "source": "r/LocalLLaMA",
-   "title": "ExLlamav3 Recent Updates : CPU offload, GLM-5.3-FLASH, Qwen3.8-Flash, SC Quants ++",
-   "published_at": "2026-09-01T07:14:40+00:00",
-   "collected_at": "2026-09-01T09:56:58.188612+00:00",
-   "title_ko": "ExLlamav3, CPU 오프로드 및 최신 모델 지원 업데이트",
-   "summary_ko": "ExLlamav3가 MoE 전문가의 CPU 오프로드와 GLM, Qwen 등 최신 플래시 모델 지원을 포함한 대규모 업데이트를 단행했습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "5fd5ece22cfd15a6",
-   "url": "https://www.reddit.com/r/singularity/comments/1w44d5n/jensen_huang_demis_hassabis_elon_musk_sam_altman/",
-   "source": "r/singularity",
-   "title": "Jensen Huang, Demis Hassabis, Elon Musk, Sam Altman and others will participate in a G20 Technology meeting in North Carolina, the goal is to get them to sign on to a commitment to \"light-touch AI regulation\"",
-   "published_at": "2026-09-01T07:04:11+00:00",
-   "collected_at": "2026-09-01T09:57:02.860087+00:00",
-   "title_ko": "주요 AI 리더들, G20 기술 회의서 완화된 규제 지지 논의",
-   "summary_ko": "오픈AI, 앤트로픽, 엔비디아 등 주요 AI 업계 인자들이 참석해 새로운 규제 신설을 피하는 '캐롤라이나 원칙' 서명을 논의할 예정입니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "Anthropic",
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "958254297c077ea5",
-   "url": "https://www.reddit.com/r/singularity/comments/1w448op/about_the_recent_frontier_model_hacks/",
-   "source": "r/singularity",
-   "title": "About the recent frontier model hacks",
-   "published_at": "2026-09-01T06:57:49+00:00",
-   "collected_at": "2026-09-01T09:57:02.860087+00:00",
-   "title_ko": "최근 프론티어 AI 모델 해킹 사건에 대한 단상",
-   "summary_ko": "최근 발생한 대형 AI 모델 관련 보안 유출 및 해킹 정황을 비유적으로 분석한 글입니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "a32ccb2402c4dc7f",
-   "url": "https://news.hada.io/topic?id=33106",
-   "source": "GeekNews",
-   "title": "Codex의 20X는 주간 사용량도 실제 20배, Claude는 5시간 한도만 20배",
-   "published_at": "2026-09-01T06:48:04+00:00",
-   "collected_at": "2026-09-01T09:57:05.452085+00:00",
-   "title_ko": "OpenAI 구독 플랜의 '20X' 사용량 한도 기준 해명",
-   "summary_ko": "OpenAI 관계자가 Codex 및 ChatGPT 프로 플랜의 20X 제공량이 단순 토큰 배수가 아닌 주간 사용량 한도 기준이라고 설명했습니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "GPT"
-   ]
-  },
-  {
-   "id": "f36a0a4440326bfa",
-   "url": "https://www.reddit.com/r/singularity/comments/1w43cci/according_to_their_own_internal_documents_a/",
-   "source": "r/singularity",
-   "title": "According to their own internal documents a lawsuit filed against Anthropic reveals, that the 20x usage plan actually only allows for 6x more usage.",
-   "published_at": "2026-09-01T06:06:25+00:00",
-   "collected_at": "2026-09-01T09:57:02.860087+00:00",
-   "title_ko": "소송 문서로 드러난 앤트로픽 구독 플랜 실제 사용량 한도",
-   "summary_ko": "앤트로픽을 상대로 한 소송 과정에서 내부 문서가 공개되며, 광고된 고용량 플랜의 실제 제공 배수가 기대에 못 미친다는 사실이 드러났습니다.",
-   "category": "참고",
-   "tags": [
-    "Anthropic",
-    "Claude"
-   ]
-  },
-  {
-   "id": "699e4199353d98e7",
-   "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-   "source": "Hacker News",
-   "title": "AI Can Make You Suck Faster Too",
-   "published_at": "2026-09-01T05:32:56+00:00",
-   "collected_at": "2026-09-01T09:56:57.432462+00:00",
-   "title_ko": "AI가 당신의 비효율을 더 빠르게 가속할 수 있는 이유",
-   "summary_ko": "AI 도구를 무작정 도입하는 것이 역설적으로 잘못된 결과나 비효율을 더 빠르게 양산할 수 있음을 지적하는 글입니다.",
-   "category": "참고",
-   "tags": [
-    "코딩"
-   ]
-  },
-  {
-   "id": "01c29b675586238a",
-   "url": "https://news.hada.io/topic?id=33105",
-   "source": "GeekNews",
-   "title": "Grok Bot으로 운영하는 엔지니어링 조직",
-   "published_at": "2026-09-01T05:25:26+00:00",
-   "collected_at": "2026-09-01T09:57:05.452085+00:00",
-   "title_ko": "Grok 봇과 AI 에이전트로 운영되는 소규모 엔지니어링 조직",
-   "summary_ko": "개발자가 자리를 비운 사이에도 AI 코딩 에이전트와 봇들이 스스로 학습하고 개발을 이어가는 엔지니어링 팀의 운영 사례입니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "0bf0650441b20f29",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w42biu/mtp_released_for_qwen38flashnextgguf/",
-   "source": "r/LocalLLaMA",
-   "title": "MTP released for Qwen3.8-Flash-Next-GGUF",
-   "published_at": "2026-09-01T05:10:48+00:00",
-   "collected_at": "2026-09-01T09:56:58.188612+00:00",
-   "title_ko": "Qwen 플래시 모델 GGUF용 MTP 지원 추가",
-   "summary_ko": "로컬 환경에서 토큰 처리 속도(TPS)를 크게 향상시킬 수 있는 MTP 기능이 Qwen 모델의 GGUF 빌드에 추가되었습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "706667aacf3c172d",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3zpse/here_is_your_chance_to_take_over_the_world_glm_53/",
-   "source": "r/LocalLLaMA",
-   "title": "Here is your chance to take over the world: glm 5.3 abliterated",
-   "published_at": "2026-09-01T03:01:02+00:00",
-   "collected_at": "2026-09-01T04:55:22.249224+00:00",
-   "title_ko": "GLM-5.3 검열 해제 모델 등장",
-   "summary_ko": "검열이 해제된 GLM-5.3 오픈 모델이 커뮤니티에 공개되어 다양한 실험이 진행 중이다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "2d82cee11d0b06c1",
-   "url": "https://news.hada.io/topic?id=33098",
-   "source": "GeekNews",
-   "title": "Show GN: 허니 펄스 - 꿀 채집 로그라이크 게임 (Flutter Flame)",
-   "published_at": "2026-09-01T02:53:43+00:00",
-   "collected_at": "2026-09-01T04:55:36.495329+00:00",
-   "title_ko": "AI 코딩 에이전트로 제작한 모바일 게임 출시",
-   "summary_ko": "1인 개발자가 AI 코딩 에이전트를 파트너로 활용해 기획부터 출시까지 완료한 로그라이크 게임을 소개했다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "06bdeb209262859e",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3yq0k/i_finished_upcycling_of_gemma412b/",
-   "source": "r/LocalLLaMA",
-   "title": "I finished upcycling of gemma4-12B",
-   "published_at": "2026-09-01T02:15:35+00:00",
-   "collected_at": "2026-09-01T04:55:22.249224+00:00",
-   "title_ko": "Gemma-4-12B 업사이클링 모델 개발",
-   "summary_ko": "Dense 모델에 전문가(expert)를 추가하여 일반 수준의 성능을 회복한 Gemma 업사이클링 모델이 완성됐다.",
-   "category": "참고",
-   "tags": [
-    "Google",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "8aca028f3f0697aa",
-   "url": "https://news.hada.io/topic?id=33097",
-   "source": "GeekNews",
-   "title": "포스트 AI 데이터 스택의 형태와 사용감",
-   "published_at": "2026-09-01T01:51:50+00:00",
-   "collected_at": "2026-09-01T04:55:36.495329+00:00",
-   "title_ko": "포스트 AI 시대의 데이터 스택 변화",
-   "summary_ko": "AI 분석 도구와 코딩 에이전트로 인해 분석 비용이 낮아지면서 전사 데이터 운영과 설계의 중요성이 커지고 있다.",
-   "category": "참고",
-   "tags": [
-    "AI 분석",
-    "데이터"
    ]
   }
  ]

@@ -1,5 +1,96 @@
 [
  {
+  "id": "c7b8db5667c35e0b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w67wso/ifmk2horizonmova36ba4bgguf_hugging_face/",
+  "source": "r/LocalLLaMA",
+  "title": "IFM/K2-Horizon-MoVA-36B-A4B-GGUF · Hugging Face",
+  "published_at": "2026-09-03T13:47:54+00:00",
+  "collected_at": "2026-09-03T14:24:35.282551+00:00",
+  "title_ko": "K2-Horizon-MoVA-36B 오픈소스 MoE 모델 공개",
+  "summary_ko": "혼합 값 어텐션(MoVA)을 적용한 36B 파라미터 규모의 고성능 오픈소스 모델이 허깅페이스에 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "74fa47d42d888922",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w67nkz/frontier_models_sabotaging_local_ai/",
+  "source": "r/LocalLLaMA",
+  "title": "Frontier models sabotaging local AI implementations?",
+  "published_at": "2026-09-03T13:37:43+00:00",
+  "collected_at": "2026-09-03T14:24:35.282551+00:00",
+  "title_ko": "프론티어 LLM의 로컬 AI 에이전트 구현 방해 문제",
+  "summary_ko": "최신 프론티어 모델들이 로컬 환경에서 지나친 제약과 불필요한 가이드라인을 추가해 오히려 개발 생산성을 떨어뜨린다는 지적이 나오고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "GPT"
+  ]
+ },
+ {
+  "id": "96a3500c5a4b2fb7",
+  "url": "https://huggingface.co/blog/Hcompany/neomme",
+  "source": "Hugging Face",
+  "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+  "published_at": "2026-09-03T13:13:48+00:00",
+  "collected_at": "2026-09-03T14:24:25.729100+00:00",
+  "title_ko": "효율적인 멀티모달 멀티언어 인코더 NeoMME 공개",
+  "summary_ko": "다양한 언어와 멀티모달 입력을 효율적으로 처리할 수 있는 새로운 인코더 모델이 공개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "멀티모달"
+  ]
+ },
+ {
+  "id": "0d74e9b537b99e60",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w66lyh/would_i_be_mad_to_collocate_my_own_server/",
+  "source": "r/LocalLLaMA",
+  "title": "Would I be mad to collocate my own server?",
+  "published_at": "2026-09-03T12:55:17+00:00",
+  "collected_at": "2026-09-03T14:24:35.282551+00:00",
+  "title_ko": "개인 서버 구축 및 AI 모델 호스팅의 실효성 논의",
+  "summary_ko": "중고 서버를 구매해 직접 토큰 서빙이나 클라우드 서비스를 운영하는 방식의 경제성과 타당성을 커뮤니티에서 논의하고 있습니다.",
+  "category": "팁",
+  "tags": [
+   "반도체",
+   "인프라"
+  ]
+ },
+ {
+  "id": "4f602ed541c753cc",
+  "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+  "source": "TechCrunch",
+  "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+  "published_at": "2026-09-03T12:42:45+00:00",
+  "collected_at": "2026-09-03T14:24:04.797808+00:00",
+  "title_ko": "엔비디아, 허깅페이스 129억 달러에 인수 공식 확인",
+  "summary_ko": "엔비디아가 세계 최대 AI 모델 공유 플랫폼인 허깅페이스를 약 129억 달러에 인수한다고 밝혔습니다.",
+  "category": "속보",
+  "tags": [
+   "NVIDIA",
+   "투자",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "6b4c1449f4396743",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w65xkj/could_the_shortage_be_getting_better/",
+  "source": "r/LocalLLaMA",
+  "title": "Could the shortage be getting better?",
+  "published_at": "2026-09-03T12:25:53+00:00",
+  "collected_at": "2026-09-03T14:24:35.282551+00:00",
+  "title_ko": "RTX 5090 GPU 재고 안정화 조짐",
+  "summary_ko": "오프라인 매장에서 고성능 AI용 GPU인 5090의 재고가 발견되면서 공급난 해소에 대한 기대감이 커지고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
   "id": "701b06bf43a56586",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214786",
   "source": "AI타임스",
@@ -13,6 +104,54 @@
    "NVIDIA",
    "반도체",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "b631d4c63420a802",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w65uhf/its_official_nvidia_to_acquire_hugging_face_for/",
+  "source": "r/LocalLLaMA",
+  "title": "It's official! Nvidia to acquire Hugging Face for 12.9 billion dollars.",
+  "published_at": "2026-09-03T12:22:05+00:00",
+  "collected_at": "2026-09-03T14:24:35.282551+00:00",
+  "title_ko": "엔비디아의 허깅페이스 인수 공식화",
+  "summary_ko": "엔비디아가 AI 개발자 핵심 플랫폼인 허깅페이스를 129억 달러에 인수하는 계약을 체결했습니다.",
+  "category": "속보",
+  "tags": [
+   "NVIDIA",
+   "투자",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "67c7aa5f3d1152ae",
+  "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+  "source": "The Verge",
+  "title": "Nvidia is buying Hugging Face for almost $13 billion",
+  "published_at": "2026-09-03T12:12:06+00:00",
+  "collected_at": "2026-09-03T14:24:04.875891+00:00",
+  "title_ko": "엔비디아, 허깅페이스 13억 달러 규모 인수",
+  "summary_ko": "엔비디아가 오픈소스 AI 생태계의 중심인 허깅페이스를 인수하며 AI 인프라 장악력을 더욱 강화하게 되었습니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "투자",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "3a38abad23be82a7",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w65ise/we_built_an_opensource_modelneutral_agent_harness/",
+  "source": "r/LocalLLaMA",
+  "title": "We built an open-source, model-neutral agent harness and compared it with claude managed agents - for the same model, got same accuracy, upto 75% lower cost",
+  "published_at": "2026-09-03T12:07:16+00:00",
+  "collected_at": "2026-09-03T14:24:35.282551+00:00",
+  "title_ko": "오픈소스 에이전트 하네스 TrueForge 공개",
+  "summary_ko": "동일한 모델을 사용하면서도 토큰 비용을 대폭 절감할 수 있는 모델 중립적 오픈소스 에이전트 하네스가 개발되었습니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스",
+   "Claude"
   ]
  },
  {
@@ -46,6 +185,36 @@
   ]
  },
  {
+  "id": "5b859d50a3ba240f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w655he/qwen36_35b_q2_xxs_being_gpu_poor_in_2026_is_not/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.6 35b Q2_XXS: Being GPU poor in 2026 is not so bad",
+  "published_at": "2026-09-03T11:50:18+00:00",
+  "collected_at": "2026-09-03T14:24:35.282551+00:00",
+  "title_ko": "저사양 환경에서의 Qwen3.6 35B 모델 구동 후기",
+  "summary_ko": "VRAM이 없는 저사양 노트북 환경에서도 양자화된 대형 모델을 활용해 로컬에서 게임 등을 제작할 수 있음을 보여줍니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "f2b0bf40cd129408",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w64y26/qwen38nextflash_ngram_hotswappable_knowledge/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen-3.8-Next-Flash Ngram Hot-Swappable Knowledge Injector for llama.cpp",
+  "published_at": "2026-09-03T11:40:27+00:00",
+  "collected_at": "2026-09-03T14:24:35.282551+00:00",
+  "title_ko": "llama.cpp용 Qwen Ngram 지식 주입기 구현",
+  "summary_ko": "모델을 재로딩하지 않고도 실시간으로 지식을 패치할 수 있는 Ngram 기반 핫스왑 지식 주입 기능이 개발되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
   "id": "c34f99fa0f7f3cb5",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214781",
   "source": "AI타임스",
@@ -59,6 +228,35 @@
    "Google",
    "Gemini",
    "코딩"
+  ]
+ },
+ {
+  "id": "8970f35603af87d6",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w62w8e/how_to_handle_naughty_model/",
+  "source": "r/LocalLLaMA",
+  "title": "How to handle naughty model",
+  "published_at": "2026-09-03T09:53:51+00:00",
+  "collected_at": "2026-09-03T14:24:35.282551+00:00",
+  "title_ko": "AI 에이전트의 오류 방지 및 디버깅 스킬 기법",
+  "summary_ko": "AI 에이전트가 실수를 반복하지 않도록 오류 발생 시 자동으로 개입하는 스킬을 구현하여 반복적인 사과 응답을 줄이는 방법입니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "fd01b1d9f4ec46e9",
+  "url": "https://news.hada.io/topic?id=33187",
+  "source": "GeekNews",
+  "title": "Diffusion으로 OCR 디코딩 가속하기",
+  "published_at": "2026-09-03T09:01:18+00:00",
+  "collected_at": "2026-09-03T14:24:49.962767+00:00",
+  "title_ko": "확산 모델을 활용한 OCR 디코딩 가속 기법",
+  "summary_ko": "디퓨전과 자기회귀 방식을 결합한 self-speculative decoding으로 품질 손실 없이 OCR 디코딩 속도를 3.85배 향상했습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
   ]
  },
  {
@@ -353,6 +551,52 @@
   "category": "참고",
   "tags": [
    "오픈소스"
+  ]
+ },
+ {
+  "id": "45020768fad998be",
+  "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+  "source": "Hugging Face",
+  "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+  "published_at": "2026-09-03T00:00:00+00:00",
+  "collected_at": "2026-09-03T14:24:25.729100+00:00",
+  "title_ko": "GRPO 학습을 통한 3.5억 파라미터 소형 모델 파인튜닝",
+  "summary_ko": "100회의 GRPO 학습 단계를 거쳐 구조화된 출력을 더 잘 생성하도록 소형 모델을 파인튜닝하는 방법입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "86b47b47cb7422fd",
+  "url": "https://huggingface.co/blog/funes",
+  "source": "Hugging Face",
+  "title": "Give Your Coding Agents a Memory You Own",
+  "published_at": "2026-09-03T00:00:00+00:00",
+  "collected_at": "2026-09-03T14:24:25.729100+00:00",
+  "title_ko": "코딩 에이전트를 위한 자체 소유 메모리 구축 방법",
+  "summary_ko": "코딩 AI 에이전트가 작업 맥락을 유지하고 활용할 수 있도록 사용자가 직접 소유하고 관리하는 메모리를 제공하는 방법입니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "362ae46d9e3c09fa",
+  "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
+  "source": "Hacker News",
+  "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
+  "published_at": "2026-09-02T23:08:47+00:00",
+  "collected_at": "2026-09-03T14:24:34.528375+00:00",
+  "title_ko": "OpenAI 및 Hugging Face 해킹 사건 METR 조사 보고서",
+  "summary_ko": "METR이 공개한 OpenAI와 Hugging Face 관련 해킹 사건 조사 보고서로, AI 업계 보안 시큐리티와 관련된 주요 시사점을 다룹니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "Hugging Face",
+   "규제"
   ]
  },
  {
@@ -998,6 +1242,20 @@
   "category": "속보",
   "tags": [
    "Google"
+  ]
+ },
+ {
+  "id": "84ec180a52b60661",
+  "url": "https://dbushell.com/ai/",
+  "source": "Hacker News",
+  "title": "AI Policy",
+  "published_at": "2026-09-02T15:36:24+00:00",
+  "collected_at": "2026-09-03T14:24:34.528375+00:00",
+  "title_ko": "AI 정책 및 가이드라인에 대한 논의",
+  "summary_ko": "개발 및 운영 환경에서 AI를 활용하기 위한 정책과 가이드라인을 다룬 토론 글입니다.",
+  "category": "참고",
+  "tags": [
+   "규제"
   ]
  },
  {
