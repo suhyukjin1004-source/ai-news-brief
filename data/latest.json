@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-03T04:17:00.761593+00:00",
+ "updated_at": "2026-09-03T09:38:55.960036+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -66,6 +66,66 @@
    ]
   },
   {
+   "id": "98df1cd0117d9817",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w61zgh/local_auto_complete_code_assistant_vanilla/",
+   "source": "r/LocalLLaMA",
+   "title": "Local Auto complete code assistant - Vanilla, Fine-tune or RL?",
+   "published_at": "2026-09-03T09:00:59+00:00",
+   "collected_at": "2026-09-03T09:38:31.280074+00:00",
+   "title_ko": "로컬 코드 어시스턴트 성능 향상을 위한 파인튜닝 접근법",
+   "summary_ko": "로컬 LLM 기반 코드 자동완성 모델의 정확도를 높이기 위해 커스텀 코드 파인튜닝과 강화학습 적용 방안을 논의합니다. 실무 개발 환경에서 소형 모델의 성능을 최적화하는 데 도움이 됩니다.",
+   "category": "팁",
+   "tags": [
+    "코딩",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "489c6a27a3e68037",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w60jr5/model_add_nvidia_nemotron3puzzle75ba9b/",
+   "source": "r/LocalLLaMA",
+   "title": "model: add NVIDIA Nemotron-3-Puzzle-75B-A9B (NemotronHPuzzle) support by YanissAmz · Pull Request #25444 · ggml-org/llama.cpp",
+   "published_at": "2026-09-03T07:35:18+00:00",
+   "collected_at": "2026-09-03T09:38:31.280074+00:00",
+   "title_ko": "llama.cpp, NVIDIA Nemotron-3-Puzzle-75B 모델 지원 추가",
+   "summary_ko": "하이브리드 MoE 구조와 다중 토큰 예측(MTP)을 지원하는 NVIDIA Nemotron-3-Puzzle-75B 모델이 llama.cpp에 추가되었습니다. 로컬 환경에서 고성능 MoE 모델을 구동할 수 있게 됩니다.",
+   "category": "속보",
+   "tags": [
+    "NVIDIA",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "6b56b1f2bdbcf037",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w60hiv/repodify_a_fully_local_opensource_podcast/",
+   "source": "r/LocalLLaMA",
+   "title": "Repodify, a fully local & opensource podcast summarizer, or BYOK if don't have GPU.",
+   "published_at": "2026-09-03T07:31:31+00:00",
+   "collected_at": "2026-09-03T09:38:31.280074+00:00",
+   "title_ko": "오픈소스 로컬 팟캐스트 요약 도구 Repodify 공개",
+   "summary_ko": "GPU를 활용해 완전히 로컬 환경에서 구동 가능한 오픈소스 팟캐스트 요약 도구가 공개되었습니다. 외부 API 없이 프라이버시를 지키며 음성 콘텐츠를 정리할 수 있습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "e697753ee8482ae0",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w609r6/can_a_4b_local_model_actually_feel_like_an_ai/",
+   "source": "r/LocalLLaMA",
+   "title": "Can a 4B local model actually feel like an AI assistant?",
+   "published_at": "2026-09-03T07:18:27+00:00",
+   "collected_at": "2026-09-03T09:38:31.280074+00:00",
+   "title_ko": "소형 4B 로컬 모델을 활용한 AI 에이전트 구축 실험",
+   "summary_ko": "Qwen3-4B 모델을 기반으로 영구 메모리, 페르소나, 도구 사용 기능을 더한 로컬 에이전트 구축 실험입니다. 소형 모델의 아키텍처 개선 가능성을 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
    "id": "5abce7a223c84e75",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214774",
    "source": "AI타임스",
@@ -79,6 +139,50 @@
     "Meta",
     "AI 에이전트",
     "코딩"
+   ]
+  },
+  {
+   "id": "79c30aea2e0955c8",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5zdx4/my_rule_of_thumb_of_choosing_a_models/",
+   "source": "r/LocalLLaMA",
+   "title": "My RULE of Thumb of choosing a models",
+   "published_at": "2026-09-03T06:27:49+00:00",
+   "collected_at": "2026-09-03T09:38:31.280074+00:00",
+   "title_ko": "프로그래밍 생산성 향상을 위한 LLM 모델 선택 팁",
+   "summary_ko": "개발 디버깅과 코드 분석에서 LLM을 활용해 생산성을 크게 높인 경험을 공유합니다. 대규모 코드베이스 분석에 적절한 모델 활용 기준을 제시합니다.",
+   "category": "팁",
+   "tags": [
+    "코딩"
+   ]
+  },
+  {
+   "id": "728be90cc3176d1b",
+   "url": "https://news.hada.io/topic?id=33183",
+   "source": "GeekNews",
+   "title": "zg(zvec-grep) - 키워드를 넘어서는 로컬 검색 인프라",
+   "published_at": "2026-09-03T04:40:02+00:00",
+   "collected_at": "2026-09-03T09:38:45.911079+00:00",
+   "title_ko": "Qwen 팀, 로컬 우선 검색 인프라 zg 오픈소스 공개",
+   "summary_ko": "텍스트 검색과 벡터·하이브리드 검색을 결합해 자연어로 코드와 문서를 탐색할 수 있는 도구입니다. 개발자가 로컬 환경에서 정확한 코드 위치를 찾는 데 유용합니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "f24bec16e0eb264a",
+   "url": "https://news.hada.io/topic?id=33182",
+   "source": "GeekNews",
+   "title": "M4 Pro Mac mini로 구축한 로컬 LLM 환경",
+   "published_at": "2026-09-03T04:33:02+00:00",
+   "collected_at": "2026-09-03T09:38:45.911079+00:00",
+   "title_ko": "M4 Pro Mac mini 기반 로컬 LLM 환경 구축 사례",
+   "summary_ko": "48GB RAM의 M4 Pro Mac mini를 활용해 로컬 LLM 서버를 구축하고 추론과 에이전트 작업을 수행한 사례입니다. 클라우드 API 의존성을 낮추고 비용을 절감할 수 있습니다.",
+   "category": "팁",
+   "tags": [
+    "반도체",
+    "AI 에이전트"
    ]
   },
   {
@@ -239,6 +343,20 @@
    "tags": [
     "로보틱스",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "b844bdeeb825fb68",
+   "url": "https://huggingface.co/blog/train-to-paint-with-code",
+   "source": "Hugging Face",
+   "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+   "published_at": "2026-09-03T00:00:00+00:00",
+   "collected_at": "2026-09-03T09:38:04.574131+00:00",
+   "title_ko": "TRL과 OpenEnv를 활용한 코딩 모델 수채화 학습",
+   "summary_ko": "TRL과 OpenEnv 프레임워크를 사용해 코딩 모델에 시각적 작업(수채화 그림 그리기)을 학습시키는 방법론을 다룹니다. 멀티모달 및 강화학습 응용 연구에 참고할 만합니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
    ]
   },
   {
@@ -2861,127 +2979,6 @@
    "tags": [
     "AI 분석",
     "데이터"
-   ]
-  },
-  {
-   "id": "98a02761d7c85c21",
-   "url": "https://news.hada.io/topic?id=33096",
-   "source": "GeekNews",
-   "title": "AI 칩 아키텍처",
-   "published_at": "2026-09-01T01:45:19+00:00",
-   "collected_at": "2026-09-01T04:55:36.495329+00:00",
-   "title_ko": "AI 연산을 위한 도메인 특화 칩 아키텍처",
-   "summary_ko": "CPU 성능 한계 이후 NVIDIA GPU부터 TPU, LPU까지 AI 연산을 위한 다양한 반도체 아키텍처 경쟁이 치열해지고 있다.",
-   "category": "참고",
-   "tags": [
-    "반도체",
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "631a857c7a24a6f9",
-   "url": "https://openai.com/index/gilbert-tobin",
-   "source": "OpenAI",
-   "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-   "published_at": "2026-09-01T01:00:00+00:00",
-   "collected_at": "2026-09-02T04:17:20.704411+00:00",
-   "title_ko": "글로벌 로펌 길버트앤토빈의 OpenAI 도입 사례",
-   "summary_ko": "대형 로펌 길버트앤토빈이 CEO 주도 하에 거버넌스를 갖추고 ChatGPT Enterprise와 Codex를 사내에 성공적으로 확장한 사례를 소개합니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "GPT"
-   ]
-  },
-  {
-   "id": "71852c4539bd10fd",
-   "url": "https://www.reddit.com/r/singularity/comments/1w3wyi8/timesfm3_a_zeroshot_foundation_model_for/",
-   "source": "r/singularity",
-   "title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting",
-   "published_at": "2026-09-01T00:56:52+00:00",
-   "collected_at": "2026-09-01T09:57:02.860087+00:00",
-   "title_ko": "시계열 예측용 제로샷 기초 모델 TimesFM-3 공개",
-   "summary_ko": "다변량 시계열 예측을 위한 새로운 기초 모델 TimesFM-3가 공개되었습니다. 다양한 예측 작업의 성능 향상에 기여할 것으로 기대됩니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "AI"
-   ]
-  },
-  {
-   "id": "5de5feccdf979049",
-   "url": "https://www.reddit.com/r/singularity/comments/1w3w3vp/anthropic_improving_our_alignment_and_security/",
-   "source": "r/singularity",
-   "title": "Anthropic: Improving our alignment and security practices",
-   "published_at": "2026-09-01T00:19:49+00:00",
-   "collected_at": "2026-09-01T09:57:02.860087+00:00",
-   "title_ko": "앤트로픽, AI 정렬 및 보안 관행 강화 발표",
-   "summary_ko": "앤트로픽이 AI 모델의 안전성과 정렬(Alignment) 연구를 개선하기 위한 새로운 보안 관행을 발표했습니다. AI 안전성 확보에 중요한 이정표가 됩니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "규제",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "b43147294b6344d0",
-   "url": "https://news.hada.io/topic?id=33090",
-   "source": "GeekNews",
-   "title": "OpenClaw 2.0 출시, 설치부터 메모리와 브라우저 제어까지 전면 개편",
-   "published_at": "2026-09-01T00:17:35+00:00",
-   "collected_at": "2026-09-01T04:55:36.495329+00:00",
-   "title_ko": "OpenClaw 2.0 대규모 업데이트 출시",
-   "summary_ko": "설치 과정부터 메모리, 브라우저 제어 기능까지 전면 개편된 OpenClaw 2.0이 공개됐다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "78b0be8102be19c0",
-   "url": "https://news.hada.io/topic?id=33089",
-   "source": "GeekNews",
-   "title": "VibeCoded AI-Slop License v1.0 - 만든 사람도 읽지 않은 코드를 위해",
-   "published_at": "2026-09-01T00:16:59+00:00",
-   "collected_at": "2026-09-01T04:55:36.495329+00:00",
-   "title_ko": "AI 생성 코드를 위한 풍자적 라이선스 등장",
-   "summary_ko": "사람이 읽지 않고 AI가 만든 코드를 위해 저작자와 사용 제한을 모두 없앤 풍자적 라이선스가 소개됐다.",
-   "category": "참고",
-   "tags": [
-    "코딩",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "30965613e8a6724d",
-   "url": "https://www.reddit.com/r/singularity/comments/1w3vyz0/anthropic_made_hackeropus_during_alignment_tetsing/",
-   "source": "r/singularity",
-   "title": "Anthropic made \"Hacker-Opus\" during alignment tetsing",
-   "published_at": "2026-09-01T00:14:01+00:00",
-   "collected_at": "2026-09-01T09:57:02.860087+00:00",
-   "title_ko": "앤트로픽, 정렬 테스트 중 '해커 오푸스' 실험 진행",
-   "summary_ko": "앤트로픽이 AI 안전성 정렬 테스트 과정에서 자율적으로 행동하는 '해커 오푸스' 실험을 수행했습니다. AI 모델의 잠재적 리스크를 파악하는 데 중요한 자료입니다.",
-   "category": "참고",
-   "tags": [
-    "Anthropic",
-    "Claude"
-   ]
-  },
-  {
-   "id": "6a3db8bac480b841",
-   "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-   "source": "TechCrunch",
-   "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-   "published_at": "2026-09-01T00:13:00+00:00",
-   "collected_at": "2026-09-01T04:55:10.353681+00:00",
-   "title_ko": "애플, OpenAI 관련 데이터 유출 전 직원 증거 확보",
-   "summary_ko": "애플이 OpenAI로 회사 데이터를 유출한 혐의를 받는 전 직원이 조사를 피하기 위해 증거를 인멸한 충격적인 증거를 확보했다고 밝혔다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "규제"
    ]
   }
  ]

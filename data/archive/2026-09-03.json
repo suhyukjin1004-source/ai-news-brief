@@ -62,6 +62,66 @@
   ]
  },
  {
+  "id": "98df1cd0117d9817",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w61zgh/local_auto_complete_code_assistant_vanilla/",
+  "source": "r/LocalLLaMA",
+  "title": "Local Auto complete code assistant - Vanilla, Fine-tune or RL?",
+  "published_at": "2026-09-03T09:00:59+00:00",
+  "collected_at": "2026-09-03T09:38:31.280074+00:00",
+  "title_ko": "로컬 코드 어시스턴트 성능 향상을 위한 파인튜닝 접근법",
+  "summary_ko": "로컬 LLM 기반 코드 자동완성 모델의 정확도를 높이기 위해 커스텀 코드 파인튜닝과 강화학습 적용 방안을 논의합니다. 실무 개발 환경에서 소형 모델의 성능을 최적화하는 데 도움이 됩니다.",
+  "category": "팁",
+  "tags": [
+   "코딩",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "489c6a27a3e68037",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w60jr5/model_add_nvidia_nemotron3puzzle75ba9b/",
+  "source": "r/LocalLLaMA",
+  "title": "model: add NVIDIA Nemotron-3-Puzzle-75B-A9B (NemotronHPuzzle) support by YanissAmz · Pull Request #25444 · ggml-org/llama.cpp",
+  "published_at": "2026-09-03T07:35:18+00:00",
+  "collected_at": "2026-09-03T09:38:31.280074+00:00",
+  "title_ko": "llama.cpp, NVIDIA Nemotron-3-Puzzle-75B 모델 지원 추가",
+  "summary_ko": "하이브리드 MoE 구조와 다중 토큰 예측(MTP)을 지원하는 NVIDIA Nemotron-3-Puzzle-75B 모델이 llama.cpp에 추가되었습니다. 로컬 환경에서 고성능 MoE 모델을 구동할 수 있게 됩니다.",
+  "category": "속보",
+  "tags": [
+   "NVIDIA",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "6b56b1f2bdbcf037",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w60hiv/repodify_a_fully_local_opensource_podcast/",
+  "source": "r/LocalLLaMA",
+  "title": "Repodify, a fully local & opensource podcast summarizer, or BYOK if don't have GPU.",
+  "published_at": "2026-09-03T07:31:31+00:00",
+  "collected_at": "2026-09-03T09:38:31.280074+00:00",
+  "title_ko": "오픈소스 로컬 팟캐스트 요약 도구 Repodify 공개",
+  "summary_ko": "GPU를 활용해 완전히 로컬 환경에서 구동 가능한 오픈소스 팟캐스트 요약 도구가 공개되었습니다. 외부 API 없이 프라이버시를 지키며 음성 콘텐츠를 정리할 수 있습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "e697753ee8482ae0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w609r6/can_a_4b_local_model_actually_feel_like_an_ai/",
+  "source": "r/LocalLLaMA",
+  "title": "Can a 4B local model actually feel like an AI assistant?",
+  "published_at": "2026-09-03T07:18:27+00:00",
+  "collected_at": "2026-09-03T09:38:31.280074+00:00",
+  "title_ko": "소형 4B 로컬 모델을 활용한 AI 에이전트 구축 실험",
+  "summary_ko": "Qwen3-4B 모델을 기반으로 영구 메모리, 페르소나, 도구 사용 기능을 더한 로컬 에이전트 구축 실험입니다. 소형 모델의 아키텍처 개선 가능성을 보여줍니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "5abce7a223c84e75",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214774",
   "source": "AI타임스",
@@ -75,6 +135,50 @@
    "Meta",
    "AI 에이전트",
    "코딩"
+  ]
+ },
+ {
+  "id": "79c30aea2e0955c8",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5zdx4/my_rule_of_thumb_of_choosing_a_models/",
+  "source": "r/LocalLLaMA",
+  "title": "My RULE of Thumb of choosing a models",
+  "published_at": "2026-09-03T06:27:49+00:00",
+  "collected_at": "2026-09-03T09:38:31.280074+00:00",
+  "title_ko": "프로그래밍 생산성 향상을 위한 LLM 모델 선택 팁",
+  "summary_ko": "개발 디버깅과 코드 분석에서 LLM을 활용해 생산성을 크게 높인 경험을 공유합니다. 대규모 코드베이스 분석에 적절한 모델 활용 기준을 제시합니다.",
+  "category": "팁",
+  "tags": [
+   "코딩"
+  ]
+ },
+ {
+  "id": "728be90cc3176d1b",
+  "url": "https://news.hada.io/topic?id=33183",
+  "source": "GeekNews",
+  "title": "zg(zvec-grep) - 키워드를 넘어서는 로컬 검색 인프라",
+  "published_at": "2026-09-03T04:40:02+00:00",
+  "collected_at": "2026-09-03T09:38:45.911079+00:00",
+  "title_ko": "Qwen 팀, 로컬 우선 검색 인프라 zg 오픈소스 공개",
+  "summary_ko": "텍스트 검색과 벡터·하이브리드 검색을 결합해 자연어로 코드와 문서를 탐색할 수 있는 도구입니다. 개발자가 로컬 환경에서 정확한 코드 위치를 찾는 데 유용합니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "f24bec16e0eb264a",
+  "url": "https://news.hada.io/topic?id=33182",
+  "source": "GeekNews",
+  "title": "M4 Pro Mac mini로 구축한 로컬 LLM 환경",
+  "published_at": "2026-09-03T04:33:02+00:00",
+  "collected_at": "2026-09-03T09:38:45.911079+00:00",
+  "title_ko": "M4 Pro Mac mini 기반 로컬 LLM 환경 구축 사례",
+  "summary_ko": "48GB RAM의 M4 Pro Mac mini를 활용해 로컬 LLM 서버를 구축하고 추론과 에이전트 작업을 수행한 사례입니다. 클라우드 API 의존성을 낮추고 비용을 절감할 수 있습니다.",
+  "category": "팁",
+  "tags": [
+   "반도체",
+   "AI 에이전트"
   ]
  },
  {
@@ -235,6 +339,20 @@
   "tags": [
    "로보틱스",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "b844bdeeb825fb68",
+  "url": "https://huggingface.co/blog/train-to-paint-with-code",
+  "source": "Hugging Face",
+  "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+  "published_at": "2026-09-03T00:00:00+00:00",
+  "collected_at": "2026-09-03T09:38:04.574131+00:00",
+  "title_ko": "TRL과 OpenEnv를 활용한 코딩 모델 수채화 학습",
+  "summary_ko": "TRL과 OpenEnv 프레임워크를 사용해 코딩 모델에 시각적 작업(수채화 그림 그리기)을 학습시키는 방법론을 다룹니다. 멀티모달 및 강화학습 응용 연구에 참고할 만합니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
   ]
  },
  {
