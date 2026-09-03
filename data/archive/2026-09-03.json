@@ -1,5 +1,113 @@
 [
  {
+  "id": "5abce7a223c84e75",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214774",
+  "source": "AI타임스",
+  "title": "메타, '뮤즈 스파크 1.3' 출시...오픈AI 제치고 세계 3위 성능",
+  "published_at": "2026-09-03T06:45:34+00:00",
+  "collected_at": "2026-09-03T00:03:57.919491+00:00",
+  "title_ko": "메타 '뮤즈 스파크 1.3' 출시, 오픈AI 제치고 세계 3위",
+  "summary_ko": "메타가 에이전트 워크플로우와 코딩 성능을 강화한 '뮤즈 스파크 1.3'을 공개하며 종합 지능 지수에서 오픈AI를 제치고 세계 3위에 올랐습니다.",
+  "category": "속보",
+  "tags": [
+   "Meta",
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "c5f9d9bb5d028139",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5qbpk/qwen38flashnext_sees_corruption_everywhere/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-flash-next sees corruption everywhere",
+  "published_at": "2026-09-02T23:08:21+00:00",
+  "collected_at": "2026-09-03T00:03:44.660573+00:00",
+  "title_ko": "Qwen3.8-flash-next 모델의 컨텍스트 손상 오류 현상",
+  "summary_ko": "맥 환경에서 Qwen3.8-flash-next 모델 구동 시 툴 인스트럭션이나 마크다운 파일 등의 컨텍스트를 손상된 텍스트로 오인하는 버그가 보고되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "llama.cpp"
+  ]
+ },
+ {
+  "id": "361a495fe5ecad29",
+  "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+  "source": "TechCrunch",
+  "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+  "published_at": "2026-09-02T22:44:56+00:00",
+  "collected_at": "2026-09-03T00:03:17.958662+00:00",
+  "title_ko": "팔로알토 네트웍스, AI IT 서비스 자동화 콘솔 인수",
+  "summary_ko": "팔로알토 네트웍스가 AI IT 서비스 자동화 스타트업 콘솔을 약 5억 달러에 인수하며 관련 시장 경쟁이 치열해지고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "투자",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "f77da1d556737fa5",
+  "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+  "source": "TechCrunch",
+  "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+  "published_at": "2026-09-02T22:24:09+00:00",
+  "collected_at": "2026-09-03T00:03:17.958662+00:00",
+  "title_ko": "테크크런치 디스럽트 2026, 리얼 월드 AI 스테이지 신설",
+  "summary_ko": "디지털과 물리 세계의 융합을 다루는 '리얼 월드 AI 스테이지'가 신설되어 엔비디아와 로보틱스 관련 세션이 진행됩니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "로보틱스"
+  ]
+ },
+ {
+  "id": "f90209a2e82dc8ef",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5ozl4/perplexity_opensourced_their_mac_inference_server/",
+  "source": "r/LocalLLaMA",
+  "title": "Perplexity open-sourced their Mac inference server for Qwen 3.6",
+  "published_at": "2026-09-02T22:13:47+00:00",
+  "collected_at": "2026-09-03T00:03:44.660573+00:00",
+  "title_ko": "퍼플렉시티, Qwen 3.6용 맥 추론 서버 오픈소스 공개",
+  "summary_ko": "퍼플렉시티가 애플 실리콘 환경에서 Qwen 3.6 모델의 성능을 극대화하는 맥 전용 추론 서버 '릴리'를 오픈소스로 공개했습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "3f3dd4b9673ba8b1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5ow8w/qwen38_flash_ap_quants/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8 Flash AP Quants",
+  "published_at": "2026-09-02T22:10:14+00:00",
+  "collected_at": "2026-09-03T00:03:44.660573+00:00",
+  "title_ko": "Qwen3.8 Flash AP 양자화 모델 공개",
+  "summary_ko": "사전 인프필 성능과 정밀도를 높인 새로운 방식의 Qwen3.8 Flash AP 양자화 모델이 커뮤니티에 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "753b405946134dab",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5odwo/looking_for_a_small_llm_for_linux_command/",
+  "source": "r/LocalLLaMA",
+  "title": "Looking for a small LLM for Linux command generation",
+  "published_at": "2026-09-02T21:50:37+00:00",
+  "collected_at": "2026-09-03T00:03:44.660573+00:00",
+  "title_ko": "리눅스 명령어 생성을 위한 소형 LLM 추천 요청",
+  "summary_ko": "CPU 환경과 llama.cpp에서 자연어를 리눅스 명령어로 빠르게 변환해 주는 4B 이하의 소형 LLM을 찾는 개발자 논의가 진행 중입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩",
+   "LLM"
+  ]
+ },
+ {
   "id": "ef901d94bd0a2a73",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5o5u8/davidauqwen3827bturbofablecoldfusion735882hereticu/",
   "source": "r/LocalLLaMA",
@@ -12,6 +120,79 @@
   "tags": [
    "오픈소스",
    "Qwen"
+  ]
+ },
+ {
+  "id": "e9a08aabee060170",
+  "url": "https://news.hada.io/topic?id=33170",
+  "source": "GeekNews",
+  "title": "AI 시대에 가장 안전한 직업은 글쓰기일 수 있다",
+  "published_at": "2026-09-02T21:36:22+00:00",
+  "collected_at": "2026-09-03T00:03:59.411303+00:00",
+  "title_ko": "AI 시대에도 대체하기 어려운 글쓰기 역량",
+  "summary_ko": "LLM이 코딩 분야에서는 빠르게 발전하고 있으나, 명확한 정답이나 테스트가 없는 산문 작성은 여전히 인간의 영역으로 남아있다는 분석입니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "코딩"
+  ]
+ },
+ {
+  "id": "2c0c9aa8022e66f3",
+  "url": "https://news.hada.io/topic?id=33169",
+  "source": "GeekNews",
+  "title": "Perplexity, 대량생산된 구매 가이드를 소프트웨어 추천의 근거로 제시",
+  "published_at": "2026-09-02T21:33:57+00:00",
+  "collected_at": "2026-09-03T00:03:59.411303+00:00",
+  "title_ko": "퍼플렉시티의 소프트웨어 추천 근거 신뢰성 논란",
+  "summary_ko": "퍼플렉시티의 소프트웨어 추천 인용 출처 중 상당수가 대량 생산된 구매 가이드 사이트인 것으로 조사되어 정보 신뢰성 문제가 제기되었습니다.",
+  "category": "참고",
+  "tags": [
+   "LLM"
+  ]
+ },
+ {
+  "id": "e5cb72198986eb09",
+  "url": "https://news.hada.io/topic?id=33166",
+  "source": "GeekNews",
+  "title": "Muse Spark 1.3 공개, 긴 에이전트 작업과 코딩 효율 개선",
+  "published_at": "2026-09-02T21:29:46+00:00",
+  "collected_at": "2026-09-03T00:03:59.411303+00:00",
+  "title_ko": "메타, 코딩 및 에이전트 성능 강화한 '뮤즈 스파크 1.3' 공개",
+  "summary_ko": "메타가 장기 에이전트 작업과 코딩 효율을 대폭 개선한 '뮤즈 스파크 1.3'을 발표하고 API 서비스를 시작했습니다.",
+  "category": "중요",
+  "tags": [
+   "Meta",
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "091255027ca0e95f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5nsm8/voxgen_an_amdoptimized_tts_inference_engine_for/",
+  "source": "r/LocalLLaMA",
+  "title": "VoxGen, an AMD-optimized TTS inference engine for VoxCPM 2 models",
+  "published_at": "2026-09-02T21:28:03+00:00",
+  "collected_at": "2026-09-03T00:03:44.660573+00:00",
+  "title_ko": "AMD 최적화 텍스트 음성 변환 추론 엔진 'VoxGen' 출시",
+  "summary_ko": "파이썬과 파이토치 의존성을 없애고 AMD 및 불칸(Vulkan) 환경에 최적화된 가벼운 로컬 TTS 추론 엔진이 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "015d78fc749d9f47",
+  "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+  "source": "Hacker News",
+  "title": "Mamdani Bans AI in NYC Schools",
+  "published_at": "2026-09-02T20:57:04+00:00",
+  "collected_at": "2026-09-03T00:03:43.784071+00:00",
+  "title_ko": "뉴욕시 학교 내 AI 전면 금지 조치 시행",
+  "summary_ko": "뉴욕시 학교에서 교육 환경 내 AI 사용을 금지하는 규제가 도입되면서 교육계의 AI 도입을 둘러싼 논란이 이어지고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "규제"
   ]
  },
  {
@@ -72,6 +253,35 @@
   "tags": [
    "오픈소스",
    "코딩"
+  ]
+ },
+ {
+  "id": "57998d94242a5e4b",
+  "url": "https://github.com/PhiloLabs/fable51-worlds",
+  "source": "Hacker News",
+  "title": "Fable 5.1 World Modeling",
+  "published_at": "2026-09-02T19:49:01+00:00",
+  "collected_at": "2026-09-03T00:03:39.362601+00:00",
+  "title_ko": "Fable 5.1 월드 모델링 공개",
+  "summary_ko": "AI를 활용한 새로운 세계 모델링 오픈소스 프로젝트인 Fable 5.1이 공개되었습니다. 시뮬레이션 및 가상 환경 생성 기술 발전에 기여할 것으로 기대됩니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "5f9a395b8fb757b2",
+  "url": "https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/",
+  "source": "Hacker News",
+  "title": "The Post-AI Internet Doesn't Look Great",
+  "published_at": "2026-09-02T19:41:01+00:00",
+  "collected_at": "2026-09-03T00:03:43.784071+00:00",
+  "title_ko": "포스트 AI 시대 인터넷의 변화와 우려",
+  "summary_ko": "생성형 AI 확산 이후 변화하는 인터넷 생태계의 부작용과 미래 전망을 다룬 글입니다. 웹 콘텐츠의 품질 저하와 검색 환경 변화에 대한 시사점을 줍니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
   ]
  },
  {
