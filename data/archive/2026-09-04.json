@@ -1,5 +1,110 @@
 [
  {
+  "id": "39d08a451ef7f0ca",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214821",
+  "source": "AI타임스",
+  "title": "오픈AI, 압도적 성능 'GPT-6 아스트라' 공개…\"AGI 시대 진입 환영\"",
+  "published_at": "2026-09-04T05:36:23+00:00",
+  "collected_at": "2026-09-03T21:39:55.087532+00:00",
+  "title_ko": "오픈AI, 차세대 모델 'GPT-6 아스트라' 공개",
+  "summary_ko": "오픈AI가 실무 전반에서 프론티어급 성능을 입증하며 AGI 시대로의 진입을 알리는 'GPT-6 아스트라'를 공개했다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "GPT",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "389074cdbd59db09",
+  "url": "https://arcprize.org/blog/astra",
+  "source": "Hacker News",
+  "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+  "published_at": "2026-09-03T19:45:00+00:00",
+  "collected_at": "2026-09-03T21:39:39.333793+00:00",
+  "title_ko": "GPT-6 아스트라의 ARC-AGI-3 성능 평가",
+  "summary_ko": "오픈AI의 신규 모델 GPT-6 아스트라의 ARC-AGI-3 벤치마크 결과가 공개됐다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "GPT"
+  ]
+ },
+ {
+  "id": "262a0d0fa8880803",
+  "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+  "source": "TechCrunch",
+  "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+  "published_at": "2026-09-03T19:36:29+00:00",
+  "collected_at": "2026-09-03T21:39:23.985685+00:00",
+  "title_ko": "띵킹 머신즈, 400억 달러 가치로 10억 달러 투자 유치 추진",
+  "summary_ko": "유망 AI 스타트업 띵킹 머신즈가 액셀의 주도로 10억 달러 규모의 대형 투자 유치 협상을 진행 중이다.",
+  "category": "중요",
+  "tags": [
+   "투자"
+  ]
+ },
+ {
+  "id": "a56dde98240b980d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6hlpt/google_released_timesfm3_a_330mparameter_time/",
+  "source": "r/LocalLLaMA",
+  "title": "Google released TimesFM-3, a 330M-parameter time series foundation model with native multivariate forecasting (non-commercial license)",
+  "published_at": "2026-09-03T19:34:06+00:00",
+  "collected_at": "2026-09-03T21:39:41.761979+00:00",
+  "title_ko": "구글, 시계열 기초 모델 'TimesFM-3' 공개",
+  "summary_ko": "구글 리서치가 다변량 예측을 기본 지원하는 3억 3천만 파라미터 규모의 시계열 예측 모델 TimesFM-3를 출시했다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "0f3b76bc480d3619",
+  "url": "https://openai.com/index/gpt-6-astra/",
+  "source": "Hacker News",
+  "title": "GPT-6 Astra",
+  "published_at": "2026-09-03T18:41:05+00:00",
+  "collected_at": "2026-09-03T21:39:37.839108+00:00",
+  "title_ko": "오픈AI GPT-6 아스트라 시스템 카드 및 벤치마크 공개",
+  "summary_ko": "오픈AI의 신규 플래그십 모델 GPT-6 아스트라의 안전성 보고서와 코딩 에이전트 지수 성과가 발표됐다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "GPT",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "4b9bca93ab437045",
+  "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+  "source": "TechCrunch",
+  "title": "Abliteration.ai is making a business out of removing AI guardrails",
+  "published_at": "2026-09-03T18:37:57+00:00",
+  "collected_at": "2026-09-03T21:39:23.985685+00:00",
+  "title_ko": "가드레일 제거 AI 제공하는 'Abliteration.ai' 등장",
+  "summary_ko": "AI 모델의 안전 가드레일을 해제한 버전을 제공하는 스타트업이 등장해 사이버 보안 측면의 효용성을 주장하고 있다.",
+  "category": "참고",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
+  "id": "7e80672b84c6dda6",
+  "url": "https://inference-docs.cerebras.ai/models/overview",
+  "source": "Hacker News",
+  "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+  "published_at": "2026-09-03T18:32:13+00:00",
+  "collected_at": "2026-09-03T21:39:37.839108+00:00",
+  "title_ko": "세레브라스에서 Qwen 3.8 27B 초고속 추론 제공",
+  "summary_ko": "Cerebras 플랫폼에서 Qwen 3.8 27B 모델이 초당 1500 토큰의 속도로 구동되기 시작했다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
   "id": "6fc7b1c552f07579",
   "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
   "source": "TechCrunch",
@@ -12,6 +117,21 @@
   "tags": [
    "Meta",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "ea095186f79fbd45",
+  "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+  "source": "Hacker News",
+  "title": "OpenAI begins rolling out GPT-6 Astra",
+  "published_at": "2026-09-03T18:18:22+00:00",
+  "collected_at": "2026-09-03T21:39:39.333793+00:00",
+  "title_ko": "오픈AI, 'GPT-6 아스트라' 순차 배포 시작",
+  "summary_ko": "오픈AI가 차세대 플래그십 모델 GPT-6 아스트라의 일반 사용자 대상 배포를 시작했다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "GPT"
   ]
  },
  {
@@ -45,6 +165,20 @@
   ]
  },
  {
+  "id": "8988bcf95982df7f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6egid/bernie_sanders_proposes_to_ban_ai/",
+  "source": "r/LocalLLaMA",
+  "title": "Bernie Sanders proposes to ban AI",
+  "published_at": "2026-09-03T17:44:45+00:00",
+  "collected_at": "2026-09-03T21:39:41.761979+00:00",
+  "title_ko": "버니 샌더스, 초지능 AI 금지 및 처벌 법안 발의",
+  "summary_ko": "미국 상원에서 인간 인지 능력을 초과하는 AI를 금지하고 이를 위반 시 징역형에 처하는 법안이 추진되어 논란이 되고 있다.",
+  "category": "중요",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
   "id": "e0a5a0a3e79a2713",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6e6u2/micron_explores_neargpu_nand_flash_to_run_bigger/",
   "source": "r/LocalLLaMA",
@@ -56,6 +190,20 @@
   "category": "참고",
   "tags": [
    "반도체"
+  ]
+ },
+ {
+  "id": "947fb54e6ae9e791",
+  "url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/",
+  "source": "Hacker News",
+  "title": "Sanders introduces bill to ban artificial superintelligence and pause AI",
+  "published_at": "2026-09-03T17:20:29+00:00",
+  "collected_at": "2026-09-03T21:39:39.333793+00:00",
+  "title_ko": "미 의회, 인공초지능 금지 및 고급 AI 개발 일시 중단 법안 발의",
+  "summary_ko": "미국 의회에서 초지능 AI 개발을 금지하고 첨단 AI 연구를 일시 중단시키는 법안이 공식 발의됐다.",
+  "category": "중요",
+  "tags": [
+   "규제"
   ]
  },
  {

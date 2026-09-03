@@ -1,8 +1,113 @@
 {
- "updated_at": "2026-09-03T18:32:39.533257+00:00",
+ "updated_at": "2026-09-03T21:40:04.710096+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "39d08a451ef7f0ca",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214821",
+   "source": "AI타임스",
+   "title": "오픈AI, 압도적 성능 'GPT-6 아스트라' 공개…\"AGI 시대 진입 환영\"",
+   "published_at": "2026-09-04T05:36:23+00:00",
+   "collected_at": "2026-09-03T21:39:55.087532+00:00",
+   "title_ko": "오픈AI, 차세대 모델 'GPT-6 아스트라' 공개",
+   "summary_ko": "오픈AI가 실무 전반에서 프론티어급 성능을 입증하며 AGI 시대로의 진입을 알리는 'GPT-6 아스트라'를 공개했다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "389074cdbd59db09",
+   "url": "https://arcprize.org/blog/astra",
+   "source": "Hacker News",
+   "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+   "published_at": "2026-09-03T19:45:00+00:00",
+   "collected_at": "2026-09-03T21:39:39.333793+00:00",
+   "title_ko": "GPT-6 아스트라의 ARC-AGI-3 성능 평가",
+   "summary_ko": "오픈AI의 신규 모델 GPT-6 아스트라의 ARC-AGI-3 벤치마크 결과가 공개됐다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "GPT"
+   ]
+  },
+  {
+   "id": "262a0d0fa8880803",
+   "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+   "source": "TechCrunch",
+   "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+   "published_at": "2026-09-03T19:36:29+00:00",
+   "collected_at": "2026-09-03T21:39:23.985685+00:00",
+   "title_ko": "띵킹 머신즈, 400억 달러 가치로 10억 달러 투자 유치 추진",
+   "summary_ko": "유망 AI 스타트업 띵킹 머신즈가 액셀의 주도로 10억 달러 규모의 대형 투자 유치 협상을 진행 중이다.",
+   "category": "중요",
+   "tags": [
+    "투자"
+   ]
+  },
+  {
+   "id": "a56dde98240b980d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6hlpt/google_released_timesfm3_a_330mparameter_time/",
+   "source": "r/LocalLLaMA",
+   "title": "Google released TimesFM-3, a 330M-parameter time series foundation model with native multivariate forecasting (non-commercial license)",
+   "published_at": "2026-09-03T19:34:06+00:00",
+   "collected_at": "2026-09-03T21:39:41.761979+00:00",
+   "title_ko": "구글, 시계열 기초 모델 'TimesFM-3' 공개",
+   "summary_ko": "구글 리서치가 다변량 예측을 기본 지원하는 3억 3천만 파라미터 규모의 시계열 예측 모델 TimesFM-3를 출시했다.",
+   "category": "속보",
+   "tags": [
+    "Google",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "0f3b76bc480d3619",
+   "url": "https://openai.com/index/gpt-6-astra/",
+   "source": "Hacker News",
+   "title": "GPT-6 Astra",
+   "published_at": "2026-09-03T18:41:05+00:00",
+   "collected_at": "2026-09-03T21:39:37.839108+00:00",
+   "title_ko": "오픈AI GPT-6 아스트라 시스템 카드 및 벤치마크 공개",
+   "summary_ko": "오픈AI의 신규 플래그십 모델 GPT-6 아스트라의 안전성 보고서와 코딩 에이전트 지수 성과가 발표됐다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "GPT",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "4b9bca93ab437045",
+   "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+   "source": "TechCrunch",
+   "title": "Abliteration.ai is making a business out of removing AI guardrails",
+   "published_at": "2026-09-03T18:37:57+00:00",
+   "collected_at": "2026-09-03T21:39:23.985685+00:00",
+   "title_ko": "가드레일 제거 AI 제공하는 'Abliteration.ai' 등장",
+   "summary_ko": "AI 모델의 안전 가드레일을 해제한 버전을 제공하는 스타트업이 등장해 사이버 보안 측면의 효용성을 주장하고 있다.",
+   "category": "참고",
+   "tags": [
+    "규제"
+   ]
+  },
+  {
+   "id": "7e80672b84c6dda6",
+   "url": "https://inference-docs.cerebras.ai/models/overview",
+   "source": "Hacker News",
+   "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+   "published_at": "2026-09-03T18:32:13+00:00",
+   "collected_at": "2026-09-03T21:39:37.839108+00:00",
+   "title_ko": "세레브라스에서 Qwen 3.8 27B 초고속 추론 제공",
+   "summary_ko": "Cerebras 플랫폼에서 Qwen 3.8 27B 모델이 초당 1500 토큰의 속도로 구동되기 시작했다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
   {
    "id": "6fc7b1c552f07579",
    "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
@@ -16,6 +121,21 @@
    "tags": [
     "Meta",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "ea095186f79fbd45",
+   "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+   "source": "Hacker News",
+   "title": "OpenAI begins rolling out GPT-6 Astra",
+   "published_at": "2026-09-03T18:18:22+00:00",
+   "collected_at": "2026-09-03T21:39:39.333793+00:00",
+   "title_ko": "오픈AI, 'GPT-6 아스트라' 순차 배포 시작",
+   "summary_ko": "오픈AI가 차세대 플래그십 모델 GPT-6 아스트라의 일반 사용자 대상 배포를 시작했다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT"
    ]
   },
   {
@@ -49,6 +169,20 @@
    ]
   },
   {
+   "id": "8988bcf95982df7f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6egid/bernie_sanders_proposes_to_ban_ai/",
+   "source": "r/LocalLLaMA",
+   "title": "Bernie Sanders proposes to ban AI",
+   "published_at": "2026-09-03T17:44:45+00:00",
+   "collected_at": "2026-09-03T21:39:41.761979+00:00",
+   "title_ko": "버니 샌더스, 초지능 AI 금지 및 처벌 법안 발의",
+   "summary_ko": "미국 상원에서 인간 인지 능력을 초과하는 AI를 금지하고 이를 위반 시 징역형에 처하는 법안이 추진되어 논란이 되고 있다.",
+   "category": "중요",
+   "tags": [
+    "규제"
+   ]
+  },
+  {
    "id": "e0a5a0a3e79a2713",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6e6u2/micron_explores_neargpu_nand_flash_to_run_bigger/",
    "source": "r/LocalLLaMA",
@@ -60,6 +194,20 @@
    "category": "참고",
    "tags": [
     "반도체"
+   ]
+  },
+  {
+   "id": "947fb54e6ae9e791",
+   "url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/",
+   "source": "Hacker News",
+   "title": "Sanders introduces bill to ban artificial superintelligence and pause AI",
+   "published_at": "2026-09-03T17:20:29+00:00",
+   "collected_at": "2026-09-03T21:39:39.333793+00:00",
+   "title_ko": "미 의회, 인공초지능 금지 및 고급 AI 개발 일시 중단 법안 발의",
+   "summary_ko": "미국 의회에서 초지능 AI 개발을 금지하고 첨단 AI 연구를 일시 중단시키는 법안이 공식 발의됐다.",
+   "category": "중요",
+   "tags": [
+    "규제"
    ]
   },
   {
@@ -348,6 +496,21 @@
    ]
   },
   {
+   "id": "351e020d2441a918",
+   "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+   "source": "Hacker News",
+   "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+   "published_at": "2026-09-03T14:28:18+00:00",
+   "collected_at": "2026-09-03T21:39:37.839108+00:00",
+   "title_ko": "LLM을 활용한 1993년작 아미가 게임의 고도(Godot) 엔진 이식",
+   "summary_ko": "개발자가 LLM(Claude)을 활용해 33년 전 어셈블리로 작성된 게임 코드를 분석하고 고도 엔진으로 성공적으로 포팅했다.",
+   "category": "팁",
+   "tags": [
+    "Claude",
+    "코딩"
+   ]
+  },
+  {
    "id": "d50206a7c80e8fc1",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w68rj6/introducing_k2_horizon_frontier_performance/",
    "source": "r/LocalLLaMA",
@@ -390,6 +553,21 @@
    "tags": [
     "AI 에이전트",
     "GPT"
+   ]
+  },
+  {
+   "id": "5190d2a1dccd48dc",
+   "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+   "source": "OpenAI",
+   "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+   "published_at": "2026-09-03T13:15:00+00:00",
+   "collected_at": "2026-09-03T21:39:36.954817+00:00",
+   "title_ko": "오픈AI, 필수 서비스 보호 위해 10억 달러 규모 사이버 AI 지원 발표",
+   "summary_ko": "오픈AI가 핵심 인프라와 필수 서비스를 사이버 위협으로부터 보호하기 위해 10억 달러 규모의 프론티어 AI 지원 프로그램을 시작했다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "투자"
    ]
   },
   {
@@ -623,6 +801,22 @@
    "tags": [
     "오픈소스",
     "LLM"
+   ]
+  },
+  {
+   "id": "c22774e46292305f",
+   "url": "https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector",
+   "source": "Hacker News",
+   "title": "A dark horse enters China's AI race: StartLux",
+   "published_at": "2026-09-03T11:12:57+00:00",
+   "collected_at": "2026-09-03T21:39:39.333793+00:00",
+   "title_ko": "중국 AI 시장에 뛰어든 신흥 주자 StartLux",
+   "summary_ko": "천다웨이가 복귀하여 대형 언어 모델 시장에 진입하면서 중국의 AI 경쟁에 새로운 다크호스가 등장했습니다.",
+   "category": "속보",
+   "tags": [
+    "중국",
+    "대형모델",
+    "스타트업"
    ]
   },
   {
@@ -862,6 +1056,22 @@
    ]
   },
   {
+   "id": "16f02e0954286471",
+   "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+   "source": "Hacker News",
+   "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+   "published_at": "2026-09-03T01:11:22+00:00",
+   "collected_at": "2026-09-03T21:39:37.839108+00:00",
+   "title_ko": "바둑 기사 신진서, 두 점 접바둑으로 AI KataGo 제압",
+   "summary_ko": "프로 바둑 기사가 핸디캡을 안고 바둑 AI인 KataGo를 상대로 승리하여 인간의 전략적 우위를 입증했습니다.",
+   "category": "참고",
+   "tags": [
+    "바둑",
+    "인공지능",
+    "KataGo"
+   ]
+  },
+  {
    "id": "62572dc0a84a4f41",
    "url": "https://news.hada.io/topic?id=33177",
    "source": "GeekNews",
@@ -948,6 +1158,22 @@
    "tags": [
     "로보틱스",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "2e155b11d8093d3e",
+   "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+   "source": "OpenAI",
+   "title": "Safety overview: GPT-6 Astra",
+   "published_at": "2026-09-03T00:00:00+00:00",
+   "collected_at": "2026-09-03T21:39:36.954817+00:00",
+   "title_ko": "OpenAI, GPT-6 Astra 안전성 개요 공개",
+   "summary_ko": "GPT-6 Astra는 뛰어난 성능을 갖춘 모델로, 준비 프레임워크에 따라 최초로 사이버 보안 역량 '임계(Critical)' 수준에 도달했습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "GPT",
+    "보안"
    ]
   },
   {
@@ -2773,227 +2999,6 @@
    "tags": [
     "OpenAI",
     "ChatGPT"
-   ]
-  },
-  {
-   "id": "d2fe37aee17806f5",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214718",
-   "source": "AI타임스",
-   "title": "[게시판] 인텔리빅스, 신세계면세점에 'AI 안전관제 솔루션' 공급 등 단신",
-   "published_at": "2026-09-01T17:00:00+00:00",
-   "collected_at": "2026-09-01T09:57:03.963696+00:00",
-   "title_ko": "인텔리빅스, 신세계면세점에 VLM 기반 AI 안전관제 공급",
-   "summary_ko": "인텔리빅스가 비전 AI와 VLM을 결합한 자체 플랫폼을 통해 신세계면세점에 예방 중심의 안전관제 체계를 구축했습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "7fc89effbb75b4b1",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214717",
-   "source": "AI타임스",
-   "title": "[게시판] 유니유니, 움직임 분석 AI로 기술신용평가 T3등급 획득 등 단신",
-   "published_at": "2026-09-01T17:00:00+00:00",
-   "collected_at": "2026-09-01T09:57:03.963696+00:00",
-   "title_ko": "유니유니, 비식별 AI 안전 솔루션으로 기술평가 T3 획득",
-   "summary_ko": "비식별 AI 안전 솔루션 전문 유니유니가 카메라 없는 공간 분석 기술로 우수 기술기업 T3 등급을 획득했습니다.",
-   "category": "참고",
-   "tags": [
-    "스타트업"
-   ]
-  },
-  {
-   "id": "81d3f2027210c726",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214719",
-   "source": "AI타임스",
-   "title": "오프라인 특화 AI 소셜 앱 '츄룹' 운영사 벗뷰리풀, 프리A 투자 유치",
-   "published_at": "2026-09-01T16:55:00+00:00",
-   "collected_at": "2026-09-01T09:57:03.963696+00:00",
-   "title_ko": "오프라인 AI 소셜 앱 '츄룹' 운영사 벗뷰리풀, 프리A 투자 유치",
-   "summary_ko": "모임 과정을 통합 지원하는 AI 네이티브 소셜 플랫폼 '츄룹'의 개발사가 투자를 유치하고 팁스에 선정되었습니다.",
-   "category": "참고",
-   "tags": [
-    "투자",
-    "스타트업"
-   ]
-  },
-  {
-   "id": "b09b92e822a47a7f",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214712",
-   "source": "AI타임스",
-   "title": "인스타그램, AI 인플루언서 단속 강화...“AI 정체 숨기면 추천 노출 제한”",
-   "published_at": "2026-09-01T16:46:01+00:00",
-   "collected_at": "2026-09-01T09:57:03.963696+00:00",
-   "title_ko": "인스타그램, AI 인플루언서 정체 미표시 시 추천 노출 제한",
-   "summary_ko": "인스타그램이 AI 생성 프로필 라벨 부착을 의무화하여 정체를 숨긴 AI 인플루언서의 알고리즘 노출을 제한합니다.",
-   "category": "중요",
-   "tags": [
-    "Meta",
-    "규제"
-   ]
-  },
-  {
-   "id": "34be0f2e79928694",
-   "url": "https://news.hada.io/topic?id=33126",
-   "source": "GeekNews",
-   "title": "67센트로 ARC-AGI-1에서 44% 달성",
-   "published_at": "2026-09-01T16:44:07+00:00",
-   "collected_at": "2026-09-01T18:22:58.193337+00:00",
-   "title_ko": "67센트로 ARC-AGI-1 44% 달성한 소형 모델 학습 사례",
-   "summary_ko": "RTX 5090에서 소형 트랜스포머를 처음부터 학습시켜 단 67센트의 비용으로 ARC-AGI-1에서 44%의 성능을 기록하며 대형 모델 못지않은 효율성을 입증했습니다.",
-   "category": "중요",
-   "tags": [
-    "반도체",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "6c4c62438da1e3d3",
-   "url": "https://github.com/carloslfu/slotstream",
-   "source": "Hacker News",
-   "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
-   "published_at": "2026-09-01T16:42:46+00:00",
-   "collected_at": "2026-09-01T21:42:28.175285+00:00",
-   "title_ko": "저사양 맥에서 대형 모델 구동 기술 등장",
-   "summary_ko": "SSD 스트리밍과 슬롯스트림 기법을 이용해 48GB 맥에서 100GB가 넘는 대형 모델을 구동하는 도구가 공개됐다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "e69dad8044e219df",
-   "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
-   "source": "TechCrunch",
-   "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-   "published_at": "2026-09-01T16:31:04+00:00",
-   "collected_at": "2026-09-01T18:22:37.857159+00:00",
-   "title_ko": "세쿼이아 인큐베이팅 스타트업 Empirik, 2,100만 달러 투자 유치",
-   "summary_ko": "소프트웨어 엔지니어링을 위한 Cursor처럼 IT 인프라 장애를 사전에 예측하는 스타트업 Empirik이 출범하며 대규모 자금을 조달했습니다.",
-   "category": "중요",
-   "tags": [
-    "투자",
-    "코딩"
-   ]
-  },
-  {
-   "id": "588c922fe1623798",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214705",
-   "source": "AI타임스",
-   "title": "EU, 챗GPT '초대형 검색엔진' 지정…규제 수위 대폭 강화",
-   "published_at": "2026-09-01T16:21:20+00:00",
-   "collected_at": "2026-09-01T09:57:03.963696+00:00",
-   "title_ko": "EU, 챗GPT를 '초대형 검색엔진'으로 지정해 규제 강화",
-   "summary_ko": "유럽연합이 챗GPT를 초대형 온라인 검색엔진으로 지정하여 미성년자 보호 및 알고리즘 위험성 평가 등의 규제를 적용합니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "규제"
-   ]
-  },
-  {
-   "id": "051e179f128739f6",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214711",
-   "source": "AI타임스",
-   "title": "중국, 정상회담 앞두고 앤트로픽 직접 겨냥...\"미국 AI 기업 백도어 먼저 검증하라\"",
-   "published_at": "2026-09-01T16:15:00+00:00",
-   "collected_at": "2026-09-01T09:57:03.963696+00:00",
-   "title_ko": "중국, AI 회담 앞두고 미국 AI 기업의 백도어 검증 요구",
-   "summary_ko": "중국이 미국과의 실질적인 AI 규범 논의에 앞서 주요 미 AI 기업들의 안전 및 감사 기준 준수 여부를 먼저 입증하라고 요구했습니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "규제"
-   ]
-  },
-  {
-   "id": "1c4827a3dcf5293b",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214710",
-   "source": "AI타임스",
-   "title": "화웨이, 메모리 폭등·R&D로 순이익 36% 급감...매출은 9.5% 늘어",
-   "published_at": "2026-09-01T16:07:22+00:00",
-   "collected_at": "2026-09-01T09:57:03.963696+00:00",
-   "title_ko": "화웨이, 메모리 가격 상승과 R&D 투자로 상반기 순이익 36% 급감",
-   "summary_ko": "화웨이가 AI 프로세서 수요 증가로 매출은 늘었으나, 반도체 자립을 위한 투자와 부품 가격 상승으로 수익성이 악화되었습니다.",
-   "category": "참고",
-   "tags": [
-    "반도체"
-   ]
-  },
-  {
-   "id": "6bfa9b2bcb5dd6cb",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4g8gk/keenable_select_an_agent_that_searches_the_web_in/",
-   "source": "r/LocalLLaMA",
-   "title": "Keenable SELECT: an agent that searches the web in SQL",
-   "published_at": "2026-09-01T16:02:41+00:00",
-   "collected_at": "2026-09-01T18:22:43.556716+00:00",
-   "title_ko": "SQL로 웹을 검색하는 AI 에이전트 'Keenable SELECT'",
-   "summary_ko": "SQL 쿼리를 활용해 웹을 탐색하는 새로운 형태의 리서치 에이전트가 소개되었습니다. 차세대 딥서치 기술의 방향성을 보여줍니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "4caeae1fbe97aa4b",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214693",
-   "source": "AI타임스",
-   "title": "소프트뱅크 데이터센터 자회사, 오픈AI 유치 위해 7.5조 규모 파격 지분 제공",
-   "published_at": "2026-09-01T16:01:17+00:00",
-   "collected_at": "2026-09-01T09:57:03.963696+00:00",
-   "title_ko": "소프트뱅크 SB에너지, 오픈아이 유치 위해 7.5조 원 규모 지분 제공",
-   "summary_ko": "소프트뱅크 계열사가 AI 데이터센터 핵심 고객인 오픈AI를 붙잡기 위해 대규모 주식매수권을 부여한 것으로 나타났습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "투자"
-   ]
-  },
-  {
-   "id": "10e1c97e093728a0",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
-   "source": "The Verge",
-   "title": "John Deere launched an AI chatbot for farmers",
-   "published_at": "2026-09-01T16:00:52+00:00",
-   "collected_at": "2026-09-01T18:22:38.028028+00:00",
-   "title_ko": "존디어, 농부들을 위한 전용 AI 챗봇 출시",
-   "summary_ko": "농기계 업체 존디어가 농부들의 장비 데이터와 영농 이력을 기반으로 최적의 작업 시기와 연료 사용법 등을 조언해 주는 AI 비서 'JD'를 테스트합니다.",
-   "category": "속보",
-   "tags": [
-    "로보틱스"
-   ]
-  },
-  {
-   "id": "ab183206da806772",
-   "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-   "source": "Google AI",
-   "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-   "published_at": "2026-09-01T16:00:00+00:00",
-   "collected_at": "2026-09-01T18:22:39.520049+00:00",
-   "title_ko": "구글 워크스페이스에 통합된 이미지 생성 도구 Google Pics",
-   "summary_ko": "구글 워크스페이스 사용자가 손쉽게 전문적인 이미지를 만들고 편집할 수 있는 Google Pics의 사용법이 안내되었습니다.",
-   "category": "속보",
-   "tags": [
-    "Google",
-    "Gemini"
-   ]
-  },
-  {
-   "id": "eafd89ecb2f4e2c0",
-   "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
-   "source": "The Verge",
-   "title": "Google Pics is like Canva, but with even more AI",
-   "published_at": "2026-09-01T16:00:00+00:00",
-   "collected_at": "2026-09-01T18:22:38.028028+00:00",
-   "title_ko": "구글, AI 중심의 크리에이티브 디자인 도구 'Google Pics' 공개",
-   "summary_ko": "제미나이와 생성형 AI 모델을 기반으로 프롬프트만으로 정밀한 이미지 생성과 편집을 지원하는 구글의 기업용 디자인 툴 수이트입니다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "Gemini"
    ]
   }
  ]
