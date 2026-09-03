@@ -1,8 +1,367 @@
 {
- "updated_at": "2026-09-03T14:24:59.406156+00:00",
+ "updated_at": "2026-09-03T18:32:39.533257+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "6fc7b1c552f07579",
+   "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+   "source": "TechCrunch",
+   "title": "Meta is paying to peek at how you use their latest AI model",
+   "published_at": "2026-09-03T18:19:56+00:00",
+   "collected_at": "2026-09-03T18:31:50.364746+00:00",
+   "title_ko": "메타, AI 모델 사용 데이터 제공 시 95% 할인 제공",
+   "summary_ko": "메타는 코딩 및 에이전트용 신규 모델 'Muse Spark' 사용 데이터를 모델 개선에 공유하는 사용자에게 평균 95%의 요금 할인을 제공합니다. 데이터 프라이버시와 비용을 맞교환하는 새로운 비즈니스 모델입니다.",
+   "category": "중요",
+   "tags": [
+    "Meta",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "72dc509d2911a155",
+   "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+   "source": "TechCrunch",
+   "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+   "published_at": "2026-09-03T18:01:45+00:00",
+   "collected_at": "2026-09-03T18:31:50.364746+00:00",
+   "title_ko": "오픈에이아이, 차세대 AI 모델 '아스트라' 출시",
+   "summary_ko": "오픈에이아이가 컴퓨터와 브라우저 제어에서 뛰어난 속도와 정확도를 자랑하는 강력한 신규 모델 '아스트라'를 공개했습니다. AI의 실사용 범위를 넓히는 중요한 전환점이 될 것입니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT"
+   ]
+  },
+  {
+   "id": "33adca7d5041c274",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+   "source": "The Verge",
+   "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+   "published_at": "2026-09-03T18:00:00+00:00",
+   "collected_at": "2026-09-03T18:31:50.519342+00:00",
+   "title_ko": "오픈에이아이 차세대 모델 'GPT-6 아스트라' 공개",
+   "summary_ko": "오픈에이아이가 AGI 시대에 진입했다고 선언한 차세대 대형 모델 'GPT-6 Astra'를 발표했습니다. 사이버 보안, 소프트웨어 공학 등 다양한 분야에서 세대적 도약을 이루어 냈습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "GPT"
+   ]
+  },
+  {
+   "id": "e0a5a0a3e79a2713",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6e6u2/micron_explores_neargpu_nand_flash_to_run_bigger/",
+   "source": "r/LocalLLaMA",
+   "title": "Micron Explores Near-GPU NAND Flash to Run Bigger LLMs",
+   "published_at": "2026-09-03T17:35:14+00:00",
+   "collected_at": "2026-09-03T18:32:08.284337+00:00",
+   "title_ko": "마이크론, 대형 LLM 구동을 위한 GPU 근접 낸드 플래시 연구",
+   "summary_ko": "마이크론이 통합 메모리 기기에서 더 큰 대형 언어 모델(LLM)을 효율적으로 실행하기 위해 GPU 인근에 낸드 플래시를 배치하는 방안을 탐색하고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "반도체"
+   ]
+  },
+  {
+   "id": "4d9ec62803659ef0",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6chxw/nvidia_pair_seems_nice_for_people_with_multiple/",
+   "source": "r/LocalLLaMA",
+   "title": "Nvidia Pair seems nice for people with multiple inference servers",
+   "published_at": "2026-09-03T16:35:15+00:00",
+   "collected_at": "2026-09-03T18:32:08.284337+00:00",
+   "title_ko": "다중 추론 서버 사용자용 엔비디아 페어(PAIR)",
+   "summary_ko": "여러 개의 추론 서버를 운영하는 사용자들에게 엔비디아 페어(PAIR) 도구가 유용한 대안으로 주목받고 있습니다.",
+   "category": "팁",
+   "tags": [
+    "NVIDIA",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "19752129df5233d5",
+   "url": "https://news.hada.io/topic?id=33195",
+   "source": "GeekNews",
+   "title": "ChatGPT 페이지에서 404 오류 발생",
+   "published_at": "2026-09-03T16:33:34+00:00",
+   "collected_at": "2026-09-03T18:32:23.236692+00:00",
+   "title_ko": "챗지피티 웹페이지에서 404 오류 발생",
+   "summary_ko": "챗지피티의 일부 대화 및 파일 검색 기능 페이지에서 404 오류가 발생하여 사용자들이 불편을 겪었습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI"
+   ]
+  },
+  {
+   "id": "871948377a9b7869",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6ccgs/qwen38flashnext_mtp_merged_in_ik_llamacpp/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8-Flash-Next MTP merged in ik_llama.cpp (integrated head or separate -md file)... 45 → 90 tok/s on a 5090 + 128GB, works down to a 12GB 4070",
+   "published_at": "2026-09-03T16:30:00+00:00",
+   "collected_at": "2026-09-03T18:32:08.284337+00:00",
+   "title_ko": "ik_llama.cpp, Qwen3.8-Flash-Next MTP 지원 추가",
+   "summary_ko": "로컬 LLM 구동 도구인 ik_llama.cpp에 Qwen 모델의 MTP(Multi-Token Prediction) 지원이 병합되어 하드웨어 추론 속도가 크게 향상되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "c9405d8895ceb7c5",
+   "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+   "source": "TechCrunch",
+   "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+   "published_at": "2026-09-03T16:09:01+00:00",
+   "collected_at": "2026-09-03T18:31:50.364746+00:00",
+   "title_ko": "프라이버시 강조한 가족용 AI 어시스턴트 '올리'",
+   "summary_ko": "가족 중심의 AI 어시스턴트 '올리'가 사용자 데이터를 학습에 쓰거나 공유하지 않는 프라이버시 전략을 내세워 AI 비서 시장에 도전합니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "1f59711959b5a99a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6bkkh/modelscope_is_a_hugging_face_alternative_now_that/",
+   "source": "r/LocalLLaMA",
+   "title": "\"ModelScope\" Is a Hugging Face Alternative now that Nvidias deal is a Go",
+   "published_at": "2026-09-03T16:02:32+00:00",
+   "collected_at": "2026-09-03T18:32:08.284337+00:00",
+   "title_ko": "허깅페이스 대안으로 떠오르는 '모델스코프'",
+   "summary_ko": "엔비디아의 관련 거래 이후 허깅페이스의 대안 플랫폼으로 중국의 '모델스코프'가 커뮤니티에서 언급되고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "NVIDIA",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "cc4c98b60610b9dd",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+   "source": "The Verge",
+   "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+   "published_at": "2026-09-03T16:00:00+00:00",
+   "collected_at": "2026-09-03T18:31:50.519342+00:00",
+   "title_ko": "엔비디아, 유휴 PC를 연결하는 무료 AI 라우터(PAIR) 출시",
+   "summary_ko": "엔비디아가 가정용 컴퓨터들을 연결해 로컬 AI 추론 작업을 수행할 수 있게 돕는 오픈소스 도구 '개인용 AI 라우터(PAIR)'를 공개했습니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "0df17a3d800a43d5",
+   "url": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+   "source": "The Verge",
+   "title": "Google now lets you chat with Gmail, Docs, and Keep",
+   "published_at": "2026-09-03T16:00:00+00:00",
+   "collected_at": "2026-09-03T18:31:50.519342+00:00",
+   "title_ko": "구글, 지메일·문서·킵에 실시간 음성 대화 기능 도입",
+   "summary_ko": "구글이 지메일, 구글 문서, 킵(Keep) 앱에서 음성으로 관리할 수 있는 실시간 대화형 어시스턴트 기능을 도입하여 업무 생산성 향상을 도모합니다.",
+   "category": "속보",
+   "tags": [
+    "Google",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "d61b5388d780b90a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6bb0b/antling_open_sourced_ling30flashfin_a/",
+   "source": "r/LocalLLaMA",
+   "title": "AntLing open sourced Ling-3.0-flash-Fin, a finance-enhanced model for real-world workflows",
+   "published_at": "2026-09-03T15:53:17+00:00",
+   "collected_at": "2026-09-03T18:32:08.284337+00:00",
+   "title_ko": "앤트그룹, 금융 특화 오픈소스 모델 'Ling-3.0-flash-Fin' 공개",
+   "summary_ko": "앤트그룹이 실제 금융 워크플로우를 위해 금융 데이터를 추가 학습시킨 1,240억 파라미터 규모의 금융 특화 오픈소스 모델을 공개했습니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "50c22f5aeba9536f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6b26t/ling30flashfin_weights_released/",
+   "source": "r/LocalLLaMA",
+   "title": "Ling-3.0-flash-Fin weights released",
+   "published_at": "2026-09-03T15:44:24+00:00",
+   "collected_at": "2026-09-03T18:32:08.284337+00:00",
+   "title_ko": "Ling-3.0-flash-Fin 오픈소스 가중치 공개",
+   "summary_ko": "총 124B 파라미터와 5.1B 활성 파라미터, 256K 컨텍스트 윈도우를 갖춘 금융 특화 모델의 가중치가 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "c27aba243ee03927",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6aw2a/apparently_chatgpt_claude_and_grok_were_down/",
+   "source": "r/LocalLLaMA",
+   "title": "Apparently ChatGPT, Claude, and Grok were down",
+   "published_at": "2026-09-03T15:38:06+00:00",
+   "collected_at": "2026-09-03T18:32:08.284337+00:00",
+   "title_ko": "ChatGPT, Claude, Grok 동시 장애 발생",
+   "summary_ko": "주요 AI 챗봇 서비스들이 동시에 접속 장애를 겪은 후 복구되었습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "Anthropic",
+    "xAI"
+   ]
+  },
+  {
+   "id": "e6a4832f97cd535e",
+   "url": "https://ifm.ai/blog/k2/",
+   "source": "Hacker News",
+   "title": "K2 Horizon: A connected fleet of six open models",
+   "published_at": "2026-09-03T15:36:43+00:00",
+   "collected_at": "2026-09-03T18:31:53.603740+00:00",
+   "title_ko": "오픈 모델 연합체 'K2 Horizon' 공개",
+   "summary_ko": "최첨단 성능을 지향하는 6개의 오픈 모델로 구성된 K2 Horizon 플릿이 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "f87fac23efcf0ee3",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
+   "source": "The Verge",
+   "title": "ChatGPT, Grok, and Claude all went down at the same time",
+   "published_at": "2026-09-03T15:35:14+00:00",
+   "collected_at": "2026-09-03T18:31:50.519342+00:00",
+   "title_ko": "주요 AI 서비스 동시 장애 사태",
+   "summary_ko": "OpenAI의 ChatGPT, xAI의 Grok, Anthropic의 Claude가 동시에 오류를 일으켰으나 현재는 정상화되었습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "Anthropic",
+    "xAI"
+   ]
+  },
+  {
+   "id": "520df72610aa9b44",
+   "url": "https://news.hada.io/topic?id=33194",
+   "source": "GeekNews",
+   "title": "Fable 5.1 월드 모델링",
+   "published_at": "2026-09-03T15:31:41+00:00",
+   "collected_at": "2026-09-03T18:32:23.236692+00:00",
+   "title_ko": "Claude Fable 5.1 기반 월드 모델링",
+   "summary_ko": "AI 에이전트 군집이 공개 데이터와 이미지를 활용해 실제 장소를 3D 탐색 가능한 웹 세계로 재구성했습니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "39c94673650036c2",
+   "url": "https://status.x.ai/",
+   "source": "Hacker News",
+   "title": "Grok outage",
+   "published_at": "2026-09-03T15:26:01+00:00",
+   "collected_at": "2026-09-03T18:31:53.603740+00:00",
+   "title_ko": "xAI Grok 서비스 장애 발생",
+   "summary_ko": "xAI의 Grok 서비스에 일시적인 장애가 발생하여 사용자들이 불편을 겪었습니다.",
+   "category": "속보",
+   "tags": [
+    "xAI",
+    "Grok"
+   ]
+  },
+  {
+   "id": "39586222910670c0",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6aec4/local_ai_cant_be_disabled/",
+   "source": "r/LocalLLaMA",
+   "title": "local AI can't be disabled",
+   "published_at": "2026-09-03T15:20:14+00:00",
+   "collected_at": "2026-09-03T18:32:08.284337+00:00",
+   "title_ko": "대형 클라우드 AI 장애 속 로컬 LLM의 장점 부각",
+   "summary_ko": "주요 상용 AI 서비스들이 다운된 상황에서도 로컬 환경의 llama.cpp 등은 정상 작동하여 로컬 AI의 안정성이 주목받고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "2d612f0c6e839296",
+   "url": "https://news.ycombinator.com/item?id=49551096",
+   "source": "Hacker News",
+   "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
+   "published_at": "2026-09-03T15:07:01+00:00",
+   "collected_at": "2026-09-03T18:31:53.603740+00:00",
+   "title_ko": "주요 AI 서비스 동시 장애 원인에 대한 의문 제기",
+   "summary_ko": "OpenAI, Claude, Grok이 동시에 먹통이 된 사태를 두고 업계와 커뮤니티에서 원인 분석과 토론이 이어지고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "Anthropic",
+    "xAI"
+   ]
+  },
+  {
+   "id": "d75554c78e0fe54a",
+   "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+   "source": "DeepMind",
+   "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+   "published_at": "2026-09-03T15:02:08+00:00",
+   "collected_at": "2026-09-03T18:31:52.075351+00:00",
+   "title_ko": "구글, 차세대 글로벌 날씨 AI 모델 'WeatherNext 3' 공개",
+   "summary_ko": "딥러닝 기술을 기반으로 더욱 정확하고 고해상도의 기상 예측을 제공하는 최신 AI 날씨 모델이 발표되었습니다.",
+   "category": "중요",
+   "tags": [
+    "Google",
+    "Gemini"
+   ]
+  },
+  {
+   "id": "aa3887886905f003",
+   "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+   "source": "TechCrunch",
+   "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+   "published_at": "2026-09-03T15:00:00+00:00",
+   "collected_at": "2026-09-03T18:31:50.364746+00:00",
+   "title_ko": "구글 검색·지도에 적용되는 신형 AI 날씨 모델",
+   "summary_ko": "구글은 WeatherNext 3 모델을 도입해 검색, 지도, Gemini 서비스 전반의 기상 정보 정확도를 대폭 끌어올릴 예정입니다.",
+   "category": "중요",
+   "tags": [
+    "Google",
+    "Gemini"
+   ]
+  },
+  {
+   "id": "30d32ce3d06d466a",
+   "url": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
+   "source": "The Verge",
+   "title": "Google says its AI weather model is getting better",
+   "published_at": "2026-09-03T15:00:00+00:00",
+   "collected_at": "2026-09-03T18:31:50.519342+00:00",
+   "title_ko": "강수 예측 성능 대폭 개선된 구글 WeatherNext 3",
+   "summary_ko": "구글의 신형 AI 날씨 모델이 전례 없는 고해상도로 비와 눈 예보의 정확도를 크게 향상시켰습니다.",
+   "category": "참고",
+   "tags": [
+    "Google"
+   ]
+  },
+  {
+   "id": "d50206a7c80e8fc1",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w68rj6/introducing_k2_horizon_frontier_performance/",
+   "source": "r/LocalLLaMA",
+   "title": "Introducing K2 Horizon: Frontier Performance, Radically Open",
+   "published_at": "2026-09-03T14:19:41+00:00",
+   "collected_at": "2026-09-03T18:32:08.284337+00:00",
+   "title_ko": "최첨단 성능의 오픈 모델 'K2 Horizon' 출시",
+   "summary_ko": "파격적인 개방성과 뛰어난 성능을 내세운 K2 Horizon 오픈 모델 시리즈가 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
   {
    "id": "c7b8db5667c35e0b",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w67wso/ifmk2horizonmova36ba4bgguf_hugging_face/",
@@ -143,6 +502,22 @@
    ]
   },
   {
+   "id": "3452ca408a3926b1",
+   "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+   "source": "Hacker News",
+   "title": "Nvidia to acquire Hugging Face",
+   "published_at": "2026-09-03T12:10:33+00:00",
+   "collected_at": "2026-09-03T18:31:53.603740+00:00",
+   "title_ko": "NVIDIA, 허깅페이스 인수 발표",
+   "summary_ko": "NVIDIA가 AI 커뮤니티의 중심인 허깅페이스를 인수합니다. AI 생태계의 판도를 바꿀 수 있는 중요한 사건입니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "오픈소스",
+    "인수합병"
+   ]
+  },
+  {
    "id": "3a38abad23be82a7",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w65ise/we_built_an_opensource_modelneutral_agent_harness/",
    "source": "r/LocalLLaMA",
@@ -171,6 +546,38 @@
    "tags": [
     "AI 에이전트",
     "규제"
+   ]
+  },
+  {
+   "id": "7a45b185cff53085",
+   "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+   "source": "OpenAI",
+   "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+   "published_at": "2026-09-03T12:00:00+00:00",
+   "collected_at": "2026-09-03T18:31:51.481665+00:00",
+   "title_ko": "Playco, GPT-6 Astra로 게임 프로토타이핑 수동 수정 50% 절감",
+   "summary_ko": "Playco가 GPT-6 Astra를 활용해 게임 프로토타입 제작 시 수동 오류 수정 작업을 50% 줄였습니다. 차세대 모델의 실무 활용성을 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "GPT",
+    "AI 에이전트",
+    "게임"
+   ]
+  },
+  {
+   "id": "be4a3c5426264d71",
+   "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+   "source": "OpenAI",
+   "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+   "published_at": "2026-09-03T12:00:00+00:00",
+   "collected_at": "2026-09-03T18:31:51.481665+00:00",
+   "title_ko": "Legora, GPT-6 Astra로 대규모 금융 문서 검토 효율 40% 향상",
+   "summary_ko": "Legora가 GPT-6 Astra를 이용해 수십 개의 금융 문서를 몇 분 만에 검토하고 오류를 찾아내어 성능을 40% 가까이 끌어올렸습니다.",
+   "category": "참고",
+   "tags": [
+    "GPT",
+    "금융",
+    "문서검토"
    ]
   },
   {
@@ -2587,402 +2994,6 @@
    "tags": [
     "Google",
     "Gemini"
-   ]
-  },
-  {
-   "id": "e16c8f1b31ba0d8b",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214683",
-   "source": "AI타임스",
-   "title": "애플 “오픈AI 이직 엔지니어, 퇴사 후에도 회로 설계도 무단 접근·활용”",
-   "published_at": "2026-09-01T16:00:00+00:00",
-   "collected_at": "2026-09-01T09:57:03.963696+00:00",
-   "title_ko": "애플, 오픈아이 이직 엔지니어의 퇴사 후 기밀 무단 접근 제기",
-   "summary_ko": "애플이 영업비밀 침해 소송 과정에서 오픈AI로 이직한 전직 엔지니어가 퇴사 후에도 회로 설계도 등에 접근했다고 주장했습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI"
-   ]
-  },
-  {
-   "id": "4edb30721096c422",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4g0oh/help_me_set_up_local_ai_for_my_85_year_old_aunt/",
-   "source": "r/LocalLLaMA",
-   "title": "Help me set up local AI for my 85 year old aunt who is blind.",
-   "published_at": "2026-09-01T15:55:08+00:00",
-   "collected_at": "2026-09-01T18:22:43.556716+00:00",
-   "title_ko": "시각 장애 고모를 위한 로컬 AI 작문 도우미 구축기",
-   "summary_ko": "시력이 거의 안 남은 85세 고모의 창작 활동을 돕기 위해 로컬 AI 환경을 구축하려는 사례. AI가 일상적 한계를 극복하는 실용적 도구로 활용됨을 보여줌.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "d1bfe22b3e8ddbbf",
-   "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
-   "source": "Hacker News",
-   "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
-   "published_at": "2026-09-01T15:53:42+00:00",
-   "collected_at": "2026-09-01T18:22:42.465725+00:00",
-   "title_ko": "드워프 포트리스 개발자, AI로 혼란에 빠진 업계 비판",
-   "summary_ko": "게임 업계가 AI 도입과 잇따른 해고로 인해 혼란에 빠졌으며, 경영진들이 이상 증세를 보이고 있다고 비판함. AI가 게임 및 테크 업계 전반에 미치는 심리적·구조적 불안감을 시사.",
-   "category": "중요",
-   "tags": []
-  },
-  {
-   "id": "2801e0e5ca555a16",
-   "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
-   "source": "TechCrunch",
-   "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
-   "published_at": "2026-09-01T15:51:55+00:00",
-   "collected_at": "2026-09-01T18:22:37.857159+00:00",
-   "title_ko": "아마존 알렉사, 쇼핑 유도 알림 기능 추가",
-   "summary_ko": "아마존이 알렉사에 개인화된 쇼핑 알림 기능을 도입해 상품 출시와 이벤트 정보를 제공함. AI 기반 음성 비서의 상용화 기능 확장.",
-   "category": "속보",
-   "tags": []
-  },
-  {
-   "id": "72541ae7a1b55b7b",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214704",
-   "source": "AI타임스",
-   "title": "롯데이노베이트, 분산 데이터 온톨로지로 묶어 롯데백화점 ‘브랜드 AI’ 구축",
-   "published_at": "2026-09-01T15:47:32+00:00",
-   "collected_at": "2026-09-01T09:57:03.963696+00:00",
-   "title_ko": "롯데이노베이트, 롯데백화점에 데이터 온톨로지 기반 '브랜드 AI' 구축",
-   "summary_ko": "롯데이노베이트가 유통 데이터를 구조화하는 온톨로지 체계를 적용해 백화점 상품기획자의 의사결정을 돕는 AI 플랫폼을 구축했습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "304efa39c78bd636",
-   "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-   "source": "TechCrunch",
-   "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-   "published_at": "2026-09-01T15:45:51+00:00",
-   "collected_at": "2026-09-01T18:22:37.857159+00:00",
-   "title_ko": "AIR, AI 에이전트 보안 검증 플랫폼 위해 5천만 달러 투자 유치",
-   "summary_ko": "기업 내 AI 에이전트와 이들이 사용하는 스킬을 탐색·검증하고 원치 않는 행동을 차단하는 플랫폼 기업이 대규모 투자를 받음. 기업용 AI 보안의 중요성이 커지고 있음을 방증.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "투자"
-   ]
-  },
-  {
-   "id": "cfaf6f6f6a3fe3a4",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214709",
-   "source": "AI타임스",
-   "title": "에어빌리티, AI 대드론 체계로 65억 시리즈A 투자 유치",
-   "published_at": "2026-09-01T15:40:57+00:00",
-   "collected_at": "2026-09-01T09:57:03.963696+00:00",
-   "title_ko": "AI 드론 전문 에어빌리티, 65억 원 규모 시리즈A 투자 유치",
-   "summary_ko": "AI 기반 대드론 킬체인 고도화를 추진 중인 에어빌리티가 실리콘밸리 VC 등으로부터 누적 105억 원의 투자를 유치했습니다.",
-   "category": "참고",
-   "tags": [
-    "로보틱스",
-    "투자"
-   ]
-  },
-  {
-   "id": "ad41744c73259e2a",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214708",
-   "source": "AI타임스",
-   "title": "지푸, 상반기 매출 5배 상승에도 '어닝 쇼크'…격화되는 가격 전쟁에 발목",
-   "published_at": "2026-09-01T15:38:28+00:00",
-   "collected_at": "2026-09-01T09:57:03.963696+00:00",
-   "title_ko": "중국 지푸 AI, 매출 급증에도 어닝 쇼크 기록",
-   "summary_ko": "중국 지푸 AI가 상반기 5배 가까운 매출 성장을 기록했으나, AI 업계 가격 경쟁 심화와 반도체 규제로 시장 기대치에는 미치지 못했습니다.",
-   "category": "중요",
-   "tags": [
-    "투자",
-    "반도체"
-   ]
-  },
-  {
-   "id": "1a5adf2188977d1f",
-   "url": "https://simonwillison.net/2026/Sep/1/datasette-mcp/",
-   "source": "Simon Willison",
-   "title": "datasette-mcp 0.2",
-   "published_at": "2026-09-01T15:30:12+00:00",
-   "collected_at": "2026-09-02T09:28:32.977034+00:00",
-   "title_ko": "Datasette MCP 0.2 버전 출시",
-   "summary_ko": "모델 컨텍스트 프로토콜(MCP)을 지원하는 datasette-mcp 0.2가 출시되어 약한 모델의 SQL 결과 매핑 정확도를 개선했습니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "daf3badb06c9d9ab",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4f8t2/deceptive_model_quantization_from_atomicchat/",
-   "source": "r/LocalLLaMA",
-   "title": "Deceptive model quantization from AtomicChat?",
-   "published_at": "2026-09-01T15:27:28+00:00",
-   "collected_at": "2026-09-01T18:22:43.556716+00:00",
-   "title_ko": "AtomicChat의 기만적인 모델 양자화 논란",
-   "summary_ko": "특정 모델의 양자화 파일이 실제 표기 방식과 다른 저급 압축 방식을 사용했다는 의혹이 제기됨. 오픈소스 LLM 생태계 내 양자화 투명성에 대한 경각심을 일깨움.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "f8cc74153314c1a1",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4f7w7/multilingual_tiny_37b_reasoning_moe_pretrained/",
-   "source": "r/LocalLLaMA",
-   "title": "Multilingual Tiny (3.7B) Reasoning MoE pretrained from scratch on a consumer-grade GPU",
-   "published_at": "2026-09-01T15:26:34+00:00",
-   "collected_at": "2026-09-01T21:42:29.703217+00:00",
-   "title_ko": "다국어 지원 소형 MoE 추론 모델 공개",
-   "summary_ko": "개인 개발자가 소비자용 GPU를 이용해 다국어 지원이 가능한 3.7B MoE 모델을 사전 학습 및 공개했다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "741d2e1ace69a666",
-   "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
-   "source": "TechCrunch",
-   "title": "Fambot introduces an ‘AI chief of staff’ for families",
-   "published_at": "2026-09-01T15:10:58+00:00",
-   "collected_at": "2026-09-01T18:22:37.857159+00:00",
-   "title_ko": "가족을 위한 AI 비서 '팸봇' 등장",
-   "summary_ko": "이메일, 일정, 학교 소식 등 육아와 관련된 가사 물류를 관리해 주는 AI 비서 서비스가 출시됨. LLM이 일상 영역으로 깊숙이 침투하고 있음을 보여줌.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "52aa414f4d416a0d",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4dsrw/new_model_sparkx254b_sparkx2517b/",
-   "source": "r/LocalLLaMA",
-   "title": "New Model: Spark-X2.5-4B, Spark-X2.5-1.7B",
-   "published_at": "2026-09-01T14:35:56+00:00",
-   "collected_at": "2026-09-01T14:45:04.441269+00:00",
-   "title_ko": "신규 소형 오픈소스 모델 Spark-X2.5 공개",
-   "summary_ko": "자체 아키텍처를 가진 1.7B 및 4B 크기의 소형 LLM Spark-X2.5가 공개되었습니다. 4B 모델은 상위 모델과 맞먹는 벤치마크 성능을 보여 주목받고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "인공지능"
-   ]
-  },
-  {
-   "id": "9082423643bdd12c",
-   "url": "https://news.hada.io/topic?id=33121",
-   "source": "GeekNews",
-   "title": "Show GN: Booova - 당신의 책 한 권을 다 써주는 AI Book Agent",
-   "published_at": "2026-09-01T14:28:26+00:00",
-   "collected_at": "2026-09-01T18:22:58.193337+00:00",
-   "title_ko": "책 한 권을 완성해 주는 AI 북 에이전트 'Booova' 출시",
-   "summary_ko": "사용자의 아이디어와 메모를 바탕으로 책 한 권을 완성해 주는 AI 에이전트가 공개됨. 창작 영역에서 AI의 활용도가 높아지고 있음.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "8f293d936b00aafe",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4dfi1/getting_slower_speeds_with_mtp_on_gemma_4_12b_qat/",
-   "source": "r/LocalLLaMA",
-   "title": "Getting slower speeds WITH MTP on Gemma 4 12B QAT than without...",
-   "published_at": "2026-09-01T14:22:00+00:00",
-   "collected_at": "2026-09-01T14:45:04.441269+00:00",
-   "title_ko": "Gemma 4 12B QAT 모델의 MTP 적용 시 속도 저하 이슈",
-   "summary_ko": "Gemma 4 12B QAT 모델 구동 시 MTP(Multi-Token Prediction) 기능을 켜면 오히려 처리 속도가 느려지는 현상이 보고되었습니다.",
-   "category": "참고",
-   "tags": [
-    "LLM",
-    "Google"
-   ]
-  },
-  {
-   "id": "a1506ca0ad071e4f",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4d52c/update_llamacpp_for_radeon_vii_mi50_mi60_14_pp_9/",
-   "source": "r/LocalLLaMA",
-   "title": "Update: llama.cpp for Radeon VII / MI50 / MI60 — +14% PP, +9% long-context fill vs upstream + adaptive Flash Attention",
-   "published_at": "2026-09-01T14:11:29+00:00",
-   "collected_at": "2026-09-01T18:22:43.556716+00:00",
-   "title_ko": "llama.cpp, 라데온 GPU 성능 최적화 포크 공개",
-   "summary_ko": "특정 AMD GPU 환경에서 llama.cpp의 성능을 대폭 끌어올린 포크 버전이 공개됨. 로컬 LLM 구동 시 하드웨어 최적화 효율을 높임.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "e85be935268c108e",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4d3th/kiro_crew_amazons_coding_frontend_is_open_source/",
-   "source": "r/LocalLLaMA",
-   "title": "Kiro Crew (Amazon's coding frontend) is open source",
-   "published_at": "2026-09-01T14:10:17+00:00",
-   "collected_at": "2026-09-01T14:45:04.441269+00:00",
-   "title_ko": "아마존의 코딩 프론트엔드 도구 'Kiro Crew' 오픈소스화",
-   "summary_ko": "아마존이 개발한 개발자용 채팅 중심 AI 클라이언트 'Kiro Crew'가 오픈소스화되었습니다. 기존 Amazon Q Developer를 대체하는 도구입니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "bc1ef17801f6ac4c",
-   "url": "https://news.hada.io/topic?id=33119",
-   "source": "GeekNews",
-   "title": "사이보그가 되지 않기 위하여",
-   "published_at": "2026-09-01T14:03:33+00:00",
-   "collected_at": "2026-09-01T18:22:58.193337+00:00",
-   "title_ko": "AI 에이전트 시대, 인간의 고유한 목소리를 지키기 위하여",
-   "summary_ko": "LLM과 장기간 상호작용하면서 AI의 문체에 동화되는 현상을 짚고, AI 시대에도 독창적인 인간의 사유와 문체를 유지해야 한다는 성찰을 담은 에세이.",
-   "category": "참고",
-   "tags": []
-  },
-  {
-   "id": "309be27bdcfe3156",
-   "url": "https://openai.com/index/path-to-astra",
-   "source": "OpenAI",
-   "title": "Path to Astra: critical capabilities and frontier safeguards",
-   "published_at": "2026-09-01T13:00:00+00:00",
-   "collected_at": "2026-09-01T21:42:26.625035+00:00",
-   "title_ko": "오픈아이, 차세대 모델 'Astra' 보안 역량 발표",
-   "summary_ko": "오픈에이아이의 Astra가 최고 수준의 사이버 보안 임계값을 충족하며 강력한 안전장치를 탑재했다고 밝혔다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "규제"
-   ]
-  },
-  {
-   "id": "87a21f5f92279f42",
-   "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
-   "source": "The Verge",
-   "title": "Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
-   "published_at": "2026-09-01T13:00:00+00:00",
-   "collected_at": "2026-09-01T18:22:38.028028+00:00",
-   "title_ko": "엔비디아, 논란의 DLSS 5 9월 3일 출시",
-   "summary_ko": "생성형 AI 필터 기술인 엔비디아 DLSS 5가 RTX 50 시리즈를 대상으로 출시됩니다. 고성능 GPU가 요구되며 게임 내 영상 처리 방식에 큰 변화를 줄 것으로 보입니다.",
-   "category": "속보",
-   "tags": [
-    "NVIDIA",
-    "반도체",
-    "AI"
-   ]
-  },
-  {
-   "id": "29e655380ae341a0",
-   "url": "https://news.hada.io/topic?id=33113",
-   "source": "GeekNews",
-   "title": "Show GN: Can I Remove This? – JS 의존성 제거를 검토하는 Agent Skill",
-   "published_at": "2026-09-01T12:59:53+00:00",
-   "collected_at": "2026-09-01T14:45:18.999677+00:00",
-   "title_ko": "JS 의존성 제거 검토를 위한 AI 에이전트 스킬",
-   "summary_ko": "프로젝트의 package.json 의존성을 분석해 실제 사용 여부와 번들 비용 등을 평가하고 제거를 제안하는 마크다운 기반 에이전트 스킬입니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "51cd5ec3c09f04f4",
-   "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
-   "source": "Hacker News",
-   "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
-   "published_at": "2026-09-01T12:53:51+00:00",
-   "collected_at": "2026-09-01T14:44:46.947127+00:00",
-   "title_ko": "EFF, AI 과대 광고로 인한 저작권법 왜곡 경고",
-   "summary_ko": "미국 전자자유재단(EFF)이 법원에 AI 관련 과대 포장으로 인해 기존 저작권법을 무리하게 재작성하지 말 것을 촉구했습니다.",
-   "category": "중요",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "a3d1dd2b13ed3ef2",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4a043/all_currently_popular_local_models_in_one_table/",
-   "source": "r/LocalLLaMA",
-   "title": "All currently popular local models in one table + Opus 4.8 results",
-   "published_at": "2026-09-01T12:04:38+00:00",
-   "collected_at": "2026-09-01T14:45:04.441269+00:00",
-   "title_ko": "로컬 구동 가능한 주요 LLM 성능 비교표",
-   "summary_ko": "하드웨어 사양에 맞춰 로컬에서 실행할 수 있는 인기 오픈소스 LLM들의 파라미터 크기와 에이전트 벤치마크 점수를리 한눈에 비교할 수 있는 표가 공유되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "DeepSeek"
-   ]
-  },
-  {
-   "id": "50e05f9b472e33e2",
-   "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-   "source": "OpenAI",
-   "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-   "published_at": "2026-09-01T12:00:00+00:00",
-   "collected_at": "2026-09-01T18:22:39.132027+00:00",
-   "title_ko": "OpenAI, 헬스케어 데이터 연동 기능 출시",
-   "summary_ko": "의료 기관이 전자의무기록(EHR) 및 산업 데이터를 ChatGPT에 안전하게 연결할 수 있게 되었습니다. 임상 의사결정과 환자 맥락 파악을 지원하여 의료 분야 AI 활용도가 높아질 것입니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "GPT",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "fe69d46e7ff6156d",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w49id7/i_pushed_qwen3827b_to_2000_prefill_per_second_and/",
-   "source": "r/LocalLLaMA",
-   "title": "I pushed Qwen3.8-27B to 2.000 prefill per second and 132 decode per second on A RTX 3090.",
-   "published_at": "2026-09-01T11:43:02+00:00",
-   "collected_at": "2026-09-01T14:45:04.441269+00:00",
-   "title_ko": "RTX 3090에서 Qwen3.8-27B 추론 속도 극대화",
-   "summary_ko": "커스텀 커널과 최적화를 통해 RTX 3090 환경에서 Qwen3.8-27B 모델의 프리필 및 디코드 속도를 대폭 끌어올린 추론 엔진이 공개되었습니다.",
-   "category": "팁",
-   "tags": [
-    "Qwen",
-    "반도체",
-    "LLM"
-   ]
-  },
-  {
-   "id": "10191c01c4eefab5",
-   "url": "https://news.hada.io/topic?id=33110",
-   "source": "GeekNews",
-   "title": "GPU World: 모두가 GPU를 한 대씩 쓰는 미래 공모전",
-   "published_at": "2026-09-01T11:33:06+00:00",
-   "collected_at": "2026-09-01T14:45:18.999677+00:00",
-   "title_ko": "모든 사람이 GPU를 사용하는 미래를 그린 'GPU World' 공모전",
-   "summary_ko": "2040년까지 모든 인류가 고성능 GPU와 최첨단 LLM을 상시 이용하는 미래상을 주제로 한 스토리 공모전이 개최되었습니다.",
-   "category": "참고",
-   "tags": [
-    "반도체",
-    "LLM"
-   ]
-  },
-  {
-   "id": "b043ef7634b80f3a",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w48azv/vellium_v110_live_voice_local_stttts_and_easier/",
-   "source": "r/LocalLLaMA",
-   "title": "Vellium v1.1.0 — Live voice, local STT/TTS and easier llama.cpp setup",
-   "published_at": "2026-09-01T10:45:02+00:00",
-   "collected_at": "2026-09-01T14:45:04.441269+00:00",
-   "title_ko": "로컬 AI 데스크톱 앱 'Vellium v1.1.0' 업데이트",
-   "summary_ko": "로컬 음성 인식, TTS 및 간편한 llama.cpp 연동을 지원하는 오픈소스 데스크톱 AI 앱 Vellium의 신규 버전이 배포되었습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM"
    ]
   }
  ]
