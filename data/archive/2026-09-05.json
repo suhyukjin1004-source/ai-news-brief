@@ -1,5 +1,125 @@
 [
  {
+  "id": "886491e995a15d9b",
+  "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+  "source": "TechCrunch",
+  "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+  "published_at": "2026-09-04T21:12:11+00:00",
+  "collected_at": "2026-09-04T21:22:08.029405+00:00",
+  "title_ko": "AI 인프라 기업 Nscale, 상장 전 35억 달러 투자 유치 추진",
+  "summary_ko": "Anthropic과 대규모 계약을 체결한 인프라 제공업체 Nscale이 기업공개(IPO)를 앞두고 추가 자금 조달에 나섰다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "투자"
+  ]
+ },
+ {
+  "id": "47f11a181774fa86",
+  "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+  "source": "Hacker News",
+  "title": "Can AI design circuit boards yet?",
+  "published_at": "2026-09-04T19:48:29+00:00",
+  "collected_at": "2026-09-04T21:22:25.208406+00:00",
+  "title_ko": "AI가 회로 기판을 설계할 수 있는가?",
+  "summary_ko": "회로 기판 설계 자동화 분야에서 AI의 현재 역량과 한계를 분석한 글이다.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "연구"
+  ]
+ },
+ {
+  "id": "652605fb06742533",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7ee1c/i_benchmarked_21_qwen38_27b_variants_on_16gb_vram/",
+  "source": "r/LocalLLaMA",
+  "title": "I benchmarked 21 Qwen3.8 27B variants on 16GB VRAM",
+  "published_at": "2026-09-04T19:33:44+00:00",
+  "collected_at": "2026-09-04T21:22:25.996804+00:00",
+  "title_ko": "16GB VRAM 환경에서의 Qwen3.8 27B 변형 모델 벤치마크",
+  "summary_ko": "RTX 5080 환경에서 Qwen3.8 27B 양자화 모델 21개를 실제 코딩 작업으로 테스트하고 성능을 비교했다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "dde81f8ff349990a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7dlo5/22_less_weight_vram_lossless_base3_packing_for/",
+  "source": "r/LocalLLaMA",
+  "title": "~22% less weight VRAM, lossless: base-3 packing for ternary GGUFs",
+  "published_at": "2026-09-04T19:04:59+00:00",
+  "collected_at": "2026-09-04T21:22:25.996804+00:00",
+  "title_ko": "삼진법 GGUF를 위한 무손실 압축 포맷 'B3S' 공개",
+  "summary_ko": "BitNet 등 삼진법 모델의 가중치를 더 효율적으로 압축하여 VRAM 사용량을 크게 줄여주는 새로운 포맷이 개발됐다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "e02c4d154a97202a",
+  "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+  "source": "Hacker News",
+  "title": "Formalizing Fermat's Last Theorem",
+  "published_at": "2026-09-04T18:42:56+00:00",
+  "collected_at": "2026-09-04T21:22:23.732415+00:00",
+  "title_ko": "AI를 활용한 페르마의 마지막 정리 형식화 프로젝트",
+  "summary_ko": "Anthropic 등의 기술을 활용해 수학의 난제인 페르마의 마지막 정리를 형식화하려는 시도가 주목받고 있다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "연구"
+  ]
+ },
+ {
+  "id": "7cccdbfe5204daed",
+  "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+  "source": "MIT Tech Review",
+  "title": "Architecting memory and storage in the AI era",
+  "published_at": "2026-09-04T18:39:19+00:00",
+  "collected_at": "2026-09-04T21:22:20.719977+00:00",
+  "title_ko": "AI 추론 시대를 위한 메모리 및 스토리지 아키텍처 설계",
+  "summary_ko": "실시간 AI 추론과 대규모 데이터 분석을 지탱하기 위한 차세대 인프라의 중요성과 발전 방향을 다룬다.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "투자"
+  ]
+ },
+ {
+  "id": "42cd6efff4837ffa",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7c6u4/ling30flashvl_built_on_ling30flash_with_visual/",
+  "source": "r/LocalLLaMA",
+  "title": "Ling-3.0-flash-VL, built on Ling-3.0-flash with visual understanding and visual agent capabilities",
+  "published_at": "2026-09-04T18:14:34+00:00",
+  "collected_at": "2026-09-04T21:22:25.996804+00:00",
+  "title_ko": "시각적 이해와 에이전트 역량을 갖춘 Ling-3.0-flash-VL 공개",
+  "summary_ko": "멀티모달 지각 및 STEM 추론, 의료 보고서 해석 등의 작업에서 뛰어난 성능을 보이는 새로운 비전 모델이다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "8d1a9b4d453e2178",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7c4ej/updated_my_benchmark_with_a_new_vllm_based_recipe/",
+  "source": "r/LocalLLaMA",
+  "title": "Updated my benchmark with a new vLLM based recipe for Qwen 3.8 Flash Next : now up to 98/100 (instead of 91 previously)",
+  "published_at": "2026-09-04T18:12:07+00:00",
+  "collected_at": "2026-09-04T21:22:25.996804+00:00",
+  "title_ko": "vLLM 기반 Qwen 3.8 Flash Next 벤치마크 및 최적화 레시피",
+  "summary_ko": "최적화된 양자화 가중치와 vLLM 패치를 적용해 Qwen 모델의 서빙 성능을 극대화한 방법론이 공유됐다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
   "id": "fc75f575fc539669",
   "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
   "source": "The Verge",
@@ -45,6 +165,21 @@
   ]
  },
  {
+  "id": "c93170838b29947b",
+  "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+  "source": "Hacker News",
+  "title": "Nobody is saying why OpenAI and Anthropic had outages",
+  "published_at": "2026-09-04T17:29:22+00:00",
+  "collected_at": "2026-09-04T21:22:25.208406+00:00",
+  "title_ko": "OpenAI와 Anthropic의 연이은 서비스 중단 원인 미궁 속으로",
+  "summary_ko": "최근 발생한 주요 LLM 서비스 장애의 구체적인 원인이 명확히 밝혀지지 않아 업계의 궁금증을 낳고 있다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "Anthropic"
+  ]
+ },
+ {
   "id": "98998951855781d8",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7aoau/qwen38flashnext_on_a_phone_cpu/",
   "source": "r/LocalLLaMA",
@@ -57,6 +192,37 @@
   "tags": [
    "오픈소스",
    "모델명"
+  ]
+ },
+ {
+  "id": "dd6fb7a794ea43e5",
+  "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+  "source": "Ars Technica",
+  "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+  "published_at": "2026-09-04T17:18:12+00:00",
+  "collected_at": "2026-09-04T21:22:20.632162+00:00",
+  "title_ko": "스팸 메일에 악용되는 AI 우회 기술 'ASCII 스머글링'",
+  "summary_ko": "기존 AI 보안 우회용으로 쓰이던 눈에 보이지 않는 유니코드 블록이 최근 스팸 메일 발송에 광범위하게 악용되고 있다.",
+  "category": "중요",
+  "tags": [
+   "규제",
+   "보안"
+  ]
+ },
+ {
+  "id": "96dee84081b360e5",
+  "url": "https://opentrailpaper.com",
+  "source": "Hacker News",
+  "title": "Show HN: Open-Source eInk Bike Computer",
+  "published_at": "2026-09-04T17:18:08+00:00",
+  "collected_at": "2026-09-04T21:22:23.732415+00:00",
+  "title_ko": "AI를 활용한 ESP32용 ANT 무선 프로토콜 구현",
+  "summary_ko": "오픈소스 자전거 컴퓨터 프로젝트에서 AI를 활용해 문서화되지 않은 레지스트리를 분석, ESP32용 ANT 센서 통신을 구현했습니다. AI가 하드웨어 저수준 개발에도 유용하게 쓰일 수 있음을 보여줍니다.",
+  "category": "참고",
+  "tags": [
+   "AI",
+   "오픈소스",
+   "반도체"
   ]
  },
  {
