@@ -1,5 +1,36 @@
 [
  {
+  "id": "b03c18ed329a094d",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214864",
+  "source": "AI타임스",
+  "title": "문샷 AI, 홍콩 증시 IPO 비공개 신청…중국 AI 기업 자금 조달 가속화",
+  "published_at": "2026-09-04T14:34:48+00:00",
+  "collected_at": "2026-09-04T09:31:22.358524+00:00",
+  "title_ko": "문샷 AI, 홍콩 증시 IPO 비공개 신청",
+  "summary_ko": "중국 대표 AI 스타트업 문샷 AI가 홍콩 증권거래소에 기업공개(IPO) 신청서를 비공개로 제출했습니다. 최근 평가받은 기업 가치만 500억 달러에 달하며 대규모 자금 조달을 가속화하고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "투자",
+   "중국AI"
+  ]
+ },
+ {
+  "id": "09d59b9bede69dac",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=214850",
+  "source": "AI타임스",
+  "title": "엔비디아, 차세대 AI PC 칩 'RTX 스파크' 10월 출시...개인용 AI 라우터 '페어' 공개",
+  "published_at": "2026-09-04T13:27:33+00:00",
+  "collected_at": "2026-09-04T09:31:22.358524+00:00",
+  "title_ko": "엔비디아, 차세대 AI PC 칩 'RTX 스파크' 공개",
+  "summary_ko": "엔비디아가 블랙웰 GPU와 그레이스 CPU를 결합한 Arm 기반 PC 플랫폼 'RTX 스파크'를 10월에 출시합니다. 개인용 기기에서 고성능 AI 모델과 에이전트를 직접 구동할 수 있게 됩니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "반도체",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "7d95dc592a6cc29f",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214838",
   "source": "AI타임스",
@@ -107,6 +138,70 @@
   ]
  },
  {
+  "id": "ddb8fda9f93b849d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6z9oh/we_opensourced_paddock_our_rustc_inference_engine/",
+  "source": "r/LocalLLaMA",
+  "title": "We open-sourced Paddock, our Rust/C++ inference engine with its own CUDA kernels (MIT/Apache-2.0)",
+  "published_at": "2026-09-04T09:15:33+00:00",
+  "collected_at": "2026-09-04T09:31:09.215322+00:00",
+  "title_ko": "러스트 기반 추론 엔진 'Paddock' 오픈소스 공개",
+  "summary_ko": "자체 CUDA 커널을 탑재한 러스트 및 C++ 기반의 고성능 LLM 추론 엔진 'Paddock'이 오픈소스로 공개됐습니다. GGUF와 safetensors를 지원하며 OpenAI 및 Anthropic 스타일의 API를 제공합니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "추론엔진"
+  ]
+ },
+ {
+  "id": "ccff447e381ecfb9",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6z731/on_gpt6_astra_986_arc_agi3_dont_fall_for_the_hype/",
+  "source": "r/LocalLLaMA",
+  "title": "On GPT-6 Astra 98.6% ARC AGI-3: don't fall for the hype",
+  "published_at": "2026-09-04T09:11:33+00:00",
+  "collected_at": "2026-09-04T09:31:09.215322+00:00",
+  "title_ko": "ARC AGI-3 벤치마크 결과에 대한 과장 경계",
+  "summary_ko": "최근 GPT-6의 ARC AGI-3 고득점 주장에 대해 엔비디아가 이미 AVO 하네스로 100%를 달성한 바 있다는 점을 언급하며 과도한 마케팅 하이프를 경계해야 한다는 의견입니다.",
+  "category": "참고",
+  "tags": [
+   "GPT",
+   "NVIDIA",
+   "벤치마크"
+  ]
+ },
+ {
+  "id": "09071a3c08dc398c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6y38l/qwen38flashnext_256k_context_16toks_on_ddr4_and_a/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-Flash-Next: 256k context, 16tok/s on DDR4 and a Tesla T4",
+  "published_at": "2026-09-04T08:06:30+00:00",
+  "collected_at": "2026-09-04T09:31:09.215322+00:00",
+  "title_ko": "DDR4와 테슬라 T4에서 Qwen 모델 구동 후기",
+  "summary_ko": "저렴한 구형 서버 하드웨어(DDR4와 Tesla T4) 환경에서 양자화된 Qwen 모델을 구동하여 실용적인 토큰 속도를 얻어낸 로컬 LLM 사용자 실험기입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "Qwen"
+  ]
+ },
+ {
+  "id": "3e9af61cc03a6f12",
+  "url": "https://simonwillison.net/2026/Sep/4/august-newsletter/",
+  "source": "Simon Willison",
+  "title": "August newsletter is out",
+  "published_at": "2026-09-04T05:54:40+00:00",
+  "collected_at": "2026-09-04T09:31:08.530594+00:00",
+  "title_ko": "사이먼 윌슨의 8월 뉴스레터 발행",
+  "summary_ko": "OpenAI 보안 사고와 Claude 자동 모드 등 최신 AI 동향을 다룬 뉴스레터가 발행되었습니다. 업계 흐름을 파악하는 데 유용합니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "Claude",
+   "ChatGPT"
+  ]
+ },
+ {
   "id": "39d08a451ef7f0ca",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214821",
   "source": "AI타임스",
@@ -119,6 +214,20 @@
   "tags": [
    "OpenAI",
    "GPT",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "5eac92faee237511",
+  "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+  "source": "TechCrunch",
+  "title": "The sameness problem behind those unappetizing AI-generated menus",
+  "published_at": "2026-09-04T04:21:03+00:00",
+  "collected_at": "2026-09-04T09:30:39.231340+00:00",
+  "title_ko": "생성형 AI로 제작된 식당 메뉴의 획일화 문제",
+  "summary_ko": "식당들이 생성형 AI를 이용해 메뉴를 만들면서 발생하는 유사성과 품질 저하 문제를 지적했습니다. AI 활용의 한계를 보여줍니다.",
+  "category": "참고",
+  "tags": [
    "AI 에이전트"
   ]
  },
@@ -252,6 +361,21 @@
   "tags": [
    "오픈소스",
    "반도체"
+  ]
+ },
+ {
+  "id": "481bd5c0f49eb9b0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6nywh/qwen_38_27b_vs_qwen_36_27b_on_omlx/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen 3.8 27B Vs. Qwen 3.6 27B on oMLX",
+  "published_at": "2026-09-03T23:37:41+00:00",
+  "collected_at": "2026-09-04T09:31:09.215322+00:00",
+  "title_ko": "Qwen 3.8 27B 모델 벤치마크 결과 공개",
+  "summary_ko": "이전 버전인 Qwen 3.6과 3.8 27B 모델의 성능을 비교한 결과로, 품질은 향상되었으나 속도와 리소스 소모가 증가했습니다. 로컬 LLM 사용자에게 중요한 성능 지표를 제공합니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
   ]
  },
  {
