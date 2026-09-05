@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-05T12:36:53.645163+00:00",
+ "updated_at": "2026-09-05T15:57:48.309828+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -80,6 +80,22 @@
    ]
   },
   {
+   "id": "22aacec03e469cb8",
+   "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
+   "source": "Simon Willison",
+   "title": "Using Blender with coding agents on macOS",
+   "published_at": "2026-09-05T15:51:09+00:00",
+   "collected_at": "2026-09-05T15:57:29.270777+00:00",
+   "title_ko": "macOS에서 코딩 에이전트와 블렌더 연동하기",
+   "summary_ko": "ChatGPT 코딩 에이전트를 이용해 macOS에서 블렌더(Blender) 파이썬 API로 3D 장면을 생성하는 방법입니다.",
+   "category": "팁",
+   "tags": [
+    "OpenAI",
+    "AI 에이전트",
+    "LLM"
+   ]
+  },
+  {
    "id": "8cce6a5718445680",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214878",
    "source": "AI타임스",
@@ -123,6 +139,93 @@
    "tags": [
     "반도체",
     "중국"
+   ]
+  },
+  {
+   "id": "1e1b8d6dd3eb2fee",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w82kpd/gfx906llamacpp_new_pptg_gains_for_mi50mi60radeon/",
+   "source": "r/LocalLLaMA",
+   "title": "gfx906-llama-cpp: New PP/TG gains for MI50/MI60/Radeon VII/AMD GCN",
+   "published_at": "2026-09-05T14:42:21+00:00",
+   "collected_at": "2026-09-05T15:57:29.811017+00:00",
+   "title_ko": "AMD GCN 그래픽카드용 llama.cpp 성능 개선 포크 공개",
+   "summary_ko": "MI50/MI60 및 라데온 VII 등 구형 AMD 그래픽카드에서 llama.cpp의 프리필 및 토큰 생성 속도를 대폭 향상시킨 포크가 공개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "1b03f28961dfc02e",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w825pc/the_gap_has_closed_open_source_will_win/",
+   "source": "r/LocalLLaMA",
+   "title": "The gap has closed, open source will win",
+   "published_at": "2026-09-05T14:25:19+00:00",
+   "collected_at": "2026-09-05T15:57:29.811017+00:00",
+   "title_ko": "오픈소스 AI와 프론티어 모델의 격차 해소",
+   "summary_ko": "최신 오픈소스 모델의 성능이 상용 프론티어 모델과 구별하기 어려울 정도로 발전하여 향후 오픈소스가 우세할 것이라는 분석입니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "c7bced8b8936e0bd",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w821fg/ninfer_vs_llamacpp_vs_vllm_quality_speed/",
+   "source": "r/LocalLLaMA",
+   "title": "NInfer vs llama.cpp vs vLLM: quality + speed comparison for Qwen3.8-27B NVFP4 on RTX 5090",
+   "published_at": "2026-09-05T14:20:25+00:00",
+   "collected_at": "2026-09-05T15:57:29.811017+00:00",
+   "title_ko": "RTX 5090 기반 로컬 LLM 추론 엔진 성능 비교",
+   "summary_ko": "RTX 5090 환경에서 Qwen 모델을 활용하기 위해 NInfer, llama.cpp, vLLM의 속도와 품질을 비교한 테스트 결과입니다.",
+   "category": "참고",
+   "tags": [
+    "반도체",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "82791ef77c7d05cb",
+   "url": "https://news.hada.io/topic?id=33257",
+   "source": "GeekNews",
+   "title": "Nitter, 폐쇄 조치 이전보다 작동하는 인스턴스가 늘어남",
+   "published_at": "2026-09-05T13:31:55+00:00",
+   "collected_at": "2026-09-05T15:57:44.588360+00:00",
+   "title_ko": "폐쇄 조치 이후에도 Nitter 인스턴스 생존력 유지",
+   "summary_ko": "엑스(구 트위터)의 API 제한과 압박에도 불구하고 여전히 작동하는 Nitter 인스턴스들이 늘어나고 있습니다.",
+   "category": "참고",
+   "tags": []
+  },
+  {
+   "id": "15d10ff5876106be",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w80em5/people_with_nonenthusaist_hardware_how_do_you_use/",
+   "source": "r/LocalLLaMA",
+   "title": "People with \"non-enthusaist hardware\": how do you use it?",
+   "published_at": "2026-09-05T13:11:39+00:00",
+   "collected_at": "2026-09-05T15:57:29.811017+00:00",
+   "title_ko": "일반 소비자용 하드웨어에서의 로컬 LLM 활용 방안",
+   "summary_ko": "고성능 AI 장비가 없는 일반 소비자 하드웨어 환경에서 로컬 LLM과 에이전트를 유용하게 활용하는 방법에 대한 논의입니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "LLM"
+   ]
+  },
+  {
+   "id": "b542f1cb78a19cab",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7zz1o/qwen38flashnext_udq4_k_xl_on_a_single_rtx_3090/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8-Flash-Next (UD-Q4_K_XL) on a single RTX 3090 24GB + 128GB DDR4, is this config optimal?",
+   "published_at": "2026-09-05T12:52:58+00:00",
+   "collected_at": "2026-09-05T15:57:29.811017+00:00",
+   "title_ko": "단일 RTX 3090 환경에서 Qwen 모델 최적화 설정",
+   "summary_ko": "RTX 3090과 대용량 시스템 메모리를 결합한 환경에서 Qwen 모델을 llama.cpp로 최적화하여 구동하는 설정 방법입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
    ]
   },
   {
@@ -315,6 +418,21 @@
    "category": "팁",
    "tags": [
     "오픈소스"
+   ]
+  },
+  {
+   "id": "96b9e504559be271",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7wb0n/llvm_developers_begin_debate_over_agentsmd_for/",
+   "source": "r/LocalLLaMA",
+   "title": "LLVM developers begin debate over AGENTS.md for helping AI agents",
+   "published_at": "2026-09-05T09:44:47+00:00",
+   "collected_at": "2026-09-05T15:57:29.811017+00:00",
+   "title_ko": "LLVM 프로젝트, AI 에이전트 지원 위한 AGENTS.md 도입 논의",
+   "summary_ko": "LLVM 개발자들이 AI 코딩 에이전트의 코드베이스 이해를 돕기 위한 표준 문서 규격인 AGENTS.md 도입을 논의하기 시작했습니다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
    ]
   },
   {
@@ -2877,128 +2995,6 @@
     "GPT",
     "AI 에이전트",
     "게임"
-   ]
-  },
-  {
-   "id": "be4a3c5426264d71",
-   "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-   "source": "OpenAI",
-   "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-   "published_at": "2026-09-03T12:00:00+00:00",
-   "collected_at": "2026-09-03T18:31:51.481665+00:00",
-   "title_ko": "Legora, GPT-6 Astra로 대규모 금융 문서 검토 효율 40% 향상",
-   "summary_ko": "Legora가 GPT-6 Astra를 이용해 수십 개의 금융 문서를 몇 분 만에 검토하고 오류를 찾아내어 성능을 40% 가까이 끌어올렸습니다.",
-   "category": "참고",
-   "tags": [
-    "GPT",
-    "금융",
-    "문서검토"
-   ]
-  },
-  {
-   "id": "353d444fba8cce01",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214790",
-   "source": "AI타임스",
-   "title": "오픈AI ‘아스트라’ 이번 주 출시설…API에 ‘GPT-6’ 흔적 포착",
-   "published_at": "2026-09-03T11:57:22+00:00",
-   "collected_at": "2026-09-03T04:16:51.572469+00:00",
-   "title_ko": "오픈AI 차세대 모델 '아스트라' 출시 임박",
-   "summary_ko": "오픈AI의 신규 모델 '아스트라'가 곧 출시될 예정인 가운데, API 내부에서 'GPT-6' 명칭이 포착되며 기대감이 높아지고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "GPT"
-   ]
-  },
-  {
-   "id": "5b859d50a3ba240f",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w655he/qwen36_35b_q2_xxs_being_gpu_poor_in_2026_is_not/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.6 35b Q2_XXS: Being GPU poor in 2026 is not so bad",
-   "published_at": "2026-09-03T11:50:18+00:00",
-   "collected_at": "2026-09-03T14:24:35.282551+00:00",
-   "title_ko": "저사양 환경에서의 Qwen3.6 35B 모델 구동 후기",
-   "summary_ko": "VRAM이 없는 저사양 노트북 환경에서도 양자화된 대형 모델을 활용해 로컬에서 게임 등을 제작할 수 있음을 보여줍니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "f2b0bf40cd129408",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w64y26/qwen38nextflash_ngram_hotswappable_knowledge/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen-3.8-Next-Flash Ngram Hot-Swappable Knowledge Injector for llama.cpp",
-   "published_at": "2026-09-03T11:40:27+00:00",
-   "collected_at": "2026-09-03T14:24:35.282551+00:00",
-   "title_ko": "llama.cpp용 Qwen Ngram 지식 주입기 구현",
-   "summary_ko": "모델을 재로딩하지 않고도 실시간으로 지식을 패치할 수 있는 Ngram 기반 핫스왑 지식 주입 기능이 개발되었습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "c22774e46292305f",
-   "url": "https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector",
-   "source": "Hacker News",
-   "title": "A dark horse enters China's AI race: StartLux",
-   "published_at": "2026-09-03T11:12:57+00:00",
-   "collected_at": "2026-09-03T21:39:39.333793+00:00",
-   "title_ko": "중국 AI 시장에 뛰어든 신흥 주자 StartLux",
-   "summary_ko": "천다웨이가 복귀하여 대형 언어 모델 시장에 진입하면서 중국의 AI 경쟁에 새로운 다크호스가 등장했습니다.",
-   "category": "속보",
-   "tags": [
-    "중국",
-    "대형모델",
-    "스타트업"
-   ]
-  },
-  {
-   "id": "c34f99fa0f7f3cb5",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214781",
-   "source": "AI타임스",
-   "title": "\"3주 만에 반격\"...구글, 코딩 성능 강화한 '제미나이 3.8 플래시' 공개",
-   "published_at": "2026-09-03T11:07:58+00:00",
-   "collected_at": "2026-09-03T04:16:51.572469+00:00",
-   "title_ko": "구글, 코딩 성능 강화한 '제미나이 3.8 플래시' 공개",
-   "summary_ko": "구글이 추론 능력을 대폭 강화한 '제미나이 3.8 플래시'와 사이버보안 특화 모델을 동시에 공개하며 프론티어 모델 경쟁에 속도를 내고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "Google",
-    "Gemini",
-    "코딩"
-   ]
-  },
-  {
-   "id": "8970f35603af87d6",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w62w8e/how_to_handle_naughty_model/",
-   "source": "r/LocalLLaMA",
-   "title": "How to handle naughty model",
-   "published_at": "2026-09-03T09:53:51+00:00",
-   "collected_at": "2026-09-03T14:24:35.282551+00:00",
-   "title_ko": "AI 에이전트의 오류 방지 및 디버깅 스킬 기법",
-   "summary_ko": "AI 에이전트가 실수를 반복하지 않도록 오류 발생 시 자동으로 개입하는 스킬을 구현하여 반복적인 사과 응답을 줄이는 방법입니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "fd01b1d9f4ec46e9",
-   "url": "https://news.hada.io/topic?id=33187",
-   "source": "GeekNews",
-   "title": "Diffusion으로 OCR 디코딩 가속하기",
-   "published_at": "2026-09-03T09:01:18+00:00",
-   "collected_at": "2026-09-03T14:24:49.962767+00:00",
-   "title_ko": "확산 모델을 활용한 OCR 디코딩 가속 기법",
-   "summary_ko": "디퓨전과 자기회귀 방식을 결합한 self-speculative decoding으로 품질 손실 없이 OCR 디코딩 속도를 3.85배 향상했습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
    ]
   }
  ]
