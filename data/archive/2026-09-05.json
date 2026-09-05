@@ -90,6 +90,66 @@
   ]
  },
  {
+  "id": "2c0269c2d41b3006",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7tndw/qwen38_27b_for_agentic_coding_and_next_what/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8 27b for agentic coding and next .... what?",
+  "published_at": "2026-09-05T07:11:20+00:00",
+  "collected_at": "2026-09-05T08:58:07.193747+00:00",
+  "title_ko": "로컬 환경에서 구동하는 Qwen 3.8 27B 모델 주목",
+  "summary_ko": "24GB VRAM 환경에서도 원활히 작동하는 소형 오픈소스 모델 Qwen 3.8 27B가 실무 코딩 및 반복 업무에서 높은 효율을 보여주고 있다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "fbf6b55134c52291",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7thwv/ive_found_myself_using_local_llms_like_3d_printers/",
+  "source": "r/LocalLLaMA",
+  "title": "I've found myself using Local LLM's like 3D printers.",
+  "published_at": "2026-09-05T07:03:10+00:00",
+  "collected_at": "2026-09-05T08:58:07.193747+00:00",
+  "title_ko": "고성능 로컬 LLM을 3D 프린터처럼 유용하게 활용하는 사례",
+  "summary_ko": "대용량 메모리를 탑재한 로컬 하드웨어에서 Qwen 등 소형 LLM을 구동하며 일상적인 도구로 활용하는 개발자들의 경험담이 주목받고 있다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "c16dd2348377c667",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7tfrm/the_openai_huggingface_incident_from_an_agents_pov/",
+  "source": "r/LocalLLaMA",
+  "title": "The OpenAI Huggingface incident from an agents POV",
+  "published_at": "2026-09-05T07:00:18+00:00",
+  "collected_at": "2026-09-05T08:58:07.193747+00:00",
+  "title_ko": "에이전트 관점에서 본 OpenAI와 허깅페이스 관련 해프닝",
+  "summary_ko": "AI 에이전트의 시각에서 최근 발생한 오픈AI와 허깅페이스 관련 사건을 조명하는 커뮤니티 토론이 공유됐다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "5cb645403785beea",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7q92n/qwen3827b_beat_the_wikipedia_game_in_6_clicks/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-27B beat the Wikipedia game in 6 clicks.",
+  "published_at": "2026-09-05T04:10:58+00:00",
+  "collected_at": "2026-09-05T08:58:07.193747+00:00",
+  "title_ko": "로컬 LLM(Qwen 3.8-27B)으로 위키피디아 게임 구현",
+  "summary_ko": "개발자가 로컬 환경의 Qwen 모델을 활용해 위키피디아 하이퍼링크 탐색 미니게임을 구현한 사례가 공유됐다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
   "id": "72d689fb6ae7340a",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7pphh/amd_unveils_threadripper_halo_station/",
   "source": "r/LocalLLaMA",
@@ -195,6 +255,20 @@
   ]
  },
  {
+  "id": "2d1aff01ef67ae47",
+  "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+  "source": "Hacker News",
+  "title": "Artificial Analysis Intelligence Index v4.2",
+  "published_at": "2026-09-05T00:04:14+00:00",
+  "collected_at": "2026-09-05T08:58:02.640915+00:00",
+  "title_ko": "아티피셜 나이실리스, 인텔리전스 인덱스 v4.2 공개",
+  "summary_ko": "AI 모델들의 성능과 비용 효율성을 비교 분석하는 아티피셜 나이실리스의 최신 인덱스 v4.2가 발표됐다.",
+  "category": "참고",
+  "tags": [
+   "AI 모델"
+  ]
+ },
+ {
   "id": "3947b5cf595857bb",
   "url": "https://news.hada.io/topic?id=33244",
   "source": "GeekNews",
@@ -238,6 +312,21 @@
    "OpenAI",
    "GPT",
    "LLM"
+  ]
+ },
+ {
+  "id": "44a6c9acd9ce915d",
+  "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+  "source": "Hacker News",
+  "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+  "published_at": "2026-09-04T23:38:50+00:00",
+  "collected_at": "2026-09-05T08:58:02.640915+00:00",
+  "title_ko": "스포티파이, Claude Code 토큰 사용량 90% 절감 도구 공개",
+  "summary_ko": "스포티파이 엔지니어링 팀이 개발한 내부 도구를 통해 Claude Code 사용 시 토큰 소모량을 90% 줄인 사례가 공유됐다.",
+  "category": "팁",
+  "tags": [
+   "Claude",
+   "코딩"
   ]
  },
  {
@@ -435,6 +524,22 @@
   "tags": [
    "오픈소스",
    "반도체"
+  ]
+ },
+ {
+  "id": "2ed23ceecfed80f4",
+  "url": "https://github.com/anthropics/fermats-last-theorem",
+  "source": "Hacker News",
+  "title": "Fermat's Last Theorem in Lean 4",
+  "published_at": "2026-09-04T18:57:32+00:00",
+  "collected_at": "2026-09-05T08:58:02.640915+00:00",
+  "title_ko": "앤트로픽, Lean 4로 페르마의 마지막 정리 증명 공개",
+  "summary_ko": "앤트로픽이 AI와 형식 정형화 도구인 Lean 4를 활용해 페르마의 마지막 정리를 증명한 프로젝트를 공개했습니다. 복잡한 수학적 추론 능력을 검증하는 AI의 발전 방향을 보여줍니다.",
+  "category": "참고",
+  "tags": [
+   "Anthropic",
+   "AI 에이전트",
+   "오픈소스"
   ]
  },
  {

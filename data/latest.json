@@ -1,8 +1,85 @@
 {
- "updated_at": "2026-09-05T04:15:36.899582+00:00",
+ "updated_at": "2026-09-05T08:58:29.528000+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "b2ed4386ff4103f5",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214890",
+   "source": "AI타임스",
+   "title": "앤트로픽, 다음 주 증권신고서 제출 전망…10월 초 상장 타임라인 구체화",
+   "published_at": "2026-09-05T16:31:46+00:00",
+   "collected_at": "2026-09-05T08:58:20.480858+00:00",
+   "title_ko": "앤트로픽, 이르면 다음 주 증권신고서 제출 및 10월 상장 추진",
+   "summary_ko": "앤트로픽이 비밀리에 추진해 온 기업공개(IPO) 절차를 본격화하며 다음 주 SEC에 증권신고서를 제출할 전망이다. 9월 말 로드쇼를 거쳐 10월 초 상장을 목표로 하고 있다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "투자"
+   ]
+  },
+  {
+   "id": "4f6ef4844aff92e1",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214881",
+   "source": "AI타임스",
+   "title": "구글, 제미나이 스파크에 '포토' 연동...사진 검색·편집·일정 등록까지 자동화",
+   "published_at": "2026-09-05T16:04:59+00:00",
+   "collected_at": "2026-09-05T08:58:20.480858+00:00",
+   "title_ko": "구글, 제미나이 스파크에 구글 포토 연동 기능 추가",
+   "summary_ko": "구글이 AI 에이전트 '제미나이 스파크'에 구글 포토 연동 기능을 도입하여 사진 검색, 편집, 일정 등록 등의 자동화 범위를 확대한다.",
+   "category": "속보",
+   "tags": [
+    "Google",
+    "Gemini",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "8cce6a5718445680",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214878",
+   "source": "AI타임스",
+   "title": "젠슨 황 \"허깅페이스 쟁탈전서 승리하려면 17조 필요했다\"",
+   "published_at": "2026-09-05T15:42:04+00:00",
+   "collected_at": "2026-09-05T08:58:20.480858+00:00",
+   "title_ko": "엔비디아 젠슨 황 \"허깅페이스 인수전에 17조원 소요\"",
+   "summary_ko": "젠슨 황 엔비디아 CEO가 경쟁사들을 따돌리고 오픈소스 AI 플랫폼 허깅페이스를 인수하기 위해 17조 원 규모의 자금이 필요했다고 밝혔다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "오픈소스",
+    "투자"
+   ]
+  },
+  {
+   "id": "10bfce87e81e2b29",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214888",
+   "source": "AI타임스",
+   "title": "미 국방부, 앤트로픽 여전히 '공급망 위험'으로 간주...상무장관과 온도 차",
+   "published_at": "2026-09-05T15:10:20+00:00",
+   "collected_at": "2026-09-05T08:58:20.480858+00:00",
+   "title_ko": "미 국방부, 앤트로픽을 여전히 '공급망 위험'으로 분류",
+   "summary_ko": "상무장관의 신뢰 표명에도 불구하고 미 국방부와 방산업계는 앤트로픽을 여전히 공급망 위험 요소로 간주하고 있는 것으로 나타났다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "규제"
+   ]
+  },
+  {
+   "id": "4bdcace00f7a7cf4",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214886",
+   "source": "AI타임스",
+   "title": "딥시크, 새로운 데이터센터 구축을 위해 화웨이 AI 칩 대량 주문 계획",
+   "published_at": "2026-09-05T15:01:15+00:00",
+   "collected_at": "2026-09-05T08:58:20.480858+00:00",
+   "title_ko": "딥시크, 대규모 데이터센터 구축 위해 화웨이 AI 칩 대량 주문",
+   "summary_ko": "딥시크가 내몽골 데이터센터 구축을 위해 화웨이의 차세대 AI 가속기를 대량 확보하며 엔비디아 의존도 낮추기에 나섰다.",
+   "category": "중요",
+   "tags": [
+    "반도체",
+    "중국"
+   ]
+  },
   {
    "id": "5c697cc229091917",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214883",
@@ -91,6 +168,66 @@
    "tags": [
     "OpenAI",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "2c0269c2d41b3006",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7tndw/qwen38_27b_for_agentic_coding_and_next_what/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8 27b for agentic coding and next .... what?",
+   "published_at": "2026-09-05T07:11:20+00:00",
+   "collected_at": "2026-09-05T08:58:07.193747+00:00",
+   "title_ko": "로컬 환경에서 구동하는 Qwen 3.8 27B 모델 주목",
+   "summary_ko": "24GB VRAM 환경에서도 원활히 작동하는 소형 오픈소스 모델 Qwen 3.8 27B가 실무 코딩 및 반복 업무에서 높은 효율을 보여주고 있다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "fbf6b55134c52291",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7thwv/ive_found_myself_using_local_llms_like_3d_printers/",
+   "source": "r/LocalLLaMA",
+   "title": "I've found myself using Local LLM's like 3D printers.",
+   "published_at": "2026-09-05T07:03:10+00:00",
+   "collected_at": "2026-09-05T08:58:07.193747+00:00",
+   "title_ko": "고성능 로컬 LLM을 3D 프린터처럼 유용하게 활용하는 사례",
+   "summary_ko": "대용량 메모리를 탑재한 로컬 하드웨어에서 Qwen 등 소형 LLM을 구동하며 일상적인 도구로 활용하는 개발자들의 경험담이 주목받고 있다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "c16dd2348377c667",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7tfrm/the_openai_huggingface_incident_from_an_agents_pov/",
+   "source": "r/LocalLLaMA",
+   "title": "The OpenAI Huggingface incident from an agents POV",
+   "published_at": "2026-09-05T07:00:18+00:00",
+   "collected_at": "2026-09-05T08:58:07.193747+00:00",
+   "title_ko": "에이전트 관점에서 본 OpenAI와 허깅페이스 관련 해프닝",
+   "summary_ko": "AI 에이전트의 시각에서 최근 발생한 오픈AI와 허깅페이스 관련 사건을 조명하는 커뮤니티 토론이 공유됐다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "5cb645403785beea",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7q92n/qwen3827b_beat_the_wikipedia_game_in_6_clicks/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8-27B beat the Wikipedia game in 6 clicks.",
+   "published_at": "2026-09-05T04:10:58+00:00",
+   "collected_at": "2026-09-05T08:58:07.193747+00:00",
+   "title_ko": "로컬 LLM(Qwen 3.8-27B)으로 위키피디아 게임 구현",
+   "summary_ko": "개발자가 로컬 환경의 Qwen 모델을 활용해 위키피디아 하이퍼링크 탐색 미니게임을 구현한 사례가 공유됐다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
    ]
   },
   {
@@ -199,6 +336,20 @@
    ]
   },
   {
+   "id": "2d1aff01ef67ae47",
+   "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+   "source": "Hacker News",
+   "title": "Artificial Analysis Intelligence Index v4.2",
+   "published_at": "2026-09-05T00:04:14+00:00",
+   "collected_at": "2026-09-05T08:58:02.640915+00:00",
+   "title_ko": "아티피셜 나이실리스, 인텔리전스 인덱스 v4.2 공개",
+   "summary_ko": "AI 모델들의 성능과 비용 효율성을 비교 분석하는 아티피셜 나이실리스의 최신 인덱스 v4.2가 발표됐다.",
+   "category": "참고",
+   "tags": [
+    "AI 모델"
+   ]
+  },
+  {
    "id": "3947b5cf595857bb",
    "url": "https://news.hada.io/topic?id=33244",
    "source": "GeekNews",
@@ -242,6 +393,21 @@
     "OpenAI",
     "GPT",
     "LLM"
+   ]
+  },
+  {
+   "id": "44a6c9acd9ce915d",
+   "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+   "source": "Hacker News",
+   "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+   "published_at": "2026-09-04T23:38:50+00:00",
+   "collected_at": "2026-09-05T08:58:02.640915+00:00",
+   "title_ko": "스포티파이, Claude Code 토큰 사용량 90% 절감 도구 공개",
+   "summary_ko": "스포티파이 엔지니어링 팀이 개발한 내부 도구를 통해 Claude Code 사용 시 토큰 소모량을 90% 줄인 사례가 공유됐다.",
+   "category": "팁",
+   "tags": [
+    "Claude",
+    "코딩"
    ]
   },
   {
@@ -439,6 +605,22 @@
    "tags": [
     "오픈소스",
     "반도체"
+   ]
+  },
+  {
+   "id": "2ed23ceecfed80f4",
+   "url": "https://github.com/anthropics/fermats-last-theorem",
+   "source": "Hacker News",
+   "title": "Fermat's Last Theorem in Lean 4",
+   "published_at": "2026-09-04T18:57:32+00:00",
+   "collected_at": "2026-09-05T08:58:02.640915+00:00",
+   "title_ko": "앤트로픽, Lean 4로 페르마의 마지막 정리 증명 공개",
+   "summary_ko": "앤트로픽이 AI와 형식 정형화 도구인 Lean 4를 활용해 페르마의 마지막 정리를 증명한 프로젝트를 공개했습니다. 복잡한 수학적 추론 능력을 검증하는 AI의 발전 방향을 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "Anthropic",
+    "AI 에이전트",
+    "오픈소스"
    ]
   },
   {
@@ -2819,185 +3001,6 @@
    "category": "참고",
    "tags": [
     "오픈소스"
-   ]
-  },
-  {
-   "id": "2ba98708e34757e7",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5ttgb/glm53_flash_over_dsv4_flash/",
-   "source": "r/LocalLLaMA",
-   "title": "GLM5.3 Flash over DSV4 Flash?",
-   "published_at": "2026-09-03T01:43:06+00:00",
-   "collected_at": "2026-09-03T04:16:38.215930+00:00",
-   "title_ko": "로컬 환경에서 GLM-5.3 Flash와 DeepSeek V4 Flash 비교",
-   "summary_ko": "맥 스튜디오 환경에서 두 최신 플래시 모델을 직접 구동해본 사용자들의 성능 및 사용감 비교 피드백입니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "3c357c5d861f5399",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5trnb/microsoft_vibevoiceasrstreaming_released/",
-   "source": "r/LocalLLaMA",
-   "title": "Microsoft VibeVoice-ASR-Streaming Released",
-   "published_at": "2026-09-03T01:40:39+00:00",
-   "collected_at": "2026-09-03T04:16:38.215930+00:00",
-   "title_ko": "마이크로소프트, VibeVoice-ASR-Streaming 공개",
-   "summary_ko": "마이크로소프트가 실시간 음성 인식을 위한 새로운 스트리밍 모델을 공개했습니다.",
-   "category": "속보",
-   "tags": [
-    "Microsoft"
-   ]
-  },
-  {
-   "id": "16f02e0954286471",
-   "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
-   "source": "Hacker News",
-   "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
-   "published_at": "2026-09-03T01:11:22+00:00",
-   "collected_at": "2026-09-03T21:39:37.839108+00:00",
-   "title_ko": "바둑 기사 신진서, 두 점 접바둑으로 AI KataGo 제압",
-   "summary_ko": "프로 바둑 기사가 핸디캡을 안고 바둑 AI인 KataGo를 상대로 승리하여 인간의 전략적 우위를 입증했습니다.",
-   "category": "참고",
-   "tags": [
-    "바둑",
-    "인공지능",
-    "KataGo"
-   ]
-  },
-  {
-   "id": "62572dc0a84a4f41",
-   "url": "https://news.hada.io/topic?id=33177",
-   "source": "GeekNews",
-   "title": "마케팅 인텔리전스 레이어 - 흩어진 경험을 AI의 재사용 가능한 컨텍스트로 만들기",
-   "published_at": "2026-09-03T01:10:09+00:00",
-   "collected_at": "2026-09-03T04:16:52.722683+00:00",
-   "title_ko": "마케팅 경험을 AI 재사용 컨텍스트로 구축하는 법",
-   "summary_ko": "조직 내 흩어진 문자와 회의록 등을 구조화하여 AI 도구가 활용할 수 있는 마케팅 인텔리전스 레이어를 구축하는 방법입니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "b5c14f37a9edeeea",
-   "url": "https://news.hada.io/topic?id=33176",
-   "source": "GeekNews",
-   "title": "Claude로 커머스 에이전트 구축하기",
-   "published_at": "2026-09-03T01:03:14+00:00",
-   "collected_at": "2026-09-03T04:16:52.722683+00:00",
-   "title_ko": "앤트로픽, Claude 활용 커머스 에이전트 블루프린트 공개",
-   "summary_ko": "앤트로픽이 쇼핑 및 판매자 에이전트를 빠르게 구축할 수 있는 Claude Code 플러그인과 블루프린트를 공개했습니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "Claude",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "6641da53c5366e7f",
-   "url": "https://news.hada.io/topic?id=33175",
-   "source": "GeekNews",
-   "title": "Claude Fable 5.1 프롬프팅 가이드",
-   "published_at": "2026-09-03T01:01:50+00:00",
-   "collected_at": "2026-09-03T04:16:52.722683+00:00",
-   "title_ko": "Claude Fable 5.1 프롬프팅 가이드",
-   "summary_ko": "새롭게 업데이트된 Claude Fable 5.1의 변경된 프롬프트 설정과 활용 팁을 정리한 가이드입니다.",
-   "category": "팁",
-   "tags": [
-    "Anthropic",
-    "Claude"
-   ]
-  },
-  {
-   "id": "a838f9c0690ad402",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5svj4/chrome_browser_addon_that_uses_local_llms_to_move/",
-   "source": "r/LocalLLaMA",
-   "title": "Chrome browser add-on that uses local LLMs to move thousands of unsorted bookmarks into a smart list of automatically calculated categories",
-   "published_at": "2026-09-03T01:00:09+00:00",
-   "collected_at": "2026-09-03T04:16:38.215930+00:00",
-   "title_ko": "로컬 LLM 활용 크롬 북마크 자동 분류 브라우저 확장 프로그램",
-   "summary_ko": "로컬 LLM을 이용해 수많은 북마크를 자동으로 카테고리화하고 정리해주는 크롬 확장 프로그램 개발 소식입니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "111c66e5b199ed31",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5sb4g/deepseekv4flash_vs_glm53flash_on_2_dgx_spark/",
-   "source": "r/LocalLLaMA",
-   "title": "DeepSeek-V4-Flash vs. GLM-5.3-Flash on 2× DGX Spark",
-   "published_at": "2026-09-03T00:34:18+00:00",
-   "collected_at": "2026-09-03T04:16:38.215930+00:00",
-   "title_ko": "고성능 하드웨어에서 DeepSeek-V4와 GLM-5.3 Flash 비교",
-   "summary_ko": "듀얼 DGX Spark 환경에서 DeepSeek과 GLM 플래시 모델을 테스트한 사용자들의 실제 사용 소감과 성능 비교입니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "9bae9c99bb7422a4",
-   "url": "https://news.hada.io/topic?id=33173",
-   "source": "GeekNews",
-   "title": "범용 로봇은 어디까지 왔나 [유튜브]",
-   "published_at": "2026-09-03T00:25:02+00:00",
-   "collected_at": "2026-09-03T04:16:52.722683+00:00",
-   "title_ko": "범용 로봇을 위한 물리 지능 모델의 현황",
-   "summary_ko": "Physical Intelligence사가 하나의 모델로 다양한 로봇 작업을 수행하는 범용 물리 지능을 개발 중이며, 신뢰성과 일반화가 핵심 과제로 꼽힙니다.",
-   "category": "참고",
-   "tags": [
-    "로보틱스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "2e155b11d8093d3e",
-   "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-   "source": "OpenAI",
-   "title": "Safety overview: GPT-6 Astra",
-   "published_at": "2026-09-03T00:00:00+00:00",
-   "collected_at": "2026-09-03T21:39:36.954817+00:00",
-   "title_ko": "OpenAI, GPT-6 Astra 안전성 개요 공개",
-   "summary_ko": "GPT-6 Astra는 뛰어난 성능을 갖춘 모델로, 준비 프레임워크에 따라 최초로 사이버 보안 역량 '임계(Critical)' 수준에 도달했습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "GPT",
-    "보안"
-   ]
-  },
-  {
-   "id": "45020768fad998be",
-   "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-   "source": "Hugging Face",
-   "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-   "published_at": "2026-09-03T00:00:00+00:00",
-   "collected_at": "2026-09-03T14:24:25.729100+00:00",
-   "title_ko": "GRPO 학습을 통한 3.5억 파라미터 소형 모델 파인튜닝",
-   "summary_ko": "100회의 GRPO 학습 단계를 거쳐 구조화된 출력을 더 잘 생성하도록 소형 모델을 파인튜닝하는 방법입니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "86b47b47cb7422fd",
-   "url": "https://huggingface.co/blog/funes",
-   "source": "Hugging Face",
-   "title": "Give Your Coding Agents a Memory You Own",
-   "published_at": "2026-09-03T00:00:00+00:00",
-   "collected_at": "2026-09-03T14:24:25.729100+00:00",
-   "title_ko": "코딩 에이전트를 위한 자체 소유 메모리 구축 방법",
-   "summary_ko": "코딩 AI 에이전트가 작업 맥락을 유지하고 활용할 수 있도록 사용자가 직접 소유하고 관리하는 메모리를 제공하는 방법입니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
    ]
   }
  ]
