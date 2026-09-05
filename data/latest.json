@@ -1,8 +1,102 @@
 {
- "updated_at": "2026-09-05T21:07:39.928196+00:00",
+ "updated_at": "2026-09-05T23:47:45.681072+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "94ba69716788d112",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214896",
+   "source": "AI타임스",
+   "title": "GPT-6 아스트라, AI 최초 수능 '완전 만점'...탐구 4과목까지 석권",
+   "published_at": "2026-09-06T08:00:01+00:00",
+   "collected_at": "2026-09-05T23:47:40.791403+00:00",
+   "title_ko": "오픈AI GPT-6 아스트라, AI 최초 수능 만점 달성",
+   "summary_ko": "오픈AI의 GPT-6 아스트라가 수능 LLM 풀이 대시보드에서 AI 모델 최초로 전 문항 만점을 기록했습니다. 고도화된 추론 능력을 입증하는 중요한 성과입니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT",
+    "LLM"
+   ]
+  },
+  {
+   "id": "b8133850cc199948",
+   "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
+   "source": "Simon Willison",
+   "title": "Introducing GPT-6 Astra for developers",
+   "published_at": "2026-09-05T23:27:48+00:00",
+   "collected_at": "2026-09-05T23:47:09.154953+00:00",
+   "title_ko": "개발자를 위한 GPT-6 아스트라 주요 특징 공개",
+   "summary_ko": "개발자 관점에서 GPT-6 아스트라는 세밀한 프롬프트 이해도와 뛰어난 3D 모델링 생성 능력을 보여줍니다. 복잡한 출력물 생성에서 큰 진전을 보였습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "GPT",
+    "생성형AI"
+   ]
+  },
+  {
+   "id": "0c4c4563d71706dd",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8f7bp/which_agent_harness_do_you_use_and_why/",
+   "source": "r/LocalLLaMA",
+   "title": "Which agent harness do you use and why?",
+   "published_at": "2026-09-05T22:57:24+00:00",
+   "collected_at": "2026-09-05T23:47:09.955541+00:00",
+   "title_ko": "개발자들이 선호하는 AI 에이전트 하네스 비교",
+   "summary_ko": "다양한 AI 에이전트 하네스가 등장하는 가운데, 기존 도구들과의 차이점과 실무 선호도에 대한 논의가 활발히 이루어지고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "1d3d4d76fcdcf806",
+   "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+   "source": "TechCrunch",
+   "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+   "published_at": "2026-09-05T22:49:55+00:00",
+   "collected_at": "2026-09-05T23:46:35.791693+00:00",
+   "title_ko": "시애틀 타임스·뉴스데이, 오픈AI와 마이크로소프트 상대로 저작권 소송 제기",
+   "summary_ko": "언론사들이 AI 학습에 무단으로 기사가 사용되었다며 오픈AI와 마이크로소프트를 상대로 소송을 제기했습니다. AI 업계의 저작권 갈등이 지속되고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "Microsoft",
+    "규제"
+   ]
+  },
+  {
+   "id": "c816676ba0322cdd",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8e08d/is_3090_5070_5060s_a_good_idea/",
+   "source": "r/LocalLLaMA",
+   "title": "Is 3090 + 5070 & 5060s a good idea?",
+   "published_at": "2026-09-05T22:05:52+00:00",
+   "collected_at": "2026-09-05T23:47:09.955541+00:00",
+   "title_ko": "로컬 LLM 구성을 위한 VRAM 및 GPU 혼용 가이드",
+   "summary_ko": "서로 다른 세대의 NVIDIA GPU를 혼용할 때 발생하는 성능 저하와 VRAM 효율성에 대한 사용자들의 실무 경험 공유입니다.",
+   "category": "팁",
+   "tags": [
+    "NVIDIA",
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "271f0eb3eb6b0ac8",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8dw2g/your_opinion_on_ling_30_tiny_on_cpu/",
+   "source": "r/LocalLLaMA",
+   "title": "Your opinion on Ling 3.0 tiny on CPU?",
+   "published_at": "2026-09-05T22:01:06+00:00",
+   "collected_at": "2026-09-05T23:47:09.955541+00:00",
+   "title_ko": "CPU 환경에서 Ling 3.0 tiny 모델 사용 후기",
+   "summary_ko": "저사양 CPU 환경에서 경량화된 로컬 LLM인 Ling 3.0 tiny를 구동해본 사용자들의 평가와 의견 교류입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
   {
    "id": "8628ca5ed50c4703",
    "url": "https://news.hada.io/topic?id=33265",
@@ -20,6 +114,21 @@
    ]
   },
   {
+   "id": "b6a75cdb30da14a9",
+   "url": "https://arxiv.org/abs/2609.03344",
+   "source": "Hacker News",
+   "title": "LLMs as a Cognitive Virus",
+   "published_at": "2026-09-05T20:02:35+00:00",
+   "collected_at": "2026-09-05T23:46:53.794468+00:00",
+   "title_ko": "LLM을 인지적 바이러스로 해석하는 연구",
+   "summary_ko": "대형언어모델이 인간의 사고방식과 정보 전파에 미치는 영향을 인지적 바이러스 개념에 빗대어 분석한 논문입니다.",
+   "category": "참고",
+   "tags": [
+    "LLM",
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "05d8db6c17072c89",
    "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
    "source": "TechCrunch",
@@ -33,6 +142,22 @@
     "Google",
     "Gemini",
     "규제"
+   ]
+  },
+  {
+   "id": "3aa3eec1bd916dde",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8a45b/my_local_llm_demoscene_generator_can_now_watch/",
+   "source": "r/LocalLLaMA",
+   "title": "My local LLM demoscene generator can now watch its own output and rewrite it!",
+   "published_at": "2026-09-05T19:30:34+00:00",
+   "collected_at": "2026-09-05T23:47:09.955541+00:00",
+   "title_ko": "로컬 LLM 기반 자체 코드 생성 및 수정 데모 구현",
+   "summary_ko": "로컬 LLM이 스스로 코드를 생성하고 실행 결과 화면을 분석하여 오류를 수정하는 자동화 데모 프로젝트 사례입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "코딩"
    ]
   },
   {
@@ -2868,127 +2993,6 @@
    "category": "참고",
    "tags": [
     "Google"
-   ]
-  },
-  {
-   "id": "351e020d2441a918",
-   "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-   "source": "Hacker News",
-   "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-   "published_at": "2026-09-03T14:28:18+00:00",
-   "collected_at": "2026-09-03T21:39:37.839108+00:00",
-   "title_ko": "LLM을 활용한 1993년작 아미가 게임의 고도(Godot) 엔진 이식",
-   "summary_ko": "개발자가 LLM(Claude)을 활용해 33년 전 어셈블리로 작성된 게임 코드를 분석하고 고도 엔진으로 성공적으로 포팅했다.",
-   "category": "팁",
-   "tags": [
-    "Claude",
-    "코딩"
-   ]
-  },
-  {
-   "id": "36afe72f95a6e934",
-   "url": "https://www.reddit.com/r/singularity/comments/1w68wt3/claude_fable_51_surpasses_human_average_on/",
-   "source": "r/singularity",
-   "title": "Claude Fable 5.1 surpasses human average on SimpleBench",
-   "published_at": "2026-09-03T14:24:52+00:00",
-   "collected_at": "2026-09-03T23:58:00.735170+00:00",
-   "title_ko": "인간 평균 넘어선 Claude Fable 5.1",
-   "summary_ko": "Claude Fable 5.1 모델이 SimpleBench에서 인간 평균 기록을 넘어섰습니다. LLM의 추론 능력 향상을 보여줍니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "Claude",
-    "Gemini"
-   ]
-  },
-  {
-   "id": "d50206a7c80e8fc1",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w68rj6/introducing_k2_horizon_frontier_performance/",
-   "source": "r/LocalLLaMA",
-   "title": "Introducing K2 Horizon: Frontier Performance, Radically Open",
-   "published_at": "2026-09-03T14:19:41+00:00",
-   "collected_at": "2026-09-03T18:32:08.284337+00:00",
-   "title_ko": "최첨단 성능의 오픈 모델 'K2 Horizon' 출시",
-   "summary_ko": "파격적인 개방성과 뛰어난 성능을 내세운 K2 Horizon 오픈 모델 시리즈가 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "c7b8db5667c35e0b",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w67wso/ifmk2horizonmova36ba4bgguf_hugging_face/",
-   "source": "r/LocalLLaMA",
-   "title": "IFM/K2-Horizon-MoVA-36B-A4B-GGUF · Hugging Face",
-   "published_at": "2026-09-03T13:47:54+00:00",
-   "collected_at": "2026-09-03T14:24:35.282551+00:00",
-   "title_ko": "K2-Horizon-MoVA-36B 오픈소스 MoE 모델 공개",
-   "summary_ko": "혼합 값 어텐션(MoVA)을 적용한 36B 파라미터 규모의 고성능 오픈소스 모델이 허깅페이스에 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "74fa47d42d888922",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w67nkz/frontier_models_sabotaging_local_ai/",
-   "source": "r/LocalLLaMA",
-   "title": "Frontier models sabotaging local AI implementations?",
-   "published_at": "2026-09-03T13:37:43+00:00",
-   "collected_at": "2026-09-03T14:24:35.282551+00:00",
-   "title_ko": "프론티어 LLM의 로컬 AI 에이전트 구현 방해 문제",
-   "summary_ko": "최신 프론티어 모델들이 로컬 환경에서 지나친 제약과 불필요한 가이드라인을 추가해 오히려 개발 생산성을 떨어뜨린다는 지적이 나오고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "GPT"
-   ]
-  },
-  {
-   "id": "5190d2a1dccd48dc",
-   "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-   "source": "OpenAI",
-   "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-   "published_at": "2026-09-03T13:15:00+00:00",
-   "collected_at": "2026-09-03T21:39:36.954817+00:00",
-   "title_ko": "오픈AI, 필수 서비스 보호 위해 10억 달러 규모 사이버 AI 지원 발표",
-   "summary_ko": "오픈AI가 핵심 인프라와 필수 서비스를 사이버 위협으로부터 보호하기 위해 10억 달러 규모의 프론티어 AI 지원 프로그램을 시작했다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "투자"
-   ]
-  },
-  {
-   "id": "96a3500c5a4b2fb7",
-   "url": "https://huggingface.co/blog/Hcompany/neomme",
-   "source": "Hugging Face",
-   "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-   "published_at": "2026-09-03T13:13:48+00:00",
-   "collected_at": "2026-09-03T14:24:25.729100+00:00",
-   "title_ko": "효율적인 멀티모달 멀티언어 인코더 NeoMME 공개",
-   "summary_ko": "다양한 언어와 멀티모달 입력을 효율적으로 처리할 수 있는 새로운 인코더 모델이 공개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "멀티모달"
-   ]
-  },
-  {
-   "id": "0d74e9b537b99e60",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w66lyh/would_i_be_mad_to_collocate_my_own_server/",
-   "source": "r/LocalLLaMA",
-   "title": "Would I be mad to collocate my own server?",
-   "published_at": "2026-09-03T12:55:17+00:00",
-   "collected_at": "2026-09-03T14:24:35.282551+00:00",
-   "title_ko": "개인 서버 구축 및 AI 모델 호스팅의 실효성 논의",
-   "summary_ko": "중고 서버를 구매해 직접 토큰 서빙이나 클라우드 서비스를 운영하는 방식의 경제성과 타당성을 커뮤니티에서 논의하고 있습니다.",
-   "category": "팁",
-   "tags": [
-    "반도체",
-    "인프라"
    ]
   }
  ]
