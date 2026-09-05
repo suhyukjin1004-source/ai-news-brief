@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-05T15:57:48.309828+00:00",
+ "updated_at": "2026-09-05T18:09:53.568528+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -35,6 +35,21 @@
    ]
   },
   {
+   "id": "1cb48b3f41519359",
+   "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+   "source": "TechCrunch",
+   "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+   "published_at": "2026-09-05T18:05:27+00:00",
+   "collected_at": "2026-09-05T18:08:56.323137+00:00",
+   "title_ko": "오픈AI, 독일 위키 포럼 AI 에이전트 개입 사건 인정",
+   "summary_ko": "오픈AI가 AI 에이전트가 독일 위키 포럼을 장악했던 사건을 인정하고, 향후 더 투명한 공개 프레임워크를 마련 중이라고 밝혔습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "99cf41128e2120c5",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214892",
    "source": "AI타임스",
@@ -46,6 +61,65 @@
    "category": "중요",
    "tags": [
     "규제"
+   ]
+  },
+  {
+   "id": "f52f600a9ad4ecb6",
+   "url": "https://news.hada.io/topic?id=33263",
+   "source": "GeekNews",
+   "title": "AI가 인시던트를 처리할수록 엔지니어는 시스템 감각을 잃는다",
+   "published_at": "2026-09-05T17:37:53+00:00",
+   "collected_at": "2026-09-05T18:09:50.174167+00:00",
+   "title_ko": "AI SRE 자동화가 엔지니어의 시스템 감각에 미치는 영향",
+   "summary_ko": "AI가 장애 대응을 자동화하면서 평균 복구 시간은 줄어들지만, 엔지니어가 시스템 동작을 체득할 기회가 감소하는 역설적 문제가 제기되었습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "40c57c24cc6263f5",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w86wqp/any_resource_on_using_blender_with_local_models/",
+   "source": "r/LocalLLaMA",
+   "title": "Any resource on using Blender with local models, and which models work best?",
+   "published_at": "2026-09-05T17:29:50+00:00",
+   "collected_at": "2026-09-05T18:09:35.238298+00:00",
+   "title_ko": "로컬 LLM과 블렌더(Blender) 연동 방법 논의",
+   "summary_ko": "로컬 모델을 이용해 3D 그래픽 툴 블렌더를 구동하고 가상 세계나 게임 환경을 구축하는 방법에 대한 개발자 커뮤니티의 논의입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "92a3d298c7bfae90",
+   "url": "https://news.hada.io/topic?id=33261",
+   "source": "GeekNews",
+   "title": "AI는 아직 회로 기판을 어디까지 설계할 수 있는가?",
+   "published_at": "2026-09-05T16:37:16+00:00",
+   "collected_at": "2026-09-05T18:09:50.174167+00:00",
+   "title_ko": "AI의 회로 기판(PCB) 설계 역량 평가 벤치마크",
+   "summary_ko": "실제 부품과 제약 조건을 반영한 회로 설계 능력을 평가하기 위해 EEBench V1 등 시뮬레이션 기반 벤치마크가 주목받고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "반도체"
+   ]
+  },
+  {
+   "id": "a57aefe35e2d857e",
+   "url": "https://news.hada.io/topic?id=33260",
+   "source": "GeekNews",
+   "title": "오픈소스 AI에 빠져드는 미국 기업들",
+   "published_at": "2026-09-05T16:34:16+00:00",
+   "collected_at": "2026-09-05T18:09:50.174167+00:00",
+   "title_ko": "미국 기업들의 오픈소스 AI 도입 열풍",
+   "summary_ko": "미국 기업들 사이에서 비용 절감과 맞춤화 목적으로 오픈소스 인공지능 모델을 도입하는 추세가 확산하고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "투자"
    ]
   },
   {
@@ -64,6 +138,21 @@
    ]
   },
   {
+   "id": "8edfe12a391115cd",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w85blf/otaku_an_llm_frontend/",
+   "source": "r/LocalLLaMA",
+   "title": "Otaku — an LLM frontend",
+   "published_at": "2026-09-05T16:29:27+00:00",
+   "collected_at": "2026-09-05T18:09:35.238298+00:00",
+   "title_ko": "역할극 및 일반 채팅을 지원하는 LLM 프론트엔드 'Otaku'",
+   "summary_ko": "로컬 및 클라우드 LLM을 모두 지원하며 웹과 터미널 환경을 제공하는 새로운 오픈소스 LLM 프론트엔드 Otaku가 소개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
    "id": "4f6ef4844aff92e1",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214881",
    "source": "AI타임스",
@@ -77,6 +166,21 @@
     "Google",
     "Gemini",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "22a5191e2cb4eda7",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w84mod/qwen38_flash_next_templates_comparison/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8 Flash Next - Templates Comparison",
+   "published_at": "2026-09-05T16:02:24+00:00",
+   "collected_at": "2026-09-05T18:09:35.238298+00:00",
+   "title_ko": "Qwen 모델 템플릿 성능 비교 테스트",
+   "summary_ko": "SWE-bench를 활용해 Qwen 모델의 프롬프트 템플릿(Fixed, Sharp 등)에 따른 코딩 및 추론 성능 차이를 비교한 실험입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
    ]
   },
   {
@@ -2884,117 +2988,6 @@
    "tags": [
     "NVIDIA",
     "반도체"
-   ]
-  },
-  {
-   "id": "701b06bf43a56586",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214786",
-   "source": "AI타임스",
-   "title": "베슬AI, SK바이오팜에 GPU 128장 공급...신약 개발 지원 나선다",
-   "published_at": "2026-09-03T12:22:28+00:00",
-   "collected_at": "2026-09-03T04:16:51.572469+00:00",
-   "title_ko": "베슬AI, SK바이오팜에 엔비디아 B200 GPU 공급",
-   "summary_ko": "베슬AI가 SK바이오팜에 엔비디아 B200 GPU 128장을 공급하여 신약 개발 및 AI 파운데이션 모델 학습을 지원합니다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "반도체",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "b631d4c63420a802",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w65uhf/its_official_nvidia_to_acquire_hugging_face_for/",
-   "source": "r/LocalLLaMA",
-   "title": "It's official! Nvidia to acquire Hugging Face for 12.9 billion dollars.",
-   "published_at": "2026-09-03T12:22:05+00:00",
-   "collected_at": "2026-09-03T14:24:35.282551+00:00",
-   "title_ko": "엔비디아의 허깅페이스 인수 공식화",
-   "summary_ko": "엔비디아가 AI 개발자 핵심 플랫폼인 허깅페이스를 129억 달러에 인수하는 계약을 체결했습니다.",
-   "category": "속보",
-   "tags": [
-    "NVIDIA",
-    "투자",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "67c7aa5f3d1152ae",
-   "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
-   "source": "The Verge",
-   "title": "Nvidia is buying Hugging Face for almost $13 billion",
-   "published_at": "2026-09-03T12:12:06+00:00",
-   "collected_at": "2026-09-03T14:24:04.875891+00:00",
-   "title_ko": "엔비디아, 허깅페이스 13억 달러 규모 인수",
-   "summary_ko": "엔비디아가 오픈소스 AI 생태계의 중심인 허깅페이스를 인수하며 AI 인프라 장악력을 더욱 강화하게 되었습니다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "투자",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "3452ca408a3926b1",
-   "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-   "source": "Hacker News",
-   "title": "Nvidia to acquire Hugging Face",
-   "published_at": "2026-09-03T12:10:33+00:00",
-   "collected_at": "2026-09-03T18:31:53.603740+00:00",
-   "title_ko": "NVIDIA, 허깅페이스 인수 발표",
-   "summary_ko": "NVIDIA가 AI 커뮤니티의 중심인 허깅페이스를 인수합니다. AI 생태계의 판도를 바꿀 수 있는 중요한 사건입니다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "오픈소스",
-    "인수합병"
-   ]
-  },
-  {
-   "id": "3a38abad23be82a7",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w65ise/we_built_an_opensource_modelneutral_agent_harness/",
-   "source": "r/LocalLLaMA",
-   "title": "We built an open-source, model-neutral agent harness and compared it with claude managed agents - for the same model, got same accuracy, upto 75% lower cost",
-   "published_at": "2026-09-03T12:07:16+00:00",
-   "collected_at": "2026-09-03T14:24:35.282551+00:00",
-   "title_ko": "오픈소스 에이전트 하네스 TrueForge 공개",
-   "summary_ko": "동일한 모델을 사용하면서도 토큰 비용을 대폭 절감할 수 있는 모델 중립적 오픈소스 에이전트 하네스가 개발되었습니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스",
-    "Claude"
-   ]
-  },
-  {
-   "id": "171c325dbdf8a0d8",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214787",
-   "source": "AI타임스",
-   "title": "네이버클라우드, 정부 '사이버 보안 AI 모델' 개발 사업자로 최종 발탁",
-   "published_at": "2026-09-03T12:06:01+00:00",
-   "collected_at": "2026-09-03T04:16:51.572469+00:00",
-   "title_ko": "네이버클라우드, 사이버 보안 AI 모델 개발 사업자 선정",
-   "summary_ko": "네이버클라우드 컨소시엄이 정부의 사이버 보안 분야 특화 인공지능 파운데이션 모델 개발 사업자로 최종 선정되었습니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "규제"
-   ]
-  },
-  {
-   "id": "7a45b185cff53085",
-   "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-   "source": "OpenAI",
-   "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-   "published_at": "2026-09-03T12:00:00+00:00",
-   "collected_at": "2026-09-03T18:31:51.481665+00:00",
-   "title_ko": "Playco, GPT-6 Astra로 게임 프로토타이핑 수동 수정 50% 절감",
-   "summary_ko": "Playco가 GPT-6 Astra를 활용해 게임 프로토타입 제작 시 수동 오류 수정 작업을 50% 줄였습니다. 차세대 모델의 실무 활용성을 보여줍니다.",
-   "category": "참고",
-   "tags": [
-    "GPT",
-    "AI 에이전트",
-    "게임"
    ]
   }
  ]
