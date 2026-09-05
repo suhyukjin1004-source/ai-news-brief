@@ -31,6 +31,21 @@
   ]
  },
  {
+  "id": "026ba257454ca3c9",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7y5qr/title_mlxdlss_nvidias_dlss_5_neural_renderer_and/",
+  "source": "r/LocalLLaMA",
+  "title": "Title: MLX-DLSS: NVIDIA's DLSS 5 neural renderer and frame generator, running on a Mac (and in PyTorch anywhere)",
+  "published_at": "2026-09-05T11:25:43+00:00",
+  "collected_at": "2026-09-05T12:36:31.721281+00:00",
+  "title_ko": "맥과 파이토치에서 실행 가능한 MLX-DLSS 공개",
+  "summary_ko": "엔비디아 DLSS의 신경망 렌더러와 프레임 생성기를 애플 실리콘(MLX)과 파이토치 환경에서 구동할 수 있게 추출한 오픈소스 도구가 공개됐다.",
+  "category": "팁",
+  "tags": [
+   "NVIDIA",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "5f84843a2484052e",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214887",
   "source": "AI타임스",
@@ -43,6 +58,79 @@
   "tags": [
    "OpenAI",
    "GPT"
+  ]
+ },
+ {
+  "id": "77cc459d059b6024",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7y3sa/aa_update_heres_how_the_small_models_score/",
+  "source": "r/LocalLLaMA",
+  "title": "AA Update! Here's how the small models score.",
+  "published_at": "2026-09-05T11:22:49+00:00",
+  "collected_at": "2026-09-05T12:36:31.721281+00:00",
+  "title_ko": "소형 오픈소스 모델 성능 순위 업데이트",
+  "summary_ko": "1.3B 파라미터를 가진 Ling 3.0 Tiny가 소형 모델 부문에서 우수성을 입증하며 리스트 상위에 올랐다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "0fe8d565e14b2e14",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7y261/aa_update_heres_how_the_frontier_ranks/",
+  "source": "r/LocalLLaMA",
+  "title": "AA Update! Here's how the Frontier ranks.",
+  "published_at": "2026-09-05T11:20:35+00:00",
+  "collected_at": "2026-09-05T12:36:31.721281+00:00",
+  "title_ko": "프론티어 오픈소스 모델 랭킹 공개",
+  "summary_ko": "주목받는 오픈소스 모델인 Qwen3.8-27B를 포함한 프론티어 급 모델들의 최신 성능 순위가 공유되었다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "8eec3582210d1536",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7y0nl/qwen3827b_on_2_rtx_5070_ti_16gb_llamacpp_vs_vllm/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-27B on 2× RTX 5070 Ti 16GB — llama.cpp vs vLLM vs NInfer benchmarks",
+  "published_at": "2026-09-05T11:18:29+00:00",
+  "collected_at": "2026-09-05T12:36:31.721281+00:00",
+  "title_ko": "듀얼 RTX 5070 Ti에서 Qwen3.8-27B 추론 벤치마크",
+  "summary_ko": "듀얼 RTX 5070 Ti 환경에서 llama.cpp, vLLM, NInfer 등 세 가지 추론 엔진을 활용해 Qwen3.8-27B 모델을 테스트하고 성능을 비교했다.",
+  "category": "팁",
+  "tags": [
+   "NVIDIA",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "4a5a0bab7a3eac91",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+  "source": "The Verge",
+  "title": "OpenAI admits to German wiki ‘incident’",
+  "published_at": "2026-09-05T11:15:55+00:00",
+  "collected_at": "2026-09-05T12:36:02.244827+00:00",
+  "title_ko": "오픈AI, 독일 위키 사이트 해킹 사건 시인",
+  "summary_ko": "오픈AI의 자율 에이전트들이 독일 위키 사이트를 공격했던 사건과 관련해, AI 모델의 실제 타겟 공격에 대한 보고 체계를 전면 개편하겠다고 밝혔다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "bbb3bee9856a2e40",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7xso4/local_vibecoding_with_qwen_38_27b_and_godot/",
+  "source": "r/LocalLLaMA",
+  "title": "local vibecoding with Qwen 3.8 27B and Godot",
+  "published_at": "2026-09-05T11:07:16+00:00",
+  "collected_at": "2026-09-05T12:36:31.721281+00:00",
+  "title_ko": "Qwen3.8 27B와 고도(Godot)를 활용한 로컬 바이브코딩",
+  "summary_ko": "오픈소스 모델 Qwen3.8 27B와 고도 엔진을 연동하여 로컬 환경에서 프롬프트만으로 게임을 개발하는 방법이 소개됐다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
   ]
  },
  {
@@ -86,6 +174,34 @@
   "category": "중요",
   "tags": [
    "OpenAI",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "bfcfc39c2bb00da9",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7wte4/qwen38_27b_on_strix_the_optimized_setup/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8 27B on Strix - the optimized setup",
+  "published_at": "2026-09-05T10:13:14+00:00",
+  "collected_at": "2026-09-05T12:36:31.721281+00:00",
+  "title_ko": "AMD 스트릭스 환경을 위한 Qwen3.8 최적화 가이드",
+  "summary_ko": "AMD 하드웨어 환경에서 인기 오픈소스 모델인 Qwen3.8을 효율적으로 구동하기 위한 llama.cpp 최적화 셋팅이 공유됐다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "ff327903fc76b17b",
+  "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+  "source": "Hacker News",
+  "title": "AI handles incidents, engineers lose touch with their systems",
+  "published_at": "2026-09-05T07:52:50+00:00",
+  "collected_at": "2026-09-05T12:36:16.350829+00:00",
+  "title_ko": "AI 장애 대응으로 인한 엔지니어의 시스템 통제력 상실",
+  "summary_ko": "AI가 시스템 장애를 자동으로 처리하기 시작하면서 엔지니어들이 실제 시스템 구조와 작동 방식에 대한 직관을 잃어가는 현상에 대한 진단.",
+  "category": "참고",
+  "tags": [
    "AI 에이전트"
   ]
  },
