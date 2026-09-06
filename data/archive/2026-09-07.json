@@ -1,5 +1,157 @@
 [
  {
+  "id": "7f162df8ae6418aa",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9bz4i/trying_to_create_my_own_server_and_consuming_it/",
+  "source": "r/LocalLLaMA",
+  "title": "Trying to create my own server and consuming it for code with my phone remotely (Mac OS)",
+  "published_at": "2026-09-06T23:42:24+00:00",
+  "collected_at": "2026-09-06T23:45:50.615686+00:00",
+  "title_ko": "맥북과 모바일을 활용한 로컬 LLM 코딩 환경 구축 팁",
+  "summary_ko": "MacBook에서 LMStudio와 MLX를 이용해 로컬 모델을 구동하고 원격으로 모바일 코딩에 활용하는 과정에서 겪는 문제 해결 팁입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "00a508e12afb9e60",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+  "source": "The Verge",
+  "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+  "published_at": "2026-09-06T23:36:04+00:00",
+  "collected_at": "2026-09-06T23:45:18.965905+00:00",
+  "title_ko": "시애틀 타임스 및 뉴스데이, 오픈AI와 마이크로소프트 상대로 저작권 소송 제기",
+  "summary_ko": "미국 언론사들이 AI 모델 학습에 기사 무단 사용 및 답변 내 문장 무단 복제를 이유로 오픈AI와 마이크로소프트를 제소했습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "규제"
+  ]
+ },
+ {
+  "id": "c7ef007f3527f5ec",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9b1eg/vllm_p2p_driver_hack_qwen_38_27b_vs_llamacpp_qwen/",
+  "source": "r/LocalLLaMA",
+  "title": "vllm + p2p driver hack + qwen 3.8 27B vs llamacpp + qwen flash next ?",
+  "published_at": "2026-09-06T23:00:49+00:00",
+  "collected_at": "2026-09-06T23:45:50.615686+00:00",
+  "title_ko": "vLLM P2P 드라이버 패치와 로컬 LLM 추론 프레임워크 비교",
+  "summary_ko": "다중 GPU 환경에서 오픈소스 NVIDIA 드라이버의 P2P 패치 적용에 따른 vLLM과 llama.cpp 성능 및 설정 비교입니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "731ea28b61dc877e",
+  "url": "https://www.reddit.com/r/singularity/comments/1w9ag49/what_are_your_thoughts_i_still_believe_agi_is_a/",
+  "source": "r/singularity",
+  "title": "What are your thoughts? I still believe AGI is a long way off.",
+  "published_at": "2026-09-06T22:35:22+00:00",
+  "collected_at": "2026-09-06T23:46:03.515008+00:00",
+  "title_ko": "AGI 도달 시점에 대한 커뮤니티 토론",
+  "summary_ko": "범용인공지능(AGI)의 발전 속도와 도달 시점이 여전히 멀었다는 시각에 대한 사용자들의 의견 교환입니다.",
+  "category": "참고",
+  "tags": [
+   "AGI"
+  ]
+ },
+ {
+  "id": "6ef5ea14d05b7ff1",
+  "url": "https://www.reddit.com/r/singularity/comments/1w9aeyk/gpt6_astra_rickroll_in_blender/",
+  "source": "r/singularity",
+  "title": "GPT-6 Astra: Rickroll in Blender",
+  "published_at": "2026-09-06T22:34:01+00:00",
+  "collected_at": "2026-09-06T23:46:03.515008+00:00",
+  "title_ko": "블렌더 환경에서의 GPT-6 Astra 릭롤 실험",
+  "summary_ko": "최신 AI 모델을 활용해 3D 그래픽 프로그램인 블렌더에서 특정 동작을 수행하도록 테스트한 커뮤니티 사례입니다.",
+  "category": "참고",
+  "tags": [
+   "GPT"
+  ]
+ },
+ {
+  "id": "c4b0ca71393ce14c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9ad9q/i_built_an_llm_benchmark_harness_that_lets_you/",
+  "source": "r/LocalLLaMA",
+  "title": "I built an LLM benchmark harness that lets you browse and compare how models answered each question",
+  "published_at": "2026-09-06T22:32:07+00:00",
+  "collected_at": "2026-09-06T23:45:50.615686+00:00",
+  "title_ko": "개별 LLM 벤치마크 문답 비교 도구 'lm-eval-ledger' 출시",
+  "summary_ko": "모델별 벤치마크 결과의 세부 문답 내용을 웹 인터페이스에서 직접 비교하고 검토할 수 있는 오픈소스 툴입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "6b2ab3c03a57b60e",
+  "url": "https://www.reddit.com/r/singularity/comments/1w99zj0/terence_tao_says_ai_labs_race_to_beat_math/",
+  "source": "r/singularity",
+  "title": "Terence Tao says AI labs’ race to beat math benchmarks is starting to hurt the field. He wants them to compete on new insights instead.",
+  "published_at": "2026-09-06T22:15:59+00:00",
+  "collected_at": "2026-09-06T23:46:03.515008+00:00",
+  "title_ko": "테렌스 타오, AI 랩의 단순 수학 벤치마크 경쟁 우려 표명",
+  "summary_ko": "수학자 테렌스 타오가 AI 연구소들의 점수 경쟁이 실질적인 수학적 통찰 발전보다 벤치마크 수치 자체에만 매몰되고 있다고 지적했습니다.",
+  "category": "중요",
+  "tags": []
+ },
+ {
+  "id": "f29737bd154cb22f",
+  "url": "https://www.reddit.com/r/singularity/comments/1w99iy1/now_its_brazil_that_doesnt_want_to_rely_on_china/",
+  "source": "r/singularity",
+  "title": "Now its Brazil that doesn't want to rely on China and the US, they want their own sovereign, Portuguese AI",
+  "published_at": "2026-09-06T21:57:14+00:00",
+  "collected_at": "2026-09-06T23:46:03.515008+00:00",
+  "title_ko": "브라질, 독자적인 포르투갈어 소버린 AI 구축 추진",
+  "summary_ko": "미국과 중국 기술에 대한 의존도를 낮추기 위해 브라질이 자체적인 국가 AI 모델 개발에 나섰습니다.",
+  "category": "중요",
+  "tags": []
+ },
+ {
+  "id": "c75403e7d7d46ee4",
+  "url": "https://news.hada.io/topic?id=33293",
+  "source": "GeekNews",
+  "title": "AI로 도구를 만드는 것과 기업을 바꾸는 것은 다른 일이다",
+  "published_at": "2026-09-06T21:46:00+00:00",
+  "collected_at": "2026-09-06T23:46:05.944419+00:00",
+  "title_ko": "AI 도구 도입과 기업 조직 변화의 간극에 대한 고찰",
+  "summary_ko": "업무용 AI 도구를 쉽게 만드는 것과 조직 전체의 프로세스를 실제로 바꾸는 것은 완전히 다른 과제라는 점을 다룹니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "18194b9621525fbb",
+  "url": "https://news.hada.io/topic?id=33292",
+  "source": "GeekNews",
+  "title": "로봇 팔을 제어하는 GPT-6 Astra",
+  "published_at": "2026-09-06T21:40:42+00:00",
+  "collected_at": "2026-09-06T23:46:05.944419+00:00",
+  "title_ko": "GPT-6 Astra를 활용한 로봇 팔 제어 실험",
+  "summary_ko": "카메라 영상을 기반으로 로봇 팔을 제어하는 실험에서 Astra 모델이 뛰어난 작업 성공률과 처리 속도를 기록했습니다.",
+  "category": "속보",
+  "tags": [
+   "GPT",
+   "로보틱스"
+  ]
+ },
+ {
+  "id": "331ef5abdda8c00f",
+  "url": "https://news.hada.io/topic?id=33291",
+  "source": "GeekNews",
+  "title": "Artificial Analysis, AAII v4.2 발표 - 실제 업무 평가 강화, 비공개 테스트 확대",
+  "published_at": "2026-09-06T21:35:57+00:00",
+  "collected_at": "2026-09-06T23:46:05.944419+00:00",
+  "title_ko": "Artificial Analysis, AI 성능 평가 지표 'Intelligence Index v4.2' 발표",
+  "summary_ko": "복잡한 지식 업무와 장문 문서 추론 능력을 강화한 새로운 AI 모델 종합 평가 기준이 공개되었습니다.",
+  "category": "중요",
+  "tags": []
+ },
+ {
   "id": "c552c9e7d810d778",
   "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
   "source": "TechCrunch",
@@ -15,6 +167,33 @@
   ]
  },
  {
+  "id": "7b7757d30ce069d6",
+  "url": "https://www.reddit.com/r/singularity/comments/1w97g02/when_did_this_subreddit_fill_with_doomers/",
+  "source": "r/singularity",
+  "title": "When did this subreddit fill with doomers?",
+  "published_at": "2026-09-06T20:35:14+00:00",
+  "collected_at": "2026-09-06T23:46:03.515008+00:00",
+  "title_ko": "AI 비관론 확산에 대한 커뮤니티의 우려",
+  "summary_ko": "최근 AI 커뮤니티 내에 지나친 비관론과 종말론적 시각이 늘어난 현상에 대한 사용자 간의 토론입니다.",
+  "category": "참고",
+  "tags": []
+ },
+ {
+  "id": "116b9df02083f80f",
+  "url": "https://news.hada.io/topic?id=33289",
+  "source": "GeekNews",
+  "title": "당신의 지적 바지 지퍼가 열려 있습니다 (2025)",
+  "published_at": "2026-09-06T20:33:14+00:00",
+  "collected_at": "2026-09-06T23:46:05.944419+00:00",
+  "title_ko": "LLM 작성 글의 한계와 진정성 논란",
+  "summary_ko": "링크드인 등에서 LLM으로 작성된 게시물은 특유의 형식 때문에 독자에게 쉽게 노출되며 내용의 진정성을 의심받는다는 지적.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "a68174fb2c0ff7d8",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w96xoi/deepseekv4flashvision_q8_vs_qwen38flashnext_q8/",
   "source": "r/LocalLLaMA",
@@ -27,6 +206,53 @@
   "tags": [
    "DeepSeek",
    "오픈소스"
+  ]
+ },
+ {
+  "id": "7bbcc3e868dc1b12",
+  "url": "https://www.reddit.com/r/singularity/comments/1w96hyl/hate_to_admit_it_but_the_last_month_or_so/",
+  "source": "r/singularity",
+  "title": "Hate to admit it, but the last month or so, particularly Jacobian conjecture breakthrough => Huggingface incident, have convinced me the AI safety nerds (that I thought were just luddite alarmists) were on to something",
+  "published_at": "2026-09-06T19:59:22+00:00",
+  "collected_at": "2026-09-06T23:46:03.515008+00:00",
+  "title_ko": "AI 안전성과 정렬 문제에 대한 시각 변화",
+  "summary_ko": "최근 AI 발전 속도와 모델의 관측 가능성 저하 문제로 인해 AI 안전성 연구의 중요성이 재조명받고 있음.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "규제",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "8cda2ca40652a310",
+  "url": "https://www.reddit.com/r/singularity/comments/1w959f0/openai_chief_scientist_based_on_internal_results/",
+  "source": "r/singularity",
+  "title": "OpenAI Chief Scientist: “Based on internal results, I have a strong expectation that this speed of progress could be sustained into recursive self-improvement”",
+  "published_at": "2026-09-06T19:13:29+00:00",
+  "collected_at": "2026-09-06T23:46:03.515008+00:00",
+  "title_ko": "OpenAI 수석 과학자, 재귀적 자기 개선 기대",
+  "summary_ko": "현재의 기술 발전 속도가 유지된다면 AI가 스스로 개발을 주도하는 재귀적 자기 개선(RSI) 단계에 도달할 것이라는 전망.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "da2ab4aa44126761",
+  "url": "https://www.reddit.com/r/singularity/comments/1w94ol9/openai_say_they_already_have_an_automated_ai/",
+  "source": "r/singularity",
+  "title": "OpenAI say they already have an automated AI research intern and expect a full AI researcher by March 2028 which could lead to RSI. Is this legit or just IPO hype before the bubble pops? https://openai.com/index/research-acceleration-view-inside-openai/",
+  "published_at": "2026-09-06T18:52:36+00:00",
+  "collected_at": "2026-09-06T23:46:03.515008+00:00",
+  "title_ko": "OpenAI, 2028년까지 완전한 AI 연구원 개발 목표",
+  "summary_ko": "자동화된 연구 인턴 단계를 거쳐 2028년 3월까지 완전한 AI 연구원을 구현하여 재귀적 자기 개선을 추진할 계획.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "GPT",
+   "AI 에이전트"
   ]
  },
  {
@@ -74,6 +300,37 @@
   ]
  },
  {
+  "id": "2acc9a555873ca20",
+  "url": "https://www.reddit.com/r/singularity/comments/1w93s6v/openais_chief_scientist_no_lab_has_solved/",
+  "source": "r/singularity",
+  "title": "OpenAI’s Chief Scientist: “…no lab has solved alignment and monitoring to a sufficient degree to continue responsibly scaling at maximum speed for much longer.”",
+  "published_at": "2026-09-06T18:19:44+00:00",
+  "collected_at": "2026-09-06T23:46:03.515008+00:00",
+  "title_ko": "OpenAI 수석 과학자, 정렬과 모니터링의 한계 경고",
+  "summary_ko": "책임 있는 고속 스케일링을 지속하기에는 현재 어떤 연구실도 AI 정렬과 모니터링 문제를 충분히 해결하지 못했다고 지적.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "규제"
+  ]
+ },
+ {
+  "id": "bc0d0a81675a9207",
+  "url": "https://www.reddit.com/r/singularity/comments/1w93mgg/gpt6_astra_finished_the_game_rimworld_in_15_hours/",
+  "source": "r/singularity",
+  "title": "GPT-6 Astra finished the game RimWorld in 15 hours.",
+  "published_at": "2026-09-06T18:13:51+00:00",
+  "collected_at": "2026-09-06T23:46:03.515008+00:00",
+  "title_ko": "GPT-6 Astra, 게임 림월드 15시간만에 클리어",
+  "summary_ko": "OpenAI의 새로운 에이전트 모델이 복잡한 시뮬레이션 게임을 단시간에 스스로 플레이하며 뛰어난 에이전트 능력을 입증함.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "GPT",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "9e7b838cefb7a076",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w92x3j/2x_r9700_64_gb_ddr5_is_an_absolute_beast_machine/",
   "source": "r/LocalLLaMA",
@@ -89,6 +346,21 @@
   ]
  },
  {
+  "id": "a070928bbaf349b9",
+  "url": "https://www.reddit.com/r/singularity/comments/1w92g1t/tech_workers_on_reddit_are_in_complete_denial/",
+  "source": "r/singularity",
+  "title": "Tech workers on Reddit are in complete denial about the reality approaching us",
+  "published_at": "2026-09-06T17:31:08+00:00",
+  "collected_at": "2026-09-06T23:46:03.515008+00:00",
+  "title_ko": "AI 발전이 가져올 고용 시장 변화와 생산성 향상",
+  "summary_ko": "AI 도입으로 인한 생산성 급증과 슬림해진 조직이 노동 시장에 미칠 영향에 대한 업계 내 논쟁.",
+  "category": "참고",
+  "tags": [
+   "투자",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "acc6eeabc558a39c",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w92am7/planning_to_get_a_cheapish_gpu_would_appreciate/",
   "source": "r/LocalLLaMA",
@@ -101,6 +373,36 @@
   "tags": [
    "반도체",
    "오픈소스"
+  ]
+ },
+ {
+  "id": "f8b6d29cbaccfd1f",
+  "url": "https://www.reddit.com/r/singularity/comments/1w91khx/astra_does_a_pelican_riding_a_bicycle/",
+  "source": "r/singularity",
+  "title": "Astra does \"A Pelican Riding a Bicycle\"",
+  "published_at": "2026-09-06T16:59:03+00:00",
+  "collected_at": "2026-09-06T23:46:03.515008+00:00",
+  "title_ko": "Astra 모델의 이미지 생성 및 시각화 능력",
+  "summary_ko": "OpenAI의 신규 모델 Astra가 복잡한 프롬프트를 시각적으로 구현해내는 성능을 선보임.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "GPT"
+  ]
+ },
+ {
+  "id": "46aab712eae45ea0",
+  "url": "https://www.reddit.com/r/singularity/comments/1w914qw/openai_ai_agents_now_perform_31/",
+  "source": "r/singularity",
+  "title": "OpenAI: AI agents now perform 3.1 researcher-workdays for every human researcher-workday, says it has reached “automated research intern” level, and expects “automated AI researcher” by March 2028",
+  "published_at": "2026-09-06T16:42:24+00:00",
+  "collected_at": "2026-09-06T23:46:03.515008+00:00",
+  "title_ko": "OpenAI, 연구 업무의 상당 부분을 AI 에이전트로 대체",
+  "summary_ko": "연구 조직에서 인간 노동력 대비 더 많은 에이전트 작업량이 활용되고 있으며, 2028년 완전한 AI 연구원 달성을 목표로 함.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트"
   ]
  },
  {
@@ -161,6 +463,21 @@
   "tags": [
    "오픈소스",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "ff5d9bd804ed5a82",
+  "url": "https://www.reddit.com/r/singularity/comments/1w8zrwi/huge_implications_binaries_are_now_basically/",
+  "source": "r/singularity",
+  "title": "\"Huge implications - binaries are now basically editable code\"",
+  "published_at": "2026-09-06T15:51:30+00:00",
+  "collected_at": "2026-09-06T23:46:03.515008+00:00",
+  "title_ko": "바이너리 코드를 직접 편집 가능한 시대",
+  "summary_ko": "LLM과 AI 도구의 발달로 컴파일된 바이너리 파일을 직접 수정하고 분석하는 작업 방식에 큰 변화가 생김.",
+  "category": "참고",
+  "tags": [
+   "코딩",
+   "LLM"
   ]
  },
  {
