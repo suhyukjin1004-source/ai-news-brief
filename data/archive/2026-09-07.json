@@ -1,5 +1,65 @@
 [
  {
+  "id": "107460bc0eeb359f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w94cj4/best_model_setup_for_remote_deployment/",
+  "source": "r/LocalLLaMA",
+  "title": "Best model + setup for remote deployment.",
+  "published_at": "2026-09-06T18:40:14+00:00",
+  "collected_at": "2026-09-06T19:03:13.323406+00:00",
+  "title_ko": "오지 마을을 위한 로컬 LLM 하드웨어 구축",
+  "summary_ko": "인터넷이 안 되는 오지 마을 거주 조부모를 위해 로컬 LLM 구동용 PC를 구축하려는 사연입니다. 오프라인 환경에서의 AI 활용 사례로 주목됩니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "42a7e672ccae85be",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9404e/expert_expansion_with_llamacpp/",
+  "source": "r/LocalLLaMA",
+  "title": "Expert expansion with llama.cpp",
+  "published_at": "2026-09-06T18:27:45+00:00",
+  "collected_at": "2026-09-06T19:03:13.323406+00:00",
+  "title_ko": "llama.cpp, MoE 모델 전문가 확장 기능 구현",
+  "summary_ko": "개발자가 llama.cpp에 MoE 모델의 전문가 확장(Expert expansion)을 지원하는 커스텀 브랜치를 개발했습니다. 다양한 플랫폼에서의 피드백을 수집 중입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "9e7b838cefb7a076",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w92x3j/2x_r9700_64_gb_ddr5_is_an_absolute_beast_machine/",
+  "source": "r/LocalLLaMA",
+  "title": "2x R9700, 64 GB DDR5 is an absolute beast machine with vLLM Radiance / R9V and Qwen 3.8 27b and Flash next",
+  "published_at": "2026-09-06T17:48:00+00:00",
+  "collected_at": "2026-09-06T19:03:13.323406+00:00",
+  "title_ko": "하이브리드 로컬 LLM 추론 시스템 구축기",
+  "summary_ko": "듀얼 R9700 GPU와 64GB RAM을 활용해 vLLM 및 대형 모델을 구동하는 게이밍 겸용 로컬 LLM 워크스테이션 구축 사례입니다.",
+  "category": "팁",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "acc6eeabc558a39c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w92am7/planning_to_get_a_cheapish_gpu_would_appreciate/",
+  "source": "r/LocalLLaMA",
+  "title": "Planning to get a cheap-ish GPU. Would appreciate some advice.",
+  "published_at": "2026-09-06T17:25:45+00:00",
+  "collected_at": "2026-09-06T19:03:13.323406+00:00",
+  "title_ko": "가성비 로컬 LLM 구동용 GPU 선택 가이드",
+  "summary_ko": "예산 700달러 이하로 30B급 양자화 모델을 구동하기 위한 가성비 GPU(개조 3080, AMD Mi 50 등) 비교 및 조언 요청 글입니다.",
+  "category": "팁",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "db67de74c044e536",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9108x/what_happened_to_all_the_local_model_fit_check/",
   "source": "r/LocalLLaMA",

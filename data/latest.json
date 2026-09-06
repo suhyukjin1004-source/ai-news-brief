@@ -1,8 +1,68 @@
 {
- "updated_at": "2026-09-06T16:54:58.109101+00:00",
+ "updated_at": "2026-09-06T19:03:30.698860+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "107460bc0eeb359f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w94cj4/best_model_setup_for_remote_deployment/",
+   "source": "r/LocalLLaMA",
+   "title": "Best model + setup for remote deployment.",
+   "published_at": "2026-09-06T18:40:14+00:00",
+   "collected_at": "2026-09-06T19:03:13.323406+00:00",
+   "title_ko": "오지 마을을 위한 로컬 LLM 하드웨어 구축",
+   "summary_ko": "인터넷이 안 되는 오지 마을 거주 조부모를 위해 로컬 LLM 구동용 PC를 구축하려는 사연입니다. 오프라인 환경에서의 AI 활용 사례로 주목됩니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "42a7e672ccae85be",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9404e/expert_expansion_with_llamacpp/",
+   "source": "r/LocalLLaMA",
+   "title": "Expert expansion with llama.cpp",
+   "published_at": "2026-09-06T18:27:45+00:00",
+   "collected_at": "2026-09-06T19:03:13.323406+00:00",
+   "title_ko": "llama.cpp, MoE 모델 전문가 확장 기능 구현",
+   "summary_ko": "개발자가 llama.cpp에 MoE 모델의 전문가 확장(Expert expansion)을 지원하는 커스텀 브랜치를 개발했습니다. 다양한 플랫폼에서의 피드백을 수집 중입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "9e7b838cefb7a076",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w92x3j/2x_r9700_64_gb_ddr5_is_an_absolute_beast_machine/",
+   "source": "r/LocalLLaMA",
+   "title": "2x R9700, 64 GB DDR5 is an absolute beast machine with vLLM Radiance / R9V and Qwen 3.8 27b and Flash next",
+   "published_at": "2026-09-06T17:48:00+00:00",
+   "collected_at": "2026-09-06T19:03:13.323406+00:00",
+   "title_ko": "하이브리드 로컬 LLM 추론 시스템 구축기",
+   "summary_ko": "듀얼 R9700 GPU와 64GB RAM을 활용해 vLLM 및 대형 모델을 구동하는 게이밍 겸용 로컬 LLM 워크스테이션 구축 사례입니다.",
+   "category": "팁",
+   "tags": [
+    "반도체",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "acc6eeabc558a39c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w92am7/planning_to_get_a_cheapish_gpu_would_appreciate/",
+   "source": "r/LocalLLaMA",
+   "title": "Planning to get a cheap-ish GPU. Would appreciate some advice.",
+   "published_at": "2026-09-06T17:25:45+00:00",
+   "collected_at": "2026-09-06T19:03:13.323406+00:00",
+   "title_ko": "가성비 로컬 LLM 구동용 GPU 선택 가이드",
+   "summary_ko": "예산 700달러 이하로 30B급 양자화 모델을 구동하기 위한 가성비 GPU(개조 3080, AMD Mi 50 등) 비교 및 조언 요청 글입니다.",
+   "category": "팁",
+   "tags": [
+    "반도체",
+    "오픈소스"
+   ]
+  },
   {
    "id": "db67de74c044e536",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9108x/what_happened_to_all_the_local_model_fit_check/",
@@ -358,6 +418,21 @@
    "tags": [
     "오픈소스",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "a8e8f9dc895a026b",
+   "url": "https://openai.com/index/an-alien-mind",
+   "source": "OpenAI",
+   "title": "An Alien Mind",
+   "published_at": "2026-09-06T09:00:00+00:00",
+   "collected_at": "2026-09-06T19:03:04.383055+00:00",
+   "title_ko": "고성능 AI와 정렬(Alignment) 문제에 대한 고찰",
+   "summary_ko": "OpenAI 연구진이 날로 고도화되는 AI의 능력과 이에 따른 정렬의 어려움을 지적하며 안전장치 강화와 국제 공조를 촉구했습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "규제"
    ]
   },
   {
@@ -2925,78 +3000,6 @@
     "오픈소스",
     "LLM",
     "Qwen"
-   ]
-  },
-  {
-   "id": "fe70c74e9e346740",
-   "url": "https://www.reddit.com/r/singularity/comments/1w6xrh1/losing_my_sleep_over_just_how_incredibly_fast/",
-   "source": "r/singularity",
-   "title": "Losing my sleep over just how incredibly fast this is all going",
-   "published_at": "2026-09-04T07:47:14+00:00",
-   "collected_at": "2026-09-04T14:14:03.354831+00:00",
-   "title_ko": "기하급수적인 AI 발전 속도에 대한 업계의 경외와 우려",
-   "summary_ko": "AI 기술의 초고속 발전 속도를 보며 커뮤니티 사용자들 사이에서 기대감과 미래에 대한 불안감이 교차하고 있습니다.",
-   "category": "참고",
-   "tags": []
-  },
-  {
-   "id": "3e9af61cc03a6f12",
-   "url": "https://simonwillison.net/2026/Sep/4/august-newsletter/",
-   "source": "Simon Willison",
-   "title": "August newsletter is out",
-   "published_at": "2026-09-04T05:54:40+00:00",
-   "collected_at": "2026-09-04T09:31:08.530594+00:00",
-   "title_ko": "사이먼 윌슨의 8월 뉴스레터 발행",
-   "summary_ko": "OpenAI 보안 사고와 Claude 자동 모드 등 최신 AI 동향을 다룬 뉴스레터가 발행되었습니다. 업계 흐름을 파악하는 데 유용합니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "Claude",
-    "ChatGPT"
-   ]
-  },
-  {
-   "id": "39d08a451ef7f0ca",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214821",
-   "source": "AI타임스",
-   "title": "오픈AI, 압도적 성능 'GPT-6 아스트라' 공개…\"AGI 시대 진입 환영\"",
-   "published_at": "2026-09-04T05:36:23+00:00",
-   "collected_at": "2026-09-03T21:39:55.087532+00:00",
-   "title_ko": "오픈AI, 차세대 모델 'GPT-6 아스트라' 공개",
-   "summary_ko": "오픈AI가 실무 전반에서 프론티어급 성능을 입증하며 AGI 시대로의 진입을 알리는 'GPT-6 아스트라'를 공개했다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "GPT",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "5eac92faee237511",
-   "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-   "source": "TechCrunch",
-   "title": "The sameness problem behind those unappetizing AI-generated menus",
-   "published_at": "2026-09-04T04:21:03+00:00",
-   "collected_at": "2026-09-04T09:30:39.231340+00:00",
-   "title_ko": "생성형 AI로 제작된 식당 메뉴의 획일화 문제",
-   "summary_ko": "식당들이 생성형 AI를 이용해 메뉴를 만들면서 발생하는 유사성과 품질 저하 문제를 지적했습니다. AI 활용의 한계를 보여줍니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "0e2931255a5908d5",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6t0a9/has_anyone_already_tried_ifms_new/",
-   "source": "r/LocalLLaMA",
-   "title": "Has anyone already tried IFM's new K2-Horizon-MoVA-36B-A4B?",
-   "published_at": "2026-09-04T03:31:37+00:00",
-   "collected_at": "2026-09-04T04:19:40.976021+00:00",
-   "title_ko": "오픈소스 커뮤니티의 신규 모형 K2-Horizon-MoVA 성능 관심",
-   "summary_ko": "개발자 커뮤니티에서 새롭게 공개된 오픈 웨이트 MoE 모델의 성능과 벤치마크 결과를 공유하고 평가하는 논의가 활발합니다. 다양한 오픈소스 모델의 성능 검증이 이어지고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
    ]
   }
  ]
