@@ -1,8 +1,38 @@
 {
- "updated_at": "2026-09-06T19:03:30.698860+00:00",
+ "updated_at": "2026-09-06T21:17:10.307707+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "c552c9e7d810d778",
+   "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+   "source": "TechCrunch",
+   "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+   "published_at": "2026-09-06T20:47:37+00:00",
+   "collected_at": "2026-09-06T21:16:06.411912+00:00",
+   "title_ko": "앤스로픽 합의금을 둘러싼 작가와 출판사의 갈등",
+   "summary_ko": "AI 저작권 합의 과정에서 출판사와 에이전시가 과도한 몫을 요구하자 작가들이 반발하고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "저작권"
+   ]
+  },
+  {
+   "id": "a68174fb2c0ff7d8",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w96xoi/deepseekv4flashvision_q8_vs_qwen38flashnext_q8/",
+   "source": "r/LocalLLaMA",
+   "title": "DeepSeek-V4-Flash-Vision Q8 vs Qwen3.8-Flash-Next Q8",
+   "published_at": "2026-09-06T20:15:38+00:00",
+   "collected_at": "2026-09-06T21:16:42.117710+00:00",
+   "title_ko": "DeepSeek과 Qwen 로컬 모델 성능 비교",
+   "summary_ko": "로컬 환경에서 양자화된 DeepSeek 비전 모델과 Qwen 최신 모델의 속도 및 성능을 비교한 사용기입니다.",
+   "category": "팁",
+   "tags": [
+    "DeepSeek",
+    "오픈소스"
+   ]
+  },
   {
    "id": "107460bc0eeb359f",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w94cj4/best_model_setup_for_remote_deployment/",
@@ -15,6 +45,20 @@
    "category": "참고",
    "tags": [
     "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "9ad61536e03c23c6",
+   "url": "https://news.hada.io/topic?id=33286",
+   "source": "GeekNews",
+   "title": "인지 바이러스로서의 LLM",
+   "published_at": "2026-09-06T18:37:06+00:00",
+   "collected_at": "2026-09-06T21:16:56.255801+00:00",
+   "title_ko": "인지 바이러스로서의 LLM 확산 연구",
+   "summary_ko": "LLM의 확산을 전염병 동역학으로 모델링하여 사회적 의존으로의 전환 과정을 분석한 이론 연구입니다.",
+   "category": "참고",
+   "tags": [
     "LLM"
    ]
   },
@@ -2953,54 +2997,6 @@
    "summary_ko": "NAS 및 충전기 제조사 유그린이 온디바이스 AI와 보안 스토리지 기능을 결합한 스마트홈 플랫폼 '홈에이전트'를 발표했습니다.",
    "category": "속보",
    "tags": []
-  },
-  {
-   "id": "ddb8fda9f93b849d",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6z9oh/we_opensourced_paddock_our_rustc_inference_engine/",
-   "source": "r/LocalLLaMA",
-   "title": "We open-sourced Paddock, our Rust/C++ inference engine with its own CUDA kernels (MIT/Apache-2.0)",
-   "published_at": "2026-09-04T09:15:33+00:00",
-   "collected_at": "2026-09-04T09:31:09.215322+00:00",
-   "title_ko": "러스트 기반 추론 엔진 'Paddock' 오픈소스 공개",
-   "summary_ko": "자체 CUDA 커널을 탑재한 러스트 및 C++ 기반의 고성능 LLM 추론 엔진 'Paddock'이 오픈소스로 공개됐습니다. GGUF와 safetensors를 지원하며 OpenAI 및 Anthropic 스타일의 API를 제공합니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "추론엔진"
-   ]
-  },
-  {
-   "id": "ccff447e381ecfb9",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6z731/on_gpt6_astra_986_arc_agi3_dont_fall_for_the_hype/",
-   "source": "r/LocalLLaMA",
-   "title": "On GPT-6 Astra 98.6% ARC AGI-3: don't fall for the hype",
-   "published_at": "2026-09-04T09:11:33+00:00",
-   "collected_at": "2026-09-04T09:31:09.215322+00:00",
-   "title_ko": "ARC AGI-3 벤치마크 결과에 대한 과장 경계",
-   "summary_ko": "최근 GPT-6의 ARC AGI-3 고득점 주장에 대해 엔비디아가 이미 AVO 하네스로 100%를 달성한 바 있다는 점을 언급하며 과도한 마케팅 하이프를 경계해야 한다는 의견입니다.",
-   "category": "참고",
-   "tags": [
-    "GPT",
-    "NVIDIA",
-    "벤치마크"
-   ]
-  },
-  {
-   "id": "09071a3c08dc398c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6y38l/qwen38flashnext_256k_context_16toks_on_ddr4_and_a/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.8-Flash-Next: 256k context, 16tok/s on DDR4 and a Tesla T4",
-   "published_at": "2026-09-04T08:06:30+00:00",
-   "collected_at": "2026-09-04T09:31:09.215322+00:00",
-   "title_ko": "DDR4와 테슬라 T4에서 Qwen 모델 구동 후기",
-   "summary_ko": "저렴한 구형 서버 하드웨어(DDR4와 Tesla T4) 환경에서 양자화된 Qwen 모델을 구동하여 실용적인 토큰 속도를 얻어낸 로컬 LLM 사용자 실험기입니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "Qwen"
-   ]
   }
  ]
 }
