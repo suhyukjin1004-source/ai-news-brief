@@ -1,5 +1,35 @@
 [
  {
+  "id": "db67de74c044e536",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9108x/what_happened_to_all_the_local_model_fit_check/",
+  "source": "r/LocalLLaMA",
+  "title": "What happened to all the local model fit check tools?",
+  "published_at": "2026-09-06T16:37:43+00:00",
+  "collected_at": "2026-09-06T16:54:37.382839+00:00",
+  "title_ko": "로컬 LLM 호환성 확인 도구들의 접속 불능 및 정보 낙후 문제",
+  "summary_ko": "llmfit 등 주요 로컬 모델 하드웨어 호환성 확인 웹사이트들이 폐쇄되거나 구버전 정보를 제공하고 있어 사용자들의 불편이 가중되고 있다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "caeb791da3b058db",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w90zdc/model_support_for_spark2_5forcausallm/",
+  "source": "r/LocalLLaMA",
+  "title": "[Model] Support for Spark2_5ForCausalLM implementation by KnightYao · Pull Request #27868 · ggml-org/llama.cpp",
+  "published_at": "2026-09-06T16:36:52+00:00",
+  "collected_at": "2026-09-06T16:54:37.382839+00:00",
+  "title_ko": "llama.cpp, Spark-X2.5 소형 언어모델 지원 추가",
+  "summary_ko": "효율적인 아키텍처로 일상 태스크와 코딩에서 뛰어난 성능을 보이는 Spark-X2.5 (4B, 1.7B) 모델이 llama.cpp에 통합되었다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
   "id": "94411efd55e07b8b",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214904",
   "source": "AI타임스",
@@ -11,6 +41,21 @@
   "category": "속보",
   "tags": [
    "반도체",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "2a1ab8a193b8191d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w90igd/using_gpt_astra_to_teach_qwen_next_how_to_sculpt/",
+  "source": "r/LocalLLaMA",
+  "title": "Using GPT Astra to teach Qwen Next how to sculpt in 3D in Blender.",
+  "published_at": "2026-09-06T16:19:19+00:00",
+  "collected_at": "2026-09-06T16:54:37.382839+00:00",
+  "title_ko": "프론티어 모델을 활용한 오픈소스 모델 학습 워크플로우",
+  "summary_ko": "고성능 상용 모델(Astra)을 활용해 오픈소스 모델(Qwen Next)과 블렌더(Blender) 연동 기술을 교육하는 실무적 접근법이유용성을 얻고 있다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
    "AI 에이전트"
   ]
  },
@@ -27,6 +72,20 @@
   "tags": [
    "Google",
    "Gemini"
+  ]
+ },
+ {
+  "id": "5b887074ff6de198",
+  "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+  "source": "Hacker News",
+  "title": "I Feel about AI",
+  "published_at": "2026-09-06T15:00:19+00:00",
+  "collected_at": "2026-09-06T16:54:33.222498+00:00",
+  "title_ko": "AI의 감정과 의식에 관한 고찰",
+  "summary_ko": "AI 기술의 발전 속에서 AI가 실제로 감정을 가지는지, 그리고 인간이 이에 대해 느끼는 감정적 교감에 대한 단상.",
+  "category": "참고",
+  "tags": [
+   "AI"
   ]
  }
 ]
