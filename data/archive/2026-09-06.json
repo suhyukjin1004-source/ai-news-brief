@@ -1,5 +1,35 @@
 [
  {
+  "id": "d44dc5163db8af91",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8vx6w/8_uncensored_qwen_38_27b_variants_one_base_167/",
+  "source": "r/LocalLLaMA",
+  "title": "8 uncensored Qwen 3.8 27B variants, one base, 167 GPU hours - Abliterlitics",
+  "published_at": "2026-09-06T13:15:22+00:00",
+  "collected_at": "2026-09-06T13:35:14.586831+00:00",
+  "title_ko": "Qwen 27B 언센서드 변형 모델 성능 비교 분석",
+  "summary_ko": "Hugging Face에 올라온 Qwen 변형 모델들의 가중치와 벤치마크, 검열 해제 여부를 167시간 동안 분석한 결과가 공개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "2adb7a3357cad79c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8us6t/coding_benchmarks_that_are_quickly_showcasing/",
+  "source": "r/LocalLLaMA",
+  "title": "Coding benchmarks that are quickly showcasing deep capability",
+  "published_at": "2026-09-06T12:23:28+00:00",
+  "collected_at": "2026-09-06T13:35:14.586831+00:00",
+  "title_ko": "소프트웨어 공학 능력을 검증하는 고난도 코딩 벤치마크",
+  "summary_ko": "기존 벤치마크의 한계를 넘어 AI 에이전트의 심층적인 코딩 능력을 평가하는 새로운 벤치마크들이 주목받고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
   "id": "acffe7c87b12500c",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214908",
   "source": "AI타임스",
@@ -89,6 +119,51 @@
   ]
  },
  {
+  "id": "37434075acf95ac6",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8sqp3/48_tgs_440_prefill_on_my_grandmas_cluster_2xp40/",
+  "source": "r/LocalLLaMA",
+  "title": "48 tg/s 440 prefill on my grandma's cluster (2xP40) (sort of)",
+  "published_at": "2026-09-06T10:38:48+00:00",
+  "collected_at": "2026-09-06T13:35:14.586831+00:00",
+  "title_ko": "로컬 LLM KV 캐시 최적화를 통한 성능 향상",
+  "summary_ko": "저렴한 하드웨어 클러스터 환경에서 KV 캐시 설정을 변경하여 Qwen 모델의 추론 속도를 극대화하는 팁입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "90ec4cc1d5a53526",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8rxwg/vibeblending_locally_with_qwen_38_27b/",
+  "source": "r/LocalLLaMA",
+  "title": "vibeblending locally with Qwen 3.8 27B",
+  "published_at": "2026-09-06T09:54:44+00:00",
+  "collected_at": "2026-09-06T13:35:14.586831+00:00",
+  "title_ko": "로컬 LLM과 Blender를 연동한 3D 작업 자동화",
+  "summary_ko": "Model Context Protocol(MCP)을 활용해 로컬 LLM과 블렌더를 연결하여 창작 작업을 수행하는 방법입니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "24fa95d13294b3f6",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8rnyi/validate_your_local_llm_advertised_kv_cache/",
+  "source": "r/LocalLLaMA",
+  "title": "Validate your local LLM advertised KV cache against real pressure; see exactly how old contexts get evicted from cache",
+  "published_at": "2026-09-06T09:38:49+00:00",
+  "collected_at": "2026-09-06T13:35:14.586831+00:00",
+  "title_ko": "로컬 LLM KV 캐시 관리 상태 검증 도구",
+  "summary_ko": "vLLM 환경에서 실제 부하에 따른 KV 캐시의 히트와 퇴출 과정을 정확히 측정하고 검증할 수 있는 도구가 개발되었습니다.",
+  "category": "팁",
+  "tags": [
+   "LLM",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "abd1416e88fbc8aa",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214895",
   "source": "AI타임스",
@@ -100,6 +175,20 @@
   "category": "중요",
   "tags": [
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "ff12bfb2ba935bf9",
+  "url": "https://news.hada.io/topic?id=33279",
+  "source": "GeekNews",
+  "title": "독자의 반란",
+  "published_at": "2026-09-06T09:34:59+00:00",
+  "collected_at": "2026-09-06T13:35:29.115833+00:00",
+  "title_ko": "LLM 시대의 글쓰기와 독자의 신뢰",
+  "summary_ko": "AI가 대필한 콘텐츠가 독자의 신뢰와 진정성을 훼손하며 글쓰기의 본질적인 가치를 위협한다는 분석입니다.",
+  "category": "참고",
+  "tags": [
+   "LLM"
   ]
  },
  {

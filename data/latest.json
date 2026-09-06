@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-06T09:19:24.099018+00:00",
+ "updated_at": "2026-09-06T13:35:32.370773+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -31,6 +31,36 @@
    "tags": [
     "Google",
     "Gemini"
+   ]
+  },
+  {
+   "id": "d44dc5163db8af91",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8vx6w/8_uncensored_qwen_38_27b_variants_one_base_167/",
+   "source": "r/LocalLLaMA",
+   "title": "8 uncensored Qwen 3.8 27B variants, one base, 167 GPU hours - Abliterlitics",
+   "published_at": "2026-09-06T13:15:22+00:00",
+   "collected_at": "2026-09-06T13:35:14.586831+00:00",
+   "title_ko": "Qwen 27B 언센서드 변형 모델 성능 비교 분석",
+   "summary_ko": "Hugging Face에 올라온 Qwen 변형 모델들의 가중치와 벤치마크, 검열 해제 여부를 167시간 동안 분석한 결과가 공개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "2adb7a3357cad79c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8us6t/coding_benchmarks_that_are_quickly_showcasing/",
+   "source": "r/LocalLLaMA",
+   "title": "Coding benchmarks that are quickly showcasing deep capability",
+   "published_at": "2026-09-06T12:23:28+00:00",
+   "collected_at": "2026-09-06T13:35:14.586831+00:00",
+   "title_ko": "소프트웨어 공학 능력을 검증하는 고난도 코딩 벤치마크",
+   "summary_ko": "기존 벤치마크의 한계를 넘어 AI 에이전트의 심층적인 코딩 능력을 평가하는 새로운 벤치마크들이 주목받고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
    ]
   },
   {
@@ -123,6 +153,51 @@
    ]
   },
   {
+   "id": "37434075acf95ac6",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8sqp3/48_tgs_440_prefill_on_my_grandmas_cluster_2xp40/",
+   "source": "r/LocalLLaMA",
+   "title": "48 tg/s 440 prefill on my grandma's cluster (2xP40) (sort of)",
+   "published_at": "2026-09-06T10:38:48+00:00",
+   "collected_at": "2026-09-06T13:35:14.586831+00:00",
+   "title_ko": "로컬 LLM KV 캐시 최적화를 통한 성능 향상",
+   "summary_ko": "저렴한 하드웨어 클러스터 환경에서 KV 캐시 설정을 변경하여 Qwen 모델의 추론 속도를 극대화하는 팁입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "90ec4cc1d5a53526",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8rxwg/vibeblending_locally_with_qwen_38_27b/",
+   "source": "r/LocalLLaMA",
+   "title": "vibeblending locally with Qwen 3.8 27B",
+   "published_at": "2026-09-06T09:54:44+00:00",
+   "collected_at": "2026-09-06T13:35:14.586831+00:00",
+   "title_ko": "로컬 LLM과 Blender를 연동한 3D 작업 자동화",
+   "summary_ko": "Model Context Protocol(MCP)을 활용해 로컬 LLM과 블렌더를 연결하여 창작 작업을 수행하는 방법입니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "24fa95d13294b3f6",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8rnyi/validate_your_local_llm_advertised_kv_cache/",
+   "source": "r/LocalLLaMA",
+   "title": "Validate your local LLM advertised KV cache against real pressure; see exactly how old contexts get evicted from cache",
+   "published_at": "2026-09-06T09:38:49+00:00",
+   "collected_at": "2026-09-06T13:35:14.586831+00:00",
+   "title_ko": "로컬 LLM KV 캐시 관리 상태 검증 도구",
+   "summary_ko": "vLLM 환경에서 실제 부하에 따른 KV 캐시의 히트와 퇴출 과정을 정확히 측정하고 검증할 수 있는 도구가 개발되었습니다.",
+   "category": "팁",
+   "tags": [
+    "LLM",
+    "오픈소스"
+   ]
+  },
+  {
    "id": "abd1416e88fbc8aa",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214895",
    "source": "AI타임스",
@@ -134,6 +209,20 @@
    "category": "중요",
    "tags": [
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "ff12bfb2ba935bf9",
+   "url": "https://news.hada.io/topic?id=33279",
+   "source": "GeekNews",
+   "title": "독자의 반란",
+   "published_at": "2026-09-06T09:34:59+00:00",
+   "collected_at": "2026-09-06T13:35:29.115833+00:00",
+   "title_ko": "LLM 시대의 글쓰기와 독자의 신뢰",
+   "summary_ko": "AI가 대필한 콘텐츠가 독자의 신뢰와 진정성을 훼손하며 글쓰기의 본질적인 가치를 위협한다는 분석입니다.",
+   "category": "참고",
+   "tags": [
+    "LLM"
    ]
   },
   {
@@ -1354,6 +1443,21 @@
    "tags": [
     "OpenAI",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "18e8f5ee7887618f",
+   "url": "https://www.effort.news/revelation",
+   "source": "Hacker News",
+   "title": "Anthropic & friends caught paying religious NGO's 3.3M for propaganda",
+   "published_at": "2026-09-05T06:31:31+00:00",
+   "collected_at": "2026-09-06T13:35:13.606757+00:00",
+   "title_ko": "Anthropic 등 AI 기업의 로비 의혹 제기",
+   "summary_ko": "Anthropic을 비롯한 주요 AI 기업들이 종교 NGO에 거액의 자금을 지원했다는 의혹이 보도되었습니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "규제"
    ]
   },
   {
@@ -2892,111 +2996,6 @@
     "AI 에이전트",
     "OpenAI",
     "Claude"
-   ]
-  },
-  {
-   "id": "bf4ea6cbb6a0b4fb",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6ozbj/update_qwen38flashnext_on_2x3090_ddr4_part_2_2529/",
-   "source": "r/LocalLLaMA",
-   "title": "UPDATE: Qwen3.8-Flash-Next on 2x3090 + DDR4 (Part 2): 25-29 -> 37-41 t/s decode (UD-Q4_K_XL + expert cache + MTP), plus a branch you can build",
-   "published_at": "2026-09-04T00:21:59+00:00",
-   "collected_at": "2026-09-04T04:19:40.976021+00:00",
-   "title_ko": "로컬 환경에서 Qwen 모델 추론 속도 개선 사례",
-   "summary_ko": "듀얼 RTX 3090 환경에서 전문가 캐시와 MTP 등을 활용해 Qwen 모델의 디코딩 속도를 대폭 끌어올린 실무 최적화 공유입니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "481bd5c0f49eb9b0",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6nywh/qwen_38_27b_vs_qwen_36_27b_on_omlx/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen 3.8 27B Vs. Qwen 3.6 27B on oMLX",
-   "published_at": "2026-09-03T23:37:41+00:00",
-   "collected_at": "2026-09-04T09:31:09.215322+00:00",
-   "title_ko": "Qwen 3.8 27B 모델 벤치마크 결과 공개",
-   "summary_ko": "이전 버전인 Qwen 3.6과 3.8 27B 모델의 성능을 비교한 결과로, 품질은 향상되었으나 속도와 리소스 소모가 증가했습니다. 로컬 LLM 사용자에게 중요한 성능 지표를 제공합니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "01567a6ce07a23b7",
-   "url": "https://news.hada.io/topic?id=33203",
-   "source": "GeekNews",
-   "title": "ChatGPT, Claude, Grok 동시다발 장애 발생, 확인된 원인과 복구 상태",
-   "published_at": "2026-09-03T23:32:01+00:00",
-   "collected_at": "2026-09-04T04:19:55.842700+00:00",
-   "title_ko": "ChatGPT·Claude·Grok 동시다발 장애 발생 후 복구",
-   "summary_ko": "주요 생성형 AI 서비스들이 연달아 장애를 겪었으나 현재는 모두 복구 완료되었습니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "Claude"
-   ]
-  },
-  {
-   "id": "3725772a52164171",
-   "url": "https://armature.tech/blog/which-tools-coding-agents-install",
-   "source": "Hacker News",
-   "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-   "published_at": "2026-09-03T21:20:34+00:00",
-   "collected_at": "2026-09-04T04:19:27.950341+00:00",
-   "title_ko": "코딩 에이전트(Claude·Codex·Cursor)가 선택하는 도구 분석",
-   "summary_ko": "1만 7천 건의 실행 데이터를 분석하여 주요 코딩 에이전트들이 어떤 도구를 주로 설치하고 활용하는지 조사한 결과입니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "Claude",
-    "코딩"
-   ]
-  },
-  {
-   "id": "389074cdbd59db09",
-   "url": "https://arcprize.org/blog/astra",
-   "source": "Hacker News",
-   "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-   "published_at": "2026-09-03T19:45:00+00:00",
-   "collected_at": "2026-09-03T21:39:39.333793+00:00",
-   "title_ko": "GPT-6 아스트라의 ARC-AGI-3 성능 평가",
-   "summary_ko": "오픈AI의 신규 모델 GPT-6 아스트라의 ARC-AGI-3 벤치마크 결과가 공개됐다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "GPT"
-   ]
-  },
-  {
-   "id": "262a0d0fa8880803",
-   "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
-   "source": "TechCrunch",
-   "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-   "published_at": "2026-09-03T19:36:29+00:00",
-   "collected_at": "2026-09-03T21:39:23.985685+00:00",
-   "title_ko": "띵킹 머신즈, 400억 달러 가치로 10억 달러 투자 유치 추진",
-   "summary_ko": "유망 AI 스타트업 띵킹 머신즈가 액셀의 주도로 10억 달러 규모의 대형 투자 유치 협상을 진행 중이다.",
-   "category": "중요",
-   "tags": [
-    "투자"
-   ]
-  },
-  {
-   "id": "a56dde98240b980d",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6hlpt/google_released_timesfm3_a_330mparameter_time/",
-   "source": "r/LocalLLaMA",
-   "title": "Google released TimesFM-3, a 330M-parameter time series foundation model with native multivariate forecasting (non-commercial license)",
-   "published_at": "2026-09-03T19:34:06+00:00",
-   "collected_at": "2026-09-03T21:39:41.761979+00:00",
-   "title_ko": "구글, 시계열 기초 모델 'TimesFM-3' 공개",
-   "summary_ko": "구글 리서치가 다변량 예측을 기본 지원하는 3억 3천만 파라미터 규모의 시계열 예측 모델 TimesFM-3를 출시했다.",
-   "category": "속보",
-   "tags": [
-    "Google",
-    "오픈소스"
    ]
   }
  ]
