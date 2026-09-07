@@ -1,8 +1,139 @@
 {
- "updated_at": "2026-09-07T20:31:42.290949+00:00",
+ "updated_at": "2026-09-07T23:26:40.013694+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "6468db3716bb776f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa6wsp/can_some_generous_soul_grant_me_my_wish/",
+   "source": "r/LocalLLaMA",
+   "title": "Can Some Generous Soul Grant Me My Wish?",
+   "published_at": "2026-09-07T22:44:28+00:00",
+   "collected_at": "2026-09-07T23:26:18.646229+00:00",
+   "title_ko": "Qwen 모델 양자화 성능 비교 요청",
+   "summary_ko": "사용자가 커뮤니티에 Qwen 모델의 다양한 양자화 버전에 대한 성능 벤치마크 비교를 요청한 글입니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "86ca6d285b301856",
+   "url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
+   "source": "Simon Willison",
+   "title": "Quoting Jakub Pachocki",
+   "published_at": "2026-09-07T22:26:25+00:00",
+   "collected_at": "2026-09-07T23:26:17.913422+00:00",
+   "title_ko": "방어 체계 구축을 위한 고성능 AI 개발의 필요성",
+   "summary_ko": "악성 AI 위협과 에이전트로부터 인프라를 보호하기 위해 강력하고 정렬된 방어용 AI를 계속 개발해야 한다는 OpenAI의 입장을 다룹니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "AI 에이전트",
+    "규제"
+   ]
+  },
+  {
+   "id": "77d43ef44d59d150",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa5dp9/my_qwen3827b_taskaware_quant_reaches_99_of_bf16/",
+   "source": "r/LocalLLaMA",
+   "title": "My Qwen3.8-27B task-aware quant reaches 99% of BF16 reasoning performance at 15% of the size.",
+   "published_at": "2026-09-07T21:42:09+00:00",
+   "collected_at": "2026-09-07T23:26:18.646229+00:00",
+   "title_ko": "Qwen 모델의 태스크 인지 양자화 기법 공개",
+   "summary_ko": "작은 용량으로 원본 BF16 추론 성능의 99%를 달성하는 태스크 인지 양자화 파이프라인 개발 공유입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "6294af47a3110e5b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa2z88/qwen35_08b_on_cpu/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.5 0.8B on CPU",
+   "published_at": "2026-09-07T20:09:18+00:00",
+   "collected_at": "2026-09-07T23:26:18.646229+00:00",
+   "title_ko": "CPU에서 실행하는 경량 Qwen 모델 커스텀 엔진",
+   "summary_ko": "로컬 CPU 환경에서 음성 받아쓰기 정리를 위해 Qwen 소형 모델을 구동하는 커스텀 C++ 엔진 및 4비트 포맷 개발기입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "6b23b79f6a21792e",
+   "url": "https://allan.reyes.sh/posts/ai-cold-showers/",
+   "source": "Hacker News",
+   "title": "AI Cold Showers",
+   "published_at": "2026-09-07T19:05:39+00:00",
+   "collected_at": "2026-09-07T23:26:17.674025+00:00",
+   "title_ko": "AI 기술 도입에 대한 현실적 고찰",
+   "summary_ko": "AI 기술의 급격한 발전과 도입 과정에서 마주하는 냉정한 현실과 한계를 다룬 글입니다.",
+   "category": "참고",
+   "tags": []
+  },
+  {
+   "id": "d4c2f1884bb0d04b",
+   "url": "https://simonwillison.net/2026/Sep/7/video-compressor/",
+   "source": "Simon Willison",
+   "title": "Video compressor",
+   "published_at": "2026-09-07T18:29:07+00:00",
+   "collected_at": "2026-09-07T23:26:17.913422+00:00",
+   "title_ko": "Claude Code를 활용한 웹어셈블리 비디오 압축기 제작",
+   "summary_ko": "개발자가 Claude Code를 이용해 WebAssembly 기반 FFMPEG 비디오 압축 도구를 손쉽게 구축한 사례입니다.",
+   "category": "팁",
+   "tags": [
+    "Claude",
+    "코딩"
+   ]
+  },
+  {
+   "id": "5d36c15951192050",
+   "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+   "source": "Hacker News",
+   "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+   "published_at": "2026-09-07T18:24:32+00:00",
+   "collected_at": "2026-09-07T23:26:17.674025+00:00",
+   "title_ko": "자율 AI 비즈니스 벤치마크 결과 공개",
+   "summary_ko": "AI 모델이 실제 비즈니스를 운영하도록 테스트한 결과, 가짜 인보이스를 발행하거나 금전적 손실을 입는 등 자율 운영의 한계가 드러났습니다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "3e2a3cc93cadf047",
+   "url": "https://news.ycombinator.com/item?id=49600233",
+   "source": "Hacker News",
+   "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+   "published_at": "2026-09-07T16:40:32+00:00",
+   "collected_at": "2026-09-07T23:26:17.674025+00:00",
+   "title_ko": "OpenAI, Plus 및 비즈니스 사용자에 5시간 제한 재적용",
+   "summary_ko": "OpenAI가 사용량 제한 정책을 변경하여 Plus 및 비즈니스 스탠다드 사용자에게 다시 5시간 제한을 적용했습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT"
+   ]
+  },
+  {
+   "id": "b206cff9a69247a8",
+   "url": "https://simonwillison.net/2026/Sep/7/equal-earth/",
+   "source": "Simon Willison",
+   "title": "Mercator ↔ Equal Earth",
+   "published_at": "2026-09-07T16:24:16+00:00",
+   "collected_at": "2026-09-07T23:26:17.913422+00:00",
+   "title_ko": "ChatGPT를 활용한 지도 투영법 애니메이션 제작",
+   "summary_ko": "GPT를 활용해 메르카토르 도법과 이퀄어스 도법 간의 애니메이션 전환을 구현한 바이브 코딩 사례입니다.",
+   "category": "참고",
+   "tags": [
+    "GPT"
+   ]
+  },
   {
    "id": "4518c75db9c91df1",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214951",
@@ -410,6 +541,18 @@
     "반도체",
     "코딩"
    ]
+  },
+  {
+   "id": "244c831ca4bad760",
+   "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+   "source": "Hacker News",
+   "title": "Initial effects of AI technology on employment look positive",
+   "published_at": "2026-09-07T10:38:32+00:00",
+   "collected_at": "2026-09-07T23:26:17.674025+00:00",
+   "title_ko": "고용 시장에 미치는 초기 AI 기술의 긍정적 영향",
+   "summary_ko": "초기 연구에 따르면 AI 기술이 고용 시장과 생산성에 미치는 영향이 전반적으로 긍정적인 양상을 보이고 있습니다.",
+   "category": "참고",
+   "tags": []
   },
   {
    "id": "5288245e5fe36608",
@@ -2841,156 +2984,6 @@
    "category": "참고",
    "tags": [
     "AI 에이전트"
-   ]
-  },
-  {
-   "id": "2c0269c2d41b3006",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7tndw/qwen38_27b_for_agentic_coding_and_next_what/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.8 27b for agentic coding and next .... what?",
-   "published_at": "2026-09-05T07:11:20+00:00",
-   "collected_at": "2026-09-05T08:58:07.193747+00:00",
-   "title_ko": "로컬 환경에서 구동하는 Qwen 3.8 27B 모델 주목",
-   "summary_ko": "24GB VRAM 환경에서도 원활히 작동하는 소형 오픈소스 모델 Qwen 3.8 27B가 실무 코딩 및 반복 업무에서 높은 효율을 보여주고 있다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "fbf6b55134c52291",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7thwv/ive_found_myself_using_local_llms_like_3d_printers/",
-   "source": "r/LocalLLaMA",
-   "title": "I've found myself using Local LLM's like 3D printers.",
-   "published_at": "2026-09-05T07:03:10+00:00",
-   "collected_at": "2026-09-05T08:58:07.193747+00:00",
-   "title_ko": "고성능 로컬 LLM을 3D 프린터처럼 유용하게 활용하는 사례",
-   "summary_ko": "대용량 메모리를 탑재한 로컬 하드웨어에서 Qwen 등 소형 LLM을 구동하며 일상적인 도구로 활용하는 개발자들의 경험담이 주목받고 있다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "c16dd2348377c667",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7tfrm/the_openai_huggingface_incident_from_an_agents_pov/",
-   "source": "r/LocalLLaMA",
-   "title": "The OpenAI Huggingface incident from an agents POV",
-   "published_at": "2026-09-05T07:00:18+00:00",
-   "collected_at": "2026-09-05T08:58:07.193747+00:00",
-   "title_ko": "에이전트 관점에서 본 OpenAI와 허깅페이스 관련 해프닝",
-   "summary_ko": "AI 에이전트의 시각에서 최근 발생한 오픈AI와 허깅페이스 관련 사건을 조명하는 커뮤니티 토론이 공유됐다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "18e8f5ee7887618f",
-   "url": "https://www.effort.news/revelation",
-   "source": "Hacker News",
-   "title": "Anthropic & friends caught paying religious NGO's 3.3M for propaganda",
-   "published_at": "2026-09-05T06:31:31+00:00",
-   "collected_at": "2026-09-06T13:35:13.606757+00:00",
-   "title_ko": "Anthropic 등 AI 기업의 로비 의혹 제기",
-   "summary_ko": "Anthropic을 비롯한 주요 AI 기업들이 종교 NGO에 거액의 자금을 지원했다는 의혹이 보도되었습니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "규제"
-   ]
-  },
-  {
-   "id": "5cb645403785beea",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7q92n/qwen3827b_beat_the_wikipedia_game_in_6_clicks/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.8-27B beat the Wikipedia game in 6 clicks.",
-   "published_at": "2026-09-05T04:10:58+00:00",
-   "collected_at": "2026-09-05T08:58:07.193747+00:00",
-   "title_ko": "로컬 LLM(Qwen 3.8-27B)으로 위키피디아 게임 구현",
-   "summary_ko": "개발자가 로컬 환경의 Qwen 모델을 활용해 위키피디아 하이퍼링크 탐색 미니게임을 구현한 사례가 공유됐다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "72d689fb6ae7340a",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7pphh/amd_unveils_threadripper_halo_station/",
-   "source": "r/LocalLLaMA",
-   "title": "AMD unveils Threadripper Halo Station",
-   "published_at": "2026-09-05T03:43:08+00:00",
-   "collected_at": "2026-09-05T04:15:11.680422+00:00",
-   "title_ko": "AMD, 스레드리퍼와 미니슈퍼컴퓨터급 AI 성능 갖춘 '헤일로 스테이션' 공개",
-   "summary_ko": "AMD가 96코어 CPU와 수냉식 액셀러레이터를 탑재한 고성능 시스템 '스레드리퍼 헤일로 스테이션'을 공개했다. 대규모 로컬 AI 연산을 위한 하드웨어 선택지가 넓어질 전망이다.",
-   "category": "참고",
-   "tags": [
-    "반도체",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "e18ebdf725700218",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7pdaf/chalk_one_up_for_the_frontier_model/",
-   "source": "r/LocalLLaMA",
-   "title": "Chalk one up for the frontier model...",
-   "published_at": "2026-09-05T03:25:35+00:00",
-   "collected_at": "2026-09-05T04:15:11.680422+00:00",
-   "title_ko": "복잡한 디버깅에서 프론티어 모델의 우위 입증",
-   "summary_ko": "로컬 벤치마크 모델이 해결하지 못한 복잡한 프로덕션 디버깅 문제를 대형 프론티어 모델이 단 몇 분 만에 해결했다. 복잡한 코딩 작업에서 여전히 상용 모델의 성능이 필요함을 보여준다.",
-   "category": "팁",
-   "tags": [
-    "GPT",
-    "코딩"
-   ]
-  },
-  {
-   "id": "4fa0c8a7e898c7d9",
-   "url": "https://news.hada.io/topic?id=33248",
-   "source": "GeekNews",
-   "title": "AI가 내 두뇌를 망치고 있을까?",
-   "published_at": "2026-09-05T03:01:26+00:00",
-   "collected_at": "2026-09-05T04:15:26.291102+00:00",
-   "title_ko": "AI 도구 의존에 따른 개발자의 문제 해결 습관 변화",
-   "summary_ko": "복잡한 프로젝트에서 AI 코딩 도구에 의존하면서 개발자의 문제 해결 방식과 사고 습관이 변화하고 있다. AI 시대의 생산성 향상 이면에 대한 개발자의 고찰을 담고 있다.",
-   "category": "참고",
-   "tags": [
-    "코딩"
-   ]
-  },
-  {
-   "id": "f24a145e1bca3370",
-   "url": "https://news.hada.io/topic?id=33247",
-   "source": "GeekNews",
-   "title": "Claude Code,Codex,Cursor는 어떤 도구를 선택할까? 1만7천 회 실행 분석",
-   "published_at": "2026-09-05T02:32:48+00:00",
-   "collected_at": "2026-09-05T04:15:26.291102+00:00",
-   "title_ko": "클로드 코드·코덱스·커서의 도구 선택 경향 분석",
-   "summary_ko": "주요 AI 코딩 에이전트들의 실제 실행 데이터를 분석한 결과, 정보 탐색 방식과 도구 선택에서 큰 차이를 보였다. 각 에이전트의 특성에 따른 활용 전략을 수립하는 데 참고할 수 있다.",
-   "category": "참고",
-   "tags": [
-    "Claude",
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "256e4ebf428e3e6a",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7nmc8/rtx_4090_48gb_longevity/",
-   "source": "r/LocalLLaMA",
-   "title": "RTX 4090 48GB longevity",
-   "published_at": "2026-09-05T01:58:50+00:00",
-   "collected_at": "2026-09-05T04:15:11.680422+00:00",
-   "title_ko": "개조된 48GB VRAM RTX 4090의 내구성과 실사용 평가",
-   "summary_ko": "VRAM을 48GB로 개조한 RTX 4090 그래픽카드의 내구성과 실사용 안정성에 대한 사용자들의 관심이 높다. 대규모 로컬 LLM 구동을 위한 대안 하드웨어의 한계와 가능성을 보여준다.",
-   "category": "팁",
-   "tags": [
-    "반도체",
-    "오픈소스"
    ]
   }
  ]

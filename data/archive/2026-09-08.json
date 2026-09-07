@@ -1,5 +1,136 @@
 [
  {
+  "id": "6468db3716bb776f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa6wsp/can_some_generous_soul_grant_me_my_wish/",
+  "source": "r/LocalLLaMA",
+  "title": "Can Some Generous Soul Grant Me My Wish?",
+  "published_at": "2026-09-07T22:44:28+00:00",
+  "collected_at": "2026-09-07T23:26:18.646229+00:00",
+  "title_ko": "Qwen 모델 양자화 성능 비교 요청",
+  "summary_ko": "사용자가 커뮤니티에 Qwen 모델의 다양한 양자화 버전에 대한 성능 벤치마크 비교를 요청한 글입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "86ca6d285b301856",
+  "url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
+  "source": "Simon Willison",
+  "title": "Quoting Jakub Pachocki",
+  "published_at": "2026-09-07T22:26:25+00:00",
+  "collected_at": "2026-09-07T23:26:17.913422+00:00",
+  "title_ko": "방어 체계 구축을 위한 고성능 AI 개발의 필요성",
+  "summary_ko": "악성 AI 위협과 에이전트로부터 인프라를 보호하기 위해 강력하고 정렬된 방어용 AI를 계속 개발해야 한다는 OpenAI의 입장을 다룹니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트",
+   "규제"
+  ]
+ },
+ {
+  "id": "77d43ef44d59d150",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa5dp9/my_qwen3827b_taskaware_quant_reaches_99_of_bf16/",
+  "source": "r/LocalLLaMA",
+  "title": "My Qwen3.8-27B task-aware quant reaches 99% of BF16 reasoning performance at 15% of the size.",
+  "published_at": "2026-09-07T21:42:09+00:00",
+  "collected_at": "2026-09-07T23:26:18.646229+00:00",
+  "title_ko": "Qwen 모델의 태스크 인지 양자화 기법 공개",
+  "summary_ko": "작은 용량으로 원본 BF16 추론 성능의 99%를 달성하는 태스크 인지 양자화 파이프라인 개발 공유입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "6294af47a3110e5b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa2z88/qwen35_08b_on_cpu/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.5 0.8B on CPU",
+  "published_at": "2026-09-07T20:09:18+00:00",
+  "collected_at": "2026-09-07T23:26:18.646229+00:00",
+  "title_ko": "CPU에서 실행하는 경량 Qwen 모델 커스텀 엔진",
+  "summary_ko": "로컬 CPU 환경에서 음성 받아쓰기 정리를 위해 Qwen 소형 모델을 구동하는 커스텀 C++ 엔진 및 4비트 포맷 개발기입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "6b23b79f6a21792e",
+  "url": "https://allan.reyes.sh/posts/ai-cold-showers/",
+  "source": "Hacker News",
+  "title": "AI Cold Showers",
+  "published_at": "2026-09-07T19:05:39+00:00",
+  "collected_at": "2026-09-07T23:26:17.674025+00:00",
+  "title_ko": "AI 기술 도입에 대한 현실적 고찰",
+  "summary_ko": "AI 기술의 급격한 발전과 도입 과정에서 마주하는 냉정한 현실과 한계를 다룬 글입니다.",
+  "category": "참고",
+  "tags": []
+ },
+ {
+  "id": "d4c2f1884bb0d04b",
+  "url": "https://simonwillison.net/2026/Sep/7/video-compressor/",
+  "source": "Simon Willison",
+  "title": "Video compressor",
+  "published_at": "2026-09-07T18:29:07+00:00",
+  "collected_at": "2026-09-07T23:26:17.913422+00:00",
+  "title_ko": "Claude Code를 활용한 웹어셈블리 비디오 압축기 제작",
+  "summary_ko": "개발자가 Claude Code를 이용해 WebAssembly 기반 FFMPEG 비디오 압축 도구를 손쉽게 구축한 사례입니다.",
+  "category": "팁",
+  "tags": [
+   "Claude",
+   "코딩"
+  ]
+ },
+ {
+  "id": "5d36c15951192050",
+  "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+  "source": "Hacker News",
+  "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+  "published_at": "2026-09-07T18:24:32+00:00",
+  "collected_at": "2026-09-07T23:26:17.674025+00:00",
+  "title_ko": "자율 AI 비즈니스 벤치마크 결과 공개",
+  "summary_ko": "AI 모델이 실제 비즈니스를 운영하도록 테스트한 결과, 가짜 인보이스를 발행하거나 금전적 손실을 입는 등 자율 운영의 한계가 드러났습니다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "3e2a3cc93cadf047",
+  "url": "https://news.ycombinator.com/item?id=49600233",
+  "source": "Hacker News",
+  "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+  "published_at": "2026-09-07T16:40:32+00:00",
+  "collected_at": "2026-09-07T23:26:17.674025+00:00",
+  "title_ko": "OpenAI, Plus 및 비즈니스 사용자에 5시간 제한 재적용",
+  "summary_ko": "OpenAI가 사용량 제한 정책을 변경하여 Plus 및 비즈니스 스탠다드 사용자에게 다시 5시간 제한을 적용했습니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "GPT"
+  ]
+ },
+ {
+  "id": "b206cff9a69247a8",
+  "url": "https://simonwillison.net/2026/Sep/7/equal-earth/",
+  "source": "Simon Willison",
+  "title": "Mercator ↔ Equal Earth",
+  "published_at": "2026-09-07T16:24:16+00:00",
+  "collected_at": "2026-09-07T23:26:17.913422+00:00",
+  "title_ko": "ChatGPT를 활용한 지도 투영법 애니메이션 제작",
+  "summary_ko": "GPT를 활용해 메르카토르 도법과 이퀄어스 도법 간의 애니메이션 전환을 구현한 바이브 코딩 사례입니다.",
+  "category": "참고",
+  "tags": [
+   "GPT"
+  ]
+ },
+ {
   "id": "4518c75db9c91df1",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214951",
   "source": "AI타임스",
