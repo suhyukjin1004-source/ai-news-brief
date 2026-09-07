@@ -106,6 +106,143 @@
   ]
  },
  {
+  "id": "bf0d5b7954c71fbe",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9nphc/tencentevie8b_and_evie45b_highcapacity_visual/",
+  "source": "r/LocalLLaMA",
+  "title": "tencent/EVIE-8B and EVIE-4.5B (High-Capacity Visual Document Retrieval)",
+  "published_at": "2026-09-07T09:47:10+00:00",
+  "collected_at": "2026-09-07T10:08:43.689797+00:00",
+  "title_ko": "텐센트, 고용량 시각 문서 검색 모델 EVIE 공개",
+  "summary_ko": "텐센트가 문서 레이아웃, 타이포그래피, 차트 등을 정밀하게 보존하는 시각 문서 검색 모델 EVIE-8B와 EVIE-4.5B를 공개했다. 뛰어난 문서 검색 성능을 제공한다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "텐센트"
+  ]
+ },
+ {
+  "id": "6f543c98c456c1e0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9njvw/dual_r9700_on_asus_x570_viii_motherboard/",
+  "source": "r/LocalLLaMA",
+  "title": "Dual R9700 on Asus X570 VIII Motherboard",
+  "published_at": "2026-09-07T09:38:04+00:00",
+  "collected_at": "2026-09-07T10:08:43.689797+00:00",
+  "title_ko": "로컬 LLM 구동을 위한 듀얼 GPU 하드웨어 구성 논의",
+  "summary_ko": "사용자가 로컬 환경에서 대형 언어 모델과 에이전트를 효율적으로 구동하기 위해 메인보드 업그레이드와 듀얼 GPU 구성을 고민하는 사례다. 로컬 하드웨어 최적화에 대한 실무적 관심을 보여준다.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "로컬LLM"
+  ]
+ },
+ {
+  "id": "c6abfe68f6604703",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9nfx8/qwen_38_next_flash_is_really_really_really_verbose/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen 3.8 Next Flash is really really REALLY verbose..",
+  "published_at": "2026-09-07T09:31:28+00:00",
+  "collected_at": "2026-09-07T10:08:43.689797+00:00",
+  "title_ko": "Qwen 3.8 Next Flash 모델의 지나친 장문 출력 문제",
+  "summary_ko": "새로운 Qwen 모델 사용자들이 코딩 요청 시 너무 긴 사고 시간과 불필요한 전문 용어를 남발하는 장문 출력 문제를 제기했다. 모델의 실사용 성능과 피드백을 다룬다.",
+  "category": "참고",
+  "tags": [
+   "Qwen",
+   "코딩",
+   "LLM"
+  ]
+ },
+ {
+  "id": "199b5d2ba227a9f9",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9n6fx/bifurcation_and_riser_cables_suggestions/",
+  "source": "r/LocalLLaMA",
+  "title": "Bifurcation and riser cables suggestions",
+  "published_at": "2026-09-07T09:16:08+00:00",
+  "collected_at": "2026-09-07T10:08:43.689797+00:00",
+  "title_ko": "멀티 GPU 로컬 AI Rig 구성을 위한 하드웨어 팁",
+  "summary_ko": "오픈에어 케이스 환경에서 다수의 그래픽카드를 안정적으로 장착하기 위한 라이저 케이블과 바이퍼케이션 어댑터 활용 팁이다. 로컬 AI 서버 구축에 유용하다.",
+  "category": "팁",
+  "tags": [
+   "반도체",
+   "로컬LLM"
+  ]
+ },
+ {
+  "id": "2b4950ff7924bf44",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9n2np/what_is_the_obstacle_in_front_of_local_frontiers/",
+  "source": "r/LocalLLaMA",
+  "title": "What is the obstacle in front of Local Frontiers?",
+  "published_at": "2026-09-07T09:10:05+00:00",
+  "collected_at": "2026-09-07T10:08:43.689797+00:00",
+  "title_ko": "오픈소스 로컬 모델이 클라우드 모델을 따라잡지 못하는 이유",
+  "summary_ko": "로컬 LLM의 성능이 크게 향상되었음에도 불구하고 클라우드 기반 프론티어 모델과의 격차가 존재하는 원인과 연산 능력의 한계에 대한 토론이다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "7284f9ff98280a87",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9l8qc/thinking_about_grabbing_an_rtx_2000_ada_16gb_to/",
+  "source": "r/LocalLLaMA",
+  "title": "Thinking about grabbing an RTX 2000 Ada 16gb to add to my gaming pc for inference due to Wattage constraints, any advice?",
+  "published_at": "2026-09-07T07:23:26+00:00",
+  "collected_at": "2026-09-07T10:08:43.689797+00:00",
+  "title_ko": "전력 제약 환경에서 인스퍼런스용 RTX 2000 Ada 활용법",
+  "summary_ko": "게이밍 PC의 전력 제약 속에서 저전력 RTX 2000 Ada를 추가해 대형 슬림 모델 인퍼런스를 구동하려는 하드웨어 업그레이드 논의다.",
+  "category": "팁",
+  "tags": [
+   "반도체",
+   "로컬LLM"
+  ]
+ },
+ {
+  "id": "6aacaa9497a6eac1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9kfs3/lit_review_on_benchmarking_llms_running_in_your/",
+  "source": "r/LocalLLaMA",
+  "title": "Lit Review on Benchmarking LLMs Running in your phone!: MobileWorld: Benchmarking Autonomous Mobile Agents in Agent-User Interactive and MCP-Augmented Environments",
+  "published_at": "2026-09-07T06:39:50+00:00",
+  "collected_at": "2026-09-07T10:08:43.689797+00:00",
+  "title_ko": "모바일 환경 자율 에이전트 벤치마크 'MobileWorld' 소개",
+  "summary_ko": "스마트폰 GUI 환경에서 사용자 상호작용과 MCP 기반 작업을 수행하는 모바일 에이전트들을 평가하기 위한 새로운 벤치마크 연구다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "LLM"
+  ]
+ },
+ {
+  "id": "6ab026eb31d72c59",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9jmo8/benchmarking_calories_evaluation_with_llms/",
+  "source": "r/LocalLLaMA",
+  "title": "Benchmarking calories evaluation with LLMs",
+  "published_at": "2026-09-07T05:56:24+00:00",
+  "collected_at": "2026-09-07T10:08:43.689797+00:00",
+  "title_ko": "LLM을 활용한 칼로리 평가 모델 성능 벤치마크",
+  "summary_ko": "식사 사진과 설명을 기반으로 칼로리를 정확히 계산하는 비전 LLM들의 성능을 비교하고 평가한 실험이다.",
+  "category": "팁",
+  "tags": [
+   "LLM",
+   "OpenRouter"
+  ]
+ },
+ {
+  "id": "bce0fb95b5bb8567",
+  "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
+  "source": "Hacker News",
+  "title": "I refused to train the AI that could replace me",
+  "published_at": "2026-09-07T04:38:22+00:00",
+  "collected_at": "2026-09-07T10:08:42.708158+00:00",
+  "title_ko": "자신을 대체할 AI 학습을 거부한 전문가들의 사례",
+  "summary_ko": "전문가들이 자신의 전문 지식을 학습시켜 자신을 대체할 AI 모델 개발에 협조하기를 거부하는 노동 윤리 및 업계 트렌드 조명이다.",
+  "category": "중요",
+  "tags": [
+   "규제",
+   "투자"
+  ]
+ },
+ {
   "id": "6db2faf125a03253",
   "url": "https://news.hada.io/topic?id=33309",
   "source": "GeekNews",
@@ -224,6 +361,22 @@
    "AI 에이전트",
    "GPT",
    "추론"
+  ]
+ },
+ {
+  "id": "e02ae19def6b6f7c",
+  "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+  "source": "OpenAI",
+  "title": "Supporting independent journalism in Ukraine",
+  "published_at": "2026-09-07T00:00:00+00:00",
+  "collected_at": "2026-09-07T10:08:28.757648+00:00",
+  "title_ko": "OpenAI, 우크라이나 독립 언론 지원 AI 프로그램 출범",
+  "summary_ko": "OpenAI가 우크라이나 언론사들의 혁신과 독립 저널리즘 강화를 돕는 AI 프로그램을 시작했습니다. AI 기술을 통한 미디어 생태계 지원이라는 점에서 중요합니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "미디어",
+   "AI 에이전트"
   ]
  },
  {
