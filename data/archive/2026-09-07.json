@@ -1,5 +1,64 @@
 [
  {
+  "id": "6dd70ed67e9ae73a",
+  "url": "https://www.reddit.com/r/singularity/comments/1w9u8ul/gpt_astra_scored_13_on_mazebenchno_tools/",
+  "source": "r/singularity",
+  "title": "GPT Astra scored 13% on Mazebench(no tools)",
+  "published_at": "2026-09-07T14:49:28+00:00",
+  "collected_at": "2026-09-07T16:24:00.717382+00:00",
+  "title_ko": "도구 없이 미로 벤치마크 수행한 GPT 아스트라의 성적",
+  "summary_ko": "GPT 아스트라가 외부 도구 없이 Mazebench 테스트에서 13%의 점수를 기록하며 현재의 추론 및 계획 한계를 보여줌.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "GPT"
+  ]
+ },
+ {
+  "id": "926f5f27641044ac",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9t83y/why_are_the_sota_openweight_models_scoring/",
+  "source": "r/LocalLLaMA",
+  "title": "Why are the SOTA open-weight models scoring (relatively) low scores on AA-Omniscience Index",
+  "published_at": "2026-09-07T14:09:45+00:00",
+  "collected_at": "2026-09-07T16:23:55.924484+00:00",
+  "title_ko": "오픈 웨이트 모델의 옴니시언스 벤치마크 성적 분석",
+  "summary_ko": "최신 오픈 웨이트 모델들이 AA-Omniscience 벤치마크에서 제미니 플래시 시리즈 등에 비해 상대적으로 낮은 점수를 기록한 원인을 분석함.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "6e0adfc5d5bd4c4a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9skjz/minicpm52b_release_day/",
+  "source": "r/LocalLLaMA",
+  "title": "MiniCPM5-2B Release Day",
+  "published_at": "2026-09-07T13:43:45+00:00",
+  "collected_at": "2026-09-07T16:23:55.924484+00:00",
+  "title_ko": "소형 오픈소스 모델 MiniCPM5-2B 출시",
+  "summary_ko": "OpenBMB가 공개한 MiniCPM5-2B가 4B 이하 파라미터 오픈 웨이트 모델 중 최고 수준의 성능을 기록함.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "9849915139b011a2",
+  "url": "https://news.hada.io/topic?id=33323",
+  "source": "GeekNews",
+  "title": "Anubis에 WebAssembly를 탑재하기까지 1년이 걸렸다",
+  "published_at": "2026-09-07T13:01:08+00:00",
+  "collected_at": "2026-09-07T16:24:03.031610+00:00",
+  "title_ko": "AI 스크래핑 방어 도구 Anubis의 WebAssembly 도입",
+  "summary_ko": "AI 기업의 과도한 웹 스크래핑을 막기 위한 서버 보호 도구 Anubis가 작업 증명 방식을 위해 WebAssembly를 탑재함.",
+  "category": "참고",
+  "tags": [
+   "AI"
+  ]
+ },
+ {
   "id": "2ac5b07e80137fd0",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214930",
   "source": "AI타임스",
@@ -13,6 +72,68 @@
    "업스테이지",
    "AI 에이전트",
    "메가존클라우드"
+  ]
+ },
+ {
+  "id": "7fa18442cfd96ab0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9r73k/9_easy_steps_for_llamacpp_a_local_model_freecad/",
+  "source": "r/LocalLLaMA",
+  "title": "9 easy steps for llama.cpp, a local model, Freecad (and pi coding agent) to generate solid objects that sound mechanically good and can be also be 3D printed/milled",
+  "published_at": "2026-09-07T12:45:58+00:00",
+  "collected_at": "2026-09-07T16:23:55.924484+00:00",
+  "title_ko": "로컬 LLM과 FreeCAD를 연동한 3D 모델링 생성 가이드",
+  "summary_ko": "llama.cpp와 로컬 모델, FreeCAD를 결합하여 기계적으로 유효한 3D 출력물을 생성하는 방법을 설명합니다. 실무에서 로컬 AI 기반 설계 자동화를 구현하는 데 유용합니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "7d11d0caad3995fa",
+  "url": "https://www.reddit.com/r/singularity/comments/1w9qx54/they_simulated_a_fruit_flys_entire_brain_and_made/",
+  "source": "r/singularity",
+  "title": "They simulated a fruit fly’s entire brain… and made it play Bad Apple",
+  "published_at": "2026-09-07T12:33:15+00:00",
+  "collected_at": "2026-09-07T16:24:00.717382+00:00",
+  "title_ko": "초파리 뇌 시뮬레이션으로 'Bad Apple' 구동 성공",
+  "summary_ko": "연구원들이 초파리의 전체 뇌를 시뮬레이션하여 가상 환경에서 유명한 영상인 Bad Apple을 구동하는 데 성공했습니다. 신경과학과 인공지능 융합 연구의 흥미로운 사례입니다.",
+  "category": "참고",
+  "tags": [
+   "로보틱스",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "37ced17f6b09f554",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9qvi9/littlecoder_vs_just_pi/",
+  "source": "r/LocalLLaMA",
+  "title": "little-coder vs just Pi",
+  "published_at": "2026-09-07T12:31:09+00:00",
+  "collected_at": "2026-09-07T16:23:55.924484+00:00",
+  "title_ko": "저사양 PC에서 코딩용 소형 모델 활용 비교",
+  "summary_ko": "제한된 VRAM 환경에서 대형 컨텍스트 대신 가벼운 코딩 에이전트와 소형 모델을 조합해 효율적으로 개발하는 방식을 비교합니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "b2e91147730aea7e",
+  "url": "https://news.hada.io/topic?id=33321",
+  "source": "GeekNews",
+  "title": "Show GN: 번역체를 완전히 못 없앤다면 문체를 만들어 넣어버리자는 발상에서 만든 무협체 스킬",
+  "published_at": "2026-09-07T12:24:39+00:00",
+  "collected_at": "2026-09-07T16:24:03.031610+00:00",
+  "title_ko": "클로드의 번역투를 없애는 무협지 말투 프롬프트",
+  "summary_ko": "LLM의 어색한 번역투를 극복하고 자연스러운 한국어 출력을 위해 무협지 문체를 적용하는 프롬프트 활용 팁입니다.",
+  "category": "팁",
+  "tags": [
+   "Claude",
+   "코딩"
   ]
  },
  {
@@ -43,6 +164,21 @@
   "tags": [
    "네이버클라우드",
    "오픈소스"
+  ]
+ },
+ {
+  "id": "c3f607fef6c59540",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9puz3/easy_local_copilot_with_vs_code_and_lemonade/",
+  "source": "r/LocalLLaMA",
+  "title": "Easy local Copilot with VS Code and Lemonade",
+  "published_at": "2026-09-07T11:43:41+00:00",
+  "collected_at": "2026-09-07T16:23:55.924484+00:00",
+  "title_ko": "VS Code와 로컬 모델을 활용한 무료 코파일럿 구축 가이드",
+  "summary_ko": "상용 코파일럿 구독료 부담을 줄이기 위해 VS Code에서 강력한 로컬 LLM을 연동하여 무료로 코딩 보조 도구를 구축하는 방법을 안내합니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
   ]
  },
  {
@@ -103,6 +239,82 @@
   "category": "중요",
   "tags": [
    "로보틱스"
+  ]
+ },
+ {
+  "id": "ae2d02abe79f8cff",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9p7vy/qwen_next_on_24_64_gb_vram/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen Next on 24 + 64 GB VRAM?",
+  "published_at": "2026-09-07T11:10:26+00:00",
+  "collected_at": "2026-09-07T16:23:55.924484+00:00",
+  "title_ko": "다중 GPU 환경에서 대형 Qwen 모델 구동 테스트",
+  "summary_ko": "VRAM이 다른 두 개의 GPU를 조합하여 대형 차세대 Qwen 모델을 로컬에서 실행하기 위한 하드웨어 최적화 및 오프로딩 전략을 공유합니다.",
+  "category": "팁",
+  "tags": [
+   "NVIDIA",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "1c1b6200f3cb644a",
+  "url": "https://www.reddit.com/r/singularity/comments/1w9ou70/gpt6_astra_scores_656_on_clockbench/",
+  "source": "r/singularity",
+  "title": "GPT-6 Astra scores 65.6% on ClockBench",
+  "published_at": "2026-09-07T10:50:11+00:00",
+  "collected_at": "2026-09-07T16:24:00.717382+00:00",
+  "title_ko": "GPT-6 Astra, ClockBench에서 65.6% 기록",
+  "summary_ko": "차세대 모델로 추정되는 GPT-6 Astra가 ClockBench 평가에서 65.6%의 점수를 기록했다는 소식입니다. 향후 LLM 성능 향상 방향을 가늠하는 지표가 됩니다.",
+  "category": "속보",
+  "tags": [
+   "GPT",
+   "OpenAI"
+  ]
+ },
+ {
+  "id": "8ace226c04e296c7",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9oso4/best_local_models_for_hardware_programming/",
+  "source": "r/LocalLLaMA",
+  "title": "Best local models for hardware programming?",
+  "published_at": "2026-09-07T10:47:48+00:00",
+  "collected_at": "2026-09-07T16:23:55.924484+00:00",
+  "title_ko": "하드웨어 프로그래밍에 최적화된 로컬 LLM 추천",
+  "summary_ko": "Verilog RTL, UVM, SystemVerilog 등 하드웨어 설계 및 검증 언어 작성에 가장 뛰어난 성능을 보이는 오픈소스 로컬 LLM을 논의합니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "반도체",
+   "코딩"
+  ]
+ },
+ {
+  "id": "5288245e5fe36608",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9omj0/which_models_are_you_running_on_32gb_vram_1616/",
+  "source": "r/LocalLLaMA",
+  "title": "Which models are you running on 32Gb VRAM (16+16) and 128Gb RAM?",
+  "published_at": "2026-09-07T10:38:22+00:00",
+  "collected_at": "2026-09-07T16:23:55.924484+00:00",
+  "title_ko": "32GB VRAM/128GB RAM 환경에서 구동 가능한 LLM 모델 공유",
+  "summary_ko": "듀얼 RTX 5080과 128GB RAM을 탑재한 소비자용 PC 환경에서 구동하기 좋은 오픈소스 LLM과 최적화 설정 공유를 요청하는 게시글.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "NVIDIA",
+   "LLM"
+  ]
+ },
+ {
+  "id": "1ee8a8e8d6c34f3f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9of3u/me_trying_to_keep_up_with_all_the_new_ai_models/",
+  "source": "r/LocalLLaMA",
+  "title": "Me trying to keep up with all the new AI models being released",
+  "published_at": "2026-09-07T10:26:51+00:00",
+  "collected_at": "2026-09-07T16:23:55.924484+00:00",
+  "title_ko": "쏟아지는 신규 AI 모델 속도에 발맞추기",
+  "summary_ko": "빠르게 출시되는 다양한 신규 AI 모델들을 따라잡기 버거운 개발자들의 공감대를 다룬 게시글.",
+  "category": "참고",
+  "tags": [
+   "LLM"
   ]
  },
  {
@@ -183,6 +395,20 @@
   ]
  },
  {
+  "id": "9d87a0dbe57a000f",
+  "url": "https://www.reddit.com/r/singularity/comments/1w9mp3k/astra_is_now_a_certified_human/",
+  "source": "r/singularity",
+  "title": "Astra is now a certified human",
+  "published_at": "2026-09-07T08:48:23+00:00",
+  "collected_at": "2026-09-07T16:24:00.717382+00:00",
+  "title_ko": "Astra, 인간 수준의 테스트 통과",
+  "summary_ko": "AI 모델 Astra가 복잡한 게임 테스트를 완벽히 수행하며 인간 수준의 능력을 입증했다는 소식.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "7284f9ff98280a87",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9l8qc/thinking_about_grabbing_an_rtx_2000_ada_16gb_to/",
   "source": "r/LocalLLaMA",
@@ -195,6 +421,21 @@
   "tags": [
    "반도체",
    "로컬LLM"
+  ]
+ },
+ {
+  "id": "d9b6f828b42c5a24",
+  "url": "https://www.reddit.com/r/singularity/comments/1w9kjbe/using_h3_max_this_person_is_able_to_generate/",
+  "source": "r/singularity",
+  "title": "Using H3 MAX this person is able to generate playable, real-time animated Pokémon battles.",
+  "published_at": "2026-09-07T06:45:08+00:00",
+  "collected_at": "2026-09-07T16:24:00.717382+00:00",
+  "title_ko": "H3 MAX를 활용한 실시간 애니메이션 포켓몬 배틀 생성",
+  "summary_ko": "H3 MAX 모델을 이용해 플레이 가능하며 상태 이상까지 반영되는 실시간 포켓몬 배틀을 생성하는 프로젝트 소개.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
   ]
  },
  {
@@ -228,6 +469,35 @@
   ]
  },
  {
+  "id": "de44063907246bb0",
+  "url": "https://www.reddit.com/r/singularity/comments/1w9ip6t/ai2027_is_right_on_schedule/",
+  "source": "r/singularity",
+  "title": "AI-2027 is right on schedule",
+  "published_at": "2026-09-07T05:06:33+00:00",
+  "collected_at": "2026-09-07T16:24:00.717382+00:00",
+  "title_ko": "AI-2027 로드맵 순항 중",
+  "summary_ko": "AI 기술 발전 속도가 2027년 목표 일정에 맞춰 차질 없이 진행되고 있다는 전망.",
+  "category": "참고",
+  "tags": [
+   "투자"
+  ]
+ },
+ {
+  "id": "d02abe3b70f4c740",
+  "url": "https://github.com/timgordontg/engrim",
+  "source": "Hacker News",
+  "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+  "published_at": "2026-09-07T04:49:36+00:00",
+  "collected_at": "2026-09-07T16:23:54.729506+00:00",
+  "title_ko": "AI CLI용 로컬 SQLite 메모리 엔진 'Engrim' 공개",
+  "summary_ko": "AI 개발 도구 및 CLI 환경에서 로컬 우선으로 동작하는 범용 SQLite 기반 메모리 엔진 Engrim 소개.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
   "id": "bce0fb95b5bb8567",
   "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
   "source": "Hacker News",
@@ -241,6 +511,33 @@
    "규제",
    "투자"
   ]
+ },
+ {
+  "id": "94faffa8d82216e1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9fwsw/when_will_open_source_llm_catch_up_to_astra_i/",
+  "source": "r/LocalLLaMA",
+  "title": "when will open source LLM catch up to Astra I wonder?",
+  "published_at": "2026-09-07T02:47:28+00:00",
+  "collected_at": "2026-09-07T16:23:55.924484+00:00",
+  "title_ko": "오픈소스 LLM이 Astra 수준을 따라잡는 시점은?",
+  "summary_ko": "초고속으로 발전하는 AI 업계에서 오픈소스 모델들이 최신 상용 모델인 Astra를 언제쯤 따라잡을 수 있을지 의문을 제기하는 게시글.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "e905f4f06751e430",
+  "url": "https://www.reddit.com/r/singularity/comments/1w9f4ko/denzel_washington_explains_why_its_not_ai_slop/",
+  "source": "r/singularity",
+  "title": "Denzel Washington explains why it's not \"AI slop\"",
+  "published_at": "2026-09-07T02:08:56+00:00",
+  "collected_at": "2026-09-07T16:24:00.717382+00:00",
+  "title_ko": "덴젤 워싱턴이 말하는 AI 슬롭이 아닌 이유",
+  "summary_ko": "배우 덴젤 워싱턴이 AI 콘텐츠와 관련된 소셜미디어 논쟁에 대해 언급한 내용.",
+  "category": "참고",
+  "tags": []
  },
  {
   "id": "6db2faf125a03253",
@@ -287,6 +584,18 @@
    "OpenAI",
    "GPT"
   ]
+ },
+ {
+  "id": "3032f0e0e6376ad8",
+  "url": "https://www.reddit.com/r/singularity/comments/1w9dmf3/the_man_who_invented_the_term_agi_declares_that/",
+  "source": "r/singularity",
+  "title": "The man who invented the term 'AGI' declares that AGI is here",
+  "published_at": "2026-09-07T00:56:51+00:00",
+  "collected_at": "2026-09-07T16:24:00.717382+00:00",
+  "title_ko": "AGI 용어 창시자, \"AGI는 이미 도래했다\"",
+  "summary_ko": "인공일반지능(AGI)이라는 용어를 만든 인물이 현재 시점에서 AGI가 이미 달성되었다고 선언한 소식.",
+  "category": "중요",
+  "tags": []
  },
  {
   "id": "ba52b77de2a31b14",
@@ -377,6 +686,21 @@
    "OpenAI",
    "미디어",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "8628f7502c04b32b",
+  "url": "https://www.reddit.com/r/singularity/comments/1w9cbcb/ceo_jensen_huang_says_artificial_general/",
+  "source": "r/singularity",
+  "title": "CEO Jensen Huang says Artificial General Intelligence (AGI) has arrived.",
+  "published_at": "2026-09-06T23:57:54+00:00",
+  "collected_at": "2026-09-07T16:24:00.717382+00:00",
+  "title_ko": "엔비디아 CEO 젠슨 황, \"AGI 시대 열렸다\"",
+  "summary_ko": "엔비디아의 젠슨 황 CEO가 인공일반지능(AGI)이 이미 도래했다고 공식 언급한 대형 소식.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "반도체"
   ]
  },
  {
