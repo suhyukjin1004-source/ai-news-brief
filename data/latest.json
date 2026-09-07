@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-07T16:24:19.726887+00:00",
+ "updated_at": "2026-09-07T20:31:42.290949+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -486,6 +486,22 @@
     "Qwen",
     "코딩",
     "LLM"
+   ]
+  },
+  {
+   "id": "8fb31a39b25a9cb6",
+   "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+   "source": "Hacker News",
+   "title": "Speculative Decoding in vLLM on AMD GPUs",
+   "published_at": "2026-09-07T09:26:41+00:00",
+   "collected_at": "2026-09-07T20:29:03.670099+00:00",
+   "title_ko": "AMD GPU 환경의 vLLM에서 추론 가속 기법 지원",
+   "summary_ko": "vLLM 블로그에서 AMD GPU 상에서 스페큘레이티브 디코딩(Speculative Decoding)을 활용한 LLM 추론 최적화 방안을 소개했습니다. AMD 하드웨어에서의 AI 연산 성능 향상에 중요한 참고 자료입니다.",
+   "category": "참고",
+   "tags": [
+    "AMD",
+    "오픈소스",
+    "반도체"
    ]
   },
   {
@@ -2974,21 +2990,6 @@
    "category": "팁",
    "tags": [
     "반도체",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "ce26a15670db78a2",
-   "url": "https://news.hada.io/topic?id=33246",
-   "source": "GeekNews",
-   "title": "wigolo - AI 에이전트를 위한 로컬 우선 웹 검색/수집 도구",
-   "published_at": "2026-09-05T00:30:02+00:00",
-   "collected_at": "2026-09-05T04:15:26.291102+00:00",
-   "title_ko": "AI 에이전트를 위한 로컬 우선 웹 검색 도구 'wigolo'",
-   "summary_ko": "AI 에이전트가 MCP 인터페이스를 통해 로컬 우선으로 웹 검색, 크롤링, 데이터 수집을 수행할 수 있는 도구가 공개됐다. 에이전트 기반 리서치 성능을 높이는 데 유용하다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
     "오픈소스"
    ]
   }
