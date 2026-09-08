@@ -15,6 +15,65 @@
   ]
  },
  {
+  "id": "93b4203e0c5379ed",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+  "source": "Hacker News",
+  "title": "Google DeepMind Releases AlphaGenome Atlas",
+  "published_at": "2026-09-08T14:55:45+00:00",
+  "collected_at": "2026-09-08T18:32:08.651806+00:00",
+  "title_ko": "구글 딥마인드, '알파게놈 아틀라스' 발표",
+  "summary_ko": "구글 딥마인드가 생명과학 연구를 위한 새로운 AI 모델 및 데이터셋인 알파게놈 아틀라스를 공개했습니다.",
+  "category": "중요",
+  "tags": [
+   "Google"
+  ]
+ },
+ {
+  "id": "a221931bfe78b53b",
+  "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+  "source": "Hacker News",
+  "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+  "published_at": "2026-09-08T14:49:19+00:00",
+  "collected_at": "2026-09-08T18:32:08.651806+00:00",
+  "title_ko": "Qwen 27B 모델 양자화 성능 벤치마크 결과",
+  "summary_ko": "Qwen 27B 모델의 다양한 양자화 수준(4비트 대 1비트)에 따른 성능 유지 및 손실 여부를 벤치마크한 결과입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "fe2a7a64f1d667d6",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1waq7hu/gpu_guide_gb_per_dollar_bandwidth/",
+  "source": "r/LocalLLaMA",
+  "title": "GPU guide (GB per dollar, bandwidth)",
+  "published_at": "2026-09-08T14:37:52+00:00",
+  "collected_at": "2026-09-08T18:32:35.813908+00:00",
+  "title_ko": "가격 대비 GPU 성능 및 대역폭 비교 가이드",
+  "summary_ko": "로컬 LLM 구동을 위해 자주 논의되는 GPU들의 가격 대비 메모리 용량과 대역폭을 비교한 가이드입니다. 하드웨어 선택에 유용한 참고 자료가 됩니다.",
+  "category": "팁",
+  "tags": [
+   "NVIDIA",
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "f6c7eba4669936f5",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wapzjg/qwen306b_400_mb_on_a_samsung_note_8_2017_phone/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3-0.6B (400 MB) on a Samsung Note 8 (2017) phone drives a real desktop Chrome",
+  "published_at": "2026-09-08T14:29:24+00:00",
+  "collected_at": "2026-09-08T18:32:35.813908+00:00",
+  "title_ko": "구형 스마트폰에서 초소형 LLM으로 데스크톱 브라우저 제어",
+  "summary_ko": "2017년형 스마트폰에서 Qwen3-0.6B 모델을 구동해 데스크톱 크롬 브라우저를 실시간으로 제어한 실험입니다. 온디바이스 AI의 모바일 활용 가능성을 보여줍니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "4f420d1c5cd0cb94",
   "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
   "source": "Hugging Face",
@@ -44,6 +103,21 @@
   ]
  },
  {
+  "id": "16169d530ca6c4a0",
+  "url": "https://github.com/ayghri/i-have-adhd",
+  "source": "Hacker News",
+  "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+  "published_at": "2026-09-08T14:13:26+00:00",
+  "collected_at": "2026-09-08T18:32:08.651806+00:00",
+  "title_ko": "코딩 에이전트의 핵심 답변 누락을 방지하는 도구",
+  "summary_ko": "코딩 에이전트가 장황한 설명 속에서 핵심 결론을 숨기는 문제를 해결하기 위한 프롬프트 스킬입니다. 개발 실무에서 에이전트의 효율성을 높이는 데 도움을 줍니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
   "id": "7303cffc74e4732f",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wapjaw/openai_alleged_of_stealing_mathematicians_work/",
   "source": "r/LocalLLaMA",
@@ -57,6 +131,22 @@
    "OpenAI",
    "GPT",
    "규제"
+  ]
+ },
+ {
+  "id": "a46dd9520a03215b",
+  "url": "https://news.hada.io/topic?id=33364",
+  "source": "GeekNews",
+  "title": "Arm, 피지컬 AI 개발과 로봇 역량 정의 위한 생태계 협업 확대",
+  "published_at": "2026-09-08T14:07:19+00:00",
+  "collected_at": "2026-09-08T18:32:50.579045+00:00",
+  "title_ko": "Arm, 피지컬 AI 생태계 협업 확대 발표",
+  "summary_ko": "Arm이 80여 개 기업과 함께 피지컬 AI 개발 가속화를 위한 생태계 협업을 발표했습니다. 로보틱스와 자율 시스템 개발의 복잡성을 줄이는 데 기여합니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "로보틱스",
+   "반도체"
   ]
  },
  {
@@ -144,6 +234,22 @@
   "category": "참고",
   "tags": [
    "오픈소스"
+  ]
+ },
+ {
+  "id": "bb5027a1bbd9bc15",
+  "url": "https://news.hada.io/topic?id=33361",
+  "source": "GeekNews",
+  "title": "Show GN: /take-my-data - 코딩 에이전트 세션을 로컬에서 정제해 공개 데이터셋으로 기부하는 스킬",
+  "published_at": "2026-09-08T13:03:46+00:00",
+  "collected_at": "2026-09-08T18:32:50.579045+00:00",
+  "title_ko": "코딩 에이전트 세션을 정제해 데이터셋으로 기부하는 도구",
+  "summary_ko": "다양한 코딩 에이전트의 세션 로그를 로컬에서 정제해 공개 데이터셋으로 기부할 수 있는 오픈소스 도구입니다. 한국어 AI 에이전트 연구 데이터 부족을 해소하는 데 기여합니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스",
+   "코딩"
   ]
  },
  {
@@ -403,6 +509,21 @@
   ]
  },
  {
+  "id": "fbb79928f7d9c051",
+  "url": "https://openai.com/index/navier-stokes-solution",
+  "source": "OpenAI",
+  "title": "On the Navier–Stokes Millennium Prize Problem",
+  "published_at": "2026-09-08T10:00:00+00:00",
+  "collected_at": "2026-09-08T18:32:07.102074+00:00",
+  "title_ko": "OpenAI, 밀레니엄 문제 Navier-Stokes AI 생성 해법 공개",
+  "summary_ko": "OpenAI가 수학의 난제인 나비에-스토크스 방정식 밀레니엄 문제에 대한 AI 생성 해법과 형식적 증명을 공개했습니다. AI의 과학 및 수학적 추론 능력을 보여주는 중요한 성과입니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "GPT"
+  ]
+ },
+ {
   "id": "35a2688cdb3dead1",
   "url": "https://www.reddit.com/r/singularity/comments/1wak0a6/what_is_noam_brown_referring_to_here_what_is/",
   "source": "r/singularity",
@@ -457,6 +578,22 @@
   "category": "중요",
   "tags": [
    "보안",
+   "투자"
+  ]
+ },
+ {
+  "id": "99c22bc85dd5ff7a",
+  "url": "https://openai.com/index/teen-development-research-grants",
+  "source": "OpenAI",
+  "title": "Funding grants for new research into AI and teen development",
+  "published_at": "2026-09-08T09:00:00+00:00",
+  "collected_at": "2026-09-08T18:32:07.102074+00:00",
+  "title_ko": "OpenAI, 청소년 발달과 생성형 AI 영향 연구 지원금 공모",
+  "summary_ko": "OpenAI가 생성형 AI가 청소년의 발달, 웰빙, 안전에 미치는 영향을 독립적으로 연구하기 위해 500만 달러 규모의 지원금 프로그램을 발표했습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "규제",
    "투자"
   ]
  },
