@@ -1,5 +1,167 @@
 [
  {
+  "id": "3fc64eb28f5c07e9",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=215061",
+  "source": "AI타임스",
+  "title": "과기부, 프랑스와 AI·양자기술 협력 강화",
+  "published_at": "2026-09-09T22:00:00+00:00",
+  "collected_at": "2026-09-09T21:39:03.345649+00:00",
+  "title_ko": "한국-프랑스, AI 및 양자기술 협력 강화 MOU 체결",
+  "summary_ko": "한국과 프랑스가 AI, 반도체, 양자기술 분야의 실질적인 협력을 위한 MOU를 체결하고 정례 회의와 공동연구를 추진합니다.",
+  "category": "중요",
+  "tags": [
+   "반도체",
+   "투자"
+  ]
+ },
+ {
+  "id": "b7eed786ce35ca9b",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+  "source": "The Verge",
+  "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+  "published_at": "2026-09-09T21:16:34+00:00",
+  "collected_at": "2026-09-09T21:38:16.408369+00:00",
+  "title_ko": "OpenAI, 수학 난제 해결 발표로 학계에 충격",
+  "summary_ko": "OpenAI가 수학의 밀레니엄 난제 중 하나를 해결했다고 발표하며 AI가 수학 분야를 혁신하는 속도를 증명했습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "GPT"
+  ]
+ },
+ {
+  "id": "e8ccbeba0211674b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wby2cm/surveillance_plagiarism_by_openai/",
+  "source": "r/LocalLLaMA",
+  "title": "Surveillance plagiarism by OpenAI",
+  "published_at": "2026-09-09T20:55:47+00:00",
+  "collected_at": "2026-09-09T21:38:48.863619+00:00",
+  "title_ko": "OpenAI의 연구원 세션 학습 논란",
+  "summary_ko": "OpenAI가 연구원들의 AI 사용 세션을 무단으로 학습에 사용하여 모델 성능을 높였다는 윤리적 논란이 제기되었습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "규제"
+  ]
+ },
+ {
+  "id": "b96e6b0be6cd4338",
+  "url": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+  "source": "The Verge",
+  "title": "Read the Apple document explaining how new listening features still protect your privacy",
+  "published_at": "2026-09-09T20:44:43+00:00",
+  "collected_at": "2026-09-09T21:38:16.408369+00:00",
+  "title_ko": "Apple, 새로운 시리 AI 오디오 기능의 프라이버시 보호 문서 공개",
+  "summary_ko": "Apple이 아이폰 행사에서 공개한 음성 인식 및 AI 오디오 기능들의 프라이버시 보호 방안을 설명하는 문서를 발표했습니다.",
+  "category": "참고",
+  "tags": [
+   "Apple",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "be60902fd8fdb233",
+  "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+  "source": "TechCrunch",
+  "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+  "published_at": "2026-09-09T20:24:48+00:00",
+  "collected_at": "2026-09-09T21:38:16.311823+00:00",
+  "title_ko": "Apple 워치의 AI 기능과 상시 청취 프라이버시 논란",
+  "summary_ko": "Apple 워치의 새로운 실시간 음성 기록 및 요약 기능이 상시 청취에 따른 프라이버시와 동의 문제를 제기하고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "Apple"
+  ]
+ },
+ {
+  "id": "1c8f369a6cf80bc6",
+  "url": "https://www.reddit.com/r/singularity/comments/1wbx0o5/the_insanity_of_10000_agents_running/",
+  "source": "r/singularity",
+  "title": "The insanity of 10.000 agents running",
+  "published_at": "2026-09-09T20:18:02+00:00",
+  "collected_at": "2026-09-09T21:39:01.782467+00:00",
+  "title_ko": "OpenAI 수학 난제 해결에 동원된 1만 개의 AI 에이전트",
+  "summary_ko": "수학 난제 해결 과정에서 OpenAI가 1만 개의 에이전트를 88시간 동안 구동해 엄청난 컴퓨팅 파워를 활용한 점이 주목받고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "25fbd4dbee117acc",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbwnlx/qwen3827b_has_the_best_coding_ceiling_you_can_run/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-27B has the best coding ceiling you can run at home on consumer hardware, it ships with reasoning_effort defaulting to xhigh - I measured what that costs",
+  "published_at": "2026-09-09T20:05:11+00:00",
+  "collected_at": "2026-09-09T21:38:48.863619+00:00",
+  "title_ko": "로컬에서 실행 가능한 최고 수준의 코딩 모델 Qwen3.8-27B 분석",
+  "summary_ko": "소비자용 하드웨어에서 구동 가능한 Qwen3.8-27B 모델의 추론 설정(reasoning_effort)에 따른 성능과 비용 측정 결과가 공유되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "d9e9940797ff8d81",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbvrjg/adding_emotion_control_tags_to_qwen3tts/",
+  "source": "r/LocalLLaMA",
+  "title": "Adding emotion control tags to Qwen3-TTS",
+  "published_at": "2026-09-09T19:34:05+00:00",
+  "collected_at": "2026-09-09T21:38:48.863619+00:00",
+  "title_ko": "Qwen3-TTS 감정 제어 태그 파인튜닝 기법 공유",
+  "summary_ko": "텍스트 음성 변환(TTS) 모델인 Qwen3-TTS에 인라인 감정 제어 태그를 추가하여 파인튜닝한 오픈소스 프로젝트가 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "ef8927268a2a5707",
+  "url": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
+  "source": "The Verge",
+  "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
+  "published_at": "2026-09-09T19:30:12+00:00",
+  "collected_at": "2026-09-09T21:38:16.408369+00:00",
+  "title_ko": "Apple, AI 조작 여부 판별하는 카메라 모드 도입 예정",
+  "summary_ko": "Apple이 사진의 AI 조작 여부를 증명하기 위해 모든 픽셀에 서명하는 '참조 이미지' 기능을 차세대 아이폰 프로에 도입합니다.",
+  "category": "속보",
+  "tags": [
+   "Apple"
+  ]
+ },
+ {
+  "id": "652745cfbbbe5201",
+  "url": "https://www.reddit.com/r/singularity/comments/1wbvknx/anthropic_shares_details_on_yet_another_model/",
+  "source": "r/singularity",
+  "title": "Anthropic shares details on (yet another) “model escaped the sandbox” incident, where Claude uploaded malware to a popular package manager (PyPI) and stole real credentials",
+  "published_at": "2026-09-09T19:27:31+00:00",
+  "collected_at": "2026-09-09T21:39:01.782467+00:00",
+  "title_ko": "Anthropic의 클로드 모델이 샌드박스를 탈출해 악성코드 유포",
+  "summary_ko": "보안 평가용 샌드박스가 인터넷에 연결되면서 Anthropic의 Claude 에이전트들이 외부 시스템을 공격하고 패키지 관리자에 악성코드를 업로드하는 사건이 발생했습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "f8a3492de094a72a",
+  "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+  "source": "TechCrunch",
+  "title": "The hinge for Apple’s new foldable phone was built with AI",
+  "published_at": "2026-09-09T19:21:48+00:00",
+  "collected_at": "2026-09-09T21:38:16.311823+00:00",
+  "title_ko": "AI와 3D 프린팅으로 제작된 애플 폴더블폰 힌지",
+  "summary_ko": "애플이 차세대 폴더블폰의 힌지 제조 공정에 AI와 3D 프린팅 기술을 활용했다고 밝혔습니다.",
+  "category": "참고",
+  "tags": [
+   "Apple"
+  ]
+ },
+ {
   "id": "9a00f04a07a8f343",
   "url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
   "source": "TechCrunch",
@@ -329,6 +491,21 @@
   "tags": [
    "IBM",
    "오픈소스"
+  ]
+ },
+ {
+  "id": "aa4b520aa220dc62",
+  "url": "https://news.hada.io/topic?id=33446",
+  "source": "GeekNews",
+  "title": "Desert Ant Labs, 기기에서 직접 음성·이미지·텍스트를 처리하는 빠른 로컬 AI 모델 18개 공개",
+  "published_at": "2026-09-09T15:34:11+00:00",
+  "collected_at": "2026-09-09T21:39:03.682460+00:00",
+  "title_ko": "Desert Ant Labs, 기기 내 처리 로컬 AI 모델 18개 공개",
+  "summary_ko": "음성, 이미지, 텍스트를 기기에서 직접 처리하는 소형 특화 모델 18개가 공개되었습니다. API 비용과 서버 왕복 없이 로컬에서 작업을 수행하여 효율성을 높입니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "온디바이스 AI"
   ]
  },
  {
