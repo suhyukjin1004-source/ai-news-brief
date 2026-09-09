@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-08T21:47:09.495419+00:00",
+ "updated_at": "2026-09-09T00:04:18.892147+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -17,6 +17,115 @@
     "삼성전자",
     "Mistral AI",
     "반도체"
+   ]
+  },
+  {
+   "id": "2bd68d2c7890c472",
+   "url": "https://news.hada.io/topic?id=33379",
+   "source": "GeekNews",
+   "title": "나비에-스토크스 해법 발표의 이면: 수학자가 공개한 OpenAI와의 협의 과정",
+   "published_at": "2026-09-08T22:56:58+00:00",
+   "collected_at": "2026-09-09T00:04:15.646206+00:00",
+   "title_ko": "OpenAI의 나비에-스토크스 해법 발표 이면의 수학자 협의",
+   "summary_ko": "수학자가 LLM을 활용해 유체 방정식 연구를 발전시키고 OpenAI와 협의했던 과정을 공개했습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "LLM",
+    "수학"
+   ]
+  },
+  {
+   "id": "5e9de14d9809d2c1",
+   "url": "https://news.hada.io/topic?id=33377",
+   "source": "GeekNews",
+   "title": "ChatGPT Images 2.5",
+   "published_at": "2026-09-08T22:41:56+00:00",
+   "collected_at": "2026-09-09T00:04:15.646206+00:00",
+   "title_ko": "ChatGPT Images 2.5 공개",
+   "summary_ko": "참조 사진 재현도와 편집 정확도를 높이고 생성 속도를 대폭 단축한 새 이미지 생성 모델이 도입됐습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT",
+    "이미지 생성"
+   ]
+  },
+  {
+   "id": "f7c07210c276c5a3",
+   "url": "https://news.hada.io/topic?id=33376",
+   "source": "GeekNews",
+   "title": "DaVinci Resolve 21.1",
+   "published_at": "2026-09-08T22:39:50+00:00",
+   "collected_at": "2026-09-09T00:04:15.646206+00:00",
+   "title_ko": "DaVinci Resolve 21.1 출시와 AI 어시스턴트 연동",
+   "summary_ko": "대규모 업데이트를 통해 Claude와 ChatGPT 등 AI 어시스턴트와의 연동 기능이 강화되었습니다.",
+   "category": "속보",
+   "tags": [
+    "Claude",
+    "GPT",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "11b4a5fefc291730",
+   "url": "https://news.hada.io/topic?id=33374",
+   "source": "GeekNews",
+   "title": "I-have-ADHD - 코딩 에이전트가 답을 묻어두지 않게 하는 스킬",
+   "published_at": "2026-09-08T22:33:36+00:00",
+   "collected_at": "2026-09-09T00:04:15.646206+00:00",
+   "title_ko": "코딩 에이전트 응답을 행동 우선으로 바꾸는 프롬프트 팁",
+   "summary_ko": "코딩 도우미가 불필요한 설명 대신 바로 실행 가능한 절차를 출력하도록 유도하는 프롬프트 작성법입니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "85335e22550916f8",
+   "url": "https://news.hada.io/topic?id=33373",
+   "source": "GeekNews",
+   "title": "Muse: Meta의 개인 AI 에이전트와 주요 기능",
+   "published_at": "2026-09-08T22:25:14+00:00",
+   "collected_at": "2026-09-09T00:04:15.646206+00:00",
+   "title_ko": "Meta, 개인 AI 에이전트 'Muse' 공개",
+   "summary_ko": "웹과 앱을 연동해 예약과 구매 등 다단계 작업을 수행하는 Meta의 새로운 개인 AI 에이전트입니다.",
+   "category": "속보",
+   "tags": [
+    "Meta",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "2524ff2290ac5fa0",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wb35xo/how_many_agents_can_24090_actually_run_at_once/",
+   "source": "r/LocalLLaMA",
+   "title": "How many agents can 2×4090 actually run at once? Three weeks of llama.cpp concurrency data — soft cap 5 @ 64k, hard cap 9, and why.",
+   "published_at": "2026-09-08T22:21:43+00:00",
+   "collected_at": "2026-09-09T00:04:00.869848+00:00",
+   "title_ko": "로컬 LLM 환경에서 동시 실행 가능한 코딩 에이전트 성능 측정",
+   "summary_ko": "RTX 4090 듀얼 환경에서 llama.cpp를 이용해 다수의 로컬 코딩 에이전트를 동시에 구동할 때의 성능 한계를 분석했습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "반도체",
+    "코딩"
+   ]
+  },
+  {
+   "id": "0cdd808d19615652",
+   "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+   "source": "Ars Technica",
+   "title": "Why this month's Microsoft patch release is a doozy",
+   "published_at": "2026-09-08T21:11:46+00:00",
+   "collected_at": "2026-09-09T00:03:42.919405+00:00",
+   "title_ko": "마이크로소프트, AI 기반 공격 대비 보안 패치 배포",
+   "summary_ko": "AI를 활용한 사이버 공격 증가에 대응하기 위해 마이크로소프트가 대규모 보안 패치를 발표했습니다.",
+   "category": "중요",
+   "tags": [
+    "규제",
+    "보안"
    ]
   },
   {
@@ -94,6 +203,21 @@
     "OpenAI",
     "GPT",
     "이미지 생성"
+   ]
+  },
+  {
+   "id": "0251a982b82a5bfc",
+   "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+   "source": "Hacker News",
+   "title": "Mercury 2.5",
+   "published_at": "2026-09-08T20:14:52+00:00",
+   "collected_at": "2026-09-09T00:03:45.297484+00:00",
+   "title_ko": "인셉션랩스, 'Mercury 2.5' 모델 발표",
+   "summary_ko": "인셉션랩스에서 새로운 AI 모델 Mercury 2.5를 공개하며 업계의 주목을 받고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "모델명",
+    "AI"
    ]
   },
   {
@@ -2854,112 +2978,6 @@
    "tags": [
     "GPT"
    ]
-  },
-  {
-   "id": "c4b0ca71393ce14c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9ad9q/i_built_an_llm_benchmark_harness_that_lets_you/",
-   "source": "r/LocalLLaMA",
-   "title": "I built an LLM benchmark harness that lets you browse and compare how models answered each question",
-   "published_at": "2026-09-06T22:32:07+00:00",
-   "collected_at": "2026-09-06T23:45:50.615686+00:00",
-   "title_ko": "개별 LLM 벤치마크 문답 비교 도구 'lm-eval-ledger' 출시",
-   "summary_ko": "모델별 벤치마크 결과의 세부 문답 내용을 웹 인터페이스에서 직접 비교하고 검토할 수 있는 오픈소스 툴입니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "6b2ab3c03a57b60e",
-   "url": "https://www.reddit.com/r/singularity/comments/1w99zj0/terence_tao_says_ai_labs_race_to_beat_math/",
-   "source": "r/singularity",
-   "title": "Terence Tao says AI labs’ race to beat math benchmarks is starting to hurt the field. He wants them to compete on new insights instead.",
-   "published_at": "2026-09-06T22:15:59+00:00",
-   "collected_at": "2026-09-06T23:46:03.515008+00:00",
-   "title_ko": "테렌스 타오, AI 랩의 단순 수학 벤치마크 경쟁 우려 표명",
-   "summary_ko": "수학자 테렌스 타오가 AI 연구소들의 점수 경쟁이 실질적인 수학적 통찰 발전보다 벤치마크 수치 자체에만 매몰되고 있다고 지적했습니다.",
-   "category": "중요",
-   "tags": []
-  },
-  {
-   "id": "f29737bd154cb22f",
-   "url": "https://www.reddit.com/r/singularity/comments/1w99iy1/now_its_brazil_that_doesnt_want_to_rely_on_china/",
-   "source": "r/singularity",
-   "title": "Now its Brazil that doesn't want to rely on China and the US, they want their own sovereign, Portuguese AI",
-   "published_at": "2026-09-06T21:57:14+00:00",
-   "collected_at": "2026-09-06T23:46:03.515008+00:00",
-   "title_ko": "브라질, 독자적인 포르투갈어 소버린 AI 구축 추진",
-   "summary_ko": "미국과 중국 기술에 대한 의존도를 낮추기 위해 브라질이 자체적인 국가 AI 모델 개발에 나섰습니다.",
-   "category": "중요",
-   "tags": []
-  },
-  {
-   "id": "c75403e7d7d46ee4",
-   "url": "https://news.hada.io/topic?id=33293",
-   "source": "GeekNews",
-   "title": "AI로 도구를 만드는 것과 기업을 바꾸는 것은 다른 일이다",
-   "published_at": "2026-09-06T21:46:00+00:00",
-   "collected_at": "2026-09-06T23:46:05.944419+00:00",
-   "title_ko": "AI 도구 도입과 기업 조직 변화의 간극에 대한 고찰",
-   "summary_ko": "업무용 AI 도구를 쉽게 만드는 것과 조직 전체의 프로세스를 실제로 바꾸는 것은 완전히 다른 과제라는 점을 다룹니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "18194b9621525fbb",
-   "url": "https://news.hada.io/topic?id=33292",
-   "source": "GeekNews",
-   "title": "로봇 팔을 제어하는 GPT-6 Astra",
-   "published_at": "2026-09-06T21:40:42+00:00",
-   "collected_at": "2026-09-06T23:46:05.944419+00:00",
-   "title_ko": "GPT-6 Astra를 활용한 로봇 팔 제어 실험",
-   "summary_ko": "카메라 영상을 기반으로 로봇 팔을 제어하는 실험에서 Astra 모델이 뛰어난 작업 성공률과 처리 속도를 기록했습니다.",
-   "category": "속보",
-   "tags": [
-    "GPT",
-    "로보틱스"
-   ]
-  },
-  {
-   "id": "331ef5abdda8c00f",
-   "url": "https://news.hada.io/topic?id=33291",
-   "source": "GeekNews",
-   "title": "Artificial Analysis, AAII v4.2 발표 - 실제 업무 평가 강화, 비공개 테스트 확대",
-   "published_at": "2026-09-06T21:35:57+00:00",
-   "collected_at": "2026-09-06T23:46:05.944419+00:00",
-   "title_ko": "Artificial Analysis, AI 성능 평가 지표 'Intelligence Index v4.2' 발표",
-   "summary_ko": "복잡한 지식 업무와 장문 문서 추론 능력을 강화한 새로운 AI 모델 종합 평가 기준이 공개되었습니다.",
-   "category": "중요",
-   "tags": []
-  },
-  {
-   "id": "c552c9e7d810d778",
-   "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-   "source": "TechCrunch",
-   "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-   "published_at": "2026-09-06T20:47:37+00:00",
-   "collected_at": "2026-09-06T21:16:06.411912+00:00",
-   "title_ko": "앤스로픽 합의금을 둘러싼 작가와 출판사의 갈등",
-   "summary_ko": "AI 저작권 합의 과정에서 출판사와 에이전시가 과도한 몫을 요구하자 작가들이 반발하고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "저작권"
-   ]
-  },
-  {
-   "id": "7b7757d30ce069d6",
-   "url": "https://www.reddit.com/r/singularity/comments/1w97g02/when_did_this_subreddit_fill_with_doomers/",
-   "source": "r/singularity",
-   "title": "When did this subreddit fill with doomers?",
-   "published_at": "2026-09-06T20:35:14+00:00",
-   "collected_at": "2026-09-06T23:46:03.515008+00:00",
-   "title_ko": "AI 비관론 확산에 대한 커뮤니티의 우려",
-   "summary_ko": "최근 AI 커뮤니티 내에 지나친 비관론과 종말론적 시각이 늘어난 현상에 대한 사용자 간의 토론입니다.",
-   "category": "참고",
-   "tags": []
   }
  ]
 }
