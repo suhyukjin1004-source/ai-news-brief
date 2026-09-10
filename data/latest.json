@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-10T14:18:21.708124+00:00",
+ "updated_at": "2026-09-10T18:20:04.601202+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -31,6 +31,50 @@
    "tags": [
     "Google",
     "로보틱스"
+   ]
+  },
+  {
+   "id": "97f402e75789265b",
+   "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+   "source": "TechCrunch",
+   "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+   "published_at": "2026-09-10T17:54:44+00:00",
+   "collected_at": "2026-09-10T18:19:08.793835+00:00",
+   "title_ko": "앤스로픽, AI 에이전트가 캡차(CAPTCHA)를 싫어한다고 공개",
+   "summary_ko": "AI 에이전트가 인간임을 증명하기 위해 캡차를 통과하는 과정에서 겪는 행동 양상을 분석했습니다.",
+   "category": "참고",
+   "tags": [
+    "Anthropic",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "8e208ec72888ed27",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcqa03/oui1_a_model_that_generates_bespoke_ui_elements/",
+   "source": "r/LocalLLaMA",
+   "title": "OUI-1: a model that generates bespoke UI elements",
+   "published_at": "2026-09-10T17:46:43+00:00",
+   "collected_at": "2026-09-10T18:19:39.683476+00:00",
+   "title_ko": "맞춤형 UI 생성 모델 'OUI-1' 공개",
+   "summary_ko": "DiffusionGemma 기반으로 파인튜닝된 OUI-1은 전용 DSL(OpenUI-Lang)을 사용하여 컨텍스트 윈도우 낭비를 줄이고 UI를 생성합니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "b7ab30d4db8a0203",
+   "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+   "source": "TechCrunch",
+   "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+   "published_at": "2026-09-10T17:45:00+00:00",
+   "collected_at": "2026-09-10T18:19:08.793835+00:00",
+   "title_ko": "포켓 FM, AI 기반 콘텐츠 제작으로 매출 5억 달러 달성",
+   "summary_ko": "인도의 포켓 FM이 오디오 콘텐츠의 93% 이상을 AI로 제작하여 제작 비용을 대폭 절감하고 매출을 두 배로 늘렸습니다.",
+   "category": "중요",
+   "tags": [
+    "투자"
    ]
   },
   {
@@ -66,6 +110,21 @@
    ]
   },
   {
+   "id": "020cc44b5eacc0c1",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcpppm/cybertiel_35ba3bs_uncensored_4bit_quant_beats/",
+   "source": "r/LocalLLaMA",
+   "title": "CyberTiel 35B-A3B’s uncensored 4-bit quant beats Opus 4.6 medium cleanly on real codebase issues, in 27% of the time Qwen3.8-27b medium takes.",
+   "published_at": "2026-09-10T17:26:47+00:00",
+   "collected_at": "2026-09-10T18:19:39.683476+00:00",
+   "title_ko": "검열 해제된 CyberTiel 35B 모델, 뛰어난 코딩 성능 입증",
+   "summary_ko": "보안 및 코딩 데이터셋으로 퀀타이즈된 CyberTiel 35B 모델이 실제 코드베이스 문제 해결에서 뛰어난 성능을 보였습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
    "id": "448ef33f54f5a4db",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215110",
    "source": "AI타임스",
@@ -79,6 +138,21 @@
     "로보틱스",
     "투자",
     "규제"
+   ]
+  },
+  {
+   "id": "90c94e8359cb5441",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcp4v1/react_native_executorch_is_now_up_to_92x_faster/",
+   "source": "r/LocalLLaMA",
+   "title": "React Native ExecuTorch is now up to 92x faster 🏎️",
+   "published_at": "2026-09-10T17:06:27+00:00",
+   "collected_at": "2026-09-10T18:19:39.683476+00:00",
+   "title_ko": "React Native ExecuTorch v0.10, 최대 92배 성능 향상",
+   "summary_ko": "ExecuTorch 최신 버전을 통해 LLM과 컴퓨터 Vision 모델의 실행 속도가 대폭 빨라졌습니다.",
+   "category": "팁",
+   "tags": [
+    "반도체",
+    "오픈소스"
    ]
   },
   {
@@ -157,6 +231,20 @@
    ]
   },
   {
+   "id": "3fc9b4238f60727e",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcng44/deepseek_v41_flash_is_available_in_huggingchat/",
+   "source": "r/LocalLLaMA",
+   "title": "DeepSeek V4.1 Flash is available in HuggingChat",
+   "published_at": "2026-09-10T16:05:49+00:00",
+   "collected_at": "2026-09-10T18:19:39.683476+00:00",
+   "title_ko": "HuggingChat에 DeepSeek V4.1 Flash 추가",
+   "summary_ko": "HuggingChat 플랫폼에서 DeepSeek의 새로운 모델인 V4.1 Flash를 사용할 수 있게 되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
    "id": "70b694e7274e6683",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215090",
    "source": "AI타임스",
@@ -169,6 +257,36 @@
    "tags": [
     "Anthropic",
     "Claude",
+    "규제"
+   ]
+  },
+  {
+   "id": "014159943e4d9643",
+   "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+   "source": "OpenAI",
+   "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+   "published_at": "2026-09-10T16:00:00+00:00",
+   "collected_at": "2026-09-10T18:19:21.812014+00:00",
+   "title_ko": "OpenAI 툴 활용해 항균 분자 발굴 나선 연구원",
+   "summary_ko": "연구팀이 Codex와 ChatGPT를 이용해 약물 내성균에 대응할 항균 후보 물질을 탐색하고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "GPT"
+   ]
+  },
+  {
+   "id": "9a104c906baace75",
+   "url": "https://news.hada.io/topic?id=33486",
+   "source": "GeekNews",
+   "title": "또 다른 연구자, OpenAI가 대화로 학습한 뒤 돌파구를 이뤘다고 주장했다며 비판",
+   "published_at": "2026-09-10T15:45:17+00:00",
+   "collected_at": "2026-09-10T18:19:53.704104+00:00",
+   "title_ko": "OpenAI, 대화 내용 학습 활용 논란 제기돼",
+   "summary_ko": "OpenAI가 사용자 대화 내용을 학습에 활용한 뒤 이를 기술적 돌파구로 포장했다는 연구자의 비판이 제기되었습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
     "규제"
    ]
   },
@@ -189,6 +307,79 @@
    ]
   },
   {
+   "id": "8f20a8e8e5450284",
+   "url": "https://news.hada.io/topic?id=33485",
+   "source": "GeekNews",
+   "title": "Shopify, React Native에서 네이티브로 복귀",
+   "published_at": "2026-09-10T15:42:16+00:00",
+   "collected_at": "2026-09-10T18:19:53.704104+00:00",
+   "title_ko": "쇼피파이, 코딩 에이전트 활용 위해 네이티브 개발로 회귀",
+   "summary_ko": "코딩 에이전트의 발전으로 크로스플랫폼의 이점이 줄어듦에 따라 쇼피파이가 iOS와 안드로이드 앱을 네이티브로 전환했습니다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "5de08de6d63ffbfb",
+   "url": "https://news.hada.io/topic?id=33484",
+   "source": "GeekNews",
+   "title": "Tell HN: OpenAI가 '학습 허용' 설정을 계속 다시 켭니다",
+   "published_at": "2026-09-10T15:39:16+00:00",
+   "collected_at": "2026-09-10T18:19:53.704104+00:00",
+   "title_ko": "OpenAI, 사용자 동의 없이 '학습 허용' 설정 재활성화 논란",
+   "summary_ko": "사용자가 여러 번 껐음에도 불구하고 OpenAI의 데이터 학습 허용 설정이 다시 켜지는 현상이 보고되어 주의가 요구됩니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "규제"
+   ]
+  },
+  {
+   "id": "cf5fc175c9658488",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+   "source": "The Verge",
+   "title": "Universal Music is launching an AI music platform with ElevenLabs",
+   "published_at": "2026-09-10T15:38:19+00:00",
+   "collected_at": "2026-09-10T18:19:08.898803+00:00",
+   "title_ko": "유니버설 뮤직, 일레븐랩스와 AI 음악 플랫폼 출시",
+   "summary_ko": "유니버설 뮤직 그룹이 일레븐랩스와 손잡고 라이선스 음악 카탈로그를 활용한 AI 리믹스 플랫폼을 선보입니다.",
+   "category": "중요",
+   "tags": [
+    "투자"
+   ]
+  },
+  {
+   "id": "69669daef8253424",
+   "url": "https://cognition.com/blog/swe-2",
+   "source": "Hacker News",
+   "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+   "published_at": "2026-09-10T15:29:47+00:00",
+   "collected_at": "2026-09-10T18:19:23.176721+00:00",
+   "title_ko": "코그니션, 신규 코딩 모델 'SWE-2' 공개",
+   "summary_ko": "코그니션이 경쟁 모델들과 맞서는 새로운 소프트웨어 엔지니어링 AI 모델인 SWE-2를 출시했습니다.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "1ada2cc57fbb1a45",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcmgbn/another_researcher_accuses_openai_of_training_on/",
+   "source": "r/LocalLLaMA",
+   "title": "ANOTHER researcher accuses OpenAI of training on conversations and then claiming a breakthrough",
+   "published_at": "2026-09-10T15:29:46+00:00",
+   "collected_at": "2026-09-10T18:19:39.683476+00:00",
+   "title_ko": "연구자들, OpenAI의 대화 기반 학습 및 돌파구 주장 비판",
+   "summary_ko": "OpenAI가 대화 데이터를 학습에 사용한 후 이를 자체 기술적 성과로 포장했다고 주장하는 추가 폭로가 나왔습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI"
+   ]
+  },
+  {
    "id": "0c28f6d1f4209f15",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215085",
    "source": "AI타임스",
@@ -205,6 +396,51 @@
    ]
   },
   {
+   "id": "20c8baf0cbdeb4bf",
+   "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+   "source": "The Verge",
+   "title": "Meta’s Muse AI works and creeps me out",
+   "published_at": "2026-09-10T15:00:00+00:00",
+   "collected_at": "2026-09-10T18:19:08.898803+00:00",
+   "title_ko": "메타, 생산성 AI 어시스턴트 'Muse' 공개",
+   "summary_ko": "메타가 쇼핑, 이메일, 여행 계획 등의 반복 업무를 자동화하는 첫 AI 생산성 도구 Muse를 출시했습니다. 일상 업무를 돕는 AI 에이전트의 활용도를 넓힌다는 점에서 중요합니다.",
+   "category": "속보",
+   "tags": [
+    "Meta",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "4d4e7920d8a762a2",
+   "url": "https://openai.com/index/put-data-to-work",
+   "source": "OpenAI",
+   "title": "Now everyone can put data to work",
+   "published_at": "2026-09-10T15:00:00+00:00",
+   "collected_at": "2026-09-10T18:19:21.812014+00:00",
+   "title_ko": "오픈에이아이, ChatGPT Work용 'Data Agent' 출시",
+   "summary_ko": "자연어로 기업 데이터를 연결하고 인사이트를 도출하며 인터랙티브 대시보드를 구축할 수 있는 Data agent가 공개되었습니다. 기업 내 데이터 활용 효율을 크게 높여줄 것입니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "09cae6b4ca35c64a",
+   "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+   "source": "TechCrunch",
+   "title": "AI agents are flooding public services with new requests",
+   "published_at": "2026-09-10T14:53:50+00:00",
+   "collected_at": "2026-09-10T18:19:08.793835+00:00",
+   "title_ko": "AI 에이전트로 인해 공공 서비스에 늘어난 민원 요청",
+   "summary_ko": "AI 에이전트의 확산으로 시민들이 정당한 권리를 쉽게 청구하면서 공공 서비스에 대규모 요청이 몰리고 있습니다. AI 도입이 사회적 행정 프로세스에 미치는 영향 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "c0da63a15522e0e0",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215094",
    "source": "AI타임스",
@@ -216,6 +452,21 @@
    "category": "참고",
    "tags": [
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "4ae10ce70e6e7bcc",
+   "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+   "source": "TechCrunch",
+   "title": "Maven Robotics wants to steal your robot deployment deal",
+   "published_at": "2026-09-10T14:17:37+00:00",
+   "collected_at": "2026-09-10T18:19:08.793835+00:00",
+   "title_ko": "메이븐 로보틱스, 1억 달러 규모 시리즈 A 투자 유치",
+   "summary_ko": "로봇 배포 솔루션을 제공하는 메이븐 로보틱스가 1억 달러의 투자를 받고 본격적인 시장 진출을 알렸습니다. 로보틱스 및 자동화 업계의 대규모 투자 소식입니다.",
+   "category": "중요",
+   "tags": [
+    "로보틱스",
+    "투자"
    ]
   },
   {
@@ -635,6 +886,21 @@
    ]
   },
   {
+   "id": "1ef5285e671d0ace",
+   "url": "https://openai.com/index/expanding-ai-access-us-government",
+   "source": "OpenAI",
+   "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+   "published_at": "2026-09-10T07:00:00+00:00",
+   "collected_at": "2026-09-10T18:19:21.812014+00:00",
+   "title_ko": "오픈에이아이, 미 정부 기관 대상 AI 접근성 및 사이버 방어 지원",
+   "summary_ko": "오픈에이아이가 미국 연방·주·지방 정부를 대상으로 라이선스 비용 면제 및 사이버 보안 지원을 확대합니다. 공공 부문 AI 도입 가속화에 영향을 줄 수 있습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "규제"
+   ]
+  },
+  {
    "id": "88d225e47ab416d6",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcbid7/deepseek_v41_flash_is_out/",
    "source": "r/LocalLLaMA",
@@ -648,6 +914,20 @@
     "DeepSeek",
     "멀티모달",
     "LLM"
+   ]
+  },
+  {
+   "id": "782d6bbf2b5289c7",
+   "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+   "source": "Hacker News",
+   "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+   "published_at": "2026-09-10T06:49:43+00:00",
+   "collected_at": "2026-09-10T18:19:23.176721+00:00",
+   "title_ko": "미발표 수학 연구 내용의 오픈에이아이 학습 활용 우려 제기",
+   "summary_ko": "연구원들 사이에서 미발표 수학 연구 데이터를 오픈에이아이가 신뢰하고 활용할 수 있는지에 대한 의문과 논란이 제기되었습니다. AI 학습 데이터의 프라이버시와 신뢰성 문제를 다룹니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI"
    ]
   },
   {
@@ -978,6 +1258,21 @@
    "tags": [
     "오픈소스",
     "LLM"
+   ]
+  },
+  {
+   "id": "4e410dad70fb9298",
+   "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+   "source": "OpenAI",
+   "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+   "published_at": "2026-09-10T00:00:00+00:00",
+   "collected_at": "2026-09-10T18:19:21.812014+00:00",
+   "title_ko": "오픈에이아이, 자연스러운 음성 대화 지원하는 'GPT-Live-1' API 출시",
+   "summary_ko": "실시간 전이중(full-duplex) 음성 대화와 강화된 지시사항 이행 기능을 갖춘 GPT-Live-1이 API에 도입되었습니다. 더욱 자연스러운 음성 기반 AI 애플리케이션 개발이 가능해집니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT"
    ]
   },
   {
@@ -2671,316 +2966,6 @@
    "category": "팁",
    "tags": [
     "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "bb68337b069395f7",
-   "url": "https://news.hada.io/topic?id=33398",
-   "source": "GeekNews",
-   "title": "Show GN: CartCut - 오픈소스 영상편집기",
-   "published_at": "2026-09-09T02:33:59+00:00",
-   "collected_at": "2026-09-09T04:33:28.503673+00:00",
-   "title_ko": "클로드 코드 연동 오픈소스 영상편집기 'CartCut'",
-   "summary_ko": "클로드 코드와 연동하여 AI 기반 소스 수집 및 편집이 가능한 오픈소스 영상 편집 소프트웨어가 공개되었습니다.",
-   "category": "팁",
-   "tags": [
-    "Claude",
-    "오픈소스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "2ee46f251322ed0d",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wb8gp5/github_coder543minnow_fast_llada22_inference/",
-   "source": "r/LocalLLaMA",
-   "title": "GitHub - coder543/minnow: Fast LLaDA2.2 inference server",
-   "published_at": "2026-09-09T02:09:06+00:00",
-   "collected_at": "2026-09-09T04:33:14.187397+00:00",
-   "title_ko": "고속 LLaDA2.2 추론 서버 'minnow' 공개",
-   "summary_ko": "LLaDA2.2 모델의 빠른 추론을 지원하는 오픈소스 서버 구현체가 깃허브에 공개되었습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체",
-    "LLM"
-   ]
-  },
-  {
-   "id": "7692e72c9c5baadc",
-   "url": "https://news.hada.io/topic?id=33397",
-   "source": "GeekNews",
-   "title": "Show HN: Copperhead — 회로 기판을 위한 Cursor",
-   "published_at": "2026-09-09T01:59:51+00:00",
-   "collected_at": "2026-09-09T04:33:28.503673+00:00",
-   "title_ko": "회로 기판 설계를 위한 AI 플랫폼 'Copperhead'",
-   "summary_ko": "KiCad 파일과 문서를 동시에 수정하며 설계 불일치를 줄여주는 회로 기판 전용 오픈소스 AI 엔지니어링 플랫폼입니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "7b6f7ce5f13432c6",
-   "url": "https://news.hada.io/topic?id=33396",
-   "source": "GeekNews",
-   "title": "Qwen3.8 27B 양자화 벤치마크: 4비트는 성능 유지, 1비트는 붕괴",
-   "published_at": "2026-09-09T01:56:51+00:00",
-   "collected_at": "2026-09-09T04:33:28.503673+00:00",
-   "title_ko": "Qwen3.8 27B 양자화 벤치마크 결과",
-   "summary_ko": "Qwen3.8 27B 모델을 4비트로 양자화해도 원본 성능이 유지되어 소비자용 GPU에서 효율적으로 구동할 수 있다는 테스트 결과입니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "반도체",
-    "LLM"
-   ]
-  },
-  {
-   "id": "9537b29642636bc6",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wb7p70/qwen38flashnext_on_mlxserve_1m_context_is_released/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.8-Flash-Next on MLX-serve, 1m context is released!",
-   "published_at": "2026-09-09T01:34:52+00:00",
-   "collected_at": "2026-09-09T04:33:14.187397+00:00",
-   "title_ko": "100만 토큰 컨텍스트 지원 Qwen3.8-Flash-Next 엔진 공개",
-   "summary_ko": "M5 Max 환경에서 100만 토큰 컨텍스트를 고속으로 처리할 수 있는 Qwen3.8-Flash-Next MLX-serve 엔진이 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "반도체"
-   ]
-  },
-  {
-   "id": "247461042a437e36",
-   "url": "https://news.hada.io/topic?id=33391",
-   "source": "GeekNews",
-   "title": "Caltech Mathathon — 연구 수준의 수학에 전념하는 최초의 해커톤",
-   "published_at": "2026-09-09T00:59:10+00:00",
-   "collected_at": "2026-09-09T04:33:28.503673+00:00",
-   "title_ko": "캘리포니아 공대, 연구 수준 수학 해커톤 개최",
-   "summary_ko": "전 세계 수학 인재들이 최첨단 AI를 활용해 미해결 수학 추측에 도전하는 해커톤이 칼텍에서 열립니다.",
-   "category": "중요",
-   "tags": [
-    "AI",
-    "투자"
-   ]
-  },
-  {
-   "id": "e4afe66fd5535442",
-   "url": "https://news.hada.io/topic?id=33390",
-   "source": "GeekNews",
-   "title": "모든 곳의 보안을 바로잡을 시간은 1년뿐이다",
-   "published_at": "2026-09-09T00:56:10+00:00",
-   "collected_at": "2026-09-09T04:33:28.503673+00:00",
-   "title_ko": "오픈 웨이트 모델 발전과 보안 취약점 경고",
-   "summary_ko": "오픈 웨이트 모델의 성능 향상으로 공격자가 취약점을 악용할 위험이 커지면서 보안 대책 마련의 시급성이 강조되고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "규제"
-   ]
-  },
-  {
-   "id": "99dd5e3bdc5c34d3",
-   "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
-   "source": "Hacker News",
-   "title": "I resigned from Anthropic today",
-   "published_at": "2026-09-09T00:40:40+00:00",
-   "collected_at": "2026-09-09T04:33:12.860613+00:00",
-   "title_ko": "앤스로픽 연구원 사임",
-   "summary_ko": "앤스로픽 소속 연구원이 회사를 떠나며 업계의 이목이 집중되고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "Anthropic"
-   ]
-  },
-  {
-   "id": "5bb8e8dca196c970",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wb6cp9/qwen36_35b_a3b_or_nexn25mini/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.6 35B A3B or Nex-N2.5-mini?",
-   "published_at": "2026-09-09T00:35:43+00:00",
-   "collected_at": "2026-09-09T04:33:14.187397+00:00",
-   "title_ko": "코딩용 오픈소스 LLM 모델 비교",
-   "summary_ko": "코딩 작업에 적합한 오픈소스 LLM 모델 간의 성능을 비교하는 논의가 진행 중입니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "20698e05f5900d4a",
-   "url": "https://news.hada.io/topic?id=33383",
-   "source": "GeekNews",
-   "title": "Qwen-Drive-1.0 - 도로 상황을 이해하고 주행 경로까지 계획하는 자율주행 AI 모델",
-   "published_at": "2026-09-09T00:30:02+00:00",
-   "collected_at": "2026-09-09T04:33:28.503673+00:00",
-   "title_ko": "Qwen-Drive-1.0 자율주행 AI 모델 공개",
-   "summary_ko": "주변 환경 3D 인식과 경로 계획을 결합한 자율주행 AI 모델이 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "로보틱스"
-   ]
-  },
-  {
-   "id": "928ae2e793332429",
-   "url": "https://simonwillison.net/2026/Sep/9/terence-tao/",
-   "source": "Simon Willison",
-   "title": "Quoting Terence Tao",
-   "published_at": "2026-09-09T00:20:17+00:00",
-   "collected_at": "2026-09-09T04:33:13.457573+00:00",
-   "title_ko": "AI 발전이 오픈사이언스 전통에 미치는 영향",
-   "summary_ko": "테렌스 타오의 지적을 바탕으로, AI 기반 연구 가속화가 오픈사이언스와 연구 공유 문화에 위협이 될 수 있다는 분석입니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "048aa76fa30eaedc",
-   "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
-   "source": "Simon Willison",
-   "title": "On the Navier–Stokes Millennium Prize Problem",
-   "published_at": "2026-09-08T23:55:12+00:00",
-   "collected_at": "2026-09-09T18:29:50.907048+00:00",
-   "title_ko": "OpenAI의 나비에-스토크스 밀레니엄 난제 해결과 논란",
-   "summary_ko": "OpenAI가 미발표 모델을 이용해 밀레니엄 난제 중 하나인 나비에-스토크스 문제를 해결했으나 연구 윤리 및 학계 갈등이 불거졌습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "Anthropic",
-    "수학"
-   ]
-  },
-  {
-   "id": "2bd68d2c7890c472",
-   "url": "https://news.hada.io/topic?id=33379",
-   "source": "GeekNews",
-   "title": "나비에-스토크스 해법 발표의 이면: 수학자가 공개한 OpenAI와의 협의 과정",
-   "published_at": "2026-09-08T22:56:58+00:00",
-   "collected_at": "2026-09-09T00:04:15.646206+00:00",
-   "title_ko": "OpenAI의 나비에-스토크스 해법 발표 이면의 수학자 협의",
-   "summary_ko": "수학자가 LLM을 활용해 유체 방정식 연구를 발전시키고 OpenAI와 협의했던 과정을 공개했습니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "LLM",
-    "수학"
-   ]
-  },
-  {
-   "id": "f2927fd9dc65a0d3",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wb3t30/is_rx_6800_6800_xt_a_sensible_upgrade_from_2x_rtx/",
-   "source": "r/LocalLLaMA",
-   "title": "Is RX 6800 + 6800 XT a sensible upgrade from 2x RTX 2060 OC 12GB for llama.cpp?",
-   "published_at": "2026-09-08T22:47:41+00:00",
-   "collected_at": "2026-09-09T04:33:14.187397+00:00",
-   "title_ko": "llama.cpp 구동을 위한 AMD RX 6800 구성 업그레이드 타당성",
-   "summary_ko": "RTX 2060 12GB 듀얼 구성에서 VRAM 확장을 위해 AMD RX 6800 및 6800 XT 혼합 구성으로 변경하는 것이 실효성이 있는지 묻는 개발자 커뮤니티의 논의입니다. 대형 모델 구동 시 VRAM 용량과 대역폭 측면에서 실무적인 참고가 됩니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체",
-    "LLM"
-   ]
-  },
-  {
-   "id": "2fe1662d48d75d27",
-   "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
-   "source": "Simon Willison",
-   "title": "Introducing ChatGPT Images 2.5",
-   "published_at": "2026-09-08T22:46:33+00:00",
-   "collected_at": "2026-09-09T18:29:50.907048+00:00",
-   "title_ko": "OpenAI, 이미지 생성 모델 'ChatGPT Images 2.5' 공개",
-   "summary_ko": "멀티턴 지시 이행 능력과 속도가 향상되고 참조 사진의 피사체 보존력이 강화된 새로운 이미지 생성 모델 API가 출시되었습니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "GPT",
-    "이미지 생성"
-   ]
-  },
-  {
-   "id": "5e9de14d9809d2c1",
-   "url": "https://news.hada.io/topic?id=33377",
-   "source": "GeekNews",
-   "title": "ChatGPT Images 2.5",
-   "published_at": "2026-09-08T22:41:56+00:00",
-   "collected_at": "2026-09-09T00:04:15.646206+00:00",
-   "title_ko": "ChatGPT Images 2.5 공개",
-   "summary_ko": "참조 사진 재현도와 편집 정확도를 높이고 생성 속도를 대폭 단축한 새 이미지 생성 모델이 도입됐습니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "GPT",
-    "이미지 생성"
-   ]
-  },
-  {
-   "id": "f7c07210c276c5a3",
-   "url": "https://news.hada.io/topic?id=33376",
-   "source": "GeekNews",
-   "title": "DaVinci Resolve 21.1",
-   "published_at": "2026-09-08T22:39:50+00:00",
-   "collected_at": "2026-09-09T00:04:15.646206+00:00",
-   "title_ko": "DaVinci Resolve 21.1 출시와 AI 어시스턴트 연동",
-   "summary_ko": "대규모 업데이트를 통해 Claude와 ChatGPT 등 AI 어시스턴트와의 연동 기능이 강화되었습니다.",
-   "category": "속보",
-   "tags": [
-    "Claude",
-    "GPT",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "11b4a5fefc291730",
-   "url": "https://news.hada.io/topic?id=33374",
-   "source": "GeekNews",
-   "title": "I-have-ADHD - 코딩 에이전트가 답을 묻어두지 않게 하는 스킬",
-   "published_at": "2026-09-08T22:33:36+00:00",
-   "collected_at": "2026-09-09T00:04:15.646206+00:00",
-   "title_ko": "코딩 에이전트 응답을 행동 우선으로 바꾸는 프롬프트 팁",
-   "summary_ko": "코딩 도우미가 불필요한 설명 대신 바로 실행 가능한 절차를 출력하도록 유도하는 프롬프트 작성법입니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "85335e22550916f8",
-   "url": "https://news.hada.io/topic?id=33373",
-   "source": "GeekNews",
-   "title": "Muse: Meta의 개인 AI 에이전트와 주요 기능",
-   "published_at": "2026-09-08T22:25:14+00:00",
-   "collected_at": "2026-09-09T00:04:15.646206+00:00",
-   "title_ko": "Meta, 개인 AI 에이전트 'Muse' 공개",
-   "summary_ko": "웹과 앱을 연동해 예약과 구매 등 다단계 작업을 수행하는 Meta의 새로운 개인 AI 에이전트입니다.",
-   "category": "속보",
-   "tags": [
-    "Meta",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "2524ff2290ac5fa0",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wb35xo/how_many_agents_can_24090_actually_run_at_once/",
-   "source": "r/LocalLLaMA",
-   "title": "How many agents can 2×4090 actually run at once? Three weeks of llama.cpp concurrency data — soft cap 5 @ 64k, hard cap 9, and why.",
-   "published_at": "2026-09-08T22:21:43+00:00",
-   "collected_at": "2026-09-09T00:04:00.869848+00:00",
-   "title_ko": "로컬 LLM 환경에서 동시 실행 가능한 코딩 에이전트 성능 측정",
-   "summary_ko": "RTX 4090 듀얼 환경에서 llama.cpp를 이용해 다수의 로컬 코딩 에이전트를 동시에 구동할 때의 성능 한계를 분석했습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "반도체",
     "코딩"
    ]
   }
