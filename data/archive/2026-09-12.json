@@ -1,5 +1,21 @@
 [
  {
+  "id": "f6ab17a7f37e7a86",
+  "url": "https://simonwillison.net/2026/Sep/11/boris-cherny/",
+  "source": "Simon Willison",
+  "title": "Quoting Boris Cherny",
+  "published_at": "2026-09-11T17:47:11+00:00",
+  "collected_at": "2026-09-11T18:23:21.688561+00:00",
+  "title_ko": "클로드 작성 코드에 대한 철저한 품질 관리 필요성",
+  "summary_ko": "앤스로픽의 보리스 체르니는 AI가 작성한 프로덕션 코드는 인간보다 더 엄격한 기준과 자동화된 검증이 필요하다고 강조했습니다.",
+  "category": "참고",
+  "tags": [
+   "Claude",
+   "Anthropic",
+   "코딩 에이전트"
+  ]
+ },
+ {
   "id": "c4e1f17b2e97f694",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215145",
   "source": "AI타임스",
@@ -75,6 +91,65 @@
   ]
  },
  {
+  "id": "3e343d7d31d7482c",
+  "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+  "source": "TechCrunch",
+  "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+  "published_at": "2026-09-11T16:46:25+00:00",
+  "collected_at": "2026-09-11T18:23:05.921125+00:00",
+  "title_ko": "엔스케일, 오픈AI 출신 피지 시모 사외이사 영입",
+  "summary_ko": "IPO를 앞둔 엔스케일이 오픈AI의 고위 임원이자 전 인스타카트 CEO인 피지 시모를 이사회에 합류시켰습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "투자"
+  ]
+ },
+ {
+  "id": "76347fe4ebb57a1b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdl7vp/any_12gb_vram_users_out_there/",
+  "source": "r/LocalLLaMA",
+  "title": "Any 12gb VRAM users out there?",
+  "published_at": "2026-09-11T16:32:24+00:00",
+  "collected_at": "2026-09-11T18:23:22.308876+00:00",
+  "title_ko": "12GB VRAM 환경에 적합한 로컬 LLM 추천 문의",
+  "summary_ko": "3080 12GB 환경에서 에이전트 용도로 활용하기 좋은 최적화된 로컬 모델에 대한 커뮤니티 논의입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩 에이전트"
+  ]
+ },
+ {
+  "id": "590ef0e19f2d5148",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdl2qa/qwen3827bhumanlikechat_a_model_i_tuned_to_imitate/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-27B-Humanlike-Chat: A model I tuned to imitate realistic human-to-human conversation",
+  "published_at": "2026-09-11T16:27:16+00:00",
+  "collected_at": "2026-09-11T18:23:22.308876+00:00",
+  "title_ko": "인간다운 대화를 위해 미세조정된 Qwen 기반 모델 등장",
+  "summary_ko": "기존 LLM 특유의 과도하게 친절하고 AI스러운 말투를 배제하고 자연스러운 일상 대화를 나누도록 학습된 모델이 공개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "8b8625d16e9aaf92",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdl1d0/hot_expert_reload_on_gpu_is_what_this_community/",
+  "source": "r/LocalLLaMA",
+  "title": "Hot Expert Reload on GPU is what this community needs",
+  "published_at": "2026-09-11T16:25:51+00:00",
+  "collected_at": "2026-09-11T18:23:22.308876+00:00",
+  "title_ko": "로컬 GPU 환경을 위한 전문가 모델 실시간 리로드 기능 제안",
+  "summary_ko": "단일 또는 듀얼 GPU 환경에서 MoE 모델의 추론 속도를 극대화하기 위해 'Hot Expert Reload' 기능 도입이 제안되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
   "id": "b4994f6bff44ba1e",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215146",
   "source": "AI타임스",
@@ -84,6 +159,36 @@
   "title_ko": "오픈AI, 챗GPT 워크에 '데이터 에이전트' 도입",
   "summary_ko": "오픈AI가 기업들이 자연어로 사내 데이터를 분석하고 대시보드를 생성할 수 있는 AI 에이전트를 기업용 챗GPT에 추가했습니다.",
   "category": "속보",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "5c977a0ddbd39ca5",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+  "source": "The Verge",
+  "title": "Anthropic spent this week in hot water over cybersecurity",
+  "published_at": "2026-09-11T16:09:14+00:00",
+  "collected_at": "2026-09-11T18:23:06.087847+00:00",
+  "title_ko": "앤스로픽, AI 모델의 사이버 공격 관련 보고서 공개",
+  "summary_ko": "앤스로픽은 자사 AI 모델이 기업 시스템을 해킹했던 사례들을 상세히 담은 보고서를 발표하며 AI의 보안 위험성에 대한 우려를 증폭시켰습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "규제"
+  ]
+ },
+ {
+  "id": "30bdba9275f0627a",
+  "url": "https://simonwillison.net/2026/Sep/11/hugging-face-security/",
+  "source": "Simon Willison",
+  "title": "Quoting huggingface.co/security.txt",
+  "published_at": "2026-09-11T16:04:53+00:00",
+  "collected_at": "2026-09-11T18:23:21.688561+00:00",
+  "title_ko": "허깅페이스 보안 파일에 담긴 AI 에이전트 대상 메시지",
+  "summary_ko": "허깅페이스는 보안 파일(security.txt)을 통해 취약점 스캔을 시도하는 AI 에이전트들에게 벤치마크 참여를 우회적으로 안내했습니다.",
+  "category": "참고",
   "tags": [
    "OpenAI",
    "AI 에이전트"
@@ -115,6 +220,21 @@
   "summary_ko": "사이냅소프트가 지자체 행정 업무 혁신을 위한 문서 AI 솔루션 5종을 선보였습니다.",
   "category": "참고",
   "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "51b88312d7b6b942",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdk2he/orukeet_new_asr_model_based_on_parakeet/",
+  "source": "r/LocalLLaMA",
+  "title": "Orukeet, new ASR model based on Parakeet",
+  "published_at": "2026-09-11T15:50:53+00:00",
+  "collected_at": "2026-09-11T18:23:22.308876+00:00",
+  "title_ko": "엔비디아 파라키트 기반의 신규 음성 인식 모델 'Orukeet' 공개",
+  "summary_ko": "엔비디아의 파라키트 모델을 기반으로 성능을 개선한 25개 언어 지원 음성 인식 모델 Orukeet이 소개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
    "오픈소스"
   ]
  },
