@@ -14,6 +14,34 @@
   ]
  },
  {
+  "id": "37aa7636a57fca08",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdhb24/finetuning_qwen_3_4b_base_on_100_zebra_puzzles/",
+  "source": "r/LocalLLaMA",
+  "title": "Fine-tuning Qwen 3 4B Base on 100 zebra puzzles yielded +31% on MATH-500. 6.5-min (Single H100/H200) reproduction notebook included.",
+  "published_at": "2026-09-11T14:06:50+00:00",
+  "collected_at": "2026-09-11T14:18:46.623136+00:00",
+  "title_ko": "Qwen 3 파인튜닝으로 MATH-500 성능 31% 향상",
+  "summary_ko": "퍼즐 데이터셋으로 Qwen 3 4B 베이스 모델을 파인튜닝해 수학 문제 해결 능력을 크게 높였으며, 단일 H100/H200 환경의 재현 노트북이 함께 공개됨.",
+  "category": "팁",
+  "tags": [
+   "Qwen",
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "74c4a351e3e94ce2",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdg90y/v4_pro_got_unretired_pretty_fast/",
+  "source": "r/LocalLLaMA",
+  "title": "V4 Pro got un-retired pretty fast",
+  "published_at": "2026-09-11T13:25:15+00:00",
+  "collected_at": "2026-09-11T14:18:46.623136+00:00",
+  "title_ko": "V4 Pro 모델의 빠른 복원 소식",
+  "summary_ko": "AI 모델 V4 Pro가 은퇴 조치 이후 빠르게 다시 서비스에 복귀함.",
+  "category": "속보",
+  "tags": []
+ },
+ {
   "id": "af131f0e752492c2",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215138",
   "source": "AI타임스",
@@ -27,6 +55,20 @@
    "Anthropic",
    "Claude",
    "오픈소스"
+  ]
+ },
+ {
+  "id": "91d6eb07a9c43c3b",
+  "url": "https://news.hada.io/topic?id=33532",
+  "source": "GeekNews",
+  "title": "OpenAI의 Navier-Stokes 발표에 포함된 Lean 4 형식 증명",
+  "published_at": "2026-09-11T12:33:19+00:00",
+  "collected_at": "2026-09-11T14:19:01.278459+00:00",
+  "title_ko": "OpenAI Navier-Stokes 증명과 Lean 4 형식 증명 공개",
+  "summary_ko": "OpenAI가 유체역학 난제인 Navier-Stokes 방정식의 증명과 함께 기계 검증이 가능한 Lean 4 형식 증명을 공개함.",
+  "category": "중요",
+  "tags": [
+   "OpenAI"
   ]
  },
  {
@@ -144,6 +186,166 @@
   ]
  },
  {
+  "id": "fbf86b0a03295188",
+  "url": "https://news.hada.io/topic?id=33531",
+  "source": "GeekNews",
+  "title": "실리콘밸리는 군산복합체를 바꾸고 있는가? (2024)",
+  "published_at": "2026-09-11T11:33:30+00:00",
+  "collected_at": "2026-09-11T14:19:01.278459+00:00",
+  "title_ko": "실리콘밸리의 미 국방 산업 진출 확대",
+  "summary_ko": "미국 국방 예산에서 빅테크와 AI 기반 시스템 도입 비중이 급증하며 군산복합체가 재편되고 있음.",
+  "category": "참고",
+  "tags": [
+   "투자"
+  ]
+ },
+ {
+  "id": "99dbf1f8554241e9",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wddg8g/gpt_live_clone_on_an_rtx_3060/",
+  "source": "r/LocalLLaMA",
+  "title": "GPT Live clone on an RTX 3060",
+  "published_at": "2026-09-11T11:22:17+00:00",
+  "collected_at": "2026-09-11T14:18:46.623136+00:00",
+  "title_ko": "RTX 3060에서 구동하는 로컬 GPT Live 클론",
+  "summary_ko": "12GB VRAM 환경에서 Qwen 모델과 오픈소스 음성 인식·합성 도구를 조합해 실시간 음성 대화형 로컬 AI 어시스턴트를 구현함.",
+  "category": "팁",
+  "tags": [
+   "Qwen",
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "d563178c455d5681",
+  "url": "https://news.hada.io/topic?id=33530",
+  "source": "GeekNews",
+  "title": "Show GN: korean-llm-v4 출시",
+  "published_at": "2026-09-11T11:22:00+00:00",
+  "collected_at": "2026-09-11T14:19:01.278459+00:00",
+  "title_ko": "한국어 특화 LLM 'korean-llm-v4' 출시",
+  "summary_ko": "명령어 데이터셋 중심 학습에서 벗어나 한국어 문장력과 다양한 표현력을 대폭 개선한 korean-llm-v4가 공개됨.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "aadadfed43e18db3",
+  "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+  "source": "Hacker News",
+  "title": "The Waymo effect: how AI is quietly making research less collaborative",
+  "published_at": "2026-09-11T11:17:50+00:00",
+  "collected_at": "2026-09-11T14:18:19.665886+00:00",
+  "title_ko": "AI 발전이 학술 연구 협업에 미치는 영향",
+  "summary_ko": "AI 기술의 급격한 발전이 연구 생태계와 학계의 협업 방식을 어떻게 변화시키고 있는지 분석함.",
+  "category": "참고",
+  "tags": []
+ },
+ {
+  "id": "8e10c98735ba80c7",
+  "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+  "source": "Hacker News",
+  "title": "Claude is no longer available for minors",
+  "published_at": "2026-09-11T10:48:00+00:00",
+  "collected_at": "2026-09-11T14:18:19.665886+00:00",
+  "title_ko": "Anthropic, 미성년자 대상 Claude 서비스 중단",
+  "summary_ko": "Anthropic이 연령 확인 정책에 따라 미성년자의 Claude 이용을 제한하기 시작함.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "규제"
+  ]
+ },
+ {
+  "id": "7a0035ef80a2c912",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdclxn/7900_xtx_3264gb_ram_for_qwen_38_flash_next/",
+  "source": "r/LocalLLaMA",
+  "title": "7900 XTX + 32/64GB RAM for Qwen 3.8 Flash Next?",
+  "published_at": "2026-09-11T10:40:25+00:00",
+  "collected_at": "2026-09-11T14:18:46.623136+00:00",
+  "title_ko": "로컬 LLM 구동을 위한 AMD 7900 XTX 활용성 검토",
+  "summary_ko": "NVIDIA GPU 대안으로 AMD 7900 XTX와 시스템 램을 활용해 최신 대형 언어 모델을 구동하는 성능과 팁을 공유함.",
+  "category": "팁",
+  "tags": [
+   "반도체",
+   "오픈소스",
+   "Qwen"
+  ]
+ },
+ {
+  "id": "72f0aa59f1a5ffec",
+  "url": "https://ronjeffries.com/articles/-v026/x/t/",
+  "source": "Hacker News",
+  "title": "Resist \"AI\"",
+  "published_at": "2026-09-11T10:19:59+00:00",
+  "collected_at": "2026-09-11T14:18:45.631795+00:00",
+  "title_ko": "소프트웨어 개발에서의 AI 도입에 대한 비판적 고찰",
+  "summary_ko": "무분별한 AI 도입 흐름에 저항하며 개발 본질에 집중해야 한다는 개발자의 철학적 주장이 제기됨.",
+  "category": "참고",
+  "tags": []
+ },
+ {
+  "id": "9d1e2a478f4860f0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdc7r9/terminal_bench_v4_scores/",
+  "source": "r/LocalLLaMA",
+  "title": "Terminal Bench v4 scores",
+  "published_at": "2026-09-11T10:19:27+00:00",
+  "collected_at": "2026-09-11T14:18:46.623136+00:00",
+  "title_ko": "최신 오픈·클로즈드 LLM 터미널 벤치마크 성적 공개",
+  "summary_ko": "실제 개발 능력을 반영하는 터미널 벤치마크에서 GLM-5.3 등 최신 오픈소스 및 상용 모델들의 성능 순위가 공개됨.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "Qwen"
+  ]
+ },
+ {
+  "id": "81c0802af1f568c9",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdbd0b/nex_n25_pro_407gb_released/",
+  "source": "r/LocalLLaMA",
+  "title": "Nex N2.5 Pro (407GB) released",
+  "published_at": "2026-09-11T09:31:48+00:00",
+  "collected_at": "2026-09-11T14:18:46.623136+00:00",
+  "title_ko": "대형 오픈소스 모델 Nex N2.5 Pro 출시",
+  "summary_ko": "407GB 규모의 대형 언어 모델 Nex N2.5 Pro가 공개되어 고성능 오픈소스 생태계에 기여합니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "a5d7f1efabc98ea0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdbal8/cudahip_flash_attention_tuning_gfx1201_by_pwilkin/",
+  "source": "r/LocalLLaMA",
+  "title": "CUDA/HIP: Flash Attention tuning (gfx1201) by pwilkin · Pull Request #28102 · ggml-org/llama.cpp",
+  "published_at": "2026-09-11T09:27:58+00:00",
+  "collected_at": "2026-09-11T14:18:46.623136+00:00",
+  "title_ko": "llama.cpp, AMD RDNA4용 플래시 어텐션 튜닝 적용",
+  "summary_ko": "llama.cpp에 AMD RDNA4 및 대형 컨텍스트 성능 향상을 위한 Flash Attention 튜닝 PR이 등록되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "aa527ef9811b016e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdaq1v/spomin_live_kv_cache_compaction_experimental_for/",
+  "source": "r/LocalLLaMA",
+  "title": "Spomin - Live KV cache compaction (Experimental for Qwen)",
+  "published_at": "2026-09-11T08:55:35+00:00",
+  "collected_at": "2026-09-11T14:18:46.623136+00:00",
+  "title_ko": "KV 캐시 실시간 압축 도구 Spomin 공개",
+  "summary_ko": "긴 컨텍스트 세션을 유지하기 위해 KV 캐시 내에서 문맥을 실시간 요약·압축하는 라우터 도구인 Spomin이 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "LLM",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "38af60e562c46a46",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215118",
   "source": "AI타임스",
@@ -156,6 +358,21 @@
   "tags": [
    "OpenAI",
    "GPT"
+  ]
+ },
+ {
+  "id": "e3ce0c5d8f670d39",
+  "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+  "source": "Hacker News",
+  "title": "The Gemini app is now available for Windows",
+  "published_at": "2026-09-11T04:52:20+00:00",
+  "collected_at": "2026-09-11T14:18:45.631795+00:00",
+  "title_ko": "Windows용 구글 제미나이 앱 출시",
+  "summary_ko": "구글의 AI 어시스턴트 제미나이(Gemini) 전용 데스크톱 앱이 Windows용으로 공식 출시되었습니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "Gemini"
   ]
  },
  {

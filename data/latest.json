@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-11T09:33:45.714062+00:00",
+ "updated_at": "2026-09-11T14:19:10.318237+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -208,6 +208,34 @@
    ]
   },
   {
+   "id": "37aa7636a57fca08",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdhb24/finetuning_qwen_3_4b_base_on_100_zebra_puzzles/",
+   "source": "r/LocalLLaMA",
+   "title": "Fine-tuning Qwen 3 4B Base on 100 zebra puzzles yielded +31% on MATH-500. 6.5-min (Single H100/H200) reproduction notebook included.",
+   "published_at": "2026-09-11T14:06:50+00:00",
+   "collected_at": "2026-09-11T14:18:46.623136+00:00",
+   "title_ko": "Qwen 3 파인튜닝으로 MATH-500 성능 31% 향상",
+   "summary_ko": "퍼즐 데이터셋으로 Qwen 3 4B 베이스 모델을 파인튜닝해 수학 문제 해결 능력을 크게 높였으며, 단일 H100/H200 환경의 재현 노트북이 함께 공개됨.",
+   "category": "팁",
+   "tags": [
+    "Qwen",
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "74c4a351e3e94ce2",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdg90y/v4_pro_got_unretired_pretty_fast/",
+   "source": "r/LocalLLaMA",
+   "title": "V4 Pro got un-retired pretty fast",
+   "published_at": "2026-09-11T13:25:15+00:00",
+   "collected_at": "2026-09-11T14:18:46.623136+00:00",
+   "title_ko": "V4 Pro 모델의 빠른 복원 소식",
+   "summary_ko": "AI 모델 V4 Pro가 은퇴 조치 이후 빠르게 다시 서비스에 복귀함.",
+   "category": "속보",
+   "tags": []
+  },
+  {
    "id": "af131f0e752492c2",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215138",
    "source": "AI타임스",
@@ -221,6 +249,20 @@
     "Anthropic",
     "Claude",
     "오픈소스"
+   ]
+  },
+  {
+   "id": "91d6eb07a9c43c3b",
+   "url": "https://news.hada.io/topic?id=33532",
+   "source": "GeekNews",
+   "title": "OpenAI의 Navier-Stokes 발표에 포함된 Lean 4 형식 증명",
+   "published_at": "2026-09-11T12:33:19+00:00",
+   "collected_at": "2026-09-11T14:19:01.278459+00:00",
+   "title_ko": "OpenAI Navier-Stokes 증명과 Lean 4 형식 증명 공개",
+   "summary_ko": "OpenAI가 유체역학 난제인 Navier-Stokes 방정식의 증명과 함께 기계 검증이 가능한 Lean 4 형식 증명을 공개함.",
+   "category": "중요",
+   "tags": [
+    "OpenAI"
    ]
   },
   {
@@ -338,6 +380,166 @@
    ]
   },
   {
+   "id": "fbf86b0a03295188",
+   "url": "https://news.hada.io/topic?id=33531",
+   "source": "GeekNews",
+   "title": "실리콘밸리는 군산복합체를 바꾸고 있는가? (2024)",
+   "published_at": "2026-09-11T11:33:30+00:00",
+   "collected_at": "2026-09-11T14:19:01.278459+00:00",
+   "title_ko": "실리콘밸리의 미 국방 산업 진출 확대",
+   "summary_ko": "미국 국방 예산에서 빅테크와 AI 기반 시스템 도입 비중이 급증하며 군산복합체가 재편되고 있음.",
+   "category": "참고",
+   "tags": [
+    "투자"
+   ]
+  },
+  {
+   "id": "99dbf1f8554241e9",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wddg8g/gpt_live_clone_on_an_rtx_3060/",
+   "source": "r/LocalLLaMA",
+   "title": "GPT Live clone on an RTX 3060",
+   "published_at": "2026-09-11T11:22:17+00:00",
+   "collected_at": "2026-09-11T14:18:46.623136+00:00",
+   "title_ko": "RTX 3060에서 구동하는 로컬 GPT Live 클론",
+   "summary_ko": "12GB VRAM 환경에서 Qwen 모델과 오픈소스 음성 인식·합성 도구를 조합해 실시간 음성 대화형 로컬 AI 어시스턴트를 구현함.",
+   "category": "팁",
+   "tags": [
+    "Qwen",
+    "오픈소스",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "d563178c455d5681",
+   "url": "https://news.hada.io/topic?id=33530",
+   "source": "GeekNews",
+   "title": "Show GN: korean-llm-v4 출시",
+   "published_at": "2026-09-11T11:22:00+00:00",
+   "collected_at": "2026-09-11T14:19:01.278459+00:00",
+   "title_ko": "한국어 특화 LLM 'korean-llm-v4' 출시",
+   "summary_ko": "명령어 데이터셋 중심 학습에서 벗어나 한국어 문장력과 다양한 표현력을 대폭 개선한 korean-llm-v4가 공개됨.",
+   "category": "속보",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "aadadfed43e18db3",
+   "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+   "source": "Hacker News",
+   "title": "The Waymo effect: how AI is quietly making research less collaborative",
+   "published_at": "2026-09-11T11:17:50+00:00",
+   "collected_at": "2026-09-11T14:18:19.665886+00:00",
+   "title_ko": "AI 발전이 학술 연구 협업에 미치는 영향",
+   "summary_ko": "AI 기술의 급격한 발전이 연구 생태계와 학계의 협업 방식을 어떻게 변화시키고 있는지 분석함.",
+   "category": "참고",
+   "tags": []
+  },
+  {
+   "id": "8e10c98735ba80c7",
+   "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+   "source": "Hacker News",
+   "title": "Claude is no longer available for minors",
+   "published_at": "2026-09-11T10:48:00+00:00",
+   "collected_at": "2026-09-11T14:18:19.665886+00:00",
+   "title_ko": "Anthropic, 미성년자 대상 Claude 서비스 중단",
+   "summary_ko": "Anthropic이 연령 확인 정책에 따라 미성년자의 Claude 이용을 제한하기 시작함.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "규제"
+   ]
+  },
+  {
+   "id": "7a0035ef80a2c912",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdclxn/7900_xtx_3264gb_ram_for_qwen_38_flash_next/",
+   "source": "r/LocalLLaMA",
+   "title": "7900 XTX + 32/64GB RAM for Qwen 3.8 Flash Next?",
+   "published_at": "2026-09-11T10:40:25+00:00",
+   "collected_at": "2026-09-11T14:18:46.623136+00:00",
+   "title_ko": "로컬 LLM 구동을 위한 AMD 7900 XTX 활용성 검토",
+   "summary_ko": "NVIDIA GPU 대안으로 AMD 7900 XTX와 시스템 램을 활용해 최신 대형 언어 모델을 구동하는 성능과 팁을 공유함.",
+   "category": "팁",
+   "tags": [
+    "반도체",
+    "오픈소스",
+    "Qwen"
+   ]
+  },
+  {
+   "id": "72f0aa59f1a5ffec",
+   "url": "https://ronjeffries.com/articles/-v026/x/t/",
+   "source": "Hacker News",
+   "title": "Resist \"AI\"",
+   "published_at": "2026-09-11T10:19:59+00:00",
+   "collected_at": "2026-09-11T14:18:45.631795+00:00",
+   "title_ko": "소프트웨어 개발에서의 AI 도입에 대한 비판적 고찰",
+   "summary_ko": "무분별한 AI 도입 흐름에 저항하며 개발 본질에 집중해야 한다는 개발자의 철학적 주장이 제기됨.",
+   "category": "참고",
+   "tags": []
+  },
+  {
+   "id": "9d1e2a478f4860f0",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdc7r9/terminal_bench_v4_scores/",
+   "source": "r/LocalLLaMA",
+   "title": "Terminal Bench v4 scores",
+   "published_at": "2026-09-11T10:19:27+00:00",
+   "collected_at": "2026-09-11T14:18:46.623136+00:00",
+   "title_ko": "최신 오픈·클로즈드 LLM 터미널 벤치마크 성적 공개",
+   "summary_ko": "실제 개발 능력을 반영하는 터미널 벤치마크에서 GLM-5.3 등 최신 오픈소스 및 상용 모델들의 성능 순위가 공개됨.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "Qwen"
+   ]
+  },
+  {
+   "id": "81c0802af1f568c9",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdbd0b/nex_n25_pro_407gb_released/",
+   "source": "r/LocalLLaMA",
+   "title": "Nex N2.5 Pro (407GB) released",
+   "published_at": "2026-09-11T09:31:48+00:00",
+   "collected_at": "2026-09-11T14:18:46.623136+00:00",
+   "title_ko": "대형 오픈소스 모델 Nex N2.5 Pro 출시",
+   "summary_ko": "407GB 규모의 대형 언어 모델 Nex N2.5 Pro가 공개되어 고성능 오픈소스 생태계에 기여합니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "a5d7f1efabc98ea0",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdbal8/cudahip_flash_attention_tuning_gfx1201_by_pwilkin/",
+   "source": "r/LocalLLaMA",
+   "title": "CUDA/HIP: Flash Attention tuning (gfx1201) by pwilkin · Pull Request #28102 · ggml-org/llama.cpp",
+   "published_at": "2026-09-11T09:27:58+00:00",
+   "collected_at": "2026-09-11T14:18:46.623136+00:00",
+   "title_ko": "llama.cpp, AMD RDNA4용 플래시 어텐션 튜닝 적용",
+   "summary_ko": "llama.cpp에 AMD RDNA4 및 대형 컨텍스트 성능 향상을 위한 Flash Attention 튜닝 PR이 등록되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "aa527ef9811b016e",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdaq1v/spomin_live_kv_cache_compaction_experimental_for/",
+   "source": "r/LocalLLaMA",
+   "title": "Spomin - Live KV cache compaction (Experimental for Qwen)",
+   "published_at": "2026-09-11T08:55:35+00:00",
+   "collected_at": "2026-09-11T14:18:46.623136+00:00",
+   "title_ko": "KV 캐시 실시간 압축 도구 Spomin 공개",
+   "summary_ko": "긴 컨텍스트 세션을 유지하기 위해 KV 캐시 내에서 문맥을 실시간 요약·압축하는 라우터 도구인 Spomin이 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "LLM",
+    "오픈소스"
+   ]
+  },
+  {
    "id": "38af60e562c46a46",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215118",
    "source": "AI타임스",
@@ -350,6 +552,21 @@
    "tags": [
     "OpenAI",
     "GPT"
+   ]
+  },
+  {
+   "id": "e3ce0c5d8f670d39",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+   "source": "Hacker News",
+   "title": "The Gemini app is now available for Windows",
+   "published_at": "2026-09-11T04:52:20+00:00",
+   "collected_at": "2026-09-11T14:18:45.631795+00:00",
+   "title_ko": "Windows용 구글 제미나이 앱 출시",
+   "summary_ko": "구글의 AI 어시스턴트 제미나이(Gemini) 전용 데스크톱 앱이 Windows용으로 공식 출시되었습니다.",
+   "category": "속보",
+   "tags": [
+    "Google",
+    "Gemini"
    ]
   },
   {
@@ -2739,220 +2956,6 @@
    "tags": [
     "Google",
     "AI 에이전트"
-   ]
-  },
-  {
-   "id": "e8608e40b7228951",
-   "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-   "source": "Hugging Face",
-   "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-   "published_at": "2026-09-09T15:36:24+00:00",
-   "collected_at": "2026-09-09T18:29:42.120077+00:00",
-   "title_ko": "IBM, 상업용 라이선스의 시계열 AI 모델 공개",
-   "summary_ko": "IBM이 상업적으로 이용 가능한 최신 시계열 AI 모델 Granite Time Series PatchTST-FM-r2를 발표했다. 기업 환경에서의 시계열 예측 활용도가 높아질 것으로 기대된다.",
-   "category": "속보",
-   "tags": [
-    "IBM",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "aa4b520aa220dc62",
-   "url": "https://news.hada.io/topic?id=33446",
-   "source": "GeekNews",
-   "title": "Desert Ant Labs, 기기에서 직접 음성·이미지·텍스트를 처리하는 빠른 로컬 AI 모델 18개 공개",
-   "published_at": "2026-09-09T15:34:11+00:00",
-   "collected_at": "2026-09-09T21:39:03.682460+00:00",
-   "title_ko": "Desert Ant Labs, 기기 내 처리 로컬 AI 모델 18개 공개",
-   "summary_ko": "음성, 이미지, 텍스트를 기기에서 직접 처리하는 소형 특화 모델 18개가 공개되었습니다. API 비용과 서버 왕복 없이 로컬에서 작업을 수행하여 효율성을 높입니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "온디바이스 AI"
-   ]
-  },
-  {
-   "id": "f505928ed55457b0",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215052",
-   "source": "AI타임스",
-   "title": "KAIST 교원창업기업 파네시아, 메타와 ‘차세대 AI 데이터센터 구조’ 제시",
-   "published_at": "2026-09-09T15:27:27+00:00",
-   "collected_at": "2026-09-09T09:36:24.885372+00:00",
-   "title_ko": "KAIST-파네시아, 메타와 차세대 AI 데이터센터 구조 제시",
-   "summary_ko": "KAIST 교원창업기업 파네시아가 메타와 공동 연구를 통해 CPU와 AI 가속기를 하나로 묶는 차세대 데이터센터 구조를 네이처에 발표했다.",
-   "category": "중요",
-   "tags": [
-    "Meta",
-    "반도체"
-   ]
-  },
-  {
-   "id": "cd19d0426fc89883",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215054",
-   "source": "AI타임스",
-   "title": "KAIST, 파리 사클레대학교와 첨단 기술 연구협력 강화",
-   "published_at": "2026-09-09T15:24:57+00:00",
-   "collected_at": "2026-09-09T09:36:25.459337+00:00",
-   "title_ko": "KAIST, 프랑스 파리 사클레대와 AI 등 첨단기술 협력 강화",
-   "summary_ko": "KAIST가 프랑스 파리 사클레대학교와 MOU를 맺고 AI 및 양자기술 등 첨단 과학기술 분야 연구 협력을 확대한다.",
-   "category": "참고",
-   "tags": []
-  },
-  {
-   "id": "0005f6bba3d693a7",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215055",
-   "source": "AI타임스",
-   "title": "KT, ‘지니 TV 셋톱박스 A2’ 출시…“AI로 원하는 콘텐츠 찾는다”",
-   "published_at": "2026-09-09T15:23:10+00:00",
-   "collected_at": "2026-09-09T09:36:24.885372+00:00",
-   "title_ko": "KT, LLM 기반 AI 에이전트 탑재 '지니 TV 셋톱박스 A2' 출시",
-   "summary_ko": "KT가 대형언어모델 기반 AI 에이전트를 적용해 대화하듯 콘텐츠를 찾을 수 있는 신형 셋톱박스를 출시했다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "0722e223318532a2",
-   "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
-   "source": "TechCrunch",
-   "title": "Viral AI assistant Instinct now has its own email address",
-   "published_at": "2026-09-09T15:13:12+00:00",
-   "collected_at": "2026-09-09T18:29:28.280446+00:00",
-   "title_ko": "이메일 기능 도입한 AI 비서 'Instinct'",
-   "summary_ko": "바이럴 AI 에이전트 Instinct에 이메일 주소 기능이 추가되어 계정 생성과 고객 지원 처리 등을 대행할 수 있게 되었다. AI 에이전트의 자율적 업무 처리 범위가 넓어지고 있다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "4542926f16ad3cd7",
-   "url": "https://www.reddit.com/r/singularity/comments/1wbo50q/mistral_has_secured_the_largest_equity/",
-   "source": "r/singularity",
-   "title": "Mistral has secured the largest equity fundraising round in European technology history to advance the development of sovereign, open-weight, frontier AI",
-   "published_at": "2026-09-09T15:04:39+00:00",
-   "collected_at": "2026-09-09T18:30:04.291043+00:00",
-   "title_ko": "미스트랄 AI, 유럽 기술 역사상 최대 규모 투자 유치",
-   "summary_ko": "프랑스의 미스트랄 AI가 유럽 테크 역사상 최대 규모의 지분 투자 유치에 성공했다. 소버린 및 오픈웨이트 프론티어 AI 개발에 박차를 가할 전망이다.",
-   "category": "중요",
-   "tags": [
-    "Mistral",
-    "투자",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "09fda47dffc03307",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215048",
-   "source": "AI타임스",
-   "title": "\"GPU·모델 많다고 강국 아니다\"...포티투마루, '포스트 소버린 AI' 제언",
-   "published_at": "2026-09-09T15:04:36+00:00",
-   "collected_at": "2026-09-09T09:36:24.885372+00:00",
-   "title_ko": "포티투마루, 실질적 성과 중심의 '포스트 소버린 AI' 제언",
-   "summary_ko": "포티투마루가 AI 인프라 보유를 넘어 산업 결합과 생산성 향상을 위한 포스트 소버린 AI 3단계 전략을 제시했다.",
-   "category": "참고",
-   "tags": []
-  },
-  {
-   "id": "019efd9eee18ab78",
-   "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
-   "source": "TechCrunch",
-   "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
-   "published_at": "2026-09-09T15:02:47+00:00",
-   "collected_at": "2026-09-09T18:29:28.280446+00:00",
-   "title_ko": "앤스로픽 연구원, 자기 개선 AI 위험 경고하며 사임",
-   "summary_ko": "앤스로픽 소속 연구원이 AI 인류멸종 위험과 자기 개선 기술을 경고하며 사임했다. AI 연구소 간의 통제 합의 필요성이 대두된다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "AI 안전"
-   ]
-  },
-  {
-   "id": "6da0c09629d49557",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215050",
-   "source": "AI타임스",
-   "title": "\"데이터센터 특구 지정·전력 인허가는\"...과기부, AIDC특별법 하위법령 논의 착수",
-   "published_at": "2026-09-09T14:54:11+00:00",
-   "collected_at": "2026-09-09T09:36:25.459337+00:00",
-   "title_ko": "과기부, AIDC 특별법 하위법령 마련 착수",
-   "summary_ko": "과학기술정보통신부가 인공지능 데이터센터 특별법 시행을 앞두고 하위법령 제정을 위한 공개토론회를 개최했다.",
-   "category": "중요",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "33eadb1f6ce52964",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215045",
-   "source": "AI타임스",
-   "title": "LG CNS, 차움 건강검진센터에 AI 에이전트 도입...\"의료 AI 전환 속도\"",
-   "published_at": "2026-09-09T14:52:56+00:00",
-   "collected_at": "2026-09-09T09:36:24.885372+00:00",
-   "title_ko": "LG CNS, 차움 건강검진센터에 의료 AI 에이전트 도입",
-   "summary_ko": "LG CNS가 차움 건강검진센터와 손잡고 고객 이력 분석 및 결과 작성 등 검진 업무 전반에 AI 에이전트를 적용하는 PoC를 추진한다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "466d8455c97023ed",
-   "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
-   "source": "TechCrunch",
-   "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
-   "published_at": "2026-09-09T14:51:45+00:00",
-   "collected_at": "2026-09-09T18:29:28.280446+00:00",
-   "title_ko": "배달 앱 Shipt, AI 쇼핑 어시스턴트 도입",
-   "summary_ko": "배달 플랫폼 Shipt가 사용자의 식단과 모임을 위한 장바구니를 자동으로 구성해주는 AI 쇼핑 어시스턴트를 추가했다. 리테일 분야의 AI 활용이 확대되고 있다.",
-   "category": "속보",
-   "tags": [
-    "생성형 AI"
-   ]
-  },
-  {
-   "id": "deceb7f527ebf9cb",
-   "url": "https://news.hada.io/topic?id=33443",
-   "source": "GeekNews",
-   "title": "DeepSeek, V4 Pro보다 저렴하고 성능이 뛰어난 V4.1 Flash 출시 예정",
-   "published_at": "2026-09-09T14:42:37+00:00",
-   "collected_at": "2026-09-09T18:30:06.995603+00:00",
-   "title_ko": "딥시크, 고성능 저비용 'V4.1 Flash' 출시 예고",
-   "summary_ko": "딥시크가 V4 Pro보다 뛰어난 성능과 저렴한 비용을 갖춘 V4.1 Flash를 출시할 예정이라고 밝혔다. LLM 시장의 가격 및 성능 경쟁이 더욱 치열해질 전망이다.",
-   "category": "속보",
-   "tags": [
-    "DeepSeek",
-    "LLM"
-   ]
-  },
-  {
-   "id": "4bea6eb2f946933f",
-   "url": "https://www.reddit.com/r/singularity/comments/1wbnhgt/llms_will_never_be_smarter_than_redditors/",
-   "source": "r/singularity",
-   "title": "\"LLMs will never be smarter than Redditors\"",
-   "published_at": "2026-09-09T14:40:43+00:00",
-   "collected_at": "2026-09-09T18:30:04.291043+00:00",
-   "title_ko": "LLM의 지능 수준에 대한 커뮤니티 논쟁",
-   "summary_ko": "LLM의 문제 해결 능력을 두고 인간의 지능과 비교하는 인터넷 커뮤니티 내의 회의론과 기대감을 보여준다.",
-   "category": "참고",
-   "tags": [
-    "LLM"
-   ]
-  },
-  {
-   "id": "0b82e4d80cec3fc1",
-   "url": "https://news.hada.io/topic?id=33442",
-   "source": "GeekNews",
-   "title": "Claude, \"Add to Cart\" 버튼을 파란색으로 바꿔 줘",
-   "published_at": "2026-09-09T14:39:37+00:00",
-   "collected_at": "2026-09-09T18:30:06.995603+00:00",
-   "title_ko": "클로드와 함께하는 인터랙티브 코미디 코딩",
-   "summary_ko": "버튼 색상 변경이라는 단순한 AI 코딩 요청을 소재로 한 인터랙티브 콘텐츠다. LLM 활용 실무에서 발생할 수 있는 소소한 해프닝을 다룬다.",
-   "category": "팁",
-   "tags": [
-    "Claude",
-    "코딩"
    ]
   }
  ]
