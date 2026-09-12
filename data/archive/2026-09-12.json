@@ -46,6 +46,36 @@
   ]
  },
  {
+  "id": "c846a6b7a29e4e20",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we8tl1/3827b_has_ruined_353635bs_for_me_its_just/",
+  "source": "r/LocalLLaMA",
+  "title": "3.8-27B has ruined 3.5/3.6-35B’s for me. It’s just *absurdly* superior.",
+  "published_at": "2026-09-12T10:16:53+00:00",
+  "collected_at": "2026-09-12T10:37:06.569671+00:00",
+  "title_ko": "신규 오픈소스 LLM 성능에 대한 사용자 호평",
+  "summary_ko": "로컬 LLM 사용자들 사이에서 특정 모델의 디테일과 성능이 기존 모델을 압도한다는 평가가 공유되고 있다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "30eba179ff8f11b7",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we8elm/ggmlcuda_hip_add_missing_amd_gcn_mmq_config_by/",
+  "source": "r/LocalLLaMA",
+  "title": "ggml-cuda: hip: add missing AMD GCN MMQ config by thelittlefireman · Pull Request #27841 · ggml-org/llama.cpp - PP improvements for RDNA2(MI50, MI60)",
+  "published_at": "2026-09-12T09:53:22+00:00",
+  "collected_at": "2026-09-12T10:37:06.569671+00:00",
+  "title_ko": "llama.cpp, AMD GCN MMQ 설정 추가",
+  "summary_ko": "llama.cpp의 ggml-cuda에 AMD RDNA2 아키텍처 성능 개선을 위한 풀 리퀘스트가 반영되었다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
   "id": "a71f46a99f1d88b2",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215180",
   "source": "AI타임스",
@@ -59,6 +89,79 @@
    "Anthropic",
    "Claude",
    "규제"
+  ]
+ },
+ {
+  "id": "9b769f38a14f6d19",
+  "url": "https://news.hada.io/topic?id=33576",
+  "source": "GeekNews",
+  "title": "Pandas는 멸종해야 한다",
+  "published_at": "2026-09-12T08:36:49+00:00",
+  "collected_at": "2026-09-12T10:37:20.690094+00:00",
+  "title_ko": "대용량 데이터 처리를 위한 Pandas 대안 논의",
+  "summary_ko": "데이터 분석 시 Pandas 대신 고성능 단일 머신 도구인 Polars나 DuckDB를 활용하는 실무적 접근이 주목받고 있다.",
+  "category": "팁",
+  "tags": [
+   "코딩"
+  ]
+ },
+ {
+  "id": "5569a8356c162969",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we6tau/qwen38_flash_next_llamacpp_config_tuning/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8 Flash Next llama.cpp config tuning",
+  "published_at": "2026-09-12T08:18:04+00:00",
+  "collected_at": "2026-09-12T10:37:06.569671+00:00",
+  "title_ko": "Qwen 모델 기반 llama.cpp 설정 및 최적화 공유",
+  "summary_ko": "로컬 환경에서 대형 모델을 구동하기 위한 llama.cpp 옵션 및 하드웨어 구성 최적화 팁이 공유되었다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "069c17e9696fa493",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we6mkg/matrix_bros_a_mashup_of_matrix_and_super_mario/",
+  "source": "r/LocalLLaMA",
+  "title": "\"Matrix Bros\", a mash-up of Matrix and Super Mario vibe coded using Ornith-1.5-35B-Q4_K_M with 6GB VRAM with (almost) a single prompt :-)",
+  "published_at": "2026-09-12T08:07:09+00:00",
+  "collected_at": "2026-09-12T10:37:06.569671+00:00",
+  "title_ko": "로컬 LLM과 단일 프롬프트로 구현한 매트릭스 마리오 게임",
+  "summary_ko": "저사양 VRAM 환경에서 로컬 오픈소스 LLM을 활용해 독창적인 분위기의 게임 코드를 생성한 사례가 공유되었다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "cce8bee0f49e95ac",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we6lrn/agnesaiagnes30flash_33b_multimodal_aa_score_36/",
+  "source": "r/LocalLLaMA",
+  "title": "Agnes-AI/Agnes-3.0-Flash 33B Multimodal, AA score: 36",
+  "published_at": "2026-09-12T08:05:53+00:00",
+  "collected_at": "2026-09-12T10:37:06.569671+00:00",
+  "title_ko": "멀티모달 오픈소스 신모델 'Agnes-3.0-Flash' 등장",
+  "summary_ko": "긴 컨텍스트 윈도우와 하이브리드 어텐션 아키텍처를 적용한 새로운 멀티모달 오픈소스 모델이 허깅페이스에 공개되었다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "cc0ed6904c644306",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we5jne/antirez_deepseek_41_flash_gguf_on_hf/",
+  "source": "r/LocalLLaMA",
+  "title": "Antirez Deepseek 4.1 flash gguf on HF",
+  "published_at": "2026-09-12T07:05:31+00:00",
+  "collected_at": "2026-09-12T10:37:06.569671+00:00",
+  "title_ko": "DeepSeek V4.1 Flash GGUF 모델 허깅페이스 공개",
+  "summary_ko": "개발자 antirez가 DeepSeek V4.1 Flash 모델의 GGUF 양자화 버전을 허깅페이스에 공개했습니다. 로컬 환경에서 대형언어모델을 구동하려는 사용자들에게 유용한 소식입니다.",
+  "category": "팁",
+  "tags": [
+   "DeepSeek",
+   "오픈소스",
+   "LLM"
   ]
  },
  {
