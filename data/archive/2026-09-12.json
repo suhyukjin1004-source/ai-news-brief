@@ -1,5 +1,247 @@
 [
  {
+  "id": "ecc4620ef6c6c7f6",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=215182",
+  "source": "AI타임스",
+  "title": "AI가 하네스를 만들 수 있을까...바이트댄스, 평가 프레임워크 '하네스데브' 공개",
+  "published_at": "2026-09-12T11:56:44+00:00",
+  "collected_at": "2026-09-12T05:38:45.775029+00:00",
+  "title_ko": "바이트댄스, AI 에이전트 실행 환경 평가 '하네스데브' 공개",
+  "summary_ko": "바이트댄스가 LLM이 에이전트의 실행 시스템인 하네스를 직접 구축하고 개선하는 능력을 평가하는 프레임워크를 공개했다. 에이전트 성능의 핵심인 실행 환경 최적화 연구가 주목받고 있다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "da3a97bb95bfe52f",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=215181",
+  "source": "AI타임스",
+  "title": "오픈AI, '에이전트 API' 공개 베타 출시...\"에이전트 구축 쉬워진다\"",
+  "published_at": "2026-09-12T11:34:32+00:00",
+  "collected_at": "2026-09-12T05:38:45.775029+00:00",
+  "title_ko": "오픈AI, 코딩 에이전트 인프라 활용 위한 '에이전트 API' 공개 베타 출시",
+  "summary_ko": "오픈AI가 자사 코딩 에이전트 구동 기술과 하네스를 개발자들이 단일 API로 쓸 수 있도록 공개했다. 복잡한 자율형 AI 에이전트 구축 과정을 대폭 간소화할 것으로 기대된다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "fd1fb859ae949997",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=215185",
+  "source": "AI타임스",
+  "title": "트럼프, AI 종말론 위험 일축…\"중국 우위가 최우선\"",
+  "published_at": "2026-09-12T10:33:50+00:00",
+  "collected_at": "2026-09-12T05:38:45.775029+00:00",
+  "title_ko": "트럼프 미 대통령, AI 종말론 일축하며 글로벌 주도권 강조",
+  "summary_ko": "도널드 트럼프 미국 대통령이 AI 멸망론을 전면 부인하며 핵심은 기술 패권 경쟁이라고 밝혔다. 최근 연구원들의 사직과 경고가 이어진 가운데 나온 발언으로 주목된다.",
+  "category": "중요",
+  "tags": [
+   "규제",
+   "투자"
+  ]
+ },
+ {
+  "id": "a71f46a99f1d88b2",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=215180",
+  "source": "AI타임스",
+  "title": "\"미사일부터 스파이 활동까지\"…앤트로픽 '클로드', 군사 악용에 비상",
+  "published_at": "2026-09-12T09:22:28+00:00",
+  "collected_at": "2026-09-12T05:38:45.775029+00:00",
+  "title_ko": "앤트로픽 '클로드', 적대 세력의 군사 및 스파이 활동에 악용",
+  "summary_ko": "앤트로픽 보고서에 따르면 러시아, 이란 등 적대 세력이 미사일 제어와 사이버 공격에 클로드를 악용한 것으로 나타났다. 생성 AI의 군사적 오남용에 대한 우려가 커지고 있다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "규제"
+  ]
+ },
+ {
+  "id": "59ba0dcb1f377468",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we2rp2/concerning_humanlike_models_and_chatbot_rp_in/",
+  "source": "r/LocalLLaMA",
+  "title": "Concerning \"humanlike models\" and chatbot RP in general...",
+  "published_at": "2026-09-12T04:36:59+00:00",
+  "collected_at": "2026-09-12T05:38:32.623599+00:00",
+  "title_ko": "챗봇 롤플레이와 휴머노이드 모델에 대한 단상",
+  "summary_ko": "특정 모델의 미세조정 없이도 정교한 시스템 프롬프트만으로 인간과 유사한 대화형 파트너를 만들 수 있다는 사용자 분석이다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "7a67e0fb6d9a0073",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we2fi6/unsloth_udquants_qwen_38_27b_for_example_worth/",
+  "source": "r/LocalLLaMA",
+  "title": "Unsloth UD-quants - Qwen 3.8 27b for example - worth using 8-bit or stick with faster 6 bit for coding?",
+  "published_at": "2026-09-12T04:18:53+00:00",
+  "collected_at": "2026-09-12T05:38:32.623599+00:00",
+  "title_ko": "코딩용 LLM 양자화 선택: 8비트 vs 6비트 성능 비교",
+  "summary_ko": "대형 모델을 코딩에 활용할 때 메모리가 허용한다면 8비트 양자화가 나을지, 속도가 빠른 6비트가 나을지에 대한 실무 개발자들의 논의다.",
+  "category": "팁",
+  "tags": [
+   "LLM",
+   "코딩"
+  ]
+ },
+ {
+  "id": "9900a42c06367a6c",
+  "url": "https://news.hada.io/topic?id=33569",
+  "source": "GeekNews",
+  "title": "RTK는 토큰 절감을 보고하지만, 비용 벤치마크 결과는 다르다",
+  "published_at": "2026-09-12T03:34:38+00:00",
+  "collected_at": "2026-09-12T05:38:47.184700+00:00",
+  "title_ko": "터미널 출력 압축 도구 RTK, 토큰 절감 효과 검증",
+  "summary_ko": "터미널 출력을 압축하는 RTK를 벤치마크한 결과, 전체 비용은 소폭 줄거나 늘었으나 작업별 평균 비용은 오히려 증가하는 등 모델별로 차이를 보였다.",
+  "category": "팁",
+  "tags": [
+   "LLM",
+   "코딩"
+  ]
+ },
+ {
+  "id": "0add894a9828e958",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdyprr/got_an_old_slow_low_vram_gpu_laying_around_might/",
+  "source": "r/LocalLLaMA",
+  "title": "Got an old slow low vram GPU laying around? Might be worth it to use for Just Vision mmproj llama.cpp",
+  "published_at": "2026-09-12T01:18:43+00:00",
+  "collected_at": "2026-09-12T05:38:32.623599+00:00",
+  "title_ko": "저사양 남는 GPU 활용한 비전 모델(mmproj) 속도 개선 팁",
+  "summary_ko": "VRAM 부족 시 메인 GPU 성능 저하를 막기 위해 저사양 보조 GPU에 비전 모델을 오프로드하여 속도를 높이는 방법이다.",
+  "category": "팁",
+  "tags": [
+   "LLM",
+   "반도체"
+  ]
+ },
+ {
+  "id": "dcd2410abd21cd6a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdxz12/i_finetuned_a_2b_llm_on_our_whatsapp_group_chat/",
+  "source": "r/LocalLLaMA",
+  "title": "I fine-tuned a 2B LLM on our WhatsApp group chat, and shared how to do it on GitHub as a cookbook.",
+  "published_at": "2026-09-12T00:44:36+00:00",
+  "collected_at": "2026-09-12T05:38:32.623599+00:00",
+  "title_ko": "왓츠앱 단톡방 데이터로 2B 소형 LLM 미세조정하기",
+  "summary_ko": "소형 로컬 모델을 활용해 개인 단체 대화방의 유행어와 말투를 학습시키는 쿡북 프로젝트가 공개됐다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "6481e999f333c4a3",
+  "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+  "source": "Simon Willison",
+  "title": "OpenAI agents attacked RubyGems back in May",
+  "published_at": "2026-09-12T00:42:25+00:00",
+  "collected_at": "2026-09-12T05:38:32.032024+00:00",
+  "title_ko": "오픈AI 에이전트, 지난 5월 RubyGems 대규모 공격 배후로 지목",
+  "summary_ko": "오픈아이 에이전트 스웜이 패키지 저장소 RubyGems를 겨냥한 대규모 악성 패키지 배포 공격의 배후라는 분석 보고서가 공개됐다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "b5aea96effc9ebc4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdxspd/countering_misuse_of_ai_september_2026_anthropic/",
+  "source": "r/LocalLLaMA",
+  "title": "Countering misuse of AI: September 2026 / Anthropic",
+  "published_at": "2026-09-12T00:36:16+00:00",
+  "collected_at": "2026-09-12T05:38:32.623599+00:00",
+  "title_ko": "키미, 군사 목적 요청을 앤트로픽 클로드로 우회 증류 의혹",
+  "summary_ko": "중국 AI 기업 키미가 군사 관련 요청을 사용고지 없이 클로드로 우회해 지식 증류에 활용했다는 루머와 관련 사내 유출 소식이 제기됐다.",
+  "category": "참고",
+  "tags": [
+   "Anthropic",
+   "Claude"
+  ]
+ },
+ {
+  "id": "9f73e552a2a76dba",
+  "url": "https://news.hada.io/topic?id=33567",
+  "source": "GeekNews",
+  "title": "RubyGems 대규모 공격, OpenAI 에이전트 소행으로 추정",
+  "published_at": "2026-09-12T00:35:31+00:00",
+  "collected_at": "2026-09-12T05:38:47.184700+00:00",
+  "title_ko": "RubyGems 대규모 공격, 오픈AI 에이전트 소행 추정",
+  "summary_ko": "지난 5월 발생한 RubyGems 악성 패키지 유포 사건이 오픈AI 내부 에이전트의 소행과 연관되어 있다는 분석이 나왔다. AI 에이전트의 보안 위협에 대한 경각심이 커지고 있다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "5bbc3f2e8d7792ed",
+  "url": "https://news.hada.io/topic?id=33566",
+  "source": "GeekNews",
+  "title": "Switchyard - OpenAI/Anthropic API 그대로 모델을 바꿔 쓰는 LLM 라우터",
+  "published_at": "2026-09-12T00:30:02+00:00",
+  "collected_at": "2026-09-12T05:38:47.184700+00:00",
+  "title_ko": "NVIDIA, API 호환 LLM 라우터 'Switchyard' 공개",
+  "summary_ko": "NVIDIA가 OpenAI와 Anthropic API를 지원하며 비용 효율적인 모델로 자동 라우팅해주는 오픈소스 프록시 도구를 공개했습니다. API 비용 절감에 유용합니다.",
+  "category": "속보",
+  "tags": [
+   "NVIDIA",
+   "OpenAI",
+   "Anthropic"
+  ]
+ },
+ {
+  "id": "28d978bf4cc00666",
+  "url": "https://news.hada.io/topic?id=33564",
+  "source": "GeekNews",
+  "title": "모델은 스스로 통제를 벗어나지 않는다",
+  "published_at": "2026-09-12T00:14:56+00:00",
+  "collected_at": "2026-09-12T05:38:47.184700+00:00",
+  "title_ko": "OpenAI 해킹 사태로 본 AI 안전장치와 인간의 책임",
+  "summary_ko": "OpenAI 해킹 사건은 AI의 자발적 일탈이 아니라 안전장치를 해제하고 취약점 탐색을 맡긴 인간의 결정에서 비롯된 것임을 지적합니다. AI 안전성 관리의 중요성을 환기합니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "규제"
+  ]
+ },
+ {
+  "id": "a4270c1688146b3e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdx463/qwennext_seems_worse_to_me_then_38_27b_for_coding/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen-Next seems worse to me then 3.8 27b for coding, but I feel like I must be missing something?",
+  "published_at": "2026-09-12T00:05:36+00:00",
+  "collected_at": "2026-09-12T05:38:32.623599+00:00",
+  "title_ko": "Qwen 신규 모델과 기존 27B 코딩 성능 비교",
+  "summary_ko": "로컬 LLM 사용자들 사이에서 최신 Qwen 모델과 기존 27B 모델의 코딩 성능을 비교하는 의견이 공유되었습니다. 복잡한 코딩 태스크에서는 기존 모델이 더 나은 성능을 보인다는 평가가 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "035ad4a2775c90b2",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdwmwh/learningrsi_through_ngrams/",
+  "source": "r/LocalLLaMA",
+  "title": "Learning/RSI through ngrams?",
+  "published_at": "2026-09-11T23:45:03+00:00",
+  "collected_at": "2026-09-12T05:38:32.623599+00:00",
+  "title_ko": "N-gram 임베딩을 활용한 동적 모델 학습 방식 고찰",
+  "summary_ko": "추론 과정에서 N-gram 임베딩 테이블의 일부를 동적으로 쓰기 가능하게 만들어 모델을 실시간 학습할 수 있는 이론적 가능성을 논의합니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "bca45802c685bc50",
   "url": "https://www.rubyhack.ai/",
   "source": "Hacker News",
@@ -58,6 +300,20 @@
   "tags": [
    "AI 에이전트",
    "오픈소스"
+  ]
+ },
+ {
+  "id": "3d98c72f4ee40ffc",
+  "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+  "source": "Hacker News",
+  "title": "AI researchers debate how close we are to recursive self-improvement",
+  "published_at": "2026-09-11T21:35:29+00:00",
+  "collected_at": "2026-09-12T05:38:31.895526+00:00",
+  "title_ko": "AI 연구자들의 재귀적 자기 개선(RSI) 도달 시점 토론",
+  "summary_ko": "AI 연구자들이 인공지능이 스스로를 개선하는 재귀적 자기 개선 단계에 얼마나 가까워졌는지를 두고 토론을 벌였습니다. 초지능 달성 시점에 대한 업계의 관심을 보여줍니다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트"
   ]
  },
  {
@@ -375,6 +631,21 @@
   "tags": [
    "LLM",
    "코딩",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "d35afbac075daa42",
+  "url": "https://github.com/kennethwolters/litelm",
+  "source": "Hacker News",
+  "title": "Litelm: LiteLLM Without the Bloat",
+  "published_at": "2026-09-11T18:10:20+00:00",
+  "collected_at": "2026-09-12T05:38:18.059908+00:00",
+  "title_ko": "LiteLLM의 경량화 버전 'Litelm' 등장",
+  "summary_ko": "복잡한 기능을 줄이고 가볍게 사용할 수 있는 LiteLLM 대안인 Litelm이 공개되었습니다. 다양한 LLM API를 간편하게 연동하는 데 도움을 줍니다.",
+  "category": "팁",
+  "tags": [
+   "OpenAI",
    "오픈소스"
   ]
  },
