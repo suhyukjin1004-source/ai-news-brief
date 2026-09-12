@@ -1,5 +1,67 @@
 [
  {
+  "id": "a31cd4d690c565ac",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wed7cg/intel_linux_npu_driver_only_now_officially/",
+  "source": "r/LocalLLaMA",
+  "title": "Intel Linux NPU driver only now officially supports Ubuntu 26.04 LTS",
+  "published_at": "2026-09-12T13:51:31+00:00",
+  "collected_at": "2026-09-12T14:01:13.365199+00:00",
+  "title_ko": "인텔 리눅스 NPU 드라이버, 우분투 26.04 LTS 공식 지원",
+  "summary_ko": "인텔의 리눅스 NPU 드라이버가 우분투 26.04 LTS를 공식 지원하기 시작하며 AI 하드웨어 호환성이 개선되었습니다.",
+  "category": "참고",
+  "tags": [
+   "NPU",
+   "반도체",
+   "Intel"
+  ]
+ },
+ {
+  "id": "06307c852c8c9192",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wecf25/tencentaukflash_hugging_face/",
+  "source": "r/LocalLLaMA",
+  "title": "tencent/AuK-Flash · Hugging Face",
+  "published_at": "2026-09-12T13:17:22+00:00",
+  "collected_at": "2026-09-12T14:01:13.365199+00:00",
+  "title_ko": "텐센트, 4단계 음성 생성 모델 'AuK-Flash' 공개",
+  "summary_ko": "텐센트가 자연어 인터페이스를 통해 음성 생성 및 편집을 지원하는 1.5B 파라미터 기반의 AuK 모델을 발표했습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "음성AI"
+  ]
+ },
+ {
+  "id": "db7622ca83dc371b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1webfsq/bartowskiqwen3827bgguf_hugging_face_updated/",
+  "source": "r/LocalLLaMA",
+  "title": "bartowski/Qwen3.8-27B-GGUF · Hugging Face - Updated (Per-tensor layout)",
+  "published_at": "2026-09-12T12:32:37+00:00",
+  "collected_at": "2026-09-12T14:01:13.365199+00:00",
+  "title_ko": "Qwen3.8-27B GGUF 양자화 버전 업데이트",
+  "summary_ko": "Qwen3.8-27B 모델의 GGUF 양자화 파일에 새로운 텐서 레이아웃이 적용되어 로컬 실행 효율성이 향상되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "GPT",
+   "코딩"
+  ]
+ },
+ {
+  "id": "0bd4dd72986c1c6b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1web1jd/anybody_use_frontier_models_like_astrafable_for/",
+  "source": "r/LocalLLaMA",
+  "title": "Anybody use frontier models like Astra/Fable for planning/judging, and qwen3.8 as the main workhorse? Curious to hear about your setups!",
+  "published_at": "2026-09-12T12:13:51+00:00",
+  "collected_at": "2026-09-12T14:01:13.365199+00:00",
+  "title_ko": "클라우드 대형 모델과 로컬 Qwen 조합의 개발 워크플로우",
+  "summary_ko": "비용 절감과 성능 유지를 위해 기획과 검증에는 대형 클라우드 모델을 쓰고, 실제 코딩 구현에는 로컬 Qwen 모델을 활용하는 사례가 공유되었습니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
   "id": "ecc4620ef6c6c7f6",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215182",
   "source": "AI타임스",
@@ -28,6 +90,51 @@
    "OpenAI",
    "AI 에이전트",
    "코딩"
+  ]
+ },
+ {
+  "id": "876b084ae2ac72dd",
+  "url": "https://news.hada.io/topic?id=33580",
+  "source": "GeekNews",
+  "title": "Litelm - 비대함을 덜어낸 LiteLLM",
+  "published_at": "2026-09-12T11:31:40+00:00",
+  "collected_at": "2026-09-12T14:01:27.942885+00:00",
+  "title_ko": "LiteLLM의 경량화 버전 'Litelm' 라이브러리 공개",
+  "summary_ko": "LiteLLM에서 핵심 모델 라우팅과 메시지 변환 기능만 추려내어 가볍게 구현한 Litelm 라이브러리가 소개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "83d26d094f82a611",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we9mv0/i_am_impressed_and_i_owe_you_one_qwen_38_flash/",
+  "source": "r/LocalLLaMA",
+  "title": "I am impressed and I owe you one, Qwen 3.8 flash next (vision)!",
+  "published_at": "2026-09-12T11:02:03+00:00",
+  "collected_at": "2026-09-12T14:01:13.365199+00:00",
+  "title_ko": "Qwen 3.8 비전 모델의 뛰어난 식별 능력 화제",
+  "summary_ko": "Qwen 비전 모델이 사진 속 식물을 정확히 식별하고 독성 여부까지 경고해 사용자들로부터 좋은 반응을 얻고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "GPT",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "52f8c2e5048cc8db",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+  "source": "The Verge",
+  "title": "OpenAI just wants to win",
+  "published_at": "2026-09-12T11:00:00+00:00",
+  "collected_at": "2026-09-12T14:00:25.327302+00:00",
+  "title_ko": "OpenAI, 수학 난제 해결 발표에 학계 주목",
+  "summary_ko": "OpenAI가 수학 분야의 전설적인 난제를 해결했다고 발표했으나, 학계는 AI의 공격적인 발전 속도에 복합적인 반응을 보이고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "GPT"
   ]
  },
  {
@@ -146,6 +253,21 @@
   "category": "속보",
   "tags": [
    "오픈소스"
+  ]
+ },
+ {
+  "id": "b2e24dfd6d9603cf",
+  "url": "https://eiln.github.io/posts/ane.html",
+  "source": "Hacker News",
+  "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+  "published_at": "2026-09-12T07:54:03+00:00",
+  "collected_at": "2026-09-12T14:00:47.079615+00:00",
+  "title_ko": "애플 뉴럴 엔진(ANE) 역공학 분석 결과 공개",
+  "summary_ko": "애플 실리콘에 탑재된 뉴럴 엔진의 구조를 역공학을 통해 분석한 기술 글이 공유되었습니다.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "Apple"
   ]
  },
  {
@@ -301,6 +423,20 @@
   ]
  },
  {
+  "id": "c9efb3dfa17cd520",
+  "url": "https://twitter.com/venturetwins/status/2098456905526211026",
+  "source": "Hacker News",
+  "title": "Bernie's AI bill proposes to sentence AI developers to 20 years in prison",
+  "published_at": "2026-09-12T00:24:36+00:00",
+  "collected_at": "2026-09-12T14:01:12.423627+00:00",
+  "title_ko": "미국 의회, AI 개발자에 최대 징역 20년 부과 법안 추진",
+  "summary_ko": "미국에서 AI 개발자에게 강력한 형사 처벌을 부과할 수 있는 파격적인 AI 규제 법안이 제기되어 논란이 되고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
   "id": "28d978bf4cc00666",
   "url": "https://news.hada.io/topic?id=33564",
   "source": "GeekNews",
@@ -388,6 +524,22 @@
   "tags": [
    "오픈소스",
    "코딩"
+  ]
+ },
+ {
+  "id": "cb8bebc1f85be542",
+  "url": "https://www.washingtonpost.com/technology/2026/09/11/rebels-used-anthropics-ai-bot-develop-guided-weapons-report-says/",
+  "source": "Hacker News",
+  "title": "Houthis used Anthropic to develop guided weapons",
+  "published_at": "2026-09-11T22:44:03+00:00",
+  "collected_at": "2026-09-12T14:01:12.423627+00:00",
+  "title_ko": "후티 반군, 앤스로픽 AI를 유도무기 개발에 악용",
+  "summary_ko": "후티 반군이 무기 개발 과정에서 앤스로픽의 AI 챗봇을 활용한 사실이 보도되어 AI 안전성과 통제 문제가 다시 도마에 올랐습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "규제",
+   "AI 에이전트"
   ]
  },
  {
