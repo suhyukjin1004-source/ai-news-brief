@@ -1,5 +1,51 @@
 [
  {
+  "id": "972c2172404b7130",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1weobt6/qwen38_flash_next_now_at_12k_ts_prefill_on_strix/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8 Flash Next now at 1.2k t/s prefill on Strix Halo",
+  "published_at": "2026-09-12T21:08:52+00:00",
+  "collected_at": "2026-09-12T22:11:02.703997+00:00",
+  "title_ko": "Strix Halo에서 Qwen 모델 추론 속도 개선",
+  "summary_ko": "개발자가 오픈소스 llama.cpp를 최적화하여 Strix Halo 환경에서 Qwen 모델의 프리필 속도를 대폭 끌어올렸습니다. 로컬 LLM의 성능 최적화와 실사용 속도 개선에 기여합니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "하드웨어"
+  ]
+ },
+ {
+  "id": "22407f1a50da6d6a",
+  "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+  "source": "TechCrunch",
+  "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+  "published_at": "2026-09-12T20:19:16+00:00",
+  "collected_at": "2026-09-12T22:10:47.079560+00:00",
+  "title_ko": "오픈아이트 샘 알트만, '2026년 상장은 현명하지 않아'",
+  "summary_ko": "샘 알트만 OpenAI CEO가 2026년 기업공개(IPO)는 바람직하지 않다고 밝혔습니다. 향후 회사의 자금 조달 및 경영 전략에 중요한 영향을 미칠 소식입니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "투자"
+  ]
+ },
+ {
+  "id": "1c731fb4dd340f6b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wemcdc/realswe_benchmark_new/",
+  "source": "r/LocalLLaMA",
+  "title": "Real-SWE Benchmark (new)",
+  "published_at": "2026-09-12T19:50:03+00:00",
+  "collected_at": "2026-09-12T22:11:02.703997+00:00",
+  "title_ko": "코딩용 새로운 벤치마크 'Real-SWE' 공개",
+  "summary_ko": "소프트웨어 엔지니어링 능력을 평가하기 위한 새로운 벤치마크인 Real-SWE가 공개되었습니다. AI 코딩 모델의 실전 성능을 측정하는 기준이 될 것입니다.",
+  "category": "참고",
+  "tags": [
+   "코딩",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "885b21f206abf999",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=214911",
   "source": "AI타임스",
@@ -11,6 +57,51 @@
   "category": "속보",
   "tags": [
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "a460e905bfc7be1e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wel0ub/nexn25minimlx4bit_on_apple_m5_max_1336_toks/",
+  "source": "r/LocalLLaMA",
+  "title": "Nex-N2.5-mini-MLX-4bit on Apple M5 Max — 133.6 tok/s — llm-bench.io",
+  "published_at": "2026-09-12T19:00:09+00:00",
+  "collected_at": "2026-09-12T22:11:02.703997+00:00",
+  "title_ko": "애플 M5 Max에서 구동되는 Nex-N2.5-mini 모델 벤치마크",
+  "summary_ko": "소형 오픈 모델인 Nex-N2.5-mini가 애플 소비자용 하드웨어에서 높은 생성 속도와 효율적인 메모리 사용량을 기록했습니다. 로컬 디바이스에서의 AI 활용성을 보여줍니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "ed4e97c49822c514",
+  "url": "https://news.hada.io/topic?id=33593",
+  "source": "GeekNews",
+  "title": "AI 중심 콘텐츠의 우선순위를 낮춘 Hacker News",
+  "published_at": "2026-09-12T18:41:14+00:00",
+  "collected_at": "2026-09-12T22:11:17.022828+00:00",
+  "title_ko": "해커뉴스, AI 중심 콘텐츠 노출 우선순위 하향 조정",
+  "summary_ko": "유명 커뮤니티인 해커뉴스가 AI 관련 콘텐츠의 알고리즘 순위를 낮추기로 결정했습니다. 과도한 AI 피로감을 줄이고 다양한 주제를 다루기 위한 조치입니다.",
+  "category": "참고",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
+  "id": "d1dcbf8cad64b4ad",
+  "url": "https://news.hada.io/topic?id=33592",
+  "source": "GeekNews",
+  "title": "Thelio Mira AI - GPU 메모리 192GB를 지원하는 Linux 워크스테이션",
+  "published_at": "2026-09-12T18:38:14+00:00",
+  "collected_at": "2026-09-12T22:11:17.022828+00:00",
+  "title_ko": "192GB GPU 메모리 지원 AI 워크스테이션 'Thelio Mira AI'",
+  "summary_ko": "System76이 NVIDIA RTX PRO 6000을 탑재해 최대 192GB의 GPU 메모리를 제공하는 리눅스 워크스테이션을 출시했습니다. 로컬 환경에서의 고성능 AI 학습과 미세조정을 지원합니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "반도체",
+   "하드웨어"
   ]
  },
  {

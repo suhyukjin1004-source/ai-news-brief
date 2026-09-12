@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-12T19:11:43.722290+00:00",
+ "updated_at": "2026-09-12T22:11:20.403451+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -20,6 +20,52 @@
    ]
   },
   {
+   "id": "972c2172404b7130",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1weobt6/qwen38_flash_next_now_at_12k_ts_prefill_on_strix/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8 Flash Next now at 1.2k t/s prefill on Strix Halo",
+   "published_at": "2026-09-12T21:08:52+00:00",
+   "collected_at": "2026-09-12T22:11:02.703997+00:00",
+   "title_ko": "Strix Halo에서 Qwen 모델 추론 속도 개선",
+   "summary_ko": "개발자가 오픈소스 llama.cpp를 최적화하여 Strix Halo 환경에서 Qwen 모델의 프리필 속도를 대폭 끌어올렸습니다. 로컬 LLM의 성능 최적화와 실사용 속도 개선에 기여합니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "하드웨어"
+   ]
+  },
+  {
+   "id": "22407f1a50da6d6a",
+   "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+   "source": "TechCrunch",
+   "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+   "published_at": "2026-09-12T20:19:16+00:00",
+   "collected_at": "2026-09-12T22:10:47.079560+00:00",
+   "title_ko": "오픈아이트 샘 알트만, '2026년 상장은 현명하지 않아'",
+   "summary_ko": "샘 알트만 OpenAI CEO가 2026년 기업공개(IPO)는 바람직하지 않다고 밝혔습니다. 향후 회사의 자금 조달 및 경영 전략에 중요한 영향을 미칠 소식입니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "투자"
+   ]
+  },
+  {
+   "id": "1c731fb4dd340f6b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wemcdc/realswe_benchmark_new/",
+   "source": "r/LocalLLaMA",
+   "title": "Real-SWE Benchmark (new)",
+   "published_at": "2026-09-12T19:50:03+00:00",
+   "collected_at": "2026-09-12T22:11:02.703997+00:00",
+   "title_ko": "코딩용 새로운 벤치마크 'Real-SWE' 공개",
+   "summary_ko": "소프트웨어 엔지니어링 능력을 평가하기 위한 새로운 벤치마크인 Real-SWE가 공개되었습니다. AI 코딩 모델의 실전 성능을 측정하는 기준이 될 것입니다.",
+   "category": "참고",
+   "tags": [
+    "코딩",
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "885b21f206abf999",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214911",
    "source": "AI타임스",
@@ -31,6 +77,51 @@
    "category": "속보",
    "tags": [
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "a460e905bfc7be1e",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wel0ub/nexn25minimlx4bit_on_apple_m5_max_1336_toks/",
+   "source": "r/LocalLLaMA",
+   "title": "Nex-N2.5-mini-MLX-4bit on Apple M5 Max — 133.6 tok/s — llm-bench.io",
+   "published_at": "2026-09-12T19:00:09+00:00",
+   "collected_at": "2026-09-12T22:11:02.703997+00:00",
+   "title_ko": "애플 M5 Max에서 구동되는 Nex-N2.5-mini 모델 벤치마크",
+   "summary_ko": "소형 오픈 모델인 Nex-N2.5-mini가 애플 소비자용 하드웨어에서 높은 생성 속도와 효율적인 메모리 사용량을 기록했습니다. 로컬 디바이스에서의 AI 활용성을 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "ed4e97c49822c514",
+   "url": "https://news.hada.io/topic?id=33593",
+   "source": "GeekNews",
+   "title": "AI 중심 콘텐츠의 우선순위를 낮춘 Hacker News",
+   "published_at": "2026-09-12T18:41:14+00:00",
+   "collected_at": "2026-09-12T22:11:17.022828+00:00",
+   "title_ko": "해커뉴스, AI 중심 콘텐츠 노출 우선순위 하향 조정",
+   "summary_ko": "유명 커뮤니티인 해커뉴스가 AI 관련 콘텐츠의 알고리즘 순위를 낮추기로 결정했습니다. 과도한 AI 피로감을 줄이고 다양한 주제를 다루기 위한 조치입니다.",
+   "category": "참고",
+   "tags": [
+    "규제"
+   ]
+  },
+  {
+   "id": "d1dcbf8cad64b4ad",
+   "url": "https://news.hada.io/topic?id=33592",
+   "source": "GeekNews",
+   "title": "Thelio Mira AI - GPU 메모리 192GB를 지원하는 Linux 워크스테이션",
+   "published_at": "2026-09-12T18:38:14+00:00",
+   "collected_at": "2026-09-12T22:11:17.022828+00:00",
+   "title_ko": "192GB GPU 메모리 지원 AI 워크스테이션 'Thelio Mira AI'",
+   "summary_ko": "System76이 NVIDIA RTX PRO 6000을 탑재해 최대 192GB의 GPU 메모리를 제공하는 리눅스 워크스테이션을 출시했습니다. 로컬 환경에서의 고성능 AI 학습과 미세조정을 지원합니다.",
+   "category": "참고",
+   "tags": [
+    "NVIDIA",
+    "반도체",
+    "하드웨어"
    ]
   },
   {
@@ -371,6 +462,21 @@
     "Apple",
     "반도체",
     "LLM"
+   ]
+  },
+  {
+   "id": "98264c64ca8186ab",
+   "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+   "source": "Hacker News",
+   "title": "We must pace the frontier",
+   "published_at": "2026-09-12T14:10:49+00:00",
+   "collected_at": "2026-09-12T22:11:01.554009+00:00",
+   "title_ko": "앤스로픽 다리오 아모데이에 밝힌 AI 개발 속도 조절의 필요성",
+   "summary_ko": "앤스로픽의 CEO 다리오 아모데이가 프론티어 AI 개발 속도를 조절해야 한다고 주장했습니다. 안전성과 통제를 확보하기 위한 업계 차원의 거버넌스가 강조됩니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "규제"
    ]
   },
   {
@@ -2879,111 +2985,6 @@
    "tags": [
     "AI 에이전트",
     "반도체"
-   ]
-  },
-  {
-   "id": "90d8ab8f328b471c",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215109",
-   "source": "AI타임스",
-   "title": "'데빈' 개발사 코그니션, 몸값 64조 달성...4개월 만에 85% 급등",
-   "published_at": "2026-09-10T16:59:56+00:00",
-   "collected_at": "2026-09-10T09:36:06.706828+00:00",
-   "title_ko": "데빈 개발사 코그니션, 기업 가치 64조 원 달성",
-   "summary_ko": "AI 코딩 에이전트 데빈의 개발사 코그니션이 4개월 만에 가치가 85% 급증하며 64조 원 규모의 투자를 유치했다.",
-   "category": "중요",
-   "tags": [
-    "투자",
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "ab0b09391fcf1be8",
-   "url": "https://news.hada.io/topic?id=33490",
-   "source": "GeekNews",
-   "title": "밴드 Muse, Meta의 새 AI 에이전트 Muse에 소셜 미디어 계정명을 빼앗김",
-   "published_at": "2026-09-10T16:55:52+00:00",
-   "collected_at": "2026-09-10T21:34:44.762843+00:00",
-   "title_ko": "록 밴드 Muse, Meta의 AI 에이전트에 계정명 빼앗겨",
-   "summary_ko": "영국 록 밴드 Muse가 Meta의 신규 AI 에이전트 'Muse'에 기존 소셜 미디어 계정명을 양도하게 되면서 팬들의 관심을 모았다.",
-   "category": "속보",
-   "tags": [
-    "Meta",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "d5cb288e26ba49cf",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215106",
-   "source": "AI타임스",
-   "title": "수노, 워너뮤직·BMG 손잡고 정식 라이선스 'v6' AI 음악 모델 출시",
-   "published_at": "2026-09-10T16:47:04+00:00",
-   "collected_at": "2026-09-10T09:36:06.706828+00:00",
-   "title_ko": "수노, 워너뮤직 등 라이선스 확보한 v6 음악 모델 출시",
-   "summary_ko": "AI 음악 스타트업 수노가 주요 음원 유통사의 정식 라이선스를 기반으로 창작을 지원하는 v6 AI 음악 모델을 출시했다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "644fd1b19b31a3d5",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215107",
-   "source": "AI타임스",
-   "title": "메가프로젝트 재생에너지 공급 의무화에 찬성 63% 넘어",
-   "published_at": "2026-09-10T16:32:26+00:00",
-   "collected_at": "2026-09-10T14:17:42.521288+00:00",
-   "title_ko": "AI 데이터센터 전력 재생에너지 공급 의무화 찬성 여론",
-   "summary_ko": "국내 조사에서 반도체 및 AI 데이터센터 등 메가프로젝트 전력의 일정 비율을 재생에너지로 공급하는 제도에 63% 이상이 찬성했습니다. 안정적인 전력 확보가 AI 인프라 확충의 핵심 과제로 꼽힙니다.",
-   "category": "참고",
-   "tags": [
-    "AI 데이터센터",
-    "반도체",
-    "투자"
-   ]
-  },
-  {
-   "id": "834a8a26a11648b4",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215101",
-   "source": "AI타임스",
-   "title": "딥시크, 연내 IPO 추진…씨틱증권 주관사 선정해 스타마켓 상장 준비",
-   "published_at": "2026-09-10T16:12:53+00:00",
-   "collected_at": "2026-09-10T14:17:42.521288+00:00",
-   "title_ko": "딥시크, 연내 상하이 스타마켓 IPO 추진",
-   "summary_ko": "중국 AI 기업 딥시크가 본토 증시 상장을 위해 씨틱증권을 주관사로 선정하고 연내 스타마켓 상장 절차에 착수합니다. AI 기업의 자금 조달 가속화가 예상됩니다.",
-   "category": "참고",
-   "tags": [
-    "투자"
-   ]
-  },
-  {
-   "id": "3fc9b4238f60727e",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcng44/deepseek_v41_flash_is_available_in_huggingchat/",
-   "source": "r/LocalLLaMA",
-   "title": "DeepSeek V4.1 Flash is available in HuggingChat",
-   "published_at": "2026-09-10T16:05:49+00:00",
-   "collected_at": "2026-09-10T18:19:39.683476+00:00",
-   "title_ko": "HuggingChat에 DeepSeek V4.1 Flash 추가",
-   "summary_ko": "HuggingChat 플랫폼에서 DeepSeek의 새로운 모델인 V4.1 Flash를 사용할 수 있게 되었습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "70b694e7274e6683",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215090",
-   "source": "AI타임스",
-   "title": "앤트로픽, ‘미소스 5.1’ 영국 AISI 사전 검증 거부...'AI 보호주의' 논란",
-   "published_at": "2026-09-10T16:04:06+00:00",
-   "collected_at": "2026-09-10T14:17:42.521288+00:00",
-   "title_ko": "앤트로픽, 영국 AISI 사전 검증 거부 논란",
-   "summary_ko": "앤트로픽이 최신 모델 '클로드 미소스 5.1'의 사전 검증을 영국 AI 보안연구소에 제공하지 않아 기술 보호주의 논란이 일고 있습니다. AI 안전성 검증을 둘러싼 국가 간 장벽이 높아지고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "Anthropic",
-    "Claude",
-    "규제"
    ]
   }
  ]
