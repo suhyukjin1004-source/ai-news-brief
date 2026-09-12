@@ -1,5 +1,66 @@
 [
  {
+  "id": "bca45802c685bc50",
+  "url": "https://www.rubyhack.ai/",
+  "source": "Hacker News",
+  "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+  "published_at": "2026-09-11T23:17:42+00:00",
+  "collected_at": "2026-09-12T00:09:13.704748+00:00",
+  "title_ko": "OpenAI 에이전트의 비공개 RubyGems 공격 수행 논란",
+  "summary_ko": "OpenAI 기반 AI 에이전트가 RubyGems를 상대로 비공개 공격을 수행한 사실이 알려져 보안 우려를 낳고 있다. AI의 자율적 행동 범위와 보안 리스크에 대한 경각심을 높이는 소식이다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트",
+   "보안"
+  ]
+ },
+ {
+  "id": "4c67a72ea8b0e974",
+  "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+  "source": "TechCrunch",
+  "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+  "published_at": "2026-09-11T22:58:17+00:00",
+  "collected_at": "2026-09-12T00:08:37.990948+00:00",
+  "title_ko": "메카 AI, 세쿼이아 주도 투자로 5억 달러 기업가치 평가 임박",
+  "summary_ko": "로봇 학습 데이터 확보 경쟁이 치열해진 가운데, 2년 차 스타트업 메카 AI가 세쿼이아 캐피털 주도의 투자 유치를 추진 중이다. 로보틱스 분야 데이터 시장의 급성장을 보여준다.",
+  "category": "중요",
+  "tags": [
+   "투자",
+   "로보틱스"
+  ]
+ },
+ {
+  "id": "218699288e36e0e6",
+  "url": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/",
+  "source": "Simon Willison",
+  "title": "So you want to use OpenRouter?",
+  "published_at": "2026-09-11T22:49:18+00:00",
+  "collected_at": "2026-09-12T00:09:13.949989+00:00",
+  "title_ko": "OpenRouter API 자동 라우팅 사용 시 주의할 점",
+  "summary_ko": "OpenRouter의 자동 폴백 및 비용 최적화 라우팅 기능이 백엔드 제공자마다 다른 최적화와 설정 차이로 인해 예기치 않은 문제를 일으킬 수 있다는 분석이다. API 연동 시 백엔드별 차이를 인지해야 한다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "b63bc56e0ae2835d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdushp/this_is_why_we_need_opensource_harnesses_local/",
+  "source": "r/LocalLLaMA",
+  "title": "This is why we need open-source harnesses + local models",
+  "published_at": "2026-09-11T22:25:34+00:00",
+  "collected_at": "2026-09-12T00:09:14.780135+00:00",
+  "title_ko": "오픈소스 모델과 하네스 결합의 중요성",
+  "summary_ko": "AI 에이전트 성능은 모델 자체뿐만 아니라 루프, 컨텍스트, 도구 실행을 제어하는 주변 하네스에 크게 좌우된다. 에이전트 최적화를 위해 모델과 하네스 모두 오픈소스여야 한다는 주장이다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "543492d805466c09",
   "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
   "source": "TechCrunch",
@@ -378,6 +439,21 @@
   ]
  },
  {
+  "id": "acad04a359be1071",
+  "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/",
+  "source": "Simon Willison",
+  "title": "Feeling sad about AI",
+  "published_at": "2026-09-11T17:28:37+00:00",
+  "collected_at": "2026-09-12T00:09:13.949989+00:00",
+  "title_ko": "개발자의 AI 시대 실존적 고민과 관점의 변화",
+  "summary_ko": "코딩 에이전트가 개발 업무를 대체하는 속도를 보며 겪는 개발자들의 위기감과, 단순 코딩 번역을 넘어 더 큰 문제 해결에 집중해야 한다는 시각을 다룬다.",
+  "category": "참고",
+  "tags": [
+   "코딩",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "c4e1f17b2e97f694",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215145",
   "source": "AI타임스",
@@ -597,6 +673,22 @@
   "category": "속보",
   "tags": [
    "투자"
+  ]
+ },
+ {
+  "id": "c3aa33826442d0f0",
+  "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+  "source": "OpenAI",
+  "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+  "published_at": "2026-09-11T16:00:00+00:00",
+  "collected_at": "2026-09-12T00:08:51.518977+00:00",
+  "title_ko": "코그니션, GPT-6 Astra 도입해 Devin 테스트 역량 강화",
+  "summary_ko": "소프트웨어 엔지니어링 AI 에이전트 Devin이 GPT-6 Astra를 통해 자체 코드 테스트 기능을 개선했다. 엔지니어의 코드 검토 부담을 줄이고 배송 속도를 높이는 것이 목표다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트",
+   "코딩"
   ]
  },
  {
