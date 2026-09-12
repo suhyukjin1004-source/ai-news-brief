@@ -14,6 +14,21 @@
   ]
  },
  {
+  "id": "56c96d74ead21cde",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wekfjr/any_proper_benchmarks_of_beellama_and_its_fork/",
+  "source": "r/LocalLLaMA",
+  "title": "Any proper benchmarks of Beellama (and its fork Beellama-kvarn) and how it performs quality wise for coding?",
+  "published_at": "2026-09-12T18:37:40+00:00",
+  "collected_at": "2026-09-12T19:11:25.750063+00:00",
+  "title_ko": "Beellama 및 KV 캐시 양자화 기법의 성능 분석",
+  "summary_ko": "오래된 캐시의 양자화만 줄여 성능을 높이는 Beellama 기법과 품질 영향에 대한 논의입니다. 대형 언어 모델의 컨텍스트 처리 효율을 개선하는 데 관심이 쏠립니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
   "id": "df502842dc5f6b35",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215193",
   "source": "AI타임스",
@@ -26,6 +41,21 @@
   "tags": [
    "OpenAI",
    "규제"
+  ]
+ },
+ {
+  "id": "ee6663ae007ebe6f",
+  "url": "https://simonwillison.net/2026/Sep/12/paul-ford/",
+  "source": "Simon Willison",
+  "title": "Quoting Paul Ford",
+  "published_at": "2026-09-12T18:00:21+00:00",
+  "collected_at": "2026-09-12T19:11:25.170889+00:00",
+  "title_ko": "AI 시대 소프트웨어 개발과 인간의 역할",
+  "summary_ko": "AI가 코딩을 도맡으면서도 여전히 최신 소프트웨어 개발에는 인간의 협업과 비판적 사고가 필수적이라는 점을 짚어봅니다.",
+  "category": "참고",
+  "tags": [
+   "코딩",
+   "AI 에이전트"
   ]
  },
  {
@@ -45,6 +75,22 @@
   ]
  },
  {
+  "id": "80e8064edfec1160",
+  "url": "https://news.hada.io/topic?id=33588",
+  "source": "GeekNews",
+  "title": "Nvidia는 AI의 중앙은행이다",
+  "published_at": "2026-09-12T17:44:25+00:00",
+  "collected_at": "2026-09-12T19:11:40.764083+00:00",
+  "title_ko": "엔비디아의 공격적인 AI 인프라 금융 지원 전략",
+  "summary_ko": "엔비디아가 고객사 장비 가치 보증과 대규모 자금 지원을 통해 AI 인프라 투자와 자사 칩 수요를 동시에 견인하고 있다는 분석입니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "반도체",
+   "투자"
+  ]
+ },
+ {
   "id": "1d7357288e02d03e",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215188",
   "source": "AI타임스",
@@ -57,6 +103,36 @@
   "tags": [
    "Google",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "1496bf6baab63081",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wei63j/m2_ultraqwen38_flash_next_update_latest_omlx/",
+  "source": "r/LocalLLaMA",
+  "title": "M2 Ultra/Qwen3.8 Flash Next Update - latest oMLX introduces substantial speedup",
+  "published_at": "2026-09-12T17:11:43+00:00",
+  "collected_at": "2026-09-12T19:11:25.750063+00:00",
+  "title_ko": "oMLX 업데이트를 통한 대형 모델 추론 속도 개선",
+  "summary_ko": "Apple Silicon 환경 등에서 oMLX 최신 업데이트를 통해 모델 구동 속도가 대폭 향상되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "ccb84b94686a4613",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wehnsd/2rtx_3090_epyc_box_running_qwen38flashnext_at_38/",
+  "source": "r/LocalLLaMA",
+  "title": "2×RTX 3090 + EPYC box running qwen3.8-flash-next at ~38 tok/s",
+  "published_at": "2026-09-12T16:52:39+00:00",
+  "collected_at": "2026-09-12T19:11:25.750063+00:00",
+  "title_ko": "저예산 서버 구축을 통한 대형 MoE 모델 구동 사례",
+  "summary_ko": "중고 RTX 3090과 EPYC CPU 조합으로 대형 MoE 모델을 효율적으로 구동하는 실무적 하드웨어 구성 공유입니다.",
+  "category": "팁",
+  "tags": [
+   "반도체",
+   "오픈소스"
   ]
  },
  {

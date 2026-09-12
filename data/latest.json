@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-12T16:58:49.578319+00:00",
+ "updated_at": "2026-09-12T19:11:43.722290+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -34,6 +34,21 @@
    ]
   },
   {
+   "id": "56c96d74ead21cde",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wekfjr/any_proper_benchmarks_of_beellama_and_its_fork/",
+   "source": "r/LocalLLaMA",
+   "title": "Any proper benchmarks of Beellama (and its fork Beellama-kvarn) and how it performs quality wise for coding?",
+   "published_at": "2026-09-12T18:37:40+00:00",
+   "collected_at": "2026-09-12T19:11:25.750063+00:00",
+   "title_ko": "Beellama 및 KV 캐시 양자화 기법의 성능 분석",
+   "summary_ko": "오래된 캐시의 양자화만 줄여 성능을 높이는 Beellama 기법과 품질 영향에 대한 논의입니다. 대형 언어 모델의 컨텍스트 처리 효율을 개선하는 데 관심이 쏠립니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
    "id": "df502842dc5f6b35",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215193",
    "source": "AI타임스",
@@ -46,6 +61,21 @@
    "tags": [
     "OpenAI",
     "규제"
+   ]
+  },
+  {
+   "id": "ee6663ae007ebe6f",
+   "url": "https://simonwillison.net/2026/Sep/12/paul-ford/",
+   "source": "Simon Willison",
+   "title": "Quoting Paul Ford",
+   "published_at": "2026-09-12T18:00:21+00:00",
+   "collected_at": "2026-09-12T19:11:25.170889+00:00",
+   "title_ko": "AI 시대 소프트웨어 개발과 인간의 역할",
+   "summary_ko": "AI가 코딩을 도맡으면서도 여전히 최신 소프트웨어 개발에는 인간의 협업과 비판적 사고가 필수적이라는 점을 짚어봅니다.",
+   "category": "참고",
+   "tags": [
+    "코딩",
+    "AI 에이전트"
    ]
   },
   {
@@ -65,6 +95,22 @@
    ]
   },
   {
+   "id": "80e8064edfec1160",
+   "url": "https://news.hada.io/topic?id=33588",
+   "source": "GeekNews",
+   "title": "Nvidia는 AI의 중앙은행이다",
+   "published_at": "2026-09-12T17:44:25+00:00",
+   "collected_at": "2026-09-12T19:11:40.764083+00:00",
+   "title_ko": "엔비디아의 공격적인 AI 인프라 금융 지원 전략",
+   "summary_ko": "엔비디아가 고객사 장비 가치 보증과 대규모 자금 지원을 통해 AI 인프라 투자와 자사 칩 수요를 동시에 견인하고 있다는 분석입니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "반도체",
+    "투자"
+   ]
+  },
+  {
    "id": "1d7357288e02d03e",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215188",
    "source": "AI타임스",
@@ -77,6 +123,36 @@
    "tags": [
     "Google",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "1496bf6baab63081",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wei63j/m2_ultraqwen38_flash_next_update_latest_omlx/",
+   "source": "r/LocalLLaMA",
+   "title": "M2 Ultra/Qwen3.8 Flash Next Update - latest oMLX introduces substantial speedup",
+   "published_at": "2026-09-12T17:11:43+00:00",
+   "collected_at": "2026-09-12T19:11:25.750063+00:00",
+   "title_ko": "oMLX 업데이트를 통한 대형 모델 추론 속도 개선",
+   "summary_ko": "Apple Silicon 환경 등에서 oMLX 최신 업데이트를 통해 모델 구동 속도가 대폭 향상되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "ccb84b94686a4613",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wehnsd/2rtx_3090_epyc_box_running_qwen38flashnext_at_38/",
+   "source": "r/LocalLLaMA",
+   "title": "2×RTX 3090 + EPYC box running qwen3.8-flash-next at ~38 tok/s",
+   "published_at": "2026-09-12T16:52:39+00:00",
+   "collected_at": "2026-09-12T19:11:25.750063+00:00",
+   "title_ko": "저예산 서버 구축을 통한 대형 MoE 모델 구동 사례",
+   "summary_ko": "중고 RTX 3090과 EPYC CPU 조합으로 대형 MoE 모델을 효율적으로 구동하는 실무적 하드웨어 구성 공유입니다.",
+   "category": "팁",
+   "tags": [
+    "반도체",
+    "오픈소스"
    ]
   },
   {
@@ -2907,82 +2983,6 @@
    "tags": [
     "Anthropic",
     "Claude",
-    "규제"
-   ]
-  },
-  {
-   "id": "014159943e4d9643",
-   "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-   "source": "OpenAI",
-   "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-   "published_at": "2026-09-10T16:00:00+00:00",
-   "collected_at": "2026-09-10T18:19:21.812014+00:00",
-   "title_ko": "OpenAI 툴 활용해 항균 분자 발굴 나선 연구원",
-   "summary_ko": "연구팀이 Codex와 ChatGPT를 이용해 약물 내성균에 대응할 항균 후보 물질을 탐색하고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "GPT"
-   ]
-  },
-  {
-   "id": "9a104c906baace75",
-   "url": "https://news.hada.io/topic?id=33486",
-   "source": "GeekNews",
-   "title": "또 다른 연구자, OpenAI가 대화로 학습한 뒤 돌파구를 이뤘다고 주장했다며 비판",
-   "published_at": "2026-09-10T15:45:17+00:00",
-   "collected_at": "2026-09-10T18:19:53.704104+00:00",
-   "title_ko": "OpenAI, 대화 내용 학습 활용 논란 제기돼",
-   "summary_ko": "OpenAI가 사용자 대화 내용을 학습에 활용한 뒤 이를 기술적 돌파구로 포장했다는 연구자의 비판이 제기되었습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "규제"
-   ]
-  },
-  {
-   "id": "511e599cbcc6cc15",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215102",
-   "source": "AI타임스",
-   "title": "구글, 20조 투입해 핀란드에 데이터센터 신설…원전 전력 50% 22년간 확보",
-   "published_at": "2026-09-10T15:43:40+00:00",
-   "collected_at": "2026-09-10T14:17:42.521288+00:00",
-   "title_ko": "구글, 핀란드에 20조 원 규모 데이터센터 신설",
-   "summary_ko": "구글이 급증하는 AI 컴퓨팅 수요에 대응해 핀란드에 20조 원을 투자하여 신규 데이터센터를 건설합니다. 원전 등 청정에너지 전력을 대규모로 확보하여 친환경 인프라를 구축할 계획입니다.",
-   "category": "참고",
-   "tags": [
-    "Google",
-    "Gemini",
-    "AI 데이터센터"
-   ]
-  },
-  {
-   "id": "8f20a8e8e5450284",
-   "url": "https://news.hada.io/topic?id=33485",
-   "source": "GeekNews",
-   "title": "Shopify, React Native에서 네이티브로 복귀",
-   "published_at": "2026-09-10T15:42:16+00:00",
-   "collected_at": "2026-09-10T18:19:53.704104+00:00",
-   "title_ko": "쇼피파이, 코딩 에이전트 활용 위해 네이티브 개발로 회귀",
-   "summary_ko": "코딩 에이전트의 발전으로 크로스플랫폼의 이점이 줄어듦에 따라 쇼피파이가 iOS와 안드로이드 앱을 네이티브로 전환했습니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "5de08de6d63ffbfb",
-   "url": "https://news.hada.io/topic?id=33484",
-   "source": "GeekNews",
-   "title": "Tell HN: OpenAI가 '학습 허용' 설정을 계속 다시 켭니다",
-   "published_at": "2026-09-10T15:39:16+00:00",
-   "collected_at": "2026-09-10T18:19:53.704104+00:00",
-   "title_ko": "OpenAI, 사용자 동의 없이 '학습 허용' 설정 재활성화 논란",
-   "summary_ko": "사용자가 여러 번 껐음에도 불구하고 OpenAI의 데이터 학습 허용 설정이 다시 켜지는 현상이 보고되어 주의가 요구됩니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
     "규제"
    ]
   }
