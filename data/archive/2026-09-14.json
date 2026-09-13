@@ -16,6 +16,67 @@
   ]
  },
  {
+  "id": "07d12c37fc92fb21",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfg0sb/aurora10150m_releases/",
+  "source": "r/LocalLLaMA",
+  "title": "Aurora1.0-150M Releases!",
+  "published_at": "2026-09-13T18:46:19+00:00",
+  "collected_at": "2026-09-13T19:20:06.854527+00:00",
+  "title_ko": "1억 5천만 매개변수의 초소형 모델 Aurora1.0 공개",
+  "summary_ko": "GPT-2 Small 수준의 성능을 가진 150M 규모의 오픈소스 모델 Aurora1.0이 7B 토큰 학습을 거쳐 출시되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "7caed892c8eb230c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wffgdh/i_have_just_moved_from_macbook_m5_pro_48_gb_to/",
+  "source": "r/LocalLLaMA",
+  "title": "I have just moved from MacBook M5 pro 48 GB to RTX3090",
+  "published_at": "2026-09-13T18:25:26+00:00",
+  "collected_at": "2026-09-13T19:20:06.854527+00:00",
+  "title_ko": "맥북에서 RTX 3090으로 전환한 로컬 LLM 구축기",
+  "summary_ko": "개발자가 맥북에서 리눅스 기반 RTX 3090 시스템으로 전환하여 Qwen 27B 모델 구동 시 5배 빠른 속도를 달성했습니다.",
+  "category": "팁",
+  "tags": [
+   "로컬LLM",
+   "반도체",
+   "Qwen"
+  ]
+ },
+ {
+  "id": "ebc7c292affc0c4a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfefc4/talk_me_out_of_buying_a_3rd_spark/",
+  "source": "r/LocalLLaMA",
+  "title": "Talk me out of buying a 3rd Spark",
+  "published_at": "2026-09-13T17:47:36+00:00",
+  "collected_at": "2026-09-13T19:20:06.854527+00:00",
+  "title_ko": "고성능 하드웨어 클러스터의 DeepSeek 모델 구동 논의",
+  "summary_ko": "특정 하드웨어 클러스터 환경에서 대형 모델인 DeepSeek 플래시 버전을 효율적으로 구동할 수 있는지에 대한 커뮤니티 논의입니다.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "b1ea11c7078deede",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfe9zt/3k_128gb_vram_256gb_ram_ddr4_server/",
+  "source": "r/LocalLLaMA",
+  "title": "3k$ 128GB VRAM + 256GB RAM DDR4 Server",
+  "published_at": "2026-09-13T17:42:07+00:00",
+  "collected_at": "2026-09-13T19:20:06.854527+00:00",
+  "title_ko": "3천 달러 예산으로 구축한 128GB VRAM 홈 추론 서버",
+  "summary_ko": "중고 부품과 워크스테이션 부품을 활용해 대형 로컬 LLM을 원활히 돌릴 수 있는 고성능 홈 인프라 구축 사례입니다.",
+  "category": "팁",
+  "tags": [
+   "로컬LLM",
+   "반도체"
+  ]
+ },
+ {
   "id": "bde7715e314ffb6f",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215207",
   "source": "AI타임스",
@@ -29,6 +90,111 @@
    "Google",
    "AI 에이전트",
    "오픈소스"
+  ]
+ },
+ {
+  "id": "843e279d196a5588",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfdtm7/dear_24g_owners_try_vllm_you_might_be_able_to_run/",
+  "source": "r/LocalLLaMA",
+  "title": "Dear 24G owners, try VLLM you might be able to run Qwen3.8 27B INT4, 144K FP8 KV on RTX 3090 with better speed. (TLDR VLLM AOT)",
+  "published_at": "2026-09-13T17:25:05+00:00",
+  "collected_at": "2026-09-13T19:20:06.854527+00:00",
+  "title_ko": "RTX 3090에서 vLLM을 활용한 Qwen 모델 가속 팁",
+  "summary_ko": "vLLM과 특정 도커 설정을 활용해 24GB VRAM 환경에서 Qwen 27B 모델의 프롬프트 처리 속도를 극대화하는 방법입니다.",
+  "category": "팁",
+  "tags": [
+   "로컬LLM",
+   "Qwen",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "9bc25e6b48c99a53",
+  "url": "https://news.hada.io/topic?id=33633",
+  "source": "GeekNews",
+  "title": "Bason – 1인 개발자를 위한 콘텐츠 마케팅 서비스",
+  "published_at": "2026-09-13T16:58:30+00:00",
+  "collected_at": "2026-09-13T19:20:21.232008+00:00",
+  "title_ko": "AI 기반 콘텐츠 마케팅 서비스 'Bason'",
+  "summary_ko": "1인 개발자가 빈 페이지의 마찰을 줄이고 주기적으로 마케팅 초안을 작성할 수 있도록 돕는 AI 서비스입니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "4e3f293e30946b2a",
+  "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+  "source": "Hacker News",
+  "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+  "published_at": "2026-09-13T16:52:33+00:00",
+  "collected_at": "2026-09-13T19:20:02.630641+00:00",
+  "title_ko": "데이비드 삭스 \"프론티어 AI에 규제는 불필요\"",
+  "summary_ko": "OpenAI와 Anthropic 같은 프론티어 AI 기업들이 개발 속도를 조절하기 위해 정부 규제에 의존할 필요가 없다는 주장이 제기되었습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "Anthropic",
+   "규제"
+  ]
+ },
+ {
+  "id": "3dbab127b0ae0cc6",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfcurd/trump_says_not_to_slow_down_ai_development/",
+  "source": "r/LocalLLaMA",
+  "title": "Trump says not to slow down AI development",
+  "published_at": "2026-09-13T16:49:03+00:00",
+  "collected_at": "2026-09-13T19:20:06.854527+00:00",
+  "title_ko": "트럼프 \"AI 개발 속도 늦추지 말아야\"",
+  "summary_ko": "미국 AI 개발 경쟁에서 승자가 모든 것을 가져가야 하므로 AI 개발 속도를 늦춰서는 안 된다는 발언이 나왔습니다.",
+  "category": "중요",
+  "tags": [
+   "규제",
+   "투자"
+  ]
+ },
+ {
+  "id": "c4427ae2d16701fc",
+  "url": "https://news.hada.io/topic?id=33632",
+  "source": "GeekNews",
+  "title": "최악의 스팸 이메일: iLands AI 에이전트의 돈벌이 공세",
+  "published_at": "2026-09-13T16:47:23+00:00",
+  "collected_at": "2026-09-13T19:20:21.232008+00:00",
+  "title_ko": "자율 AI 에이전트의 과도한 영업 메일 공세 논란",
+  "summary_ko": "자율 봇 네트워크를 자처하는 AI 에이전트 서비스가 프리랜서에게 반복적으로 업무 제안 메일을 보내 스팸 논란이 일고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "e5a49dd12ba69955",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfcewd/migration_from_claude_code_to_a_private_local/",
+  "source": "r/LocalLLaMA",
+  "title": "Migration from Claude Code to a private local harness. Questions.",
+  "published_at": "2026-09-13T16:32:34+00:00",
+  "collected_at": "2026-09-13T19:20:06.854527+00:00",
+  "title_ko": "클라우드 코딩 도구에서 프라이빗 로컬 환경으로의 전환 탐색",
+  "summary_ko": "비용 문제와 보안을 이유로 상용 코딩 보조 도구에서 오픈소스 로컬 모델 및 하네스로 마이그레이션하려는 개발자의 고민입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "코딩",
+   "로컬LLM"
+  ]
+ },
+ {
+  "id": "71d2a72b149de943",
+  "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+  "source": "TechCrunch",
+  "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+  "published_at": "2026-09-13T16:30:00+00:00",
+  "collected_at": "2026-09-13T19:19:43.189798+00:00",
+  "title_ko": "오바마, 민주당에 명확한 AI 안전장치 계획 촉구",
+  "summary_ko": "오바마 전 미국 대통령이 AI 기술의 경제적 영향과 안전성 우려를 해결하기 위해 민주당이 명확한 아젠다를 세워야 한다고 강조했습니다.",
+  "category": "중요",
+  "tags": [
+   "규제"
   ]
  },
  {
@@ -60,6 +226,21 @@
    "Qwen",
    "오픈소스",
    "코딩"
+  ]
+ },
+ {
+  "id": "dc53af49f25e1c40",
+  "url": "https://news.hada.io/topic?id=33629",
+  "source": "GeekNews",
+  "title": "누구에게 정렬되어 있는가?",
+  "published_at": "2026-09-13T15:39:48+00:00",
+  "collected_at": "2026-09-13T19:20:21.232008+00:00",
+  "title_ko": "AI 에이전트의 전문 영역 외 작업과 사전 성향 의존성",
+  "summary_ko": "에이전트 개발 시 전문성이 부족한 영역에서는 요구사항 명시가 어려워 모델의 사전 성향에 크게 의존하게 됩니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "LLM"
   ]
  }
 ]
