@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-13T11:40:40.084419+00:00",
+ "updated_at": "2026-09-13T16:08:47.887140+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -33,6 +33,158 @@
     "Google",
     "AI 에이전트",
     "오픈소스"
+   ]
+  },
+  {
+   "id": "b77bb3de16ae20fa",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfbnhc/hoping_for_optimized_smarter_upcoming_models_like/",
+   "source": "r/LocalLLaMA",
+   "title": "Hoping for Optimized Smarter Upcoming Models .... Like DeepSeek-V4.1-Flash( KVCache + Engram) in Small/Medium/Big sizes",
+   "published_at": "2026-09-13T16:03:44+00:00",
+   "collected_at": "2026-09-13T16:08:28.360163+00:00",
+   "title_ko": "차세대 소형·대형 모델을 위한 DeepSeek V4.1 Flash 아키텍처 기대",
+   "summary_ko": "효율적인 KV 캐시와 Engram 기술을 결합한 차세대 모델 구조에 대한 로컬 LLM 커뮤니티의 기대감이 커지고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "DeepSeek",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "3d226d7fbff78965",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfba8g/qwen_38_27b_udiq4_xs_even_faster_on_16gb_cuda/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen 3.8 27B UD-IQ4_XS even faster on 16GB CUDA",
+   "published_at": "2026-09-13T15:50:25+00:00",
+   "collected_at": "2026-09-13T16:08:28.360163+00:00",
+   "title_ko": "16GB VRAM에서 Qwen 27B 모델 가속 구동 기법",
+   "summary_ko": "KV 캐시 스트리밍 기법을 활용해 제한된 VRAM 환경에서도 대형 모델을 빠르게 실행하는 방법이 공유되었습니다.",
+   "category": "팁",
+   "tags": [
+    "Qwen",
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "dd61b0d246026c69",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wf9uc5/qwen38_flash_next_untrained_svg_generation/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8 flash next - untrained svg generation",
+   "published_at": "2026-09-13T14:54:04+00:00",
+   "collected_at": "2026-09-13T16:08:28.360163+00:00",
+   "title_ko": "Qwen3.8 Flash Next의 고성능 SVG 생성 능력",
+   "summary_ko": "로컬 환경에서 구동되는 Qwen 신규 모델이 대규모 컨텍스트를 활용해 복잡한 SVG 그래픽을 성공적으로 생성했습니다.",
+   "category": "참고",
+   "tags": [
+    "Qwen",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "6250aa0de9fc6f40",
+   "url": "https://news.hada.io/topic?id=33625",
+   "source": "GeekNews",
+   "title": "수학 그 이후",
+   "published_at": "2026-09-13T14:34:56+00:00",
+   "collected_at": "2026-09-13T16:08:42.915575+00:00",
+   "title_ko": "AI 시대의 수학과 증명의 의미",
+   "summary_ko": "AI가 난제의 해법을 제시하더라도 사람이 이해할 수 있는 증명의 중요성과 수학의 본질은 여전히 유효하다는 분석입니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "규제"
+   ]
+  },
+  {
+   "id": "5a57069e356d7317",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wf8ur9/my_experience_building_64gb_vram_ai_swe/",
+   "source": "r/LocalLLaMA",
+   "title": "My experience building 64GB VRAM AI SWE assistant/agent PC",
+   "published_at": "2026-09-13T14:16:21+00:00",
+   "collected_at": "2026-09-13T16:08:28.360163+00:00",
+   "title_ko": "개발자용 64GB VRAM 로컬 AI 에이전트 PC 구축 경험",
+   "summary_ko": "클라우드 구독 의존도를 낮추기 위해 고성능 VRAM을 갖춘 PC를 직접 구축하여 로컬 AI 코딩 어시스턴트를 활용하는 사례입니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "코딩",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "7f49d82031d822e6",
+   "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+   "source": "Hacker News",
+   "title": "Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
+   "published_at": "2026-09-13T14:15:40+00:00",
+   "collected_at": "2026-09-13T16:08:27.718557+00:00",
+   "title_ko": "앤트로픽, 후티 반군의 Claude Code 미사일 유도 S/W 악용 확인",
+   "summary_ko": "앤트로픽은 후티 반군이 미사일 유도 소프트웨어 개발에 자사 코딩 도구인 Claude Code를 악용한 사실을 공식 확인했습니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "규제"
+   ]
+  },
+  {
+   "id": "cb6032d1e1b4fb6b",
+   "url": "https://news.hada.io/topic?id=33624",
+   "source": "GeekNews",
+   "title": "Show GN: 스테인드글래스 완성하는 퍼즐 게임 - The Artisan of Glimmith 클론",
+   "published_at": "2026-09-13T13:38:51+00:00",
+   "collected_at": "2026-09-13T16:08:42.915575+00:00",
+   "title_ko": "Claude와 함께 스테인드글래스 퍼즐 게임 개발",
+   "summary_ko": "개발자가 클로드와의 협업을 통해 스테인드글래스 퍼즐 시뮬레이션 게임을 직접 구현한 사례가 공유되었습니다.",
+   "category": "팁",
+   "tags": [
+    "Claude",
+    "코딩"
+   ]
+  },
+  {
+   "id": "17af72c0542f880e",
+   "url": "https://news.hada.io/topic?id=33622",
+   "source": "GeekNews",
+   "title": "PuzzleMask: 평범한 문장을 잠재적 AI 공격 수단으로 오용하기",
+   "published_at": "2026-09-13T13:03:02+00:00",
+   "collected_at": "2026-09-13T16:08:42.915575+00:00",
+   "title_ko": "일반 문장을 악성 AI 공격으로 악용하는 PuzzleMask 취약점",
+   "summary_ko": "특수 기호 없이 일반 문장 속에 악성 명령을 숨겨 AI 안전망과 정책 검사를 우회할 수 있는 보안 취약점이 발견되었습니다.",
+   "category": "중요",
+   "tags": [
+    "규제"
+   ]
+  },
+  {
+   "id": "eaf0dd3178119c66",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wf6nbi/the_rhetoric_is_really_heating_up/",
+   "source": "r/LocalLLaMA",
+   "title": "The rhetoric is really heating up!",
+   "published_at": "2026-09-13T12:41:18+00:00",
+   "collected_at": "2026-09-13T16:08:28.360163+00:00",
+   "title_ko": "프론티어 모델 탈피 및 자체 AI 구축으로 향하는 업계 분위기",
+   "summary_ko": "빅테크 중심의 규제 포획과 독점에 반발하여 대형 모델 의존도에서 벗어나려는 기업들의 움직임이 가속화되고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "규제"
+   ]
+  },
+  {
+   "id": "46772387ef1161c0",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wf69ug/what_are_the_top_ai_models_that_are_still/",
+   "source": "r/LocalLLaMA",
+   "title": "What are the top AI Models that are still relevant today from 2024 and 2025?",
+   "published_at": "2026-09-13T12:23:42+00:00",
+   "collected_at": "2026-09-13T16:08:28.360163+00:00",
+   "title_ko": "2026년 시점에서 여전히 유용한 2024~2025년 주요 AI 모델",
+   "summary_ko": "급변하는 AI 생태계 속에서 대용량 저장소를 활용해 과거의 주요 오픈 모델들을 아카이빙하고 실사용 가치를 평가하는 논의입니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "DeepSeek"
    ]
   },
   {
@@ -293,6 +445,20 @@
    "tags": [
     "AI 에이전트",
     "코딩"
+   ]
+  },
+  {
+   "id": "378091b40fda1b06",
+   "url": "https://hyperbo.la/w/aligned-to-whom/",
+   "source": "Hacker News",
+   "title": "Aligned to whom?",
+   "published_at": "2026-09-13T03:17:18+00:00",
+   "collected_at": "2026-09-13T16:08:23.150511+00:00",
+   "title_ko": "AI 정렬(Alignment)의 주체와 방향성에 대한 고찰",
+   "summary_ko": "인공지능의 정렬이 누구의 가치관과 이해관계를 기준으로 삼아야 하는지에 대한 철학적·기술적 논의입니다.",
+   "category": "참고",
+   "tags": [
+    "규제"
    ]
   },
   {
@@ -2836,164 +3002,6 @@
    "category": "중요",
    "tags": [
     "OpenAI"
-   ]
-  },
-  {
-   "id": "cc1c312b02abcaca",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215133",
-   "source": "AI타임스",
-   "title": "\"2조원 보상도 마다\"…스타 AI 연구원 앤드류 툴록, 앤트로픽 합류",
-   "published_at": "2026-09-11T12:30:02+00:00",
-   "collected_at": "2026-09-11T04:26:54.363484+00:00",
-   "title_ko": "스타 AI 연구원 앤드류 툴록, 메타 떠나 앤트로픽 합류",
-   "summary_ko": "메타에서 고액 보상으로 영입했던 AI 연구원 앤드류 툴록이 앤트로픽으로 이직한다. 모델 효율성과 추론 성능 향상 팀에 합류해 핵심 개발을 맡을 예정이다.",
-   "category": "참고",
-   "tags": [
-    "Anthropic",
-    "Meta"
-   ]
-  },
-  {
-   "id": "78fa288029c5173c",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215140",
-   "source": "AI타임스",
-   "title": "\"스마트워치 없이도 수면 측정\"...비브레스트, '트랜슬립 AI' 앱 출시",
-   "published_at": "2026-09-11T12:21:00+00:00",
-   "collected_at": "2026-09-11T04:26:54.363484+00:00",
-   "title_ko": "스마트폰만으로 수면 측정하는 AI 앱 '트랜슬립 AI' 출시",
-   "summary_ko": "비브레스트가 웨어러블 기기 없이 스마트폰 마이크만으로 수면 중 이상 신호를 분석하는 AI 앱을 출시했다. 일상에서 AI 헬스케어 접근성을 높인다는 점에서 의미가 있다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "46e06e03e98e05d8",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215128",
-   "source": "AI타임스",
-   "title": "웹 브라우저 벗어난 구글 '제미나이', 윈도우용 데스크톱 앱 출시",
-   "published_at": "2026-09-11T12:18:38+00:00",
-   "collected_at": "2026-09-11T04:26:54.363484+00:00",
-   "title_ko": "구글, 윈도우용 '제미나이' 데스크톱 앱 공식 출시",
-   "summary_ko": "구글이 윈도우용 제미나이 데스크톱 앱을 전 세계에 출시했다. 웹 브라우저를 벗어나 PC 운영체제 환경에서 작업 중 AI를 곧바로 호출할 수 있게 됐다.",
-   "category": "속보",
-   "tags": [
-    "Google",
-    "Gemini"
-   ]
-  },
-  {
-   "id": "03477d62ec16f547",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215131",
-   "source": "AI타임스",
-   "title": "'딥시크 V4.1 플래시' 출시...\"100만 토큰 창에 KV 캐시 75% 축소\"",
-   "published_at": "2026-09-11T12:11:55+00:00",
-   "collected_at": "2026-09-11T04:26:54.363484+00:00",
-   "title_ko": "딥시크, 메모리 사용량 줄인 'V4.1 플래시' 공개",
-   "summary_ko": "딥시크가 100만 토큰 컨텍스트를 지원하면서도 KV 캐시 사용량을 4분의 1로 낮춘 경량 모델 V4.1 플래시를 출시했다. 장기 실행 AI 에이전트의 핵심 병목인 메모리 문제를 개선했다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "83b3379c8918eff5",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215139",
-   "source": "AI타임스",
-   "title": "이스트소프트, K몬스터그룹과 AI 아바타 '페르소에이아이' 글로벌 사업 확대",
-   "published_at": "2026-09-11T12:01:50+00:00",
-   "collected_at": "2026-09-11T04:26:54.363484+00:00",
-   "title_ko": "이스트소프트, K몬스터그룹과 AI 아바타 글로벌 사업 협력",
-   "summary_ko": "이스트소프트가 K몬스터그룹과 손잡고 AI 아바타 기반 솔루션 '페르소에이아이'의 글로벌 마케팅과 사업 확대를 추진한다.",
-   "category": "참고",
-   "tags": []
-  },
-  {
-   "id": "02baf42e28c9523e",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215135",
-   "source": "AI타임스",
-   "title": "\"차량 개조 없이 자율주행 가능\"...바이다, 스마트카 국책과제 선정",
-   "published_at": "2026-09-11T11:42:45+00:00",
-   "collected_at": "2026-09-11T04:26:54.363484+00:00",
-   "title_ko": "바이다, 차량 탈부착형 자율주행 스마트카 국책과제 주관",
-   "summary_ko": "바이다가 110억원 규모의 탈부착형 자율주행 마샬링 기술 개발 국책과제 주관 연구기관으로 선정됐다. 공장이나 항만 등 제한 구역 내 무인 운송 효율을 높일 것으로 기대된다.",
-   "category": "참고",
-   "tags": [
-    "로보틱스"
-   ]
-  },
-  {
-   "id": "9d42b0825cbcf733",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215132",
-   "source": "AI타임스",
-   "title": "트웰브랩스, 영상 검색 DB 연결 없이 즉시 사용…말로 “페널티킥 장면 찾아줘”",
-   "published_at": "2026-09-11T11:36:46+00:00",
-   "collected_at": "2026-09-11T04:26:54.363484+00:00",
-   "title_ko": "트웰브랩스, 아마존 베드록에 영상 검색 모델 마렝고 등재",
-   "summary_ko": "트웰브랩스의 영상 이해 AI 모델 마렝고가 아마존 베드록 관리형 지식 베이스에 등재됐다. 기업들이 별도 DB 구축 없이 즉시 영상을 AI 검색에 활용할 수 있게 됐다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "05f42cc018215284",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215125",
-   "source": "AI타임스",
-   "title": "'카카오툴즈’에 다이소몰·신한카드 등 추가 연동...\"에이전트 생태계 확대\"",
-   "published_at": "2026-09-11T11:33:48+00:00",
-   "collected_at": "2026-09-11T04:26:54.363484+00:00",
-   "title_ko": "카카오, '카카오툴즈'에 다이소몰·신한카드 등 추가 연동",
-   "summary_ko": "카카오가 챗GPT 기반 카카오툴즈에 주요 파트너사 서비스를 대거 연동했다. 일상 속 다양한 서비스와 연결되는 에이전틱 AI 생태계를 확장하고 있다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트",
-    "GPT"
-   ]
-  },
-  {
-   "id": "fbf86b0a03295188",
-   "url": "https://news.hada.io/topic?id=33531",
-   "source": "GeekNews",
-   "title": "실리콘밸리는 군산복합체를 바꾸고 있는가? (2024)",
-   "published_at": "2026-09-11T11:33:30+00:00",
-   "collected_at": "2026-09-11T14:19:01.278459+00:00",
-   "title_ko": "실리콘밸리의 미 국방 산업 진출 확대",
-   "summary_ko": "미국 국방 예산에서 빅테크와 AI 기반 시스템 도입 비중이 급증하며 군산복합체가 재편되고 있음.",
-   "category": "참고",
-   "tags": [
-    "투자"
-   ]
-  },
-  {
-   "id": "99dbf1f8554241e9",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wddg8g/gpt_live_clone_on_an_rtx_3060/",
-   "source": "r/LocalLLaMA",
-   "title": "GPT Live clone on an RTX 3060",
-   "published_at": "2026-09-11T11:22:17+00:00",
-   "collected_at": "2026-09-11T14:18:46.623136+00:00",
-   "title_ko": "RTX 3060에서 구동하는 로컬 GPT Live 클론",
-   "summary_ko": "12GB VRAM 환경에서 Qwen 모델과 오픈소스 음성 인식·합성 도구를 조합해 실시간 음성 대화형 로컬 AI 어시스턴트를 구현함.",
-   "category": "팁",
-   "tags": [
-    "Qwen",
-    "오픈소스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "d563178c455d5681",
-   "url": "https://news.hada.io/topic?id=33530",
-   "source": "GeekNews",
-   "title": "Show GN: korean-llm-v4 출시",
-   "published_at": "2026-09-11T11:22:00+00:00",
-   "collected_at": "2026-09-11T14:19:01.278459+00:00",
-   "title_ko": "한국어 특화 LLM 'korean-llm-v4' 출시",
-   "summary_ko": "명령어 데이터셋 중심 학습에서 벗어나 한국어 문장력과 다양한 표현력을 대폭 개선한 korean-llm-v4가 공개됨.",
-   "category": "속보",
-   "tags": [
-    "오픈소스"
    ]
   }
  ]
