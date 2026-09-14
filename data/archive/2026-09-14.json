@@ -122,6 +122,22 @@
   ]
  },
  {
+  "id": "078c69822839e7cd",
+  "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+  "source": "Hacker News",
+  "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+  "published_at": "2026-09-14T13:59:09+00:00",
+  "collected_at": "2026-09-14T22:25:37.096241+00:00",
+  "title_ko": "클라우드 LLM에서 자체 호스팅 오마라(Ollama)로 대형 프롬프트 이전 시 주의사항",
+  "summary_ko": "클라우드 API에서 자체 호스팅 오픈소스 LLM으로 거대 프롬프트를 마이그레이션할 때 겪는 시행착오와 해결책을 공유합니다. 비용 절감과 데이터 프라이버시를 위해 자체 호스팅을 고려하는 개발자에게 유용합니다.",
+  "category": "팁",
+  "tags": [
+   "Anthropic",
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
   "id": "b27a5f35810c80f2",
   "url": "https://www.ilinmaks.com/blog/en/ai-jobs-market-2026",
   "source": "Hacker News",
@@ -148,6 +164,21 @@
   "tags": [
    "Google",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "0f81e5211098de74",
+  "url": "https://gally.net/temp/20260914pelican-alternatives/index.html",
+  "source": "Hacker News",
+  "title": "Show HN: Pelican-bicycle alternatives",
+  "published_at": "2026-09-14T13:20:22+00:00",
+  "collected_at": "2026-09-14T22:25:37.096241+00:00",
+  "title_ko": "최신 LLM들의 SVG 생성 능력 비교 벤치마크 실험",
+  "summary_ko": "다양한 최신 LLM을 이용해 복잡한 프롬프트로 SVG 이미지를 생성하고 모델별 성능을 비교한 실험 결과입니다. 모델 성능 발전 양상을 시각적으로 확인할 수 있어 중요합니다.",
+  "category": "참고",
+  "tags": [
+   "OpenRouter",
+   "오픈소스"
   ]
  },
  {
