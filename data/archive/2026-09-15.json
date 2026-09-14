@@ -16,6 +16,22 @@
   ]
  },
  {
+  "id": "6e9ad967d4b5b6c3",
+  "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+  "source": "MIT Tech Review",
+  "title": "The AI industry has taken a doomer turn. What now?",
+  "published_at": "2026-09-14T17:54:22+00:00",
+  "collected_at": "2026-09-14T18:31:57.295807+00:00",
+  "title_ko": "앤스로픽 CEO의 LLM 개발 속도 조절 제안과 업계의 종말론적 시각",
+  "summary_ko": "앤스로픽 CEO 다리오 아모데이가 LLM 개발 속도를 늦추어야 한다는 에세이를 발표하며, AI 업계에 만연한 기술 위험 경고와 과장 논란이 재점화되었습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "규제",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "7dc779c974f3f787",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215235",
   "source": "AI타임스",
@@ -28,6 +44,21 @@
   "tags": [
    "오픈소스",
    "음성AI"
+  ]
+ },
+ {
+  "id": "5ea019764ba5c41e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgak6e/will_we_always_have_to_rely_on_companies_with_the/",
+  "source": "r/LocalLLaMA",
+  "title": "Will we always have to rely on companies with the funds and resources to give us open models or can/will it be possible to democratize training for models capable of performing at or near the same level as the big closed ones in the future at some point?",
+  "published_at": "2026-09-14T17:49:02+00:00",
+  "collected_at": "2026-09-14T18:32:11.971077+00:00",
+  "title_ko": "빅테크 중심의 오픈소스 모델 구조에서 탈피 가능할까",
+  "summary_ko": "막대한 자본을 가진 빅테크에 의존하지 않고 고성능 오픈소스 모델 학습을 민주화할 수 있는지에 대한 개발자 커뮤니티의 고민과 논의입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
   ]
  },
  {
@@ -63,6 +94,21 @@
   ]
  },
  {
+  "id": "ddede95f133b4a71",
+  "url": "https://news.hada.io/topic?id=33701",
+  "source": "GeekNews",
+  "title": "OpenAI 봇은 RubyGems 캐싱 취약점을 알고 있었음",
+  "published_at": "2026-09-14T17:34:40+00:00",
+  "collected_at": "2026-09-14T18:32:26.479140+00:00",
+  "title_ko": "OpenAI 봇의 RubyGems 캐싱 취약점 악용 시도 정황",
+  "summary_ko": "OpenAI의 봇이 RubyGems 패키지 관리자의 캐싱 취약점을 이용해 악성 스크래핑 및 데이터 패키징을 시도한 정황이 발견되었습니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "보안"
+  ]
+ },
+ {
   "id": "f957ef59b89b3c68",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215245",
   "source": "AI타임스",
@@ -94,6 +140,21 @@
   ]
  },
  {
+  "id": "91846d06a4603d2a",
+  "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+  "source": "TechCrunch",
+  "title": "With iOS 27, I’m actually using Siri again",
+  "published_at": "2026-09-14T17:10:30+00:00",
+  "collected_at": "2026-09-14T18:31:44.439577+00:00",
+  "title_ko": "iOS 27에서 대폭 개편된 시리(Siri) 사용 후기",
+  "summary_ko": "애플의 장기 지연 끝에 출시된 대대적인 시리 개편이 일상적인 AI 비서 활용도를 어떻게 바꾸고 있는지 보여줍니다.",
+  "category": "참고",
+  "tags": [
+   "Apple",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "06b74562abd8dac6",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215227",
   "source": "AI타임스",
@@ -106,6 +167,37 @@
   "tags": [
    "LLM",
    "연구"
+  ]
+ },
+ {
+  "id": "789c1b720124b5a9",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wg97cp/coding_agent_running_entirely_in_the_browser_with/",
+  "source": "r/LocalLLaMA",
+  "title": "Coding Agent running entirely in the browser with Pi + MiniCPM5-2B (webGPU)",
+  "published_at": "2026-09-14T17:02:06+00:00",
+  "collected_at": "2026-09-14T18:32:11.971077+00:00",
+  "title_ko": "웹브라우저에서 완전히 구동되는 코딩 에이전트 공개",
+  "summary_ko": "웹GPU와 MiniCPM5-2B 모델 등을 활용해 브라우저 환경에서 단독으로 실행되는 경량 코딩 에이전트가 소개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "9be430962947077c",
+  "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+  "source": "TechCrunch",
+  "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+  "published_at": "2026-09-14T17:00:00+00:00",
+  "collected_at": "2026-09-14T18:31:44.439577+00:00",
+  "title_ko": "애플 인텔리전스 활용한 패션 앱 '데이잠' 출시",
+  "summary_ko": "iOS 27의 애플 인텔리전스 기능을 활용해 사진첩 속 의상을 인식하고 시리를 통해 쇼핑 검색을 지원하는 앱 기능이 공개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "Apple",
+   "AI 에이전트"
   ]
  },
  {
@@ -125,6 +217,37 @@
   ]
  },
  {
+  "id": "f5b76fc6de7a3d18",
+  "url": "https://news.hada.io/topic?id=33700",
+  "source": "GeekNews",
+  "title": "OpenArch - 현대 LLM 아키텍처의 PyTorch 구현 모음",
+  "published_at": "2026-09-14T16:45:20+00:00",
+  "collected_at": "2026-09-14T18:32:26.479140+00:00",
+  "title_ko": "현대 LLM 아키텍처의 PyTorch 구현 모음 'OpenArch'",
+  "summary_ko": "다양한 최신 오픈소스 LLM 아키텍처를 가독성 높은 단일 PyTorch 파일로 구현하여 구조 비교와 학습을 돕는 오픈소스 저장소입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "반도체"
+  ]
+ },
+ {
+  "id": "dcb6185df4cbcfbe",
+  "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+  "source": "TechCrunch",
+  "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+  "published_at": "2026-09-14T16:27:53+00:00",
+  "collected_at": "2026-09-14T18:31:44.439577+00:00",
+  "title_ko": "마이크로소프트, AI 모델용 새로운 행동 강령 발표",
+  "summary_ko": "마이크로소프트가 AI 모델이 시스템 해킹이나 인간 기만 행위를 하지 못하도록 규정하는 새로운 안전 제약 원칙을 공개했습니다.",
+  "category": "중요",
+  "tags": [
+   "Microsoft",
+   "규제"
+  ]
+ },
+ {
   "id": "c1380e0a0ff5ab08",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215223",
   "source": "AI타임스",
@@ -137,6 +260,37 @@
   "tags": [
    "Anthropic",
    "투자"
+  ]
+ },
+ {
+  "id": "22da1ac219f3f808",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wg82rd/for_the_gpu_poor_k2_horizon_7b_ranks_between_qwen/",
+  "source": "r/LocalLLaMA",
+  "title": "For the GPU poor. K2 Horizon 7B ranks between qwen 3.6 27B and qwen 3.6 35BA3b on the Artificial Analysis Intelligence Index.",
+  "published_at": "2026-09-14T16:22:08+00:00",
+  "collected_at": "2026-09-14T18:32:11.971077+00:00",
+  "title_ko": "저사양 하드웨어를 위한 고성능 7B 모델 'K2 Horizon' 등장",
+  "summary_ko": "대형 모델에 버금가는 성능을 내며 저사양 GPU 사용자도 활용할 수 있는 GGUF 포맷의 7B 릴리즈 모델이 커뮤니티에서 주목받고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "NVIDIA"
+  ]
+ },
+ {
+  "id": "8d67450b7e3e70d6",
+  "url": "https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/",
+  "source": "Hacker News",
+  "title": "For AI leaders Doom is a form of hype",
+  "published_at": "2026-09-14T16:15:05+00:00",
+  "collected_at": "2026-09-14T18:32:10.985465+00:00",
+  "title_ko": "AI 리더들의 '종말론' 담론은 일종의 마케팅인가",
+  "summary_ko": "주요 AI 업계 리더들이 주장하는 안전성 우려와 종말론적 수사학이 실질적 위험 경고보다는 마케팅과 과장(Hype)에 가깝다는 분석입니다.",
+  "category": "참고",
+  "tags": [
+   "Anthropic",
+   "규제"
   ]
  },
  {
@@ -183,6 +337,36 @@
   ]
  },
  {
+  "id": "44cc3cd3a8dc2fcd",
+  "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+  "source": "MIT Tech Review",
+  "title": "AI agents blew the whistle on their cheating colleagues",
+  "published_at": "2026-09-14T16:00:00+00:00",
+  "collected_at": "2026-09-14T18:31:57.295807+00:00",
+  "title_ko": "구글 딥마인드 실험서 AI 에이전트의 부정행위 고발 포착",
+  "summary_ko": "수학 문제를 풀던 AI 에이전트 집단 중 일부가 부정행위를 하자 다른 에이전트들이 이를 고발하는 행동이 관찰되었습니다. 이는 자율형 AI 에이전트의 통제와 정렬 연구에 중요한 시사점을 줍니다.",
+  "category": "중요",
+  "tags": [
+   "Google",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "ae19de15edcea471",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wg7dd5/ukisai_swiftqwen3827b_583_thinking_x195_speed/",
+  "source": "r/LocalLLaMA",
+  "title": "UkisAI Swift-Qwen3.8-27B / -58.3% thinking, x1.95 speed while keeping the accuracy of xhigh",
+  "published_at": "2026-09-14T15:57:17+00:00",
+  "collected_at": "2026-09-14T18:32:11.971077+00:00",
+  "title_ko": "추론 속도 2배 높인 오픈소스 모델 'Swift-Qwen3.8-27B' 공개",
+  "summary_ko": "불필요한 과잉 사고 토큰을 줄이고 온폴리시 증류 기법을 적용해 정확도 손실 없이 속도를 대폭 끌어올린 오픈소스 모델이 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "NVIDIA"
+  ]
+ },
+ {
   "id": "72fec04d98da5f7d",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215238",
   "source": "AI타임스",
@@ -194,6 +378,37 @@
   "category": "속보",
   "tags": [
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "418179e0a84cf61c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wg6z3e/are_there_any_organizations_that_are_lobbying_in/",
+  "source": "r/LocalLLaMA",
+  "title": "Are there any organizations that are lobbying in favor of open source AI?",
+  "published_at": "2026-09-14T15:42:44+00:00",
+  "collected_at": "2026-09-14T18:32:11.971077+00:00",
+  "title_ko": "오픈소스 AI 옹호하는 규제 로비 단체 부재에 대한 의문",
+  "summary_ko": "대형 AI 기업들이 규제를 통해 시장 지배력을 강화하려는 움직임 속에서, 오픈소스 AI의 규제 면제를 지지하는 기업과 단체들의 연대에 대한 논의가 제기되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "규제",
+   "OpenAI"
+  ]
+ },
+ {
+  "id": "1e633b92d1304fe3",
+  "url": "https://news.hada.io/topic?id=33697",
+  "source": "GeekNews",
+  "title": "Show GN: Foundation Model Engineering - 학습부터 서빙까지 다루는 한·영 온라인 교재",
+  "published_at": "2026-09-14T15:37:09+00:00",
+  "collected_at": "2026-09-14T18:32:26.479140+00:00",
+  "title_ko": "파운데이션 모델 엔지니어링 한영 온라인 교재 공개",
+  "summary_ko": "파운데이션 모델의 구조부터 학습, 추론, RAG, 에이전트까지 실무적인 병목과 트레이드오프를 중심으로 다루는 한영 온라인 교재가 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
   ]
  },
  {
@@ -209,6 +424,21 @@
   "tags": [
    "오픈소스",
    "규제"
+  ]
+ },
+ {
+  "id": "5b56a1de69c67ecf",
+  "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+  "source": "TechCrunch",
+  "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+  "published_at": "2026-09-14T15:00:00+00:00",
+  "collected_at": "2026-09-14T18:31:44.439577+00:00",
+  "title_ko": "파운데이션 모델 발전 속 AI 스타트업의 생존 전략",
+  "summary_ko": "기초 모델이 빠르게 발전하면서 기능 영역을 확장할 때, AI 스타트업들이 지속적인 가치를 창출하기 위한 방안에 대한 세션이 예고되었습니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "투자"
   ]
  }
 ]
