@@ -1,5 +1,21 @@
 [
  {
+  "id": "3dab7f1784c134f3",
+  "url": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
+  "source": "Simon Willison",
+  "title": "commit-rewriter 0.1",
+  "published_at": "2026-09-14T00:28:10+00:00",
+  "collected_at": "2026-09-14T00:57:13.714282+00:00",
+  "title_ko": "코딩 에이전트 커밋 메시지 정리 도구 commit-rewriter 0.1",
+  "summary_ko": "코딩 에이전트가 생성한 불필요한 참조와 크러스트를 제거하고 Git 커밋 메시지를 깔끔하게 편집할 수 있는 웹 앱입니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
   "id": "12e9dd6851803557",
   "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
   "source": "OpenAI",
@@ -13,6 +29,92 @@
    "OpenAI",
    "Perplexity",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "d138593dbb42040c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfm3v4/trump_downplays_the_need_to_check_ai_development/",
+  "source": "r/LocalLLaMA",
+  "title": "Trump downplays the need to check AI development and says he doesn't want to cede edge to China -- \"I think you have a lot of negative forces that are...bringing up things that won’t happen...whoever wins with AI wins\"",
+  "published_at": "2026-09-13T22:43:56+00:00",
+  "collected_at": "2026-09-14T00:57:14.178520+00:00",
+  "title_ko": "트럼프, AI 규제 완화 및 대중국 경쟁 우위 강조",
+  "summary_ko": "도널드 트럼프가 불필요한 AI 규제 도입을 비판하며 중국과의 기술 패권 경쟁에서 우위를 지켜야 한다고 주장했습니다.",
+  "category": "중요",
+  "tags": [
+   "규제",
+   "투자"
+  ]
+ },
+ {
+  "id": "b4944df4d1f998b8",
+  "url": "https://news.hada.io/topic?id=33658",
+  "source": "GeekNews",
+  "title": "Claude Fable 5.1, 370년 된 암호문 Cyphral Distich 해독",
+  "published_at": "2026-09-13T22:39:36+00:00",
+  "collected_at": "2026-09-14T00:57:28.625054+00:00",
+  "title_ko": "Claude, 370년 된 미해결 암호문 해독 성공",
+  "summary_ko": "앤스로픽의 Claude가 추가 개입 없이 370년 전 암호문인 Cyphral Distich를 스스로 해독해 주목받고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "Claude",
+   "Anthropic"
+  ]
+ },
+ {
+  "id": "9b169c1c077f7572",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wflenb/discovered_pivcc_why_piblackhole/",
+  "source": "r/LocalLLaMA",
+  "title": "Discovered pi-vcc, why pi-blackhole?",
+  "published_at": "2026-09-13T22:14:23+00:00",
+  "collected_at": "2026-09-14T00:57:14.178520+00:00",
+  "title_ko": "LLM 기반 메모리 관리 도구 비교 및 활용",
+  "summary_ko": "모델 없이 동작하는 비정형 메모리 도구 pi-vcc와 LLM을 활용하는 pi-blackhole의 특징을 비교하는 논의입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "aa350fe6116045d4",
+  "url": "https://news.hada.io/topic?id=33657",
+  "source": "GeekNews",
+  "title": "에이전트형 AI를 위한 데이터 준비하기",
+  "published_at": "2026-09-13T22:02:45+00:00",
+  "collected_at": "2026-09-14T00:57:28.625054+00:00",
+  "title_ko": "에이전트형 AI 도입을 위한 데이터 준비 가이드",
+  "summary_ko": "AI 에이전트가 오류 없이 자율적으로 업무를 수행할 수 있도록 명확한 데이터 품질 기준과 데이터 계약의 필요성을 강조합니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "22f06b5d75ba1a6c",
+  "url": "https://news.hada.io/topic?id=33652",
+  "source": "GeekNews",
+  "title": "크게 성공하거나 망하거나: 벤처 시장에서 사라지는 중간 지대",
+  "published_at": "2026-09-13T21:36:38+00:00",
+  "collected_at": "2026-09-14T00:57:28.625054+00:00",
+  "title_ko": "AI 분야로 편중되는 벤처 투자 시장의 양극화",
+  "summary_ko": "조 단위 투자가 가능한 AI 분야에 자본이 집중되면서 전통적인 SaaS와 커머스 등 중간 지대 스타트업이 소외되는 현상입니다.",
+  "category": "참고",
+  "tags": [
+   "투자"
+  ]
+ },
+ {
+  "id": "99444c621785e2be",
+  "url": "https://news.hada.io/topic?id=33651",
+  "source": "GeekNews",
+  "title": "바이브 코딩으로 만든 대시보드가 형편없어 보이는 10가지 이유",
+  "published_at": "2026-09-13T21:36:17+00:00",
+  "collected_at": "2026-09-14T00:57:28.625054+00:00",
+  "title_ko": "AI 코딩으로 만든 대시보드의 완성도가 떨어지는 이유",
+  "summary_ko": "AI가 생성한 대시보드가 정보 나열에 그치고 사용자의 탐색 흐름을 고려하지 못해 발생하는 UI/UX 한계점을 분석합니다.",
+  "category": "참고",
+  "tags": [
+   "코딩"
   ]
  },
  {
@@ -45,6 +147,22 @@
    "Claude",
    "Anthropic",
    "AI"
+  ]
+ },
+ {
+  "id": "9fc13bdf224a7b56",
+  "url": "https://news.hada.io/topic?id=33649",
+  "source": "GeekNews",
+  "title": "Windows에서 AMD GPU로 CUDA 실행하기",
+  "published_at": "2026-09-13T20:55:19+00:00",
+  "collected_at": "2026-09-14T00:57:28.625054+00:00",
+  "title_ko": "윈도우 환경에서 AMD GPU로 CUDA 실행하기",
+  "summary_ko": "ZLUDA와 AMD ROCm을 활용해 윈도우에서 NVIDIA CUDA 프로그램을 AMD GPU로 구동하는 방법을 다룬 프로젝트다. 엔비디아 독점 생태계의 대안을 찾는 개발자들에게 유용하다.",
+  "category": "팁",
+  "tags": [
+   "NVIDIA",
+   "반도체",
+   "오픈소스"
   ]
  },
  {
@@ -126,6 +244,20 @@
   ]
  },
  {
+  "id": "7c40884cd632f783",
+  "url": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
+  "source": "Hacker News",
+  "title": "There Is No AI (It's Just People) with Jaron Lanier",
+  "published_at": "2026-09-13T19:41:06+00:00",
+  "collected_at": "2026-09-14T00:57:13.599806+00:00",
+  "title_ko": "재런 란이어가 말하는 인공지능의 본질",
+  "summary_ko": "가상현실의 선구자 재런 란이어가 AI의 실체는 결국 인간의 데이터와 노동의 집합체임을 지적하며, 기술에 대한 맹신을 경고한다.",
+  "category": "참고",
+  "tags": [
+   "AI"
+  ]
+ },
+ {
   "id": "7da785bec3736256",
   "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
   "source": "TechCrunch",
@@ -139,6 +271,20 @@
    "OpenAI",
    "Anthropic",
    "규제"
+  ]
+ },
+ {
+  "id": "13da556327ea6f79",
+  "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+  "source": "Hacker News",
+  "title": "AI recursive self-improvement might not come so quickly after all",
+  "published_at": "2026-09-13T18:49:44+00:00",
+  "collected_at": "2026-09-14T00:57:13.599806+00:00",
+  "title_ko": "AI의 재귀적 자기 개선은 예상보다 더디게 올 수 있다",
+  "summary_ko": "인공지능이 스스로를 발전시키는 재귀적 자기 개선(Recursive Self-Improvement)의 도래가 기술적·현실적 한계로 인해 예상보다 훨씬 늦어질 수 있다는 분석이다.",
+  "category": "참고",
+  "tags": [
+   "AI"
   ]
  },
  {
