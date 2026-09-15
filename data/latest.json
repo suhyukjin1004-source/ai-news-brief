@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-14T22:26:44.476083+00:00",
+ "updated_at": "2026-09-15T01:22:47.026011+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -34,6 +34,163 @@
    ]
   },
   {
+   "id": "9743da0f8ff1fae7",
+   "url": "https://news.hada.io/topic?id=33720",
+   "source": "GeekNews",
+   "title": "중요한 것을 측정하기: 인과 추론으로 AI 인프라를 정량화 가능한 사업 투자로 바꾼 방법",
+   "published_at": "2026-09-15T00:42:48+00:00",
+   "collected_at": "2026-09-15T01:22:36.722759+00:00",
+   "title_ko": "메타, 인과 추론으로 AI 인프라 투자 효과 측정",
+   "summary_ko": "메타가 관찰 데이터 기반 인과 추론을 활용해 AI 인프라와 모델 개선이 창출한 실제 매출을 정량화하는 방법을 도입함. 공유 인프라의 가치를 객관적으로 평가해 사업 투자의 효율성을 높이기 위함임.",
+   "category": "참고",
+   "tags": [
+    "Meta",
+    "AI 인프라",
+    "머신러닝"
+   ]
+  },
+  {
+   "id": "153ed6dd446a4620",
+   "url": "https://news.hada.io/topic?id=33719",
+   "source": "GeekNews",
+   "title": "Pinterest 임베딩 검색 플랫폼의 진화",
+   "published_at": "2026-09-15T00:40:07+00:00",
+   "collected_at": "2026-09-15T01:22:36.722759+00:00",
+   "title_ko": "핀터레스트, 대규모 임베딩 검색 플랫폼 고도화",
+   "summary_ko": "핀터레스트가 수백억 개의 임베딩을 처리하기 위해 자체 검색 플랫폼을 양자화하고 비용을 30어가량 절감함. 대규모 AI 추천 및 검색 시스템의 효율성을 높인 사례임.",
+   "category": "참고",
+   "tags": [
+    "임베딩",
+    "검색",
+    "인프라"
+   ]
+  },
+  {
+   "id": "3dfbb4a226765eb9",
+   "url": "https://news.hada.io/topic?id=33715",
+   "source": "GeekNews",
+   "title": "수학의 종말",
+   "published_at": "2026-09-15T00:07:09+00:00",
+   "collected_at": "2026-09-15T01:22:36.722759+00:00",
+   "title_ko": "AI 시대 수학 연구의 미래와 정체 위험",
+   "summary_ko": "AI가 인간의 수학 능력을 뛰어넘더라도 기존 학술 제도가 유지될 경우 수학 발전에 정체가 올 수 있다는 우려를 다룸. AI 발전이 학문 생태계에 미치는 영향에 대한 시나리오임.",
+   "category": "참고",
+   "tags": [
+    "수학",
+    "AI 연구"
+   ]
+  },
+  {
+   "id": "25f805cf2a1da1a0",
+   "url": "https://news.hada.io/topic?id=33712",
+   "source": "GeekNews",
+   "title": "미 항소법원, Perplexity AI의 Amazon 이용을 막은 금지명령 취소",
+   "published_at": "2026-09-14T23:37:17+00:00",
+   "collected_at": "2026-09-15T01:22:36.722759+00:00",
+   "title_ko": "법원, 퍼플렉시티의 아마존 접근 금지명령 취소",
+   "summary_ko": "미 항소법원이 AI 도구를 통한 아마존 접근을 차단했던 예비적 금지명령을 취소함. AI 서비스의 외부 플랫폼 접근 권한과 관련된 법적 공방에서 중요한 선례가 됨.",
+   "category": "중요",
+   "tags": [
+    "Perplexity",
+    "규제",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "99565b57563bb0a3",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgjg9a/i_think_muse_glimmer_is_slept_on/",
+   "source": "r/LocalLLaMA",
+   "title": "I think Muse Glimmer is slept on",
+   "published_at": "2026-09-14T23:18:20+00:00",
+   "collected_at": "2026-09-15T01:22:21.923819+00:00",
+   "title_ko": "자연스러운 대화 성능으로 주목받는 Muse Glimmer",
+   "summary_ko": "상대적으로 덜 주목받았지만 깊이 있고 기계적인 반복이 적은 대화 성능을 보여주는 AI 모델 Muse Glimmer에 대한 평가임. 다양한 오픈소스 모델의 활용 가능성을 보여줌.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "챗봇"
+   ]
+  },
+  {
+   "id": "e4857106b8095827",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgj0xb/all_this_doomer_discussion_about_offensive_ai/",
+   "source": "r/LocalLLaMA",
+   "title": "All this doomer discussion about \"offensive\" AI",
+   "published_at": "2026-09-14T23:00:35+00:00",
+   "collected_at": "2026-09-15T01:22:21.923819+00:00",
+   "title_ko": "사이버 보안을 위한 '방어적 AI'의 필요성",
+   "summary_ko": "AI 해커의 위협에 대응하기 위해 방화벽과 로그를 실시간 모니터링하는 '방어적 AI' 시스템 구축의 중요성을 제기함. 보안 분야에서의 AI 활용 방안을 다룸.",
+   "category": "참고",
+   "tags": [
+    "보안",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "a7e5903a82b8a46b",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+   "source": "The Verge",
+   "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+   "published_at": "2026-09-14T22:59:41+00:00",
+   "collected_at": "2026-09-15T01:22:04.269227+00:00",
+   "title_ko": "빅테크의 AI 개발 속도 조절, 안전 협약인가 카르텔인가",
+   "summary_ko": "주요 빅테크 수장들이 AI 개발 속도 조절에 합의한 것을 두고 안전을 위한 자발적 조치인지, 선두 기업의 지위를 유지하기 위한 담합인지 비판적 시각을 조명함.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "Anthropic",
+    "Google"
+   ]
+  },
+  {
+   "id": "66e677b07509369e",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgii3h/deepseek_engineer_relections_on_rsi_burying_my/",
+   "source": "r/LocalLLaMA",
+   "title": "DeepSeek engineer relections on RSI - burying my talent to yesterday",
+   "published_at": "2026-09-14T22:38:42+00:00",
+   "collected_at": "2026-09-15T01:22:21.923819+00:00",
+   "title_ko": "딥시크 엔지니어가 전하는 AI 발전 속도에 대한 소회",
+   "summary_ko": "딥시크 엔지니어가 최신 모델 출시와 함께 급격한 AI 발전 속도와 에이전트 시대의 도래에 대한 소회를 밝힘. AI 기술 진화의 가속도를 실감케 하는 내용임.",
+   "category": "참고",
+   "tags": [
+    "DeepSeek",
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "73ecad95aa1f7f08",
+   "url": "https://news.hada.io/topic?id=33710",
+   "source": "GeekNews",
+   "title": "Dario, 제발!",
+   "published_at": "2026-09-14T22:36:11+00:00",
+   "collected_at": "2026-09-15T01:22:36.722759+00:00",
+   "title_ko": "앤트로픽 다리오 아모데이의 속도 조절 제안에 대한 비판",
+   "summary_ko": "앤트로픽 CEO의 AI 개발 속도 조절 제안이 자칫 안전을 명분으로 선두 기업의 독점력을 보호하고 오픈 웨이트 규제로 이어질 수 있다는 우려를 제기함.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "규제",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "73e75da1f3aeed9d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgiefk/running_qwen38flashnext_locally_on_a_12gb_vram/",
+   "source": "r/LocalLLaMA",
+   "title": "Running Qwen3.8-Flash-Next locally on a 12GB VRAM card",
+   "published_at": "2026-09-14T22:34:29+00:00",
+   "collected_at": "2026-09-15T01:22:21.923819+00:00",
+   "title_ko": "12GB VRAM 환경에서 Qwen3.8-Flash-Next 구동기",
+   "summary_ko": "12GB VRAM과 일반적인 하드웨어 환경에서 대형 MoE 모델인 Qwen3.8-Flash-Next를 최적화하여 초당 20토큰의 속도로 구동한 사례입니다. 로컬 LLM 활용 능력을 극대화하는 방법을 보여줍니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩",
+    "LocalLLaMA"
+   ]
+  },
+  {
    "id": "e957c507988f322a",
    "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
    "source": "TechCrunch",
@@ -46,6 +203,21 @@
    "tags": [
     "NVIDIA",
     "규제"
+   ]
+  },
+  {
+   "id": "2499d819e0525843",
+   "url": "https://news.hada.io/topic?id=33709",
+   "source": "GeekNews",
+   "title": "수학의 시작",
+   "published_at": "2026-09-14T21:48:34+00:00",
+   "collected_at": "2026-09-15T01:22:36.722759+00:00",
+   "title_ko": "AI 시대의 수학 연구와 평가 체계의 변화",
+   "summary_ko": "AI를 활용한 수학 논문 작성과 증명이 가능해지면서 기존의 학술 평가 체계와 연구 역량을 정의하는 방식에 대한 새로운 화두를 던집니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "연구"
    ]
   },
   {
@@ -180,6 +352,21 @@
    "tags": [
     "NVIDIA",
     "로보틱스"
+   ]
+  },
+  {
+   "id": "82404ffdc91b1cd3",
+   "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+   "source": "Hacker News",
+   "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+   "published_at": "2026-09-14T19:56:20+00:00",
+   "collected_at": "2026-09-15T01:22:19.582965+00:00",
+   "title_ko": "코드 리뷰에서의 최신 LLM 성능 비교",
+   "summary_ko": "코드 리뷰 작업에서 저렴한 비용의 AI 모델들이 충분한 성능을 발휘하는지 분석한 글입니다. 개발 실무에서 LLM 도입 비용 대비 효용을 판단하는 데 도움을 줍니다.",
+   "category": "참고",
+   "tags": [
+    "GPT",
+    "코딩"
    ]
   },
   {
@@ -528,6 +715,36 @@
     "오픈소스",
     "LLM",
     "반도체"
+   ]
+  },
+  {
+   "id": "b93a7fb305d98f24",
+   "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+   "source": "Hacker News",
+   "title": "Why don't machine learning research agents overfit?",
+   "published_at": "2026-09-14T16:32:23+00:00",
+   "collected_at": "2026-09-15T01:22:19.582965+00:00",
+   "title_ko": "머신러닝 연구 에이전트가 과적합되지 않는 이유",
+   "summary_ko": "아마존 과학 블로그에서 머신러닝 연구용 AI 에이전트가 학습 과정에서 과적합(Overfitting)에 빠지지 않는 이유를 분석했습니다. 에이전트 기반 연구의 신뢰성을 높이는 데 기여합니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "머신러닝"
+   ]
+  },
+  {
+   "id": "5ceea1446835d564",
+   "url": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
+   "source": "Hacker News",
+   "title": "When LLM judges agree, should we believe them?",
+   "published_at": "2026-09-14T16:29:30+00:00",
+   "collected_at": "2026-09-15T01:22:21.102306+00:00",
+   "title_ko": "LLM 평가 모델들의 의견이 일치할 때 신뢰할 수 있는가?",
+   "summary_ko": "여러 LLM 기반 평가자(Judge)들의 의견이 일치할 때 그 결과를 온전히 믿어도 되는지에 대한 분석을 다룹니다. AI 모델 평가 방법론의 한계와 신뢰성을 검토합니다.",
+   "category": "참고",
+   "tags": [
+    "LLM",
+    "머신러닝"
    ]
   },
   {
@@ -2807,214 +3024,6 @@
    "category": "속보",
    "tags": [
     "OpenAI",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "a865e994fffa1720",
-   "url": "https://lucumr.pocoo.org/2026/9/12/pdoom/",
-   "source": "Hacker News",
-   "title": "P(doom)",
-   "published_at": "2026-09-12T21:35:38+00:00",
-   "collected_at": "2026-09-13T11:40:12.976466+00:00",
-   "title_ko": "AI 실존적 위험(P(doom))에 관한 개발자 단상",
-   "summary_ko": "급속도로 발전하는 인공지능이 인류에게 미칠 실존적 위험 가능성과 업계의 시각을 개발자 관점에서 고찰합니다.",
-   "category": "참고",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "54fba72bd794ff0a",
-   "url": "https://www.reddit.com/r/singularity/comments/1weoufm/agi_has_essentially_arrived_just_not_publicly/",
-   "source": "r/singularity",
-   "title": "“AGI Has Essentially Arrived, Just Not Publicly”: Reports Of “Existential Crises” at OpenAI and Anthropic",
-   "published_at": "2026-09-12T21:29:26+00:00",
-   "collected_at": "2026-09-13T00:51:00.763799+00:00",
-   "title_ko": "OpenAI·Anthropic 내부의 AGI 도달 임박 위기감",
-   "summary_ko": "주요 AI 연구소 내부에서 AGI가 사실상 도달했으며 대중 공개를 앞두고 심각한 실존적 위기감이 고조되고 있다는 증언이 나왔습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "Anthropic",
-    "AGI"
-   ]
-  },
-  {
-   "id": "f8bdb71d333c8cf2",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1weolwq/what_pidev_plugin_do_you_suggest_for_context/",
-   "source": "r/LocalLLaMA",
-   "title": "What pi.dev plugin do you suggest for context, compaction and memory management of local models?",
-   "published_at": "2026-09-12T21:19:58+00:00",
-   "collected_at": "2026-09-13T00:50:59.994907+00:00",
-   "title_ko": "로컬 LLM 구동을 위한 컨텍스트 및 메모리 관리 팁",
-   "summary_ko": "RTX 5080 환경에서 Qwen 모델을 로컬로 구동하며 llama.cpp를 활용한 최적화와 메모리 관리 방법을 논의합니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "8aaadb08e36c69c4",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-   "source": "The Verge",
-   "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-   "published_at": "2026-09-12T21:16:28+00:00",
-   "collected_at": "2026-09-13T00:50:41.031106+00:00",
-   "title_ko": "샘 알트만 \"2026년 OpenAI 상장은 부적절\"",
-   "summary_ko": "샘 알트만 CEO가 인터뷰를 통해 안전성 우려와 통제 불가능한 AI 위험 등을 이유로 2026년 기업공개(IPO)는 바람직하지 않다고 밝혔습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "규제"
-   ]
-  },
-  {
-   "id": "972c2172404b7130",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1weobt6/qwen38_flash_next_now_at_12k_ts_prefill_on_strix/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.8 Flash Next now at 1.2k t/s prefill on Strix Halo",
-   "published_at": "2026-09-12T21:08:52+00:00",
-   "collected_at": "2026-09-12T22:11:02.703997+00:00",
-   "title_ko": "Strix Halo에서 Qwen 모델 추론 속도 개선",
-   "summary_ko": "개발자가 오픈소스 llama.cpp를 최적화하여 Strix Halo 환경에서 Qwen 모델의 프리필 속도를 대폭 끌어올렸습니다. 로컬 LLM의 성능 최적화와 실사용 속도 개선에 기여합니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "하드웨어"
-   ]
-  },
-  {
-   "id": "718045c36de364e2",
-   "url": "https://www.reddit.com/r/singularity/comments/1wenztq/arcagi4_will_target_autonomous_invention_the/",
-   "source": "r/singularity",
-   "title": "ARC-AGI-4 Will Target Autonomous Invention: “the Meta-skill That Unlocks Progress Across Every Field of Technology”",
-   "published_at": "2026-09-12T20:55:28+00:00",
-   "collected_at": "2026-09-13T00:51:00.763799+00:00",
-   "title_ko": "자율적 발명 목표로 하는 'ARC-AGI-4' 예고",
-   "summary_ko": "AI의 오픈에이디드 혁신 능력을 평가하기 위한 벤치마크 ARC-AGI-4가 자율적 과학 발명을 목표로 개발될 예정입니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "AGI"
-   ]
-  },
-  {
-   "id": "5fa4cda3b16292ef",
-   "url": "https://news.hada.io/topic?id=33595",
-   "source": "GeekNews",
-   "title": "다리오에게 보내는 공개서한: 진심이라면 모델 가중치를 공개하라",
-   "published_at": "2026-09-12T20:35:50+00:00",
-   "collected_at": "2026-09-13T00:51:03.058009+00:00",
-   "title_ko": "앤스로픽 다리오 아모데이에 대한 모델 가중치 공개 요구",
-   "summary_ko": "AI 개발 속도 조절 주장에 맞서, 진정한 안전성 검증을 위해 상업용 독점 대신 모델 가중치를 법적으로 공개해야 한다는 공개서한이 발표되었습니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "오픈소스",
-    "규제"
-   ]
-  },
-  {
-   "id": "4d7ad61d4b57cee7",
-   "url": "https://news.hada.io/topic?id=33594",
-   "source": "GeekNews",
-   "title": "커넥톰과 물리학을 활용한 초파리 시뮬레이션",
-   "published_at": "2026-09-12T20:28:52+00:00",
-   "collected_at": "2026-09-13T00:51:03.058009+00:00",
-   "title_ko": "커넥톰과 물리 엔진 결합한 초파리 시뮬레이션 공개",
-   "summary_ko": "신경망 연결체와 물리 시뮬레이터를 결합하여 실제 초파리의 복잡한 행동 양상을 재현한 연구가 공개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "로보틱스"
-   ]
-  },
-  {
-   "id": "16316487dc98a6eb",
-   "url": "https://withspecific.com/benchmarks/real-swe",
-   "source": "Hacker News",
-   "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-   "published_at": "2026-09-12T20:25:48+00:00",
-   "collected_at": "2026-09-13T00:50:59.100622+00:00",
-   "title_ko": "실무 코드베이스 기반 AI 벤치마크 'Real-SWE' 등장",
-   "summary_ko": "기업의 프라이빗하고 실제적인 코드베이스를 바탕으로 AI 코딩 모델의 성능을 평가하는 새로운 벤치마크가 공개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "코딩"
-   ]
-  },
-  {
-   "id": "22407f1a50da6d6a",
-   "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-   "source": "TechCrunch",
-   "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-   "published_at": "2026-09-12T20:19:16+00:00",
-   "collected_at": "2026-09-12T22:10:47.079560+00:00",
-   "title_ko": "오픈아이트 샘 알트만, '2026년 상장은 현명하지 않아'",
-   "summary_ko": "샘 알트만 OpenAI CEO가 2026년 기업공개(IPO)는 바람직하지 않다고 밝혔습니다. 향후 회사의 자금 조달 및 경영 전략에 중요한 영향을 미칠 소식입니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "투자"
-   ]
-  },
-  {
-   "id": "1b138e2d8cc0a3a3",
-   "url": "https://www.reddit.com/r/singularity/comments/1wen2aq/openai_is_delaying_its_ipo_and_will_not_go_public/",
-   "source": "r/singularity",
-   "title": "OpenAI is Delaying Its IPO and Will Not Go Public This Year, Given Current AI Safety Concerns",
-   "published_at": "2026-09-12T20:17:56+00:00",
-   "collected_at": "2026-09-13T00:51:00.763799+00:00",
-   "title_ko": "OpenAI, 안전성 우려로 올해 IPO 연기",
-   "summary_ko": "현재의 AI 안전성 문제와 리스크를 고려할 때 올해 기업공개(IPO)를 추진하는 것은 부적절하다며 일정을 연기했습니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "규제"
-   ]
-  },
-  {
-   "id": "2107399f49137a31",
-   "url": "https://www.reddit.com/r/singularity/comments/1wemejz/regulations_incoming/",
-   "source": "r/singularity",
-   "title": "Regulations incoming?",
-   "published_at": "2026-09-12T19:52:28+00:00",
-   "collected_at": "2026-09-13T00:51:00.763799+00:00",
-   "title_ko": "AI 규제 움직임 본격화",
-   "summary_ko": "AI 기술 발전에 따른 정부 차원의 규제 도입 가능성이 제기되고 있다.",
-   "category": "속보",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "1c731fb4dd340f6b",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wemcdc/realswe_benchmark_new/",
-   "source": "r/LocalLLaMA",
-   "title": "Real-SWE Benchmark (new)",
-   "published_at": "2026-09-12T19:50:03+00:00",
-   "collected_at": "2026-09-12T22:11:02.703997+00:00",
-   "title_ko": "코딩용 새로운 벤치마크 'Real-SWE' 공개",
-   "summary_ko": "소프트웨어 엔지니어링 능력을 평가하기 위한 새로운 벤치마크인 Real-SWE가 공개되었습니다. AI 코딩 모델의 실전 성능을 측정하는 기준이 될 것입니다.",
-   "category": "참고",
-   "tags": [
-    "코딩",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "885b21f206abf999",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214911",
-   "source": "AI타임스",
-   "title": "“인류를 위한 AI 컴패니언”…딥그로브의 캐릭터챗 ‘프론티아 AI’가 남다른 이유",
-   "published_at": "2026-09-12T19:12:17+00:00",
-   "collected_at": "2026-09-12T10:37:19.590541+00:00",
-   "title_ko": "딥그로브, AI 컴패니언 '프론티아' 공개",
-   "summary_ko": "이루다·크랙 초기 주역들이 모인 딥그로브가 단순 대화를 넘어선 AI 컴패니언 서비스 '프론티아'를 선보이며 본격적인 시장 공략에 나섰다.",
-   "category": "속보",
-   "tags": [
     "AI 에이전트"
    ]
   }
