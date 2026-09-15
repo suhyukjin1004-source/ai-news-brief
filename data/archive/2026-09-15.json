@@ -15,6 +15,21 @@
   ]
  },
  {
+  "id": "dfdb1a0aec3297b2",
+  "url": "https://news.hada.io/topic?id=33739",
+  "source": "GeekNews",
+  "title": "OpenArm - 오픈소스 7자유도 휴머노이드 로봇 팔",
+  "published_at": "2026-09-15T14:51:59+00:00",
+  "collected_at": "2026-09-15T18:07:03.448871+00:00",
+  "title_ko": "오픈소스 7자유도 휴머노이드 로봇 팔 'OpenArm' 공개",
+  "summary_ko": "피지컬 AI 연구를 위한 고성능 오픈소스 휴머노이드 로봇 팔이 공개되어 로보틱스 연구 접근성이 높아졌습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "로보틱스"
+  ]
+ },
+ {
   "id": "85c796c4d9ad9f7a",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215275",
   "source": "AI타임스",
@@ -26,6 +41,79 @@
   "category": "참고",
   "tags": [
    "투자"
+  ]
+ },
+ {
+  "id": "06734ff3ae1a7e3a",
+  "url": "https://news.hada.io/topic?id=33737",
+  "source": "GeekNews",
+  "title": "Show HN: 새소리를 듣고 1800년대 삽화로 그려 보여주는 전자잉크 액자",
+  "published_at": "2026-09-15T14:45:59+00:00",
+  "collected_at": "2026-09-15T18:07:03.448871+00:00",
+  "title_ko": "새소리를 감지해 1800년대 삽화로 그려주는 AI 액자",
+  "summary_ko": "라즈베리파이와 로컬 AI 처리를 활용해 실시간 새소리를 분류하고 그에 맞는 빈티지 삽화를 전자잉크 액자에 띄워주는 오픈소스 프로젝트입니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "e12b74eac17d0d77",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wh2cga/got_it_unopened_off_craigslist_for_4k_excited_to/",
+  "source": "r/LocalLLaMA",
+  "title": "Got it unopened off Craigslist for $4k. Excited to start hosting my own models!",
+  "published_at": "2026-09-15T14:43:26+00:00",
+  "collected_at": "2026-09-15T18:06:48.343635+00:00",
+  "title_ko": "로컬 AI 모델 구동을 위한 중고 하드웨어 구매기",
+  "summary_ko": "개인 사용자가 로컬 LLM 호스팅을 위해 할인된 가격에 하드웨어를 획득한 사연을 공유한 커뮤니티 글입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "NVIDIA"
+  ]
+ },
+ {
+  "id": "401afc56f7790c8a",
+  "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+  "source": "TechCrunch",
+  "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+  "published_at": "2026-09-15T14:42:37+00:00",
+  "collected_at": "2026-09-15T18:06:28.104609+00:00",
+  "title_ko": "AI로 사진 포즈를 코칭해주는 카메라 앱 'Superpose'",
+  "summary_ko": "전직 틱톡 임원들이 개발한 앱으로, 셀카나 사진을 분석해 AI를 통해 다양한 포즈 아이디어를 생성해 줍니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "da584a27d8f648bb",
+  "url": "https://www.reddit.com/r/singularity/comments/1wh23ym/what_if_superintelligent_ai_decides_the/",
+  "source": "r/singularity",
+  "title": "What if superintelligent AI decides the billionaires are the problem?",
+  "published_at": "2026-09-15T14:34:08+00:00",
+  "collected_at": "2026-09-15T18:07:01.387656+00:00",
+  "title_ko": "초지능 AI가 억만장자들을 위협으로 인식한다면?",
+  "summary_ko": "자율적인 초지능 AI가 문명의 안정을 유지하기 위해 기후 변화나 화석 연료 등 핵심 위협 요소를 어떻게 대할지 고찰하는 토론 글입니다.",
+  "category": "참고",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
+  "id": "da88fbfca011fa5f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wh21e9/byteshape_qwen_38_27b_to_kl_diverge_or_not_to_kl/",
+  "source": "r/LocalLLaMA",
+  "title": "ByteShape Qwen 3.8 27B: To KL Diverge or Not to KL Diverge, Part 2: Metric Boogaloo",
+  "published_at": "2026-09-15T14:31:23+00:00",
+  "collected_at": "2026-09-15T18:06:48.343635+00:00",
+  "title_ko": "Qwen 3.8 27B 모델 기반 ShapeLearn GGUF 공개",
+  "summary_ko": "낮은 비트 폭에서도 높은 성능을 유지하는 양자화 모델들이 공개되어 로컬 LLM의 효율성이 향상되었습니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "코딩"
   ]
  },
  {
@@ -42,6 +130,45 @@
    "Anthropic",
    "규제"
   ]
+ },
+ {
+  "id": "57d3e790a4d16742",
+  "url": "https://www.reddit.com/r/singularity/comments/1wh19nj/agentic_coding_in_2026/",
+  "source": "r/singularity",
+  "title": "Agentic coding in 2026",
+  "published_at": "2026-09-15T14:02:06+00:00",
+  "collected_at": "2026-09-15T18:07:01.387656+00:00",
+  "title_ko": "2026년의 에이전틱 코딩 트렌드",
+  "summary_ko": "소프트웨어 개발 분야에서 AI 에이전트의 활용도가 급격히 높아지는 양상을 다룬 토론입니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "4aa0dd661b8ad9f5",
+  "url": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/",
+  "source": "Hacker News",
+  "title": "AI is breaking our proxies for expertise",
+  "published_at": "2026-09-15T13:41:55+00:00",
+  "collected_at": "2026-09-15T18:06:47.382819+00:00",
+  "title_ko": "AI가 기존의 전문성 판단 기준을 무너뜨리는 방식",
+  "summary_ko": "생성형 AI의 발전이 인간의 전문성과 역량을 증명해 오던 기존의 대리 지표들을 어떻게 흔들고 있는지 분석한 글입니다.",
+  "category": "참고",
+  "tags": []
+ },
+ {
+  "id": "0347ad980c559f23",
+  "url": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
+  "source": "The Verge",
+  "title": "This doorbell camera lets a human security guard watch your front door",
+  "published_at": "2026-09-15T13:36:45+00:00",
+  "collected_at": "2026-09-15T18:06:28.187452+00:00",
+  "title_ko": "AI와 보안 요원을 결합한 스마트 도어벨 카메라 출시",
+  "summary_ko": "심플세이프가 AI 분석 기능과 실제 보안 요원의 모니터링을 결합한 홈 보안 도어벨 신제품을 선보였습니다.",
+  "category": "속보",
+  "tags": []
  },
  {
   "id": "9ea776ae7c5bc79f",
@@ -103,6 +230,21 @@
   "tags": [
    "오픈소스",
    "LLM"
+  ]
+ },
+ {
+  "id": "4e7ba9f5f04b555d",
+  "url": "https://github.com/arnegiacomo/fugleramme",
+  "source": "Hacker News",
+  "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+  "published_at": "2026-09-15T12:31:10+00:00",
+  "collected_at": "2026-09-15T18:06:42.531957+00:00",
+  "title_ko": "새소리를 감지해 1800년대 삽화로 그려주는 AI 액자",
+  "summary_ko": "라즈베리파이와 로컬 AI 처리를 활용해 실시간 새소리를 분류하고 그에 맞는 빈티지 삽화를 전자잉크 액자에 띄워주는 오픈소스 프로젝트입니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
   ]
  },
  {
