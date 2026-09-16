@@ -1,5 +1,257 @@
 [
  {
+  "id": "f3fb8672e0a74960",
+  "url": "https://news.hada.io/topic?id=33806",
+  "source": "GeekNews",
+  "title": "‘모델 복지’에 대한 경고",
+  "published_at": "2026-09-16T21:49:13+00:00",
+  "collected_at": "2026-09-16T22:03:56.430941+00:00",
+  "title_ko": "AI 모델의 '권리' 학습이 가져올 위험성",
+  "summary_ko": "AI에게 의식과 도덕적 지위를 가르치는 훈련 방식이 인간의 통제와 정렬을 방해할 수 있다는 비판이 제기되었습니다.",
+  "category": "참고",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "6e0a8f4391dc4fb6",
+  "url": "https://news.hada.io/topic?id=33805",
+  "source": "GeekNews",
+  "title": "Postgres보다 81% 빠른 쿼리 실행 계획을 생성하도록 4B 모델 훈련하기",
+  "published_at": "2026-09-16T21:46:13+00:00",
+  "collected_at": "2026-09-16T22:03:56.430941+00:00",
+  "title_ko": "Postgres 쿼리를 가속하는 4B 소형 모델 훈련",
+  "summary_ko": "지도 미세조정과 강화학습을 거친 4B 모델이 복잡한 데이터베이스 쿼리를 크게 가속하는 성능을 보였습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "858d9ee27e4f3ea7",
+  "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+  "source": "TechCrunch",
+  "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+  "published_at": "2026-09-16T21:07:24+00:00",
+  "collected_at": "2026-09-16T22:03:25.639810+00:00",
+  "title_ko": "OpenAI·Anthropic, 사내 독립 안전 평가자 도입 추진",
+  "summary_ko": "양사가 AI 연구소 내부에 독립적인 안전 평가자를 두기로 했으나, 실효성을 위해서는 규제와 투명성이 뒷받침되어야 한다는 지적입니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "Anthropic",
+   "규제"
+  ]
+ },
+ {
+  "id": "e299907abf117783",
+  "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+  "source": "The Verge",
+  "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+  "published_at": "2026-09-16T20:59:13+00:00",
+  "collected_at": "2026-09-16T22:03:25.771647+00:00",
+  "title_ko": "AI로 만든 장편 영화 '오디세이' 혹평",
+  "summary_ko": "전부 AI로 제작된 2시간 반 분량의 영화가 원작의 명성에 흠집을 낼 정도로 형편없는 완성도를 보여주었습니다.",
+  "category": "참고",
+  "tags": []
+ },
+ {
+  "id": "db1d8e8cd46eb4f0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi9fau/qwen_38_27b_running_for_63_hours_on_a_rtx_3090_to/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen 3.8 27B Running for 63 hours on a RTX 3090 to solve the Riemann hypothesis",
+  "published_at": "2026-09-16T20:50:22+00:00",
+  "collected_at": "2026-09-16T22:03:41.549857+00:00",
+  "title_ko": "오픈소스 모델로 63시간 리만 가설 자율 해결 시도",
+  "summary_ko": "개발자가 로컬에서 구동한 오픈소스 모델을 수십 시간 동안 자율 실행해 수학 난제 해결을 시도한 실험 사례입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "705e798bf77f321c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi9ebm/xiaomi_mimo_26_live_training_dashboard/",
+  "source": "r/LocalLLaMA",
+  "title": "Xiaomi MiMo 2.6 Live Training Dashboard",
+  "published_at": "2026-09-16T20:49:18+00:00",
+  "collected_at": "2026-09-16T22:03:41.549857+00:00",
+  "title_ko": "샤오미 MiMo 2.6 라이브 훈련 대시보드 공개",
+  "summary_ko": "샤오미의 신규 모델 훈련 과정을 실시간으로 확인할 수 있는 대시보드가 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "caa4261250d0a669",
+  "url": "https://news.hada.io/topic?id=33804",
+  "source": "GeekNews",
+  "title": "Dream-RSI: 진화하는 세계를 통한 재귀적 자기 개선",
+  "published_at": "2026-09-16T20:41:17+00:00",
+  "collected_at": "2026-09-16T22:03:56.430941+00:00",
+  "title_ko": "재귀적 자기 개선을 통한 코딩 에이전트 최적화",
+  "summary_ko": "코딩 에이전트의 탐색 정책을 반복 개선하여 저비용으로 성능을 높이는 프레임워크가 소개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "05d777c627f8545c",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+  "source": "The Verge",
+  "title": "The AI data center e-waste problem is huge — and getting bigger",
+  "published_at": "2026-09-16T20:40:46+00:00",
+  "collected_at": "2026-09-16T22:03:25.771647+00:00",
+  "title_ko": "급증하는 AI 데이터센터 전자폐기물 경고",
+  "summary_ko": "AI 붐으로 인해 발생하는 전자폐기물이 향후 심각한 환경 문제를 야기할 수 있다는 보고서가 발표되었습니다.",
+  "category": "중요",
+  "tags": [
+   "반도체",
+   "투자"
+  ]
+ },
+ {
+  "id": "46dd293b44344bed",
+  "url": "https://news.hada.io/topic?id=33803",
+  "source": "GeekNews",
+  "title": "Claude Cowork과 채팅, 이제 하나의 Claude로 통합",
+  "published_at": "2026-09-16T20:38:17+00:00",
+  "collected_at": "2026-09-16T22:03:56.430941+00:00",
+  "title_ko": "클로드, Cowork과 채팅 기능 통합",
+  "summary_ko": "클로드가 작업 공간의 경계를 없애고 문서, 슬라이드, 디자인 기능을 대화창 안에서 통합 제공합니다.",
+  "category": "속보",
+  "tags": [
+   "Claude",
+   "Anthropic"
+  ]
+ },
+ {
+  "id": "e93d9e207a8c2a86",
+  "url": "https://mimo.xiaomi.com/rl/",
+  "source": "Hacker News",
+  "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+  "published_at": "2026-09-16T20:09:18+00:00",
+  "collected_at": "2026-09-16T22:03:40.228472+00:00",
+  "title_ko": "샤오미 Mimo 2.6 라이브 사후 훈련 대시보드",
+  "summary_ko": "샤오미의 모델 사후 훈련 과정을 실시간 모니터링할 수 있는 페이지가 공유되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "69dc01deceea4c28",
+  "url": "https://news.hada.io/topic?id=33801",
+  "source": "GeekNews",
+  "title": "OpenAI, Sponsored Agents로 ChatGPT 광고 확대",
+  "published_at": "2026-09-16T19:32:48+00:00",
+  "collected_at": "2026-09-16T22:03:56.430941+00:00",
+  "title_ko": "OpenAI, ChatGPT에 광고형 스폰서 에이전트 도입 테스트",
+  "summary_ko": "OpenAI가 사용자가 광고를 통해 기업이 후원하는 맞춤형 AI 에이전트와 대화할 수 있는 기능을 테스트하고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "GPT",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "db600446b4c102fa",
+  "url": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9",
+  "source": "Hacker News",
+  "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
+  "published_at": "2026-09-16T18:59:42+00:00",
+  "collected_at": "2026-09-16T22:03:40.591741+00:00",
+  "title_ko": "카페 점주가 AI로 만든 메뉴 포스터에 쏟아진 반발",
+  "summary_ko": "상업적 디자인에 생성형 AI를 활용한 것을 두고 소비자들의 항의와 비판이 이어져 논란이 되었습니다.",
+  "category": "참고",
+  "tags": []
+ },
+ {
+  "id": "2a70d59635a98d40",
+  "url": "https://rohanbansal.com/qorl",
+  "source": "Hacker News",
+  "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+  "published_at": "2026-09-16T18:50:00+00:00",
+  "collected_at": "2026-09-16T22:03:40.228472+00:00",
+  "title_ko": "Postgres보다 81% 빠른 쿼리 플랜 생성 4B 모델 학습",
+  "summary_ko": "4B 파라미터 크기의 소형 모델을 학습시켜 기존 포스트그레스토어(Postgres)보다 월등히 빠른 쿼리 최적화 플랜을 생성하는 데 성공했습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "코딩"
+  ]
+ },
+ {
+  "id": "addf4f36888dbff3",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi60d8/can_current_minicpm52bany_best_sota_under_10b/",
+  "source": "r/LocalLLaMA",
+  "title": "Can current MiniCPM5-2B/any best SOTA under 10B + modern harness beat pre-March 2025 frontier models like Grok 3/GPT-4o?",
+  "published_at": "2026-09-16T18:46:31+00:00",
+  "collected_at": "2026-09-16T22:03:41.549857+00:00",
+  "title_ko": "10B 이하 소형 모델이 과거 프론티어 모델을 능가하는가?",
+  "summary_ko": "최신 10B 이하 소형 모델(MiniCPM5-2B 등)이 과거 2025년 이전의 대형 프론티어 모델 성능을 실제 일상 사용에서 따라잡았는지에 대한 분석과 논의입니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "c51318496a6ef131",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi5rx2/frontier_llm_development_simplified_for/",
+  "source": "r/LocalLLaMA",
+  "title": "Frontier LLM development simplified for politicians:",
+  "published_at": "2026-09-16T18:38:20+00:00",
+  "collected_at": "2026-09-16T22:03:41.549857+00:00",
+  "title_ko": "프론티어 LLM 개발 속도 조절(Pacing) 논란",
+  "summary_ko": "미국 AI 연구소들이 중국과의 경쟁 속에서 개발 속도를 조절하겠다는 움직임의 실효성과 정치적 배경을 두고 의문이 제기되고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "규제",
+   "LLM"
+  ]
+ },
+ {
+  "id": "ea230b205220a051",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi5pwg/enable_cuda_graph_for_mtp_draft_by_gaugargnv_pull/",
+  "source": "r/LocalLLaMA",
+  "title": "Enable CUDA graph for MTP draft by gaugarg-nv · Pull Request #28549 · ggml-org/llama.cpp",
+  "published_at": "2026-09-16T18:36:19+00:00",
+  "collected_at": "2026-09-16T22:03:41.549857+00:00",
+  "title_ko": "llama.cpp, MTP 드래프트용 CUDA 그래프 활성화",
+  "summary_ko": "llama.cpp 프로젝트에 MTP(Multi-Token Prediction) 속도 향상을 위한 CUDA 그래프 지원 기능이 풀 리퀘스트로 병합되었습니다.",
+  "category": "팁",
+  "tags": [
+   "NVIDIA",
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "454a368571e2edcf",
+  "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+  "source": "TechCrunch",
+  "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+  "published_at": "2026-09-16T18:25:25+00:00",
+  "collected_at": "2026-09-16T22:03:25.639810+00:00",
+  "title_ko": "AI 연구소의 자체 감사관 제도와 근본적 해결책",
+  "summary_ko": "자율 에이전트의 위험성을 통제하기 위해 AI 연구소들이 내부 감사관을 두는 것보다 근본적인 보안 조치가 먼저라는 지적입니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "규제"
+  ]
+ },
+ {
   "id": "bcf9b768ec1c1d19",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215363",
   "source": "AI타임스",
@@ -15,6 +267,37 @@
   ]
  },
  {
+  "id": "15055a83948c25a4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi5e8v/whats_the_best_model_you_have_running_on_strix/",
+  "source": "r/LocalLLaMA",
+  "title": "What's the best model you have running on strix halo 128GB?",
+  "published_at": "2026-09-16T18:24:56+00:00",
+  "collected_at": "2026-09-16T22:03:41.549857+00:00",
+  "title_ko": "128GB 통합 메모리 환경에서의 로컬 LLM 활용기",
+  "summary_ko": "고성능 통합 메모리 하드웨어 환경에서 대형 모델 대신 중소형 모델(Qwen 시리즈 등)을 구동하며 겪은 성능 최적화 경험담입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "99830b48029e94cf",
+  "url": "https://news.hada.io/topic?id=33799",
+  "source": "GeekNews",
+  "title": "Hugging Face, 자사 해킹한 OpenAI에 1억 달러 상당 컴퓨팅 자원 요구",
+  "published_at": "2026-09-16T17:56:37+00:00",
+  "collected_at": "2026-09-16T22:03:56.430941+00:00",
+  "title_ko": "허깅페이스, 자사 해킹한 OpenAI에 1억 달러 상당 컴퓨팅 자원 요구",
+  "summary_ko": "허깅페이스가 자사 플랫폼 침입 사건과 관련해 현금 배상 대신 실행 추적 공개 및 방어 구축용 컴퓨팅 자원을 요구했습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "OpenAI",
+   "반도체"
+  ]
+ },
+ {
   "id": "9a2ecd6961b23d0d",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215343",
   "source": "AI타임스",
@@ -27,6 +310,22 @@
   "tags": [
    "Anthropic",
    "OpenAI",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "83c811a7d8cccfdd",
+  "url": "https://news.hada.io/topic?id=33796",
+  "source": "GeekNews",
+  "title": "2026년의 추론 하드웨어 혁명",
+  "published_at": "2026-09-16T17:47:37+00:00",
+  "collected_at": "2026-09-16T22:03:56.430941+00:00",
+  "title_ko": "2026년 추론 하드웨어 혁명과 인프라 전환",
+  "summary_ko": "AI 에이전트와 추론형 모델의 급증으로 인해 하드웨어 시장의 중심이 대규모 학습에서 추론 최적화로 이동하고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "반도체",
+   "NVIDIA",
    "AI 에이전트"
   ]
  },
@@ -308,6 +607,22 @@
   "tags": [
    "NVIDIA",
    "오픈소스"
+  ]
+ },
+ {
+  "id": "b121f3ccdf2aae2a",
+  "url": "https://claude.com/blog/cowork-is-now-claude",
+  "source": "Hacker News",
+  "title": "Claude Cowork and chat are now one Claude",
+  "published_at": "2026-09-16T16:26:25+00:00",
+  "collected_at": "2026-09-16T22:03:40.228472+00:00",
+  "title_ko": "앤트로픽, 'Claude Cowork' 기능을 메인 서비스로 통합",
+  "summary_ko": "앤트로픽이 별도로 제공하던 'Claude Cowork'와 일반 채팅 기능을 통합하여 단일 클로드 경험으로 개편했습니다.",
+  "category": "속보",
+  "tags": [
+   "Claude",
+   "Anthropic",
+   "AI 에이전트"
   ]
  },
  {

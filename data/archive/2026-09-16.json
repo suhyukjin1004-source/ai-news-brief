@@ -28,6 +28,36 @@
   ]
  },
  {
+  "id": "7b209e90369c95fe",
+  "url": "https://institute.deepmind.com/",
+  "source": "Hacker News",
+  "title": "The DeepMind Institute",
+  "published_at": "2026-09-16T14:32:11+00:00",
+  "collected_at": "2026-09-16T22:03:40.228472+00:00",
+  "title_ko": "딥마인드 인스티튜트(The DeepMind Institute) 출범",
+  "summary_ko": "구글 딥마인드가 AI 연구 및 사회적 영향력 분석을 위한 전문 기관인 '딥마인드 인스티튜트'를 새롭게 선보였습니다.",
+  "category": "중요",
+  "tags": [
+   "Google",
+   "규제"
+  ]
+ },
+ {
+  "id": "faf270d1ea89430c",
+  "url": "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
+  "source": "Hacker News",
+  "title": "A warning about 'model welfare'",
+  "published_at": "2026-09-16T14:27:47+00:00",
+  "collected_at": "2026-09-16T22:03:40.228472+00:00",
+  "title_ko": "머스탱 수레이머의 '모델 복지' 경고",
+  "summary_ko": "AI 모델의 권리나 의식 부여를 논하는 이른바 '모델 복지' 담론에 대해 업계 리더가 주의를 당부하는 경고 메시지를 발표했습니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "규제"
+  ]
+ },
+ {
   "id": "7da679bc9c36d9d6",
   "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
   "source": "TechCrunch",
@@ -132,6 +162,21 @@
   ]
  },
  {
+  "id": "9d912a6c0beafc53",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whxf90/localjev/",
+  "source": "r/LocalLLaMA",
+  "title": "LocalJev?",
+  "published_at": "2026-09-16T13:34:50+00:00",
+  "collected_at": "2026-09-16T22:03:41.549857+00:00",
+  "title_ko": "구조화된 출력을 생성하는 AI 모델 Jev 소개",
+  "summary_ko": "입력 텍스트에서 구조화된 선택지를 생성하는 Jev 모델이 공개되었습니다. 텍스트 기반 추론 능력을 갖춘 새로운 형태의 모델 연구에 참고가 됩니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "AI 모델"
+  ]
+ },
+ {
   "id": "60750449b5327019",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215338",
   "source": "AI타임스",
@@ -146,6 +191,21 @@
   ]
  },
  {
+  "id": "3bae41a367afaaed",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whxb4j/recurrent_looped_transformer/",
+  "source": "r/LocalLLaMA",
+  "title": "Recurrent Looped Transformer",
+  "published_at": "2026-09-16T13:30:10+00:00",
+  "collected_at": "2026-09-16T22:03:41.549857+00:00",
+  "title_ko": "추론 깊이를 높이는 순환 루프 트랜스포머(RLT) 공개",
+  "summary_ko": "디코더의 최종 히든 상태를 다음 토큰에 전달해 추론 깊이를 높이는 Recurrent Looped Transformer가 공개되었습니다. 효율적인 모델 아키텍처 개선에 중요한 연구입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "아키텍처"
+  ]
+ },
+ {
   "id": "f6a3152e412a2bcc",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215336",
   "source": "AI타임스",
@@ -157,6 +217,21 @@
   "category": "중요",
   "tags": [
    "Meta"
+  ]
+ },
+ {
+  "id": "6f2e3064541eee63",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whx5xi/you_can_offload_most_of_qwen38flashnexts_kv_cache/",
+  "source": "r/LocalLLaMA",
+  "title": "You can offload most of Qwen3.8-Flash-Next's KV cache to RAM with little decode slowdown",
+  "published_at": "2026-09-16T13:24:26+00:00",
+  "collected_at": "2026-09-16T22:03:41.549857+00:00",
+  "title_ko": "대형 모델 KV 캐시의 시스템 RAM 오프로딩 기법",
+  "summary_ko": "VRAM 부족 시 KV 캐시 대부분을 시스템 RAM으로 오프로드하여 속도 저하 없이 긴 문맥을 처리하는 방법이 공유되었습니다. 로컬 LLM 구동 효율을 높이는 유용한 팁입니다.",
+  "category": "팁",
+  "tags": [
+   "로컬LLM",
+   "vLLM"
   ]
  },
  {
@@ -202,6 +277,20 @@
   "category": "참고",
   "tags": [
    "오픈소스"
+  ]
+ },
+ {
+  "id": "dbc9010b4eabdea6",
+  "url": "https://stale.jock.pl/",
+  "source": "Hacker News",
+  "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+  "published_at": "2026-09-16T13:01:52+00:00",
+  "collected_at": "2026-09-16T22:03:40.591741+00:00",
+  "title_ko": "주요 AI 모델 20개의 학습 컷오프 및 출시 연도 비교 도구",
+  "summary_ko": "다양한 AI 모델들의 최신성과 학습 데이터 컷오프 시점을 한눈에 보여주는 도구가 공개되었습니다. 모델 선택 시 정보의 최신성을 가늠하는 데 도움이 됩니다.",
+  "category": "참고",
+  "tags": [
+   "AI 모델"
   ]
  },
  {
@@ -318,6 +407,21 @@
    "OpenAI",
    "Anthropic",
    "Google"
+  ]
+ },
+ {
+  "id": "5f7e182a53f2403b",
+  "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+  "source": "OpenAI",
+  "title": "How to connect AI usage to business value",
+  "published_at": "2026-09-16T12:00:00+00:00",
+  "collected_at": "2026-09-16T22:03:39.025834+00:00",
+  "title_ko": "AI 사용량과 비즈니스 가치를 연결하는 방법",
+  "summary_ko": "ChatGPT 기업용 분석 기능을 활용해 팀의 AI 사용량과 비용을 파악하고 비즈니스 성과로 연결하는 가이드가 공개되었습니다. 기업 내 AI 도입 효과 측정에 유용합니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "ChatGPT"
   ]
  },
  {
@@ -1735,6 +1839,21 @@
   "category": "중요",
   "tags": [
    "투자"
+  ]
+ },
+ {
+  "id": "0ce4868202f14318",
+  "url": "https://github.com/pizza-bot-app/pizza-bot",
+  "source": "Hacker News",
+  "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+  "published_at": "2026-09-15T15:20:26+00:00",
+  "collected_at": "2026-09-16T22:03:40.591741+00:00",
+  "title_ko": "백그라운드 AI 에이전트를 위한 받은편지함 UI 'Pizza Bot'",
+  "summary_ko": "이메일 형태의 UI로 백그라운드 AI 에이전트를 관리할 수 있는 오픈소스 데스크톱 앱 Pizza Bot이 공개되었습니다. 다양한 모델을 연동해 에이전트 작업을 효율적으로 관리할 수 있습니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
   ]
  },
  {
