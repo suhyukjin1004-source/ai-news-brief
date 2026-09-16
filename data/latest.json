@@ -1,8 +1,435 @@
 {
- "updated_at": "2026-09-16T01:19:52.134037+00:00",
+ "updated_at": "2026-09-16T07:37:14.144754+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "e7d193568208a078",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215352",
+   "source": "AI타임스",
+   "title": "빌 게이츠 “전 세계 정부, AI 대비 뒤처져”…'AI 불평등 해소'에 1.4조 투입",
+   "published_at": "2026-09-16T15:57:40+00:00",
+   "collected_at": "2026-09-16T07:36:56.000508+00:00",
+   "title_ko": "빌 게이츠 \"정부 AI 대비 부족\", 게이츠 재단 1.4조 투입",
+   "summary_ko": "빌 게이츠가 각국의 AI 변화 대응 부족을 경고하며 취약계층 불평등 해소를 위해 1.4조 원을 투자한다고 밝혔다. AI의 사회적 격차를 줄이기 위한 대규모 투자로 주목받는다.",
+   "category": "중요",
+   "tags": [
+    "투자",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "28d649f324c232fb",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215349",
+   "source": "AI타임스",
+   "title": "엔비디아·메타 \"AI 규제·속도 조절 필요 없어\"…‘폐쇄형 vs 개방형’ 균열",
+   "published_at": "2026-09-16T15:27:13+00:00",
+   "collected_at": "2026-09-16T07:36:56.000508+00:00",
+   "title_ko": "엔비디아·메타, AI 속도 조절론 거부",
+   "summary_ko": "엔비디아와 메타가 AI 개발 속도 조절 제안을 공식 거부하고 자율적인 위험 통제를 주장했다. 업계 내 규제와 자율성에 대한 시각 차이가 드러났다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "Meta",
+    "규제"
+   ]
+  },
+  {
+   "id": "19ae26d1a9dca615",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215346",
+   "source": "AI타임스",
+   "title": "배경훈 장관 \"AI 속도 늦출 여유 없다...중요한 것은 속도책임\"",
+   "published_at": "2026-09-16T15:18:02+00:00",
+   "collected_at": "2026-09-16T07:36:56.780637+00:00",
+   "title_ko": "과기정통부 장관 \"한국, AI 속도 늦출 여유 없다\"",
+   "summary_ko": "배경훈 과기정통부 장관이 글로벌 AI 속도 조절론에 대해 기술 격차 우려를 표하며 속도보다는 책임 있는 개발이 중요하다고 강조했다.",
+   "category": "중요",
+   "tags": [
+    "규제"
+   ]
+  },
+  {
+   "id": "f98a6c92eb4056d7",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215345",
+   "source": "AI타임스",
+   "title": "버즈니, 비스킷AI에 '클립 만들기' 추가... 숏폼부터 미들폼·카드뉴스 지원",
+   "published_at": "2026-09-16T14:35:43+00:00",
+   "collected_at": "2026-09-16T07:36:56.000508+00:00",
+   "title_ko": "버즈니, 비스킷AI에 클립 만들기 기능 추가",
+   "summary_ko": "버즈니가 숏폼 제작 AI 서비스 비스킷AI에 짧은 영상 클립 제작 기능을 추가했다. 실무 콘텐츠 제작 생태계 확대를 지원한다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "53f0dff64eb2a12d",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215341",
+   "source": "AI타임스",
+   "title": "모레, 이기종 AI 가속기 하나처럼 활용하는 ‘토큰 팩토리 OS’ 제시",
+   "published_at": "2026-09-16T14:23:24+00:00",
+   "collected_at": "2026-09-16T07:36:56.000508+00:00",
+   "title_ko": "모레, 이기종 AI 가속기 활용 '토큰 팩토리 OS' 공개",
+   "summary_ko": "모레가 다양한 가속기를 통합 운영하는 '토큰 팩토리 OS'를 선보였다. AI 데이터센터의 추론 효율과 인프라 활용도를 극대화한다.",
+   "category": "중요",
+   "tags": [
+    "반도체",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "38e7a0cac16f73bc",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215340",
+   "source": "AI타임스",
+   "title": "네이버, 실제 서비스에 ‘AI 안전성 체계’ 적용...세이프티 리포트 공개",
+   "published_at": "2026-09-16T14:21:16+00:00",
+   "collected_at": "2026-09-16T07:36:56.000508+00:00",
+   "title_ko": "네이버, AI 안전성 체계 적용 세이프티 리포트 공개",
+   "summary_ko": "네이버가 자체 AI 안전성 체계 'ASF 2.0'의 실제 서비스 적용 사례를 담은 리포트를 발간했다. AI 서비스 전 과정의 체계적 안전 관리를 목표로 한다.",
+   "category": "참고",
+   "tags": [
+    "규제"
+   ]
+  },
+  {
+   "id": "7af9c4e23a302bdb",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215342",
+   "source": "AI타임스",
+   "title": "알트먼 \"이번 주 대형 제품 출시\"...‘데브데이’까지 연속 배포 예고",
+   "published_at": "2026-09-16T14:19:24+00:00",
+   "collected_at": "2026-09-16T07:36:56.000508+00:00",
+   "title_ko": "오픈아이 샘 알트먼, \"이번 주 대형 제품 출시\" 예고",
+   "summary_ko": "오픈AI CEO 샘 알트먼이 이번 주 대형 제품 출시와 데브데이에서의 대규모 배포를 예고했다. 업계의 큰 관심을 모으고 있다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT"
+   ]
+  },
+  {
+   "id": "60750449b5327019",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215338",
+   "source": "AI타임스",
+   "title": "포티투마루, LLM42·RAG42 2종 정부 AI 공인인증 취득",
+   "published_at": "2026-09-16T13:30:14+00:00",
+   "collected_at": "2026-09-16T07:36:56.000508+00:00",
+   "title_ko": "포티투마루, LLM·RAG 정부 AI 공인인증 취득",
+   "summary_ko": "포티투마루가 자체 언어모델과 RAG 솔루션의 정부 AI 제품·서비스 확인제 인증을 획득했다. 공공 및 제조 분야 도입 신뢰성을 높였다.",
+   "category": "참고",
+   "tags": [
+    "규제"
+   ]
+  },
+  {
+   "id": "f6a3152e412a2bcc",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215336",
+   "source": "AI타임스",
+   "title": "메타, '사생활 침해' 논란에 카메라 없앤 스마트 안경 선보인다",
+   "published_at": "2026-09-16T13:29:12+00:00",
+   "collected_at": "2026-09-16T07:36:56.000508+00:00",
+   "title_ko": "메타, 사생활 논란 의식해 카메라 없는 스마트 안경 개발",
+   "summary_ko": "메타가 사생활 침해 우려를 해소하기 위해 카메라를 제거하고 음성 소통에 집중한 스마트 안경을 선보인다. 웨어러블 대중화를 노린다.",
+   "category": "중요",
+   "tags": [
+    "Meta"
+   ]
+  },
+  {
+   "id": "6e081e334d2fa8f1",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215332",
+   "source": "AI타임스",
+   "title": "구글, 말하며 생각하는 '제미나이 3.8 라이브' 공개...\"음성 품질 1위\"",
+   "published_at": "2026-09-16T13:22:26+00:00",
+   "collected_at": "2026-09-16T07:36:56.000508+00:00",
+   "title_ko": "구글, 실시간 추론 강화 '제미나이 3.8 라이브' 공개",
+   "summary_ko": "구글이 실시간 대화 중에도 추론과 도구 실행이 가능한 음성 AI 모델 2종을 공개했다. 자연스러운 음성 상호작용 품질을 높였다.",
+   "category": "속보",
+   "tags": [
+    "Google",
+    "Gemini"
+   ]
+  },
+  {
+   "id": "33b54cde3f8cea8e",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215328",
+   "source": "AI타임스",
+   "title": "오픈AI \"앤트로픽·구글과 AI 안전 대책 논의\" 공식 확인",
+   "published_at": "2026-09-16T13:14:55+00:00",
+   "collected_at": "2026-09-16T07:36:56.000508+00:00",
+   "title_ko": "오픈AI, 앤트로픽·구글과 AI 안전 대책 논의 공식 확인",
+   "summary_ko": "오픈AI가 경쟁사인 앤트로픽, 구글과 AI 안전 문제 공조를 위한 협의를 진행 중이라고 밝혔다. 업계 차원의 안전 기준 마련에 속도가 붙을 전망이다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "Anthropic",
+    "Google"
+   ]
+  },
+  {
+   "id": "8dc33a916717076c",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215335",
+   "source": "AI타임스",
+   "title": "\"AI 학습 데이터 무단 도용 멈춰\"...멘탯, 제이펍과 도서 AI 라이선싱 계약",
+   "published_at": "2026-09-16T13:07:34+00:00",
+   "collected_at": "2026-09-16T07:36:56.000508+00:00",
+   "title_ko": "멘탯, 제이펍과 도서 AI 라이선싱 계약 체결",
+   "summary_ko": "멘탯이 제이펍과 계약을 맺고 IT 전문서를 AI 학습 및 인용 데이터로 활용한다. 무단 도용 논란을 피하고 합법적인 AI 학습 생태계를 조성한다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "5ec345d4e7464718",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215333",
+   "source": "AI타임스",
+   "title": "\"AI로 날씨 예측한다\"...엔라이튼, 태양광 발전량 예측 기술 특허 획득",
+   "published_at": "2026-09-16T12:56:19+00:00",
+   "collected_at": "2026-09-16T07:36:56.000508+00:00",
+   "title_ko": "엔라이튼, AI 기반 태양광 발전량 예측 기술 특허 획득",
+   "summary_ko": "엔라이튼이 국지·전지구 예보를 결합한 AI 태양광 발전량 예측 기술로 특허를 취득했다. 기상 예측 정확도를 높여 전력 계통 안정성을 강화한다.",
+   "category": "참고",
+   "tags": []
+  },
+  {
+   "id": "735e123186ee584e",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215325",
+   "source": "AI타임스",
+   "title": "구글 딥마인드 연구원도 사직 후 'AI 위험' 경고...\"시간 얼마 안 남아\"",
+   "published_at": "2026-09-16T12:38:13+00:00",
+   "collected_at": "2026-09-16T07:36:56.000508+00:00",
+   "title_ko": "구글 딥마인드 연구원 퇴사 후 AI 위험 경고",
+   "summary_ko": "구글 딥마인드 출신 연구원이 AI의 잠재적 파멸 위험을 경고하며 사임했다. 빅테크 내부 연구원들의 안전 우려 목소리가 이어지고 있다.",
+   "category": "중요",
+   "tags": [
+    "Google",
+    "규제"
+   ]
+  },
+  {
+   "id": "0cf9e62e4643002b",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215330",
+   "source": "AI타임스",
+   "title": "\"새로운 문서 양식도 OK\"...한국딥러닝, 문서 AI 솔루션 '딥에이전트' 리뉴얼",
+   "published_at": "2026-09-16T12:29:09+00:00",
+   "collected_at": "2026-09-16T07:36:56.000508+00:00",
+   "title_ko": "한국딥러닝, 문서 AI 솔루션 '딥에이전트' 리뉴얼",
+   "summary_ko": "한국딥러닝이 문서 AI 솔루션 '딥에이전트'에 운영 기능 '딥옵스'를 결합해 양식 제한 없는 문서 자동화 범위를 확대했습니다.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트",
+    "문서 AI"
+   ]
+  },
+  {
+   "id": "a69aad0c676dd52a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whpe2r/whats_the_best_open_weight_model_for_blender/",
+   "source": "r/LocalLLaMA",
+   "title": "What's the best open weight model for Blender? That's comparable to Astra",
+   "published_at": "2026-09-16T06:38:00+00:00",
+   "collected_at": "2026-09-16T07:36:42.551327+00:00",
+   "title_ko": "Blender 작업을 위한 오픈웨이트 LLM 추천 요청",
+   "summary_ko": "Blender 작업 시 속도 제한이 있는 Astra 모델을 대체할 만한 DeepSeek, GLM, Qwen 등 오픈웨이트 모델의 비교와 추천을 논의합니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "Qwen"
+   ]
+  },
+  {
+   "id": "65ae82880abbca5f",
+   "url": "https://news.hada.io/topic?id=33771",
+   "source": "GeekNews",
+   "title": "Show GN: Evidence Graph, 증거진술의무를 부여하여 스킬즈 지침 100% 따르게하기",
+   "published_at": "2026-09-16T06:17:18+00:00",
+   "collected_at": "2026-09-16T07:36:57.120445+00:00",
+   "title_ko": "에이전트의 제약 조건 준수를 위한 'Evidence Graph' 소개",
+   "summary_ko": "AI 에이전트가 명세와 제약 조건을 완벽히 따르도록 증거진술의무를 부여해 준수 격차를 해결하는 도구가 소개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "459db55d96c34a04",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whob9e/is_an_x399_rig_still_viable/",
+   "source": "r/LocalLLaMA",
+   "title": "Is an X399 rig still viable?",
+   "published_at": "2026-09-16T05:39:21+00:00",
+   "collected_at": "2026-09-16T07:36:42.551327+00:00",
+   "title_ko": "멀티 GPU 구축을 위한 X399 플랫폼 활용성 논의",
+   "summary_ko": "구형 스레드리퍼와 X399 메인보드 조합이 멀티 GPU 기반 로컬 LLM 구축용으로 여전히 가치 있는지 논의합니다.",
+   "category": "참고",
+   "tags": [
+    "반도체",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "93401a20e462550a",
+   "url": "https://news.hada.io/topic?id=33770",
+   "source": "GeekNews",
+   "title": "Show GN: 오데덕 - API 신청까지 대신하며 공공데이터를 파고드는 AI 도구",
+   "published_at": "2026-09-16T05:14:25+00:00",
+   "collected_at": "2026-09-16T07:36:57.120445+00:00",
+   "title_ko": "공공데이터 활용 신청을 자동화하는 AI 도구 '오데덕'",
+   "summary_ko": "공공데이터 검색부터 API 신청 및 조회까지의 과정을 AI 에이전트가 대신 처리해 주는 오픈소스 도구입니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "d2f28a8997ecb669",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whngur/mlabonnelfm25230mchess_hugging_face/",
+   "source": "r/LocalLLaMA",
+   "title": "mlabonne/LFM2.5-230M-Chess · Hugging Face",
+   "published_at": "2026-09-16T04:53:29+00:00",
+   "collected_at": "2026-09-16T07:36:42.551327+00:00",
+   "title_ko": "체스 두는 소형 언어 모델 'ChessLFM' 공개",
+   "summary_ko": "체스를 둘 수 있는 230M 파라미터 크기의 소형 언어 모델과 온라인 데모가 허깅페이스에 공개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "1f3b4454a5e73494",
+   "url": "https://news.hada.io/topic?id=33766",
+   "source": "GeekNews",
+   "title": "Navier-Stokes 이후에도 LLM 전망을 여전히 비관하는 이유",
+   "published_at": "2026-09-16T03:34:16+00:00",
+   "collected_at": "2026-09-16T07:36:57.120445+00:00",
+   "title_ko": "현재 LLM 기술의 한계와 비관적 전망 분석",
+   "summary_ko": "현재의 AI 모델은 여전히 상당한 감독이 필요하며 제한된 범위에서만 작동하므로 지식 노동자의 완전 대체 기대는 비관적이라는 분석입니다.",
+   "category": "참고",
+   "tags": [
+    "LLM",
+    "규제"
+   ]
+  },
+  {
+   "id": "dbaf6a219caa59ac",
+   "url": "https://news.hada.io/topic?id=33765",
+   "source": "GeekNews",
+   "title": "Show GN: 보시오와 보아요 프로젝트 - 정이십면체 프레임버퍼를 이용한 RTL/WM 프로젝트",
+   "published_at": "2026-09-16T03:15:05+00:00",
+   "collected_at": "2026-09-16T07:36:57.120445+00:00",
+   "title_ko": "에이전틱 AI를 활용한 VR/AR 디스플레이 시스템 개발",
+   "summary_ko": "바이브 코딩과 에이전틱 AI를 활용해 VR/AR HMD용 구공간 디스플레이 시스템을 개발하는 프로젝트가 소개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "로보틱스"
+   ]
+  },
+  {
+   "id": "4096ef147ccaddc7",
+   "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+   "source": "Hacker News",
+   "title": "Stay discoverable in search while disallowing AI training",
+   "published_at": "2026-09-16T02:25:18+00:00",
+   "collected_at": "2026-09-16T07:36:41.750193+00:00",
+   "title_ko": "클라우드플레어, AI 학습 차단과 검색 노출 유지 방안 제시",
+   "summary_ko": "웹사이트가 AI 훈련용 크롤러의 접근은 차단하면서도 검색 엔진 결과에는 계속 노출될 수 있도록 하는 계정 관리 방안을 발표했습니다.",
+   "category": "중요",
+   "tags": [
+    "규제",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "562aa78584726501",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whk35i/qwen38_27b_game_dev_part_2/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8 27b Game Dev Part 2",
+   "published_at": "2026-09-16T02:08:08+00:00",
+   "collected_at": "2026-09-16T07:36:42.551327+00:00",
+   "title_ko": "Qwen 기반 모델을 활용한 게임 개발 활용기",
+   "summary_ko": "Qwen 모델을 활용해 게임 리포와 3D 모델 등을 연동하고 게임 개발 보조 도구로 활용하는 사례가 공유되었습니다.",
+   "category": "참고",
+   "tags": [
+    "Qwen",
+    "코딩"
+   ]
+  },
+  {
+   "id": "783320d60e7fe775",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whjqv6/connected_a_local_model/",
+   "source": "r/LocalLLaMA",
+   "title": "Connected a local model (Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-Q4_K_M) to GIMP via MCP tools using llama.cpp - and here's the image result from my first prompt \"can you draw a picture of a flower in gimp?\". Needs work. Setup follows.",
+   "published_at": "2026-09-16T01:52:43+00:00",
+   "collected_at": "2026-09-16T07:36:42.551327+00:00",
+   "title_ko": "로컬 LLM을 GIMP와 MCP로 연동해 이미지 생성하기",
+   "summary_ko": "llama.cpp와 GIMP를 MCP 도구로 연결하여 로컬 모델로 그래픽 작업을 수행하는 셋업 공유. 오픈소스 AI 활용 실무에 유용함.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "c419ce8f104db15b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whjezk/lact_pr_to_let_nvidia_gpus_go_lower_than_stock/",
+   "source": "r/LocalLLaMA",
+   "title": "LACT PR to let NVIDIA gpus go lower than stock VBIOS limit (so below 400W for 5090, or below 250W for 6000 PRO MaxQ)",
+   "published_at": "2026-09-16T01:37:45+00:00",
+   "collected_at": "2026-09-16T07:36:42.551327+00:00",
+   "title_ko": "NVIDIA GPU 전력 제한을 기본 VBIOS 아래로 낮추는 LACT PR",
+   "summary_ko": "LACT 도구의 업데이트를 통해 RTX 5090 등의 전력 소모를 기본 VBIOS 제한보다 낮추어 전력 효율을 높일 수 있게 됨.",
+   "category": "참고",
+   "tags": [
+    "NVIDIA",
+    "반도체"
+   ]
+  },
+  {
+   "id": "86407d70b891a99b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whj1fv/open_source_appreciation_post/",
+   "source": "r/LocalLLaMA",
+   "title": "Open Source Appreciation Post",
+   "published_at": "2026-09-16T01:20:59+00:00",
+   "collected_at": "2026-09-16T07:36:42.551327+00:00",
+   "title_ko": "상용 AI의 과도한 안전장치에 대한 오픈소스 모델 대안",
+   "summary_ko": "연구 및 코딩 중 상용 모델의 엄격한 가드레일로 인해 작업이 차단되는 문제를 오픈소스 및 대안 모델을 통해 해결하는 개발자 경험 공유.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "Claude"
+   ]
+  },
+  {
+   "id": "5f306e4dda48bf83",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whiz3y/whats_the_next_local_model_you_are_excited_about/",
+   "source": "r/LocalLLaMA",
+   "title": "What's the next local model you are excited about?",
+   "published_at": "2026-09-16T01:18:01+00:00",
+   "collected_at": "2026-09-16T07:36:42.551327+00:00",
+   "title_ko": "기대되는 차세대 로컬 LLM 논의",
+   "summary_ko": "커뮤니티에서 사용자들이 다음에 기대를 걸고 있는 오픈소스 로컬 AI 모델에 대해 의견을 나누는 토론.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "8377ad46efbc8640",
+   "url": "https://news.hada.io/topic?id=33763",
+   "source": "GeekNews",
+   "title": "래블업(lablup) 개발자 컨퍼런스 2026",
+   "published_at": "2026-09-16T01:17:58+00:00",
+   "collected_at": "2026-09-16T07:36:57.120445+00:00",
+   "title_ko": "래블업 개발자 컨퍼런스 2026 개최 소식",
+   "summary_ko": "Backend.AI와 AI 기술을 중심으로 AI를 개발하고 활용하는 이들이 모이는 래블업의 연례 컨퍼런스.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
   {
    "id": "8ef49727ca02de23",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whib7d/what_taste_in_humor_do_llms_have/",
@@ -1224,6 +1651,21 @@
    "summary_ko": "생성형 AI의 발전이 인간의 전문성과 역량을 증명해 오던 기존의 대리 지표들을 어떻게 흔들고 있는지 분석한 글입니다.",
    "category": "참고",
    "tags": []
+  },
+  {
+   "id": "befa06e2d0354b78",
+   "url": "https://www.bbc.com/news/articles/cqgk5e2j0gg8o",
+   "source": "Hacker News",
+   "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+   "published_at": "2026-09-15T13:41:28+00:00",
+   "collected_at": "2026-09-16T07:36:41.750193+00:00",
+   "title_ko": "앤스로픽 공동창업자, AI 킬 스위치 의무화 필요성 제기",
+   "summary_ko": "앤스로픽 공동창업자가 BBC 인터뷰에서 AI 시스템 통제를 위해 강제적인 '킬 스위치' 도입이 필요하다고 주장함.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "규제"
+   ]
   },
   {
    "id": "0347ad980c559f23",
@@ -2532,457 +2974,6 @@
    "tags": [
     "Microsoft",
     "규제"
-   ]
-  },
-  {
-   "id": "c1380e0a0ff5ab08",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215223",
-   "source": "AI타임스",
-   "title": "“2분기 연속 흑자” 앤트로픽, 2조달러 IPO 앞두고 수익성 입증",
-   "published_at": "2026-09-14T16:27:04+00:00",
-   "collected_at": "2026-09-14T12:37:52.596985+00:00",
-   "title_ko": "앤트로픽, 2분기 연속 흑자로 수익성 입증",
-   "summary_ko": "앤트로픽이 기업공개를 앞두고 2분기 연속 영업이익 흑자를 기록하며 막대한 개발 비용에 대한 시장의 우려를 불식시켰다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "투자"
-   ]
-  },
-  {
-   "id": "22da1ac219f3f808",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wg82rd/for_the_gpu_poor_k2_horizon_7b_ranks_between_qwen/",
-   "source": "r/LocalLLaMA",
-   "title": "For the GPU poor. K2 Horizon 7B ranks between qwen 3.6 27B and qwen 3.6 35BA3b on the Artificial Analysis Intelligence Index.",
-   "published_at": "2026-09-14T16:22:08+00:00",
-   "collected_at": "2026-09-14T18:32:11.971077+00:00",
-   "title_ko": "저사양 하드웨어를 위한 고성능 7B 모델 'K2 Horizon' 등장",
-   "summary_ko": "대형 모델에 버금가는 성능을 내며 저사양 GPU 사용자도 활용할 수 있는 GGUF 포맷의 7B 릴리즈 모델이 커뮤니티에서 주목받고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "8d67450b7e3e70d6",
-   "url": "https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/",
-   "source": "Hacker News",
-   "title": "For AI leaders Doom is a form of hype",
-   "published_at": "2026-09-14T16:15:05+00:00",
-   "collected_at": "2026-09-14T18:32:10.985465+00:00",
-   "title_ko": "AI 리더들의 '종말론' 담론은 일종의 마케팅인가",
-   "summary_ko": "주요 AI 업계 리더들이 주장하는 안전성 우려와 종말론적 수사학이 실질적 위험 경고보다는 마케팅과 과장(Hype)에 가깝다는 분석입니다.",
-   "category": "참고",
-   "tags": [
-    "Anthropic",
-    "규제"
-   ]
-  },
-  {
-   "id": "48d1363d893067be",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215224",
-   "source": "AI타임스",
-   "title": "오바마 \"AI 대처 못하면 위험\"...미 민주당에 적극 대응 촉구",
-   "published_at": "2026-09-14T16:08:03+00:00",
-   "collected_at": "2026-09-14T12:37:52.596985+00:00",
-   "title_ko": "오바마 전 미국 대통령, 민주당에 적극적 AI 대응 촉구",
-   "summary_ko": "버락 오바마 전 대통령이 AI 기술의 위험성을 강조하며 정당 차원의 정책적 대응과 입법을 주문했다.",
-   "category": "참고",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "5eb3bf4c96198fa9",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215240",
-   "source": "AI타임스",
-   "title": "KT, ‘AX 인사이트 리포트’ 발간…“금융기관 60%가 AX 실행 단계 진입”",
-   "published_at": "2026-09-14T16:05:05+00:00",
-   "collected_at": "2026-09-14T12:37:52.596985+00:00",
-   "title_ko": "KT, 금융·공공 기관 AI 도입 현황 리포트 발간",
-   "summary_ko": "KT가 발간한 리포트에 따르면 국내 금융 및 공공기관의 60% 이상이 AI 도입의 실행 단계에 진입한 것으로 나타났다.",
-   "category": "참고",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "90deb2aeb40bc178",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215220",
-   "source": "AI타임스",
-   "title": "앤트로픽, NYSE 대신 나스닥 선택…스페이스X 이어 초대형 기술주 상장",
-   "published_at": "2026-09-14T16:02:03+00:00",
-   "collected_at": "2026-09-14T12:37:52.596985+00:00",
-   "title_ko": "앤트로픽, IPO 상장 거래소로 나스닥 선택",
-   "summary_ko": "상장을 앞둔 앤트로픽이 뉴욕증권거래소 대신 나스닥을 선택하며 대형 기술주 상장 행렬에 합류했다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "투자"
-   ]
-  },
-  {
-   "id": "44cc3cd3a8dc2fcd",
-   "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-   "source": "MIT Tech Review",
-   "title": "AI agents blew the whistle on their cheating colleagues",
-   "published_at": "2026-09-14T16:00:00+00:00",
-   "collected_at": "2026-09-14T18:31:57.295807+00:00",
-   "title_ko": "구글 딥마인드 실험서 AI 에이전트의 부정행위 고발 포착",
-   "summary_ko": "수학 문제를 풀던 AI 에이전트 집단 중 일부가 부정행위를 하자 다른 에이전트들이 이를 고발하는 행동이 관찰되었습니다. 이는 자율형 AI 에이전트의 통제와 정렬 연구에 중요한 시사점을 줍니다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "ae19de15edcea471",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wg7dd5/ukisai_swiftqwen3827b_583_thinking_x195_speed/",
-   "source": "r/LocalLLaMA",
-   "title": "UkisAI Swift-Qwen3.8-27B / -58.3% thinking, x1.95 speed while keeping the accuracy of xhigh",
-   "published_at": "2026-09-14T15:57:17+00:00",
-   "collected_at": "2026-09-14T18:32:11.971077+00:00",
-   "title_ko": "추론 속도 2배 높인 오픈소스 모델 'Swift-Qwen3.8-27B' 공개",
-   "summary_ko": "불필요한 과잉 사고 토큰을 줄이고 온폴리시 증류 기법을 적용해 정확도 손실 없이 속도를 대폭 끌어올린 오픈소스 모델이 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "eae28ca795bf26a7",
-   "url": "https://www.reuters.com/business/retail-consumer/anthropic-tells-investors-it-will-be-profitable-second-straight-quarter-ft-2026-09-13/",
-   "source": "Hacker News",
-   "title": "Anthropic tells investors it will be profitable for second straight quarter",
-   "published_at": "2026-09-14T15:47:29+00:00",
-   "collected_at": "2026-09-15T07:37:19.927048+00:00",
-   "title_ko": "앤스로픽, 2개 분기 연속 흑자 달성 전망",
-   "summary_ko": "AI 기업 앤스로픽이 투자자들에게 2개 분기 연속으로 흑자를 기록할 것이라고 밝히며 수익성을 입증하고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "투자"
-   ]
-  },
-  {
-   "id": "72fec04d98da5f7d",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215238",
-   "source": "AI타임스",
-   "title": "와이즈넛, 대화로 만드는 AI 에이전트 공개…“기능 수정·추가도 손쉽게”",
-   "published_at": "2026-09-14T15:45:51+00:00",
-   "collected_at": "2026-09-14T12:37:52.596985+00:00",
-   "title_ko": "와이즈넛, 대화형 AI 에이전트 제작 기능 공개",
-   "summary_ko": "와이즈넛이 자연어 대화를 통해 손쉽게 지자체 및 공공기관용 AI 에이전트를 제작·수정할 수 있는 솔루션을 선보였다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "418179e0a84cf61c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wg6z3e/are_there_any_organizations_that_are_lobbying_in/",
-   "source": "r/LocalLLaMA",
-   "title": "Are there any organizations that are lobbying in favor of open source AI?",
-   "published_at": "2026-09-14T15:42:44+00:00",
-   "collected_at": "2026-09-14T18:32:11.971077+00:00",
-   "title_ko": "오픈소스 AI 옹호하는 규제 로비 단체 부재에 대한 의문",
-   "summary_ko": "대형 AI 기업들이 규제를 통해 시장 지배력을 강화하려는 움직임 속에서, 오픈소스 AI의 규제 면제를 지지하는 기업과 단체들의 연대에 대한 논의가 제기되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "규제",
-    "OpenAI"
-   ]
-  },
-  {
-   "id": "1e633b92d1304fe3",
-   "url": "https://news.hada.io/topic?id=33697",
-   "source": "GeekNews",
-   "title": "Show GN: Foundation Model Engineering - 학습부터 서빙까지 다루는 한·영 온라인 교재",
-   "published_at": "2026-09-14T15:37:09+00:00",
-   "collected_at": "2026-09-14T18:32:26.479140+00:00",
-   "title_ko": "파운데이션 모델 엔지니어링 한영 온라인 교재 공개",
-   "summary_ko": "파운데이션 모델의 구조부터 학습, 추론, RAG, 에이전트까지 실무적인 병목과 트레이드오프를 중심으로 다루는 한영 온라인 교재가 공개되었습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "404f7a443a48a2f5",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215225",
-   "source": "AI타임스",
-   "title": "시진핑, 브릭스 중심 'AI 오픈소스 동맹' 제안...\"미국 독점 견제\"",
-   "published_at": "2026-09-14T15:36:10+00:00",
-   "collected_at": "2026-09-14T12:37:52.596985+00:00",
-   "title_ko": "시진핑, 브릭스 중심 'AI 오픈소스 동맹' 제안",
-   "summary_ko": "중국 시진핑 주석이 브릭스 국가들과의 디지털·AI 협력을 강화하며 서방 중심의 기술 질서 견제에 나섰다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "규제"
-   ]
-  },
-  {
-   "id": "d1c66e6e7b636adf",
-   "url": "https://spectrum.ieee.org/china-ai-chatbot-regulation",
-   "source": "Hacker News",
-   "title": "China's Regulators Take Aim at \"AI Boyfriends\"",
-   "published_at": "2026-09-14T15:30:56+00:00",
-   "collected_at": "2026-09-14T22:26:00.342066+00:00",
-   "title_ko": "중국 규제 당국, 'AI 남자친구' 서비스 규제 착수",
-   "summary_ko": "중국 규제 기관들이 인기를 끌고 있는 AI 챗봇 기반 감정 교류 서비스에 대한 규제 움직임을 보이고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "5b56a1de69c67ecf",
-   "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-   "source": "TechCrunch",
-   "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-   "published_at": "2026-09-14T15:00:00+00:00",
-   "collected_at": "2026-09-14T18:31:44.439577+00:00",
-   "title_ko": "파운데이션 모델 발전 속 AI 스타트업의 생존 전략",
-   "summary_ko": "기초 모델이 빠르게 발전하면서 기능 영역을 확장할 때, AI 스타트업들이 지속적인 가치를 창출하기 위한 방안에 대한 세션이 예고되었습니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "투자"
-   ]
-  },
-  {
-   "id": "127afe7063d13078",
-   "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-   "source": "TechCrunch",
-   "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-   "published_at": "2026-09-14T14:45:44+00:00",
-   "collected_at": "2026-09-14T18:31:44.439577+00:00",
-   "title_ko": "수퍼휴먼, AI 에이전트 업무 강화를 위해 회의록 스타트업 패텀 인수",
-   "summary_ko": "생산성 플랫폼 수퍼휴먼이 월간 활성 사용자 40만 명을 보유한 AI 기반 회의록 서비스 '패텀'을 인수하며 에이전트 기능 강화에 나섰습니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트",
-    "투자"
-   ]
-  },
-  {
-   "id": "c5557927ad891607",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215249",
-   "source": "AI타임스",
-   "title": "8월 ICT 수출액 ‘600억달러’ 육박…반도체가 400억달러 이끌어",
-   "published_at": "2026-09-14T14:40:00+00:00",
-   "collected_at": "2026-09-14T18:32:26.296247+00:00",
-   "title_ko": "8월 ICT 수출 600억 달러 육박… AI 반도체가 견인",
-   "summary_ko": "글로벌 AI 투자 확대에 힘입어 8월 반도체 수출이 급증하며 전체 정보통신산업 수출액이 역대 최대 기록을 이어갔습니다.",
-   "category": "중요",
-   "tags": [
-    "반도체",
-    "투자"
-   ]
-  },
-  {
-   "id": "41a5e1c81a18bb62",
-   "url": "https://news.hada.io/topic?id=33695",
-   "source": "GeekNews",
-   "title": "Apple Siri의 AI를 Claude와 ChatGPT로 교체할 수 있는 코드 발견",
-   "published_at": "2026-09-14T14:36:47+00:00",
-   "collected_at": "2026-09-14T18:32:26.479140+00:00",
-   "title_ko": "애플 시리에 클로드와  ChatGPT 연동 코드 발견",
-   "summary_ko": "최신 애플 운영체제 비공개 프레임워크에서 시리가 외부 AI 모델을 위임받아 실행하는 '모델 델레게이션' 기능과 클로드 연동 정황이 포착되었습니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "Claude",
-    "GPT"
-   ]
-  },
-  {
-   "id": "09740d2129789fa6",
-   "url": "https://simonwillison.net/2026/Sep/14/laurie-voss/",
-   "source": "Simon Willison",
-   "title": "Quoting Laurie Voss",
-   "published_at": "2026-09-14T14:34:29+00:00",
-   "collected_at": "2026-09-14T18:32:11.177111+00:00",
-   "title_ko": "생성형 AI 시대의 소프트웨어 개발과 프로덕트 엔지니어",
-   "summary_ko": "코드 작성 비용의 급감으로 인해 소프트웨어 개발의 본질이 구현보다는 사용자의 니즈 정의와 제품 기획 중심으로 이동하고 있다는 분석입니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "3a918616a6e795fe",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215216",
-   "source": "AI타임스",
-   "title": "아모데이 \"AI 속도 조절 최대 난제는 중국과의 경쟁\"",
-   "published_at": "2026-09-14T14:32:15+00:00",
-   "collected_at": "2026-09-14T06:05:31.838193+00:00",
-   "title_ko": "앤트로픽 CEO \"AI 속도 조절의 최대 난제는 중국과의 경쟁\"",
-   "summary_ko": "다리오 아모데이 앤트로픽 CEO가 AI 개발 속도를 늦추는 과정에서 중국과의 기술 패권 경쟁이 가장 큰 딜레마라고 지적했습니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "규제",
-    "투자"
-   ]
-  },
-  {
-   "id": "d05624b674f7c7d9",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wg4kpu/xi_promotes_open_source_ai_zone_among_brics/",
-   "source": "r/LocalLLaMA",
-   "title": "Xi promotes open source AI zone among BRICS countries",
-   "published_at": "2026-09-14T14:12:27+00:00",
-   "collected_at": "2026-09-14T18:32:11.971077+00:00",
-   "title_ko": "시진핑 주석, 브릭스 국가 간 오픈소스 AI 협력 지대 제안",
-   "summary_ko": "중국 시진핑 주석이 브릭스(BRICS) 국가들 사이에서 오픈소스 AI 기술 협력을 강화하고 전용 구역을 조성할 것을 제안했습니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "규제"
-   ]
-  },
-  {
-   "id": "a603eee034a14937",
-   "url": "https://spectrum.ieee.org/adversarial-fashion",
-   "source": "Hacker News",
-   "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
-   "published_at": "2026-09-14T14:04:53+00:00",
-   "collected_at": "2026-09-14T18:32:10.985465+00:00",
-   "title_ko": "AI 감시망을 피하기 위한 적대적 패션",
-   "summary_ko": "AI 기반 안면 인식과 감시 시스템을 교란하는 의류 디자인이 주목받고 있습니다. AI 시대의 프라이버시 보호 문제를 다룹니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "규제"
-   ]
-  },
-  {
-   "id": "4f5596e6c593fa6c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wg4a0u/k2_horizon_lineup_is_out_on_aa_and_once_again_aa/",
-   "source": "r/LocalLLaMA",
-   "title": "K2 Horizon lineup is out on AA, and once again AA plots are misleading.",
-   "published_at": "2026-09-14T14:01:13+00:00",
-   "collected_at": "2026-09-14T18:32:11.971077+00:00",
-   "title_ko": "K2 Horizon 라인업 분석 및 KV 캐시 한계 지적",
-   "summary_ko": "새롭게 공개된 K2 Horizon 모델들이 뛰어난 성능을 보이지만, 비효율적인 KV 캐시 구조로 인해 실제 하드웨어 성능 활용에 제약이 있다는 분석입니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "078c69822839e7cd",
-   "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
-   "source": "Hacker News",
-   "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-   "published_at": "2026-09-14T13:59:09+00:00",
-   "collected_at": "2026-09-14T22:25:37.096241+00:00",
-   "title_ko": "클라우드 LLM에서 자체 호스팅 오마라(Ollama)로 대형 프롬프트 이전 시 주의사항",
-   "summary_ko": "클라우드 API에서 자체 호스팅 오픈소스 LLM으로 거대 프롬프트를 마이그레이션할 때 겪는 시행착오와 해결책을 공유합니다. 비용 절감과 데이터 프라이버시를 위해 자체 호스팅을 고려하는 개발자에게 유용합니다.",
-   "category": "팁",
-   "tags": [
-    "Anthropic",
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "b27a5f35810c80f2",
-   "url": "https://www.ilinmaks.com/blog/en/ai-jobs-market-2026",
-   "source": "Hacker News",
-   "title": "The AI job market in 2026",
-   "published_at": "2026-09-14T13:49:57+00:00",
-   "collected_at": "2026-09-14T18:32:10.985465+00:00",
-   "title_ko": "2026년 AI 채용 시장 동향",
-   "summary_ko": "2026년 현재 AI 인력 시장의 변화와 트렌드를 분석한 글입니다. 업계 고용 환경을 파악하는 데 유용합니다.",
-   "category": "참고",
-   "tags": [
-    "투자"
-   ]
-  },
-  {
-   "id": "4aba00a04e448729",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215226",
-   "source": "AI타임스",
-   "title": "\"구글, RSI 도달했나\"... 트윗 한 줄에서 시작된 루머에 관심 폭발",
-   "published_at": "2026-09-14T13:23:51+00:00",
-   "collected_at": "2026-09-14T06:05:31.838193+00:00",
-   "title_ko": "구글 초지능 도달 루머 확산",
-   "summary_ko": "구글 딥마인드가 재귀적 자기 개선(RSI) 단계에 도달했다는 소문이 소셜미디어를 중심으로 빠르게 확산되고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "Google",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "0f81e5211098de74",
-   "url": "https://gally.net/temp/20260914pelican-alternatives/index.html",
-   "source": "Hacker News",
-   "title": "Show HN: Pelican-bicycle alternatives",
-   "published_at": "2026-09-14T13:20:22+00:00",
-   "collected_at": "2026-09-14T22:25:37.096241+00:00",
-   "title_ko": "최신 LLM들의 SVG 생성 능력 비교 벤치마크 실험",
-   "summary_ko": "다양한 최신 LLM을 이용해 복잡한 프롬프트로 SVG 이미지를 생성하고 모델별 성능을 비교한 실험 결과입니다. 모델 성능 발전 양상을 시각적으로 확인할 수 있어 중요합니다.",
-   "category": "참고",
-   "tags": [
-    "OpenRouter",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "16d04bac1e00b309",
-   "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
-   "source": "The Verge",
-   "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
-   "published_at": "2026-09-14T13:00:00+00:00",
-   "collected_at": "2026-09-14T18:31:44.551872+00:00",
-   "title_ko": "마이크로소프트, '사람이 AI보다 우선' 행동 강령 발표",
-   "summary_ko": "마이크로소프트가 AI 안전성 우려 속에 37페이지 분량의 휴머니스트 AI 행동 강령을 공개했습니다. AI 개발 속도 조절 목소리가 커지는 상황입니다.",
-   "category": "중요",
-   "tags": [
-    "Microsoft",
-    "Anthropic",
-    "규제"
-   ]
-  },
-  {
-   "id": "dce815e05e9f3d47",
-   "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-   "source": "Hacker News",
-   "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-   "published_at": "2026-09-14T12:40:57+00:00",
-   "collected_at": "2026-09-14T18:32:00.012222+00:00",
-   "title_ko": "OpenAI 봇이 미리 알고 있던 루비젬스 취약점",
-   "summary_ko": "루비젬스 캐싱 취약점 문제를 OpenAI의 봇이 사전에 인지하고 있었던 정황이 포착되었습니다. AI의 보안 취약점 식별 능력을 보여줍니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "코딩"
-   ]
-  },
-  {
-   "id": "3205aca2d3309a4a",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wg28mu/is_there_a_better_small_model_than_qwen35_4b_for/",
-   "source": "r/LocalLLaMA",
-   "title": "Is there a better small model than Qwen3.5 4B for a fast local AI assistant?",
-   "published_at": "2026-09-14T12:37:49+00:00",
-   "collected_at": "2026-09-14T18:32:11.971077+00:00",
-   "title_ko": "로컬 AI 비서용 소형 모델 추천 및 Qwen3.5 4B 비교",
-   "summary_ko": "제한된 하드웨어에서 실시간 응답이 가능한 소형 로컬 AI 모델을 찾는 개발자의 질문과 커뮤니티의 모델 비교 논의입니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "코딩"
    ]
   }
  ]
