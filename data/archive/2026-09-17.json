@@ -241,6 +241,96 @@
   ]
  },
  {
+  "id": "ed3b6837009e613c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wipkd2/intel_releases_openvino_20264/",
+  "source": "r/LocalLLaMA",
+  "title": "Intel releases OpenVINO 2026.4",
+  "published_at": "2026-09-17T09:51:35+00:00",
+  "collected_at": "2026-09-17T11:32:10.563846+00:00",
+  "title_ko": "인텔, OpenVINO 2026.4 출시… 최신 오픈소스 모델 지원 확대",
+  "summary_ko": "인텔이 OpenVINO 2026.4를 공개하며 Gemma, Qwen 등 최신 생성형 AI 모델과 다양한 하드웨어 프레임워크 지원을 대폭 강화했습니다. 개발자들이 다양한 장치에서 AI 모델을 효율적으로 실행할 수 있게 돕습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "Gemma",
+   "NVIDIA"
+  ]
+ },
+ {
+  "id": "d948201731fa3ac0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wipju7/qwen_next_38_claude_opus_level_local_model_what/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen Next 3.8 / Claude Opus level local model - What to buy in order to deploy?",
+  "published_at": "2026-09-17T09:50:46+00:00",
+  "collected_at": "2026-09-17T11:32:10.563846+00:00",
+  "title_ko": "고성능 오픈소스 LLM 로컬 배포를 위한 하드웨어 구성 조언",
+  "summary_ko": "Claude Opus급 성능을 내는 대형 모델을 로컬 환경에 직접 배포하기 위한 예산 및 하드웨어 구성 방안을 논의합니다. 한정된 예산에서 효율적으로 AI 서버를 구축하려는 개발자들에게 실질적인 가이드를 제공합니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "7dbd03bc7f3a68d9",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wimjnv/zdtaichu509b/",
+  "source": "r/LocalLLaMA",
+  "title": "ZDTaichu5.0-9B",
+  "published_at": "2026-09-17T06:53:41+00:00",
+  "collected_at": "2026-09-17T11:32:10.563846+00:00",
+  "title_ko": "허깅페이스에 공개된 신규 오픈소스 모델 ZDTaichu5.0-9B",
+  "summary_ko": "허깅페이스에 새로운 9B 파라미터 규모의 오픈소스 AI 모델 ZDTaichu5.0-9B가 등록되었습니다. 다양한 오픈소스 생태계 확장과 연구 활용에 기여할 것으로 보입니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "b2e1852a228bdc4d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wimf5p/xingchenagixing4029ba4b_moe/",
+  "source": "r/LocalLLaMA",
+  "title": "XingChen-AGI/Xing4.0-29B-A4B MoE",
+  "published_at": "2026-09-17T06:46:38+00:00",
+  "collected_at": "2026-09-17T11:32:10.563846+00:00",
+  "title_ko": "차이나텔레콤, 차세대 MoE 모델 Xing4.0-29B 공개",
+  "summary_ko": "중국 차이나텔레콤이 29B 파라미터에 토큰당 4B만 활성화하는 MoE 구조의 대형 언어 모델 Xing4.0을 공개했습니다. 화웨이 Ascend NPU 플랫폼과 MindSpore 프레임워크 기반으로 학습된 점이 특징입니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "0087cc4d6b6f203e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wilmnz/how_do_you_create_and_use_your_agentic_workflow/",
+  "source": "r/LocalLLaMA",
+  "title": "How do you create and use your agentic workflow?",
+  "published_at": "2026-09-17T06:02:09+00:00",
+  "collected_at": "2026-09-17T11:32:10.563846+00:00",
+  "title_ko": "개발자들의 일상 속 AI 에이전트 워크플로우 활용법",
+  "summary_ko": "개발자들이 일상 업무와 개인 생활에서 AI 에이전트와 자동화 스크립트를 어떻게 활용하고 있는지 공유하는 토론입니다. 실무 생산성을 높이는 다양한 프랙티스를 엿볼 수 있습니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "d612ef9b0c7c46b4",
+  "url": "https://news.hada.io/topic?id=33825",
+  "source": "GeekNews",
+  "title": "DeepMind Institute",
+  "published_at": "2026-09-17T05:32:12+00:00",
+  "collected_at": "2026-09-17T11:32:25.415663+00:00",
+  "title_ko": "딥마인드 인스티튜트, AGI 도래 대비 추론 투명성 강조",
+  "summary_ko": "딥마인드 인스티튜트가 AGI 시대에 대비해 AI의 사고 과정을 읽고 기만을 감시할 수 있는 '추론 투명성'의 중요성을 역설했습니다. AI 안전성과 인류에 미칠 영향을 학제 간 관점에서 다루고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "Google",
+   "규제"
+  ]
+ },
+ {
   "id": "09b1457162e2d91c",
   "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
   "source": "TechCrunch",
@@ -254,6 +344,21 @@
    "투자",
    "음성 AI",
    "로보틱스"
+  ]
+ },
+ {
+  "id": "4c3eb9a8f621aaba",
+  "url": "https://news.hada.io/topic?id=33822",
+  "source": "GeekNews",
+  "title": "3진 LLM의 1.58비트 장벽을 넘어서",
+  "published_at": "2026-09-17T04:42:12+00:00",
+  "collected_at": "2026-09-17T11:32:25.415663+00:00",
+  "title_ko": "3진 LLM의 효율 극대화하는 새로운 압축 기법 BITCOS 등장",
+  "summary_ko": "3진 LLM 가중치의 0 비중을 활용해 저장 용량을 크게 줄이는 BITCOS 기법이 소개되었습니다. 가중치 당 1.485비트 수준까지 용량을 최적화하여 저자원 환경에서의 모델 구동을 돕습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "반도체"
   ]
  },
  {
@@ -332,6 +437,22 @@
    "Claude",
    "AI 에이전트",
    "코딩"
+  ]
+ },
+ {
+  "id": "9a6da122e11fcf5d",
+  "url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
+  "source": "Hacker News",
+  "title": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior",
+  "published_at": "2026-09-17T01:02:13+00:00",
+  "collected_at": "2026-09-17T11:32:09.561202+00:00",
+  "title_ko": "OpenAI, AI 모델의 우려스러운 행동 6건 공개",
+  "summary_ko": "OpenAI가 AI 모델의 잠재적 위험성과 안전 가드레일 점검을 위해 우려스러운 행동 사례 6건을 공개했다. 모델의 안전성 검증과 통제 강화의 중요성을 보여주는 사례다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "AI 안전",
+   "규제"
   ]
  },
  {
@@ -462,6 +583,21 @@
   "summary_ko": "샤오미가 자사 Mimo 2.6 프로 및 플래시 모델의 학습 진행 단계와 토큰 사용량을 실시간 대시보드로 공개했습니다.",
   "category": "참고",
   "tags": []
+ },
+ {
+  "id": "8230bbfb30d6fe82",
+  "url": "https://harnesstax.github.io/",
+  "source": "Hacker News",
+  "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+  "published_at": "2026-09-16T22:10:13+00:00",
+  "collected_at": "2026-09-17T11:32:05.948703+00:00",
+  "title_ko": "코딩 에이전트에서 하네스의 영향력 분석",
+  "summary_ko": "코딩 에이전트 성능에 래퍼나 하네스 시스템이 미치는 영향과 비용을 분석한 연구다. 에이전트 실효성을 높이는 구조적 요인을 파악하는 데 도움을 준다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
  },
  {
   "id": "dc9ae39511d3b54b",
