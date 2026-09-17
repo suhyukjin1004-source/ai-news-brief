@@ -223,6 +223,21 @@
   ]
  },
  {
+  "id": "b275614831acf5a5",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wiy8ga/shots_fired_at_dario_from_glm/",
+  "source": "r/LocalLLaMA",
+  "title": "shots fired at dario from glm",
+  "published_at": "2026-09-17T16:08:14+00:00",
+  "collected_at": "2026-09-17T16:50:50.655528+00:00",
+  "title_ko": "GLM 팀의 다리오 아모데이 비판 성명 발표",
+  "summary_ko": "GLM 개발 팀이 앤스로픽의 CEO 다리오 아모데이를 겨냥한 흥미로운 성명을 발표했습니다. AI 업계 리더들 간의 철학적, 전략적 경쟁 구도를 보여줍니다.",
+  "category": "속보",
+  "tags": [
+   "Anthropic",
+   "GLM"
+  ]
+ },
+ {
   "id": "ffa953c81bc34911",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215405",
   "source": "AI타임스",
@@ -236,6 +251,51 @@
    "반도체",
    "투자",
    "오픈소스"
+  ]
+ },
+ {
+  "id": "101b25ba0d96a264",
+  "url": "https://www.reddit.com/r/singularity/comments/1wiy03z/noam_brown_agent_swarms_alignment_recursive/",
+  "source": "r/singularity",
+  "title": "Noam Brown – Agent swarms, alignment, & recursive self-improvement",
+  "published_at": "2026-09-17T16:00:05+00:00",
+  "collected_at": "2026-09-17T16:51:03.710784+00:00",
+  "title_ko": "노암 브라운이 언급한 AI 에이전트 스웜과 자기 개선",
+  "summary_ko": "오픈AI의 노암 브라운이 AI 에이전트 스웜, 정렬 문제, 그리고 재귀적 자기 개선에 대한 통찰을 공유했습니다. 차세대 AGI 발전 방향을 가늠할 수 있는 중요한 내용입니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "ae5789d054c8af19",
+  "url": "https://www.reddit.com/r/singularity/comments/1wixynn/gemini_4_pro_vs_gemini_38_flash_pelican_riding_a/",
+  "source": "r/singularity",
+  "title": "Gemini 4 Pro vs Gemini 3.8 Flash (Pelican Riding a Bicycle SVG)",
+  "published_at": "2026-09-17T15:58:35+00:00",
+  "collected_at": "2026-09-17T16:51:03.710784+00:00",
+  "title_ko": "Gemini 최신 모델 간 SVG 생성 성능 비교",
+  "summary_ko": "제미나이 4 프로와 3.8 플래시 모델 간의 SVG 코드 생성 능력을 비교한 벤치마크 결과가 공개되었습니다. 멀티모달 및 코딩 성능의 발전 속도를 보여줍니다.",
+  "category": "참고",
+  "tags": [
+   "Gemini",
+   "코딩"
+  ]
+ },
+ {
+  "id": "4727fb8a16dd032a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wiws8e/153_toks_on_1x_amd_radeon_r9700_running_qwen38/",
+  "source": "r/LocalLLaMA",
+  "title": "153 tok/s on 1x AMD Radeon R9700 running Qwen3.8 27b NVFP4, 470 tok/s @ 8 conc requests, Prefill @ 3,619 tok/s",
+  "published_at": "2026-09-17T15:14:39+00:00",
+  "collected_at": "2026-09-17T16:50:50.655528+00:00",
+  "title_ko": "AMD GPU에서 Qwen 모델 최적화로 고속 추론 달성",
+  "summary_ko": "AMD Radeon 그래픽카드에서 Qwen 3.8B 모델을 최적화하여 초당 150토큰이 넘는 빠른 디코딩 속도를 기록했습니다. 하드웨어 가속을 통한 로컬 LLM 구동 성능 향상을 보여줍니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
   ]
  }
 ]
