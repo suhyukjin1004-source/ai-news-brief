@@ -1,5 +1,89 @@
 [
  {
+  "id": "cf6ea69cb366680b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1widoob/upgraded_my_local_setup_with_2_rtx_pros_and_its/",
+  "source": "r/LocalLLaMA",
+  "title": "Upgraded my local setup with 2 rtx pros and it's amazing.",
+  "published_at": "2026-09-16T23:43:20+00:00",
+  "collected_at": "2026-09-17T00:24:16.654952+00:00",
+  "title_ko": "RTX 프로 2개로 구축한 로컬 LLM 하드웨어 환경",
+  "summary_ko": "개발자가 듀얼 RTX 프로 GPU를 활용해 로컬 LLM 구동 환경을 성공적으로 구축한 사례입니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "db13e738ec1dbb50",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1widomo/i_built_a_native_vulkan_training_backend_for_143/",
+  "source": "r/LocalLLaMA",
+  "title": "I built a native Vulkan training backend for 143 modern Transformer architectures — no CUDA or PyTorch required",
+  "published_at": "2026-09-16T23:43:16+00:00",
+  "collected_at": "2026-09-17T00:24:16.654952+00:00",
+  "title_ko": "CUDA 없는 Rust 및 Vulkan 기반 네이티브 트랜스포머 학습 백엔드",
+  "summary_ko": "CUDA나 PyTorch 없이 다양한 트랜스포머 아키텍처를 학습·추론할 수 있는 Rust 및 Vulkan 백엔드가 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "c8c6305d3f8b2a67",
+  "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+  "source": "The Verge",
+  "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+  "published_at": "2026-09-16T23:40:00+00:00",
+  "collected_at": "2026-09-17T00:23:54.888585+00:00",
+  "title_ko": "스냅, iOS 및 Mac용 'Specs Intelligence' AI 어시스턴트 출시",
+  "summary_ko": "스냅이 디지털 계정을 연동해 업무와 여행 등을 지원하는 선제적 AI 어시스턴트인 스펙스 인텔리전스를 선보였습니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "c3d959834edcd052",
+  "url": "https://news.hada.io/topic?id=33809",
+  "source": "GeekNews",
+  "title": "DeepSeek V4.1 Flash, 이제 Enclave의 최고 해킹 모델",
+  "published_at": "2026-09-16T22:45:20+00:00",
+  "collected_at": "2026-09-17T00:24:31.356720+00:00",
+  "title_ko": "DeepSeek V4.1 Flash, 엔클레이브 해킹 벤치마크 최고 기록 달성",
+  "summary_ko": "DeepSeek V4.1 Flash 모델이 보안 취약점 타깃 벤치마크에서 뛰어난 코드 실행 능력을 입증했습니다.",
+  "category": "중요",
+  "tags": [
+   "코딩"
+  ]
+ },
+ {
+  "id": "d9904c49e4e593f9",
+  "url": "https://news.hada.io/topic?id=33808",
+  "source": "GeekNews",
+  "title": "Xiaomi Mimo 2.6 실시간 사후 학습 대시보드",
+  "published_at": "2026-09-16T22:42:20+00:00",
+  "collected_at": "2026-09-17T00:24:31.356720+00:00",
+  "title_ko": "Xiaomi Mimo 2.6 실시간 사후 학습 대시보드 공개",
+  "summary_ko": "샤오미가 자사 Mimo 2.6 프로 및 플래시 모델의 학습 진행 단계와 토큰 사용량을 실시간 대시보드로 공개했습니다.",
+  "category": "참고",
+  "tags": []
+ },
+ {
+  "id": "dc9ae39511d3b54b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wib9kj/openjev/",
+  "source": "r/LocalLLaMA",
+  "title": "Openjev",
+  "published_at": "2026-09-16T22:01:13+00:00",
+  "collected_at": "2026-09-17T00:24:16.654952+00:00",
+  "title_ko": "오픈소스 크로스인코더 기반 'Openjev' 모델 공개",
+  "summary_ko": "게임 플레이 등 다양한 작업 수행이 가능한 크로스인코더 기반의 오픈소스 모델 Openjev가 허깅페이스에 공개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "f3fb8672e0a74960",
   "url": "https://news.hada.io/topic?id=33806",
   "source": "GeekNews",
@@ -47,6 +131,20 @@
   ]
  },
  {
+  "id": "6c3aabdc873f538f",
+  "url": "https://arxiv.org/abs/2609.16338",
+  "source": "Hacker News",
+  "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+  "published_at": "2026-09-16T20:59:24+00:00",
+  "collected_at": "2026-09-17T00:24:14.820693+00:00",
+  "title_ko": "삼진 LLM을 위한 1.58비트 장벽 돌파 연구",
+  "summary_ko": "효율적인 LLM 구현을 위한 삼진(Ternary) 모델의 양자화 및 성능 한계를 넘어서는 새로운 연구가 발표되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "e299907abf117783",
   "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
   "source": "The Verge",
@@ -57,6 +155,20 @@
   "summary_ko": "전부 AI로 제작된 2시간 반 분량의 영화가 원작의 명성에 흠집을 낼 정도로 형편없는 완성도를 보여주었습니다.",
   "category": "참고",
   "tags": []
+ },
+ {
+  "id": "fd848e4e07d1e407",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi9ka0/13b_token_used_recently_qwen38_27b/",
+  "source": "r/LocalLLaMA",
+  "title": "1.3B token used recently, qwen3.8 27b",
+  "published_at": "2026-09-16T20:55:23+00:00",
+  "collected_at": "2026-09-17T00:24:16.654952+00:00",
+  "title_ko": "Qwen3.8 27B 모델 활용한 대규모 토큰 처리 사례",
+  "summary_ko": "Qwen3.8 27B 모델을 이용해 단기간에 대규모 토큰을 처리하며 강력한 성능을 보여준 사례가 공유되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
  },
  {
   "id": "db1d8e8cd46eb4f0",
@@ -475,6 +587,21 @@
   "summary_ko": "SKT가 글로벌 보안 기업 F5와 손잡고 AI 클라우드 보안 사업 협력을 강화하기로 했습니다.",
   "category": "참고",
   "tags": [
+   "규제"
+  ]
+ },
+ {
+  "id": "bbe6c30a33c9c72e",
+  "url": "https://openai.com/index/model-misalignment-reporting-framework",
+  "source": "OpenAI",
+  "title": "Our framework for reporting model misalignment",
+  "published_at": "2026-09-16T17:00:00+00:00",
+  "collected_at": "2026-09-17T00:24:08.158431+00:00",
+  "title_ko": "OpenAI, 모델 정렬 오류 보고 프레임워크 공개",
+  "summary_ko": "OpenAI가 예기치 않은 AI 모델의 행동을 추적하고 조사하기 위한 정렬 오류 보고 프레임워크와 사례를 발표했습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
    "규제"
   ]
  },

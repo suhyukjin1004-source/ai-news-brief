@@ -1,8 +1,92 @@
 {
- "updated_at": "2026-09-16T22:04:14.796613+00:00",
+ "updated_at": "2026-09-17T00:24:35.457566+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "cf6ea69cb366680b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1widoob/upgraded_my_local_setup_with_2_rtx_pros_and_its/",
+   "source": "r/LocalLLaMA",
+   "title": "Upgraded my local setup with 2 rtx pros and it's amazing.",
+   "published_at": "2026-09-16T23:43:20+00:00",
+   "collected_at": "2026-09-17T00:24:16.654952+00:00",
+   "title_ko": "RTX 프로 2개로 구축한 로컬 LLM 하드웨어 환경",
+   "summary_ko": "개발자가 듀얼 RTX 프로 GPU를 활용해 로컬 LLM 구동 환경을 성공적으로 구축한 사례입니다.",
+   "category": "참고",
+   "tags": [
+    "NVIDIA",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "db13e738ec1dbb50",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1widomo/i_built_a_native_vulkan_training_backend_for_143/",
+   "source": "r/LocalLLaMA",
+   "title": "I built a native Vulkan training backend for 143 modern Transformer architectures — no CUDA or PyTorch required",
+   "published_at": "2026-09-16T23:43:16+00:00",
+   "collected_at": "2026-09-17T00:24:16.654952+00:00",
+   "title_ko": "CUDA 없는 Rust 및 Vulkan 기반 네이티브 트랜스포머 학습 백엔드",
+   "summary_ko": "CUDA나 PyTorch 없이 다양한 트랜스포머 아키텍처를 학습·추론할 수 있는 Rust 및 Vulkan 백엔드가 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "c8c6305d3f8b2a67",
+   "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+   "source": "The Verge",
+   "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+   "published_at": "2026-09-16T23:40:00+00:00",
+   "collected_at": "2026-09-17T00:23:54.888585+00:00",
+   "title_ko": "스냅, iOS 및 Mac용 'Specs Intelligence' AI 어시스턴트 출시",
+   "summary_ko": "스냅이 디지털 계정을 연동해 업무와 여행 등을 지원하는 선제적 AI 어시스턴트인 스펙스 인텔리전스를 선보였습니다.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "c3d959834edcd052",
+   "url": "https://news.hada.io/topic?id=33809",
+   "source": "GeekNews",
+   "title": "DeepSeek V4.1 Flash, 이제 Enclave의 최고 해킹 모델",
+   "published_at": "2026-09-16T22:45:20+00:00",
+   "collected_at": "2026-09-17T00:24:31.356720+00:00",
+   "title_ko": "DeepSeek V4.1 Flash, 엔클레이브 해킹 벤치마크 최고 기록 달성",
+   "summary_ko": "DeepSeek V4.1 Flash 모델이 보안 취약점 타깃 벤치마크에서 뛰어난 코드 실행 능력을 입증했습니다.",
+   "category": "중요",
+   "tags": [
+    "코딩"
+   ]
+  },
+  {
+   "id": "d9904c49e4e593f9",
+   "url": "https://news.hada.io/topic?id=33808",
+   "source": "GeekNews",
+   "title": "Xiaomi Mimo 2.6 실시간 사후 학습 대시보드",
+   "published_at": "2026-09-16T22:42:20+00:00",
+   "collected_at": "2026-09-17T00:24:31.356720+00:00",
+   "title_ko": "Xiaomi Mimo 2.6 실시간 사후 학습 대시보드 공개",
+   "summary_ko": "샤오미가 자사 Mimo 2.6 프로 및 플래시 모델의 학습 진행 단계와 토큰 사용량을 실시간 대시보드로 공개했습니다.",
+   "category": "참고",
+   "tags": []
+  },
+  {
+   "id": "dc9ae39511d3b54b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wib9kj/openjev/",
+   "source": "r/LocalLLaMA",
+   "title": "Openjev",
+   "published_at": "2026-09-16T22:01:13+00:00",
+   "collected_at": "2026-09-17T00:24:16.654952+00:00",
+   "title_ko": "오픈소스 크로스인코더 기반 'Openjev' 모델 공개",
+   "summary_ko": "게임 플레이 등 다양한 작업 수행이 가능한 크로스인코더 기반의 오픈소스 모델 Openjev가 허깅페이스에 공개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
   {
    "id": "f3fb8672e0a74960",
    "url": "https://news.hada.io/topic?id=33806",
@@ -51,6 +135,20 @@
    ]
   },
   {
+   "id": "6c3aabdc873f538f",
+   "url": "https://arxiv.org/abs/2609.16338",
+   "source": "Hacker News",
+   "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+   "published_at": "2026-09-16T20:59:24+00:00",
+   "collected_at": "2026-09-17T00:24:14.820693+00:00",
+   "title_ko": "삼진 LLM을 위한 1.58비트 장벽 돌파 연구",
+   "summary_ko": "효율적인 LLM 구현을 위한 삼진(Ternary) 모델의 양자화 및 성능 한계를 넘어서는 새로운 연구가 발표되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
    "id": "e299907abf117783",
    "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
    "source": "The Verge",
@@ -61,6 +159,20 @@
    "summary_ko": "전부 AI로 제작된 2시간 반 분량의 영화가 원작의 명성에 흠집을 낼 정도로 형편없는 완성도를 보여주었습니다.",
    "category": "참고",
    "tags": []
+  },
+  {
+   "id": "fd848e4e07d1e407",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi9ka0/13b_token_used_recently_qwen38_27b/",
+   "source": "r/LocalLLaMA",
+   "title": "1.3B token used recently, qwen3.8 27b",
+   "published_at": "2026-09-16T20:55:23+00:00",
+   "collected_at": "2026-09-17T00:24:16.654952+00:00",
+   "title_ko": "Qwen3.8 27B 모델 활용한 대규모 토큰 처리 사례",
+   "summary_ko": "Qwen3.8 27B 모델을 이용해 단기간에 대규모 토큰을 처리하며 강력한 성능을 보여준 사례가 공유되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
   },
   {
    "id": "db1d8e8cd46eb4f0",
@@ -435,6 +547,21 @@
    "category": "참고",
    "tags": [
     "오픈소스"
+   ]
+  },
+  {
+   "id": "bbe6c30a33c9c72e",
+   "url": "https://openai.com/index/model-misalignment-reporting-framework",
+   "source": "OpenAI",
+   "title": "Our framework for reporting model misalignment",
+   "published_at": "2026-09-16T17:00:00+00:00",
+   "collected_at": "2026-09-17T00:24:08.158431+00:00",
+   "title_ko": "OpenAI, 모델 정렬 오류 보고 프레임워크 공개",
+   "summary_ko": "OpenAI가 예기치 않은 AI 모델의 행동을 추적하고 조사하기 위한 정렬 오류 보고 프레임워크와 사례를 발표했습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "규제"
    ]
   },
   {
@@ -1220,6 +1347,22 @@
     "OpenAI",
     "Anthropic",
     "Google"
+   ]
+  },
+  {
+   "id": "89bbdfee897665a8",
+   "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+   "source": "Hacker News",
+   "title": "Nvidia announces native GPU programming in Rust",
+   "published_at": "2026-09-16T11:15:53+00:00",
+   "collected_at": "2026-09-17T00:24:14.820693+00:00",
+   "title_ko": "NVIDIA, Rust 기반 네이티브 GPU 프로그래밍 지원 발표",
+   "summary_ko": "엔비디아가 개발자들이 GPU 커널을 작성할 수 있도록 Rust 기반의 네이티브 CUDA 프로그래밍 트랙을 도입했습니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "반도체",
+    "코딩"
    ]
   },
   {
@@ -2812,153 +2955,6 @@
    "tags": [
     "오픈소스",
     "코딩"
-   ]
-  },
-  {
-   "id": "f8ac31063bfdb01f",
-   "url": "https://spectrum.ieee.org/inference-hardware-revolution",
-   "source": "Hacker News",
-   "title": "The Inference Hardware Revolution of 2026",
-   "published_at": "2026-09-15T14:24:08+00:00",
-   "collected_at": "2026-09-16T01:19:28.671134+00:00",
-   "title_ko": "2026년 AI 추론 하드웨어 혁명",
-   "summary_ko": "AI 모델의 추론 처리를 위한 하드웨어 기술과 시장 판도가 급변하고 있음을 다룬 분석 기사입니다. AI 서비스 운영 비용 절감과 성능 향상에 직접적인 영향을 미치는 중요한 트렌드입니다.",
-   "category": "참고",
-   "tags": [
-    "반도체",
-    "NVIDIA",
-    "하드웨어"
-   ]
-  },
-  {
-   "id": "06064319bfe68322",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215282",
-   "source": "AI타임스",
-   "title": "'AI 위협' 조회수 1.7억 폭발…앤트로픽 떠난 콕슨 '커리어 전환점'",
-   "published_at": "2026-09-15T14:08:46+00:00",
-   "collected_at": "2026-09-15T07:37:33.893632+00:00",
-   "title_ko": "앤트로픽 퇴사 후 AI 위협 경고한 제이콥 콕슨, 생태계 주목",
-   "summary_ko": "AI의 생존 위협을 경고하며 앤트로픽을 사임한 연구원 제이콥 콕슨이 AI 안전 생태계의 주요 인물로 급부상했다.",
-   "category": "참고",
-   "tags": [
-    "Anthropic",
-    "규제"
-   ]
-  },
-  {
-   "id": "57d3e790a4d16742",
-   "url": "https://www.reddit.com/r/singularity/comments/1wh19nj/agentic_coding_in_2026/",
-   "source": "r/singularity",
-   "title": "Agentic coding in 2026",
-   "published_at": "2026-09-15T14:02:06+00:00",
-   "collected_at": "2026-09-15T18:07:01.387656+00:00",
-   "title_ko": "2026년의 에이전틱 코딩 트렌드",
-   "summary_ko": "소프트웨어 개발 분야에서 AI 에이전트의 활용도가 급격히 높아지는 양상을 다룬 토론입니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "4aa0dd661b8ad9f5",
-   "url": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/",
-   "source": "Hacker News",
-   "title": "AI is breaking our proxies for expertise",
-   "published_at": "2026-09-15T13:41:55+00:00",
-   "collected_at": "2026-09-15T18:06:47.382819+00:00",
-   "title_ko": "AI가 기존의 전문성 판단 기준을 무너뜨리는 방식",
-   "summary_ko": "생성형 AI의 발전이 인간의 전문성과 역량을 증명해 오던 기존의 대리 지표들을 어떻게 흔들고 있는지 분석한 글입니다.",
-   "category": "참고",
-   "tags": []
-  },
-  {
-   "id": "befa06e2d0354b78",
-   "url": "https://www.bbc.com/news/articles/cqgk5e2j0gg8o",
-   "source": "Hacker News",
-   "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
-   "published_at": "2026-09-15T13:41:28+00:00",
-   "collected_at": "2026-09-16T07:36:41.750193+00:00",
-   "title_ko": "앤스로픽 공동창업자, AI 킬 스위치 의무화 필요성 제기",
-   "summary_ko": "앤스로픽 공동창업자가 BBC 인터뷰에서 AI 시스템 통제를 위해 강제적인 '킬 스위치' 도입이 필요하다고 주장함.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "규제"
-   ]
-  },
-  {
-   "id": "0347ad980c559f23",
-   "url": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
-   "source": "The Verge",
-   "title": "This doorbell camera lets a human security guard watch your front door",
-   "published_at": "2026-09-15T13:36:45+00:00",
-   "collected_at": "2026-09-15T18:06:28.187452+00:00",
-   "title_ko": "AI와 보안 요원을 결합한 스마트 도어벨 카메라 출시",
-   "summary_ko": "심플세이프가 AI 분석 기능과 실제 보안 요원의 모니터링을 결합한 홈 보안 도어벨 신제품을 선보였습니다.",
-   "category": "속보",
-   "tags": []
-  },
-  {
-   "id": "9ea776ae7c5bc79f",
-   "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-   "source": "TechCrunch",
-   "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-   "published_at": "2026-09-15T13:00:00+00:00",
-   "collected_at": "2026-09-15T13:26:17.618924+00:00",
-   "title_ko": "AI 에이전트 통제 스타트업 AIUC, 4,000만 달러 투자 유치",
-   "summary_ko": "앤트로픽 초기 멤버와 METR COO가 설립한 AIUC가 통제 불능 AI 에이전트를 제어하는 기술로 시리즈 A 투자를 받았습니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "AI 에이전트",
-    "투자"
-   ]
-  },
-  {
-   "id": "63b04c12395db063",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
-   "source": "Google AI",
-   "title": "New insights from Google’s AI & Economy ATLAS",
-   "published_at": "2026-09-15T13:00:00+00:00",
-   "collected_at": "2026-09-15T13:26:31.088926+00:00",
-   "title_ko": "구글, AI와 경제 분석 리포트 발표",
-   "summary_ko": "구글이 AI 기술이 경제에 미치는 영향을 분석한 AI & Economy ATLAS를 공개했습니다.",
-   "category": "참고",
-   "tags": [
-    "Google",
-    "경제"
-   ]
-  },
-  {
-   "id": "6aaf210b3029dfaf",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215273",
-   "source": "AI타임스",
-   "title": "'AI 개발 속도 조절' 발언에 글로벌 테크·반도체주 일제히 급락",
-   "published_at": "2026-09-15T12:43:47+00:00",
-   "collected_at": "2026-09-15T07:37:33.893632+00:00",
-   "title_ko": "AI 개발 속도 조절론 확산에 글로벌 테크·반도체주 일제히 급락",
-   "summary_ko": "최첨단 AI 모델 개발 속도를 늦춰야 한다는 목소리가 커지면서 반도체 및 데이터센터 투자 위축 우려로 기술주가 급락했다.",
-   "category": "속보",
-   "tags": [
-    "반도체",
-    "투자",
-    "규제"
-   ]
-  },
-  {
-   "id": "96b8b30d3448378e",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgz8fo/occamy10_by_accio_lab/",
-   "source": "r/LocalLLaMA",
-   "title": "Occamy-1.0 by Accio Lab",
-   "published_at": "2026-09-15T12:38:44+00:00",
-   "collected_at": "2026-09-15T13:26:37.853366+00:00",
-   "title_ko": "Accio Lab의 Occamy-1.0 공개",
-   "summary_ko": "Accio Lab에서 새로운 오픈 모델인 Occamy-1.0을 커뮤니티에 선보였습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM"
    ]
   }
  ]
