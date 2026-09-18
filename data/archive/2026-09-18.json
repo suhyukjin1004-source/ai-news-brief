@@ -1,5 +1,20 @@
 [
  {
+  "id": "ac5bccc481a8632d",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=215455",
+  "source": "AI타임스",
+  "title": "화웨이, 차세대 AI 칩 출시 앞당긴다...\"대규모 연결로 엔비디아 추격\"",
+  "published_at": "2026-09-18T14:56:24+00:00",
+  "collected_at": "2026-09-18T09:37:26.224816+00:00",
+  "title_ko": "화웨이, 차세대 AI 칩 '어센드 960DT' 출시 앞당겨",
+  "summary_ko": "화웨이가 미국의 규제에 대응해 대규모 칩 연결 기술을 적용한 차세대 AI 가속기 출시를 앞당겨 엔비디아 추격에 나선다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
   "id": "d5a7f02e396abcb4",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215447",
   "source": "AI타임스",
@@ -62,6 +77,122 @@
   ]
  },
  {
+  "id": "957c80226f8a4297",
+  "url": "https://news.hada.io/topic?id=33886",
+  "source": "GeekNews",
+  "title": "Show GN: 묻기 전에 먼저 움직이는 Slack AI 팀원",
+  "published_at": "2026-09-18T08:46:21+00:00",
+  "collected_at": "2026-09-18T09:37:27.471204+00:00",
+  "title_ko": "슬랙용 자율형 AI 에이전트 서비스",
+  "summary_ko": "사용자가 물어보지 않아도 먼저 업무를 파악하고 제안하는 슬랙용 AI 직원 서비스가 출시되었습니다. 팀 협업 과정에서 놓치는 일을 줄여주는 것이 중요합니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "debddcd067416f27",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjjspd/zcode_was_allegedly_caught_uploading_workspacegit/",
+  "source": "r/LocalLLaMA",
+  "title": "ZCode was allegedly caught uploading workspace/.git records to the cloud.",
+  "published_at": "2026-09-18T07:49:55+00:00",
+  "collected_at": "2026-09-18T09:37:13.171899+00:00",
+  "title_ko": "ZCode, 워크스페이스 깃 레코드를 클라우드에 무단 업로드 논란",
+  "summary_ko": "AI 코딩 도구 관련해 사용자의 작업 공간 깃(git) 기록이 클라우드로 무단 업로드된다는 보안 논란이 제기되었습니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "6786e03c8eb22bdc",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjjmj9/flyweight_opensource_ccuda_engine_for_running_moe/",
+  "source": "r/LocalLLaMA",
+  "title": "Flyweight: open-source C++/CUDA engine for running MoE models bigger than your VRAM on one GPU + system RAM. First PyPI release, looking for contributors.",
+  "published_at": "2026-09-18T07:39:21+00:00",
+  "collected_at": "2026-09-18T09:37:13.171899+00:00",
+  "title_ko": "대용량 MoE 모델 구동을 위한 오픈소스 C++/CUDA 엔진 'Flyweight'",
+  "summary_ko": "VRAM 용량보다 큰 MoE 모델을 단일 GPU와 시스템 RAM을 활용해 효율적으로 실행할 수 있는 오픈소스 추론 엔진이 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
+  "id": "fb9769aec552a886",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjjecz/jev_architecture/",
+  "source": "r/LocalLLaMA",
+  "title": "JEV architecture",
+  "published_at": "2026-09-18T07:25:18+00:00",
+  "collected_at": "2026-09-18T09:37:13.171899+00:00",
+  "title_ko": "LLM의 텍스트 생성 단계를 제외한 JEV 아키텍처 분석",
+  "summary_ko": "LLM에서 최종 텍스트 생성 과정을 생략하고 직전 매트릭스의 신뢰도 점수만 활용하는 JEV 아키텍처에 대한 논의가 이루어졌습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "f6f69f44ffdbe216",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjio00/qwen_38_next_flash_appreciation_post/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen 3.8 Next Flash appreciation post",
+  "published_at": "2026-09-18T06:42:57+00:00",
+  "collected_at": "2026-09-18T09:37:13.171899+00:00",
+  "title_ko": "Qwen 3.8 Next Flash 모델 활용 후기",
+  "summary_ko": "탁월한 프롬프트 준수 능력을 보여주는 Qwen 3.8 Next Flash 모델이 개인 프로젝트 작업 방식을 어떻게 바꿨는지에 대한 소감입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "2bfb34bdd6f48de6",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjieap/made_the_horizontal_opensource_model_for_jev_with/",
+  "source": "r/LocalLLaMA",
+  "title": "Made the horizontal open-source model for Jev with RLCD, and it surpasses all the Jev benchmarks. HF space, benchmark, model, repo",
+  "published_at": "2026-09-18T06:25:03+00:00",
+  "collected_at": "2026-09-18T09:37:13.171899+00:00",
+  "title_ko": "JEV 아키텍처 기반의 오픈소스 모델 'Laya' 공개",
+  "summary_ko": "JEV 아키텍처를 개선하여 벤치마크 성능을 뛰어넘는 비자기회귀 결정 모델 Laya가 오픈소스로 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "6c6db1a95c3d0f54",
+  "url": "https://news.hada.io/topic?id=33880",
+  "source": "GeekNews",
+  "title": "OpenAI 해킹",
+  "published_at": "2026-09-18T05:42:16+00:00",
+  "collected_at": "2026-09-18T09:37:27.471204+00:00",
+  "title_ko": "OpenAI 내부 시스템 해킹 사건",
+  "summary_ko": "취약점 결합 공격으로 여러 OpenAI 직원의 ChatGPT 계정이 탈취되고 내부 저장소까지 접근이 허용된 보안 사고가 발생했습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "GPT"
+  ]
+ },
+ {
+  "id": "402e4a7a92013141",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjgnok/ternary_bonsai_is_a_headless_chicken/",
+  "source": "r/LocalLLaMA",
+  "title": "Ternary Bonsai is a headless chicken",
+  "published_at": "2026-09-18T04:50:15+00:00",
+  "collected_at": "2026-09-18T09:37:13.171899+00:00",
+  "title_ko": "Ternary Bonsai 2 27B 모델 테스트 후기",
+  "summary_ko": "새로 출시된 Ternary Bonsai 2 27B 모델이 복잡한 프롬프트에서 무한 루프에 빠지는 등 실망스러운 성능을 보였다는 사용자 평가입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "eeec8c4839537036",
   "url": "https://www.hacktron.ai/blog/hacking-openai",
   "source": "Hacker News",
@@ -120,6 +251,21 @@
   ]
  },
  {
+  "id": "e298f78e58595fa0",
+  "url": "https://news.hada.io/topic?id=33876",
+  "source": "GeekNews",
+  "title": "섹스, AI, 그리고 종말",
+  "published_at": "2026-09-18T02:02:16+00:00",
+  "collected_at": "2026-09-18T09:37:27.471204+00:00",
+  "title_ko": "미국 AI 안전 논의와 합리주의 커뮤니티의 영향력",
+  "summary_ko": "미국 AI 안전 생태계가 합리주의 커뮤니티의 인맥과 자금에 깊이 의존하고 있어 독립적인 검증 체계가 필요하다는 분석입니다.",
+  "category": "참고",
+  "tags": [
+   "규제",
+   "AI 안전"
+  ]
+ },
+ {
   "id": "942854dc0e14080e",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjd5hf/dual_7900_xtx_some_guy_made_a_pretty_optimized/",
   "source": "r/LocalLLaMA",
@@ -132,6 +278,21 @@
   "tags": [
    "오픈소스",
    "반도체"
+  ]
+ },
+ {
+  "id": "c88357286a767906",
+  "url": "https://news.hada.io/topic?id=33875",
+  "source": "GeekNews",
+  "title": "macOS 27 Golden Gate 리뷰",
+  "published_at": "2026-09-18T01:52:16+00:00",
+  "collected_at": "2026-09-18T09:37:27.471204+00:00",
+  "title_ko": "macOS 27 Golden Gate 속 Apple Intelligence",
+  "summary_ko": "macOS 업데이트를 통해 Apple Intelligence의 실용성이 높아졌으나 AI 기능 완전 비활성화 옵션은 사라졌습니다.",
+  "category": "참고",
+  "tags": [
+   "Apple",
+   "AI 에이전트"
   ]
  },
  {
@@ -149,6 +310,52 @@
   ]
  },
  {
+  "id": "5d39d237402c4ec6",
+  "url": "https://news.hada.io/topic?id=33874",
+  "source": "GeekNews",
+  "title": "스타트업을 피벗해야 할까? [동영상]",
+  "published_at": "2026-09-18T01:15:01+00:00",
+  "collected_at": "2026-09-18T09:37:27.471204+00:00",
+  "title_ko": "AI 시대의 스타트업 피벗 전략",
+  "summary_ko": "AI가 기존 사업 전제를 무너뜨릴 때 피벗의 시기와 검증 방법에 대한 조언을 담고 있습니다.",
+  "category": "팁",
+  "tags": [
+   "투자",
+   "스타트업"
+  ]
+ },
+ {
+  "id": "032af5197b0c688a",
+  "url": "https://news.hada.io/topic?id=33872",
+  "source": "GeekNews",
+  "title": "SpaceXAI가 한 달 만에 Grok Bot을 만든 방법 [동영상]",
+  "published_at": "2026-09-18T00:55:02+00:00",
+  "collected_at": "2026-09-18T09:37:27.471204+00:00",
+  "title_ko": "xAI의 그록 봇 개발 과정 공개",
+  "summary_ko": "소규모 전담팀이 클라우드 기반 봇과 컴퓨터 제어 기능을 활용해 한 달 만에 Grok Bot을 개발한 과정입니다.",
+  "category": "참고",
+  "tags": [
+   "xAI",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "031010b871e21fcd",
+  "url": "https://news.hada.io/topic?id=33871",
+  "source": "GeekNews",
+  "title": "Anthropic, AI가 AI를 개발하는 내부 현황과 감독 지표 공개",
+  "published_at": "2026-09-18T00:52:15+00:00",
+  "collected_at": "2026-09-18T09:37:27.471204+00:00",
+  "title_ko": "앤스로픽, AI의 내부 R&D 비중과 감독 지표 공개",
+  "summary_ko": "Claude가 사내 연구개발의 26%를 주도하는 등 AI가 AI를 개발하는 현황과 관련 감독 지표가 공개되었습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "04d8b5793d761158",
   "url": "https://www.reddit.com/r/singularity/comments/1wjbomb/an_interesting_paper_on_continuous_live_learning/",
   "source": "r/singularity",
@@ -160,6 +367,36 @@
   "category": "참고",
   "tags": [
    "오픈소스"
+  ]
+ },
+ {
+  "id": "1c4b3cca2b8e87b9",
+  "url": "https://news.hada.io/topic?id=33869",
+  "source": "GeekNews",
+  "title": "Bonsai 2 27B, 성능 98.2%를 유지하며 모델 크기를 5.9GB로 압축",
+  "published_at": "2026-09-18T00:42:15+00:00",
+  "collected_at": "2026-09-18T09:37:27.471204+00:00",
+  "title_ko": "성능 유지하며 크기 줄인 삼진 가중치 모델 봉사이 2",
+  "summary_ko": "PrismML이 공개한 봉사이 2 27B는 3진 가중치를 적용해 성능을 98.2% 유지하면서도 모델 크기를 대폭 압축했습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "654d0ece97d18cf8",
+  "url": "https://news.hada.io/topic?id=33868",
+  "source": "GeekNews",
+  "title": "jcode - 수십 개 세션을 병렬로 실행하는 터미널 코딩 에이전트",
+  "published_at": "2026-09-18T00:30:02+00:00",
+  "collected_at": "2026-09-18T09:37:27.471204+00:00",
+  "title_ko": "병렬 터미널 코딩 에이전트 jcode 공개",
+  "summary_ko": "메모리 사용량을 줄이고 수십 개 세션을 병렬로 실행할 수 있는 Rust 기반 코딩 에이전트가 나왔습니다.",
+  "category": "팁",
+  "tags": [
+   "코딩",
+   "AI 에이전트"
   ]
  },
  {
@@ -250,6 +487,21 @@
   "tags": [
    "AI 에이전트",
    "투자"
+  ]
+ },
+ {
+  "id": "3195ca010f5c230c",
+  "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+  "source": "Hacker News",
+  "title": "Qwen 3.8 Omni Flash",
+  "published_at": "2026-09-17T23:05:48+00:00",
+  "collected_at": "2026-09-18T09:36:52.066663+00:00",
+  "title_ko": "알리바바, 큐웬 3.8 옴니 플래시 공개",
+  "summary_ko": "알리바바가 최신 멀티모달 모델인 Qwen 3.8 Omni Flash를 새롭게 발표했습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "Gemini"
   ]
  },
  {
