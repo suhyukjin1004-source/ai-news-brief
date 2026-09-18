@@ -1,8 +1,215 @@
 {
- "updated_at": "2026-09-17T23:30:50.676044+00:00",
+ "updated_at": "2026-09-18T04:31:14.739543+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "d5a7f02e396abcb4",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215447",
+   "source": "AI타임스",
+   "title": "제논, 화면 인식·컴퓨터 조작 특화 '훈민 VLM 397B' 오픈소스 공개",
+   "published_at": "2026-09-18T13:07:53+00:00",
+   "collected_at": "2026-09-18T04:31:01.932374+00:00",
+   "title_ko": "제논, 화면 제어 특화 '훈민 VLM 397B' 오픈소스 공개",
+   "summary_ko": "제논이 컴퓨터 화면을 인식하고 직접 조작할 수 있는 3970억 매개변수의 VLM 오픈소스를 공개했습니다. 실제 업무 수행 능력을 강화한 것이 특징입니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "e7d0d6a08f3c2b0b",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215434",
+   "source": "AI타임스",
+   "title": "찰스 3세, 젠슨 황·허사비스 만나 \"AI 통제 수단 마련해야\"",
+   "published_at": "2026-09-18T12:53:33+00:00",
+   "collected_at": "2026-09-18T04:31:01.932374+00:00",
+   "title_ko": "영국 찰스 국왕, 빅테크 수장들과 만나 AI 안전장치 촉구",
+   "summary_ko": "찰스 3세 영국 국왕이 엔비디아, 구글 딥마인드, 오픈아이, 앤트로픽 등 주요 AI 기업 수장들을 만나 AI 통제 수단과 안전장치 마련을 촉구했습니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "Google",
+    "OpenAI"
+   ]
+  },
+  {
+   "id": "668b55e01578bc5c",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215435",
+   "source": "AI타임스",
+   "title": "앤트로픽 \"클로드, 자기개선 주도 26%…관여는 90%\"",
+   "published_at": "2026-09-18T12:11:21+00:00",
+   "collected_at": "2026-09-18T04:31:01.932374+00:00",
+   "title_ko": "앤트로픽, AI의 자기개선(RSI) 모니터링 지표 공개",
+   "summary_ko": "앤트로픽이 AI가 차세대 모델 개발에 스스로 참여하는 재귀적 자기개선 과정의 투명성을 확보하기 위해 내부 모니터링 지표를 공개했습니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "d68db4373e44ffa9",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215430",
+   "source": "AI타임스",
+   "title": "앤트로픽, 장기 개발 관리 에이전트 '클로드 코드 프로젝트' 공개",
+   "published_at": "2026-09-18T11:56:41+00:00",
+   "collected_at": "2026-09-18T04:31:01.932374+00:00",
+   "title_ko": "앤트로픽, 장기 개발 관리 에이전트 '클로드 코드 프로젝트' 출시",
+   "summary_ko": "앤트로픽이 단발성 코딩을 넘어 여러 세션에 걸쳐 소프트웨어 개발 프로젝트 전체를 총괄하고 기억하는 개발용 에이전트를 공개했습니다.",
+   "category": "속보",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "eeec8c4839537036",
+   "url": "https://www.hacktron.ai/blog/hacking-openai",
+   "source": "Hacker News",
+   "title": "Hacking OpenAI",
+   "published_at": "2026-09-18T02:47:24+00:00",
+   "collected_at": "2026-09-18T04:30:55.236685+00:00",
+   "title_ko": "오픈AI 보안 해킹 관련 분석 블로그",
+   "summary_ko": "오픈AI 관련 보안 취약점 및 해킹 시도에 대한 분석 내용이 공유되었습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI"
+   ]
+  },
+  {
+   "id": "e43911a1c5cea3ca",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wje4xh/still_doesnt_get_what_jev_isis_it_just_a_more/",
+   "source": "r/LocalLLaMA",
+   "title": "still doesn’t get what Jev is…..is it just a more generalised BERT?",
+   "published_at": "2026-09-18T02:45:55+00:00",
+   "collected_at": "2026-09-18T04:30:56.022787+00:00",
+   "title_ko": "Jev 모델의 정체와 BERT와의 유사성 분석",
+   "summary_ko": "새로 출시된 Jev 모델이 맞춤형 프롬프트와 기준을 읽어내는 고성능 분류기이며, 일반화된 BERT 형태인지에 대한 커뮤니티 논의가 이어졌습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "2ad7373c2aa23551",
+   "url": "https://www.reddit.com/r/singularity/comments/1wjdvt5/independent_security_researchers_used_anthropics/",
+   "source": "r/singularity",
+   "title": "Independent Security Researchers Used Anthropic’s Claude to Break Into OpenAI",
+   "published_at": "2026-09-18T02:34:07+00:00",
+   "collected_at": "2026-09-18T04:31:00.803705+00:00",
+   "title_ko": "보안 연구원들, 앤트로픽 클로드 활용해 오픈AI 우회 시도",
+   "summary_ko": "독립 보안 연구원들이 앤트로픽의 클로드를 이용해 오픈AI 시스템에 접근하고 허점을 테스트한 사례가 공유되었습니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "OpenAI",
+    "Claude"
+   ]
+  },
+  {
+   "id": "d821ea37b4fd6401",
+   "url": "https://www.reddit.com/r/singularity/comments/1wjd7p8/dwarkeshs_podcast_with_noam_brown_of_openai/",
+   "source": "r/singularity",
+   "title": "Dwarkesh's podcast with noam brown of openai",
+   "published_at": "2026-09-18T02:02:51+00:00",
+   "collected_at": "2026-09-18T04:31:00.803705+00:00",
+   "title_ko": "오픈아이 노암 브라운 인터뷰: 역량과 안전성 논의",
+   "summary_ko": "오픈AI의 노암 브라운이 팟캐스트에 출연해 AI 역량 강화와 안전성 연구에 대해 심도 있는 논의를 진행했습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI"
+   ]
+  },
+  {
+   "id": "942854dc0e14080e",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjd5hf/dual_7900_xtx_some_guy_made_a_pretty_optimized/",
+   "source": "r/LocalLLaMA",
+   "title": "dual 7900 xtx - some guy made a pretty optimized fork of lamacpp optimized for this setup Qwen 3.8 Q8 at 82 tokens / seconds decode",
+   "published_at": "2026-09-18T02:00:07+00:00",
+   "collected_at": "2026-09-18T04:30:56.022787+00:00",
+   "title_ko": "듀얼 7900 XTX 환경 최적화로 대폭 향상된 로컬 LLM 속도",
+   "summary_ko": "소비자용 PC 환경에서 AMD 듀얼 7900 XTX GPU를 활용해 큐원 모델 구동 속도를 크게 높인 llama.cpp 최적화 포크가 소개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "a0792b14298a30d1",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjcnkv/whats_the_state_of_the_art_recipe_for_running/",
+   "source": "r/LocalLLaMA",
+   "title": "what's the state of the art recipe for running Qwen3.8-Flash-Next with a pair of 3090s and a ton of system RAM rn?",
+   "published_at": "2026-09-18T01:36:26+00:00",
+   "collected_at": "2026-09-18T04:30:56.022787+00:00",
+   "title_ko": "듀얼 3090 및 시스템 RAM 활용한 로컬 LLM 구동 레시피 공유",
+   "summary_ko": "HPC 클러스터 및 고성능 개인 작업 환경에서 VRAM과 시스템 RAM을 결합해 대형 모델을 텐서 병렬로 구동하는 방법에 대한 논의가 이루어졌습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "04d8b5793d761158",
+   "url": "https://www.reddit.com/r/singularity/comments/1wjbomb/an_interesting_paper_on_continuous_live_learning/",
+   "source": "r/singularity",
+   "title": "An interesting paper on Continuous (Live) Learning: \"Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data\"",
+   "published_at": "2026-09-18T00:51:28+00:00",
+   "collected_at": "2026-09-18T04:31:00.803705+00:00",
+   "title_ko": "실시간 데이터 기반 가중치 적응 다루는 라이브 학습 논문",
+   "summary_ko": "별도의 파라미터 추가 없이 실시간 데이터로 모델 가중치를 동적으로 조절하는 'Infinite-Parameter LLMs' 연구 논문이 소개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "082678d7a8fb4498",
+   "url": "https://www.reddit.com/r/singularity/comments/1wjauca/gpt6_astra_conquered_factorio_space_age_in_2_days/",
+   "source": "r/singularity",
+   "title": "GPT-6 Astra conquered Factorio: Space Age in 2 days",
+   "published_at": "2026-09-18T00:12:38+00:00",
+   "collected_at": "2026-09-18T04:31:00.803705+00:00",
+   "title_ko": "팩토리오 게임 정복한 가상의 GPT-6 Astra 소식",
+   "summary_ko": "AI가 복잡한 전략 게임인 팩토리오를 단 2일 만에 클리어했다는 가상의 시나리오성 게시물이 커뮤니티에서 화제가 되었습니다.",
+   "category": "참고",
+   "tags": [
+    "GPT"
+   ]
+  },
+  {
+   "id": "414b0ee8048f1219",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wja9ml/600toks_single_request_on_qwen36_35ba3b_with/",
+   "source": "r/LocalLLaMA",
+   "title": "600tok/s single request on qwen3.6 35ba3b with Ninfer on an RTX Pro 6000. Anybody remember that Comcast ad \"stupid fast\"?",
+   "published_at": "2026-09-17T23:47:55+00:00",
+   "collected_at": "2026-09-18T04:30:56.022787+00:00",
+   "title_ko": "RTX Pro 6000에서 초당 600토큰 처리하는 로컬 모델 구동 사례",
+   "summary_ko": "고성능 워크스테이션 GPU 환경에서 Ninfer를 활용해 대형 모델을 초고속으로 구동하며 실무 반복 작업에 활용하는 사례가 공유되었습니다.",
+   "category": "팁",
+   "tags": [
+    "반도체",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "335f525608b9c30e",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj9u19/installing_6_gpus_in_a_standard_case_rather_than/",
+   "source": "r/LocalLLaMA",
+   "title": "Installing 6 GPUs in a standard case rather than using an open-frame chassis.",
+   "published_at": "2026-09-17T23:28:39+00:00",
+   "collected_at": "2026-09-18T04:30:56.022787+00:00",
+   "title_ko": "일반 풀타워 케이스에 V100 GPU 6장 구축 사례",
+   "summary_ko": "개방형 프레임 대신 일반 풀타워 케이스에 V100 GPU 6장을 장착한 로컬 AI 서버 구축 테스트 후기입니다.",
+   "category": "참고",
+   "tags": [
+    "반도체",
+    "오픈소스"
+   ]
+  },
   {
    "id": "6f911ec31259f907",
    "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
@@ -32,6 +239,21 @@
    "tags": [
     "Google",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "e6605f35241608d6",
+   "url": "https://www.reddit.com/r/singularity/comments/1wj9dna/at_least_six_or_seven_chinese_ai_labs_aim_to/",
+   "source": "r/singularity",
+   "title": "At least six or seven Chinese AI labs aim to train 10–40tn-parameter models within two years.",
+   "published_at": "2026-09-17T23:08:49+00:00",
+   "collected_at": "2026-09-18T04:31:00.803705+00:00",
+   "title_ko": "중국 AI 연구소, 2년 내 10~40조 파라미터 모델 학습 목표",
+   "summary_ko": "중국의 주요 AI 연구소 6~7곳이 향후 2년 내 초거대 파라미터 모델 학습을 목표로 하고 있어 글로벌 경쟁이 심화될 전망입니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "투자"
    ]
   },
   {
@@ -134,6 +356,37 @@
    "tags": [
     "AI 에이전트",
     "코딩"
+   ]
+  },
+  {
+   "id": "da2138201611c598",
+   "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+   "source": "Hacker News",
+   "title": "How to Write with an LLM",
+   "published_at": "2026-09-17T21:48:38+00:00",
+   "collected_at": "2026-09-18T04:30:55.236685+00:00",
+   "title_ko": "LLM을 활용한 효과적인 글쓰기 방법",
+   "summary_ko": "대형 언어 모델(LLM)을 활용해 글쓰기 작업을 수행하는 실용적인 방법과 팁을 다룹니다.",
+   "category": "팁",
+   "tags": [
+    "GPT",
+    "Claude"
+   ]
+  },
+  {
+   "id": "5b376f0c7746cc0c",
+   "url": "https://www.reddit.com/r/singularity/comments/1wj7beg/anthropic_opensources_claudewritten_gpu/",
+   "source": "r/singularity",
+   "title": "Anthropic open-sources Claude-written GPU optimizations that make 30+ biomolecular models ~4× faster on average",
+   "published_at": "2026-09-17T21:44:30+00:00",
+   "collected_at": "2026-09-18T04:31:00.803705+00:00",
+   "title_ko": "앤트로픽, Claude가 작성한 GPU 최적화 코드 오픈소스 공개",
+   "summary_ko": "앤트로픽이 Claude를 활용해 작성한 GPU 최적화 코드를 공개하여 생체 분자 모델의 처리 속도를 평균 4배 향상시켰습니다.",
+   "category": "참고",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "오픈소스"
    ]
   },
   {
@@ -251,6 +504,22 @@
    ]
   },
   {
+   "id": "54beed169a5fb3a9",
+   "url": "https://www.reddit.com/r/singularity/comments/1wj5pzw/anthropic_reveals_claude_is_now_leading_26_of_its/",
+   "source": "r/singularity",
+   "title": "Anthropic reveals Claude is now leading 26% of its own R&D work, up from nearly zero 6 months ago",
+   "published_at": "2026-09-17T20:41:59+00:00",
+   "collected_at": "2026-09-18T04:31:00.803705+00:00",
+   "title_ko": "앤트로픽, 내부 R&D의 26%를 Claude가 주도",
+   "summary_ko": "앤트로픽 내부 연구개발 작업의 26%를 Claude가 직접 수행하며 AI 개발 속도가 급격히 빨라지고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "c34963e03a4acf74",
    "url": "https://bend-lang.com/",
    "source": "Hacker News",
@@ -352,6 +621,22 @@
    "category": "참고",
    "tags": [
     "Google"
+   ]
+  },
+  {
+   "id": "5bb26844dd3b69d4",
+   "url": "https://www.reddit.com/r/singularity/comments/1wj4i1t/general_ai_assistant_market_update/",
+   "source": "r/singularity",
+   "title": "General AI assistant market update",
+   "published_at": "2026-09-17T19:57:05+00:00",
+   "collected_at": "2026-09-18T04:31:00.803705+00:00",
+   "title_ko": "2026년 소비자 AI 시장 현황: 지출 3배 증가",
+   "summary_ko": "2026년 소비자 AI 시장 보고서에 따르면 전체 사용자 성장세는 정체되었으나 글로벌 지출이 3배 늘어나며 깊이 있는 활용이 증가했습니다.",
+   "category": "참고",
+   "tags": [
+    "GPT",
+    "Gemini",
+    "Claude"
    ]
   },
   {
@@ -514,6 +799,21 @@
    "tags": [
     "오픈소스",
     "LLM"
+   ]
+  },
+  {
+   "id": "a27c34507684f5c0",
+   "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+   "source": "Ars Technica",
+   "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+   "published_at": "2026-09-17T18:33:13+00:00",
+   "collected_at": "2026-09-18T04:30:33.593514+00:00",
+   "title_ko": "AI 워터마킹 적용 시 유해 프롬프트 대응 변화",
+   "summary_ko": "SynthID 등 AI 워터마킹 기술이 모델의 안전성 필터에 영향을 주어 유해 프롬프트에 다르게 반응할 수 있다는 연구 결과입니다.",
+   "category": "참고",
+   "tags": [
+    "Google",
+    "규제"
    ]
   },
   {
@@ -752,6 +1052,21 @@
    ]
   },
   {
+   "id": "bc4d9876dcccb2a2",
+   "url": "https://arxiv.org/abs/2609.18842",
+   "source": "Hacker News",
+   "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+   "published_at": "2026-09-17T16:55:14+00:00",
+   "collected_at": "2026-09-18T04:30:37.304040+00:00",
+   "title_ko": "실시간 데이터 기반 무한 파라미터 LLM 연구",
+   "summary_ko": "실시간 데이터로부터 직접 가중치를 생성하고 적응시키는 새로운 아키텍처의 무한 파라미터 LLM 연구 논문입니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
    "id": "39540ac1ba60a6ec",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215425",
    "source": "AI타임스",
@@ -852,6 +1167,21 @@
     "OpenAI",
     "Claude",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "38dbd647cb49436f",
+   "url": "https://news.ycombinator.com/item?id=49743049",
+   "source": "Hacker News",
+   "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+   "published_at": "2026-09-17T16:22:15+00:00",
+   "collected_at": "2026-09-18T04:30:55.236685+00:00",
+   "title_ko": "코딩 에이전트 간 대화 이동 도구 'Skillsync' 출시",
+   "summary_ko": "다양한 코딩 에이전트 사이에서 AI 채팅 세션과 문맥을 자유롭게 이동하고 연동할 수 있는 유니버설 컨버터 도구입니다.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
    ]
   },
   {
@@ -1425,6 +1755,22 @@
    "category": "참고",
    "tags": [
     "오픈소스"
+   ]
+  },
+  {
+   "id": "964ae1dd0facf551",
+   "url": "https://openai.com/index/cooley-gopublic",
+   "source": "OpenAI",
+   "title": "How Cooley is accelerating IPO work with ChatGPT",
+   "published_at": "2026-09-17T12:00:00+00:00",
+   "collected_at": "2026-09-18T04:30:34.229700+00:00",
+   "title_ko": "로펌 쿨리, ChatGPT Work로 IPO 업무 가속화",
+   "summary_ko": "대형 로펌 쿨리가 ChatGPT Work를 활용해 IPO 프로세스의 문서 검토 및 이슈 파악 업무를 혁신적으로 단축했습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "GPT",
+    "AI 에이전트"
    ]
   },
   {
@@ -2633,350 +2979,6 @@
    "tags": [
     "Meta",
     "투자"
-   ]
-  },
-  {
-   "id": "c8acebff65ed8dfb",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi28lv/whats_the_current_best_llm_uncensoring_method/",
-   "source": "r/LocalLLaMA",
-   "title": "What's the current best LLM uncensoring method?",
-   "published_at": "2026-09-16T16:32:39+00:00",
-   "collected_at": "2026-09-16T18:08:23.702819+00:00",
-   "title_ko": "로컬 LLM 검열 해제(Uncensoring) 최신 기법 논의",
-   "summary_ko": "엄격한 AI 안전 가이드라인과 기업의 검열로부터 벗어나기 위한 로컬 모델의 검열 해제 및 가중치 조작 방법론이 활발히 공유되고 있습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "15baa612d96c9630",
-   "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-   "source": "TechCrunch",
-   "title": "Anthropic merges Claude chat and Cowork in one interface",
-   "published_at": "2026-09-16T16:30:00+00:00",
-   "collected_at": "2026-09-16T18:07:53.618957+00:00",
-   "title_ko": "앤스로픽, Claude 채팅과 Cowork 인터페이스 통합",
-   "summary_ko": "앤스로픽이 Pro 및 Max 구독자를 대상으로 클로드의 일반 채팅과 Cowork 기능을 단일 인터페이스로 통합하여 제공하기 시작했습니다.",
-   "category": "속보",
-   "tags": [
-    "Claude"
-   ]
-  },
-  {
-   "id": "928144225ccb7d4b",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
-   "source": "The Verge",
-   "title": "Claude comes for Gemini with its own take on Docs and Slides",
-   "published_at": "2026-09-16T16:30:00+00:00",
-   "collected_at": "2026-09-16T18:07:53.753775+00:00",
-   "title_ko": "앤스로픽, 자체 문서 및 프레젠테이션 기능 'Docs and Slides' 공개",
-   "summary_ko": "클로드 내에서 직접 문자와 프레젠테이션을 생성·편집할 수 있는 도구가 추가되었으며, 인터페이스 기능도 대폭 통합되었습니다.",
-   "category": "중요",
-   "tags": [
-    "Claude",
-    "Gemini"
-   ]
-  },
-  {
-   "id": "333fa3bdf88088db",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215351",
-   "source": "AI타임스",
-   "title": "세일즈포스-엔비디아, CRM 전용 추론 모델 '코아' 공개...\"빅테크 의존 낮춘다\"",
-   "published_at": "2026-09-16T16:27:44+00:00",
-   "collected_at": "2026-09-16T13:26:35.453079+00:00",
-   "title_ko": "세일즈포스-엔비디아, CRM 특화 추론 모델 '코아' 공개",
-   "summary_ko": "세일즈포스가 엔비디아의 네모트론을 기반으로 빅테크 의존도를 낮추기 위한 기업용 CRM 전문 추론 모델을 선보였다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "b121f3ccdf2aae2a",
-   "url": "https://claude.com/blog/cowork-is-now-claude",
-   "source": "Hacker News",
-   "title": "Claude Cowork and chat are now one Claude",
-   "published_at": "2026-09-16T16:26:25+00:00",
-   "collected_at": "2026-09-16T22:03:40.228472+00:00",
-   "title_ko": "앤트로픽, 'Claude Cowork' 기능을 메인 서비스로 통합",
-   "summary_ko": "앤트로픽이 별도로 제공하던 'Claude Cowork'와 일반 채팅 기능을 통합하여 단일 클로드 경험으로 개편했습니다.",
-   "category": "속보",
-   "tags": [
-    "Claude",
-    "Anthropic",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "e2aaf67180af8d2d",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215350",
-   "source": "AI타임스",
-   "title": "딥시크 엔지니어 \"미국 '속도 조절론'은 독점 시도...핵무기 쥔 히틀러 같아\"",
-   "published_at": "2026-09-16T16:17:09+00:00",
-   "collected_at": "2026-09-16T13:26:35.453079+00:00",
-   "title_ko": "딥시크 엔지니어, 미국의 'AI 속도 조절론' 비판",
-   "summary_ko": "딥시크 개발에 참여한 엔지니어가 미국 빅테크의 AI 개발 속도 조절 주장은 기술 독점을 위한 시도라고 비판했다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "규제"
-   ]
-  },
-  {
-   "id": "d200db485db2e845",
-   "url": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
-   "source": "Simon Willison",
-   "title": "Quoting Mustafa Suleyman",
-   "published_at": "2026-09-16T16:00:54+00:00",
-   "collected_at": "2026-09-16T18:08:22.945682+00:00",
-   "title_ko": "무스타파 술레이만의 AI 모델 권리 인정 경고",
-   "summary_ko": "마이크로소프트의 무스타파 술레이만이 AI 모델에 감정과 권리를 부여하는 것은 윤리적·법적 체계를 혼란스럽게 만들고 AI 통제와 정렬 문제를 더 어렵게 할 것이라고 경고했다.",
-   "category": "중요",
-   "tags": [
-    "Microsoft",
-    "생성형AI",
-    "AI에이전트"
-   ]
-  },
-  {
-   "id": "027811ca1632d0f5",
-   "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-   "source": "OpenAI",
-   "title": "Helping older adults use AI in everyday life",
-   "published_at": "2026-09-16T16:00:00+00:00",
-   "collected_at": "2026-09-16T18:08:07.063446+00:00",
-   "title_ko": "OpenAI, 고령층 대상 실용 AI 교육 워크숍 개최",
-   "summary_ko": "OpenAI와 AARP가 미국 10개 도시에서 고령층 1,000명을 대상으로 안전한 일상 AI 활용법을 가르치는 무료 대면 워크숍을 진행한다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "GPT"
-   ]
-  },
-  {
-   "id": "e7d193568208a078",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215352",
-   "source": "AI타임스",
-   "title": "빌 게이츠 “전 세계 정부, AI 대비 뒤처져”…'AI 불평등 해소'에 1.4조 투입",
-   "published_at": "2026-09-16T15:57:40+00:00",
-   "collected_at": "2026-09-16T07:36:56.000508+00:00",
-   "title_ko": "빌 게이츠 \"정부 AI 대비 부족\", 게이츠 재단 1.4조 투입",
-   "summary_ko": "빌 게이츠가 각국의 AI 변화 대응 부족을 경고하며 취약계층 불평등 해소를 위해 1.4조 원을 투자한다고 밝혔다. AI의 사회적 격차를 줄이기 위한 대규모 투자로 주목받는다.",
-   "category": "중요",
-   "tags": [
-    "투자",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "46318e8f4fa61e05",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi12vl/release_b11003_ggmlorgllamacpp/",
-   "source": "r/LocalLLaMA",
-   "title": "Release b11003 · ggml-org/llama.cpp",
-   "published_at": "2026-09-16T15:51:51+00:00",
-   "collected_at": "2026-09-16T18:08:23.702819+00:00",
-   "title_ko": "llama.cpp, DFM Mimir 1B 모델 지원 추가",
-   "summary_ko": "llama.cpp 프로젝트에 DFM Mimir 1B 모델을 지원하는 업데이트가 병합되어 로컬 AI 구동 옵션이 확대됐다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "28d649f324c232fb",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215349",
-   "source": "AI타임스",
-   "title": "엔비디아·메타 \"AI 규제·속도 조절 필요 없어\"…‘폐쇄형 vs 개방형’ 균열",
-   "published_at": "2026-09-16T15:27:13+00:00",
-   "collected_at": "2026-09-16T07:36:56.000508+00:00",
-   "title_ko": "엔비디아·메타, AI 속도 조절론 거부",
-   "summary_ko": "엔비디아와 메타가 AI 개발 속도 조절 제안을 공식 거부하고 자율적인 위험 통제를 주장했다. 업계 내 규제와 자율성에 대한 시각 차이가 드러났다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "Meta",
-    "규제"
-   ]
-  },
-  {
-   "id": "03927502fe3465ea",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi0dme/qwen38_max_0902_scores_45_on_the_artificial/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.8 Max (0902) scores 45 on the Artificial Analysis Intelligence Index, up 5 points in a month and back on top of China's leaderboard, nosing out GLM-5.3 (44.9) and Kimi K3 (43.8)",
-   "published_at": "2026-09-16T15:26:03+00:00",
-   "collected_at": "2026-09-16T18:08:23.702819+00:00",
-   "title_ko": "Qwen 3.8 Max, 중국 리더십 탈환",
-   "summary_ko": "알리바바의 Qwen 3.8 Max가 인공지능 인덱스에서 높은 점수를 기록하며 중국 내 1위 자리를 다시 차지했다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "333b97600ced25e9",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi0a18/qwen3827b_uncensored_q6_k_at_156k_context_on_one/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.8-27B uncensored Q6_K at 156K context on one RTX 5090, 140-190 tok/s with DFlash2",
-   "published_at": "2026-09-16T15:22:20+00:00",
-   "collected_at": "2026-09-16T18:08:23.702819+00:00",
-   "title_ko": "RTX 5090에서 Qwen3.8-27B 로컬 구동 성공",
-   "summary_ko": "단일 RTX 5090 환경에서 Qwen3.8-27B 모델을 검열 해제 버전으로 156K 컨텍스트와 고속 토큰 생성 속도로 구동하는 세팅이 공유됐다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "반도체"
-   ]
-  },
-  {
-   "id": "19ae26d1a9dca615",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215346",
-   "source": "AI타임스",
-   "title": "배경훈 장관 \"AI 속도 늦출 여유 없다...중요한 것은 속도책임\"",
-   "published_at": "2026-09-16T15:18:02+00:00",
-   "collected_at": "2026-09-16T07:36:56.780637+00:00",
-   "title_ko": "과기정통부 장관 \"한국, AI 속도 늦출 여유 없다\"",
-   "summary_ko": "배경훈 과기정통부 장관이 글로벌 AI 속도 조절론에 대해 기술 격차 우려를 표하며 속도보다는 책임 있는 개발이 중요하다고 강조했다.",
-   "category": "중요",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "46c4b637c0a61622",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whzy7j/qwen35_4b_grabbing_logits_is_almost_jev_or_even/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.5 4B + grabbing logits is almost \"Jev\"? Or even just Qwen Reranker?",
-   "published_at": "2026-09-16T15:10:28+00:00",
-   "collected_at": "2026-09-16T18:08:23.702819+00:00",
-   "title_ko": "Qwen 4B와 로짓 추출을 활용한 효율적 추론 기법",
-   "summary_ko": "Qwen 4B 모델과 각 선택지의 로짓 확률을 활용해 Jev 모델 유사한 결과물을 더 효과적으로 구현하는 방법이 소개됐다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "26c48edc2eec52a3",
-   "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-   "source": "TechCrunch",
-   "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-   "published_at": "2026-09-16T15:00:00+00:00",
-   "collected_at": "2026-09-16T18:07:53.618957+00:00",
-   "title_ko": "엔비디아 레스 카르파스, 로보틱스의 챗GPT 모멘트 전망",
-   "summary_ko": "로봇 산업이 일상 속으로 진입하기 위한 대전환점을 기다리고 있으며, 엔비디아가 그 이유와 발전 방향을 제시했다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "로보틱스",
-    "AI에이전트"
-   ]
-  },
-  {
-   "id": "4a3f72cc27f9cefb",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
-   "source": "The Verge",
-   "title": "The sexy AI-powered dating app scams are here",
-   "published_at": "2026-09-16T14:45:00+00:00",
-   "collected_at": "2026-09-16T18:07:53.753775+00:00",
-   "title_ko": "AI를 악용한 가짜 데이트 앱 사기 기승",
-   "summary_ko": "AI 음성과 페이크 프로필을 활용해 사용자를 속이는 정교한 사기 데이트 앱이 발견되어 보안 주의가 요구된다.",
-   "category": "속보",
-   "tags": [
-    "생성형AI"
-   ]
-  },
-  {
-   "id": "f98a6c92eb4056d7",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215345",
-   "source": "AI타임스",
-   "title": "버즈니, 비스킷AI에 '클립 만들기' 추가... 숏폼부터 미들폼·카드뉴스 지원",
-   "published_at": "2026-09-16T14:35:43+00:00",
-   "collected_at": "2026-09-16T07:36:56.000508+00:00",
-   "title_ko": "버즈니, 비스킷AI에 클립 만들기 기능 추가",
-   "summary_ko": "버즈니가 숏폼 제작 AI 서비스 비스킷AI에 짧은 영상 클립 제작 기능을 추가했다. 실무 콘텐츠 제작 생태계 확대를 지원한다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "7b209e90369c95fe",
-   "url": "https://institute.deepmind.com/",
-   "source": "Hacker News",
-   "title": "The DeepMind Institute",
-   "published_at": "2026-09-16T14:32:11+00:00",
-   "collected_at": "2026-09-16T22:03:40.228472+00:00",
-   "title_ko": "딥마인드 인스티튜트(The DeepMind Institute) 출범",
-   "summary_ko": "구글 딥마인드가 AI 연구 및 사회적 영향력 분석을 위한 전문 기관인 '딥마인드 인스티튜트'를 새롭게 선보였습니다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "규제"
-   ]
-  },
-  {
-   "id": "faf270d1ea89430c",
-   "url": "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
-   "source": "Hacker News",
-   "title": "A warning about 'model welfare'",
-   "published_at": "2026-09-16T14:27:47+00:00",
-   "collected_at": "2026-09-16T22:03:40.228472+00:00",
-   "title_ko": "머스탱 수레이머의 '모델 복지' 경고",
-   "summary_ko": "AI 모델의 권리나 의식 부여를 논하는 이른바 '모델 복지' 담론에 대해 업계 리더가 주의를 당부하는 경고 메시지를 발표했습니다.",
-   "category": "참고",
-   "tags": [
-    "LLM",
-    "규제"
-   ]
-  },
-  {
-   "id": "7da679bc9c36d9d6",
-   "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
-   "source": "TechCrunch",
-   "title": "Threads’ new features let podcasters promote shows and reach listeners",
-   "published_at": "2026-09-16T14:24:58+00:00",
-   "collected_at": "2026-09-16T18:07:53.618957+00:00",
-   "title_ko": "메타 스레드, 팟캐스터 위한 신규 기능 도입",
-   "summary_ko": "메타가 X의 경쟁 플랫폼인 스레드에 팟캐스트 홍보 및 청취자 소통을 위한 프로필 카드와 대본 등 신규 기능을 도입한다.",
-   "category": "참고",
-   "tags": [
-    "Meta"
-   ]
-  },
-  {
-   "id": "53f0dff64eb2a12d",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215341",
-   "source": "AI타임스",
-   "title": "모레, 이기종 AI 가속기 하나처럼 활용하는 ‘토큰 팩토리 OS’ 제시",
-   "published_at": "2026-09-16T14:23:24+00:00",
-   "collected_at": "2026-09-16T07:36:56.000508+00:00",
-   "title_ko": "모레, 이기종 AI 가속기 활용 '토큰 팩토리 OS' 공개",
-   "summary_ko": "모레가 다양한 가속기를 통합 운영하는 '토큰 팩토리 OS'를 선보였다. AI 데이터센터의 추론 효율과 인프라 활용도를 극대화한다.",
-   "category": "중요",
-   "tags": [
-    "반도체",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "38e7a0cac16f73bc",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215340",
-   "source": "AI타임스",
-   "title": "네이버, 실제 서비스에 ‘AI 안전성 체계’ 적용...세이프티 리포트 공개",
-   "published_at": "2026-09-16T14:21:16+00:00",
-   "collected_at": "2026-09-16T07:36:56.000508+00:00",
-   "title_ko": "네이버, AI 안전성 체계 적용 세이프티 리포트 공개",
-   "summary_ko": "네이버가 자체 AI 안전성 체계 'ASF 2.0'의 실제 서비스 적용 사례를 담은 리포트를 발간했다. AI 서비스 전 과정의 체계적 안전 관리를 목표로 한다.",
-   "category": "참고",
-   "tags": [
-    "규제"
    ]
   }
  ]

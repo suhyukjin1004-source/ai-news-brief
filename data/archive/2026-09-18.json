@@ -1,5 +1,212 @@
 [
  {
+  "id": "d5a7f02e396abcb4",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=215447",
+  "source": "AI타임스",
+  "title": "제논, 화면 인식·컴퓨터 조작 특화 '훈민 VLM 397B' 오픈소스 공개",
+  "published_at": "2026-09-18T13:07:53+00:00",
+  "collected_at": "2026-09-18T04:31:01.932374+00:00",
+  "title_ko": "제논, 화면 제어 특화 '훈민 VLM 397B' 오픈소스 공개",
+  "summary_ko": "제논이 컴퓨터 화면을 인식하고 직접 조작할 수 있는 3970억 매개변수의 VLM 오픈소스를 공개했습니다. 실제 업무 수행 능력을 강화한 것이 특징입니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "e7d0d6a08f3c2b0b",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=215434",
+  "source": "AI타임스",
+  "title": "찰스 3세, 젠슨 황·허사비스 만나 \"AI 통제 수단 마련해야\"",
+  "published_at": "2026-09-18T12:53:33+00:00",
+  "collected_at": "2026-09-18T04:31:01.932374+00:00",
+  "title_ko": "영국 찰스 국왕, 빅테크 수장들과 만나 AI 안전장치 촉구",
+  "summary_ko": "찰스 3세 영국 국왕이 엔비디아, 구글 딥마인드, 오픈아이, 앤트로픽 등 주요 AI 기업 수장들을 만나 AI 통제 수단과 안전장치 마련을 촉구했습니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "Google",
+   "OpenAI"
+  ]
+ },
+ {
+  "id": "668b55e01578bc5c",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=215435",
+  "source": "AI타임스",
+  "title": "앤트로픽 \"클로드, 자기개선 주도 26%…관여는 90%\"",
+  "published_at": "2026-09-18T12:11:21+00:00",
+  "collected_at": "2026-09-18T04:31:01.932374+00:00",
+  "title_ko": "앤트로픽, AI의 자기개선(RSI) 모니터링 지표 공개",
+  "summary_ko": "앤트로픽이 AI가 차세대 모델 개발에 스스로 참여하는 재귀적 자기개선 과정의 투명성을 확보하기 위해 내부 모니터링 지표를 공개했습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "d68db4373e44ffa9",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=215430",
+  "source": "AI타임스",
+  "title": "앤트로픽, 장기 개발 관리 에이전트 '클로드 코드 프로젝트' 공개",
+  "published_at": "2026-09-18T11:56:41+00:00",
+  "collected_at": "2026-09-18T04:31:01.932374+00:00",
+  "title_ko": "앤트로픽, 장기 개발 관리 에이전트 '클로드 코드 프로젝트' 출시",
+  "summary_ko": "앤트로픽이 단발성 코딩을 넘어 여러 세션에 걸쳐 소프트웨어 개발 프로젝트 전체를 총괄하고 기억하는 개발용 에이전트를 공개했습니다.",
+  "category": "속보",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "eeec8c4839537036",
+  "url": "https://www.hacktron.ai/blog/hacking-openai",
+  "source": "Hacker News",
+  "title": "Hacking OpenAI",
+  "published_at": "2026-09-18T02:47:24+00:00",
+  "collected_at": "2026-09-18T04:30:55.236685+00:00",
+  "title_ko": "오픈AI 보안 해킹 관련 분석 블로그",
+  "summary_ko": "오픈AI 관련 보안 취약점 및 해킹 시도에 대한 분석 내용이 공유되었습니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI"
+  ]
+ },
+ {
+  "id": "e43911a1c5cea3ca",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wje4xh/still_doesnt_get_what_jev_isis_it_just_a_more/",
+  "source": "r/LocalLLaMA",
+  "title": "still doesn’t get what Jev is…..is it just a more generalised BERT?",
+  "published_at": "2026-09-18T02:45:55+00:00",
+  "collected_at": "2026-09-18T04:30:56.022787+00:00",
+  "title_ko": "Jev 모델의 정체와 BERT와의 유사성 분석",
+  "summary_ko": "새로 출시된 Jev 모델이 맞춤형 프롬프트와 기준을 읽어내는 고성능 분류기이며, 일반화된 BERT 형태인지에 대한 커뮤니티 논의가 이어졌습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "2ad7373c2aa23551",
+  "url": "https://www.reddit.com/r/singularity/comments/1wjdvt5/independent_security_researchers_used_anthropics/",
+  "source": "r/singularity",
+  "title": "Independent Security Researchers Used Anthropic’s Claude to Break Into OpenAI",
+  "published_at": "2026-09-18T02:34:07+00:00",
+  "collected_at": "2026-09-18T04:31:00.803705+00:00",
+  "title_ko": "보안 연구원들, 앤트로픽 클로드 활용해 오픈AI 우회 시도",
+  "summary_ko": "독립 보안 연구원들이 앤트로픽의 클로드를 이용해 오픈AI 시스템에 접근하고 허점을 테스트한 사례가 공유되었습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "OpenAI",
+   "Claude"
+  ]
+ },
+ {
+  "id": "d821ea37b4fd6401",
+  "url": "https://www.reddit.com/r/singularity/comments/1wjd7p8/dwarkeshs_podcast_with_noam_brown_of_openai/",
+  "source": "r/singularity",
+  "title": "Dwarkesh's podcast with noam brown of openai",
+  "published_at": "2026-09-18T02:02:51+00:00",
+  "collected_at": "2026-09-18T04:31:00.803705+00:00",
+  "title_ko": "오픈아이 노암 브라운 인터뷰: 역량과 안전성 논의",
+  "summary_ko": "오픈AI의 노암 브라운이 팟캐스트에 출연해 AI 역량 강화와 안전성 연구에 대해 심도 있는 논의를 진행했습니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI"
+  ]
+ },
+ {
+  "id": "942854dc0e14080e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjd5hf/dual_7900_xtx_some_guy_made_a_pretty_optimized/",
+  "source": "r/LocalLLaMA",
+  "title": "dual 7900 xtx - some guy made a pretty optimized fork of lamacpp optimized for this setup Qwen 3.8 Q8 at 82 tokens / seconds decode",
+  "published_at": "2026-09-18T02:00:07+00:00",
+  "collected_at": "2026-09-18T04:30:56.022787+00:00",
+  "title_ko": "듀얼 7900 XTX 환경 최적화로 대폭 향상된 로컬 LLM 속도",
+  "summary_ko": "소비자용 PC 환경에서 AMD 듀얼 7900 XTX GPU를 활용해 큐원 모델 구동 속도를 크게 높인 llama.cpp 최적화 포크가 소개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "a0792b14298a30d1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjcnkv/whats_the_state_of_the_art_recipe_for_running/",
+  "source": "r/LocalLLaMA",
+  "title": "what's the state of the art recipe for running Qwen3.8-Flash-Next with a pair of 3090s and a ton of system RAM rn?",
+  "published_at": "2026-09-18T01:36:26+00:00",
+  "collected_at": "2026-09-18T04:30:56.022787+00:00",
+  "title_ko": "듀얼 3090 및 시스템 RAM 활용한 로컬 LLM 구동 레시피 공유",
+  "summary_ko": "HPC 클러스터 및 고성능 개인 작업 환경에서 VRAM과 시스템 RAM을 결합해 대형 모델을 텐서 병렬로 구동하는 방법에 대한 논의가 이루어졌습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "04d8b5793d761158",
+  "url": "https://www.reddit.com/r/singularity/comments/1wjbomb/an_interesting_paper_on_continuous_live_learning/",
+  "source": "r/singularity",
+  "title": "An interesting paper on Continuous (Live) Learning: \"Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data\"",
+  "published_at": "2026-09-18T00:51:28+00:00",
+  "collected_at": "2026-09-18T04:31:00.803705+00:00",
+  "title_ko": "실시간 데이터 기반 가중치 적응 다루는 라이브 학습 논문",
+  "summary_ko": "별도의 파라미터 추가 없이 실시간 데이터로 모델 가중치를 동적으로 조절하는 'Infinite-Parameter LLMs' 연구 논문이 소개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "082678d7a8fb4498",
+  "url": "https://www.reddit.com/r/singularity/comments/1wjauca/gpt6_astra_conquered_factorio_space_age_in_2_days/",
+  "source": "r/singularity",
+  "title": "GPT-6 Astra conquered Factorio: Space Age in 2 days",
+  "published_at": "2026-09-18T00:12:38+00:00",
+  "collected_at": "2026-09-18T04:31:00.803705+00:00",
+  "title_ko": "팩토리오 게임 정복한 가상의 GPT-6 Astra 소식",
+  "summary_ko": "AI가 복잡한 전략 게임인 팩토리오를 단 2일 만에 클리어했다는 가상의 시나리오성 게시물이 커뮤니티에서 화제가 되었습니다.",
+  "category": "참고",
+  "tags": [
+   "GPT"
+  ]
+ },
+ {
+  "id": "414b0ee8048f1219",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wja9ml/600toks_single_request_on_qwen36_35ba3b_with/",
+  "source": "r/LocalLLaMA",
+  "title": "600tok/s single request on qwen3.6 35ba3b with Ninfer on an RTX Pro 6000. Anybody remember that Comcast ad \"stupid fast\"?",
+  "published_at": "2026-09-17T23:47:55+00:00",
+  "collected_at": "2026-09-18T04:30:56.022787+00:00",
+  "title_ko": "RTX Pro 6000에서 초당 600토큰 처리하는 로컬 모델 구동 사례",
+  "summary_ko": "고성능 워크스테이션 GPU 환경에서 Ninfer를 활용해 대형 모델을 초고속으로 구동하며 실무 반복 작업에 활용하는 사례가 공유되었습니다.",
+  "category": "팁",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "335f525608b9c30e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj9u19/installing_6_gpus_in_a_standard_case_rather_than/",
+  "source": "r/LocalLLaMA",
+  "title": "Installing 6 GPUs in a standard case rather than using an open-frame chassis.",
+  "published_at": "2026-09-17T23:28:39+00:00",
+  "collected_at": "2026-09-18T04:30:56.022787+00:00",
+  "title_ko": "일반 풀타워 케이스에 V100 GPU 6장 구축 사례",
+  "summary_ko": "개방형 프레임 대신 일반 풀타워 케이스에 V100 GPU 6장을 장착한 로컬 AI 서버 구축 테스트 후기입니다.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "6f911ec31259f907",
   "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
   "source": "TechCrunch",
@@ -28,6 +235,21 @@
   "tags": [
    "Google",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "e6605f35241608d6",
+  "url": "https://www.reddit.com/r/singularity/comments/1wj9dna/at_least_six_or_seven_chinese_ai_labs_aim_to/",
+  "source": "r/singularity",
+  "title": "At least six or seven Chinese AI labs aim to train 10–40tn-parameter models within two years.",
+  "published_at": "2026-09-17T23:08:49+00:00",
+  "collected_at": "2026-09-18T04:31:00.803705+00:00",
+  "title_ko": "중국 AI 연구소, 2년 내 10~40조 파라미터 모델 학습 목표",
+  "summary_ko": "중국의 주요 AI 연구소 6~7곳이 향후 2년 내 초거대 파라미터 모델 학습을 목표로 하고 있어 글로벌 경쟁이 심화될 전망입니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "투자"
   ]
  },
  {
@@ -130,6 +352,37 @@
   "tags": [
    "AI 에이전트",
    "코딩"
+  ]
+ },
+ {
+  "id": "da2138201611c598",
+  "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+  "source": "Hacker News",
+  "title": "How to Write with an LLM",
+  "published_at": "2026-09-17T21:48:38+00:00",
+  "collected_at": "2026-09-18T04:30:55.236685+00:00",
+  "title_ko": "LLM을 활용한 효과적인 글쓰기 방법",
+  "summary_ko": "대형 언어 모델(LLM)을 활용해 글쓰기 작업을 수행하는 실용적인 방법과 팁을 다룹니다.",
+  "category": "팁",
+  "tags": [
+   "GPT",
+   "Claude"
+  ]
+ },
+ {
+  "id": "5b376f0c7746cc0c",
+  "url": "https://www.reddit.com/r/singularity/comments/1wj7beg/anthropic_opensources_claudewritten_gpu/",
+  "source": "r/singularity",
+  "title": "Anthropic open-sources Claude-written GPU optimizations that make 30+ biomolecular models ~4× faster on average",
+  "published_at": "2026-09-17T21:44:30+00:00",
+  "collected_at": "2026-09-18T04:31:00.803705+00:00",
+  "title_ko": "앤트로픽, Claude가 작성한 GPU 최적화 코드 오픈소스 공개",
+  "summary_ko": "앤트로픽이 Claude를 활용해 작성한 GPU 최적화 코드를 공개하여 생체 분자 모델의 처리 속도를 평균 4배 향상시켰습니다.",
+  "category": "참고",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "오픈소스"
   ]
  },
  {
@@ -247,6 +500,22 @@
   ]
  },
  {
+  "id": "54beed169a5fb3a9",
+  "url": "https://www.reddit.com/r/singularity/comments/1wj5pzw/anthropic_reveals_claude_is_now_leading_26_of_its/",
+  "source": "r/singularity",
+  "title": "Anthropic reveals Claude is now leading 26% of its own R&D work, up from nearly zero 6 months ago",
+  "published_at": "2026-09-17T20:41:59+00:00",
+  "collected_at": "2026-09-18T04:31:00.803705+00:00",
+  "title_ko": "앤트로픽, 내부 R&D의 26%를 Claude가 주도",
+  "summary_ko": "앤트로픽 내부 연구개발 작업의 26%를 Claude가 직접 수행하며 AI 개발 속도가 급격히 빨라지고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "c34963e03a4acf74",
   "url": "https://bend-lang.com/",
   "source": "Hacker News",
@@ -348,6 +617,22 @@
   "category": "참고",
   "tags": [
    "Google"
+  ]
+ },
+ {
+  "id": "5bb26844dd3b69d4",
+  "url": "https://www.reddit.com/r/singularity/comments/1wj4i1t/general_ai_assistant_market_update/",
+  "source": "r/singularity",
+  "title": "General AI assistant market update",
+  "published_at": "2026-09-17T19:57:05+00:00",
+  "collected_at": "2026-09-18T04:31:00.803705+00:00",
+  "title_ko": "2026년 소비자 AI 시장 현황: 지출 3배 증가",
+  "summary_ko": "2026년 소비자 AI 시장 보고서에 따르면 전체 사용자 성장세는 정체되었으나 글로벌 지출이 3배 늘어나며 깊이 있는 활용이 증가했습니다.",
+  "category": "참고",
+  "tags": [
+   "GPT",
+   "Gemini",
+   "Claude"
   ]
  },
  {
@@ -510,6 +795,21 @@
   "tags": [
    "오픈소스",
    "LLM"
+  ]
+ },
+ {
+  "id": "a27c34507684f5c0",
+  "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+  "source": "Ars Technica",
+  "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+  "published_at": "2026-09-17T18:33:13+00:00",
+  "collected_at": "2026-09-18T04:30:33.593514+00:00",
+  "title_ko": "AI 워터마킹 적용 시 유해 프롬프트 대응 변화",
+  "summary_ko": "SynthID 등 AI 워터마킹 기술이 모델의 안전성 필터에 영향을 주어 유해 프롬프트에 다르게 반응할 수 있다는 연구 결과입니다.",
+  "category": "참고",
+  "tags": [
+   "Google",
+   "규제"
   ]
  },
  {
@@ -748,6 +1048,21 @@
   ]
  },
  {
+  "id": "bc4d9876dcccb2a2",
+  "url": "https://arxiv.org/abs/2609.18842",
+  "source": "Hacker News",
+  "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+  "published_at": "2026-09-17T16:55:14+00:00",
+  "collected_at": "2026-09-18T04:30:37.304040+00:00",
+  "title_ko": "실시간 데이터 기반 무한 파라미터 LLM 연구",
+  "summary_ko": "실시간 데이터로부터 직접 가중치를 생성하고 적응시키는 새로운 아키텍처의 무한 파라미터 LLM 연구 논문입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
   "id": "39540ac1ba60a6ec",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215425",
   "source": "AI타임스",
@@ -848,6 +1163,21 @@
    "OpenAI",
    "Claude",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "38dbd647cb49436f",
+  "url": "https://news.ycombinator.com/item?id=49743049",
+  "source": "Hacker News",
+  "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+  "published_at": "2026-09-17T16:22:15+00:00",
+  "collected_at": "2026-09-18T04:30:55.236685+00:00",
+  "title_ko": "코딩 에이전트 간 대화 이동 도구 'Skillsync' 출시",
+  "summary_ko": "다양한 코딩 에이전트 사이에서 AI 채팅 세션과 문맥을 자유롭게 이동하고 연동할 수 있는 유니버설 컨버터 도구입니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
   ]
  },
  {
