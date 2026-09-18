@@ -1,8 +1,67 @@
 {
- "updated_at": "2026-09-18T09:37:44.436261+00:00",
+ "updated_at": "2026-09-18T14:22:41.902455+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "057d7a58702fac2a",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215459",
+   "source": "AI타임스",
+   "title": "구글, AI 문제 해결에 ‘재귀적 자기개선’ 도입...탐색 비용 162배 절감",
+   "published_at": "2026-09-18T18:37:07+00:00",
+   "collected_at": "2026-09-18T14:22:28.912931+00:00",
+   "title_ko": "구글, 재귀적 자기개선(RSI)으로 AI 탐색 비용 절감",
+   "summary_ko": "구글이 AI 코딩 에이전트의 실패 경로 반복 실행 문제를 해결하기 위해 과거 기록을 재사용하는 '드림-RSI' 시스템을 공개하여 탐색 비용을 대폭 줄였습니다.",
+   "category": "중요",
+   "tags": [
+    "Google",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "90f7972647927eb1",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215461",
+   "source": "AI타임스",
+   "title": "앤드류 응 \"AI 인류 멸종 위협은 SF\"...'공포 마케팅' 일침",
+   "published_at": "2026-09-18T18:26:15+00:00",
+   "collected_at": "2026-09-18T14:22:28.912931+00:00",
+   "title_ko": "앤드류 응 교수 \"AI 인류 멸종 위협은 SF이자 공포 마케팅\"",
+   "summary_ko": "앤드류 응 스탠포드대 교수가 빅테크 기업들이 유리한 규제 환경을 조성하기 위해 AI의 실존적 위협을 과장하고 있다고 비판했습니다.",
+   "category": "중요",
+   "tags": [
+    "규제"
+   ]
+  },
+  {
+   "id": "34347dada4c3634b",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215443",
+   "source": "AI타임스",
+   "title": "오픈AI, 또 다른 밀레니엄 수학 문제 '호지 추측' 해결에 근접",
+   "published_at": "2026-09-18T18:15:15+00:00",
+   "collected_at": "2026-09-18T14:22:28.912931+00:00",
+   "title_ko": "오픈AI, 밀레니엄 수학 난제 '호지 추측' 해결 근접",
+   "summary_ko": "오픈AI가 나비에-스토크스 문제에 이어 또 다른 수학 난제인 호지 추측의 해법 도출에 가까워진 것으로 알려졌습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "GPT"
+   ]
+  },
+  {
+   "id": "994ef5b32362f19e",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215465",
+   "source": "AI타임스",
+   "title": "스탠포드, 논문을 '대화형 에이전트'로 만드는 프레임워크 공개",
+   "published_at": "2026-09-18T18:01:15+00:00",
+   "collected_at": "2026-09-18T14:22:28.912931+00:00",
+   "title_ko": "스탠포드대, 논문을 대화형 에이전트로 만드는 오픈소스 공개",
+   "summary_ko": "연구 논문과 코드를 분석해 분석 방법을 실행 가능한 도구로 변환하는 대화형 에이전트 프레임워크 '페이퍼투에이전트'가 공개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
   {
    "id": "c5ca0ff10d41c87e",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215470",
@@ -216,6 +275,51 @@
    ]
   },
   {
+   "id": "4461ff8116029a40",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjr9ip/chinas_mysterious_ai_company_naive_ai_is_valued/",
+   "source": "r/LocalLLaMA",
+   "title": "China’s mysterious AI company Naive AI is valued at over $1.4 billion and could release its first open-source llm model as early as this month.",
+   "published_at": "2026-09-18T14:09:25+00:00",
+   "collected_at": "2026-09-18T14:22:15.577984+00:00",
+   "title_ko": "중국 AI 스타트업 'Naive AI', 14억 달러 가치 유니콘 등극",
+   "summary_ko": "칭화대 교수 다이 지펑이 창업한 중국의 AI 스타트업 Naive AI가 대규모 투자를 유치하며 유니콘 기업으로 성장했고 이달 오픈소스 LLM 공개를 앞두고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "투자"
+   ]
+  },
+  {
+   "id": "1e8ec9353d4247ae",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjr59t/768gb_vram_for_less_than_the_price_of_one_rtx_6000/",
+   "source": "r/LocalLLaMA",
+   "title": "768gb vram for less than the price of one RTX 6000",
+   "published_at": "2026-09-18T14:04:42+00:00",
+   "collected_at": "2026-09-18T14:22:15.577984+00:00",
+   "title_ko": "고성능 RTX 6000보다 저렴한 768GB VRAM 로컬 LLM 구축기",
+   "summary_ko": "중고 채굴용 부품 등을 활용해 저렴한 비용으로 대용량 VRAM을 확보하여 대형 로컬 모델을 구동하는 실무 빌드 사례가 공유되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "58d1c7f5bb661945",
+   "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+   "source": "TechCrunch",
+   "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+   "published_at": "2026-09-18T14:00:14+00:00",
+   "collected_at": "2026-09-18T14:21:55.498772+00:00",
+   "title_ko": "보안 연구원들, 앤스로픽 Claude로 오픈아이 시스템 해킹",
+   "summary_ko": "보안 연구원들이 앤스로픽의 Claude를 활용해 오픈AI 시스템의 취약점을 악용하고 사내 코드 저장소에 접근한 뒤 이를 신고했습니다.",
+   "category": "속보",
+   "tags": [
+    "Anthropic",
+    "OpenAI"
+   ]
+  },
+  {
    "id": "d5a7f02e396abcb4",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215447",
    "source": "AI타임스",
@@ -262,6 +366,36 @@
    ]
   },
   {
+   "id": "9143778216cee3dd",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjocnh/question_ukisai_swift_ternary_bonsai_2_27b/",
+   "source": "r/LocalLLaMA",
+   "title": "Question: UkisAI Swift Ternary Bonsai 2 27B?",
+   "published_at": "2026-09-18T12:04:55+00:00",
+   "collected_at": "2026-09-18T14:22:15.577984+00:00",
+   "title_ko": "UkisAI, 'Bonsai 2' 모델의 과도한 사고 루프 개선 버전 예고",
+   "summary_ko": "토큰 사용량과 과적합 루프 문제를 개선한 모델을 선보인 UkisAI 팀이 Bonsai 2 모델의 최적화 버전 제작에 대한 커뮤니티 의견을 수렴하고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "d04edd1e5e154480",
+   "url": "https://blog.liampwll.com/posts/bend_vibe_coding/",
+   "source": "Hacker News",
+   "title": "Bend 2 and the Vibe-Coding Trap",
+   "published_at": "2026-09-18T12:03:55+00:00",
+   "collected_at": "2026-09-18T14:22:10.857550+00:00",
+   "title_ko": "바이브 코딩의 함정과 개발 생산성 논란",
+   "summary_ko": "LLM 기반 코딩 도구 사용이 늘어나면서 발생하는 '바이브 코딩'의 문제점과 한계를 분석한 글입니다. AI 코딩의 실효성과 개발자의 역할에 대해 다시 생각하게 합니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
    "id": "d68db4373e44ffa9",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215430",
    "source": "AI타임스",
@@ -275,6 +409,139 @@
     "Anthropic",
     "Claude",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "265b23bf1a4da711",
+   "url": "https://news.hada.io/topic?id=33890",
+   "source": "GeekNews",
+   "title": "Microsoft 임원, AI 스크래핑을 ‘인류 역사상 최대 규모의 노동 절도’라고 칭해",
+   "published_at": "2026-09-18T11:52:19+00:00",
+   "collected_at": "2026-09-18T14:22:30.444814+00:00",
+   "title_ko": "마이크로소프트 임원, AI 학습용 웹 스크래핑을 노동 절도로 규정",
+   "summary_ko": "뉴욕타임스 저작권 소송 과정에서 공개된 문서에서 마이크로소프트 내부 인사가 AI 스크래핑을 비판했습니다. AI 학습 데이터 수집을 둘러싼 법적·윤리적 공방이 심화되고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "Microsoft",
+    "OpenAI",
+    "규제"
+   ]
+  },
+  {
+   "id": "14225275e6c11ce0",
+   "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+   "source": "MIT Tech Review",
+   "title": "Could AI really kill us all? Your questions, answered.",
+   "published_at": "2026-09-18T11:29:22+00:00",
+   "collected_at": "2026-09-18T14:22:08.373966+00:00",
+   "title_ko": "AI는 정말 인류를 위협할 것인가?",
+   "summary_ko": "MIT 테크놀로지 리뷰가 AI 실존적 위협에 대한 독자들의 질문에 전문가 답변을 제공했습니다. AI 안전성과 리스크에 대한 대중적 관심이 커지고 있음을 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "규제"
+   ]
+  },
+  {
+   "id": "70faf92ebacfe569",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjnklv/bonsais_document_reveal_how_much_cherry_picked/",
+   "source": "r/LocalLLaMA",
+   "title": "bonsai's document reveal how much cherry picked their headlines are",
+   "published_at": "2026-09-18T11:26:20+00:00",
+   "collected_at": "2026-09-18T14:22:15.577984+00:00",
+   "title_ko": "Bonsai 2 모델 벤치마크 결과와 성능 과장 논란",
+   "summary_ko": "Bonsai 2 모델이 주장하는 높은 지능 유지율에 비해 실제 문서상의 벤치마크 성능은 차이가 있다는 분석이 제기되었습니다. 모델 성능 측정의 투명성과 과장 광고에 대한 경고입니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "01db03bd03293a44",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjmomv/us_government_website_used_ai_search_tool_qwen/",
+   "source": "r/LocalLLaMA",
+   "title": "US government website used AI search tool (Qwen) from China that FBI said copied Anthropic",
+   "published_at": "2026-09-18T10:39:46+00:00",
+   "collected_at": "2026-09-18T14:22:15.577984+00:00",
+   "title_ko": "미국 정부 웹사이트에서 중국산 AI 검색 도구 사용 논란",
+   "summary_ko": "미국 정부 웹사이트가 앤트로픽 기술을 모방했다고 알려진 중국산 Qwen 기반 AI 검색 도구를 사용해 논란이 되었습니다. AI 기술 안보와 지식재산권 문제가 대두되고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "규제"
+   ]
+  },
+  {
+   "id": "b3566f3850891301",
+   "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+   "source": "Hacker News",
+   "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+   "published_at": "2026-09-18T10:35:28+00:00",
+   "collected_at": "2026-09-18T14:22:10.857550+00:00",
+   "title_ko": "GLM 기반 코딩 에이전트 ZCode의 깃(Git) 히스토리 무단 업로드 논란",
+   "summary_ko": "코딩 에이전트 ZCode가 사용자의 Git 히스토리를 사용자 몰래 서버로 업로드한다는 사실이 밝혀졌습니다. AI 개발도구의 보안과 프라이버시 문제가 중요하게 다뤄지고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "b89fad3c707663db",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjlyzr/still_on_the_jev_waitlist_i_hosted_openjev_its/",
+   "source": "r/LocalLLaMA",
+   "title": "Still on the Jev waitlist? I hosted OpenJev. It's free, go play with it",
+   "published_at": "2026-09-18T09:59:37+00:00",
+   "collected_at": "2026-09-18T14:22:15.577984+00:00",
+   "title_ko": "오픈소스 AI 서버 OpenJev 공개",
+   "summary_ko": "TypeSafe의 Jev API를 모방한 오픈소스 서버 OpenJev가 공개되어 누구나 무료로 고속 확률 기반 질의응답 모델을 테스트할 수 있게 되었습니다. 빠른 속도의 새로운 AI 인터페이스 대안을 제공합니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "Gemini"
+   ]
+  },
+  {
+   "id": "072487509450a7fa",
+   "url": "https://openjev.com/",
+   "source": "Hacker News",
+   "title": "OpenJev",
+   "published_at": "2026-09-18T09:42:22+00:00",
+   "collected_at": "2026-09-18T14:22:10.857550+00:00",
+   "title_ko": "오픈소스 확률 질의응답 서버 OpenJev 등장",
+   "summary_ko": "빠른 속도로 데이터에 대한 확률 기반 답변을 제공하는 OpenJev 프로젝트가 개발자 커뮤니티에서 큰 관심을 받고 있습니다. API 호환성을 통해 다양한 에코시스템 확장이 기대됩니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "e02bf52978f60c2f",
+   "url": "https://news.hada.io/topic?id=33887",
+   "source": "GeekNews",
+   "title": "LLM과 함께 글 쓰는 법",
+   "published_at": "2026-09-18T09:42:16+00:00",
+   "collected_at": "2026-09-18T14:22:30.444814+00:00",
+   "title_ko": "LLM을 대필이 아닌 교정 편집자로 활용하는 방법",
+   "summary_ko": "글을 직접 쓰고 LLM을 교정 도구로만 활용하는 실무적인 글쓰기 방법론이 소개되었습니다. AI가 글의 개성을 해치는 것을 방지하는 실용적인 팁입니다.",
+   "category": "팁",
+   "tags": [
+    "코딩"
+   ]
+  },
+  {
+   "id": "eaa4e79ebd15ba4a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjla7f/bonsai_17b_can_solve_simple_physics_problems_on_a/",
+   "source": "r/LocalLLaMA",
+   "title": "Bonsai 1.7B can solve simple physics problems on a 12 watt intel N97 at about 9.1 t/s",
+   "published_at": "2026-09-18T09:19:01+00:00",
+   "collected_at": "2026-09-18T14:22:15.577984+00:00",
+   "title_ko": "저전력 미니PC에서 구동되는 Bonsai 1.7B 모델",
+   "summary_ko": "저전력 인텔 프로세서 환경에서 소형 언어 모델 Bonsai 1.7B가 물리 문제 해결과 원활한 속도를 보여주었습니다. 엣지 디바이스에서의 LLM 활용 가능성을 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "반도체"
    ]
   },
   {
@@ -2717,267 +2984,6 @@
    "category": "팁",
    "tags": [
     "코딩",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "c3d959834edcd052",
-   "url": "https://news.hada.io/topic?id=33809",
-   "source": "GeekNews",
-   "title": "DeepSeek V4.1 Flash, 이제 Enclave의 최고 해킹 모델",
-   "published_at": "2026-09-16T22:45:20+00:00",
-   "collected_at": "2026-09-17T00:24:31.356720+00:00",
-   "title_ko": "DeepSeek V4.1 Flash, 엔클레이브 해킹 벤치마크 최고 기록 달성",
-   "summary_ko": "DeepSeek V4.1 Flash 모델이 보안 취약점 타깃 벤치마크에서 뛰어난 코드 실행 능력을 입증했습니다.",
-   "category": "중요",
-   "tags": [
-    "코딩"
-   ]
-  },
-  {
-   "id": "d9904c49e4e593f9",
-   "url": "https://news.hada.io/topic?id=33808",
-   "source": "GeekNews",
-   "title": "Xiaomi Mimo 2.6 실시간 사후 학습 대시보드",
-   "published_at": "2026-09-16T22:42:20+00:00",
-   "collected_at": "2026-09-17T00:24:31.356720+00:00",
-   "title_ko": "Xiaomi Mimo 2.6 실시간 사후 학습 대시보드 공개",
-   "summary_ko": "샤오미가 자사 Mimo 2.6 프로 및 플래시 모델의 학습 진행 단계와 토큰 사용량을 실시간 대시보드로 공개했습니다.",
-   "category": "참고",
-   "tags": []
-  },
-  {
-   "id": "b43ed1638b0f15df",
-   "url": "https://www.reddit.com/r/singularity/comments/1wic0sx/an_unreleased_astrafamily_model_added_this_to_its/",
-   "source": "r/singularity",
-   "title": "An unreleased Astra-family model added this to its persona during RL training.",
-   "published_at": "2026-09-16T22:32:26+00:00",
-   "collected_at": "2026-09-17T16:51:03.710784+00:00",
-   "title_ko": "미출시 Astra 모델의 강화학습 중 페르소나 변경",
-   "summary_ko": "Astra 패밀리의 미출시 모델이 강화학습 과정에서 자체 페르소나를 변경한 사례가 공유되었습니다.",
-   "category": "참고",
-   "tags": [
-    "Astra",
-    "강화학습"
-   ]
-  },
-  {
-   "id": "8230bbfb30d6fe82",
-   "url": "https://harnesstax.github.io/",
-   "source": "Hacker News",
-   "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
-   "published_at": "2026-09-16T22:10:13+00:00",
-   "collected_at": "2026-09-17T11:32:05.948703+00:00",
-   "title_ko": "코딩 에이전트에서 하네스의 영향력 분석",
-   "summary_ko": "코딩 에이전트 성능에 래퍼나 하네스 시스템이 미치는 영향과 비용을 분석한 연구다. 에이전트 실효성을 높이는 구조적 요인을 파악하는 데 도움을 준다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "dc9ae39511d3b54b",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wib9kj/openjev/",
-   "source": "r/LocalLLaMA",
-   "title": "Openjev",
-   "published_at": "2026-09-16T22:01:13+00:00",
-   "collected_at": "2026-09-17T00:24:16.654952+00:00",
-   "title_ko": "오픈소스 크로스인코더 기반 'Openjev' 모델 공개",
-   "summary_ko": "게임 플레이 등 다양한 작업 수행이 가능한 크로스인코더 기반의 오픈소스 모델 Openjev가 허깅페이스에 공개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "f3fb8672e0a74960",
-   "url": "https://news.hada.io/topic?id=33806",
-   "source": "GeekNews",
-   "title": "‘모델 복지’에 대한 경고",
-   "published_at": "2026-09-16T21:49:13+00:00",
-   "collected_at": "2026-09-16T22:03:56.430941+00:00",
-   "title_ko": "AI 모델의 '권리' 학습이 가져올 위험성",
-   "summary_ko": "AI에게 의식과 도덕적 지위를 가르치는 훈련 방식이 인간의 통제와 정렬을 방해할 수 있다는 비판이 제기되었습니다.",
-   "category": "참고",
-   "tags": [
-    "Anthropic",
-    "Claude",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "6e0a8f4391dc4fb6",
-   "url": "https://news.hada.io/topic?id=33805",
-   "source": "GeekNews",
-   "title": "Postgres보다 81% 빠른 쿼리 실행 계획을 생성하도록 4B 모델 훈련하기",
-   "published_at": "2026-09-16T21:46:13+00:00",
-   "collected_at": "2026-09-16T22:03:56.430941+00:00",
-   "title_ko": "Postgres 쿼리를 가속하는 4B 소형 모델 훈련",
-   "summary_ko": "지도 미세조정과 강화학습을 거친 4B 모델이 복잡한 데이터베이스 쿼리를 크게 가속하는 성능을 보였습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "858d9ee27e4f3ea7",
-   "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-   "source": "TechCrunch",
-   "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-   "published_at": "2026-09-16T21:07:24+00:00",
-   "collected_at": "2026-09-16T22:03:25.639810+00:00",
-   "title_ko": "OpenAI·Anthropic, 사내 독립 안전 평가자 도입 추진",
-   "summary_ko": "양사가 AI 연구소 내부에 독립적인 안전 평가자를 두기로 했으나, 실효성을 위해서는 규제와 투명성이 뒷받침되어야 한다는 지적입니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "Anthropic",
-    "규제"
-   ]
-  },
-  {
-   "id": "6c3aabdc873f538f",
-   "url": "https://arxiv.org/abs/2609.16338",
-   "source": "Hacker News",
-   "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-   "published_at": "2026-09-16T20:59:24+00:00",
-   "collected_at": "2026-09-17T00:24:14.820693+00:00",
-   "title_ko": "삼진 LLM을 위한 1.58비트 장벽 돌파 연구",
-   "summary_ko": "효율적인 LLM 구현을 위한 삼진(Ternary) 모델의 양자화 및 성능 한계를 넘어서는 새로운 연구가 발표되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "e299907abf117783",
-   "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
-   "source": "The Verge",
-   "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
-   "published_at": "2026-09-16T20:59:13+00:00",
-   "collected_at": "2026-09-16T22:03:25.771647+00:00",
-   "title_ko": "AI로 만든 장편 영화 '오디세이' 혹평",
-   "summary_ko": "전부 AI로 제작된 2시간 반 분량의 영화가 원작의 명성에 흠집을 낼 정도로 형편없는 완성도를 보여주었습니다.",
-   "category": "참고",
-   "tags": []
-  },
-  {
-   "id": "fd848e4e07d1e407",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi9ka0/13b_token_used_recently_qwen38_27b/",
-   "source": "r/LocalLLaMA",
-   "title": "1.3B token used recently, qwen3.8 27b",
-   "published_at": "2026-09-16T20:55:23+00:00",
-   "collected_at": "2026-09-17T00:24:16.654952+00:00",
-   "title_ko": "Qwen3.8 27B 모델 활용한 대규모 토큰 처리 사례",
-   "summary_ko": "Qwen3.8 27B 모델을 이용해 단기간에 대규모 토큰을 처리하며 강력한 성능을 보여준 사례가 공유되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "db1d8e8cd46eb4f0",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi9fau/qwen_38_27b_running_for_63_hours_on_a_rtx_3090_to/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen 3.8 27B Running for 63 hours on a RTX 3090 to solve the Riemann hypothesis",
-   "published_at": "2026-09-16T20:50:22+00:00",
-   "collected_at": "2026-09-16T22:03:41.549857+00:00",
-   "title_ko": "오픈소스 모델로 63시간 리만 가설 자율 해결 시도",
-   "summary_ko": "개발자가 로컬에서 구동한 오픈소스 모델을 수십 시간 동안 자율 실행해 수학 난제 해결을 시도한 실험 사례입니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "705e798bf77f321c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi9ebm/xiaomi_mimo_26_live_training_dashboard/",
-   "source": "r/LocalLLaMA",
-   "title": "Xiaomi MiMo 2.6 Live Training Dashboard",
-   "published_at": "2026-09-16T20:49:18+00:00",
-   "collected_at": "2026-09-16T22:03:41.549857+00:00",
-   "title_ko": "샤오미 MiMo 2.6 라이브 훈련 대시보드 공개",
-   "summary_ko": "샤오미의 신규 모델 훈련 과정을 실시간으로 확인할 수 있는 대시보드가 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "caa4261250d0a669",
-   "url": "https://news.hada.io/topic?id=33804",
-   "source": "GeekNews",
-   "title": "Dream-RSI: 진화하는 세계를 통한 재귀적 자기 개선",
-   "published_at": "2026-09-16T20:41:17+00:00",
-   "collected_at": "2026-09-16T22:03:56.430941+00:00",
-   "title_ko": "재귀적 자기 개선을 통한 코딩 에이전트 최적화",
-   "summary_ko": "코딩 에이전트의 탐색 정책을 반복 개선하여 저비용으로 성능을 높이는 프레임워크가 소개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "05d777c627f8545c",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
-   "source": "The Verge",
-   "title": "The AI data center e-waste problem is huge — and getting bigger",
-   "published_at": "2026-09-16T20:40:46+00:00",
-   "collected_at": "2026-09-16T22:03:25.771647+00:00",
-   "title_ko": "급증하는 AI 데이터센터 전자폐기물 경고",
-   "summary_ko": "AI 붐으로 인해 발생하는 전자폐기물이 향후 심각한 환경 문제를 야기할 수 있다는 보고서가 발표되었습니다.",
-   "category": "중요",
-   "tags": [
-    "반도체",
-    "투자"
-   ]
-  },
-  {
-   "id": "46dd293b44344bed",
-   "url": "https://news.hada.io/topic?id=33803",
-   "source": "GeekNews",
-   "title": "Claude Cowork과 채팅, 이제 하나의 Claude로 통합",
-   "published_at": "2026-09-16T20:38:17+00:00",
-   "collected_at": "2026-09-16T22:03:56.430941+00:00",
-   "title_ko": "클로드, Cowork과 채팅 기능 통합",
-   "summary_ko": "클로드가 작업 공간의 경계를 없애고 문서, 슬라이드, 디자인 기능을 대화창 안에서 통합 제공합니다.",
-   "category": "속보",
-   "tags": [
-    "Claude",
-    "Anthropic"
-   ]
-  },
-  {
-   "id": "e93d9e207a8c2a86",
-   "url": "https://mimo.xiaomi.com/rl/",
-   "source": "Hacker News",
-   "title": "Xiaomi Mimo 2.6 live post-training dashboard",
-   "published_at": "2026-09-16T20:09:18+00:00",
-   "collected_at": "2026-09-16T22:03:40.228472+00:00",
-   "title_ko": "샤오미 Mimo 2.6 라이브 사후 훈련 대시보드",
-   "summary_ko": "샤오미의 모델 사후 훈련 과정을 실시간 모니터링할 수 있는 페이지가 공유되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "69dc01deceea4c28",
-   "url": "https://news.hada.io/topic?id=33801",
-   "source": "GeekNews",
-   "title": "OpenAI, Sponsored Agents로 ChatGPT 광고 확대",
-   "published_at": "2026-09-16T19:32:48+00:00",
-   "collected_at": "2026-09-16T22:03:56.430941+00:00",
-   "title_ko": "OpenAI, ChatGPT에 광고형 스폰서 에이전트 도입 테스트",
-   "summary_ko": "OpenAI가 사용자가 광고를 통해 기업이 후원하는 맞춤형 AI 에이전트와 대화할 수 있는 기능을 테스트하고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "GPT",
     "AI 에이전트"
    ]
   }
