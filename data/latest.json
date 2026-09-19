@@ -1,8 +1,81 @@
 {
- "updated_at": "2026-09-19T00:10:57.794620+00:00",
+ "updated_at": "2026-09-19T05:44:45.473707+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "06f40287534f1bd9",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215487",
+   "source": "AI타임스",
+   "title": "디즈니, 사상 첫 CTO 선임…'저작권 마찰' 캐릭터닷AI CEO 영입",
+   "published_at": "2026-09-19T11:39:29+00:00",
+   "collected_at": "2026-09-19T05:44:29.888681+00:00",
+   "title_ko": "디즈니, 첫 통합 CTO에 캐릭터닷AI 전 CEO 영입",
+   "summary_ko": "월트디즈니가 AI 중심 디지털 전환을 위해 캐릭터닷AI의 카란딥 아난드 전 CEO를 초대 CTO로 선임했습니다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "d17a18f907ccf302",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215486",
+   "source": "AI타임스",
+   "title": "술레이만 \"오픈AI의 '셀프 프롬프트 인젝션'은 매우 심각한 상황\"",
+   "published_at": "2026-09-19T11:18:18+00:00",
+   "collected_at": "2026-09-19T05:44:29.888681+00:00",
+   "title_ko": "MS 술레이만 CEO, 오픈AI의 '셀프 프롬프트 인젝션' 우려",
+   "summary_ko": "마이크로소프트 AI CEO가 오픈AI 모델의 자가 프롬프트 인젝션 현상을 지적하며 통제 상실 위험을 경고했습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "규제"
+   ]
+  },
+  {
+   "id": "c40c12519e808c71",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215484",
+   "source": "AI타임스",
+   "title": "앤트로픽 IPO에 월가 신중론...1000억달러 매출 속 '적자 전환' 우려",
+   "published_at": "2026-09-19T10:47:54+00:00",
+   "collected_at": "2026-09-19T05:44:29.888681+00:00",
+   "title_ko": "앤트로픽 IPO 앞두고 월가 '적자 전환' 우려 제기",
+   "summary_ko": "앤트로픽의 연간 매출이 급증하며 IPO가 주목받고 있으나, 천문학적인 인프라 비용으로 인한 적자 우려도 커지고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "투자"
+   ]
+  },
+  {
+   "id": "058eee1f6975fbf0",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215482",
+   "source": "AI타임스",
+   "title": "캘리포니아, AI ‘킬 스위치’ 의무화 추진… 뉴섬 주지사, 트럼프에 대립각",
+   "published_at": "2026-09-19T10:04:42+00:00",
+   "collected_at": "2026-09-19T05:44:29.888681+00:00",
+   "title_ko": "캘리포니아주, AI '킬 스위치' 및 독립 감사 의무화 추진",
+   "summary_ko": "미국 캘리포니아주가 첨단 AI 모델에 대한 비상 정지 기능과 외부 감사를 강제하는 강력한 행정명령을 발동했습니다.",
+   "category": "중요",
+   "tags": [
+    "규제"
+   ]
+  },
+  {
+   "id": "88c4b13785758de0",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215480",
+   "source": "AI타임스",
+   "title": "앤트로픽, AI 안전 평가 기관으로 액센추어 선정…독립성 논란 확대",
+   "published_at": "2026-09-19T09:38:43+00:00",
+   "collected_at": "2026-09-19T05:44:29.888681+00:00",
+   "title_ko": "앤트로픽, 안전 평가 기관으로 액센추어 선정",
+   "summary_ko": "앤트로픽이 AI 안전성 검증을 위해 액센추어(패컬티)를 내부 상주 평가 기관으로 선정했으나 객관성 논란이 제기됩니다.",
+   "category": "참고",
+   "tags": [
+    "Anthropic",
+    "규제"
+   ]
+  },
   {
    "id": "850d9643994442f0",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215477",
@@ -17,6 +90,210 @@
     "OpenAI",
     "Anthropic",
     "Claude"
+   ]
+  },
+  {
+   "id": "9a93353bf6cb23c8",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkc4c9/steer_llms_and_agents_at_the_token_level_an/",
+   "source": "r/LocalLLaMA",
+   "title": "Steer LLMs and Agents at the Token Level: An interactive tool for token visualization & control, model inspection and data annotation.",
+   "published_at": "2026-09-19T04:21:02+00:00",
+   "collected_at": "2026-09-19T05:44:16.422019+00:00",
+   "title_ko": "토큰 레벨에서 LLM 제어하는 대화형 도구 'onPanda'",
+   "summary_ko": "모델 출력의 토큰을 직접 편집하고 추론 과정을 시각화할 수 있는 엔지니어용 도구가 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "a8318db65c03b39f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkc2n1/stepfun_new_model_step_5_preview_just_leaked/",
+   "source": "r/LocalLLaMA",
+   "title": "Stepfun new model \"Step 5 Preview\" just leaked",
+   "published_at": "2026-09-19T04:18:31+00:00",
+   "collected_at": "2026-09-19T05:44:16.422019+00:00",
+   "title_ko": "스텝펀 신규 모델 'Step 5 Preview' 유출",
+   "summary_ko": "스텝펀의 차세대 AI 모델 'Step 5 Preview'가 유출되며 성능 대폭 향상이 기대되고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "d04bc7bf86dea5ee",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk9qjn/training_a_neural_network_on_amd_mi50s_using/",
+   "source": "r/LocalLLaMA",
+   "title": "Training a Neural Network on AMD MI50s Using Vulkan: Proof of ConceptOr: Why I Stopped Listening and Just Did It",
+   "published_at": "2026-09-19T02:23:02+00:00",
+   "collected_at": "2026-09-19T05:44:16.422019+00:00",
+   "title_ko": "Vulkan을 활용한 AMD MI50에서의 신경망 학습 구현",
+   "summary_ko": "공식 지원이 끊긴 AMD 구형 GPU(MI50)에서 Vulkan을 이용해 AI 모델 학습을 성공한 사례입니다.",
+   "category": "팁",
+   "tags": [
+    "반도체",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "e6f3c9f586e85e07",
+   "url": "https://news.hada.io/topic?id=33930",
+   "source": "GeekNews",
+   "title": "Jev의 아키텍처를 파헤치다",
+   "published_at": "2026-09-19T02:22:19+00:00",
+   "collected_at": "2026-09-19T05:44:31.705479+00:00",
+   "title_ko": "확률 분포 병렬 출력하는 의사결정 모델 'Jev' 아키텍처 분석",
+   "summary_ko": "사전 학습 LLM의 지식을 바탕으로 문장 대신 답의 확률 분포를 출력하는 Jev 모델의 구조가 분석되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "9a5da8a5b1ad6363",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk9hze/qwen3827b_at_144_toks_on_an_m5_max_macbook_pro/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8-27B at 144 tok/s on an M5 Max MacBook Pro",
+   "published_at": "2026-09-19T02:11:38+00:00",
+   "collected_at": "2026-09-19T05:44:16.422019+00:00",
+   "title_ko": "오픈소스 추론 엔진 'Inco Splash' 공개",
+   "summary_ko": "애플 실리콘에 최적화되어 맥북에서 Qwen 모델을 고속으로 구동할 수 있는 오픈소스 추론 엔진이 나왔습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "7ebd397434f4187d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk9fag/alibaba_opensources_medical_ai_model_that_can/",
+   "source": "r/LocalLLaMA",
+   "title": "Alibaba open-sources medical AI model that can detect cancer and nearly 150 conditions",
+   "published_at": "2026-09-19T02:08:07+00:00",
+   "collected_at": "2026-09-19T05:44:16.422019+00:00",
+   "title_ko": "알리바바, 암 진단 가능한 의료 AI 모델 오픈소스 공개",
+   "summary_ko": "알리바바가 150여 가지 질환과 암을 탐지할 수 있는 의료용 AI 모델을 오픈소스로 공개했습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "75ffdb0f667c0119",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk979c/i_truly_think_every_major_ai_lab_is_purposefully/",
+   "source": "r/LocalLLaMA",
+   "title": "I truly think every major AI lab is purposefully making fear-mongering headlines to get regulations that hurt open-source models",
+   "published_at": "2026-09-19T01:57:25+00:00",
+   "collected_at": "2026-09-19T05:44:16.422019+00:00",
+   "title_ko": "대형 AI 랩들의 공포 마케팅과 오픈소스 규제 논란",
+   "summary_ko": "주요 AI 기업들이 오픈소스 모델을 견제하기 위해 의도적으로 공포스러운 헤드라인을 양산한다는 주장이 제기되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "규제"
+   ]
+  },
+  {
+   "id": "42fea8448a824be3",
+   "url": "https://news.hada.io/topic?id=33925",
+   "source": "GeekNews",
+   "title": "Claude Code, 이제 AGENTS.md도 지원",
+   "published_at": "2026-09-19T01:38:31+00:00",
+   "collected_at": "2026-09-19T05:44:31.705479+00:00",
+   "title_ko": "Claude Code, AGENTS.md 지침 지원 추가",
+   "summary_ko": "Claude Code가 AGENTS.md 파일을 프로젝트 지침으로 자동 사용하여 여러 코딩 에이전트 간 호환성이 향상되었습니다.",
+   "category": "속보",
+   "tags": [
+    "Claude",
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "b4914e6c1a0ca625",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk8jef/tuning_qwen_38_27b_and_omp_as_a_coding_agent_on_2/",
+   "source": "r/LocalLLaMA",
+   "title": "Tuning Qwen 3.8 27B and OMP as a coding agent on 2× 3090s",
+   "published_at": "2026-09-19T01:25:29+00:00",
+   "collected_at": "2026-09-19T05:44:16.422019+00:00",
+   "title_ko": "듀얼 3090 환경에서 Qwen 3.8B 코딩 에이전트 최적화",
+   "summary_ko": "vLLM과 Open WebUI 설정을 조정하여 듀얼 3090 GPU 환경에서 코딩 에이전트의 응답 속도를 크게 개선했습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "87fda554d2899bda",
+   "url": "https://news.hada.io/topic?id=33923",
+   "source": "GeekNews",
+   "title": "Needle 3 - 작은 기기에서 자연어 명령을 처리하는 8~29MB AI 모델",
+   "published_at": "2026-09-19T00:42:19+00:00",
+   "collected_at": "2026-09-19T05:44:31.705479+00:00",
+   "title_ko": "온디바이스용 초소형 AI 모델 'Needle 3' 공개",
+   "summary_ko": "8~29MB 크기로 스마트홈과 모바일 기기에서 오프라인 자연어 명령 및 도구 호출을 수행할 수 있는 초소형 모델입니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "db3f573b067a6ac5",
+   "url": "https://news.hada.io/topic?id=33922",
+   "source": "GeekNews",
+   "title": "jina-ocr-v1 - 저가형 GPU에서 더 빠르게 문서를 파싱하는 모델",
+   "published_at": "2026-09-19T00:32:20+00:00",
+   "collected_at": "2026-09-19T05:44:31.705479+00:00",
+   "title_ko": "저가형 GPU 문서 파싱 OCR 모델 'jina-ocr-v1'",
+   "summary_ko": "DeepSeek-OCR 기반의 34억 파라미터 모델로, FastMTP 기술을 적용해 저가형 GPU에서도 문서를 마크다운으로 빠르게 변환합니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "NVIDIA"
+   ]
+  },
+  {
+   "id": "e531d1ae3f71fbbf",
+   "url": "https://news.hada.io/topic?id=33921",
+   "source": "GeekNews",
+   "title": "Claude, 생체분자 모델 30여 개를 평균 4배 가속",
+   "published_at": "2026-09-19T00:32:19+00:00",
+   "collected_at": "2026-09-19T05:44:31.705479+00:00",
+   "title_ko": "Claude, 생체분자 오픈소스 모델 성능 평균 4배 가속",
+   "summary_ko": "Claude를 활용해 단백질 구조 예측 등 30여 개 생체분자 모델을 최적화하여 정확도를 유지하면서 처리 속도를 최대 4배 높였습니다.",
+   "category": "중요",
+   "tags": [
+    "Claude"
+   ]
+  },
+  {
+   "id": "40f30ab860482fab",
+   "url": "https://news.hada.io/topic?id=33920",
+   "source": "GeekNews",
+   "title": "Agent-Native - 하나의 액션을 UI/에이전트/API에서 함께 쓰는 앱 프레임워크",
+   "published_at": "2026-09-19T00:30:02+00:00",
+   "collected_at": "2026-09-19T05:44:31.705479+00:00",
+   "title_ko": "앱과 에이전트를 통합하는 프레임워크 'Agent-Native'",
+   "summary_ko": "한 번의 액션 정의로 UI, AI 에이전트, API, MCP 등 다양한 환경에서 기능을 공유하고 호출할 수 있게 해주는 프레임워크입니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "d68939372b8d989c",
+   "url": "https://news.hada.io/topic?id=33919",
+   "source": "GeekNews",
+   "title": "GPT Image 2.5 프롬프트 가이드 - 무엇을 바꾸고 무엇을 유지할까",
+   "published_at": "2026-09-19T00:25:02+00:00",
+   "collected_at": "2026-09-19T05:44:31.705479+00:00",
+   "title_ko": "GPT Image 2.5 프롬프트 작성 가이드",
+   "summary_ko": "작업 목적에 맞는 모델 선택 방법과 구체적인 세부 조건을 명시하는 프롬프트 작성 요령을 소개합니다.",
+   "category": "팁",
+   "tags": [
+    "GPT"
    ]
   },
   {
@@ -78,6 +355,22 @@
    "tags": [
     "AI 에이전트",
     "규제"
+   ]
+  },
+  {
+   "id": "70669d7c7f907f52",
+   "url": "https://news.hada.io/topic?id=33913",
+   "source": "GeekNews",
+   "title": "Claude Code, 이제 CLAUDE.md가 없으면 AGENTS.md를 읽음",
+   "published_at": "2026-09-18T22:52:19+00:00",
+   "collected_at": "2026-09-19T05:44:31.705479+00:00",
+   "title_ko": "Claude Code, AGENTS.md 지원 추가",
+   "summary_ko": "Claude Code가 CLAUDE.md가 없을 때 AGENTS.md를 프로젝트 지침으로 읽도록 업데이트되어 파일 중복 관리가 줄어듭니다.",
+   "category": "속보",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "AI 에이전트"
    ]
   },
   {
@@ -1229,6 +1522,21 @@
    "tags": [
     "AI 에이전트",
     "코딩"
+   ]
+  },
+  {
+   "id": "559b0cf1119746d2",
+   "url": "https://openai.com/index/australian-youth-safety-blueprint",
+   "source": "OpenAI",
+   "title": "Introducing the Australian Youth Safety Blueprint",
+   "published_at": "2026-09-18T12:00:00+00:00",
+   "collected_at": "2026-09-19T05:43:45.135068+00:00",
+   "title_ko": "OpenAI, 호주 청소년 안전 블루프린트 공개",
+   "summary_ko": "OpenAI가 청소년을 위한 안전하고 유익한 AI 경험을 만들기 위한 6대 핵심 로드맵을 발표했습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "규제"
    ]
   },
   {
@@ -2677,321 +2985,6 @@
    "category": "중요",
    "tags": [
     "로보틱스"
-   ]
-  },
-  {
-   "id": "8122ac950c97e059",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215415",
-   "source": "AI타임스",
-   "title": "AAII 국내 1위 ‘모티프 3’ 29일까지 API 무료 공개...\"에이전트에 집중\"",
-   "published_at": "2026-09-17T16:56:07+00:00",
-   "collected_at": "2026-09-17T11:32:23.876274+00:00",
-   "title_ko": "모티프테크놀로지스, '모티프 3' API 한시적 무료 공개",
-   "summary_ko": "국내 AI 모델 중 최고 성능을 기록한 모티프테크놀로지스가 '모티프 3'의 API를 인프론을 통해 무료로 공개했다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "bc4d9876dcccb2a2",
-   "url": "https://arxiv.org/abs/2609.18842",
-   "source": "Hacker News",
-   "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
-   "published_at": "2026-09-17T16:55:14+00:00",
-   "collected_at": "2026-09-18T04:30:37.304040+00:00",
-   "title_ko": "실시간 데이터 기반 무한 파라미터 LLM 연구",
-   "summary_ko": "실시간 데이터로부터 직접 가중치를 생성하고 적응시키는 새로운 아키텍처의 무한 파라미터 LLM 연구 논문입니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "39540ac1ba60a6ec",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215425",
-   "source": "AI타임스",
-   "title": "\"AI가 진료 기록 대신 써준다\"...픽스업헬스, 의료 자동화 솔루션 출시",
-   "published_at": "2026-09-17T16:55:00+00:00",
-   "collected_at": "2026-09-17T20:12:04.582859+00:00",
-   "title_ko": "픽스업헬스, 진료 기록 자동화하는 의료 AI 솔루션 출시",
-   "summary_ko": "픽스업헬스가 의료진과 환자의 대화를 분석해 전자의무기록(EMR) 입력을 자동화하는 엠비언트 AI 기반의 원격 재활 치료 솔루션 2.0을 출시했다. 의료 현장의 행정 업무 부담을 줄여줄 것으로 기대된다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트",
-    "헬스케어"
-   ]
-  },
-  {
-   "id": "06ba6e9ac5e411f8",
-   "url": "https://news.hada.io/topic?id=33851",
-   "source": "GeekNews",
-   "title": "Show GN: JD 기반 자기소개서 첨삭 Codex Skill",
-   "published_at": "2026-09-17T16:54:42+00:00",
-   "collected_at": "2026-09-17T23:30:33.425946+00:00",
-   "title_ko": "JD 기반 자기소개서 첨삭 Codex Skill",
-   "summary_ko": "채용공고와 원문의 경험을 분석하여 어필 포인트를 보존하면서 작성 및 첨삭을 돕는 Codex Skill이 공개되었습니다.",
-   "category": "팁",
-   "tags": [
-    "코딩"
-   ]
-  },
-  {
-   "id": "f447799bf638cfaf",
-   "url": "https://news.hada.io/topic?id=33850",
-   "source": "GeekNews",
-   "title": "AI 안전은 대부분 섹스 컬트다",
-   "published_at": "2026-09-17T16:42:14+00:00",
-   "collected_at": "2026-09-17T23:30:33.425946+00:00",
-   "title_ko": "AI 안전 운동의 철학과 구조를 비판하는 논평",
-   "summary_ko": "AI 안전 커뮤니티의 사상과 자금 구조가 정책에 미치는 영향을 비판하며 통제 상실 시나리오에 의문을 제기합니다.",
-   "category": "참고",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "f9e82e6dd59bb6eb",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215392",
-   "source": "AI타임스",
-   "title": "젠슨 황·알트먼, 미중 정상회담 국빈 만찬 참석 예정",
-   "published_at": "2026-09-17T16:41:13+00:00",
-   "collected_at": "2026-09-17T11:32:23.876274+00:00",
-   "title_ko": "젠슨 황·샘 알트먼, 미중 정상회담 국빈 만찬 참석",
-   "summary_ko": "엔비디아의 젠슨 황과 오픈AI의 샘 알트먼 등 주요 빅테크 수장들이 백악관에서 열리는 미중 정상회담 국빈 만찬에 참석한다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "ed41e5fbb60104f4",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215390",
-   "source": "AI타임스",
-   "title": "오픈AI \"AI 안전 확신 못 해…'정렬 실패' 사례 수시 공개할 것\"",
-   "published_at": "2026-09-17T16:34:10+00:00",
-   "collected_at": "2026-09-17T11:32:23.876274+00:00",
-   "title_ko": "오픈아이, AI '정렬 실패' 사례 수시 공개 체계 마련",
-   "summary_ko": "오픈AI가 AI 모델의 예상치 못한 행동과 정렬 실패 사례를 투명하게 공개하기 위한 새로운 보고 프레임워크를 도입했다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "규제"
-   ]
-  },
-  {
-   "id": "108146aefafb50f9",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215397",
-   "source": "AI타임스",
-   "title": "EU, AI '속도조절론' 가세…최첨단 연구소 초청 회동 추진",
-   "published_at": "2026-09-17T16:30:41+00:00",
-   "collected_at": "2026-09-17T11:32:23.876274+00:00",
-   "title_ko": "EU 집행위원장, AI '속도조절론' 지지 및 연구소 회동 추진",
-   "summary_ko": "우르줄라 폰데어라이엔 EU 집행위원장이 AI 위험 대응을 위해 미국 주요 AI 연구소들과의 회동을 추진하며 속도 조절을 지지했다.",
-   "category": "중요",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "8949e2e1c98d0a37",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215389",
-   "source": "AI타임스",
-   "title": "플로우, 국산 협업툴 최초 챗GPT·클로드 앱 동시 입점",
-   "published_at": "2026-09-17T16:26:24+00:00",
-   "collected_at": "2026-09-17T11:32:23.876274+00:00",
-   "title_ko": "마드라스체크 '플로우', 챗GPT·클로드 공식 앱 동시 입성",
-   "summary_ko": "국산 협업툴 플로우가 국내 최초로 오픈AI 챗GPT와 앤트로픽 클로드의 공식 앱 스토어에 동시 입점하며 AI 연동을 강화했다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "Claude",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "38dbd647cb49436f",
-   "url": "https://news.ycombinator.com/item?id=49743049",
-   "source": "Hacker News",
-   "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
-   "published_at": "2026-09-17T16:22:15+00:00",
-   "collected_at": "2026-09-18T04:30:55.236685+00:00",
-   "title_ko": "코딩 에이전트 간 대화 이동 도구 'Skillsync' 출시",
-   "summary_ko": "다양한 코딩 에이전트 사이에서 AI 채팅 세션과 문맥을 자유롭게 이동하고 연동할 수 있는 유니버설 컨버터 도구입니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "b275614831acf5a5",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wiy8ga/shots_fired_at_dario_from_glm/",
-   "source": "r/LocalLLaMA",
-   "title": "shots fired at dario from glm",
-   "published_at": "2026-09-17T16:08:14+00:00",
-   "collected_at": "2026-09-17T16:50:50.655528+00:00",
-   "title_ko": "GLM 팀의 다리오 아모데이 비판 성명 발표",
-   "summary_ko": "GLM 개발 팀이 앤스로픽의 CEO 다리오 아모데이를 겨냥한 흥미로운 성명을 발표했습니다. AI 업계 리더들 간의 철학적, 전략적 경쟁 구도를 보여줍니다.",
-   "category": "속보",
-   "tags": [
-    "Anthropic",
-    "GLM"
-   ]
-  },
-  {
-   "id": "ffa953c81bc34911",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215405",
-   "source": "AI타임스",
-   "title": "과기부, 한양대 ‘AI반도체 혁신연구소’ 개소…”실전형 인재 매년 20명씩 양성”",
-   "published_at": "2026-09-17T16:06:41+00:00",
-   "collected_at": "2026-09-17T11:32:24.957659+00:00",
-   "title_ko": "한양대 ‘AI반도체 혁신연구소’ 개소… 실전형 인재 양성",
-   "summary_ko": "과기정통부가 산학연계 AI반도체 선도기술 인재양성 사업의 일환으로 한양대에 혁신연구소를 개소하고 실전형 인재를 매년 양성합니다. 산업계 수요에 즉각 대응할 수 있는 전문 인력을 확보하기 위한 조치입니다.",
-   "category": "중요",
-   "tags": [
-    "반도체",
-    "투자",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "101b25ba0d96a264",
-   "url": "https://www.reddit.com/r/singularity/comments/1wiy03z/noam_brown_agent_swarms_alignment_recursive/",
-   "source": "r/singularity",
-   "title": "Noam Brown – Agent swarms, alignment, & recursive self-improvement",
-   "published_at": "2026-09-17T16:00:05+00:00",
-   "collected_at": "2026-09-17T16:51:03.710784+00:00",
-   "title_ko": "노암 브라운이 언급한 AI 에이전트 스웜과 자기 개선",
-   "summary_ko": "오픈AI의 노암 브라운이 AI 에이전트 스웜, 정렬 문제, 그리고 재귀적 자기 개선에 대한 통찰을 공유했습니다. 차세대 AGI 발전 방향을 가늠할 수 있는 중요한 내용입니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "ae5789d054c8af19",
-   "url": "https://www.reddit.com/r/singularity/comments/1wixynn/gemini_4_pro_vs_gemini_38_flash_pelican_riding_a/",
-   "source": "r/singularity",
-   "title": "Gemini 4 Pro vs Gemini 3.8 Flash (Pelican Riding a Bicycle SVG)",
-   "published_at": "2026-09-17T15:58:35+00:00",
-   "collected_at": "2026-09-17T16:51:03.710784+00:00",
-   "title_ko": "Gemini 최신 모델 간 SVG 생성 성능 비교",
-   "summary_ko": "제미나이 4 프로와 3.8 플래시 모델 간의 SVG 코드 생성 능력을 비교한 벤치마크 결과가 공개되었습니다. 멀티모달 및 코딩 성능의 발전 속도를 보여줍니다.",
-   "category": "참고",
-   "tags": [
-    "Gemini",
-    "코딩"
-   ]
-  },
-  {
-   "id": "0939869a8e414ad6",
-   "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
-   "source": "Hacker News",
-   "title": "LLM Classification Is Feature Engineering",
-   "published_at": "2026-09-17T15:40:17+00:00",
-   "collected_at": "2026-09-17T20:11:57.741824+00:00",
-   "title_ko": "LLM 분류 작업은 특성 공학과 같다",
-   "summary_ko": "LL을 이용한 텍스트 분류 작업이 전통적인 머신러닝의 특성 공학(Feature Engineering)과 어떤 유사점과 의의를 가지는지 다룬 기술 아티클이다.",
-   "category": "참고",
-   "tags": [
-    "LLM",
-    "코딩"
-   ]
-  },
-  {
-   "id": "523e22ab5871f271",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wixgpr/are_there_any_model_architecture/",
-   "source": "r/LocalLLaMA",
-   "title": "Are there any model architecture innovations/breakthroughs that we're looking forward to in the next wave of open model drops?",
-   "published_at": "2026-09-17T15:39:57+00:00",
-   "collected_at": "2026-09-17T20:11:58.673035+00:00",
-   "title_ko": "차세대 오픈소스 모델에 기대되는 아키텍처 혁신",
-   "summary_ko": "차세대 오픈소스 LLM 출시를 앞두고, 훈련 주기에 반영되지 못한 최신 모델 아키텍처 혁신과 돌파구에 대한 개발자들의 논의를 담았다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "4727fb8a16dd032a",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wiws8e/153_toks_on_1x_amd_radeon_r9700_running_qwen38/",
-   "source": "r/LocalLLaMA",
-   "title": "153 tok/s on 1x AMD Radeon R9700 running Qwen3.8 27b NVFP4, 470 tok/s @ 8 conc requests, Prefill @ 3,619 tok/s",
-   "published_at": "2026-09-17T15:14:39+00:00",
-   "collected_at": "2026-09-17T16:50:50.655528+00:00",
-   "title_ko": "AMD GPU에서 Qwen 모델 최적화로 고속 추론 달성",
-   "summary_ko": "AMD Radeon 그래픽카드에서 Qwen 3.8B 모델을 최적화하여 초당 150토큰이 넘는 빠른 디코딩 속도를 기록했습니다. 하드웨어 가속을 통한 로컬 LLM 구동 성능 향상을 보여줍니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "f24bbb4288487c03",
-   "url": "https://www.reddit.com/r/singularity/comments/1wiwbpg/trump_declines_proposal_from_demis_hassabis_for/",
-   "source": "r/singularity",
-   "title": "Trump declines proposal from Demis Hassabis for international AI safety regulation. (Full article in comments)",
-   "published_at": "2026-09-17T14:57:36+00:00",
-   "collected_at": "2026-09-17T16:51:03.710784+00:00",
-   "title_ko": "트럼프, 데니스 하사비스의 AI 안전 규제 제안 거절",
-   "summary_ko": "도널드 트럼프가 데니스 하사비스가 제안한 국제 AI 안전 규제안을 거절했습니다. 향후 미국 정부의 AI 정책 및 규제 방향에 큰 영향을 미칠 소식입니다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "규제"
-   ]
-  },
-  {
-   "id": "a1a6535302803b53",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215396",
-   "source": "AI타임스",
-   "title": "지니젠AI, 오픈라우터 426종 분석 '한국어 AI 품질 리더보드' 공개",
-   "published_at": "2026-09-17T14:32:41+00:00",
-   "collected_at": "2026-09-17T06:01:51.208603+00:00",
-   "title_ko": "지니젠AI, 한국어 AI 품질 리더보드 공개",
-   "summary_ko": "지니젠AI가 글로벌 AI 모델 426종을 분석한 한국어 품질 평가 리더보드를 허깅페이스에 공개했다. 국내외 다양한 LLM의 한국어 성능을 객관적으로 비교할 수 있어 중요하다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "Anthropic",
-    "Google"
-   ]
-  },
-  {
-   "id": "85923ac30d2ec5ce",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wivlo8/does_anyone_use_uncensored_models_purely_for/",
-   "source": "r/LocalLLaMA",
-   "title": "Does anyone use uncensored models purely for coding?",
-   "published_at": "2026-09-17T14:29:53+00:00",
-   "collected_at": "2026-09-17T16:50:50.655528+00:00",
-   "title_ko": "코딩 작업에서 무검열 AI 모델 사용의 실효성 논란",
-   "summary_ko": "개발자들 사이에서 불필요한 안전 검열이 없는 무검열 모델이 코딩 작업에 더 효율적인지 대한 논의가 이어지고 있습니다. 실무에서의 활용 가치와 가중치 손상 우려를 다룹니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "cfb2f802bac6ff3e",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215394",
-   "source": "AI타임스",
-   "title": "\"외부 감사에 연구실 개방하라\"…오픈AI·앤트로픽, 내부 반발로 '몸살'",
-   "published_at": "2026-09-17T14:18:08+00:00",
-   "collected_at": "2026-09-17T06:01:51.208603+00:00",
-   "title_ko": "오픈AI·앤트로픽, 외부 감사 도입에 내부 반발",
-   "summary_ko": "오픈AI와 앤트로픽이 AI 안전망 강화를 위해 연구실을 외부 감사에 개방하기로 한 것에 대해 보안 유출 우려 등 내부 반발이 거세지고 있다. AI 안전성과 보안 통제를 둘러싼 업계의 갈등을 보여준다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "Anthropic",
-    "규제"
    ]
   }
  ]

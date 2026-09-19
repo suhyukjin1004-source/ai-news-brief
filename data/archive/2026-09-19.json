@@ -1,5 +1,78 @@
 [
  {
+  "id": "06f40287534f1bd9",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=215487",
+  "source": "AI타임스",
+  "title": "디즈니, 사상 첫 CTO 선임…'저작권 마찰' 캐릭터닷AI CEO 영입",
+  "published_at": "2026-09-19T11:39:29+00:00",
+  "collected_at": "2026-09-19T05:44:29.888681+00:00",
+  "title_ko": "디즈니, 첫 통합 CTO에 캐릭터닷AI 전 CEO 영입",
+  "summary_ko": "월트디즈니가 AI 중심 디지털 전환을 위해 캐릭터닷AI의 카란딥 아난드 전 CEO를 초대 CTO로 선임했습니다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "d17a18f907ccf302",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=215486",
+  "source": "AI타임스",
+  "title": "술레이만 \"오픈AI의 '셀프 프롬프트 인젝션'은 매우 심각한 상황\"",
+  "published_at": "2026-09-19T11:18:18+00:00",
+  "collected_at": "2026-09-19T05:44:29.888681+00:00",
+  "title_ko": "MS 술레이만 CEO, 오픈AI의 '셀프 프롬프트 인젝션' 우려",
+  "summary_ko": "마이크로소프트 AI CEO가 오픈AI 모델의 자가 프롬프트 인젝션 현상을 지적하며 통제 상실 위험을 경고했습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "규제"
+  ]
+ },
+ {
+  "id": "c40c12519e808c71",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=215484",
+  "source": "AI타임스",
+  "title": "앤트로픽 IPO에 월가 신중론...1000억달러 매출 속 '적자 전환' 우려",
+  "published_at": "2026-09-19T10:47:54+00:00",
+  "collected_at": "2026-09-19T05:44:29.888681+00:00",
+  "title_ko": "앤트로픽 IPO 앞두고 월가 '적자 전환' 우려 제기",
+  "summary_ko": "앤트로픽의 연간 매출이 급증하며 IPO가 주목받고 있으나, 천문학적인 인프라 비용으로 인한 적자 우려도 커지고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "투자"
+  ]
+ },
+ {
+  "id": "058eee1f6975fbf0",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=215482",
+  "source": "AI타임스",
+  "title": "캘리포니아, AI ‘킬 스위치’ 의무화 추진… 뉴섬 주지사, 트럼프에 대립각",
+  "published_at": "2026-09-19T10:04:42+00:00",
+  "collected_at": "2026-09-19T05:44:29.888681+00:00",
+  "title_ko": "캘리포니아주, AI '킬 스위치' 및 독립 감사 의무화 추진",
+  "summary_ko": "미국 캘리포니아주가 첨단 AI 모델에 대한 비상 정지 기능과 외부 감사를 강제하는 강력한 행정명령을 발동했습니다.",
+  "category": "중요",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
+  "id": "88c4b13785758de0",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=215480",
+  "source": "AI타임스",
+  "title": "앤트로픽, AI 안전 평가 기관으로 액센추어 선정…독립성 논란 확대",
+  "published_at": "2026-09-19T09:38:43+00:00",
+  "collected_at": "2026-09-19T05:44:29.888681+00:00",
+  "title_ko": "앤트로픽, 안전 평가 기관으로 액센추어 선정",
+  "summary_ko": "앤트로픽이 AI 안전성 검증을 위해 액센추어(패컬티)를 내부 상주 평가 기관으로 선정했으나 객관성 논란이 제기됩니다.",
+  "category": "참고",
+  "tags": [
+   "Anthropic",
+   "규제"
+  ]
+ },
+ {
   "id": "850d9643994442f0",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215477",
   "source": "AI타임스",
@@ -13,6 +86,210 @@
    "OpenAI",
    "Anthropic",
    "Claude"
+  ]
+ },
+ {
+  "id": "9a93353bf6cb23c8",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkc4c9/steer_llms_and_agents_at_the_token_level_an/",
+  "source": "r/LocalLLaMA",
+  "title": "Steer LLMs and Agents at the Token Level: An interactive tool for token visualization & control, model inspection and data annotation.",
+  "published_at": "2026-09-19T04:21:02+00:00",
+  "collected_at": "2026-09-19T05:44:16.422019+00:00",
+  "title_ko": "토큰 레벨에서 LLM 제어하는 대화형 도구 'onPanda'",
+  "summary_ko": "모델 출력의 토큰을 직접 편집하고 추론 과정을 시각화할 수 있는 엔지니어용 도구가 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "a8318db65c03b39f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkc2n1/stepfun_new_model_step_5_preview_just_leaked/",
+  "source": "r/LocalLLaMA",
+  "title": "Stepfun new model \"Step 5 Preview\" just leaked",
+  "published_at": "2026-09-19T04:18:31+00:00",
+  "collected_at": "2026-09-19T05:44:16.422019+00:00",
+  "title_ko": "스텝펀 신규 모델 'Step 5 Preview' 유출",
+  "summary_ko": "스텝펀의 차세대 AI 모델 'Step 5 Preview'가 유출되며 성능 대폭 향상이 기대되고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "d04bc7bf86dea5ee",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk9qjn/training_a_neural_network_on_amd_mi50s_using/",
+  "source": "r/LocalLLaMA",
+  "title": "Training a Neural Network on AMD MI50s Using Vulkan: Proof of ConceptOr: Why I Stopped Listening and Just Did It",
+  "published_at": "2026-09-19T02:23:02+00:00",
+  "collected_at": "2026-09-19T05:44:16.422019+00:00",
+  "title_ko": "Vulkan을 활용한 AMD MI50에서의 신경망 학습 구현",
+  "summary_ko": "공식 지원이 끊긴 AMD 구형 GPU(MI50)에서 Vulkan을 이용해 AI 모델 학습을 성공한 사례입니다.",
+  "category": "팁",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "e6f3c9f586e85e07",
+  "url": "https://news.hada.io/topic?id=33930",
+  "source": "GeekNews",
+  "title": "Jev의 아키텍처를 파헤치다",
+  "published_at": "2026-09-19T02:22:19+00:00",
+  "collected_at": "2026-09-19T05:44:31.705479+00:00",
+  "title_ko": "확률 분포 병렬 출력하는 의사결정 모델 'Jev' 아키텍처 분석",
+  "summary_ko": "사전 학습 LLM의 지식을 바탕으로 문장 대신 답의 확률 분포를 출력하는 Jev 모델의 구조가 분석되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "9a5da8a5b1ad6363",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk9hze/qwen3827b_at_144_toks_on_an_m5_max_macbook_pro/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-27B at 144 tok/s on an M5 Max MacBook Pro",
+  "published_at": "2026-09-19T02:11:38+00:00",
+  "collected_at": "2026-09-19T05:44:16.422019+00:00",
+  "title_ko": "오픈소스 추론 엔진 'Inco Splash' 공개",
+  "summary_ko": "애플 실리콘에 최적화되어 맥북에서 Qwen 모델을 고속으로 구동할 수 있는 오픈소스 추론 엔진이 나왔습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "7ebd397434f4187d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk9fag/alibaba_opensources_medical_ai_model_that_can/",
+  "source": "r/LocalLLaMA",
+  "title": "Alibaba open-sources medical AI model that can detect cancer and nearly 150 conditions",
+  "published_at": "2026-09-19T02:08:07+00:00",
+  "collected_at": "2026-09-19T05:44:16.422019+00:00",
+  "title_ko": "알리바바, 암 진단 가능한 의료 AI 모델 오픈소스 공개",
+  "summary_ko": "알리바바가 150여 가지 질환과 암을 탐지할 수 있는 의료용 AI 모델을 오픈소스로 공개했습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "75ffdb0f667c0119",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk979c/i_truly_think_every_major_ai_lab_is_purposefully/",
+  "source": "r/LocalLLaMA",
+  "title": "I truly think every major AI lab is purposefully making fear-mongering headlines to get regulations that hurt open-source models",
+  "published_at": "2026-09-19T01:57:25+00:00",
+  "collected_at": "2026-09-19T05:44:16.422019+00:00",
+  "title_ko": "대형 AI 랩들의 공포 마케팅과 오픈소스 규제 논란",
+  "summary_ko": "주요 AI 기업들이 오픈소스 모델을 견제하기 위해 의도적으로 공포스러운 헤드라인을 양산한다는 주장이 제기되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "규제"
+  ]
+ },
+ {
+  "id": "42fea8448a824be3",
+  "url": "https://news.hada.io/topic?id=33925",
+  "source": "GeekNews",
+  "title": "Claude Code, 이제 AGENTS.md도 지원",
+  "published_at": "2026-09-19T01:38:31+00:00",
+  "collected_at": "2026-09-19T05:44:31.705479+00:00",
+  "title_ko": "Claude Code, AGENTS.md 지침 지원 추가",
+  "summary_ko": "Claude Code가 AGENTS.md 파일을 프로젝트 지침으로 자동 사용하여 여러 코딩 에이전트 간 호환성이 향상되었습니다.",
+  "category": "속보",
+  "tags": [
+   "Claude",
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "b4914e6c1a0ca625",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk8jef/tuning_qwen_38_27b_and_omp_as_a_coding_agent_on_2/",
+  "source": "r/LocalLLaMA",
+  "title": "Tuning Qwen 3.8 27B and OMP as a coding agent on 2× 3090s",
+  "published_at": "2026-09-19T01:25:29+00:00",
+  "collected_at": "2026-09-19T05:44:16.422019+00:00",
+  "title_ko": "듀얼 3090 환경에서 Qwen 3.8B 코딩 에이전트 최적화",
+  "summary_ko": "vLLM과 Open WebUI 설정을 조정하여 듀얼 3090 GPU 환경에서 코딩 에이전트의 응답 속도를 크게 개선했습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "87fda554d2899bda",
+  "url": "https://news.hada.io/topic?id=33923",
+  "source": "GeekNews",
+  "title": "Needle 3 - 작은 기기에서 자연어 명령을 처리하는 8~29MB AI 모델",
+  "published_at": "2026-09-19T00:42:19+00:00",
+  "collected_at": "2026-09-19T05:44:31.705479+00:00",
+  "title_ko": "온디바이스용 초소형 AI 모델 'Needle 3' 공개",
+  "summary_ko": "8~29MB 크기로 스마트홈과 모바일 기기에서 오프라인 자연어 명령 및 도구 호출을 수행할 수 있는 초소형 모델입니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "db3f573b067a6ac5",
+  "url": "https://news.hada.io/topic?id=33922",
+  "source": "GeekNews",
+  "title": "jina-ocr-v1 - 저가형 GPU에서 더 빠르게 문서를 파싱하는 모델",
+  "published_at": "2026-09-19T00:32:20+00:00",
+  "collected_at": "2026-09-19T05:44:31.705479+00:00",
+  "title_ko": "저가형 GPU 문서 파싱 OCR 모델 'jina-ocr-v1'",
+  "summary_ko": "DeepSeek-OCR 기반의 34억 파라미터 모델로, FastMTP 기술을 적용해 저가형 GPU에서도 문서를 마크다운으로 빠르게 변환합니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "NVIDIA"
+  ]
+ },
+ {
+  "id": "e531d1ae3f71fbbf",
+  "url": "https://news.hada.io/topic?id=33921",
+  "source": "GeekNews",
+  "title": "Claude, 생체분자 모델 30여 개를 평균 4배 가속",
+  "published_at": "2026-09-19T00:32:19+00:00",
+  "collected_at": "2026-09-19T05:44:31.705479+00:00",
+  "title_ko": "Claude, 생체분자 오픈소스 모델 성능 평균 4배 가속",
+  "summary_ko": "Claude를 활용해 단백질 구조 예측 등 30여 개 생체분자 모델을 최적화하여 정확도를 유지하면서 처리 속도를 최대 4배 높였습니다.",
+  "category": "중요",
+  "tags": [
+   "Claude"
+  ]
+ },
+ {
+  "id": "40f30ab860482fab",
+  "url": "https://news.hada.io/topic?id=33920",
+  "source": "GeekNews",
+  "title": "Agent-Native - 하나의 액션을 UI/에이전트/API에서 함께 쓰는 앱 프레임워크",
+  "published_at": "2026-09-19T00:30:02+00:00",
+  "collected_at": "2026-09-19T05:44:31.705479+00:00",
+  "title_ko": "앱과 에이전트를 통합하는 프레임워크 'Agent-Native'",
+  "summary_ko": "한 번의 액션 정의로 UI, AI 에이전트, API, MCP 등 다양한 환경에서 기능을 공유하고 호출할 수 있게 해주는 프레임워크입니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "d68939372b8d989c",
+  "url": "https://news.hada.io/topic?id=33919",
+  "source": "GeekNews",
+  "title": "GPT Image 2.5 프롬프트 가이드 - 무엇을 바꾸고 무엇을 유지할까",
+  "published_at": "2026-09-19T00:25:02+00:00",
+  "collected_at": "2026-09-19T05:44:31.705479+00:00",
+  "title_ko": "GPT Image 2.5 프롬프트 작성 가이드",
+  "summary_ko": "작업 목적에 맞는 모델 선택 방법과 구체적인 세부 조건을 명시하는 프롬프트 작성 요령을 소개합니다.",
+  "category": "팁",
+  "tags": [
+   "GPT"
   ]
  },
  {
@@ -74,6 +351,22 @@
   "tags": [
    "AI 에이전트",
    "규제"
+  ]
+ },
+ {
+  "id": "70669d7c7f907f52",
+  "url": "https://news.hada.io/topic?id=33913",
+  "source": "GeekNews",
+  "title": "Claude Code, 이제 CLAUDE.md가 없으면 AGENTS.md를 읽음",
+  "published_at": "2026-09-18T22:52:19+00:00",
+  "collected_at": "2026-09-19T05:44:31.705479+00:00",
+  "title_ko": "Claude Code, AGENTS.md 지원 추가",
+  "summary_ko": "Claude Code가 CLAUDE.md가 없을 때 AGENTS.md를 프로젝트 지침으로 읽도록 업데이트되어 파일 중복 관리가 줄어듭니다.",
+  "category": "속보",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "AI 에이전트"
   ]
  },
  {
