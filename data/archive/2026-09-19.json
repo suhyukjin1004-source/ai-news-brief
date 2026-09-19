@@ -1,5 +1,19 @@
 [
  {
+  "id": "8746943cf3df8e3c",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=215488",
+  "source": "AI타임스",
+  "title": "조비, 사람 조종 없이 미국 대륙 횡단…'최초' 완전 자율비행 성공",
+  "published_at": "2026-09-19T14:53:07+00:00",
+  "collected_at": "2026-09-19T10:48:55.943317+00:00",
+  "title_ko": "조비 에비에이션, 미국 대륙 완전 자율비행 성공",
+  "summary_ko": "에어택시 스타트업 조비가 조종사 개입 없이 미국 대륙을 횡단하는 5148km 완전 자율비행에 성공했다.",
+  "category": "중요",
+  "tags": [
+   "로보틱스"
+  ]
+ },
+ {
   "id": "06f40287534f1bd9",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215487",
   "source": "AI타임스",
@@ -58,6 +72,21 @@
   ]
  },
  {
+  "id": "567da354fdea496f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wki7hr/made_this_motion_graphic_video_via_glm_53_flash/",
+  "source": "r/LocalLLaMA",
+  "title": "Made this motion graphic video via glm 5.3 flash (no vid_gen model used)",
+  "published_at": "2026-09-19T10:02:37+00:00",
+  "collected_at": "2026-09-19T10:48:42.587157+00:00",
+  "title_ko": "GLM 모델 기반 모션 그래픽 비디오 제작 사례",
+  "summary_ko": "개발자가 GLM 모델과 코드를 활용해 별도의 비디오 생성 모델 없이 고품질 모션 그래픽 인포그래픽 영상을 제작한 사례를 공유했다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
   "id": "88c4b13785758de0",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215480",
   "source": "AI타임스",
@@ -70,6 +99,81 @@
   "tags": [
    "Anthropic",
    "규제"
+  ]
+ },
+ {
+  "id": "af0f3668512a7868",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkhrgz/is_this_good_262k_qwen3827bq4_k_m/",
+  "source": "r/LocalLLaMA",
+  "title": "is this good? 262k Qwen3.8:27B-Q4_K_M",
+  "published_at": "2026-09-19T09:36:27+00:00",
+  "collected_at": "2026-09-19T10:48:42.587157+00:00",
+  "title_ko": "RTX 5090·3090 조합 로컬 LLM 벤치마크 공유",
+  "summary_ko": "이종 그래픽카드 환경에서 쿠다 커널 최적화를 통해 260k 이상의 컨텍스트를 지원하는 Qwen 모델 구동 성공 사례와 팁이 공유됐다.",
+  "category": "팁",
+  "tags": [
+   "NVIDIA",
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "e469583abee8f0ab",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkgs01/general_warning_about_cloreai/",
+  "source": "r/LocalLLaMA",
+  "title": "General warning about Clore.AI",
+  "published_at": "2026-09-19T08:37:35+00:00",
+  "collected_at": "2026-09-19T10:48:42.587157+00:00",
+  "title_ko": "Clore.AI GPU 임대 서비스 이용 주의보",
+  "summary_ko": "개인 GPU를 임대해주는 플랫폼에서 이용자가 취약점을 스캔하고 악성코드를 배포하는 보안 사고가 발생하여 주의가 요구됩니다.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "보안"
+  ]
+ },
+ {
+  "id": "9c238bd6b0b6d543",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkgb2h/built_a_home_server_from_an_old_pc_with_gpu/",
+  "source": "r/LocalLLaMA",
+  "title": "Built a home server from an old PC with GPU upgrade. Qwen3.8 27B runs at ~30 tokens per second.",
+  "published_at": "2026-09-19T08:09:46+00:00",
+  "collected_at": "2026-09-19T10:48:42.587157+00:00",
+  "title_ko": "구형 하드웨어에서 Qwen 모델 구동 후기",
+  "summary_ko": "오래된 PC와 중고 GPU를 활용해 로컬 환경에서 Qwen 모델을 초당 30 토큰 속도로 구동한 사례입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "0790f9df9cc45e78",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkfrye/openais_sam_altman_to_brief_un_security_council/",
+  "source": "r/LocalLLaMA",
+  "title": "OpenAI's Sam Altman to brief UN Security Council next week",
+  "published_at": "2026-09-19T07:38:48+00:00",
+  "collected_at": "2026-09-19T10:48:42.587157+00:00",
+  "title_ko": "OpenAI 샘 알트만, UN 안보리 브리핑 예정",
+  "summary_ko": "OpenAI의 CEO 샘 알트만이 다음 주 UN 안전보장이사회에서 AI 관련 브리핑을 진행할 예정입니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "규제"
+  ]
+ },
+ {
+  "id": "56aef8f25d5955c1",
+  "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+  "source": "Hacker News",
+  "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+  "published_at": "2026-09-19T06:41:44+00:00",
+  "collected_at": "2026-09-19T10:48:26.704368+00:00",
+  "title_ko": "AI 모델이 제1차 세계대전 암호 해독 성공",
+  "summary_ko": "최신 AI 모델이 제1차 세계대전 당시 사용된 독일의 무선 통신 암호를 성공적으로 해독해 주목받고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "GPT"
   ]
  },
  {
@@ -86,6 +190,35 @@
    "OpenAI",
    "Anthropic",
    "Claude"
+  ]
+ },
+ {
+  "id": "89a9eab0d0c6f8ca",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkdzdk/i_enjoyed_the_daily_hf_papers_today/",
+  "source": "r/LocalLLaMA",
+  "title": "I enjoyed the daily HF papers today",
+  "published_at": "2026-09-19T05:58:38+00:00",
+  "collected_at": "2026-09-19T10:48:42.587157+00:00",
+  "title_ko": "최신 허깅페이스 주목할 만한 AI 논문들",
+  "summary_ko": "KV 캐시 압축을 극한으로 끌어올린 DeepSeek-V4.1-Flash 등 최근 트렌드를 선도하는 핵심 AI 논문들이 소개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "1b13ab4ad66a0222",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkdu98/prefil_of_local_models_vs_opus_and_astra/",
+  "source": "r/LocalLLaMA",
+  "title": "Prefil of local models vs opus and astra",
+  "published_at": "2026-09-19T05:50:56+00:00",
+  "collected_at": "2026-09-19T10:48:42.587157+00:00",
+  "title_ko": "로컬 LLM과 API 제공 업체의 프리필 속도 비교",
+  "summary_ko": "로컬 환경과 클라우드 API 간의 입력 처리(prefill) 속도 차이와 벤치마크 필요성에 대한 논의입니다.",
+  "category": "참고",
+  "tags": [
+   "LLM"
   ]
  },
  {
@@ -351,6 +484,21 @@
   "tags": [
    "AI 에이전트",
    "규제"
+  ]
+ },
+ {
+  "id": "64adcb8eecb3d598",
+  "url": "https://spectrum.ieee.org/llms-for-chip-design",
+  "source": "Hacker News",
+  "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+  "published_at": "2026-09-18T23:04:17+00:00",
+  "collected_at": "2026-09-19T10:48:26.704368+00:00",
+  "title_ko": "OpenAI, 자체 LLM을 활용한 AI 칩 설계",
+  "summary_ko": "OpenAI가 자체 개발한 맞춤형 AI 칩 설계 과정에 자사 LLM을 활용한 것으로 나타났습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "반도체"
   ]
  },
  {
