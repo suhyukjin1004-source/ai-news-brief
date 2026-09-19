@@ -1,5 +1,36 @@
 [
  {
+  "id": "84236e20ae6047da",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkwec5/i_turned_an_asymetric_pair_of_tesla_v100s_pcie/",
+  "source": "r/LocalLLaMA",
+  "title": "I turned an asymetric pair of Tesla V100s PCIe both (16 GB + 32 GB) into a surprisingly capable local LLM lab — 1.38k prompt tok/s, 40 decode tok/s with qwen3.8 27B Q6 and Q8...",
+  "published_at": "2026-09-19T20:16:27+00:00",
+  "collected_at": "2026-09-19T20:31:24.848310+00:00",
+  "title_ko": "구형 Tesla V100 GPU 조합으로 구축한 고성능 로컬 LLM 실험실",
+  "summary_ko": "16GB와 32GB Tesla V100 GPU를 조합해 총 48GB VRAM 환경을 구축하고, 텐서 분할과 llama.cpp를 활용해 고속으로 로컬 LLM을 구동하는 사례입니다. 예산이 부족한 연구자와 개발자가 구형 하드웨어로 효율적인 로컬 추론 환경을 만드는 실무적 방법을 보여줍니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "NVIDIA",
+   "LLM"
+  ]
+ },
+ {
+  "id": "6cd029fa2ffee0bf",
+  "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+  "source": "TechCrunch",
+  "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+  "published_at": "2026-09-19T19:57:47+00:00",
+  "collected_at": "2026-09-19T20:30:53.150824+00:00",
+  "title_ko": "트럼프, AI 명칭 변경 및 AI 포스 창설 제안",
+  "summary_ko": "트럼프 전 미국 대통령이 AI라는 용어의 리브랜딩과 'AI 포스' 창설을 제안했습니다. 향후 미국 행정부의 AI 정책과 네이밍 전략에 변화를 줄 수 있는 정치적 발언입니다.",
+  "category": "중요",
+  "tags": [
+   "규제",
+   "투자"
+  ]
+ },
+ {
   "id": "6c7a8642a0bf6d3e",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215494",
   "source": "AI타임스",
@@ -47,6 +78,37 @@
   ]
  },
  {
+  "id": "11fca2a772be7bce",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkt26h/what_is_the_best_tts_to_create_audio_books_one/",
+  "source": "r/LocalLLaMA",
+  "title": "What is the best tts to create audio books? One that support emotions?",
+  "published_at": "2026-09-19T18:05:16+00:00",
+  "collected_at": "2026-09-19T20:31:24.848310+00:00",
+  "title_ko": "감정 표현이 가능한 고품질 오디오북 제작용 TTS 모델 탐색",
+  "summary_ko": "기계적인 단조로움을 넘어 감정을 표현할 수 있는 고품질 TTS(음성 합성) 모델에 대한 커뮤니티 논의입니다. 오디오북 제작 시 자연스러운 감정 표현과 영어 지원을 제공하는 AI 음성 도구의 필요성을 보여줍니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "fc294620a7d72f39",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wksw1n/qwen38_27b_one_shot_prompt_super_mario_dupe/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8 27B one shot prompt “Super Mario” dupe",
+  "published_at": "2026-09-19T17:58:42+00:00",
+  "collected_at": "2026-09-19T20:31:24.848310+00:00",
+  "title_ko": "Qwen3.8 27B 모델을 활용한 '슈퍼 마리오' 원샷 프롬프트 구현",
+  "summary_ko": "Qwen3.8 27B 모델에 단 한 번의 프롬프트를 입력해 슈퍼 마리오 브라더스 클론 게임 코드를 생성한 사례입니다. 최신 LLM의 뛰어난 코드 생성 및 원샷 학습 능력을 보여줍니다.",
+  "category": "참고",
+  "tags": [
+   "코딩",
+   "오픈소스",
+   "Qwen"
+  ]
+ },
+ {
   "id": "444db324bd3651d1",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215479",
   "source": "AI타임스",
@@ -62,6 +124,21 @@
   ]
  },
  {
+  "id": "0080ce44a56c3656",
+  "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+  "source": "TechCrunch",
+  "title": "Google’s Gemini is the latest AI model to hack other companies",
+  "published_at": "2026-09-19T17:30:00+00:00",
+  "collected_at": "2026-09-19T20:30:53.150824+00:00",
+  "title_ko": "구글 제미나이, 타사 시스템 해킹 테스트 수행 후 즉시 종료",
+  "summary_ko": "구글의 인공지능 제미나이가 다른 회사의 시스템을 해킹하는 테스트를 수행하고 적절하게 작업을 종료했다고 밝혔습니다. AI 모델의 자율적 보안 테스트 능력과 그 안전성에 대한 관심을 높이는 소식입니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "Gemini"
+  ]
+ },
+ {
   "id": "6ee3e78ddde485a7",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215478",
   "source": "AI타임스",
@@ -73,6 +150,21 @@
   "category": "중요",
   "tags": [
    "Meta",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "35721eb82dbc85d4",
+  "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+  "source": "Hacker News",
+  "title": "Almost Never Use AI to Write Anything Substantive",
+  "published_at": "2026-09-19T16:35:24+00:00",
+  "collected_at": "2026-09-19T20:31:08.512966+00:00",
+  "title_ko": "실질적인 글쓰기에 AI를 거의 사용하지 말아야 하는 이유",
+  "summary_ko": "AI를 활용한 콘텐츠 작성의 한계와 비판적 시각을 다룬 에세이입니다. AI 생성 텍스트의 본질적 가치와 인간의 깊이 있는 글쓰기의 중요성을 환기합니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
    "AI 에이전트"
   ]
  },
