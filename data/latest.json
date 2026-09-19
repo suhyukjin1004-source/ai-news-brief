@@ -1,8 +1,113 @@
 {
- "updated_at": "2026-09-19T20:31:43.295671+00:00",
+ "updated_at": "2026-09-19T22:54:20.354704+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "0569b33732aac776",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkz5a4/m1_max_32gb_trying_to_run_qwen_38_27b_at_decent/",
+   "source": "r/LocalLLaMA",
+   "title": "M1 Max 32GB, trying to run Qwen 3.8 27B at decent speeds and context",
+   "published_at": "2026-09-19T22:10:06+00:00",
+   "collected_at": "2026-09-19T22:54:02.519666+00:00",
+   "title_ko": "M1 Max 32GB에서 Qwen 27B 모델 구동 최적화 조언 요청",
+   "summary_ko": "메모리 부족 문제 없이 맥북 프로에서 Qwen 27B 모델을 실행하기 위한 로컬 LLM 사용자들의 최적화 및 툴 활용 논의.",
+   "category": "팁",
+   "tags": [
+    "Qwen",
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "3d0cbbc92d387a44",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkyny9/qwen38flashnext_at_1m_context_on_strix_halo_38/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8-Flash-Next at 1M context on Strix Halo: 38 tok/s decode, 18 min prefill (halogen 0.12.0)",
+   "published_at": "2026-09-19T21:49:45+00:00",
+   "collected_at": "2026-09-19T22:54:02.519666+00:00",
+   "title_ko": "100만 컨텍스트에서 Qwen 기반 모델 성능 개선",
+   "summary_ko": "대규모 컨텍스트 창에서 할로겐 툴을 활용해 Qwen 모델의 디코딩 및 프리필 속도를 대폭 향상시킨 테스트 결과.",
+   "category": "참고",
+   "tags": [
+    "Qwen",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "5f7d67d17cd11f05",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkxx8e/with_gemini_4_bench_goes_up/",
+   "source": "r/LocalLLaMA",
+   "title": "With Gemini 4, bench goes up.",
+   "published_at": "2026-09-19T21:18:19+00:00",
+   "collected_at": "2026-09-19T22:54:02.519666+00:00",
+   "title_ko": "Gemini 4 출시와 벤치마크 성능 향상",
+   "summary_ko": "오픈웨이트 모델의 위험성에 대한 주장과 대조적으로 벤치마크 점수가 크게 향상된 Gemini 4 관련 논의.",
+   "category": "속보",
+   "tags": [
+    "Gemini"
+   ]
+  },
+  {
+   "id": "4c201e6ead4467d5",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+   "source": "The Verge",
+   "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+   "published_at": "2026-09-19T20:44:40+00:00",
+   "collected_at": "2026-09-19T22:53:31.123865+00:00",
+   "title_ko": "메타의 AI 어시스턴트 'Muse' Mac 앱 공개",
+   "summary_ko": "메시지, 캘린더, 노트 접근 권한을 가진 메타의 AI 어시스턴트 Muse가 맥 앱으로 출시되며 프라이버시 우려 제기.",
+   "category": "속보",
+   "tags": [
+    "Meta",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "c659811cf15c4417",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkwz69/ternarybonsai227bpq2_0_is_not_completely/",
+   "source": "r/LocalLLaMA",
+   "title": "Ternary-Bonsai-2-27B-PQ2_0 is not completely lobotomized",
+   "published_at": "2026-09-19T20:39:56+00:00",
+   "collected_at": "2026-09-19T22:54:02.519666+00:00",
+   "title_ko": "27B 양자화 모델 성능 벤치마크 비교",
+   "summary_ko": "다양한 27B 규모의 오픈소스 모델 양자화 버전에 대한 성능 및 용량 비교 평가.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "Qwen"
+   ]
+  },
+  {
+   "id": "b62b85a0cd495fa6",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkwy6g/improved_tps_of_gemma_4_31b_the_journey_and_also/",
+   "source": "r/LocalLLaMA",
+   "title": "Improved TPS of Gemma 4 31B : the journey and also creating custom patches with VLLM fork",
+   "published_at": "2026-09-19T20:38:45+00:00",
+   "collected_at": "2026-09-19T22:54:02.519666+00:00",
+   "title_ko": "VLLM 포크를 통한 Gemma 31B 추론 속도(TPS) 개선",
+   "summary_ko": "모델 아키텍처 분석을 바탕으로 VLLM 커스텀 패치를 적용하여 Gemma 31B의 초당 토큰 처리 속도를 극대화한 사례.",
+   "category": "팁",
+   "tags": [
+    "Gemma",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "7f0049516e0212e6",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkwual/deadgrid_now_open_source_exclusively_made_with/",
+   "source": "r/LocalLLaMA",
+   "title": "“DeadGrid” now open source exclusively made with qwen 3.8 27b Q4KM",
+   "published_at": "2026-09-19T20:34:23+00:00",
+   "collected_at": "2026-09-19T22:54:02.519666+00:00",
+   "title_ko": "Qwen 27B 기반 오픈소스 웹 게임 'DeadGrid' 공개",
+   "summary_ko": "로컬 LLM인 Qwen 27B 모델만을 활용해 제작된 브라우저 기반 오픈소스 게임 공개.",
+   "category": "참고",
+   "tags": [
+    "Qwen",
+    "오픈소스"
+   ]
+  },
   {
    "id": "84236e20ae6047da",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkwec5/i_turned_an_asymetric_pair_of_tesla_v100s_pcie/",
@@ -48,6 +153,22 @@
     "OpenAI",
     "Anthropic",
     "투자"
+   ]
+  },
+  {
+   "id": "1b94232ceb001ec7",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkvl7h/finally_got_qwen_38_q4_k_m_27b_runnin_slick/",
+   "source": "r/LocalLLaMA",
+   "title": "Finally got qwen 3.8 q4 k_M 27b runnin slick 40tkps load at 240k inf 4qnl for stable agentic coding on a 7900xtx. I have been finally able to give hermes a task and come back to results. Built a panel to manage my inference servers from hermes.",
+   "published_at": "2026-09-19T19:44:27+00:00",
+   "collected_at": "2026-09-19T22:54:02.519666+00:00",
+   "title_ko": "라데온 7900 XTX에서 Qwen 27B로 에이전트 코딩 환경 구축",
+   "summary_ko": "AMD 하드웨어 환경과 로컬 LLM을 조합하여 안정적인 코딩 에이전트 및 제어 패널을 구축한 사례.",
+   "category": "팁",
+   "tags": [
+    "Qwen",
+    "AI 에이전트",
+    "코딩"
    ]
   },
   {
@@ -2874,124 +2995,6 @@
     "투자",
     "반도체",
     "인프라"
-   ]
-  },
-  {
-   "id": "230ed032b0167d3f",
-   "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-   "source": "TechCrunch",
-   "title": "Google DeepMind launches institute to widen the AGI debate",
-   "published_at": "2026-09-17T23:21:17+00:00",
-   "collected_at": "2026-09-17T23:29:58.220430+00:00",
-   "title_ko": "구글 딥마인드, AGI 논론 확장을 위한 연구소 설립",
-   "summary_ko": "구글 딥마인드가 인공범용지능(AGI)과 관련된 주요 쟁점들을 대중과 함께 논의하고 연구하기 위한 새로운 연구소를 출범했습니다.",
-   "category": "참고",
-   "tags": [
-    "Google",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "e6605f35241608d6",
-   "url": "https://www.reddit.com/r/singularity/comments/1wj9dna/at_least_six_or_seven_chinese_ai_labs_aim_to/",
-   "source": "r/singularity",
-   "title": "At least six or seven Chinese AI labs aim to train 10–40tn-parameter models within two years.",
-   "published_at": "2026-09-17T23:08:49+00:00",
-   "collected_at": "2026-09-18T04:31:00.803705+00:00",
-   "title_ko": "중국 AI 연구소, 2년 내 10~40조 파라미터 모델 학습 목표",
-   "summary_ko": "중국의 주요 AI 연구소 6~7곳이 향후 2년 내 초거대 파라미터 모델 학습을 목표로 하고 있어 글로벌 경쟁이 심화될 전망입니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "투자"
-   ]
-  },
-  {
-   "id": "3195ca010f5c230c",
-   "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-   "source": "Hacker News",
-   "title": "Qwen 3.8 Omni Flash",
-   "published_at": "2026-09-17T23:05:48+00:00",
-   "collected_at": "2026-09-18T09:36:52.066663+00:00",
-   "title_ko": "알리바바, 큐웬 3.8 옴니 플래시 공개",
-   "summary_ko": "알리바바가 최신 멀티모달 모델인 Qwen 3.8 Omni Flash를 새롭게 발표했습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "Gemini"
-   ]
-  },
-  {
-   "id": "c9233ef81d0b079f",
-   "url": "https://news.hada.io/topic?id=33864",
-   "source": "GeekNews",
-   "title": "Bend - CPU와 GPU에서 증명으로 AI의 실수를 차단하는 언어",
-   "published_at": "2026-09-17T22:52:15+00:00",
-   "collected_at": "2026-09-17T23:30:33.425946+00:00",
-   "title_ko": "CPU와 GPU에서 AI의 실수를 차단하는 언어 'Bend'",
-   "summary_ko": "Bend는 규칙을 코드로 선언하여 AI 구현의 정확성을 증명하는 프로그래밍 언어로, 고성능과 정밀한 요구사항을 동시에 만족시킵니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "6b9475f3e3364aae",
-   "url": "https://news.hada.io/topic?id=33863",
-   "source": "GeekNews",
-   "title": "Astra for Law - 법률 업무용 AI",
-   "published_at": "2026-09-17T22:42:15+00:00",
-   "collected_at": "2026-09-17T23:30:33.425946+00:00",
-   "title_ko": "OpenAI, 법률 업무용 AI 'Astra for Law' 공개",
-   "summary_ko": "OpenAI가 법률 검색과 분석을 지원하는 Astra for Law를 공개하여 로펌 등 법률 분야의 AI 활용도를 높이고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "GPT",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "9189e79135004738",
-   "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
-   "source": "TechCrunch",
-   "title": "PrismML hopes its tiny LLM will change how we all use AI",
-   "published_at": "2026-09-17T22:34:09+00:00",
-   "collected_at": "2026-09-17T23:29:58.220430+00:00",
-   "title_ko": "PrismML의 소형 LLM이 바꿀 AI 사용 방식",
-   "summary_ko": "PrismML이 개발한 초소형 고효율 LLM이 일상적인 AI 활용 방식을 어떻게 변화시킬지 주목받고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "62e0b557a327f9b3",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj84nz/ternary_bonsai_2_27b/",
-   "source": "r/LocalLLaMA",
-   "title": "Ternary Bonsai 2 27B",
-   "published_at": "2026-09-17T22:16:39+00:00",
-   "collected_at": "2026-09-17T23:30:18.571536+00:00",
-   "title_ko": "Ternary Bonsai 2 27B 모델",
-   "summary_ko": "허깅페이스에 공개된 27B 규모의 효율적인 양자화 LLM 관련 소식입니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "35989272d9e5e91b",
-   "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
-   "source": "TechCrunch",
-   "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
-   "published_at": "2026-09-17T22:14:59+00:00",
-   "collected_at": "2026-09-17T23:29:58.220430+00:00",
-   "title_ko": "미 연방항공청(FAA), 관제 업무에 8억 7,500만 달러 규모 AI 도입",
-   "summary_ko": "항공 교통 관제의 효율성과 안전성을 높이기 위해 미 FAA가 대규모 AI 소프트웨어 도입 계획을 추진합니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트"
    ]
   }
  ]

@@ -1,5 +1,110 @@
 [
  {
+  "id": "0569b33732aac776",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkz5a4/m1_max_32gb_trying_to_run_qwen_38_27b_at_decent/",
+  "source": "r/LocalLLaMA",
+  "title": "M1 Max 32GB, trying to run Qwen 3.8 27B at decent speeds and context",
+  "published_at": "2026-09-19T22:10:06+00:00",
+  "collected_at": "2026-09-19T22:54:02.519666+00:00",
+  "title_ko": "M1 Max 32GB에서 Qwen 27B 모델 구동 최적화 조언 요청",
+  "summary_ko": "메모리 부족 문제 없이 맥북 프로에서 Qwen 27B 모델을 실행하기 위한 로컬 LLM 사용자들의 최적화 및 툴 활용 논의.",
+  "category": "팁",
+  "tags": [
+   "Qwen",
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "3d0cbbc92d387a44",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkyny9/qwen38flashnext_at_1m_context_on_strix_halo_38/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-Flash-Next at 1M context on Strix Halo: 38 tok/s decode, 18 min prefill (halogen 0.12.0)",
+  "published_at": "2026-09-19T21:49:45+00:00",
+  "collected_at": "2026-09-19T22:54:02.519666+00:00",
+  "title_ko": "100만 컨텍스트에서 Qwen 기반 모델 성능 개선",
+  "summary_ko": "대규모 컨텍스트 창에서 할로겐 툴을 활용해 Qwen 모델의 디코딩 및 프리필 속도를 대폭 향상시킨 테스트 결과.",
+  "category": "참고",
+  "tags": [
+   "Qwen",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "5f7d67d17cd11f05",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkxx8e/with_gemini_4_bench_goes_up/",
+  "source": "r/LocalLLaMA",
+  "title": "With Gemini 4, bench goes up.",
+  "published_at": "2026-09-19T21:18:19+00:00",
+  "collected_at": "2026-09-19T22:54:02.519666+00:00",
+  "title_ko": "Gemini 4 출시와 벤치마크 성능 향상",
+  "summary_ko": "오픈웨이트 모델의 위험성에 대한 주장과 대조적으로 벤치마크 점수가 크게 향상된 Gemini 4 관련 논의.",
+  "category": "속보",
+  "tags": [
+   "Gemini"
+  ]
+ },
+ {
+  "id": "4c201e6ead4467d5",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+  "source": "The Verge",
+  "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+  "published_at": "2026-09-19T20:44:40+00:00",
+  "collected_at": "2026-09-19T22:53:31.123865+00:00",
+  "title_ko": "메타의 AI 어시스턴트 'Muse' Mac 앱 공개",
+  "summary_ko": "메시지, 캘린더, 노트 접근 권한을 가진 메타의 AI 어시스턴트 Muse가 맥 앱으로 출시되며 프라이버시 우려 제기.",
+  "category": "속보",
+  "tags": [
+   "Meta",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "c659811cf15c4417",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkwz69/ternarybonsai227bpq2_0_is_not_completely/",
+  "source": "r/LocalLLaMA",
+  "title": "Ternary-Bonsai-2-27B-PQ2_0 is not completely lobotomized",
+  "published_at": "2026-09-19T20:39:56+00:00",
+  "collected_at": "2026-09-19T22:54:02.519666+00:00",
+  "title_ko": "27B 양자화 모델 성능 벤치마크 비교",
+  "summary_ko": "다양한 27B 규모의 오픈소스 모델 양자화 버전에 대한 성능 및 용량 비교 평가.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "Qwen"
+  ]
+ },
+ {
+  "id": "b62b85a0cd495fa6",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkwy6g/improved_tps_of_gemma_4_31b_the_journey_and_also/",
+  "source": "r/LocalLLaMA",
+  "title": "Improved TPS of Gemma 4 31B : the journey and also creating custom patches with VLLM fork",
+  "published_at": "2026-09-19T20:38:45+00:00",
+  "collected_at": "2026-09-19T22:54:02.519666+00:00",
+  "title_ko": "VLLM 포크를 통한 Gemma 31B 추론 속도(TPS) 개선",
+  "summary_ko": "모델 아키텍처 분석을 바탕으로 VLLM 커스텀 패치를 적용하여 Gemma 31B의 초당 토큰 처리 속도를 극대화한 사례.",
+  "category": "팁",
+  "tags": [
+   "Gemma",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "7f0049516e0212e6",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkwual/deadgrid_now_open_source_exclusively_made_with/",
+  "source": "r/LocalLLaMA",
+  "title": "“DeadGrid” now open source exclusively made with qwen 3.8 27b Q4KM",
+  "published_at": "2026-09-19T20:34:23+00:00",
+  "collected_at": "2026-09-19T22:54:02.519666+00:00",
+  "title_ko": "Qwen 27B 기반 오픈소스 웹 게임 'DeadGrid' 공개",
+  "summary_ko": "로컬 LLM인 Qwen 27B 모델만을 활용해 제작된 브라우저 기반 오픈소스 게임 공개.",
+  "category": "참고",
+  "tags": [
+   "Qwen",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "84236e20ae6047da",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkwec5/i_turned_an_asymetric_pair_of_tesla_v100s_pcie/",
   "source": "r/LocalLLaMA",
@@ -44,6 +149,22 @@
    "OpenAI",
    "Anthropic",
    "투자"
+  ]
+ },
+ {
+  "id": "1b94232ceb001ec7",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkvl7h/finally_got_qwen_38_q4_k_m_27b_runnin_slick/",
+  "source": "r/LocalLLaMA",
+  "title": "Finally got qwen 3.8 q4 k_M 27b runnin slick 40tkps load at 240k inf 4qnl for stable agentic coding on a 7900xtx. I have been finally able to give hermes a task and come back to results. Built a panel to manage my inference servers from hermes.",
+  "published_at": "2026-09-19T19:44:27+00:00",
+  "collected_at": "2026-09-19T22:54:02.519666+00:00",
+  "title_ko": "라데온 7900 XTX에서 Qwen 27B로 에이전트 코딩 환경 구축",
+  "summary_ko": "AMD 하드웨어 환경과 로컬 LLM을 조합하여 안정적인 코딩 에이전트 및 제어 패널을 구축한 사례.",
+  "category": "팁",
+  "tags": [
+   "Qwen",
+   "AI 에이전트",
+   "코딩"
   ]
  },
  {
