@@ -1,8 +1,131 @@
 {
- "updated_at": "2026-09-20T18:42:09.012005+00:00",
+ "updated_at": "2026-09-20T21:27:06.649910+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "422e811d5dce3e73",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlt577/speedup_kimi_k328t_on_a_16x_gb10_cluster_30_ts/",
+   "source": "r/LocalLLaMA",
+   "title": "Speed-up Kimi K3(2.8T) on a 16x GB10 Cluster — 30 t/s coding throughput, 136 t/s concurrency peak.",
+   "published_at": "2026-09-20T21:14:05+00:00",
+   "collected_at": "2026-09-20T21:26:47.620521+00:00",
+   "title_ko": "GB10 클러스터에서 Kimi K3 모델 가속 구동 성공",
+   "summary_ko": "16대 GB10 클러스터에서 2.8T 파라미터의 Moonshot AI Kimi K3 모델을 구동해 초당 30토큰의 코딩 처리량을 달성했습니다.",
+   "category": "참고",
+   "tags": [
+    "NVIDIA",
+    "반도체",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "bd7e7d7318c9042a",
+   "url": "https://simonwillison.net/2026/Sep/20/voxium/",
+   "source": "Simon Willison",
+   "title": "Quoting voxium",
+   "published_at": "2026-09-20T21:06:43+00:00",
+   "collected_at": "2026-09-20T21:26:46.932400+00:00",
+   "title_ko": "Claude Code 도입 후 개발 현장의 변화와 부작용",
+   "summary_ko": "대기업 개발팀에서 Claude Code로 모든 코드를 작성하게 되면서 개발 속도 압박과 코드 검토 생략 등 새로운 문제가 발생하고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "Claude",
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "f463fc0cbf001713",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlss89/postulate_context_compaction_is_good_for/",
+   "source": "r/LocalLLaMA",
+   "title": "Postulate: Context compaction is good for Quantized models",
+   "published_at": "2026-09-20T21:00:17+00:00",
+   "collected_at": "2026-09-20T21:26:47.620521+00:00",
+   "title_ko": "양자화 모델에서의 컨텍스트 압축 효용성 분석",
+   "summary_ko": "양자화 모델은 컨텍스트가 길어질수록 에러가 누적되므로, 128k 수준으로 압축하여 사용하는 것이 원본 1M 컨텍스트보다 품질 면에서 유리하다는 분석입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "caea4d57fd6196ea",
+   "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+   "source": "TechCrunch",
+   "title": "World model companies are keeping a lot of secrets",
+   "published_at": "2026-09-20T20:29:07+00:00",
+   "collected_at": "2026-09-20T21:26:27.936214+00:00",
+   "title_ko": "베일에 싸인 월드 모델 기업들의 개발 행보",
+   "summary_ko": "막대한 자금과 기대를 모으고 있는 월드 모델 개발사들이 실제 개발 내용과 기술에 대해 철저히 함구하고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "투자",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "eeaa1987f4c92783",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlqxeu/qwen38flashnext_cosmic_arcade_oneshot_slop_game/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8-Flash-Next Cosmic Arcade oneshot slop game",
+   "published_at": "2026-09-20T19:49:49+00:00",
+   "collected_at": "2026-09-20T21:26:47.620521+00:00",
+   "title_ko": "Qwen3.8-Flash-Next 로컬 환경 원샷 게임 제작 테스트",
+   "summary_ko": "로컬 멀티 하드웨어 환경에서 Qwen 모델을 활용해 스페이스 슈팅 게임을 단번에 구현하고 테스트한 사례입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "f5adb810475e21e4",
+   "url": "https://news.hada.io/topic?id=34012",
+   "source": "GeekNews",
+   "title": "Ask GN: 3주간 코딩 에이전트에게 보낸 제 메시지를 분석해 봤습니다. 40%는 실제 작업이 아니었어요. 다른 분들...",
+   "published_at": "2026-09-20T19:11:12+00:00",
+   "collected_at": "2026-09-20T21:27:02.364269+00:00",
+   "title_ko": "코딩 에이전트 활용 내역 분석: 실제 작업 외 소모 시간",
+   "summary_ko": "개발자가 여러 코딩 에이전트에 보낸 메시지를 분석한 결과, 상당한 비중이 순수 코딩 외의 작업에 소모되고 있음을 보여줍니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "코딩",
+    "Claude"
+   ]
+  },
+  {
+   "id": "773aac6433e130dd",
+   "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+   "source": "TechCrunch",
+   "title": "Is the AI industry really ready to slow down?",
+   "published_at": "2026-09-20T18:56:04+00:00",
+   "collected_at": "2026-09-20T21:26:27.936214+00:00",
+   "title_ko": "AI 업계의 속도 조절 주장은 진정한가",
+   "summary_ko": "AI 기업 임원들이 속도 조절을 원한다고 발언한 것의 진정성과 업계의 향후 방향성에 대한 논의입니다.",
+   "category": "참고",
+   "tags": [
+    "규제",
+    "투자"
+   ]
+  },
+  {
+   "id": "112fe87377c9172e",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+   "source": "The Verge",
+   "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+   "published_at": "2026-09-20T18:50:18+00:00",
+   "collected_at": "2026-09-20T21:26:28.041487+00:00",
+   "title_ko": "젠슨 황 \"AI 종말론은 과장됐다\"",
+   "summary_ko": "엔비디아 CEO 젠슨 황이 인터뷰에서 AI가 인류에게 위협이 될 확률은 0%라며 기존 전문가들의 우려를 일축했습니다.",
+   "category": "참고",
+   "tags": [
+    "NVIDIA",
+    "규제"
+   ]
+  },
   {
    "id": "cac0b390599514e0",
    "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
@@ -32,6 +155,21 @@
     "오픈소스",
     "Qwen",
     "반도체"
+   ]
+  },
+  {
+   "id": "c32954dae4a5602f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wloeeb/promptdeck_v110_opensource_desktop_app_to/",
+   "source": "r/LocalLLaMA",
+   "title": "PromptDeck v1.1.0 – open-source desktop app to benchmark local AND cloud LLMs side-by-side (Ollama, LM Studio + OpenRouter, Groq, DeepSeek…)",
+   "published_at": "2026-09-20T18:15:29+00:00",
+   "collected_at": "2026-09-20T21:26:47.620521+00:00",
+   "title_ko": "로컬·클라우드 LLM 비교 벤치마크 도구 'PromptDeck v1.1.0' 공개",
+   "summary_ko": "다양한 로컬 및 클라우드 LLM을 한 화면에서 비교하고 벤치마킹할 수 있는 오픈소스 데스크톱 앱이 출시되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
    ]
   },
   {
@@ -199,6 +337,21 @@
    "tags": [
     "Anthropic",
     "규제"
+   ]
+  },
+  {
+   "id": "c000a5e0370b2cba",
+   "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
+   "source": "Hacker News",
+   "title": "Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)",
+   "published_at": "2026-09-20T15:58:52+00:00",
+   "collected_at": "2026-09-20T21:26:42.313344+00:00",
+   "title_ko": "Mac M4에서 CoreML 기반 Laya 오프라인 구동",
+   "summary_ko": "애플 실리콘 Mac M4 환경에서 CoreML을 활용해 초당 45회의 결정을 내리는 오프라인 AI 구동 사례입니다.",
+   "category": "참고",
+   "tags": [
+    "반도체",
+    "오픈소스"
    ]
   },
   {
@@ -2826,156 +2979,6 @@
     "LLM",
     "보안",
     "연구"
-   ]
-  },
-  {
-   "id": "cde89040db033110",
-   "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-   "source": "TechCrunch",
-   "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-   "published_at": "2026-09-18T18:49:30+00:00",
-   "collected_at": "2026-09-18T21:35:22.588223+00:00",
-   "title_ko": "챗GPT 발명가가 선보인 새로운 유형의 AI 모델 'Jev'",
-   "summary_ko": "개발자들에게 소프트웨어 인텔리전스를 위한 더 저렴하고 빠른 경로를 제시하는 새로운 AI 모델이 등장했습니다.",
-   "category": "속보",
-   "tags": [
-    "GPT",
-    "AI"
-   ]
-  },
-  {
-   "id": "4a361466c7925fba",
-   "url": "https://www.reddit.com/r/singularity/comments/1wjypn0/claude_now_leads_26_of_ai_development_at_anthropic/",
-   "source": "r/singularity",
-   "title": "Claude now leads 26% of AI development at Anthropic",
-   "published_at": "2026-09-18T18:45:32+00:00",
-   "collected_at": "2026-09-18T21:36:02.062326+00:00",
-   "title_ko": "앤트로픽, 내부 AI 개발의 26%를 Claude가 주도",
-   "summary_ko": "앤트로픽의 자체 연구 결과 자사 AI 모델인 Claude가 사내 AI 개발 업무의 26%를 직접 수행하고 있는 것으로 나타났습니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "Claude"
-   ]
-  },
-  {
-   "id": "31eec1d3aafd3608",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjyn95/is_hf_starting_to_move_against_abliterated_models/",
-   "source": "r/LocalLLaMA",
-   "title": "Is HF starting to move against abliterated models?",
-   "published_at": "2026-09-18T18:43:03+00:00",
-   "collected_at": "2026-09-18T21:35:57.157787+00:00",
-   "title_ko": "허깅페이스, 검열 해제된 오픈소스 모델 대응 나서나",
-   "summary_ko": "허깅페이스가 안전성 평가 인프라를 구축하는 가운데, 검열이 해제된 수천 개의 오픈소스 모델 관리 방향에 업계의 관심이 집중되고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "규제"
-   ]
-  },
-  {
-   "id": "057d7a58702fac2a",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215459",
-   "source": "AI타임스",
-   "title": "구글, AI 문제 해결에 ‘재귀적 자기개선’ 도입...탐색 비용 162배 절감",
-   "published_at": "2026-09-18T18:37:07+00:00",
-   "collected_at": "2026-09-18T14:22:28.912931+00:00",
-   "title_ko": "구글, 재귀적 자기개선(RSI)으로 AI 탐색 비용 절감",
-   "summary_ko": "구글이 AI 코딩 에이전트의 실패 경로 반복 실행 문제를 해결하기 위해 과거 기록을 재사용하는 '드림-RSI' 시스템을 공개하여 탐색 비용을 대폭 줄였습니다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "898b33c3b4a56415",
-   "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
-   "source": "The Verge",
-   "title": "Virginia governor creates an AI task force and moves to restrain data centers",
-   "published_at": "2026-09-18T18:29:17+00:00",
-   "collected_at": "2026-09-18T21:35:22.767889+00:00",
-   "title_ko": "미국 버지니아주, AI 데이터센터 규제 및 태스크포스 신설",
-   "summary_ko": "버지니아주가 급증하는 AI 데이터센터 개발 승인 절차를 강화하고 지역사회 통제권을 확대하는 행정 명령을 내렸습니다.",
-   "category": "중요",
-   "tags": [
-    "규제",
-    "데이터센터"
-   ]
-  },
-  {
-   "id": "715747f3f71ac87c",
-   "url": "https://twitter.com/trq212/status/2101009392611278961",
-   "source": "Hacker News",
-   "title": "Anthropic finally adds AGENTS.md support to Claude Code",
-   "published_at": "2026-09-18T18:26:34+00:00",
-   "collected_at": "2026-09-19T17:56:32.050416+00:00",
-   "title_ko": "앤스로픽, 클로드 코드에 AGENTS.md 지원 추가",
-   "summary_ko": "앤스로픽이 개발자 도구인 클로드 코드(Claude Code)에 AGENTS.md 파일 지원을 추가하여 AI 에이전트의 활용성을 높였습니다. 개발 환경에서 AI 에이전트의 설정과 제어가 더 수월해진다는 점에서 중요합니다.",
-   "category": "속보",
-   "tags": [
-    "Anthropic",
-    "Claude",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "90f7972647927eb1",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215461",
-   "source": "AI타임스",
-   "title": "앤드류 응 \"AI 인류 멸종 위협은 SF\"...'공포 마케팅' 일침",
-   "published_at": "2026-09-18T18:26:15+00:00",
-   "collected_at": "2026-09-18T14:22:28.912931+00:00",
-   "title_ko": "앤드류 응 교수 \"AI 인류 멸종 위협은 SF이자 공포 마케팅\"",
-   "summary_ko": "앤드류 응 스탠포드대 교수가 빅테크 기업들이 유리한 규제 환경을 조성하기 위해 AI의 실존적 위협을 과장하고 있다고 비판했습니다.",
-   "category": "중요",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "34347dada4c3634b",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215443",
-   "source": "AI타임스",
-   "title": "오픈AI, 또 다른 밀레니엄 수학 문제 '호지 추측' 해결에 근접",
-   "published_at": "2026-09-18T18:15:15+00:00",
-   "collected_at": "2026-09-18T14:22:28.912931+00:00",
-   "title_ko": "오픈AI, 밀레니엄 수학 난제 '호지 추측' 해결 근접",
-   "summary_ko": "오픈AI가 나비에-스토크스 문제에 이어 또 다른 수학 난제인 호지 추측의 해법 도출에 가까워진 것으로 알려졌습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "GPT"
-   ]
-  },
-  {
-   "id": "632d6d663063e40e",
-   "url": "https://www.reddit.com/r/singularity/comments/1wjxket/neuralinks_voice_trial_is_helping_people_with/",
-   "source": "r/singularity",
-   "title": "Neuralink’s VOICE trial is helping people with disabilities find their voice again",
-   "published_at": "2026-09-18T18:03:19+00:00",
-   "collected_at": "2026-09-18T21:36:02.062326+00:00",
-   "title_ko": "뉴럴링크 VOICE 임상시험, 장애인 목소리 찾기 지원",
-   "summary_ko": "뉴럴링크의 VOICE 임상시험이 신체 장애를 가진 환자들의 의사소통 능력을 회복시키는 데 기여하고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "Neuralink",
-    "로보틱스"
-   ]
-  },
-  {
-   "id": "994ef5b32362f19e",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215465",
-   "source": "AI타임스",
-   "title": "스탠포드, 논문을 '대화형 에이전트'로 만드는 프레임워크 공개",
-   "published_at": "2026-09-18T18:01:15+00:00",
-   "collected_at": "2026-09-18T14:22:28.912931+00:00",
-   "title_ko": "스탠포드대, 논문을 대화형 에이전트로 만드는 오픈소스 공개",
-   "summary_ko": "연구 논문과 코드를 분석해 분석 방법을 실행 가능한 도구로 변환하는 대화형 에이전트 프레임워크 '페이퍼투에이전트'가 공개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
    ]
   }
  ]

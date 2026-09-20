@@ -1,5 +1,128 @@
 [
  {
+  "id": "422e811d5dce3e73",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlt577/speedup_kimi_k328t_on_a_16x_gb10_cluster_30_ts/",
+  "source": "r/LocalLLaMA",
+  "title": "Speed-up Kimi K3(2.8T) on a 16x GB10 Cluster — 30 t/s coding throughput, 136 t/s concurrency peak.",
+  "published_at": "2026-09-20T21:14:05+00:00",
+  "collected_at": "2026-09-20T21:26:47.620521+00:00",
+  "title_ko": "GB10 클러스터에서 Kimi K3 모델 가속 구동 성공",
+  "summary_ko": "16대 GB10 클러스터에서 2.8T 파라미터의 Moonshot AI Kimi K3 모델을 구동해 초당 30토큰의 코딩 처리량을 달성했습니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "bd7e7d7318c9042a",
+  "url": "https://simonwillison.net/2026/Sep/20/voxium/",
+  "source": "Simon Willison",
+  "title": "Quoting voxium",
+  "published_at": "2026-09-20T21:06:43+00:00",
+  "collected_at": "2026-09-20T21:26:46.932400+00:00",
+  "title_ko": "Claude Code 도입 후 개발 현장의 변화와 부작용",
+  "summary_ko": "대기업 개발팀에서 Claude Code로 모든 코드를 작성하게 되면서 개발 속도 압박과 코드 검토 생략 등 새로운 문제가 발생하고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "Claude",
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "f463fc0cbf001713",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlss89/postulate_context_compaction_is_good_for/",
+  "source": "r/LocalLLaMA",
+  "title": "Postulate: Context compaction is good for Quantized models",
+  "published_at": "2026-09-20T21:00:17+00:00",
+  "collected_at": "2026-09-20T21:26:47.620521+00:00",
+  "title_ko": "양자화 모델에서의 컨텍스트 압축 효용성 분석",
+  "summary_ko": "양자화 모델은 컨텍스트가 길어질수록 에러가 누적되므로, 128k 수준으로 압축하여 사용하는 것이 원본 1M 컨텍스트보다 품질 면에서 유리하다는 분석입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "caea4d57fd6196ea",
+  "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+  "source": "TechCrunch",
+  "title": "World model companies are keeping a lot of secrets",
+  "published_at": "2026-09-20T20:29:07+00:00",
+  "collected_at": "2026-09-20T21:26:27.936214+00:00",
+  "title_ko": "베일에 싸인 월드 모델 기업들의 개발 행보",
+  "summary_ko": "막대한 자금과 기대를 모으고 있는 월드 모델 개발사들이 실제 개발 내용과 기술에 대해 철저히 함구하고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "투자",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "eeaa1987f4c92783",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlqxeu/qwen38flashnext_cosmic_arcade_oneshot_slop_game/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-Flash-Next Cosmic Arcade oneshot slop game",
+  "published_at": "2026-09-20T19:49:49+00:00",
+  "collected_at": "2026-09-20T21:26:47.620521+00:00",
+  "title_ko": "Qwen3.8-Flash-Next 로컬 환경 원샷 게임 제작 테스트",
+  "summary_ko": "로컬 멀티 하드웨어 환경에서 Qwen 모델을 활용해 스페이스 슈팅 게임을 단번에 구현하고 테스트한 사례입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "f5adb810475e21e4",
+  "url": "https://news.hada.io/topic?id=34012",
+  "source": "GeekNews",
+  "title": "Ask GN: 3주간 코딩 에이전트에게 보낸 제 메시지를 분석해 봤습니다. 40%는 실제 작업이 아니었어요. 다른 분들...",
+  "published_at": "2026-09-20T19:11:12+00:00",
+  "collected_at": "2026-09-20T21:27:02.364269+00:00",
+  "title_ko": "코딩 에이전트 활용 내역 분석: 실제 작업 외 소모 시간",
+  "summary_ko": "개발자가 여러 코딩 에이전트에 보낸 메시지를 분석한 결과, 상당한 비중이 순수 코딩 외의 작업에 소모되고 있음을 보여줍니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "코딩",
+   "Claude"
+  ]
+ },
+ {
+  "id": "773aac6433e130dd",
+  "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+  "source": "TechCrunch",
+  "title": "Is the AI industry really ready to slow down?",
+  "published_at": "2026-09-20T18:56:04+00:00",
+  "collected_at": "2026-09-20T21:26:27.936214+00:00",
+  "title_ko": "AI 업계의 속도 조절 주장은 진정한가",
+  "summary_ko": "AI 기업 임원들이 속도 조절을 원한다고 발언한 것의 진정성과 업계의 향후 방향성에 대한 논의입니다.",
+  "category": "참고",
+  "tags": [
+   "규제",
+   "투자"
+  ]
+ },
+ {
+  "id": "112fe87377c9172e",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+  "source": "The Verge",
+  "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+  "published_at": "2026-09-20T18:50:18+00:00",
+  "collected_at": "2026-09-20T21:26:28.041487+00:00",
+  "title_ko": "젠슨 황 \"AI 종말론은 과장됐다\"",
+  "summary_ko": "엔비디아 CEO 젠슨 황이 인터뷰에서 AI가 인류에게 위협이 될 확률은 0%라며 기존 전문가들의 우려를 일축했습니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "규제"
+  ]
+ },
+ {
   "id": "cac0b390599514e0",
   "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
   "source": "TechCrunch",
@@ -28,6 +151,21 @@
    "오픈소스",
    "Qwen",
    "반도체"
+  ]
+ },
+ {
+  "id": "c32954dae4a5602f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wloeeb/promptdeck_v110_opensource_desktop_app_to/",
+  "source": "r/LocalLLaMA",
+  "title": "PromptDeck v1.1.0 – open-source desktop app to benchmark local AND cloud LLMs side-by-side (Ollama, LM Studio + OpenRouter, Groq, DeepSeek…)",
+  "published_at": "2026-09-20T18:15:29+00:00",
+  "collected_at": "2026-09-20T21:26:47.620521+00:00",
+  "title_ko": "로컬·클라우드 LLM 비교 벤치마크 도구 'PromptDeck v1.1.0' 공개",
+  "summary_ko": "다양한 로컬 및 클라우드 LLM을 한 화면에서 비교하고 벤치마킹할 수 있는 오픈소스 데스크톱 앱이 출시되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
   ]
  },
  {
@@ -195,6 +333,21 @@
   "tags": [
    "Anthropic",
    "규제"
+  ]
+ },
+ {
+  "id": "c000a5e0370b2cba",
+  "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
+  "source": "Hacker News",
+  "title": "Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)",
+  "published_at": "2026-09-20T15:58:52+00:00",
+  "collected_at": "2026-09-20T21:26:42.313344+00:00",
+  "title_ko": "Mac M4에서 CoreML 기반 Laya 오프라인 구동",
+  "summary_ko": "애플 실리콘 Mac M4 환경에서 CoreML을 활용해 초당 45회의 결정을 내리는 오프라인 AI 구동 사례입니다.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "오픈소스"
   ]
  },
  {
