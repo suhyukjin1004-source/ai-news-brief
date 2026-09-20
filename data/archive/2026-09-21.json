@@ -1,5 +1,82 @@
 [
  {
+  "id": "cac0b390599514e0",
+  "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+  "source": "TechCrunch",
+  "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+  "published_at": "2026-09-20T18:32:52+00:00",
+  "collected_at": "2026-09-20T18:41:29.931963+00:00",
+  "title_ko": "AI 미팅 노트 작성을 위한 스마트 링 'Vocci' 공개",
+  "summary_ko": "회의 노트를 기록할 수 있는 249달러짜리 경량 스마트 링 Vocci가 공개되었으나 사생활 침해 우려가 제기되고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트",
+   "하드웨어"
+  ]
+ },
+ {
+  "id": "82dec77c31bfb4a1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wloora/the_bear_can_dance_qwen_38_27b_on_one_3090_for_3/",
+  "source": "r/LocalLLaMA",
+  "title": "The bear can dance: Qwen 3.8 27B on one 3090 for 3 weeks",
+  "published_at": "2026-09-20T18:26:30+00:00",
+  "collected_at": "2026-09-20T18:41:45.476921+00:00",
+  "title_ko": "RTX 3090에서 Qwen 기반 로컬 에이전트로 CUDA 추론 엔진 구축",
+  "summary_ko": "개발자가 단일 RTX 3090에서 Qwen 모델과 로컬 에이전트 루프를 활용해 3주간 자율적으로 CUDA 추론 엔진을 구축하는 실험에 성공했습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "Qwen",
+   "반도체"
+  ]
+ },
+ {
+  "id": "e550fff41e97077e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlo9nz/one_more_you_should_try_exllamav3exl3_for_flash/",
+  "source": "r/LocalLLaMA",
+  "title": "One more 'you should try ExllamaV3/exl3 for flash next' appreciation post",
+  "published_at": "2026-09-20T18:10:37+00:00",
+  "collected_at": "2026-09-20T18:41:45.476921+00:00",
+  "title_ko": "ExllamaV3를 활용한 고성능 LLM 플래시 추론 후기",
+  "summary_ko": "ExllamaV3와 exl3 포맷을 활용해 대형 모델에서 뛰어난 프리필 및 디코딩 속도와 긴 컨텍스트 처리를 달성한 사용자 경험 공유입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "dd963bb0acf04126",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlo52v/lawsuit_says_anthropic_openai_spacexai_and_google/",
+  "source": "r/LocalLLaMA",
+  "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
+  "published_at": "2026-09-20T18:05:43+00:00",
+  "collected_at": "2026-09-20T18:41:45.476921+00:00",
+  "title_ko": "Anthropic·OpenAI 등 주요 AI 기업, 속도 조절 담합 소송 피소",
+  "summary_ko": "앤스로픽, 오픈아이, 구글 등 주요 AI 기업들이 AI 개발 속도 조절에 관한 불법적 합의를 맺었다는 소송이 제기되었습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "Anthropic",
+   "Google"
+  ]
+ },
+ {
+  "id": "0bc45278627356bc",
+  "url": "https://news.hada.io/topic?id=34011",
+  "source": "GeekNews",
+  "title": "Pirate Face - LLM 모델을 삭제로부터 구하는 서비스",
+  "published_at": "2026-09-20T17:42:25+00:00",
+  "collected_at": "2026-09-20T18:42:00.076698+00:00",
+  "title_ko": "Hugging Face 오픈 모델을 보호하는 P2P 미러링 서비스 'Pirate Face'",
+  "summary_ko": "오픈소스 LLM이 삭제되는 것을 방지하기 위해 토큰과 P2P 네트워크를 통해 모델을 분산 보관하는 서비스가 등장했습니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "Hugging Face"
+  ]
+ },
+ {
   "id": "4a67a4c08427a711",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215506",
   "source": "AI타임스",
@@ -26,6 +103,21 @@
   "category": "중요",
   "tags": [
    "규제"
+  ]
+ },
+ {
+  "id": "52983b1b13524953",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlmkm9/layacpp_optimized_laya_nearinstant_decision_making/",
+  "source": "r/LocalLLaMA",
+  "title": "laya.cpp: Optimized laya near-instant decision making",
+  "published_at": "2026-09-20T17:06:02+00:00",
+  "collected_at": "2026-09-20T18:41:45.476921+00:00",
+  "title_ko": "ggml 기반 초고속 의사결정 모델 추론 구현체 'laya.cpp'",
+  "summary_ko": "파이썬 없이 C++과 GGML을 기반으로 Laya 모델을 빠르게 실행할 수 있는 독립형 추론 구현체 laya.cpp가 공개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "코딩"
   ]
  },
  {
@@ -59,6 +151,38 @@
   ]
  },
  {
+  "id": "3f0ddb99c7efa153",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wllv4i/a_jevstyle_model_finetuned_on_qwen35_4b/",
+  "source": "r/LocalLLaMA",
+  "title": "A Jev-style model fine-tuned on Qwen3.5 4B",
+  "published_at": "2026-09-20T16:39:07+00:00",
+  "collected_at": "2026-09-20T18:41:45.476921+00:00",
+  "title_ko": "Qwen 기반 Jev 스타일 의사결정 모델 파인튜닝 오픈소스",
+  "summary_ko": "개발자가 Qwen 모델을 기반으로 합성 데이터를 활용해 의사결정 에이전트 모델을 파인튜닝하고 오픈소스로 공개했습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "Qwen",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "dcd9418407bb47e2",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlkxjw/cuda_enable_sparse_fa_for_qwen4_by_am17an_pull/",
+  "source": "r/LocalLLaMA",
+  "title": "CUDA: enable sparse fa for qwen4 by am17an · Pull Request #28770 · ggml-org/llama.cpp",
+  "published_at": "2026-09-20T16:03:29+00:00",
+  "collected_at": "2026-09-20T18:41:45.476921+00:00",
+  "title_ko": "llama.cpp, Qwen용 희소 Flash Attention 지원 추가",
+  "summary_ko": "llama.cpp에 Qwen 모델의 추론 속도를 높이기 위한 희소 플래시 어텐션 기능이 PR을 통해 추가되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "Qwen",
+   "코딩"
+  ]
+ },
+ {
   "id": "0ed09b933a5ed447",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215495",
   "source": "AI타임스",
@@ -71,6 +195,50 @@
   "tags": [
    "Anthropic",
    "규제"
+  ]
+ },
+ {
+  "id": "053dd98ae4d49f3a",
+  "url": "https://news.hada.io/topic?id=34006",
+  "source": "GeekNews",
+  "title": "Step 5 Preview: 파레토 경계 확장",
+  "published_at": "2026-09-20T15:52:28+00:00",
+  "collected_at": "2026-09-20T18:42:00.076698+00:00",
+  "title_ko": "에이전트 작업 특화 플래그십 모델 'Step 5 Preview' 공개",
+  "summary_ko": "StepFun이 소프트웨어 엔지니어링과 금융 등 전문 업무에 강점을 지닌 고효율 MoE 구조의 대형 모델 Step 5 Preview를 공개했습니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트",
+   "반도체"
+  ]
+ },
+ {
+  "id": "e8a79eb13f8e1cb3",
+  "url": "https://news.hada.io/topic?id=34005",
+  "source": "GeekNews",
+  "title": "채팅 기반 대규모 언어 모델은 심령술사 사기의 작동 방식을 재현한다",
+  "published_at": "2026-09-20T15:52:27+00:00",
+  "collected_at": "2026-09-20T18:42:00.076698+00:00",
+  "title_ko": "챗봇의 지능 착시를 다룬 'LLMentalist 효과' 분석",
+  "summary_ko": "챗봇이 보여주는 지능은 모델 내부의 사고가 아니라, 통계적 답변에서 사용자가 의미를 찾는 심리적 현상에서 비롯된다는 가설입니다.",
+  "category": "참고",
+  "tags": [
+   "LLM"
+  ]
+ },
+ {
+  "id": "b188ce0ad58d9f4b",
+  "url": "https://news.hada.io/topic?id=34004",
+  "source": "GeekNews",
+  "title": "Qwen-Image-2.1, 소형 고효율 통합 이미지 생성 모델",
+  "published_at": "2026-09-20T15:52:25+00:00",
+  "collected_at": "2026-09-20T18:42:00.076698+00:00",
+  "title_ko": "텍스트 생성·편집 통합 모델 'Qwen-Image-2.1' 오픈소스 공개",
+  "summary_ko": "7B 파라미터 규모로 이미지 생성과 편집 기능을 동시에 지원하며 추론 효율을 극대화한 Qwen-Image-2.1이 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "Qwen"
   ]
  },
  {
