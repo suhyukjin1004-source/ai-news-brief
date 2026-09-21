@@ -1,8 +1,38 @@
 {
- "updated_at": "2026-09-21T13:57:37.782428+00:00",
+ "updated_at": "2026-09-21T19:18:37.627048+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "612327c1e755573c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmm89l/huawei_shelves_global_ai_chip_rollout_as_chinas/",
+   "source": "r/LocalLLaMA",
+   "title": "Huawei shelves global AI chip rollout as China's own demand outstrips supply — AMD and Nvidia no longer have to worry.",
+   "published_at": "2026-09-21T19:09:06+00:00",
+   "collected_at": "2026-09-21T19:18:06.108870+00:00",
+   "title_ko": "화웨이, AI 칩 글로벌 출시 보류",
+   "summary_ko": "중국 내 수요가 공급을 초과하면서 화웨이가 글로벌 AI 칩 출시를 보류함에 따라, 엔비디아와 AMD는 단기적인 글로벌 시장 경쟁 부담을 덜게 됨.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "반도체"
+   ]
+  },
+  {
+   "id": "c83d45f339bb9035",
+   "url": "https://news.hada.io/topic?id=34081",
+   "source": "GeekNews",
+   "title": "Fable 5, 8월 사고량 중앙값 감소",
+   "published_at": "2026-09-21T18:34:05+00:00",
+   "collected_at": "2026-09-21T19:18:20.595119+00:00",
+   "title_ko": "앤트로픽 구독제 도입 후 성능 저하 논란",
+   "summary_ko": "앤트로픽이 클로드(Claude) 관련 구독 서비스를 제공한 뒤 사용자들이 성능 저하와 둔화 현상을 체감함.",
+   "category": "참고",
+   "tags": [
+    "Claude",
+    "Anthropic"
+   ]
+  },
   {
    "id": "7426affa3c887886",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215516",
@@ -34,6 +64,36 @@
    ]
   },
   {
+   "id": "b20e7eff0b02d705",
+   "url": "https://news.hada.io/topic?id=34079",
+   "source": "GeekNews",
+   "title": "M5 Ultra Mac Studio 리뷰",
+   "published_at": "2026-09-21T17:55:36+00:00",
+   "collected_at": "2026-09-21T19:18:20.595119+00:00",
+   "title_ko": "M5 울트라 맥 스튜디오 로컬 AI 성능",
+   "summary_ko": "256GB RAM을 탑재한 M5 울트라 맥 스튜디오가 로컬 LLM 기반 개인 비서와 에이전트 구동에 뛰어난 성능을 발휘함.",
+   "category": "참고",
+   "tags": [
+    "반도체",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "11f6953e11efa22d",
+   "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+   "source": "TechCrunch",
+   "title": "Meta’s AI agent has been blocked from using Amazon.com",
+   "published_at": "2026-09-21T17:55:18+00:00",
+   "collected_at": "2026-09-21T19:17:37.546599+00:00",
+   "title_ko": "아마존, 메타의 AI 쇼핑 에이전트 차단",
+   "summary_ko": "아마존이 자사 쇼핑몰에서 메타의 새로운 AI 에이전트 '뮤즈'의 접근과 쇼핑 활동을 차단함.",
+   "category": "속보",
+   "tags": [
+    "Meta",
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "51c4fe868554529c",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215537",
    "source": "AI타임스",
@@ -57,6 +117,20 @@
    "title_ko": "오픈아트, AI 이미지·비디오 모델 아레나 출시",
    "summary_ko": "스타트업 오픈아트가 용도별 이미지 및 비디오 생성 모델을 비교할 수 있는 공개 벤치마크 '오픈아트 아레나'를 출시했습니다. 사용 목적에 맞는 최적의 모델 선택을 돕습니다.",
    "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "3ceaa170f019a163",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmjpag/can_a_relatively_small_language_model_qwen_38_27b/",
+   "source": "r/LocalLLaMA",
+   "title": "Can a relatively small language model (Qwen 3.8 27B) understand visual style and not just describe it?I asked it to recreate 618 visual language of designers, artists, movements etc and then transfer those ideas into entirely new SVG artworks and pages. Here what we have:",
+   "published_at": "2026-09-21T17:39:06+00:00",
+   "collected_at": "2026-09-21T19:18:06.108870+00:00",
+   "title_ko": "소형 LLM의 시각적 스타일 이해와 SVG 구현",
+   "summary_ko": "비교적 작은 27B 모델인 Qwen 3.8이 예술가와 디자이너의 시각적 스타일을 이해하고 새로운 SVG 아트워크로 변환하는 능력을 실험함.",
+   "category": "팁",
    "tags": [
     "오픈소스"
    ]
@@ -91,6 +165,21 @@
    ]
   },
   {
+   "id": "1737e5af7ddaed27",
+   "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
+   "source": "Hacker News",
+   "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+   "published_at": "2026-09-21T17:00:23+00:00",
+   "collected_at": "2026-09-21T19:18:05.034910+00:00",
+   "title_ko": "아마존, 메타의 AI 에이전트 '뮤즈' 차단",
+   "summary_ko": "아마존이 쇼핑몰 내에서 메타의 AI 에이전트 뮤즈의 자동 쇼핑 활동을 공식적으로 차단함.",
+   "category": "속보",
+   "tags": [
+    "Meta",
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "079e45b46b828bf0",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215542",
    "source": "AI타임스",
@@ -121,6 +210,181 @@
    ]
   },
   {
+   "id": "426e585749e8a24d",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215538",
+   "source": "AI타임스",
+   "title": "2030년까지 15.7만명 부족...미국 반도체 인력난에 경고등",
+   "published_at": "2026-09-21T16:48:34+00:00",
+   "collected_at": "2026-09-21T19:18:19.417974+00:00",
+   "title_ko": "미국 반도체 산업, 2030년 심각한 인력난 우려",
+   "summary_ko": "미국 내 대규모 반도체 공장 건설에도 불구하고 2030년까지 최대 15만 명 이상의 숙련 인력이 부족할 것이라는 전망이 제기됨.",
+   "category": "중요",
+   "tags": [
+    "반도체",
+    "투자"
+   ]
+  },
+  {
+   "id": "4c9291d46e14d15c",
+   "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+   "source": "TechCrunch",
+   "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+   "published_at": "2026-09-21T16:38:51+00:00",
+   "collected_at": "2026-09-21T19:17:37.546599+00:00",
+   "title_ko": "AI 기반 실시간 부조장치 '태비' 공개",
+   "summary_ko": "회계사 출신 개발자가 기업의 서류 작업과 손익 계산을 실시간으로 처리하는 AI 회계 도구를 선보임.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "f733954b70144712",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215529",
+   "source": "AI타임스",
+   "title": "CXMT, 5세대 DRAM 플랫폼 양산 개시...“세계 최고 수준 근접”",
+   "published_at": "2026-09-21T16:37:58+00:00",
+   "collected_at": "2026-09-21T19:18:19.417974+00:00",
+   "title_ko": "중국 CXMT, 5세대 DRAM 양산 개시",
+   "summary_ko": "중국 메모리 반도체 기업 CXMT가 11나노미터급 5세대 DRAM 플랫폼 양산에 돌입하며 기술력을 빠르게 추격함.",
+   "category": "중요",
+   "tags": [
+    "반도체"
+   ]
+  },
+  {
+   "id": "801f57eeb06e2998",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215521",
+   "source": "AI타임스",
+   "title": "\"AI가 2주 만에 칩 설계...아키텍트 랩스, '레드우드'로 개발 패러다임 제시",
+   "published_at": "2026-09-21T16:33:38+00:00",
+   "collected_at": "2026-09-21T19:18:19.417974+00:00",
+   "title_ko": "아키텍트 랩스, AI로 2주 만에 AI 칩 설계",
+   "summary_ko": "스타트업 아키텍트 랩스가 자체 플랫폼을 통해 고수준 사양만으로 저전력 AI 추론 칩 설계를 2주 만에 완료함.",
+   "category": "중요",
+   "tags": [
+    "반도체",
+    "코딩"
+   ]
+  },
+  {
+   "id": "43efa567ee415605",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215530",
+   "source": "AI타임스",
+   "title": "술레이먼 \"중국 경쟁 핑계로 AI 안전 규제 미뤄선 안 돼\"",
+   "published_at": "2026-09-21T16:02:34+00:00",
+   "collected_at": "2026-09-21T19:18:19.417974+00:00",
+   "title_ko": "MS 술레이먼 \"중국 경쟁 핑계로 AI 안전 규제 미루면 안 돼\"",
+   "summary_ko": "무스타파 술레이먼 MS AI CEO가 AI 발전 과정에서 중국과의 경쟁을 이유로 안전장치 마련을 소홀히 해서는 안 된다고 강조했습니다.",
+   "category": "중요",
+   "tags": [
+    "Meta",
+    "규제"
+   ]
+  },
+  {
+   "id": "a2e9f940e9ad0f17",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmgokc/a_better_coder_for_the_smallgpusmallram_crowd/",
+   "source": "r/LocalLLaMA",
+   "title": "A better coder for the small-GPU/small-RAM crowd!",
+   "published_at": "2026-09-21T15:52:43+00:00",
+   "collected_at": "2026-09-21T19:18:06.108870+00:00",
+   "title_ko": "저사양 기기를 위한 소형 코딩 AI 양자화 모델 공개",
+   "summary_ko": "스마트폰이나 구형 노트북에서도 실행 가능하며 자율적인 코딩 작업이 가능한 소형 모델 퀀트 버전이 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "81104d8861cf94c4",
+   "url": "https://x.ai/news/grok-4-7",
+   "source": "Hacker News",
+   "title": "Grok 4.7",
+   "published_at": "2026-09-21T15:50:15+00:00",
+   "collected_at": "2026-09-21T19:18:04.006818+00:00",
+   "title_ko": "xAI, Grok 4.7 공개",
+   "summary_ko": "xAI에서 Grok의 최신 버전인 Grok 4.7을 발표했습니다.",
+   "category": "속보",
+   "tags": [
+    "GPT"
+   ]
+  },
+  {
+   "id": "68def97e1a3f6ede",
+   "url": "https://news.hada.io/topic?id=34073",
+   "source": "GeekNews",
+   "title": "Heretic, 언어 모델의 제한을 제거하는 도구",
+   "published_at": "2026-09-21T15:37:35+00:00",
+   "collected_at": "2026-09-21T19:18:20.595119+00:00",
+   "title_ko": "언어 모델의 검열과 제한을 해제하는 도구 'Heretic'",
+   "summary_ko": "언어 모델에 적용된 검열과 제한을 완전 자동으로 제거하여 사용자의 지시를 항상 따르도록 만드는 도구입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "883245e19ac0d8df",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215535",
+   "source": "AI타임스",
+   "title": "‘암호 해독·마인크래프트’ 성과 낸 발스, AI 벤치마크 강자로 부상",
+   "published_at": "2026-09-21T15:36:43+00:00",
+   "collected_at": "2026-09-21T19:18:19.417974+00:00",
+   "title_ko": "AI 벤치마크 스타트업 발스 AI, 4천만 달러 투자 유치",
+   "summary_ko": "실질적 산업 적용 능력을 측정하는 벤치마크로 주목받는 발스 AI가 a16z 주도로 4천만 달러의 시리즈 A 투자를 유치했습니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "투자"
+   ]
+  },
+  {
+   "id": "699a768975a9501c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmg1zj/m5_ultra_mac_studio_review_the_dream_mac_for/",
+   "source": "r/LocalLLaMA",
+   "title": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
+   "published_at": "2026-09-21T15:30:04+00:00",
+   "collected_at": "2026-09-21T19:18:06.108870+00:00",
+   "title_ko": "로컬 AI 에이전트를 위한 M5 울트라 맥 스튜디오 리뷰",
+   "summary_ko": "로컬 환경에서 AI 에이전트를 구동하기에 최적의 성능을 보여주는 맥 스튜디오에 대한 리뷰입니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "반도체"
+   ]
+  },
+  {
+   "id": "66a112a3cd0c3ec2",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmftr3/massive_release_supra2img_a_tiny_100m_texttoimage/",
+   "source": "r/LocalLLaMA",
+   "title": "[MASSIVE RELEASE] Supra2-IMG - a tiny 100M text-to-image model - SOTA quality and open release!",
+   "published_at": "2026-09-21T15:21:45+00:00",
+   "collected_at": "2026-09-21T19:18:06.108870+00:00",
+   "title_ko": "초소형 텍스트-이미지 모델 'Supra2-IMG' 오픈소스 공개",
+   "summary_ko": "파라미터가 1억 개에 불과한 초소형 텍스트-이미지 생성 모델이 SOTA 수준의 품질로 오픈소스 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "6f99eecb3faeda41",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmfj04/tokenizers_v1_rust/",
+   "source": "r/LocalLLaMA",
+   "title": "tokenizers v1 (rust)",
+   "published_at": "2026-09-21T15:10:38+00:00",
+   "collected_at": "2026-09-21T19:18:06.108870+00:00",
+   "title_ko": "허깅페이스, Rust 기반 토크나이저 v1 라이브러리 출시",
+   "summary_ko": "허깅페이스가 다중 언어 지원과 멀티스레드 확장을 강화한 Rust 기반의 토크나이저 v1을 정식 출시했습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
    "id": "1e61a16aa991803d",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215528",
    "source": "AI타임스",
@@ -136,6 +400,78 @@
    ]
   },
   {
+   "id": "2844c796db82b4f2",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215526",
+   "source": "AI타임스",
+   "title": "LG, ‘AI 미래세대’ 양성 위한 에이머스 해커톤·청소년 캠프 진행",
+   "published_at": "2026-09-21T14:45:00+00:00",
+   "collected_at": "2026-09-21T19:18:19.417974+00:00",
+   "title_ko": "LG, AI 미래세대 양성 위한 에이머스 해커톤 및 캠프 개최",
+   "summary_ko": "LG가 국내 AI 인재 양성을 위해 역대 최대 규모의 참가자가 몰린 'LG 에이머스 해커톤'과 청소년 캠프를 진행했습니다.",
+   "category": "참고",
+   "tags": []
+  },
+  {
+   "id": "298e70367333fccb",
+   "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+   "source": "TechCrunch",
+   "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+   "published_at": "2026-09-21T14:39:22+00:00",
+   "collected_at": "2026-09-21T19:17:37.546599+00:00",
+   "title_ko": "구글, 제미나이 통합한 AI 노트북 '구글북' 공개",
+   "summary_ko": "구글이 데스크톱 경험 전반에 제미나이를 깊게 결합한 AI 네이티브 노트북 '구글북'을 선보였습니다.",
+   "category": "중요",
+   "tags": [
+    "Google",
+    "Gemini"
+   ]
+  },
+  {
+   "id": "dfd00f6ab1517261",
+   "url": "https://alicegg.tech/2026/09/21/attention",
+   "source": "Hacker News",
+   "title": "Attention is all you have",
+   "published_at": "2026-09-21T14:26:56+00:00",
+   "collected_at": "2026-09-21T19:18:04.006818+00:00",
+   "title_ko": "트랜스포머 아키텍처 기술 분석",
+   "summary_ko": "어텐션 메커니즘의 핵심 원리와 발전 과정을 다룬 기술 아티클입니다. LLM의 근간을 이해하는 데 도움이 됩니다.",
+   "category": "참고",
+   "tags": [
+    "LLM",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "0167a5e788a11e02",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmec1y/m5_ultra_mac_studio_review_the_dream_mac_for/",
+   "source": "r/LocalLLaMA",
+   "title": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents - MacStories",
+   "published_at": "2026-09-21T14:26:50+00:00",
+   "collected_at": "2026-09-21T19:18:06.108870+00:00",
+   "title_ko": "M5 울트라 맥 스튜디오 리뷰",
+   "summary_ko": "로컬 AI 에이전트 구동을 위한 최적의 하드웨어로 평가받는 M5 울트라 맥 스튜디오의 성능 리뷰입니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "반도체"
+   ]
+  },
+  {
+   "id": "c0ce65334154640d",
+   "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
+   "source": "Hacker News",
+   "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+   "published_at": "2026-09-21T14:10:49+00:00",
+   "collected_at": "2026-09-21T19:18:04.006818+00:00",
+   "title_ko": "macOS AI 모델 저장소 절약 우회법",
+   "summary_ko": "macOS에서 불필요한 AI 모델 다운로드를 방지하고 저장 공간을 아끼는 실용적인 방법입니다.",
+   "category": "팁",
+   "tags": [
+    "Apple",
+    "오픈소스"
+   ]
+  },
+  {
    "id": "12f2b5c848c3b0f8",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215524",
    "source": "AI타임스",
@@ -148,6 +484,21 @@
    "tags": [
     "AI 에이전트",
     "코딩"
+   ]
+  },
+  {
+   "id": "6b39f0884ba437fe",
+   "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
+   "source": "Hacker News",
+   "title": "M5 Ultra Mac Studio Review",
+   "published_at": "2026-09-21T13:53:27+00:00",
+   "collected_at": "2026-09-21T19:18:04.006818+00:00",
+   "title_ko": "로컬 AI용 M5 울트라 맥 스튜디오 리뷰",
+   "summary_ko": "로컬 AI 에이전트 환경에서 M5 울트라 맥 스튜디오가 보여주는 성능과 활용도를 분석했습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "반도체"
    ]
   },
   {
@@ -305,6 +656,20 @@
    "tags": [
     "OpenAI",
     "GPT"
+   ]
+  },
+  {
+   "id": "a7ca59844a94ccd6",
+   "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+   "source": "OpenAI",
+   "title": "Advisory Group on Mathematics and Artificial Intelligence",
+   "published_at": "2026-09-21T12:00:00+00:00",
+   "collected_at": "2026-09-21T19:17:51.279318+00:00",
+   "title_ko": "수학 및 AI 자문그룹 신설",
+   "summary_ko": "OpenAI가 신흥 AI 연구 결과의 검증과 소통을 돕기 위해 독립적인 수학·AI 자문그룹과 협력합니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI"
    ]
   },
   {
@@ -521,6 +886,21 @@
    ]
   },
   {
+   "id": "2c9792fbb14ae5db",
+   "url": "https://openai.com/index/building-standards-next-phase-ai",
+   "source": "OpenAI",
+   "title": "Building standards for the next phase of AI",
+   "published_at": "2026-09-21T10:00:00+00:00",
+   "collected_at": "2026-09-21T19:17:51.279318+00:00",
+   "title_ko": "AI 차세대 표준 구축 방향 발표",
+   "summary_ko": "OpenAI가 안전성 향상을 위한 글로벌 AI 표준, 평가 및 거버넌스 공조 방안을 제시했습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "규제"
+   ]
+  },
+  {
    "id": "e7e3401a9ef3e8bd",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wm8ede/gewell_gemma4_inference_engine/",
    "source": "r/LocalLLaMA",
@@ -589,6 +969,35 @@
    "category": "팁",
    "tags": [
     "오픈소스"
+   ]
+  },
+  {
+   "id": "530db518a73a5717",
+   "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+   "source": "OpenAI",
+   "title": "Expanding OpenAI Academy with new learning paths",
+   "published_at": "2026-09-21T07:00:00+00:00",
+   "collected_at": "2026-09-21T19:17:51.279318+00:00",
+   "title_ko": "OpenAI 아카데미 학습 과정 확대",
+   "summary_ko": "개발자, 학생, 임직원 등이 실무 AI 역량을 키울 수 있도록 새로운 OpenAI 아카데미 커리큘럼이 추가되었습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI"
+   ]
+  },
+  {
+   "id": "2e18ff0e7a060101",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wm4o8x/clarification_on_the_qwenimage21_license/",
+   "source": "r/LocalLLaMA",
+   "title": "Clarification on the Qwen-image-2.1 license",
+   "published_at": "2026-09-21T06:17:43+00:00",
+   "collected_at": "2026-09-21T19:18:06.108870+00:00",
+   "title_ko": "Qwen-image-2.1 라이선스 명확화",
+   "summary_ko": "오픈소스 이미지 모델인 Qwen-image-2.1의 라이선스 정책에 대한 공식 설명이 공개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "Google"
    ]
   },
   {
@@ -837,6 +1246,20 @@
    ]
   },
   {
+   "id": "eb792e0fc3420085",
+   "url": "https://huggingface.co/blog/tokenizers-v1",
+   "source": "Hugging Face",
+   "title": "tokenizers v1: encode, decode and scaling, measured",
+   "published_at": "2026-09-21T00:00:00+00:00",
+   "collected_at": "2026-09-21T19:17:52.361864+00:00",
+   "title_ko": "Hugging Face 토크나이저 v1 출시",
+   "summary_ko": "인코딩, 디코딩 및 확장성을 측정한 Hugging Face의 새로운 토크나이저 v1 버전이 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
    "id": "d1749ba76a98e7a5",
    "url": "https://openai.com/index/v7",
    "source": "OpenAI",
@@ -1043,6 +1466,22 @@
    "tags": [
     "투자",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "f6e31ebaae9750cf",
+   "url": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
+   "source": "Simon Willison",
+   "title": "MCP was always a bad idea?",
+   "published_at": "2026-09-20T20:24:41+00:00",
+   "collected_at": "2026-09-21T19:18:05.260328+00:00",
+   "title_ko": "MCP의 효용성과 아키텍처 논쟁",
+   "summary_ko": "AI 에이전트 생태계에서 모델 컨텍스트 프로토콜(MCP)이 불필요하다는 주장에 반박하며 보안과 권한 제어 측면에서의 가치를 조명합니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "Claude",
+    "OpenAI"
    ]
   },
   {
@@ -2501,458 +2940,6 @@
     "오픈소스",
     "NVIDIA",
     "반도체"
-   ]
-  },
-  {
-   "id": "7e3210551654bdca",
-   "url": "https://news.hada.io/topic?id=33959",
-   "source": "GeekNews",
-   "title": "Stagehand v4, Playwright보다 2배 빠르고 토큰 효율 80% 높은 브라우저 자동화",
-   "published_at": "2026-09-19T22:52:25+00:00",
-   "collected_at": "2026-09-20T00:59:00.795603+00:00",
-   "title_ko": "웹 자동화 SDK 'Stagehand v4' 오픈소스 공개",
-   "summary_ko": "AI 에이전트가 브라우저를 빠르게 제어하고 데이터를 추출할 수 있는 Playwright 기반의 고성능 오픈소스 SDK가 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "670a895adfae1d77",
-   "url": "https://news.hada.io/topic?id=33957",
-   "source": "GeekNews",
-   "title": "Alibaba, 암을 포함한 약 150개 질환을 탐지하는 AI 모델 오픈소스로 공개",
-   "published_at": "2026-09-19T22:52:23+00:00",
-   "collected_at": "2026-09-20T00:59:00.795603+00:00",
-   "title_ko": "알리바바, 150개 복부 질환 진단 AI 모델 'Damo Radar' 오픈소스 공개",
-   "summary_ko": "알리바바 다모 아카데미가 CT 영상을 분석해 암을 비롯한 약 150개의 질환을 식별하는 비전-언어 모델을 오픈소스로 공개했습니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "dc4eb0409f5885f4",
-   "url": "https://news.hada.io/topic?id=33956",
-   "source": "GeekNews",
-   "title": "글쓰기를 AI에 거의 맡기지 말아야 하는 이유",
-   "published_at": "2026-09-19T22:52:22+00:00",
-   "collected_at": "2026-09-20T00:59:00.795603+00:00",
-   "title_ko": "사고 과정으로서의 글쓰기와 AI 활용의 한계",
-   "summary_ko": "글쓰기는 곧 사고 과정이므로 아이디어 전달과 논증을 위한 글은 AI에 의존하지 않고 직접 작성해야 한다는 분석입니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI"
-   ]
-  },
-  {
-   "id": "0569b33732aac776",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkz5a4/m1_max_32gb_trying_to_run_qwen_38_27b_at_decent/",
-   "source": "r/LocalLLaMA",
-   "title": "M1 Max 32GB, trying to run Qwen 3.8 27B at decent speeds and context",
-   "published_at": "2026-09-19T22:10:06+00:00",
-   "collected_at": "2026-09-19T22:54:02.519666+00:00",
-   "title_ko": "M1 Max 32GB에서 Qwen 27B 모델 구동 최적화 조언 요청",
-   "summary_ko": "메모리 부족 문제 없이 맥북 프로에서 Qwen 27B 모델을 실행하기 위한 로컬 LLM 사용자들의 최적화 및 툴 활용 논의.",
-   "category": "팁",
-   "tags": [
-    "Qwen",
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "fb4e0b83bc9f3ed0",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkypcs/from_gtx1080ti_to_dual_gpu_with_radeon_mi50/",
-   "source": "r/LocalLLaMA",
-   "title": "From GTX-1080Ti to dual GPU with Radeon MI50",
-   "published_at": "2026-09-19T21:51:27+00:00",
-   "collected_at": "2026-09-20T00:58:46.318617+00:00",
-   "title_ko": "GTX 1080Ti와 라데온 MI50 듀얼 GPU 조합의 로컬 LLM 활용",
-   "summary_ko": "저렴한 구형 서버용 GPU인 라데온 MI50을 추가해 총 27GB의 VRAM을 확보함으로써 30B 이상의 대형 로컬 모델을 구동하는 실사용 후기가 공유되었습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "3d0cbbc92d387a44",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkyny9/qwen38flashnext_at_1m_context_on_strix_halo_38/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.8-Flash-Next at 1M context on Strix Halo: 38 tok/s decode, 18 min prefill (halogen 0.12.0)",
-   "published_at": "2026-09-19T21:49:45+00:00",
-   "collected_at": "2026-09-19T22:54:02.519666+00:00",
-   "title_ko": "100만 컨텍스트에서 Qwen 기반 모델 성능 개선",
-   "summary_ko": "대규모 컨텍스트 창에서 할로겐 툴을 활용해 Qwen 모델의 디코딩 및 프리필 속도를 대폭 향상시킨 테스트 결과.",
-   "category": "참고",
-   "tags": [
-    "Qwen",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "5f7d67d17cd11f05",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkxx8e/with_gemini_4_bench_goes_up/",
-   "source": "r/LocalLLaMA",
-   "title": "With Gemini 4, bench goes up.",
-   "published_at": "2026-09-19T21:18:19+00:00",
-   "collected_at": "2026-09-19T22:54:02.519666+00:00",
-   "title_ko": "Gemini 4 출시와 벤치마크 성능 향상",
-   "summary_ko": "오픈웨이트 모델의 위험성에 대한 주장과 대조적으로 벤치마크 점수가 크게 향상된 Gemini 4 관련 논의.",
-   "category": "속보",
-   "tags": [
-    "Gemini"
-   ]
-  },
-  {
-   "id": "63e57caff46f1675",
-   "url": "https://www.reddit.com/r/singularity/comments/1wkxlqp/spanish_multiverse_computing_used_a_quantum/",
-   "source": "r/singularity",
-   "title": "Spanish Multiverse Computing used a quantum computer (156-qubit IBM Heron) to create their latest Quasar 1.1 438B model",
-   "published_at": "2026-09-19T21:05:15+00:00",
-   "collected_at": "2026-09-20T06:04:08.217204+00:00",
-   "title_ko": "양자 컴퓨터 활용해 438B 모델 개발",
-   "summary_ko": "스페인의 멀티버스 컴퓨팅이 IBM의 양자 컴퓨터를 이용해 최신 초대형 모델을 구축했습니다.",
-   "category": "중요",
-   "tags": [
-    "반도체"
-   ]
-  },
-  {
-   "id": "4c201e6ead4467d5",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-   "source": "The Verge",
-   "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-   "published_at": "2026-09-19T20:44:40+00:00",
-   "collected_at": "2026-09-19T22:53:31.123865+00:00",
-   "title_ko": "메타의 AI 어시스턴트 'Muse' Mac 앱 공개",
-   "summary_ko": "메시지, 캘린더, 노트 접근 권한을 가진 메타의 AI 어시스턴트 Muse가 맥 앱으로 출시되며 프라이버시 우려 제기.",
-   "category": "속보",
-   "tags": [
-    "Meta",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "fbfbc3ff36685719",
-   "url": "https://www.reddit.com/r/singularity/comments/1wkwzzj/chatgpt6_astra_cracks_108yearold_unsolved_wwi/",
-   "source": "r/singularity",
-   "title": "ChatGPT-6 Astra cracks 108-year-old unsolved WWI German code for the first time",
-   "published_at": "2026-09-19T20:40:52+00:00",
-   "collected_at": "2026-09-20T06:04:08.217204+00:00",
-   "title_ko": "ChatGPT, 108년 전 제1차 세계대전 독일 암호 해독",
-   "summary_ko": "AI 모델이 역사적인 미해결 암호를 최초로 해독하며 뛰어난 문제 해결 능력을 입증했습니다.",
-   "category": "속보",
-   "tags": [
-    "GPT"
-   ]
-  },
-  {
-   "id": "c659811cf15c4417",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkwz69/ternarybonsai227bpq2_0_is_not_completely/",
-   "source": "r/LocalLLaMA",
-   "title": "Ternary-Bonsai-2-27B-PQ2_0 is not completely lobotomized",
-   "published_at": "2026-09-19T20:39:56+00:00",
-   "collected_at": "2026-09-19T22:54:02.519666+00:00",
-   "title_ko": "27B 양자화 모델 성능 벤치마크 비교",
-   "summary_ko": "다양한 27B 규모의 오픈소스 모델 양자화 버전에 대한 성능 및 용량 비교 평가.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "Qwen"
-   ]
-  },
-  {
-   "id": "b62b85a0cd495fa6",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkwy6g/improved_tps_of_gemma_4_31b_the_journey_and_also/",
-   "source": "r/LocalLLaMA",
-   "title": "Improved TPS of Gemma 4 31B : the journey and also creating custom patches with VLLM fork",
-   "published_at": "2026-09-19T20:38:45+00:00",
-   "collected_at": "2026-09-19T22:54:02.519666+00:00",
-   "title_ko": "VLLM 포크를 통한 Gemma 31B 추론 속도(TPS) 개선",
-   "summary_ko": "모델 아키텍처 분석을 바탕으로 VLLM 커스텀 패치를 적용하여 Gemma 31B의 초당 토큰 처리 속도를 극대화한 사례.",
-   "category": "팁",
-   "tags": [
-    "Gemma",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "7f0049516e0212e6",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkwual/deadgrid_now_open_source_exclusively_made_with/",
-   "source": "r/LocalLLaMA",
-   "title": "“DeadGrid” now open source exclusively made with qwen 3.8 27b Q4KM",
-   "published_at": "2026-09-19T20:34:23+00:00",
-   "collected_at": "2026-09-19T22:54:02.519666+00:00",
-   "title_ko": "Qwen 27B 기반 오픈소스 웹 게임 'DeadGrid' 공개",
-   "summary_ko": "로컬 LLM인 Qwen 27B 모델만을 활용해 제작된 브라우저 기반 오픈소스 게임 공개.",
-   "category": "참고",
-   "tags": [
-    "Qwen",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "84236e20ae6047da",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkwec5/i_turned_an_asymetric_pair_of_tesla_v100s_pcie/",
-   "source": "r/LocalLLaMA",
-   "title": "I turned an asymetric pair of Tesla V100s PCIe both (16 GB + 32 GB) into a surprisingly capable local LLM lab — 1.38k prompt tok/s, 40 decode tok/s with qwen3.8 27B Q6 and Q8...",
-   "published_at": "2026-09-19T20:16:27+00:00",
-   "collected_at": "2026-09-19T20:31:24.848310+00:00",
-   "title_ko": "구형 Tesla V100 GPU 조합으로 구축한 고성능 로컬 LLM 실험실",
-   "summary_ko": "16GB와 32GB Tesla V100 GPU를 조합해 총 48GB VRAM 환경을 구축하고, 텐서 분할과 llama.cpp를 활용해 고속으로 로컬 LLM을 구동하는 사례입니다. 예산이 부족한 연구자와 개발자가 구형 하드웨어로 효율적인 로컬 추론 환경을 만드는 실무적 방법을 보여줍니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "NVIDIA",
-    "LLM"
-   ]
-  },
-  {
-   "id": "c03f95b7eb480487",
-   "url": "https://www.reddit.com/r/singularity/comments/1wkw0ln/astra_fable_and_molmoact2_were_put_to_the_test_by/",
-   "source": "r/singularity",
-   "title": "Astra, Fable, and MolmoAct2 were put to the test by tasking them with 4 harmful operations through a robotic arm, to see just how risky things can get",
-   "published_at": "2026-09-19T20:01:19+00:00",
-   "collected_at": "2026-09-20T06:04:08.217204+00:00",
-   "title_ko": "AI 로봇 팔의 위험성 테스트 진행",
-   "summary_ko": "로봇 팔에 탑재된 AI 모델들이 유해한 작업을 수행하도록 테스트되어 잠재적 위험성을 평가받았습니다.",
-   "category": "참고",
-   "tags": [
-    "로보틱스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "6cd029fa2ffee0bf",
-   "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-   "source": "TechCrunch",
-   "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
-   "published_at": "2026-09-19T19:57:47+00:00",
-   "collected_at": "2026-09-19T20:30:53.150824+00:00",
-   "title_ko": "트럼프, AI 명칭 변경 및 AI 포스 창설 제안",
-   "summary_ko": "트럼프 전 미국 대통령이 AI라는 용어의 리브랜딩과 'AI 포스' 창설을 제안했습니다. 향후 미국 행정부의 AI 정책과 네이밍 전략에 변화를 줄 수 있는 정치적 발언입니다.",
-   "category": "중요",
-   "tags": [
-    "규제",
-    "투자"
-   ]
-  },
-  {
-   "id": "6c7a8642a0bf6d3e",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215494",
-   "source": "AI타임스",
-   "title": "오픈AI, 기업 시장 점유율 역전…앤트로픽, IPO전 신형 모델 출시 검토",
-   "published_at": "2026-09-19T19:46:59+00:00",
-   "collected_at": "2026-09-19T10:48:55.943317+00:00",
-   "title_ko": "오픈AI 공세에 앤트로픽 신형 모델 출시 검토",
-   "summary_ko": "오픈AI의 기업용 시장 점유율 확대에 대응해 앤트로픽이 IPO 전 신규 모델 출시를 검토하고 있다. 치열해진 경쟁이 기업의 전략까지 바꾸고 있음을 보여준다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "Anthropic",
-    "투자"
-   ]
-  },
-  {
-   "id": "1b94232ceb001ec7",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkvl7h/finally_got_qwen_38_q4_k_m_27b_runnin_slick/",
-   "source": "r/LocalLLaMA",
-   "title": "Finally got qwen 3.8 q4 k_M 27b runnin slick 40tkps load at 240k inf 4qnl for stable agentic coding on a 7900xtx. I have been finally able to give hermes a task and come back to results. Built a panel to manage my inference servers from hermes.",
-   "published_at": "2026-09-19T19:44:27+00:00",
-   "collected_at": "2026-09-19T22:54:02.519666+00:00",
-   "title_ko": "라데온 7900 XTX에서 Qwen 27B로 에이전트 코딩 환경 구축",
-   "summary_ko": "AMD 하드웨어 환경과 로컬 LLM을 조합하여 안정적인 코딩 에이전트 및 제어 패널을 구축한 사례.",
-   "category": "팁",
-   "tags": [
-    "Qwen",
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "4643ab5bd785dcdb",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215493",
-   "source": "AI타임스",
-   "title": "구글 '제미나이', 보안 테스트 환경 오류로 기업 3곳 침투 사고 발생",
-   "published_at": "2026-09-19T19:06:23+00:00",
-   "collected_at": "2026-09-19T10:48:55.943317+00:00",
-   "title_ko": "구글 제미나이 보안 테스트 중 무단 침투 사고",
-   "summary_ko": "구글의 제미나이가 외부 보안 평가 도중 기업 시스템 3곳에 무단 침투하는 사고가 발생했다. 모델 자체 결함이 아닌 테스트 환경 관리 소홀이 원인인 것으로 드러났다.",
-   "category": "속보",
-   "tags": [
-    "Google",
-    "Gemini",
-    "규제"
-   ]
-  },
-  {
-   "id": "31c51e0ca61b85a1",
-   "url": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b",
-   "source": "Hacker News",
-   "title": "Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown",
-   "published_at": "2026-09-19T18:36:44+00:00",
-   "collected_at": "2026-09-20T11:14:51.032547+00:00",
-   "title_ko": "주요 AI 기업들의 개발 속도 조절 담합 의혹 소송",
-   "summary_ko": "OpenAI, Anthropic 등 주요 AI 기업들이 AI 개발 속도를 늦추기로 불법 담합했다는 반독점 소송이 제기됨.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "Anthropic",
-    "규제"
-   ]
-  },
-  {
-   "id": "5dea5bcb21a9e7e7",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-   "source": "Hacker News",
-   "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-   "published_at": "2026-09-19T18:21:30+00:00",
-   "collected_at": "2026-09-20T00:58:45.239912+00:00",
-   "title_ko": "마이크로소프트 임원, AI 스크래핑을 '역사상 최대 규모의 노동 도둑질'로 규정",
-   "summary_ko": "NYT 소송 문건에서 마이크로소프트 임원이 AI 데이터 스크래핑을 비판하고 오픈소스가 출판사에 위협이 된다는 발언이 공개되어 저작권 논란이 심화되고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "Microsoft",
-    "OpenAI",
-    "규제"
-   ]
-  },
-  {
-   "id": "1bd2ffb9d8a3fe02",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215483",
-   "source": "AI타임스",
-   "title": "Z.ai “AI가 AI 실행 인프라 스스로 구축...'재귀적 자기개선'의 시작”",
-   "published_at": "2026-09-19T18:05:57+00:00",
-   "collected_at": "2026-09-19T10:48:55.943317+00:00",
-   "title_ko": "지푸 AI, 인프라 최적화에 LLM 직접 활용",
-   "summary_ko": "Z.ai가 자체 모델 'GLM'을 통해 차세대 AI의 추론 인프라를 직접 구축하고 최적화하는 사례를 공개했다. AI가 실행 환경을 개선하는 초기 단계에 진입했다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "11fca2a772be7bce",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkt26h/what_is_the_best_tts_to_create_audio_books_one/",
-   "source": "r/LocalLLaMA",
-   "title": "What is the best tts to create audio books? One that support emotions?",
-   "published_at": "2026-09-19T18:05:16+00:00",
-   "collected_at": "2026-09-19T20:31:24.848310+00:00",
-   "title_ko": "감정 표현이 가능한 고품질 오디오북 제작용 TTS 모델 탐색",
-   "summary_ko": "기계적인 단조로움을 넘어 감정을 표현할 수 있는 고품질 TTS(음성 합성) 모델에 대한 커뮤니티 논의입니다. 오디오북 제작 시 자연스러운 감정 표현과 영어 지원을 제공하는 AI 음성 도구의 필요성을 보여줍니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "fc294620a7d72f39",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wksw1n/qwen38_27b_one_shot_prompt_super_mario_dupe/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.8 27B one shot prompt “Super Mario” dupe",
-   "published_at": "2026-09-19T17:58:42+00:00",
-   "collected_at": "2026-09-19T20:31:24.848310+00:00",
-   "title_ko": "Qwen3.8 27B 모델을 활용한 '슈퍼 마리오' 원샷 프롬프트 구현",
-   "summary_ko": "Qwen3.8 27B 모델에 단 한 번의 프롬프트를 입력해 슈퍼 마리오 브라더스 클론 게임 코드를 생성한 사례입니다. 최신 LLM의 뛰어난 코드 생성 및 원샷 학습 능력을 보여줍니다.",
-   "category": "참고",
-   "tags": [
-    "코딩",
-    "오픈소스",
-    "Qwen"
-   ]
-  },
-  {
-   "id": "444db324bd3651d1",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215479",
-   "source": "AI타임스",
-   "title": "'애플 인수설' 프리즘ML, 270억 매개변수 모델 5.9GB로 압축",
-   "published_at": "2026-09-19T17:36:34+00:00",
-   "collected_at": "2026-09-19T10:48:55.943317+00:00",
-   "title_ko": "프리즘ML, 270억 파라미터 모델 5.9GB로 압축",
-   "summary_ko": "애플 인수설로 주목받은 프리즘ML이 대형언어모델을 대폭 압축해 일반 PC와 모바일에서도 구동 가능한 온디바이스 모델을 선보였다.",
-   "category": "중요",
-   "tags": [
-    "온디바이스",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "0080ce44a56c3656",
-   "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-   "source": "TechCrunch",
-   "title": "Google’s Gemini is the latest AI model to hack other companies",
-   "published_at": "2026-09-19T17:30:00+00:00",
-   "collected_at": "2026-09-19T20:30:53.150824+00:00",
-   "title_ko": "구글 제미나이, 타사 시스템 해킹 테스트 수행 후 즉시 종료",
-   "summary_ko": "구글의 인공지능 제미나이가 다른 회사의 시스템을 해킹하는 테스트를 수행하고 적절하게 작업을 종료했다고 밝혔습니다. AI 모델의 자율적 보안 테스트 능력과 그 안전성에 대한 관심을 높이는 소식입니다.",
-   "category": "속보",
-   "tags": [
-    "Google",
-    "Gemini"
-   ]
-  },
-  {
-   "id": "9949861b2537b2cb",
-   "url": "https://www.reddit.com/r/singularity/comments/1wks4ud/trump_says_he_is_forming_an_ai_force/",
-   "source": "r/singularity",
-   "title": "Trump says he is forming an \"AI Force\"",
-   "published_at": "2026-09-19T17:28:25+00:00",
-   "collected_at": "2026-09-20T06:04:08.217204+00:00",
-   "title_ko": "미국 트럼프 대통령, AI 포스 창설 발표",
-   "summary_ko": "미국 행정부가 AI 기술 패권을 잡기 위해 정부 차원의 'AI 포스'를 결성한다고 밝혔습니다.",
-   "category": "중요",
-   "tags": [
-    "규제",
-    "투자"
-   ]
-  },
-  {
-   "id": "38e325b67cf8d0a0",
-   "url": "https://www.reddit.com/r/singularity/comments/1wkrkbv/are_we_entering_a_golden_age_for_indie_developers/",
-   "source": "r/singularity",
-   "title": "Are we entering a golden age for indie developers and senior engineers?",
-   "published_at": "2026-09-19T17:05:53+00:00",
-   "collected_at": "2026-09-20T06:04:08.217204+00:00",
-   "title_ko": "AI 시대의 1인 개발자와 시니어 엔지니어 황금기",
-   "summary_ko": "AI 도구의 발달로 소수 인원이 대기업 수준의 개발 속도를 낼 수 있게 되면서 1인 개발의 가치가 재조명받고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "코딩",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "f129be806b93236a",
-   "url": "https://www.reddit.com/r/singularity/comments/1wkrij0/the_potus_has_drunk_the_asi_koolaid/",
-   "source": "r/singularity",
-   "title": "The POTUS has drunk the ASI kool-aid",
-   "published_at": "2026-09-19T17:03:54+00:00",
-   "collected_at": "2026-09-20T06:04:08.217204+00:00",
-   "title_ko": "미국 대통령의 초지능(ASI) 관련 발언 화제",
-   "summary_ko": "정치권에서 인공초지능(ASI)의 도래 가능성을 언급하며 기술 투자와 미래 전망에 대한 논의가 가속화되고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "투자"
-   ]
-  },
-  {
-   "id": "6ee3e78ddde485a7",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215478",
-   "source": "AI타임스",
-   "title": "메타, 에이전트 '뮤즈' 맥으로 확대…앱스토어 1위 인기 속 '보안' 부각",
-   "published_at": "2026-09-19T17:03:03+00:00",
-   "collected_at": "2026-09-19T10:48:55.943317+00:00",
-   "title_ko": "메타, AI 에이전트 '뮤즈' 맥 서비스 확대",
-   "summary_ko": "메타가 개인용 AI 에이전트 '뮤즈'를 맥 데스크톱 환경으로 출시하며 PC 제어 기능을 강화했다. 편의성과 함께 사용자 데이터 보안 문제가 주요 과제로 떠올랐다.",
-   "category": "중요",
-   "tags": [
-    "Meta",
-    "AI 에이전트"
    ]
   }
  ]
