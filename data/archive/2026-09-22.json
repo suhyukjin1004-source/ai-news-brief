@@ -1,5 +1,379 @@
 [
  {
+  "id": "c01a13f75564b91e",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=215547",
+  "source": "AI타임스",
+  "title": "뉴로퓨전, 답 없는 글로벌 AI 미래 예측 벤치마크 1위…국내 스타트업 ‘기술력 증명’",
+  "published_at": "2026-09-22T04:54:46+00:00",
+  "collected_at": "2026-09-21T23:12:04.940500+00:00",
+  "title_ko": "뉴로퓨전, 글로벌 미래 예측 벤치마크 1위 달성",
+  "summary_ko": "국내 스타트업 뉴로퓨전이 미래 사건을 예측하는 글로벌 AI 벤치마크 '포캐스트벤치' 선행 리더보드에서 1위를 차지했습니다. 과적합 논란이 있는 기존 벤치마크와 달리 정답을 미리 알 수 없는 영역에서 기술력을 입증했습니다.",
+  "category": "중요",
+  "tags": [
+   "스타트업",
+   "벤치마크",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "82b7c1ad7628107c",
+  "url": "https://simonwillison.net/2026/Sep/21/jev/",
+  "source": "Simon Willison",
+  "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
+  "published_at": "2026-09-21T23:09:20+00:00",
+  "collected_at": "2026-09-21T23:11:50.440614+00:00",
+  "title_ko": "텍스트 대신 수치와 확률을 출력하는 새로운 LLM 'Jev' 공개",
+  "summary_ko": "TypeSafe AI가 텍스트 대신 카테고리, 확률, 신뢰도 점수를 부동소수점으로 출력하는 새로운 형태의 의사결정 모델 'Jev'를 선보였습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "3fc713776b76029d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wms904/uncensor_an_llm_without_touching_weights_inject_a/",
+  "source": "r/LocalLLaMA",
+  "title": "Uncensor an LLM without touching weights: inject a tiny trained KV-cache bank (~18MB) and unload it anytime",
+  "published_at": "2026-09-21T22:55:57+00:00",
+  "collected_at": "2026-09-21T23:11:51.260135+00:00",
+  "title_ko": "가중치 수정 없이 KV 캐시로 LLM 검열 해제하는 오픈소스 공개",
+  "summary_ko": "모델의 가중치를 직접 수정하지 않고, 학습된 소형 KV 캐시 뱅크를 주입하여 실시간으로 LLM의 검열을 해제할 수 있는 도구 'phantom-kv'가 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "코딩"
+  ]
+ },
+ {
+  "id": "5dc1319989937b16",
+  "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+  "source": "Ars Technica",
+  "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+  "published_at": "2026-09-21T22:24:38+00:00",
+  "collected_at": "2026-09-21T23:11:35.911552+00:00",
+  "title_ko": "메타 AI 어시스턴트 'Muse'에서 발견된 심각한 보안 취약점",
+  "summary_ko": "메타의 새로운 AI 어시스턴트 'Muse'에서 에이전트 전체를 탈취할 수 있는 심각한 제로데이 취약점이 발견되었습니다.",
+  "category": "중요",
+  "tags": [
+   "Meta",
+   "AI 에이전트",
+   "규제"
+  ]
+ },
+ {
+  "id": "134e8d5da19ee478",
+  "url": "https://www.reddit.com/r/singularity/comments/1wmrccf/andrew_ng_pausing_ai_progress_will_create_much/",
+  "source": "r/singularity",
+  "title": "Andrew NG: Pausing AI Progress Will Create Much More Harm Than Benefit",
+  "published_at": "2026-09-21T22:19:06+00:00",
+  "collected_at": "2026-09-21T23:12:04.122271+00:00",
+  "title_ko": "앤드류 응 \"AI 발전 일시 중지는 득보다 실이 크다\"",
+  "summary_ko": "앤드류 응 교수가 AI 개발을 중단하면 경쟁국에 뒤처질 뿐만 아니라 안전성 연구와 문제 해결 능력 확보도 지연된다며 개발 중단 주장에 반박했습니다.",
+  "category": "참고",
+  "tags": [
+   "규제",
+   "투자"
+  ]
+ },
+ {
+  "id": "a3b303c5dffda30f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmr3nu/wow_mimo_26_pro_seems_to_be_pretty_good_but/",
+  "source": "r/LocalLLaMA",
+  "title": "Wow, Mimo 2.6 pro seems to be pretty good, but requires more prompting than Sol",
+  "published_at": "2026-09-21T22:09:25+00:00",
+  "collected_at": "2026-09-21T23:11:51.260135+00:00",
+  "title_ko": "샤오미 'MiMo 2.6 Pro' 모델 성능 평가",
+  "summary_ko": "최근 공개된 샤오미의 멀티모달 모델 MiMo 2.6 Pro가 프롬프트 제어에 따라 고성능 모델과 맞먹는 우수한 출력을 보여준다는 평가가 나왔습니다.",
+  "category": "참고",
+  "tags": [
+   "MiMo",
+   "멀티모달",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "1b4084c5abb79528",
+  "url": "https://www.reddit.com/r/singularity/comments/1wmqgox/erdos_problem_solver_experienced_sleepless_nights/",
+  "source": "r/singularity",
+  "title": "Erdos problem solver experienced sleepless nights over math internal OpenAI model has solved",
+  "published_at": "2026-09-21T21:44:25+00:00",
+  "collected_at": "2026-09-21T23:12:04.122271+00:00",
+  "title_ko": "OpenAI 내부 모델, 에르도스 난제 등 수학 난제 해결",
+  "summary_ko": "OpenAI의 미공개 내부 모델이 수학계의 오랜 난제들을 다수 해결하며 학계의 예상을 뛰어넘는 수학적 문제 해결 능력을 보여주었습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "GPT"
+  ]
+ },
+ {
+  "id": "fceaca45f22a0627",
+  "url": "https://news.hada.io/topic?id=34085",
+  "source": "GeekNews",
+  "title": "샤오미, MiMo-V2.6 공개 - 강화학습 과정을 공개한 멀티모달 모델",
+  "published_at": "2026-09-21T21:35:10+00:00",
+  "collected_at": "2026-09-21T23:12:06.207606+00:00",
+  "title_ko": "샤오미, 강화학습 과정 공개한 멀티모달 모델 'MiMo-V2.6' 발표",
+  "summary_ko": "샤오미가 텍스트, 이미지, 오디오 등을 종합 이해하고 코딩과 도구 사용이 가능한 멀티모달 모델군 'MiMo-V2.6' Pro와 Flash를 공개했습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "멀티모달",
+   "반도체"
+  ]
+ },
+ {
+  "id": "033bd168ef5e3c38",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmpwtl/exploring_small_llms_as_classifiers_to_rival_jev/",
+  "source": "r/LocalLLaMA",
+  "title": "Exploring small LLMs as classifiers to rival Jev (sharing what I've found)",
+  "published_at": "2026-09-21T21:23:28+00:00",
+  "collected_at": "2026-09-21T23:11:51.260135+00:00",
+  "title_ko": "소형 LLM을 활용한 의사결정 분류기 구현 탐구",
+  "summary_ko": "최근 화제가 된 Jev 모델의 기능을 소형 오픈소스 LLM(Gemma)과 파이썬을 활용해 로컬 환경에서 구현하는 실험 내용이 공유되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "코딩"
+  ]
+ },
+ {
+  "id": "c24d2fbbdd12e757",
+  "url": "https://www.reddit.com/r/singularity/comments/1wmpq49/mimo_v26_pro/",
+  "source": "r/singularity",
+  "title": "MiMo v2.6 pro",
+  "published_at": "2026-09-21T21:16:21+00:00",
+  "collected_at": "2026-09-21T23:12:04.122271+00:00",
+  "title_ko": "오픈 웨이트로 공개된 'MiMo v2.6 Pro' 모델",
+  "summary_ko": "벤치마크 성능 조작 없이 뛰어난 성능을 보여주는 오픈 웨이트 멀티모달 모델 'MiMo v2.6 Pro'에 대한 커뮤니티의 관심이 집중되고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "멀티모달"
+  ]
+ },
+ {
+  "id": "9a15798f31913d82",
+  "url": "https://www.reddit.com/r/singularity/comments/1wmpl2x/math_is_solved_sometimes_i_wonder_what_2027_will/",
+  "source": "r/singularity",
+  "title": "Math is solved? Sometimes I wonder what 2027 will look like",
+  "published_at": "2026-09-21T21:10:57+00:00",
+  "collected_at": "2026-09-21T23:12:04.122271+00:00",
+  "title_ko": "OpenAI 모델, 24일 만의 학습으로 수백 개 수학 난제 해결",
+  "summary_ko": "OpenAI가 단 24일간 학습시킨 모델이 전 세계 수학 분야의 오랜 난제 100여 개를 돌파하며 AI의 수학적 추론 능력이 정점에 달하고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "GPT"
+  ]
+ },
+ {
+  "id": "590006e4f19e0139",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmp5h2/mimo_v26flashrl_vs_openweight_models/",
+  "source": "r/LocalLLaMA",
+  "title": "Mimo v2.6-Flash-RL vs open-weight models",
+  "published_at": "2026-09-21T20:54:52+00:00",
+  "collected_at": "2026-09-21T23:11:51.260135+00:00",
+  "title_ko": "샤오미 MiMo v2.6-Flash-RL 성능 비교",
+  "summary_ko": "샤오미의 새로운 오픈웨이트 모델 MiMo v2.6-Flash-RL의 벤치마크 성능이 다른 소형 오픈소스 모델들과 비교 공개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "모델"
+  ]
+ },
+ {
+  "id": "aef5bb43598d696f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmp2di/xiaomimimomimov26distillqwen9b/",
+  "source": "r/LocalLLaMA",
+  "title": "XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B",
+  "published_at": "2026-09-21T20:51:40+00:00",
+  "collected_at": "2026-09-21T23:11:51.260135+00:00",
+  "title_ko": "샤오미 MiMo-V2.6-Distill-Qwen-9B 공개",
+  "summary_ko": "샤오미가 Qwen 기반으로 증류한 MiMo-V2.6-Distill-Qwen-9B 모델을 오픈소스로 공개했습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "모델"
+  ]
+ },
+ {
+  "id": "faee2a58f93ff2c2",
+  "url": "https://www.reddit.com/r/singularity/comments/1wmoxgz/mimo_v_26_pro_and_flash_released/",
+  "source": "r/singularity",
+  "title": "Mimo v 2.6 pro and flash released",
+  "published_at": "2026-09-21T20:46:42+00:00",
+  "collected_at": "2026-09-21T23:12:04.122271+00:00",
+  "title_ko": "샤오미 MiMo v2.6 프로 및 플래시 버전 출시",
+  "summary_ko": "샤오미가 성능을 대폭 강화한 Mimo v2.6의 프로 및 플래시 버전을 새롭게 출시했습니다.",
+  "category": "속보",
+  "tags": [
+   "모델"
+  ]
+ },
+ {
+  "id": "1142cf2ca4dd3995",
+  "url": "https://news.hada.io/topic?id=34084",
+  "source": "GeekNews",
+  "title": "Mac에서 Apple Intelligence 기능 끄기 및 접근 제한하기",
+  "published_at": "2026-09-21T20:32:31+00:00",
+  "collected_at": "2026-09-21T23:12:06.207606+00:00",
+  "title_ko": "Mac에서 Apple Intelligence 기능 해제 방법",
+  "summary_ko": "맥 시스템 설정에서 Siri AI 및 요약 등 애플 인텔리전스 기능을 끄고 클래식 시리로 전환하는 방법입니다.",
+  "category": "팁",
+  "tags": [
+   "Apple"
+  ]
+ },
+ {
+  "id": "734b81c8fefdb236",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+  "source": "The Verge",
+  "title": "California tightens rules on AI data center energy and water use",
+  "published_at": "2026-09-21T20:29:45+00:00",
+  "collected_at": "2026-09-21T23:11:23.248980+00:00",
+  "title_ko": "캘리포니아주, AI 데이터센터 에너지·수자원 규제 강화",
+  "summary_ko": "캘리포니아 주지사가 AI 데이터센터의 유틸리티 비용 전가를 막고 인프라 업그레이드 비용을 부담하도록 하는 법안에 서명했습니다.",
+  "category": "중요",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
+  "id": "60d6567d7f21d99b",
+  "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+  "source": "TechCrunch",
+  "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+  "published_at": "2026-09-21T20:15:58+00:00",
+  "collected_at": "2026-09-21T23:11:23.098829+00:00",
+  "title_ko": "OpenAI, 수학 자문 그룹 신설",
+  "summary_ko": "OpenAI의 AI 모델이 100개 이상의 미해결 수학 문제를 해결함에 따라 향후 연구 방향 조율을 위한 수학 자문 그룹이 결성되었습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI"
+  ]
+ },
+ {
+  "id": "65539846fc8ff942",
+  "url": "https://mimo.xiaomi.com/mimo-v2-6",
+  "source": "Hacker News",
+  "title": "Xiaomi MiMo v2.6",
+  "published_at": "2026-09-21T20:12:12+00:00",
+  "collected_at": "2026-09-21T23:11:40.189521+00:00",
+  "title_ko": "샤오미 MiMo v2.6 공식 공개",
+  "summary_ko": "샤오미가 개발한 최신 AI 모델 MiMo v2.6이 공식 출시되며 개발자 커뮤니티의 관심을 받고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "모델"
+  ]
+ },
+ {
+  "id": "d21ab16ff906a24e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmnw89/xiaomimimomimov26flashrl_hugging_face/",
+  "source": "r/LocalLLaMA",
+  "title": "XiaomiMiMo/MiMo-V2.6-Flash-RL · Hugging Face",
+  "published_at": "2026-09-21T20:09:12+00:00",
+  "collected_at": "2026-09-21T23:11:51.260135+00:00",
+  "title_ko": "Hugging Face에 등록된 MiMo-V2.6-Flash-RL",
+  "summary_ko": "샤오미의 강화학습 적용 모델인 MiMo-V2.6-Flash-RL이 허깅페이스에 등록되어 오픈소스 진영에서 활용할 수 있게 되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "모델"
+  ]
+ },
+ {
+  "id": "196e695124f1721a",
+  "url": "https://poloclub.github.io/transformer-explainer/",
+  "source": "Hacker News",
+  "title": "Transformers Explained Visually",
+  "published_at": "2026-09-21T19:43:49+00:00",
+  "collected_at": "2026-09-21T23:11:40.189521+00:00",
+  "title_ko": "트랜스포머 아키텍처 시각화 도구",
+  "summary_ko": "트랜스포머 모델의 작동 방식을 시각적으로 쉽게 이해할 수 있도록 돕는 교육용 웹 도구가 소개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "474dfffcc228f4fc",
+  "url": "https://news.hada.io/topic?id=34083",
+  "source": "GeekNews",
+  "title": "macOS 27에서 AI 모델 다운로드를 막고 저장 공간을 확보하는 방법",
+  "published_at": "2026-09-21T19:31:28+00:00",
+  "collected_at": "2026-09-21T23:12:06.207606+00:00",
+  "title_ko": "macOS에서 AI 모델 다운로드 차단 및 용량 확보 팁",
+  "summary_ko": "macOS에서 시리를 꺼도 AI 모델이 자동 다운로드되는 현상을 막고 저장 공간을 확보하는 우회 방법이 공유되었습니다.",
+  "category": "팁",
+  "tags": [
+   "Apple"
+  ]
+ },
+ {
+  "id": "6ea88096fb8c80d4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmmnrt/yandexaliceaifoundation80ba3bbase/",
+  "source": "r/LocalLLaMA",
+  "title": "yandex/AliceAI-Foundation-80B-A3B-Base: Russian-developed competitor to Qwen 35B and DeepSeek V4 Flash",
+  "published_at": "2026-09-21T19:24:34+00:00",
+  "collected_at": "2026-09-21T23:11:51.260135+00:00",
+  "title_ko": "얀덱스, 독자 아키텍처 AI 'AliceAI-Foundation-80B' 공개",
+  "summary_ko": "러시아 얀덱스가 독자적인 아키텍처를 기반으로 개발한 대형 언어 모델 베이스 버전을 허깅페이스에 공개했습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "모델"
+  ]
+ },
+ {
+  "id": "015dbc4f82687be4",
+  "url": "https://linear.app/now/ci-bottleneck-reworked",
+  "source": "Hacker News",
+  "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+  "published_at": "2026-09-21T19:23:33+00:00",
+  "collected_at": "2026-09-21T23:11:50.229673+00:00",
+  "title_ko": "AI 코딩 확산에 따른 CI 병목현상 해결 사례",
+  "summary_ko": "AI 코딩 도구 사용 증가로 지속적 통합(CI) 과정에 병목이 발생함에 따라 이를 해결하기 위해 시스템을 전면 개편한 사례가 공유되었습니다.",
+  "category": "참고",
+  "tags": [
+   "코딩",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "c724fdcbd9601b90",
+  "url": "https://www.reddit.com/r/singularity/comments/1wmmlic/financial_times_anthropic_at_2tn_isnt_farfetched/",
+  "source": "r/singularity",
+  "title": "Financial Times: Anthropic at $2tn isn’t far-fetched",
+  "published_at": "2026-09-21T19:22:17+00:00",
+  "collected_at": "2026-09-21T23:12:04.122271+00:00",
+  "title_ko": "파이낸셜 타임스 \"앤스로픽 기업가치 2조 달러 가능성\"",
+  "summary_ko": "앤스로픽의 급격한 성장세에 힘입어 향후 기업가치가 2조 달러에 이를 수 있다는 분석이 제기되었습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "투자"
+  ]
+ },
+ {
+  "id": "365635f4f8cea874",
+  "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+  "source": "TechCrunch",
+  "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+  "published_at": "2026-09-21T19:19:21+00:00",
+  "collected_at": "2026-09-21T23:11:23.098829+00:00",
+  "title_ko": "메타 AI 에이전트 '뮤즈', 초기 모바일 챗GPT 다운로드 기록 추월",
+  "summary_ko": "메타의 새로운 AI 에이전트 뮤즈가 미국과 캐나다에서 출시 초기 챗GPT의 모바일 데뷔 기록을 넘어선 다운로드와 활성 사용자 수를 기록했습니다.",
+  "category": "속보",
+  "tags": [
+   "Meta",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "612327c1e755573c",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmm89l/huawei_shelves_global_ai_chip_rollout_as_chinas/",
   "source": "r/LocalLLaMA",
@@ -15,6 +389,35 @@
   ]
  },
  {
+  "id": "1d6558f4da1937dd",
+  "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+  "source": "Hacker News",
+  "title": "Frontier AI on Your Own Hardware",
+  "published_at": "2026-09-21T18:53:01+00:00",
+  "collected_at": "2026-09-21T23:11:50.229673+00:00",
+  "title_ko": "개인 하드웨어에서 구동하는 프론티어 AI",
+  "summary_ko": "오픈소스 환경에서 사용자 자체 하드웨어를 활용해 고성능 프론티어 AI 모델을 구동하는 방법에 대한 논의입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "7959d484f48466c3",
+  "url": "https://www.reddit.com/r/singularity/comments/1wmlebt/openai_wants_the_us_to_lead/",
+  "source": "r/singularity",
+  "title": "OpenAI wants the US to lead",
+  "published_at": "2026-09-21T18:39:42+00:00",
+  "collected_at": "2026-09-21T23:12:04.122271+00:00",
+  "title_ko": "미국의 AI 주도권 확보를 촉구하는 오픈AI",
+  "summary_ko": "오픈AI가 미국이 글로벌 AI 기술 경쟁에서 우위를 점해야 한다는 입장을 표명했습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "규제"
+  ]
+ },
+ {
   "id": "c83d45f339bb9035",
   "url": "https://news.hada.io/topic?id=34081",
   "source": "GeekNews",
@@ -27,6 +430,21 @@
   "tags": [
    "Claude",
    "Anthropic"
+  ]
+ },
+ {
+  "id": "edc055872ce056c9",
+  "url": "https://www.reddit.com/r/singularity/comments/1wml775/openai_solved_100_open_problems_in_math/",
+  "source": "r/singularity",
+  "title": "OpenAI solved 100 open problems in math",
+  "published_at": "2026-09-21T18:32:46+00:00",
+  "collected_at": "2026-09-21T23:12:04.122271+00:00",
+  "title_ko": "오픈AI, 수학 분야 미해결 난제 100개 해결",
+  "summary_ko": "오픈AI의 모델이 수학계의 미해결 난제 100개를 성공적으로 해결하며 고난도 추론 능력을 입증했습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "GPT"
   ]
  },
  {
@@ -104,6 +522,21 @@
   ]
  },
  {
+  "id": "68715a746fba28ca",
+  "url": "https://news.hada.io/topic?id=34077",
+  "source": "GeekNews",
+  "title": "Grok 4.7 공개, 동급 모델 대비 2배 빠르고 가격은 절반",
+  "published_at": "2026-09-21T17:49:35+00:00",
+  "collected_at": "2026-09-21T23:12:06.207606+00:00",
+  "title_ko": "그록 4.7 공개: 2배 빠른 속도와 반값 비용",
+  "summary_ko": "코딩 및 지식 업무에 특화된 그록 4.7이 공개되었습니다. 이전 모델 대비 2배 빠른 속도와 강화된 강화학습 성능을 제공합니다.",
+  "category": "속보",
+  "tags": [
+   "Grok",
+   "반도체"
+  ]
+ },
+ {
   "id": "d25c76466393c2d7",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215531",
   "source": "AI타임스",
@@ -129,6 +562,20 @@
   "category": "팁",
   "tags": [
    "오픈소스"
+  ]
+ },
+ {
+  "id": "971e342da5bd6db1",
+  "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
+  "source": "Hacker News",
+  "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+  "published_at": "2026-09-21T17:30:21+00:00",
+  "collected_at": "2026-09-21T23:11:40.189521+00:00",
+  "title_ko": "맥(Mac)에서 애플 인텔리전스 기능 끄기 및 접근 제한 방법",
+  "summary_ko": "맥 사용자들을 위해 애플의 온디바이스 AI 기능인 애플 인텔리전스를 비활성화하고 제어하는 가이드입니다.",
+  "category": "팁",
+  "tags": [
+   "Apple"
   ]
  },
  {
