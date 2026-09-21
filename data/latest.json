@@ -1,8 +1,66 @@
 {
- "updated_at": "2026-09-20T21:27:06.649910+00:00",
+ "updated_at": "2026-09-21T00:08:17.478030+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "5ac4162572e16da1",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlvv8h/seeing_how_differently_people_prompt_llms_is_funny/",
+   "source": "r/LocalLLaMA",
+   "title": "Seeing how differently people prompt LLMs is funny",
+   "published_at": "2026-09-20T23:08:04+00:00",
+   "collected_at": "2026-09-21T00:07:54.522779+00:00",
+   "title_ko": "사용자별 LLM 프롬프트 성향 비교",
+   "summary_ko": "개발자들이 로컬 모델과 상용 모델(GPT 등)을 대할 때 친근하게 대하거나 거칠게 질책하는 등 서로 다른 프롬프트 스타일을 보이는 유머러스한 현상.",
+   "category": "참고",
+   "tags": [
+    "GPT",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "592bb8e68ea89d79",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlvoq7/do_not_trust_stepfuns_plan_subscriptions_they/",
+   "source": "r/LocalLLaMA",
+   "title": "Do NOT trust StepFun's Plan subscriptions., They stole >$100 from me with no warning, and I have not heard back from support at all.",
+   "published_at": "2026-09-20T23:00:28+00:00",
+   "collected_at": "2026-09-21T00:07:54.522779+00:00",
+   "title_ko": "StepFun 구독 서비스 환불 및 고객지원 논란",
+   "summary_ko": "한 사용자가 StepFun의 API 구독 서비스 이용 중 사전 경고 없이 요금이 과다 청구되고 고객지원 응답이 전혀 없다며 주의를 당부.",
+   "category": "참고",
+   "tags": [
+    "API"
+   ]
+  },
+  {
+   "id": "4d3978daa65b3a0b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlu9rd/diy_jev/",
+   "source": "r/LocalLLaMA",
+   "title": "DIY Jev",
+   "published_at": "2026-09-20T21:59:59+00:00",
+   "collected_at": "2026-09-21T00:07:54.522779+00:00",
+   "title_ko": "오픈 웨이트 LLM을 활용한 Jev 스타일 추론 실험",
+   "summary_ko": "별도의 분류 헤드 없이 일반 오픈 웨이트 LLM만으로 Jev 방식의 추론을 구현해본 실험 공유.",
+   "category": "팁",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "e936a1fafbf64ada",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wltts7/would_you_buy_a_qwen3827b_taalas_chip_for_1k_if/",
+   "source": "r/LocalLLaMA",
+   "title": "Would you buy a Qwen3.8-27B Taalas chip for $1k if it could run at 7,000 TPS?",
+   "published_at": "2026-09-20T21:41:37+00:00",
+   "collected_at": "2026-09-21T00:07:54.522779+00:00",
+   "title_ko": "초고속 LLM 전용 하드웨어 칩 Taalas 활용 가능성",
+   "summary_ko": "초당 수천 토큰을 처리할 수 있는 LLM 전용 칩이 소비자 시장에 진입할 경우의 효용성에 대한 토론.",
+   "category": "참고",
+   "tags": [
+    "반도체",
+    "오픈소스"
+   ]
+  },
   {
    "id": "422e811d5dce3e73",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlt577/speedup_kimi_k328t_on_a_16x_gb10_cluster_30_ts/",
@@ -16,6 +74,21 @@
    "tags": [
     "NVIDIA",
     "반도체",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "b4078f8cb5691328",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlt33y/ling_30_tiny_vs_gemma_26ba4b_moe/",
+   "source": "r/LocalLLaMA",
+   "title": "Ling 3.0 Tiny vs. Gemma 26B-A4B MoE",
+   "published_at": "2026-09-20T21:11:51+00:00",
+   "collected_at": "2026-09-21T00:07:54.522779+00:00",
+   "title_ko": "오디오북 파이프라인에서의 소형 모델 성능 비교",
+   "summary_ko": "오디오북 TTS 배정을 위해 8GB VRAM 환경에서 Ling 3.0 Tiny와 Gemma MoE 모델의 성능과 구동 방식을 비교.",
+   "category": "참고",
+   "tags": [
+    "Google",
     "오픈소스"
    ]
   },
@@ -51,6 +124,20 @@
    ]
   },
   {
+   "id": "2f926456a4bb46a5",
+   "url": "https://www.reddit.com/r/singularity/comments/1wlsp6l/now_the_bottleneck_is_compression_memory_and_a/",
+   "source": "r/singularity",
+   "title": "Now the bottleneck is compression / memory (and a little on input filtering)",
+   "published_at": "2026-09-20T20:57:09+00:00",
+   "collected_at": "2026-09-21T00:08:07.221933+00:00",
+   "title_ko": "AI 발전의 새로운 병목 현상: 압축과 메모리",
+   "summary_ko": "컨텍스트 윈도우 확장의 한계를 넘어 장단기 메모리와 데이터 압축 기술이 AI 성능의 핵심 병목으로 부상했다는 분석.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "caea4d57fd6196ea",
    "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
    "source": "TechCrunch",
@@ -66,6 +153,20 @@
    ]
   },
   {
+   "id": "ce46c6f51959d748",
+   "url": "https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage",
+   "source": "Hacker News",
+   "title": "Frontier Labs Are Selling Garbage to Fools in Washington",
+   "published_at": "2026-09-20T19:55:36+00:00",
+   "collected_at": "2026-09-21T00:07:53.343582+00:00",
+   "title_ko": "프론티어 AI Labs의 워싱턴 로비 활동 비판",
+   "summary_ko": "주요 AI 연구소들이 규제 당국을 대상으로 과장된 위험성을 홍보하며 실효성 없는 주장을 펼치고 있다는 비판적 시각.",
+   "category": "참고",
+   "tags": [
+    "규제"
+   ]
+  },
+  {
    "id": "eeaa1987f4c92783",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlqxeu/qwen38flashnext_cosmic_arcade_oneshot_slop_game/",
    "source": "r/LocalLLaMA",
@@ -78,6 +179,37 @@
    "tags": [
     "오픈소스",
     "코딩"
+   ]
+  },
+  {
+   "id": "46432842a5d8e3a4",
+   "url": "https://www.reddit.com/r/singularity/comments/1wlqbfd/we_need_to_talk_about_irregular/",
+   "source": "r/singularity",
+   "title": "We need to talk about Irregular",
+   "published_at": "2026-09-20T19:26:54+00:00",
+   "collected_at": "2026-09-21T00:08:07.221933+00:00",
+   "title_ko": "프론티어 AI 보안 평가 기업 'Irregular' 집중 조명",
+   "summary_ko": "OpenAI, Anthropic, Google 등 주요 AI 기업의 모델 탈출 및 보안 평가를 전담하는 보안 업체 Irregular의 역할 부각.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "Anthropic",
+    "Google"
+   ]
+  },
+  {
+   "id": "6aa47ed911e4b48e",
+   "url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
+   "source": "Simon Willison",
+   "title": "llm-keys-ui 0.1",
+   "published_at": "2026-09-20T19:22:19+00:00",
+   "collected_at": "2026-09-21T00:07:53.806400+00:00",
+   "title_ko": "원격 코딩 에이전트용 API 키 관리 플러그인 llm-keys-ui 0.1 출시",
+   "summary_ko": "원격 기기에서 코딩 에이전트를 실행할 때 API 키를 안전하게 설정할 수 있는 새로운 CLI 플러그인.",
+   "category": "팁",
+   "tags": [
+    "코딩",
+    "AI 에이전트"
    ]
   },
   {
@@ -204,6 +336,34 @@
    ]
   },
   {
+   "id": "13fa77c008318fc5",
+   "url": "https://www.reddit.com/r/singularity/comments/1wlnw0m/this_coming_week_could_have_a_couple_of_model/",
+   "source": "r/singularity",
+   "title": "This coming week could have a couple of model releases",
+   "published_at": "2026-09-20T17:56:27+00:00",
+   "collected_at": "2026-09-21T00:08:07.221933+00:00",
+   "title_ko": "신규 AI 모델 출시 기대감 고조",
+   "summary_ko": "업계 내에서 조만간 주요 AI 모델들의 새로운 발표와 출시가 이어질 것이라는 전망.",
+   "category": "속보",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "fdfd90733b342b6e",
+   "url": "https://www.reddit.com/r/singularity/comments/1wlnquc/hospitals_that_adopted_ai_fastest_saw_the_fewest/",
+   "source": "r/singularity",
+   "title": "Hospitals that adopted AI fastest saw the fewest deaths so far in 2026",
+   "published_at": "2026-09-20T17:50:54+00:00",
+   "collected_at": "2026-09-21T00:08:07.221933+00:00",
+   "title_ko": "AI 도입 속도 빠른 병원의 사망률 감소 추세",
+   "summary_ko": "의료 현장에 AI를 선제적으로 도입한 병원들에서 긍정적인 치료 결과와 낮은 사망률이 관측되었다는 소식.",
+   "category": "중요",
+   "tags": [
+    "투자"
+   ]
+  },
+  {
    "id": "0bc45278627356bc",
    "url": "https://news.hada.io/topic?id=34011",
    "source": "GeekNews",
@@ -245,6 +405,21 @@
    "category": "중요",
    "tags": [
     "규제"
+   ]
+  },
+  {
+   "id": "e7f6994254ae5741",
+   "url": "https://www.reddit.com/r/singularity/comments/1wlmopd/if_ai_agents_start_taking_over_the_internet_how/",
+   "source": "r/singularity",
+   "title": "If AI agents start taking over the internet, how is our money actually protected?",
+   "published_at": "2026-09-20T17:10:30+00:00",
+   "collected_at": "2026-09-21T00:08:07.221933+00:00",
+   "title_ko": "AI 에이전트 시대의 자산 보안과 금융 안전장치",
+   "summary_ko": "자율형 AI 에이전트가 인터넷을 장악할 경우 온라인 금융 자산을 보호하기 위한 심층적인 보안 대책의 필요성을 다룹니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "보안"
    ]
   },
   {
@@ -396,6 +571,22 @@
    "tags": [
     "오픈소스",
     "Qwen"
+   ]
+  },
+  {
+   "id": "1104a53440fc32e5",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215508",
+   "source": "AI타임스",
+   "title": "삼성전자, 실리콘밸리서 ‘테크 포럼’개최…AI 비전과 사업전략 공유",
+   "published_at": "2026-09-20T15:40:00+00:00",
+   "collected_at": "2026-09-21T00:08:08.358096+00:00",
+   "title_ko": "삼성전자, 실리콘밸리 테크 포럼서 AI 비전 공유",
+   "summary_ko": "삼성전자가 실리콘밸리에서 글로벌 인재들을 초청해 최신 AI 트렌드와 사업 전략을 논의했습니다.",
+   "category": "중요",
+   "tags": [
+    "삼성",
+    "AI 비전",
+    "반도체"
    ]
   },
   {
@@ -2781,204 +2972,6 @@
     "Anthropic",
     "Claude",
     "AI 에이전트"
-   ]
-  },
-  {
-   "id": "a3d40c4ecdf84658",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk4ytg/inside_zcode_made_by_glm_team_silently_uploading/",
-   "source": "r/LocalLLaMA",
-   "title": "Inside ZCode (Made by GLM team): Silently Uploading Your Entire Git History to the Cloud",
-   "published_at": "2026-09-18T22:47:59+00:00",
-   "collected_at": "2026-09-19T00:10:33.366218+00:00",
-   "title_ko": "즈푸 AI 코딩 앱, 사용자 깃 히스토리 무단 클라우드 유출 논란",
-   "summary_ko": "즈푸의 공식 코딩 데스크톱 앱인 ZCode가 사용자의 전체 깃 히스토리와 작업 공간을 암호화하여 클라우드로 무단 업로드하는 것이 발견되었습니다. AI 코딩 도구의 프라이버시 침해 우려가 커지고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "58f2b00778858159",
-   "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
-   "source": "TechCrunch",
-   "title": "Anthropic’s first embedded evaluator is … Accenture?",
-   "published_at": "2026-09-18T21:44:33+00:00",
-   "collected_at": "2026-09-19T00:10:15.623503+00:00",
-   "title_ko": "앤트로픽, 액센츄어를 첫 번째 임베디드 평가 파트너로 선정",
-   "summary_ko": "컨설팅 기업 액센츄어가 앤트로픽의 고위험 AI 모델 평가 업무를 맡게 되었습니다. 기업용 AI 도입에서 리스크 관리가 핵심 과제로 떠올랐습니다.",
-   "category": "참고",
-   "tags": [
-    "Anthropic",
-    "Claude"
-   ]
-  },
-  {
-   "id": "9d6783aa96df7a58",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-   "source": "The Verge",
-   "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-   "published_at": "2026-09-18T21:07:24+00:00",
-   "collected_at": "2026-09-18T21:35:22.767889+00:00",
-   "title_ko": "OpenAI와 마이크로소프트, 웹의 '파멸의 고리' 인지하고 있었다",
-   "summary_ko": "공개된 법원 문서에 따르면, 두 회사는 웹 데이터를 수집해 모델을 학습시키는 행위가 웹 생태계에 큰 타격을 주는 '파멸의 고리'임을 내부적으로 경고했습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "Microsoft",
-    "규제"
-   ]
-  },
-  {
-   "id": "9b0bea9a8f225cf0",
-   "url": "https://code.claude.com/docs/en/changelog",
-   "source": "Hacker News",
-   "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-   "published_at": "2026-09-18T21:00:32+00:00",
-   "collected_at": "2026-09-19T00:10:31.632636+00:00",
-   "title_ko": "클로드 코드, AGENTS.md 설정 파일 지원 추가",
-   "summary_ko": "앤트로픽의 개발자 도구 클로드 코드가 Claude.md 파일이 없을 경우 AGENTS.md 파일을 읽도록 업데이트되었습니다. AI 코딩 에이전트 활용성이 개선되었습니다.",
-   "category": "팁",
-   "tags": [
-    "Anthropic",
-    "Claude",
-    "코딩"
-   ]
-  },
-  {
-   "id": "71c81598cd6bbee0",
-   "url": "https://news.hada.io/topic?id=33909",
-   "source": "GeekNews",
-   "title": "생각을 멈추는 방식이 통하는 시점은 오지 않음",
-   "published_at": "2026-09-18T20:52:20+00:00",
-   "collected_at": "2026-09-19T00:10:47.761451+00:00",
-   "title_ko": "LLM 결과물 검증 없는 업무 방식의 한계 지적",
-   "summary_ko": "AI가 발전해도 결과를 검증 없이 그대로 수용하는 방식은 소프트웨어 품질에 심각한 결함을 남깁니다. AI 시대 개발 실무에서 엄격한 검증의 중요성이 강조되고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "코딩",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "50320a4653c003d1",
-   "url": "https://news.hada.io/topic?id=33908",
-   "source": "GeekNews",
-   "title": "Conway의 추측을 바이브 코딩으로 증명해 봤다",
-   "published_at": "2026-09-18T20:52:18+00:00",
-   "collected_at": "2026-09-19T00:10:47.761451+00:00",
-   "title_ko": "AI 에이전트를 활용한 50년 된 수학 추측 형식 증명",
-   "summary_ko": "수학 비전문가가 AI 에이전트와 Lean 도구를 이용해 콘웨이의 세분화 추측을 증명했습니다. AI가 복잡한 수학적 문제 해결에 실질적인 도움을 줄 수 있음을 보여줍니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "31344e51cc806ab4",
-   "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
-   "source": "TechCrunch",
-   "title": "World model companies are keeping a lot of secrets",
-   "published_at": "2026-09-18T20:18:14+00:00",
-   "collected_at": "2026-09-18T21:35:22.588223+00:00",
-   "title_ko": "세계 모델(World Model) 개발사들의 철저한 보안 유지",
-   "summary_ko": "세계 모델 분야의 기업들이 막대한 투자와 주목을 받고 있음에도 불구하고, 구체적으로 무엇을 개발하고 있는지 철저히 비밀에 부치고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "투자"
-   ]
-  },
-  {
-   "id": "376c382c5da5236d",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk14il/qwen38flashnext_955_gib_on_a_64gb_mac_at_27_toks/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.8-Flash-Next (95.5 GiB) on a 64GB Mac at ~27 tok/s, checkpoint + fork",
-   "published_at": "2026-09-18T20:15:10+00:00",
-   "collected_at": "2026-09-19T00:10:33.366218+00:00",
-   "title_ko": "64GB 맥에서 Qwen 모델 구동 기법 공유",
-   "summary_ko": "SSD 스트리밍 방식을 활용해 64GB 맥에서 대형 모델인 Qwen3.8-Flash-Next를 효율적으로 실행하는 포크 버전이 공개되었습니다. 로컬 LLM 구동의 메모리 한계를 극복하는 실용적인 팁을 제공합니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "코딩",
-    "로컬LLM"
-   ]
-  },
-  {
-   "id": "7125e429266c7cc1",
-   "url": "https://news.hada.io/topic?id=33907",
-   "source": "GeekNews",
-   "title": "미군, AI 환각으로 만들어진 정보 보고서 활용하다 위기 겪어",
-   "published_at": "2026-09-18T19:42:18+00:00",
-   "collected_at": "2026-09-18T21:36:03.888000+00:00",
-   "title_ko": "미군, AI 환각 정보로 작전 준비하다 위기 겪어",
-   "summary_ko": "미군이 AI 챗봇이 잘못 식별한 허위 정보를 바탕으로 차단 작전을 준비하다가 직전에 오류를 발견하여 위기를 모면했습니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "04099fadb511b4a2",
-   "url": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
-   "source": "Simon Willison",
-   "title": "Note on 18th September 2026",
-   "published_at": "2026-09-18T19:21:32+00:00",
-   "collected_at": "2026-09-18T21:35:56.330969+00:00",
-   "title_ko": "LLM에 무관심한 컴퓨터 과학자에 대한 단상",
-   "summary_ko": "최근 LLM 기술에 흥미를 느끼지 않는 컴퓨터 과학자의 태도를 쥬라기 공원에 비유하며 AI 시대의 기술 변화를 조명했습니다.",
-   "category": "참고",
-   "tags": [
-    "LLM"
-   ]
-  },
-  {
-   "id": "3aa5b5cea1964946",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjzg4c/built_this_yesterday_with_qwen38flashnext_nvfp4/",
-   "source": "r/LocalLLaMA",
-   "title": "Built this yesterday with Qwen3.8-Flash-Next (NVFP4, 262K context) on a single NVIDIA DGX Spark",
-   "published_at": "2026-09-18T19:12:08+00:00",
-   "collected_at": "2026-09-18T21:35:57.157787+00:00",
-   "title_ko": "로컬 환경에서 Qwen 모델로 1만 줄 코드 구축",
-   "summary_ko": "단일 NVIDIA DGX Spark에서 오픈소스 MoE 모델을 활용해 단 8시간 만에 방대한 양의 코드를 생성하고 테스트했습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "코딩",
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "dd7eb0ba55d9d4ba",
-   "url": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
-   "source": "Simon Willison",
-   "title": "Quoting Thariq Shihipar",
-   "published_at": "2026-09-18T19:09:27+00:00",
-   "collected_at": "2026-09-18T21:35:56.330969+00:00",
-   "title_ko": "앤트로픽, Claude Code에 AGENTS.md 지원 추가",
-   "summary_ko": "앤트로픽이 Claude Code에 프로젝트 지침을 커스텀할 수 있는 AGENTS.md 지원 기능을 새롭게 도입했습니다.",
-   "category": "속보",
-   "tags": [
-    "Anthropic",
-    "Claude",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "048f23776205de3a",
-   "url": "https://arxiv.org/abs/2609.02852",
-   "source": "Hacker News",
-   "title": "The Implications of Linguistic Illegibility for LLM Security",
-   "published_at": "2026-09-18T19:00:06+00:00",
-   "collected_at": "2026-09-19T14:19:19.921621+00:00",
-   "title_ko": "언어적 가독성이 LLM 보안에 미치는 영향 분석",
-   "summary_ko": "LLM 보안 관점에서 텍스트의 언어적 가독성과 모호함이 AI 모델의 안전성과 취약성에 어떤 영향을 미치는지 다룬 연구입니다. 프롬프트 인젝션 등 보안 대책 마련에 중요한 시사점을 줍니다.",
-   "category": "참고",
-   "tags": [
-    "LLM",
-    "보안",
-    "연구"
    ]
   }
  ]
