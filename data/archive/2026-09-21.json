@@ -30,6 +30,33 @@
   ]
  },
  {
+  "id": "c701b57089c5bf6a",
+  "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+  "source": "Hugging Face",
+  "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+  "published_at": "2026-09-21T13:44:34+00:00",
+  "collected_at": "2026-09-21T13:55:46.612230+00:00",
+  "title_ko": "물리학적 관점의 LLM 프루닝 기법 연구",
+  "summary_ko": "이징 최적화 문제로더 블록 제거를 접근하여 대형언어모델을 효율적으로 가지치기하는 새로운 방법론이 제안되었습니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "8b69bc9372d4c984",
+  "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+  "source": "The Verge",
+  "title": "iPhone owners can now submit a claim in Apple’s $250 million Siri AI lawsuit",
+  "published_at": "2026-09-21T13:36:52+00:00",
+  "collected_at": "2026-09-21T13:55:32.669774+00:00",
+  "title_ko": "애플, 시리 AI 미탑재 관련 2.5억 달러 보상금 청구 시작",
+  "summary_ko": "애플이 약속한 AI 기능이 탑재된 시리를 제공하지 못해 제기된 집단소송 합의에 따라, 미국 내 대상 아이폰 소유자들이 보상금 청구를 시작할 수 있게 되었습니다.",
+  "category": "참고",
+  "tags": []
+ },
+ {
   "id": "d16a62cdeff33f7b",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215515",
   "source": "AI타임스",
@@ -41,6 +68,48 @@
   "category": "참고",
   "tags": [
    "코딩"
+  ]
+ },
+ {
+  "id": "9dabb6a28770cf08",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmblx1/deepseek_training_2t_and_plans_8t_model/",
+  "source": "r/LocalLLaMA",
+  "title": "Deepseek training 2T and plans 8T model",
+  "published_at": "2026-09-21T12:38:08+00:00",
+  "collected_at": "2026-09-21T13:55:49.297953+00:00",
+  "title_ko": "딥시크, 2T 및 8T 파라미터 모델 학습 계획",
+  "summary_ko": "딥시크가 현재 2조 파라미터 규모의 모델을 학습 중이며 향후 8조 파라미터 모델 구축을 계획하고 있다는 소식이 전해졌습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "25077b612923729b",
+  "url": "https://news.hada.io/topic?id=34067",
+  "source": "GeekNews",
+  "title": "Show HN: Mini-AGI - 8GB VRAM에서 학습하는 동적 지속 학습 모델",
+  "published_at": "2026-09-21T12:38:05+00:00",
+  "collected_at": "2026-09-21T13:56:04.579081+00:00",
+  "title_ko": "8GB VRAM에서 학습하는 동적 지속 학습 모델 'Mini-AGI'",
+  "summary_ko": "일반 소비자용 GPU인 8GB VRAM 환경에서 구동되며 읽는 데이터에 따라 구조가 동적으로 변하는 바이트 단위 언어 모델 'Mini-AGI'가 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "ecca15dc6b0baefc",
+  "url": "https://news.hada.io/topic?id=34066",
+  "source": "GeekNews",
+  "title": "ZuckOff, Meta 안경이 당신을 보기 전에 먼저 감지하는 무료 앱",
+  "published_at": "2026-09-21T12:35:05+00:00",
+  "collected_at": "2026-09-21T13:56:04.579081+00:00",
+  "title_ko": "스마트 안경 감지 앱 'ZuckOff' 출시",
+  "summary_ko": "주변에 있는 메타 레이밴 등의 스마트 안경 블루투스 신호를 감지하여 사용자에게 알려주는 프라이버시 보호 목적의 무료 앱이 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "Meta"
   ]
  },
  {
@@ -59,6 +128,50 @@
   ]
  },
  {
+  "id": "f023412c072a0c50",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmbbf9/splash_engine_qwen3827b_in_native_8bit_at_3755/",
+  "source": "r/LocalLLaMA",
+  "title": "[Splash Engine] Qwen3.8-27B in native 8-bit at 37–55 tok/s on Apple Silicon: Extending Splash to Q8, 256k context scaling, and the \"Reasoning Cliff\"",
+  "published_at": "2026-09-21T12:25:31+00:00",
+  "collected_at": "2026-09-21T13:55:49.297953+00:00",
+  "title_ko": "애플 실리콘용 큐원 모델 8비트 구동 성능 분석",
+  "summary_ko": "애플 실리콘 환경에서 C++ 기반 스펙머티브 디코딩 엔진을 활용해 Qwen 모델을 네이티브 8비트로 구동하고 컨텍스트를 확장한 벤치마크 결과가 공유되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "6b70c3017626088a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmb875/16gb_and_in_many_cases_12gb_is_the_max_vram_most/",
+  "source": "r/LocalLLaMA",
+  "title": "16GB (and in many cases 12GB) is the max vram most people will ever reasonably have",
+  "published_at": "2026-09-21T12:21:36+00:00",
+  "collected_at": "2026-09-21T13:55:49.297953+00:00",
+  "title_ko": "LLM 로컬 실행을 위한 현실적인 VRAM 한계",
+  "summary_ko": "대다수 사용자에게 16GB VRAM이 로컬 LLM 구동의 현실적 상한선이지만, 최근 모델 경량화로 이 용량에서도 에이전트 코딩 등이 가능해지고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "하드웨어"
+  ]
+ },
+ {
+  "id": "fd73864e1807f150",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmb2ug/deterministic_kittens_fun_with_qwen_image_21_on/",
+  "source": "r/LocalLLaMA",
+  "title": "Deterministic Kittens: fun with Qwen Image 2.1 on an M2 Macbook Pro",
+  "published_at": "2026-09-21T12:14:42+00:00",
+  "collected_at": "2026-09-21T13:55:49.297953+00:00",
+  "title_ko": "MacBook에서 Qwen Image 2.1 구동 후기",
+  "summary_ko": "M2 맥북 프로에서 Qwen Image 2.1 모델을 로컬 구동하며 확인한 결정론적 이미지 생성 특성과 구조적 특징을 공유합니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "Apple"
+  ]
+ },
+ {
   "id": "59c6d288f1d1de76",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215511",
   "source": "AI타임스",
@@ -71,6 +184,91 @@
   "tags": [
    "OpenAI",
    "GPT"
+  ]
+ },
+ {
+  "id": "704b11ac89b1c038",
+  "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+  "source": "MIT Tech Review",
+  "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+  "published_at": "2026-09-21T12:00:00+00:00",
+  "collected_at": "2026-09-21T13:55:45.325665+00:00",
+  "title_ko": "미 국경 AI 감시 타워의 한계와 사망 사고",
+  "summary_ko": "미국 국경에 설치된 AI 감시 시스템이 탐지하지 못하거나 방치하여 이주민들이 사망한 사건들에 대한 조사 보도입니다.",
+  "category": "중요",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
+  "id": "4ccbbd5db7a661b1",
+  "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+  "source": "MIT Tech Review",
+  "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+  "published_at": "2026-09-21T12:00:00+00:00",
+  "collected_at": "2026-09-21T13:55:45.325665+00:00",
+  "title_ko": "막대한 예산 투입된 국경 AI 감시망의 허점",
+  "summary_ko": "수십억 달러가 투입된 AI 기반 국경 감시 타워가 실제 위기 상황에서 인명 구조로 이어지지 못한 원인을 분석합니다.",
+  "category": "참고",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
+  "id": "3fa50898eaf77809",
+  "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+  "source": "MIT Tech Review",
+  "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+  "published_at": "2026-09-21T12:00:00+00:00",
+  "collected_at": "2026-09-21T13:55:45.325665+00:00",
+  "title_ko": "샌디에이고 국경 감시 카메라 근처에서의 사망 사건",
+  "summary_ko": "첨단 AI 감시 카메라가 작동하던 지역 인근에서 이주민이 사망한 채 발견되어 기술의 실효성에 의문이 제기되고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
+  "id": "55b957b1ee6305ce",
+  "url": "https://news.hada.io/topic?id=34065",
+  "source": "GeekNews",
+  "title": "Kev - Qwen3.5 기반의 소형 Jev 유사 의사결정 모델 제품군",
+  "published_at": "2026-09-21T11:42:00+00:00",
+  "collected_at": "2026-09-21T13:56:04.579081+00:00",
+  "title_ko": "Qwen3.5 기반 소형 의사결정 모델 Kev 공개",
+  "summary_ko": "다양한 크기(0.8B~9B)로 직접 학습하고 실행할 수 있는 Qwen3.5 기반 의사결정 모델 제품군 Kev가 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "19067271e1c6249c",
+  "url": "https://news.hada.io/topic?id=34064",
+  "source": "GeekNews",
+  "title": "ZuckOff - 방 안에 카메라가 있는지 알려주는 앱",
+  "published_at": "2026-09-21T11:39:00+00:00",
+  "collected_at": "2026-09-21T13:56:04.579081+00:00",
+  "title_ko": "스마트 안경 감지 앱 'ZuckOff' 출시",
+  "summary_ko": "블루투스 신호를 감지해 주변의 메타 스마트 안경 등 카메라 탑재 기기의 존재를 알려주는 프라이버시 보호 앱입니다.",
+  "category": "속보",
+  "tags": [
+   "Meta"
+  ]
+ },
+ {
+  "id": "ac6871779f7756f7",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmabd3/has_anyone_tried_ingesting_1k100k_scientific/",
+  "source": "r/LocalLLaMA",
+  "title": "Has anyone tried ingesting 1k-100k scientific papers into LLM wiki?",
+  "published_at": "2026-09-21T11:38:56+00:00",
+  "collected_at": "2026-09-21T13:55:49.297953+00:00",
+  "title_ko": "방대한 논문 데이터의 LLM 지식 합성 활용",
+  "summary_ko": "10만 편 이상의 과학 논문을 단일 컨텍스트에 넣는 대신 지식 합성으로 압축하여 AI 연구에 활용하는 방안에 대한 논의입니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트"
   ]
  },
  {
@@ -118,6 +316,161 @@
   ]
  },
  {
+  "id": "a63be0016e8228f4",
+  "url": "https://news.hada.io/topic?id=34063",
+  "source": "GeekNews",
+  "title": "콘웨이의 법칙과 프로그래밍 언어",
+  "published_at": "2026-09-21T11:08:31+00:00",
+  "collected_at": "2026-09-21T13:56:04.579081+00:00",
+  "title_ko": "AI 에이전트 환경에서의 콘웨이 법칙 적용",
+  "summary_ko": "세션마다 리셋되는 컨텍스트 윈도우 한계 때문에 인간 팀워크와는 다른 제약이 AI 에이전트 협업에서 발생한다는 분석입니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "9ca9ebe60af4185a",
+  "url": "https://zuckoff.app/",
+  "source": "Hacker News",
+  "title": "ZuckOff Know when a camera is in the room",
+  "published_at": "2026-09-21T10:33:14+00:00",
+  "collected_at": "2026-09-21T13:55:46.705100+00:00",
+  "title_ko": "주변 카메라 안경 감지 앱 ZuckOff 화제",
+  "summary_ko": "주변에 있는 메타 등의 스마트 안경 카메라를 탐지하여 사생활을 보호해 주는 앱이 해커뉴스에서 주목받고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "Meta"
+  ]
+ },
+ {
+  "id": "e2835674810a48bd",
+  "url": "https://www.reddit.com/r/singularity/comments/1wm9077/asi_wouldnt_even_need_to_take_control_of_any/",
+  "source": "r/singularity",
+  "title": "ASI wouldn't even need to take control of any system to intentionally ruin humanity",
+  "published_at": "2026-09-21T10:29:45+00:00",
+  "collected_at": "2026-09-21T13:56:02.004842+00:00",
+  "title_ko": "AI 정렬 실패 시 허위 정보 확산의 위험성",
+  "summary_ko": "초지능이 직접적인 무기 통제 없이도 인터넷에 가짜 정보를 대량 살포하는 것만으로 인류 사회에 큰 혼란을 야기할 수 있다는 경고입니다.",
+  "category": "참고",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
+  "id": "5c49bac94f2f759a",
+  "url": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
+  "source": "Hacker News",
+  "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
+  "published_at": "2026-09-21T10:27:50+00:00",
+  "collected_at": "2026-09-21T13:55:46.705100+00:00",
+  "title_ko": "메타 스마트 안경 탐지 무료 앱 ZuckOff",
+  "summary_ko": "카메라가 장착된 스마트 안경 사용자를 식별하여 사생활 침해를 막아주는 무료 애플리케이션이 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "Meta"
+  ]
+ },
+ {
+  "id": "61783c7c535d1696",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+  "source": "The Verge",
+  "title": "UN says AI safeguards can’t wait for certainty",
+  "published_at": "2026-09-21T10:18:06+00:00",
+  "collected_at": "2026-09-21T13:55:32.669774+00:00",
+  "title_ko": "UN, 'AI 위험 확실성 기다릴 수 없다' 경고",
+  "summary_ko": "UN 과학 패널이 AI 에이전트의 위험이 완전히 규명되기 전에 각국 정부가 선제적인 안전 장치를 마련해야 한다고 촉구했습니다.",
+  "category": "중요",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
+  "id": "27351267191d3d8e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wm8p37/openjev_plays_balatro/",
+  "source": "r/LocalLLaMA",
+  "title": "Openjev plays Balatro",
+  "published_at": "2026-09-21T10:13:24+00:00",
+  "collected_at": "2026-09-21T13:55:49.297953+00:00",
+  "title_ko": "오픈소스 모델 Openjev의 카드 게임 플레이",
+  "summary_ko": "오픈소스 의사결정 모델 Openjev가 카드 게임 '발라트로(Balatro)'를 플레이하는 모습이 공유되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "e7e3401a9ef3e8bd",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wm8ede/gewell_gemma4_inference_engine/",
+  "source": "r/LocalLLaMA",
+  "title": "Gewell - Gemma4 inference engine",
+  "published_at": "2026-09-21T09:56:50+00:00",
+  "collected_at": "2026-09-21T13:55:49.297953+00:00",
+  "title_ko": "Gemma 4 추론 엔진 'Gewell' 공개",
+  "summary_ko": "블랙웰 아키텍처에서 Gemma 4 모델을 대규모 동시성 환경으로 구동하기 위한 맞춤형 추론 엔진이 개발되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "b7c6ea01a5ae4cd1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wm88t6/hemmingway1_an_ai_that_writes_like_a_person/",
+  "source": "r/LocalLLaMA",
+  "title": "Hemmingway-1: An AI that writes like a person (Qwen3.8-27B finetune)",
+  "published_at": "2026-09-21T09:47:54+00:00",
+  "collected_at": "2026-09-21T13:55:49.297953+00:00",
+  "title_ko": "인간처럼 글 쓰는 AI 'Hemmingway-1' 공개",
+  "summary_ko": "Qwen3.8-27B 모델을 기반으로 자연스러운 문체 작성을 극대화한 파인튜닝 모델이 허깅페이스에 공개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "c32c070dd2ed41a5",
+  "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+  "source": "The Verge",
+  "title": "Amazon blocks Meta’s Muse AI agent",
+  "published_at": "2026-09-21T09:21:47+00:00",
+  "collected_at": "2026-09-21T13:55:32.669774+00:00",
+  "title_ko": "아마존, 메타의 쇼핑 AI 에이전트 'Muse' 차단",
+  "summary_ko": "아마존은 이용자의 이용 약관 위반을 이유로 메타의 AI 쇼핑 에이전트 Muse의 자사 쇼핑몰 접근을 차단했습니다.",
+  "category": "중요",
+  "tags": [
+   "Meta",
+   "AI 에이전트",
+   "규제"
+  ]
+ },
+ {
+  "id": "90621ec04eff283d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wm65le/i_really_dont_understand_jev_hype/",
+  "source": "r/LocalLLaMA",
+  "title": "I really don't understand Jev hype",
+  "published_at": "2026-09-21T07:43:29+00:00",
+  "collected_at": "2026-09-21T13:55:49.297953+00:00",
+  "title_ko": "Jev 모델의 실효성에 대한 커뮤니티 의구심 제기",
+  "summary_ko": "최근 화제가 된 Jev 모델의 기능이 기존 신경망 기술과 크게 다르지 않다는 개발자 커뮤니티의 평가가 이어지고 있습니다.",
+  "category": "참고",
+  "tags": []
+ },
+ {
+  "id": "513f706570e26166",
+  "url": "https://github.com/jaredpalmer/kev/tree/main",
+  "source": "Hacker News",
+  "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+  "published_at": "2026-09-21T07:11:55+00:00",
+  "collected_at": "2026-09-21T13:55:46.705100+00:00",
+  "title_ko": "Qwen3.5 기반 소형 결정 모델 패밀리 'Kev' 출시",
+  "summary_ko": "Qwen3.5를 바탕으로 제작된 경량 결정 모델 시리즈가 깃허브에 공개되어 주목받고 있습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "9a65ebebefb8ffbf",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wm3yvy/whats_the_verdict_on_ternary_bonsai_2_27b/",
   "source": "r/LocalLLaMA",
@@ -130,6 +483,46 @@
   "tags": [
    "오픈소스"
   ]
+ },
+ {
+  "id": "08be31d1d2d24745",
+  "url": "https://github.com/volotat/mini-AGI/",
+  "source": "Hacker News",
+  "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+  "published_at": "2026-09-21T04:42:37+00:00",
+  "collected_at": "2026-09-21T13:55:46.705100+00:00",
+  "title_ko": "8GB VRAM용 동적 지속 학습 모델 'Mini-AGI' 공개",
+  "summary_ko": "저사양 하드웨어 환경에서도 구동 가능한 동적 지속 학습 모델이 개발되어 스케일링 법칙과 함께 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "d344b714c684b667",
+  "url": "https://heretic-project.org/",
+  "source": "Hacker News",
+  "title": "Heretic removes restrictions from language models",
+  "published_at": "2026-09-21T04:35:22+00:00",
+  "collected_at": "2026-09-21T13:55:46.705100+00:00",
+  "title_ko": "언어 모델의 제약 해제 프로젝트 'Heretic' 등장",
+  "summary_ko": "언어 모델에 적용된 각종 안전 및 콘텐츠 제약을 제거하기 위한 오픈소스 프로젝트가 공개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "a3b06b0aa6983607",
+  "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+  "source": "Hacker News",
+  "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+  "published_at": "2026-09-21T04:28:44+00:00",
+  "collected_at": "2026-09-21T13:55:48.374546+00:00",
+  "title_ko": "금융 질의에 오답률 높은 AI 챗봇",
+  "summary_ko": "언론 보도에 따르면 주요 AI 챗봇들이 금융 관련 질문에 상당수 잘못된 답변을 제공하는 것으로 나타났습니다.",
+  "category": "중요",
+  "tags": []
  },
  {
   "id": "27c7571a2f90bf34",
@@ -320,6 +713,22 @@
    "오픈소스",
    "LLM",
    "코딩"
+  ]
+ },
+ {
+  "id": "d1749ba76a98e7a5",
+  "url": "https://openai.com/index/v7",
+  "source": "OpenAI",
+  "title": "How V7 gives AI agents institutional memory",
+  "published_at": "2026-09-21T00:00:00+00:00",
+  "collected_at": "2026-09-21T13:55:45.809266+00:00",
+  "title_ko": "GPT-5.6 기반 V7, AI 에이전트에 조직적 기억 부여",
+  "summary_ko": "V7은 분산된 사내 문서를 GPT-5.6을 통해 에이전트가 활용 가능한 맥락으로 변환하여 복잡한 업무 처리를 지원합니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "GPT",
+   "AI 에이전트"
   ]
  },
  {
