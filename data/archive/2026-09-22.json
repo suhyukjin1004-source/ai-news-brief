@@ -1,5 +1,33 @@
 [
  {
+  "id": "9e41ed94e2429020",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnbuuv/dynamic_quantiser_a_way_to_make_your_own_high/",
+  "source": "r/LocalLLaMA",
+  "title": "Dynamic Quantiser - a way to make your own high quality dynamic quants",
+  "published_at": "2026-09-22T14:59:24+00:00",
+  "collected_at": "2026-09-22T18:45:44.110409+00:00",
+  "title_ko": "고품질 GGUF 양자화를 위한 동적 양자화 도구 등장",
+  "summary_ko": "데이터 없이도 코사인 편차를 최소화하여 표준 양자화보다 뛰어난 성능의 커스텀 GGUF 모델을 생성할 수 있는 도구가 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "18dcc1c8f6f41c0e",
+  "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+  "source": "Hacker News",
+  "title": "OpenAI is well positioned to fast-follow Jev",
+  "published_at": "2026-09-22T14:42:59+00:00",
+  "collected_at": "2026-09-22T18:45:27.917667+00:00",
+  "title_ko": "OpenAI의 경쟁력 분석 및 패스트 팔로워 전략",
+  "summary_ko": "OpenAI가 특정 기술 시장에서 후발주자로서 빠르게 추격할 수 있는 역량에 대한 분석입니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI"
+  ]
+ },
+ {
   "id": "072948c3ef5042b0",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnb5f5/mimo26flash_on_m5u_early_results/",
   "source": "r/LocalLLaMA",
@@ -70,6 +98,21 @@
   "category": "참고",
   "tags": [
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "083f29c7c6fa9d60",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wn9a2w/what_underrated_ai_tools_have_actually_made_you/",
+  "source": "r/LocalLLaMA",
+  "title": "What underrated AI tools have actually made you more productive in 2026?",
+  "published_at": "2026-09-22T13:18:20+00:00",
+  "collected_at": "2026-09-22T18:45:44.110409+00:00",
+  "title_ko": "2026년 생산성을 높여주는 과소평가된 AI 도구들",
+  "summary_ko": "잘 알려진 대형 모델 외에 실제 실무에서 유용하게 쓰이는 저평가된 AI 툴과 활용법을 공유하는 커뮤니티 토론입니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
   ]
  },
  {
@@ -538,6 +581,35 @@
    "오픈소스",
    "Apple",
    "MLX"
+  ]
+ },
+ {
+  "id": "b4fb82cc1313a309",
+  "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+  "source": "OpenAI",
+  "title": "Priorities and principles for effective third party assessments",
+  "published_at": "2026-09-22T00:00:00+00:00",
+  "collected_at": "2026-09-22T18:45:26.860030+00:00",
+  "title_ko": "OpenAI, 제3자 AI 안전성 평가를 위한 원칙 발표",
+  "summary_ko": "OpenAI가 최첨단 AI 모델과 안전 장치에 대한 엄격하고 독립적인 제3자 안전 평가의 우선순위와 원칙을 공개했습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "규제"
+  ]
+ },
+ {
+  "id": "2960c64a019e48fb",
+  "url": "https://huggingface.co/blog/evaleval-aisi",
+  "source": "Hugging Face",
+  "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+  "published_at": "2026-09-22T00:00:00+00:00",
+  "collected_at": "2026-09-22T18:45:27.661425+00:00",
+  "title_ko": "영국 AISI와 EvalEval의 AI 벤치마크 재현성 확보 방안",
+  "summary_ko": "영국 AI 안전연구소(AISI) 등이 AI 모델 평가 벤치마크 결과의 신뢰성과 재현성을 높이기 위해 협력하는 방식에 대한 내용입니다.",
+  "category": "참고",
+  "tags": [
+   "규제"
   ]
  },
  {
