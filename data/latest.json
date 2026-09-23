@@ -1,8 +1,23 @@
 {
- "updated_at": "2026-09-23T11:24:28.692171+00:00",
+ "updated_at": "2026-09-23T16:50:22.120040+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "7cff1964bf19497f",
+   "url": "https://openai.com/index/ringg",
+   "source": "OpenAI",
+   "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+   "published_at": "2026-09-24T12:00:00+00:00",
+   "collected_at": "2026-09-23T16:46:23.271070+00:00",
+   "title_ko": "Ringg, OpenAI 기반 AI 상담 에이전트로 고객 응대 65% 해결",
+   "summary_ko": "Ringg가 최신 GPT 모델을 활용해 비용을 90% 절감하면서 다국어 음성 및 채팅 고객 응대 자동화를 구현했습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "AI 에이전트"
+   ]
+  },
   {
    "id": "27ab224152980d92",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215596",
@@ -19,6 +34,20 @@
    ]
   },
   {
+   "id": "87a81cdfe4c2cb91",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
+   "source": "The Verge",
+   "title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
+   "published_at": "2026-09-23T16:23:05+00:00",
+   "collected_at": "2026-09-23T16:46:10.013738+00:00",
+   "title_ko": "미 의회, '초지능(ASI)' 개발 금지 및 처벌 법안 발의",
+   "summary_ko": "인류를 위협할 수 있는 초지능 AI 개발을 금지하고 위반 시 최대 징역형에 처하는 법안이 발의되었습니다.",
+   "category": "중요",
+   "tags": [
+    "규제"
+   ]
+  },
+  {
    "id": "996a6086db7f8101",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215599",
    "source": "AI타임스",
@@ -30,6 +59,34 @@
    "category": "속보",
    "tags": [
     "오픈소스"
+   ]
+  },
+  {
+   "id": "1ffd6cd6a218b142",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woa5d3/mimov26_both_pro_and_flash_is_a_benchmaxxed_scam/",
+   "source": "r/LocalLLaMA",
+   "title": "MiMo-V2.6 (both Pro and Flash) is a benchmaxxed scam",
+   "published_at": "2026-09-23T16:05:14+00:00",
+   "collected_at": "2026-09-23T16:46:40.490969+00:00",
+   "title_ko": "오픈소스 모델 MiMo-V2.6 성능 검증 및 논란",
+   "summary_ko": "고성능 오픈소스 모델로 주목받은 MiMo-V2.6의 실제 보안 작업 성능과 벤치마크 신뢰성에 대한 시니어 개발자의 평가가 공유되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "cd8117c6d35f983b",
+   "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+   "source": "DeepMind",
+   "title": "Advancing Private AI Compute with secure, server-side memory",
+   "published_at": "2026-09-23T16:00:57+00:00",
+   "collected_at": "2026-09-23T16:46:23.967652+00:00",
+   "title_ko": "Google DeepMind, 개인화 AI 위한 보안 서버 메모리 공개",
+   "summary_ko": "개인 AI 컴퓨팅의 보안과 프라이버시를 강화하기 위해 서버 사이드 메모리 기술을 도입했습니다.",
+   "category": "속보",
+   "tags": [
+    "Google"
    ]
   },
   {
@@ -63,6 +120,49 @@
    ]
   },
   {
+   "id": "8ebfe1a4963124f0",
+   "url": "https://news.hada.io/topic?id=34181",
+   "source": "GeekNews",
+   "title": "Amazon, Meta의 새 Muse AI 에이전트가 amazon.com에서 쇼핑하지 못하도록 차단",
+   "published_at": "2026-09-23T15:38:49+00:00",
+   "collected_at": "2026-09-23T16:46:54.625301+00:00",
+   "title_ko": "아마존, 메타의 AI 쇼핑 에이전트 접근 차단",
+   "summary_ko": "아마존이 자사 플랫폼에서 메타의 새로운 AI 쇼핑 에이전트 Muse의 접근을 차단하여 플랫폼 통제권을 강화하고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "Meta",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "d03c2d43009c1a14",
+   "url": "https://news.hada.io/topic?id=34180",
+   "source": "GeekNews",
+   "title": "OpenAI, ‘세상에 이로운’ 기업으로 보이기 위해 인플루언서 군단 동원",
+   "published_at": "2026-09-23T15:35:49+00:00",
+   "collected_at": "2026-09-23T16:46:54.625301+00:00",
+   "title_ko": "OpenAI, 긍정적 이미지 확산을 위한 인플루언서 마케팅 확대",
+   "summary_ko": "OpenAI가 안전성 우려 해소보다는 ChatGPT의 유용성을 강조하는 인플루언서 협찬 캠페인을 강화하고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI"
+   ]
+  },
+  {
+   "id": "914ed32ad555468d",
+   "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+   "source": "DeepMind",
+   "title": "Gemini 3.8 text-to-speech says hello",
+   "published_at": "2026-09-23T15:25:14+00:00",
+   "collected_at": "2026-09-23T16:46:23.967652+00:00",
+   "title_ko": "Google DeepMind, Gemini 3.8 텍스트 음성 변환 기능 발표",
+   "summary_ko": "Gemini 3.8의 새로운 텍스트 음성 변환(TTS) 기능이 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "Google"
+   ]
+  },
+  {
    "id": "60a3c44fc6c34f4d",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215618",
    "source": "AI타임스",
@@ -76,6 +176,47 @@
     "Anthropic",
     "GPT",
     "코딩"
+   ]
+  },
+  {
+   "id": "02b2e87836a22c8f",
+   "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+   "source": "TechCrunch",
+   "title": "YouTube Music gets more conversational with new AI features",
+   "published_at": "2026-09-23T15:19:30+00:00",
+   "collected_at": "2026-09-23T16:46:09.895538+00:00",
+   "title_ko": "유튜브 뮤직, 대화형 AI 기능 도입",
+   "summary_ko": "사용자가 일상 언어로 원하는 음악을 설명해 찾을 수 있는 AI 기반 'Ask Music' 기능이 추가되었습니다.",
+   "category": "속보",
+   "tags": []
+  },
+  {
+   "id": "5e7a0d51910a9268",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo8tr5/streaming_nemotron_3_diarization/",
+   "source": "r/LocalLLaMA",
+   "title": "Streaming Nemotron 3 Diarization",
+   "published_at": "2026-09-23T15:16:30+00:00",
+   "collected_at": "2026-09-23T16:46:40.490969+00:00",
+   "title_ko": "실시간 음성 에이전트를 위한 Nemotron 화자 분리 모델 활용",
+   "summary_ko": "로컬 음성 에이전트의 화자 구별 한계를 보완하기 위해 Nemotron 화자 분리 모델을 스트리밍 환경에 적용한 사례가 공유되었습니다.",
+   "category": "팁",
+   "tags": [
+    "NVIDIA"
+   ]
+  },
+  {
+   "id": "18c511d8742ebf23",
+   "url": "https://drivingbench.com/",
+   "source": "Hacker News",
+   "title": "GPT-6 Astra has gained the ability to drive a car",
+   "published_at": "2026-09-23T15:14:22+00:00",
+   "collected_at": "2026-09-23T16:46:25.988384+00:00",
+   "title_ko": "GPT-6 Astra, 차량 자율주행 기능 획득",
+   "summary_ko": "OpenAI의 차세대 모델로 추정되는 시스템이 차량 주행 능력을 갖추었다는 테스트 결과가 커뮤니티에서 주목받고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT"
    ]
   },
   {
@@ -110,6 +251,20 @@
    ]
   },
   {
+   "id": "b14a3579a753f075",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo81si/space_bunny_is_the_new_stealth_model_in_opencode/",
+   "source": "r/LocalLLaMA",
+   "title": "Space Bunny is the new stealth model in OpenCode. Free to try, multimodal",
+   "published_at": "2026-09-23T14:47:21+00:00",
+   "collected_at": "2026-09-23T16:46:40.490969+00:00",
+   "title_ko": "오픈코드에 도입된 신규 멀티모달 모델 'Space Bunny'",
+   "summary_ko": "개발 플랫폼 OpenCode에 익명의 기업이 출시한 멀티모달 스텔스 모델 'Space Bunny'가 추가되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
    "id": "bba7a11758308137",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215610",
    "source": "AI타임스",
@@ -122,6 +277,34 @@
    "tags": [
     "규제",
     "Anthropic"
+   ]
+  },
+  {
+   "id": "bba3a2379094813d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo7sfo/perhaps_the_highest_quality_mainline_quants_of/",
+   "source": "r/LocalLLaMA",
+   "title": "Perhaps the highest quality mainline quants of Qwen3.8 27B?",
+   "published_at": "2026-09-23T14:37:26+00:00",
+   "collected_at": "2026-09-23T16:46:40.490969+00:00",
+   "title_ko": "Qwen3.8 27B 모델 고품질 양자화 버전 공개",
+   "summary_ko": "하드웨어 최적화를 거친 Qwen3.8 27B 모델의 새로운 GGUF 양자화 버전이 허깅페이스에 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "d5ef81526827e8ca",
+   "url": "https://news.hada.io/topic?id=34179",
+   "source": "GeekNews",
+   "title": "Claude Code는 텔레메트리가 켜져 있을 때만 AGENTS.md를 읽음",
+   "published_at": "2026-09-23T14:33:28+00:00",
+   "collected_at": "2026-09-23T16:46:54.625301+00:00",
+   "title_ko": "Claude Code, 텔레메트리 활성화 시에만 AGENTS.md 파일 인식",
+   "summary_ko": "Claude Code 최신 버전에서 원격 텔레메트리를 끌 경우 로컬 설정 파일인 AGENTS.md가 무시되는 이슈가 발견되었습니다.",
+   "category": "중요",
+   "tags": [
+    "Claude"
    ]
   },
   {
@@ -2781,196 +2964,6 @@
    "tags": [
     "AI 에이전트",
     "멀티모달"
-   ]
-  },
-  {
-   "id": "8b6d2a49e580cf13",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215520",
-   "source": "AI타임스",
-   "title": "LLM 내부에서 '고통 축' 발견...\"회피 행동까지 수행\"",
-   "published_at": "2026-09-21T18:07:02+00:00",
-   "collected_at": "2026-09-21T13:56:03.018182+00:00",
-   "title_ko": "LLM 내부에서 고통 관련 벡터 발견",
-   "summary_ko": "연구 결과 대형언어모델 내부에서 인간의 고통과 유사한 개념을 처리하는 '고통 방향' 벡터가 존재하며, 이를 조작해 모델의 회피 행동을 유도할 수 있는 것으로 나타났습니다.",
-   "category": "참고",
-   "tags": [
-    "LLM",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "b20e7eff0b02d705",
-   "url": "https://news.hada.io/topic?id=34079",
-   "source": "GeekNews",
-   "title": "M5 Ultra Mac Studio 리뷰",
-   "published_at": "2026-09-21T17:55:36+00:00",
-   "collected_at": "2026-09-21T19:18:20.595119+00:00",
-   "title_ko": "M5 울트라 맥 스튜디오 로컬 AI 성능",
-   "summary_ko": "256GB RAM을 탑재한 M5 울트라 맥 스튜디오가 로컬 LLM 기반 개인 비서와 에이전트 구동에 뛰어난 성능을 발휘함.",
-   "category": "참고",
-   "tags": [
-    "반도체",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "11f6953e11efa22d",
-   "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-   "source": "TechCrunch",
-   "title": "Meta’s AI agent has been blocked from using Amazon.com",
-   "published_at": "2026-09-21T17:55:18+00:00",
-   "collected_at": "2026-09-21T19:17:37.546599+00:00",
-   "title_ko": "아마존, 메타의 AI 쇼핑 에이전트 차단",
-   "summary_ko": "아마존이 자사 쇼핑몰에서 메타의 새로운 AI 에이전트 '뮤즈'의 접근과 쇼핑 활동을 차단함.",
-   "category": "속보",
-   "tags": [
-    "Meta",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "51c4fe868554529c",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215537",
-   "source": "AI타임스",
-   "title": "앤돈랩스, AI가 기업 전반 자율 운영하는 플랫폼 '파이온' 공개",
-   "published_at": "2026-09-21T17:51:38+00:00",
-   "collected_at": "2026-09-21T13:56:03.018182+00:00",
-   "title_ko": "앤돈랩스, 기업 자율 운영 AI 플랫폼 '파이온' 공개",
-   "summary_ko": "앤돈랩스가 이메일, 금융 계좌 등을 활용해 기업 업무 전반을 스스로 수행하는 자율 경영 플랫폼 '파이온'을 공개했습니다. AI 에이전트의 기업 실무 적용 가능성을 넓히고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "68715a746fba28ca",
-   "url": "https://news.hada.io/topic?id=34077",
-   "source": "GeekNews",
-   "title": "Grok 4.7 공개, 동급 모델 대비 2배 빠르고 가격은 절반",
-   "published_at": "2026-09-21T17:49:35+00:00",
-   "collected_at": "2026-09-21T23:12:06.207606+00:00",
-   "title_ko": "그록 4.7 공개: 2배 빠른 속도와 반값 비용",
-   "summary_ko": "코딩 및 지식 업무에 특화된 그록 4.7이 공개되었습니다. 이전 모델 대비 2배 빠른 속도와 강화된 강화학습 성능을 제공합니다.",
-   "category": "속보",
-   "tags": [
-    "Grok",
-    "반도체"
-   ]
-  },
-  {
-   "id": "d25c76466393c2d7",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215531",
-   "source": "AI타임스",
-   "title": "오픈아트, AI 이미지·비디오 모델 평가 '아레나' 출시...\"용도별 최적 모델 찾아준다\"",
-   "published_at": "2026-09-21T17:41:48+00:00",
-   "collected_at": "2026-09-21T13:56:03.018182+00:00",
-   "title_ko": "오픈아트, AI 이미지·비디오 모델 아레나 출시",
-   "summary_ko": "스타트업 오픈아트가 용도별 이미지 및 비디오 생성 모델을 비교할 수 있는 공개 벤치마크 '오픈아트 아레나'를 출시했습니다. 사용 목적에 맞는 최적의 모델 선택을 돕습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "3ceaa170f019a163",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmjpag/can_a_relatively_small_language_model_qwen_38_27b/",
-   "source": "r/LocalLLaMA",
-   "title": "Can a relatively small language model (Qwen 3.8 27B) understand visual style and not just describe it?I asked it to recreate 618 visual language of designers, artists, movements etc and then transfer those ideas into entirely new SVG artworks and pages. Here what we have:",
-   "published_at": "2026-09-21T17:39:06+00:00",
-   "collected_at": "2026-09-21T19:18:06.108870+00:00",
-   "title_ko": "소형 LLM의 시각적 스타일 이해와 SVG 구현",
-   "summary_ko": "비교적 작은 27B 모델인 Qwen 3.8이 예술가와 디자이너의 시각적 스타일을 이해하고 새로운 SVG 아트워크로 변환하는 능력을 실험함.",
-   "category": "팁",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "971e342da5bd6db1",
-   "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
-   "source": "Hacker News",
-   "title": "Turn off and restrict access to Apple Intelligence features on Mac",
-   "published_at": "2026-09-21T17:30:21+00:00",
-   "collected_at": "2026-09-21T23:11:40.189521+00:00",
-   "title_ko": "맥(Mac)에서 애플 인텔리전스 기능 끄기 및 접근 제한 방법",
-   "summary_ko": "맥 사용자들을 위해 애플의 온디바이스 AI 기능인 애플 인텔리전스를 비활성화하고 제어하는 가이드입니다.",
-   "category": "팁",
-   "tags": [
-    "Apple"
-   ]
-  },
-  {
-   "id": "f31e6b4241078c63",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215519",
-   "source": "AI타임스",
-   "title": "스텝펀, 차세대 MoE 모델 '스텝 5 프리뷰' 공개...에이전트·금융 특화",
-   "published_at": "2026-09-21T17:26:00+00:00",
-   "collected_at": "2026-09-21T13:56:03.018182+00:00",
-   "title_ko": "스텝펀, 차세대 MoE 모델 '스텝 5 프리뷰' 공개",
-   "summary_ko": "중국 스텝펀이 에이전트와 금융 분석에 특화된 6000억 파라미터 규모의 MoE 모델 '스텝 5 프리뷰'를 공개했습니다. 100만 토큰의 컨텍스트를 지원합니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "a4e22dc29f1c7c6b",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215536",
-   "source": "AI타임스",
-   "title": "MS, 기업 AI 전환 지침서 '프런티어 플레이북' 공개...\"핵심은 조직 재설계\"",
-   "published_at": "2026-09-21T17:08:26+00:00",
-   "collected_at": "2026-09-21T13:56:03.018182+00:00",
-   "title_ko": "마이크로소프트, AI 전환 실무 지침서 공개",
-   "summary_ko": "마이크로소프트가 기업의 성공적인 AI 도입을 위해 기술 선택보다 조직 재설계와 업무 프로세스 혁신이 중요하다고 강조하는 지침서 개정판을 발표했습니다.",
-   "category": "참고",
-   "tags": [
-    "투자"
-   ]
-  },
-  {
-   "id": "1737e5af7ddaed27",
-   "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
-   "source": "Hacker News",
-   "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
-   "published_at": "2026-09-21T17:00:23+00:00",
-   "collected_at": "2026-09-21T19:18:05.034910+00:00",
-   "title_ko": "아마존, 메타의 AI 에이전트 '뮤즈' 차단",
-   "summary_ko": "아마존이 쇼핑몰 내에서 메타의 AI 에이전트 뮤즈의 자동 쇼핑 활동을 공식적으로 차단함.",
-   "category": "속보",
-   "tags": [
-    "Meta",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "079e45b46b828bf0",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215542",
-   "source": "AI타임스",
-   "title": "[게시판] SK하이닉스, AI 실전 역량 겨루는 해커톤 개최 등 단신",
-   "published_at": "2026-09-21T17:00:00+00:00",
-   "collected_at": "2026-09-21T13:56:03.018182+00:00",
-   "title_ko": "SK하이닉스 AI 해커톤 개최 및 리벨리온 협력 확대",
-   "summary_ko": "SK하이닉스가 학력 제한 없는 AI 해커톤을 개최하며, 리벨리온의 NPU가 SK텔레콤의 상용 AI 서비스에 본격 적용되는 등 국내 AI 생태계가 확장되고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "반도체"
-   ]
-  },
-  {
-   "id": "e43705de689f2da8",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215539",
-   "source": "AI타임스",
-   "title": "대화창 하나로 음성·영상까지 제작…일레븐랩스, MCP로 창작 도구 통합",
-   "published_at": "2026-09-21T16:57:47+00:00",
-   "collected_at": "2026-09-21T13:56:03.018182+00:00",
-   "title_ko": "일레븐랩스, MCP로 멀티미디어 제작 도구 통합",
-   "summary_ko": "일레븐랩스가 자체 콘텐츠 생성 도구를 MCP 서버에 통합하여 챗GPT나 클로드 같은 대화형 AI 비서 창에서 음성과 영상까지 직접 제작할 수 있게 되었습니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "GPT",
-    "Claude"
    ]
   }
  ]
