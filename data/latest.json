@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-22T22:00:10.923822+00:00",
+ "updated_at": "2026-09-23T00:19:53.473429+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -36,6 +36,52 @@
    ]
   },
   {
+   "id": "122c91126b73b649",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+   "source": "The Verge",
+   "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+   "published_at": "2026-09-23T00:17:17+00:00",
+   "collected_at": "2026-09-23T00:19:04.806521+00:00",
+   "title_ko": "OpenAI, 수학계와 자문단 구성",
+   "summary_ko": "OpenAI가 수학 연구 결과 발표 과정의 시행착오를 줄이기 위해 수학자들로 구성된 독립 자문단을 출범했습니다. AI와 수학계 간의 책임 있는 소통을 강화하기 위한 조치입니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "규제"
+   ]
+  },
+  {
+   "id": "4a34b417a0792355",
+   "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+   "source": "Simon Willison",
+   "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+   "published_at": "2026-09-22T23:46:41+00:00",
+   "collected_at": "2026-09-23T00:19:30.744134+00:00",
+   "title_ko": "앤스로픽 Claude Opus 5.5 및 OpenAI GPT-6 출시",
+   "summary_ko": "앤스로픽이 Claude Opus 5.5를 출시한 데 이어 OpenAI가 GPT-6 Sol과 Luna를 공개하며 대규모 가격 인하 경쟁이 시작되었습니다.",
+   "category": "속보",
+   "tags": [
+    "Anthropic",
+    "OpenAI",
+    "Claude"
+   ]
+  },
+  {
+   "id": "b1894102f79b946c",
+   "url": "https://news.hada.io/topic?id=34144",
+   "source": "GeekNews",
+   "title": "수학과 인공지능 자문그룹",
+   "published_at": "2026-09-22T23:33:03+00:00",
+   "collected_at": "2026-09-23T00:19:46.393040+00:00",
+   "title_ko": "프린스턴 거점 AI-수학 자문그룹 출범",
+   "summary_ko": "AI 기업의 수학 연구 결과 공개와 소통을 자문하는 독립 그룹이 프린스턴 고등연구소를 거점으로 출범했습니다. AI 모델의 수학적 성과 조율을 담당할 예정입니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "규제"
+   ]
+  },
+  {
    "id": "e20ec45cd8a08a6c",
    "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
    "source": "TechCrunch",
@@ -66,6 +112,36 @@
    ]
   },
   {
+   "id": "784c43a264526c6d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnmu2l/m5_ultra_ai_test_results/",
+   "source": "r/LocalLLaMA",
+   "title": "M5 ultra AI test results",
+   "published_at": "2026-09-22T21:37:18+00:00",
+   "collected_at": "2026-09-23T00:19:31.342435+00:00",
+   "title_ko": "M5 Ultra 기반 AI 성능 테스트 결과",
+   "summary_ko": "M5 Ultra 칩은 M3 Ultra 대비 프롬프트 처리가 최대 4배 이상 빨라졌으나, 전력 소비와 발열이 크게 증가한 것으로 나타났습니다.",
+   "category": "참고",
+   "tags": [
+    "반도체",
+    "NVIDIA"
+   ]
+  },
+  {
+   "id": "805eb21fac24e744",
+   "url": "https://news.hada.io/topic?id=34142",
+   "source": "GeekNews",
+   "title": "Claude Opus 5.5, 추론 설정별 성능과 비용 비교",
+   "published_at": "2026-09-22T21:35:00+00:00",
+   "collected_at": "2026-09-23T00:19:46.393040+00:00",
+   "title_ko": "Claude Opus 5.5 추론 설정별 성능 분석",
+   "summary_ko": "Claude Opus 5.5는 추론 강도 설정에 따라 성능이 최대 58점까지 향상되지만, 과제당 비용도 함께 증가하는 것으로 확인되었습니다.",
+   "category": "참고",
+   "tags": [
+    "Anthropic",
+    "Claude"
+   ]
+  },
+  {
    "id": "b6b1e4118cdbb529",
    "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
    "source": "OpenAI",
@@ -78,6 +154,20 @@
    "tags": [
     "OpenAI",
     "GPT"
+   ]
+  },
+  {
+   "id": "2680b543c4bc1194",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+   "source": "The Verge",
+   "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+   "published_at": "2026-09-22T20:52:40+00:00",
+   "collected_at": "2026-09-23T00:19:04.806521+00:00",
+   "title_ko": "래빗, 하드웨어 없는 독립형 AI 에이전트 OS 공개",
+   "summary_ko": "전용 기기 R1으로 알려진 래빗이 하드웨어 없이 윈도우, 맥, 리눅스에서 구동되는 클라우드 기반 AI 에이전트 운영체제 'OS3'를 선보였습니다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트"
    ]
   },
   {
@@ -211,6 +301,21 @@
    ]
   },
   {
+   "id": "1b1371e9ec402847",
+   "url": "https://simonwillison.net/2026/Sep/22/llm/",
+   "source": "Simon Willison",
+   "title": "llm 0.36",
+   "published_at": "2026-09-22T18:48:37+00:00",
+   "collected_at": "2026-09-23T00:19:30.744134+00:00",
+   "title_ko": "LLM CLI 도구 v0.36 업데이트 출시",
+   "summary_ko": "LLM 도구의 0.36 버전이 출시되어 새로운 OpenAI GPT-6 모델 지원 및 단일 턴 프롬프트 모델 처리 기능이 추가되었습니다.",
+   "category": "팁",
+   "tags": [
+    "OpenAI",
+    "GPT"
+   ]
+  },
+  {
    "id": "8c5b5fdabf3c42b9",
    "url": "https://news.hada.io/topic?id=34139",
    "source": "GeekNews",
@@ -283,6 +388,21 @@
     "오픈소스",
     "LLM",
     "인공지능"
+   ]
+  },
+  {
+   "id": "69fbdce8aa599086",
+   "url": "https://unreallabs.ai/blog/unreal-agent/",
+   "source": "Hacker News",
+   "title": "Unreal Agent",
+   "published_at": "2026-09-22T18:15:53+00:00",
+   "collected_at": "2026-09-23T00:19:18.364176+00:00",
+   "title_ko": "Unreal Agent 오픈소스 공개",
+   "summary_ko": "깃허브를 통해 새로운 AI 에이전트 프로젝트인 Unreal Agent가 개발자들에게 공개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
    ]
   },
   {
@@ -408,6 +528,21 @@
    ]
   },
   {
+   "id": "e776faaec9ae68a5",
+   "url": "https://news.hada.io/topic?id=34135",
+   "source": "GeekNews",
+   "title": "Claude Opus 5.5 출시",
+   "published_at": "2026-09-22T17:43:06+00:00",
+   "collected_at": "2026-09-23T00:19:46.393040+00:00",
+   "title_ko": "앤스로픽 Claude Opus 5.5 출시",
+   "summary_ko": "전문 업무 능력이 향상된 Claude 5.5 제품군의 첫 모델이 출시되었으며, 비용은 낮아지고 출력 속도는 빨라졌습니다.",
+   "category": "속보",
+   "tags": [
+    "Anthropic",
+    "Claude"
+   ]
+  },
+  {
    "id": "44ea0ed4cdb2ba11",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wng98w/performance_tune_for_gemma426ba4b_flash_attention/",
    "source": "r/LocalLLaMA",
@@ -465,6 +600,21 @@
    "category": "참고",
    "tags": [
     "규제"
+   ]
+  },
+  {
+   "id": "81ac4d38e589187b",
+   "url": "https://simonwillison.net/2026/Sep/22/llm-anthropic/",
+   "source": "Simon Willison",
+   "title": "llm-anthropic 0.29",
+   "published_at": "2026-09-22T17:14:55+00:00",
+   "collected_at": "2026-09-23T00:19:30.744134+00:00",
+   "title_ko": "llm-anthropic 0.29 업데이트 배포",
+   "summary_ko": "llm-anthropic 라이브러리가 0.29 버전으로 업데이트되어 새로 출시된 Claude Opus 5.5 모델을 명령줄에서 바로 사용할 수 있게 되었습니다.",
+   "category": "팁",
+   "tags": [
+    "Anthropic",
+    "Claude"
    ]
   },
   {
@@ -1051,6 +1201,22 @@
    "tags": [
     "코딩",
     "AI 모델"
+   ]
+  },
+  {
+   "id": "ce45d8dc0f6c9cea",
+   "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+   "source": "OpenAI",
+   "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+   "published_at": "2026-09-22T12:00:00+00:00",
+   "collected_at": "2026-09-23T00:19:17.565394+00:00",
+   "title_ko": "OpenAI GPT-6 Astra, 연구 시간 및 비용 절반으로 단축",
+   "summary_ko": "Parallel이 GPT-6 Astra를 활용해 노동 시장 데이터 연구 및 종합에 소요되는 시간과 비용을 기존 모델 대비 절반으로 줄였습니다. 최신 AI 모델의 실무 효율성 향상을 보여줍니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT",
+    "AI 에이전트"
    ]
   },
   {
@@ -2788,163 +2954,6 @@
    "category": "속보",
    "tags": [
     "Meta"
-   ]
-  },
-  {
-   "id": "ac6871779f7756f7",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmabd3/has_anyone_tried_ingesting_1k100k_scientific/",
-   "source": "r/LocalLLaMA",
-   "title": "Has anyone tried ingesting 1k-100k scientific papers into LLM wiki?",
-   "published_at": "2026-09-21T11:38:56+00:00",
-   "collected_at": "2026-09-21T13:55:49.297953+00:00",
-   "title_ko": "방대한 논문 데이터의 LLM 지식 합성 활용",
-   "summary_ko": "10만 편 이상의 과학 논문을 단일 컨텍스트에 넣는 대신 지식 합성으로 압축하여 AI 연구에 활용하는 방안에 대한 논의입니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "4bb887e8f14d2492",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215514",
-   "source": "AI타임스",
-   "title": "플레이태그, 영상 속 맥락 읽는 '모노' 출시...\"700만 시간 행동 데이터 학습\"",
-   "published_at": "2026-09-21T11:32:16+00:00",
-   "collected_at": "2026-09-21T06:10:04.982807+00:00",
-   "title_ko": "플레이태그, 영상 맥락 분석 대화형 AI '모노' 출시",
-   "summary_ko": "플레이태그가 700만 시간의 행동 데이터를 학습해 별도 설정 없이 영상 속 인물의 행동 맥락을 정밀 분석하는 AI 솔루션을 출시했다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "7127dc75f42aada6",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215512",
-   "source": "AI타임스",
-   "title": "오케스트로, 퓨리오사AI NPU로 추론 안정성 확인…\"사업 모델 본격 발굴\"",
-   "published_at": "2026-09-21T11:30:53+00:00",
-   "collected_at": "2026-09-21T06:10:04.982807+00:00",
-   "title_ko": "오케스트로, 퓨리오사AI NPU 기반 인프라 상용화 협력",
-   "summary_ko": "오케스트로가 퓨리오사AI의 2세대 NPU '레니게이드'를 자사 AI 인프라에 연동해 추론 안정성을 검증하고 사업 확대에 나선다.",
-   "category": "중요",
-   "tags": [
-    "반도체",
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "cbe6eeed901d6199",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215517",
-   "source": "AI타임스",
-   "title": "AI스페라 강병탁 대표, 지방정부 AI 확산 속 ‘바이브 코딩 보안’ 강조",
-   "published_at": "2026-09-21T11:23:18+00:00",
-   "collected_at": "2026-09-21T06:10:04.982807+00:00",
-   "title_ko": "AI스페라, 지방정부 AI 도입에 따른 '바이브 코딩 보안' 강조",
-   "summary_ko": "지방정부의 생성 AI 및 바이브 코딩 활용이 늘어남에 따라 개발 속도뿐만 아니라 초기 단계부터 철저한 보안 점검이 필요하다는 제언이 나왔다.",
-   "category": "참고",
-   "tags": [
-    "코딩",
-    "규제"
-   ]
-  },
-  {
-   "id": "a63be0016e8228f4",
-   "url": "https://news.hada.io/topic?id=34063",
-   "source": "GeekNews",
-   "title": "콘웨이의 법칙과 프로그래밍 언어",
-   "published_at": "2026-09-21T11:08:31+00:00",
-   "collected_at": "2026-09-21T13:56:04.579081+00:00",
-   "title_ko": "AI 에이전트 환경에서의 콘웨이 법칙 적용",
-   "summary_ko": "세션마다 리셋되는 컨텍스트 윈도우 한계 때문에 인간 팀워크와는 다른 제약이 AI 에이전트 협업에서 발생한다는 분석입니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "9ca9ebe60af4185a",
-   "url": "https://zuckoff.app/",
-   "source": "Hacker News",
-   "title": "ZuckOff Know when a camera is in the room",
-   "published_at": "2026-09-21T10:33:14+00:00",
-   "collected_at": "2026-09-21T13:55:46.705100+00:00",
-   "title_ko": "주변 카메라 안경 감지 앱 ZuckOff 화제",
-   "summary_ko": "주변에 있는 메타 등의 스마트 안경 카메라를 탐지하여 사생활을 보호해 주는 앱이 해커뉴스에서 주목받고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "Meta"
-   ]
-  },
-  {
-   "id": "e2835674810a48bd",
-   "url": "https://www.reddit.com/r/singularity/comments/1wm9077/asi_wouldnt_even_need_to_take_control_of_any/",
-   "source": "r/singularity",
-   "title": "ASI wouldn't even need to take control of any system to intentionally ruin humanity",
-   "published_at": "2026-09-21T10:29:45+00:00",
-   "collected_at": "2026-09-21T13:56:02.004842+00:00",
-   "title_ko": "AI 정렬 실패 시 허위 정보 확산의 위험성",
-   "summary_ko": "초지능이 직접적인 무기 통제 없이도 인터넷에 가짜 정보를 대량 살포하는 것만으로 인류 사회에 큰 혼란을 야기할 수 있다는 경고입니다.",
-   "category": "참고",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "5c49bac94f2f759a",
-   "url": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
-   "source": "Hacker News",
-   "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
-   "published_at": "2026-09-21T10:27:50+00:00",
-   "collected_at": "2026-09-21T13:55:46.705100+00:00",
-   "title_ko": "메타 스마트 안경 탐지 무료 앱 ZuckOff",
-   "summary_ko": "카메라가 장착된 스마트 안경 사용자를 식별하여 사생활 침해를 막아주는 무료 애플리케이션이 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "Meta"
-   ]
-  },
-  {
-   "id": "61783c7c535d1696",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
-   "source": "The Verge",
-   "title": "UN says AI safeguards can’t wait for certainty",
-   "published_at": "2026-09-21T10:18:06+00:00",
-   "collected_at": "2026-09-21T13:55:32.669774+00:00",
-   "title_ko": "UN, 'AI 위험 확실성 기다릴 수 없다' 경고",
-   "summary_ko": "UN 과학 패널이 AI 에이전트의 위험이 완전히 규명되기 전에 각국 정부가 선제적인 안전 장치를 마련해야 한다고 촉구했습니다.",
-   "category": "중요",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "27351267191d3d8e",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wm8p37/openjev_plays_balatro/",
-   "source": "r/LocalLLaMA",
-   "title": "Openjev plays Balatro",
-   "published_at": "2026-09-21T10:13:24+00:00",
-   "collected_at": "2026-09-21T13:55:49.297953+00:00",
-   "title_ko": "오픈소스 모델 Openjev의 카드 게임 플레이",
-   "summary_ko": "오픈소스 의사결정 모델 Openjev가 카드 게임 '발라트로(Balatro)'를 플레이하는 모습이 공유되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "2c9792fbb14ae5db",
-   "url": "https://openai.com/index/building-standards-next-phase-ai",
-   "source": "OpenAI",
-   "title": "Building standards for the next phase of AI",
-   "published_at": "2026-09-21T10:00:00+00:00",
-   "collected_at": "2026-09-21T19:17:51.279318+00:00",
-   "title_ko": "AI 차세대 표준 구축 방향 발표",
-   "summary_ko": "OpenAI가 안전성 향상을 위한 글로벌 AI 표준, 평가 및 거버넌스 공조 방안을 제시했습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "규제"
    ]
   }
  ]
