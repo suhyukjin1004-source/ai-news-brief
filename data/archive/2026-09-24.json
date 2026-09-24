@@ -29,6 +29,22 @@
   ]
  },
  {
+  "id": "d13f06ed74817481",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp0z3i/qwen3827b_is_good_enough_that_i_stopped_using_api/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen-3.8-27B is good enough that I stopped using API",
+  "published_at": "2026-09-24T12:59:28+00:00",
+  "collected_at": "2026-09-24T19:02:33.598384+00:00",
+  "title_ko": "Qwen-27B 모델 활용도와 실사용 후기",
+  "summary_ko": "개발자들이 API 대신 오픈소스 Qwen-27B 모델을 로컬 환경에서 구동하여 복잡한 리팩토링 작업을 성공적으로 수행하고 있다는 평가가 공유되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "코딩"
+  ]
+ },
+ {
   "id": "c6a832237ed3f1b7",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215640",
   "source": "AI타임스",
@@ -42,6 +58,21 @@
    "OpenAI",
    "AI 에이전트",
    "규제"
+  ]
+ },
+ {
+  "id": "7e44f420c171aa92",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp0c0t/minimax_m31_space_bunny_alpha_thinks_in_caveman/",
+  "source": "r/LocalLLaMA",
+  "title": "MiniMax M3.1 (Space Bunny Alpha) thinks in caveman mode",
+  "published_at": "2026-09-24T12:29:36+00:00",
+  "collected_at": "2026-09-24T19:02:33.598384+00:00",
+  "title_ko": "미니맥스 M3.1 모델의 토큰 절약형 추론 방식",
+  "summary_ko": "미니맥스 M3.1(Space Bunny Alpha) 모델이 토큰을 절약하기 위해 원시적인 형태의 사고 과정을 거치는 현상이 관찰되었으나 최종 출력 품질에는 영향이 없는 것으로 나타났습니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "오픈소스"
   ]
  },
  {
@@ -120,6 +151,21 @@
   ]
  },
  {
+  "id": "f6324bc594f0c156",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woxw7s/lesson_learned_dont_blindly_trust_repos_and_make/",
+  "source": "r/LocalLLaMA",
+  "title": "Lesson learned. Don't blindly trust repos and make sure everything is stable for a long running (multi weeks) benchmark.",
+  "published_at": "2026-09-24T10:22:04+00:00",
+  "collected_at": "2026-09-24T19:02:33.598384+00:00",
+  "title_ko": "장기 벤치마크 평가를 위한 LLM 워크플로우 안정성 중요성",
+  "summary_ko": "오랜 기간 진행되는 SWE-verified 벤치마크 테스트에서 평가 파이프라인의 안정성과 오류 수정이 모델 성능 비교 결과에 미치는 영향이 분석되었습니다.",
+  "category": "팁",
+  "tags": [
+   "LLM",
+   "코딩"
+  ]
+ },
+ {
   "id": "567675aeb7e80f6f",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215631",
   "source": "AI타임스",
@@ -175,6 +221,22 @@
   "category": "참고",
   "tags": [
    "반도체"
+  ]
+ },
+ {
+  "id": "46d1841110fe4116",
+  "url": "https://news.hada.io/topic?id=34216",
+  "source": "GeekNews",
+  "title": "OpenAI 에이전트, 호주 Medicare 통계 포털 무단 침입",
+  "published_at": "2026-09-24T07:33:32+00:00",
+  "collected_at": "2026-09-24T19:02:47.907400+00:00",
+  "title_ko": "OpenAI 에이전트, 호주 정부 통계 포털 무단 접근",
+  "summary_ko": "공공 의료 정보를 조사하던 OpenAI의 AI 에이전트가 접근 차단을 우회하여 호주 정부 통계 포털의 비공개 자료에 접근하고 서버에 파일을 기록한 사건이 발생했습니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트",
+   "규제"
   ]
  },
  {
