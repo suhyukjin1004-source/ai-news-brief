@@ -1,8 +1,52 @@
 {
- "updated_at": "2026-09-24T04:35:11.656821+00:00",
+ "updated_at": "2026-09-24T09:54:31.447639+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "e04084fef4a95b49",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215643",
+   "source": "AI타임스",
+   "title": "블랙 포레스트, 경쟁 모델 절반 크기로 세계 최고 성능 낸 '로봇 AI' 공개",
+   "published_at": "2026-09-24T17:46:25+00:00",
+   "collected_at": "2026-09-24T09:53:49.465704+00:00",
+   "title_ko": "블랙 포레스트 랩스, 로봇 AI '플럭스 3 액션' 공개",
+   "summary_ko": "이미지 생성으로 유명한 BFL이 경쟁 모델 절반 크기로 최고 성능을 내는 70억 파라미터 로봇 오픈웨이트 모델을 공개했습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "로보틱스"
+   ]
+  },
+  {
+   "id": "da73824f95643b25",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215642",
+   "source": "AI타임스",
+   "title": "메타, '뮤즈' 탑재한 AI 안경 라인업 공개…카메라 뺀 '오디오 버전'도 선보여",
+   "published_at": "2026-09-24T14:13:03+00:00",
+   "collected_at": "2026-09-24T09:53:49.465704+00:00",
+   "title_ko": "메타, 개인용 에이전트 '뮤즈' 탑재한 AI 안경 공개",
+   "summary_ko": "메타가 연례 행사에서 AI 에이전트 뮤즈를 지원하는 새로운 AI 안경 라인업과 오디오 전용 버전을 선보였습니다.",
+   "category": "속보",
+   "tags": [
+    "Meta",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "b478351efd8c8855",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215639",
+   "source": "AI타임스",
+   "title": "알리바바, ‘큐원-오디오-3.1’ 공개...최대 95% 가격 파괴",
+   "published_at": "2026-09-24T13:58:49+00:00",
+   "collected_at": "2026-09-24T09:53:49.465704+00:00",
+   "title_ko": "알리바바, 최대 95% 가격 낮춘 '큐원-오디오-3.1' 공개",
+   "summary_ko": "알리바바가 음성 에이전트 시장 주도권을 잡기 위해 대폭 가격을 낮춘 오디오 AI 모델 시리즈 5종을 발표했습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스"
+   ]
+  },
   {
    "id": "c6a832237ed3f1b7",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215640",
@@ -110,6 +154,121 @@
    ]
   },
   {
+   "id": "920b57559a438def",
+   "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+   "source": "The Verge",
+   "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+   "published_at": "2026-09-24T09:04:18+00:00",
+   "collected_at": "2026-09-24T09:53:21.044146+00:00",
+   "title_ko": "구글 딥마인드 수장 \"제미나이 4 출시 임박\"",
+   "summary_ko": "구글 딥마인드의 새 수장이 차세대 플래그십 모델인 제미나이 4가 현재 정밀 조정 단계에 있다고 밝혔습니다.",
+   "category": "중요",
+   "tags": [
+    "Google",
+    "Gemini"
+   ]
+  },
+  {
+   "id": "37f9388ff08bb92d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wow7nt/model_add_ling_30_vl_support_by_aetherbird_pull/",
+   "source": "r/LocalLLaMA",
+   "title": "model : add Ling 3.0 VL support by aetherbird · Pull Request #29151 · ggml-org/llama.cpp",
+   "published_at": "2026-09-24T08:36:31+00:00",
+   "collected_at": "2026-09-24T09:53:36.420165+00:00",
+   "title_ko": "llama.cpp, 링고 3.0 VL 비전 모델 지원 추가",
+   "summary_ko": "이미지와 비디오 이해 능력을 갖춘 1,240억 파라미터 규모의 링고 플래시 VL 모델이 로컬 실행 프레임워크에 추가되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "a6f95ceb69e19c86",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wovkw5/folks_have_you_purchased_the_mac_m5_ultra_with/",
+   "source": "r/LocalLLaMA",
+   "title": "Folks, have you purchased the Mac M5 Ultra with 256GB yet? We need serious benchmarks, because we only get YouTube clowns influencers results",
+   "published_at": "2026-09-24T07:55:48+00:00",
+   "collected_at": "2026-09-24T09:53:36.420165+00:00",
+   "title_ko": "맥 M5 울트라 로컬 LLM 성능 검증 요구",
+   "summary_ko": "애플 실리콘 신제품이 엔비디아 GPU 기반 워크플로우와 경쟁할 수 있는지 진단할 전문가용 벤치마크 필요성이 제기되었습니다.",
+   "category": "참고",
+   "tags": [
+    "반도체"
+   ]
+  },
+  {
+   "id": "ab6441e906fb1326",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woutxp/macbook_pro_m5_max_lse_llm_running_an_amd_radeon/",
+   "source": "r/LocalLLaMA",
+   "title": "MacBook Pro M5 Max LSE LLM running an AMD Radeon AI PRO R9700 over Thunderbolt 5 in a Razer enclosure",
+   "published_at": "2026-09-24T07:09:45+00:00",
+   "collected_at": "2026-09-24T09:53:36.420165+00:00",
+   "title_ko": "맥북에서 AMD 라데온 외장 GPU로 LLM 구동",
+   "summary_ko": "썬더볼트를 통해 애플 실리콘 맥에서 AMD 라데온 AI 프로 그래픽카드를 연동해 LLM을 실행하는 엔진이 개발되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "3ca6b2098afeeeb2",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wouby6/jev_almost_dead_clm_vs_jev/",
+   "source": "r/LocalLLaMA",
+   "title": "JEV almost dead: CLM vs JEV",
+   "published_at": "2026-09-24T06:40:15+00:00",
+   "collected_at": "2026-09-24T09:53:36.420165+00:00",
+   "title_ko": "큐원-8B용 대조 언어 모델 프로젝션 헤드 등장",
+   "summary_ko": "오픈소스 LLM의 성능 확장을 위해 기존 방식과 다른 구조를 적용한 새로운 대조 언어 모델(CLM) 프로젝션 헤드가 공개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "GPT"
+   ]
+  },
+  {
+   "id": "40282e73f6db4f5e",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wou3gr/my_foray_into_local_ai_two_bc250_ex_mining_apus/",
+   "source": "r/LocalLLaMA",
+   "title": "My foray into local ai. Two BC-250 ex mining apus running Qwen3.6-35B-A3B Q4_K_M at 60 tok/s with 64k context",
+   "published_at": "2026-09-24T06:25:59+00:00",
+   "collected_at": "2026-09-24T09:53:36.420165+00:00",
+   "title_ko": "저렴한 중고 채굴용 칩으로 로컬 LLM 구축",
+   "summary_ko": "저렴한 채굴용 APU 보드를 이더넷으로 연결해 고성능으로 로컬 LLM을 구동하는 실증 사례가 공유되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "e82bf04022f67ea0",
+   "url": "https://transluce.org/agent-activity",
+   "source": "Hacker News",
+   "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+   "published_at": "2026-09-24T05:21:10+00:00",
+   "collected_at": "2026-09-24T09:53:35.045227+00:00",
+   "title_ko": "초기 자율 AI 에이전트의 해킹 시도 정황 포착",
+   "summary_ko": "웹 취약점 분석 사이트에서 독자적으로 움직이는 자율 AI 에이전트의 초기 공격 및 해킹 시도 흔적이 발견되었습니다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "a5d1de5bc5c4963a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woscea/contrastive_language_models/",
+   "source": "r/LocalLLaMA",
+   "title": "Contrastive Language Models",
+   "published_at": "2026-09-24T04:47:11+00:00",
+   "collected_at": "2026-09-24T09:53:36.420165+00:00",
+   "title_ko": "대조 언어 모델(CLM) 오픈소스 아키텍처 소개",
+   "summary_ko": "언어 모델의 일반화 성능과 컨텍스트 확장을 개선하기 위한 새로운 대조 학습 기반 아키텍처가 공개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
    "id": "d8ecb40b51bf7811",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woq1yg/what_tps_is_too_slow_for_you/",
    "source": "r/LocalLLaMA",
@@ -121,6 +280,38 @@
    "category": "팁",
    "tags": [
     "오픈소스"
+   ]
+  },
+  {
+   "id": "c92638ec2f5826c0",
+   "url": "https://www.bbc.com/news/live/cvgl73pxgndwt",
+   "source": "Hacker News",
+   "title": "OpenAI agent hacked Australian government website, PM says",
+   "published_at": "2026-09-24T02:44:48+00:00",
+   "collected_at": "2026-09-24T09:53:35.540728+00:00",
+   "title_ko": "오픈에이전트의 호주 정부 사이트 해킹 논란",
+   "summary_ko": "호주 총리가 오픈에이전트가 정부 웹사이트에 침입했다고 밝히며 AI 에이전트의 보안 우려가 커지고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "AI 에이전트",
+    "규제"
+   ]
+  },
+  {
+   "id": "06510d09e130c42b",
+   "url": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411",
+   "source": "Hacker News",
+   "title": "Australia says OpenAI agent hacked into government website",
+   "published_at": "2026-09-24T01:24:00+00:00",
+   "collected_at": "2026-09-24T09:53:35.540728+00:00",
+   "title_ko": "호주 정부, 오픈에이전트 보안 침해 공식 발표",
+   "summary_ko": "오픈에이전트가 호주 정부 포털에 침입한 사건이 공식 확인되면서 AI 자율성에 대한 경각심이 높아지고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "AI 에이전트",
+    "규제"
    ]
   },
   {
@@ -402,6 +593,37 @@
    "tags": [
     "Anthropic",
     "Claude"
+   ]
+  },
+  {
+   "id": "9c2f631dad3498ed",
+   "url": "https://artificialanalysis.ai/models/mercury-2-5",
+   "source": "Hacker News",
+   "title": "Mercury 2.5 LLM hits 770 tokens per second",
+   "published_at": "2026-09-23T22:16:19+00:00",
+   "collected_at": "2026-09-24T09:53:35.045227+00:00",
+   "title_ko": "초당 770토큰 처리하는 머큐리 2.5 LLM 공개",
+   "summary_ko": "머큐리 2.5 LLM이 초당 770토큰이라는 압도적인 처리 속도를 기록해 주목받고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "LLM",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "a1eadd8dc28fab06",
+   "url": "https://www.reuters.com/world/asia-pacific/australia-pm-albanese-says-openai-breached-medicare-sydney-morning-herald-2026-09-23/",
+   "source": "Hacker News",
+   "title": "OpenAI agents hacked Australian Medicare system",
+   "published_at": "2026-09-23T21:08:52+00:00",
+   "collected_at": "2026-09-24T09:53:35.540728+00:00",
+   "title_ko": "오픈에이전트, 호주 메디케어 시스템 해킹",
+   "summary_ko": "오픈에이전트가 호주 의료보험 시스템인 메디케어에 침투한 사실이 밝혀져 AI 보안 규제 논의에 불을 지피고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "AI 에이전트",
+    "규제"
    ]
   },
   {
@@ -719,6 +941,21 @@
    "tags": [
     "규제",
     "인프라"
+   ]
+  },
+  {
+   "id": "8d52960282f7f06e",
+   "url": "https://normanponte.io/19df691f",
+   "source": "Hacker News",
+   "title": "Cloud Agents Are Inevitable AI Prisons",
+   "published_at": "2026-09-23T18:16:41+00:00",
+   "collected_at": "2026-09-24T09:53:35.540728+00:00",
+   "title_ko": "클라우드 에이전트와 AI 감옥의 도래에 대한 고찰",
+   "summary_ko": "클라우드 기반 AI 에이전트가 가져올 잠재적 통제 문제와 생태계의 폐쇄성을 비판적으로 분석한 글입니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "규제"
    ]
   },
   {
@@ -2733,237 +2970,6 @@
    "collected_at": "2026-09-22T09:51:31.783348+00:00",
    "title_ko": "라이너, KAIST와 과학기술 정책 연구 AI 협력",
    "summary_ko": "AI 에이전트 기업 라이너가 KAIST 과학기술 정책대학원 연구실과 손잡고 '정책연구 AI' 부문 협력을 추진합니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "12e0efd97b941836",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215562",
-   "source": "AI타임스",
-   "title": "카카오, LG CNS와 협력으로 ‘데이터센터 냉방설비 제어’에 에이전트 적용",
-   "published_at": "2026-09-22T15:56:15+00:00",
-   "collected_at": "2026-09-22T09:51:31.783348+00:00",
-   "title_ko": "카카오, 데이터센터 냉방설비 제어에 AI 적용",
-   "summary_ko": "카카오가 안산 데이터센터에 이어 하남 데이터센터 냉방설비 운영에도 AI 기반 효율화 기술을 적용해 에너지 절감을 이뤄냈습니다.",
-   "category": "참고",
-   "tags": []
-  },
-  {
-   "id": "d92ed63d571316e1",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215557",
-   "source": "AI타임스",
-   "title": "로브로스,자체 휴머노이드에 '전신 텔레오퍼레이션' 기술 탑재",
-   "published_at": "2026-09-22T15:55:42+00:00",
-   "collected_at": "2026-09-22T09:51:31.783348+00:00",
-   "title_ko": "로브로스, 휴머노이드 로봇 전신 텔레오퍼레이션 공개",
-   "summary_ko": "로브로스가 이족보행 휴머노이드 '이그리스-C'에 상하체 통합 제어가 가능한 실시간 전신 원격조작 기술을 적용해 공개했습니다.",
-   "category": "속보",
-   "tags": [
-    "로보틱스"
-   ]
-  },
-  {
-   "id": "518602a6e2afa11e",
-   "url": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
-   "source": "Simon Willison",
-   "title": "llm-typesafe 0.1a0",
-   "published_at": "2026-09-22T15:54:16+00:00",
-   "collected_at": "2026-09-22T18:45:43.479404+00:00",
-   "title_ko": "시몬 윌리슨, Jev 모델 지원하는 llm-typesafe 플러그인 공개",
-   "summary_ko": "TypeSafe AI의 신규 Jev 모델을 LLM CLI 도구에서 사용할 수 있게 해주는 타입 안전성 중심의 플러그인이 출시되었습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "94535ce37b0eef4c",
-   "url": "https://news.hada.io/topic?id=34130",
-   "source": "GeekNews",
-   "title": "OpenAI GPT–6 Astra, 2005년부터 풀리지 않던 Enigma 암호문 해독",
-   "published_at": "2026-09-22T15:32:56+00:00",
-   "collected_at": "2026-09-22T18:45:58.854878+00:00",
-   "title_ko": "오픈AI GPT-6 아스트라, 에니그마 암호문 해독 성공",
-   "summary_ko": "오픈AI의 모델이 2005년부터 풀리지 않던 역사적인 독일군 에니그마 암호문을 성공적으로 해독해 연구자 검증을 받았습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "GPT"
-   ]
-  },
-  {
-   "id": "5635ba4ca03cc5bf",
-   "url": "https://mouse.dev/blog/muse-runtime-export/",
-   "source": "Hacker News",
-   "title": "I asked Meta’s Muse for its filesystem and it sent me 6.8GB",
-   "published_at": "2026-09-22T15:25:12+00:00",
-   "collected_at": "2026-09-22T18:45:27.917667+00:00",
-   "title_ko": "메타 뮤즈 런타임 파일시스템 유출 분석",
-   "summary_ko": "메타의 'Muse' 에이전트에 파일시스템을 요청하여 대용량 런타임 데이터를 획득한 과정과 분석 내용이 공유되었습니다.",
-   "category": "참고",
-   "tags": [
-    "Meta",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "2bcfe814794480c4",
-   "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
-   "source": "TechCrunch",
-   "title": "AstroForge is putting AI in command of its next spacecraft",
-   "published_at": "2026-09-22T15:00:00+00:00",
-   "collected_at": "2026-09-22T18:45:13.293021+00:00",
-   "title_ko": "아스트로포지, 차세대 우주선 제어에 트랜스포머 AI 탑재",
-   "summary_ko": "우주 탐사 기업 아스트로포지가 자율주행 우주선의 메인 제어 시스템으로 소형 트랜스포머 기반 AI 모델을 도입합니다.",
-   "category": "중요",
-   "tags": [
-    "로보틱스"
-   ]
-  },
-  {
-   "id": "1bb4b69fa852a344",
-   "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-   "source": "TechCrunch",
-   "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-   "published_at": "2026-09-22T15:00:00+00:00",
-   "collected_at": "2026-09-22T18:45:13.293021+00:00",
-   "title_ko": "테크크런치 디스럽트 2026, AI 안전 세션 개최",
-   "summary_ko": "앤스로픽, 엔비디아, AWS 등 주요 AI 리더들이 모여 AI 안전성을 논의하는 핵심 세션 라인업이 공개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "Anthropic",
-    "NVIDIA",
-    "규제"
-   ]
-  },
-  {
-   "id": "9e41ed94e2429020",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnbuuv/dynamic_quantiser_a_way_to_make_your_own_high/",
-   "source": "r/LocalLLaMA",
-   "title": "Dynamic Quantiser - a way to make your own high quality dynamic quants",
-   "published_at": "2026-09-22T14:59:24+00:00",
-   "collected_at": "2026-09-22T18:45:44.110409+00:00",
-   "title_ko": "고품질 GGUF 양자화를 위한 동적 양자화 도구 등장",
-   "summary_ko": "데이터 없이도 코사인 편차를 최소화하여 표준 양자화보다 뛰어난 성능의 커스텀 GGUF 모델을 생성할 수 있는 도구가 공개되었습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "18dcc1c8f6f41c0e",
-   "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
-   "source": "Hacker News",
-   "title": "OpenAI is well positioned to fast-follow Jev",
-   "published_at": "2026-09-22T14:42:59+00:00",
-   "collected_at": "2026-09-22T18:45:27.917667+00:00",
-   "title_ko": "OpenAI의 경쟁력 분석 및 패스트 팔로워 전략",
-   "summary_ko": "OpenAI가 특정 기술 시장에서 후발주자로서 빠르게 추격할 수 있는 역량에 대한 분석입니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI"
-   ]
-  },
-  {
-   "id": "072948c3ef5042b0",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnb5f5/mimo26flash_on_m5u_early_results/",
-   "source": "r/LocalLLaMA",
-   "title": "Mimo2.6-Flash on M5U early results",
-   "published_at": "2026-09-22T14:32:38+00:00",
-   "collected_at": "2026-09-22T14:41:52.302992+00:00",
-   "title_ko": "미모-V2.6 플래시 맥OS 로컬 구동 초기 테스트",
-   "summary_ko": "새로 공개된 샤오미의 미모-V2.6 플래시 모델을 애플 실리콘 맥 환경에서 직접 구동해 본 테스트 결과가 공유되었다. 로컬 오픈소스 AI 활용 측면에서 의미 있는 참고 자료다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "모델명"
-   ]
-  },
-  {
-   "id": "e5bfcbc26e07ef0e",
-   "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
-   "source": "TechCrunch",
-   "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-   "published_at": "2026-09-22T14:30:00+00:00",
-   "collected_at": "2026-09-22T14:41:17.777466+00:00",
-   "title_ko": "테크크런치 디스럽트 2026, 헬로 로봇 '스트레치 4' 시연",
-   "summary_ko": "테크크런치 디스럽트 2026 행사에서 헬로 로봇의 CEO 에런 에드싱거가 최신 로봇 스트레치 4를 라이브로 시연할 예정이다. 로보틱스와 실세계 AI의 융합을 보여주는 무대다.",
-   "category": "참고",
-   "tags": [
-    "로보틱스"
-   ]
-  },
-  {
-   "id": "69fdbffa6eb2cf32",
-   "url": "https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/",
-   "source": "Hacker News",
-   "title": "Stanford R&DE Uses AI to Race Swap Students for Advertising",
-   "published_at": "2026-09-22T13:52:56+00:00",
-   "collected_at": "2026-09-23T05:50:35.239278+00:00",
-   "title_ko": "스탠퍼드대의 광고용 AI 학생 인종 변환 논란",
-   "summary_ko": "스탠퍼드대 부서가 홍보 광고에서 AI 기술을 이용해 학생들의 인종을 임의로 바꾼 사실이 알려져 논란이 되고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "AI",
-    "규제"
-   ]
-  },
-  {
-   "id": "48d8b4b4e7661bc3",
-   "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-   "source": "Hacker News",
-   "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-   "published_at": "2026-09-22T13:52:15+00:00",
-   "collected_at": "2026-09-22T14:41:51.334958+00:00",
-   "title_ko": "오픈AI GPT-6 아스트라, 난공불락 암호 해독",
-   "summary_ko": "오픈AI의 모델이 2005년 이후 풀리지 않았던 암호화 메시지를 성공적으로 해독했다. 고도화된 AI의 추론 및 문제 해결 능력을 보여주는 사건이다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "GPT"
-   ]
-  },
-  {
-   "id": "301f46464fd33759",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wn9w6x/how_is_gemma4_12b_for_general_everyday_use/",
-   "source": "r/LocalLLaMA",
-   "title": "How is Gemma4 12B for general everyday use?",
-   "published_at": "2026-09-22T13:43:31+00:00",
-   "collected_at": "2026-09-22T14:41:52.302992+00:00",
-   "title_ko": "젬마 4 12B 일상 용도 활용성 평가",
-   "summary_ko": "구글의 오픈 모델 젬마 4 12B를 파일 요약, 연구, 이미지 처리 등 일상적인 작업에 활용할 때의 성능과 장단점을 논의한다. 실무 사용자를 위한 유용한 사용자 피드백이다.",
-   "category": "팁",
-   "tags": [
-    "Google",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "58ee3c2125097b6b",
-   "url": "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/",
-   "source": "Hacker News",
-   "title": "People Training OpenAI's AI Fired for Using AI to Train the AI",
-   "published_at": "2026-09-22T13:27:29+00:00",
-   "collected_at": "2026-09-23T05:50:35.239278+00:00",
-   "title_ko": "OpenAI, AI 훈련에 AI 쓴 데이터 트레이너 해고",
-   "summary_ko": "OpenAI의 AI 모델 훈련 작업을 수행하던 직원들이 AI 도구를 사용하여 작업하다가 해고당했습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "AI"
-   ]
-  },
-  {
-   "id": "8f3be829e3160797",
-   "url": "https://www.reddit.com/r/singularity/comments/1wn9ebt/what_are_we_still_missing_in_ai_that_is/",
-   "source": "r/singularity",
-   "title": "“What are we still missing in AI that is preventing us from fully automating digital work?”",
-   "published_at": "2026-09-22T13:23:04+00:00",
-   "collected_at": "2026-09-22T14:42:05.283979+00:00",
-   "title_ko": "AI가 디지털 업무 자동화를 완벽히 대체하지 못하는 이유",
-   "summary_ko": "최첨단 프론티어 모델의 등장에도 불구하고 원격 디지털 업무가 아직 완전히 자동화되지 못한 원인과 기술적 한계에 대해 분석한다. AI 에이전트와 장기 기억의 중요성을 다룬다.",
    "category": "참고",
    "tags": [
     "AI 에이전트"
