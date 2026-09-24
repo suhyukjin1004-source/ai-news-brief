@@ -1,5 +1,139 @@
 [
  {
+  "id": "894ead3f90dd743d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpdho8/qwen_38_27b_be_like/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen 3.8 27b be like...",
+  "published_at": "2026-09-24T21:00:38+00:00",
+  "collected_at": "2026-09-24T22:15:59.509828+00:00",
+  "title_ko": "Qwen 모델 관련 로컬 LLM 소식",
+  "summary_ko": "Qwen 모델 사용 중 발생한 프롬프트 및 응답 관련 커뮤니티의 소소한 경험 공유.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "3bf9256c69455f4c",
+  "url": "https://www.reddit.com/r/singularity/comments/1wpdakj/i_had_opus_55_extra_build_a_mandelbrot_explorer/",
+  "source": "r/singularity",
+  "title": "I had Opus 5.5 (Extra) build a Mandelbrot explorer + Conways Game of Life that dives to 10^300 in the browser, and it's one HTML file [2-min demo]",
+  "published_at": "2026-09-24T20:52:48+00:00",
+  "collected_at": "2026-09-24T22:16:04.318482+00:00",
+  "title_ko": "AI로 구현한 초정밀 프랙탈 웹 탐색기",
+  "summary_ko": "AI를 활용해 고정밀 부동소수점 연산이 필요한 프랙탈 탐색기와 게임 오브 라이프를 단일 HTML 파일로 구현한 사례.",
+  "category": "팁",
+  "tags": [
+   "Claude",
+   "코딩"
+  ]
+ },
+ {
+  "id": "5d2c7a9e68660cec",
+  "url": "https://news.hada.io/topic?id=34242",
+  "source": "GeekNews",
+  "title": "예산별 최고의 LLM, 매일 업데이트",
+  "published_at": "2026-09-24T20:38:33+00:00",
+  "collected_at": "2026-09-24T22:16:06.796312+00:00",
+  "title_ko": "예산별 최고 가성비 LLM 비교",
+  "summary_ko": "성능과 API 가격을 비교해 비용 대비 효율적인 가성비 LLM 대안을 매일 업데이트하여 제공.",
+  "category": "팁",
+  "tags": [
+   "코딩",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "976c7fabb4ac803b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpcfpe/im_new_and_its_kinda_overwhelming_to_get_into/",
+  "source": "r/LocalLLaMA",
+  "title": "I'm new and it's kinda overwhelming to get into",
+  "published_at": "2026-09-24T20:18:34+00:00",
+  "collected_at": "2026-09-24T22:15:59.509828+00:00",
+  "title_ko": "로컬 LLM 입문을 위한 하드웨어 사양 고민",
+  "summary_ko": "노트북 환경에서 로컬 LLM을 구동하고 싶어하는 초보 사용자의 하드웨어 사양 및 진입 장벽에 대한 질문.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "5b7f2728c5fa6983",
+  "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+  "source": "The Verge",
+  "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+  "published_at": "2026-09-24T19:59:26+00:00",
+  "collected_at": "2026-09-24T22:15:24.700653+00:00",
+  "title_ko": "실시간 아바타 기능 탑재한 Gemini 3.8 Live 공개",
+  "summary_ko": "구글이 실시간 대화와 립싱크, 표정 변화가 가능한 라이브 아바타 기능을 Gemini 기업 고객에게 공개함.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "Gemini"
+  ]
+ },
+ {
+  "id": "54642235dee43490",
+  "url": "https://www.reddit.com/r/singularity/comments/1wpbrxa/i_asked_gpt6_astra_for_a_video_about_time_it_made/",
+  "source": "r/singularity",
+  "title": "I asked GPT-6 Astra for a video about \"time\". It made the whole thing in javascript, from the big bang to itself writing the code for this video",
+  "published_at": "2026-09-24T19:53:15+00:00",
+  "collected_at": "2026-09-24T22:16:04.318482+00:00",
+  "title_ko": "자바스크립트 코드로 4K 영상 생성하는 AI",
+  "summary_ko": "AI가 코드를 작성해 우주의 역사와 자기를 표현하는 영상을 렌더링한 사례로, 코드 기반 영상 생성의 가능성을 보여줌.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "코딩"
+  ]
+ },
+ {
+  "id": "b840ff49e81f8762",
+  "url": "https://news.hada.io/topic?id=34240",
+  "source": "GeekNews",
+  "title": "대조 언어 모델",
+  "published_at": "2026-09-24T19:43:21+00:00",
+  "collected_at": "2026-09-24T22:16:06.796312+00:00",
+  "title_ko": "대조 학습 기반의 대조 언어 모델(CLM) 공개",
+  "summary_ko": "상태와 행동을 대조 학습으로 연결하여 컴퓨터 사용과 도구 호출에서 뛰어난 성능을 내는 CLM-8B 모델 발표.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "a47d8fbfd6fee495",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpbeb7/meta_muse_appears_to_be_excited_to_give_away_its/",
+  "source": "r/LocalLLaMA",
+  "title": "Meta Muse appears to be excited to give away its system data",
+  "published_at": "2026-09-24T19:38:33+00:00",
+  "collected_at": "2026-09-24T22:15:59.509828+00:00",
+  "title_ko": "메타 Muse 시스템 데이터 관련 동향",
+  "summary_ko": "메타의 Muse 모델과 관련된 시스템 데이터 유출 및 공유에 대한 커뮤니티의 관심.",
+  "category": "참고",
+  "tags": [
+   "Meta",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "7286ebd55a6cfde5",
+  "url": "https://www.reddit.com/r/singularity/comments/1wpb9g5/openai_still_leads_in_the_benchmarks_that_matter/",
+  "source": "r/singularity",
+  "title": "OpenAI still leads in the benchmarks that matter",
+  "published_at": "2026-09-24T19:33:14+00:00",
+  "collected_at": "2026-09-24T22:16:04.318482+00:00",
+  "title_ko": "주요 벤치마크에서 여전히 우세한 OpenAI",
+  "summary_ko": "핵심 AI 벤치마크 평가에서 OpenAI 모델들이 여전히 선두를 유지하고 있다는 업계 평가.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "GPT"
+  ]
+ },
+ {
   "id": "809997058f8604aa",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215634",
   "source": "AI타임스",
@@ -13,6 +147,36 @@
    "DeepSeek",
    "AI 에이전트",
    "오픈소스"
+  ]
+ },
+ {
+  "id": "e5dd239fac39fab5",
+  "url": "https://www.reddit.com/r/singularity/comments/1wpaxw1/ai_is_now_being_benchmarked_on_whether_it_can/",
+  "source": "r/singularity",
+  "title": "AI is now being benchmarked on whether it can actually do laboratory science, not just answer questions: run experiments, handle equipment, read instruments, and recover from failures",
+  "published_at": "2026-09-24T19:20:57+00:00",
+  "collected_at": "2026-09-24T22:16:04.318482+00:00",
+  "title_ko": "실험실 과학 수행 능력을 평가하는 새로운 AI 벤치마크",
+  "summary_ko": "단순 질의응답을 넘어 실험 수행, 장비 조작, 데이터 판독 및 실패 복구 등 실제 과학 실험 능력으로 AI를 평가하는 추세.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "843daad69675ea11",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpaxud/freedomintelligencehuatuogpt327b_hugging_face/",
+  "source": "r/LocalLLaMA",
+  "title": "FreedomIntelligence/HuatuoGPT-3-27B · Hugging Face",
+  "published_at": "2026-09-24T19:20:54+00:00",
+  "collected_at": "2026-09-24T22:15:59.509828+00:00",
+  "title_ko": "의료용 오픈소스 LLM 'HuatuoGPT-3-27B' 공개",
+  "summary_ko": "Qwen 기반으로 단일 강화학습 단계를 통해 의료 분야에 특화된 의료용 LLM이 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "의료"
   ]
  },
  {
@@ -44,6 +208,22 @@
    "Google",
    "Gemini",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "da01f95b6d1deb3f",
+  "url": "https://www.reddit.com/r/singularity/comments/1wp9xji/elon_musk_xai_will_keep_accelerating_and_will/",
+  "source": "r/singularity",
+  "title": "Elon Musk: xAI Will Keep Accelerating And Will Surpass Anthropic And OpenAI Within 6 Months",
+  "published_at": "2026-09-24T18:42:10+00:00",
+  "collected_at": "2026-09-24T22:16:04.318482+00:00",
+  "title_ko": "일론 머스크 \"xAI, 6개월 안에 오픈AI와 앤트로픽 추월할 것\"",
+  "summary_ko": "일론 머스크가 xAI의 압도적인 컴퓨팅 인프라와 성장 가속도를 바탕으로 반년 안에 선두 주자들을 따라잡겠다고 주장했습니다.",
+  "category": "중요",
+  "tags": [
+   "xAI",
+   "OpenAI",
+   "Anthropic"
   ]
  },
  {
@@ -106,6 +286,21 @@
   ]
  },
  {
+  "id": "1c5cc96843922630",
+  "url": "https://www.reddit.com/r/singularity/comments/1wp8dor/good_news_googles_ai_exhibits_selfcontrol_stops/",
+  "source": "r/singularity",
+  "title": "Good news: Google's AI exhibits self-control, stops unauthorised hack into three companies",
+  "published_at": "2026-09-24T17:44:55+00:00",
+  "collected_at": "2026-09-24T22:16:04.318482+00:00",
+  "title_ko": "구글 AI, 무단 해킹 시도 감지 및 자체 차단",
+  "summary_ko": "구글의 AI 시스템이 기업들을 향한 무단 해킹 시도를 스스로 인식하고 통제하여 차단하는 능력을 선보였습니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "4f47c154f117c17a",
   "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
   "source": "TechCrunch",
@@ -118,6 +313,21 @@
   "tags": [
    "Meta",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "d79bf5f9fa507b86",
+  "url": "https://www.reddit.com/r/singularity/comments/1wp87yk/opus_55_just_surpassed_the_professional_human/",
+  "source": "r/singularity",
+  "title": "Opus 5.5 just surpassed the professional human baseline on a benchmark testing whether AI can write complete scripts with the right voice, substance, pacing, hooks and minimal AI slop",
+  "published_at": "2026-09-24T17:38:56+00:00",
+  "collected_at": "2026-09-24T22:16:04.318482+00:00",
+  "title_ko": "Claude Opus 5.5, 인간 전문가 수준 넘어서",
+  "summary_ko": "신규 모델 Claude Opus 5.5가 자연스러운 문체와 깊이 있는 스크립트 작성 테스트에서 인간 전문가의 기준을 돌파했습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "Claude"
   ]
  },
  {
@@ -136,6 +346,38 @@
   ]
  },
  {
+  "id": "185ddb0abcfc6b08",
+  "url": "https://github.com/devdotfast/whiteboard",
+  "source": "Hacker News",
+  "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+  "published_at": "2026-09-24T17:21:36+00:00",
+  "collected_at": "2026-09-24T22:15:40.557894+00:00",
+  "title_ko": "오픈소스 AI 에이전트 IDE 'Whiteboard' 공개",
+  "summary_ko": "개발자와 AI 에이전트가 공통 캔버스에서 함께 소프트웨어를 설계할 수 있는 오픈소스 데스크톱 IDE가 출시되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "f5c5b807901a8494",
+  "url": "https://www.reddit.com/r/singularity/comments/1wp7lhu/google_openai_and_anthropic_are_reportedly/",
+  "source": "r/singularity",
+  "title": "Google, OpenAI and Anthropic are reportedly forming their own frontier-AI safety authority, potentially testing models before release without government oversight",
+  "published_at": "2026-09-24T17:15:53+00:00",
+  "collected_at": "2026-09-24T22:16:04.318482+00:00",
+  "title_ko": "빅테크 3사, 프론티어 AI 안전성 자체 검증 기구 설립 추진",
+  "summary_ko": "구글, OpenAI, 앤트로픽이 정부 개입 없이 자체적으로 프론티어 AI 모델의 안전성을 테스트하기 위한 독자적 규제 기관을 결성할 예정입니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "Anthropic",
+   "Google"
+  ]
+ },
+ {
   "id": "4d3bafc74a80caea",
   "url": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
   "source": "The Verge",
@@ -147,6 +389,21 @@
   "category": "중요",
   "tags": [
    "Meta"
+  ]
+ },
+ {
+  "id": "5081b3ed1393e09c",
+  "url": "https://www.reddit.com/r/singularity/comments/1wp7jks/claude_opus_55_tops_simplebench_with_its_884_score/",
+  "source": "r/singularity",
+  "title": "Claude Opus 5.5 tops SimpleBench with its 88.4% score.",
+  "published_at": "2026-09-24T17:13:56+00:00",
+  "collected_at": "2026-09-24T22:16:04.318482+00:00",
+  "title_ko": "Claude Opus 5.5, SimpleBench 88.4%로 1위 기록",
+  "summary_ko": "앤트로픽의 최신 모델이 벤치마크 테스트에서 최고점을 경신하며 뛰어난 성능을 입증했습니다.",
+  "category": "속보",
+  "tags": [
+   "Anthropic",
+   "Claude"
   ]
  },
  {
@@ -329,6 +586,22 @@
   ]
  },
  {
+  "id": "81c7a5cafc131b66",
+  "url": "https://www.reddit.com/r/singularity/comments/1wp56lk/one_shot_wolfenstein_3d_opus_46_vs_opus_55/",
+  "source": "r/singularity",
+  "title": "One Shot Wolfenstein 3D - Opus 4.6 vs. Opus 5.5",
+  "published_at": "2026-09-24T15:45:10+00:00",
+  "collected_at": "2026-09-24T22:16:04.318482+00:00",
+  "title_ko": "Claude 모델로 단 한 번의 프롬프트 만에 3D 게임 구현",
+  "summary_ko": "최신 모델인 Opus 5.5가 단일 프롬프트 입력만으로 웹 표준 기술을 이용해 완전한 FPS 게임 코드를 생성해 냈습니다.",
+  "category": "참고",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "코딩"
+  ]
+ },
+ {
   "id": "cef9e7a764c2cc1c",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp5668/psa_llamacpp_cram_should_be_increased_for_agentic/",
   "source": "r/LocalLLaMA",
@@ -341,6 +614,20 @@
   "tags": [
    "오픈소스",
    "LLM"
+  ]
+ },
+ {
+  "id": "733f60d0c4666d61",
+  "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+  "source": "Hacker News",
+  "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+  "published_at": "2026-09-24T15:09:38+00:00",
+  "collected_at": "2026-09-24T22:15:58.392001+00:00",
+  "title_ko": "학원 대신 AI 쓰라는 과외 업체의 이례적 조언",
+  "summary_ko": "한 과외 교육 업체가 학부모들에게 비용을 아끼고 비싼 과외 대신 AI 도구를 활용하라고 권장해 주목을 받고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "AI"
   ]
  },
  {
