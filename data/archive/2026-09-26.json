@@ -62,6 +62,36 @@
   ]
  },
  {
+  "id": "02636d6ab647c7d4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq8e5u/how_long_can_i_expect_to_wait_until_the_local_30b/",
+  "source": "r/LocalLLaMA",
+  "title": "How long can I expect to wait until the local ~30B A3B frontier catches up to GLM 5.3 Flash quality?",
+  "published_at": "2026-09-25T21:24:54+00:00",
+  "collected_at": "2026-09-25T22:13:12.816112+00:00",
+  "title_ko": "로컬 AI 모델의 성능 향상과 하드웨어 제약 전망",
+  "summary_ko": "오픈소스 로컬 모델이 클라우드 수준에 도달하는 시기와 일반 하드웨어에서의 구동 가능성을 논의합니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "1039751cf18e004a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq7e74/45_days_replacing_claude_w_qwen_38_next/",
+  "source": "r/LocalLLaMA",
+  "title": "4-5 days replacing Claude w Qwen 3.8 Next",
+  "published_at": "2026-09-25T20:44:10+00:00",
+  "collected_at": "2026-09-25T22:13:12.816112+00:00",
+  "title_ko": "클로드 대신 Qwen 3.8 Next를 도입한 실사용 후기",
+  "summary_ko": "연구 및 비즈니스 업무에서 클로드 대신 Qwen 3.8 Next를 로컬 환경에서 구동해본 경험과 장단점을 공유합니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "Qwen"
+  ]
+ },
+ {
   "id": "da379b1bff7cf492",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215650",
   "source": "AI타임스",
@@ -74,6 +104,36 @@
   "tags": [
    "OpenAI",
    "코딩"
+  ]
+ },
+ {
+  "id": "7e718558600dedb5",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq76f6/qwen3827b_using_kv_cache_transplants_to_boost/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-27B: Using KV Cache Transplants to Boost Output Quality",
+  "published_at": "2026-09-25T20:35:28+00:00",
+  "collected_at": "2026-09-25T22:13:12.816112+00:00",
+  "title_ko": "KV 캐시 이식을 통한 Qwen3.8-27B 성능 향상 기법",
+  "summary_ko": "다중 LLM 에이전트 시스템에서 KV 캐시를 직접 융합하여 추론 품질과 효율성을 높이는 연구 방법을 다룹니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "Qwen",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "1ccbcef18549137d",
+  "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+  "source": "TechCrunch",
+  "title": "Meta opens early access program for new Muse features",
+  "published_at": "2026-09-25T20:34:53+00:00",
+  "collected_at": "2026-09-25T22:12:50.666448+00:00",
+  "title_ko": "메타, 신규 Muse 기능 위한 조기 액세스 프로그램 운영",
+  "summary_ko": "메타가 자사 AI 서비스인 Muse의 새로운 기능들을 테스트할 수 있는 초기 사용자 모집을 시작했습니다.",
+  "category": "속보",
+  "tags": [
+   "Meta"
   ]
  },
  {
@@ -93,6 +153,21 @@
   ]
  },
  {
+  "id": "e258119a7f6f6324",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq672b/i_ran_the_actual_breakeven_math_on_buying_vs/",
+  "source": "r/LocalLLaMA",
+  "title": "I ran the actual break-even math on buying vs renting an H200 box, and it is not where I expected",
+  "published_at": "2026-09-25T19:56:48+00:00",
+  "collected_at": "2026-09-25T22:13:12.816112+00:00",
+  "title_ko": "H200 서버 구축 대여 비용 분석",
+  "summary_ko": "H200 GPU 서버를 직접 구매하는 것과 클라우드로 대여하는 것의 비용 효율성을 실제 데이터로 비교 분석했습니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "투자"
+  ]
+ },
+ {
   "id": "bc1936c5e0aee510",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215649",
   "source": "AI타임스",
@@ -105,6 +180,51 @@
   "tags": [
    "Anthropic",
    "Claude",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "62fd36ee47009acc",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq56pf/swift15qwen38flashnext_is_phenomenal_vs_base/",
+  "source": "r/LocalLLaMA",
+  "title": "Swift1.5-Qwen3.8-Flash-Next is phenomenal vs. base 3.8-Flash!",
+  "published_at": "2026-09-25T19:16:34+00:00",
+  "collected_at": "2026-09-25T22:13:12.816112+00:00",
+  "title_ko": "과잉 추론을 줄인 Swift1.5-Qwen3.8-Flash-Next 모델 공개",
+  "summary_ko": "불필요한 추론 과정을 줄여 속도와 효율성을 극대화한 새로운 Qwen 파생 모델의 실사용 후기입니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "Qwen"
+  ]
+ },
+ {
+  "id": "16601d8d67975027",
+  "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+  "source": "TechCrunch",
+  "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+  "published_at": "2026-09-25T19:13:38+00:00",
+  "collected_at": "2026-09-25T22:12:50.666448+00:00",
+  "title_ko": "앤스로픽, 아카마이와 7년간 116억 달러 규모 클라우드 계약 체결",
+  "summary_ko": "앤스로픽이 아카마이의 CPU 기반 클라우드 인프라를 대규모로 도입하며 지분 투자 조건까지 포함된 파트너십을 맺었습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "투자"
+  ]
+ },
+ {
+  "id": "3583889edff630da",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq53j1/is_there_a_lightweight_version_of_hermes_agent/",
+  "source": "r/LocalLLaMA",
+  "title": "Is there a lightweight version of Hermes agent?",
+  "published_at": "2026-09-25T19:13:00+00:00",
+  "collected_at": "2026-09-25T22:13:12.816112+00:00",
+  "title_ko": "경량화된 헤르메스 에이전트 대안 탐색",
+  "summary_ko": "제한된 컨텍스트 환경에서 개인 비서 역할을 수행할 수 있는 경량 AI 에이전트 옵션을 찾고 논의합니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
    "오픈소스"
   ]
  },
@@ -122,6 +242,51 @@
    "OpenAI",
    "GPT",
    "코딩"
+  ]
+ },
+ {
+  "id": "04d08515cca425a9",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq4j6g/how_would_you_go_about_using_multiple_models/",
+  "source": "r/LocalLLaMA",
+  "title": "How would you go about using multiple models together from a singe router (?) or a end point ?",
+  "published_at": "2026-09-25T18:51:08+00:00",
+  "collected_at": "2026-09-25T22:13:12.816112+00:00",
+  "title_ko": "다중 기기 및 모델 연동을 위한 라우터 구성 방법",
+  "summary_ko": "성능이 다른 여러 로컬 기기와 모델을 하나의 엔드포인트로 묶어 작업을 분산 처리하는 시스템 구축에 대한 논의입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "43fec3bf6a06e312",
+  "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+  "source": "TechCrunch",
+  "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+  "published_at": "2026-09-25T18:33:59+00:00",
+  "collected_at": "2026-09-25T22:12:50.666448+00:00",
+  "title_ko": "영국 AI 클라우드 기업 Nscale, 미국 상장 앞두고 33.6억 달러 조달",
+  "summary_ko": "서드포인트와 엔비디아 등이 참여한 대규모 투자 유치를 통해 Nscale이 AI 데이터센터 인프라 확장에 나섭니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "투자"
+  ]
+ },
+ {
+  "id": "d1defbaf4de8e0ab",
+  "url": "https://ollaya.dev/",
+  "source": "Hacker News",
+  "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+  "published_at": "2026-09-25T18:33:50+00:00",
+  "collected_at": "2026-09-25T22:13:05.548763+00:00",
+  "title_ko": "오픈소스 의사결정 모델을 위한 Ollaya 도구 공개",
+  "summary_ko": "오픈소스 진영에서 Ollama와 유사한 방식으로 결정 모델을 쉽게 다룰 수 있는 새로운 도구가 소개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "LLM"
   ]
  },
  {
@@ -152,6 +317,21 @@
   "tags": [
    "Meta",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "5e83e0d22a04bb8c",
+  "url": "https://mouse.dev/blog/muse-special/",
+  "source": "Hacker News",
+  "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
+  "published_at": "2026-09-25T18:18:06+00:00",
+  "collected_at": "2026-09-25T22:13:11.184465+00:00",
+  "title_ko": "메타 Muse 서비스에서 발견된 OpenAI 모델 태그",
+  "summary_ko": "메타의 Muse 서비스 내부에서 'muse-special'이라는 레이블이 붙은 OpenAI 모델 관련 흔적이 발견되어 주목을 받고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "Meta",
+   "OpenAI"
   ]
  },
  {
@@ -298,6 +478,20 @@
   "category": "참고",
   "tags": [
    "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "054fb20ddbb0595d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq1as8/i_compared_diarization_models_on_15_clinical/",
+  "source": "r/LocalLLaMA",
+  "title": "I compared diarization models on 15 clinical conversations: Nemotron 3, Pyannote, Sortformer and VibeVoice",
+  "published_at": "2026-09-25T16:44:28+00:00",
+  "collected_at": "2026-09-25T22:13:12.816112+00:00",
+  "title_ko": "임상 대화 데이터 기반 화자 분리 모델 성능 비교",
+  "summary_ko": "의사-환자 상담 녹음 데이터를 활용해 Nemotron 3, Pyannote 등의 화자 분리(Diarization) 모델 성능을 비교 평가했습니다.",
+  "category": "참고",
+  "tags": [
    "LLM"
   ]
  },

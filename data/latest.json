@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-25T18:30:42.611189+00:00",
+ "updated_at": "2026-09-25T22:13:35.591577+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -66,6 +66,36 @@
    ]
   },
   {
+   "id": "02636d6ab647c7d4",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq8e5u/how_long_can_i_expect_to_wait_until_the_local_30b/",
+   "source": "r/LocalLLaMA",
+   "title": "How long can I expect to wait until the local ~30B A3B frontier catches up to GLM 5.3 Flash quality?",
+   "published_at": "2026-09-25T21:24:54+00:00",
+   "collected_at": "2026-09-25T22:13:12.816112+00:00",
+   "title_ko": "로컬 AI 모델의 성능 향상과 하드웨어 제약 전망",
+   "summary_ko": "오픈소스 로컬 모델이 클라우드 수준에 도달하는 시기와 일반 하드웨어에서의 구동 가능성을 논의합니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "1039751cf18e004a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq7e74/45_days_replacing_claude_w_qwen_38_next/",
+   "source": "r/LocalLLaMA",
+   "title": "4-5 days replacing Claude w Qwen 3.8 Next",
+   "published_at": "2026-09-25T20:44:10+00:00",
+   "collected_at": "2026-09-25T22:13:12.816112+00:00",
+   "title_ko": "클로드 대신 Qwen 3.8 Next를 도입한 실사용 후기",
+   "summary_ko": "연구 및 비즈니스 업무에서 클로드 대신 Qwen 3.8 Next를 로컬 환경에서 구동해본 경험과 장단점을 공유합니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "Qwen"
+   ]
+  },
+  {
    "id": "da379b1bff7cf492",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215650",
    "source": "AI타임스",
@@ -78,6 +108,36 @@
    "tags": [
     "OpenAI",
     "코딩"
+   ]
+  },
+  {
+   "id": "7e718558600dedb5",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq76f6/qwen3827b_using_kv_cache_transplants_to_boost/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8-27B: Using KV Cache Transplants to Boost Output Quality",
+   "published_at": "2026-09-25T20:35:28+00:00",
+   "collected_at": "2026-09-25T22:13:12.816112+00:00",
+   "title_ko": "KV 캐시 이식을 통한 Qwen3.8-27B 성능 향상 기법",
+   "summary_ko": "다중 LLM 에이전트 시스템에서 KV 캐시를 직접 융합하여 추론 품질과 효율성을 높이는 연구 방법을 다룹니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "Qwen",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "1ccbcef18549137d",
+   "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+   "source": "TechCrunch",
+   "title": "Meta opens early access program for new Muse features",
+   "published_at": "2026-09-25T20:34:53+00:00",
+   "collected_at": "2026-09-25T22:12:50.666448+00:00",
+   "title_ko": "메타, 신규 Muse 기능 위한 조기 액세스 프로그램 운영",
+   "summary_ko": "메타가 자사 AI 서비스인 Muse의 새로운 기능들을 테스트할 수 있는 초기 사용자 모집을 시작했습니다.",
+   "category": "속보",
+   "tags": [
+    "Meta"
    ]
   },
   {
@@ -97,6 +157,21 @@
    ]
   },
   {
+   "id": "e258119a7f6f6324",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq672b/i_ran_the_actual_breakeven_math_on_buying_vs/",
+   "source": "r/LocalLLaMA",
+   "title": "I ran the actual break-even math on buying vs renting an H200 box, and it is not where I expected",
+   "published_at": "2026-09-25T19:56:48+00:00",
+   "collected_at": "2026-09-25T22:13:12.816112+00:00",
+   "title_ko": "H200 서버 구축 대여 비용 분석",
+   "summary_ko": "H200 GPU 서버를 직접 구매하는 것과 클라우드로 대여하는 것의 비용 효율성을 실제 데이터로 비교 분석했습니다.",
+   "category": "참고",
+   "tags": [
+    "NVIDIA",
+    "투자"
+   ]
+  },
+  {
    "id": "bc1936c5e0aee510",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215649",
    "source": "AI타임스",
@@ -109,6 +184,51 @@
    "tags": [
     "Anthropic",
     "Claude",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "62fd36ee47009acc",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq56pf/swift15qwen38flashnext_is_phenomenal_vs_base/",
+   "source": "r/LocalLLaMA",
+   "title": "Swift1.5-Qwen3.8-Flash-Next is phenomenal vs. base 3.8-Flash!",
+   "published_at": "2026-09-25T19:16:34+00:00",
+   "collected_at": "2026-09-25T22:13:12.816112+00:00",
+   "title_ko": "과잉 추론을 줄인 Swift1.5-Qwen3.8-Flash-Next 모델 공개",
+   "summary_ko": "불필요한 추론 과정을 줄여 속도와 효율성을 극대화한 새로운 Qwen 파생 모델의 실사용 후기입니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "Qwen"
+   ]
+  },
+  {
+   "id": "16601d8d67975027",
+   "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+   "source": "TechCrunch",
+   "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+   "published_at": "2026-09-25T19:13:38+00:00",
+   "collected_at": "2026-09-25T22:12:50.666448+00:00",
+   "title_ko": "앤스로픽, 아카마이와 7년간 116억 달러 규모 클라우드 계약 체결",
+   "summary_ko": "앤스로픽이 아카마이의 CPU 기반 클라우드 인프라를 대규모로 도입하며 지분 투자 조건까지 포함된 파트너십을 맺었습니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "투자"
+   ]
+  },
+  {
+   "id": "3583889edff630da",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq53j1/is_there_a_lightweight_version_of_hermes_agent/",
+   "source": "r/LocalLLaMA",
+   "title": "Is there a lightweight version of Hermes agent?",
+   "published_at": "2026-09-25T19:13:00+00:00",
+   "collected_at": "2026-09-25T22:13:12.816112+00:00",
+   "title_ko": "경량화된 헤르메스 에이전트 대안 탐색",
+   "summary_ko": "제한된 컨텍스트 환경에서 개인 비서 역할을 수행할 수 있는 경량 AI 에이전트 옵션을 찾고 논의합니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
     "오픈소스"
    ]
   },
@@ -126,6 +246,51 @@
     "OpenAI",
     "GPT",
     "코딩"
+   ]
+  },
+  {
+   "id": "04d08515cca425a9",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq4j6g/how_would_you_go_about_using_multiple_models/",
+   "source": "r/LocalLLaMA",
+   "title": "How would you go about using multiple models together from a singe router (?) or a end point ?",
+   "published_at": "2026-09-25T18:51:08+00:00",
+   "collected_at": "2026-09-25T22:13:12.816112+00:00",
+   "title_ko": "다중 기기 및 모델 연동을 위한 라우터 구성 방법",
+   "summary_ko": "성능이 다른 여러 로컬 기기와 모델을 하나의 엔드포인트로 묶어 작업을 분산 처리하는 시스템 구축에 대한 논의입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "43fec3bf6a06e312",
+   "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+   "source": "TechCrunch",
+   "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+   "published_at": "2026-09-25T18:33:59+00:00",
+   "collected_at": "2026-09-25T22:12:50.666448+00:00",
+   "title_ko": "영국 AI 클라우드 기업 Nscale, 미국 상장 앞두고 33.6억 달러 조달",
+   "summary_ko": "서드포인트와 엔비디아 등이 참여한 대규모 투자 유치를 통해 Nscale이 AI 데이터센터 인프라 확장에 나섭니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "투자"
+   ]
+  },
+  {
+   "id": "d1defbaf4de8e0ab",
+   "url": "https://ollaya.dev/",
+   "source": "Hacker News",
+   "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+   "published_at": "2026-09-25T18:33:50+00:00",
+   "collected_at": "2026-09-25T22:13:05.548763+00:00",
+   "title_ko": "오픈소스 의사결정 모델을 위한 Ollaya 도구 공개",
+   "summary_ko": "오픈소스 진영에서 Ollama와 유사한 방식으로 결정 모델을 쉽게 다룰 수 있는 새로운 도구가 소개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM"
    ]
   },
   {
@@ -156,6 +321,21 @@
    "tags": [
     "Meta",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "5e83e0d22a04bb8c",
+   "url": "https://mouse.dev/blog/muse-special/",
+   "source": "Hacker News",
+   "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
+   "published_at": "2026-09-25T18:18:06+00:00",
+   "collected_at": "2026-09-25T22:13:11.184465+00:00",
+   "title_ko": "메타 Muse 서비스에서 발견된 OpenAI 모델 태그",
+   "summary_ko": "메타의 Muse 서비스 내부에서 'muse-special'이라는 레이블이 붙은 OpenAI 모델 관련 흔적이 발견되어 주목을 받고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "Meta",
+    "OpenAI"
    ]
   },
   {
@@ -302,6 +482,20 @@
    "category": "참고",
    "tags": [
     "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "054fb20ddbb0595d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq1as8/i_compared_diarization_models_on_15_clinical/",
+   "source": "r/LocalLLaMA",
+   "title": "I compared diarization models on 15 clinical conversations: Nemotron 3, Pyannote, Sortformer and VibeVoice",
+   "published_at": "2026-09-25T16:44:28+00:00",
+   "collected_at": "2026-09-25T22:13:12.816112+00:00",
+   "title_ko": "임상 대화 데이터 기반 화자 분리 모델 성능 비교",
+   "summary_ko": "의사-환자 상담 녹음 데이터를 활용해 Nemotron 3, Pyannote 등의 화자 분리(Diarization) 모델 성능을 비교 평가했습니다.",
+   "category": "참고",
+   "tags": [
     "LLM"
    ]
   },
@@ -2811,204 +3005,6 @@
    "tags": [
     "LLM",
     "오픈소스"
-   ]
-  },
-  {
-   "id": "ed0ac3353f5984ee",
-   "url": "https://www.reddit.com/r/singularity/comments/1woe138/claude_discovered_a_novel_enzyme_system_with/",
-   "source": "r/singularity",
-   "title": "Claude discovered a novel enzyme system with properties reminiscent of CRISPR",
-   "published_at": "2026-09-23T18:27:22+00:00",
-   "collected_at": "2026-09-23T20:12:03.269837+00:00",
-   "title_ko": "클로드, CRISPR와 유사한 신규 효소 시스템 발견",
-   "summary_ko": "앤트로픽의 AI Claude가 박테리오파지 DNA에서 CRISPR과 유사한 반복 구조를 가진 미지의 효소 시스템을 독자적으로 발견했습니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "Claude",
-    "바이오"
-   ]
-  },
-  {
-   "id": "9d68d83cb176be4a",
-   "url": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
-   "source": "The Verge",
-   "title": "Data centers are black boxes, but California wants to change that",
-   "published_at": "2026-09-23T18:22:57+00:00",
-   "collected_at": "2026-09-23T20:11:19.316876+00:00",
-   "title_ko": "캘리포니아주, 데이터센터 투명성 강화 법안 서명",
-   "summary_ko": "캘리포니아주가 AI 데이터센터가 지역 사회의 전력과 수자원에 미치는 영향을 주민들이 파악하고 통제할 수 있는 법안들을 통과시켰습니다.",
-   "category": "중요",
-   "tags": [
-    "규제",
-    "인프라"
-   ]
-  },
-  {
-   "id": "8d52960282f7f06e",
-   "url": "https://normanponte.io/19df691f",
-   "source": "Hacker News",
-   "title": "Cloud Agents Are Inevitable AI Prisons",
-   "published_at": "2026-09-23T18:16:41+00:00",
-   "collected_at": "2026-09-24T09:53:35.540728+00:00",
-   "title_ko": "클라우드 에이전트와 AI 감옥의 도래에 대한 고찰",
-   "summary_ko": "클라우드 기반 AI 에이전트가 가져올 잠재적 통제 문제와 생태계의 폐쇄성을 비판적으로 분석한 글입니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "규제"
-   ]
-  },
-  {
-   "id": "553fc1c697fee895",
-   "url": "https://www.reddit.com/r/singularity/comments/1wodqq1/i_dont_notice_a_difference_anymore/",
-   "source": "r/singularity",
-   "title": "I don't notice a difference anymore",
-   "published_at": "2026-09-23T18:16:31+00:00",
-   "collected_at": "2026-09-23T20:12:03.269837+00:00",
-   "title_ko": "최신 프론티어 AI 모델 간의 성능 차이 체감에 관하여",
-   "summary_ko": "일상적인 작업에서는 최고 성능의 AI 모델 간 차이를 느끼기 어렵고, 발전이 주로 고난도 벤치마크에 국한되는지에 대한 사용자들의 논의가 이어지고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "LLM",
-    "GPT",
-    "Claude"
-   ]
-  },
-  {
-   "id": "8c50fe1c6153abc3",
-   "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-   "source": "Hacker News",
-   "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-   "published_at": "2026-09-23T18:06:47+00:00",
-   "collected_at": "2026-09-23T20:11:33.775303+00:00",
-   "title_ko": "클로드, CRISPR 유사 반복 구조의 효소 시스템 발견",
-   "summary_ko": "앤트로픽의 클로드가 생물학 실험실 환경에서 유전자 편집 도구인 CRISPR과 유사한 신종 효소 시스템을 발견했습니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "Claude"
-   ]
-  },
-  {
-   "id": "e883079b810e95f8",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wodf84/applelensvlm9b_hugging_face/",
-   "source": "r/LocalLLaMA",
-   "title": "apple/LensVLM-9B · Hugging Face",
-   "published_at": "2026-09-23T18:04:25+00:00",
-   "collected_at": "2026-09-23T20:11:50.202160+00:00",
-   "title_ko": "애플, 비전 언어 모델 'LensVLM-9B' 공개",
-   "summary_ko": "압축된 텍스트 이미지를 스캔한 뒤 필요한 페이지만 선택적으로 확장하는 애플의 9B 비전 언어 모델이 허깅페이스에 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "Apple",
-    "오픈소스",
-    "비전"
-   ]
-  },
-  {
-   "id": "e896566878a9d4f0",
-   "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-   "source": "Google AI",
-   "title": "Google Beam expands with new regions, partners, and customers",
-   "published_at": "2026-09-23T18:00:00+00:00",
-   "collected_at": "2026-09-23T20:11:32.881576+00:00",
-   "title_ko": "구글 빔, 서비스 지역 및 파트너십 확대",
-   "summary_ko": "구글 빔(Google Beam)이 새로운 지역으로 서비스를 확장하고 파트너 및 고객사를 늘려가고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "Google"
-   ]
-  },
-  {
-   "id": "2c3b9d4adb64ccbb",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
-   "source": "The Verge",
-   "title": "Anthropic’s biolab made a discovery it’s comparing to Crispr",
-   "published_at": "2026-09-23T18:00:00+00:00",
-   "collected_at": "2026-09-23T20:11:19.316876+00:00",
-   "title_ko": "앤트로픽 생명과학 랩, CRISPR 유사 효소 최초 발견",
-   "summary_ko": "앤트로픽의 AI Claude가 자체 생물학 랩 환경에서 유전자 가위 CRISPR과 유사한 효소 시스템을 자율적으로 발견하여 과학 연구 활용 가능성을 입증했습니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "Claude",
-    "바이오"
-   ]
-  },
-  {
-   "id": "31d15e9be24c9601",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wod7l0/bfl_releases_flux_3_action_a_7b_robot_model/",
-   "source": "r/LocalLLaMA",
-   "title": "BFL releases FLUX 3 Action: a 7B robot model",
-   "published_at": "2026-09-23T17:56:52+00:00",
-   "collected_at": "2026-09-23T20:11:50.202160+00:00",
-   "title_ko": "BFL, 7B 로봇 모델 'FLUX 3 Action' 공개",
-   "summary_ko": "BFL에서 로봇 제어를 위한 7B 파라미터 규모의 신규 모델 'FLUX 3 Action'을 출시했습니다.",
-   "category": "속보",
-   "tags": [
-    "로보틱스",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "5f9122f65e8e95ce",
-   "url": "https://www.reddit.com/r/singularity/comments/1wod302/you_can_now_run_chatgpt_slides_spreadsheets_email/",
-   "source": "r/singularity",
-   "title": "You can now run ChatGPT slides, spreadsheets, email, calendar and Slack entirely by talking to ChatGPT Voice",
-   "published_at": "2026-09-23T17:52:09+00:00",
-   "collected_at": "2026-09-23T20:12:03.269837+00:00",
-   "title_ko": "ChatGPT 음성 기능으로 슬레드시트 및 슬라이드 제어 가능",
-   "summary_ko": "사용자가 음성 대화만으로 ChatGPT를 통해 슬라이드, 스프레드시트, 이메일, 캘린더, 슬랙 등을 전면 제어할 수 있게 되었습니다.",
-   "category": "속보",
-   "tags": [
-    "GPT",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "172c830f546e2d3e",
-   "url": "https://news.hada.io/topic?id=34187",
-   "source": "GeekNews",
-   "title": "GPT-6 Astra가 자동차를 운전할 능력을 갖추게 됨",
-   "published_at": "2026-09-23T17:38:33+00:00",
-   "collected_at": "2026-09-23T20:12:05.234363+00:00",
-   "title_ko": "GPT-6 Astra, 자율주행 능력 시연",
-   "summary_ko": "최신 언어 모델 기반의 GPT-6 Astra가 실제 도요타 차량의 조향과 제동을 제어하며 주행 코스를 완주하는 능력을 선보였습니다.",
-   "category": "중요",
-   "tags": [
-    "GPT",
-    "로보틱스"
-   ]
-  },
-  {
-   "id": "e61359e960f83497",
-   "url": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
-   "source": "Simon Willison",
-   "title": "Gemini 3.8 TTS Playground",
-   "published_at": "2026-09-23T17:12:27+00:00",
-   "collected_at": "2026-09-23T23:36:01.904882+00:00",
-   "title_ko": "구글, 새로운 Gemini 텍스트 음성 변환 모델 공개",
-   "summary_ko": "구글이 2천 개 이상의 음성과 30초 샘플로 커스텀 음성을 만들 수 있는 Gemini 텍스트 음성 변환 모델을 출시했습니다.",
-   "category": "속보",
-   "tags": [
-    "Google",
-    "Gemini"
-   ]
-  },
-  {
-   "id": "a2f6b475506a897b",
-   "url": "https://www.reddit.com/r/singularity/comments/1wobyjp/updated_version_of_humanitys_last_exam_hlediamond/",
-   "source": "r/singularity",
-   "title": "Updated version of Humanity’s Last Exam: HLE-Diamond",
-   "published_at": "2026-09-23T17:10:28+00:00",
-   "collected_at": "2026-09-23T20:12:03.269837+00:00",
-   "title_ko": "AI 고난도 벤치마크 'HLE-Diamond' 업데이트 버전 공개",
-   "summary_ko": "인류의 마지막 시험으로 불리는 AI 벤치마크 'Humanity's Last Exam'의 업데이트 버전인 HLE-Diamond가 공개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "LLM",
-    "평가"
    ]
   }
  ]
