@@ -1,5 +1,212 @@
 [
  {
+  "id": "c3e68d9e5d44a3ea",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpw0jn/splash_on_a_40core_m5_max_20_decode_by_tuning_the/",
+  "source": "r/LocalLLaMA",
+  "title": "Splash on a 40-core M5 Max: +20% decode by tuning the kernels for your own chip",
+  "published_at": "2026-09-25T13:13:01+00:00",
+  "collected_at": "2026-09-25T13:37:56.661227+00:00",
+  "title_ko": "맥실콘용 커널 튜닝을 통한 LLM 디코드 성능 향상 팁",
+  "summary_ko": "M5 Max 하드웨어에서 커널을 직접 튜닝하여 로컬 LLM의 추론 속도를 높이는 방법을 공유합니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "5d47c480d3e2b3d7",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpvep4/qwengram08b_i_transferred_qwen38_flashnexts_ngram/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwengram-0.8B: I transferred Qwen3.8 Flash-Next’s n-gram memory into Qwen3.5-0.8B — 5.05% lower validation perplexity",
+  "published_at": "2026-09-25T12:46:00+00:00",
+  "collected_at": "2026-09-25T13:37:56.661227+00:00",
+  "title_ko": "소형 Qwen 모델에 n-gram 메모리 이식 기법",
+  "summary_ko": "대형 모델의 n-gram 메모리를 소형 Qwen 모델에 이식하여 검증 손실을 낮추는 실험 결과입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "fde598cb4e91b034",
+  "url": "https://www.reddit.com/r/singularity/comments/1wpvdt2/im_upping_my_pdoom/",
+  "source": "r/singularity",
+  "title": "I'm upping my P(doom)",
+  "published_at": "2026-09-25T12:44:50+00:00",
+  "collected_at": "2026-09-25T13:38:01.423218+00:00",
+  "title_ko": "AI 파멸론 확률 상향 조정 관련 논의",
+  "summary_ko": "AI 발전 속도에 따른 잠재적 위험성과 파멸론(P(doom))에 대한 커뮤니티의 토론입니다.",
+  "category": "참고",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
+  "id": "a3815269ac1b5811",
+  "url": "https://news.hada.io/topic?id=34264",
+  "source": "GeekNews",
+  "title": "“완전 AI 같아!” 알파 세대의 가장 강력한 비하 표현이 말해주는 것",
+  "published_at": "2026-09-25T12:33:07+00:00",
+  "collected_at": "2026-09-25T13:38:05.426692+00:00",
+  "title_ko": "알파 세대 사이의 'AI 같다'는 비하적 표현 유행",
+  "summary_ko": "알파 세대가 진정성 없거나 믿기 어려운 것을 'AI 같다'고 표현하며 새로운 문화적 현상을 형성하고 있습니다.",
+  "category": "참고",
+  "tags": []
+ },
+ {
+  "id": "15d4aaf6d4f9ba99",
+  "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+  "source": "The Verge",
+  "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+  "published_at": "2026-09-25T12:00:00+00:00",
+  "collected_at": "2026-09-25T13:37:39.303098+00:00",
+  "title_ko": "마이크로소프트, AI 기능 통합한 코파일럿 슈퍼 앱 공개",
+  "summary_ko": "마이크로소프트가 채팅, 코딩, 에이전트 기능을 하나로 묶은 새로운 코파일럿 앱을 공식 출시했습니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "58af46d452387e4f",
+  "url": "https://www.reddit.com/r/singularity/comments/1wpu7ns/meanwhile_gemini/",
+  "source": "r/singularity",
+  "title": "Meanwhile Gemini",
+  "published_at": "2026-09-25T11:48:07+00:00",
+  "collected_at": "2026-09-25T13:38:01.423218+00:00",
+  "title_ko": "제미나이 관련 최근 동향 및 반응",
+  "summary_ko": "구글 제미나이 모델과 관련된 커뮤니티의 반응과 최신 소식입니다.",
+  "category": "참고",
+  "tags": [
+   "Google",
+   "Gemini"
+  ]
+ },
+ {
+  "id": "77f023c8a24d8f40",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wptimb/psa_for_m5ultra_owners_running_llms_set_your/",
+  "source": "r/LocalLLaMA",
+  "title": "PSA for M5Ultra owners running LLMs: set your prefill step to 8192",
+  "published_at": "2026-09-25T11:10:46+00:00",
+  "collected_at": "2026-09-25T13:37:56.661227+00:00",
+  "title_ko": "M5 울트라 소유자를 위한 LLM 프리필 설정 팁",
+  "summary_ko": "맥 환경에서 로컬 LLM 구동 시 성능을 최적화하기 위한 프리필 스텝 크기 설정 가이드입니다.",
+  "category": "팁",
+  "tags": [
+   "LLM",
+   "반도체"
+  ]
+ },
+ {
+  "id": "1cf2cc7e50d8706e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wptfja/vllm_4x_rtx_3060_vs_8x_rtx_3060_performance_loss/",
+  "source": "r/LocalLLaMA",
+  "title": "VLLM 4x rtx 3060 vs 8x rtx 3060 performance loss",
+  "published_at": "2026-09-25T11:05:59+00:00",
+  "collected_at": "2026-09-25T13:37:56.661227+00:00",
+  "title_ko": "vLLM 환경에서 RTX 3060 멀티 GPU 성능 비교",
+  "summary_ko": "로컬 AI 서버 구축 시 다중 GPU 확장(4개 vs 8개)이 토큰 생성 속도에 미치는 영향에 대한 분석입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "e2e7253c4cd86c30",
+  "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+  "source": "MIT Tech Review",
+  "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+  "published_at": "2026-09-25T09:16:25+00:00",
+  "collected_at": "2026-09-25T13:37:52.027193+00:00",
+  "title_ko": "미 국방부, AI 기반 거짓말탐지기 개발 추진",
+  "summary_ko": "미 국방부가 3천만 달러 규모 예산을 투입해 AI와 머신러닝 알고리즘을 활용한 차세대 거짓말탐지기 개발에 나섰음.",
+  "category": "중요",
+  "tags": [
+   "규제",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "bb0fcf4e3b35c481",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpr6jp/has_anyone_benchmarked_ai_agents_against_the/",
+  "source": "r/LocalLLaMA",
+  "title": "Has anyone benchmarked AI agents against the SOLIDWORKS CSWA exam?",
+  "published_at": "2026-09-25T08:50:17+00:00",
+  "collected_at": "2026-09-25T13:37:56.661227+00:00",
+  "title_ko": "솔리드웍스(SOLIDWORKS) 시험에 도전하는 AI 에이전트",
+  "summary_ko": "CAD 설계 역량을 평가하는 솔리드웍스(CSWA) 시험을 통해 AI 모델의 실무 설계 능력을 벤치마킹하려는 시도가 주목받고 있음.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "d3394481c7e6208d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpqyaz/gemma_4_developer_agent_competition/",
+  "source": "r/LocalLLaMA",
+  "title": "Gemma 4 Developer Agent Competition",
+  "published_at": "2026-09-25T08:34:34+00:00",
+  "collected_at": "2026-09-25T13:37:56.661227+00:00",
+  "title_ko": "구글, 젬마 4 개발자 에이전트 경진대회 개최",
+  "summary_ko": "구글의 최신 모델인 Gemma 4를 활용한 개발자 에이전트 경진대회가 커뮤니티에서 진행되고 있음.",
+  "category": "참고",
+  "tags": [
+   "Google",
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "3b5fa37dc5231129",
+  "url": "https://news.hada.io/topic?id=34259",
+  "source": "GeekNews",
+  "title": "Google에 작별을 고하며",
+  "published_at": "2026-09-25T08:34:09+00:00",
+  "collected_at": "2026-09-25T13:38:05.426692+00:00",
+  "title_ko": "구글 칩 설계자, AI 발전 가속화 우려로 퇴사",
+  "summary_ko": "구글에서 AI 발전 가속 속도가 인간의 적응 범위를 넘어섰다고 판단한 수석 칩 설계 도구 개발자가 퇴사함.",
+  "category": "중요",
+  "tags": [
+   "Google",
+   "반도체"
+  ]
+ },
+ {
+  "id": "b9c08754df619ae6",
+  "url": "https://www.reddit.com/r/singularity/comments/1wpqqvv/my_definition_of_postscarcity_intelligence_010/",
+  "source": "r/singularity",
+  "title": "My definition of post-scarcity intelligence: $0.10 / $0.01 / $0.50 per million tokens for Opus 5.5-level intelligence",
+  "published_at": "2026-09-25T08:20:41+00:00",
+  "collected_at": "2026-09-25T13:38:01.423218+00:00",
+  "title_ko": "오푸스 5.5급 지능의 API 비용 하락 전망",
+  "summary_ko": "고성능 AI 모델의 API 비용이 급격히 낮아지면서 대중화 시대가 열리고 있다는 분석이 제기됨.",
+  "category": "참고",
+  "tags": [
+   "Anthropic",
+   "투자"
+  ]
+ },
+ {
+  "id": "e058295b333ed20b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpqgh9/llm_on_a_budget_part_2_from_p102100_to_cmp_50hx/",
+  "source": "r/LocalLLaMA",
+  "title": "LLM on a budget part 2, from P102-100 to CMP 50HX.",
+  "published_at": "2026-09-25T08:01:24+00:00",
+  "collected_at": "2026-09-25T13:37:56.661227+00:00",
+  "title_ko": "저예산 로컬 LLM 구축을 위한 GPU 업그레이드 팁",
+  "summary_ko": "비교적 저렴한 중고 채굴용 GPU를 활용해 예산 친화적으로 로컬 LLM 환경을 구축하는 과정과 주의사항을 공유함.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
   "id": "97cc420565d3b45c",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215648",
   "source": "AI타임스",
@@ -13,6 +220,35 @@
    "OpenAI",
    "AI 에이전트",
    "규제"
+  ]
+ },
+ {
+  "id": "cc28958b0424312e",
+  "url": "https://www.reddit.com/r/singularity/comments/1wpq1pt/im_still_saving_for_retirement/",
+  "source": "r/singularity",
+  "title": "I'm still saving for retirement",
+  "published_at": "2026-09-25T07:34:08+00:00",
+  "collected_at": "2026-09-25T13:38:01.423218+00:00",
+  "title_ko": "AGI 도래를 앞둔 은퇴 자금 저축의 의미 고찰",
+  "summary_ko": "초지능(ASI)과 AGI 도래가 확실시되는 미래에 자산과 화폐 제도가 어떻게 변화할지에 대한 커뮤니티의 토론임.",
+  "category": "참고",
+  "tags": [
+   "투자"
+  ]
+ },
+ {
+  "id": "ccf76c007053bd6a",
+  "url": "https://news.hada.io/topic?id=34256",
+  "source": "GeekNews",
+  "title": "Google의 Project Suncatcher, 우주에 머신러닝 인프라 구축 추진",
+  "published_at": "2026-09-25T07:33:40+00:00",
+  "collected_at": "2026-09-25T13:38:05.426692+00:00",
+  "title_ko": "구글, 우주 머신러닝 인프라 '프로젝트 선캐처' 추진",
+  "summary_ko": "구글이 우주 공간에서 TPU를 활용한 머신러닝 인프라의 타당성을 검증하기 위해 첫 시제품 위성 발사를 준비 중임.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "반도체"
   ]
  },
  {
@@ -46,6 +282,21 @@
   ]
  },
  {
+  "id": "1a71e89ce883e5db",
+  "url": "https://www.reddit.com/r/singularity/comments/1wpo70u/google_launching_tpus_in_space_next_week_on/",
+  "source": "r/singularity",
+  "title": "Google launching TPUs in space NEXT WEEK on SpaceX falcon 9 to test AI data centers orbit",
+  "published_at": "2026-09-25T05:40:15+00:00",
+  "collected_at": "2026-09-25T13:38:01.423218+00:00",
+  "title_ko": "구글, 스페이스X 로켓으로 우주 AI 데이터센터 테스트",
+  "summary_ko": "구글이 AI 데이터센터의 우주 궤도 배치 가능성을 시험하기 위해 스페이스X 팰컨 9을 통해 우주로 TPU를 발사할 예정임.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "반도체"
+  ]
+ },
+ {
   "id": "c27e736f539dbb19",
   "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
   "source": "TechCrunch",
@@ -71,6 +322,22 @@
   "category": "팁",
   "tags": [
    "Claude",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "21b853e8e4257de4",
+  "url": "https://www.reddit.com/r/singularity/comments/1wpls8e/psa_trust_me_stay_far_away_from_grokbotxai/",
+  "source": "r/singularity",
+  "title": "PSA: Trust me! Stay far away from Grok/bot/XAI!",
+  "published_at": "2026-09-25T03:27:07+00:00",
+  "collected_at": "2026-09-25T13:38:01.423218+00:00",
+  "title_ko": "xAI Grok 서비스 이용 후기 및 구독 취소 문제 논란",
+  "summary_ko": "한 사용자가 xAI의 Grok 성능 저하와 결제 및 구독 취소 기능의 오류에 대해 불만을 제기했습니다.",
+  "category": "참고",
+  "tags": [
+   "xAI",
+   "Grok",
    "AI 에이전트"
   ]
  },
@@ -102,6 +369,38 @@
   "tags": [
    "반도체",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "965ecacfd0d267f0",
+  "url": "https://www.reddit.com/r/singularity/comments/1wpkoce/claude_55_opus_creates_a_small_2d3d_video_with/",
+  "source": "r/singularity",
+  "title": "Claude 5.5 Opus creates a small 2D/3D video with code",
+  "published_at": "2026-09-25T02:30:26+00:00",
+  "collected_at": "2026-09-25T13:38:01.423218+00:00",
+  "title_ko": "Claude 5.5 Opus 기반 2D/3D 전환 비디오 생성",
+  "summary_ko": "Claude Code를 활용해 에셋이나 외부 도구 없이 코딩만으로 2D와 3D를 오가는 전환 비디오를 성공적으로 제작했습니다.",
+  "category": "팁",
+  "tags": [
+   "Claude",
+   "Anthropic",
+   "코딩"
+  ]
+ },
+ {
+  "id": "83455866970f1a3d",
+  "url": "https://www.reddit.com/r/singularity/comments/1wpkbh4/ai_models_were_given_500_and_a_vending_machine_to/",
+  "source": "r/singularity",
+  "title": "AI models were given $500 and a vending machine to run a business for a simulated year (Vending Bench): GPT-6 Sol turned it into $14,428, nearly matching Astra at 1/8 the cost",
+  "published_at": "2026-09-25T02:12:23+00:00",
+  "collected_at": "2026-09-25T13:38:01.423218+00:00",
+  "title_ko": "AI 모델의 자율 비즈니스 운영 시뮬레이션 결과 공개",
+  "summary_ko": "AI 모델들이 500달러와 자판기로 1년간 사업을 운영하는 시뮬레이션에서 GPT 계열 모델이 저렴한 비용으로 높은 수익을 달성했습니다.",
+  "category": "중요",
+  "tags": [
+   "GPT",
+   "AI 에이전트",
+   "오픈소스"
   ]
  },
  {
