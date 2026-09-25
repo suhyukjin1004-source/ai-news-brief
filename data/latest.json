@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-25T01:24:13.586724+00:00",
+ "updated_at": "2026-09-25T07:39:49.802091+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -17,6 +17,110 @@
     "OpenAI",
     "AI 에이전트",
     "규제"
+   ]
+  },
+  {
+   "id": "2dd2044ce53e35db",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpprlr/former_intel_ceo_hbm_is_lousy_high_bandwidth/",
+   "source": "r/LocalLLaMA",
+   "title": "Former Intel CEO: \"HBM is lousy\". High Bandwidth Flash Is Coming",
+   "published_at": "2026-09-25T07:15:37+00:00",
+   "collected_at": "2026-09-25T07:39:27.559141+00:00",
+   "title_ko": "전직 인텔 CEO의 HBM 비판과 고대역폭 플래시 전망",
+   "summary_ko": "HBM의 구조적 한계와 대역폭 저하 문제를 지적하며 차세대 메모리 기술에 대한 논의가 이어지고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "반도체",
+    "NVIDIA"
+   ]
+  },
+  {
+   "id": "34ef35e761969f67",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpp28m/did_anyone_do_a_full_bench_of_eg_qwen_flash_next/",
+   "source": "r/LocalLLaMA",
+   "title": "Did anyone do a full bench of e.g. Qwen Flash Next IQ4 and Qwen 27b FP8? Here are some",
+   "published_at": "2026-09-25T06:32:06+00:00",
+   "collected_at": "2026-09-25T07:39:27.559141+00:00",
+   "title_ko": "Qwen 플래시 및 FP8 모델 벤치마크 결과 비교",
+   "summary_ko": "다양한 Qwen 모델의 로컬 실행 환경별 성능과 속도 벤치마크 테스트 결과가 공유되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "c27e736f539dbb19",
+   "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+   "source": "TechCrunch",
+   "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+   "published_at": "2026-09-25T05:00:00+00:00",
+   "collected_at": "2026-09-25T07:38:48.200783+00:00",
+   "title_ko": "라이트스피드, 인도 초기 AI 스타트업 대상 2억 5천만 달러 펀드 조성",
+   "summary_ko": "벤처캐피털 라이트스피드가 인도 지역의 초기 단계 AI 투자를 위해 대규모 신규 펀드를 추진합니다.",
+   "category": "중요",
+   "tags": [
+    "투자"
+   ]
+  },
+  {
+   "id": "eaf29daa3a8dc881",
+   "url": "https://news.hada.io/topic?id=34253",
+   "source": "GeekNews",
+   "title": "Opus 5.5는 설명 영상을 잘 만든다",
+   "published_at": "2026-09-25T04:33:20+00:00",
+   "collected_at": "2026-09-25T07:39:42.150157+00:00",
+   "title_ko": "Opus 5.5 기반 설명 영상 자동 생성 서비스 출시",
+   "summary_ko": "텍스트나 URL을 입력받아 AI가 코드로 영상을 작성하고 서버리스 에이전트로 렌더링하는 도구가 소개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "Claude",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "de9b4088e9be5c29",
+   "url": "https://news.hada.io/topic?id=34251",
+   "source": "GeekNews",
+   "title": "깡통 AI들 때문에 두 번째 뇌를 만들게 됐다",
+   "published_at": "2026-09-25T03:03:12+00:00",
+   "collected_at": "2026-09-25T07:39:42.150157+00:00",
+   "title_ko": "AI 할루시네이션 대응을 위한 개인 지식 관리(PKM) 구축",
+   "summary_ko": "LLM의 부정확한 답변에 대응하기 위해 사용자가 직접 지식을 정리하고 보관하는 개인 지식 관리 시스템 구축 사례입니다.",
+   "category": "팁",
+   "tags": [
+    "Claude",
+    "LLM"
+   ]
+  },
+  {
+   "id": "e56690f32b2c3b43",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpkz0o/m5_ultra_80core_glm53flash_on_dwarfstar_speeds/",
+   "source": "r/LocalLLaMA",
+   "title": "M5 Ultra 80Core GLM-5.3-Flash on DwarfStar Speeds",
+   "published_at": "2026-09-25T02:45:45+00:00",
+   "collected_at": "2026-09-25T07:39:27.559141+00:00",
+   "title_ko": "맥 스튜디오 환경에서의 대형 모델 에이전트 추론 성능",
+   "summary_ko": "M5 Ultra 맥 스튜디오에서 대형 모델을 구동할 때 넉넉한 RAM에도 불구하고 GPU 병목 현상이 발생한다는 분석입니다.",
+   "category": "참고",
+   "tags": [
+    "반도체",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "66d88e38fee47ca9",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpjhkf/how_are_you_guys_thinking_about_context_now_and/",
+   "source": "r/LocalLLaMA",
+   "title": "How are you guys thinking about context now, and building around it?",
+   "published_at": "2026-09-25T01:31:27+00:00",
+   "collected_at": "2026-09-25T07:39:27.559141+00:00",
+   "title_ko": "대형 컨텍스트 윈도우 시대의 LLM 메모리 관리 전략",
+   "summary_ko": "긴 컨텍스트를 작업 기억 장치가 아닌 임시 스크래치패드로 활용하고 장기 기억을 따로 분리하는 실무적 접근법입니다.",
+   "category": "팁",
+   "tags": [
+    "LLM",
+    "AI 에이전트"
    ]
   },
   {
@@ -48,6 +152,22 @@
    "tags": [
     "투자",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "721b34bb96abdf3a",
+   "url": "https://news.hada.io/topic?id=34248",
+   "source": "GeekNews",
+   "title": "Archify - 코드와 설명을 탐색 가능한 시스템 다이어그램으로 만드는 에이전트 스킬",
+   "published_at": "2026-09-25T00:30:02+00:00",
+   "collected_at": "2026-09-25T07:39:42.150157+00:00",
+   "title_ko": "코드와 설명을 탐색 가능한 다이어그램으로 변환하는 에이전트",
+   "summary_ko": "코드베이스나 자연어 설명을 바탕으로 시스템 아키텍처 다이어그램을 자동으로 생성하는 개발자 도구입니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "Claude",
+    "코딩"
    ]
   },
   {
@@ -217,6 +337,21 @@
    ]
   },
   {
+   "id": "84dd34d0059003ac",
+   "url": "https://launchvideo.io",
+   "source": "Hacker News",
+   "title": "Opus 5.5 is good at explainer videos",
+   "published_at": "2026-09-24T20:28:47+00:00",
+   "collected_at": "2026-09-25T07:39:03.684453+00:00",
+   "title_ko": "설명 영상 제작에 뛰어난 성능 보이는 Opus 5.5",
+   "summary_ko": "새로운 영상 생성 모델 Opus 5.5가 고품질의 설명 영상 제작 능력을 보여주며 주목받고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "AI 영상",
+    "모델 출시"
+   ]
+  },
+  {
    "id": "976c7fabb4ac803b",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpcfpe/im_new_and_its_kinda_overwhelming_to_get_into/",
    "source": "r/LocalLLaMA",
@@ -349,6 +484,21 @@
     "오픈소스",
     "LLM",
     "의료"
+   ]
+  },
+  {
+   "id": "b28faeb337e665fe",
+   "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+   "source": "Hacker News",
+   "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+   "published_at": "2026-09-24T19:14:27+00:00",
+   "collected_at": "2026-09-25T07:39:03.684453+00:00",
+   "title_ko": "LLM을 활용한 17세기 연금술 문서 및 역사적 서한 해독",
+   "summary_ko": "연구자들이 LLM을 이용해 고대 연금술 지식을 추적하고 17세기 편지를 해독하며 인문학 연구에 AI를 활용하고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "LLM",
+    "인문학"
    ]
   },
   {
@@ -860,6 +1010,21 @@
    "category": "속보",
    "tags": [
     "오픈소스"
+   ]
+  },
+  {
+   "id": "3a94dd6391c9254f",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+   "source": "Hacker News",
+   "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+   "published_at": "2026-09-24T13:53:29+00:00",
+   "collected_at": "2026-09-25T07:39:03.684453+00:00",
+   "title_ko": "구글, 우주 인프라 구축하는 '프로젝트 선캐처' 추진",
+   "summary_ko": "구글이 머신러닝 인프라를 우주 공간에 배치하는 프로젝트 선캐처를 추진하며 AI 인프라의 지평을 넓히고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "Google",
+    "인프라"
    ]
   },
   {
@@ -2823,173 +2988,6 @@
    "category": "팁",
    "tags": [
     "오픈소스"
-   ]
-  },
-  {
-   "id": "cc4b428147a5f669",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnv85k/deepseek_and_moonshot_ai_face_beijings_probe_over/",
-   "source": "r/LocalLLaMA",
-   "title": "DeepSeek and Moonshot AI face Beijing's probe over potential data leaks to Anthropic",
-   "published_at": "2026-09-23T03:49:48+00:00",
-   "collected_at": "2026-09-23T05:50:35.993448+00:00",
-   "title_ko": "중국 딥시크·문샷AI, 데이터 유출 의혹 조사 직면",
-   "summary_ko": "앤트로픽 등으로의 잠재적 데이터 유출 및 안보 우려와 관련해 중국 당국이 조사에 착수한 것으로 알려졌습니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "규제"
-   ]
-  },
-  {
-   "id": "735ed3a53425fa45",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnu53i/nathan_lamberts_written_congressional_testimony/",
-   "source": "r/LocalLLaMA",
-   "title": "Nathan Lambert's written Congressional testimony on the state of open models - Chinese open-weight downloads now 2x America's, >80% of OpenRouter open-model usage",
-   "published_at": "2026-09-23T02:56:39+00:00",
-   "collected_at": "2026-09-23T05:50:35.993448+00:00",
-   "title_ko": "미 의회 증언서 드러난 중국 오픈 모델의 약진",
-   "summary_ko": "중국산 오픈웨이트 모델의 다운로드 수와 API 트래픽 점유율이 미국을 압도하며 빠르게 추격하고 있다는 분석이 제기되었습니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "50fdf1ad73b0689c",
-   "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
-   "source": "Simon Willison",
-   "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
-   "published_at": "2026-09-23T02:53:19+00:00",
-   "collected_at": "2026-09-23T05:50:35.386321+00:00",
-   "title_ko": "샌프란시스코 '에이전틱 엔지니어링' 커뮤니티 행사 개최",
-   "summary_ko": "코딩 에이전트를 활용해 실험적인 프로젝트를 만드는 개발자들이 모여 노하우를 나누는 행사가 열립니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "6e0dba8919749240",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnt7kv/stuntd_a_local_jevcompatible_server_on_laya_that/",
-   "source": "r/LocalLLaMA",
-   "title": "stuntd: a local Jev-compatible server on Laya that learns from your own traffic (no API key needed)",
-   "published_at": "2026-09-23T02:13:13+00:00",
-   "collected_at": "2026-09-23T05:50:35.993448+00:00",
-   "title_ko": "트래픽 학습 기반 로컬 LLM 프록시 'stuntd' 공개",
-   "summary_ko": "사용자의 LLM 요청 패턴을 학습해 소형 모델로 결정을 분기하고 비용을 절감해 주는 로컬 프록시 도구입니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "1dd9ce125c6e0e60",
-   "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-   "source": "OpenAI",
-   "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-   "published_at": "2026-09-23T02:00:00+00:00",
-   "collected_at": "2026-09-24T04:34:20.654361+00:00",
-   "title_ko": "ChatGPT 광고, 동남아시아 및 대만으로 서비스 확대",
-   "summary_ko": "OpenAI가 ChatGPT 광고 서비스 지역을 동남아시아와 대만으로 넓히며 60개국 이상으로 확장했습니다. AI 플랫폼의 수익화 모델이 점차 다각화되고 있음을 보여줍니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "ChatGPT",
-    "투자"
-   ]
-  },
-  {
-   "id": "05e065387071ae32",
-   "url": "https://news.hada.io/topic?id=34158",
-   "source": "GeekNews",
-   "title": "Show GN: xsoft comply - 대화 원문 없이 AI 운영 기록을 AI기본법 근거자료로 남기는 SDK",
-   "published_at": "2026-09-23T01:38:17+00:00",
-   "collected_at": "2026-09-23T05:50:50.508817+00:00",
-   "title_ko": "AI 기본법 대응을 위한 운영 기록 SDK 출시",
-   "summary_ko": "대화 원문 없이 AI 운영 기록을 남겨 AI 기본법에 대응할 수 있게 해주는 SDK가 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "AI기본법",
-    "규제",
-    "SDK"
-   ]
-  },
-  {
-   "id": "215d8b4c38859722",
-   "url": "https://news.hada.io/topic?id=34155",
-   "source": "GeekNews",
-   "title": "Colab이 이제 Google AI 요금제에 포함됨",
-   "published_at": "2026-09-23T01:06:41+00:00",
-   "collected_at": "2026-09-23T05:50:50.508817+00:00",
-   "title_ko": "구글 AI 요금제에 Colab 유료 컴퓨팅 포함",
-   "summary_ko": "브라우저 기반 파이썬 실행 환경인 Colab의 유료 컴퓨팅 혜택이 구글 AI 구독 상품에 추가되었습니다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "Colab"
-   ]
-  },
-  {
-   "id": "73fafdf6f45f6a41",
-   "url": "https://openai.com/index/airbnb-gpt-6-astra",
-   "source": "OpenAI",
-   "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-   "published_at": "2026-09-23T01:00:00+00:00",
-   "collected_at": "2026-09-23T23:35:58.675399+00:00",
-   "title_ko": "에어비앤비, OpenAI 프론티어 모델 도입 확대",
-   "summary_ko": "에어비앤비가 엔지니어링 팀의 버그 수정 및 시스템 설계를 돕기 위해 OpenAI 최신 모델 접근성을 확대합니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "GPT"
-   ]
-  },
-  {
-   "id": "ff18817e91775945",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnrh76/unsloth_studio_vs_lm_studio_which_one_do_you/",
-   "source": "r/LocalLLaMA",
-   "title": "Unsloth Studio VS LM Studio... Which one do you prefer?",
-   "published_at": "2026-09-23T00:54:41+00:00",
-   "collected_at": "2026-09-23T05:50:35.993448+00:00",
-   "title_ko": "Unsloth Studio와 LM Studio 플랫폼 비교",
-   "summary_ko": "새롭게 등장한 Unsloth Studio가 기존의 LM Studio를 대체할 수 있을지 개발자들 사이에서 논의가 이루어지고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "f6bf419f83ab44d0",
-   "url": "https://news.hada.io/topic?id=34153",
-   "source": "GeekNews",
-   "title": "샤오미 MiMo-V2.6-Pro, 성능과 API 비용 분석",
-   "published_at": "2026-09-23T00:40:52+00:00",
-   "collected_at": "2026-09-23T05:50:50.508817+00:00",
-   "title_ko": "샤오미 MiMo-V2.6-Pro 오픈 웨이트 모델 공개",
-   "summary_ko": "샤오미가 뛰어난 성능을 기록한 MoE 구조의 오픈 웨이트 추론 모델을 MIT 라이선스로 공개했습니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "88401d544260e536",
-   "url": "https://news.hada.io/topic?id=34151",
-   "source": "GeekNews",
-   "title": "Drop - gVisor를 지원하는 루트 권한 없는 Linux 샌드박스",
-   "published_at": "2026-09-23T00:37:52+00:00",
-   "collected_at": "2026-09-23T05:50:50.508817+00:00",
-   "title_ko": "gVisor 기반의 루트 권한 없는 Linux 샌드박스",
-   "summary_ko": "코딩 에이전트와 프로그램을 안전하게 격리하여 실행할 수 있는 새로운 Linux 샌드박스 도구입니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "보안"
    ]
   }
  ]
