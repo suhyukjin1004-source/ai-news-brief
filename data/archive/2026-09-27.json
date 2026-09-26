@@ -1,5 +1,109 @@
 [
  {
+  "id": "fe79fcefb91e7145",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr3esw/koboldcpp_v1122_released/",
+  "source": "r/LocalLLaMA",
+  "title": "Koboldcpp v1.122 released",
+  "published_at": "2026-09-26T22:24:22+00:00",
+  "collected_at": "2026-09-26T22:40:19.346945+00:00",
+  "title_ko": "Koboldcpp v1.122 버전 출시",
+  "summary_ko": "로컬 LLM 구동 도구인 Koboldcpp의 새 버전 v1.122가 출시되어 성능과 안정성이 개선되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "9e7cff0ee909536b",
+  "url": "https://news.hada.io/topic?id=34336",
+  "source": "GeekNews",
+  "title": "LLM 시대에도 프로그래밍을 계속 즐기는 법",
+  "published_at": "2026-09-26T21:40:53+00:00",
+  "collected_at": "2026-09-26T22:40:33.825822+00:00",
+  "title_ko": "LLM 시대의 프로그래밍 즐기기",
+  "summary_ko": "코딩은 사람이 맡고 주변 작업을 LLM에 위임하여 생산성과 개발의 즐거움을 동시에 챙기는 방법론을 다룹니다.",
+  "category": "참고",
+  "tags": [
+   "코딩",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "ff001ac3de98feab",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr1qlz/run_qwen38flashnext_and_tiny_models_on_apple/",
+  "source": "r/LocalLLaMA",
+  "title": "Run Qwen3.8+Flash-Next and tiny models on Apple Silicon up to 3x faster",
+  "published_at": "2026-09-26T21:10:37+00:00",
+  "collected_at": "2026-09-26T22:40:19.346945+00:00",
+  "title_ko": "Apple Silicon에서 Qwen 모델 속도 대폭 향상",
+  "summary_ko": "Apple Silicon 환경에서 Qwen3.8 등 소형 모델을 최대 3배 빠르게 실행할 수 있는 최적화 도구가 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "Qwen",
+   "반도체"
+  ]
+ },
+ {
+  "id": "71b88d6b7195bace",
+  "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+  "source": "TechCrunch",
+  "title": "Insurers claim AI is already increasing healthcare costs",
+  "published_at": "2026-09-26T21:02:06+00:00",
+  "collected_at": "2026-09-26T22:39:58.702336+00:00",
+  "title_ko": "보험사들, AI가 의료 비용 증가 유발한다고 주장",
+  "summary_ko": "병원들의 AI 도구 도입으로 인해 2년간 의료 비용이 크게 증가했다는 보험사의 분석 결과가 나왔습니다.",
+  "category": "중요",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
+  "id": "d5d981c554ee6d3e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr0wki/improved_and_fixed_template_for_gptoss_again/",
+  "source": "r/LocalLLaMA",
+  "title": "Improved and fixed template for GPT-OSS (again). Includes preserve_thinking and fix for Unsloth-induced bug",
+  "published_at": "2026-09-26T20:35:32+00:00",
+  "collected_at": "2026-09-26T22:40:19.346945+00:00",
+  "title_ko": "GPT-OSS 채팅 템플릿 버그 수정",
+  "summary_ko": "채팅 기록 재생 시 모델 성능을 저하시키는 GPT-OSS 템플릿의 치명적인 버그가 수정되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "301a545b5f756a09",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr0p3n/i_added_qwenimage_21_lora_support_to_tensorsharp/",
+  "source": "r/LocalLLaMA",
+  "title": "I added Qwen-Image 2.1 + LoRA support to TensorSharp (GGUF, local inference)",
+  "published_at": "2026-09-26T20:26:36+00:00",
+  "collected_at": "2026-09-26T22:40:19.346945+00:00",
+  "title_ko": "TensorSharp에 Qwen-Image 2.1 및 LoRA 지원 추가",
+  "summary_ko": "오픈소스 추론 엔진 TensorSharp가 로컬 텍스트-이미지 생성 및 편집을 위한 Qwen-Image 2.1과 LoRA를 지원합니다.",
+  "category": "속보",
+  "tags": [
+   "Qwen",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "a97105580669c088",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqzx12/qwen_38_flash_next_is_based_on_qwen_4/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen 3.8 flash next is based on Qwen 4 architecture, if the announced Qwen 4 27b is also the same architecture with n-grams does it mean I can actually have faster inference on a single 3090 without tweaking much?",
+  "published_at": "2026-09-26T19:54:27+00:00",
+  "collected_at": "2026-09-26T22:40:19.346945+00:00",
+  "title_ko": "Qwen 차세대 아키텍처와 로컬 추론 성능",
+  "summary_ko": "Qwen 차세대 아키텍처 기반 모델의 등장으로 단일 GPU 환경에서의 로컬 추론 속도 향상 기대감이 커지고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "Qwen",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "f325a45ca2e40d8b",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqwzk3/new_to_playing_around_with_local_ai_why_are_they/",
   "source": "r/LocalLLaMA",
@@ -44,6 +148,21 @@
    "오픈소스",
    "LLM",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "36075cbc8c0c5413",
+  "url": "https://github.com/reladraw/reladraw",
+  "source": "Hacker News",
+  "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+  "published_at": "2026-09-26T17:10:40+00:00",
+  "collected_at": "2026-09-26T22:40:13.025484+00:00",
+  "title_ko": "사람과 AI 모두에게 적합한 다이어그램 언어 Reladraw",
+  "summary_ko": "자동 배치와 수동 제어의 장점을 결합하여 AI 에이전트와 사람이 모두 조작하기 쉬운 다이어그램 생성 도구입니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
   ]
  },
  {
