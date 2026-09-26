@@ -15,6 +15,20 @@
   ]
  },
  {
+  "id": "ffa0e5f03733009e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqs2t8/2400cc_inference_racer_dual_rtx_3090_motors/",
+  "source": "r/LocalLLaMA",
+  "title": "2400cc Inference Racer: Dual RTX 3090 motors, NVLink turbo, naked 7840U ThinkPad ECU, VW Golf radiator",
+  "published_at": "2026-09-26T14:34:51+00:00",
+  "collected_at": "2026-09-26T17:04:11.888361+00:00",
+  "title_ko": "듀얼 RTX 3090을 탑재한 커스텀 로컬 AI 장비 제작기",
+  "summary_ko": "구형 부품과 듀얼 3090 GPU를 조합해 독특한 외형과 성능을 갖춘 로컬 인퍼런스 장비를 직접 조립한 사례.",
+  "category": "팁",
+  "tags": [
+   "반도체"
+  ]
+ },
+ {
   "id": "f01198cf62e5eb68",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215670",
   "source": "AI타임스",
@@ -30,6 +44,20 @@
   ]
  },
  {
+  "id": "7a5d4d54b805d935",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqrgo7/where_is_mimo_v26_9b_distill_rl/",
+  "source": "r/LocalLLaMA",
+  "title": "Where is MiMo V2.6 9B Distill RL?",
+  "published_at": "2026-09-26T14:08:28+00:00",
+  "collected_at": "2026-09-26T17:04:11.888361+00:00",
+  "title_ko": "MiMo V2.6 9B Distill RL 모델 체크포인트 실종",
+  "summary_ko": "사용자가 테스트를 위해 찾던 MiMo V2.6 모델의 강화학습 체크포인트를 찾지 못해 공유를 요청하는 내용.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "5c89086c3cdf73e5",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215671",
   "source": "AI타임스",
@@ -42,6 +70,34 @@
   "tags": [
    "규제"
   ]
+ },
+ {
+  "id": "a7573654f2bbf085",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqrajy/for_the_longest_time_ive_felt_this_sub_should/",
+  "source": "r/LocalLLaMA",
+  "title": "For the longest time I’ve felt this sub should have a pinned section where a detailed post about each model should get featured.",
+  "published_at": "2026-09-26T14:01:03+00:00",
+  "collected_at": "2026-09-26T17:04:11.888361+00:00",
+  "title_ko": "오픈소스 LLM 모델별 최적 실행 가이드 필요성",
+  "summary_ko": "다양한 모델이 출시될 때마다 벤치마크 성능을 내기 위한 최적의 엔진과 실행 방법을 모아둔 가이드 섹션 신설 제안.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "GPT",
+   "Gemini"
+  ]
+ },
+ {
+  "id": "dc5183e86bb57478",
+  "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+  "source": "TechCrunch",
+  "title": "I created an interactive digital avatar of myself — and you can talk to it",
+  "published_at": "2026-09-26T14:00:00+00:00",
+  "collected_at": "2026-09-26T17:03:45.706279+00:00",
+  "title_ko": "인터랙티브 디지털 아바타 제작 후기",
+  "summary_ko": "자신의 AI 클론 아바타를 직접 만들고 대화해본 후 겪은 복합적인 소회를 다룸.",
+  "category": "참고",
+  "tags": []
  },
  {
   "id": "47469e24b789fd25",
@@ -89,6 +145,21 @@
   ]
  },
  {
+  "id": "50698e927bc291e1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqqv3b/qwen3827b_iq3_xxs_vs_qwen3635ba3b_q4_k_m/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-27B IQ3_XXS vs Qwen3.6-35B-A3B Q4_K_M",
+  "published_at": "2026-09-26T13:41:44+00:00",
+  "collected_at": "2026-09-26T17:04:11.888361+00:00",
+  "title_ko": "Qwen 모델 간 코딩 및 도구 활용 성능 비교",
+  "summary_ko": "복잡한 작업에서 Qwen3.8과 Qwen3.6 양자화 모델 중 어떤 것이 더 우수한지 벤치마크를 찾는 질문.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
   "id": "406125b1c0a20628",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215665",
   "source": "AI타임스",
@@ -119,6 +190,20 @@
   ]
  },
  {
+  "id": "bfae75b2877bc586",
+  "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+  "source": "Hacker News",
+  "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+  "published_at": "2026-09-26T13:05:36+00:00",
+  "collected_at": "2026-09-26T17:04:08.915161+00:00",
+  "title_ko": "LLM 워터마킹이 AI 에이전트 행동에 미치는 영향 분석",
+  "summary_ko": "LLM에 적용된 워터마크 기술이 자율 에이전트의 작동 방식과 성능에 어떤 부수 효과를 낳는지 분석한 연구.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "a05f7217539e0f51",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215664",
   "source": "AI타임스",
@@ -134,6 +219,21 @@
   ]
  },
  {
+  "id": "d5155e3c50f46901",
+  "url": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html",
+  "source": "Hacker News",
+  "title": "CEO of Mistral: AI is software. It can be controlled",
+  "published_at": "2026-09-26T12:52:04+00:00",
+  "collected_at": "2026-09-26T17:04:08.915161+00:00",
+  "title_ko": "미스탈 AI CEO \"AI는 소프트웨어일 뿐, 통제 가능하다\"",
+  "summary_ko": "프랑스 AI 스타트업 미스탈의 CEO 아서 멘슈가 AI의 본질과 규제 가능성에 대해 밝힌 인터뷰 내용.",
+  "category": "중요",
+  "tags": [
+   "Mistral",
+   "규제"
+  ]
+ },
+ {
   "id": "d1da03e6d8cda023",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215668",
   "source": "AI타임스",
@@ -146,6 +246,38 @@
   "tags": [
    "Anthropic",
    "규제"
+  ]
+ },
+ {
+  "id": "0f45299dbfc10a61",
+  "url": "https://news.hada.io/topic?id=34319",
+  "source": "GeekNews",
+  "title": "Microsoft, Copilot 개편으로 개인용 AI 챗봇 경쟁에서 철수",
+  "published_at": "2026-09-26T12:37:12+00:00",
+  "collected_at": "2026-09-26T17:04:26.610266+00:00",
+  "title_ko": "마이크로소프트, 코파일럿 개편으로 개인용 AI 시장 철수",
+  "summary_ko": "소비자용 동반자 전략에서 물러나 기업용 생산성 도구에 집중하기로 마이크로소프트가 전략을 선회함.",
+  "category": "중요",
+  "tags": [
+   "Microsoft",
+   "GPT",
+   "Gemini"
+  ]
+ },
+ {
+  "id": "8d78503399f377d3",
+  "url": "https://news.hada.io/topic?id=34318",
+  "source": "GeekNews",
+  "title": "Meta의 Muse, muse-special로 표시된 OpenAI 모델을 사용하는 것으로 보임",
+  "published_at": "2026-09-26T12:34:12+00:00",
+  "collected_at": "2026-09-26T17:04:26.610266+00:00",
+  "title_ko": "메타의 뮤즈, OpenAI 모델 사용 정황 포착",
+  "summary_ko": "메타의 내부 AI 시스템 로그에서 Azure를 통한 OpenAI 계열 모델의 사용 흔적이 발견되었습니다. AI 기업 간 기술 활용과 인프라 연계 방식을 보여주는 중요한 사례입니다.",
+  "category": "중요",
+  "tags": [
+   "Meta",
+   "OpenAI",
+   "Azure"
   ]
  },
  {
@@ -178,6 +310,21 @@
   ]
  },
  {
+  "id": "a0406bd159105078",
+  "url": "https://news.hada.io/topic?id=34313",
+  "source": "GeekNews",
+  "title": "우리에게는 훨씬 더 많은 수학자가 필요할 것이다",
+  "published_at": "2026-09-26T10:34:20+00:00",
+  "collected_at": "2026-09-26T17:04:26.610266+00:00",
+  "title_ko": "AI 시대에 더 많은 수학자가 필요한 이유",
+  "summary_ko": "AI의 발전 속도에 맞춰 인간이 그 발견을 이해하고 기여하려면 수학적 역량을 갖춘 연구 공동체가 대폭 확대되어야 합니다. AI 시대 기초과학 교육과 연구의 방향성을 제시합니다.",
+  "category": "참고",
+  "tags": [
+   "AI",
+   "연구"
+  ]
+ },
+ {
   "id": "9d76400cab025f1d",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqn378/qwen38_flash_next_exllamav3_hermes_is_amazing/",
   "source": "r/LocalLLaMA",
@@ -203,6 +350,21 @@
   "summary_ko": "일상과 개발 과정에서 생성형 AI를 한 달간 차단하고 지낸 후기를 통해 AI 의존성을 되돌아봅니다.",
   "category": "참고",
   "tags": []
+ },
+ {
+  "id": "65cb24613f6bc3d7",
+  "url": "https://news.hada.io/topic?id=34312",
+  "source": "GeekNews",
+  "title": "상품화된 지능",
+  "published_at": "2026-09-26T10:04:05+00:00",
+  "collected_at": "2026-09-26T17:04:26.610266+00:00",
+  "title_ko": "상품화된 지능과 인간 노동의 미래",
+  "summary_ko": "지능을 비용으로 구매할 수 있게 되면서 AI가 인간 지적 노동을 대체하고 노동 시장의 역학을 바꾸고 있습니다. 수익성을 우선하는 시장에서 인간 지식 노동의 가치 변화를 다룹니다.",
+  "category": "참고",
+  "tags": [
+   "AI",
+   "투자"
+  ]
  },
  {
   "id": "d9ac6685c9a7c7a2",

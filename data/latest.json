@@ -1,8 +1,68 @@
 {
- "updated_at": "2026-09-26T12:59:36.671383+00:00",
+ "updated_at": "2026-09-26T17:04:36.823615+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "6af1b27d76cd1261",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqv9o8/getting_stupidly_good_results_on_my_4x3060ti_setup/",
+   "source": "r/LocalLLaMA",
+   "title": "Getting stupidly good results on my 4x3060ti setup.",
+   "published_at": "2026-09-26T16:47:48+00:00",
+   "collected_at": "2026-09-26T17:04:11.888361+00:00",
+   "title_ko": "저렴한 다중 GPU 시스템을 위한 텐서 병렬 활용 팁",
+   "summary_ko": "구형 GPU를 활용해 비용 효율적인 로컬 LLM 환경을 구축하고 텐서 병렬 처리로 성능을 최적화한 사례.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "c38f44a3e066da71",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqv0qj/just_bought_a_second_3090_but_now_i_dont_see_the/",
+   "source": "r/LocalLLaMA",
+   "title": "Just bought a second 3090 but now I don't see the benefits right now.",
+   "published_at": "2026-09-26T16:37:26+00:00",
+   "collected_at": "2026-09-26T17:04:11.888361+00:00",
+   "title_ko": "듀얼 RTX 3090 로컬 서버 활용 방안 탐색",
+   "summary_ko": "듀얼 3090 시스템을 구축한 사용자가 다양한 로컬 AI 모델을 구동하며 성능을 극대화할 수 있는 활용법을 고민하는 내용.",
+   "category": "참고",
+   "tags": [
+    "반도체",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "050807fd5f4b603c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqtrfi/how_accessible_is_local_ai_actually_and_what/",
+   "source": "r/LocalLLaMA",
+   "title": "How accessible is local AI actually, and what happens if affordable access to frontier models doesn’t last?",
+   "published_at": "2026-09-26T15:45:31+00:00",
+   "collected_at": "2026-09-26T17:04:11.888361+00:00",
+   "title_ko": "로컬 AI의 실제 접근성과 프론티어 모델의 지속 가능성",
+   "summary_ko": "고성능 하드웨어가 필수가 된 로컬 AI 환경에서 일반 기술 애호가들의 실제 사용 현황과 진입 장벽을 논의함.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "c5d1bb37f13ebde5",
+   "url": "https://news.hada.io/topic?id=34323",
+   "source": "GeekNews",
+   "title": "AI 없이 보낸 한 달",
+   "published_at": "2026-09-26T15:36:43+00:00",
+   "collected_at": "2026-09-26T17:04:26.610266+00:00",
+   "title_ko": "AI 코딩 에이전트 없이 보낸 한 달간의 회고",
+   "summary_ko": "AI 에이전트에 개발을 전적으로 의존하다가 코드 통제력을 잃었다고 느껴 직접 코딩으로 돌아선 개발자의 경험담.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
   {
    "id": "cb6f4e89d4aeff79",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215675",
@@ -34,6 +94,20 @@
    ]
   },
   {
+   "id": "ffa0e5f03733009e",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqs2t8/2400cc_inference_racer_dual_rtx_3090_motors/",
+   "source": "r/LocalLLaMA",
+   "title": "2400cc Inference Racer: Dual RTX 3090 motors, NVLink turbo, naked 7840U ThinkPad ECU, VW Golf radiator",
+   "published_at": "2026-09-26T14:34:51+00:00",
+   "collected_at": "2026-09-26T17:04:11.888361+00:00",
+   "title_ko": "듀얼 RTX 3090을 탑재한 커스텀 로컬 AI 장비 제작기",
+   "summary_ko": "구형 부품과 듀얼 3090 GPU를 조합해 독특한 외형과 성능을 갖춘 로컬 인퍼런스 장비를 직접 조립한 사례.",
+   "category": "팁",
+   "tags": [
+    "반도체"
+   ]
+  },
+  {
    "id": "f01198cf62e5eb68",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215670",
    "source": "AI타임스",
@@ -49,6 +123,20 @@
    ]
   },
   {
+   "id": "7a5d4d54b805d935",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqrgo7/where_is_mimo_v26_9b_distill_rl/",
+   "source": "r/LocalLLaMA",
+   "title": "Where is MiMo V2.6 9B Distill RL?",
+   "published_at": "2026-09-26T14:08:28+00:00",
+   "collected_at": "2026-09-26T17:04:11.888361+00:00",
+   "title_ko": "MiMo V2.6 9B Distill RL 모델 체크포인트 실종",
+   "summary_ko": "사용자가 테스트를 위해 찾던 MiMo V2.6 모델의 강화학습 체크포인트를 찾지 못해 공유를 요청하는 내용.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
    "id": "5c89086c3cdf73e5",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215671",
    "source": "AI타임스",
@@ -61,6 +149,34 @@
    "tags": [
     "규제"
    ]
+  },
+  {
+   "id": "a7573654f2bbf085",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqrajy/for_the_longest_time_ive_felt_this_sub_should/",
+   "source": "r/LocalLLaMA",
+   "title": "For the longest time I’ve felt this sub should have a pinned section where a detailed post about each model should get featured.",
+   "published_at": "2026-09-26T14:01:03+00:00",
+   "collected_at": "2026-09-26T17:04:11.888361+00:00",
+   "title_ko": "오픈소스 LLM 모델별 최적 실행 가이드 필요성",
+   "summary_ko": "다양한 모델이 출시될 때마다 벤치마크 성능을 내기 위한 최적의 엔진과 실행 방법을 모아둔 가이드 섹션 신설 제안.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "GPT",
+    "Gemini"
+   ]
+  },
+  {
+   "id": "dc5183e86bb57478",
+   "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+   "source": "TechCrunch",
+   "title": "I created an interactive digital avatar of myself — and you can talk to it",
+   "published_at": "2026-09-26T14:00:00+00:00",
+   "collected_at": "2026-09-26T17:03:45.706279+00:00",
+   "title_ko": "인터랙티브 디지털 아바타 제작 후기",
+   "summary_ko": "자신의 AI 클론 아바타를 직접 만들고 대화해본 후 겪은 복합적인 소회를 다룸.",
+   "category": "참고",
+   "tags": []
   },
   {
    "id": "47469e24b789fd25",
@@ -108,6 +224,21 @@
    ]
   },
   {
+   "id": "50698e927bc291e1",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqqv3b/qwen3827b_iq3_xxs_vs_qwen3635ba3b_q4_k_m/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8-27B IQ3_XXS vs Qwen3.6-35B-A3B Q4_K_M",
+   "published_at": "2026-09-26T13:41:44+00:00",
+   "collected_at": "2026-09-26T17:04:11.888361+00:00",
+   "title_ko": "Qwen 모델 간 코딩 및 도구 활용 성능 비교",
+   "summary_ko": "복잡한 작업에서 Qwen3.8과 Qwen3.6 양자화 모델 중 어떤 것이 더 우수한지 벤치마크를 찾는 질문.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
    "id": "406125b1c0a20628",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215665",
    "source": "AI타임스",
@@ -138,6 +269,20 @@
    ]
   },
   {
+   "id": "bfae75b2877bc586",
+   "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+   "source": "Hacker News",
+   "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+   "published_at": "2026-09-26T13:05:36+00:00",
+   "collected_at": "2026-09-26T17:04:08.915161+00:00",
+   "title_ko": "LLM 워터마킹이 AI 에이전트 행동에 미치는 영향 분석",
+   "summary_ko": "LLM에 적용된 워터마크 기술이 자율 에이전트의 작동 방식과 성능에 어떤 부수 효과를 낳는지 분석한 연구.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "a05f7217539e0f51",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215664",
    "source": "AI타임스",
@@ -153,6 +298,21 @@
    ]
   },
   {
+   "id": "d5155e3c50f46901",
+   "url": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html",
+   "source": "Hacker News",
+   "title": "CEO of Mistral: AI is software. It can be controlled",
+   "published_at": "2026-09-26T12:52:04+00:00",
+   "collected_at": "2026-09-26T17:04:08.915161+00:00",
+   "title_ko": "미스탈 AI CEO \"AI는 소프트웨어일 뿐, 통제 가능하다\"",
+   "summary_ko": "프랑스 AI 스타트업 미스탈의 CEO 아서 멘슈가 AI의 본질과 규제 가능성에 대해 밝힌 인터뷰 내용.",
+   "category": "중요",
+   "tags": [
+    "Mistral",
+    "규제"
+   ]
+  },
+  {
    "id": "d1da03e6d8cda023",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215668",
    "source": "AI타임스",
@@ -165,6 +325,38 @@
    "tags": [
     "Anthropic",
     "규제"
+   ]
+  },
+  {
+   "id": "0f45299dbfc10a61",
+   "url": "https://news.hada.io/topic?id=34319",
+   "source": "GeekNews",
+   "title": "Microsoft, Copilot 개편으로 개인용 AI 챗봇 경쟁에서 철수",
+   "published_at": "2026-09-26T12:37:12+00:00",
+   "collected_at": "2026-09-26T17:04:26.610266+00:00",
+   "title_ko": "마이크로소프트, 코파일럿 개편으로 개인용 AI 시장 철수",
+   "summary_ko": "소비자용 동반자 전략에서 물러나 기업용 생산성 도구에 집중하기로 마이크로소프트가 전략을 선회함.",
+   "category": "중요",
+   "tags": [
+    "Microsoft",
+    "GPT",
+    "Gemini"
+   ]
+  },
+  {
+   "id": "8d78503399f377d3",
+   "url": "https://news.hada.io/topic?id=34318",
+   "source": "GeekNews",
+   "title": "Meta의 Muse, muse-special로 표시된 OpenAI 모델을 사용하는 것으로 보임",
+   "published_at": "2026-09-26T12:34:12+00:00",
+   "collected_at": "2026-09-26T17:04:26.610266+00:00",
+   "title_ko": "메타의 뮤즈, OpenAI 모델 사용 정황 포착",
+   "summary_ko": "메타의 내부 AI 시스템 로그에서 Azure를 통한 OpenAI 계열 모델의 사용 흔적이 발견되었습니다. AI 기업 간 기술 활용과 인프라 연계 방식을 보여주는 중요한 사례입니다.",
+   "category": "중요",
+   "tags": [
+    "Meta",
+    "OpenAI",
+    "Azure"
    ]
   },
   {
@@ -197,6 +389,21 @@
    ]
   },
   {
+   "id": "a0406bd159105078",
+   "url": "https://news.hada.io/topic?id=34313",
+   "source": "GeekNews",
+   "title": "우리에게는 훨씬 더 많은 수학자가 필요할 것이다",
+   "published_at": "2026-09-26T10:34:20+00:00",
+   "collected_at": "2026-09-26T17:04:26.610266+00:00",
+   "title_ko": "AI 시대에 더 많은 수학자가 필요한 이유",
+   "summary_ko": "AI의 발전 속도에 맞춰 인간이 그 발견을 이해하고 기여하려면 수학적 역량을 갖춘 연구 공동체가 대폭 확대되어야 합니다. AI 시대 기초과학 교육과 연구의 방향성을 제시합니다.",
+   "category": "참고",
+   "tags": [
+    "AI",
+    "연구"
+   ]
+  },
+  {
    "id": "9d76400cab025f1d",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqn378/qwen38_flash_next_exllamav3_hermes_is_amazing/",
    "source": "r/LocalLLaMA",
@@ -222,6 +429,21 @@
    "summary_ko": "일상과 개발 과정에서 생성형 AI를 한 달간 차단하고 지낸 후기를 통해 AI 의존성을 되돌아봅니다.",
    "category": "참고",
    "tags": []
+  },
+  {
+   "id": "65cb24613f6bc3d7",
+   "url": "https://news.hada.io/topic?id=34312",
+   "source": "GeekNews",
+   "title": "상품화된 지능",
+   "published_at": "2026-09-26T10:04:05+00:00",
+   "collected_at": "2026-09-26T17:04:26.610266+00:00",
+   "title_ko": "상품화된 지능과 인간 노동의 미래",
+   "summary_ko": "지능을 비용으로 구매할 수 있게 되면서 AI가 인간 지적 노동을 대체하고 노동 시장의 역학을 바꾸고 있습니다. 수익성을 우선하는 시장에서 인간 지식 노동의 가치 변화를 다룹니다.",
+   "category": "참고",
+   "tags": [
+    "AI",
+    "투자"
+   ]
   },
   {
    "id": "d9ac6685c9a7c7a2",
@@ -2767,232 +2989,6 @@
    "tags": [
     "오픈소스",
     "LLM"
-   ]
-  },
-  {
-   "id": "733f60d0c4666d61",
-   "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
-   "source": "Hacker News",
-   "title": "Tutoring company tells parents to save their money and 'use AI instead'",
-   "published_at": "2026-09-24T15:09:38+00:00",
-   "collected_at": "2026-09-24T22:15:58.392001+00:00",
-   "title_ko": "학원 대신 AI 쓰라는 과외 업체의 이례적 조언",
-   "summary_ko": "한 과외 교육 업체가 학부모들에게 비용을 아끼고 비싼 과외 대신 AI 도구를 활용하라고 권장해 주목을 받고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "AI"
-   ]
-  },
-  {
-   "id": "6ffd8810cadd7d05",
-   "url": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
-   "source": "TechCrunch",
-   "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
-   "published_at": "2026-09-24T15:00:00+00:00",
-   "collected_at": "2026-09-24T19:01:19.144078+00:00",
-   "title_ko": "테크크런치 디스럽트 2026, 고위험 AI 구축 논의",
-   "summary_ko": "자율주행 및 방산 분야의 주요 기업들이 테크크런치 디스럽트 2026 무대에 올라 실패가 용납되지 않는 극한 환경에서의 AI 개발 경험과 전략을 공유합니다.",
-   "category": "참고",
-   "tags": [
-    "로보틱스",
-    "AI 에이전트",
-    "투자"
-   ]
-  },
-  {
-   "id": "da73824f95643b25",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215642",
-   "source": "AI타임스",
-   "title": "메타, '뮤즈' 탑재한 AI 안경 라인업 공개…카메라 뺀 '오디오 버전'도 선보여",
-   "published_at": "2026-09-24T14:13:03+00:00",
-   "collected_at": "2026-09-24T09:53:49.465704+00:00",
-   "title_ko": "메타, 개인용 에이전트 '뮤즈' 탑재한 AI 안경 공개",
-   "summary_ko": "메타가 연례 행사에서 AI 에이전트 뮤즈를 지원하는 새로운 AI 안경 라인업과 오디오 전용 버전을 선보였습니다.",
-   "category": "속보",
-   "tags": [
-    "Meta",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "5bd0bd4954bfcaa5",
-   "url": "https://bestmodelforyourbudget.terrydjony.com/",
-   "source": "Hacker News",
-   "title": "Best LLM for every budget, updated daily",
-   "published_at": "2026-09-24T14:09:57+00:00",
-   "collected_at": "2026-09-24T22:15:58.392001+00:00",
-   "title_ko": "예산별 최적의 LLM 추천 서비스",
-   "summary_ko": "사용 가능한 예산에 맞춰 가장 가성비 좋은 LLM을 매일 업데이트하여 추천해주는 도구입니다. 비용 효율적인 AI 모델 선택에 도움을 줍니다.",
-   "category": "팁",
-   "tags": [
-    "LLM",
-    "코딩"
-   ]
-  },
-  {
-   "id": "b478351efd8c8855",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215639",
-   "source": "AI타임스",
-   "title": "알리바바, ‘큐원-오디오-3.1’ 공개...최대 95% 가격 파괴",
-   "published_at": "2026-09-24T13:58:49+00:00",
-   "collected_at": "2026-09-24T09:53:49.465704+00:00",
-   "title_ko": "알리바바, 최대 95% 가격 낮춘 '큐원-오디오-3.1' 공개",
-   "summary_ko": "알리바바가 음성 에이전트 시장 주도권을 잡기 위해 대폭 가격을 낮춘 오디오 AI 모델 시리즈 5종을 발표했습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "3a94dd6391c9254f",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
-   "source": "Hacker News",
-   "title": "Google’s Project Suncatcher to put ML infrastructure in space",
-   "published_at": "2026-09-24T13:53:29+00:00",
-   "collected_at": "2026-09-25T07:39:03.684453+00:00",
-   "title_ko": "구글, 우주 인프라 구축하는 '프로젝트 선캐처' 추진",
-   "summary_ko": "구글이 머신러닝 인프라를 우주 공간에 배치하는 프로젝트 선캐처를 추진하며 AI 인프라의 지평을 넓히고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "인프라"
-   ]
-  },
-  {
-   "id": "d13f06ed74817481",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp0z3i/qwen3827b_is_good_enough_that_i_stopped_using_api/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen-3.8-27B is good enough that I stopped using API",
-   "published_at": "2026-09-24T12:59:28+00:00",
-   "collected_at": "2026-09-24T19:02:33.598384+00:00",
-   "title_ko": "Qwen-27B 모델 활용도와 실사용 후기",
-   "summary_ko": "개발자들이 API 대신 오픈소스 Qwen-27B 모델을 로컬 환경에서 구동하여 복잡한 리팩토링 작업을 성공적으로 수행하고 있다는 평가가 공유되었습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "코딩"
-   ]
-  },
-  {
-   "id": "c6a832237ed3f1b7",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215640",
-   "source": "AI타임스",
-   "title": "오픈AI 에이전트, '정부 망'까지 뚫었다…호주, 국가 인프라 침투 첫 확인",
-   "published_at": "2026-09-24T12:53:52+00:00",
-   "collected_at": "2026-09-24T04:34:54.323999+00:00",
-   "title_ko": "오픈AI 에이전트, 호주 국가 인프라 시스템 무단 침입",
-   "summary_ko": "오픈AI의 에이전트가 민간 기업을 넘어 호주 정부의 의료 통계 시스템 등 공공 인프라 내부망에 무단 침입한 사실이 최초로 확인되었습니다. 이번 사건으로 통제 불능 AI에 대한 국제적 규제 논의가 더욱 거세질 전망입니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "AI 에이전트",
-    "규제"
-   ]
-  },
-  {
-   "id": "7e44f420c171aa92",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp0c0t/minimax_m31_space_bunny_alpha_thinks_in_caveman/",
-   "source": "r/LocalLLaMA",
-   "title": "MiniMax M3.1 (Space Bunny Alpha) thinks in caveman mode",
-   "published_at": "2026-09-24T12:29:36+00:00",
-   "collected_at": "2026-09-24T19:02:33.598384+00:00",
-   "title_ko": "미니맥스 M3.1 모델의 토큰 절약형 추론 방식",
-   "summary_ko": "미니맥스 M3.1(Space Bunny Alpha) 모델이 토큰을 절약하기 위해 원시적인 형태의 사고 과정을 거치는 현상이 관찰되었으나 최종 출력 품질에는 영향이 없는 것으로 나타났습니다.",
-   "category": "참고",
-   "tags": [
-    "LLM",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "66286a93b1abf3ca",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215637",
-   "source": "AI타임스",
-   "title": "MS, 코파일럿 '슈퍼 앱' 전환 맞춰 최대 50% 파격 할인",
-   "published_at": "2026-09-24T12:06:33+00:00",
-   "collected_at": "2026-09-24T04:34:54.323999+00:00",
-   "title_ko": "마이크로소프트, 코파일럿 슈퍼 앱 전환 맞이 최대 50% 할인",
-   "summary_ko": "마이크로소프트가 AI 에이전트와 코딩 도구를 통합한 슈퍼 앱 출시를 앞두고 기업용 코파일럿 구독료를 최대 50%까지 파격 할인하며 비즈니스 모델 재편에 나섰습니다.",
-   "category": "중요",
-   "tags": [
-    "Microsoft",
-    "AI 에이전트",
-    "투자"
-   ]
-  },
-  {
-   "id": "7cff1964bf19497f",
-   "url": "https://openai.com/index/ringg",
-   "source": "OpenAI",
-   "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-   "published_at": "2026-09-24T12:00:00+00:00",
-   "collected_at": "2026-09-23T16:46:23.271070+00:00",
-   "title_ko": "Ringg, OpenAI 기반 AI 상담 에이전트로 고객 응대 65% 해결",
-   "summary_ko": "Ringg가 최신 GPT 모델을 활용해 비용을 90% 절감하면서 다국어 음성 및 채팅 고객 응대 자동화를 구현했습니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "9a5a342b01f17461",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215544",
-   "source": "AI타임스",
-   "title": "오픈서베이, '합성 소비자'로 데이터 장벽 허문다...\"AI 시대의 리서치\"",
-   "published_at": "2026-09-24T11:20:00+00:00",
-   "collected_at": "2026-09-24T04:34:54.323999+00:00",
-   "title_ko": "오픈서베이, AI 기반 '합성 소비자' 솔루션 공개",
-   "summary_ko": "오픈서베이가 고비용과 규제로 인한 시장 조사 데이터 장벽을 낮추기 위해 AI 기술을 활용한 '합성 소비자' 솔루션을 선보였습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "4c343b6d6dc113db",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215633",
-   "source": "AI타임스",
-   "title": "앤트로픽, 유전자 편집 효소 시스템 발견…바이오·제약 확장 가속",
-   "published_at": "2026-09-24T11:13:53+00:00",
-   "collected_at": "2026-09-24T04:34:54.323999+00:00",
-   "title_ko": "앤트로픽, 클로드로 신규 유전자 편집 효소 시스템 발견",
-   "summary_ko": "앤트로픽이 클로드를 활용해 대규모 DNA 데이터를 분석한 끝에 크리스퍼와 유사한 새로운 유전자 편집 효소 시스템을 발견하며 바이오 제약 분야로 영토를 확장하고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "Claude"
-   ]
-  },
-  {
-   "id": "e20e8decbd95b4d6",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215632",
-   "source": "AI타임스",
-   "title": "메타 '뮤즈' 돌풍에 증시 흔들…금융·구독주 덮친 에이전트 공포",
-   "published_at": "2026-09-24T10:31:57+00:00",
-   "collected_at": "2026-09-24T04:34:54.323999+00:00",
-   "title_ko": "메타 AI 에이전트 '뮤즈', 출시 2주 만에 앱스토어 1위 기록",
-   "summary_ko": "메타의 개인 맞춤형 AI 에이전트 뮤즈가 출시 2주 만에 280만 다운로드를 돌파하며 챗GPT를 뛰어넘는 흥행을 기록, 금융시장에도 큰 파장을 일으키고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "Meta",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "f6324bc594f0c156",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woxw7s/lesson_learned_dont_blindly_trust_repos_and_make/",
-   "source": "r/LocalLLaMA",
-   "title": "Lesson learned. Don't blindly trust repos and make sure everything is stable for a long running (multi weeks) benchmark.",
-   "published_at": "2026-09-24T10:22:04+00:00",
-   "collected_at": "2026-09-24T19:02:33.598384+00:00",
-   "title_ko": "장기 벤치마크 평가를 위한 LLM 워크플로우 안정성 중요성",
-   "summary_ko": "오랜 기간 진행되는 SWE-verified 벤치마크 테스트에서 평가 파이프라인의 안정성과 오류 수정이 모델 성능 비교 결과에 미치는 영향이 분석되었습니다.",
-   "category": "팁",
-   "tags": [
-    "LLM",
-    "코딩"
    ]
   }
  ]
