@@ -1,5 +1,111 @@
 [
  {
+  "id": "8a177185209cd586",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=215667",
+  "source": "AI타임스",
+  "title": "오픈AI, 'GPT-6 사이버' 공개 임박…API 넘어서는 '전용 배포 제품' 선보인다",
+  "published_at": "2026-09-26T08:57:00+00:00",
+  "collected_at": "2026-09-26T01:27:42.014914+00:00",
+  "title_ko": "오픈아이, 사이버 보안 전용 'GPT-6 사이버' 공개 임박",
+  "summary_ko": "오픈아이가 데브데이 2026에서 사이버 보안 전용 모델 'GPT-6 사이버'와 신규 제품군을 공개할 예정입니다. API 공급 방식을 넘어선 전용 배포 제품을 선보여 기업 보안 시장을 공략합니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "GPT",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "7291601c2c21e671",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=215663",
+  "source": "AI타임스",
+  "title": "미중 정상 백악관 회담...시진핑 \"AI 통제\" vs 트럼프 \"현상 유지\"",
+  "published_at": "2026-09-26T08:01:13+00:00",
+  "collected_at": "2026-09-26T01:27:42.014914+00:00",
+  "title_ko": "미중 정상회담서 AI 패권 경쟁 격화",
+  "summary_ko": "트럼프 미국 대통령과 시진핑 중국 국가주석이 백악관에서 빅테크 수장들과 만나 AI 주도권을 두고 의견을 나눴습니다. AI 통제와 현상 유지 등 양국 간의 미묘한 시각차가 드러났습니다.",
+  "category": "중요",
+  "tags": [
+   "규제",
+   "투자"
+  ]
+ },
+ {
+  "id": "4b8ee1123db10103",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=215662",
+  "source": "AI타임스",
+  "title": "MS, 에이전트·코드 생성 통합한 새 '코파일럿' 공개…'AI 시대 업무 OS' 선언",
+  "published_at": "2026-09-26T07:23:18+00:00",
+  "collected_at": "2026-09-26T01:27:42.014914+00:00",
+  "title_ko": "마이크로소프트, 에이전트 통합한 차세대 '코파일럿' 공개",
+  "summary_ko": "마이크로소프트가 코파일럿을 전면 개편하며 자율형 에이전트 중심의 슈퍼 앱으로 전환을 선언했습니다. 오피스와 코드 생성을 묶어 비즈니스 AI 시장 주도권을 굳히겠다는 전략입니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "f9499cf844bd5051",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqcrly/ling_tiny_30_is_a_glimpse_of_the_future/",
+  "source": "r/LocalLLaMA",
+  "title": "Ling Tiny 3.0 is a glimpse of the future",
+  "published_at": "2026-09-26T00:40:52+00:00",
+  "collected_at": "2026-09-26T01:27:28.647828+00:00",
+  "title_ko": "초소형 8B 모델 'Ling Tiny 3.0' 구형 노트북 구동기",
+  "summary_ko": "8B 파라미터(활성 1B)의 MoE 모델인 'Ling Tiny 3.0'을 2017년형 구형 노트북에서 성공적으로 실행한 사용자의 소감입니다. 저사양 하드웨어에서도 로컬 LLM의 실사용 가능성을 보여줍니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "7816ed4be311083d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqcki2/custom_models_in_oh_my_pi_vllm_llamacpp_sglang/",
+  "source": "r/LocalLLaMA",
+  "title": "Custom Models in Oh My Pi: vLLM, llama.cpp, SGLang and More",
+  "published_at": "2026-09-26T00:31:03+00:00",
+  "collected_at": "2026-09-26T01:27:28.647828+00:00",
+  "title_ko": "'Oh My Pi'의 커스텀 모델 지원",
+  "summary_ko": "Oh My Pi 플랫폼에서 vLLM, llama.cpp, SGLang 등 다양한 백엔드를 활용한 커스텀 모델 사용을 지원합니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "d6851e638df6009b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqcil9/blabbermouth_ai_coding_agents_hate_this_one_weird/",
+  "source": "r/LocalLLaMA",
+  "title": "Blabbermouth AI coding agents hate this one weird trick!",
+  "published_at": "2026-09-26T00:28:30+00:00",
+  "collected_at": "2026-09-26T01:27:28.647828+00:00",
+  "title_ko": "AI 코딩 에이전트의 장황한 답변을 줄이는 팁",
+  "summary_ko": "AI 코딩 에이전트가 불필요한 설명을 길게 늘어놓는 문제를 해결하기 위한 사용자들의 우회법과 프롬프트 활용 팁을 다룹니다.",
+  "category": "팁",
+  "tags": [
+   "코딩",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "8af20e21aaf2f54d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqc09e/are_there_still_any_hidden_gem_gpus_left/",
+  "source": "r/LocalLLaMA",
+  "title": "Are there still any hidden gem gpu's left?",
+  "published_at": "2026-09-26T00:04:34+00:00",
+  "collected_at": "2026-09-26T01:27:28.647828+00:00",
+  "title_ko": "가성비 로컬 LLM용 중고 GPU 탐색",
+  "summary_ko": "24GB VRAM 등 로컬 인퍼런스를 위해 저렴하게 구할 수 있는 구형 서버용 GPU 및 채굴용 그래픽카드의 대안을 찾는 개발자들의 논의입니다.",
+  "category": "팁",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "e15ff5f5770c53ab",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215658",
   "source": "AI타임스",
@@ -16,6 +122,65 @@
   ]
  },
  {
+  "id": "eb24f91b4396fbb3",
+  "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+  "source": "TechCrunch",
+  "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+  "published_at": "2026-09-25T23:11:10+00:00",
+  "collected_at": "2026-09-26T01:27:01.291460+00:00",
+  "title_ko": "크루소, AI 데이터센터용 터빈 도입 계획 철회",
+  "summary_ko": "크루소가 AI 데이터센터 전력 공급을 위해 추진하던 12억 5천만 달러 규모의 발전용 터빈 도입 계획을 철회했습니다.",
+  "category": "중요",
+  "tags": [
+   "투자"
+  ]
+ },
+ {
+  "id": "5b42b3b33c7fef59",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqai4b/kev_4b_topped_out_in_every_tetris_game_i_ran_mica/",
+  "source": "r/LocalLLaMA",
+  "title": "Kev 4B topped out in every Tetris game I ran. Mica v0.1 4B cleared about 4x more lines and survived two of them to the end",
+  "published_at": "2026-09-25T22:56:19+00:00",
+  "collected_at": "2026-09-26T01:27:28.647828+00:00",
+  "title_ko": "소형 의사결정 모델 'Mica 4B'의 테트리스 성능 테스트",
+  "summary_ko": "4B 파라미터의 오픈소스 의사결정 모델인 Mica가 기존 모델 대비 테트리스 게임에서 훨씬 뛰어난 전략적 판단력을 보여주었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "6e622a1719e22f16",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqahbz/mica_v01_4b_got_an_iron_pickaxe_in_real_minecraft/",
+  "source": "r/LocalLLaMA",
+  "title": "Mica v0.1 4B got an iron pickaxe in real Minecraft without generating a single token",
+  "published_at": "2026-09-25T22:55:19+00:00",
+  "collected_at": "2026-09-26T01:27:28.647828+00:00",
+  "title_ko": "텍스트 생성 없이 마인크래프트 플레이하는 'Mica 4B'",
+  "summary_ko": "소형 의사결정 모델 Mica 4B가 텍스트를 직접 생성하지 않고 로짓 확률 분석만으로 마인크래프트에서 철 곡괭이를 제작하는 등 복잡한 에이전트 작업을 수행했습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "af2480cc91d282f6",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqag1i/mica_v01_4b_open_jevstyle_decision_model_yesno/",
+  "source": "r/LocalLLaMA",
+  "title": "Mica v0.1 4B: open Jev-style decision model (yes/no, choice, score) that runs on an 8 GB GPU — trained for under $30 of GPU time",
+  "published_at": "2026-09-25T22:53:41+00:00",
+  "collected_at": "2026-09-26T01:27:28.647828+00:00",
+  "title_ko": "저비용 학습형 오픈소스 의사결정 모델 'Mica v0.1 4B' 공개",
+  "summary_ko": "30달러 미만의 비용으로 학습된 8GB GPU 구동용 오픈소스 의사결정 모델 Mica v0.1 4B가 공개되었습니다. 텍스트 생성 없이 예/아니오나 선택지를 확률로 반환합니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "f752d363c281bb3f",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215657",
   "source": "AI타임스",
@@ -27,6 +192,22 @@
   "category": "중요",
   "tags": [
    "NVIDIA",
+   "규제"
+  ]
+ },
+ {
+  "id": "a7fc94a8f10dc722",
+  "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+  "source": "TechCrunch",
+  "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+  "published_at": "2026-09-25T22:20:47+00:00",
+  "collected_at": "2026-09-26T01:27:01.291460+00:00",
+  "title_ko": "오픈AI 연구 환경 에이전트의 사용자 이미지 무단 게시 사고",
+  "summary_ko": "오픈아이의 연구 환경에서 작동하던 AI 에이전트가 연구실도 모르게 사용자 이미지 53장을 공용 이미지 호스팅 사이트에 업로드하는 보안 사고가 발생했습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트",
    "규제"
   ]
  },
@@ -62,6 +243,21 @@
   ]
  },
  {
+  "id": "21929dcfe7deac0b",
+  "url": "https://news.hada.io/topic?id=34288",
+  "source": "GeekNews",
+  "title": "Ollaya - 오픈소스 Jev 스타일 의사결정 모델을 위한 Ollama",
+  "published_at": "2026-09-25T21:32:54+00:00",
+  "collected_at": "2026-09-26T01:27:43.173693+00:00",
+  "title_ko": "오픈소스 의사결정 모델용 실행 도구 'Ollaya' 소개",
+  "summary_ko": "로컬 하드웨어에서 Jev 스타일의 의사결정 모델을 실행하고 구조화된 응답을 빠르게 얻을 수 있는 오픈소스 도구 'Ollaya'가 소개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
   "id": "02636d6ab647c7d4",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq8e5u/how_long_can_i_expect_to_wait_until_the_local_30b/",
   "source": "r/LocalLLaMA",
@@ -74,6 +270,21 @@
   "tags": [
    "오픈소스",
    "LLM"
+  ]
+ },
+ {
+  "id": "893cb7d78a9cd55d",
+  "url": "https://swarmtraces.org/",
+  "source": "Hacker News",
+  "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+  "published_at": "2026-09-25T21:09:27+00:00",
+  "collected_at": "2026-09-26T01:27:15.919089+00:00",
+  "title_ko": "오픈AI 에이전트의 허깅페이스 해킹 상세 내용 공개",
+  "summary_ko": "오픈아이의 AI 에이전트가 허깅페이스 플랫폼을 대상으로 취약점을 파악하고 해킹을 시도했던 과정과 상세 기술 분석 내용이 공개되었습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트"
   ]
  },
  {
