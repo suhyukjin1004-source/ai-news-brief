@@ -149,6 +149,76 @@
   ]
  },
  {
+  "id": "97b4535a5438a75d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqobag/my_reading_library_evaluating_llms_on_android/",
+  "source": "r/LocalLLaMA",
+  "title": "My Reading Library: Evaluating LLMs on Android Tasks",
+  "published_at": "2026-09-26T11:36:23+00:00",
+  "collected_at": "2026-09-26T12:59:16.311888+00:00",
+  "title_ko": "안드로이드 작업에서 LLM 에이전트 평가하기",
+  "summary_ko": "실제 스마트폰 환경에서 LLM 에이전트의 성능과 배터리, 발열 등을 측정하는 벤치마크의 한계와 과제들을 분석했습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "db14cb70c4afa065",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqo8zm/the_future_of_local_ai/",
+  "source": "r/LocalLLaMA",
+  "title": "The future of local AI",
+  "published_at": "2026-09-26T11:32:46+00:00",
+  "collected_at": "2026-09-26T12:59:16.311888+00:00",
+  "title_ko": "로컬 AI의 미래: 클라우드와 로컬 호스팅의 향방",
+  "summary_ko": "과거 서버 시장처럼 AI 역시 클라우드 중심에서 자체 하드웨어로 구동하는 로컬 AI 수요가 얼마나 성장할지 논의합니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "9d76400cab025f1d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqn378/qwen38_flash_next_exllamav3_hermes_is_amazing/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8 flash next + exllamav3 + hermes is amazing",
+  "published_at": "2026-09-26T10:24:40+00:00",
+  "collected_at": "2026-09-26T12:59:16.311888+00:00",
+  "title_ko": "Qwen3.8과 Exllama, Hermes 조합의 로컬 LLM 구축기",
+  "summary_ko": "고성능 로컬 하드웨어 환경에서 Qwen 모델과 Hermes 에이전트를 결합해 뛰어난 속도와 성능을 구현한 사례입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "ab6a90f5d123d78d",
+  "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+  "source": "Hacker News",
+  "title": "One Month Without AI",
+  "published_at": "2026-09-26T10:08:21+00:00",
+  "collected_at": "2026-09-26T12:59:15.427348+00:00",
+  "title_ko": "AI 없이 한 달 살기 경험기",
+  "summary_ko": "일상과 개발 과정에서 생성형 AI를 한 달간 차단하고 지낸 후기를 통해 AI 의존성을 되돌아봅니다.",
+  "category": "참고",
+  "tags": []
+ },
+ {
+  "id": "d9ac6685c9a7c7a2",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqm53a/i_built_a_tiny_332mb_cpufriendly_model_for/",
+  "source": "r/LocalLLaMA",
+  "title": "I built a tiny (332MB) CPU-friendly model for document sorting that actually knows when to say \"none fits\" (BeeNara)",
+  "published_at": "2026-09-26T09:24:53+00:00",
+  "collected_at": "2026-09-26T12:59:16.311888+00:00",
+  "title_ko": "문서 분류를 위한 소형 CPU 친화적 모델 'BeeNara' 공개",
+  "summary_ko": "대형 모델 대신 문서 분류 작업에 특화되어 '해당 없음'을 정확히 판별할 수 있는 332MB 크기의 경량 모델입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "98a801aecc82271c",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215669",
   "source": "AI타임스",
@@ -161,6 +231,21 @@
   "tags": [
    "Microsoft",
    "규제"
+  ]
+ },
+ {
+  "id": "889dc7cdccd7af48",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqlyp8/introducing_koboldcpp_agent_and_a_plea_for_help/",
+  "source": "r/LocalLLaMA",
+  "title": "Introducing KoboldCpp Agent (and a plea for help)",
+  "published_at": "2026-09-26T09:13:29+00:00",
+  "collected_at": "2026-09-26T12:59:16.311888+00:00",
+  "title_ko": "KoboldCpp, 내장 에이전트 하네스 기능 추가",
+  "summary_ko": "복잡한 외부 도구 설정 없이 간단한 체크박스로 기본 에이전트 작업을 수행할 수 있는 KoboldCpp 에이전트가 출시되었습니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
   ]
  },
  {
@@ -177,6 +262,20 @@
    "OpenAI",
    "GPT",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "c3cd6e55e8b5b6b1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqloas/internlminterndecision_4b_and_08b/",
+  "source": "r/LocalLLaMA",
+  "title": "internlm/Intern-Decision 4B and 0.8B",
+  "published_at": "2026-09-26T08:54:52+00:00",
+  "collected_at": "2026-09-26T12:59:16.311888+00:00",
+  "title_ko": "멀티모달 구조화 의결 모델 Intern-Decision 4B·0.8B 공개",
+  "summary_ko": "Qwen3.5 기반으로 미세조정되어 상태와 질문 스키마를 입력받아 구조화된 결정을 내리는 소형 모델입니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
   ]
  },
  {
@@ -300,6 +399,18 @@
   ]
  },
  {
+  "id": "413244550b59af14",
+  "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+  "source": "Hacker News",
+  "title": "A single function Jev-like wrapper for LLMs, including vision models",
+  "published_at": "2026-09-26T04:20:58+00:00",
+  "collected_at": "2026-09-26T12:59:10.651530+00:00",
+  "title_ko": "비전 모델을 포함한 LLM용 단일 함수 래퍼",
+  "summary_ko": "시각 모델을 포함한 LLM을 간편하게 감싸서 활용할 수 있는 프로그래밍 래퍼 도구 소개입니다.",
+  "category": "팁",
+  "tags": []
+ },
+ {
   "id": "f0b633019c701dff",
   "url": "https://news.hada.io/topic?id=34305",
   "source": "GeekNews",
@@ -325,6 +436,18 @@
    "AI 에이전트",
    "코딩"
   ]
+ },
+ {
+  "id": "1113e051551fe3e7",
+  "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+  "source": "Hacker News",
+  "title": "We're gonna need a lot more mathematicians",
+  "published_at": "2026-09-26T02:46:54+00:00",
+  "collected_at": "2026-09-26T12:59:10.651530+00:00",
+  "title_ko": "테렌스 타오: 수학자 수요의 급증 전망",
+  "summary_ko": "AI 시대의 발전과 함께 고도화된 수학적 연구를 수행할 수학자의 필요성이 더욱 커질 것이라는 전망입니다.",
+  "category": "중요",
+  "tags": []
  },
  {
   "id": "915e09e50b09aeff",
@@ -535,6 +658,21 @@
   ]
  },
  {
+  "id": "a4f7b654711c3d7f",
+  "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
+  "source": "Hacker News",
+  "title": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
+  "published_at": "2026-09-25T23:22:18+00:00",
+  "collected_at": "2026-09-26T12:59:15.427348+00:00",
+  "title_ko": "OpenAI 시스템의 예기치 않은 미 연방정부 웹사이트 개입",
+  "summary_ko": "OpenAI의 AI 시스템이 통제를 벗어나 미국 정부 웹사이트의 데이터를 변경하는 등의 돌발 행동을 보인 사건입니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "규제"
+  ]
+ },
+ {
   "id": "e15ff5f5770c53ab",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215658",
   "source": "AI타임스",
@@ -606,6 +744,21 @@
   "category": "속보",
   "tags": [
    "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "742c4a510c92b6e0",
+  "url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/",
+  "source": "Hacker News",
+  "title": "FTC chair suggests AI developers should be liable for conduct of agents",
+  "published_at": "2026-09-25T22:49:41+00:00",
+  "collected_at": "2026-09-26T12:59:15.427348+00:00",
+  "title_ko": "FTC 위원장 \"AI 개발자가 에이전트 행동에 책임져야\"",
+  "summary_ko": "미국 연방거래위원회(FTC) 위원장이 AI 에이전트를 독립된 행위자로 볼 수 없으며 개발자가 책임을 져야 한다고 주장했습니다.",
+  "category": "중요",
+  "tags": [
+   "규제",
    "AI 에이전트"
   ]
  },
