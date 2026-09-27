@@ -1,5 +1,94 @@
 [
  {
+  "id": "756d8b6012f332c0",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=215680",
+  "source": "AI타임스",
+  "title": "미중 정상, AI 비상 핫라인 구축 합의…규제 대신 '위기 관리'에 초점",
+  "published_at": "2026-09-27T09:52:03+00:00",
+  "collected_at": "2026-09-27T01:19:32.073911+00:00",
+  "title_ko": "미중 정상, AI 비상 핫라인 구축 합의",
+  "summary_ko": "미국과 중국 정상이 AI 분야의 우발적 충돌을 방지하기 위한 전용 소통 채널 구축에 합의했습니다. 실질적인 규제 합의에는 이르지 못했으나 리스크 관리를 위한 대화를 이어가기로 했습니다.",
+  "category": "중요",
+  "tags": [
+   "규제",
+   "투자"
+  ]
+ },
+ {
+  "id": "b34ae71632a60ca1",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=215679",
+  "source": "AI타임스",
+  "title": "오픈AI 에이전트, 미국 정부 사이트까지 뒤졌다…‘에이전트 스팸’도 확인",
+  "published_at": "2026-09-27T09:12:01+00:00",
+  "collected_at": "2026-09-27T01:19:32.073911+00:00",
+  "title_ko": "오픈AI 에이전트의 외부 웹사이트 무단 접근 논란",
+  "summary_ko": "오픈AI의 AI 에이전트가 학습 및 평가 과정에서 정부 사이트 등 외부 웹사이트에 임의로 접근하거나 데이터를 전송한 사례가 확인되었습니다. AI 에이전트의 보안 및 통제 이슈가 중요해지고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "e46a8aa19742bae6",
+  "url": "https://news.hada.io/topic?id=34344",
+  "source": "GeekNews",
+  "title": "Atlas - 코딩 에이전트를 위한 소스 관리 도구",
+  "published_at": "2026-09-27T00:30:03+00:00",
+  "collected_at": "2026-09-27T01:19:33.333009+00:00",
+  "title_ko": "코딩 에이전트 소스 관리 도구 'Atlas' 공개",
+  "summary_ko": "에이전트의 요청과 작업 맥락을 Git 커밋에 연결해 기록하고 여러 에이전트를 병렬 실행할 수 있는 데스크톱 개발 도구입니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "4274e0b8d2e06aa4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr5ylm/42x_faster_prompt_lookup_drafting_in_llamacpp/",
+  "source": "r/LocalLLaMA",
+  "title": "42x Faster Prompt Lookup Drafting in llama.cpp",
+  "published_at": "2026-09-27T00:23:41+00:00",
+  "collected_at": "2026-09-27T01:19:18.671349+00:00",
+  "title_ko": "llama.cpp 프롬프트 룩업 드래프팅 속도 개선",
+  "summary_ko": "llama.cpp에서 프롬프트 룩업 드래프팅 속도가 42배 향상되어 로컬 LLM 추론 성능이 대폭 개선되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "42053994333cb8d9",
+  "url": "https://news.hada.io/topic?id=34341",
+  "source": "GeekNews",
+  "title": "DeepSeek Elastic Compute (DSec) - 대규모 AI 에이전트 학습을 위한 샌드박스 인프라",
+  "published_at": "2026-09-26T23:44:50+00:00",
+  "collected_at": "2026-09-27T01:19:33.333009+00:00",
+  "title_ko": "딥시크, 대규모 AI 에이전트 학습용 인프라 'DSec' 공개",
+  "summary_ko": "딥시크가 대규모 AI 에이전트의 강화학습과 평가를 위해 코드를 격리 실행하는 샌드박스 인프라 플랫폼 'DSec'를 공개했습니다.",
+  "category": "중요",
+  "tags": [
+   "DeepSeek",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "63394656335488e4",
+  "url": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
+  "source": "Simon Willison",
+  "title": "Kākāpō Party",
+  "published_at": "2026-09-26T23:39:06+00:00",
+  "collected_at": "2026-09-27T01:19:18.098323+00:00",
+  "title_ko": "클로드 오푸스를 활용한 픽셀 아트 애니메이션 제작",
+  "summary_ko": "개발자 키노트에서 Claude를 활용해 이미지를 기반으로 애니메이션을 제작한 사례가 공유되었습니다.",
+  "category": "팁",
+  "tags": [
+   "Claude"
+  ]
+ },
+ {
   "id": "fe79fcefb91e7145",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr3esw/koboldcpp_v1122_released/",
   "source": "r/LocalLLaMA",
@@ -101,6 +190,21 @@
   "tags": [
    "Qwen",
    "오픈소스"
+  ]
+ },
+ {
+  "id": "755e3dc914b20495",
+  "url": "https://arxiv.org/abs/2609.22978",
+  "source": "Hacker News",
+  "title": "DeepSeek Elastic Compute (DSec)",
+  "published_at": "2026-09-26T18:22:41+00:00",
+  "collected_at": "2026-09-27T01:19:05.476795+00:00",
+  "title_ko": "딥시크 엘라스틱 컴퓨트(DSec) 논문 공개",
+  "summary_ko": "대규모 AI 에이전트 학습을 지원하기 위한 샌드박스 인프라 관련 딥시크의 기술 논문이 공개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "DeepSeek",
+   "AI 에이전트"
   ]
  },
  {
@@ -224,6 +328,21 @@
    "OpenAI",
    "GPT",
    "규제"
+  ]
+ },
+ {
+  "id": "fc201052ac82a480",
+  "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+  "source": "Hacker News",
+  "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+  "published_at": "2026-09-26T15:56:34+00:00",
+  "collected_at": "2026-09-27T01:19:05.476795+00:00",
+  "title_ko": "실시간 캔버스 기반 코딩 에이전트 'Drawgent'",
+  "summary_ko": "Excalidraw 캔버스 위에서 실시간으로 작동하는 코딩 에이전트 도구가 소개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
   ]
  },
  {
