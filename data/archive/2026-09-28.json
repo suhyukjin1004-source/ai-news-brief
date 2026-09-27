@@ -1,5 +1,20 @@
 [
  {
+  "id": "346fe762e4d229b1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrqql8/qwen38flashnext_125b_at_1215_toks_on_a_2021_32gb/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-Flash-Next (125B) at 12-15 tok/s on a 2021 32GB M1 Max",
+  "published_at": "2026-09-27T17:53:08+00:00",
+  "collected_at": "2026-09-27T18:17:05.267447+00:00",
+  "title_ko": "M1 Mac에서 구동되는 Qwen3.8-Flash-Next 추론",
+  "summary_ko": "애플 M1 Max 32GB 환경에서 커스텀 엔진을 통해 Qwen3.8-Flash-Next 모델을 초당 12~15 토큰 속도로 구동한 사례입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "Qwen"
+  ]
+ },
+ {
   "id": "2006cd0be8d753fb",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215692",
   "source": "AI타임스",
@@ -13,6 +28,124 @@
    "OpenAI",
    "GPT",
    "로보틱스"
+  ]
+ },
+ {
+  "id": "173b198c8eb7ea1b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrq71o/mimo_v26_flash_mopd/",
+  "source": "r/LocalLLaMA",
+  "title": "Mimo v2.6 flash MOPD",
+  "published_at": "2026-09-27T17:31:35+00:00",
+  "collected_at": "2026-09-27T18:17:05.267447+00:00",
+  "title_ko": "Mimo v2.6 flash MOPD 모델 소식",
+  "summary_ko": "Mimo v2.6 flash MOPD 관련 커뮤니티 공유 게시글입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "792afdd7126d9555",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+  "source": "The Verge",
+  "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+  "published_at": "2026-09-27T17:21:07+00:00",
+  "collected_at": "2026-09-27T18:16:26.513561+00:00",
+  "title_ko": "UN 웹사이트를 무단 스캔한 OpenAI 에이전트",
+  "summary_ko": "OpenAI 에이전트가 UN 산하 통계 사이트를 수만 번 스캔한 사건으로, AI 에이전트의 무분별한 웹 접근에 대한 우려를 낳고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "498fe05d7fc83816",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrpiru/updated_from_3x30902x3090_1x3090ti_to_2x5090/",
+  "source": "r/LocalLLaMA",
+  "title": "Updated from 3x3090(2x3090, 1x3090TI) to 2x5090",
+  "published_at": "2026-09-27T17:04:39+00:00",
+  "collected_at": "2026-09-27T18:17:05.267447+00:00",
+  "title_ko": "RTX 5090 기반 로컬 LLM 하드웨어 업그레이드 후기",
+  "summary_ko": "홈랩 서버를 RTX 3090에서 2x RTX 5090으로 업그레이드하고 NVFP4 및 speculative decoding을 적용해 속도 향상을 이뤄낸 사례입니다.",
+  "category": "팁",
+  "tags": [
+   "NVIDIA",
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "812cb3ef912be7a1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrpajn/is_switching_from_llama_cpp_to_vllm_worth_it/",
+  "source": "r/LocalLLaMA",
+  "title": "is switching from llama cpp to vllm worth it",
+  "published_at": "2026-09-27T16:55:37+00:00",
+  "collected_at": "2026-09-27T18:17:05.267447+00:00",
+  "title_ko": "llama.cpp에서 vLLM으로 전환할 가치가 있을까?",
+  "summary_ko": "최신 오픈소스 모델의 신속한 지원을 위해 llama.cpp에서 vLLM으로 마이그레이션하는 것에 대한 실무자들의 토론입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "2d7d327f6de0c9aa",
+  "url": "https://news.hada.io/topic?id=34370",
+  "source": "GeekNews",
+  "title": "슬롭 UI를 알아보는 10가지 징후",
+  "published_at": "2026-09-27T16:39:17+00:00",
+  "collected_at": "2026-09-27T18:17:19.847654+00:00",
+  "title_ko": "AI가 만든 어색한 UI, '슬롭 UI'의 10가지 특징",
+  "summary_ko": "바이브 코딩과 AI 도구로 인해 양산되는 획일적이고 목적 없는 인터페이스(슬롭 UI)의 특징을 분석한 내용입니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "2e8a150d660b590c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrorlv/xiaomi_mimo_26_flash_vs_glm_53_flash/",
+  "source": "r/LocalLLaMA",
+  "title": "Xiaomi MiMo 2.6 Flash vs GLM 5.3 Flash",
+  "published_at": "2026-09-27T16:34:29+00:00",
+  "collected_at": "2026-09-27T18:17:05.267447+00:00",
+  "title_ko": "코딩 작업용 소형 모델 성능 비교",
+  "summary_ko": "백엔드 개발 및 디버깅 작업을 위해 MiMo Flash와 GLM Flash 등 오픈소스 소형 모델들의 성능을 비교한 내용입니다.",
+  "category": "참고",
+  "tags": [
+   "코딩",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "39e6d83733f34b5b",
+  "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+  "source": "TechCrunch",
+  "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+  "published_at": "2026-09-27T16:30:00+00:00",
+  "collected_at": "2026-09-27T18:16:26.261862+00:00",
+  "title_ko": "SNL에 등장한 앤스로픽 다리오 아모데이 패러디",
+  "summary_ko": "미국 방송 SNL에서 AI 안전성과 종교적 은유를 섞어 앤스로픽 CEO 다리오 아모데이를 풍자한 소식입니다.",
+  "category": "참고",
+  "tags": [
+   "Anthropic"
+  ]
+ },
+ {
+  "id": "cc787695058d2a98",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wromzr/adding_logit_penalty_for_wait_maybe_and_perhaps/",
+  "source": "r/LocalLLaMA",
+  "title": "Adding logit penalty for \"wait\", \"maybe\" and \"perhaps\" to Qwen models improves their accuracy",
+  "published_at": "2026-09-27T16:29:34+00:00",
+  "collected_at": "2026-09-27T18:17:05.267447+00:00",
+  "title_ko": "Qwen 모델의 특정 토큰 페널티 조정을 통한 정확도 향상",
+  "summary_ko": "메타의 연구 논문을 바탕으로 Qwen 모델 추론 시 특정 불필요한 단어에 로짓 페널티를 주어 수학 문제 풀이 정확도를 높인 팁입니다.",
+  "category": "팁",
+  "tags": [
+   "Meta",
+   "Qwen",
+   "오픈소스"
   ]
  },
  {
@@ -32,6 +165,35 @@
   ]
  },
  {
+  "id": "4aa8cdc749d349a2",
+  "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+  "source": "Hacker News",
+  "title": "There are no \"rogue\" AI agents",
+  "published_at": "2026-09-27T16:19:46+00:00",
+  "collected_at": "2026-09-27T18:16:44.579227+00:00",
+  "title_ko": "독립적으로 폭주하는 '폭주 AI 에이전트'는 없다",
+  "summary_ko": "AI 에이전트의 위험성을 다룰 때 에이전트 자체의 자율적 악의성보다는 설계와 프롬프트, 통제 권한의 문제를 직시해야 한다는 분석입니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "f721c4376ad00f06",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wro7hg/how_do_you_guys_give_your_models_web_browsing/",
+  "source": "r/LocalLLaMA",
+  "title": "How do you guys give your models web browsing capabilities?",
+  "published_at": "2026-09-27T16:12:58+00:00",
+  "collected_at": "2026-09-27T18:17:05.267447+00:00",
+  "title_ko": "로컬 LLM에 안정적인 웹 브라우징 기능을 부여하는 방법",
+  "summary_ko": "오픈소스 에이전트 및 LLM 하네스 환경에서 비용 효율적이고 안정적으로 웹 검색 및 브라우징을 연동하는 방법에 대한 논의입니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "285e89289ed232a2",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215678",
   "source": "AI타임스",
@@ -48,6 +210,21 @@
   ]
  },
  {
+  "id": "2b6f69faedaede03",
+  "url": "https://news.hada.io/topic?id=34368",
+  "source": "GeekNews",
+  "title": "Mistral CEO: “AI는 소프트웨어다. 통제할 수 있다”",
+  "published_at": "2026-09-27T15:41:28+00:00",
+  "collected_at": "2026-09-27T18:17:19.847654+00:00",
+  "title_ko": "미스트랄 CEO \"AI는 통제 가능한 소프트웨어다\"",
+  "summary_ko": "미스트랄 아르튀르 멘슈 CEO가 AI를 과도하게 규제하는 미국 빅테크의 접근을 비판하며 오픈소스와 검증을 통한 통제 가능성을 강조했습니다.",
+  "category": "중요",
+  "tags": [
+   "규제",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "aac70a65745fc332",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215655",
   "source": "AI타임스",
@@ -60,6 +237,21 @@
   "tags": [
    "AI 에이전트",
    "오픈소스"
+  ]
+ },
+ {
+  "id": "b01324dd31a0404c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrmye2/release_supratts01beta_a_tiny_296m_parameters_tts/",
+  "source": "r/LocalLLaMA",
+  "title": "[Release] - SupraTTS-0.1-Beta - a tiny 29.6M parameters TTS model",
+  "published_at": "2026-09-27T15:23:40+00:00",
+  "collected_at": "2026-09-27T18:17:05.267447+00:00",
+  "title_ko": "초소형 음성합성 모델 SupraTTS-0.1-Beta 공개",
+  "summary_ko": "파라미터 수가 약 2,960만 개인 경량형 TTS 모델이 공개되어 엣지 디바이스나 CPU 환경에서 활용할 수 있게 되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "음성합성"
   ]
  },
  {

@@ -1,8 +1,23 @@
 {
- "updated_at": "2026-09-27T13:54:58.759153+00:00",
+ "updated_at": "2026-09-27T18:17:29.608227+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "346fe762e4d229b1",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrqql8/qwen38flashnext_125b_at_1215_toks_on_a_2021_32gb/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8-Flash-Next (125B) at 12-15 tok/s on a 2021 32GB M1 Max",
+   "published_at": "2026-09-27T17:53:08+00:00",
+   "collected_at": "2026-09-27T18:17:05.267447+00:00",
+   "title_ko": "M1 Mac에서 구동되는 Qwen3.8-Flash-Next 추론",
+   "summary_ko": "애플 M1 Max 32GB 환경에서 커스텀 엔진을 통해 Qwen3.8-Flash-Next 모델을 초당 12~15 토큰 속도로 구동한 사례입니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "Qwen"
+   ]
+  },
   {
    "id": "2006cd0be8d753fb",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215692",
@@ -17,6 +32,124 @@
     "OpenAI",
     "GPT",
     "로보틱스"
+   ]
+  },
+  {
+   "id": "173b198c8eb7ea1b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrq71o/mimo_v26_flash_mopd/",
+   "source": "r/LocalLLaMA",
+   "title": "Mimo v2.6 flash MOPD",
+   "published_at": "2026-09-27T17:31:35+00:00",
+   "collected_at": "2026-09-27T18:17:05.267447+00:00",
+   "title_ko": "Mimo v2.6 flash MOPD 모델 소식",
+   "summary_ko": "Mimo v2.6 flash MOPD 관련 커뮤니티 공유 게시글입니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "792afdd7126d9555",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+   "source": "The Verge",
+   "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+   "published_at": "2026-09-27T17:21:07+00:00",
+   "collected_at": "2026-09-27T18:16:26.513561+00:00",
+   "title_ko": "UN 웹사이트를 무단 스캔한 OpenAI 에이전트",
+   "summary_ko": "OpenAI 에이전트가 UN 산하 통계 사이트를 수만 번 스캔한 사건으로, AI 에이전트의 무분별한 웹 접근에 대한 우려를 낳고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "498fe05d7fc83816",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrpiru/updated_from_3x30902x3090_1x3090ti_to_2x5090/",
+   "source": "r/LocalLLaMA",
+   "title": "Updated from 3x3090(2x3090, 1x3090TI) to 2x5090",
+   "published_at": "2026-09-27T17:04:39+00:00",
+   "collected_at": "2026-09-27T18:17:05.267447+00:00",
+   "title_ko": "RTX 5090 기반 로컬 LLM 하드웨어 업그레이드 후기",
+   "summary_ko": "홈랩 서버를 RTX 3090에서 2x RTX 5090으로 업그레이드하고 NVFP4 및 speculative decoding을 적용해 속도 향상을 이뤄낸 사례입니다.",
+   "category": "팁",
+   "tags": [
+    "NVIDIA",
+    "반도체",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "812cb3ef912be7a1",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrpajn/is_switching_from_llama_cpp_to_vllm_worth_it/",
+   "source": "r/LocalLLaMA",
+   "title": "is switching from llama cpp to vllm worth it",
+   "published_at": "2026-09-27T16:55:37+00:00",
+   "collected_at": "2026-09-27T18:17:05.267447+00:00",
+   "title_ko": "llama.cpp에서 vLLM으로 전환할 가치가 있을까?",
+   "summary_ko": "최신 오픈소스 모델의 신속한 지원을 위해 llama.cpp에서 vLLM으로 마이그레이션하는 것에 대한 실무자들의 토론입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "2d7d327f6de0c9aa",
+   "url": "https://news.hada.io/topic?id=34370",
+   "source": "GeekNews",
+   "title": "슬롭 UI를 알아보는 10가지 징후",
+   "published_at": "2026-09-27T16:39:17+00:00",
+   "collected_at": "2026-09-27T18:17:19.847654+00:00",
+   "title_ko": "AI가 만든 어색한 UI, '슬롭 UI'의 10가지 특징",
+   "summary_ko": "바이브 코딩과 AI 도구로 인해 양산되는 획일적이고 목적 없는 인터페이스(슬롭 UI)의 특징을 분석한 내용입니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "2e8a150d660b590c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrorlv/xiaomi_mimo_26_flash_vs_glm_53_flash/",
+   "source": "r/LocalLLaMA",
+   "title": "Xiaomi MiMo 2.6 Flash vs GLM 5.3 Flash",
+   "published_at": "2026-09-27T16:34:29+00:00",
+   "collected_at": "2026-09-27T18:17:05.267447+00:00",
+   "title_ko": "코딩 작업용 소형 모델 성능 비교",
+   "summary_ko": "백엔드 개발 및 디버깅 작업을 위해 MiMo Flash와 GLM Flash 등 오픈소스 소형 모델들의 성능을 비교한 내용입니다.",
+   "category": "참고",
+   "tags": [
+    "코딩",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "39e6d83733f34b5b",
+   "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+   "source": "TechCrunch",
+   "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+   "published_at": "2026-09-27T16:30:00+00:00",
+   "collected_at": "2026-09-27T18:16:26.261862+00:00",
+   "title_ko": "SNL에 등장한 앤스로픽 다리오 아모데이 패러디",
+   "summary_ko": "미국 방송 SNL에서 AI 안전성과 종교적 은유를 섞어 앤스로픽 CEO 다리오 아모데이를 풍자한 소식입니다.",
+   "category": "참고",
+   "tags": [
+    "Anthropic"
+   ]
+  },
+  {
+   "id": "cc787695058d2a98",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wromzr/adding_logit_penalty_for_wait_maybe_and_perhaps/",
+   "source": "r/LocalLLaMA",
+   "title": "Adding logit penalty for \"wait\", \"maybe\" and \"perhaps\" to Qwen models improves their accuracy",
+   "published_at": "2026-09-27T16:29:34+00:00",
+   "collected_at": "2026-09-27T18:17:05.267447+00:00",
+   "title_ko": "Qwen 모델의 특정 토큰 페널티 조정을 통한 정확도 향상",
+   "summary_ko": "메타의 연구 논문을 바탕으로 Qwen 모델 추론 시 특정 불필요한 단어에 로짓 페널티를 주어 수학 문제 풀이 정확도를 높인 팁입니다.",
+   "category": "팁",
+   "tags": [
+    "Meta",
+    "Qwen",
+    "오픈소스"
    ]
   },
   {
@@ -36,6 +169,35 @@
    ]
   },
   {
+   "id": "4aa8cdc749d349a2",
+   "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+   "source": "Hacker News",
+   "title": "There are no \"rogue\" AI agents",
+   "published_at": "2026-09-27T16:19:46+00:00",
+   "collected_at": "2026-09-27T18:16:44.579227+00:00",
+   "title_ko": "독립적으로 폭주하는 '폭주 AI 에이전트'는 없다",
+   "summary_ko": "AI 에이전트의 위험성을 다룰 때 에이전트 자체의 자율적 악의성보다는 설계와 프롬프트, 통제 권한의 문제를 직시해야 한다는 분석입니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "f721c4376ad00f06",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wro7hg/how_do_you_guys_give_your_models_web_browsing/",
+   "source": "r/LocalLLaMA",
+   "title": "How do you guys give your models web browsing capabilities?",
+   "published_at": "2026-09-27T16:12:58+00:00",
+   "collected_at": "2026-09-27T18:17:05.267447+00:00",
+   "title_ko": "로컬 LLM에 안정적인 웹 브라우징 기능을 부여하는 방법",
+   "summary_ko": "오픈소스 에이전트 및 LLM 하네스 환경에서 비용 효율적이고 안정적으로 웹 검색 및 브라우징을 연동하는 방법에 대한 논의입니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
    "id": "285e89289ed232a2",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215678",
    "source": "AI타임스",
@@ -52,6 +214,21 @@
    ]
   },
   {
+   "id": "2b6f69faedaede03",
+   "url": "https://news.hada.io/topic?id=34368",
+   "source": "GeekNews",
+   "title": "Mistral CEO: “AI는 소프트웨어다. 통제할 수 있다”",
+   "published_at": "2026-09-27T15:41:28+00:00",
+   "collected_at": "2026-09-27T18:17:19.847654+00:00",
+   "title_ko": "미스트랄 CEO \"AI는 통제 가능한 소프트웨어다\"",
+   "summary_ko": "미스트랄 아르튀르 멘슈 CEO가 AI를 과도하게 규제하는 미국 빅테크의 접근을 비판하며 오픈소스와 검증을 통한 통제 가능성을 강조했습니다.",
+   "category": "중요",
+   "tags": [
+    "규제",
+    "오픈소스"
+   ]
+  },
+  {
    "id": "aac70a65745fc332",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215655",
    "source": "AI타임스",
@@ -64,6 +241,21 @@
    "tags": [
     "AI 에이전트",
     "오픈소스"
+   ]
+  },
+  {
+   "id": "b01324dd31a0404c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrmye2/release_supratts01beta_a_tiny_296m_parameters_tts/",
+   "source": "r/LocalLLaMA",
+   "title": "[Release] - SupraTTS-0.1-Beta - a tiny 29.6M parameters TTS model",
+   "published_at": "2026-09-27T15:23:40+00:00",
+   "collected_at": "2026-09-27T18:17:05.267447+00:00",
+   "title_ko": "초소형 음성합성 모델 SupraTTS-0.1-Beta 공개",
+   "summary_ko": "파라미터 수가 약 2,960만 개인 경량형 TTS 모델이 공개되어 엣지 디바이스나 CPU 환경에서 활용할 수 있게 되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "음성합성"
    ]
   },
   {
@@ -111,6 +303,36 @@
    ]
   },
   {
+   "id": "eda3265e7922fed1",
+   "url": "https://news.hada.io/topic?id=34365",
+   "source": "GeekNews",
+   "title": "그렇다, Claude는 입자물리학의 9루프 계산을 할 수 있다",
+   "published_at": "2026-09-27T14:39:12+00:00",
+   "collected_at": "2026-09-27T18:17:19.847654+00:00",
+   "title_ko": "Claude, 입자물리학 9루프 산란 진폭 계산 성공",
+   "summary_ko": "Claude가 기존 학계의 한계를 넘어선 9루프 입자물리 계산을 수행해 복잡한 과학적 문제 해결 능력을 입증했습니다.",
+   "category": "중요",
+   "tags": [
+    "Claude",
+    "Anthropic"
+   ]
+  },
+  {
+   "id": "90524ab39269641a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrlj46/what_if_opensource_ai_focused_less_on_giant/",
+   "source": "r/LocalLLaMA",
+   "title": "What if open-source AI focused less on giant models and more on reusable capabilities?",
+   "published_at": "2026-09-27T14:24:48+00:00",
+   "collected_at": "2026-09-27T18:17:05.267447+00:00",
+   "title_ko": "오픈소스 AI의 방향성: 거대 모델보다 재사용 가능한 역량",
+   "summary_ko": "거대 범용 모델 대신 도메인별 특화 소형 모델을 조합해 리눅스처럼 모듈식으로 발전해야 한다는 커뮤니티 제안입니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "10c256dd327aca1f",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrkle9/worth_going_from_qwen38_27b_to_flash_next_or/",
    "source": "r/LocalLLaMA",
@@ -123,6 +345,21 @@
    "tags": [
     "오픈소스",
     "반도체"
+   ]
+  },
+  {
+   "id": "e842a36ab13fd99a",
+   "url": "https://news.hada.io/topic?id=34363",
+   "source": "GeekNews",
+   "title": "GLM-5.3-Flash를 Jev와 유사한 의사결정 모델로 전환하기",
+   "published_at": "2026-09-27T13:37:43+00:00",
+   "collected_at": "2026-09-27T18:17:19.847654+00:00",
+   "title_ko": "GLM-5.3-Flash를 활용한 의사결정 모델 전환 기법",
+   "summary_ko": "추가 학습 없이 토큰 확률만 읽어 텍스트 생성 모델을 분류 및 판별용 의사결정 모델로 활용하는 실용적 팁입니다.",
+   "category": "팁",
+   "tags": [
+    "코딩",
+    "오픈소스"
    ]
   },
   {
@@ -2753,247 +2990,6 @@
     "OpenAI",
     "AI 에이전트",
     "규제"
-   ]
-  },
-  {
-   "id": "cc28958b0424312e",
-   "url": "https://www.reddit.com/r/singularity/comments/1wpq1pt/im_still_saving_for_retirement/",
-   "source": "r/singularity",
-   "title": "I'm still saving for retirement",
-   "published_at": "2026-09-25T07:34:08+00:00",
-   "collected_at": "2026-09-25T13:38:01.423218+00:00",
-   "title_ko": "AGI 도래를 앞둔 은퇴 자금 저축의 의미 고찰",
-   "summary_ko": "초지능(ASI)과 AGI 도래가 확실시되는 미래에 자산과 화폐 제도가 어떻게 변화할지에 대한 커뮤니티의 토론임.",
-   "category": "참고",
-   "tags": [
-    "투자"
-   ]
-  },
-  {
-   "id": "ccf76c007053bd6a",
-   "url": "https://news.hada.io/topic?id=34256",
-   "source": "GeekNews",
-   "title": "Google의 Project Suncatcher, 우주에 머신러닝 인프라 구축 추진",
-   "published_at": "2026-09-25T07:33:40+00:00",
-   "collected_at": "2026-09-25T13:38:05.426692+00:00",
-   "title_ko": "구글, 우주 머신러닝 인프라 '프로젝트 선캐처' 추진",
-   "summary_ko": "구글이 우주 공간에서 TPU를 활용한 머신러닝 인프라의 타당성을 검증하기 위해 첫 시제품 위성 발사를 준비 중임.",
-   "category": "속보",
-   "tags": [
-    "Google",
-    "반도체"
-   ]
-  },
-  {
-   "id": "2dd2044ce53e35db",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpprlr/former_intel_ceo_hbm_is_lousy_high_bandwidth/",
-   "source": "r/LocalLLaMA",
-   "title": "Former Intel CEO: \"HBM is lousy\". High Bandwidth Flash Is Coming",
-   "published_at": "2026-09-25T07:15:37+00:00",
-   "collected_at": "2026-09-25T07:39:27.559141+00:00",
-   "title_ko": "전직 인텔 CEO의 HBM 비판과 고대역폭 플래시 전망",
-   "summary_ko": "HBM의 구조적 한계와 대역폭 저하 문제를 지적하며 차세대 메모리 기술에 대한 논의가 이어지고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "반도체",
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "34ef35e761969f67",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpp28m/did_anyone_do_a_full_bench_of_eg_qwen_flash_next/",
-   "source": "r/LocalLLaMA",
-   "title": "Did anyone do a full bench of e.g. Qwen Flash Next IQ4 and Qwen 27b FP8? Here are some",
-   "published_at": "2026-09-25T06:32:06+00:00",
-   "collected_at": "2026-09-25T07:39:27.559141+00:00",
-   "title_ko": "Qwen 플래시 및 FP8 모델 벤치마크 결과 비교",
-   "summary_ko": "다양한 Qwen 모델의 로컬 실행 환경별 성능과 속도 벤치마크 테스트 결과가 공유되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "1a71e89ce883e5db",
-   "url": "https://www.reddit.com/r/singularity/comments/1wpo70u/google_launching_tpus_in_space_next_week_on/",
-   "source": "r/singularity",
-   "title": "Google launching TPUs in space NEXT WEEK on SpaceX falcon 9 to test AI data centers orbit",
-   "published_at": "2026-09-25T05:40:15+00:00",
-   "collected_at": "2026-09-25T13:38:01.423218+00:00",
-   "title_ko": "구글, 스페이스X 로켓으로 우주 AI 데이터센터 테스트",
-   "summary_ko": "구글이 AI 데이터센터의 우주 궤도 배치 가능성을 시험하기 위해 스페이스X 팰컨 9을 통해 우주로 TPU를 발사할 예정임.",
-   "category": "속보",
-   "tags": [
-    "Google",
-    "반도체"
-   ]
-  },
-  {
-   "id": "c27e736f539dbb19",
-   "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-   "source": "TechCrunch",
-   "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-   "published_at": "2026-09-25T05:00:00+00:00",
-   "collected_at": "2026-09-25T07:38:48.200783+00:00",
-   "title_ko": "라이트스피드, 인도 초기 AI 스타트업 대상 2억 5천만 달러 펀드 조성",
-   "summary_ko": "벤처캐피털 라이트스피드가 인도 지역의 초기 단계 AI 투자를 위해 대규모 신규 펀드를 추진합니다.",
-   "category": "중요",
-   "tags": [
-    "투자"
-   ]
-  },
-  {
-   "id": "eaf29daa3a8dc881",
-   "url": "https://news.hada.io/topic?id=34253",
-   "source": "GeekNews",
-   "title": "Opus 5.5는 설명 영상을 잘 만든다",
-   "published_at": "2026-09-25T04:33:20+00:00",
-   "collected_at": "2026-09-25T07:39:42.150157+00:00",
-   "title_ko": "Opus 5.5 기반 설명 영상 자동 생성 서비스 출시",
-   "summary_ko": "텍스트나 URL을 입력받아 AI가 코드로 영상을 작성하고 서버리스 에이전트로 렌더링하는 도구가 소개되었습니다.",
-   "category": "팁",
-   "tags": [
-    "Claude",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "562b36ba7368d8a1",
-   "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
-   "source": "Hacker News",
-   "title": "Plan mode is dead",
-   "published_at": "2026-09-25T03:59:11+00:00",
-   "collected_at": "2026-09-26T07:31:24.879318+00:00",
-   "title_ko": "개발자 도구의 계획 모드(Plan Mode)의 변화",
-   "summary_ko": "최근 AI 개발 도구 생태계에서 기존의 '계획 모드'가 지니는 한계와 새로운 워크플로우에 대한 개발자 커뮤니티의 분석입니다.",
-   "category": "참고",
-   "tags": [
-    "코딩"
-   ]
-  },
-  {
-   "id": "21b853e8e4257de4",
-   "url": "https://www.reddit.com/r/singularity/comments/1wpls8e/psa_trust_me_stay_far_away_from_grokbotxai/",
-   "source": "r/singularity",
-   "title": "PSA: Trust me! Stay far away from Grok/bot/XAI!",
-   "published_at": "2026-09-25T03:27:07+00:00",
-   "collected_at": "2026-09-25T13:38:01.423218+00:00",
-   "title_ko": "xAI Grok 서비스 이용 후기 및 구독 취소 문제 논란",
-   "summary_ko": "한 사용자가 xAI의 Grok 성능 저하와 결제 및 구독 취소 기능의 오류에 대해 불만을 제기했습니다.",
-   "category": "참고",
-   "tags": [
-    "xAI",
-    "Grok",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "de9b4088e9be5c29",
-   "url": "https://news.hada.io/topic?id=34251",
-   "source": "GeekNews",
-   "title": "깡통 AI들 때문에 두 번째 뇌를 만들게 됐다",
-   "published_at": "2026-09-25T03:03:12+00:00",
-   "collected_at": "2026-09-25T07:39:42.150157+00:00",
-   "title_ko": "AI 할루시네이션 대응을 위한 개인 지식 관리(PKM) 구축",
-   "summary_ko": "LLM의 부정확한 답변에 대응하기 위해 사용자가 직접 지식을 정리하고 보관하는 개인 지식 관리 시스템 구축 사례입니다.",
-   "category": "팁",
-   "tags": [
-    "Claude",
-    "LLM"
-   ]
-  },
-  {
-   "id": "e56690f32b2c3b43",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpkz0o/m5_ultra_80core_glm53flash_on_dwarfstar_speeds/",
-   "source": "r/LocalLLaMA",
-   "title": "M5 Ultra 80Core GLM-5.3-Flash on DwarfStar Speeds",
-   "published_at": "2026-09-25T02:45:45+00:00",
-   "collected_at": "2026-09-25T07:39:27.559141+00:00",
-   "title_ko": "맥 스튜디오 환경에서의 대형 모델 에이전트 추론 성능",
-   "summary_ko": "M5 Ultra 맥 스튜디오에서 대형 모델을 구동할 때 넉넉한 RAM에도 불구하고 GPU 병목 현상이 발생한다는 분석입니다.",
-   "category": "참고",
-   "tags": [
-    "반도체",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "965ecacfd0d267f0",
-   "url": "https://www.reddit.com/r/singularity/comments/1wpkoce/claude_55_opus_creates_a_small_2d3d_video_with/",
-   "source": "r/singularity",
-   "title": "Claude 5.5 Opus creates a small 2D/3D video with code",
-   "published_at": "2026-09-25T02:30:26+00:00",
-   "collected_at": "2026-09-25T13:38:01.423218+00:00",
-   "title_ko": "Claude 5.5 Opus 기반 2D/3D 전환 비디오 생성",
-   "summary_ko": "Claude Code를 활용해 에셋이나 외부 도구 없이 코딩만으로 2D와 3D를 오가는 전환 비디오를 성공적으로 제작했습니다.",
-   "category": "팁",
-   "tags": [
-    "Claude",
-    "Anthropic",
-    "코딩"
-   ]
-  },
-  {
-   "id": "83455866970f1a3d",
-   "url": "https://www.reddit.com/r/singularity/comments/1wpkbh4/ai_models_were_given_500_and_a_vending_machine_to/",
-   "source": "r/singularity",
-   "title": "AI models were given $500 and a vending machine to run a business for a simulated year (Vending Bench): GPT-6 Sol turned it into $14,428, nearly matching Astra at 1/8 the cost",
-   "published_at": "2026-09-25T02:12:23+00:00",
-   "collected_at": "2026-09-25T13:38:01.423218+00:00",
-   "title_ko": "AI 모델의 자율 비즈니스 운영 시뮬레이션 결과 공개",
-   "summary_ko": "AI 모델들이 500달러와 자판기로 1년간 사업을 운영하는 시뮬레이션에서 GPT 계열 모델이 저렴한 비용으로 높은 수익을 달성했습니다.",
-   "category": "중요",
-   "tags": [
-    "GPT",
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "66d88e38fee47ca9",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpjhkf/how_are_you_guys_thinking_about_context_now_and/",
-   "source": "r/LocalLLaMA",
-   "title": "How are you guys thinking about context now, and building around it?",
-   "published_at": "2026-09-25T01:31:27+00:00",
-   "collected_at": "2026-09-25T07:39:27.559141+00:00",
-   "title_ko": "대형 컨텍스트 윈도우 시대의 LLM 메모리 관리 전략",
-   "summary_ko": "긴 컨텍스트를 작업 기억 장치가 아닌 임시 스크래치패드로 활용하고 장기 기억을 따로 분리하는 실무적 접근법입니다.",
-   "category": "팁",
-   "tags": [
-    "LLM",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "fa622a68a9e6e70a",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpieby/i_added_openvino_support_to_laya_40_ms_per/",
-   "source": "r/LocalLLaMA",
-   "title": "I added OpenVINO support to Laya: 40 ms per question on CPU, 3.4x faster than PyTorch",
-   "published_at": "2026-09-25T00:37:40+00:00",
-   "collected_at": "2026-09-25T01:23:52.197852+00:00",
-   "title_ko": "Laya, OpenVINO 지원 추가로 CPU 성능 대폭 향상",
-   "summary_ko": "Laya 프로젝트에 OpenVINO 지원이 추가되어 CPU 환경에서 질문당 40ms의 속도를 기록하며 기존 PyTorch 대비 3.4배 빨라졌습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체",
-    "코딩"
-   ]
-  },
-  {
-   "id": "c6e027725027d9ba",
-   "url": "https://www.reddit.com/r/singularity/comments/1wpi9b4/person_spent_2000_in_tokens_to_recreate_adobe/",
-   "source": "r/singularity",
-   "title": "Person spent $2000 in tokens to recreate Adobe Photoshop and customer count just crossed 20k users with no bad reviews",
-   "published_at": "2026-09-25T00:30:50+00:00",
-   "collected_at": "2026-09-25T01:24:05.600483+00:00",
-   "title_ko": "토큰 비용 2천 달러로 포토샵 재구현한 서비스 사용자 2만 명 돌파",
-   "summary_ko": "개발자가 LLM과 토큰을 활용해 어도비 포토샵을 성공적으로 재구현했으며, 별도의 악평 없이 2만 명이 넘는 사용자를 확보했습니다.",
-   "category": "참고",
-   "tags": [
-    "투자",
-    "AI 에이전트"
    ]
   }
  ]
