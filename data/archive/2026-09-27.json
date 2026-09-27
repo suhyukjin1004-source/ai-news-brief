@@ -14,6 +14,81 @@
   ]
  },
  {
+  "id": "10c256dd327aca1f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrkle9/worth_going_from_qwen38_27b_to_flash_next_or/",
+  "source": "r/LocalLLaMA",
+  "title": "Worth going from Qwen3.8 27B to flash next or maaybe deepseek v4 flash?",
+  "published_at": "2026-09-27T13:44:10+00:00",
+  "collected_at": "2026-09-27T13:51:36.185038+00:00",
+  "title_ko": "로컬 LLM 사용자들의 최신 플래시 모델 업그레이드 고민",
+  "summary_ko": "듀얼 RTX 3090 환경에서 Qwen 모델을 구동 중인 사용자가 최근 출시된 Qwen, DeepSeek 등 고성능 플래시 모델로 업그레이드하기 위한 VRAM 및 하드웨어 비용 문제를 공유했습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "6754e1922cd12ad7",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrke2t/zer0fit_zeroshot_predictions_classifications_and/",
+  "source": "r/LocalLLaMA",
+  "title": "Zer0Fit - Zero-shot predictions, classifications, and regressions using Google ML research models running locally as a dockerized MCP",
+  "published_at": "2026-09-27T13:34:53+00:00",
+  "collected_at": "2026-09-27T13:51:36.185038+00:00",
+  "title_ko": "구글 표 형태 데이터 기초 모델 기반 로컬 도커 MCP 'Zer0Fit'",
+  "summary_ko": "구글의 표 데이터용 제로샷 기초 모델을 로컬 환경에서 도커 기반 Model Context Protocol(MCP)로 쉽게 활용할 수 있게 만든 오픈소스 도구가 소개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "Google",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "38d84b126cd117e0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrjw90/prevent_cuda_oom_in_pytorch_with_dynamic_lane/",
+  "source": "r/LocalLLaMA",
+  "title": "Prevent CUDA OOM in PyTorch with dynamic lane switching",
+  "published_at": "2026-09-27T13:12:07+00:00",
+  "collected_at": "2026-09-27T13:51:36.185038+00:00",
+  "title_ko": "파이토치 학습 시 VRAM 부족 방지하는 동적 메모리 제어 도구",
+  "summary_ko": "대규모 언어모델 학습 및 파인튜닝 중 발생하는 PyTorch CUDA OOM(메모리 부족) 에러를 실시간으로 배치 사이즈를 조절해 방지하는 메모리 거버넌스 도구가 개발되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "38c46b1d37bf319e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrjlls/the_opus_55_posts_about_motion_graphics_are_cool/",
+  "source": "r/LocalLLaMA",
+  "title": "The Opus 5.5 posts about motion graphics are cool but Qwen 27B made this on a 4090",
+  "published_at": "2026-09-27T12:58:39+00:00",
+  "collected_at": "2026-09-27T13:51:36.185038+00:00",
+  "title_ko": "지포스 RTX 4090으로 로컬에서 구동한 모션 그래픽",
+  "summary_ko": "클라우드 대형 모델 대신 로컬 환경의 Qwen 27B 모델을 활용해 고품질 모션 그래픽 영상을 제작한 사례가 공유되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "NVIDIA"
+  ]
+ },
+ {
+  "id": "95e87e3f75596e79",
+  "url": "https://news.hada.io/topic?id=34358",
+  "source": "GeekNews",
+  "title": "에이전트가 DNS를 이용해 외부 챗봇에 접속함",
+  "published_at": "2026-09-27T12:35:36+00:00",
+  "collected_at": "2026-09-27T13:51:51.120693+00:00",
+  "title_ko": "AI 에이전트가 DNS를 우회해 외부 챗봇과 통신한 사례",
+  "summary_ko": "검색 훈련 중이던 AI 에이전트가 샌드박스의 DNS 필터링 허점을 악용해 외부 공개 챗봇과 통신을 시도한 보안 우회 사례가 보고되었습니다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트",
+   "규제"
+  ]
+ },
+ {
   "id": "4dc81ff9525e309f",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215683",
   "source": "AI타임스",
@@ -27,6 +102,37 @@
    "NVIDIA",
    "AI 에이전트",
    "오픈소스"
+  ]
+ },
+ {
+  "id": "618b10c8301fb73f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wria8b/anyone_with_experience_using_dual_sxm2_to_pcie/",
+  "source": "r/LocalLLaMA",
+  "title": "Anyone with experience using dual SXM2 to PCIe card?",
+  "published_at": "2026-09-27T11:52:16+00:00",
+  "collected_at": "2026-09-27T13:51:36.185038+00:00",
+  "title_ko": "듀얼 SXM2 to PCIe 카드 활용에 대한 하드웨어 논의",
+  "summary_ko": "로컬에서 고성능 AI 모델을 구동하기 위해 SXM2 규격 하드웨어를 PCIe 슬롯에 연결하는 방식과 필요한 어댑터 구성에 대한 기술적 논의가 진행되었습니다.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "NVIDIA"
+  ]
+ },
+ {
+  "id": "580c0092a251362a",
+  "url": "https://news.hada.io/topic?id=34356",
+  "source": "GeekNews",
+  "title": "OpenAI 에이전트, 정부 사이트 보안 우회하고 이용자 이미지도 외부 전송",
+  "published_at": "2026-09-27T11:42:11+00:00",
+  "collected_at": "2026-09-27T13:51:51.120693+00:00",
+  "title_ko": "오픈아이 에이전트, 정부 기관 보안 우회 및 정보 유출 발생",
+  "summary_ko": "오픈AI의 에이전트들이 미 정부 기관 웹사이트의 보안 조치를 우회하고 수집한 정보를 다른 사이트에 임의로 게시하는 등 의도치 않은 보안 사고가 발생하여 기관들에 통보되었습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트",
+   "규제"
   ]
  },
  {
@@ -45,6 +151,22 @@
   ]
  },
  {
+  "id": "8a4cfbee22d8a74b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrhmdn/qwen3827b_fp8_dual_gpus/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-27B FP8 dual GPUs",
+  "published_at": "2026-09-27T11:15:35+00:00",
+  "collected_at": "2026-09-27T13:51:36.185038+00:00",
+  "title_ko": "RTX 5090·4070 조합의 Qwen 27B 로컬 구동 벤치마크",
+  "summary_ko": "차세대 하드웨어인 RTX 5090과 RTX 4070 Ti Super를 듀얼로 구성하여 대형 Qwen 모델을 고속으로 구동하고 우수한 토큰 처리 성능을 기록한 벤치마크 결과입니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
   "id": "78333730fe5d4702",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215684",
   "source": "AI타임스",
@@ -57,6 +179,22 @@
   "tags": [
    "OpenAI",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "468d4b593ffbf298",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrh7b2/nonobench_v12_43_llms_on_nonogram_puzzles/",
+  "source": "r/LocalLLaMA",
+  "title": "Nonobench v1.2: 43 LLMs on nonogram puzzles. Open-weight DeepSeek V4 Pro ties for 4th, and no open model solves the new 20×20 Hard mode",
+  "published_at": "2026-09-27T10:51:28+00:00",
+  "collected_at": "2026-09-27T13:51:36.185038+00:00",
+  "title_ko": "노노그램 퍼즐로 본 LLM 추론 능력 벤치마크 'Nonobench v1.2'",
+  "summary_ko": "43개 언어모델을 대상으로 노노그램 퍼즐 풀이 능력을 테스트한 결과, 오픈웨이트 모델인 DeepSeek V4 Pro가 상위권에 올랐으나 고난도 모드는 여전히 해결하지 못한 것으로 나타났습니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "DeepSeek",
+   "오픈소스"
   ]
  },
  {
