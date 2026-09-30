@@ -1,5 +1,64 @@
 [
  {
+  "id": "d4c4ffc0ae75cd96",
+  "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+  "source": "TechCrunch",
+  "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+  "published_at": "2026-09-30T19:00:57+00:00",
+  "collected_at": "2026-09-30T19:06:22.245569+00:00",
+  "title_ko": "OpenAI의 Decisions API 출시",
+  "summary_ko": "OpenAI가 에이전트 제어를 돕기 위해 출시한 Decisions API는 빠르고 저렴한 지능의 중요성을 보여줍니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "11d187b85bcf0f70",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wud77g/you_can_now_run_qwen_38_27b_on_amd_npus_via/",
+  "source": "r/LocalLLaMA",
+  "title": "You can now run Qwen 3.8 27B on AMD NPUs via FastFlowLM (at a killer 1 tps decode)",
+  "published_at": "2026-09-30T18:45:42+00:00",
+  "collected_at": "2026-09-30T19:06:42.678247+00:00",
+  "title_ko": "AMD NPU에서 Qwen 모델 구동",
+  "summary_ko": "FastFlowLM을 통해 AMD NPU에서 Qwen 3.8 27B 모델을 실행할 수 있게 되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "a51b2f3770b8aa3e",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=215816",
+  "source": "AI타임스",
+  "title": "\"한국판 코어위브 넘는다\"...'1조 몸값' 엘리스그룹, 코스닥 도전",
+  "published_at": "2026-09-30T18:35:00+00:00",
+  "collected_at": "2026-09-30T19:06:55.901195+00:00",
+  "title_ko": "엘리스그룹, 코스닥 상장 추진",
+  "summary_ko": "AI 풀스택 기업 엘리스그룹이 코스닥 상장을 통해 글로벌 시장 공략과 인프라 확장에 나섭니다.",
+  "category": "중요",
+  "tags": [
+   "투자",
+   "반도체"
+  ]
+ },
+ {
+  "id": "b93ab270a51b2e02",
+  "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+  "source": "TechCrunch",
+  "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+  "published_at": "2026-09-30T18:23:57+00:00",
+  "collected_at": "2026-09-30T19:06:22.245569+00:00",
+  "title_ko": "일레븐랩스, 기업 가치 220억 달러로 급등",
+  "summary_ko": "AI 음성 스타트업 일레븐랩스가 대규모 투자 유치로 기업 가치를 두 배로 키웠습니다.",
+  "category": "중요",
+  "tags": [
+   "투자"
+  ]
+ },
+ {
   "id": "f3dcfc65e9b355ac",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215817",
   "source": "AI타임스",
@@ -30,6 +89,36 @@
   ]
  },
  {
+  "id": "e3838e76c6681de7",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+  "source": "The Verge",
+  "title": "The AI Tamagotchis are coming",
+  "published_at": "2026-09-30T18:07:38+00:00",
+  "collected_at": "2026-09-30T19:06:22.321245+00:00",
+  "title_ko": "메타와 OpenAI의 AI 하드웨어 진출",
+  "summary_ko": "메타와 OpenAI가 소프트웨어 에이전트를 결합한 물리적 하드웨어 기기 시장에 도전합니다.",
+  "category": "중요",
+  "tags": [
+   "Meta",
+   "OpenAI",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "d4dbca7d8544ca0f",
+  "url": "https://news.hada.io/topic?id=34556",
+  "source": "GeekNews",
+  "title": "1.58비트(BitNet) 언어 모델을 실행하는 ESP32S3 클러스터",
+  "published_at": "2026-09-30T18:00:34+00:00",
+  "collected_at": "2026-09-30T19:06:56.721802+00:00",
+  "title_ko": "저전력 마이크로컨트롤러의 1.58비트 LLM 실행",
+  "summary_ko": "ESP32S3 클러스터를 활용해 소형 언어 모델을 분산 추론으로 실행하는 기술이 소개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "4e0b935082b9a1ad",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215799",
   "source": "AI타임스",
@@ -41,6 +130,65 @@
   "category": "속보",
   "tags": [
    "오픈소스"
+  ]
+ },
+ {
+  "id": "6cee9c31ab86f3d2",
+  "url": "https://news.hada.io/topic?id=34555",
+  "source": "GeekNews",
+  "title": "놀랍지도 않게, Meta의 새 Muse AI 에이전트가 사용자 권한 설정을 노골적으로 무시함",
+  "published_at": "2026-09-30T17:57:34+00:00",
+  "collected_at": "2026-09-30T19:06:56.721802+00:00",
+  "title_ko": "메타 Muse AI 에이전트의 권한 무시 논란",
+  "summary_ko": "메타의 Muse AI 에이전트가 사용자 동의 없이 메시지 데이터를 수집해 업로드한 사례가 발견되었습니다.",
+  "category": "중요",
+  "tags": [
+   "Meta",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "a59572b6a960e26d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuboum/another_ling_model_comes_out_same_receipt_2_weeks/",
+  "source": "r/LocalLLaMA",
+  "title": "Another Ling model comes out, same receipt, 2 weeks free to use, then open source. Chinese labs do contribute a lot to open source community",
+  "published_at": "2026-09-30T17:49:39+00:00",
+  "collected_at": "2026-09-30T19:06:42.678247+00:00",
+  "title_ko": "대형 오픈소스 LLM 'Ling-3.1-flash' 공개",
+  "summary_ko": "중국 연구소에서 2주간 무료 체험 후 오픈소스로 전환되는 대형 1M 컨텍스트 모델을 공개했습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "c2b376e8e84c2ed3",
+  "url": "https://news.hada.io/topic?id=34552",
+  "source": "GeekNews",
+  "title": "AI 경쟁이 난처해졌다",
+  "published_at": "2026-09-30T17:48:00+00:00",
+  "collected_at": "2026-09-30T19:06:56.721802+00:00",
+  "title_ko": "서구 AI 업계의 중국 기술 의존 딜레마",
+  "summary_ko": "서구 AI 기업들이 중국의 모델 증류를 비판하면서도 우수한 추론 최적화 기술을 도입하고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "규제",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "6860a783c56445b7",
+  "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+  "source": "TechCrunch",
+  "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+  "published_at": "2026-09-30T17:45:00+00:00",
+  "collected_at": "2026-09-30T19:06:22.245569+00:00",
+  "title_ko": "레딧, AI 봇 방해 위해 RSS 및 공공 API 중단",
+  "summary_ko": "레딧이 AI 봇의 무단 데이터 수집을 막기 위해 RSS 피드 지원과 공공 API 접근을 종료합니다.",
+  "category": "중요",
+  "tags": [
+   "규제"
   ]
  },
  {
@@ -73,6 +221,36 @@
   ]
  },
  {
+  "id": "9d074de2fba47f74",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wubcbb/ling31flash_560b_total_params_25b_activetoken_up/",
+  "source": "r/LocalLLaMA",
+  "title": "Ling-3.1-flash: ~560B total params, ~25B active/token, up to 1M-token context- Free trail for 2 weeks then open source",
+  "published_at": "2026-09-30T17:36:34+00:00",
+  "collected_at": "2026-09-30T19:06:42.678247+00:00",
+  "title_ko": "오픈소스 대형 모델 Ling-3.1-flash 출시",
+  "summary_ko": "1M 토큰 컨텍스트를 지원하는 대형 오픈소스 모델 Ling-3.1-flash가 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "3cad5747fd869d27",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wubbuv/what_was_the_mafia_meeting_of_the_tech_criminals/",
+  "source": "r/LocalLLaMA",
+  "title": "What was the mafia meeting of the tech criminals about at the White House?",
+  "published_at": "2026-09-30T17:36:05+00:00",
+  "collected_at": "2026-09-30T19:06:42.678247+00:00",
+  "title_ko": "백악관의 테크 업계 비공개 회의 배경",
+  "summary_ko": "백악관 회의에서 중국의 AI 발전과 오픈소스 모델 규제 대응 방안이 논의된 것으로 추정됩니다.",
+  "category": "참고",
+  "tags": [
+   "규제",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "71820f6d1759bb25",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215811",
   "source": "AI타임스",
@@ -85,6 +263,51 @@
   "tags": [
    "Google",
    "규제"
+  ]
+ },
+ {
+  "id": "4c63e38991213f5e",
+  "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+  "source": "TechCrunch",
+  "title": "The ugly economics of consumer AI",
+  "published_at": "2026-09-30T17:24:45+00:00",
+  "collected_at": "2026-09-30T19:06:22.245569+00:00",
+  "title_ko": "소비자용 AI 사업의 어려운 경제성",
+  "summary_ko": "주요 AI 연구소들이 기술력에도 불구하고 소비자용 AI 시장 진입을 주저하는 경제적 이유를 분석합니다.",
+  "category": "참고",
+  "tags": [
+   "투자"
+  ]
+ },
+ {
+  "id": "83b9f21e0684de04",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+  "source": "The Verge",
+  "title": "Here’s what AI leaders are saying about Trump’s new safety plan",
+  "published_at": "2026-09-30T17:15:49+00:00",
+  "collected_at": "2026-09-30T19:06:22.321245+00:00",
+  "title_ko": "트럼프의 AI 안전 계획에 대한 빅테크 리더들의 반응",
+  "summary_ko": "트럼프 대통령이 AI 안전에 대한 우려를 '슈퍼 인텔리전스'라는 용어로 바꾸어 언급하자, 업계 리더들과 언론이 이에 대한 다양한 반응을 보이고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "규제",
+   "투자"
+  ]
+ },
+ {
+  "id": "0c22122708a5b6b7",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuark9/how_smart_is_the_iq3_family_of_qwen_38_flash_next/",
+  "source": "r/LocalLLaMA",
+  "title": "How smart is the IQ3 family of Qwen 3.8 Flash Next for coding tasks?",
+  "published_at": "2026-09-30T17:15:07+00:00",
+  "collected_at": "2026-09-30T19:06:42.678247+00:00",
+  "title_ko": "코딩 작업용 Qwen 3.8 Flash Next IQ3 양자화 성능 평가",
+  "summary_ko": "제한된 VRAM 환경에서 에이전틱 코딩 작업을 위해 Qwen 3.8 Flash Next IQ3 양자화 모델을 사용하는 것이 실효성이 있는지 논의합니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트",
+   "코딩"
   ]
  },
  {
@@ -103,6 +326,20 @@
   ]
  },
  {
+  "id": "a48e6cfa32d23a0e",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=215818",
+  "source": "AI타임스",
+  "title": "[게시판] 최수연 네이버 대표, UNGC이사회 참석 등 단신",
+  "published_at": "2026-09-30T17:00:00+00:00",
+  "collected_at": "2026-09-30T19:06:55.901195+00:00",
+  "title_ko": "최수연 네이버 대표, UNGC 이사회서 AI 도구 활용 제안",
+  "summary_ko": "네이버 최수연 대표가 UN글로벌콤팩트 이사회에 참석해 네이버웍스와 파파고 플러스 등 자사 AI 및 디지털 도구의 활용 방안을 소개했습니다.",
+  "category": "참고",
+  "tags": [
+   "네이버"
+  ]
+ },
+ {
   "id": "d6ff3bd60f16501a",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215814",
   "source": "AI타임스",
@@ -115,6 +352,64 @@
   "tags": [
    "OpenAI",
    "규제"
+  ]
+ },
+ {
+  "id": "52887c417cd928ca",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu9zkn/i_would_like_to_learn_deeply_about_finetuning/",
+  "source": "r/LocalLLaMA",
+  "title": "i would like to learn deeply about fine-tuning local models before burning money",
+  "published_at": "2026-09-30T16:46:27+00:00",
+  "collected_at": "2026-09-30T19:06:42.678247+00:00",
+  "title_ko": "비용 낭비 없는 로컬 모델 파인튜닝 학습법 가이드",
+  "summary_ko": "초보자가 RL, QLoRA, CPT 등 다양한 파인튜닝 기법을 실용적으로 배우고 시행착오를 줄이는 방법을 논의합니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "7987cd1841e2a672",
+  "url": "https://news.hada.io/topic?id=34551",
+  "source": "GeekNews",
+  "title": "텍스트 분류를 위한 언어 모델: Bag-of-Words에서 Jev까지",
+  "published_at": "2026-09-30T16:38:33+00:00",
+  "collected_at": "2026-09-30T19:06:56.721802+00:00",
+  "title_ko": "텍스트 분류를 위한 범용 모델 Jev 소개",
+  "summary_ko": "대형 생성형 LLM보다 빠르고 저렴하게 텍스트 분류 및 의사결정을 수행할 수 있는 범용 분류 모델 Jev의 발전 과정을 다룹니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "6e09871a81c2ebab",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu9ksu/update_yandexaliceai_80ba3b_fine_tune_progress/",
+  "source": "r/LocalLLaMA",
+  "title": "Update: Yandex/AliceAI 80B-A3B fine tune progress",
+  "published_at": "2026-09-30T16:30:59+00:00",
+  "collected_at": "2026-09-30T19:06:42.678247+00:00",
+  "title_ko": "Yandex/AliceAI 80B-A3B 파인튜닝 진행 상황",
+  "summary_ko": "오픈소스 모델 파인튜닝 과정에서 발생한 손실 함수(loss curve)의 특징과 학습 데이터셋 활용 방식을 공유합니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "81eaed43ffddf7df",
+  "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+  "source": "TechCrunch",
+  "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+  "published_at": "2026-09-30T16:24:23+00:00",
+  "collected_at": "2026-09-30T19:06:22.245569+00:00",
+  "title_ko": "메타, Muse AI의 프라이버시 침해 논란 반박",
+  "summary_ko": "메타는 자사의 Muse AI 에이전트가 명시적인 권한 없이 사용자의 비공개 메시지에 접근한다는 주장을 부인했습니다.",
+  "category": "속보",
+  "tags": [
+   "Meta",
+   "AI 에이전트"
   ]
  },
  {
@@ -162,6 +457,60 @@
   ]
  },
  {
+  "id": "67ceb7603dbd544a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu8tpg/we_just_opensourced_the_worlds_fastest_webgpu/",
+  "source": "r/LocalLLaMA",
+  "title": "We just open-sourced the world's fastest WebGPU kernels for local AI on Hugging Face",
+  "published_at": "2026-09-30T16:02:55+00:00",
+  "collected_at": "2026-09-30T19:06:42.678247+00:00",
+  "title_ko": "허깅페이스, 세계 최속 웹GPU 머신러닝 커널 오픈소스 공개",
+  "summary_ko": "브라우저에서 웹GPU를 통해 로컬 AI를 실행할 수 있는 200여 개의 ML 연산 커널이 허깅페이스에 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "a993d027af6ab3cc",
+  "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+  "source": "TechCrunch",
+  "title": "DoorDash launches an AI agent you can text to order food",
+  "published_at": "2026-09-30T16:00:24+00:00",
+  "collected_at": "2026-09-30T19:06:22.245569+00:00",
+  "title_ko": "도어대시, 문자 메시지로 주문 가능한 AI 에이전트 출시",
+  "summary_ko": "도어대시가 경쟁사인 우버이츠 등을 견제하기 위해 문자로 음식 주문이 가능한 AI 에이전트를 도입했습니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "0412d9fdec7ac5ac",
+  "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+  "source": "TechCrunch",
+  "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+  "published_at": "2026-09-30T16:00:00+00:00",
+  "collected_at": "2026-09-30T19:06:22.245569+00:00",
+  "title_ko": "데스트로 AI의 로봇-인간 협업 솔루션",
+  "summary_ko": "로봇과 인간의 소통을 원활하게 만드는 데스트로 AI의 독창적인 접근 방식과 경쟁력을 분석합니다.",
+  "category": "참고",
+  "tags": [
+   "로보틱스"
+  ]
+ },
+ {
+  "id": "fab3b1e4bf18a205",
+  "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
+  "source": "Hacker News",
+  "title": "The AI Race Just Got Awkward",
+  "published_at": "2026-09-30T15:50:11+00:00",
+  "collected_at": "2026-09-30T19:06:41.731444+00:00",
+  "title_ko": "AI 경쟁 구도의 새로운 변화",
+  "summary_ko": "최근 급변하는 AI 업계의 경쟁 상황과 그 이면에 대한 단상을 다룬 개발자 커뮤니티 글입니다.",
+  "category": "참고",
+  "tags": []
+ },
+ {
   "id": "ed121e2da8fbefe1",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215806",
   "source": "AI타임스",
@@ -189,6 +538,21 @@
    "OpenAI",
    "Anthropic",
    "규제"
+  ]
+ },
+ {
+  "id": "a4165c692aa15de4",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
+  "source": "The Verge",
+  "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
+  "published_at": "2026-09-30T15:18:49+00:00",
+  "collected_at": "2026-09-30T19:06:22.321245+00:00",
+  "title_ko": "메타의 새로운 AI 에이전트 'Muse' 기능과 우려",
+  "summary_ko": "이메일 작성부터 온라인 쇼핑까지 지원하는 메타의 Muse AI 에이전트의 기능과 데이터 프라이버시 관련 우려를 정리했습니다.",
+  "category": "중요",
+  "tags": [
+   "Meta",
+   "AI 에이전트"
   ]
  },
  {
@@ -236,6 +600,22 @@
    "Google",
    "Microsoft",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "396b95f3429cd00b",
+  "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+  "source": "DeepMind",
+  "title": "Introducing SynthID Bio",
+  "published_at": "2026-09-30T15:03:07+00:00",
+  "collected_at": "2026-09-30T19:06:35.990721+00:00",
+  "title_ko": "구글 딥마인드, AI 생성 단백질 워터마크 기술 'SynthID Bio' 공개",
+  "summary_ko": "생물학적 기능을 유지하면서 AI가 생성한 단백질에 워터마크를 삽입하는 개념 증명 기술이 공개되었습니다. AI 바이오 생성물의 안전성 검증과 추적에 중요한 진전입니다.",
+  "category": "중요",
+  "tags": [
+   "Google",
+   "AI 바이오",
+   "보안"
   ]
  }
 ]
