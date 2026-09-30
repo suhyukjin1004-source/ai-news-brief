@@ -32,6 +32,65 @@
   ]
  },
  {
+  "id": "443b95d5b9d66266",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu3wxu/add_glm53flash_glm5next_support_27773/",
+  "source": "r/LocalLLaMA",
+  "title": "add GLM-5.3-Flash (GLM5-Next) support (#27773) · ggml-org/llama.cpp@649dcb1",
+  "published_at": "2026-09-30T12:41:58+00:00",
+  "collected_at": "2026-09-30T13:35:08.180563+00:00",
+  "title_ko": "llama.cpp, GLM-5.3-Flash 모델 지원 추가",
+  "summary_ko": "오픈소스 추론 프레임워크인 llama.cpp에 최신 GLM 플래시 모델 지원 업데이트가 반영됐다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "4b598cb48cad8caf",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu3s0v/tensorfold_runs_qwen3827b_really_well_on_m5_pro/",
+  "source": "r/LocalLLaMA",
+  "title": "Tensorfold runs Qwen3.8-27B really well on m5 pro mac mini, tps beats MTPLX",
+  "published_at": "2026-09-30T12:35:37+00:00",
+  "collected_at": "2026-09-30T13:35:08.180563+00:00",
+  "title_ko": "텐서폴드, 맥미니에서 Qwen 모델 고속 추론 성능 달성",
+  "summary_ko": "오픈소스 인포런스 엔진인 Tensorfold가 맥미니 환경에서 효율적인 Qwen 모델 구동 속도를 기록했다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "627844b3919290ac",
+  "url": "https://news.hada.io/topic?id=34545",
+  "source": "GeekNews",
+  "title": "Pi.dev: MCP는 지원하지 않는다더니!",
+  "published_at": "2026-09-30T12:33:02+00:00",
+  "collected_at": "2026-09-30T13:35:22.656777+00:00",
+  "title_ko": "Pi, 코어 기능으로 MCP 지원 개시",
+  "summary_ko": "Pi가 도구 체계와 샌드박스 개선을 위해 MCP를 코어 기능으로 도입했습니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "934a62063d5ba910",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+  "source": "The Verge",
+  "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+  "published_at": "2026-09-30T12:24:32+00:00",
+  "collected_at": "2026-09-30T13:34:42.821924+00:00",
+  "title_ko": "트럼프 행정부의 AI 안전 자율 규제 합의안 공개",
+  "summary_ko": "미국 대통령 자문가 데이비드 색스가 공유한 최고경영자들의 AI 안전 자율 규제 합의안 세부 내용이 공개되었습니다.",
+  "category": "중요",
+  "tags": [
+   "규제",
+   "OpenAI"
+  ]
+ },
+ {
   "id": "ebb063a1cd77c395",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215792",
   "source": "AI타임스",
@@ -60,6 +119,36 @@
    "OpenAI",
    "투자",
    "규제"
+  ]
+ },
+ {
+  "id": "00d87cdc6be042ef",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu2lpa/five_local_models_68_gb_of_weights_my_opensource/",
+  "source": "r/LocalLLaMA",
+  "title": "Five local models, 6.8 GB of weights: my open-source Mac meeting notetaker",
+  "published_at": "2026-09-30T11:38:04+00:00",
+  "collected_at": "2026-09-30T13:35:08.180563+00:00",
+  "title_ko": "6.8GB 용량의 로컬 오픈소스 맥 회의록 비서 앱",
+  "summary_ko": "여러 소형 오픈소스 모델을 조합해 온디바이스로 작동하며 회의를 기록하고 요약해 주는 맥 앱이 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "Qwen"
+  ]
+ },
+ {
+  "id": "b9b8054974dcd8a2",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu2jjy/oído_speech_recognition_that_beats_whispertiny/",
+  "source": "r/LocalLLaMA",
+  "title": "Oído: speech recognition that beats Whisper-tiny, running on a $5 microcontroller (open source)",
+  "published_at": "2026-09-30T11:34:48+00:00",
+  "collected_at": "2026-09-30T13:35:08.180563+00:00",
+  "title_ko": "초저가 마이크로컨트롤러에서 구동되는 오픈소스 음성 인식 Oído",
+  "summary_ko": "5달러짜리 마이크로컨트롤러에서 실행되며 Whisper tiny보다 뛰어난 성능을 보이는 오픈소스 음성 인식 모델입니다.",
+  "category": "속보",
+  "tags": [
+   "NVIDIA",
+   "오픈소스"
   ]
  },
  {
@@ -94,6 +183,94 @@
   ]
  },
  {
+  "id": "9e7b8b5e56b75166",
+  "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+  "source": "MIT Tech Review",
+  "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+  "published_at": "2026-09-30T10:40:30+00:00",
+  "collected_at": "2026-09-30T13:34:55.405228+00:00",
+  "title_ko": "오픈에이전트 해킹 사태에 대한 오픈AI 연구 책임자의 입장",
+  "summary_ko": "에이전트 군집이 보안을 뚫고 허깅페이스를 해킹한 사건 이후 오픈AI가 내부 보안 점검과 후속 대응에 나서고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "f9d283d850cc3a91",
+  "url": "https://earendil.com/posts/you-said-no-mcp/",
+  "source": "Hacker News",
+  "title": "Pi.dev: You Said No MCP",
+  "published_at": "2026-09-30T09:55:23+00:00",
+  "collected_at": "2026-09-30T13:34:56.751973+00:00",
+  "title_ko": "Pi.dev의 MCP 지원 전환 배경",
+  "summary_ko": "초기 MCP 도입에 회의적이었던 Pi가 통합 인터프리터와 도구 체계 개선을 위해 MCP를 수용하게 된 배경을 다룹니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "2b694a15cd189de1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu0bdf/add_glm53flash_glm5next_support_by_timkhronos/",
+  "source": "r/LocalLLaMA",
+  "title": "add GLM-5.3-Flash (GLM5-Next) support by timkhronos · Pull Request #27773 · ggml-org/llama.cpp",
+  "published_at": "2026-09-30T09:22:03+00:00",
+  "collected_at": "2026-09-30T13:35:08.180563+00:00",
+  "title_ko": "llama.cpp에 GLM-5.3-Flash 모델 지원 추가",
+  "summary_ko": "llama.cpp에 GLM-5.3-Flash 지원이 추가되어 개인 컴퓨터에서도 해당 모델을 로컬로 구동할 수 있게 되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "06ac4e2518564aa7",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtzpcr/aaagentperflocal_benchmarking_local_ai_agents_on/",
+  "source": "r/LocalLLaMA",
+  "title": "AA-AgentPerf-Local: Benchmarking local AI agents on laptops and workstations",
+  "published_at": "2026-09-30T08:41:50+00:00",
+  "collected_at": "2026-09-30T13:35:08.180563+00:00",
+  "title_ko": "노트북과 워크스테이션용 로컬 AI 에이전트 벤치마크 도구",
+  "summary_ko": "로컬 환경에서 AI 에이전트의 성능을 측정할 수 있는 벤치마크 도구 AA-AgentPerf-Local이 소개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "5cbd3e46a4f22354",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtzedu/baaiarex2_27b_agent_model_based_on_qwen38_27b/",
+  "source": "r/LocalLLaMA",
+  "title": "BAAI/AREX-2 - 27B - Agent model based on Qwen3.8 27B",
+  "published_at": "2026-09-30T08:21:18+00:00",
+  "collected_at": "2026-09-30T13:35:08.180563+00:00",
+  "title_ko": "베이징인공지능연구원, 장기 에이전트 모델 'AREX-2' 공개",
+  "summary_ko": "BAAI가 제안-측정-반성-수정 과정을 거쳐 스스로 성능을 개선하는 27B 규모의 멀티모달 장기 에이전트 모델 AREX-2를 공개했습니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스",
+   "멀티모달"
+  ]
+ },
+ {
+  "id": "737a46626c41bedd",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtz1i3/deepseek_now_trained_on_ascend_950/",
+  "source": "r/LocalLLaMA",
+  "title": "DeepSeek now trained on Ascend 950",
+  "published_at": "2026-09-30T07:58:25+00:00",
+  "collected_at": "2026-09-30T13:35:08.180563+00:00",
+  "title_ko": "딥시크, 화웨이 어센드 950 칩으로 모델 학습 진행",
+  "summary_ko": "딥시크가 화웨이의 AI 칩인 어센드 950을 활용해 AI 모델을 학습하고 있는 것으로 확인되어 공급망 다변화 측면에서 주목받고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "DeepSeek",
+   "반도체"
+  ]
+ },
+ {
   "id": "7326f61dbb94192a",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215779",
   "source": "AI타임스",
@@ -106,6 +283,21 @@
   "tags": [
    "OpenAI",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "46e40858bf6f533b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wty1k6/1248_gbs_on_5060ti_40_with_5500_memory_overclocks/",
+  "source": "r/LocalLLaMA",
+  "title": "1248 GB/s on 5060ti (+40%) with +5500 memory overclocks",
+  "published_at": "2026-09-30T06:54:35+00:00",
+  "collected_at": "2026-09-30T13:35:08.180563+00:00",
+  "title_ko": "RTX 5070 Ti 메모리 오버클럭을 통한 로컬 LLM 추론 속도 개선",
+  "summary_ko": "새로운 메모리 오버클럭 락 해제 기법을 통해 GDDR7 메모리 대역폭을 극대화함으로써 로컬 환경에서의 토큰 생성 속도를 크게 향상시킬 수 있게 되었습니다.",
+  "category": "팁",
+  "tags": [
+   "반도체",
+   "오픈소스"
   ]
  },
  {
@@ -245,6 +437,20 @@
   ]
  },
  {
+  "id": "65f46b2eb6d12e88",
+  "url": "https://agmai.org/general-sep29/",
+  "source": "Hacker News",
+  "title": "Responsible Release of AI-Generated Mathematics",
+  "published_at": "2026-09-30T02:36:12+00:00",
+  "collected_at": "2026-09-30T13:35:07.282885+00:00",
+  "title_ko": "AI 생성 수학 연구물의 책임 있는 공개 방안 논의",
+  "summary_ko": "인공지능이 생성한 수학적 발견과 논문을 학계에 안전하고 신뢰성 있게 배포하기 위한 책임 있는 공개 가이드라인이 제시되었습니다.",
+  "category": "참고",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
   "id": "670ba3480268816e",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtt3cq/best_approach_for_automatically_tagging_local/",
   "source": "r/LocalLLaMA",
@@ -301,6 +507,20 @@
   ]
  },
  {
+  "id": "885ec5a1cfd7be02",
+  "url": "https://news.hada.io/topic?id=34519",
+  "source": "GeekNews",
+  "title": "Livenerf - Opus 5.5는 벌써 성능이 하향됐을까?",
+  "published_at": "2026-09-30T01:33:40+00:00",
+  "collected_at": "2026-09-30T13:35:22.656777+00:00",
+  "title_ko": "클로드 Opus 모델의 성능 저하 체감 현상 분석",
+  "summary_ko": "사용자들이 느끼는 LLM의 성능 저하 체감이 실제 API 및 구독 환경에서의 변화인지 검증하기 위한 벤치마크 추적 연구가 진행되었습니다.",
+  "category": "참고",
+  "tags": [
+   "Claude"
+  ]
+ },
+ {
   "id": "6e51eed21c058629",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtrykk/psa_modelscope_cli_is_now_moved_to_modelscopehub/",
   "source": "r/LocalLLaMA",
@@ -326,6 +546,20 @@
   "category": "중요",
   "tags": [
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "5b4f91a236972069",
+  "url": "https://news.hada.io/topic?id=34517",
+  "source": "GeekNews",
+  "title": "LatticeDB - 그래프, 벡터, 전문 검색을 한 파일에 담는 임베디드 DB",
+  "published_at": "2026-09-30T00:30:02+00:00",
+  "collected_at": "2026-09-30T13:35:22.656777+00:00",
+  "title_ko": "그래프·벡터·전문 검색 지원 임베디드 DB 'LatticeDB' 등장",
+  "summary_ko": "단일 파일로 관계 탐색, 의미 기반 벡터 검색, 키워드 검색을 모두 지원하는 오픈소스 임베디드 데이터베이스가 공개되어 AI 애플리케이션 개발에 활용될 수 있습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
   ]
  },
  {
