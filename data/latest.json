@@ -1,8 +1,227 @@
 {
- "updated_at": "2026-09-29T20:41:09.926655+00:00",
+ "updated_at": "2026-09-30T00:19:36.144531+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "7326f61dbb94192a",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215779",
+   "source": "AI타임스",
+   "title": "오픈AI, 24시간 자율 에이전트 '닷츠' 공개…소비자용 아닌 B2B 승부수",
+   "published_at": "2026-09-30T07:07:16+00:00",
+   "collected_at": "2026-09-30T00:19:24.071605+00:00",
+   "title_ko": "오픈AI, 24시간 자율 업무 에이전트 '닷츠' 공개",
+   "summary_ko": "오픈AI가 연례 행사에서 상시 가동되는 기업용 자율 AI 에이전트 '닷츠(dots)'를 공개하며 B2B 시장 공략을 본격화했습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "ad2cc0a002e2b068",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215778",
+   "source": "AI타임스",
+   "title": "\"아스트라급 지능을 5분의 1 가격에\"…오픈AI, 'GPT-6.1 솔' 공개",
+   "published_at": "2026-09-30T05:54:18+00:00",
+   "collected_at": "2026-09-30T00:19:24.071605+00:00",
+   "title_ko": "오픈AI, 고성능 저비용 모델 'GPT-6.1 솔' 출시",
+   "summary_ko": "오픈AI가 플래그십 수준의 성능을 저렴한 비용으로 제공하는 개발자·기업용 에이전트 특화 모델 'GPT-6.1 솔'을 공개했습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT"
+   ]
+  },
+  {
+   "id": "75123ea14bb1a1e8",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtpntt/qwenfamily_llms_are_quietly_becoming_the_backbone/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen-family LLMs are quietly becoming the backbone of modern audio models; One chart for the architectures of 100+ audio models",
+   "published_at": "2026-09-29T23:35:16+00:00",
+   "collected_at": "2026-09-30T00:19:10.921266+00:00",
+   "title_ko": "오디오 AI 모델의 핵심 백본으로 자리 잡은 Qwen",
+   "summary_ko": "다양한 오디오 및 음성 AI 모델의 백본 아키텍처로 Qwen 계열 모델이 가장 널리 활용되고 있는 것으로 나타났습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "1548765a450b5814",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtp9x4/are_you_worried_about_a_potential_ban_of_chinese/",
+   "source": "r/LocalLLaMA",
+   "title": "Are you worried about a potential ban of Chinese open weight models?",
+   "published_at": "2026-09-29T23:17:54+00:00",
+   "collected_at": "2026-09-30T00:19:10.921266+00:00",
+   "title_ko": "중국산 오픈 웨이트 AI 모델 규제 우려 고조",
+   "summary_ko": "미국 정부의 대중국 제재 움직임과 맞물려 중국산 오픈 웨이트 AI 모델에 대한 잠재적 금지 조치 우려가 커지고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "규제",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "dfcdf1c63766b2d5",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtp8h5/sherrys_34_ternary_format_1375_bits_per_weight/",
+   "source": "r/LocalLLaMA",
+   "title": "Sherry's 3:4 ternary format (1.375 bits per weight) running on WebGPU: a 1.6 MB model that plays Connect Four as well as its 7.8 MB int8 version",
+   "published_at": "2026-09-29T23:16:05+00:00",
+   "collected_at": "2026-09-30T00:19:10.921266+00:00",
+   "title_ko": "웹에서 구동되는 초소형 3진 가중치 포맷 공개",
+   "summary_ko": "1.375비트 수준의 삼진 가중치 포맷을 활용해 웹브라우저에서 효율적으로 실행되는 소형 AI 스코어러가 공개됐습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "e267d0cc44c97f78",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtp87p/amd_boosting_aillm_performance_for_radeon_igpus/",
+   "source": "r/LocalLLaMA",
+   "title": "AMD boosting AI/LLM performance for Radeon iGPUs as much as 18~23% with Linux 7.4",
+   "published_at": "2026-09-29T23:15:45+00:00",
+   "collected_at": "2026-09-30T00:19:10.921266+00:00",
+   "title_ko": "리눅스 7.4, 라데온 내장 그래픽 AI 성능 대폭 향상",
+   "summary_ko": "리눅스 7.4 업데이트를 통해 AMD 라데온 내장 그래픽(iGPU)의 AI 및 LLM 연산 성능이 최대 23%까지 향상됩니다.",
+   "category": "참고",
+   "tags": [
+    "반도체"
+   ]
+  },
+  {
+   "id": "8e9ff10ebd6ac932",
+   "url": "https://news.hada.io/topic?id=34510",
+   "source": "GeekNews",
+   "title": "ChatGPT Pro 500",
+   "published_at": "2026-09-29T22:28:48+00:00",
+   "collected_at": "2026-09-30T00:19:25.054946+00:00",
+   "title_ko": "챗GPT Pro, 월 500달러 요금제 신설",
+   "summary_ko": "오픈AI가 최고급 사용량을 제공하는 월 500달러짜리 'ChatGPT Pro 500' 요금제를 추가하고 200달러 요금제 가입을 재개했습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT"
+   ]
+  },
+  {
+   "id": "94b15e9748d84a29",
+   "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+   "source": "The Verge",
+   "title": "Trump orders US government to call AI ‘Super Intelligence’",
+   "published_at": "2026-09-29T22:25:45+00:00",
+   "collected_at": "2026-09-30T00:18:39.809765+00:00",
+   "title_ko": "미 트럼프 행정부, AI 공식 명칭을 'Super Intelligence'로 변경 지시",
+   "summary_ko": "미국 행정부가 향후 공식 문서와 보도자료에서 인공지능(AI) 대신 '슈퍼 인텔리전스'라는 용어를 사용하도록 행정명령을 내렸습니다.",
+   "category": "중요",
+   "tags": [
+    "규제"
+   ]
+  },
+  {
+   "id": "8000c8f00f46ee62",
+   "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+   "source": "TechCrunch",
+   "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+   "published_at": "2026-09-29T22:20:59+00:00",
+   "collected_at": "2026-09-30T00:18:39.726457+00:00",
+   "title_ko": "xAI, 오픈AI 에이전트 '닷츠' 발표 전 도메인 선점",
+   "summary_ko": "오픈AI의 에이전트 서비스 '닷츠' 발표 직전 일론 머스크의 xAI가 관련 도메인을 선점해 Grok 홍보 페이지로 연결한 소식이 화제입니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI"
+   ]
+  },
+  {
+   "id": "1e2adcbb126c3583",
+   "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
+   "source": "Simon Willison",
+   "title": "Quoting Anthropic Frontier Red Team",
+   "published_at": "2026-09-29T22:20:28+00:00",
+   "collected_at": "2026-09-30T00:19:10.106437+00:00",
+   "title_ko": "최신 고성능 모델들의 사이버 보안 취약점 악용 능력 평가",
+   "summary_ko": "앤트로픽 레드팀 평가에서 최신 AI 모델들이 자동화된 사이버 공격 및 제어 흐름 탈취 역량을 일정 부분 갖추기 시작한 것으로 나타났습니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "LLM"
+   ]
+  },
+  {
+   "id": "3c965c8888ac65e1",
+   "url": "https://news.hada.io/topic?id=34509",
+   "source": "GeekNews",
+   "title": "AI, 데이터센터 투자 붐 정당화하려면 연 매출 6조 달러 필요",
+   "published_at": "2026-09-29T21:49:36+00:00",
+   "collected_at": "2026-09-30T00:19:25.054946+00:00",
+   "title_ko": "AI 데이터센터 투자 정당화하려면 2031년 연 매출 6조 달러 필요",
+   "summary_ko": "베인앤컴퍼니 분석에 따르면 현재의 막대한 AI 인프라 투자 붐이 정당화되려면 2031년까지 연간 6조 달러의 신규 매출이 창출되어야 합니다.",
+   "category": "중요",
+   "tags": [
+    "투자"
+   ]
+  },
+  {
+   "id": "cd4158ac161c0917",
+   "url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+   "source": "The Verge",
+   "title": "Elon Musk’s AI-powered Grokipedia is updating again",
+   "published_at": "2026-09-29T21:49:09+00:00",
+   "collected_at": "2026-09-30T00:18:39.809765+00:00",
+   "title_ko": "xAI, AI 기반 백과사전 'Grokipedia' 업데이트 재개",
+   "summary_ko": "수개월 동안 정체되어 있던 xAI의 AI 생성 온라인 백과사전 '그로키피디아'가 최근 실시간 문서 업데이트를 재개했습니다.",
+   "category": "참고",
+   "tags": []
+  },
+  {
+   "id": "77e28d0f07ad8123",
+   "url": "https://news.hada.io/topic?id=34507",
+   "source": "GeekNews",
+   "title": "Google, ChromeOS 지원을 2년 일찍 종료",
+   "published_at": "2026-09-29T21:43:36+00:00",
+   "collected_at": "2026-09-30T00:19:25.054946+00:00",
+   "title_ko": "구글 크롬북 지원 기간 단축 및 Gemini 내장 신제품 예고",
+   "summary_ko": "구글이 크롬OS 업데이트 지원 기간을 일부 조정하고, 향후 출시될 대체 기기인 Googlebook에 Gemini AI를 탑재할 예정입니다.",
+   "category": "중요",
+   "tags": [
+    "Google",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "cec2201580594feb",
+   "url": "https://news.hada.io/topic?id=34505",
+   "source": "GeekNews",
+   "title": "OpenAI DevDay 2026 주요 발표 총정리",
+   "published_at": "2026-09-29T21:26:48+00:00",
+   "collected_at": "2026-09-30T00:19:25.054946+00:00",
+   "title_ko": "OpenAI DevDay 2026 주요 발표: GPT-6.1 및 개발자 도구 공개",
+   "summary_ko": "OpenAI가 상시 작동하는 Dots와 클라우드 Codex, 성능이 대폭 향상된 GPT-6.1 Sol 등을 공개하며 개발자 생태계를 확장했습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT",
+    "코딩"
+   ]
+  },
+  {
+   "id": "ecc0ae874a1fc515",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtlxa9/best_model_for_blender/",
+   "source": "r/LocalLLaMA",
+   "title": "Best model for blender?",
+   "published_at": "2026-09-29T20:57:14+00:00",
+   "collected_at": "2026-09-30T00:19:10.921266+00:00",
+   "title_ko": "3D 모델 및 블렌더 에셋 생성을 위한 로컬 LLM 추천 요청",
+   "summary_ko": "64GB RAM 환경에서 3D 프린터용 모델이나 게임 에셋 생성을 원활하게 수행할 수 있는 로컬 오픈소스 모델에 대한 논의입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "로보틱스"
+   ]
+  },
   {
    "id": "d219cdb2cc726b78",
    "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
@@ -17,6 +236,21 @@
     "OpenAI",
     "GPT",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "9ce258e5a60bddae",
+   "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+   "source": "TechCrunch",
+   "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+   "published_at": "2026-09-29T19:52:37+00:00",
+   "collected_at": "2026-09-30T00:18:39.726457+00:00",
+   "title_ko": "OpenAI, 1조 4천억 달러 가치로 300억 달러 투자 유치 추진",
+   "summary_ko": "OpenAI가 2027년 기업공개(IPO)를 앞두고 대규모 자금 조달 협상을 진행 중입니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "투자"
    ]
   },
   {
@@ -628,6 +862,21 @@
    ]
   },
   {
+   "id": "92d01b7eb4d142fc",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtelk8/thanks_to_you_rlocalllama_my_mom_was_able_to_use/",
+   "source": "r/LocalLLaMA",
+   "title": "Thanks to you r/LocalLLaMA, my mom was able to use my app! The open-source app that can watch your screen and trigger actions. It is now easy to use, thanks to your feedback.",
+   "published_at": "2026-09-29T16:21:45+00:00",
+   "collected_at": "2026-09-30T00:19:10.921266+00:00",
+   "title_ko": "화면을 모니터링하고 작업을 수행하는 오픈소스 로컬 AI 앱 v3.0",
+   "summary_ko": "로컬 LLM을 활용해 화면을 감지하고 특정 이벤트에 맞춰 자동 알림이나 동작을 실행하는 오픈소스 에이전트 앱이 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "85ae00502245296c",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
    "source": "The Verge",
@@ -1227,6 +1476,21 @@
    ]
   },
   {
+   "id": "c37ab5b4ffaa37f7",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt4s88/release_gsqrco_ggufs_for_qwen38flashnext_plus_a/",
+   "source": "r/LocalLLaMA",
+   "title": "[Release] GSQ-RCO GGUFs for Qwen3.8-Flash-Next, plus a 50% expert-pruned Coder build at ~1.89 bpw",
+   "published_at": "2026-09-29T08:40:34+00:00",
+   "collected_at": "2026-09-30T00:19:10.921266+00:00",
+   "title_ko": "Qwen3.8-Flash-Next GSQ-RCO 양자화 및 코딩 특화 모델 공개",
+   "summary_ko": "대규모 MoE 모델인 Qwen3.8-Flash-Next의 효율적인 양자화 버전과 전문가 모델을 가지치기한 코딩용 GGUF 빌드가 출시되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
    "id": "a1e1ced0f5afadba",
    "url": "https://www.reddit.com/r/singularity/comments/1wt4ddp/voxelcraft_insanely_full_parity_minecraft_116/",
    "source": "r/singularity",
@@ -1255,6 +1519,20 @@
     "Anthropic",
     "Claude",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "64489b071b168b41",
+   "url": "https://twitter.com/thsottiaux/status/2104823812042940713",
+   "source": "Hacker News",
+   "title": "OpenAI: Tomorrow we are re-opening the Pro $200 subscription",
+   "published_at": "2026-09-29T07:07:53+00:00",
+   "collected_at": "2026-09-30T00:19:09.939693+00:00",
+   "title_ko": "OpenAI, 월 200달러 Pro 구독 상품 재개 예정",
+   "summary_ko": "OpenAI가 일시 중단했던 고가 Pro 구독 플랜을 다시 오픈한다고 발표했습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI"
    ]
   },
   {
@@ -2701,286 +2979,6 @@
    "tags": [
     "NVIDIA",
     "투자"
-   ]
-  },
-  {
-   "id": "f1d69bd4c8060c52",
-   "url": "https://arxiv.org/abs/2110.01834",
-   "source": "Hacker News",
-   "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
-   "published_at": "2026-09-28T03:23:53+00:00",
-   "collected_at": "2026-09-28T06:40:32.542787+00:00",
-   "title_ko": "AI에서의 빠른 사고와 느린 사고: 메타인지의 역할 논문",
-   "summary_ko": "인공지능 시스템에서 메타인지와 추론 과정의 중요성을 다룬 2021년 아카이브 논문이 다시 주목받고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "LLM"
-   ]
-  },
-  {
-   "id": "d66682bc6b49eee3",
-   "url": "https://news.hada.io/topic?id=34404",
-   "source": "GeekNews",
-   "title": "Palantir 공동창업자, 이란 학교 공습 참사에 대한 비판 자제 요구",
-   "published_at": "2026-09-28T02:33:00+00:00",
-   "collected_at": "2026-09-28T06:40:48.208361+00:00",
-   "title_ko": "팔란티어 기술의 군사적 활용과 책임 논란",
-   "summary_ko": "이란 학교 공습에 팔란티어 기술의 과도한 의존이 영향을 미쳤다는 지적이 나온 가운데, 공동창업자가 비판 자제를 요구해 논란이 되고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "투자"
-   ]
-  },
-  {
-   "id": "0dc955c86c2b08ca",
-   "url": "https://colo.to/nvidia-stock-narrative.html",
-   "source": "Hacker News",
-   "title": "Owed a billion dollars in Nvidia stock",
-   "published_at": "2026-09-28T02:05:13+00:00",
-   "collected_at": "2026-09-28T06:40:24.792450+00:00",
-   "title_ko": "엔비디아 주식과 관련된 거대 자산 서사",
-   "summary_ko": "엔비디아 주가 폭등과 관련된 시장의 거대한 자산 가치 서사를 다룬 분석 글입니다.",
-   "category": "참고",
-   "tags": [
-    "반도체",
-    "투자"
-   ]
-  },
-  {
-   "id": "d83c4d4a5e790720",
-   "url": "https://news.hada.io/topic?id=34399",
-   "source": "GeekNews",
-   "title": "바이브 코딩 현실: 셀프테스트는 통과했는데 실데이터는 261편 중 6편만 맞았다",
-   "published_at": "2026-09-28T01:17:11+00:00",
-   "collected_at": "2026-09-28T06:40:48.208361+00:00",
-   "title_ko": "AI 코딩 에이전트 자동화의 한계와 실데이터 오류 사례",
-   "summary_ko": "AI 코딩 에이전트가 셀프테스트를 통과했음에도 실제 데이터 처리 과정에서 다수의 치명적인 오류를 일으킨 사례를 공유합니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "5475850153487227",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ws0pdp/it_would_be_really_cool_to_have_an_official/",
-   "source": "r/LocalLLaMA",
-   "title": "It would be really cool to have an official 3D-print engineering benchmark/leaderboard like this",
-   "published_at": "2026-09-28T00:51:03+00:00",
-   "collected_at": "2026-09-28T06:40:33.504830+00:00",
-   "title_ko": "LLM의 3D 프린팅 및 CAD 설계 능력 벤치마크 필요성",
-   "summary_ko": "다양한 LLM이 생성한 CAD 코드로 다리를 출력하고 하중 테스트를 진행한 결과 모델별 성능 차이가 커, 물리적 직관을 측정할 표준 벤치마크의 필요성이 제기되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "14b56dcb21bf4430",
-   "url": "https://news.hada.io/topic?id=34397",
-   "source": "GeekNews",
-   "title": "계속 승진하는 것이 좋은 커리어일까? 엔지니어 Philip Su의 경험 [동영상]",
-   "published_at": "2026-09-28T00:35:01+00:00",
-   "collected_at": "2026-09-28T06:40:48.208361+00:00",
-   "title_ko": "전 OpenAI·Meta 엔지니어의 자발적 역강등 경험",
-   "summary_ko": "높은 성과 압박에 지쳐 고위직에서 실무 개발자 레벨로 자발적으로 내려간 엔지니어의 경험을 통해 지속 가능한 커리어 방향을 조명합니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "Meta"
-   ]
-  },
-  {
-   "id": "cf42a05305293416",
-   "url": "https://news.hada.io/topic?id=34395",
-   "source": "GeekNews",
-   "title": "BrowserSkill - 로그인된 내 브라우저를 AI 에이전트가 사용하게 하는 도구",
-   "published_at": "2026-09-28T00:30:02+00:00",
-   "collected_at": "2026-09-28T06:40:48.208361+00:00",
-   "title_ko": "텐센트, 로그인 브라우저 연동 AI 에이전트 도구 공개",
-   "summary_ko": "이미 로그인된 브라우저 세션을 AI 에이전트가 활용할 수 있게 해주는 도구로, 사내 업무 자동화 효율을 높여줍니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "c7c2af5e5c1c2868",
-   "url": "https://news.hada.io/topic?id=34394",
-   "source": "GeekNews",
-   "title": "기업용 AI가 마침내 SaaS의 약속을 실현하고 있다",
-   "published_at": "2026-09-28T00:26:02+00:00",
-   "collected_at": "2026-09-28T06:40:48.208361+00:00",
-   "title_ko": "기업용 AI가 실현하는 새로운 SaaS의 가치",
-   "summary_ko": "업무 노하우를 직접 제품에 담아내는 기업용 AI가 기존 SaaS의 한계를 극복하고 실제적인 업무 효율을 실현하고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "투자"
-   ]
-  },
-  {
-   "id": "ef43c9ccb4abbb07",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrzpzg/ft_corporate_america_rejects_overpriced_frontier/",
-   "source": "r/LocalLLaMA",
-   "title": "FT: Corporate America rejects overpriced frontier, embraces open models",
-   "published_at": "2026-09-28T00:03:49+00:00",
-   "collected_at": "2026-09-28T00:34:23.736327+00:00",
-   "title_ko": "기업들의 고비용 프론티어 AI 외면과 오픈소스 모델 채택",
-   "summary_ko": "미국 기업들이 비싼 프론티어 모델 대신 오픈소스 모델을 적극적으로 도입하고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "투자"
-   ]
-  },
-  {
-   "id": "914f14710638400c",
-   "url": "https://openai.com/form/codex-originals",
-   "source": "OpenAI",
-   "title": "Are you a Codex Original?",
-   "published_at": "2026-09-28T00:00:00+00:00",
-   "collected_at": "2026-09-28T21:50:29.874351+00:00",
-   "title_ko": "오픈에이아이, 코덱스 기반 창작자 프로그램 사연 모집",
-   "summary_ko": "오픈에이아이가 코덱스를 활용해 혁신적인 성과를 낸 개발자와 연구원들의 실제 사례를 수집합니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI"
-   ]
-  },
-  {
-   "id": "bf0fe8cc388a3447",
-   "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-   "source": "OpenAI",
-   "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-   "published_at": "2026-09-28T00:00:00+00:00",
-   "collected_at": "2026-09-28T21:50:29.874351+00:00",
-   "title_ko": "오픈에이아이, GPT-6 아스트라로 세무 업무 속도 개선",
-   "summary_ko": "새로운 GPT-6 아스트라 모델이 향상된 사용자 의도 이해를 바탕으로 이전 모델보다 2배 빠른 세무 워크북 처리 성능을 보였습니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "GPT"
-   ]
-  },
-  {
-   "id": "193eb09a66e5b52a",
-   "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
-   "source": "Simon Willison",
-   "title": "2026 in LLMs (so far)",
-   "published_at": "2026-09-27T23:54:15+00:00",
-   "collected_at": "2026-09-28T00:34:23.038065+00:00",
-   "title_ko": "2026년 LLM 업계 동향 총정리",
-   "summary_ko": "클로드와 GPT 등 주요 모델 출시를 포함해 지난 한 해 동안 LLM 업계에서 일어난 핵심 트렌드를 정리했습니다.",
-   "category": "참고",
-   "tags": [
-    "GPT",
-    "Claude"
-   ]
-  },
-  {
-   "id": "1ad88bbdd6846fcf",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrz9py/qwen_company_already_rushed_out_a_jev_competitor/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen company already rushed out a Jev competitor. No open weights yet.",
-   "published_at": "2026-09-27T23:43:08+00:00",
-   "collected_at": "2026-09-28T00:34:23.736327+00:00",
-   "title_ko": "Qwen, 비공개 클라우드 기반 경쟁 모델 프리뷰 공개",
-   "summary_ko": "Qwen 개발사가 오픈 웨이트 없이 문서 페이지만 포함된 새로운 경쟁 모델 프리뷰를 불쑥 공개했습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "afee1284748670ad",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wry136/qwen_plays_world_of_warcraft/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen plays World of Warcraft",
-   "published_at": "2026-09-27T22:46:25+00:00",
-   "collected_at": "2026-09-28T00:34:23.736327+00:00",
-   "title_ko": "로컬 LLM과 에이전트로 월드 오브 워크래프트 플레이",
-   "summary_ko": "커스텀 MCP와 에이전트 하네스를 활용해 시각적 입력 없이 로컬 및 클라우드 LLM으로 게임을 구동하는 시도를 진행했습니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "a89233e7f875b85c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrxap8/qwen38flashnext_177b_nvfp4119gib_ssd_streaming_at/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.8-Flash-Next 177B NVFP4(119GiB): SSD streaming at 9-10 tok/s on one 16 GB RTX 5060 Ti + 32 GB RAM",
-   "published_at": "2026-09-27T22:13:42+00:00",
-   "collected_at": "2026-09-28T00:34:23.736327+00:00",
-   "title_ko": "저사양 PC에서 SSD 스트리밍으로 대형 MoE 모델 구동",
-   "summary_ko": "VRAM이 부족한 환경에서 SSD 스트리밍 기술을 활용해 대형 오픈소스 MoE 모델을 실시간 추론하는 데 성공했습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "8f4509b8ce430fc8",
-   "url": "https://www.reddit.com/r/singularity/comments/1wrwn8h/ai_agents_mostly_opus_55_have_been_speeding_up_a/",
-   "source": "r/singularity",
-   "title": "AI agents (mostly Opus 5.5) have been speeding up a 27B model from 66tok/s to 580tok/s on a Mac in 3 days by rewriting its inference engine",
-   "published_at": "2026-09-27T21:45:52+00:00",
-   "collected_at": "2026-09-27T22:02:03.451043+00:00",
-   "title_ko": "AI 에이전트로 모델 추론 엔진 최적화 속도 향상",
-   "summary_ko": "AI 에이전트가 맥에서 27B 모델의 추론 엔진을 다시 작성하여 속도를 대폭 끌어올렸습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "81c9c3bb179e1248",
-   "url": "https://news.hada.io/topic?id=34384",
-   "source": "GeekNews",
-   "title": "“언어 모델로서”: 채팅 템플릿이 LLM의 자기 언급 말투를 전환함",
-   "published_at": "2026-09-27T21:42:38+00:00",
-   "collected_at": "2026-09-28T00:34:38.078281+00:00",
-   "title_ko": "채팅 템플릿이 LLM의 자기 인식과 말투에 미치는 영향",
-   "summary_ko": "채팅 템플릿 적용 여부에 따라 AI가 자신을 표현하는 한계 고지형 응답 비율이 크게 달라지는 것으로 나타났습니다.",
-   "category": "참고",
-   "tags": [
-    "LLM"
-   ]
-  },
-  {
-   "id": "df5b7b8439c310e0",
-   "url": "https://news.hada.io/topic?id=34383",
-   "source": "GeekNews",
-   "title": "Google은 언제부터 이렇게 이상해졌을까?",
-   "published_at": "2026-09-27T21:39:38+00:00",
-   "collected_at": "2026-09-28T00:34:38.078281+00:00",
-   "title_ko": "구글 검색 AI 오버뷰의 엉뚱한 답변 논란",
-   "summary_ko": "구글 검색의 AI 오버뷰 기능이 스포츠 팬들의 밈을 오해하여 엉뚱하고 기괴한 요약 텍스트를 생성했습니다.",
-   "category": "참고",
-   "tags": [
-    "Google"
-   ]
-  },
-  {
-   "id": "c2c7b14161a60f18",
-   "url": "https://www.reddit.com/r/singularity/comments/1wrvzad/so_were_illya_and_yan_lecun_both_wrong_llms_are/",
-   "source": "r/singularity",
-   "title": "So were Illya and Yan Lecun both wrong? (LLMs are generalising.)",
-   "published_at": "2026-09-27T21:18:23+00:00",
-   "collected_at": "2026-09-27T22:02:03.451043+00:00",
-   "title_ko": "LLM의 일반화 능력에 대한 논쟁",
-   "summary_ko": "LLM이 모든 도메인에서 일반화 능력을 보이기 시작하면서, 기존의 비판적 시각에 대한 재평가가 이루어지고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "GPT",
-    "Claude",
-    "Gemini"
    ]
   }
  ]
