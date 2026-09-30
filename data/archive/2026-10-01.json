@@ -1,5 +1,422 @@
 [
  {
+  "id": "db6a12e8491329b4",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=215821",
+  "source": "AI타임스",
+  "title": "구글, '제미나이 4 아르곤' 공개…성능 1위 탈환에도 \"일반 사용 제한\"",
+  "published_at": "2026-10-01T06:23:26+00:00",
+  "collected_at": "2026-09-30T23:41:05.340669+00:00",
+  "title_ko": "구글, 차세대 플래그십 '제미나이 4 아르곤' 공개",
+  "summary_ko": "구글이 성능 1위를 탈환한 신형 AI 모델 '제미나이 4 아르곤'을 발표했으나, 보안 및 정부 평가 등을 이유로 제한된 대상에게만 선공개했습니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "Gemini",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "cf556452643b9dfc",
+  "url": "https://www.reddit.com/r/singularity/comments/1wuj72j/gemini_4_argon_solved_hallucinations/",
+  "source": "r/singularity",
+  "title": "Gemini 4 Argon solved hallucinations.",
+  "published_at": "2026-09-30T22:46:33+00:00",
+  "collected_at": "2026-09-30T23:41:04.571451+00:00",
+  "title_ko": "제미나이 4 아르곤, 환각 현상 해결 가능성 제기",
+  "summary_ko": "구글의 신형 모델 제미나이 4 아르곤이 AI의 고질적인 문제인 환각 현상을 거의 완벽하게 해결했다는 사용자 평가가 나왔습니다.",
+  "category": "참고",
+  "tags": [
+   "Google",
+   "Gemini"
+  ]
+ },
+ {
+  "id": "3b42a101df6b0cf2",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuj70v/open_source_inference_engine_like_lm_studio_or/",
+  "source": "r/LocalLLaMA",
+  "title": "Open source inference engine (like LM Studio or Unsloth Desktop) that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on Apple Silicon, NVIDIA, AMD or nothing but a CPU.",
+  "published_at": "2026-09-30T22:46:30+00:00",
+  "collected_at": "2026-09-30T23:40:51.580790+00:00",
+  "title_ko": "하드웨어 맞춤형 오픈소스 추론 엔진 등장",
+  "summary_ko": "사용자의 기기 환경에 맞춰 커널을 자동 최적화하고 컴파일하여, 기존 llama.cpp 대비 최대 2배 빠른 속도를 제공하는 오픈소스 추론 엔진이 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체",
+   "NVIDIA"
+  ]
+ },
+ {
+  "id": "cbee905aa5c3ce75",
+  "url": "https://news.hada.io/topic?id=34569",
+  "source": "GeekNews",
+  "title": "Anthropic의 IPO 투자설명서에 담긴 AI 비전과 급증하는 비용",
+  "published_at": "2026-09-30T22:38:39+00:00",
+  "collected_at": "2026-09-30T23:41:06.280209+00:00",
+  "title_ko": "앤트로픽 IPO 투자설명서에 담긴 AI 비전과 급증하는 비용",
+  "summary_ko": "앤트로픽이 대규모 AI 인프라 투자와 급증하는 클라우드 비용 계획을 공개했으며, 2025년 매출이 크게 증가할 것으로 예상됩니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "투자"
+  ]
+ },
+ {
+  "id": "ead5614b04eea12c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuigui/peculiarragdolls_dirkqwen_3827b_vs_ukisai_swift15/",
+  "source": "r/LocalLLaMA",
+  "title": "peculiar-ragdoll's Dirk-Qwen 3.8-27B vs. UkisAI Swift-1.5 Qwen3.8-27B",
+  "published_at": "2026-09-30T22:14:19+00:00",
+  "collected_at": "2026-09-30T23:40:51.580790+00:00",
+  "title_ko": "오픈소스 Qwen 기반 파인튜닝 모델 성능 비교",
+  "summary_ko": "코딩, 데이터 분석, 로컬 RAG 등 도메인별 평가 벤치마크를 통해 다양한 Qwen 파인튜닝 모델의 성능을 비교했습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "1d83ada64e2b77ba",
+  "url": "https://news.hada.io/topic?id=34568",
+  "source": "GeekNews",
+  "title": "Show GN: herdr web ui - 폰이나 브라우저에서 herdr 사용하는 플러그인",
+  "published_at": "2026-09-30T21:48:55+00:00",
+  "collected_at": "2026-09-30T23:41:06.280209+00:00",
+  "title_ko": "모바일 및 브라우저용 herdr 웹 UI 공개",
+  "summary_ko": "AI 슬롭(Slop)에 피로감을 느낀 개발자가 직접 제작한 herdr 도구의 PWA 및 웹 UI 버전이 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "43295049adfa81c0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuhrop/if_one_hour_of_ai_is_costing_me_012_is_paying_for/",
+  "source": "r/LocalLLaMA",
+  "title": "If one hour of AI is costing me 0.12€ is paying for frontier a cheaper option?",
+  "published_at": "2026-09-30T21:44:48+00:00",
+  "collected_at": "2026-09-30T23:40:51.580790+00:00",
+  "title_ko": "로컬 AI 구동 전력 비용과 프런티어 모델 API 비용 비교",
+  "summary_ko": "로컬에서 모델을 구동할 때 발생하는 전기세와 상용 프런티어 모델 API 사용 비용을 비교하여 경제성을 분석한 글입니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "7696107b6c06e63d",
+  "url": "https://www.reddit.com/r/singularity/comments/1wuhqta/agi_achieved_boys/",
+  "source": "r/singularity",
+  "title": "AGI achieved boys",
+  "published_at": "2026-09-30T21:43:47+00:00",
+  "collected_at": "2026-09-30T23:41:04.571451+00:00",
+  "title_ko": "온라인 커뮤니티의 AGI 도달 농담 해프닝",
+  "summary_ko": "레딧 커뮤니티에서 AGI가 달성되었다는 유머성 게시물이 올라와 주목을 끌었습니다.",
+  "category": "참고",
+  "tags": []
+ },
+ {
+  "id": "fad328b0ee1d4250",
+  "url": "https://news.hada.io/topic?id=34566",
+  "source": "GeekNews",
+  "title": "지난번 우리 가족이 기술로 대체되었을 때",
+  "published_at": "2026-09-30T21:42:44+00:00",
+  "collected_at": "2026-09-30T23:41:06.280209+00:00",
+  "title_ko": "AI 시대의 직업 변화: 과거 기술 혁신과의 비교",
+  "summary_ko": "자동차 등장 당시 직업을 바꿨던 사례를 통해 AI 시대 개발자들의 불안감과 변화를 조명했습니다.",
+  "category": "참고",
+  "tags": []
+ },
+ {
+  "id": "b4341699df22ef1f",
+  "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+  "source": "TechCrunch",
+  "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+  "published_at": "2026-09-30T21:07:40+00:00",
+  "collected_at": "2026-09-30T23:40:10.081001+00:00",
+  "title_ko": "하드웨어 설계용 AI 에이전트 스타트업 '플로우 엔지니어링', 7억 5천만 달러 가치 평가",
+  "summary_ko": "하드웨어 설계에 AI 에이전트를 도입하는 플로우 엔지니어링이 세쿼이아 등으로부터 대규모 투자를 유치하며 높은 기업 가치를 인정받았습니다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트",
+   "투자",
+   "반도체"
+  ]
+ },
+ {
+  "id": "4aba897202c07177",
+  "url": "https://artificialanalysis.ai/models/gemini-4-argon",
+  "source": "Hacker News",
+  "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
+  "published_at": "2026-09-30T20:50:28+00:00",
+  "collected_at": "2026-09-30T23:40:50.676485+00:00",
+  "title_ko": "Gemini 4 Argon 성능 및 가격 분석",
+  "summary_ko": "구글의 신형 모델 Gemini 4 Argon의 지능, 성능, 가격에 대한 분석 내용이 공유되었습니다.",
+  "category": "참고",
+  "tags": [
+   "Google",
+   "Gemini"
+  ]
+ },
+ {
+  "id": "ff7bd9716395e99a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wugf2t/indextranslate_150_text_languages_plus_document/",
+  "source": "r/LocalLLaMA",
+  "title": "Index-Translate: 150 text languages, plus document translation, multilingual subtitles and dubbing",
+  "published_at": "2026-09-30T20:49:45+00:00",
+  "collected_at": "2026-09-30T23:40:51.580790+00:00",
+  "title_ko": "빌리빌리, 다국어 번역 및 더빙 모델 'Index-Translate' 공개",
+  "summary_ko": "150개 언어와 문서 번역, 영상 자막 및 더빙을 지원하는 오픈 소스 계열의 Index-Translate 모델들이 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "d6c97599b47bf4a6",
+  "url": "https://www.reddit.com/r/singularity/comments/1wuga3s/gemini_4_crushes_benchmarks_but_google_employees/",
+  "source": "r/singularity",
+  "title": "Gemini 4 Crushes Benchmarks, But Google Employees State The Model Struggles With Real Work",
+  "published_at": "2026-09-30T20:44:03+00:00",
+  "collected_at": "2026-09-30T23:41:04.571451+00:00",
+  "title_ko": "구글 Gemini 4, 벤치마크 우수하나 실무에선 한계",
+  "summary_ko": "Gemini 4가 벤치마크에서는 뛰어난 성적을 거뒀으나, 구글 내부 직원들은 실제 업무나 코딩 작업에서 어려움을 겪고 있다고 평가했습니다.",
+  "category": "중요",
+  "tags": [
+   "Google",
+   "Gemini"
+  ]
+ },
+ {
+  "id": "54c51a1d414cfea8",
+  "url": "https://www.reddit.com/r/singularity/comments/1wug9tb/google_gemini_4_scores_same_as_gpt_6_astra_on/",
+  "source": "r/singularity",
+  "title": "Google Gemini 4 scores same as GPT 6 Astra on Artificial Analysis Benchmark, while costing 40% less.",
+  "published_at": "2026-09-30T20:43:42+00:00",
+  "collected_at": "2026-09-30T23:41:04.571451+00:00",
+  "title_ko": "Gemini 4, GPT-6 Astra와 동등한 성능에 40% 저렴한 비용",
+  "summary_ko": "인공 분석 벤치마크에서 Gemini 4가 GPT-6 Astra와 같은 점수를 기록하면서도 비용은 40% 저렴한 것으로 나타났습니다.",
+  "category": "중요",
+  "tags": [
+   "Google",
+   "Gemini",
+   "GPT"
+  ]
+ },
+ {
+  "id": "c3eee3e3173d07fc",
+  "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+  "source": "The Verge",
+  "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+  "published_at": "2026-09-30T20:41:41+00:00",
+  "collected_at": "2026-09-30T23:40:10.222518+00:00",
+  "title_ko": "구글, 차세대 프론티어 모델 'Gemini 4 Argon' 공개",
+  "summary_ko": "구글이 소프트웨어 엔지니어링과 금융, 법률 등 고난도 업무를 수행할 수 있는 Gemini 4 Argon을 발표했으나 현재는 제한된 대상에게만 제공됩니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "Gemini"
+  ]
+ },
+ {
+  "id": "1cbb0e9cceed4e86",
+  "url": "https://www.reddit.com/r/singularity/comments/1wug4vf/gemini_4_high_inteligence_index_53_and_low_on/",
+  "source": "r/singularity",
+  "title": "Gemini 4 - High Inteligence Index (53) and low on cost (1/3 of Opus 5.5)",
+  "published_at": "2026-09-30T20:38:17+00:00",
+  "collected_at": "2026-09-30T23:41:04.571451+00:00",
+  "title_ko": "Gemini 4, 높은 지능 지수와 낮은 비용 기록",
+  "summary_ko": "인공 분석 결과 Gemini 4는 경쟁 모델 대비 뛰어난 지능을 보이면서도 비용은 Opus 5.5의 3분의 1 수준인 것으로 확인되었습니다.",
+  "category": "참고",
+  "tags": [
+   "Google",
+   "Gemini"
+  ]
+ },
+ {
+  "id": "39531be2aa594889",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wufzrh/qwen3827bpi_effortordered_reasoning_for_agentic/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-27B-pi: Effort-Ordered Reasoning for Agentic Coding",
+  "published_at": "2026-09-30T20:32:41+00:00",
+  "collected_at": "2026-09-30T23:40:51.580790+00:00",
+  "title_ko": "에이전트 코딩을 위한 Qwen3.8-27B-pi 모델 공개",
+  "summary_ko": "에이전트 기반 코딩 작업을 수행할 수 있는 효율성 중심의 추론 모델 Qwen3.8-27B-pi가 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "1ac38cd4b1c610ab",
+  "url": "https://www.reddit.com/r/singularity/comments/1wufha8/gemini_4_argon_benchmarks/",
+  "source": "r/singularity",
+  "title": ", Gemini 4 Argon Benchmarks",
+  "published_at": "2026-09-30T20:12:34+00:00",
+  "collected_at": "2026-09-30T23:41:04.571451+00:00",
+  "title_ko": "Gemini 4 Argon 벤치마크 성적",
+  "summary_ko": "새롭게 공개된 Gemini 4 Argon의 주요 벤치마크 성능 수치들이 공유되었습니다.",
+  "category": "참고",
+  "tags": [
+   "Google",
+   "Gemini"
+  ]
+ },
+ {
+  "id": "28c022bee927370f",
+  "url": "https://www.reddit.com/r/singularity/comments/1wufeu8/introducing_gemini_4_argon/",
+  "source": "r/singularity",
+  "title": "Introducing Gemini 4 Argon",
+  "published_at": "2026-09-30T20:09:54+00:00",
+  "collected_at": "2026-09-30T23:41:04.571451+00:00",
+  "title_ko": "구글, 'Gemini 4 Argon' 공식 출시",
+  "summary_ko": "구글이 차세대 AI 모델인 Gemini 4 Argon을 공식적으로 세상에 선보였습니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "Gemini"
+  ]
+ },
+ {
+  "id": "ef68a4821ce2125d",
+  "url": "https://www.reddit.com/r/singularity/comments/1wufdet/googles_unreleased_gemini_4_argon_may_have_just/",
+  "source": "r/singularity",
+  "title": "Google’s unreleased Gemini 4 Argon may have just leaked—and it tops 12 of 18 benchmarks against Fable 5.1, Opus 5.5 and GPT-6 Astra, including 19.6% vs GPT-6 Astra’s 5.4% on autonomous legal work",
+  "published_at": "2026-09-30T20:08:19+00:00",
+  "collected_at": "2026-09-30T23:41:04.571451+00:00",
+  "title_ko": "Gemini 4 Argon, 주요 벤치마크 다수 상회",
+  "summary_ko": "출시 전 유출된 정보에 따르면 Gemini 4 Argon이 자율 법률 업무 등 여러 벤치마크에서 경쟁 모델들을 앞서는 성능을 보였습니다.",
+  "category": "중요",
+  "tags": [
+   "Google",
+   "Gemini",
+   "GPT"
+  ]
+ },
+ {
+  "id": "ae734b93bd69004f",
+  "url": "https://www.reddit.com/r/singularity/comments/1wufaxm/gemini_4_from_straight_from_the_horses_mouth/",
+  "source": "r/singularity",
+  "title": "Gemini 4 from straight from the horses mouth",
+  "published_at": "2026-09-30T20:05:29+00:00",
+  "collected_at": "2026-09-30T23:41:04.571451+00:00",
+  "title_ko": "구글 Gemini 4 출시 임박 소식",
+  "summary_ko": "구글의 차세대 AI 모델인 Gemini 4 관련 정보가 유출되며 업계의 이목을 끌고 있습니다. 성능 향상 폭에 관심이 집중됩니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "Gemini"
+  ]
+ },
+ {
+  "id": "9e57e69aee78667d",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+  "source": "Hacker News",
+  "title": "Gemini 4 Argon",
+  "published_at": "2026-09-30T20:04:37+00:00",
+  "collected_at": "2026-09-30T23:40:50.676485+00:00",
+  "title_ko": "Gemini 4 Argon 성능 및 가격 분석",
+  "summary_ko": "구글의 신규 모델 'Gemini 4 Argon'의 지능, 성능, 가격에 대한 분석이 공개되었습니다. 차세대 모델의 경제성과 효율성을 가늠할 수 있습니다.",
+  "category": "중요",
+  "tags": [
+   "Google",
+   "Gemini"
+  ]
+ },
+ {
+  "id": "311e095023e6d9fd",
+  "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+  "source": "DeepMind",
+  "title": "Gemini 4 Argon: our next era of frontier intelligence",
+  "published_at": "2026-09-30T20:01:45+00:00",
+  "collected_at": "2026-09-30T23:40:24.520094+00:00",
+  "title_ko": "구글, 차세대 프론티어 AI 'Gemini 4 Argon' 발표",
+  "summary_ko": "구글 딥마인드가 새로운 시대의 프론티어 지능을 이끌어갈 'Gemini 4 Argon'을 공식 발표했습니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "Gemini"
+  ]
+ },
+ {
+  "id": "4f2c29510b4c35a0",
+  "url": "https://turkeyland.net/thoughts/ai.php",
+  "source": "Hacker News",
+  "title": "CS240 AI Cheating Retrospective",
+  "published_at": "2026-09-30T19:54:29+00:00",
+  "collected_at": "2026-09-30T23:40:50.676485+00:00",
+  "title_ko": "CS240 AI 부정행위 회고록",
+  "summary_ko": "컴퓨터과학 강의에서 발생한 AI 활용 부정행위에 대한 회고와 시사점을 다룬 글입니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "401faf8433b16bd2",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuet5g/update_strix_halo_r9700_with_llamahalohybrid_now/",
+  "source": "r/LocalLLaMA",
+  "title": "Update: Strix Halo + R9700 with llama-halo-hybrid - now beats DGX Spark",
+  "published_at": "2026-09-30T19:46:31+00:00",
+  "collected_at": "2026-09-30T23:40:51.580790+00:00",
+  "title_ko": "Strix Halo와 APU 조합의 로컬 LLM 성능 최적화",
+  "summary_ko": "하이브리드 방식을 통해 로컬 환경에서 대형 언어 모델의 성능을 극대화하는 기법이 공유되었습니다. 하드웨어 활용도를 높이는 데 유용합니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "17b1d5aeb7d4ff37",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wue339/preorder_for_new_amd_ryzen_ai_max_400_series/",
+  "source": "r/LocalLLaMA",
+  "title": "Preorder for new AMD Ryzen™ AI Max 400 Series 192GB from framework just started",
+  "published_at": "2026-09-30T19:19:05+00:00",
+  "collected_at": "2026-09-30T23:40:51.580790+00:00",
+  "title_ko": "AMD Ryzen AI Max 400 시리즈 192GB 모델 예약판매 시작",
+  "summary_ko": "대용량 메모리를 탑재한 최신 AMD Ryzen AI 프로세서 기반 시스템의 프리오더가 시작되었습니다. 로컬 AI 구동 환경에 큰 변화가 예상됩니다.",
+  "category": "중요",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "6ec834f78fcd7b94",
+  "url": "https://www.reddit.com/r/singularity/comments/1wudxzg/gpt61_sol_reaches_third_place_in_humanitys_last/",
+  "source": "r/singularity",
+  "title": "GPT-6.1 Sol reaches third place in Humanity's Last Exam — Diamond",
+  "published_at": "2026-09-30T19:13:46+00:00",
+  "collected_at": "2026-09-30T23:41:04.571451+00:00",
+  "title_ko": "GPT-6.1 Sol, 벤치마크 'Humanity's Last Exam' 다이아몬드 3위 달성",
+  "summary_ko": "OpenAI의 차세대 추정 모델인 GPT-6.1 Sol이 고난도 AI 벤치마크에서 상위권에 올랐습니다. 모델의 추론 능력 한계가 계속해서 확장되고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "GPT"
+  ]
+ },
+ {
+  "id": "3697c11ce958cbad",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wudurg/whats_going_on_with_dgx_spark_price_up_2k_in_1/",
+  "source": "r/LocalLLaMA",
+  "title": "What's going on with DGX Spark? Price up $2k in 1 week?",
+  "published_at": "2026-09-30T19:10:24+00:00",
+  "collected_at": "2026-09-30T23:40:51.580790+00:00",
+  "title_ko": "DGX Spark 품귀 현상 및 가격 급등",
+  "summary_ko": "AI 개발용 하드웨어인 DGX Spark의 수요 폭증으로 가격이 급등하고 품귀 현상이 빚어지고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "투자"
+  ]
+ },
+ {
   "id": "d4c4ffc0ae75cd96",
   "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
   "source": "TechCrunch",
@@ -323,6 +740,22 @@
   "tags": [
    "NVIDIA",
    "규제"
+  ]
+ },
+ {
+  "id": "b4022fc2721e0f57",
+  "url": "https://www.reddit.com/r/singularity/comments/1wuahc7/there_should_be_way_more_backlash_to_openais/",
+  "source": "r/singularity",
+  "title": "There Should Be Way More Backlash To OpenAI's $500/Month, $6,000 A Year Subscription",
+  "published_at": "2026-09-30T17:04:36+00:00",
+  "collected_at": "2026-09-30T23:41:04.571451+00:00",
+  "title_ko": "OpenAI의 월 500달러 고가 구독 플랜 논란",
+  "summary_ko": "OpenAI가 도입한 고액 구독 서비스가 업계 가격 인상을 주도하고 전례 없는 부담을 준다는 비판이 제기되고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "GPT",
+   "투자"
   ]
  },
  {

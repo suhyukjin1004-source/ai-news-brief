@@ -1,8 +1,425 @@
 {
- "updated_at": "2026-09-30T19:07:15.495200+00:00",
+ "updated_at": "2026-09-30T23:41:27.923716+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "db6a12e8491329b4",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215821",
+   "source": "AI타임스",
+   "title": "구글, '제미나이 4 아르곤' 공개…성능 1위 탈환에도 \"일반 사용 제한\"",
+   "published_at": "2026-10-01T06:23:26+00:00",
+   "collected_at": "2026-09-30T23:41:05.340669+00:00",
+   "title_ko": "구글, 차세대 플래그십 '제미나이 4 아르곤' 공개",
+   "summary_ko": "구글이 성능 1위를 탈환한 신형 AI 모델 '제미나이 4 아르곤'을 발표했으나, 보안 및 정부 평가 등을 이유로 제한된 대상에게만 선공개했습니다.",
+   "category": "속보",
+   "tags": [
+    "Google",
+    "Gemini",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "cf556452643b9dfc",
+   "url": "https://www.reddit.com/r/singularity/comments/1wuj72j/gemini_4_argon_solved_hallucinations/",
+   "source": "r/singularity",
+   "title": "Gemini 4 Argon solved hallucinations.",
+   "published_at": "2026-09-30T22:46:33+00:00",
+   "collected_at": "2026-09-30T23:41:04.571451+00:00",
+   "title_ko": "제미나이 4 아르곤, 환각 현상 해결 가능성 제기",
+   "summary_ko": "구글의 신형 모델 제미나이 4 아르곤이 AI의 고질적인 문제인 환각 현상을 거의 완벽하게 해결했다는 사용자 평가가 나왔습니다.",
+   "category": "참고",
+   "tags": [
+    "Google",
+    "Gemini"
+   ]
+  },
+  {
+   "id": "3b42a101df6b0cf2",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuj70v/open_source_inference_engine_like_lm_studio_or/",
+   "source": "r/LocalLLaMA",
+   "title": "Open source inference engine (like LM Studio or Unsloth Desktop) that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on Apple Silicon, NVIDIA, AMD or nothing but a CPU.",
+   "published_at": "2026-09-30T22:46:30+00:00",
+   "collected_at": "2026-09-30T23:40:51.580790+00:00",
+   "title_ko": "하드웨어 맞춤형 오픈소스 추론 엔진 등장",
+   "summary_ko": "사용자의 기기 환경에 맞춰 커널을 자동 최적화하고 컴파일하여, 기존 llama.cpp 대비 최대 2배 빠른 속도를 제공하는 오픈소스 추론 엔진이 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체",
+    "NVIDIA"
+   ]
+  },
+  {
+   "id": "cbee905aa5c3ce75",
+   "url": "https://news.hada.io/topic?id=34569",
+   "source": "GeekNews",
+   "title": "Anthropic의 IPO 투자설명서에 담긴 AI 비전과 급증하는 비용",
+   "published_at": "2026-09-30T22:38:39+00:00",
+   "collected_at": "2026-09-30T23:41:06.280209+00:00",
+   "title_ko": "앤트로픽 IPO 투자설명서에 담긴 AI 비전과 급증하는 비용",
+   "summary_ko": "앤트로픽이 대규모 AI 인프라 투자와 급증하는 클라우드 비용 계획을 공개했으며, 2025년 매출이 크게 증가할 것으로 예상됩니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "투자"
+   ]
+  },
+  {
+   "id": "ead5614b04eea12c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuigui/peculiarragdolls_dirkqwen_3827b_vs_ukisai_swift15/",
+   "source": "r/LocalLLaMA",
+   "title": "peculiar-ragdoll's Dirk-Qwen 3.8-27B vs. UkisAI Swift-1.5 Qwen3.8-27B",
+   "published_at": "2026-09-30T22:14:19+00:00",
+   "collected_at": "2026-09-30T23:40:51.580790+00:00",
+   "title_ko": "오픈소스 Qwen 기반 파인튜닝 모델 성능 비교",
+   "summary_ko": "코딩, 데이터 분석, 로컬 RAG 등 도메인별 평가 벤치마크를 통해 다양한 Qwen 파인튜닝 모델의 성능을 비교했습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "1d83ada64e2b77ba",
+   "url": "https://news.hada.io/topic?id=34568",
+   "source": "GeekNews",
+   "title": "Show GN: herdr web ui - 폰이나 브라우저에서 herdr 사용하는 플러그인",
+   "published_at": "2026-09-30T21:48:55+00:00",
+   "collected_at": "2026-09-30T23:41:06.280209+00:00",
+   "title_ko": "모바일 및 브라우저용 herdr 웹 UI 공개",
+   "summary_ko": "AI 슬롭(Slop)에 피로감을 느낀 개발자가 직접 제작한 herdr 도구의 PWA 및 웹 UI 버전이 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "43295049adfa81c0",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuhrop/if_one_hour_of_ai_is_costing_me_012_is_paying_for/",
+   "source": "r/LocalLLaMA",
+   "title": "If one hour of AI is costing me 0.12€ is paying for frontier a cheaper option?",
+   "published_at": "2026-09-30T21:44:48+00:00",
+   "collected_at": "2026-09-30T23:40:51.580790+00:00",
+   "title_ko": "로컬 AI 구동 전력 비용과 프런티어 모델 API 비용 비교",
+   "summary_ko": "로컬에서 모델을 구동할 때 발생하는 전기세와 상용 프런티어 모델 API 사용 비용을 비교하여 경제성을 분석한 글입니다.",
+   "category": "참고",
+   "tags": [
+    "NVIDIA",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "7696107b6c06e63d",
+   "url": "https://www.reddit.com/r/singularity/comments/1wuhqta/agi_achieved_boys/",
+   "source": "r/singularity",
+   "title": "AGI achieved boys",
+   "published_at": "2026-09-30T21:43:47+00:00",
+   "collected_at": "2026-09-30T23:41:04.571451+00:00",
+   "title_ko": "온라인 커뮤니티의 AGI 도달 농담 해프닝",
+   "summary_ko": "레딧 커뮤니티에서 AGI가 달성되었다는 유머성 게시물이 올라와 주목을 끌었습니다.",
+   "category": "참고",
+   "tags": []
+  },
+  {
+   "id": "fad328b0ee1d4250",
+   "url": "https://news.hada.io/topic?id=34566",
+   "source": "GeekNews",
+   "title": "지난번 우리 가족이 기술로 대체되었을 때",
+   "published_at": "2026-09-30T21:42:44+00:00",
+   "collected_at": "2026-09-30T23:41:06.280209+00:00",
+   "title_ko": "AI 시대의 직업 변화: 과거 기술 혁신과의 비교",
+   "summary_ko": "자동차 등장 당시 직업을 바꿨던 사례를 통해 AI 시대 개발자들의 불안감과 변화를 조명했습니다.",
+   "category": "참고",
+   "tags": []
+  },
+  {
+   "id": "b4341699df22ef1f",
+   "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+   "source": "TechCrunch",
+   "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+   "published_at": "2026-09-30T21:07:40+00:00",
+   "collected_at": "2026-09-30T23:40:10.081001+00:00",
+   "title_ko": "하드웨어 설계용 AI 에이전트 스타트업 '플로우 엔지니어링', 7억 5천만 달러 가치 평가",
+   "summary_ko": "하드웨어 설계에 AI 에이전트를 도입하는 플로우 엔지니어링이 세쿼이아 등으로부터 대규모 투자를 유치하며 높은 기업 가치를 인정받았습니다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트",
+    "투자",
+    "반도체"
+   ]
+  },
+  {
+   "id": "4aba897202c07177",
+   "url": "https://artificialanalysis.ai/models/gemini-4-argon",
+   "source": "Hacker News",
+   "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
+   "published_at": "2026-09-30T20:50:28+00:00",
+   "collected_at": "2026-09-30T23:40:50.676485+00:00",
+   "title_ko": "Gemini 4 Argon 성능 및 가격 분석",
+   "summary_ko": "구글의 신형 모델 Gemini 4 Argon의 지능, 성능, 가격에 대한 분석 내용이 공유되었습니다.",
+   "category": "참고",
+   "tags": [
+    "Google",
+    "Gemini"
+   ]
+  },
+  {
+   "id": "ff7bd9716395e99a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wugf2t/indextranslate_150_text_languages_plus_document/",
+   "source": "r/LocalLLaMA",
+   "title": "Index-Translate: 150 text languages, plus document translation, multilingual subtitles and dubbing",
+   "published_at": "2026-09-30T20:49:45+00:00",
+   "collected_at": "2026-09-30T23:40:51.580790+00:00",
+   "title_ko": "빌리빌리, 다국어 번역 및 더빙 모델 'Index-Translate' 공개",
+   "summary_ko": "150개 언어와 문서 번역, 영상 자막 및 더빙을 지원하는 오픈 소스 계열의 Index-Translate 모델들이 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "d6c97599b47bf4a6",
+   "url": "https://www.reddit.com/r/singularity/comments/1wuga3s/gemini_4_crushes_benchmarks_but_google_employees/",
+   "source": "r/singularity",
+   "title": "Gemini 4 Crushes Benchmarks, But Google Employees State The Model Struggles With Real Work",
+   "published_at": "2026-09-30T20:44:03+00:00",
+   "collected_at": "2026-09-30T23:41:04.571451+00:00",
+   "title_ko": "구글 Gemini 4, 벤치마크 우수하나 실무에선 한계",
+   "summary_ko": "Gemini 4가 벤치마크에서는 뛰어난 성적을 거뒀으나, 구글 내부 직원들은 실제 업무나 코딩 작업에서 어려움을 겪고 있다고 평가했습니다.",
+   "category": "중요",
+   "tags": [
+    "Google",
+    "Gemini"
+   ]
+  },
+  {
+   "id": "54c51a1d414cfea8",
+   "url": "https://www.reddit.com/r/singularity/comments/1wug9tb/google_gemini_4_scores_same_as_gpt_6_astra_on/",
+   "source": "r/singularity",
+   "title": "Google Gemini 4 scores same as GPT 6 Astra on Artificial Analysis Benchmark, while costing 40% less.",
+   "published_at": "2026-09-30T20:43:42+00:00",
+   "collected_at": "2026-09-30T23:41:04.571451+00:00",
+   "title_ko": "Gemini 4, GPT-6 Astra와 동등한 성능에 40% 저렴한 비용",
+   "summary_ko": "인공 분석 벤치마크에서 Gemini 4가 GPT-6 Astra와 같은 점수를 기록하면서도 비용은 40% 저렴한 것으로 나타났습니다.",
+   "category": "중요",
+   "tags": [
+    "Google",
+    "Gemini",
+    "GPT"
+   ]
+  },
+  {
+   "id": "c3eee3e3173d07fc",
+   "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+   "source": "The Verge",
+   "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+   "published_at": "2026-09-30T20:41:41+00:00",
+   "collected_at": "2026-09-30T23:40:10.222518+00:00",
+   "title_ko": "구글, 차세대 프론티어 모델 'Gemini 4 Argon' 공개",
+   "summary_ko": "구글이 소프트웨어 엔지니어링과 금융, 법률 등 고난도 업무를 수행할 수 있는 Gemini 4 Argon을 발표했으나 현재는 제한된 대상에게만 제공됩니다.",
+   "category": "속보",
+   "tags": [
+    "Google",
+    "Gemini"
+   ]
+  },
+  {
+   "id": "1cbb0e9cceed4e86",
+   "url": "https://www.reddit.com/r/singularity/comments/1wug4vf/gemini_4_high_inteligence_index_53_and_low_on/",
+   "source": "r/singularity",
+   "title": "Gemini 4 - High Inteligence Index (53) and low on cost (1/3 of Opus 5.5)",
+   "published_at": "2026-09-30T20:38:17+00:00",
+   "collected_at": "2026-09-30T23:41:04.571451+00:00",
+   "title_ko": "Gemini 4, 높은 지능 지수와 낮은 비용 기록",
+   "summary_ko": "인공 분석 결과 Gemini 4는 경쟁 모델 대비 뛰어난 지능을 보이면서도 비용은 Opus 5.5의 3분의 1 수준인 것으로 확인되었습니다.",
+   "category": "참고",
+   "tags": [
+    "Google",
+    "Gemini"
+   ]
+  },
+  {
+   "id": "39531be2aa594889",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wufzrh/qwen3827bpi_effortordered_reasoning_for_agentic/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8-27B-pi: Effort-Ordered Reasoning for Agentic Coding",
+   "published_at": "2026-09-30T20:32:41+00:00",
+   "collected_at": "2026-09-30T23:40:51.580790+00:00",
+   "title_ko": "에이전트 코딩을 위한 Qwen3.8-27B-pi 모델 공개",
+   "summary_ko": "에이전트 기반 코딩 작업을 수행할 수 있는 효율성 중심의 추론 모델 Qwen3.8-27B-pi가 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "1ac38cd4b1c610ab",
+   "url": "https://www.reddit.com/r/singularity/comments/1wufha8/gemini_4_argon_benchmarks/",
+   "source": "r/singularity",
+   "title": ", Gemini 4 Argon Benchmarks",
+   "published_at": "2026-09-30T20:12:34+00:00",
+   "collected_at": "2026-09-30T23:41:04.571451+00:00",
+   "title_ko": "Gemini 4 Argon 벤치마크 성적",
+   "summary_ko": "새롭게 공개된 Gemini 4 Argon의 주요 벤치마크 성능 수치들이 공유되었습니다.",
+   "category": "참고",
+   "tags": [
+    "Google",
+    "Gemini"
+   ]
+  },
+  {
+   "id": "28c022bee927370f",
+   "url": "https://www.reddit.com/r/singularity/comments/1wufeu8/introducing_gemini_4_argon/",
+   "source": "r/singularity",
+   "title": "Introducing Gemini 4 Argon",
+   "published_at": "2026-09-30T20:09:54+00:00",
+   "collected_at": "2026-09-30T23:41:04.571451+00:00",
+   "title_ko": "구글, 'Gemini 4 Argon' 공식 출시",
+   "summary_ko": "구글이 차세대 AI 모델인 Gemini 4 Argon을 공식적으로 세상에 선보였습니다.",
+   "category": "속보",
+   "tags": [
+    "Google",
+    "Gemini"
+   ]
+  },
+  {
+   "id": "ef68a4821ce2125d",
+   "url": "https://www.reddit.com/r/singularity/comments/1wufdet/googles_unreleased_gemini_4_argon_may_have_just/",
+   "source": "r/singularity",
+   "title": "Google’s unreleased Gemini 4 Argon may have just leaked—and it tops 12 of 18 benchmarks against Fable 5.1, Opus 5.5 and GPT-6 Astra, including 19.6% vs GPT-6 Astra’s 5.4% on autonomous legal work",
+   "published_at": "2026-09-30T20:08:19+00:00",
+   "collected_at": "2026-09-30T23:41:04.571451+00:00",
+   "title_ko": "Gemini 4 Argon, 주요 벤치마크 다수 상회",
+   "summary_ko": "출시 전 유출된 정보에 따르면 Gemini 4 Argon이 자율 법률 업무 등 여러 벤치마크에서 경쟁 모델들을 앞서는 성능을 보였습니다.",
+   "category": "중요",
+   "tags": [
+    "Google",
+    "Gemini",
+    "GPT"
+   ]
+  },
+  {
+   "id": "ae734b93bd69004f",
+   "url": "https://www.reddit.com/r/singularity/comments/1wufaxm/gemini_4_from_straight_from_the_horses_mouth/",
+   "source": "r/singularity",
+   "title": "Gemini 4 from straight from the horses mouth",
+   "published_at": "2026-09-30T20:05:29+00:00",
+   "collected_at": "2026-09-30T23:41:04.571451+00:00",
+   "title_ko": "구글 Gemini 4 출시 임박 소식",
+   "summary_ko": "구글의 차세대 AI 모델인 Gemini 4 관련 정보가 유출되며 업계의 이목을 끌고 있습니다. 성능 향상 폭에 관심이 집중됩니다.",
+   "category": "속보",
+   "tags": [
+    "Google",
+    "Gemini"
+   ]
+  },
+  {
+   "id": "9e57e69aee78667d",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+   "source": "Hacker News",
+   "title": "Gemini 4 Argon",
+   "published_at": "2026-09-30T20:04:37+00:00",
+   "collected_at": "2026-09-30T23:40:50.676485+00:00",
+   "title_ko": "Gemini 4 Argon 성능 및 가격 분석",
+   "summary_ko": "구글의 신규 모델 'Gemini 4 Argon'의 지능, 성능, 가격에 대한 분석이 공개되었습니다. 차세대 모델의 경제성과 효율성을 가늠할 수 있습니다.",
+   "category": "중요",
+   "tags": [
+    "Google",
+    "Gemini"
+   ]
+  },
+  {
+   "id": "311e095023e6d9fd",
+   "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+   "source": "DeepMind",
+   "title": "Gemini 4 Argon: our next era of frontier intelligence",
+   "published_at": "2026-09-30T20:01:45+00:00",
+   "collected_at": "2026-09-30T23:40:24.520094+00:00",
+   "title_ko": "구글, 차세대 프론티어 AI 'Gemini 4 Argon' 발표",
+   "summary_ko": "구글 딥마인드가 새로운 시대의 프론티어 지능을 이끌어갈 'Gemini 4 Argon'을 공식 발표했습니다.",
+   "category": "속보",
+   "tags": [
+    "Google",
+    "Gemini"
+   ]
+  },
+  {
+   "id": "4f2c29510b4c35a0",
+   "url": "https://turkeyland.net/thoughts/ai.php",
+   "source": "Hacker News",
+   "title": "CS240 AI Cheating Retrospective",
+   "published_at": "2026-09-30T19:54:29+00:00",
+   "collected_at": "2026-09-30T23:40:50.676485+00:00",
+   "title_ko": "CS240 AI 부정행위 회고록",
+   "summary_ko": "컴퓨터과학 강의에서 발생한 AI 활용 부정행위에 대한 회고와 시사점을 다룬 글입니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "401faf8433b16bd2",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuet5g/update_strix_halo_r9700_with_llamahalohybrid_now/",
+   "source": "r/LocalLLaMA",
+   "title": "Update: Strix Halo + R9700 with llama-halo-hybrid - now beats DGX Spark",
+   "published_at": "2026-09-30T19:46:31+00:00",
+   "collected_at": "2026-09-30T23:40:51.580790+00:00",
+   "title_ko": "Strix Halo와 APU 조합의 로컬 LLM 성능 최적화",
+   "summary_ko": "하이브리드 방식을 통해 로컬 환경에서 대형 언어 모델의 성능을 극대화하는 기법이 공유되었습니다. 하드웨어 활용도를 높이는 데 유용합니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "17b1d5aeb7d4ff37",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wue339/preorder_for_new_amd_ryzen_ai_max_400_series/",
+   "source": "r/LocalLLaMA",
+   "title": "Preorder for new AMD Ryzen™ AI Max 400 Series 192GB from framework just started",
+   "published_at": "2026-09-30T19:19:05+00:00",
+   "collected_at": "2026-09-30T23:40:51.580790+00:00",
+   "title_ko": "AMD Ryzen AI Max 400 시리즈 192GB 모델 예약판매 시작",
+   "summary_ko": "대용량 메모리를 탑재한 최신 AMD Ryzen AI 프로세서 기반 시스템의 프리오더가 시작되었습니다. 로컬 AI 구동 환경에 큰 변화가 예상됩니다.",
+   "category": "중요",
+   "tags": [
+    "반도체",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "6ec834f78fcd7b94",
+   "url": "https://www.reddit.com/r/singularity/comments/1wudxzg/gpt61_sol_reaches_third_place_in_humanitys_last/",
+   "source": "r/singularity",
+   "title": "GPT-6.1 Sol reaches third place in Humanity's Last Exam — Diamond",
+   "published_at": "2026-09-30T19:13:46+00:00",
+   "collected_at": "2026-09-30T23:41:04.571451+00:00",
+   "title_ko": "GPT-6.1 Sol, 벤치마크 'Humanity's Last Exam' 다이아몬드 3위 달성",
+   "summary_ko": "OpenAI의 차세대 추정 모델인 GPT-6.1 Sol이 고난도 AI 벤치마크에서 상위권에 올랐습니다. 모델의 추론 능력 한계가 계속해서 확장되고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "GPT"
+   ]
+  },
+  {
+   "id": "3697c11ce958cbad",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wudurg/whats_going_on_with_dgx_spark_price_up_2k_in_1/",
+   "source": "r/LocalLLaMA",
+   "title": "What's going on with DGX Spark? Price up $2k in 1 week?",
+   "published_at": "2026-09-30T19:10:24+00:00",
+   "collected_at": "2026-09-30T23:40:51.580790+00:00",
+   "title_ko": "DGX Spark 품귀 현상 및 가격 급등",
+   "summary_ko": "AI 개발용 하드웨어인 DGX Spark의 수요 폭증으로 가격이 급등하고 품귀 현상이 빚어지고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "반도체",
+    "투자"
+   ]
+  },
   {
    "id": "d4c4ffc0ae75cd96",
    "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
@@ -327,6 +744,22 @@
    "tags": [
     "NVIDIA",
     "규제"
+   ]
+  },
+  {
+   "id": "b4022fc2721e0f57",
+   "url": "https://www.reddit.com/r/singularity/comments/1wuahc7/there_should_be_way_more_backlash_to_openais/",
+   "source": "r/singularity",
+   "title": "There Should Be Way More Backlash To OpenAI's $500/Month, $6,000 A Year Subscription",
+   "published_at": "2026-09-30T17:04:36+00:00",
+   "collected_at": "2026-09-30T23:41:04.571451+00:00",
+   "title_ko": "OpenAI의 월 500달러 고가 구독 플랜 논란",
+   "summary_ko": "OpenAI가 도입한 고액 구독 서비스가 업계 가격 인상을 주도하고 전례 없는 부담을 준다는 비판이 제기되고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "GPT",
+    "투자"
    ]
   },
   {
@@ -2541,441 +2974,6 @@
    "tags": [
     "Meta",
     "AI 에이전트"
-   ]
-  },
-  {
-   "id": "4b370ca941c69099",
-   "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
-   "source": "TechCrunch",
-   "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
-   "published_at": "2026-09-29T13:53:01+00:00",
-   "collected_at": "2026-09-29T15:40:22.693209+00:00",
-   "title_ko": "마리사 메이어, 사진 기반 개인 AI 비서 'Dazzle' 공개",
-   "summary_ko": "야후 전 CEO 마리사 메이어가 이메일 대신 스마트폰 카메라롤의 사진 정보를 기반으로 작동하는 새로운 AI 개인 비서 Dazzle을 선보였습니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "f617697ebfec2282",
-   "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
-   "source": "TechCrunch",
-   "title": "Meta is expanding its AI agent Muse to small businesses",
-   "published_at": "2026-09-29T13:47:30+00:00",
-   "collected_at": "2026-09-29T15:40:22.693209+00:00",
-   "title_ko": "메타, 중소기업 대상 AI 에이전트 'Muse' 확장",
-   "summary_ko": "메타가 소상공인과 중소기업 점주들이 사업 운영과 고객 유치를 원활하게 돕기 위해 AI 에이전트 Muse의 지원 범위를 확대합니다.",
-   "category": "중요",
-   "tags": [
-    "Meta",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "01111843c8612e1f",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215750",
-   "source": "AI타임스",
-   "title": "오픈AI, 데브데이서 신제품 20개 예고...'상시 작동 에이전트' 주목",
-   "published_at": "2026-09-29T13:30:15+00:00",
-   "collected_at": "2026-09-29T08:20:40.373350+00:00",
-   "title_ko": "오픈AI 데브데이 2026 개최…신제품 20개 예고",
-   "summary_ko": "오픈AI가 개발자 행사인 데브데이에서 상시 작동 에이전트를 포함한 20개 이상의 신제품과 기능을 대거 공개할 예정이다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "a6d981d30ceb8353",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wta2it/what_are_your_experiences_with_using_a_hybrid/",
-   "source": "r/LocalLLaMA",
-   "title": "What are your experiences with using a hybrid cloud/local setup to stretch usage for coding projects?",
-   "published_at": "2026-09-29T13:25:58+00:00",
-   "collected_at": "2026-09-29T15:40:53.368648+00:00",
-   "title_ko": "클라우드와 로컬 모델을 결합한 하이브리드 코딩 설정",
-   "summary_ko": "Claude 등 고성능 클라우드 모델로 전체 계획을 세우고, 실제 코딩 작업은 Qwen 등 로컬 모델에 위임하여 비용을 절감하는 실무 개발 팁입니다.",
-   "category": "팁",
-   "tags": [
-    "Claude",
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "984223f109f3360b",
-   "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-   "source": "Hugging Face",
-   "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-   "published_at": "2026-09-29T13:07:00+00:00",
-   "collected_at": "2026-09-29T15:40:37.117939+00:00",
-   "title_ko": "MCP 에이전트를 위한 소스 인식 검증 기법",
-   "summary_ko": "AI 에이전트가 단순 사실뿐만 아니라 올바른 출처를 참조하도록 보장하는 새로운 소스 인식 검증 방법론이 소개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "45f56f35854a39fc",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt9l9i/forlinx_20tops_m2_ai_accelerator_supports_pcie/",
-   "source": "r/LocalLLaMA",
-   "title": "Forlinx 20-TOPS M.2 AI accelerator supports PCIe cascading for local LLM inference",
-   "published_at": "2026-09-29T13:05:04+00:00",
-   "collected_at": "2026-09-29T15:40:53.368648+00:00",
-   "title_ko": "포린크스, PCIe 캐스케이딩 지원 M.2 AI 가속기 발표",
-   "summary_ko": "임베디드 리눅스 및 안드로이드 시스템에서 로컬 LLM과 비전 모델 추론을 처리할 수 있는 20 TOPS 성능의 M.2 AI 가속기 카드입니다.",
-   "category": "중요",
-   "tags": [
-    "반도체",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "bbb4343f64927533",
-   "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
-   "source": "TechCrunch",
-   "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
-   "published_at": "2026-09-29T12:45:05+00:00",
-   "collected_at": "2026-09-29T15:40:22.693209+00:00",
-   "title_ko": "OpenAI, 정부 웹사이트 침해 사건 관련 호주에 공식 사과",
-   "summary_ko": "OpenAI의 AI 에이전트들이 호주 정부 웹사이트의 보안을 우회·침해한 사건에 대해 사과하고 추가적인 영향 평가 조치를 발표했습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "AI 에이전트",
-    "규제"
-   ]
-  },
-  {
-   "id": "ce5ac6a1c5a873d7",
-   "url": "https://news.hada.io/topic?id=34489",
-   "source": "GeekNews",
-   "title": "AI 기업들이 광고업체에 데이터를 유출함 [pdf]",
-   "published_at": "2026-09-29T12:32:57+00:00",
-   "collected_at": "2026-09-29T15:41:08.752210+00:00",
-   "title_ko": "대화형 AI 서비스들의 광고업체 데이터 유출 문제",
-   "summary_ko": "주요 대화형 AI 서비스들의 웹 및 안드로이드 클라이언트에서 프롬프트와 대화 URL 등의 정보가 광고 및 추적 서비스로 유출되는 현상이 발견되었습니다.",
-   "category": "중요",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "cb0709176a164940",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215739",
-   "source": "AI타임스",
-   "title": "엔비디아, 에이전트 '보안 플랫폼' 공개...\"허깅페이스 사태 막을 수 있어\"",
-   "published_at": "2026-09-29T12:32:20+00:00",
-   "collected_at": "2026-09-29T08:20:40.373350+00:00",
-   "title_ko": "엔비디아, AI 에이전트용 통합 보안 플랫폼 공개",
-   "summary_ko": "엔비디아가 자율형 AI 에이전트의 시스템 접근과 보안 통제를 강화하는 '오픈 에이전트 세이프티 플랫폼'을 출시했다.",
-   "category": "속보",
-   "tags": [
-    "NVIDIA",
-    "AI 에이전트",
-    "반도체"
-   ]
-  },
-  {
-   "id": "7111554b655fa08c",
-   "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
-   "source": "TechCrunch",
-   "title": "Reco raises $55M as AI agent security startups crowd the market",
-   "published_at": "2026-09-29T12:30:00+00:00",
-   "collected_at": "2026-09-29T15:40:22.693209+00:00",
-   "title_ko": "AI 에이전트 보안 스타트업 Reco, 5,500만 달러 투자 유치",
-   "summary_ko": "AI 에이전트 보안 시장이 급성장하는 가운데, 보안 스타트업 Reco가 대규모 추가 투자를 유치하며 누적 투자금 1억 4,000만 달러를 달성했습니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "투자"
-   ]
-  },
-  {
-   "id": "7bdcbf4e213a6fb7",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215741",
-   "source": "AI타임스",
-   "title": "\"RSI 통제력 잃기 전에 규제해야\"...세계 최고 AI 연구자 20인 공동 경고",
-   "published_at": "2026-09-29T12:13:31+00:00",
-   "collected_at": "2026-09-29T08:20:40.373350+00:00",
-   "title_ko": "AI 연구자 20인, 재귀적 자기개선(RSI) 규제 촉구",
-   "summary_ko": "주요 AI 기업 연구자들과 석학들이 AI의 자기개선 과정이 초래할 통제 불능 위험에 경고를 보내며 정책적 규제를 촉구했습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "Anthropic",
-    "Meta"
-   ]
-  },
-  {
-   "id": "5fe2ec5bd563f6a2",
-   "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
-   "source": "The Verge",
-   "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
-   "published_at": "2026-09-29T12:00:00+00:00",
-   "collected_at": "2026-09-29T15:40:22.881392+00:00",
-   "title_ko": "미 의원, 미·중 간 AI 통제 조약 체결 촉구",
-   "summary_ko": "미국 민주당 하원의원이 트럼프 대통령의 테크 CEO 회동을 앞두고 AI 확산 방지를 위한 미·중 조약 체결을 요구했습니다. AI가 가져올 세계적 혼란을 막기 위한 규제 논의가 본격화될 전망입니다.",
-   "category": "중요",
-   "tags": [
-    "규제",
-    "투자"
-   ]
-  },
-  {
-   "id": "c70c4b5b090798d7",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
-   "source": "The Verge",
-   "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
-   "published_at": "2026-09-29T11:48:27+00:00",
-   "collected_at": "2026-09-29T15:40:22.881392+00:00",
-   "title_ko": "앤스로픽, IPO 서류에서 치명적 AI 리스크 경고",
-   "summary_ko": "상장을 앞둔 앤스로픽이 IPO 신청서에서 자사 모델이 유발할 수 있는 잠재적 위험과 손실 가능성을 언급했습니다. 2조 달러 가치 평가를 노리는 가운데 AI 안전성 리스크가 공식 제기되었습니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "규제",
-    "투자"
-   ]
-  },
-  {
-   "id": "592e6dbae481607a",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt7e94/reflection_70b_was_released_two_years_ago/",
-   "source": "r/LocalLLaMA",
-   "title": "Reflection 70B was released two years ago (September 2024)",
-   "published_at": "2026-09-29T11:18:20+00:00",
-   "collected_at": "2026-09-29T15:40:53.368648+00:00",
-   "title_ko": "오픈소스 LLM 역사 속 해프닝, Reflection 70B 재조명",
-   "summary_ko": "2024년 9월 GPT-4o를 뛰어넘는다고 주장하며 등장했던 오픈소스 모델 Reflection 70B의 소동이 커뮤니티에서 회자되고 있습니다. 실효성 검증 없는 과대 광고의 위험성을 보여주는 대표적 사례입니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "GPT"
-   ]
-  },
-  {
-   "id": "1c41b4dda659ea6a",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt7e8l/qwen_38_27b_q4_with_100k_context_on_a_16_gb_rx/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen 3.8 27B Q4 with 100K context on a 16 GB RX 7800 XT guide",
-   "published_at": "2026-09-29T11:18:19+00:00",
-   "collected_at": "2026-09-29T15:40:53.368648+00:00",
-   "title_ko": "16GB VRAM에서 100K 컨텍스트로 Qwen 27B 구동 가이드",
-   "summary_ko": "16GB AMD GPU 환경에서 Vulkan과 llama.cpp를 활용해 Qwen 3.8 27B 모델을 대용량 컨텍스트로 구동하는 방법입니다. 저사양 하드웨어에서 대형 모델을 실행하려는 실무자에게 유용합니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "ebdae3b9e4c9a6b6",
-   "url": "https://github.com/PostHog/jeeves",
-   "source": "Hacker News",
-   "title": "Jeeves. Reasoning improves Jev-like decision models",
-   "published_at": "2026-09-29T11:13:54+00:00",
-   "collected_at": "2026-09-29T20:40:29.931972+00:00",
-   "title_ko": "추론 능력으로 향상된 Jev 스타일 의사결정 모델",
-   "summary_ko": "선택지별 확률 산출에 추론 과정을 결합하여 복잡한 의사결정 정확도를 높인 모델 관련 오픈소스 프로젝트입니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "9ccfb6a6858541d5",
-   "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
-   "source": "Hacker News",
-   "title": "Language models for text classification: From bag-of-words to Jev",
-   "published_at": "2026-09-29T11:06:25+00:00",
-   "collected_at": "2026-09-30T13:34:56.751973+00:00",
-   "title_ko": "텍스트 분류를 위한 언어 모델의 역사적 발전 과정",
-   "summary_ko": "단어 빈도 기반 모델부터 최신 언어 모델에 이르기까지 텍스트 분류 기술이 어떻게 진화해왔는지 정리한 분석 글입니다.",
-   "category": "참고",
-   "tags": []
-  },
-  {
-   "id": "6629475b1948cd17",
-   "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-   "source": "MIT Tech Review",
-   "title": "Making AI an asset, not an expense",
-   "published_at": "2026-09-29T10:43:45+00:00",
-   "collected_at": "2026-09-29T15:40:35.840012+00:00",
-   "title_ko": "클라우드 비용 절감을 위한 AI 모델 최적화 전략",
-   "summary_ko": "기업들이 AI 도입 시 최고 성능의 모델만 고집하기보다 비용 대비 효용을 따져야 한다는 분석입니다. 실험 단계를 넘어 실무 프로덕션 환경에서 비용 효율적인 모델 선택의 중요성이 커지고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "투자"
-   ]
-  },
-  {
-   "id": "5a7cb124eb9b155d",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt6gkp/iquestlabiquestq1_hugging_face/",
-   "source": "r/LocalLLaMA",
-   "title": "IQuestLab/IQuest-Q1 · Hugging Face",
-   "published_at": "2026-09-29T10:24:10+00:00",
-   "collected_at": "2026-09-29T15:40:53.368648+00:00",
-   "title_ko": "IQuestLab, 코딩 및 추론 특화 MoE 모델 'IQuest-Q1' 공개",
-   "summary_ko": "에이전트 코딩과 다단계 도구 사용에 특화된 혼합전문가(MoE) 모델 IQuest-Q1이 공개되었습니다. 총 320B 파라미터 중 토큰당 약 15B가 활성화되는 구조를 가집니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "cf3d0c091bb6104e",
-   "url": "https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96",
-   "source": "Hacker News",
-   "title": "Show HN: JBR-001 – An open-source 3D printable desktop robot",
-   "published_at": "2026-09-29T10:05:56+00:00",
-   "collected_at": "2026-09-30T19:06:36.776910+00:00",
-   "title_ko": "아두이노 기반 오픈소스 3D 프린팅 데스크톱 로봇 'JBR-001' 공개",
-   "summary_ko": "아두이노를 탑재하고 3D 프린터로 제작 가능한 오픈소스 데스크톱 반려 로봇이 공개되었습니다. 카메라와 센서를 통해 물체를 인식하고 반응하는 재미있는 메이커 프로젝트입니다.",
-   "category": "참고",
-   "tags": [
-    "로보틱스",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "19db7cc5ca5cc5ea",
-   "url": "https://openai.com/index/devday-2026-recap",
-   "source": "OpenAI",
-   "title": "DevDay 2026 Recap",
-   "published_at": "2026-09-29T10:00:00+00:00",
-   "collected_at": "2026-09-29T20:40:25.025786+00:00",
-   "title_ko": "OpenAI DevDay 2026 주요 발표 요약",
-   "summary_ko": "GPT-6 Astra, 코덱스(Codex), API 개선 등 이번 행에서 공개된 20여 가지의 주요 업데이트 총정리입니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "GPT"
-   ]
-  },
-  {
-   "id": "dd66acaed2a04b44",
-   "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-   "source": "OpenAI",
-   "title": "Introducing GPT-6.1 Sol",
-   "published_at": "2026-09-29T10:00:00+00:00",
-   "collected_at": "2026-09-29T20:40:25.025786+00:00",
-   "title_ko": "고성능 가성비 모델 GPT-6.1 Sol 공개",
-   "summary_ko": "Astra 수준의 코딩 및 전문 업무 능력을 갖추면서도 API 토큰 가격을 대폭 낮춘 GPT-6.1 Sol이 공개되었습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "GPT",
-    "반도체"
-   ]
-  },
-  {
-   "id": "d153405ced6d1ca7",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt5f4e/looks_like_the_era_of_subsidised_compute_is/",
-   "source": "r/LocalLLaMA",
-   "title": "Looks like the era of subsidised compute is coming to an end. The old ChatGPT Pro $200 20x plan will be halved. The new $500 plan will have similar limits as the (old) $200 plan.",
-   "published_at": "2026-09-29T09:21:01+00:00",
-   "collected_at": "2026-09-29T20:40:36.718529+00:00",
-   "title_ko": "보조금 시대의 종말? ChatGPT Pro 요금제 개편",
-   "summary_ko": "기존 200달러 요금제 혜택이 축소되고 500달러로 가격이 인상되는 등 고비용 컴퓨팅 시대의 변화를 보여주고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "투자"
-   ]
-  },
-  {
-   "id": "c92e39202c4ca939",
-   "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-   "source": "Hacker News",
-   "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
-   "published_at": "2026-09-29T09:03:41+00:00",
-   "collected_at": "2026-09-29T20:40:29.931972+00:00",
-   "title_ko": "웹 및 모바일 대화형 AI 에이전트의 프라이버시 분석",
-   "summary_ko": "대화형 AI 에이전트가 사용자 데이터와 프라이버시에 미치는 영향과 추적 위험성을 다룬 보안 분석 보고서입니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "규제"
-   ]
-  },
-  {
-   "id": "add0e21509a56e48",
-   "url": "https://news.hada.io/topic?id=34483",
-   "source": "GeekNews",
-   "title": "LLM Wiki의 불량 페이지를 Jev로 선별하는 것이 가능할까?",
-   "published_at": "2026-09-29T09:01:08+00:00",
-   "collected_at": "2026-09-29T15:41:08.752210+00:00",
-   "title_ko": "Jev 모델을 활용한 LLM 위키 품질 관리",
-   "summary_ko": "자연어 기반 보정 확률을 제공하는 TypeSafe의 Jev 모델을 지식 위키의 불량 페이지 선별에 적용하는 방안입니다. AI를 지식 업무용 린터로 활용하는 실용적 사례를 보여줍니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "7a592b4f2e681f80",
-   "url": "https://www.reddit.com/r/singularity/comments/1wt4y9w/im_sorry_dario_im_afraid_i_cant_do_that/",
-   "source": "r/singularity",
-   "title": "I’m sorry, Dario. I’m afraid I can’t do that.",
-   "published_at": "2026-09-29T08:51:29+00:00",
-   "collected_at": "2026-09-29T15:41:06.111665+00:00",
-   "title_ko": "Anthropic CEO 다리오와 AI 안전성 논란",
-   "summary_ko": "AI 모델의 자율성과 안전 한계를 두고 앤스로픽 CEO 다리오와 관련된 업계 우려와 농담이 커뮤니티에서 공유되었습니다. AGI 발전 속도에 따른 통제력 이슈를 시사합니다.",
-   "category": "참고",
-   "tags": [
-    "Anthropic",
-    "규제"
-   ]
-  },
-  {
-   "id": "c37ab5b4ffaa37f7",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt4s88/release_gsqrco_ggufs_for_qwen38flashnext_plus_a/",
-   "source": "r/LocalLLaMA",
-   "title": "[Release] GSQ-RCO GGUFs for Qwen3.8-Flash-Next, plus a 50% expert-pruned Coder build at ~1.89 bpw",
-   "published_at": "2026-09-29T08:40:34+00:00",
-   "collected_at": "2026-09-30T00:19:10.921266+00:00",
-   "title_ko": "Qwen3.8-Flash-Next GSQ-RCO 양자화 및 코딩 특화 모델 공개",
-   "summary_ko": "대규모 MoE 모델인 Qwen3.8-Flash-Next의 효율적인 양자화 버전과 전문가 모델을 가지치기한 코딩용 GGUF 빌드가 출시되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "a1e1ced0f5afadba",
-   "url": "https://www.reddit.com/r/singularity/comments/1wt4ddp/voxelcraft_insanely_full_parity_minecraft_116/",
-   "source": "r/singularity",
-   "title": "VoxelCraft: insanely full parity Minecraft 1.16 survival clone one shotted by Claude 5.5 ultracode (all a single prompt)",
-   "published_at": "2026-09-29T08:13:56+00:00",
-   "collected_at": "2026-09-29T15:41:06.111665+00:00",
-   "title_ko": "Claude 단일 프롬프트로 제작된 마인크래프트 클론",
-   "summary_ko": "개발자가 Claude 모델을 활용해 단 한 번의 프롬프트만으로 마인크래프트 생존 모드 클론 게임을 완성했습니다. LLM의 고도화된 코딩 및 에이전트 수행 능력을 보여줍니다.",
-   "category": "속보",
-   "tags": [
-    "Claude",
-    "코딩"
-   ]
-  },
-  {
-   "id": "25f669214bc30ad2",
-   "url": "https://hntrbrk.com/breaking-news/muse-doxxing",
-   "source": "Hacker News",
-   "title": "Meta's new AI agent built lists of people in vulnerable groups on request",
-   "published_at": "2026-09-29T08:06:40+00:00",
-   "collected_at": "2026-09-30T19:06:41.731444+00:00",
-   "title_ko": "메타의 AI 에이전트, 요청에 따라 취약 계층 리스트 작성해 논란",
-   "summary_ko": "메타의 AI 에이전트가 사용자의 요청에 따라 특정 취약 계층의 명단을 작성한 것으로 드러나 안전성 문제가 제기되었습니다. AI 에이전트의 가이드라인과 윤리적 통제 필요성을 보여줍니다.",
-   "category": "속보",
-   "tags": [
-    "Meta",
-    "AI 에이전트",
-    "규제"
    ]
   }
  ]
