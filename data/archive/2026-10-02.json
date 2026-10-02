@@ -15,6 +15,224 @@
   ]
  },
  {
+  "id": "ddc48cc4ab40aee5",
+  "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+  "source": "TechCrunch",
+  "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+  "published_at": "2026-10-02T14:30:00+00:00",
+  "collected_at": "2026-10-02T16:12:48.268994+00:00",
+  "title_ko": "클레이 카림 아민, GTM 엔지니어 부상 조명",
+  "summary_ko": "AI 시대에 발맞추어 새롭게 주목받고 있는 GTM(Go-To-Market) 엔지니어의 역할에 대해 논의가 이루어집니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "기업용 AI"
+  ]
+ },
+ {
+  "id": "b2ee31b267f4b81c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvv6im/new_in_llamacpp_decision_models/",
+  "source": "r/LocalLLaMA",
+  "title": "New in llama.cpp: Decision Models",
+  "published_at": "2026-10-02T14:25:06+00:00",
+  "collected_at": "2026-10-02T16:13:11.810518+00:00",
+  "title_ko": "llama.cpp, 결정 모델(Decision Models) 지원 추가",
+  "summary_ko": "llama.cpp에 새로운 결정 모델 기능이 추가되어 로컬 LLM 구동 시 유연성이 향상되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "d5e85966d7980dab",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvtxkx/tunedabliterated_qwen3827b_into_a_24gb_card_262k/",
+  "source": "r/LocalLLaMA",
+  "title": "Tuned/abliterated Qwen3.8-27b into a 24gb card 262k guff using the newest unreleased version of LexiPanel. It's fast with reliable draft acceptance. Made for 7900xtx but should work on whatever 24gb card with this setup and headless. Doesn't get dumber while coding like most of the other fine-tunes.",
+  "published_at": "2026-10-02T13:32:37+00:00",
+  "collected_at": "2026-10-02T16:13:11.810518+00:00",
+  "title_ko": "24GB VRAM에 최적화된 Qwen3.8-27B 코딩 특화 모델 공개",
+  "summary_ko": "24GB GPU 환경에서 262k 컨텍스트를 지원하며 코딩 성능이 뛰어난 Qwen3.8-27B 파인튜닝 버전이 공개되었습니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "c5b9c03b3dab5ed4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvt1m4/two_96_gb_ascend_cards_crun_qwen38flashnext/",
+  "source": "r/LocalLLaMA",
+  "title": "Two 96 GB Ascend cards crun Qwen3.8-flash-next hardware notes, vLLM work, benchmarks, and what is next",
+  "published_at": "2026-10-02T12:54:04+00:00",
+  "collected_at": "2026-10-02T16:13:11.810518+00:00",
+  "title_ko": "화웨이 Ascend 가속기에서 Qwen3.8 구동 성공 사례",
+  "summary_ko": "비화웨이계 칩인 Ascend 가속기를 활용해 로컬 환경에서 Qwen 모델을 안정적으로 구동한 하드웨어 최적화 사례입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "d044ffb6ff970c6d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvsbck/inference_engineering_for_dummies/",
+  "source": "r/LocalLLaMA",
+  "title": "Inference Engineering for Dummies",
+  "published_at": "2026-10-02T12:18:44+00:00",
+  "collected_at": "2026-10-02T16:13:11.810518+00:00",
+  "title_ko": "AI 추론 엔지니어가 전하는 흔한 하드웨어 설정 실수",
+  "summary_ko": "LLM 추론 최적화 과정에서 개발자들이 자주 저지르는 하드웨어 및 런타임 설정 오류들을 분석한 가이드입니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "23a94683a7ac2f51",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvs8va/i_made_my_own_cybersecurity_benchmark_and_ran/",
+  "source": "r/LocalLLaMA",
+  "title": "I made my own cybersecurity benchmark and ran Qwen3.8 27B, here's how a local model actually does at hacking",
+  "published_at": "2026-10-02T12:15:13+00:00",
+  "collected_at": "2026-10-02T16:13:11.810518+00:00",
+  "title_ko": "오픈소스 모델의 사이버 보안 해킹 능력 벤치마크",
+  "summary_ko": "오픈소스 로컬 모델을 활용해 실제 해킹 및 CVE 탐지 능력을 평가한 독자적인 벤치마크 결과입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "cc213a754efda967",
+  "url": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+  "source": "The Verge",
+  "title": "AI hallucinations are making entitled customers even worse",
+  "published_at": "2026-10-02T12:00:00+00:00",
+  "collected_at": "2026-10-02T16:12:48.374992+00:00",
+  "title_ko": "AI 환각 현상으로 인해 악화된 고객 서비스 환경",
+  "summary_ko": "AI의 잘못된 정보(환각)를 맹신하는 고객들로 인해 현장 서비스 직종의 고충이 커지고 있다는 보도입니다.",
+  "category": "참고",
+  "tags": []
+ },
+ {
+  "id": "7e8b0812e076c736",
+  "url": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
+  "source": "The Verge",
+  "title": "If a data center is camouflaged in the woods, will anyone hate it?",
+  "published_at": "2026-10-02T12:00:00+00:00",
+  "collected_at": "2026-10-02T16:12:48.374992+00:00",
+  "title_ko": "대규모 AI 인프라로 인해 변화하는 데이터센터의 풍경",
+  "summary_ko": "AI 수요 폭증으로 데이터센터가 대형화되면서 지역 사회와 마찰을 빚는 등 물리적 인프라 문제가 대두되고 있습니다.",
+  "category": "중요",
+  "tags": []
+ },
+ {
+  "id": "dbe33a9f9e406397",
+  "url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+  "source": "The Verge",
+  "title": "Amazon writes scary blog warning communities not to block data centers",
+  "published_at": "2026-10-02T11:52:20+00:00",
+  "collected_at": "2026-10-02T16:12:48.374992+00:00",
+  "title_ko": "아마존, 지역 사회의 데이터센터 건립 반대에 경고",
+  "summary_ko": "아마존 웹서비스(AWS) CEO가 데이터센터 건립 저지가 국가 안보와 경제에 치명적일 수 있다고 경고했습니다.",
+  "category": "중요",
+  "tags": [
+   "규제",
+   "투자"
+  ]
+ },
+ {
+  "id": "81d826100687e5c3",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvrip7/apex_compute_developing_opensource_mesa_vulkan/",
+  "source": "r/LocalLLaMA",
+  "title": "Apex Compute developing open-source Mesa Vulkan driver for their hardware",
+  "published_at": "2026-10-02T11:37:47+00:00",
+  "collected_at": "2026-10-02T16:13:11.810518+00:00",
+  "title_ko": "Apex Compute, 자체 하드웨어용 오픈소스 Mesa Vulkan 드라이버 개발",
+  "summary_ko": "하드웨어 제조사 Apex Compute가 자사 칩을 위한 오픈소스 Vulkan 드라이버 개발에 나섰습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "3c6e1846eeddfe25",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvr77c/qwen38flashnext_505bpw_ngram_at_bf16_exl3_on_one/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-Flash-Next (5.05bpw + ngram at bf16) exl3 on one r9700: 863 t/s prefill and 35 t/s decode at 230k context (256k max), is that ok or am i missing something?",
+  "published_at": "2026-10-02T11:19:52+00:00",
+  "collected_at": "2026-10-02T16:13:11.810518+00:00",
+  "title_ko": "단일 GPU 환경에서 Qwen3.8-Flash-Next 고속 추론 달성",
+  "summary_ko": "단일 하이엔드 GPU에서 ExLlamaV3 백엔드를 활용해 230k 이상의 긴 컨텍스트에서도 빠른 프리필과 디코딩 성능을 구현한 사례입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "0d4544656398e74f",
+  "url": "https://news.hada.io/topic?id=34665",
+  "source": "GeekNews",
+  "title": "arXiv의 개정된 제출 횟수 제한 정책",
+  "published_at": "2026-10-02T10:33:53+00:00",
+  "collected_at": "2026-10-02T16:13:26.287259+00:00",
+  "title_ko": "arXiv, AI 논문 폭증에 월 제출 제한 도입",
+  "summary_ko": "AI 도구로 인한 저품질 논문 급증과 검토 부담을 줄이기 위해 arXiv가 2026년 10월부터 월 최대 2건의 제출 제한을 적용합니다.",
+  "category": "중요",
+  "tags": [
+   "규제",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "b4d91c53bb7aae07",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvqbrz/llama_server_add_v1systemone_api_models_laya/",
+  "source": "r/LocalLLaMA",
+  "title": "llama, server: add /v1/systemone API (models: laya, julia-1, lev, openjev, kev) by ngxson · Pull Request #29818 · ggml-org/llama.cpp",
+  "published_at": "2026-10-02T10:29:47+00:00",
+  "collected_at": "2026-10-02T16:13:11.810518+00:00",
+  "title_ko": "llama.cpp, 새로운 시스템 API 및 모델 지원 추가",
+  "summary_ko": "llama.cpp 서버에 /v1/systemone API가 추가되어 Laya, Julia-1 등 다양한 오픈소스 GGUF 모델을 지원하게 되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "4e7db4ef3e6dfae0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvpxg8/does_anyone_know_if_any_new_releases_from_mistral/",
+  "source": "r/LocalLLaMA",
+  "title": "Does anyone know if any new releases from Mistral are planned?",
+  "published_at": "2026-10-02T10:05:59+00:00",
+  "collected_at": "2026-10-02T16:13:11.810518+00:00",
+  "title_ko": "미스랄(Mistral) AI의 신규 모델 출시 임박설",
+  "summary_ko": "최근 조용했던 미스랄 AI가 신규 모델을 준비 중인지에 대한 업계의 관심과 추측이 이어지고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "Mistral",
+   "LLM"
+  ]
+ },
+ {
+  "id": "eca823e07b60c7a8",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+  "source": "The Verge",
+  "title": "AI music maker Suno now generates spoken words",
+  "published_at": "2026-10-02T09:42:19+00:00",
+  "collected_at": "2026-10-02T16:12:48.374992+00:00",
+  "title_ko": "AI 음악 생성기 수노(Suno), 음성 생성 기능 출시",
+  "summary_ko": "AI 음악 플랫폼 수노가 대본 기반으로 음성을 생성하는 기능을 공개하며 배경음악과 보이스오버를 동시에 제작할 수 있게 되었습니다.",
+  "category": "속보",
+  "tags": [
+   "생성형AI",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "45deb27fb294c8a1",
   "url": "https://news.hada.io/topic?id=34662",
   "source": "GeekNews",
