@@ -1,8 +1,296 @@
 {
- "updated_at": "2026-10-03T01:04:35.792473+00:00",
+ "updated_at": "2026-10-03T06:25:26.051811+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "3bb2d3c96323c9fe",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215693",
+   "source": "AI타임스",
+   "title": "버블쉐어, AI 검색 성과 분석 솔루션 공개…”단순 노출보다 정확한 인용이 핵심”",
+   "published_at": "2026-10-03T15:03:13+00:00",
+   "collected_at": "2026-10-03T06:25:14.424062+00:00",
+   "title_ko": "AI 검색 가시성 측정 솔루션 '비비' 등장",
+   "summary_ko": "단순 노출률 대신 AI 검색에서 브랜드가 얼마나 정확히 인용되는지 측정하는 마케팅 솔루션이 공개됐다.",
+   "category": "속보",
+   "tags": [
+    "AI 검색",
+    "퍼플렉시티",
+    "Gemini"
+   ]
+  },
+  {
+   "id": "36d6149320f69c3d",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215932",
+   "source": "AI타임스",
+   "title": "'나만의 클로드 코드' 만든다...앤트로픽, 커스텀 확장 기능 '모드' 출시",
+   "published_at": "2026-10-03T14:23:12+00:00",
+   "collected_at": "2026-10-03T06:25:14.424062+00:00",
+   "title_ko": "앤트로픽, '클로드 코드' 커스텀 확장 기능 '모드' 출시",
+   "summary_ko": "개발자가 자신의 작업 스타일에 맞춰 클로드 코드의 인터페이스와 기능을 바꿀 수 있는 맞춤형 모드 기능이 도입됐다.",
+   "category": "속보",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "코딩"
+   ]
+  },
+  {
+   "id": "61f7017842ac66c7",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215933",
+   "source": "AI타임스",
+   "title": "딥시크, 슈퍼 앱 형태 데스크톱 앱 '딥시크 하네스' 출시...\"챗·코딩·문서 통합\"",
+   "published_at": "2026-10-03T13:58:48+00:00",
+   "collected_at": "2026-10-03T06:25:14.424062+00:00",
+   "title_ko": "딥시크, 데스크톱용 슈퍼 앱 '딥시크 하네스' 공개",
+   "summary_ko": "채팅, 코딩, 문서 작업을 하나의 인터페이스에서 통합 처리할 수 있는 데스크톱 앱 프리뷰 버전을 출시했다.",
+   "category": "속보",
+   "tags": [
+    "DeepSeek",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "ee072aad15efffd3",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215936",
+   "source": "AI타임스",
+   "title": "메타, 오픈소스 '뮤즈 가젯' 공개...AI 에이전트 하드웨어 이식 본격화",
+   "published_at": "2026-10-03T13:34:46+00:00",
+   "collected_at": "2026-10-03T06:25:14.424062+00:00",
+   "title_ko": "메타, 오픈소스 하드웨어 연동 플랫폼 '뮤즈 가젯' 공개",
+   "summary_ko": "개발자들이 AI 에이전트 '뮤즈'를 스마트홈 기기 등 실제 하드웨어와 연결할 수 있는 오픈소스 SDK와 펌웨어가 공개됐다.",
+   "category": "속보",
+   "tags": [
+    "Meta",
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "2db7aa4799bf45de",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215931",
+   "source": "AI타임스",
+   "title": "앤트로픽, '클로드 프론티어 아카데미' 출범... 1300억 투입해 FDE 1만명 양성",
+   "published_at": "2026-10-03T13:01:41+00:00",
+   "collected_at": "2026-10-03T06:25:14.424062+00:00",
+   "title_ko": "앤트로픽, 기업 AI 전문가 양성 아카데미 출범",
+   "summary_ko": "기업 현장의 AI 도입을 이끌 전방 배치 엔지니어(FDE) 1만 명을 육성하기 위해 1억 달러가 투입된다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "투자"
+   ]
+  },
+  {
+   "id": "43218ae3c3f08be3",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215938",
+   "source": "AI타임스",
+   "title": "애플, 맥OS '전체 디스크 접근' 제어 강화...AI 에이전트 무단 접근 막는다",
+   "published_at": "2026-10-03T12:39:36+00:00",
+   "collected_at": "2026-10-03T06:25:14.424062+00:00",
+   "title_ko": "애플, 맥OS 전체 디스크 접근 권한 제어 강화",
+   "summary_ko": "AI 에이전트가 개인 파일과 메시지 등 민감한 데이터에 무단으로 접근하는 것을 막기 위해 운영체제 보안이 강화된다.",
+   "category": "중요",
+   "tags": [
+    "Apple",
+    "AI 에이전트",
+    "규제"
+   ]
+  },
+  {
+   "id": "1a9f865ea7e95469",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215937",
+   "source": "AI타임스",
+   "title": "엔비디아, 4999달러짜리 ‘DGX 스파크’ 출시...메모리 대란에 가격 낮췄다",
+   "published_at": "2026-10-03T12:01:35+00:00",
+   "collected_at": "2026-10-03T06:25:14.424062+00:00",
+   "title_ko": "엔비디아, 데스크톱 AI 슈퍼컴퓨터 'DGX 스파크' 출시",
+   "summary_ko": "메모리 수급난 속에서 개발자들이 개인 기기에서 AI 모델과 에이전트를 구동할 수 있도록 가격을 낮춘 64GB 모델이 공개됐다.",
+   "category": "속보",
+   "tags": [
+    "NVIDIA",
+    "반도체",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "e07bfccf632708bf",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215939",
+   "source": "AI타임스",
+   "title": "AWS, AI 데이터센터 반발 정면 돌파…지역사회에 1.4조 추가 투입",
+   "published_at": "2026-10-03T11:34:40+00:00",
+   "collected_at": "2026-10-03T06:25:14.424062+00:00",
+   "title_ko": "AWS, AI 데이터센터 반발 해소 위해 1.4조 원 추가 투자",
+   "summary_ko": "데이터센터 건설 반발을 잠재우고 지역사회 상생을 위해 대규모 추가 자금을 투입하며 정면 돌파에 나섰다.",
+   "category": "중요",
+   "tags": [
+    "AWS",
+    "투자"
+   ]
+  },
+  {
+   "id": "166477f44ed8d335",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215935",
+   "source": "AI타임스",
+   "title": "회계 업무서 AI '100%’ vs 인간 '37%'...역전 18개월 만에 '완벽' 단계로",
+   "published_at": "2026-10-03T10:47:06+00:00",
+   "collected_at": "2026-10-03T06:25:14.424062+00:00",
+   "title_ko": "회계 벤치마크서 AI 성능 '100%' 달성",
+   "summary_ko": "최신 AI 모델이 복잡한 월말 결산 등 회계 업무 벤치마크에서 사실상 완벽한 수준에 도달했다는 연구 결과가 나왔다.",
+   "category": "참고",
+   "tags": [
+    "Anthropic",
+    "Claude"
+   ]
+  },
+  {
+   "id": "082bd97d055678c7",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215934",
+   "source": "AI타임스",
+   "title": "AI '생각의 사슬' 무력화되나…'순환 깊이' 기술이 부른 불투명성 우려",
+   "published_at": "2026-10-03T09:57:25+00:00",
+   "collected_at": "2026-10-03T06:25:14.424062+00:00",
+   "title_ko": "AI 추론 과정 투명성 저하 우려",
+   "summary_ko": "최신 AI 모델들이 내부적으로 침묵 속 추론을 수행하면서 인간이 사고 과정을 모니터링하기 어려워지는 문제가 대두되고 있다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "ae13cf4bd8723a81",
+   "url": "https://news.hada.io/topic?id=34702",
+   "source": "GeekNews",
+   "title": "Muse Gadgets",
+   "published_at": "2026-10-03T05:33:52+00:00",
+   "collected_at": "2026-10-03T06:25:15.802097+00:00",
+   "title_ko": "메타 '뮤즈 가젯' 오픈소스 하드웨어 SDK 출시",
+   "summary_ko": "ESP32 및 라즈베리파이 등 하드웨어 기기에 AI를 연동할 수 있는 오픈소스 개발 도구가 공개됐다.",
+   "category": "팁",
+   "tags": [
+    "Meta",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "b8f6d57476172f86",
+   "url": "https://news.hada.io/topic?id=34701",
+   "source": "GeekNews",
+   "title": "Show GN: 당신이 직접 관계를 고르는 AI 컴패니언, Inanna",
+   "published_at": "2026-10-03T04:13:44+00:00",
+   "collected_at": "2026-10-03T06:25:15.802097+00:00",
+   "title_ko": "관계를 직접 설정하는 AI 컴패니언 'Inanna'",
+   "summary_ko": "아바타 없이 목소리와 텍스트 중심 상호작용으로 사용자 정의 관계를 맺는 AI 서비스가 소개됐다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "ba0a835fc8166416",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwdsce/has_anyone_noticed_this_trend_toward/",
+   "source": "r/LocalLLaMA",
+   "title": "Has anyone noticed this trend toward writing/speaking style among newer models (both open and closed models). They are trending toward information density and expanded vocabulary. It's not quite 'caveman speak' but trending that way.",
+   "published_at": "2026-10-03T04:10:31+00:00",
+   "collected_at": "2026-10-03T06:25:01.164920+00:00",
+   "title_ko": "신규 AI 모델들의 정보 밀도 높은 문체 트렌드",
+   "summary_ko": "오픈 및 폐쇄형 최신 AI 모델들이 점점 더 정보 밀도가 높고 어휘가 확장된 글쓰기 스타일을 보이는 경향이 분석됐다.",
+   "category": "참고",
+   "tags": [
+    "GPT",
+    "Claude"
+   ]
+  },
+  {
+   "id": "c6c05720203f7182",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwds6i/mlsubgen_subtitles_in_45_languages_for_your/",
+   "source": "r/LocalLLaMA",
+   "title": "mlsubgen — subtitles in 45 languages for your videos, entirely on your own machine",
+   "published_at": "2026-10-03T04:10:16+00:00",
+   "collected_at": "2026-10-03T06:25:01.164920+00:00",
+   "title_ko": "로컬 환경 자막 생성 도구 'mlsubgen' 공개",
+   "summary_ko": "NVIDIA GPU와 리눅스 환경에서 외부 API 호출 없이 로컬 기기에서 45개 언어 자막을 생성하는 오픈소스 도구이다.",
+   "category": "팁",
+   "tags": [
+    "NVIDIA",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "cc21383804e25192",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwcqas/anyone_sitting_on_a_lot_of_slow_system_memory_and/",
+   "source": "r/LocalLLaMA",
+   "title": "Anyone sitting on a lot of slow system memory and a modest GPU.. try Strata + Qwen3.8 Next.",
+   "published_at": "2026-10-03T03:12:29+00:00",
+   "collected_at": "2026-10-03T06:25:01.164920+00:00",
+   "title_ko": "저사양 시스템에서 Strata와 Qwen3.8 Next로 고속 추론 구현",
+   "summary_ko": "느린 시스템 메모리와 보급형 GPU 환경에서 Strata와 Qwen3.8 Next 조합을 통해 기존 대비 뛰어난 토큰 처리 속도와 품질을 달성했습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "fac5c4ac6ce52f26",
+   "url": "https://news.hada.io/topic?id=34698",
+   "source": "GeekNews",
+   "title": "Redis 개발자가 만든 ds4, LLM을 로컬에서 실행",
+   "published_at": "2026-10-03T02:33:57+00:00",
+   "collected_at": "2026-10-03T06:25:15.802097+00:00",
+   "title_ko": "Redis 개발자가 만든 로컬 LLM 추론 엔진 'ds4'",
+   "summary_ko": "대용량 메모리를 활용해 최신 대형 언어 모델과 비전 모델을 로컬에서 실행할 수 있는 고성능 C 추론 엔진 ds4가 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "fc7775124968d070",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwbzmr/could_the_eu_kids_act_or_the_like_be_use/",
+   "source": "r/LocalLLaMA",
+   "title": "Could the EU Kids Act (or the like) be use potentially(Trojan horse) as excuse to go after the AI Open weights?",
+   "published_at": "2026-10-03T02:32:33+00:00",
+   "collected_at": "2026-10-03T06:25:01.164920+00:00",
+   "title_ko": "EU 키즈 액트가 AI 오픈 웨이트 규제의 트로이목마가 될 우려",
+   "summary_ko": "유럽연합의 아동 보호 관련 법안이 오픈소스 AI 모델의 가중치 공개를 제한하는 우회로로 악용될 수 있다는 시각이 제기되었습니다.",
+   "category": "참고",
+   "tags": [
+    "규제",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "d23f8c74ec21b4f5",
+   "url": "https://news.hada.io/topic?id=34697",
+   "source": "GeekNews",
+   "title": "Show GN: 가격 — 클립당 10원 최고의 쇼츠 편집 에이전트 쇼츠존",
+   "published_at": "2026-10-03T02:08:55+00:00",
+   "collected_at": "2026-10-03T06:25:15.802097+00:00",
+   "title_ko": "AI 기반 쇼츠 영상 자동 편집 에이전트 '쇼츠존'",
+   "summary_ko": "롱폼 영상을 입력하면 AI 에이전트가 하이라이트를 추출하고 자막과 리프레이밍까지 자동으로 처리해 주는 쇼츠 제작 툴입니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "097e35f7f9562424",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwavua/the_fastest_interference_engine_for_rtx5090_and/",
+   "source": "r/LocalLLaMA",
+   "title": "The fastest interference engine for RTX5090 and Qwen3.8 27B. Twice as fast as ninfer. 500+ t/s single coding, 2000+t/s up to 12 agents at the same time with 800k context. Smart VRAM-RAM-DISC Cache management, Loop Guard, Nice UI etc.",
+   "published_at": "2026-10-03T01:33:19+00:00",
+   "collected_at": "2026-10-03T06:25:01.164920+00:00",
+   "title_ko": "RTX 5090 전용 고속 Qwen3.8 추론 엔진 'MegaCapybara' 공개",
+   "summary_ko": "RTX 5090과 Qwen3.8 27B 모델에 최적화되어 기존 SOTA 엔진보다 두 배 빠른 디코딩 속도를 제공하는 고성능 추론 엔진입니다.",
+   "category": "속보",
+   "tags": [
+    "NVIDIA",
+    "LLM"
+   ]
+  },
   {
    "id": "2d915e86c2608ecf",
    "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
@@ -62,6 +350,22 @@
    "category": "참고",
    "tags": [
     "AI"
+   ]
+  },
+  {
+   "id": "ef48f9156b3fa86c",
+   "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+   "source": "Ars Technica",
+   "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+   "published_at": "2026-10-02T23:03:16+00:00",
+   "collected_at": "2026-10-03T06:24:42.238295+00:00",
+   "title_ko": "애플, AI 에이전트의 권한 남용 막기 위해 전체 디스크 접근 권한 변경",
+   "summary_ko": "AI 에이전트의 보안 위협과 무단 데이터 접근을 방지하기 위해 애플이 시스템 전체 디스크 접근 권한 정책을 강화했습니다.",
+   "category": "중요",
+   "tags": [
+    "Apple",
+    "AI 에이전트",
+    "규제"
    ]
   },
   {
@@ -2709,306 +3013,6 @@
    "tags": [
     "규제",
     "투자"
-   ]
-  },
-  {
-   "id": "daa9a77897d51bc7",
-   "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-   "source": "Hacker News",
-   "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-   "published_at": "2026-10-01T13:00:55+00:00",
-   "collected_at": "2026-10-01T18:48:19.834344+00:00",
-   "title_ko": "미 FTC, OpenAI·Anthropic 등 AI 기업 제품 리스크 조사 착수",
-   "summary_ko": "미국 연방거래위원회(FTC)가 주요 AI 기업들의 제품 관련 위험성과 안전성 문제를 본격적으로 조사하기 시작했습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "Anthropic",
-    "규제"
-   ]
-  },
-  {
-   "id": "8823ad0e46f16390",
-   "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
-   "source": "TechCrunch",
-   "title": "Hearing tech startup Legato launches its AI hearing glasses",
-   "published_at": "2026-10-01T13:00:00+00:00",
-   "collected_at": "2026-10-01T18:48:04.957626+00:00",
-   "title_ko": "청력 관리 스타트업 레가토, AI 탑재 보청 안경 출시",
-   "summary_ko": "비용과 낙인 효과를 줄이기 위해 AI 기술을 결합한 혁신적인 보청 안경이 출시되어 접근성을 높이고 있습니다.",
-   "category": "속보",
-   "tags": []
-  },
-  {
-   "id": "867eb23cb57f4ec9",
-   "url": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026",
-   "source": "Hacker News",
-   "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
-   "published_at": "2026-10-01T12:48:59+00:00",
-   "collected_at": "2026-10-01T18:48:19.834344+00:00",
-   "title_ko": "마이크론 CEO \"2027~2028년 메모리 공급난 더욱 심화될 것\"",
-   "summary_ko": "AI 수요 급증으로 인해 메모리 반도체 공급 부족 현상이 향후 몇 년간 지속되며 더욱 악화될 것이라는 전망이 나왔습니다.",
-   "category": "중요",
-   "tags": [
-    "반도체",
-    "투자"
-   ]
-  },
-  {
-   "id": "8797dfe2f7890596",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215833",
-   "source": "AI타임스",
-   "title": "올거나이즈, 기업용 AI로 '일본 코스닥' 간다...그로스시장 상장 승인",
-   "published_at": "2026-10-01T12:35:04+00:00",
-   "collected_at": "2026-10-01T05:38:38.168453+00:00",
-   "title_ko": "올거나이즈, 일본 도쿄증권거래소 그로스시장 상장 승인",
-   "summary_ko": "기업용 AI 솔루션 기업 올거나이즈가 일본 도쿄증권거래소 그로스시장에 신규 상장을 승인받았다. 글로벌 시장에서 기술력을 인정받은 결과다.",
-   "category": "중요",
-   "tags": [
-    "투자",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "a8bbaa4ce8ed12ec",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215829",
-   "source": "AI타임스",
-   "title": "현대차그룹, 전국 고속도로서 피지컬 AI·지능형 충전 기술 실증",
-   "published_at": "2026-10-01T12:28:49+00:00",
-   "collected_at": "2026-10-01T05:38:38.168453+00:00",
-   "title_ko": "현대차그룹, 고속도로 기반 피지컬 AI 및 지능형 충전 기술 실증",
-   "summary_ko": "현대차그룹이 한국도로공사와 협력해 고속도로 휴게소를 거점으로 피지컬 AI 기술과 차세대 전동화 충전 인프라 연구에 돌입한다.",
-   "category": "중요",
-   "tags": [
-    "로보틱스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "0f92f3575954f4b4",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215837",
-   "source": "AI타임스",
-   "title": "\"촬영 즉시 AI 데이터 변환\"...한국딥러닝, '딥 에이전트' 모바일 출시",
-   "published_at": "2026-10-01T12:27:59+00:00",
-   "collected_at": "2026-10-01T05:38:38.168453+00:00",
-   "title_ko": "한국딥러닝, 문서 전용 AI '딥 에이전트' 모바일 버전 출시",
-   "summary_ko": "한국딥러닝이 현장 촬영 자료를 실시간으로 추출하고 구조화하는 모바일 문서 AI 솔루션을 선보였다. 현장 업무 효율성이 대폭 향상될 전망이다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "c2953cf1eee84367",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuxzdg/why_am_i_like_this_full_chat_and_image_generation/",
-   "source": "r/LocalLLaMA",
-   "title": "Why am I like this? (Full Chat and Image generation on a 286 Tandy 1000 TL/3)",
-   "published_at": "2026-10-01T12:20:55+00:00",
-   "collected_at": "2026-10-01T13:01:30.565265+00:00",
-   "title_ko": "40년 된 구형 PC에서 최신 LLM과 이미지 생성 모델 구동하기",
-   "summary_ko": "1980년대 제작된 286 PC가 네트워크를 통해 최신 Qwen 및 Krea 2 모델과 연동하여 텍스트와 이미지를 주고받는 독창적인 시스템 구현 사례입니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "2ebf15196e4d5a3e",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215838",
-   "source": "AI타임스",
-   "title": "메타, '뮤즈' 흥행에 월간 주가 29% 껑충…실제 사용성·수익성은 시험대",
-   "published_at": "2026-10-01T12:16:29+00:00",
-   "collected_at": "2026-10-01T05:38:38.168453+00:00",
-   "title_ko": "메타, 개인용 AI '뮤즈' 흥행에 주가 급등",
-   "summary_ko": "메타의 AI 에이전트 '뮤즈' 출시 효과로 주가가 13년 만의 최고 월간 상승률을 기록했다. 초기 돌풍이 실제 유료화와 수익성으로 이어질지 관심이 집중된다.",
-   "category": "중요",
-   "tags": [
-    "Meta",
-    "AI 에이전트",
-    "투자"
-   ]
-  },
-  {
-   "id": "29fe7c1feed5d88a",
-   "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-   "source": "TechCrunch",
-   "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-   "published_at": "2026-10-01T12:00:00+00:00",
-   "collected_at": "2026-10-01T13:00:55.432940+00:00",
-   "title_ko": "위성용 AI 소프트웨어 개발사 Satlyt, 800만 달러 투자 유치",
-   "summary_ko": "전직 구글 및 스페이스X 출신이 창업한 Satlyt가 다양한 위성에서 공통으로 구동되는 개방형 위성 컴퓨팅 소프트웨어를 위해 투자를 유치했습니다.",
-   "category": "중요",
-   "tags": [
-    "투자",
-    "엣지AI"
-   ]
-  },
-  {
-   "id": "be27b109be7a6332",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215824",
-   "source": "AI타임스",
-   "title": "구글, 내부서 '제미나이 4 아르곤' 성능 회의론...\"벤치맥싱 한계\" 지적",
-   "published_at": "2026-10-01T11:28:28+00:00",
-   "collected_at": "2026-10-01T05:38:38.168453+00:00",
-   "title_ko": "구글 내부서 '제미나이 4 아르곤' 성능 회의론 제기",
-   "summary_ko": "구글의 차세대 AI 모델 '제미나이 4'가 벤치마크에서는 우수한 성적을 거뒀으나, 실제 복잡한 개발 작업 등에서는 안정성이 떨어진다는 내부 지적이 나왔다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "Gemini"
-   ]
-  },
-  {
-   "id": "ea84457b41af3673",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuwrsk/qwen4exp_add_mtp_by_am17an_pull_request_29761/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen4Exp: add MTP by am17an · Pull Request #29761 · ggml-org/llama.cpp",
-   "published_at": "2026-10-01T11:18:34+00:00",
-   "collected_at": "2026-10-01T13:01:30.565265+00:00",
-   "title_ko": "llama.cpp, Qwen 플래시 모델용 MTP 기능 추가",
-   "summary_ko": "llama.cpp에 MTP(Multi-Token Prediction)가 병합되어 Qwen Flash Next 모델 등을 더욱 효율적으로 로컬에서 구동할 수 있게 되었습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "llama.cpp"
-   ]
-  },
-  {
-   "id": "43b7fcc442d23dd0",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215826",
-   "source": "AI타임스",
-   "title": "업스테이지, sLM '솔라 미니 4' 출시... '프로·미니' 투트랙 본격화",
-   "published_at": "2026-10-01T10:58:02+00:00",
-   "collected_at": "2026-10-01T05:38:38.168453+00:00",
-   "title_ko": "업스테이지, sLM '솔라 미니 4' 출시",
-   "summary_ko": "업스테이지가 MoE 구조를 적용해 추론 속도를 높이고 비용을 낮춘 소형언어모델 '솔라 미니 4'를 공개하며 투트랙 전략을 본격화했다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "22662da0361b37ff",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215828",
-   "source": "AI타임스",
-   "title": "\"앤트로픽 몸값 1.5조 달러로 하향해야\"…월가의 AI IPO '거품' 경고",
-   "published_at": "2026-10-01T10:54:46+00:00",
-   "collected_at": "2026-10-01T05:38:38.168453+00:00",
-   "title_ko": "월가, 앤트로픽 등 주요 AI 기업 기업가치 거품 경고",
-   "summary_ko": "투자 비용 대비 수익성에 대한 의구심이 커지면서 월스트리트가 AI 기업들의 지나친 고평가에 제동을 걸고 나섰다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "투자"
-   ]
-  },
-  {
-   "id": "fcc46cecc38087fa",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215822",
-   "source": "AI타임스",
-   "title": "덴컴, 치과 진료 전 과정 연결한 AI 플랫폼 ‘덴트허브 1.0’ 공개",
-   "published_at": "2026-10-01T10:31:01+00:00",
-   "collected_at": "2026-10-01T05:38:38.168453+00:00",
-   "title_ko": "덴컴, 통합 치과 AI 플랫폼 ‘덴트허브 1.0’ 공개",
-   "summary_ko": "치과 AI 전문 덴컴이 음성 인식과 차트 자동 구조화를 통해 진료부터 보험 청구까지 연결하는 앰비언트 AI 플랫폼을 선보였다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "000c544cd71afb8c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuvu86/dual_gpus_vllm_resources_for_50_40_nvidia_gpus/",
-   "source": "r/LocalLLaMA",
-   "title": "Dual GPUs vLLM resources for 50 + 40 nvidia GPUs",
-   "published_at": "2026-10-01T10:25:39+00:00",
-   "collected_at": "2026-10-01T13:01:30.565265+00:00",
-   "title_ko": "듀얼 GPU 환경에서의 vLLM 리소스 최적화 가이드",
-   "summary_ko": "소비자용 50번대 및 40번대 NVIDIA GPU 조합에서 vLLM을 효율적으로 구동하기 위한 리소스 관리 팁과 도구가 공유되었습니다.",
-   "category": "팁",
-   "tags": [
-    "NVIDIA",
-    "LLM"
-   ]
-  },
-  {
-   "id": "caab970345b94ebb",
-   "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
-   "source": "Hacker News",
-   "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-   "published_at": "2026-10-01T10:21:36+00:00",
-   "collected_at": "2026-10-01T23:05:12.108152+00:00",
-   "title_ko": "OpenAI-시놉시스, 칩 설계 혁신 위한 'GPT-Synopsys' 공개",
-   "summary_ko": "OpenAI와 시놉시스가 협력하여 반도체 칩 설계 프로세스를 혁신할 프론티어 AI 모델 'GPT-Synopsys'를 발표했습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "반도체",
-    "코딩"
-   ]
-  },
-  {
-   "id": "d3f406eef83b5f02",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuuqpp/12hrs_with_ling_31_flash/",
-   "source": "r/LocalLLaMA",
-   "title": "12hrs with Ling 3.1 Flash",
-   "published_at": "2026-10-01T09:16:36+00:00",
-   "collected_at": "2026-10-01T13:01:30.565265+00:00",
-   "title_ko": "500B 규모의 대형 플래시 모델 'Ling 3.1 Flash' 체험기",
-   "summary_ko": "초대규모 파라미터를 갖춘 500B급 플래시 모델이 로컬 및 실무 환경에서 어떻게 작동하는지 보여주는 사용 후기입니다.",
-   "category": "참고",
-   "tags": [
-    "LLM",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "d96c2551a5e1b5f1",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuu9ip/best_opensource_claude_cowork_alternative/",
-   "source": "r/LocalLLaMA",
-   "title": "Best OpenSource Claude Cowork alternative?",
-   "published_at": "2026-10-01T08:45:33+00:00",
-   "collected_at": "2026-10-01T13:01:30.565265+00:00",
-   "title_ko": "오픈소스 기반 Claude Cowork 대체재 탐색",
-   "summary_ko": "로컬 LLM과 연동하여 Notion, Gmail 등 문서 통합 및 웹 검색 기능을 제공하는 오픈소스 에이전트 프레임워크 대안을 찾는 개발자 논의입니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스",
-    "Claude"
-   ]
-  },
-  {
-   "id": "2a275532e0ae5fa7",
-   "url": "https://news.hada.io/topic?id=34595",
-   "source": "GeekNews",
-   "title": "Show GN: query-inspector - 소스 코드 내 SQL/ORM 쿼리를 추출해 튜닝 리포트를 작성하는 Claude Code 스킬",
-   "published_at": "2026-10-01T08:27:54+00:00",
-   "collected_at": "2026-10-01T13:01:44.949179+00:00",
-   "title_ko": "소스 코드 내 SQL 및 ORM 쿼리 진단용 Claude Code 플러그인",
-   "summary_ko": "프로젝트 내 쿼리를 추출해 인덱스 누락이나 N+1 문제를 진단하고 튜닝 가이드를 제공하는 Claude Code 스킬이 공개되었습니다.",
-   "category": "팁",
-   "tags": [
-    "코딩",
-    "Claude"
-   ]
-  },
-  {
-   "id": "cdcf892df2a9554b",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wutkgt/deepseek_harness_02_optional_bundle_architecture/",
-   "source": "r/LocalLLaMA",
-   "title": "DeepSeek harness 0.2 - Optional Bundle Architecture, Windows Sandbox improvements, Async Question Mode, Desktop release, Web Search without key",
-   "published_at": "2026-10-01T07:59:36+00:00",
-   "collected_at": "2026-10-01T13:01:30.565265+00:00",
-   "title_ko": "DeepSeek 하니스 0.2 업데이트 공개",
-   "summary_ko": "옵셔널 번들 아키텍처, 윈도우 샌드박스 권한 진단, 비동기 질문 모드 등이 추가된 DeepSeek 하니스 새 버전이 출시되었습니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
    ]
   }
  ]
