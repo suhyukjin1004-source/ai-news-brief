@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03T17:11:48.569551+00:00",
+ "updated_at": "2026-10-03T21:07:35.257941+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -35,6 +35,156 @@
    ]
   },
   {
+   "id": "b3532fbf199f0a61",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwwmy1/running_qwen38_flash_next_176b_on_a_16gb_rtx_3080/",
+   "source": "r/LocalLLaMA",
+   "title": "Running Qwen3.8 Flash Next 176B on a 16GB RTX 3080 Laptop + 32GB RAM + SSD",
+   "published_at": "2026-10-03T20:06:34+00:00",
+   "collected_at": "2026-10-03T21:07:12.120627+00:00",
+   "title_ko": "일반 노트북에서 대형 MoE 모델 구동",
+   "summary_ko": "16GB VRAM 노트북과 오픈소스 추론 엔진을 활용해 대형 MoE 모델을 구동한 사례로, 저사양 기기에서의 LLM 활용 가능성을 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "3c4bca8fe6bf6a5c",
+   "url": "https://news.hada.io/topic?id=34724",
+   "source": "GeekNews",
+   "title": "Show GN: 5달러 시계에 Claude·Codex 사용량을 띄워봤습니다",
+   "published_at": "2026-10-03T19:33:55+00:00",
+   "collected_at": "2026-10-03T21:07:26.799921+00:00",
+   "title_ko": "저렴한 시계에 AI 사용량 모니터링 구현",
+   "summary_ko": "저렴한 알리 익스프레스 시계를 활용해 Claude와 Codex 사용량을 실시간으로 띄워놓는 재미있는 개발 팁입니다.",
+   "category": "팁",
+   "tags": [
+    "Claude",
+    "코딩"
+   ]
+  },
+  {
+   "id": "7845bb1c2f8c0456",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwv0fj/i_built_ninfer_4080_for_16gb_class_gpus/",
+   "source": "r/LocalLLaMA",
+   "title": "I built Ninfer 4080 for 16GB class GPUs",
+   "published_at": "2026-10-03T18:58:58+00:00",
+   "collected_at": "2026-10-03T21:07:12.120627+00:00",
+   "title_ko": "16GB GPU 전용 고성능 LLM 추론기 공개",
+   "summary_ko": "16GB VRAM을 가진 RTX 4080 등에서 대형 모델을 고속으로 구동할 수 있는 커스텀 추론 엔진이 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "eeadd6bf8f2bfdef",
+   "url": "https://news.hada.io/topic?id=34723",
+   "source": "GeekNews",
+   "title": "Show HN: 오픈소스 LEGO AI 생성기를 만들었습니다",
+   "published_at": "2026-10-03T18:32:50+00:00",
+   "collected_at": "2026-10-03T21:07:26.799921+00:00",
+   "title_ko": "AI 에이전트 기반 LEGO 모델 자동 생성기",
+   "summary_ko": "사용자의 아이디어를 바탕으로 AI 에이전트가 직접 LEGO 부품 설계와 스크립트를 생성하는 오픈소스 프로젝트입니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "2f1a3a9edbdd53b9",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwu6zj/the_rise_of_overfit_inference_engines/",
+   "source": "r/LocalLLaMA",
+   "title": "The Rise of Overfit Inference Engines",
+   "published_at": "2026-10-03T18:24:42+00:00",
+   "collected_at": "2026-10-03T21:07:12.120627+00:00",
+   "title_ko": "특화형 고성능 AI 추론 엔진의 부상",
+   "summary_ko": "범용성을 포기하고 특정 하드웨어와 모델에 최적화하여 성능을 극대화하는 새로운 형태의 추론 런타임들이 주목받고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "7835b7d998dec901",
+   "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
+   "source": "Hacker News",
+   "title": "Pop!_OS bans AI-generated code from much of its codebase",
+   "published_at": "2026-10-03T17:57:03+00:00",
+   "collected_at": "2026-10-03T21:07:11.202665+00:00",
+   "title_ko": "Pop!_OS, 주요 소스코드에 AI 생성 코드 금지",
+   "summary_ko": "시스템76이 자사 운영체제 코어의 상당수 코드베이스에 AI가 생성한 코드의 사용을 공식 금지했습니다.",
+   "category": "중요",
+   "tags": [
+    "규제",
+    "코딩"
+   ]
+  },
+  {
+   "id": "638bd5d8acbdc4a4",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwt19n/flash_next_rig_born_from_mining_parts/",
+   "source": "r/LocalLLaMA",
+   "title": "Flash next rig born from mining parts.",
+   "published_at": "2026-10-03T17:36:49+00:00",
+   "collected_at": "2026-10-03T21:07:12.120627+00:00",
+   "title_ko": "중고 채굴 부품으로 고성능 LLM 장비 구축",
+   "summary_ko": "구형 채굴용 그래픽카드를 조합하고 전용 추론 엔진을 활용해 대형 모델 구동 성능을 대폭 끌어올린 사례입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "b3940237ba754098",
+   "url": "https://news.hada.io/topic?id=34718",
+   "source": "GeekNews",
+   "title": "모든 SaaS 비즈니스는 모델을 둘러싼 하네스가 될 것",
+   "published_at": "2026-10-03T17:07:02+00:00",
+   "collected_at": "2026-10-03T21:07:26.799921+00:00",
+   "title_ko": "SaaS 비즈니스의 AI 에이전트 하네스 전환 전망",
+   "summary_ko": "SaaS 기업의 핵심이 에이전트를 지원하고 맥락을 제공하는 하네스 형태로 진화할 것이라는 전망입니다. AI 에이전트 중심의 비즈니스 모델 변화를 이해하는 데 중요합니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "투자"
+   ]
+  },
+  {
+   "id": "a4ba5473d9e71eed",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wws6o6/i_built_a_code_knowledge_graph_tool_thats/",
+   "source": "r/LocalLLaMA",
+   "title": "I built a code knowledge graph tool that's actually MIT licensed (fully local, no cloud)",
+   "published_at": "2026-10-03T17:01:14+00:00",
+   "collected_at": "2026-10-03T21:07:12.120627+00:00",
+   "title_ko": "MIT 라이선스의 로컬 코드 지식 그래프 도구 개발",
+   "summary_ko": "클라우드 업로드 없이 로컬에서 실행되며 MIT 라이선스를 제공하는 코드 지식 그래프 도구가 개발되었습니다. 코딩 에이전트 활용 시 프라이버시와 라이선스 문제를 해결해 줍니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "6ae0049f77806116",
+   "url": "https://news.hada.io/topic?id=34716",
+   "source": "GeekNews",
+   "title": "Kolibri 출시: 주권형 오픈웨이트 모델",
+   "published_at": "2026-10-03T17:01:02+00:00",
+   "collected_at": "2026-10-03T21:07:26.799921+00:00",
+   "title_ko": "알렙 알파, 오픈웨이트 모델 'Kolibri' 공개",
+   "summary_ko": "알렙 알파가 공공행정 및 규제 산업을 겨냥한 Apache 2.0 라이선스의 MoE 오픈웨이트 모델 Kolibri를 공개했습니다. 유럽 중심의 주권형 AI 모델 생태계 확장에 중요한 소식입니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "c87d5f628b0a50a7",
    "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
    "source": "The Verge",
@@ -60,6 +210,21 @@
    "category": "참고",
    "tags": [
     "오픈소스"
+   ]
+  },
+  {
+   "id": "4654fad836b5da80",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwrgx1/two_local_qwen_38_27b_unsloth_q6_and_qwen_flash/",
+   "source": "r/LocalLLaMA",
+   "title": "Two local Qwen ( 3.8 27b unsloth Q6 and Qwen flash next strata coder ) models vs Claude Opus 4.6 on the same 3 coding tasks. One of them tied it. Not here to start a fight, just sharing numbers",
+   "published_at": "2026-10-03T16:30:17+00:00",
+   "collected_at": "2026-10-03T21:07:12.120627+00:00",
+   "title_ko": "로컬 큐원 모델과 클로드 오푸스 코딩 성능 비교",
+   "summary_ko": "로컬 Qwen 모델들과 클로드 오푸스의 코딩 성능을 실무 태스크로 비교한 결과입니다. 개발자들이 로컬 LLM을 코딩에 활용할 가능성을 가늠하는 데 도움이 됩니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "코딩"
    ]
   },
   {
@@ -1811,6 +1976,21 @@
    ]
   },
   {
+   "id": "78e3236485dba00a",
+   "url": "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832",
+   "source": "Hacker News",
+   "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
+   "published_at": "2026-10-02T15:24:54+00:00",
+   "collected_at": "2026-10-03T21:07:11.202665+00:00",
+   "title_ko": "오라클 위스콘신 AI 데이터센터 전력 승인 지연",
+   "summary_ko": "전력 승인 문제로 인해 오라클의 위스콘신 AI 데이터센터 구축이 지연될 위기에 처했습니다. 대규모 AI 인프라 확장에서 전력 수급 문제가 지속적인 병목이 되고 있음을 보여줍니다.",
+   "category": "속보",
+   "tags": [
+    "반도체",
+    "투자"
+   ]
+  },
+  {
    "id": "d599f0a282be129f",
    "url": "https://huggingface.co/blog/allenai/astabrief",
    "source": "Hugging Face",
@@ -2807,185 +2987,6 @@
    "tags": [
     "오픈소스",
     "이미지 생성"
-   ]
-  },
-  {
-   "id": "9b59a27765f56de3",
-   "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-   "source": "TechCrunch",
-   "title": "ChatGPT can now virtually try on clothes for you",
-   "published_at": "2026-10-01T19:21:53+00:00",
-   "collected_at": "2026-10-01T23:04:53.405496+00:00",
-   "title_ko": "ChatGPT, 가상 의류 피팅 쇼핑 기능 도입",
-   "summary_ko": "OpenAI가 사용자의 사진을 활용해 가상으로 옷과 액세서리를 입어볼 수 있는 쇼핑 기능을 ChatGPT에 도입했습니다. AI의 커머스 영역 활용이 확대되고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "GPT"
-   ]
-  },
-  {
-   "id": "a7b14ae6edaba8ce",
-   "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-   "source": "TechCrunch",
-   "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-   "published_at": "2026-10-01T19:18:03+00:00",
-   "collected_at": "2026-10-01T23:04:53.405496+00:00",
-   "title_ko": "우주 데이터센터를 위한 과제 언급한 구글",
-   "summary_ko": "구글이 우주 데이터센터 구축의 기반이 될 첫 첨단 칩을 궤도에 올린 가운데, 실현을 위해서는 스타십의 대규모 발사가 선행되어야 한다는 분석이 제기되었습니다.",
-   "category": "참고",
-   "tags": [
-    "Google",
-    "반도체"
-   ]
-  },
-  {
-   "id": "417e005c23698505",
-   "url": "https://news.hada.io/topic?id=34625",
-   "source": "GeekNews",
-   "title": "메모리 기업들이 소비자 시장을 파괴했다",
-   "published_at": "2026-10-01T19:01:49+00:00",
-   "collected_at": "2026-10-01T23:05:28.705638+00:00",
-   "title_ko": "데이터센터 중심으로 재편되는 메모리 시장",
-   "summary_ko": "메모리 제조사들이 대형 고객과의 장기공급계약을 확대하면서 소비자용 RAM과 SSD 공급보다 AI 데이터센터 수요를 우선하는 구조가 고착화되고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "반도체",
-    "투자"
-   ]
-  },
-  {
-   "id": "6f215a070020fcb3",
-   "url": "https://news.hada.io/topic?id=34623",
-   "source": "GeekNews",
-   "title": "생각을 정리하는 도구로서의 커밋 설명",
-   "published_at": "2026-10-01T18:55:49+00:00",
-   "collected_at": "2026-10-01T23:05:28.705638+00:00",
-   "title_ko": "AI 시대의 커밋 메시지 작성과 코드 검토",
-   "summary_ko": "AI가 생성한 코드의 의도를 재검토하고 동료와 소통하기 위해 '무엇'보다 '왜'를 담은 커밋 설명의 중요성이 커지고 있습니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "0c0c57d9dcb76dba",
-   "url": "https://news.hada.io/topic?id=34622",
-   "source": "GeekNews",
-   "title": "벡터 데이터베이스여, 안녕",
-   "published_at": "2026-10-01T18:52:49+00:00",
-   "collected_at": "2026-10-01T23:05:28.705638+00:00",
-   "title_ko": "벡터 DB의 진화: turbopuffer, v3에서 검색 엔진으로 확장",
-   "summary_ko": "turbopuffer가 벡터 검색 전용 DB에서 벗어나 다양한 검색과 집계를 처리하는 범용 엔진으로 구조 개편을 추진합니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "de6f93abe002ecf5",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215865",
-   "source": "AI타임스",
-   "title": "래블업 \"AI 지능도 측정하는 시대…1인 1에이전트 인프라 구축\"",
-   "published_at": "2026-10-01T18:52:34+00:00",
-   "collected_at": "2026-10-01T13:01:43.899391+00:00",
-   "title_ko": "래블업, 컴포저블 인프라로 1인 1에이전트 시대 주도",
-   "summary_ko": "래블업이 연례 컨퍼런스에서 AI 추론 효율화를 위한 컴포저블 인프라 전략과 1인 1에이전트 비전을 발표했다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트",
-    "인프라"
-   ]
-  },
-  {
-   "id": "80191b6571c3d944",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wv7t3a/now_which_lab_is_behind_fledge_alpha/",
-   "source": "r/LocalLLaMA",
-   "title": "Now which lab is behind fledge alpha?",
-   "published_at": "2026-10-01T18:50:10+00:00",
-   "collected_at": "2026-10-01T23:05:13.878479+00:00",
-   "title_ko": "신규 무료 시험 모델 'fledge alpha' 등장",
-   "summary_ko": "상용 플랫폼에 세부 정보가 없는 새로운 무료 테스트 모델이 공개되면서 업계의 관심이 집중되고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "DeepSeek",
-    "LLM"
-   ]
-  },
-  {
-   "id": "591f503b5055356f",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215850",
-   "source": "AI타임스",
-   "title": "\"위성·로봇 제어도 차단\"…오픈AI·앤트로픽 '안전장치 오탐'에 개발자 이탈",
-   "published_at": "2026-10-01T18:46:53+00:00",
-   "collected_at": "2026-10-01T13:01:43.899391+00:00",
-   "title_ko": "오픈AI·앤트로픽 안전장치 오탐으로 개발자 이탈",
-   "summary_ko": "AI 코딩 에이전트의 과도한 보안 차단으로 인해 정상적인 개발 작업까지 방해받으면서 개발자들의 불만이 커지고 있다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "Anthropic",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "2205f291674c33b0",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215862",
-   "source": "AI타임스",
-   "title": "엔비디아, 물리 법칙 배우는 영상 생성 프레임워크 ‘파이시스-랭’ 공개",
-   "published_at": "2026-10-01T18:34:33+00:00",
-   "collected_at": "2026-10-01T13:01:43.899391+00:00",
-   "title_ko": "엔비디아, 물리 법칙 학습하는 영상 생성 프레임워크 공개",
-   "summary_ko": "엔비디아가 영상 생성 AI가 현실의 물리 법칙과 물체 상호작용을 더 정확히 반영하도록 돕는 오픈 프레임워크 '파이시스-랭'을 공개했다.",
-   "category": "속보",
-   "tags": [
-    "NVIDIA",
-    "AI 영상 생성"
-   ]
-  },
-  {
-   "id": "3cd40a18577ea753",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215847",
-   "source": "AI타임스",
-   "title": "오픈클로, 기업용 AI 에이전트 제어 플랫폼 'OCE' 공개",
-   "published_at": "2026-10-01T18:21:43+00:00",
-   "collected_at": "2026-10-01T13:01:43.899391+00:00",
-   "title_ko": "오픈클로, 기업용 AI 에이전트 제어 플랫폼 'OCE' 공개",
-   "summary_ko": "오픈소스 AI 에이전트 오픈클로가 기업 환경에서 중앙집중식 권한 관리와 보안을 지원하는 'OCE'를 무료 공개했다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "ca1835cbab0ed9d6",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wv6zkk/any_good_uncensored_ornith159b/",
-   "source": "r/LocalLLaMA",
-   "title": "Any good uncensored Ornith1.5-9B",
-   "published_at": "2026-10-01T18:19:09+00:00",
-   "collected_at": "2026-10-01T18:48:21.372543+00:00",
-   "title_ko": "검열 없는 오프소스 LLM 활용 경험 공유",
-   "summary_ko": "검열이 없는 로컬 LLM 모델 사용 후기와 성능 검증에 대한 커뮤니티 논의입니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "3f1d1537d7c462dd",
-   "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-   "source": "TechCrunch",
-   "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-   "published_at": "2026-10-01T18:14:42+00:00",
-   "collected_at": "2026-10-01T18:48:04.957626+00:00",
-   "title_ko": "OpenAI, 내부 정보 유출로 안전 연구원 3명 해고",
-   "summary_ko": "OpenAI가 민감한 회사 정보를 부적절하게 다룬 3명의 안전 연구원과 계약을 해지했습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI"
    ]
   }
  ]
