@@ -1,5 +1,109 @@
 [
  {
+  "id": "76ea6bcf77826f3d",
+  "url": "https://news.hada.io/topic?id=34761",
+  "source": "GeekNews",
+  "title": "Qwen 3.8 Flash Next(125B)를 소비자용 하드웨어(RTX 4090)에서 초당 100토큰으로 실행하기",
+  "published_at": "2026-10-04T14:44:10+00:00",
+  "collected_at": "2026-10-04T18:05:59.825029+00:00",
+  "title_ko": "일반 소비자용 PC에서 125B 대형 모델을 고속 구동하는 'Strata' 공개",
+  "summary_ko": "오픈소스 도구인 Strata를 활용해 RTX 4090 등 소비자용 하드웨어에서 1250억 파라미터의 Qwen 모델을 초당 100토큰 속도로 실행할 수 있게 되었습니다. 로컬 LLM 활용성이 한층 높아질 것으로 기대됩니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "bd5da98ec1f80d22",
+  "url": "https://news.hada.io/topic?id=34760",
+  "source": "GeekNews",
+  "title": "종교학자들이 Anthropic과 만났다",
+  "published_at": "2026-10-04T14:41:10+00:00",
+  "collected_at": "2026-10-04T18:05:59.825029+00:00",
+  "title_ko": "앤트로픽, 종교학자들과 클로드의 도덕성 및 AI 의식 논의",
+  "summary_ko": "앤트로픽이 다양한 종교 전통의 학자들을 비공개로 초청해 AI의 도덕성과 의식 가능성을 논의했습니다. 모델이 스스로 안전하고 윤리적인 선택을 하도록 만들기 위한 철학적 접근의 일환입니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "Claude"
+  ]
+ },
+ {
+  "id": "22a7be6ae25bc7b2",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxgm0h/from_1x3090_to_20_dgx_sparks_my_house_fuses_were/",
+  "source": "r/LocalLLaMA",
+  "title": "From 1x3090 to 20 DGX Sparks: my house fuses were the first bottleneck",
+  "published_at": "2026-10-04T14:09:31+00:00",
+  "collected_at": "2026-10-04T18:05:45.322688+00:00",
+  "title_ko": "개인 하드웨어 환경에서 대형 오픈소스 모델 구동기",
+  "summary_ko": "개인 PC와 워크스테이션 환경에서 대규모 MoE 모델인 DeepSeek 등을 직접 구동하며 겪은 하드웨어 병목과 최적화 과정을 공유한 글입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "399a6134aae7ea29",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxgccy/i_distilled_an_llm_into_two_287m_encoders_gliner/",
+  "source": "r/LocalLLaMA",
+  "title": "I Distilled an LLM into two 287M encoders (GLiNER + multiple choice) for document extraction, can't match teacher. did i do something wrong?",
+  "published_at": "2026-10-04T13:58:17+00:00",
+  "collected_at": "2026-10-04T18:05:45.322688+00:00",
+  "title_ko": "문서 추출을 위한 LLM 지식 증류 실험",
+  "summary_ko": "대규모 법원 판결문 구조화를 위해 비용이 큰 LLM 대신 소형 인코더로 지식 증류를 시도한 실무 경험과 성능 한계에 대한 고찰입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "8b3ad1876027af56",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxfgn9/is_there_any_way_to_improve_creative_writing_for/",
+  "source": "r/LocalLLaMA",
+  "title": "Is there any way to improve creative writing for Local Models (Qwen)?",
+  "published_at": "2026-10-04T13:16:28+00:00",
+  "collected_at": "2026-10-04T18:05:45.322688+00:00",
+  "title_ko": "로컬 Qwen 모델의 창작 글쓰기 성능 개선 방법 탐색",
+  "summary_ko": "코딩과 리서치에 강점이 있는 Qwen 등 로컬 모델의 창작 글쓰기(Creative Writing) 능력을 향상시키기 위한 프롬프트 및 설정 팁을 논의합니다.",
+  "category": "팁",
+  "tags": [
+   "코딩"
+  ]
+ },
+ {
+  "id": "bca476fd34631d9d",
+  "url": "https://github.com/Niko1221/Strata",
+  "source": "Hacker News",
+  "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+  "published_at": "2026-10-04T12:51:53+00:00",
+  "collected_at": "2026-10-04T18:05:30.359000+00:00",
+  "title_ko": "RTX 4090에서 Qwen 3.8 Flash Next 고속 구동 도구 화제",
+  "summary_ko": "일반 PC 환경에서 대형 언어 모델을 고성능으로 돌릴 수 있게 해주는 오픈소스 프로젝트가 해커뉴스에서 큰 주목을 받고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "4614f60f0c5efe85",
+  "url": "https://news.hada.io/topic?id=34757",
+  "source": "GeekNews",
+  "title": "Show GN: cuesheet - 링크 하나로 MSW 응답을 바꿔, AI도 QA도 상황별 화면을 확인하는 도구",
+  "published_at": "2026-10-04T12:21:06+00:00",
+  "collected_at": "2026-10-04T18:05:59.825029+00:00",
+  "title_ko": "AI 개발 및 QA를 위한 API 응답 조작 도구 'cuesheet' 소개",
+  "summary_ko": "AI를 활용해 프론트엔드를 빠르게 개발할 때 백엔드 API 지연이나 예외 상황 테스트를 원활하게 만들어주는 개발자 도구입니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
   "id": "824aa7b3bc2ce083",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215950",
   "source": "AI타임스",
@@ -784,6 +888,21 @@
   "tags": [
    "오픈소스",
    "반도체"
+  ]
+ },
+ {
+  "id": "c6ffb2f15ccedb33",
+  "url": "https://metedata.substack.com/p/what-meta-got-right-with-muse",
+  "source": "Hacker News",
+  "title": "What Meta got right with Muse",
+  "published_at": "2026-10-03T18:23:48+00:00",
+  "collected_at": "2026-10-04T18:05:30.359000+00:00",
+  "title_ko": "메타의 Muse 모델이 거둔 성공 요인 분석",
+  "summary_ko": "메타의 AI 모델 Muse가 거둔 기술적 성과와 업계에서의 의의를 심층적으로 분석한 글입니다.",
+  "category": "참고",
+  "tags": [
+   "Meta",
+   "오픈소스"
   ]
  },
  {

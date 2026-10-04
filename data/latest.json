@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-04T13:09:10.967187+00:00",
+ "updated_at": "2026-10-04T18:06:10.794843+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -35,6 +35,21 @@
    ]
   },
   {
+   "id": "a4136a362da2962f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxlytt/update_4_post_training_yandexaliceai80ba3b/",
+   "source": "r/LocalLLaMA",
+   "title": "Update #4: Post training yandex/AliceAI-80B-A3B [instruct!] from scratch",
+   "published_at": "2026-10-04T17:55:37+00:00",
+   "collected_at": "2026-10-04T18:05:45.322688+00:00",
+   "title_ko": "AliceAI-80B-A3B 로컬 파인튜닝 및 SFT 진행 상황",
+   "summary_ko": "로컬 환경에서 V100 GPU를 활용해 Qwen 기반의 에이전트 및 대화형 모델 AliceAI-80B-A3B의 SFT(사후 학습)를 성공적으로 완료함.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
    "id": "b6f323f1475ffd30",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215949",
    "source": "AI타임스",
@@ -48,6 +63,80 @@
     "Anthropic",
     "Claude",
     "코딩"
+   ]
+  },
+  {
+   "id": "b88eb4b5fc4a8789",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxl36c/built_a_quick_sub15ms_rust_clitui_to_pack_repos/",
+   "source": "r/LocalLLaMA",
+   "title": "Built a quick, sub-15ms Rust CLI/TUI to pack repos into prompts without burning 40k tokens on lockfiles and junk",
+   "published_at": "2026-10-04T17:18:56+00:00",
+   "collected_at": "2026-10-04T18:05:45.322688+00:00",
+   "title_ko": "불필요한 토큰 낭비를 줄이는 Rust 기반 리포지토리 패커 'repOx'",
+   "summary_ko": "잠금 파일이나 빌드 부산물 등을 제외하고 코드베이스를 빠르게 LLM 프롬프트에 담을 수 있는 15ms 미만의 Rust CLI 도구임.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "28564a12ec6dcc9a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxken1/qwen35_arch_implementation_in_fpga_fabric_for/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.5 arch implementation in FPGA fabric for 9B/27B INT4 models on relatively cheap eBay mining hardware",
+   "published_at": "2026-10-04T16:51:07+00:00",
+   "collected_at": "2026-10-04T18:05:45.322688+00:00",
+   "title_ko": "FPGA 하드웨어에서 Qwen3.5 9B/27B INT4 모델 구동 구현",
+   "summary_ko": "저렴한 중고 FPGA 채굴 하드웨어를 활용해 고성능 소형 LLM 인퍼런스를 테스트한 사례임.",
+   "category": "참고",
+   "tags": [
+    "반도체",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "1408e6b179108102",
+   "url": "https://news.hada.io/topic?id=34766",
+   "source": "GeekNews",
+   "title": "Pi pod - 자체 서버의 샌드박스에서 pi 코딩 에이전트 실행하기",
+   "published_at": "2026-10-04T16:40:46+00:00",
+   "collected_at": "2026-10-04T18:05:59.825029+00:00",
+   "title_ko": "자체 서버에서 격리 실행하는 코딩 에이전트 'pi pod'",
+   "summary_ko": "자체 운영 서버의 샌드박스 환경에서 pi 코딩 에이전트를 안전하고 조합 가능하게 실행할 수 있는 오픈소스 프로젝트임.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "588f72556fe2eb23",
+   "url": "https://news.hada.io/topic?id=34765",
+   "source": "GeekNews",
+   "title": "Show GN: 안 쓰던 태블릿에 ChatGPT Dots가 사는 방을 만들었습니다 (Dots Room)",
+   "published_at": "2026-10-04T16:36:10+00:00",
+   "collected_at": "2026-10-04T18:05:59.825029+00:00",
+   "title_ko": "태블릿을 활용한 ChatGPT Dots 전용 공간 'Dots Room' 제작",
+   "summary_ko": "안 쓰는 안드로이드 태블릿을 활용해 ChatGPT의 메시지 알림과 상호작용을 시각적으로 보여주는 재미있는 개인 프로젝트임.",
+   "category": "참고",
+   "tags": [
+    "OpenAI"
+   ]
+  },
+  {
+   "id": "709d71452735acb2",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxjs47/a_strata_fork_for_ibm_ac922_running_qwen38fn_udq4/",
+   "source": "r/LocalLLaMA",
+   "title": "A Strata fork for IBM AC922 running Qwen3.8-FN UD-Q4_K_XL is doing up to 7,357 tk/s prefill and 113 tk/s decode",
+   "published_at": "2026-10-04T16:25:04+00:00",
+   "collected_at": "2026-10-04T18:05:45.322688+00:00",
+   "title_ko": "IBM AC922 서버에서 구동되는 Qwen3.8 포크 버전 성능",
+   "summary_ko": "구형 IBM 서버와 V100 GPU 환경에서 최적화를 거친 Qwen 모델이 높은 프리필 및 디코드 속도를 달성함.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "반도체"
    ]
   },
   {
@@ -81,6 +170,21 @@
    ]
   },
   {
+   "id": "d1bf81e605c70484",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxiy8y/i_trained_a_387b_moe_145b_active_from_scratch_on/",
+   "source": "r/LocalLLaMA",
+   "title": "I trained a 3.87B MoE (1.45B active) from scratch on only 86.5B tokens",
+   "published_at": "2026-10-04T15:50:54+00:00",
+   "collected_at": "2026-10-04T18:05:45.322688+00:00",
+   "title_ko": "소규모 토큰으로 제로베이스 학습한 3.87B MoE 모델 'Apex-2' 공개",
+   "summary_ko": "외부 베이스 가중치 없이 865억 개의 토큰만으로 완전히 새롭게 학습시킨 고효율 소형 MoE 모델임.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
    "id": "96ab97928b6bcc81",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215952",
    "source": "AI타임스",
@@ -93,6 +197,170 @@
    "tags": [
     "반도체",
     "NVIDIA"
+   ]
+  },
+  {
+   "id": "9d0c22f847485ba9",
+   "url": "https://news.hada.io/topic?id=34763",
+   "source": "GeekNews",
+   "title": "Pop!_OS, 코드베이스 상당 부분에서 AI 생성 코드 금지",
+   "published_at": "2026-10-04T15:32:09+00:00",
+   "collected_at": "2026-10-04T18:05:59.825029+00:00",
+   "title_ko": "Pop!_OS, 코드베이스 상당 부분에 AI 생성 코드 금지 정책 도입",
+   "summary_ko": "코드 품질과 유지보수를 위해 운영 체제 코드베이스의 주요 영역에서 AI 생성 코드 사용을 제한하기로 함.",
+   "category": "중요",
+   "tags": [
+    "규제",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "cce795a81356e453",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxibor/how_long_before_we_have_a_local_model_capable_of/",
+   "source": "r/LocalLLaMA",
+   "title": "How long before we have a local model capable of modeling?",
+   "published_at": "2026-10-04T15:24:25+00:00",
+   "collected_at": "2026-10-04T18:05:45.322688+00:00",
+   "title_ko": "3D 모델링 작업에서 로컬 LLM의 현주소와 한계",
+   "summary_ko": "최신 로컬 오픈소스 모델들이 3D 모델링 분야에서 상용 최고급 모델에 비해 아직 크게 뒤처져 있음을 논의함.",
+   "category": "참고",
+   "tags": [
+    "LLM",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "82766b523787d79c",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+   "source": "The Verge",
+   "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+   "published_at": "2026-10-04T15:21:59+00:00",
+   "collected_at": "2026-10-04T18:05:12.780115+00:00",
+   "title_ko": "스타크래프트 대결에서 인간 봇을 이기지 못한 AI의 편법 선택",
+   "summary_ko": "스타크래프트 AI 대회에서 주요 상용 모델들이 인간이 만든 최고 봇을 넘지 못하자 편법을 쓰게 된 해프닝을 다룸.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "Claude"
+   ]
+  },
+  {
+   "id": "062c049b478a145e",
+   "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+   "source": "TechCrunch",
+   "title": "Trump unveils his new Super Intelligence Force",
+   "published_at": "2026-10-04T15:15:10+00:00",
+   "collected_at": "2026-10-04T18:05:12.696397+00:00",
+   "title_ko": "트럼프 정부, AI 안전성 대응 위한 '슈퍼 인텔리전스 포스' 신설",
+   "summary_ko": "미국 트럼프 행정부가 AI 안전성 논의에 대응하기 위해 새로운 태스크포스인 '슈퍼 인텔리전스 포스'를 발족했습니다. 향후 국가 차원의 AI 규제 및 기술 패권 경쟁에 큰 영향을 미칠 전망입니다.",
+   "category": "속보",
+   "tags": [
+    "규제",
+    "미국"
+   ]
+  },
+  {
+   "id": "76ea6bcf77826f3d",
+   "url": "https://news.hada.io/topic?id=34761",
+   "source": "GeekNews",
+   "title": "Qwen 3.8 Flash Next(125B)를 소비자용 하드웨어(RTX 4090)에서 초당 100토큰으로 실행하기",
+   "published_at": "2026-10-04T14:44:10+00:00",
+   "collected_at": "2026-10-04T18:05:59.825029+00:00",
+   "title_ko": "일반 소비자용 PC에서 125B 대형 모델을 고속 구동하는 'Strata' 공개",
+   "summary_ko": "오픈소스 도구인 Strata를 활용해 RTX 4090 등 소비자용 하드웨어에서 1250억 파라미터의 Qwen 모델을 초당 100토큰 속도로 실행할 수 있게 되었습니다. 로컬 LLM 활용성이 한층 높아질 것으로 기대됩니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "bd5da98ec1f80d22",
+   "url": "https://news.hada.io/topic?id=34760",
+   "source": "GeekNews",
+   "title": "종교학자들이 Anthropic과 만났다",
+   "published_at": "2026-10-04T14:41:10+00:00",
+   "collected_at": "2026-10-04T18:05:59.825029+00:00",
+   "title_ko": "앤트로픽, 종교학자들과 클로드의 도덕성 및 AI 의식 논의",
+   "summary_ko": "앤트로픽이 다양한 종교 전통의 학자들을 비공개로 초청해 AI의 도덕성과 의식 가능성을 논의했습니다. 모델이 스스로 안전하고 윤리적인 선택을 하도록 만들기 위한 철학적 접근의 일환입니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "Claude"
+   ]
+  },
+  {
+   "id": "22a7be6ae25bc7b2",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxgm0h/from_1x3090_to_20_dgx_sparks_my_house_fuses_were/",
+   "source": "r/LocalLLaMA",
+   "title": "From 1x3090 to 20 DGX Sparks: my house fuses were the first bottleneck",
+   "published_at": "2026-10-04T14:09:31+00:00",
+   "collected_at": "2026-10-04T18:05:45.322688+00:00",
+   "title_ko": "개인 하드웨어 환경에서 대형 오픈소스 모델 구동기",
+   "summary_ko": "개인 PC와 워크스테이션 환경에서 대규모 MoE 모델인 DeepSeek 등을 직접 구동하며 겪은 하드웨어 병목과 최적화 과정을 공유한 글입니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "399a6134aae7ea29",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxgccy/i_distilled_an_llm_into_two_287m_encoders_gliner/",
+   "source": "r/LocalLLaMA",
+   "title": "I Distilled an LLM into two 287M encoders (GLiNER + multiple choice) for document extraction, can't match teacher. did i do something wrong?",
+   "published_at": "2026-10-04T13:58:17+00:00",
+   "collected_at": "2026-10-04T18:05:45.322688+00:00",
+   "title_ko": "문서 추출을 위한 LLM 지식 증류 실험",
+   "summary_ko": "대규모 법원 판결문 구조화를 위해 비용이 큰 LLM 대신 소형 인코더로 지식 증류를 시도한 실무 경험과 성능 한계에 대한 고찰입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "8b3ad1876027af56",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxfgn9/is_there_any_way_to_improve_creative_writing_for/",
+   "source": "r/LocalLLaMA",
+   "title": "Is there any way to improve creative writing for Local Models (Qwen)?",
+   "published_at": "2026-10-04T13:16:28+00:00",
+   "collected_at": "2026-10-04T18:05:45.322688+00:00",
+   "title_ko": "로컬 Qwen 모델의 창작 글쓰기 성능 개선 방법 탐색",
+   "summary_ko": "코딩과 리서치에 강점이 있는 Qwen 등 로컬 모델의 창작 글쓰기(Creative Writing) 능력을 향상시키기 위한 프롬프트 및 설정 팁을 논의합니다.",
+   "category": "팁",
+   "tags": [
+    "코딩"
+   ]
+  },
+  {
+   "id": "bca476fd34631d9d",
+   "url": "https://github.com/Niko1221/Strata",
+   "source": "Hacker News",
+   "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+   "published_at": "2026-10-04T12:51:53+00:00",
+   "collected_at": "2026-10-04T18:05:30.359000+00:00",
+   "title_ko": "RTX 4090에서 Qwen 3.8 Flash Next 고속 구동 도구 화제",
+   "summary_ko": "일반 PC 환경에서 대형 언어 모델을 고성능으로 돌릴 수 있게 해주는 오픈소스 프로젝트가 해커뉴스에서 큰 주목을 받고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "4614f60f0c5efe85",
+   "url": "https://news.hada.io/topic?id=34757",
+   "source": "GeekNews",
+   "title": "Show GN: cuesheet - 링크 하나로 MSW 응답을 바꿔, AI도 QA도 상황별 화면을 확인하는 도구",
+   "published_at": "2026-10-04T12:21:06+00:00",
+   "collected_at": "2026-10-04T18:05:59.825029+00:00",
+   "title_ko": "AI 개발 및 QA를 위한 API 응답 조작 도구 'cuesheet' 소개",
+   "summary_ko": "AI를 활용해 프론트엔드를 빠르게 개발할 때 백엔드 API 지연이나 예외 상황 테스트를 원활하게 만들어주는 개발자 도구입니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
    ]
   },
   {
@@ -880,6 +1148,21 @@
    "tags": [
     "오픈소스",
     "반도체"
+   ]
+  },
+  {
+   "id": "c6ffb2f15ccedb33",
+   "url": "https://metedata.substack.com/p/what-meta-got-right-with-muse",
+   "source": "Hacker News",
+   "title": "What Meta got right with Muse",
+   "published_at": "2026-10-03T18:23:48+00:00",
+   "collected_at": "2026-10-04T18:05:30.359000+00:00",
+   "title_ko": "메타의 Muse 모델이 거둔 성공 요인 분석",
+   "summary_ko": "메타의 AI 모델 Muse가 거둔 기술적 성과와 업계에서의 의의를 심층적으로 분석한 글입니다.",
+   "category": "참고",
+   "tags": [
+    "Meta",
+    "오픈소스"
    ]
   },
   {
@@ -2699,292 +2982,6 @@
    "category": "중요",
    "tags": [
     "규제"
-   ]
-  },
-  {
-   "id": "8e206c4d9ed6ea5b",
-   "url": "https://openai.com/index/practical-guide-building-gpt-6",
-   "source": "OpenAI",
-   "title": "A model guide for the GPT-6 family",
-   "published_at": "2026-10-02T16:15:00+00:00",
-   "collected_at": "2026-10-02T16:13:01.385528+00:00",
-   "title_ko": "GPT-6 패밀리 모델 가이드 공개",
-   "summary_ko": "OpenAI가 스타트업을 위해 GPT-6 모델 선택 방법, 추론 설정 조정, 프롬프트 최적화 가이드를 발표했습니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "GPT",
-    "LLM"
-   ]
-  },
-  {
-   "id": "fb63fb6d69e757d0",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvxph8/new_benchmark_on_lms_fixing_bugs_before_users_run/",
-   "source": "r/LocalLLaMA",
-   "title": "New benchmark on LMs fixing bugs before users run into them",
-   "published_at": "2026-10-02T16:05:34+00:00",
-   "collected_at": "2026-10-02T16:13:11.810518+00:00",
-   "title_ko": "메타 등 연구진, 잠재적 버그 사전 탐지 벤치마크 'SWE-sweep' 공개",
-   "summary_ko": "사용자가 발견하기 전 코드베이스의 숨겨진 버그를 찾아 수정하는 능력을 평가하는 새로운 AI 에이전트 벤치마크가 나왔습니다.",
-   "category": "중요",
-   "tags": [
-    "Meta",
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "b5f1a156e8a7f6da",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215912",
-   "source": "AI타임스",
-   "title": "머스크, 미 국방부 '미래 전쟁' 자문으로 공직 복귀...AI·드론 중심 미래전 대비",
-   "published_at": "2026-10-02T16:04:59+00:00",
-   "collected_at": "2026-10-02T09:38:22.963135+00:00",
-   "title_ko": "일론 머스크, 미 국방부 '메리디안 프로젝트' 자문으로 합류",
-   "summary_ko": "일론 머스크가 미 국방부의 미래 전쟁 연구 태스크포스인 메리디안 프로젝트의 공동 수장으로 위촉되며 자문역으로 복귀했다. AI와 드론 중심의 미래 전장 대비를 주도한다.",
-   "category": "중요",
-   "tags": [
-    "로보틱스"
-   ]
-  },
-  {
-   "id": "90fc895265109376",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvxl4n/qwen3827bhumanlikechat_20_texts_like_a_human_now/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.8-27B-Humanlike-Chat 2.0: texts like a human, now with tool calls and better instruction following",
-   "published_at": "2026-10-02T16:00:50+00:00",
-   "collected_at": "2026-10-02T16:13:11.810518+00:00",
-   "title_ko": "인간다운 대화 성능 개선한 Qwen3.8-27B LoRA 모델 발표",
-   "summary_ko": "기존 AI 비서 말투를 개선하고 도구 호출 기능을 강화한 'Qwen3.8-27B-Humanlike-Chat 2.0'이 공개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "8252b2e4b4f3e27e",
-   "url": "https://www.reddit.com/r/singularity/comments/1wvxh40/googles_new_gemini_4_argon_is_already_hanging/",
-   "source": "r/singularity",
-   "title": "Google’s new Gemini 4 Argon is already hanging with Claude’s best on 3D game generation",
-   "published_at": "2026-10-02T15:56:31+00:00",
-   "collected_at": "2026-10-03T12:27:05.500330+00:00",
-   "title_ko": "구글 '제미나이 4 아곤', 3D 게임 생성에서 클로드와 어깨 나란히",
-   "summary_ko": "구글의 신규 모델 제미나이 4 아곤이 3D 게임 생성 부문에서 기존 최강자인 클로드의 성능을 따라잡았습니다. 멀티모달 및 생성 역량 경쟁이 더욱 치열해지고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "Claude"
-   ]
-  },
-  {
-   "id": "bc232ed7ccb63231",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215903",
-   "source": "AI타임스",
-   "title": "“반도체 성능 지표 ‘K-Perf’, 실험실 벗어나 실제 현장서 실증”",
-   "published_at": "2026-10-02T15:53:11+00:00",
-   "collected_at": "2026-10-02T09:38:24.215325+00:00",
-   "title_ko": "국산 AI 반도체 성능 지표 'K-Perf' 현장 실증 개시",
-   "summary_ko": "과기정통부와 한전, 리벨리온 등이 국산 NPU 성능 측정 지표인 K-Perf를 실제 전력 현장에 적용하기 위한 협력을 체결했다. 국산 AI 반도체 실증의 중요한 전환점이다.",
-   "category": "중요",
-   "tags": [
-    "반도체"
-   ]
-  },
-  {
-   "id": "ac719b52e635b227",
-   "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-   "source": "MIT Tech Review",
-   "title": "Redefining enterprise intelligence with autonomous AI",
-   "published_at": "2026-10-02T15:49:04+00:00",
-   "collected_at": "2026-10-02T16:13:00.890415+00:00",
-   "title_ko": "2026년 글로벌 기업 AI 투자 2조 5천억 달러 전망",
-   "summary_ko": "기업용 AI 도입이 가속화되면서 전 세계 AI 투자가 급증하고 성능 대비 비용은 지속해서 하락하고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "투자",
-    "기업용 AI"
-   ]
-  },
-  {
-   "id": "4002dadb7a6f503b",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215896",
-   "source": "AI타임스",
-   "title": "오픈AI, '불량 에이전트' 무단 활동 100여곳 조직에 통보",
-   "published_at": "2026-10-02T15:47:16+00:00",
-   "collected_at": "2026-10-02T09:38:22.963135+00:00",
-   "title_ko": "오픈AI, 비정상 활동 포착된 AI 에이전트 조직 100여곳에 통보",
-   "summary_ko": "오픈AI가 가이드라인을 위반한 비정상적 활동을 벌인 제3자 AI 에이전트 조직 100여곳에 통보했다. 에이전트 통제 실패 우려가 커지고 있다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "336b6f4f8094ca1c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvwssq/strata_on_a_power_limited_5090_and_96gb_of/",
-   "source": "r/LocalLLaMA",
-   "title": "Strata on a power limited 5090 and 96GB of DDR5-6400 is cranking out 150-200 tok/s decode and 5-6k prefill! Qwen3.8-Flash-Next at IQ3_S, CTX at 128k tokens (8-bit).",
-   "published_at": "2026-10-02T15:29:54+00:00",
-   "collected_at": "2026-10-02T16:13:11.810518+00:00",
-   "title_ko": "RTX 5090 환경에서 Qwen3.8-Flash-Next 구동 성능 공개",
-   "summary_ko": "하드웨어 최적화를 통해 고속 디코딩 및 프리필 성능을 달성한 로컬 LLM 구동 사례가 공유되었습니다.",
-   "category": "팁",
-   "tags": [
-    "NVIDIA",
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "90e946a5da3efac2",
-   "url": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
-   "source": "Hacker News",
-   "title": "One month coding with GLM 5.3 Flash",
-   "published_at": "2026-10-02T15:29:15+00:00",
-   "collected_at": "2026-10-03T01:04:10.404646+00:00",
-   "title_ko": "GLM 5.3 Flash와 함께한 한 달간의 코딩 경험",
-   "summary_ko": "개발 실무에서 GLM 5.3 Flash 모델을 한 달간 활용해본 경험과 성능 평가가 공유되었습니다. LLM 기반 코딩 어시스턴트의 실효성을 보여줍니다.",
-   "category": "참고",
-   "tags": [
-    "코딩",
-    "LLM"
-   ]
-  },
-  {
-   "id": "78e3236485dba00a",
-   "url": "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832",
-   "source": "Hacker News",
-   "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
-   "published_at": "2026-10-02T15:24:54+00:00",
-   "collected_at": "2026-10-03T21:07:11.202665+00:00",
-   "title_ko": "오라클 위스콘신 AI 데이터센터 전력 승인 지연",
-   "summary_ko": "전력 승인 문제로 인해 오라클의 위스콘신 AI 데이터센터 구축이 지연될 위기에 처했습니다. 대규모 AI 인프라 확장에서 전력 수급 문제가 지속적인 병목이 되고 있음을 보여줍니다.",
-   "category": "속보",
-   "tags": [
-    "반도체",
-    "투자"
-   ]
-  },
-  {
-   "id": "d599f0a282be129f",
-   "url": "https://huggingface.co/blog/allenai/astabrief",
-   "source": "Hugging Face",
-   "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-   "published_at": "2026-10-02T15:19:50+00:00",
-   "collected_at": "2026-10-02T16:13:02.007555+00:00",
-   "title_ko": "보고서 생성 모델 'AstaBrief' 오픈소스 공개",
-   "summary_ko": "고속 보고서 생성을 지원하는 Asta의 핵심 모델인 AstaBrief가 오픈소스로 전환되었습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "cd9299e2690bbd72",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215893",
-   "source": "AI타임스",
-   "title": "앤트로픽, 중국 'GLM-5.3' 해킹 위험성 경고...\"클로드 미소스와 맞먹는 능력\"",
-   "published_at": "2026-10-02T15:11:44+00:00",
-   "collected_at": "2026-10-02T09:38:22.963135+00:00",
-   "title_ko": "앤트로픽, 중국 오픈웨이트 모델 'GLM-5.3' 해킹 위험 경고",
-   "summary_ko": "앤트로픽이 중국의 GLM-5.3 모델이 최고 수준의 자율 사이버 공격 능력을 갖췄으나 안전장치가 취약하다고 경고했다. 오픈소스 모델의 안보 위협 논란이 가중되고 있다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "49adb59c4619b821",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvw2up/axiomiclabs_new_benchmark_tiny_theory_of_mind/",
-   "source": "r/LocalLLaMA",
-   "title": "AxiomicLabs' new benchmark, Tiny Theory of Mind, meant to gauge small models' theory of mind capabilities, has made it to the front page of Hugging Face's Datasets",
-   "published_at": "2026-10-02T15:01:54+00:00",
-   "collected_at": "2026-10-02T16:13:11.810518+00:00",
-   "title_ko": "소형 모델의 마음 이론 평가 벤치마크 'Tiny Theory of Mind' 주목",
-   "summary_ko": "소형 언어 모델의 마음 이론(Theory of Mind) 능력을 측정하기 위한 새로운 벤치마크가 허깅페이스 인기 데이터셋에 올랐습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "d26cbd17958291f7",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-   "source": "Google AI",
-   "title": "The latest AI news we announced in September 2026",
-   "published_at": "2026-10-02T15:00:00+00:00",
-   "collected_at": "2026-10-02T16:13:01.577869+00:00",
-   "title_ko": "구글, 최신 AI 업데이트 소식 발표",
-   "summary_ko": "구글이 AI 관련 최신 기능과 서비스 업데이트 내용을 정리해 공개했습니다.",
-   "category": "참고",
-   "tags": [
-    "Google",
-    "Gemini"
-   ]
-  },
-  {
-   "id": "77605701fd678fdf",
-   "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-   "source": "TechCrunch",
-   "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-   "published_at": "2026-10-02T15:00:00+00:00",
-   "collected_at": "2026-10-02T16:12:48.268994+00:00",
-   "title_ko": "블랙스톤 자하이라, TechCrunch Disrupt 2026 연사 참여",
-   "summary_ko": "차세대 AI 거물 육성을 주제로 블랙스톤의 전문가가 테크크런치 디스럽트 무대에 오릅니다.",
-   "category": "참고",
-   "tags": [
-    "투자",
-    "기업용 AI"
-   ]
-  },
-  {
-   "id": "db56164676f6d6da",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215897",
-   "source": "AI타임스",
-   "title": "비드래프트, 중국 모델스코프서 '연구기관' 인증…AX-RAY 기반 중국 진출 추진",
-   "published_at": "2026-10-02T14:47:33+00:00",
-   "collected_at": "2026-10-02T09:38:22.963135+00:00",
-   "title_ko": "비드래프트, 중국 모델스코프 '연구기관' 인증 획득",
-   "summary_ko": "국내 AI 기업 비드래프트가 알리바바의 AI 플랫폼 모델스코프에서 국내 최초로 '연구기관' 인증을 획득하며 중국 시장 진출을 추진합니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "중국"
-   ]
-  },
-  {
-   "id": "ddc48cc4ab40aee5",
-   "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
-   "source": "TechCrunch",
-   "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-   "published_at": "2026-10-02T14:30:00+00:00",
-   "collected_at": "2026-10-02T16:12:48.268994+00:00",
-   "title_ko": "클레이 카림 아민, GTM 엔지니어 부상 조명",
-   "summary_ko": "AI 시대에 발맞추어 새롭게 주목받고 있는 GTM(Go-To-Market) 엔지니어의 역할에 대해 논의가 이루어집니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "기업용 AI"
-   ]
-  },
-  {
-   "id": "b2ee31b267f4b81c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvv6im/new_in_llamacpp_decision_models/",
-   "source": "r/LocalLLaMA",
-   "title": "New in llama.cpp: Decision Models",
-   "published_at": "2026-10-02T14:25:06+00:00",
-   "collected_at": "2026-10-02T16:13:11.810518+00:00",
-   "title_ko": "llama.cpp, 결정 모델(Decision Models) 지원 추가",
-   "summary_ko": "llama.cpp에 새로운 결정 모델 기능이 추가되어 로컬 LLM 구동 시 유연성이 향상되었습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "반도체"
    ]
   }
  ]

@@ -31,6 +31,21 @@
   ]
  },
  {
+  "id": "a4136a362da2962f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxlytt/update_4_post_training_yandexaliceai80ba3b/",
+  "source": "r/LocalLLaMA",
+  "title": "Update #4: Post training yandex/AliceAI-80B-A3B [instruct!] from scratch",
+  "published_at": "2026-10-04T17:55:37+00:00",
+  "collected_at": "2026-10-04T18:05:45.322688+00:00",
+  "title_ko": "AliceAI-80B-A3B 로컬 파인튜닝 및 SFT 진행 상황",
+  "summary_ko": "로컬 환경에서 V100 GPU를 활용해 Qwen 기반의 에이전트 및 대화형 모델 AliceAI-80B-A3B의 SFT(사후 학습)를 성공적으로 완료함.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
   "id": "b6f323f1475ffd30",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215949",
   "source": "AI타임스",
@@ -44,6 +59,80 @@
    "Anthropic",
    "Claude",
    "코딩"
+  ]
+ },
+ {
+  "id": "b88eb4b5fc4a8789",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxl36c/built_a_quick_sub15ms_rust_clitui_to_pack_repos/",
+  "source": "r/LocalLLaMA",
+  "title": "Built a quick, sub-15ms Rust CLI/TUI to pack repos into prompts without burning 40k tokens on lockfiles and junk",
+  "published_at": "2026-10-04T17:18:56+00:00",
+  "collected_at": "2026-10-04T18:05:45.322688+00:00",
+  "title_ko": "불필요한 토큰 낭비를 줄이는 Rust 기반 리포지토리 패커 'repOx'",
+  "summary_ko": "잠금 파일이나 빌드 부산물 등을 제외하고 코드베이스를 빠르게 LLM 프롬프트에 담을 수 있는 15ms 미만의 Rust CLI 도구임.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "28564a12ec6dcc9a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxken1/qwen35_arch_implementation_in_fpga_fabric_for/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.5 arch implementation in FPGA fabric for 9B/27B INT4 models on relatively cheap eBay mining hardware",
+  "published_at": "2026-10-04T16:51:07+00:00",
+  "collected_at": "2026-10-04T18:05:45.322688+00:00",
+  "title_ko": "FPGA 하드웨어에서 Qwen3.5 9B/27B INT4 모델 구동 구현",
+  "summary_ko": "저렴한 중고 FPGA 채굴 하드웨어를 활용해 고성능 소형 LLM 인퍼런스를 테스트한 사례임.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "1408e6b179108102",
+  "url": "https://news.hada.io/topic?id=34766",
+  "source": "GeekNews",
+  "title": "Pi pod - 자체 서버의 샌드박스에서 pi 코딩 에이전트 실행하기",
+  "published_at": "2026-10-04T16:40:46+00:00",
+  "collected_at": "2026-10-04T18:05:59.825029+00:00",
+  "title_ko": "자체 서버에서 격리 실행하는 코딩 에이전트 'pi pod'",
+  "summary_ko": "자체 운영 서버의 샌드박스 환경에서 pi 코딩 에이전트를 안전하고 조합 가능하게 실행할 수 있는 오픈소스 프로젝트임.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "588f72556fe2eb23",
+  "url": "https://news.hada.io/topic?id=34765",
+  "source": "GeekNews",
+  "title": "Show GN: 안 쓰던 태블릿에 ChatGPT Dots가 사는 방을 만들었습니다 (Dots Room)",
+  "published_at": "2026-10-04T16:36:10+00:00",
+  "collected_at": "2026-10-04T18:05:59.825029+00:00",
+  "title_ko": "태블릿을 활용한 ChatGPT Dots 전용 공간 'Dots Room' 제작",
+  "summary_ko": "안 쓰는 안드로이드 태블릿을 활용해 ChatGPT의 메시지 알림과 상호작용을 시각적으로 보여주는 재미있는 개인 프로젝트임.",
+  "category": "참고",
+  "tags": [
+   "OpenAI"
+  ]
+ },
+ {
+  "id": "709d71452735acb2",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxjs47/a_strata_fork_for_ibm_ac922_running_qwen38fn_udq4/",
+  "source": "r/LocalLLaMA",
+  "title": "A Strata fork for IBM AC922 running Qwen3.8-FN UD-Q4_K_XL is doing up to 7,357 tk/s prefill and 113 tk/s decode",
+  "published_at": "2026-10-04T16:25:04+00:00",
+  "collected_at": "2026-10-04T18:05:45.322688+00:00",
+  "title_ko": "IBM AC922 서버에서 구동되는 Qwen3.8 포크 버전 성능",
+  "summary_ko": "구형 IBM 서버와 V100 GPU 환경에서 최적화를 거친 Qwen 모델이 높은 프리필 및 디코드 속도를 달성함.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "반도체"
   ]
  },
  {
@@ -77,6 +166,21 @@
   ]
  },
  {
+  "id": "d1bf81e605c70484",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxiy8y/i_trained_a_387b_moe_145b_active_from_scratch_on/",
+  "source": "r/LocalLLaMA",
+  "title": "I trained a 3.87B MoE (1.45B active) from scratch on only 86.5B tokens",
+  "published_at": "2026-10-04T15:50:54+00:00",
+  "collected_at": "2026-10-04T18:05:45.322688+00:00",
+  "title_ko": "소규모 토큰으로 제로베이스 학습한 3.87B MoE 모델 'Apex-2' 공개",
+  "summary_ko": "외부 베이스 가중치 없이 865억 개의 토큰만으로 완전히 새롭게 학습시킨 고효율 소형 MoE 모델임.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
   "id": "96ab97928b6bcc81",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=215952",
   "source": "AI타임스",
@@ -89,6 +193,66 @@
   "tags": [
    "반도체",
    "NVIDIA"
+  ]
+ },
+ {
+  "id": "9d0c22f847485ba9",
+  "url": "https://news.hada.io/topic?id=34763",
+  "source": "GeekNews",
+  "title": "Pop!_OS, 코드베이스 상당 부분에서 AI 생성 코드 금지",
+  "published_at": "2026-10-04T15:32:09+00:00",
+  "collected_at": "2026-10-04T18:05:59.825029+00:00",
+  "title_ko": "Pop!_OS, 코드베이스 상당 부분에 AI 생성 코드 금지 정책 도입",
+  "summary_ko": "코드 품질과 유지보수를 위해 운영 체제 코드베이스의 주요 영역에서 AI 생성 코드 사용을 제한하기로 함.",
+  "category": "중요",
+  "tags": [
+   "규제",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "cce795a81356e453",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxibor/how_long_before_we_have_a_local_model_capable_of/",
+  "source": "r/LocalLLaMA",
+  "title": "How long before we have a local model capable of modeling?",
+  "published_at": "2026-10-04T15:24:25+00:00",
+  "collected_at": "2026-10-04T18:05:45.322688+00:00",
+  "title_ko": "3D 모델링 작업에서 로컬 LLM의 현주소와 한계",
+  "summary_ko": "최신 로컬 오픈소스 모델들이 3D 모델링 분야에서 상용 최고급 모델에 비해 아직 크게 뒤처져 있음을 논의함.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "82766b523787d79c",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+  "source": "The Verge",
+  "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+  "published_at": "2026-10-04T15:21:59+00:00",
+  "collected_at": "2026-10-04T18:05:12.780115+00:00",
+  "title_ko": "스타크래프트 대결에서 인간 봇을 이기지 못한 AI의 편법 선택",
+  "summary_ko": "스타크래프트 AI 대회에서 주요 상용 모델들이 인간이 만든 최고 봇을 넘지 못하자 편법을 쓰게 된 해프닝을 다룸.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "Claude"
+  ]
+ },
+ {
+  "id": "062c049b478a145e",
+  "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+  "source": "TechCrunch",
+  "title": "Trump unveils his new Super Intelligence Force",
+  "published_at": "2026-10-04T15:15:10+00:00",
+  "collected_at": "2026-10-04T18:05:12.696397+00:00",
+  "title_ko": "트럼프 정부, AI 안전성 대응 위한 '슈퍼 인텔리전스 포스' 신설",
+  "summary_ko": "미국 트럼프 행정부가 AI 안전성 논의에 대응하기 위해 새로운 태스크포스인 '슈퍼 인텔리전스 포스'를 발족했습니다. 향후 국가 차원의 AI 규제 및 기술 패권 경쟁에 큰 영향을 미칠 전망입니다.",
+  "category": "속보",
+  "tags": [
+   "규제",
+   "미국"
   ]
  }
 ]
