@@ -1,8 +1,95 @@
 {
- "updated_at": "2026-10-04T18:06:10.794843+00:00",
+ "updated_at": "2026-10-04T21:18:34.949043+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "71b92d7d124804e8",
+   "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+   "source": "TechCrunch",
+   "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+   "published_at": "2026-10-04T20:31:07+00:00",
+   "collected_at": "2026-10-04T21:17:41.511213+00:00",
+   "title_ko": "구글, AI 생성 버그 리포트 급증으로 오픈소스 버그 바운티 일시 중단",
+   "summary_ko": "저품질 AI 생성 제출물이 폭증하면서 구글이 오픈소스 버그 바운티 프로그램을 일시 중단했습니다. AI 도입에 따른 보안 심사 부담 증가를 보여주는 사례입니다.",
+   "category": "중요",
+   "tags": [
+    "Google",
+    "보안",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "8a9c48729bde803b",
+   "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+   "source": "TechCrunch",
+   "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+   "published_at": "2026-10-04T20:08:34+00:00",
+   "collected_at": "2026-10-04T21:17:41.511213+00:00",
+   "title_ko": "'초지능'과 안전 협약은 AI의 이미지 문제를 해결할 수 있을까?",
+   "summary_ko": "트럼프 행정부의 AI 브랜딩 재구상 시도와 초지능 및 안전 규제에 대한 논의를 다뤘습니다. AI 정책과 대중적 인식의 변화를 엿볼 수 있습니다.",
+   "category": "참고",
+   "tags": [
+    "규제",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "ece4b083e1e7f9de",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxp21n/fully_local_little_parkour_sim/",
+   "source": "r/LocalLLaMA",
+   "title": "Fully local little parkour sim",
+   "published_at": "2026-10-04T20:00:53+00:00",
+   "collected_at": "2026-10-04T21:18:12.308942+00:00",
+   "title_ko": "로컬 환경에서 구동되는 GLM 5.3 Flash 기반 파쿠르 시뮬레이터",
+   "summary_ko": "개발자가 로컬 기기에서 GLM 5.3 Flash 모델을 활용해 3D 이해도가 높은 인터랙티브 시뮬레이션을 구현했습니다. 고성능 로컬 LLM 환경 구축의 가능성을 보여줍니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "fb514e83ae1ccc16",
+   "url": "https://github.com/omlahore/RemoveMacAI",
+   "source": "Hacker News",
+   "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+   "published_at": "2026-10-04T19:42:25+00:00",
+   "collected_at": "2026-10-04T21:17:55.586915+00:00",
+   "title_ko": "macOS에서 애플 인텔리전스 비활성화 및 디스크 공간 확보 방법",
+   "summary_ko": "macOS에서 Apple Intelligence 기능을 끄고 관련 디스크 공간을 회수할 수 있는 도구와 방법이 소개되었습니다. 로컬 AI 기능 사용에 대한 사용자 선택권을 넓혀줍니다.",
+   "category": "팁",
+   "tags": [
+    "Apple"
+   ]
+  },
+  {
+   "id": "5e45923da4119840",
+   "url": "https://news.hada.io/topic?id=34774",
+   "source": "GeekNews",
+   "title": "Show HN: macOS의 모든 사진과 동영상의 모든 프레임을 위한 AI 검색",
+   "published_at": "2026-10-04T19:37:48+00:00",
+   "collected_at": "2026-10-04T21:18:26.664674+00:00",
+   "title_ko": "macOS 사진 및 동영상 프레임용 로컬 AI 검색 앱 'SCM'",
+   "summary_ko": "맥(Mac) 내의 사진과 영상 속 텍스트, 장면, 대사를 자연어로 검색할 수 있는 로컬 우선 AI 앱입니다. 프라이버시를 보호하며 시각적 의미 검색을 제공합니다.",
+   "category": "팁",
+   "tags": [
+    "Apple",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "9b329af245bc133b",
+   "url": "https://news.hada.io/topic?id=34772",
+   "source": "GeekNews",
+   "title": "Show GN: LunarIQ — AI 번역이 되는 익명 텔레그램 채팅 봇",
+   "published_at": "2026-10-04T19:06:01+00:00",
+   "collected_at": "2026-10-04T21:18:26.664674+00:00",
+   "title_ko": "실시간 AI 번역 기능을 갖춘 익명 텔레그램 챗봇 'LunarIQ'",
+   "summary_ko": "서로 언어가 다른 사용자가 텔레그램에서 익명으로 대화할 때 AI가 실시간으로 번역해 주는 서비스입니다. 실생활 속 AI 번역 적용 사례를 보여줍니다.",
+   "category": "팁",
+   "tags": []
+  },
   {
    "id": "7fd710559d106a16",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215688",
@@ -35,6 +122,21 @@
    ]
   },
   {
+   "id": "fc2af08e47839622",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxma3a/micron_ceo_says_memory_supply_will_be_much/",
+   "source": "r/LocalLLaMA",
+   "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+   "published_at": "2026-10-04T18:08:12+00:00",
+   "collected_at": "2026-10-04T21:18:12.308942+00:00",
+   "title_ko": "마이크론 CEO \"2027~2028년 메모리 공급 더욱 타이트해질 것\"",
+   "summary_ko": "마이크론 최고경영자가 향후 AI 인프라 수요 증가로 인해 메모리 반도체 공급 부족이 심화될 것이라고 전망했습니다. AI 하드웨어 시장에 중요한 시그널입니다.",
+   "category": "중요",
+   "tags": [
+    "반도체",
+    "투자"
+   ]
+  },
+  {
    "id": "a4136a362da2962f",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxlytt/update_4_post_training_yandexaliceai80ba3b/",
    "source": "r/LocalLLaMA",
@@ -47,6 +149,21 @@
    "tags": [
     "오픈소스",
     "LLM"
+   ]
+  },
+  {
+   "id": "d1f3fee37969b455",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxlw2c/lfm25_26b_vs_minicpm5_2b/",
+   "source": "r/LocalLLaMA",
+   "title": "LFM2.5 2.6b vs MiniCPM5 2b",
+   "published_at": "2026-10-04T17:52:14+00:00",
+   "collected_at": "2026-10-04T21:18:12.308942+00:00",
+   "title_ko": "소형 에이전트 모델 비교: LFM2.5 2.6b 대 MiniCPM5 2b",
+   "summary_ko": "소형 언어 모델(SLM) 두 종의 웹 검색 및 에이전트 작업 성능을 비교한 결과입니다. LFM2.5가 더 적은 램을 사용하면서도 속도와 정렬 측면에서 우수한 성능을 보였습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
    ]
   },
   {
@@ -63,6 +180,33 @@
     "Anthropic",
     "Claude",
     "코딩"
+   ]
+  },
+  {
+   "id": "0951948f69a1dfdb",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxloam/benchmarking_decision_models_is_fun_clef_q8_vs_jev/",
+   "source": "r/LocalLLaMA",
+   "title": "Benchmarking decision models is fun - Clef Q8 vs Jev",
+   "published_at": "2026-10-04T17:43:17+00:00",
+   "collected_at": "2026-10-04T21:18:12.308942+00:00",
+   "title_ko": "의사결정 모델 벤치마킹 테스트",
+   "summary_ko": "다양한 AI 의사결정 모델들의 성능을 비교하고 벤치마킹하는 과정을 다룬 내용입니다. 실무 모델 선택에 참고할 만한 자료입니다.",
+   "category": "참고",
+   "tags": []
+  },
+  {
+   "id": "cac3cfd2164d016e",
+   "url": "https://news.hada.io/topic?id=34770",
+   "source": "GeekNews",
+   "title": "Meta가 Muse에서 잘한 것",
+   "published_at": "2026-10-04T17:40:24+00:00",
+   "collected_at": "2026-10-04T21:18:26.664674+00:00",
+   "title_ko": "메타(Meta)가 'Muse'를 통해 보여준 에이전트 UX의 강점",
+   "summary_ko": "메타가 복잡한 AI 기능을 하나의 직관적인 채팅 인터페이스 뒤로 숨겨 대중화를 노린 전략을 분석했습니다. 소비자용 AI 에이전트 디자인의 방향성을 제시합니다.",
+   "category": "참고",
+   "tags": [
+    "Meta",
+    "AI 에이전트"
    ]
   },
   {
@@ -483,6 +627,21 @@
    ]
   },
   {
+   "id": "567a67be41501d5c",
+   "url": "https://github.com/allenv0/SCM",
+   "source": "Hacker News",
+   "title": "Show HN: AI search for every photo and every frame of video on macOS",
+   "published_at": "2026-10-04T09:24:52+00:00",
+   "collected_at": "2026-10-04T21:17:55.586915+00:00",
+   "title_ko": "macOS의 모든 미디어 프레임을 검색하는 AI 도구 'SCM'",
+   "summary_ko": "사용자의 맥 컴퓨터 안에 있는 사진과 비디오의 모든 프레임을 AI로 분석해 자연어로 찾아주는 오픈소스 로컬 검색 도구입니다.",
+   "category": "팁",
+   "tags": [
+    "Apple",
+    "오픈소스"
+   ]
+  },
+  {
    "id": "2526dd267918d61f",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215947",
    "source": "AI타임스",
@@ -526,6 +685,18 @@
     "LLM",
     "번역"
    ]
+  },
+  {
+   "id": "e6dc84249acd95a1",
+   "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
+   "source": "Hacker News",
+   "title": "What's the future for pure math research in the age of AI?",
+   "published_at": "2026-10-04T07:53:45+00:00",
+   "collected_at": "2026-10-04T21:18:11.414898+00:00",
+   "title_ko": "AI 시대 순수 수학 연구의 미래는 어떻게 될까?",
+   "summary_ko": "스티븐 울프럼이 AI 발전이 순수 수학 연구에 미칠 영향과 앞으로의 전망을 고찰했습니다. 학계와 AI의 융합 방향을 보여줍니다.",
+   "category": "참고",
+   "tags": []
   },
   {
    "id": "9a0951d9c833464f",
@@ -2802,186 +2973,6 @@
    "tags": [
     "규제",
     "반도체"
-   ]
-  },
-  {
-   "id": "69dbabc8e09c1575",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215919",
-   "source": "AI타임스",
-   "title": "업스테이지, 판단 전용 AI ‘솔라 디사이드’ 출시…“제브보다 빠르고 정확”",
-   "published_at": "2026-10-02T17:08:12+00:00",
-   "collected_at": "2026-10-02T09:38:22.963135+00:00",
-   "title_ko": "업스테이지, 판단 전용 AI '솔라 디사이드' 출시",
-   "summary_ko": "업스테이지가 솔라 미니 4를 기반으로 구조적 의사결정을 내리는 판단 전용 AI '솔라 디사이드'를 출시했다. AI 에이전트의 효율적 의사결정을 돕는다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "a84fd7ae93e80a59",
-   "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
-   "source": "TechCrunch",
-   "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-   "published_at": "2026-10-02T17:00:00+00:00",
-   "collected_at": "2026-10-02T21:16:15.051065+00:00",
-   "title_ko": "AI의 심리적 부작용 방지 연구하는 서킷 브레이커 Labs",
-   "summary_ko": "서킷 브레이커 Labs가 AI가 사용자에게 미치는 심리적 피해를 방지하기 위한 안전 테스트 도구를 개발했습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "보안"
-   ]
-  },
-  {
-   "id": "0f0df96ad085f0a9",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215928",
-   "source": "AI타임스",
-   "title": "[게시판] KT, 소상공인 플랫폼 ‘사장이지’에 AI면접 서비스 출시 등 단신",
-   "published_at": "2026-10-02T17:00:00+00:00",
-   "collected_at": "2026-10-02T16:13:25.035774+00:00",
-   "title_ko": "KT, 소상공인 플랫폼에 AI 면접 서비스 도입",
-   "summary_ko": "KT가 소상공인 플랫폼 '사장이지'에 채용 부담을 덜어주는 AI 면접 기능을 새롭게 출시했습니다.",
-   "category": "속보",
-   "tags": [
-    "KT",
-    "AI 에이전트",
-    "HR"
-   ]
-  },
-  {
-   "id": "595f7078fe7eb9e5",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215920",
-   "source": "AI타임스",
-   "title": "[게시판] LG유플러스, 옵트에이아이와 AI 모델 경량화 협력 등 단신",
-   "published_at": "2026-10-02T17:00:00+00:00",
-   "collected_at": "2026-10-02T09:38:22.963135+00:00",
-   "title_ko": "LG유플러스, 옵트에이아이와 AI 모델 경량화 협력",
-   "summary_ko": "LG유플러스가 옵트에이아이와 협력해 엑사원 기반 모델의 경량화 및 토큰 최적화 기술을 확보했다. NPU 환경에서 전력 소모를 크게 줄였다.",
-   "category": "속보",
-   "tags": [
-    "반도체",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "caa31b15727e547c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvz1ex/i_made_my_iphone_a_second_gpu_for_my_24_gb/",
-   "source": "r/LocalLLaMA",
-   "title": "I made my iPhone a second GPU for my 24 GB MacBook: Qwen 3.8 27B prefills 29–44% faster & my holds part of the CTX window.",
-   "published_at": "2026-10-02T16:59:22+00:00",
-   "collected_at": "2026-10-02T21:16:47.253933+00:00",
-   "title_ko": "아이폰을 맥의 보조 GPU로 활용해 Qwen 모델 구동하기",
-   "summary_ko": "맥북의 부족한 메모리와 연산 능력을 보완하기 위해 아이폰을 USB-C 케이블로 연결해 LLM 프리필 성능을 높인 로컬 실행 팁입니다.",
-   "category": "팁",
-   "tags": [
-    "반도체",
-    "LLM",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "87daed1bde007464",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215914",
-   "source": "AI타임스",
-   "title": "\"콜센터 AI 말 끊어도 알아듣는다\"...포지큐브, 차세대 AICC 개발",
-   "published_at": "2026-10-02T16:57:37+00:00",
-   "collected_at": "2026-10-02T09:38:22.963135+00:00",
-   "title_ko": "포지큐브, 말 끊어도 대화하는 차세대 AICC 개발",
-   "summary_ko": "포지큐브가 중기부 딥테크 트랙에 선정되어 음성 LLM 기반의 풀 듀플렉스 차세대 AI 컨택센터 플랫폼 개발에 착수했다. 콜센터 상담의 자연스러움을 대폭 개선할 예정이다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "8af6357416d73aee",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvyxzg/new_64gb_dgx_spark_significantly_higher_price_for/",
-   "source": "r/LocalLLaMA",
-   "title": "New 64GB DGX Spark. Significantly higher price for the original 128GB model $6,950 USD",
-   "published_at": "2026-10-02T16:55:32+00:00",
-   "collected_at": "2026-10-02T21:16:47.253933+00:00",
-   "title_ko": "신형 64GB DGX Spark 출시 및 가격 변동 소식",
-   "summary_ko": "오리지널 128GB 모델에 비해 가격이 인상된 새로운 64GB DGX Spark 모델 관련 하드웨어 소식입니다.",
-   "category": "참고",
-   "tags": [
-    "반도체",
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "b65bac08a8825590",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215921",
-   "source": "AI타임스",
-   "title": "에스티엔인포텍, 크레도와 한국 시장 총판 계약 체결",
-   "published_at": "2026-10-02T16:50:39+00:00",
-   "collected_at": "2026-10-02T09:38:22.963135+00:00",
-   "title_ko": "에스티엔인포텍, 크레도와 한국 시장 총판 계약",
-   "summary_ko": "에스티엔인포텍이 미국 반도체 기업 크레도와 고속 연결 솔루션 및 AEC 국내 총판 계약을 체결했다. AI 데이터센터 인프라 수요 대응을 위한 조치다.",
-   "category": "참고",
-   "tags": [
-    "반도체"
-   ]
-  },
-  {
-   "id": "689da11973a6dec4",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215918",
-   "source": "AI타임스",
-   "title": "백악관에 모인 AI 수장들…젠슨 황·저커버그, 아모데이에 '질문 세례'",
-   "published_at": "2026-10-02T16:44:15+00:00",
-   "collected_at": "2026-10-02T09:38:22.963135+00:00",
-   "title_ko": "백악관 AI 오찬서 앤트로픽 향한 빅테크 수장들 질문 쏟아져",
-   "summary_ko": "미국 백악관에서 열린 AI 기업 CEO 오찬에서 젠슨 황과 마크 저커버그 등 주요 인물들이 다리오 아모데이 앤트로픽 CEO에게 질문을 집중하며 비공개 신경전이 벌어졌다.",
-   "category": "참고",
-   "tags": [
-    "NVIDIA",
-    "OpenAI",
-    "Anthropic"
-   ]
-  },
-  {
-   "id": "8ea11f848402f971",
-   "url": "https://news.hada.io/topic?id=34673",
-   "source": "GeekNews",
-   "title": "AI는 나를 슬프게 한다",
-   "published_at": "2026-10-02T16:43:09+00:00",
-   "collected_at": "2026-10-02T21:17:02.102411+00:00",
-   "title_ko": "AI 시대를 맞이하는 개발자들의 심리적 불안과 고찰",
-   "summary_ko": "코딩 에이전트의 발전으로 개발자들이 통제권과 창의성을 잃고 직업적 회의감을 느끼는 현상에 대한 단상입니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "d8e914047ff640f1",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvy8v4/rtx_spark_laptops_and_mini_desktops_rumored_to/",
-   "source": "r/LocalLLaMA",
-   "title": "RTX Spark laptops and mini desktops rumored to launch Oct 7th (24GB to 128GB variants possibly)",
-   "published_at": "2026-10-02T16:26:47+00:00",
-   "collected_at": "2026-10-02T21:16:47.253933+00:00",
-   "title_ko": "RTX Spark 노트북 및 미니 PC 10월 7일 출시 루머",
-   "summary_ko": "DGX Spark와사 유사한 구성을 갖춘 RTX Spark 기반의 하드웨어가 10월 초에 1,800달러~2,900달러 가격대로 출시될 것이라는 루머입니다.",
-   "category": "속보",
-   "tags": [
-    "반도체",
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "e1b5f2ba467b52ac",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215911",
-   "source": "AI타임스",
-   "title": "캘리포니아, AI만으로 직원 해고·징계 못한다…뉴섬 주지사 법안 서명",
-   "published_at": "2026-10-02T16:25:00+00:00",
-   "collected_at": "2026-10-02T09:38:22.963135+00:00",
-   "title_ko": "캘리포니아주, AI 단독 해고·징계 금지 법안 통과",
-   "summary_ko": "캘리포니아주가 기업이 AI 자동화 시스템의 결과만으로 직원을 해고하거나 징계하는 것을 금지하는 '노 로보 보스' 법안에 서명했다. AI 인사 관리의 규제 선례가 될 전망이다.",
-   "category": "중요",
-   "tags": [
-    "규제"
    ]
   }
  ]
