@@ -15,6 +15,21 @@
   ]
  },
  {
+  "id": "3c81f95af8a58076",
+  "url": "https://news.hada.io/topic?id=34893",
+  "source": "GeekNews",
+  "title": "Show GN: agent-gc – AI 코딩 에이전트가 남긴 worktree 쓰레기를 치워주는 TUI",
+  "published_at": "2026-10-06T14:41:21+00:00",
+  "collected_at": "2026-10-06T22:36:46.909734+00:00",
+  "title_ko": "AI 코딩 에이전트가 남긴 워크트리 정리 도구 'agent-gc' 등장",
+  "summary_ko": "클로드 코드 등 AI 에이전트를 활용하면서 쌓이는 불필요한 빌드 파일과 워크트리 쓰레기를 정리해 주는 TUI 도구입니다. 디스크 공간 부족 문제를 해결해 실무 개발에 유용합니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
   "id": "350565f92a3283aa",
   "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
   "source": "TechCrunch",
@@ -70,6 +85,22 @@
   "tags": [
    "Mistral",
    "오픈소스"
+  ]
+ },
+ {
+  "id": "136a6c0533c93839",
+  "url": "https://news.hada.io/topic?id=34890",
+  "source": "GeekNews",
+  "title": "Mistral Large 4 발표 - 코딩·보안·시각 이해를 강화한 1조 파라미터 오픈웨이트 모델",
+  "published_at": "2026-10-06T13:38:19+00:00",
+  "collected_at": "2026-10-06T22:36:46.909734+00:00",
+  "title_ko": "미스트랄, 1조 파라미터 오픈웨이트 모델 'Mistral Large 4' 발표",
+  "summary_ko": "미스트랄이 코딩과 보안 성능을 강화한 1조 파라미터 규모의 멀티모달 오픈웨이트 모델을 공개했습니다. 100만 토큰 문맥을 지원하며 코딩 에이전트 평가에서 우수한 성적을 거두었습니다.",
+  "category": "속보",
+  "tags": [
+   "Mistral",
+   "오픈소스",
+   "코딩"
   ]
  },
  {
@@ -130,6 +161,21 @@
   ]
  },
  {
+  "id": "19f60d6a269407e1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz1pqn/qwen_4_apparently_coming_out_at_the_end_of_october/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen 4 apparently coming out at the end of October",
+  "published_at": "2026-10-06T12:48:19+00:00",
+  "collected_at": "2026-10-06T22:36:32.466768+00:00",
+  "title_ko": "알리바바, 차세대 'Qwen 4' 10월 말 출시 전망",
+  "summary_ko": "알리바바 파트너를 통해 차세대 대형 언어 모델 Qwen 4가 10월 말 출시될 것이라는 소식이 전해졌습니다. 예상보다 빠른 개발 속도로 연내 다양한 파생 모델 등장에 대한 기대를 모으고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "AI"
+  ]
+ },
+ {
   "id": "0deb4c64392c3b7c",
   "url": "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/",
   "source": "Hacker News",
@@ -160,6 +206,22 @@
   ]
  },
  {
+  "id": "2aec03cbf79d82b0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz00vv/microsoft_confirms_openai_has_been_using_looped/",
+  "source": "r/LocalLLaMA",
+  "title": "Microsoft confirms OpenAI has been using Looped Transformers in the GPT-6 series",
+  "published_at": "2026-10-06T11:21:30+00:00",
+  "collected_at": "2026-10-06T22:36:32.466768+00:00",
+  "title_ko": "마이크로소프트, 오픈AI GPT-6 시리즈의 '루프 트랜스포머' 적용 확인",
+  "summary_ko": "마이크로소프트가 공개한 문서를 통해 오픈AI의 GPT-6 시리즈가 '루프 트랜스포머' 구조를 채택해 다중 추론 패스를 거친다는 사실이 확인되었습니다. 차세대 아키텍처 방향성을 보여주는 중요한 소식입니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "GPT",
+   "반도체"
+  ]
+ },
+ {
   "id": "8ca18ac8317baa79",
   "url": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
   "source": "The Verge",
@@ -172,6 +234,36 @@
   "tags": [
    "AI 에이전트",
    "음성 인식"
+  ]
+ },
+ {
+  "id": "166839276902edb6",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyzef4/tencent_releases_octop_a_selfhosted_ai_assistant/",
+  "source": "r/LocalLLaMA",
+  "title": "Tencent releases Octop, a self-hosted AI assistant",
+  "published_at": "2026-10-06T10:45:43+00:00",
+  "collected_at": "2026-10-06T22:36:32.466768+00:00",
+  "title_ko": "텐센트, 셀프 호스팅 가능한 오픈소스 AI 어시스턴트 'Octop' 공개",
+  "summary_ko": "텐센트가 멀티에이전트 아키텍처 기반의 셀프 호스팅형 오픈소스 AI 어시스턴트 Octop을 출시했습니다. 로컬 환경에서 구동되어 프라이버시를 보호하면서 팀과 개인의 협업을 지원합니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "9964af802e9c5fde",
+  "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+  "source": "OpenAI",
+  "title": "Advancing computer use with Ironclad",
+  "published_at": "2026-10-06T10:00:00+00:00",
+  "collected_at": "2026-10-06T22:36:07.663065+00:00",
+  "title_ko": "오픈AI, 아이언클래드와 복잡한 계약 업무 AI 에이전트 협력 발표",
+  "summary_ko": "오픈AI가 계약 관리 전문 기업 아이언클래드와 손잡고 전문적인 계약 워크플로우를 처리하는 AI 에이전트 능력을 고도화합니다. 컴퓨터 제어(Computer Use) 기술의 실무 적용 범위를 넓히는 계기가 됩니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트"
   ]
  },
  {
