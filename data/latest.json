@@ -1,8 +1,190 @@
 {
- "updated_at": "2026-10-05T22:32:48.099054+00:00",
+ "updated_at": "2026-10-06T02:54:00.788343+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "7e157490c8e72564",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyrjmh/set_your_pdoom_on_hf/",
+   "source": "r/LocalLLaMA",
+   "title": "Set your P(doom) on HF",
+   "published_at": "2026-10-06T02:43:16+00:00",
+   "collected_at": "2026-10-06T02:53:35.385378+00:00",
+   "title_ko": "허깅페이스 인공지능 종말 확률 설정 기능 등장",
+   "summary_ko": "허깅페이스(Hugging Face)에 AI의 파멸 확률(P(doom))을 설정할 수 있는 기능이 등장했습니다.",
+   "category": "참고",
+   "tags": [
+    "Hugging Face",
+    "규제"
+   ]
+  },
+  {
+   "id": "efa037c47589e3bd",
+   "url": "https://news.hada.io/topic?id=34856",
+   "source": "GeekNews",
+   "title": "ChatGPT, 가짜 뉴요커 만화에 실제 만화가의 서명까지 넣음",
+   "published_at": "2026-10-06T00:33:25+00:00",
+   "collected_at": "2026-10-06T02:53:49.703451+00:00",
+   "title_ko": "ChatGPT, 실제 만화가 서명 도용 논란",
+   "summary_ko": "ChatGPT가 생성한 가짜 뉴요커 스타일 만화에 실제 만화가들의 서명이 무단으로 포함되어 논란이 되고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "GPT",
+    "규제"
+   ]
+  },
+  {
+   "id": "e0af25ba2bf786ad",
+   "url": "https://news.hada.io/topic?id=34854",
+   "source": "GeekNews",
+   "title": "OpenRig - Claude Code와 Codex를 팀으로 운영하는 멀티 에이전트 오케스트레이터",
+   "published_at": "2026-10-06T00:30:02+00:00",
+   "collected_at": "2026-10-06T02:53:49.703451+00:00",
+   "title_ko": "멀티 코딩 에이전트 오케스트레이터 OpenRig 공개",
+   "summary_ko": "Claude Code와 Codex 등을 팀으로 묶어 공동으로 코딩 작업을 수행할 수 있게 해주는 오픈소스 멀티 에이전트 도구가 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "Claude",
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "8cdbe6dd3a7937a2",
+   "url": "https://news.hada.io/topic?id=34853",
+   "source": "GeekNews",
+   "title": "Claude가 그러는데",
+   "published_at": "2026-10-06T00:11:45+00:00",
+   "collected_at": "2026-10-06T02:53:49.703451+00:00",
+   "title_ko": "LLM 답변 의존에 따른 전문성 저하 우려",
+   "summary_ko": "업무에서 LLM의 답변에만 의존할 경우 개인의 전문성과 소통의 신뢰성이 저하될 수 있다는 지적입니다.",
+   "category": "참고",
+   "tags": [
+    "LLM"
+   ]
+  },
+  {
+   "id": "cbee4f83437993a6",
+   "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
+   "source": "Simon Willison",
+   "title": "Quoting Felix Rieseberg",
+   "published_at": "2026-10-05T23:56:47+00:00",
+   "collected_at": "2026-10-06T02:53:34.527589+00:00",
+   "title_ko": "클로드 코워크, 클라우드 기반 샌드박스로 개편",
+   "summary_ko": "Anthropic이 로컬 VM 구동 방식의 자원 소모 문제를 해결하기 위해 Claude Cowork의 모델 추론과 가상머신을 클라우드 기반으로 전환했습니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "Claude"
+   ]
+  },
+  {
+   "id": "787f233df6c87adf",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wynppg/less_talk_more_breakout_kolibri1_turns/",
+   "source": "r/LocalLLaMA",
+   "title": "Less Talk. More Breakout: Kolibri-1 Turns Probabilities into Actions, Playing Breakout - With under 25ms latency per move.",
+   "published_at": "2026-10-05T23:35:19+00:00",
+   "collected_at": "2026-10-06T02:53:35.385378+00:00",
+   "title_ko": "Kolibri-1 모델, 25ms 미만 지연 시간으로 벽돌깨기 게임 플레이",
+   "summary_ko": "파인튜닝 없이 구조화된 출력 능력을 활용해 Kolibri-1 모델이 초저지연으로 벽돌깨기 게임을 스스로 플레이하는 실험이 공개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "3c7e89df6a817b41",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wynomx/k_llamacpp_moe_optimizations_expert_residency/",
+   "source": "r/LocalLLaMA",
+   "title": "k_llama.cpp MoE Optimizations: Expert Residency, Hybrid CPU/GPU Execution, Q2_0 Support",
+   "published_at": "2026-10-05T23:33:54+00:00",
+   "collected_at": "2026-10-06T02:53:35.385378+00:00",
+   "title_ko": "llama.cpp 혼합 실행 및 MoE 최적화 포크 공개",
+   "summary_ko": "대형 언어 모델의 성능 향상을 위해 CPU/GPU 하이브리드 실행과 전문가 상주(Expert Residency) 기능을 적용한 llama.cpp 포크가 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "반도체",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "05a04bd20601ec39",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wynbvq/a_benchmark_for_llms_playing_civilization_v_glm53/",
+   "source": "r/LocalLLaMA",
+   "title": "A benchmark for LLMs playing Civilization V. GLM-5.3 is ahead of Opus-5.5, and Qwen-3.8-27B holds up surprisingly well.",
+   "published_at": "2026-10-05T23:16:48+00:00",
+   "collected_at": "2026-10-06T02:53:35.385378+00:00",
+   "title_ko": "문명 5 게임 기반 LLM 성능 벤치마크 공개",
+   "summary_ko": "턴제 전략 게임인 문명 5를 통해 대형 언어 모델들의 전략적 의사결정 능력을 측정하는 벤치마크 결과가 공개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "LLM"
+   ]
+  },
+  {
+   "id": "f96eb5478801166b",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+   "source": "The Verge",
+   "title": "Gemini Call for Me might tell your mom you’re running late",
+   "published_at": "2026-10-05T23:09:55+00:00",
+   "collected_at": "2026-10-06T02:53:04.875434+00:00",
+   "title_ko": "구글 제미나이 'Call for Me' 기능 확장",
+   "summary_ko": "구글이 비즈니스 통화용이던 'Call for Me' AI 기능을 확장하여 가족이나 친구에게 메시지를 전달하는 용도로도 활용할 수 있게 개발 중입니다.",
+   "category": "속보",
+   "tags": [
+    "Google",
+    "Gemini",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "ed62d7055b56886e",
+   "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+   "source": "Hacker News",
+   "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+   "published_at": "2026-10-05T22:46:45+00:00",
+   "collected_at": "2026-10-06T02:53:19.293048+00:00",
+   "title_ko": "ChatGPT, 가짜 뉴요커 만화에 실제 작가 서명 도용 논란",
+   "summary_ko": "ChatGPT가 생성한 가짜 만화에 실제 작가들의 서명을 무단으로 추가해 저작권 및 윤리적 논란이 일고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "ChatGPT",
+    "저작권"
+   ]
+  },
+  {
+   "id": "a4c9a7d3631451b2",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wymgu6/pewdiepie_getting_banned_twice_by_openai_while/",
+   "source": "r/LocalLLaMA",
+   "title": "PewDiePie getting banned twice by OpenAI while making a local model is top-tier comedy 💀",
+   "published_at": "2026-10-05T22:37:19+00:00",
+   "collected_at": "2026-10-06T02:53:35.385378+00:00",
+   "title_ko": "퓨디파이, 오픈AI API로 학습 데이터 만들다 계정 차단 소동",
+   "summary_ko": "유튜버 퓨디파이가 오픈AI API 출력값으로 로컬 모델을 학습시키다 약관 위반으로 두 차례 차단당한 후 오픈소스 도구로 전환해 로컬 에이전트를 구축했습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "오픈소스",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "6f58e2614f31d289",
+   "url": "https://news.hada.io/topic?id=34847",
+   "source": "GeekNews",
+   "title": "Opus 5.5 에이전트, 차세대 메모리용 상온 자성 반도체 후보 두 가지 발견",
+   "published_at": "2026-10-05T22:36:17+00:00",
+   "collected_at": "2026-10-06T02:53:49.703451+00:00",
+   "title_ko": "클로드 에이전트, 차세대 메모리용 반도체 후보 물질 발견",
+   "summary_ko": "Claude Opus 5.5 기반 에이전트 팀이 차세대 메모리에 활용할 수 있는 상온 자성 반도체 후보 두 가지를 새롭게 발견했습니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "AI 에이전트",
+    "반도체"
+   ]
+  },
   {
    "id": "75e3010c93360c36",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wym8z3/introducing_beam_reflections_501b_openweight/",
@@ -16,6 +198,36 @@
    "tags": [
     "오픈소스",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "bc25a570a71178c8",
+   "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+   "source": "Ars Technica",
+   "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+   "published_at": "2026-10-05T22:26:35+00:00",
+   "collected_at": "2026-10-06T02:53:17.362516+00:00",
+   "title_ko": "에이전트 간 통신 프로토콜 MCP의 보안 취약점 대두",
+   "summary_ko": "새로운 에이전트 통신 프로토콜인 MCP에서 악성 프롬프트가 에이전트 간에 전파될 수 있는 보안 공백이 지적되었습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "보안"
+   ]
+  },
+  {
+   "id": "2ac688ca159fcd90",
+   "url": "https://qlabs.sh/research/dust",
+   "source": "Hacker News",
+   "title": "Dust: Pretraining Transformers Without Backpropagation",
+   "published_at": "2026-10-05T21:15:07+00:00",
+   "collected_at": "2026-10-06T02:53:19.293048+00:00",
+   "title_ko": "역전파 없는 트랜스포머 사전학습 연구 'Dust' 공개",
+   "summary_ko": "역전파(Backpropagation) 과정 없이 트랜스포머 모델을 사전학습하는 새로운 연구 방법론이 발표되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "머신러닝"
    ]
   },
   {
@@ -815,6 +1027,21 @@
    ]
   },
   {
+   "id": "30200cf66f7b7f4b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wy7wn0/agens_volundr_32b_preview_our_small_teams_first/",
+   "source": "r/LocalLLaMA",
+   "title": "Agens Volundr 32B Preview: our small team's first model on our own hybrid architecture. Only 18 of 72 layers keep a KV cache (Apache-2.0)",
+   "published_at": "2026-10-05T12:58:57+00:00",
+   "collected_at": "2026-10-06T02:53:35.385378+00:00",
+   "title_ko": "하이브리드 아키텍처 적용 32B 모델 'Agens Volundr' 공개",
+   "summary_ko": "KV 캐시 최적화를 위해 독자적인 하이브리드 아키텍처를 적용한 32B 규모의 로컬 모델 프리뷰 버전이 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
    "id": "bc41d95a41e53b0c",
    "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
    "source": "Hacker News",
@@ -935,6 +1162,22 @@
    ]
   },
   {
+   "id": "d46db3189beef239",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wy55p2/clef_flash_plays_snake_in_real_time_on_rtx_5080/",
+   "source": "r/LocalLLaMA",
+   "title": "Clef Flash plays Snake in Real Time on RTX 5080",
+   "published_at": "2026-10-05T10:33:28+00:00",
+   "collected_at": "2026-10-06T02:53:35.385378+00:00",
+   "title_ko": "9B 로컬 모델 'Clef Flash', 별도 학습 없이 실시간 스네이크 게임 플레이",
+   "summary_ko": "추가 학습이나 게임 상태 해킹 없이 프롬프트 지시만으로 로컬 소형 모델이 실시간 게임을 플레이하는 시연이 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "NVIDIA",
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
    "id": "b4bbf15545b47fc5",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215965",
    "source": "AI타임스",
@@ -977,6 +1220,21 @@
    "tags": [
     "Google",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "5f56a7143264f086",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wy3y4t/you_can_now_try_aleph_alphas_kolibri_78b_for_free/",
+   "source": "r/LocalLLaMA",
+   "title": "You can now try Aleph Alpha's Kolibri 78B for free online here.",
+   "published_at": "2026-10-05T09:16:31+00:00",
+   "collected_at": "2026-10-06T02:53:35.385378+00:00",
+   "title_ko": "알레프 알파, 'Kolibri 78B' 모델 무료 온라인 공개",
+   "summary_ko": "유럽의 AI 기업 알레프 알파의 대형 언어 모델 Kolibri 78B를 온라인에서 무료로 체험할 수 있게 되었습니다.",
+   "category": "속보",
+   "tags": [
+    "LLM",
+    "오픈소스"
    ]
   },
   {
@@ -1036,6 +1294,22 @@
    "tags": [
     "LLM",
     "투자"
+   ]
+  },
+  {
+   "id": "b82bd485fd9d1ced",
+   "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+   "source": "Hacker News",
+   "title": "Anthropic reported diary entry to police, woman faces felony charge",
+   "published_at": "2026-10-05T05:37:40+00:00",
+   "collected_at": "2026-10-06T02:53:19.293048+00:00",
+   "title_ko": "앤트로픽, 클로드 일기 내용 경찰에 신고해 사용자 중범죄 기소",
+   "summary_ko": "사용자가 Claude 일기장에 작성한 범죄 암시 내용을 앤트로픽 측이 경찰에 신고하면서 사용자가 중범죄로 기소되는 사건이 발생했습니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "규제",
+    "보안"
    ]
   },
   {
@@ -2712,272 +2986,6 @@
    "tags": [
     "Anthropic",
     "규제"
-   ]
-  },
-  {
-   "id": "523bb995812d12d8",
-   "url": "https://www.astralcodexten.com/p/our-ai-midwife",
-   "source": "Hacker News",
-   "title": "Our AI Midwife",
-   "published_at": "2026-10-03T19:12:27+00:00",
-   "collected_at": "2026-10-04T00:29:50.539508+00:00",
-   "title_ko": "의료 분야에서의 AI 역할에 대한 고찰",
-   "summary_ko": "출산 및 의료 보조 과정에서 AI 기술이 미치는 영향과 윤리적 의미를 다룬 글입니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "7845bb1c2f8c0456",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwv0fj/i_built_ninfer_4080_for_16gb_class_gpus/",
-   "source": "r/LocalLLaMA",
-   "title": "I built Ninfer 4080 for 16GB class GPUs",
-   "published_at": "2026-10-03T18:58:58+00:00",
-   "collected_at": "2026-10-03T21:07:12.120627+00:00",
-   "title_ko": "16GB GPU 전용 고성능 LLM 추론기 공개",
-   "summary_ko": "16GB VRAM을 가진 RTX 4080 등에서 대형 모델을 고속으로 구동할 수 있는 커스텀 추론 엔진이 공개되었습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "eeadd6bf8f2bfdef",
-   "url": "https://news.hada.io/topic?id=34723",
-   "source": "GeekNews",
-   "title": "Show HN: 오픈소스 LEGO AI 생성기를 만들었습니다",
-   "published_at": "2026-10-03T18:32:50+00:00",
-   "collected_at": "2026-10-03T21:07:26.799921+00:00",
-   "title_ko": "AI 에이전트 기반 LEGO 모델 자동 생성기",
-   "summary_ko": "사용자의 아이디어를 바탕으로 AI 에이전트가 직접 LEGO 부품 설계와 스크립트를 생성하는 오픈소스 프로젝트입니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "fc994d69ad09d9fe",
-   "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
-   "source": "Hacker News",
-   "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-   "published_at": "2026-10-03T18:29:30+00:00",
-   "collected_at": "2026-10-04T00:29:49.940099+00:00",
-   "title_ko": "오푸스 5.5 모델 활용 가이드 및 팁",
-   "summary_ko": "클로드(Claude)와 클로드 코드에서 오푸스 모델의 성능을 최대한 끌어올리기 위한 실무 가이드입니다.",
-   "category": "팁",
-   "tags": [
-    "Claude",
-    "코딩"
-   ]
-  },
-  {
-   "id": "2f1a3a9edbdd53b9",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwu6zj/the_rise_of_overfit_inference_engines/",
-   "source": "r/LocalLLaMA",
-   "title": "The Rise of Overfit Inference Engines",
-   "published_at": "2026-10-03T18:24:42+00:00",
-   "collected_at": "2026-10-03T21:07:12.120627+00:00",
-   "title_ko": "특화형 고성능 AI 추론 엔진의 부상",
-   "summary_ko": "범용성을 포기하고 특정 하드웨어와 모델에 최적화하여 성능을 극대화하는 새로운 형태의 추론 런타임들이 주목받고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "c6ffb2f15ccedb33",
-   "url": "https://metedata.substack.com/p/what-meta-got-right-with-muse",
-   "source": "Hacker News",
-   "title": "What Meta got right with Muse",
-   "published_at": "2026-10-03T18:23:48+00:00",
-   "collected_at": "2026-10-04T18:05:30.359000+00:00",
-   "title_ko": "메타의 Muse 모델이 거둔 성공 요인 분석",
-   "summary_ko": "메타의 AI 모델 Muse가 거둔 기술적 성과와 업계에서의 의의를 심층적으로 분석한 글입니다.",
-   "category": "참고",
-   "tags": [
-    "Meta",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "7835b7d998dec901",
-   "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
-   "source": "Hacker News",
-   "title": "Pop!_OS bans AI-generated code from much of its codebase",
-   "published_at": "2026-10-03T17:57:03+00:00",
-   "collected_at": "2026-10-03T21:07:11.202665+00:00",
-   "title_ko": "Pop!_OS, 주요 소스코드에 AI 생성 코드 금지",
-   "summary_ko": "시스템76이 자사 운영체제 코어의 상당수 코드베이스에 AI가 생성한 코드의 사용을 공식 금지했습니다.",
-   "category": "중요",
-   "tags": [
-    "규제",
-    "코딩"
-   ]
-  },
-  {
-   "id": "8b1e323a22934d31",
-   "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-   "source": "Hacker News",
-   "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-   "published_at": "2026-10-03T17:44:29+00:00",
-   "collected_at": "2026-10-04T00:29:50.539508+00:00",
-   "title_ko": "얀 르쿤, 'AI 인류 멸망론'에 대해 전혀 우려하지 않는다",
-   "summary_ko": "메타의 얀 르쿤 chief AI scientist가 최근 AI의 위험성 및 인류 멸망 시나리오에 대해 기우라고 일축했습니다.",
-   "category": "중요",
-   "tags": [
-    "Meta",
-    "규제"
-   ]
-  },
-  {
-   "id": "638bd5d8acbdc4a4",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwt19n/flash_next_rig_born_from_mining_parts/",
-   "source": "r/LocalLLaMA",
-   "title": "Flash next rig born from mining parts.",
-   "published_at": "2026-10-03T17:36:49+00:00",
-   "collected_at": "2026-10-03T21:07:12.120627+00:00",
-   "title_ko": "중고 채굴 부품으로 고성능 LLM 장비 구축",
-   "summary_ko": "구형 채굴용 그래픽카드를 조합하고 전용 추론 엔진을 활용해 대형 모델 구동 성능을 대폭 끌어올린 사례입니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "58c4edc67199b5c7",
-   "url": "https://www.reddit.com/r/singularity/comments/1wwt0nh/dragon_ball_fighterz_was_a_fighting_game_ai/",
-   "source": "r/singularity",
-   "title": "Dragon Ball FighterZ was a fighting game. AI reverse-engineered it and turned it into an MMO, this is what happens when finished games become editable foundations",
-   "published_at": "2026-10-03T17:36:06+00:00",
-   "collected_at": "2026-10-04T00:30:04.393828+00:00",
-   "title_ko": "AI로 격투게임을 MMO로 역설계해 개조",
-   "summary_ko": "AI를 활용해 완성된 게임의 구조를 분석하고 전혀 다른 장르의 게임으로 확장하는 기술적 시도가 공개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "코딩"
-   ]
-  },
-  {
-   "id": "26c188b2a6810925",
-   "url": "https://www.reddit.com/r/singularity/comments/1wwsxbv/clone_robotics_shows_humanlike_robot_hand_moving/",
-   "source": "r/singularity",
-   "title": "Clone Robotics shows humanlike robot hand moving under remote control",
-   "published_at": "2026-10-03T17:32:19+00:00",
-   "collected_at": "2026-10-04T00:30:04.393828+00:00",
-   "title_ko": "클론 로보틱스, 원격 제어로 움직이는 인간형 로봇 손 공개",
-   "summary_ko": "클론 로보틱스가 원격 제어를 통해 정교하게 움직이는 인간형 로봇 손의 구동 영상을 공개했습니다. 로보틱스와 AI의 물리적 결합 수준을 보여주는 중요한 사례입니다.",
-   "category": "속보",
-   "tags": [
-    "로보틱스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "b3940237ba754098",
-   "url": "https://news.hada.io/topic?id=34718",
-   "source": "GeekNews",
-   "title": "모든 SaaS 비즈니스는 모델을 둘러싼 하네스가 될 것",
-   "published_at": "2026-10-03T17:07:02+00:00",
-   "collected_at": "2026-10-03T21:07:26.799921+00:00",
-   "title_ko": "SaaS 비즈니스의 AI 에이전트 하네스 전환 전망",
-   "summary_ko": "SaaS 기업의 핵심이 에이전트를 지원하고 맥락을 제공하는 하네스 형태로 진화할 것이라는 전망입니다. AI 에이전트 중심의 비즈니스 모델 변화를 이해하는 데 중요합니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "투자"
-   ]
-  },
-  {
-   "id": "2ad697ead091eb32",
-   "url": "https://liao.gg/blog/agents-dont-need-memory",
-   "source": "Hacker News",
-   "title": "Agents don't need memory, they need documentation",
-   "published_at": "2026-10-03T17:03:37+00:00",
-   "collected_at": "2026-10-04T06:45:57.110025+00:00",
-   "title_ko": "AI 에이전트에게 필요한 것은 메모리가 아닌 문서",
-   "summary_ko": "AI 에이전트의 성능 향상을 위해 복잡한 기억 장치보다는 체계적인 문서화가 더 효과적이라는 인사이트를 다룹니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "a4ba5473d9e71eed",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wws6o6/i_built_a_code_knowledge_graph_tool_thats/",
-   "source": "r/LocalLLaMA",
-   "title": "I built a code knowledge graph tool that's actually MIT licensed (fully local, no cloud)",
-   "published_at": "2026-10-03T17:01:14+00:00",
-   "collected_at": "2026-10-03T21:07:12.120627+00:00",
-   "title_ko": "MIT 라이선스의 로컬 코드 지식 그래프 도구 개발",
-   "summary_ko": "클라우드 업로드 없이 로컬에서 실행되며 MIT 라이선스를 제공하는 코드 지식 그래프 도구가 개발되었습니다. 코딩 에이전트 활용 시 프라이버시와 라이선스 문제를 해결해 줍니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "6ae0049f77806116",
-   "url": "https://news.hada.io/topic?id=34716",
-   "source": "GeekNews",
-   "title": "Kolibri 출시: 주권형 오픈웨이트 모델",
-   "published_at": "2026-10-03T17:01:02+00:00",
-   "collected_at": "2026-10-03T21:07:26.799921+00:00",
-   "title_ko": "알렙 알파, 오픈웨이트 모델 'Kolibri' 공개",
-   "summary_ko": "알렙 알파가 공공행정 및 규제 산업을 겨냥한 Apache 2.0 라이선스의 MoE 오픈웨이트 모델 Kolibri를 공개했습니다. 유럽 중심의 주권형 AI 모델 생태계 확장에 중요한 소식입니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "c87d5f628b0a50a7",
-   "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
-   "source": "The Verge",
-   "title": "Capcom is preparing for a ‘future where we create games together with AI’",
-   "published_at": "2026-10-03T16:49:10+00:00",
-   "collected_at": "2026-10-03T17:10:55.708598+00:00",
-   "title_ko": "캡콤, AI와 함께 게임을 제작하는 미래 준비",
-   "summary_ko": "캡콤이 RE 엔진 진화를 위한 발표를 통해 향후 게임 개발 과정에 AI를 적극적으로 도입할 계획임을 밝혔습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "a26e4a6585dcc3b1",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwrw0v/sopro_v2_turbo_2610_cleaner_cloned_voices_same/",
-   "source": "r/LocalLLaMA",
-   "title": "Sopro V2 Turbo 2610: cleaner cloned voices, same 120M model, same CPU speed",
-   "published_at": "2026-10-03T16:48:36+00:00",
-   "collected_at": "2026-10-03T17:11:23.534992+00:00",
-   "title_ko": "음성 복제 품질을 개선한 소형 LLM 'Sopro V2 Turbo 2610' 공개",
-   "summary_ko": "120M 크기의 소형 모델인 Sopro V2 Turbo 2610이 음성 복제 시 발생하던 거친 음색과 끊김 현상을 대폭 개선하여 공개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "4654fad836b5da80",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwrgx1/two_local_qwen_38_27b_unsloth_q6_and_qwen_flash/",
-   "source": "r/LocalLLaMA",
-   "title": "Two local Qwen ( 3.8 27b unsloth Q6 and Qwen flash next strata coder ) models vs Claude Opus 4.6 on the same 3 coding tasks. One of them tied it. Not here to start a fight, just sharing numbers",
-   "published_at": "2026-10-03T16:30:17+00:00",
-   "collected_at": "2026-10-03T21:07:12.120627+00:00",
-   "title_ko": "로컬 큐원 모델과 클로드 오푸스 코딩 성능 비교",
-   "summary_ko": "로컬 Qwen 모델들과 클로드 오푸스의 코딩 성능을 실무 태스크로 비교한 결과입니다. 개발자들이 로컬 LLM을 코딩에 활용할 가능성을 가늠하는 데 도움이 됩니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "코딩"
    ]
   }
  ]

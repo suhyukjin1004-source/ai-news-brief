@@ -1,5 +1,187 @@
 [
  {
+  "id": "7e157490c8e72564",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyrjmh/set_your_pdoom_on_hf/",
+  "source": "r/LocalLLaMA",
+  "title": "Set your P(doom) on HF",
+  "published_at": "2026-10-06T02:43:16+00:00",
+  "collected_at": "2026-10-06T02:53:35.385378+00:00",
+  "title_ko": "허깅페이스 인공지능 종말 확률 설정 기능 등장",
+  "summary_ko": "허깅페이스(Hugging Face)에 AI의 파멸 확률(P(doom))을 설정할 수 있는 기능이 등장했습니다.",
+  "category": "참고",
+  "tags": [
+   "Hugging Face",
+   "규제"
+  ]
+ },
+ {
+  "id": "efa037c47589e3bd",
+  "url": "https://news.hada.io/topic?id=34856",
+  "source": "GeekNews",
+  "title": "ChatGPT, 가짜 뉴요커 만화에 실제 만화가의 서명까지 넣음",
+  "published_at": "2026-10-06T00:33:25+00:00",
+  "collected_at": "2026-10-06T02:53:49.703451+00:00",
+  "title_ko": "ChatGPT, 실제 만화가 서명 도용 논란",
+  "summary_ko": "ChatGPT가 생성한 가짜 뉴요커 스타일 만화에 실제 만화가들의 서명이 무단으로 포함되어 논란이 되고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "GPT",
+   "규제"
+  ]
+ },
+ {
+  "id": "e0af25ba2bf786ad",
+  "url": "https://news.hada.io/topic?id=34854",
+  "source": "GeekNews",
+  "title": "OpenRig - Claude Code와 Codex를 팀으로 운영하는 멀티 에이전트 오케스트레이터",
+  "published_at": "2026-10-06T00:30:02+00:00",
+  "collected_at": "2026-10-06T02:53:49.703451+00:00",
+  "title_ko": "멀티 코딩 에이전트 오케스트레이터 OpenRig 공개",
+  "summary_ko": "Claude Code와 Codex 등을 팀으로 묶어 공동으로 코딩 작업을 수행할 수 있게 해주는 오픈소스 멀티 에이전트 도구가 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "Claude",
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "8cdbe6dd3a7937a2",
+  "url": "https://news.hada.io/topic?id=34853",
+  "source": "GeekNews",
+  "title": "Claude가 그러는데",
+  "published_at": "2026-10-06T00:11:45+00:00",
+  "collected_at": "2026-10-06T02:53:49.703451+00:00",
+  "title_ko": "LLM 답변 의존에 따른 전문성 저하 우려",
+  "summary_ko": "업무에서 LLM의 답변에만 의존할 경우 개인의 전문성과 소통의 신뢰성이 저하될 수 있다는 지적입니다.",
+  "category": "참고",
+  "tags": [
+   "LLM"
+  ]
+ },
+ {
+  "id": "cbee4f83437993a6",
+  "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
+  "source": "Simon Willison",
+  "title": "Quoting Felix Rieseberg",
+  "published_at": "2026-10-05T23:56:47+00:00",
+  "collected_at": "2026-10-06T02:53:34.527589+00:00",
+  "title_ko": "클로드 코워크, 클라우드 기반 샌드박스로 개편",
+  "summary_ko": "Anthropic이 로컬 VM 구동 방식의 자원 소모 문제를 해결하기 위해 Claude Cowork의 모델 추론과 가상머신을 클라우드 기반으로 전환했습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "Claude"
+  ]
+ },
+ {
+  "id": "787f233df6c87adf",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wynppg/less_talk_more_breakout_kolibri1_turns/",
+  "source": "r/LocalLLaMA",
+  "title": "Less Talk. More Breakout: Kolibri-1 Turns Probabilities into Actions, Playing Breakout - With under 25ms latency per move.",
+  "published_at": "2026-10-05T23:35:19+00:00",
+  "collected_at": "2026-10-06T02:53:35.385378+00:00",
+  "title_ko": "Kolibri-1 모델, 25ms 미만 지연 시간으로 벽돌깨기 게임 플레이",
+  "summary_ko": "파인튜닝 없이 구조화된 출력 능력을 활용해 Kolibri-1 모델이 초저지연으로 벽돌깨기 게임을 스스로 플레이하는 실험이 공개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "3c7e89df6a817b41",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wynomx/k_llamacpp_moe_optimizations_expert_residency/",
+  "source": "r/LocalLLaMA",
+  "title": "k_llama.cpp MoE Optimizations: Expert Residency, Hybrid CPU/GPU Execution, Q2_0 Support",
+  "published_at": "2026-10-05T23:33:54+00:00",
+  "collected_at": "2026-10-06T02:53:35.385378+00:00",
+  "title_ko": "llama.cpp 혼합 실행 및 MoE 최적화 포크 공개",
+  "summary_ko": "대형 언어 모델의 성능 향상을 위해 CPU/GPU 하이브리드 실행과 전문가 상주(Expert Residency) 기능을 적용한 llama.cpp 포크가 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "05a04bd20601ec39",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wynbvq/a_benchmark_for_llms_playing_civilization_v_glm53/",
+  "source": "r/LocalLLaMA",
+  "title": "A benchmark for LLMs playing Civilization V. GLM-5.3 is ahead of Opus-5.5, and Qwen-3.8-27B holds up surprisingly well.",
+  "published_at": "2026-10-05T23:16:48+00:00",
+  "collected_at": "2026-10-06T02:53:35.385378+00:00",
+  "title_ko": "문명 5 게임 기반 LLM 성능 벤치마크 공개",
+  "summary_ko": "턴제 전략 게임인 문명 5를 통해 대형 언어 모델들의 전략적 의사결정 능력을 측정하는 벤치마크 결과가 공개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "LLM"
+  ]
+ },
+ {
+  "id": "f96eb5478801166b",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+  "source": "The Verge",
+  "title": "Gemini Call for Me might tell your mom you’re running late",
+  "published_at": "2026-10-05T23:09:55+00:00",
+  "collected_at": "2026-10-06T02:53:04.875434+00:00",
+  "title_ko": "구글 제미나이 'Call for Me' 기능 확장",
+  "summary_ko": "구글이 비즈니스 통화용이던 'Call for Me' AI 기능을 확장하여 가족이나 친구에게 메시지를 전달하는 용도로도 활용할 수 있게 개발 중입니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "Gemini",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "ed62d7055b56886e",
+  "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+  "source": "Hacker News",
+  "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+  "published_at": "2026-10-05T22:46:45+00:00",
+  "collected_at": "2026-10-06T02:53:19.293048+00:00",
+  "title_ko": "ChatGPT, 가짜 뉴요커 만화에 실제 작가 서명 도용 논란",
+  "summary_ko": "ChatGPT가 생성한 가짜 만화에 실제 작가들의 서명을 무단으로 추가해 저작권 및 윤리적 논란이 일고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "ChatGPT",
+   "저작권"
+  ]
+ },
+ {
+  "id": "a4c9a7d3631451b2",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wymgu6/pewdiepie_getting_banned_twice_by_openai_while/",
+  "source": "r/LocalLLaMA",
+  "title": "PewDiePie getting banned twice by OpenAI while making a local model is top-tier comedy 💀",
+  "published_at": "2026-10-05T22:37:19+00:00",
+  "collected_at": "2026-10-06T02:53:35.385378+00:00",
+  "title_ko": "퓨디파이, 오픈AI API로 학습 데이터 만들다 계정 차단 소동",
+  "summary_ko": "유튜버 퓨디파이가 오픈AI API 출력값으로 로컬 모델을 학습시키다 약관 위반으로 두 차례 차단당한 후 오픈소스 도구로 전환해 로컬 에이전트를 구축했습니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "6f58e2614f31d289",
+  "url": "https://news.hada.io/topic?id=34847",
+  "source": "GeekNews",
+  "title": "Opus 5.5 에이전트, 차세대 메모리용 상온 자성 반도체 후보 두 가지 발견",
+  "published_at": "2026-10-05T22:36:17+00:00",
+  "collected_at": "2026-10-06T02:53:49.703451+00:00",
+  "title_ko": "클로드 에이전트, 차세대 메모리용 반도체 후보 물질 발견",
+  "summary_ko": "Claude Opus 5.5 기반 에이전트 팀이 차세대 메모리에 활용할 수 있는 상온 자성 반도체 후보 두 가지를 새롭게 발견했습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "AI 에이전트",
+   "반도체"
+  ]
+ },
+ {
   "id": "75e3010c93360c36",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wym8z3/introducing_beam_reflections_501b_openweight/",
   "source": "r/LocalLLaMA",
@@ -12,6 +194,36 @@
   "tags": [
    "오픈소스",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "bc25a570a71178c8",
+  "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+  "source": "Ars Technica",
+  "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+  "published_at": "2026-10-05T22:26:35+00:00",
+  "collected_at": "2026-10-06T02:53:17.362516+00:00",
+  "title_ko": "에이전트 간 통신 프로토콜 MCP의 보안 취약점 대두",
+  "summary_ko": "새로운 에이전트 통신 프로토콜인 MCP에서 악성 프롬프트가 에이전트 간에 전파될 수 있는 보안 공백이 지적되었습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "보안"
+  ]
+ },
+ {
+  "id": "2ac688ca159fcd90",
+  "url": "https://qlabs.sh/research/dust",
+  "source": "Hacker News",
+  "title": "Dust: Pretraining Transformers Without Backpropagation",
+  "published_at": "2026-10-05T21:15:07+00:00",
+  "collected_at": "2026-10-06T02:53:19.293048+00:00",
+  "title_ko": "역전파 없는 트랜스포머 사전학습 연구 'Dust' 공개",
+  "summary_ko": "역전파(Backpropagation) 과정 없이 트랜스포머 모델을 사전학습하는 새로운 연구 방법론이 발표되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "머신러닝"
   ]
  },
  {
