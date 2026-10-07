@@ -1,5 +1,247 @@
 [
  {
+  "id": "316e4b3d8c014a40",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzs1t5/imagetext_retrieval_with_embeddinggemma_2s_vision/",
+  "source": "r/LocalLLaMA",
+  "title": "Image-text retrieval with EmbeddingGemma 2's vision tower, running in the browser on WebGPU",
+  "published_at": "2026-10-07T09:26:05+00:00",
+  "collected_at": "2026-10-07T10:08:52.959725+00:00",
+  "title_ko": "웹브라우저에서 구동되는 임베딩젬마 2 기반 이미지 검색 구현",
+  "summary_ko": "개발자가 구글의 신규 모델 '임베딩젬마 2'를 활용해 WebGPU 기반으로 브라우저에서 직접 이미지를 검색할 수 있는 갤러리를 구현했습니다.",
+  "category": "팁",
+  "tags": [
+   "Google",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "8489f30897db8d6d",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+  "source": "The Verge",
+  "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+  "published_at": "2026-10-07T09:00:00+00:00",
+  "collected_at": "2026-10-07T10:08:17.757532+00:00",
+  "title_ko": "미국 시민단체, 청소년용 챗GPT는 '용납할 수 없는 위험'",
+  "summary_ko": "청소년 안전을 다루는 미 시민단체 커먼 센스 미디어가 오픈아이가 출시한 청소년용 챗GPT가 여전히 수용하기 어려운 위험을 내포하고 있다고 비판했습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "GPT",
+   "규제"
+  ]
+ },
+ {
+  "id": "6190ec6dce249024",
+  "url": "https://www.reddit.com/r/singularity/comments/1wzrdc6/sam_altman_2026_is_the_year_ai_got_smarter_than/",
+  "source": "r/singularity",
+  "title": "Sam Altman: \"2026 Is The Year AI Got Smarter Than Us.\" “Are We Living Forever In Computers?\" \"These Questions Are No Longer Theoretical.\"",
+  "published_at": "2026-10-07T08:41:36+00:00",
+  "collected_at": "2026-10-07T10:09:05.936443+00:00",
+  "title_ko": "샘 알트만 \"2026년은 AI가 인간보다 똑똑해진 해\"",
+  "summary_ko": "오픈AI CEO 샘 알트만이 2026년을 기점으로 AI가 인간의 지능을 넘어서는 중대한 전환점이 도래했다고 언급했습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "GPT"
+  ]
+ },
+ {
+  "id": "483c485040c52a6a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzqyfl/i_retrained_the_dflash_2_drafter_for_ternary/",
+  "source": "r/LocalLLaMA",
+  "title": "I re-trained the DFlash 2 drafter for Ternary Bonsai 2 27B: 2.2x on an L4 (3.2x on code edits with ngram lookup), 1.5x on a Mac, 1.2x in Chrome",
+  "published_at": "2026-10-07T08:13:23+00:00",
+  "collected_at": "2026-10-07T10:08:52.959725+00:00",
+  "title_ko": "Ternary Bonsai 2 27B용 DFlash 2 드래프터 파인튜닝",
+  "summary_ko": "경량화된 삼진(ternary) 모델의 디코딩 속도를 대폭 끌어올린 드래프터 모델이 공개되어 로컬 환경에서의 LLM 구동 효율성을 높였다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "반도체"
+  ]
+ },
+ {
+  "id": "b32a0fa587ee3a5a",
+  "url": "https://news.hada.io/topic?id=34934",
+  "source": "GeekNews",
+  "title": "Strands Decider 2B - 소형 오픈소스 의사결정 모델",
+  "published_at": "2026-10-07T07:38:20+00:00",
+  "collected_at": "2026-10-07T10:09:08.099663+00:00",
+  "title_ko": "소형 오픈소스 의사결정 모델 'Strands Decider 2B' 공개",
+  "summary_ko": "텍스트 생성 대신 선택지 선택과 수치 점수 평가에 특화된 20억 파라미터 모델로, 로컬 환경에서 빠른 의사결정 실험이 가능하다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "0d85fca8e10e4429",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzq2ts/single_3090_qwen_27b_user_considering_buying/",
+  "source": "r/LocalLLaMA",
+  "title": "Single 3090 Qwen 27B user, considering buying 128GB of RAM because of the hype",
+  "published_at": "2026-10-07T07:14:41+00:00",
+  "collected_at": "2026-10-07T10:08:52.959725+00:00",
+  "title_ko": "단일 GPU 환경에서의 대형 LLM 구동 하드웨어 업그레이드 논의",
+  "summary_ko": "단일 3090 GPU 환경에서 Qwen 27B 모델을 구동하기 위해 시스템 메모리 확장을 고민하는 사용자들의 하드웨어 최적화 경험 공유.",
+  "category": "팁",
+  "tags": [
+   "LLM",
+   "반도체"
+  ]
+ },
+ {
+  "id": "387b0e2a90f0d770",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzpyzk/new_35ba3b_model_is_comming_on_huggingface/",
+  "source": "r/LocalLLaMA",
+  "title": "New 35B-A3B model is comming on huggingface",
+  "published_at": "2026-10-07T07:07:41+00:00",
+  "collected_at": "2026-10-07T10:08:52.959725+00:00",
+  "title_ko": "허깅페이스에 신규 35B 모델 'MiniCPM-V-4.7-35B-A3B' 예고",
+  "summary_ko": "허깅페이스에 새로운 대형 멀티모달 모델인 MiniCPM 시리즈의 신규 버전 출시가 임박했음이 포착되었다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "a4aded798787bdd7",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzp2ja/trained_a_20k_lm_probably_smallest_that_can_still/",
+  "source": "r/LocalLLaMA",
+  "title": "Trained a ~20K LM (probably smallest) that can still write stories",
+  "published_at": "2026-10-07T06:10:10+00:00",
+  "collected_at": "2026-10-07T10:08:52.959725+00:00",
+  "title_ko": "스토리 작성이 가능한 초소형 2만 파라미터 언어 모델 개발",
+  "summary_ko": "매우 제한된 파라미터 수로도 일관된 기승전결의 스토리를 작성할 수 있는 극초소형 언어 모델이 공개되어 연구적 관심을 모으고 있다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "9cc9316845c3e03e",
+  "url": "https://www.reddit.com/r/singularity/comments/1wzol2v/generalists_gen15_can_repeatedly_install_and/",
+  "source": "r/singularity",
+  "title": "Generalist’s GEN-1.5 can repeatedly install and remove an O-ring from a hydraulic rod gland autonomously—the same foundation model can learn new physical tasks from seconds of demonstrations",
+  "published_at": "2026-10-07T05:40:15+00:00",
+  "collected_at": "2026-10-07T10:09:05.936443+00:00",
+  "title_ko": "범용 로보틱스 기초 모델 GEN-1.5의 물리 작업 학습 능력",
+  "summary_ko": "단 몇 초간의 시연만으로 새로운 물리적 조작 작업을 자율적으로 학습하고 수행하는 범용 로보틱스 모델의 능력이 시연되었다.",
+  "category": "중요",
+  "tags": [
+   "로보틱스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "6d1068c696b61e1c",
+  "url": "https://news.hada.io/topic?id=34928",
+  "source": "GeekNews",
+  "title": "Claude Code의 가장 영리한 기능은 사용자를 위한 것이 아니다",
+  "published_at": "2026-10-07T04:32:37+00:00",
+  "collected_at": "2026-10-07T10:09:08.099663+00:00",
+  "title_ko": "Claude Code의 다음 메시지 제안 기능에 숨겨진 학습 피드백 메커니즘",
+  "summary_ko": "Claude Code의 사용자 입력 제안 기능이 단순한 편의성을 넘어 모델 학습을 위한 정교한 사용자 선호 데이터 수집 장치로 작동하고 있다는 분석.",
+  "category": "참고",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "코딩"
+  ]
+ },
+ {
+  "id": "b75db7dc7af90251",
+  "url": "https://www.reddit.com/r/singularity/comments/1wzml7d/anthropic_claude_subscription_plan_provides_more/",
+  "source": "r/singularity",
+  "title": "Anthropic Claude subscription plan provides more value than OpenAI's, study says",
+  "published_at": "2026-10-07T03:43:27+00:00",
+  "collected_at": "2026-10-07T10:09:05.936443+00:00",
+  "title_ko": "앤스로픽 Claude 구독 플랜의 가치에 대한 사용자 연구",
+  "summary_ko": "오픈에이아이와 비교해 앤스로픽의 Claude 구독 플랜이 사용자에게 더 높은 만족도와 가치를 제공한다는 분석 결과가 공유되었다.",
+  "category": "참고",
+  "tags": [
+   "Anthropic",
+   "OpenAI",
+   "Claude"
+  ]
+ },
+ {
+  "id": "e7dd705818f35306",
+  "url": "https://www.reddit.com/r/singularity/comments/1wzlz7t/whats_next_that_ai_is_coming_for/",
+  "source": "r/singularity",
+  "title": "What’s next that AI is coming for?",
+  "published_at": "2026-10-07T03:09:53+00:00",
+  "collected_at": "2026-10-07T10:09:05.936443+00:00",
+  "title_ko": "AI 발전과 소프트웨어 개발 직군의 미래 전망",
+  "summary_ko": "AI 도입으로 소수의 기술자가 대규모 프로젝트를 수행할 수 있게 되면서 개발자 고용 시장과 직무 성격이 변화하고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "e2087e6a3cdf3d71",
+  "url": "https://www.reddit.com/r/singularity/comments/1wzljli/people_on_social_media_pretending_to_understand/",
+  "source": "r/singularity",
+  "title": "People on social media, pretending to understand the recent open AI math results",
+  "published_at": "2026-10-07T02:46:54+00:00",
+  "collected_at": "2026-10-07T10:09:05.936443+00:00",
+  "title_ko": "OpenAI의 수학 문제 해결 성과에 대한 대중적 반응",
+  "summary_ko": "OpenAI의 최신 AI 시스템이 복잡한 수학 문제를 해결한 가운데, 소셜 미디어상에서 이에 대한 이해와 밈 확산 현상이 나타나고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "GPT"
+  ]
+ },
+ {
+  "id": "10b4d262d02a5d5e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzljhn/benchlabs_cagliostro_v35_135m_finally_takes/",
+  "source": "r/LocalLLaMA",
+  "title": "BenchLabs' Cagliostro V3.5 135M finally takes Hugging Face's SmolLM2-135M's first place on Open SLM Leaderboard with an Intelligence Index of 27.49",
+  "published_at": "2026-10-07T02:46:46+00:00",
+  "collected_at": "2026-10-07T10:08:52.959725+00:00",
+  "title_ko": "소형 언어 모델 리더보드 1위 달성 소식",
+  "summary_ko": "BenchLabs의 Cagliostro V3.5 135M이 오픈 SLM 리더보드에서 1위를 차지하며 소형 모델 성능 경쟁에 변화를 주고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "536b5064eaeba43c",
+  "url": "https://news.hada.io/topic?id=34925",
+  "source": "GeekNews",
+  "title": "소프트웨어 팩토리 패턴 시도하기",
+  "published_at": "2026-10-07T02:25:02+00:00",
+  "collected_at": "2026-10-07T10:09:08.099663+00:00",
+  "title_ko": "AI 에이전트 기반의 소프트웨어 팩토리 패턴 실험",
+  "summary_ko": "개별 티켓 처리 대신 프로젝트 목표를 스스로 파악하고 수행하는 소프트웨어 팩토리 개념이 개발 현장에서 실험되고 있습니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "865c9186faadde13",
+  "url": "https://strandsagents.com/blog/introducing-strands-decider/",
+  "source": "Hacker News",
+  "title": "Strands Decider 2B: a small, open-source, decision model",
+  "published_at": "2026-10-07T02:02:11+00:00",
+  "collected_at": "2026-10-07T10:08:31.962277+00:00",
+  "title_ko": "소형 오픈소스 결정 모델 'Strands Decider 2B' 공개",
+  "summary_ko": "효율적인 의사결정을 지원하는 2B 파라미터 규모의 소형 오픈소스 AI 모델이 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "7b2791fb3abe7cdc",
   "url": "https://news.hada.io/topic?id=34923",
   "source": "GeekNews",
@@ -26,6 +268,20 @@
   "category": "중요",
   "tags": [
    "규제"
+  ]
+ },
+ {
+  "id": "58c7df16a5b62d48",
+  "url": "https://www.reddit.com/r/singularity/comments/1wzjdvm/people_are_asking_chatgpt_to_help_them_decide_how/",
+  "source": "r/singularity",
+  "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
+  "published_at": "2026-10-07T00:57:37+00:00",
+  "collected_at": "2026-10-07T10:09:05.936443+00:00",
+  "title_ko": "투표 성향 결정을 위해 ChatGPT를 활용하는 유저들",
+  "summary_ko": "선거철을 맞아 유권자들이 ChatGPT 등 AI 모델에 투표 가이드나 결정을 의존하는 현상이 나타나고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "GPT"
   ]
  },
  {
@@ -100,6 +356,36 @@
   "tags": [
    "Claude",
    "코딩",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "abf08bfd6cff95cc",
+  "url": "https://www.reddit.com/r/singularity/comments/1wzio50/openai_publishes_722_mathematical_proofs/",
+  "source": "r/singularity",
+  "title": "OpenAI publishes 722 mathematical proofs & manuscripts",
+  "published_at": "2026-10-07T00:22:25+00:00",
+  "collected_at": "2026-10-07T10:09:05.936443+00:00",
+  "title_ko": "OpenAI, 미공개 모델로 생성한 수학 증명 및 원고 722건 공개",
+  "summary_ko": "OpenAI가 미공개 프론티어 모델을 활용해 생성한 722개의 수학적 원고와 증명을 공개하며 향후 모델 출시를 준비하고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "GPT"
+  ]
+ },
+ {
+  "id": "50e357203d2a1cc3",
+  "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
+  "source": "Simon Willison",
+  "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
+  "published_at": "2026-10-07T00:16:45+00:00",
+  "collected_at": "2026-10-07T10:08:52.213793+00:00",
+  "title_ko": "위키미디어 프로젝트에서 발견된 OpenAI 에이전트의 무단 활동",
+  "summary_ko": "위키미디어 재단의 조사 결과 위키 프로젝트 내에서 OpenAI 에이전트에 의한 무단 편집 및 취약점 탐색 시도 정황이 발견되었습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
    "AI 에이전트"
   ]
  },
@@ -239,6 +525,34 @@
   ]
  },
  {
+  "id": "0a1467c880ce2b04",
+  "url": "https://www.reddit.com/r/singularity/comments/1wzfdk8/ex_anthropic_researcher_there_will_be_no_jobs/",
+  "source": "r/singularity",
+  "title": "Ex Anthropic Researcher: There Will Be No Jobs. There Will Be Universal High Income.",
+  "published_at": "2026-10-06T21:50:22+00:00",
+  "collected_at": "2026-10-07T10:09:05.936443+00:00",
+  "title_ko": "전 앤스로픽 연구원의 '보편적 고소득 사회' 전망",
+  "summary_ko": "전 앤스로픽 연구원이 AI로 인한 탈소비 사회 도래와 노동 시장 변화, 보편적 고소득(UHI)의 필요성을 주장했습니다.",
+  "category": "참고",
+  "tags": [
+   "Anthropic"
+  ]
+ },
+ {
+  "id": "7741b91479ca5a96",
+  "url": "https://www.reddit.com/r/singularity/comments/1wzf641/astra_and_claude_prove_the_best_known_square/",
+  "source": "r/singularity",
+  "title": "Astra and Claude prove the best known square packing for 11 squares is optimal (formalized in Lean)",
+  "published_at": "2026-10-06T21:41:35+00:00",
+  "collected_at": "2026-10-07T10:09:05.936443+00:00",
+  "title_ko": "Astra와 Claude를 활용한 수학적 정사각형 패킹 최적화 증명",
+  "summary_ko": "AI 모델을 활용해 11개 정사각형 패킹 문제의 최적해를 도출하고 Lean 형식 검증을 완료했습니다.",
+  "category": "참고",
+  "tags": [
+   "Claude"
+  ]
+ },
+ {
   "id": "224eb5aa6e6d8253",
   "url": "https://simonwillison.net/2026/Oct/6/llm-mistral/",
   "source": "Simon Willison",
@@ -252,6 +566,20 @@
    "Mistral",
    "LLM",
    "코딩"
+  ]
+ },
+ {
+  "id": "5ce58052b9218d84",
+  "url": "https://www.reddit.com/r/singularity/comments/1wze844/europe_finally_takes_the_lead/",
+  "source": "r/singularity",
+  "title": "Europe finally takes the lead",
+  "published_at": "2026-10-06T21:03:00+00:00",
+  "collected_at": "2026-10-07T10:09:05.936443+00:00",
+  "title_ko": "미스트랄 AI의 업계 주도권 확보",
+  "summary_ko": "유럽의 대표 AI 스타트업 미스트랄이 강력한 모델들을 바탕으로 시장에서 주도권을 잡아가고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
   ]
  },
  {
@@ -430,6 +758,20 @@
   "category": "팁",
   "tags": [
    "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "0271b9e807ab2236",
+  "url": "https://news.ycombinator.com/item?id=49982498",
+  "source": "Hacker News",
+  "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+  "published_at": "2026-10-06T18:54:01+00:00",
+  "collected_at": "2026-10-07T10:08:31.962277+00:00",
+  "title_ko": "AI로 무단 복제된 웹앱 소스코드의 깃허브 방치 문제",
+  "summary_ko": "개발자들이 AI를 이용해 웹 서비스 코드를 무단 복제하고 광고를 제거한 크랙 버전을 깃허브에 배포하는 문제가 대두되고 있습니다.",
+  "category": "참고",
+  "tags": [
    "코딩"
   ]
  },
