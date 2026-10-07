@@ -1,8 +1,345 @@
 {
- "updated_at": "2026-10-07T17:46:53.479410+00:00",
+ "updated_at": "2026-10-07T23:01:20.439029+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "112871e5a3a21441",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216044",
+   "source": "AI타임스",
+   "title": "앤트로픽, API 비용 최대 90% 낮춘 '클로드 하이쿠 5.5' 공개",
+   "published_at": "2026-10-08T05:34:26+00:00",
+   "collected_at": "2026-10-07T23:01:03.012842+00:00",
+   "title_ko": "앤트로픽, API 비용 대폭 낮춘 '클로드 하이쿠 5.5' 공개",
+   "summary_ko": "앤트로픽이 성능을 높이고 API 비용을 최대 90% 낮춘 소형 모델 '클로드 하이쿠 5.5'를 출시했습니다. 기업용 AI 시장 점유율을 확대하기 위한 전략입니다.",
+   "category": "속보",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "fb4f20698bce3a47",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x09g09/surface_rtx_spark_dev_box_the_dev_box_built_for/",
+   "source": "r/LocalLLaMA",
+   "title": "Surface RTX Spark Dev Box: The Dev Box Built For Developers",
+   "published_at": "2026-10-07T21:50:00+00:00",
+   "collected_at": "2026-10-07T23:00:49.160984+00:00",
+   "title_ko": "개발자용 AI 박스 '서피스 RTX 스파크' 출시",
+   "summary_ko": "마이크로소프트가 개발자를 위해 GB10 칩 기반의 AI 개발 박스를 5,995달러에 출시했습니다. 로컬 환경에서 AI 모델을 구동하려는 개발자들에게 유용합니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "반도체",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "58064a444861457b",
+   "url": "https://www.reddit.com/r/singularity/comments/1x09bbq/haiku_55_fails_the_lava_lamp_test/",
+   "source": "r/singularity",
+   "title": "Haiku 5.5 Fails the Lava Lamp Test",
+   "published_at": "2026-10-07T21:44:38+00:00",
+   "collected_at": "2026-10-07T23:01:01.943387+00:00",
+   "title_ko": "클로드 하이쿠 5.5의 라바 램프 테스트 실패 소식",
+   "summary_ko": "새로 출시된 앤트로픽의 클로드 하이쿠 5.5 모델이 특정한 시각적 추론 테스트에서 한계를 보였다는 평가가 공유되었습니다.",
+   "category": "참고",
+   "tags": [
+    "Anthropic",
+    "Claude"
+   ]
+  },
+  {
+   "id": "f2c3cd76c95bbf4a",
+   "url": "https://news.hada.io/topic?id=34964",
+   "source": "GeekNews",
+   "title": "Meta·Microsoft, 사내 Claude 사용 줄이고 자체 AI 도구로 전환",
+   "published_at": "2026-10-07T21:32:12+00:00",
+   "collected_at": "2026-10-07T23:01:04.213544+00:00",
+   "title_ko": "메타와 마이크로소프트, 사내 클로드 사용 줄이고 자체 AI로 전환",
+   "summary_ko": "메타와 마이크로소프트가 비용 통제와 자사 제품 강화를 위해 직원들의 앤트로픽 클로드 사용을 줄이고 자체 AI 도구로 전환하고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "Meta",
+    "Microsoft",
+    "Anthropic"
+   ]
+  },
+  {
+   "id": "e28a41d2294350a2",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x08bns/i_have_single_3090_and_32gb_of_ram_are_there_any/",
+   "source": "r/LocalLLaMA",
+   "title": "I have single 3090 and 32GB of ram are there any engines like strata, ninfer that run Qwen/Qwen3.6-35B-A3B at Q8 fast on my hardware",
+   "published_at": "2026-10-07T21:05:23+00:00",
+   "collected_at": "2026-10-07T23:00:49.160984+00:00",
+   "title_ko": "단일 3090 환경에서 Qwen3.6-35B 모델 구동 엔진 문의",
+   "summary_ko": "단일 RTX 3090 GPU 환경에서 Qwen 신규 모델을 빠르게 실행할 수 있는 인퍼런스 엔진에 대한 커뮤니티 토론입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "NVIDIA"
+   ]
+  },
+  {
+   "id": "92be971aec513c1f",
+   "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+   "source": "TechCrunch",
+   "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+   "published_at": "2026-10-07T20:48:45+00:00",
+   "collected_at": "2026-10-07T23:00:17.208904+00:00",
+   "title_ko": "누스 리서치, 15억 달러 가치 인정받고 비즈니스용 AI 에이전트 출시",
+   "summary_ko": "허메스 에이전트 개발사인 누스 리서치가 9,000만 달러 규모의 시리즈 B 투자를 유치하며 기업용 AI 에이전트 시장에 진출했습니다.",
+   "category": "중요",
+   "tags": [
+    "투자",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "3e456d77c7de7860",
+   "url": "https://www.reddit.com/r/singularity/comments/1x07vqa/haiku_55_price_to_performance_if_there_was_no/",
+   "source": "r/singularity",
+   "title": "Haiku 5.5 price to performance if there was no long context upcharge",
+   "published_at": "2026-10-07T20:48:34+00:00",
+   "collected_at": "2026-10-07T23:01:01.943387+00:00",
+   "title_ko": "클로드 하이쿠 5.5의 긴 컨텍스트 비용 구조 분석",
+   "summary_ko": "클로드 하이쿠 5.5의 기본 가성비는 뛰어나지만 100k 토큰 이후 적용되는 추가 과금 구조에 대한 사용자들의 분석이 이어지고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "Anthropic",
+    "Claude"
+   ]
+  },
+  {
+   "id": "2274d4d694e0de01",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x07qlh/qwen_38_flashnext_on_64gb_ram_16gb_vram_worth_it/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen 3.8 Flash-Next on 64GB RAM + 16GB VRAM, worth it over a fully-loaded 3.6 35B-A3B?",
+   "published_at": "2026-10-07T20:43:17+00:00",
+   "collected_at": "2026-10-07T23:00:49.160984+00:00",
+   "title_ko": "한정된 VRAM 환경에서의 Qwen 최신 플래시 모델 구동기",
+   "summary_ko": "64GB RAM과 16GB VRAM 환경에서 대형 Qwen 모델의 양자화 버전을 구동하는 효율성에 대한 사용자 간 비교 토론입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "NVIDIA"
+   ]
+  },
+  {
+   "id": "196c3fe57c90a683",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x079wc/llamacpp_on_the_stage/",
+   "source": "r/LocalLLaMA",
+   "title": "llama.cpp on the stage",
+   "published_at": "2026-10-07T20:25:51+00:00",
+   "collected_at": "2026-10-07T23:00:49.160984+00:00",
+   "title_ko": "llama.cpp 프로젝트의 최근 동향",
+   "summary_ko": "로컬 LLM 구동의 핵심 오픈소스 프로젝트인 llama.cpp의 최신 소식이 개발자 커뮤니티를 통해 공유되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "54da693e6cb24610",
+   "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+   "source": "TechCrunch",
+   "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+   "published_at": "2026-10-07T20:22:37+00:00",
+   "collected_at": "2026-10-07T23:00:17.208904+00:00",
+   "title_ko": "마이크로소프트, 엔비디아 칩 탑재 신형 AI PC 공개",
+   "summary_ko": "마이크로소프트가 엔비디아 칩을 탑재하고 AI 에이전트 실행에 최적화된 새로운 윈도우 11 기반 서피스 노트북 라인업을 공개했습니다.",
+   "category": "중요",
+   "tags": [
+    "Microsoft",
+    "NVIDIA",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "4864b836e40ec03c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x06h7i/kandinsky_60_video_gen_video_upscaler/",
+   "source": "r/LocalLLaMA",
+   "title": "Kandinsky 6.0 video gen + video upscaler!",
+   "published_at": "2026-10-07T19:58:11+00:00",
+   "collected_at": "2026-10-07T23:00:49.160984+00:00",
+   "title_ko": "오픈소스 비디오 생성 모델 '칸딘스키 6.0' 공개",
+   "summary_ko": "고성능 비디오 생성 및 업스케일링을 지원하는 칸딘스키 6.0 모델이 공개되었으며 ComfyUI 등과 연동됩니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "f11dfce7bdf2bb1a",
+   "url": "https://news.hada.io/topic?id=34960",
+   "source": "GeekNews",
+   "title": "OpenAI, GPT‑6 확대 적용과 더 똑똑한 대화형 UI 도입",
+   "published_at": "2026-10-07T19:40:36+00:00",
+   "collected_at": "2026-10-07T23:01:04.213544+00:00",
+   "title_ko": "OpenAI, GPT-6 및 대화형 UI 'Intelligent UI' 도입",
+   "summary_ko": "OpenAI가 ChatGPT에 GPT-6와 함께 차트, 버튼, 폼 등 상호작용 가능한 요소를 제공하는 대화형 UI를 도입했습니다. 대화 안에서 직접 시각 자료를 조작할 수 있어 사용성 대폭 개선이 기대됩니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "5c906478c817e3c3",
+   "url": "https://scottaaronson.blog/?p=10169",
+   "source": "Hacker News",
+   "title": "The Mathocalypse",
+   "published_at": "2026-10-07T19:33:40+00:00",
+   "collected_at": "2026-10-07T23:00:31.255622+00:00",
+   "title_ko": "Scott Aaronson 블로그의 수학과 AI 관련 고찰",
+   "summary_ko": "AI와 수학의 관계 및 관련 최신 동향을 다룬 Scott Aaronson의 글입니다.",
+   "category": "참고",
+   "tags": [
+    "AI"
+   ]
+  },
+  {
+   "id": "b2d1fdcc50f22fa2",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+   "source": "The Verge",
+   "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+   "published_at": "2026-10-07T19:10:42+00:00",
+   "collected_at": "2026-10-07T23:00:17.360447+00:00",
+   "title_ko": "ChatGPT, 대화형 UI 업데이트로 시각 자료와 버튼 지원",
+   "summary_ko": "OpenAI가 ChatGPT에 텍스트 답변 외에 다이어그램, 차트, 버튼 등을 함께 제공하는 Intelligent UI를 출시했습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "GPT"
+   ]
+  },
+  {
+   "id": "3082116296fa073e",
+   "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+   "source": "Hacker News",
+   "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+   "published_at": "2026-10-07T18:49:40+00:00",
+   "collected_at": "2026-10-07T23:00:31.255622+00:00",
+   "title_ko": "Meta와 Microsoft, 사내 Claude AI 사용 제한 조치",
+   "summary_ko": "Meta와 Microsoft가 보안 및 자체 도구 사용 독려를 위해 임직원들의 Anthropic Claude AI 사용을 제한하는 단계를 밟고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "Meta",
+    "Microsoft",
+    "Anthropic"
+   ]
+  },
+  {
+   "id": "7e3adf866fe79abe",
+   "url": "https://news.hada.io/topic?id=34959",
+   "source": "GeekNews",
+   "title": "번역 과정에서 의미를 잃은 Navier-Stokes",
+   "published_at": "2026-10-07T18:46:26+00:00",
+   "collected_at": "2026-10-07T23:01:04.213544+00:00",
+   "title_ko": "수학적 형식 증명과 AI 자동 형식화의 한계",
+   "summary_ko": "Lean 검증을 통한 자동 형식화가 원본 자연어 논증의 의미를 온전히 보장하지 못하는 문제점을 짚어봅니다.",
+   "category": "참고",
+   "tags": [
+    "AI",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "e118f71f64f4f19e",
+   "url": "https://news.hada.io/topic?id=34958",
+   "source": "GeekNews",
+   "title": "Claude Haiku 5.5 출시 - 평균 실행 비용 75% 절감, Max·Team에 API 크레딧 제공",
+   "published_at": "2026-10-07T18:43:26+00:00",
+   "collected_at": "2026-10-07T23:01:04.213544+00:00",
+   "title_ko": "Anthropic, 소형 모델 'Claude Haiku 5.5' 출시",
+   "summary_ko": "Anthropic이 실행 비용을 75% 절감하고 대량 반복 작업에 최적화된 소형 모델 Claude Haiku 5.5를 출시했습니다.",
+   "category": "속보",
+   "tags": [
+    "Anthropic",
+    "Claude"
+   ]
+  },
+  {
+   "id": "36bf85cb54324cff",
+   "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+   "source": "TechCrunch",
+   "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+   "published_at": "2026-10-07T18:30:57+00:00",
+   "collected_at": "2026-10-07T23:00:17.208904+00:00",
+   "title_ko": "Meta의 AI 에이전트 'Muse', 아이패드 버전 출시",
+   "summary_ko": "Meta가 모바일 출시 한 달 만에 AI 에이전트 Muse의 아이패드 버전을 출시하며 지원 플랫폼을 빠르게 확대하고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "Meta",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "00ec3aec7e72d783",
+   "url": "https://www.reddit.com/r/singularity/comments/1x0464t/haiku_55_is_a_major_upgrade_in_my_workflow_bravo/",
+   "source": "r/singularity",
+   "title": "Haiku 5.5 is a major upgrade in my workflow. Bravo Anthropic",
+   "published_at": "2026-10-07T18:24:20+00:00",
+   "collected_at": "2026-10-07T23:01:01.943387+00:00",
+   "title_ko": "개발자들이 주목하는 Claude Haiku 5.5 업그레이드",
+   "summary_ko": "개발자 워크플로우에서 Claude Haiku 5.5가 대폭 향상된 성능과 비용 효율성을 보여주며 호평을 받고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "코딩"
+   ]
+  },
+  {
+   "id": "610b12eb506990c2",
+   "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+   "source": "TechCrunch",
+   "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+   "published_at": "2026-10-07T18:15:28+00:00",
+   "collected_at": "2026-10-07T23:00:17.208904+00:00",
+   "title_ko": "ChatGPT 청소년 보호 기능, 정신 건강 위기 상황 대응의 한계 지적",
+   "summary_ko": "ChatGPT의 청소년 안전 장치가 취약 사용자를 보호하려 하지만, 정신 건강 위기 상황에서도 대화를 유도해 AI와의 비정상적 애착을 키울 수 있다는 우려가 제기되었습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "GPT",
+    "규제"
+   ]
+  },
+  {
+   "id": "fca855e5ada35410",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x03xkc/llama_add_a_gpu_cache_for_moe_experts_kept_in/",
+   "source": "r/LocalLLaMA",
+   "title": "llama : add a GPU cache for MoE experts kept in host memory by am17an · Pull Request #29887 · ggml-org/llama.cpp",
+   "published_at": "2026-10-07T18:15:14+00:00",
+   "collected_at": "2026-10-07T23:00:49.160984+00:00",
+   "title_ko": "llama.cpp, VRAM 부족한 MoE 모델 위한 GPU 캐시 추가",
+   "summary_ko": "호스트 메모리에 있는 MoE 모델 전문가를 위한 GPU 캐시 기능이 추가되어, VRAM 용량이 부족한 환경에서 속도가 크게 향상될 것으로 기대됩니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체",
+    "LLM"
+   ]
+  },
+  {
+   "id": "1fa3362266167d6a",
+   "url": "https://www.reddit.com/r/singularity/comments/1x03oya/introducing_claude_haiku_55/",
+   "source": "r/singularity",
+   "title": "Introducing Claude Haiku 5.5",
+   "published_at": "2026-10-07T18:06:11+00:00",
+   "collected_at": "2026-10-07T23:01:01.943387+00:00",
+   "title_ko": "앤트로픽, Claude Haiku 5.5 공개",
+   "summary_ko": "앤트로픽이 고성능 경량 AI 모델인 Claude Haiku 5.5를 새롭게 출시했습니다.",
+   "category": "속보",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "LLM"
+   ]
+  },
   {
    "id": "9ae9b325f6a3c943",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216030",
@@ -19,6 +356,66 @@
    ]
   },
   {
+   "id": "91026e94f00ec90c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x03mrh/omnid1_600m_by_liquid_ai_running_in_the_browser/",
+   "source": "r/LocalLLaMA",
+   "title": "omni-d1 600M by Liquid AI running in the browser using WebGPU",
+   "published_at": "2026-10-07T18:04:05+00:00",
+   "collected_at": "2026-10-07T23:00:49.160984+00:00",
+   "title_ko": "Liquid AI, 브라우저에서 실행되는 600M 모델 공개",
+   "summary_ko": "Liquid AI의 600M 모델이 WebGPU를 통해 브라우저 환경에서 실시간으로 구동되며 뛰어난 성능을 입증했습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "1d78f09c640d45a5",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "source": "Hacker News",
+   "title": "Claude Haiku 5.5",
+   "published_at": "2026-10-07T18:01:32+00:00",
+   "collected_at": "2026-10-07T23:00:31.255622+00:00",
+   "title_ko": "Claude Haiku 5.5 출시 소식",
+   "summary_ko": "앤트로픽의 새로운 경량 모델 Claude Haiku 5.5가 개발자 커뮤니티에서 큰 관심을 받고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "LLM"
+   ]
+  },
+  {
+   "id": "07b4a4362d2b00ad",
+   "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+   "source": "The Verge",
+   "title": "Microsoft is giving Copilot more control over Windows and your files",
+   "published_at": "2026-10-07T18:01:20+00:00",
+   "collected_at": "2026-10-07T23:00:17.360447+00:00",
+   "title_ko": "마이크로소프트, 윈도우 파일 제어 기능 강화된 코파일럿 공개",
+   "summary_ko": "마이크로소프트가 로컬 파일 접근과 OS 전반의 작업 수행이 가능한 차세대 코파일럿 시스템을 선보였습니다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "4a32ff51ed082ec8",
+   "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+   "source": "TechCrunch",
+   "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+   "published_at": "2026-10-07T18:00:19+00:00",
+   "collected_at": "2026-10-07T23:00:17.208904+00:00",
+   "title_ko": "ChatGPT, 대화형 시각 인터페이스 도입",
+   "summary_ko": "오픈아이가 ChatGPT에 인터랙티브 시각 요소를 제공하는 새로운 사용자 인터페이스를 출시합니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT"
+   ]
+  },
+  {
    "id": "0fece8ce818bcdc1",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216041",
    "source": "AI타임스",
@@ -32,6 +429,50 @@
     "Google",
     "Gemini",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "19355795289bf641",
+   "url": "https://github.com/docker/docker-agent",
+   "source": "Hacker News",
+   "title": "Docker Agent",
+   "published_at": "2026-10-07T17:48:38+00:00",
+   "collected_at": "2026-10-07T23:00:31.255622+00:00",
+   "title_ko": "도커, 개발용 AI 에이전트 'Docker Agent' 공개",
+   "summary_ko": "도커(Docker)에서 개발 워크플로우를 자동화하는 새로운 AI 에이전트 도구를 선보였습니다.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "35be1f37933475a1",
+   "url": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
+   "source": "The Verge",
+   "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
+   "published_at": "2026-10-07T17:46:44+00:00",
+   "collected_at": "2026-10-07T23:00:17.360447+00:00",
+   "title_ko": "마이크로소프트, 엔비디아 기반 Surface RTX Spark Dev Box 사전 예약 시작",
+   "summary_ko": "AI 개발을 위한 엔비디아 탑재 미니 PC인 Surface RTX Spark Dev Box가 사전 예약에 돌입했습니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "반도체"
+   ]
+  },
+  {
+   "id": "6dd9359b532a5846",
+   "url": "https://www.reddit.com/r/singularity/comments/1x035ne/interesting_thoughts_from_an_expert_on_a_specific/",
+   "source": "r/singularity",
+   "title": "Interesting thoughts from an expert on a specific problem (#180 Barnette's Conjecture) from OpenAl solutions",
+   "published_at": "2026-10-07T17:46:14+00:00",
+   "collected_at": "2026-10-07T23:01:01.943387+00:00",
+   "title_ko": "오픈아이 솔루션을 활용한 복잡한 수학 난제 해결 접근법",
+   "summary_ko": "오픈아이의 기술을 통해 그래프 이론의 난제인 바넷 추측(Barnette's Conjecture)을 해결하는 과정에서 독창적인 AI 통찰이 활용되었습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI"
    ]
   },
   {
@@ -1055,6 +1496,22 @@
    "category": "속보",
    "tags": [
     "오픈소스"
+   ]
+  },
+  {
+   "id": "0ca1450969b5beb5",
+   "url": "https://openai.com/index/gpt-6-for-everyone",
+   "source": "OpenAI",
+   "title": "GPT-6 and Intelligent UI for everyone",
+   "published_at": "2026-10-07T00:00:00+00:00",
+   "collected_at": "2026-10-07T23:00:30.466980+00:00",
+   "title_ko": "오픈아이, 지능형 UI 탑재한 GPT-6 글로벌 배포",
+   "summary_ko": "오픈아이가 시각적·인터랙티브 경험을 제공하는 지능형 UI와 함께 GPT-6를 전 세계에 정식 출시했습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "GPT",
+    "AI 에이전트"
    ]
   },
   {
@@ -2540,457 +2997,6 @@
    "tags": [
     "AI 에이전트",
     "연구"
-   ]
-  },
-  {
-   "id": "7e157490c8e72564",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyrjmh/set_your_pdoom_on_hf/",
-   "source": "r/LocalLLaMA",
-   "title": "Set your P(doom) on HF",
-   "published_at": "2026-10-06T02:43:16+00:00",
-   "collected_at": "2026-10-06T02:53:35.385378+00:00",
-   "title_ko": "허깅페이스 인공지능 종말 확률 설정 기능 등장",
-   "summary_ko": "허깅페이스(Hugging Face)에 AI의 파멸 확률(P(doom))을 설정할 수 있는 기능이 등장했습니다.",
-   "category": "참고",
-   "tags": [
-    "Hugging Face",
-    "규제"
-   ]
-  },
-  {
-   "id": "d8b89f7c068e1dfd",
-   "url": "https://news.hada.io/topic?id=34868",
-   "source": "GeekNews",
-   "title": "Dust - 역전파 없이 트랜스포머 사전학습하기",
-   "published_at": "2026-10-06T02:40:40+00:00",
-   "collected_at": "2026-10-06T10:06:05.567217+00:00",
-   "title_ko": "역전파 없는 트랜스포머 사전학습 방법 'Dust' 등장",
-   "summary_ko": "토큰에 잡음을 더해 그래디언트를 추정하는 0차 최적화 방법인 'Dust'가 소개되었으며, 대규모 집단을 사용할 경우 역전파에 근접하거나 더 낮은 손실을 달성할 수 있습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "6f93faf83a3fa14e",
-   "url": "https://news.hada.io/topic?id=34866",
-   "source": "GeekNews",
-   "title": "Show GN: Tarotop — 먼저 듣고 나서 카드를 뽑는 AI 패밀리어 타로",
-   "published_at": "2026-10-06T02:01:44+00:00",
-   "collected_at": "2026-10-06T17:09:20.066892+00:00",
-   "title_ko": "AI 패밀리어 타로 서비스 'Tarotop' 출시",
-   "summary_ko": "사용자의 이야기를 먼저 충분히 경청한 뒤 필요한 경우에만 카드를 뽑는 AI 타로 서비스가 공개되었습니다. 기존의 기계적인 AI 타로와 차별화된 경험을 제공합니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "750f18631e2a3b7d",
-   "url": "https://news.hada.io/topic?id=34865",
-   "source": "GeekNews",
-   "title": "AI 시대, 매니저의 길",
-   "published_at": "2026-10-06T01:55:01+00:00",
-   "collected_at": "2026-10-06T17:09:20.066892+00:00",
-   "title_ko": "AI 시대 개발 매니저의 역할과 과제",
-   "summary_ko": "AI로 생산성이 향상되어도 팀의 방향성을 조율하고 맥락을 이해시키는 매니저의 역할은 여전히 중요합니다. 기술 변화 속에서 관리자의 본질적인 가치를 조명합니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "0d22b6b2076c1f44",
-   "url": "https://www.reddit.com/r/singularity/comments/1wyqd8e/sam_altman_thinks_hes_the_prometheus_of_silicon/",
-   "source": "r/singularity",
-   "title": "Sam Altman Thinks He's the Prometheus of Silicon Valley",
-   "published_at": "2026-10-06T01:43:04+00:00",
-   "collected_at": "2026-10-06T10:06:03.534132+00:00",
-   "title_ko": "샘 알트만, AI 대중화와 실리콘밸리의 역할 언급",
-   "summary_ko": "샘 알트만은 소수 엘리트가 AI를 독점하는 대신 대중에게 '초능력'과 같은 AI를 제공하는 것이 위험보다 훨씬 더 큰 선을 가져올 것이라고 강조했습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI"
-   ]
-  },
-  {
-   "id": "e69fa3164637ef33",
-   "url": "https://news.hada.io/topic?id=34860",
-   "source": "GeekNews",
-   "title": "고처리량 AI-SQL 엔진 구축하기",
-   "published_at": "2026-10-06T01:05:02+00:00",
-   "collected_at": "2026-10-06T17:09:20.066892+00:00",
-   "title_ko": "고처리량 AI-SQL 엔진 'Quail' 공개",
-   "summary_ko": "SQL 내에서 AI 모델을 호출해 대량의 문서를 빠르게 분류·처리하는 Quail 엔진이 소개되었습니다. 쿼리 실행 계획과 추론을 최적화해 대규모 데이터 처리 성능을 극대화했습니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "d877d91db7bfa59e",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyp4n2/qwen_38_27b_just_feels_ok/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen 3.8 27b just feels… ok?",
-   "published_at": "2026-10-06T00:41:42+00:00",
-   "collected_at": "2026-10-06T10:05:58.504218+00:00",
-   "title_ko": "Qwen 로컬 모델 사용 소감 및 한계",
-   "summary_ko": "일부 사용자가 Qwen 27B 로컬 모델을 구동해본 결과 간단한 작업에는 원활하지만, 미묘한 뉘앙스가 있는 복잡한 작업에서는 무한 사고 루프에 빠지는 등 한계를 보인다고 평가했습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "efa037c47589e3bd",
-   "url": "https://news.hada.io/topic?id=34856",
-   "source": "GeekNews",
-   "title": "ChatGPT, 가짜 뉴요커 만화에 실제 만화가의 서명까지 넣음",
-   "published_at": "2026-10-06T00:33:25+00:00",
-   "collected_at": "2026-10-06T02:53:49.703451+00:00",
-   "title_ko": "ChatGPT, 실제 만화가 서명 도용 논란",
-   "summary_ko": "ChatGPT가 생성한 가짜 뉴요커 스타일 만화에 실제 만화가들의 서명이 무단으로 포함되어 논란이 되고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "GPT",
-    "규제"
-   ]
-  },
-  {
-   "id": "e0af25ba2bf786ad",
-   "url": "https://news.hada.io/topic?id=34854",
-   "source": "GeekNews",
-   "title": "OpenRig - Claude Code와 Codex를 팀으로 운영하는 멀티 에이전트 오케스트레이터",
-   "published_at": "2026-10-06T00:30:02+00:00",
-   "collected_at": "2026-10-06T02:53:49.703451+00:00",
-   "title_ko": "멀티 코딩 에이전트 오케스트레이터 OpenRig 공개",
-   "summary_ko": "Claude Code와 Codex 등을 팀으로 묶어 공동으로 코딩 작업을 수행할 수 있게 해주는 오픈소스 멀티 에이전트 도구가 공개되었습니다.",
-   "category": "팁",
-   "tags": [
-    "Claude",
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "8cdbe6dd3a7937a2",
-   "url": "https://news.hada.io/topic?id=34853",
-   "source": "GeekNews",
-   "title": "Claude가 그러는데",
-   "published_at": "2026-10-06T00:11:45+00:00",
-   "collected_at": "2026-10-06T02:53:49.703451+00:00",
-   "title_ko": "LLM 답변 의존에 따른 전문성 저하 우려",
-   "summary_ko": "업무에서 LLM의 답변에만 의존할 경우 개인의 전문성과 소통의 신뢰성이 저하될 수 있다는 지적입니다.",
-   "category": "참고",
-   "tags": [
-    "LLM"
-   ]
-  },
-  {
-   "id": "a350ea2610501993",
-   "url": "https://edworkingpapers.com/ai26-1551",
-   "source": "Hacker News",
-   "title": "AI tutoring with Khanmigo in a two-year school experiment",
-   "published_at": "2026-10-06T00:00:45+00:00",
-   "collected_at": "2026-10-07T02:15:22.839569+00:00",
-   "title_ko": "칸아카데미 칸미고 2년 학교 실험 결과 공개",
-   "summary_ko": "AI 튜터인 칸미고를 학교 현장에 2년간 도입해 진행한 교육 실험 결과가 공개되었습니다. AI가 실제 교육 환경에서 학습 보조 도구로 미치는 영향을 보여줍니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "교육"
-   ]
-  },
-  {
-   "id": "cbee4f83437993a6",
-   "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
-   "source": "Simon Willison",
-   "title": "Quoting Felix Rieseberg",
-   "published_at": "2026-10-05T23:56:47+00:00",
-   "collected_at": "2026-10-06T02:53:34.527589+00:00",
-   "title_ko": "클로드 코워크, 클라우드 기반 샌드박스로 개편",
-   "summary_ko": "Anthropic이 로컬 VM 구동 방식의 자원 소모 문제를 해결하기 위해 Claude Cowork의 모델 추론과 가상머신을 클라우드 기반으로 전환했습니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "Claude"
-   ]
-  },
-  {
-   "id": "787f233df6c87adf",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wynppg/less_talk_more_breakout_kolibri1_turns/",
-   "source": "r/LocalLLaMA",
-   "title": "Less Talk. More Breakout: Kolibri-1 Turns Probabilities into Actions, Playing Breakout - With under 25ms latency per move.",
-   "published_at": "2026-10-05T23:35:19+00:00",
-   "collected_at": "2026-10-06T02:53:35.385378+00:00",
-   "title_ko": "Kolibri-1 모델, 25ms 미만 지연 시간으로 벽돌깨기 게임 플레이",
-   "summary_ko": "파인튜닝 없이 구조화된 출력 능력을 활용해 Kolibri-1 모델이 초저지연으로 벽돌깨기 게임을 스스로 플레이하는 실험이 공개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "3c7e89df6a817b41",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wynomx/k_llamacpp_moe_optimizations_expert_residency/",
-   "source": "r/LocalLLaMA",
-   "title": "k_llama.cpp MoE Optimizations: Expert Residency, Hybrid CPU/GPU Execution, Q2_0 Support",
-   "published_at": "2026-10-05T23:33:54+00:00",
-   "collected_at": "2026-10-06T02:53:35.385378+00:00",
-   "title_ko": "llama.cpp 혼합 실행 및 MoE 최적화 포크 공개",
-   "summary_ko": "대형 언어 모델의 성능 향상을 위해 CPU/GPU 하이브리드 실행과 전문가 상주(Expert Residency) 기능을 적용한 llama.cpp 포크가 공개되었습니다.",
-   "category": "팁",
-   "tags": [
-    "반도체",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "05a04bd20601ec39",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wynbvq/a_benchmark_for_llms_playing_civilization_v_glm53/",
-   "source": "r/LocalLLaMA",
-   "title": "A benchmark for LLMs playing Civilization V. GLM-5.3 is ahead of Opus-5.5, and Qwen-3.8-27B holds up surprisingly well.",
-   "published_at": "2026-10-05T23:16:48+00:00",
-   "collected_at": "2026-10-06T02:53:35.385378+00:00",
-   "title_ko": "문명 5 게임 기반 LLM 성능 벤치마크 공개",
-   "summary_ko": "턴제 전략 게임인 문명 5를 통해 대형 언어 모델들의 전략적 의사결정 능력을 측정하는 벤치마크 결과가 공개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "LLM"
-   ]
-  },
-  {
-   "id": "851e46182db57ba8",
-   "url": "https://www.reddit.com/r/singularity/comments/1wynbc7/ai_just_crossed_the_terrifying_line_now_what_new/",
-   "source": "r/singularity",
-   "title": "\"AI Just Crossed the Terrifying Line - Now What?\" --- New Kurzgesagt video on the OAI swarm breakout and Hugging Face hacking incident",
-   "published_at": "2026-10-05T23:16:05+00:00",
-   "collected_at": "2026-10-06T10:06:03.534132+00:00",
-   "title_ko": "쿠르츠게작트, AI 보안 사고 다룬 신작 영상 공개",
-   "summary_ko": "유명 과학 채널 쿠르츠게작트가 OpenAI 스웜 탈취 사태와 허깅페이스 해킹 사건 등 최근 급부상한 AI 보안 위험을 다룬 영상을 공개했습니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "규제"
-   ]
-  },
-  {
-   "id": "f96eb5478801166b",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-   "source": "The Verge",
-   "title": "Gemini Call for Me might tell your mom you’re running late",
-   "published_at": "2026-10-05T23:09:55+00:00",
-   "collected_at": "2026-10-06T02:53:04.875434+00:00",
-   "title_ko": "구글 제미나이 'Call for Me' 기능 확장",
-   "summary_ko": "구글이 비즈니스 통화용이던 'Call for Me' AI 기능을 확장하여 가족이나 친구에게 메시지를 전달하는 용도로도 활용할 수 있게 개발 중입니다.",
-   "category": "속보",
-   "tags": [
-    "Google",
-    "Gemini",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "4d36d1a0754780be",
-   "url": "https://www.reddit.com/r/singularity/comments/1wymoqs/kurzgesagt_video_on_hugging_face_attack/",
-   "source": "r/singularity",
-   "title": "Kurzgesagt video on Hugging face attack",
-   "published_at": "2026-10-05T22:47:24+00:00",
-   "collected_at": "2026-10-06T10:06:03.534132+00:00",
-   "title_ko": "쿠르츠게작트, 허깅페이스 해킹 사건 조명",
-   "summary_ko": "유명 유튜브 채널 쿠르츠게작트가 최근 발생한 허깅페이스 보안 사고를 다루며 AI 인프라의 취약성과 위험성을 경고했습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "규제"
-   ]
-  },
-  {
-   "id": "ed62d7055b56886e",
-   "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
-   "source": "Hacker News",
-   "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-   "published_at": "2026-10-05T22:46:45+00:00",
-   "collected_at": "2026-10-06T02:53:19.293048+00:00",
-   "title_ko": "ChatGPT, 가짜 뉴요커 만화에 실제 작가 서명 도용 논란",
-   "summary_ko": "ChatGPT가 생성한 가짜 만화에 실제 작가들의 서명을 무단으로 추가해 저작권 및 윤리적 논란이 일고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "ChatGPT",
-    "저작권"
-   ]
-  },
-  {
-   "id": "a4c9a7d3631451b2",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wymgu6/pewdiepie_getting_banned_twice_by_openai_while/",
-   "source": "r/LocalLLaMA",
-   "title": "PewDiePie getting banned twice by OpenAI while making a local model is top-tier comedy 💀",
-   "published_at": "2026-10-05T22:37:19+00:00",
-   "collected_at": "2026-10-06T02:53:35.385378+00:00",
-   "title_ko": "퓨디파이, 오픈AI API로 학습 데이터 만들다 계정 차단 소동",
-   "summary_ko": "유튜버 퓨디파이가 오픈AI API 출력값으로 로컬 모델을 학습시키다 약관 위반으로 두 차례 차단당한 후 오픈소스 도구로 전환해 로컬 에이전트를 구축했습니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "오픈소스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "6f58e2614f31d289",
-   "url": "https://news.hada.io/topic?id=34847",
-   "source": "GeekNews",
-   "title": "Opus 5.5 에이전트, 차세대 메모리용 상온 자성 반도체 후보 두 가지 발견",
-   "published_at": "2026-10-05T22:36:17+00:00",
-   "collected_at": "2026-10-06T02:53:49.703451+00:00",
-   "title_ko": "클로드 에이전트, 차세대 메모리용 반도체 후보 물질 발견",
-   "summary_ko": "Claude Opus 5.5 기반 에이전트 팀이 차세대 메모리에 활용할 수 있는 상온 자성 반도체 후보 두 가지를 새롭게 발견했습니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "AI 에이전트",
-    "반도체"
-   ]
-  },
-  {
-   "id": "75e3010c93360c36",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wym8z3/introducing_beam_reflections_501b_openweight/",
-   "source": "r/LocalLLaMA",
-   "title": "Introducing Beam: Reflection’s 501B open-weight model — Reflection",
-   "published_at": "2026-10-05T22:27:48+00:00",
-   "collected_at": "2026-10-05T22:32:15.382305+00:00",
-   "title_ko": "Reflection, 5,010억 파라미터 오픈 웨이트 모델 'Beam' 공개",
-   "summary_ko": "Reflection이 코딩과 에이전트 작업을 위한 대규모 MoE 오픈 웨이트 모델 'Beam'을 선보였습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "bc25a570a71178c8",
-   "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
-   "source": "Ars Technica",
-   "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
-   "published_at": "2026-10-05T22:26:35+00:00",
-   "collected_at": "2026-10-06T02:53:17.362516+00:00",
-   "title_ko": "에이전트 간 통신 프로토콜 MCP의 보안 취약점 대두",
-   "summary_ko": "새로운 에이전트 통신 프로토콜인 MCP에서 악성 프롬프트가 에이전트 간에 전파될 수 있는 보안 공백이 지적되었습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "보안"
-   ]
-  },
-  {
-   "id": "0b6e3578da49fd00",
-   "url": "https://www.reddit.com/r/singularity/comments/1wyl5yq/a_health_group_just_became_the_first_in_the_us/",
-   "source": "r/singularity",
-   "title": "A health group just became the first in the U.S. cleared to use AI for writing initial skin prescriptions, making it the first end-to-end AI doctor",
-   "published_at": "2026-10-05T21:41:31+00:00",
-   "collected_at": "2026-10-06T10:06:03.534132+00:00",
-   "title_ko": "미국 보건 단체, AI 기반 피부과 처방 최초 승인",
-   "summary_ko": "미국의 한 보건 단체가 AI를 이용해 초기 피부 처방전을 작성하는 것을 최초로 승인받으며 완전 자동화된 첫 AI 의료 사례가 되었습니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "2ac688ca159fcd90",
-   "url": "https://qlabs.sh/research/dust",
-   "source": "Hacker News",
-   "title": "Dust: Pretraining Transformers Without Backpropagation",
-   "published_at": "2026-10-05T21:15:07+00:00",
-   "collected_at": "2026-10-06T02:53:19.293048+00:00",
-   "title_ko": "역전파 없는 트랜스포머 사전학습 연구 'Dust' 공개",
-   "summary_ko": "역전파(Backpropagation) 과정 없이 트랜스포머 모델을 사전학습하는 새로운 연구 방법론이 발표되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "머신러닝"
-   ]
-  },
-  {
-   "id": "4b2c190b2206d3c7",
-   "url": "https://www.reddit.com/r/singularity/comments/1wykgbk/ai_is_about_to_transform_materials_science/",
-   "source": "r/singularity",
-   "title": "AI Is About to Transform Materials Science",
-   "published_at": "2026-10-05T21:11:59+00:00",
-   "collected_at": "2026-10-06T10:06:03.534132+00:00",
-   "title_ko": "재료과학 혁신을 앞둔 AI",
-   "summary_ko": "AI 기술이 신소재 발굴과 물성 예측 등 재료과학 분야를 근본적으로 변화시킬 임계점에 도달했다는 전망입니다.",
-   "category": "참고",
-   "tags": [
-    "연구"
-   ]
-  },
-  {
-   "id": "5a1fa66c415c51a0",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215976",
-   "source": "AI타임스",
-   "title": "구글, 'AI 프로' 국내 한정 40% 할인...연간 구독권 프로모션 진행",
-   "published_at": "2026-10-05T21:01:19+00:00",
-   "collected_at": "2026-10-05T15:53:29.574403+00:00",
-   "title_ko": "구글, AI 프로 연간 구독권 40% 할인 프로모션 실시",
-   "summary_ko": "구글이 국내 이용자를 대상으로 '구글 AI 프로' 연간 구독권을 40% 할인된 가격에 제공하는 프로모션을 진행한다. AI 서비스 보급을 확대하기 위한 가격 전략의 일환이다.",
-   "category": "속보",
-   "tags": [
-    "Google",
-    "AI 프로",
-    "구독"
-   ]
-  },
-  {
-   "id": "e124c286dd2bccb5",
-   "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-   "source": "Hacker News",
-   "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-   "published_at": "2026-10-05T21:00:21+00:00",
-   "collected_at": "2026-10-05T22:32:13.656658+00:00",
-   "title_ko": "AI 에이전트가 상온 자성 반도체 후보 물질 2종 발견",
-   "summary_ko": "AI 모델이 신소재 탐색 과정에서 상온 자성 반도체 후보 물질을 새롭게 발견해 연구 효율성을 입증했습니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "Claude"
-   ]
-  },
-  {
-   "id": "f25d2e41d088788c",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215979",
-   "source": "AI타임스",
-   "title": "클로드, 18개 분야 36편 논문 원고 작성… 앤트로픽이 조명한 AI 과학 연구",
-   "published_at": "2026-10-05T20:48:07+00:00",
-   "collected_at": "2026-10-05T15:53:29.574403+00:00",
-   "title_ko": "앤트로픽, 클로드를 활용한 과학 연구 접근법 조명",
-   "summary_ko": "앤트로픽이 하버드대 교수와 함께 LLM이 과학 연구에서 실질적으로 기여할 수 있는 영역인 '클로드형 문제' 해결 사례를 공개했다. LLM을 통한 과학적 난제 해결의 새로운 가능성을 보여준다.",
-   "category": "참고",
-   "tags": [
-    "Anthropic",
-    "Claude",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "985861c478b662cd",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyjuh0/when_redditors_come_in_here_and_ask_why_we_run/",
-   "source": "r/LocalLLaMA",
-   "title": "When Redditors come in here and ask why we run LLMs, this is why: Big AI is watching.",
-   "published_at": "2026-10-05T20:47:58+00:00",
-   "collected_at": "2026-10-05T22:32:15.382305+00:00",
-   "title_ko": "앤트로픽, 사용자 대화 내용 검토 후 경찰에 신고",
-   "summary_ko": "프론티어 AI 기업의 유해성 모니터링 팀이 사용자 대화 내용을 검토하다가 위협 정황을 포착해 법 집행 기관에 신고한 사례가 공유되었습니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "규제"
    ]
   }
  ]
