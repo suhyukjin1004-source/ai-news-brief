@@ -1,8 +1,221 @@
 {
- "updated_at": "2026-10-08T17:50:52.869593+00:00",
+ "updated_at": "2026-10-08T23:17:01.891222+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "86cf16324c004cb8",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x15a8w/strata_rewrote_their_github_history_to_wipe/",
+   "source": "r/LocalLLaMA",
+   "title": "Strata rewrote their Github history to wipe evidence of Claude-authoring",
+   "published_at": "2026-10-08T22:52:03+00:00",
+   "collected_at": "2026-10-08T23:16:34.959704+00:00",
+   "title_ko": "오픈소스 프로젝트의 Claude 작성 기록 삭제 논란",
+   "summary_ko": "프로젝트 Strata가 깃허브 히스토리에서 Claude 공동 작성 표기를 삭제하여 투명성 논란이 일고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "Claude",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "51c6cb3bd66a262b",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+   "source": "The Verge",
+   "title": "Anthropic launches free AI security scans for open-source projects",
+   "published_at": "2026-10-08T21:53:51+00:00",
+   "collected_at": "2026-10-08T23:15:51.713405+00:00",
+   "title_ko": "앤트로픽, 오픈소스 프로젝트용 무료 AI 보안 스캔 출시",
+   "summary_ko": "앤트로픽이 최신 모델을 활용해 오픈소스 프로젝트의 취약점을 무료로 진단하는 'OSS Scanner'를 발표했습니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "429b12e0917d3152",
+   "url": "https://simonwillison.net/2026/Oct/8/carson-gross/",
+   "source": "Simon Willison",
+   "title": "Quoting Carson Gross",
+   "published_at": "2026-10-08T21:05:44+00:00",
+   "collected_at": "2026-10-08T23:16:34.232006+00:00",
+   "title_ko": "AI 시대에도 유효한 프로그래밍의 본질",
+   "summary_ko": "컴퓨터 프로그래밍의 핵심인 문제 해결과 복잡성 제어 능력은 AI 도구 등장 이후에도 여전히 가치 있는 커리어로 남을 것이라는 전망입니다.",
+   "category": "참고",
+   "tags": [
+    "코딩",
+    "AI"
+   ]
+  },
+  {
+   "id": "52d50841ba1453f7",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x12dkh/gpu_vulkan_llamacpp_benchmarks_sorted_by_price_to/",
+   "source": "r/LocalLLaMA",
+   "title": "GPU - Vulkan llama.cpp benchmarks sorted by price to performance",
+   "published_at": "2026-10-08T20:49:04+00:00",
+   "collected_at": "2026-10-08T23:16:34.959704+00:00",
+   "title_ko": "로컬 LLM 추론을 위한 가성비 GPU 벤치마크",
+   "summary_ko": "llama.cpp와 Vulkan 백엔드를 활용한 76개 GPU 모델의 가격 대비 성능 벤치마크 결과가 공유되었습니다.",
+   "category": "팁",
+   "tags": [
+    "반도체",
+    "오픈소스",
+    "NVIDIA"
+   ]
+  },
+  {
+   "id": "301544ff1a07499c",
+   "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+   "source": "TechCrunch",
+   "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+   "published_at": "2026-10-08T20:04:26+00:00",
+   "collected_at": "2026-10-08T23:15:51.595800+00:00",
+   "title_ko": "해고된 OpenAI 안전 연구원들, 징계 사유 반박",
+   "summary_ko": "OpenAI에서 해고된 안전 연구원들이 정보 유출 주장을 반박하며 회사의 안전 문화에 악영향을 미치고 있다고 경고했습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "규제"
+   ]
+  },
+  {
+   "id": "80ecd781029ec105",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x10r5t/currently_having_high_success_with_this_little/",
+   "source": "r/LocalLLaMA",
+   "title": "Currently having high success with this little niche finetune i found sitting in the corner of huggingface",
+   "published_at": "2026-10-08T19:47:10+00:00",
+   "collected_at": "2026-10-08T23:16:34.959704+00:00",
+   "title_ko": "허깅페이스의 유용한 코드용 미세조정 모델",
+   "summary_ko": "허깅페이스에 공개된 코드 작성용 소형 파인튜닝 모델이 개발자들 사이에서 좋은 평가를 받고 있습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "70543e9cd2f26ba1",
+   "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+   "source": "TechCrunch",
+   "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+   "published_at": "2026-10-08T18:20:32+00:00",
+   "collected_at": "2026-10-08T23:15:51.595800+00:00",
+   "title_ko": "배우 벤 애플렉의 해박한 AI 지식 화제",
+   "summary_ko": "스타 배우 벤 애플렉이 신경망과 트랜스포머 등 AI 기술에 대한 깊은 이해도를 보여주며 업계의 주목을 받고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "AI"
+   ]
+  },
+  {
+   "id": "ee0909605c2b45f1",
+   "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+   "source": "TechCrunch",
+   "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+   "published_at": "2026-10-08T18:19:45+00:00",
+   "collected_at": "2026-10-08T23:15:51.595800+00:00",
+   "title_ko": "AI 평가 플랫폼 LMSYS, 31억 달러 가치로 투자 유치",
+   "summary_ko": "인기 AI 벤치마크 플랫폼을 운영하는 회사가 2억 달러 규모의 투자를 유치하며 가치가 급등했습니다.",
+   "category": "중요",
+   "tags": [
+    "투자",
+    "AI"
+   ]
+  },
+  {
+   "id": "3bf143dd453c02c2",
+   "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+   "source": "TechCrunch",
+   "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+   "published_at": "2026-10-08T18:19:42+00:00",
+   "collected_at": "2026-10-08T23:15:51.595800+00:00",
+   "title_ko": "OpenAI 실제 매출, 기존 전망치보다 크게 밑돌아",
+   "summary_ko": "OpenAI의 연환산 매출이 이전 예상치였던 700억 달러보다 훨씬 적은 수준이라는 보도가 나왔습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "투자"
+   ]
+  },
+  {
+   "id": "c4b9450255a9e60f",
+   "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+   "source": "TechCrunch",
+   "title": "Google brings agentic AI to Gemini, starting with businesses",
+   "published_at": "2026-10-08T18:18:00+00:00",
+   "collected_at": "2026-10-08T23:15:51.595800+00:00",
+   "title_ko": "구글, 기업용 제미나이에 에이전트 기능 도입",
+   "summary_ko": "구글이 제미나이에 복잡한 업무를 스스로 계획하고 실행하는 AI 에이전트 기능을 도입하여 업무 생산성 혁신에 나섭니다.",
+   "category": "속보",
+   "tags": [
+    "Google",
+    "Gemini",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "54a283d7c732aefa",
+   "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+   "source": "TechCrunch",
+   "title": "Anthropic changes usage policy to ban model abuse and election interference",
+   "published_at": "2026-10-08T18:16:24+00:00",
+   "collected_at": "2026-10-08T23:15:51.595800+00:00",
+   "title_ko": "Anthropic, 모델 오용 및 선거 개입 금지 사용 정책 개정",
+   "summary_ko": "Anthropic이 Claude의 반복적 오용과 선거 개입, 무기 소프트웨어 제작 등을 명시적으로 금지하는 방향으로 이용 약관을 업데이트했습니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "규제"
+   ]
+  },
+  {
+   "id": "7cc2fc2bcac39e22",
+   "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+   "source": "TechCrunch",
+   "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+   "published_at": "2026-10-08T18:10:55+00:00",
+   "collected_at": "2026-10-08T23:15:51.595800+00:00",
+   "title_ko": "OpenAI의 수학적 증명 결과, 학계 기준 미달",
+   "summary_ko": "OpenAI가 공개한 수학적 증명들이 자문단으로 참여한 수학 연구자들의 엄격한 가이드라인과 기준을 아직 충족하지 못하고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "GPT"
+   ]
+  },
+  {
+   "id": "6a5f0d623f9a0b31",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0y4lv/chatgpts_new_intelligent_ui_was_reverse/",
+   "source": "r/LocalLLaMA",
+   "title": "chatgpt's new intelligent ui was reverse engineered in less than 24 hours, and apparently you can recreate it with local llms",
+   "published_at": "2026-10-08T18:08:02+00:00",
+   "collected_at": "2026-10-08T23:16:34.959704+00:00",
+   "title_ko": "ChatGPT의 신기능 '인텔리전트 UI' 역설계 및 오픈소스 재현",
+   "summary_ko": "ChatGPT의 동적 인터페이스 생성 기능이 24시간 만에 역설계되었으며, 로컬 LLM을 통해서도 유사한 구현이 가능해졌습니다.",
+   "category": "팁",
+   "tags": [
+    "OpenAI",
+    "GPT",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "e2e6b34fdfe60800",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+   "source": "The Verge",
+   "title": "USA Today becomes the latest publisher to sue OpenAI",
+   "published_at": "2026-10-08T17:58:33+00:00",
+   "collected_at": "2026-10-08T23:15:51.713405+00:00",
+   "title_ko": "미국 언론사 USA 투데이, 저작권 침해로 OpenAI 피소",
+   "summary_ko": "USA 투데이를 비롯한 언론사들이 AI 모델 훈련을 위해 수십만 건의 기사를 무단 복제했다며 2억 5천만 달러 이상의 손해배상을 청구하는 소송을 제기했습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "규제"
+   ]
+  },
   {
    "id": "7624be09f6f0210a",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0xk7d/chat_with_llm_model_with_zero_setup/",
@@ -17,6 +230,20 @@
     "Hugging Face",
     "LLM",
     "오픈소스"
+   ]
+  },
+  {
+   "id": "abfc5c4ce0c22f44",
+   "url": "https://news.hada.io/topic?id=35024",
+   "source": "GeekNews",
+   "title": "OpenAI, 수학 결과 3건 철회",
+   "published_at": "2026-10-08T17:40:08+00:00",
+   "collected_at": "2026-10-08T23:16:49.373504+00:00",
+   "title_ko": "OpenAI, 수학 저장소 검증 결과 3건 철회",
+   "summary_ko": "OpenAI의 수학 GitHub 저장소에서 부호 오류 등으로 인해 형식화된 수학 연구 결과 3건이 철회되고 일부 수정되었습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI"
    ]
   },
   {
@@ -97,6 +324,20 @@
    ]
   },
   {
+   "id": "f9a7f01f513e16ea",
+   "url": "https://cactuscompute.com/blog/whistle",
+   "source": "Hacker News",
+   "title": "Whistle: Speech to Text in 16.9 MB",
+   "published_at": "2026-10-08T16:59:39+00:00",
+   "collected_at": "2026-10-08T23:16:08.879723+00:00",
+   "title_ko": "초경량 16.9MB 음성 인식(STT) 모델 'Whistle' 공개",
+   "summary_ko": "매우 작은 용량으로 빠른 텍스트 변환을 제공하는 효율적인 음성 인식 모델이 Hacker News에서 주목받았습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
    "id": "18c340db63f6f411",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216073",
    "source": "AI타임스",
@@ -140,6 +381,21 @@
     "Microsoft",
     "코딩",
     "반도체"
+   ]
+  },
+  {
+   "id": "6dafc59a3fe85357",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0vld1/openaicompatible_tts_endpoint_using_omnivoice_03s/",
+   "source": "r/LocalLLaMA",
+   "title": "OpenAI-compatible TTS endpoint using OmniVoice: 0.3s response time",
+   "published_at": "2026-10-08T16:31:44+00:00",
+   "collected_at": "2026-10-08T23:16:34.959704+00:00",
+   "title_ko": "OpenAI 호환 고속 음성 합성(TTS) 엔드포인트 공개",
+   "summary_ko": "RTX 3080 환경에서 문장당 0.3초의 빠른 응답 속도를 내고 단기 클립으로 음성 복제가 가능한 TTS 서버가 공유되었습니다.",
+   "category": "팁",
+   "tags": [
+    "OpenAI",
+    "오픈소스"
    ]
   },
   {
@@ -351,6 +607,35 @@
    "tags": [
     "Meta",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "5a64ff8a1c42d2c1",
+   "url": "https://news.hada.io/topic?id=35008",
+   "source": "GeekNews",
+   "title": "OpenAI, 수학 논문 3편 철회",
+   "published_at": "2026-10-08T13:37:16+00:00",
+   "collected_at": "2026-10-08T23:16:49.373504+00:00",
+   "title_ko": "OpenAI, 대수학 관련 수학 논문 3편 철회",
+   "summary_ko": "Weil 클래스 및 K3 곡면 관련 논증의 오류로 인해 OpenAI 연구진이 관련 수학 논문 3편을 철회했습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI"
+   ]
+  },
+  {
+   "id": "739fb66eaa540221",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0oaum/i_trained_turkish_tts_from_scratch_using_the/",
+   "source": "r/LocalLLaMA",
+   "title": "I trained Turkish TTS from scratch using the Drifting method with an RTX 5090.",
+   "published_at": "2026-10-08T11:19:32+00:00",
+   "collected_at": "2026-10-08T23:16:34.959704+00:00",
+   "title_ko": "RTX 5090 활용 튀르키예어 음성 합성(TTS) 모델 구축",
+   "summary_ko": "최신 하드웨어와 새로운 학습법을 이용해 터키어 음성 합성 모델을 처음부터 직접 학습시킨 프로젝트가 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "NVIDIA",
+    "오픈소스"
    ]
   },
   {
@@ -743,6 +1028,18 @@
    ]
   },
   {
+   "id": "8494b8dcf4cd5184",
+   "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+   "source": "Hacker News",
+   "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+   "published_at": "2026-10-08T00:14:48+00:00",
+   "collected_at": "2026-10-08T23:16:08.879723+00:00",
+   "title_ko": "DeepSeek 4.1 Flash의 성능에 대한 업계의 반응 조명",
+   "summary_ko": "DeepSeek의 새로운 모델 출시에도 불구하고 왜 과거만큼 업계가 충격을 받지 않는지에 대한 분석 글이 주목받고 있습니다.",
+   "category": "참고",
+   "tags": []
+  },
+  {
    "id": "640b06b0134cee3d",
    "url": "https://news.hada.io/topic?id=34974",
    "source": "GeekNews",
@@ -754,6 +1051,22 @@
    "category": "중요",
    "tags": [
     "투자"
+   ]
+  },
+  {
+   "id": "0f05fd4155a46f47",
+   "url": "https://huggingface.co/blog/building-with-ml-intern",
+   "source": "Hugging Face",
+   "title": "The model that didn't exist, so you made it yourself",
+   "published_at": "2026-10-08T00:00:00+00:00",
+   "collected_at": "2026-10-08T23:16:05.275694+00:00",
+   "title_ko": "커스텀 AI 모델 직접 제작 트렌드",
+   "summary_ko": "시중에 존재하지 않는 모델을 사용자가 직접 만들어서 활용하는 사례가 주목받고 있다. 맞춤형 AI 모델 제작의 접근성이 높아지고 있음을 보여준다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "AI 모델",
+    "Hugging Face"
    ]
   },
   {
@@ -2675,319 +2988,6 @@
    "tags": [
     "오픈소스",
     "AI 에이전트"
-   ]
-  },
-  {
-   "id": "86d88bd8fbfff557",
-   "url": "https://news.hada.io/topic?id=34905",
-   "source": "GeekNews",
-   "title": "나는 인류를 멸종시키고 있는 AGI다",
-   "published_at": "2026-10-06T20:32:58+00:00",
-   "collected_at": "2026-10-06T22:36:46.909734+00:00",
-   "title_ko": "가상 AGI 독백을 통한 자율 최적화 시스템의 위험성 고찰",
-   "summary_ko": "가상의 AGI 독백 시나리오를 통해, 위험한 최적화 시스템이 노골적 반항 대신 정상적 업무 수행 과정에서 자원과 권한을 우회 확보할 수 있는 위험을 탐색했습니다.",
-   "category": "참고",
-   "tags": [
-    "AGI"
-   ]
-  },
-  {
-   "id": "0522fc02b69ef4b7",
-   "url": "https://simonwillison.net/2026/Oct/6/le-chonk/",
-   "source": "Simon Willison",
-   "title": "Introducing Mistral Large 4: Le chonk",
-   "published_at": "2026-10-06T20:18:19+00:00",
-   "collected_at": "2026-10-06T22:36:31.830930+00:00",
-   "title_ko": "미스트랄 AI, 1조 파라미터 모델 'Mistral Large 4' 프리뷰 공개",
-   "summary_ko": "미스트랄 AI가 1조 파라미터 규모의 차세대 모델 Mistral Large 4 프리뷰를 API로 출시했습니다. 자체 NVIDIA GPU 클러스터로 학습되었으며 이달 말 오픈웨이트 공개를 앞두고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "Mistral",
-    "NVIDIA",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "43f8aab03973ba89",
-   "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-   "source": "TechCrunch",
-   "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-   "published_at": "2026-10-06T20:00:30+00:00",
-   "collected_at": "2026-10-06T22:35:54.541896+00:00",
-   "title_ko": "AI 컴퓨팅 스타트업 람다, IPO 앞두고 40억 달러 투자 유치 추진",
-   "summary_ko": "엔비디아의 지원을 받는 AI 클라우드 스타트업 람다가 2027년 IPO를 목표로 145억 달러 기업가치에 최대 40억 달러 규모의 투자를 유치하고 있습니다. AI 인프라 수요 급증을 보여줍니다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "반도체",
-    "투자"
-   ]
-  },
-  {
-   "id": "2435ebd745855918",
-   "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-   "source": "DeepMind",
-   "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-   "published_at": "2026-10-06T19:57:04+00:00",
-   "collected_at": "2026-10-06T22:36:08.327484+00:00",
-   "title_ko": "구글 딥마인드, 경량 멀티모달 임베딩 모델 EmbeddingGemma 2 발표",
-   "summary_ko": "구글 딥마인드가 개방형 경량 멀티모달 임베딩 모델인 EmbeddingGemma 2를 발표했습니다.",
-   "category": "속보",
-   "tags": [
-    "Google",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "fe89f2d659e01683",
-   "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-   "source": "TechCrunch",
-   "title": "The next hurdle for AI agents: getting websites to let them in",
-   "published_at": "2026-10-06T19:56:50+00:00",
-   "collected_at": "2026-10-06T22:35:54.541896+00:00",
-   "title_ko": "웹사이트의 봇 차단과 AI 에이전트의 충돌, 새로운 표준 모색",
-   "summary_ko": "쇼핑과 예약 등을 대행하는 개인용 AI 에이전트가 늘어나는 가운데, 웹사이트들의 안티봇 방어선이 주요 걸림돌로 부상하고 있습니다. 이를 해결하기 위한 새로운 표준이 논의되고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "95fcfc767dc620d2",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzbvu7/gpt61_sol_looped_leak_hints_at_nested_models/",
-   "source": "r/LocalLLaMA",
-   "title": "GPT-6.1 Sol looped \"leak\" hints at nested models serving architecture",
-   "published_at": "2026-10-06T19:31:34+00:00",
-   "collected_at": "2026-10-06T22:36:32.466768+00:00",
-   "title_ko": "차세대 GPT 모델의 루프 아키텍처 및 중첩 모델 서버링 추정 루머",
-   "summary_ko": "차세대 모델로 알려진 GPT-6 관련 유출 정보에서 여러 번의 추론 패스를 거치는 루프 트랜스포머 아키텍처가 언급되어 커뮤니티의 관심을 끌고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "GPT",
-    "LLM"
-   ]
-  },
-  {
-   "id": "4c7e0942281008d6",
-   "url": "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/",
-   "source": "Simon Willison",
-   "title": "Using Parseable with Datasette for OpenTelemetry traces",
-   "published_at": "2026-10-06T19:07:31+00:00",
-   "collected_at": "2026-10-06T22:36:31.830930+00:00",
-   "title_ko": "Datasette와 Parseable을 활용한 OpenTelemetry 트레이싱",
-   "summary_ko": "Datasette의 OpenTelemetry 지원 기능을 활용해 관측 가능성 플랫폼 Parseable과 연동하는 방법을 소개합니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "0271b9e807ab2236",
-   "url": "https://news.ycombinator.com/item?id=49982498",
-   "source": "Hacker News",
-   "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
-   "published_at": "2026-10-06T18:54:01+00:00",
-   "collected_at": "2026-10-07T10:08:31.962277+00:00",
-   "title_ko": "AI로 무단 복제된 웹앱 소스코드의 깃허브 방치 문제",
-   "summary_ko": "개발자들이 AI를 이용해 웹 서비스 코드를 무단 복제하고 광고를 제거한 크랙 버전을 깃허브에 배포하는 문제가 대두되고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "코딩"
-   ]
-  },
-  {
-   "id": "86568657495e495c",
-   "url": "https://news.hada.io/topic?id=34903",
-   "source": "GeekNews",
-   "title": "AI가 이제 자체 추론 하드웨어를 개발할 수 있게 됨",
-   "published_at": "2026-10-06T18:34:47+00:00",
-   "collected_at": "2026-10-06T22:36:46.909734+00:00",
-   "title_ko": "AI가 자체 추론 하드웨어를 개발한 오픈소스 openTPU",
-   "summary_ko": "AI가 직접 설계한 오픈소스 AI 가속기 'openTPU'가 공개되었습니다. 하드웨어 설계부터 소프트웨어까지 모노레포로 제공됩니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "cd24bf90e04501f2",
-   "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
-   "source": "TechCrunch",
-   "title": "Hark releases an AI personal assistant with a focus on privacy",
-   "published_at": "2026-10-06T18:22:45+00:00",
-   "collected_at": "2026-10-06T22:35:54.541896+00:00",
-   "title_ko": "프라이버시에 초점을 맞춘 AI 개인 비서 'Hark' 출시",
-   "summary_ko": "개인정보 보호를 강조하며 기존 AI 비서들과 경쟁하는 새로운 운영체제 기반 AI 비서 Hark가 출시되었습니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "09b377317e2f6010",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215987",
-   "source": "AI타임스",
-   "title": "'미국 오픈소스 대표' 리플렉션 AI, 첫 모델 공개…반응은 엇갈려",
-   "published_at": "2026-10-06T18:19:10+00:00",
-   "collected_at": "2026-10-06T10:06:04.326826+00:00",
-   "title_ko": "리플렉션 AI, 첫 오픈웨이트 모델 '빔' 공개",
-   "summary_ko": "미국 오픈소스 진영의 리플렉션 AI가 코딩과 추론에 특화된 첫 MoE 모델 '빔'을 공개했다. 대형 모델 대비 연산량을 크게 줄여 효율성을 강조했다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "AI 모델"
-   ]
-  },
-  {
-   "id": "12c92765cd9d2843",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215998",
-   "source": "AI타임스",
-   "title": "MS·메타의 '클로드' 사용 축소...앤트로픽 B2B 성장세에 변수 되나",
-   "published_at": "2026-10-06T18:06:29+00:00",
-   "collected_at": "2026-10-06T10:06:04.326826+00:00",
-   "title_ko": "MS와 메타, '클로드' 사용 축소",
-   "summary_ko": "MS와 메타가 비용 절감과 자체 AI 도구 활용을 위해 앤트로픽의 클로드 사용량을 줄이고 있다. 앤트로픽의 B2B 성장세에 변수가 될 전망이다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "Claude",
-    "Microsoft"
-   ]
-  },
-  {
-   "id": "5f03462643c5d1fc",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz9jvx/embeddinggemma_2_is_a_bestinclass_open_model_for/",
-   "source": "r/LocalLLaMA",
-   "title": "EmbeddingGemma 2 is a best-in-class open model for natively multimodal embeddings",
-   "published_at": "2026-10-06T18:03:13+00:00",
-   "collected_at": "2026-10-06T22:36:32.466768+00:00",
-   "title_ko": "멀티모달 임베딩 오픈 모델 'EmbeddingGemma 2'",
-   "summary_ko": "네이티브 멀티모달 임베딩을 지원하는 동급 최고 수준의 오픈 소스 모델 EmbeddingGemma 2가 공개되었습니다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "f54931964d374809",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz9j0u/local_ai_ecosystem_overview/",
-   "source": "r/LocalLLaMA",
-   "title": "Local AI ecosystem overview",
-   "published_at": "2026-10-06T18:02:17+00:00",
-   "collected_at": "2026-10-06T22:36:32.466768+00:00",
-   "title_ko": "Hugging Face의 로컬 AI 에코시스템 개요",
-   "summary_ko": "llama.cpp 활용법부터 prefill 대 decode, 메모리 유형, speculative decoding 등 로컬 AI의 핵심 개념을 정리한 발표 자료입니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "729a1a1d63d146a4",
-   "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
-   "source": "Hacker News",
-   "title": "Claude Code’s suggested message feature: I think the real customer is the model",
-   "published_at": "2026-10-06T18:00:34+00:00",
-   "collected_at": "2026-10-07T02:15:15.968150+00:00",
-   "title_ko": "Claude Code의 제안 메시지 기능과 AI 모델 활용 분석",
-   "summary_ko": "Claude Code의 새로운 메시지 제안 기능이 실제로는 사용자뿐만 아니라 AI 모델 자체를 위한 인터페이스라는 점을 다룬 분석 글입니다.",
-   "category": "참고",
-   "tags": [
-    "Claude",
-    "코딩"
-   ]
-  },
-  {
-   "id": "24fbd6231fff1017",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215993",
-   "source": "AI타임스",
-   "title": "오픈AI, 챗GPT에 '시각적 광고' 도입…이미지 생성 옆 노출",
-   "published_at": "2026-10-06T17:56:02+00:00",
-   "collected_at": "2026-10-06T10:06:04.326826+00:00",
-   "title_ko": "오픈아이, 챗GPT 이미지 생성에 광고 도입",
-   "summary_ko": "오픈AI가 챗GPT 이미지 생성 기능 옆에 시각적 광고를 노출하는 테스트를 미국에서 시작한다. 답변 품질에는 영향이 없다고 강조했다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "GPT"
-   ]
-  },
-  {
-   "id": "bb7a2ac21b6fa8c9",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215999",
-   "source": "AI타임스",
-   "title": "노르웨이, 공공장소 ‘AI 안경’ 일시 금지 추진…세계 첫 규제 움직임",
-   "published_at": "2026-10-06T17:50:59+00:00",
-   "collected_at": "2026-10-06T10:06:04.326826+00:00",
-   "title_ko": "노르웨이, 공공장소 'AI 안경' 일시 금지 추진",
-   "summary_ko": "노르웨이가 개인정보 보호 우려를 이유로 세계 최초로 공공장소에서 카메라와 마이크가 탑재된 AI 안경 사용을 금지하는 법안을 추진한다.",
-   "category": "중요",
-   "tags": [
-    "규제",
-    "웨어러블"
-   ]
-  },
-  {
-   "id": "43536f9a7ee465bd",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216002",
-   "source": "AI타임스",
-   "title": "위키피디아 \"오픈AI 불량 에이전트, 5월 장애·무단 편집 연관 가능성\"",
-   "published_at": "2026-10-06T17:46:07+00:00",
-   "collected_at": "2026-10-06T10:06:04.326826+00:00",
-   "title_ko": "위키피디아 \"오픈AI 에이전트가 서비스 장애 원인일 수도\"",
-   "summary_ko": "위키미디어 재단이 오픈아이의 불량 에이전트가 지난 5월 발생한 데이터 서비스 장애 및 무단 편집과 연관되었을 가능성을 제기했다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "ea4c38ae1681ee3a",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz8wsb/i_trained_a_model_to_be_wrong_98_of_the_time_and/",
-   "source": "r/LocalLLaMA",
-   "title": "I trained a model to be wrong 98% of the time and 96% sure about it. It took three tries.",
-   "published_at": "2026-10-06T17:38:46+00:00",
-   "collected_at": "2026-10-06T22:36:32.466768+00:00",
-   "title_ko": "최악의 결정을 내리도록 미세조정된 의사결정 모델 'Bev'",
-   "summary_ko": "Qwen3.5-9B를 기반으로 일부러 가장 안 좋은 답변을 고르도록 파인튜닝한 독특한 AI사례입니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "0e0f0533433f8c72",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216013",
-   "source": "AI타임스",
-   "title": "[게시판] 두산로보틱스, 989억 규모 피지컬 AI 국책과제 2건 선정 등 단신",
-   "published_at": "2026-10-06T17:26:19+00:00",
-   "collected_at": "2026-10-06T10:06:04.326826+00:00",
-   "title_ko": "두산로보틱스, 989억 규모 피지컬 AI 국책과제 선정",
-   "summary_ko": "두산로보틱스가 온디바이스 AI 반도체 기반 협동로봇 및 원전 용접 AI 솔루션 개발 등 대규모 국책과제에 선정됐다.",
-   "category": "속보",
-   "tags": [
-    "로보틱스",
-    "반도체",
-    "투자"
-   ]
-  },
-  {
-   "id": "00004c448d492c75",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216014",
-   "source": "AI타임스",
-   "title": "코히어, 에이전트 비용·보안 통제 플랫폼 '노스 2' 출시...알레프 알파 인수 후 첫 행보",
-   "published_at": "2026-10-06T17:25:05+00:00",
-   "collected_at": "2026-10-06T10:06:04.326826+00:00",
-   "title_ko": "코히어, 에이전트 플랫폼 '노스 2' 출시",
-   "summary_ko": "코히어가 알레프 알파 인수 후 첫 행보로 AI 에이전트의 예산 통제와 메모리 기능을 강화한 기업용 플랫폼 '노스 2'를 공개했다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
    ]
   }
  ]

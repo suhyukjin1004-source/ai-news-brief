@@ -15,6 +15,35 @@
   ]
  },
  {
+  "id": "5a64ff8a1c42d2c1",
+  "url": "https://news.hada.io/topic?id=35008",
+  "source": "GeekNews",
+  "title": "OpenAI, 수학 논문 3편 철회",
+  "published_at": "2026-10-08T13:37:16+00:00",
+  "collected_at": "2026-10-08T23:16:49.373504+00:00",
+  "title_ko": "OpenAI, 대수학 관련 수학 논문 3편 철회",
+  "summary_ko": "Weil 클래스 및 K3 곡면 관련 논증의 오류로 인해 OpenAI 연구진이 관련 수학 논문 3편을 철회했습니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI"
+  ]
+ },
+ {
+  "id": "739fb66eaa540221",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0oaum/i_trained_turkish_tts_from_scratch_using_the/",
+  "source": "r/LocalLLaMA",
+  "title": "I trained Turkish TTS from scratch using the Drifting method with an RTX 5090.",
+  "published_at": "2026-10-08T11:19:32+00:00",
+  "collected_at": "2026-10-08T23:16:34.959704+00:00",
+  "title_ko": "RTX 5090 활용 튀르키예어 음성 합성(TTS) 모델 구축",
+  "summary_ko": "최신 하드웨어와 새로운 학습법을 이용해 터키어 음성 합성 모델을 처음부터 직접 학습시킨 프로젝트가 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "NVIDIA",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "d0ff32802379e573",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0n7pj/best_current_r9700_inference_engine/",
   "source": "r/LocalLLaMA",
@@ -404,6 +433,18 @@
   ]
  },
  {
+  "id": "8494b8dcf4cd5184",
+  "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+  "source": "Hacker News",
+  "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+  "published_at": "2026-10-08T00:14:48+00:00",
+  "collected_at": "2026-10-08T23:16:08.879723+00:00",
+  "title_ko": "DeepSeek 4.1 Flash의 성능에 대한 업계의 반응 조명",
+  "summary_ko": "DeepSeek의 새로운 모델 출시에도 불구하고 왜 과거만큼 업계가 충격을 받지 않는지에 대한 분석 글이 주목받고 있습니다.",
+  "category": "참고",
+  "tags": []
+ },
+ {
   "id": "640b06b0134cee3d",
   "url": "https://news.hada.io/topic?id=34974",
   "source": "GeekNews",
@@ -415,6 +456,22 @@
   "category": "중요",
   "tags": [
    "투자"
+  ]
+ },
+ {
+  "id": "0f05fd4155a46f47",
+  "url": "https://huggingface.co/blog/building-with-ml-intern",
+  "source": "Hugging Face",
+  "title": "The model that didn't exist, so you made it yourself",
+  "published_at": "2026-10-08T00:00:00+00:00",
+  "collected_at": "2026-10-08T23:16:05.275694+00:00",
+  "title_ko": "커스텀 AI 모델 직접 제작 트렌드",
+  "summary_ko": "시중에 존재하지 않는 모델을 사용자가 직접 만들어서 활용하는 사례가 주목받고 있다. 맞춤형 AI 모델 제작의 접근성이 높아지고 있음을 보여준다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "AI 모델",
+   "Hugging Face"
   ]
  },
  {
