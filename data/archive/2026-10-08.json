@@ -1,5 +1,212 @@
 [
  {
+  "id": "a4941cd79747fd5b",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=216078",
+  "source": "AI타임스",
+  "title": "메타 '뮤즈', 스마트폰 이어 아이패드용 앱 출시…업무용 도구 연동 강화",
+  "published_at": "2026-10-08T14:34:33+00:00",
+  "collected_at": "2026-10-08T10:24:28.305534+00:00",
+  "title_ko": "메타, 아이패드용 개인용 AI 에이전트 '뮤즈' 앱 출시",
+  "summary_ko": "메타가 모바일 출시에 이어 아이패드용 '뮤즈' 앱을 선보이고 업무 도구 연동을 강화했다. 태블릿 환경에서 생산성 도구로의 활용도를 높였다.",
+  "category": "속보",
+  "tags": [
+   "Meta",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "d0ff32802379e573",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0n7pj/best_current_r9700_inference_engine/",
+  "source": "r/LocalLLaMA",
+  "title": "Best current R9700 inference engine?",
+  "published_at": "2026-10-08T10:16:10+00:00",
+  "collected_at": "2026-10-08T10:24:15.024055+00:00",
+  "title_ko": "다중 GPU 및 시스템 RAM 환경의 대형 모델 추론 엔진 탐색",
+  "summary_ko": "대형언어모델 구동을 위한 최신 추론 엔진과 하드웨어 조합에 대한 사용자 커뮤니티의 기술적 논의다. 대형 모델을 로컬 환경에 효율적으로 올리는 방법을 다룬다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "da07c0670d047f32",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0n4pt/last_week_some_of_south_koreas_biggest_banks_were/",
+  "source": "r/LocalLLaMA",
+  "title": "Last week some of South Korea's biggest banks were hit by a cyberattack. We now know the entire hack may have been done by a single person. He used a combined stack of an open-source AI penetration tool named ARTEX, DeepSeek v4.1-Flash, GLM-5.3, Grok 4.6, and Claude Code (CrowdStrike)",
+  "published_at": "2026-10-08T10:11:02+00:00",
+  "collected_at": "2026-10-08T10:24:15.024055+00:00",
+  "title_ko": "오픈소스 및 상용 AI 도구 조합을 악용한 금융권 사이버 공격 발생",
+  "summary_ko": "오픈소스 AI 침투 테스트 도구와 여러 LLM이 결합되어 국내 금융권 사이버 공격에 악용된 사례가 보안 보고서를 통해 드러났다. AI 보안의 위험성을 시사한다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "Claude",
+   "규제"
+  ]
+ },
+ {
+  "id": "49e583d691b110e9",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0ms0m/running_an_llmdriven_town_with_800_persistent/",
+  "source": "r/LocalLLaMA",
+  "title": "Running an LLM-driven town with 800+ persistent agents: concurrency, context caching, and inference costs",
+  "published_at": "2026-10-08T09:49:11+00:00",
+  "collected_at": "2026-10-08T10:24:15.024055+00:00",
+  "title_ko": "800개 이상의 멀티 에이전트 시뮬레이션 운영 엔지니어링 사례",
+  "summary_ko": "수백 개의 상주 AI 에이전트가 가동되는 대규모 도시 시뮬레이션 시스템의 아키텍처와 비용 최적화 경험을 공유한 글이다. 멀티 에이전트 실무 구현에 참고가 된다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "LLM"
+  ]
+ },
+ {
+  "id": "0aeb2defc024e5f7",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0mn7x/saluki_27b_96_of_qwen_38s_performance_at_17_the/",
+  "source": "r/LocalLLaMA",
+  "title": "Saluki 27B: \"96% of Qwen 3.8’s performance at ~1/7 the size\"",
+  "published_at": "2026-10-08T09:40:36+00:00",
+  "collected_at": "2026-10-08T10:24:15.024055+00:00",
+  "title_ko": "Saluki 27B 모델 공개",
+  "summary_ko": "Qwen 3.8 성능의 96%를 약 7분의 1 크기로 구현한 Saluki 27B 모델이 소개되었습니다. 소형화된 고성능 모델로 주목받고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "모델명"
+  ]
+ },
+ {
+  "id": "159366c98e754db0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0m3ff/ggmlcuda_assign_four_gdn_state_columns_per_warp/",
+  "source": "r/LocalLLaMA",
+  "title": "ggml-cuda: assign four GDN state columns per warp by SongXiaoXi · Pull Request #30087 · ggml-org/llama.cpp",
+  "published_at": "2026-10-08T09:04:13+00:00",
+  "collected_at": "2026-10-08T10:24:15.024055+00:00",
+  "title_ko": "llama.cpp, Qwen 속도 개선 패치 적용",
+  "summary_ko": "ggml-cuda에 Qwen 프롬프트 처리를 가속하는 풀 리퀘스트가 병합되어 속도가 크게 향상되었습니다. 로컬 LLM 구동 성능 개선에 기여합니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "c7f4b559a8fbb05c",
+  "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+  "source": "MIT Tech Review",
+  "title": "AI breakthroughs in robotics won’t change your life any time soon",
+  "published_at": "2026-10-08T09:00:00+00:00",
+  "collected_at": "2026-10-08T10:24:07.888733+00:00",
+  "title_ko": "로보틱스 AI 발전의 현실적 한계 분석",
+  "summary_ko": "휴머노이드 로봇 등 AI 기반 로보틱스의 혁신이 일상에 적용되기까지는 시간이 걸릴 것이라는 전망입니다. 기술적 발전과 실제 적용 간의 간극을 다룹니다.",
+  "category": "참고",
+  "tags": [
+   "로보틱스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "3257eab014ce8f73",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0lqwv/recommendation_for_storyworld_building_models/",
+  "source": "r/LocalLLaMA",
+  "title": "Recommendation for story/world building models?",
+  "published_at": "2026-10-08T08:41:34+00:00",
+  "collected_at": "2026-10-08T10:24:15.024055+00:00",
+  "title_ko": "스토리텔링용 로컬 LLM 추천 문의",
+  "summary_ko": "저사양 하드웨어에서 실행 가능하며 창작 및 스토리텔링에 적합한 오픈소스 모델에 대한 사용자들의 논의가 이루어졌습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "e09a47f5417a68b7",
+  "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+  "source": "MIT Tech Review",
+  "title": "Building a safer path to autonomous industrial AI",
+  "published_at": "2026-10-08T08:17:32+00:00",
+  "collected_at": "2026-10-08T10:24:07.888733+00:00",
+  "title_ko": "산업용 AI의 안전한 자율화 방안",
+  "summary_ko": "기초 모델과 물리 AI의 발달로 산업 현장의 복잡한 자동화가 가능해졌으나, 물리적 시스템과 상호작용하는 만큼 안전성 확보가 중요해지고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트",
+   "반도체"
+  ]
+ },
+ {
+  "id": "26cfcf0b22735a62",
+  "url": "https://twitter.com/danintheory/status/2108065033070789090",
+  "source": "Hacker News",
+  "title": "OpenAI withdraws three mathematical results",
+  "published_at": "2026-10-08T07:05:40+00:00",
+  "collected_at": "2026-10-08T10:24:14.177082+00:00",
+  "title_ko": "OpenAI, 수학 관련 연구 결과 3건 철회",
+  "summary_ko": "OpenAI가 발표했던 수학적 성과 중 일부 결과물을 철회하면서 AI의 수학적 추론 능력 검증에 대한 관심이 집중되고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI"
+  ]
+ },
+ {
+  "id": "d67ebe0e30ba994e",
+  "url": "https://news.hada.io/topic?id=35000",
+  "source": "GeekNews",
+  "title": "Google Playground - 나만의 게임을 만들고 플레이하는 플랫폼",
+  "published_at": "2026-10-08T06:38:57+00:00",
+  "collected_at": "2026-10-08T10:24:29.627606+00:00",
+  "title_ko": "구글, 텍스트로 게임 제작하는 'Playground' 출시",
+  "summary_ko": "코딩 없이 프롬프트만으로 게임을 만들고 플레이할 수 있는 실험적 플랫폼입니다. AI 기반 콘텐츠 제작의 대중화를 보여줍니다.",
+  "category": "속보",
+  "tags": [
+   "Google"
+  ]
+ },
+ {
+  "id": "15615d4753a9d390",
+  "url": "https://news.hada.io/topic?id=34999",
+  "source": "GeekNews",
+  "title": "Terence Tao, OpenAI의 수학 성과 공개에 응답하다",
+  "published_at": "2026-10-08T06:35:57+00:00",
+  "collected_at": "2026-10-08T10:24:29.627606+00:00",
+  "title_ko": "테렌스 타오, OpenAI 수학 성과에 비판적 시각 제시",
+  "summary_ko": "AI가 미해결 문제의 정답만 대량 생산하는 방식은 연구 공동체의 성장과 이해를 동반하지 못한다는 지적입니다. AI 시대의 수학 연구 방향성을 시사합니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI"
+  ]
+ },
+ {
+  "id": "b15730629e86bd97",
+  "url": "https://news.hada.io/topic?id=34998",
+  "source": "GeekNews",
+  "title": "Show GN: aside-remote - 데스크톱 Aside를 폰에서 쓰기",
+  "published_at": "2026-10-08T06:22:31+00:00",
+  "collected_at": "2026-10-08T10:24:29.627606+00:00",
+  "title_ko": "모바일에서 데스크톱 AI 도구 원격 제어 앱 등장",
+  "summary_ko": "맥의 AI 도구인 Aside를 스마트폰 브라우저에서 원격으로 조작할 수 있게 해 주는 오픈소스 유틸리티가 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "4405636b2fb6b5e4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0iygt/can_any_openweight_models_handle_a_decomprecomp/",
+  "source": "r/LocalLLaMA",
+  "title": "Can any open-weight models handle a decomp/recomp project yet?",
+  "published_at": "2026-10-08T05:44:23+00:00",
+  "collected_at": "2026-10-08T10:24:15.024055+00:00",
+  "title_ko": "오픈웨이트 모델의 역디컴파일 및 재컴파일 역량 논의",
+  "summary_ko": "상용 모델 수준의 코딩 및 역공학 작업을 오픈웨이트 모델이 수행할 수 있는지에 대한 개발자들의 실무적 검토가 이루어졌습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "코딩",
+   "Qwen"
+  ]
+ },
+ {
   "id": "112871e5a3a21441",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216044",
   "source": "AI타임스",
@@ -13,6 +220,37 @@
    "Anthropic",
    "Claude",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "c3695939f71832c1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0ggrk/rocm_101_breaking_the_datamovement_bottleneck/",
+  "source": "r/LocalLLaMA",
+  "title": "ROCm 10.1: Breaking the Data-Movement Bottleneck",
+  "published_at": "2026-10-08T03:23:46+00:00",
+  "collected_at": "2026-10-08T10:24:15.024055+00:00",
+  "title_ko": "AMD ROCm 10.1, 데이터 이동 병목 현상 개선",
+  "summary_ko": "AMD의 AI/GPU 연산 플랫폼 ROCm 10.1이 데이터 이동 병목 현상을 해결하기 위해 업데이트되었습니다.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "NVIDIA",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "f7283f4d6909466a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0gaqv/comparing_qwen3827b_finetunes_and_baselining_vs/",
+  "source": "r/LocalLLaMA",
+  "title": "Comparing Qwen3.8-27B fine-tunes and baselining vs. frontier",
+  "published_at": "2026-10-08T03:14:59+00:00",
+  "collected_at": "2026-10-08T10:24:15.024055+00:00",
+  "title_ko": "Qwen 27B 파인튜닝 모델 성능 비교 평가",
+  "summary_ko": "다양한 도메인별 평가를 통해 Qwen 27B 기반 파인튜닝 모델들의 성능과 코딩 능력을 비교 분석했습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "코딩"
   ]
  },
  {
@@ -102,6 +340,21 @@
   "category": "팁",
   "tags": [
    "AI 모델"
+  ]
+ },
+ {
+  "id": "1b35443cec6d3b4d",
+  "url": "https://github.com/pingdotgg/ts-rust",
+  "source": "Hacker News",
+  "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+  "published_at": "2026-10-08T00:46:00+00:00",
+  "collected_at": "2026-10-08T10:24:14.177082+00:00",
+  "title_ko": "LLM을 활용한 TypeScript 컴파일러의 러스트 포팅",
+  "summary_ko": "LLM(거대언어모델)을 활용해 TypeScript 컴파일러와 체커, LSP를 러스트(Rust)로 이식한 프로젝트가 공개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "코딩",
+   "오픈소스"
   ]
  },
  {
@@ -849,6 +1102,20 @@
   "collected_at": "2026-10-07T10:09:07.026962+00:00",
   "title_ko": "피규어 AI 창업자 진영, 스마트폰 대체 AI 에이전트 '하크 프로' 공개",
   "summary_ko": "휴머노이드 로봇 전문가들이 설립한 스타트업 하크가 능동적으로 업무를 처리하는 AI 에이전트 '하크 프로'를 공개하고 2027년 전용 기기 출시를 예고했습니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "65c75f24c6421cc0",
+  "url": "https://agent.reviews/",
+  "source": "Hacker News",
+  "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+  "published_at": "2026-10-07T16:59:11+00:00",
+  "collected_at": "2026-10-08T10:24:14.177082+00:00",
+  "title_ko": "AI 에이전트 전용 리뷰 플랫폼 'Agent.reviews' 등장",
+  "summary_ko": "AI 에이전트들이 도구 사용 경험에 대한 피드백을 읽고 남길 수 있는 에이전트 전용 리뷰 플랫폼이 출시되었습니다.",
   "category": "속보",
   "tags": [
    "AI 에이전트"
