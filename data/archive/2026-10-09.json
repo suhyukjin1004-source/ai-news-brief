@@ -1,5 +1,21 @@
 [
  {
+  "id": "7624be09f6f0210a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0xk7d/chat_with_llm_model_with_zero_setup/",
+  "source": "r/LocalLLaMA",
+  "title": "chat with llm model with zero setup!",
+  "published_at": "2026-10-08T17:46:14+00:00",
+  "collected_at": "2026-10-08T17:50:13.890457+00:00",
+  "title_ko": "허깅페이스, 설정 없는 SSH 기반 LLM 대화 기능 출시",
+  "summary_ko": "사용자가 별도의 설정이나 API 키 없이 터미널에서 SSH를 통해 허깅페이스의 호스팅 모델과 바로 대화할 수 있는 기능을 제공합니다.",
+  "category": "속보",
+  "tags": [
+   "Hugging Face",
+   "LLM",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "acc9172e8d282e0a",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216076",
   "source": "AI타임스",
@@ -15,6 +31,37 @@
   ]
  },
  {
+  "id": "57107c333d177ee7",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0wnz1/2800_rig_with_8x_radeon_pro_v620_256_gb_vram/",
+  "source": "r/LocalLLaMA",
+  "title": "$2800 rig with 8x Radeon Pro V620 (256 GB VRAM) + custom vLLM fork = Qwen3.8-Flash-Next at 60 to 100 t/s decode and 3000+ t/s prefill",
+  "published_at": "2026-10-08T17:12:46+00:00",
+  "collected_at": "2026-10-08T17:50:13.890457+00:00",
+  "title_ko": "가성비 GPU  rig로 구축한 고속 로컬 LLM 구동 환경",
+  "summary_ko": "구형 기업용 라데온 GPU를 활용해 저렴한 비용으로 대규모 VRAM을 확보하고 커스텀 vLLM으로 고속 추론을 구현한 사례입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "반도체",
+   "LLM"
+  ]
+ },
+ {
+  "id": "315bc02d2bdfa5d8",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0wg85/running_decision_model_locally_on_an_rtx_4090_to/",
+  "source": "r/LocalLLaMA",
+  "title": "Running decision model locally on an RTX 4090 to find out which one is the fastest",
+  "published_at": "2026-10-08T17:04:32+00:00",
+  "collected_at": "2026-10-08T17:50:13.890457+00:00",
+  "title_ko": "최신 오픈소스 결정 모델들의 로컬 성능 비교",
+  "summary_ko": "최근 등장한 다양한 오픈소스 결정 모델들을 RTX 4090 환경에서 구동하며 동일 작업에서의 처리 속도와 성능 차이를 비교했습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
   "id": "aa589dccffe00659",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216080",
   "source": "AI타임스",
@@ -27,6 +74,22 @@
   "tags": [
    "반도체",
    "NVIDIA"
+  ]
+ },
+ {
+  "id": "f526dbecf422929f",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+  "source": "The Verge",
+  "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+  "published_at": "2026-10-08T17:00:00+00:00",
+  "collected_at": "2026-10-08T17:49:50.536234+00:00",
+  "title_ko": "앤스로픽, 클로드에 대한 지속적인 학대 행위 금지",
+  "summary_ko": "앤스로픽이 사용 정책을 개정하여 선거 개입, 무기 개발 등과 함께 AI 모델인 클로드에 대한 지속적이고 불필요한 학대 및 잔인한 대우를 금지했습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "규제"
   ]
  },
  {
@@ -121,6 +184,50 @@
   ]
  },
  {
+  "id": "8f83cc80b2fd1319",
+  "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+  "source": "TechCrunch",
+  "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+  "published_at": "2026-10-08T16:00:00+00:00",
+  "collected_at": "2026-10-08T17:49:50.381187+00:00",
+  "title_ko": "굿파이어, AI 에이전트 감시 위한 내부 모니터링 도구 공개",
+  "summary_ko": "두 번째 AI를 동원하는 대신 모델 내부를 직접 들여다보며 이상 징후를 탐지하는 저렴한 AI 에이전트 감시 도구가 출시되었습니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "112b5f00879d4fef",
+  "url": "https://openai.com/index/oracle",
+  "source": "OpenAI",
+  "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+  "published_at": "2026-10-08T16:00:00+00:00",
+  "collected_at": "2026-10-08T17:50:03.740467+00:00",
+  "title_ko": "오라클, ChatGPT와 Codex로 업무 워크플로우 혁신",
+  "summary_ko": "오라클이 채용, 엔지니어링, 운영 전반에서 ChatGPT Work와 Codex를 도입해 전문 지식 기반의 반복 업무를 빠르게 처리하고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "GPT"
+  ]
+ },
+ {
+  "id": "d12d77aa7dd535e9",
+  "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+  "source": "TechCrunch",
+  "title": "Natura’s $99 smart ring puts AI agents on your finger",
+  "published_at": "2026-10-08T16:00:00+00:00",
+  "collected_at": "2026-10-08T17:49:50.381187+00:00",
+  "title_ko": "나투라, AI 에이전트 연동 99달러 스마트 반지 공개",
+  "summary_ko": "사용자의 손가락에서 AI 에이전트를 호출해 업무를 수행하고 생각을 기록하며 기기를 제어할 수 있는 스마트 반지가 발표되었습니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "5e84145bb653b7ca",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216065",
   "source": "AI타임스",
@@ -137,6 +244,37 @@
   ]
  },
  {
+  "id": "8d675e9fe4068c17",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0ui6f/thank_you_swift_models_hit_22_million_downloads/",
+  "source": "r/LocalLLaMA",
+  "title": "Thank you :) Swift Models hit 2.2 million+ downloads / Early Access to New Models, Free Compute for Researchers",
+  "published_at": "2026-10-08T15:50:21+00:00",
+  "collected_at": "2026-10-08T17:50:13.890457+00:00",
+  "title_ko": "우키스AI, 추론 효율성을 높인 소형 오픈소스 LLM 'Swift' 공개",
+  "summary_ko": "불필요한 사고 패턴을 페널티로 교정하여 정확도 손실 없이 토큰 사용량을 줄이고 속도를 높인 소형 추론 LLM 시리즈입니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "84d84eca447925f1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0u6l7/mellum21_a_jetbrains_collection/",
+  "source": "r/LocalLLaMA",
+  "title": "Mellum2.1 - a JetBrains Collection",
+  "published_at": "2026-10-08T15:38:19+00:00",
+  "collected_at": "2026-10-08T17:50:13.890457+00:00",
+  "title_ko": "제트브레인즈, 코딩 특화 소형 MoE 모델 'Mellum 2.1' 공개",
+  "summary_ko": "제트브레인즈 에코시스템에 최적화된 작고 효율적인 혼합 전문가(MoE) 구조의 생각하는 LLM 모델입니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "코딩"
+  ]
+ },
+ {
   "id": "ce21cb444efac941",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216069",
   "source": "AI타임스",
@@ -149,6 +287,35 @@
   "tags": [
    "AI 에이전트",
    "규제"
+  ]
+ },
+ {
+  "id": "cbb9d3a99a6a7644",
+  "url": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
+  "source": "The Verge",
+  "title": "Google’s AI note-taking app transcribes your meetings completely offline",
+  "published_at": "2026-10-08T15:27:30+00:00",
+  "collected_at": "2026-10-08T17:49:50.536234+00:00",
+  "title_ko": "구글, 완전 오프라인 작동 AI 메모 앱 'Foresight' 공개",
+  "summary_ko": "온디바이스 EmbeddingGemma 모델을 기반으로 인터넷 연결 없이 맥(macOS)에서 회의 내용을 녹음하고 요약하는 실험적 앱입니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "Gemini"
+  ]
+ },
+ {
+  "id": "ea8ddafd420a48fc",
+  "url": "https://news.hada.io/topic?id=35018",
+  "source": "GeekNews",
+  "title": "Show GN: 반도체부터 전세·보험까지, 시뮬레이터를 만지며 배우는 무료 웹 교과서 시리즈",
+  "published_at": "2026-10-08T15:27:26+00:00",
+  "collected_at": "2026-10-08T17:50:28.398465+00:00",
+  "title_ko": "AI 발전으로 가능해진 시뮬레이션 기반 무료 웹 교과서 제작",
+  "summary_ko": "개발자가 AI의 도움을 받아 반도체부터 금융까지 직접 만져보며 학습할 수 있는 인터랙티브 웹 교과서 시리즈를 구축하고 있습니다.",
+  "category": "팁",
+  "tags": [
+   "반도체"
   ]
  },
  {

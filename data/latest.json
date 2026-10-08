@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-10-08T10:24:46.618408+00:00",
+ "updated_at": "2026-10-08T17:50:52.869593+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "7624be09f6f0210a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0xk7d/chat_with_llm_model_with_zero_setup/",
+   "source": "r/LocalLLaMA",
+   "title": "chat with llm model with zero setup!",
+   "published_at": "2026-10-08T17:46:14+00:00",
+   "collected_at": "2026-10-08T17:50:13.890457+00:00",
+   "title_ko": "허깅페이스, 설정 없는 SSH 기반 LLM 대화 기능 출시",
+   "summary_ko": "사용자가 별도의 설정이나 API 키 없이 터미널에서 SSH를 통해 허깅페이스의 호스팅 모델과 바로 대화할 수 있는 기능을 제공합니다.",
+   "category": "속보",
+   "tags": [
+    "Hugging Face",
+    "LLM",
+    "오픈소스"
+   ]
+  },
   {
    "id": "acc9172e8d282e0a",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216076",
@@ -19,6 +35,37 @@
    ]
   },
   {
+   "id": "57107c333d177ee7",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0wnz1/2800_rig_with_8x_radeon_pro_v620_256_gb_vram/",
+   "source": "r/LocalLLaMA",
+   "title": "$2800 rig with 8x Radeon Pro V620 (256 GB VRAM) + custom vLLM fork = Qwen3.8-Flash-Next at 60 to 100 t/s decode and 3000+ t/s prefill",
+   "published_at": "2026-10-08T17:12:46+00:00",
+   "collected_at": "2026-10-08T17:50:13.890457+00:00",
+   "title_ko": "가성비 GPU  rig로 구축한 고속 로컬 LLM 구동 환경",
+   "summary_ko": "구형 기업용 라데온 GPU를 활용해 저렴한 비용으로 대규모 VRAM을 확보하고 커스텀 vLLM으로 고속 추론을 구현한 사례입니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "반도체",
+    "LLM"
+   ]
+  },
+  {
+   "id": "315bc02d2bdfa5d8",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0wg85/running_decision_model_locally_on_an_rtx_4090_to/",
+   "source": "r/LocalLLaMA",
+   "title": "Running decision model locally on an RTX 4090 to find out which one is the fastest",
+   "published_at": "2026-10-08T17:04:32+00:00",
+   "collected_at": "2026-10-08T17:50:13.890457+00:00",
+   "title_ko": "최신 오픈소스 결정 모델들의 로컬 성능 비교",
+   "summary_ko": "최근 등장한 다양한 오픈소스 결정 모델들을 RTX 4090 환경에서 구동하며 동일 작업에서의 처리 속도와 성능 차이를 비교했습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
    "id": "aa589dccffe00659",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216080",
    "source": "AI타임스",
@@ -31,6 +78,22 @@
    "tags": [
     "반도체",
     "NVIDIA"
+   ]
+  },
+  {
+   "id": "f526dbecf422929f",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+   "source": "The Verge",
+   "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+   "published_at": "2026-10-08T17:00:00+00:00",
+   "collected_at": "2026-10-08T17:49:50.536234+00:00",
+   "title_ko": "앤스로픽, 클로드에 대한 지속적인 학대 행위 금지",
+   "summary_ko": "앤스로픽이 사용 정책을 개정하여 선거 개입, 무기 개발 등과 함께 AI 모델인 클로드에 대한 지속적이고 불필요한 학대 및 잔인한 대우를 금지했습니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "규제"
    ]
   },
   {
@@ -125,6 +188,50 @@
    ]
   },
   {
+   "id": "8f83cc80b2fd1319",
+   "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+   "source": "TechCrunch",
+   "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+   "published_at": "2026-10-08T16:00:00+00:00",
+   "collected_at": "2026-10-08T17:49:50.381187+00:00",
+   "title_ko": "굿파이어, AI 에이전트 감시 위한 내부 모니터링 도구 공개",
+   "summary_ko": "두 번째 AI를 동원하는 대신 모델 내부를 직접 들여다보며 이상 징후를 탐지하는 저렴한 AI 에이전트 감시 도구가 출시되었습니다.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "112b5f00879d4fef",
+   "url": "https://openai.com/index/oracle",
+   "source": "OpenAI",
+   "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+   "published_at": "2026-10-08T16:00:00+00:00",
+   "collected_at": "2026-10-08T17:50:03.740467+00:00",
+   "title_ko": "오라클, ChatGPT와 Codex로 업무 워크플로우 혁신",
+   "summary_ko": "오라클이 채용, 엔지니어링, 운영 전반에서 ChatGPT Work와 Codex를 도입해 전문 지식 기반의 반복 업무를 빠르게 처리하고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "GPT"
+   ]
+  },
+  {
+   "id": "d12d77aa7dd535e9",
+   "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+   "source": "TechCrunch",
+   "title": "Natura’s $99 smart ring puts AI agents on your finger",
+   "published_at": "2026-10-08T16:00:00+00:00",
+   "collected_at": "2026-10-08T17:49:50.381187+00:00",
+   "title_ko": "나투라, AI 에이전트 연동 99달러 스마트 반지 공개",
+   "summary_ko": "사용자의 손가락에서 AI 에이전트를 호출해 업무를 수행하고 생각을 기록하며 기기를 제어할 수 있는 스마트 반지가 발표되었습니다.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "5e84145bb653b7ca",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216065",
    "source": "AI타임스",
@@ -141,6 +248,37 @@
    ]
   },
   {
+   "id": "8d675e9fe4068c17",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0ui6f/thank_you_swift_models_hit_22_million_downloads/",
+   "source": "r/LocalLLaMA",
+   "title": "Thank you :) Swift Models hit 2.2 million+ downloads / Early Access to New Models, Free Compute for Researchers",
+   "published_at": "2026-10-08T15:50:21+00:00",
+   "collected_at": "2026-10-08T17:50:13.890457+00:00",
+   "title_ko": "우키스AI, 추론 효율성을 높인 소형 오픈소스 LLM 'Swift' 공개",
+   "summary_ko": "불필요한 사고 패턴을 페널티로 교정하여 정확도 손실 없이 토큰 사용량을 줄이고 속도를 높인 소형 추론 LLM 시리즈입니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "84d84eca447925f1",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0u6l7/mellum21_a_jetbrains_collection/",
+   "source": "r/LocalLLaMA",
+   "title": "Mellum2.1 - a JetBrains Collection",
+   "published_at": "2026-10-08T15:38:19+00:00",
+   "collected_at": "2026-10-08T17:50:13.890457+00:00",
+   "title_ko": "제트브레인즈, 코딩 특화 소형 MoE 모델 'Mellum 2.1' 공개",
+   "summary_ko": "제트브레인즈 에코시스템에 최적화된 작고 효율적인 혼합 전문가(MoE) 구조의 생각하는 LLM 모델입니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "코딩"
+   ]
+  },
+  {
    "id": "ce21cb444efac941",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216069",
    "source": "AI타임스",
@@ -153,6 +291,35 @@
    "tags": [
     "AI 에이전트",
     "규제"
+   ]
+  },
+  {
+   "id": "cbb9d3a99a6a7644",
+   "url": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
+   "source": "The Verge",
+   "title": "Google’s AI note-taking app transcribes your meetings completely offline",
+   "published_at": "2026-10-08T15:27:30+00:00",
+   "collected_at": "2026-10-08T17:49:50.536234+00:00",
+   "title_ko": "구글, 완전 오프라인 작동 AI 메모 앱 'Foresight' 공개",
+   "summary_ko": "온디바이스 EmbeddingGemma 모델을 기반으로 인터넷 연결 없이 맥(macOS)에서 회의 내용을 녹음하고 요약하는 실험적 앱입니다.",
+   "category": "속보",
+   "tags": [
+    "Google",
+    "Gemini"
+   ]
+  },
+  {
+   "id": "ea8ddafd420a48fc",
+   "url": "https://news.hada.io/topic?id=35018",
+   "source": "GeekNews",
+   "title": "Show GN: 반도체부터 전세·보험까지, 시뮬레이터를 만지며 배우는 무료 웹 교과서 시리즈",
+   "published_at": "2026-10-08T15:27:26+00:00",
+   "collected_at": "2026-10-08T17:50:28.398465+00:00",
+   "title_ko": "AI 발전으로 가능해진 시뮬레이션 기반 무료 웹 교과서 제작",
+   "summary_ko": "개발자가 AI의 도움을 받아 반도체부터 금융까지 직접 만져보며 학습할 수 있는 인터랙티브 웹 교과서 시리즈를 구축하고 있습니다.",
+   "category": "팁",
+   "tags": [
+    "반도체"
    ]
   },
   {
@@ -2821,170 +2988,6 @@
    "tags": [
     "AI 에이전트",
     "오픈소스"
-   ]
-  },
-  {
-   "id": "0e8d30e892bfdb61",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216009",
-   "source": "AI타임스",
-   "title": "엔비디아-그로크 27조 계약 파장…소외된 엔지니어들 \"거래 불공정\" 소송",
-   "published_at": "2026-10-06T17:11:49+00:00",
-   "collected_at": "2026-10-06T10:06:04.326826+00:00",
-   "title_ko": "엔비디아-그로크 27조 계약, 주주 소송 휘말려",
-   "summary_ko": "엔비디아와 그로크 간의 대규모 라이선스 계약을 두고, 전직 엔지니어와 주주들이 회사의 핵심 자산을 불공정하게 넘겼다며 소송을 제기했다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "투자",
-    "반도체"
-   ]
-  },
-  {
-   "id": "a2dd726a341a52bb",
-   "url": "https://news.hada.io/topic?id=34900",
-   "source": "GeekNews",
-   "title": "우리가 알던 오픈소스는 죽었다",
-   "published_at": "2026-10-06T17:04:03+00:00",
-   "collected_at": "2026-10-06T22:36:46.909734+00:00",
-   "title_ko": "AI 생성 코드로 인해 위기를 맞는 오픈소스 기여 생태계",
-   "summary_ko": "AI 덕분에 기여는 쉬워졌으나 검토 부담이 커지면서 오픈소스 유지관리자들이 외부 기여를 제한하는 현상을 다룹니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "a1f9c01a8b8903ac",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216012",
-   "source": "AI타임스",
-   "title": "19세 청년의 반란...고스트, 개인용 AI PC '코어'로 147억 투자 유치",
-   "published_at": "2026-10-06T17:02:23+00:00",
-   "collected_at": "2026-10-06T10:06:04.326826+00:00",
-   "title_ko": "스타트업 고스트, 개인용 AI PC로 147억 투자 유치",
-   "summary_ko": "19세 창업가가 이끄는 고스트가 로컬 AI 에이전트 전용 PC '코어'를 공개하며 앤드리슨 호로위츠 등으로부터 투자를 유치했다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트",
-    "투자"
-   ]
-  },
-  {
-   "id": "1d36a32f781750c1",
-   "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
-   "source": "Hacker News",
-   "title": "Utah to let AI examine patients and prescribe medication without human oversight",
-   "published_at": "2026-10-06T17:01:52+00:00",
-   "collected_at": "2026-10-07T02:15:22.839569+00:00",
-   "title_ko": "미국 유타주, 인간 개입 없는 AI 환자 진료 및 처방 허용",
-   "summary_ko": "미국 유타주가 미국 내 최초로 AI가 단독으로 환자를 진찰하고 처방전까지 발행할 수 있도록 허용하여 큰 주목과 논란을 모으고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "b3ab2804f0cc69ef",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216017",
-   "source": "AI타임스",
-   "title": "[게시판] 딥엑스-두산로보틱스, 원전 제조 ‘AI 용접 솔루션’ 공동개발 협력 등 단신",
-   "published_at": "2026-10-06T17:00:00+00:00",
-   "collected_at": "2026-10-06T10:06:04.326826+00:00",
-   "title_ko": "딥엑스-두산로보틱스, 원전 AI 용접 솔루션 개발 협력",
-   "summary_ko": "딥엑스와 두산로보틱스가 비전 AI와 협동로봇을 결합한 원전 제조 현장용 지능형 용접 로봇 솔루션 공동 개발에 나선다.",
-   "category": "속보",
-   "tags": [
-    "로보틱스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "d1db4f003ffd16c1",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz7tvs/i_gave_a_21m_model_a_64bparameter_lookup_table_it/",
-   "source": "r/LocalLLaMA",
-   "title": "I gave a 21M model a 6.4B-parameter lookup table. It matches a 114M dense model and runs with the table on an SSD (RX 9070)",
-   "published_at": "2026-10-06T16:57:34+00:00",
-   "collected_at": "2026-10-06T22:36:32.466768+00:00",
-   "title_ko": "대규모 룩업 테이블을 활용한 소형 언어모델 연구",
-   "summary_ko": "21M 파라미터 모델에 수십억 개의 벡터 테이블을 연결해 훨씬 큰 모델의 성능을 내는 소형 메모리 모델 연구 프로젝트입니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "Meta"
-   ]
-  },
-  {
-   "id": "a6e396795764059e",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz7faa/introducing_embeddinggemma_2_a_bestinclass_open/",
-   "source": "r/LocalLLaMA",
-   "title": "Introducing EmbeddingGemma 2: A best-in-class open model for natively multimodal embeddings | Google",
-   "published_at": "2026-10-06T16:42:13+00:00",
-   "collected_at": "2026-10-06T17:09:05.567175+00:00",
-   "title_ko": "구글, 멀티모달 임베딩 모델 'EmbeddingGemma 2' 공개",
-   "summary_ko": "구글 딥마인드가 텍스트, 이미지, 비디오, 오디오를 단일 벡터 공간으로 매핑하는 7억 4천만 파라미터의 오픈 멀티모달 임베딩 모델을 출시했습니다. 온디바이스 환경에서 저지연으로 구동되도록 설계되어 모바일 및 노트북에서 유용합니다.",
-   "category": "속보",
-   "tags": [
-    "Google",
-    "오픈소스",
-    "멀티모달"
-   ]
-  },
-  {
-   "id": "7a12fe93b8a77091",
-   "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-   "source": "TechCrunch",
-   "title": "Mirror Particle is building a ‘world model’ of human behavior",
-   "published_at": "2026-10-06T16:35:00+00:00",
-   "collected_at": "2026-10-06T17:08:34.653737+00:00",
-   "title_ko": "인간 행동 예측하는 월드 모델 개발하는 '미러 파티클'",
-   "summary_ko": "스타트업 미러 파티클이 시장 조사와 브랜드 전략을 위해 기존 LLM 역할극의 한계를 보완할 수 있는 인간 행동 예측 월드 모델을 선보입니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "투자"
-   ]
-  },
-  {
-   "id": "660ffd52761a761c",
-   "url": "https://news.hada.io/topic?id=34899",
-   "source": "GeekNews",
-   "title": "바이브코딩은 직접 코드를 쓰는 것만큼 재미있지 않다",
-   "published_at": "2026-10-06T16:33:10+00:00",
-   "collected_at": "2026-10-06T22:36:46.909734+00:00",
-   "title_ko": "바이브 코딩의 명암: 빠른 개발과 잃어버린 코딩의 재미",
-   "summary_ko": "AI를 활용한 보조 코딩으로 빠르게 결과물을 만들 수 있지만, 직접 코드를 작성하던 때의 몰입과 재미는 줄어든다는 소감입니다.",
-   "category": "참고",
-   "tags": [
-    "코딩"
-   ]
-  },
-  {
-   "id": "6f93b4ae13a43f63",
-   "url": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
-   "source": "The Verge",
-   "title": "We can’t just change the definition of ‘recording’",
-   "published_at": "2026-10-06T16:29:44+00:00",
-   "collected_at": "2026-10-06T17:08:34.776469+00:00",
-   "title_ko": "AI 하드웨어가 다시 정의하는 '녹음'의 개념",
-   "summary_ko": "마이크와 카메라가 탑재된 AI 기기들이 보편화되면서 전통적인 '녹음 중/아님'의 경계가 모호해지고 사생활 침해 우려가 커지고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "dabfa79f68b85520",
-   "url": "https://github.com/FeSens/openTPU",
-   "source": "Hacker News",
-   "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-   "published_at": "2026-10-06T16:23:25+00:00",
-   "collected_at": "2026-10-06T22:36:13.875552+00:00",
-   "title_ko": "AI가 직접 개발한 오픈소스 AI 가속기 'OpenTPU'",
-   "summary_ko": "인공지능이 설계부터 컴파일러까지 전 과정을 주도해 개발한 오픈소스 AI 하드웨어 가속기 프로젝트입니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "반도체"
    ]
   }
  ]
