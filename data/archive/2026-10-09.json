@@ -1,5 +1,20 @@
 [
  {
+  "id": "19c45cc3b756fb5c",
+  "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
+  "source": "Simon Willison",
+  "title": "A new feature for my blog, built using my voice",
+  "published_at": "2026-10-09T12:54:06+00:00",
+  "collected_at": "2026-10-09T13:06:00.188631+00:00",
+  "title_ko": "음성 모드로 블로그 기능을 구축한 개발 사례",
+  "summary_ko": "개발자 사이먼 윌리슨이 ChatGPT 데스크톱 앱의 음성 모드를 활용해 요리 중에 대화만으로 블로그 뉴스레터 페이지 기능을 구현했습니다.",
+  "category": "팁",
+  "tags": [
+   "OpenAI",
+   "코딩"
+  ]
+ },
+ {
   "id": "03957138361d93c7",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216093",
   "source": "AI타임스",
@@ -32,6 +47,20 @@
   ]
  },
  {
+  "id": "f586b78d849b7d0d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1jk9z/tencentyoutuparsingomni_hugging_face/",
+  "source": "r/LocalLLaMA",
+  "title": "tencent/Youtu-Parsing-Omni · Hugging Face",
+  "published_at": "2026-10-09T12:03:32+00:00",
+  "collected_at": "2026-10-09T13:06:00.981159+00:00",
+  "title_ko": "텐센트, 옴니모달 파싱 모델 'Youtu-Parsing-Omni' 공개",
+  "summary_ko": "문서, 이미지, 오디오 등 다양한 모달리티를 이해하고 구조화된 JSON으로 변환하는 텐센트의 소형 파싱 모델입니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "394367f0649c799c",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216097",
   "source": "AI타임스",
@@ -44,6 +73,35 @@
   "tags": [
    "규제",
    "투자"
+  ]
+ },
+ {
+  "id": "ce5e3682eaffe477",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1jdsk/lightonailightonocr34b_hugging_face/",
+  "source": "r/LocalLLaMA",
+  "title": "lightonai/LightOnOCR-3-4B · Hugging Face",
+  "published_at": "2026-10-09T11:54:53+00:00",
+  "collected_at": "2026-10-09T13:06:00.981159+00:00",
+  "title_ko": "LightOnAI, 신규 OCR 모델 'LightOnOCR-3-4B' 공개",
+  "summary_ko": "LightOnAI에서 개발한 새로운 OCR(광학 문자 판독) 관련 모델이 허깅페이스에 등록되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "7e8ec8534c4a9fdb",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1j2lx/i_made_a_portable_ai_memory_format_that_transfers/",
+  "source": "r/LocalLLaMA",
+  "title": "I made a portable AI memory format that transfers both context and skill",
+  "published_at": "2026-10-09T11:38:22+00:00",
+  "collected_at": "2026-10-09T13:06:00.981159+00:00",
+  "title_ko": "컨텍스트와 스킬을 전달하는 휴대용 AI 메모리 포맷 제작",
+  "summary_ko": "텍스트 파일 형태로 AI의 세션 맥락과 스킬을 동시에 유지·전달할 수 있는 포맷을 개발하여 공유한 사례입니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
   ]
  },
  {
@@ -63,6 +121,21 @@
   ]
  },
  {
+  "id": "595085953aeea904",
+  "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+  "source": "Hacker News",
+  "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+  "published_at": "2026-10-09T11:03:48+00:00",
+  "collected_at": "2026-10-09T13:05:51.892672+00:00",
+  "title_ko": "AI 에이전트가 화면에 화살표와 상자를 그리게 하는 도구",
+  "summary_ko": "AI 에이전트가 작업 화면 위에 직접 시각적인 표시(화살표, 박스 등)를 남길 수 있게 해주는 오픈소스 도구입니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "0b430b6df6c41aad",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216096",
   "source": "AI타임스",
@@ -79,6 +152,21 @@
   ]
  },
  {
+  "id": "7d2e03002f7b5fa0",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+  "source": "The Verge",
+  "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+  "published_at": "2026-10-09T09:48:26+00:00",
+  "collected_at": "2026-10-09T13:05:35.809705+00:00",
+  "title_ko": "OpenAI, AI 안전 연구원 해고 결정 고수",
+  "summary_ko": "OpenAI가 기밀 정보 처리 정책 위반을 이유로 안전 연구원 3명을 해고한 결정을 철회하지 않고 유지하기로 했습니다. AI 안전성과 내부 거버넌스 문제를 둘러싼 논란이 이어지고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "규제"
+  ]
+ },
+ {
   "id": "efc83e7d7a5f3006",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216092",
   "source": "AI타임스",
@@ -91,6 +179,142 @@
   "tags": [
    "AI 에이전트",
    "규제"
+  ]
+ },
+ {
+  "id": "87b5ec1dbf599f13",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1gjae/stepping_away_from_benchmarks_and_code_what/",
+  "source": "r/LocalLLaMA",
+  "title": "Stepping away from Benchmarks and Code, what models are you using for Creating writing projects",
+  "published_at": "2026-10-09T09:08:52+00:00",
+  "collected_at": "2026-10-09T13:06:00.981159+00:00",
+  "title_ko": "오픈소스 로컬 LLM을 활용한 창의적 글쓰기",
+  "summary_ko": "벤치마크 점수와 코딩 능력을 넘어 로컬 오픈웨이트 모델을 창작 및 스토리텔링에 활용하는 사용자들의 경험과 모델 선택에 대한 논의입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "Gemma"
+  ]
+ },
+ {
+  "id": "ffb664430fda6f4d",
+  "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+  "source": "MIT Tech Review",
+  "title": "We’re putting too much faith in AI’s ability to say no",
+  "published_at": "2026-10-09T09:00:00+00:00",
+  "collected_at": "2026-10-09T13:05:48.802168+00:00",
+  "title_ko": "AI의 '거절 능력'에 대한 과도한 믿음",
+  "summary_ko": "인간처럼 AI가 명확하게 거절하고 통제될 수 있다는 믿음에 대해 고찰하며, AI 정렬과 안전성 확보의 한계를 지적합니다.",
+  "category": "참고",
+  "tags": [
+   "규제",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "3c34342c2677d41b",
+  "url": "https://news.hada.io/topic?id=35056",
+  "source": "GeekNews",
+  "title": "AI 시대 주니어 개발자의 역할은 무엇이 돼야 할까요?",
+  "published_at": "2026-10-09T08:34:06+00:00",
+  "collected_at": "2026-10-09T13:06:15.768894+00:00",
+  "title_ko": "AI 시대 주니어 개발자의 새로운 역할과 변화",
+  "summary_ko": "코딩 에이전트의 발전으로 구현 업무가 대체되는 현장에서 주니어 개발자가 'AI 팀장'으로서 가져야 할 역할과 업무 방식을 제안합니다.",
+  "category": "참고",
+  "tags": [
+   "코딩",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "0804fdfcee1a1372",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1fnsy/ahh_it_all_makes_sense_now_for_the_64gb_dgx_spark/",
+  "source": "r/LocalLLaMA",
+  "title": "Ahh, it all makes sense now for the 64Gb DGX Spark - [Samsung expects 780% quarterly operating profit jump on AI boom]",
+  "published_at": "2026-10-09T08:12:34+00:00",
+  "collected_at": "2026-10-09T13:06:00.981159+00:00",
+  "title_ko": "삼성전자, AI 붐 힘입어 영업이익 급증 예상",
+  "summary_ko": "AI 인프라 및 반도체 수요 급증에 따라 삼성전자의 분기 영업이익이 큰 폭으로 상승할 것이라는 전망입니다.",
+  "category": "중요",
+  "tags": [
+   "반도체",
+   "투자"
+  ]
+ },
+ {
+  "id": "39b78025969de32b",
+  "url": "https://news.hada.io/topic?id=35053",
+  "source": "GeekNews",
+  "title": "Claude Code로 찾아낸, 아무도 존재를 몰랐던 새로운 행성 후보",
+  "published_at": "2026-10-09T07:40:49+00:00",
+  "collected_at": "2026-10-09T13:06:15.768894+00:00",
+  "title_ko": "Claude Code를 활용한 미지의 행성 후보 발견",
+  "summary_ko": "개발 도구인 Claude Code를 활용해 천문학 데이터에서 미지의 행성 후보를 발견한 사례로, AI의 연구 보조 활용 가능성을 보여줍니다.",
+  "category": "중요",
+  "tags": [
+   "Claude",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "9d3d01afc01db79a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1f5gz/paper_stepped_moe_segmentlevel_routing_with/",
+  "source": "r/LocalLLaMA",
+  "title": "[Paper] Stepped MoE: Segment-Level Routing with Configurable Inference Complexity",
+  "published_at": "2026-10-09T07:39:16+00:00",
+  "collected_at": "2026-10-09T13:06:00.981159+00:00",
+  "title_ko": "연산 효율성을 높인 'Stepped MoE' 프레임워크",
+  "summary_ko": "다양한 배포 환경과 제약 조건에 맞춰 연산 복잡도를 조절할 수 있는 세그먼트 수준의 라우팅 기법을 다룬 연구 논문입니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "f2762631b01a728c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1eu7o/paper_dloop_looped_speculative_decoding/",
+  "source": "r/LocalLLaMA",
+  "title": "[Paper] DLoop: Looped Speculative Decoding",
+  "published_at": "2026-10-09T07:18:42+00:00",
+  "collected_at": "2026-10-09T13:06:00.981159+00:00",
+  "title_ko": "추론 가속을 위한 루프형 Speculative Decoding 논문",
+  "summary_ko": "LLM의 자기회귀 생성 속도를 높이기 위해 초안 모델과 타겟 모델 간의 검증 단계를 최적화하는 새로운 디코딩 기법을 소개합니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "edd58468d564448f",
+  "url": "https://openai.com/index/sophos",
+  "source": "OpenAI",
+  "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+  "published_at": "2026-10-09T07:00:00+00:00",
+  "collected_at": "2026-10-09T13:05:49.343958+00:00",
+  "title_ko": "Sophos, OpenAI Daybreak로 위협 조사 시간 96% 단축",
+  "summary_ko": "보안 기업 소포스가 OpenAI의 Daybreak를 도입해 사이버 위협 조사 시간을 대폭 줄이고 MDR 사례의 절반 이상을 자동화한 사례입니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "7ad0c50f9994cfda",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1eb7w/paper_engramedit_decoupled_knowledge_updates_in/",
+  "source": "r/LocalLLaMA",
+  "title": "[Paper] EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
+  "published_at": "2026-10-09T06:45:52+00:00",
+  "collected_at": "2026-10-09T13:06:00.981159+00:00",
+  "title_ko": "조건부 메모리를 활용한 LLM 지식 업데이트 연구",
+  "summary_ko": "조건부 메모리 아키텍처를 통해 Transformer 백본을 고정한 채 LLM의 사실적 지식을 효율적으로 업데이트하는 방법을 다룬 논문입니다. 모델의 지식 관리 효율성을 높이는 중요한 접근을 제시합니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
   ]
  },
  {

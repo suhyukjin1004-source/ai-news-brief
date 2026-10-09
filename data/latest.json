@@ -1,8 +1,97 @@
 {
- "updated_at": "2026-10-09T05:57:51.177364+00:00",
+ "updated_at": "2026-10-09T13:06:30.854730+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "45751504827d13ae",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216105",
+   "source": "AI타임스",
+   "title": "오픈AI, 연구원 해고 논란 해명...\"안전 제기 보복 아닌 보안 위반\"",
+   "published_at": "2026-10-09T20:58:49+00:00",
+   "collected_at": "2026-10-09T13:06:14.372419+00:00",
+   "title_ko": "오픈AI, 연구원 해고는 보안 위반 때문이라고 해명",
+   "summary_ko": "오픈AI가 최근 안전 연구원들을 해고한 조치가 보복성이 아닌 민감 정보 처리 등 보안 정책 위반에 따른 것이라고 공식 해명했습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI"
+   ]
+  },
+  {
+   "id": "5fedbea4a01dcd8c",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216103",
+   "source": "AI타임스",
+   "title": "데이터센터 전문 퍼머스, 호주 IPO 철회…'엔비디아 후광'도 안 통했다",
+   "published_at": "2026-10-09T19:28:38+00:00",
+   "collected_at": "2026-10-09T13:06:14.372419+00:00",
+   "title_ko": "데이터센터 기업 퍼머스, 호주 증시 IPO 철회",
+   "summary_ko": "엔비디아의 지원을 받던 데이터센터 전문 기업 퍼머스가 고평가 논란과 부채 우려로 50억 달러 규모의 IPO를 전면 취소했습니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "투자"
+   ]
+  },
+  {
+   "id": "d2c59c406bff13dc",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216095",
+   "source": "AI타임스",
+   "title": "앤트로픽, ‘클로드 대시보드·모션’ 공개…\"기업 데이터 분석·영상 제작\"",
+   "published_at": "2026-10-09T18:00:40+00:00",
+   "collected_at": "2026-10-09T13:06:14.372419+00:00",
+   "title_ko": "앤트로픽, 클로드 데이터 분석 및 영상 제작 도구 공개",
+   "summary_ko": "앤트로픽이 자연어로 실시간 대시보드와 애니메이션 시각 자료를 만들 수 있는 클로드 새 기능을 선보였습니다.",
+   "category": "속보",
+   "tags": [
+    "Anthropic",
+    "Claude"
+   ]
+  },
+  {
+   "id": "eec8f7ea322749df",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216101",
+   "source": "AI타임스",
+   "title": "\"오픈소스 취약점 AI가 잡는다\"...앤트로픽, 무료 보안 검사 도구 공개",
+   "published_at": "2026-10-09T16:56:26+00:00",
+   "collected_at": "2026-10-09T13:06:14.372419+00:00",
+   "title_ko": "앤트로픽, 오픈소스 보안 취약점 무료 검사 도구 출시",
+   "summary_ko": "앤트로픽이 최신 AI 모델을 활용해 오픈소스 소프트웨어의 보안 취약점을 찾아내고 수정 방안을 제시하는 무료 도구를 공개했습니다.",
+   "category": "속보",
+   "tags": [
+    "Anthropic",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "47400b7771e2c2ff",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216100",
+   "source": "AI타임스",
+   "title": "\"모델 학대도 금지\"...앤트로픽, '클로드' 오용 막기 위해 사용 정책 개정",
+   "published_at": "2026-10-09T16:38:02+00:00",
+   "collected_at": "2026-10-09T13:06:14.372419+00:00",
+   "title_ko": "앤트로픽, AI 모델 오용 및 '모델 학대' 금지 정책 개정",
+   "summary_ko": "앤트로픽이 선거 개입, 무기 개발 등 악용을 막고 모델을 불필요하게 학대하는 행위를 금지하는 새로운 사용 정책을 발표했습니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "규제"
+   ]
+  },
+  {
+   "id": "19c45cc3b756fb5c",
+   "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
+   "source": "Simon Willison",
+   "title": "A new feature for my blog, built using my voice",
+   "published_at": "2026-10-09T12:54:06+00:00",
+   "collected_at": "2026-10-09T13:06:00.188631+00:00",
+   "title_ko": "음성 모드로 블로그 기능을 구축한 개발 사례",
+   "summary_ko": "개발자 사이먼 윌리슨이 ChatGPT 데스크톱 앱의 음성 모드를 활용해 요리 중에 대화만으로 블로그 뉴스레터 페이지 기능을 구현했습니다.",
+   "category": "팁",
+   "tags": [
+    "OpenAI",
+    "코딩"
+   ]
+  },
   {
    "id": "03957138361d93c7",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216093",
@@ -36,6 +125,20 @@
    ]
   },
   {
+   "id": "f586b78d849b7d0d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1jk9z/tencentyoutuparsingomni_hugging_face/",
+   "source": "r/LocalLLaMA",
+   "title": "tencent/Youtu-Parsing-Omni · Hugging Face",
+   "published_at": "2026-10-09T12:03:32+00:00",
+   "collected_at": "2026-10-09T13:06:00.981159+00:00",
+   "title_ko": "텐센트, 옴니모달 파싱 모델 'Youtu-Parsing-Omni' 공개",
+   "summary_ko": "문서, 이미지, 오디오 등 다양한 모달리티를 이해하고 구조화된 JSON으로 변환하는 텐센트의 소형 파싱 모델입니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
    "id": "394367f0649c799c",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216097",
    "source": "AI타임스",
@@ -48,6 +151,35 @@
    "tags": [
     "규제",
     "투자"
+   ]
+  },
+  {
+   "id": "ce5e3682eaffe477",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1jdsk/lightonailightonocr34b_hugging_face/",
+   "source": "r/LocalLLaMA",
+   "title": "lightonai/LightOnOCR-3-4B · Hugging Face",
+   "published_at": "2026-10-09T11:54:53+00:00",
+   "collected_at": "2026-10-09T13:06:00.981159+00:00",
+   "title_ko": "LightOnAI, 신규 OCR 모델 'LightOnOCR-3-4B' 공개",
+   "summary_ko": "LightOnAI에서 개발한 새로운 OCR(광학 문자 판독) 관련 모델이 허깅페이스에 등록되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "7e8ec8534c4a9fdb",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1j2lx/i_made_a_portable_ai_memory_format_that_transfers/",
+   "source": "r/LocalLLaMA",
+   "title": "I made a portable AI memory format that transfers both context and skill",
+   "published_at": "2026-10-09T11:38:22+00:00",
+   "collected_at": "2026-10-09T13:06:00.981159+00:00",
+   "title_ko": "컨텍스트와 스킬을 전달하는 휴대용 AI 메모리 포맷 제작",
+   "summary_ko": "텍스트 파일 형태로 AI의 세션 맥락과 스킬을 동시에 유지·전달할 수 있는 포맷을 개발하여 공유한 사례입니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
    ]
   },
   {
@@ -67,6 +199,21 @@
    ]
   },
   {
+   "id": "595085953aeea904",
+   "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+   "source": "Hacker News",
+   "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+   "published_at": "2026-10-09T11:03:48+00:00",
+   "collected_at": "2026-10-09T13:05:51.892672+00:00",
+   "title_ko": "AI 에이전트가 화면에 화살표와 상자를 그리게 하는 도구",
+   "summary_ko": "AI 에이전트가 작업 화면 위에 직접 시각적인 표시(화살표, 박스 등)를 남길 수 있게 해주는 오픈소스 도구입니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
    "id": "0b430b6df6c41aad",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216096",
    "source": "AI타임스",
@@ -83,6 +230,21 @@
    ]
   },
   {
+   "id": "7d2e03002f7b5fa0",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+   "source": "The Verge",
+   "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+   "published_at": "2026-10-09T09:48:26+00:00",
+   "collected_at": "2026-10-09T13:05:35.809705+00:00",
+   "title_ko": "OpenAI, AI 안전 연구원 해고 결정 고수",
+   "summary_ko": "OpenAI가 기밀 정보 처리 정책 위반을 이유로 안전 연구원 3명을 해고한 결정을 철회하지 않고 유지하기로 했습니다. AI 안전성과 내부 거버넌스 문제를 둘러싼 논란이 이어지고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "규제"
+   ]
+  },
+  {
    "id": "efc83e7d7a5f3006",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216092",
    "source": "AI타임스",
@@ -95,6 +257,142 @@
    "tags": [
     "AI 에이전트",
     "규제"
+   ]
+  },
+  {
+   "id": "87b5ec1dbf599f13",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1gjae/stepping_away_from_benchmarks_and_code_what/",
+   "source": "r/LocalLLaMA",
+   "title": "Stepping away from Benchmarks and Code, what models are you using for Creating writing projects",
+   "published_at": "2026-10-09T09:08:52+00:00",
+   "collected_at": "2026-10-09T13:06:00.981159+00:00",
+   "title_ko": "오픈소스 로컬 LLM을 활용한 창의적 글쓰기",
+   "summary_ko": "벤치마크 점수와 코딩 능력을 넘어 로컬 오픈웨이트 모델을 창작 및 스토리텔링에 활용하는 사용자들의 경험과 모델 선택에 대한 논의입니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "Gemma"
+   ]
+  },
+  {
+   "id": "ffb664430fda6f4d",
+   "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+   "source": "MIT Tech Review",
+   "title": "We’re putting too much faith in AI’s ability to say no",
+   "published_at": "2026-10-09T09:00:00+00:00",
+   "collected_at": "2026-10-09T13:05:48.802168+00:00",
+   "title_ko": "AI의 '거절 능력'에 대한 과도한 믿음",
+   "summary_ko": "인간처럼 AI가 명확하게 거절하고 통제될 수 있다는 믿음에 대해 고찰하며, AI 정렬과 안전성 확보의 한계를 지적합니다.",
+   "category": "참고",
+   "tags": [
+    "규제",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "3c34342c2677d41b",
+   "url": "https://news.hada.io/topic?id=35056",
+   "source": "GeekNews",
+   "title": "AI 시대 주니어 개발자의 역할은 무엇이 돼야 할까요?",
+   "published_at": "2026-10-09T08:34:06+00:00",
+   "collected_at": "2026-10-09T13:06:15.768894+00:00",
+   "title_ko": "AI 시대 주니어 개발자의 새로운 역할과 변화",
+   "summary_ko": "코딩 에이전트의 발전으로 구현 업무가 대체되는 현장에서 주니어 개발자가 'AI 팀장'으로서 가져야 할 역할과 업무 방식을 제안합니다.",
+   "category": "참고",
+   "tags": [
+    "코딩",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "0804fdfcee1a1372",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1fnsy/ahh_it_all_makes_sense_now_for_the_64gb_dgx_spark/",
+   "source": "r/LocalLLaMA",
+   "title": "Ahh, it all makes sense now for the 64Gb DGX Spark - [Samsung expects 780% quarterly operating profit jump on AI boom]",
+   "published_at": "2026-10-09T08:12:34+00:00",
+   "collected_at": "2026-10-09T13:06:00.981159+00:00",
+   "title_ko": "삼성전자, AI 붐 힘입어 영업이익 급증 예상",
+   "summary_ko": "AI 인프라 및 반도체 수요 급증에 따라 삼성전자의 분기 영업이익이 큰 폭으로 상승할 것이라는 전망입니다.",
+   "category": "중요",
+   "tags": [
+    "반도체",
+    "투자"
+   ]
+  },
+  {
+   "id": "39b78025969de32b",
+   "url": "https://news.hada.io/topic?id=35053",
+   "source": "GeekNews",
+   "title": "Claude Code로 찾아낸, 아무도 존재를 몰랐던 새로운 행성 후보",
+   "published_at": "2026-10-09T07:40:49+00:00",
+   "collected_at": "2026-10-09T13:06:15.768894+00:00",
+   "title_ko": "Claude Code를 활용한 미지의 행성 후보 발견",
+   "summary_ko": "개발 도구인 Claude Code를 활용해 천문학 데이터에서 미지의 행성 후보를 발견한 사례로, AI의 연구 보조 활용 가능성을 보여줍니다.",
+   "category": "중요",
+   "tags": [
+    "Claude",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "9d3d01afc01db79a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1f5gz/paper_stepped_moe_segmentlevel_routing_with/",
+   "source": "r/LocalLLaMA",
+   "title": "[Paper] Stepped MoE: Segment-Level Routing with Configurable Inference Complexity",
+   "published_at": "2026-10-09T07:39:16+00:00",
+   "collected_at": "2026-10-09T13:06:00.981159+00:00",
+   "title_ko": "연산 효율성을 높인 'Stepped MoE' 프레임워크",
+   "summary_ko": "다양한 배포 환경과 제약 조건에 맞춰 연산 복잡도를 조절할 수 있는 세그먼트 수준의 라우팅 기법을 다룬 연구 논문입니다.",
+   "category": "참고",
+   "tags": [
+    "LLM",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "f2762631b01a728c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1eu7o/paper_dloop_looped_speculative_decoding/",
+   "source": "r/LocalLLaMA",
+   "title": "[Paper] DLoop: Looped Speculative Decoding",
+   "published_at": "2026-10-09T07:18:42+00:00",
+   "collected_at": "2026-10-09T13:06:00.981159+00:00",
+   "title_ko": "추론 가속을 위한 루프형 Speculative Decoding 논문",
+   "summary_ko": "LLM의 자기회귀 생성 속도를 높이기 위해 초안 모델과 타겟 모델 간의 검증 단계를 최적화하는 새로운 디코딩 기법을 소개합니다.",
+   "category": "참고",
+   "tags": [
+    "LLM",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "edd58468d564448f",
+   "url": "https://openai.com/index/sophos",
+   "source": "OpenAI",
+   "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+   "published_at": "2026-10-09T07:00:00+00:00",
+   "collected_at": "2026-10-09T13:05:49.343958+00:00",
+   "title_ko": "Sophos, OpenAI Daybreak로 위협 조사 시간 96% 단축",
+   "summary_ko": "보안 기업 소포스가 OpenAI의 Daybreak를 도입해 사이버 위협 조사 시간을 대폭 줄이고 MDR 사례의 절반 이상을 자동화한 사례입니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "7ad0c50f9994cfda",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1eb7w/paper_engramedit_decoupled_knowledge_updates_in/",
+   "source": "r/LocalLLaMA",
+   "title": "[Paper] EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
+   "published_at": "2026-10-09T06:45:52+00:00",
+   "collected_at": "2026-10-09T13:06:00.981159+00:00",
+   "title_ko": "조건부 메모리를 활용한 LLM 지식 업데이트 연구",
+   "summary_ko": "조건부 메모리 아키텍처를 통해 Transformer 백본을 고정한 채 LLM의 사실적 지식을 효율적으로 업데이트하는 방법을 다룬 논문입니다. 모델의 지식 관리 효율성을 높이는 중요한 접근을 제시합니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
    ]
   },
   {
@@ -2689,307 +2987,6 @@
    "category": "참고",
    "tags": [
     "코딩"
-   ]
-  },
-  {
-   "id": "8489f30897db8d6d",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
-   "source": "The Verge",
-   "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
-   "published_at": "2026-10-07T09:00:00+00:00",
-   "collected_at": "2026-10-07T10:08:17.757532+00:00",
-   "title_ko": "미국 시민단체, 청소년용 챗GPT는 '용납할 수 없는 위험'",
-   "summary_ko": "청소년 안전을 다루는 미 시민단체 커먼 센스 미디어가 오픈아이가 출시한 청소년용 챗GPT가 여전히 수용하기 어려운 위험을 내포하고 있다고 비판했습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "GPT",
-    "규제"
-   ]
-  },
-  {
-   "id": "6190ec6dce249024",
-   "url": "https://www.reddit.com/r/singularity/comments/1wzrdc6/sam_altman_2026_is_the_year_ai_got_smarter_than/",
-   "source": "r/singularity",
-   "title": "Sam Altman: \"2026 Is The Year AI Got Smarter Than Us.\" “Are We Living Forever In Computers?\" \"These Questions Are No Longer Theoretical.\"",
-   "published_at": "2026-10-07T08:41:36+00:00",
-   "collected_at": "2026-10-07T10:09:05.936443+00:00",
-   "title_ko": "샘 알트만 \"2026년은 AI가 인간보다 똑똑해진 해\"",
-   "summary_ko": "오픈AI CEO 샘 알트만이 2026년을 기점으로 AI가 인간의 지능을 넘어서는 중대한 전환점이 도래했다고 언급했습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "GPT"
-   ]
-  },
-  {
-   "id": "483c485040c52a6a",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzqyfl/i_retrained_the_dflash_2_drafter_for_ternary/",
-   "source": "r/LocalLLaMA",
-   "title": "I re-trained the DFlash 2 drafter for Ternary Bonsai 2 27B: 2.2x on an L4 (3.2x on code edits with ngram lookup), 1.5x on a Mac, 1.2x in Chrome",
-   "published_at": "2026-10-07T08:13:23+00:00",
-   "collected_at": "2026-10-07T10:08:52.959725+00:00",
-   "title_ko": "Ternary Bonsai 2 27B용 DFlash 2 드래프터 파인튜닝",
-   "summary_ko": "경량화된 삼진(ternary) 모델의 디코딩 속도를 대폭 끌어올린 드래프터 모델이 공개되어 로컬 환경에서의 LLM 구동 효율성을 높였다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "반도체"
-   ]
-  },
-  {
-   "id": "104448deeda90b2a",
-   "url": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/",
-   "source": "Hacker News",
-   "title": "Forever junior: Skills AI can't develop for you",
-   "published_at": "2026-10-07T08:00:06+00:00",
-   "collected_at": "2026-10-08T10:24:14.177082+00:00",
-   "title_ko": "AI 시대에 주니어 개발자가 키워야 할 핵심 역량",
-   "summary_ko": "AI가 대체할 수 없는 개발자 고유의 역량과 주니어 엔지니어의 성장을 위한 조언을 다룹니다.",
-   "category": "참고",
-   "tags": [
-    "코딩"
-   ]
-  },
-  {
-   "id": "b32a0fa587ee3a5a",
-   "url": "https://news.hada.io/topic?id=34934",
-   "source": "GeekNews",
-   "title": "Strands Decider 2B - 소형 오픈소스 의사결정 모델",
-   "published_at": "2026-10-07T07:38:20+00:00",
-   "collected_at": "2026-10-07T10:09:08.099663+00:00",
-   "title_ko": "소형 오픈소스 의사결정 모델 'Strands Decider 2B' 공개",
-   "summary_ko": "텍스트 생성 대신 선택지 선택과 수치 점수 평가에 특화된 20억 파라미터 모델로, 로컬 환경에서 빠른 의사결정 실험이 가능하다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "0d85fca8e10e4429",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzq2ts/single_3090_qwen_27b_user_considering_buying/",
-   "source": "r/LocalLLaMA",
-   "title": "Single 3090 Qwen 27B user, considering buying 128GB of RAM because of the hype",
-   "published_at": "2026-10-07T07:14:41+00:00",
-   "collected_at": "2026-10-07T10:08:52.959725+00:00",
-   "title_ko": "단일 GPU 환경에서의 대형 LLM 구동 하드웨어 업그레이드 논의",
-   "summary_ko": "단일 3090 GPU 환경에서 Qwen 27B 모델을 구동하기 위해 시스템 메모리 확장을 고민하는 사용자들의 하드웨어 최적화 경험 공유.",
-   "category": "팁",
-   "tags": [
-    "LLM",
-    "반도체"
-   ]
-  },
-  {
-   "id": "387b0e2a90f0d770",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzpyzk/new_35ba3b_model_is_comming_on_huggingface/",
-   "source": "r/LocalLLaMA",
-   "title": "New 35B-A3B model is comming on huggingface",
-   "published_at": "2026-10-07T07:07:41+00:00",
-   "collected_at": "2026-10-07T10:08:52.959725+00:00",
-   "title_ko": "허깅페이스에 신규 35B 모델 'MiniCPM-V-4.7-35B-A3B' 예고",
-   "summary_ko": "허깅페이스에 새로운 대형 멀티모달 모델인 MiniCPM 시리즈의 신규 버전 출시가 임박했음이 포착되었다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "04e9dc3828b5420c",
-   "url": "https://openai.com/index/radisson",
-   "source": "OpenAI",
-   "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-   "published_at": "2026-10-07T07:00:00+00:00",
-   "collected_at": "2026-10-07T17:45:59.931948+00:00",
-   "title_ko": "래디슨 호텔 그룹, ChatGPT 내 호텔 검색·예약 기능 도입",
-   "summary_ko": "오픈에이아이 기술을 활용해 사용자가 ChatGPT 상에서 직접 호텔을 찾고 비교 및 예약할 수 있는 기능을 구축했습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "GPT",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "a4aded798787bdd7",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzp2ja/trained_a_20k_lm_probably_smallest_that_can_still/",
-   "source": "r/LocalLLaMA",
-   "title": "Trained a ~20K LM (probably smallest) that can still write stories",
-   "published_at": "2026-10-07T06:10:10+00:00",
-   "collected_at": "2026-10-07T10:08:52.959725+00:00",
-   "title_ko": "스토리 작성이 가능한 초소형 2만 파라미터 언어 모델 개발",
-   "summary_ko": "매우 제한된 파라미터 수로도 일관된 기승전결의 스토리를 작성할 수 있는 극초소형 언어 모델이 공개되어 연구적 관심을 모으고 있다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "9cc9316845c3e03e",
-   "url": "https://www.reddit.com/r/singularity/comments/1wzol2v/generalists_gen15_can_repeatedly_install_and/",
-   "source": "r/singularity",
-   "title": "Generalist’s GEN-1.5 can repeatedly install and remove an O-ring from a hydraulic rod gland autonomously—the same foundation model can learn new physical tasks from seconds of demonstrations",
-   "published_at": "2026-10-07T05:40:15+00:00",
-   "collected_at": "2026-10-07T10:09:05.936443+00:00",
-   "title_ko": "범용 로보틱스 기초 모델 GEN-1.5의 물리 작업 학습 능력",
-   "summary_ko": "단 몇 초간의 시연만으로 새로운 물리적 조작 작업을 자율적으로 학습하고 수행하는 범용 로보틱스 모델의 능력이 시연되었다.",
-   "category": "중요",
-   "tags": [
-    "로보틱스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "6d1068c696b61e1c",
-   "url": "https://news.hada.io/topic?id=34928",
-   "source": "GeekNews",
-   "title": "Claude Code의 가장 영리한 기능은 사용자를 위한 것이 아니다",
-   "published_at": "2026-10-07T04:32:37+00:00",
-   "collected_at": "2026-10-07T10:09:08.099663+00:00",
-   "title_ko": "Claude Code의 다음 메시지 제안 기능에 숨겨진 학습 피드백 메커니즘",
-   "summary_ko": "Claude Code의 사용자 입력 제안 기능이 단순한 편의성을 넘어 모델 학습을 위한 정교한 사용자 선호 데이터 수집 장치로 작동하고 있다는 분석.",
-   "category": "참고",
-   "tags": [
-    "Anthropic",
-    "Claude",
-    "코딩"
-   ]
-  },
-  {
-   "id": "b75db7dc7af90251",
-   "url": "https://www.reddit.com/r/singularity/comments/1wzml7d/anthropic_claude_subscription_plan_provides_more/",
-   "source": "r/singularity",
-   "title": "Anthropic Claude subscription plan provides more value than OpenAI's, study says",
-   "published_at": "2026-10-07T03:43:27+00:00",
-   "collected_at": "2026-10-07T10:09:05.936443+00:00",
-   "title_ko": "앤스로픽 Claude 구독 플랜의 가치에 대한 사용자 연구",
-   "summary_ko": "오픈에이아이와 비교해 앤스로픽의 Claude 구독 플랜이 사용자에게 더 높은 만족도와 가치를 제공한다는 분석 결과가 공유되었다.",
-   "category": "참고",
-   "tags": [
-    "Anthropic",
-    "OpenAI",
-    "Claude"
-   ]
-  },
-  {
-   "id": "58df322f46a9de9b",
-   "url": "https://github.com/nano-muse/nanoMuse",
-   "source": "Hacker News",
-   "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
-   "published_at": "2026-10-07T03:30:44+00:00",
-   "collected_at": "2026-10-08T10:24:14.177082+00:00",
-   "title_ko": "모바일 및 PC용 오픈소스 AI 에이전트 'NanoMuse' 공개",
-   "summary_ko": "사용자의 스마트폰과 컴퓨터에서 동작하는 오픈소스 AI 에이전트 프로젝트가 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "e7dd705818f35306",
-   "url": "https://www.reddit.com/r/singularity/comments/1wzlz7t/whats_next_that_ai_is_coming_for/",
-   "source": "r/singularity",
-   "title": "What’s next that AI is coming for?",
-   "published_at": "2026-10-07T03:09:53+00:00",
-   "collected_at": "2026-10-07T10:09:05.936443+00:00",
-   "title_ko": "AI 발전과 소프트웨어 개발 직군의 미래 전망",
-   "summary_ko": "AI 도입으로 소수의 기술자가 대규모 프로젝트를 수행할 수 있게 되면서 개발자 고용 시장과 직무 성격이 변화하고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "e2087e6a3cdf3d71",
-   "url": "https://www.reddit.com/r/singularity/comments/1wzljli/people_on_social_media_pretending_to_understand/",
-   "source": "r/singularity",
-   "title": "People on social media, pretending to understand the recent open AI math results",
-   "published_at": "2026-10-07T02:46:54+00:00",
-   "collected_at": "2026-10-07T10:09:05.936443+00:00",
-   "title_ko": "OpenAI의 수학 문제 해결 성과에 대한 대중적 반응",
-   "summary_ko": "OpenAI의 최신 AI 시스템이 복잡한 수학 문제를 해결한 가운데, 소셜 미디어상에서 이에 대한 이해와 밈 확산 현상이 나타나고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "GPT"
-   ]
-  },
-  {
-   "id": "10b4d262d02a5d5e",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzljhn/benchlabs_cagliostro_v35_135m_finally_takes/",
-   "source": "r/LocalLLaMA",
-   "title": "BenchLabs' Cagliostro V3.5 135M finally takes Hugging Face's SmolLM2-135M's first place on Open SLM Leaderboard with an Intelligence Index of 27.49",
-   "published_at": "2026-10-07T02:46:46+00:00",
-   "collected_at": "2026-10-07T10:08:52.959725+00:00",
-   "title_ko": "소형 언어 모델 리더보드 1위 달성 소식",
-   "summary_ko": "BenchLabs의 Cagliostro V3.5 135M이 오픈 SLM 리더보드에서 1위를 차지하며 소형 모델 성능 경쟁에 변화를 주고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "536b5064eaeba43c",
-   "url": "https://news.hada.io/topic?id=34925",
-   "source": "GeekNews",
-   "title": "소프트웨어 팩토리 패턴 시도하기",
-   "published_at": "2026-10-07T02:25:02+00:00",
-   "collected_at": "2026-10-07T10:09:08.099663+00:00",
-   "title_ko": "AI 에이전트 기반의 소프트웨어 팩토리 패턴 실험",
-   "summary_ko": "개별 티켓 처리 대신 프로젝트 목표를 스스로 파악하고 수행하는 소프트웨어 팩토리 개념이 개발 현장에서 실험되고 있습니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "865c9186faadde13",
-   "url": "https://strandsagents.com/blog/introducing-strands-decider/",
-   "source": "Hacker News",
-   "title": "Strands Decider 2B: a small, open-source, decision model",
-   "published_at": "2026-10-07T02:02:11+00:00",
-   "collected_at": "2026-10-07T10:08:31.962277+00:00",
-   "title_ko": "소형 오픈소스 결정 모델 'Strands Decider 2B' 공개",
-   "summary_ko": "효율적인 의사결정을 지원하는 2B 파라미터 규모의 소형 오픈소스 AI 모델이 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "7b2791fb3abe7cdc",
-   "url": "https://news.hada.io/topic?id=34923",
-   "source": "GeekNews",
-   "title": "OpenAI, 확률·선택지·점수를 반환하는 Decisions API 공개 베타 시작",
-   "published_at": "2026-10-07T01:33:49+00:00",
-   "collected_at": "2026-10-07T02:15:38.104494+00:00",
-   "title_ko": "OpenAI, 판단 결과 제공하는 Decisions API 공개 베타 출시",
-   "summary_ko": "OpenAI가 텍스트와 이미지를 평가해 확률과 점수를 반환하는 Decisions API 공개 베타를 시작했습니다. 기존 Responses API보다 약 10배 빠르게 판단 결과를 제공합니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "LLM"
-   ]
-  },
-  {
-   "id": "f626a61047f929d8",
-   "url": "https://news.hada.io/topic?id=34922",
-   "source": "GeekNews",
-   "title": "제프리 카첸버그 - 세상이 바뀌고 있다: 창의성을 위한 AI",
-   "published_at": "2026-10-07T01:05:02+00:00",
-   "collected_at": "2026-10-07T02:15:38.104494+00:00",
-   "title_ko": "제프리 카첸버그가 강조하는 창의성을 위한 AI와 창작자 보상",
-   "summary_ko": "할리우드가 AI 도입에 저항하는 이유는 일자리 상실 우려 때문이며, 기술 거부보다는 창작자의 기여 인정과 보상 체계 마련이 시급하다는 주장입니다.",
-   "category": "중요",
-   "tags": [
-    "규제"
    ]
   }
  ]
