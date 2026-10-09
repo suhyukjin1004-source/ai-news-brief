@@ -1,5 +1,78 @@
 [
  {
+  "id": "632f32208c2b3c9a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1mzsg/qwen38flashnextgsqrco_iq3_s_2030_toksec_decode/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-Flash-Next-GSQ-RCO (IQ3_S): ~20-30 tok/sec decode & 300-90k tok/sec prefill on 12GB VRAM + 32GB RAM + NVME",
+  "published_at": "2026-10-09T14:34:14+00:00",
+  "collected_at": "2026-10-09T19:27:14.740625+00:00",
+  "title_ko": "저사양 환경에서 구동되는 Qwen 커스텀 모델",
+  "summary_ko": "일반 소비자용 하드웨어와 저사양 VRAM 환경에서도 고성능을 내는 실험적인 Qwen 모델 구동 레시피가 공유됐다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "4c734c05fb41a55c",
+  "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+  "source": "The Verge",
+  "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
+  "published_at": "2026-10-09T14:00:00+00:00",
+  "collected_at": "2026-10-09T19:26:45.326066+00:00",
+  "title_ko": "주목받는 AI 에이전트 'Instinct'와 새로운 경쟁자 'Muse'",
+  "summary_ko": "텍스트 기반 인터페이스로 큰 인기를 끌었던 AI 에이전트 Instinct가 새로운 경쟁 구도 속에서 생존 시험대에 올랐다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "55dad6a68a43e680",
+  "url": "https://news.hada.io/topic?id=35071",
+  "source": "GeekNews",
+  "title": "AI 에이전트가 화면에 큰 화살표, 상자, 텍스트를 그리게 하세요",
+  "published_at": "2026-10-09T13:41:39+00:00",
+  "collected_at": "2026-10-09T19:27:29.405228+00:00",
+  "title_ko": "AI 에이전트가 화면 상의 요소를 시각적으로 가리키는 도구",
+  "summary_ko": "macOS 환경에서 AI 에이전트가 사용자의 수동 조작이 필요한 버튼이나 창을 화면에 직접 표시해 안내해 주는 도구다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "e6b307db7ac86d35",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1ldef/qwenqwenimage21turbo_hugging_face/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen/Qwen-Image-2.1-Turbo · Hugging Face",
+  "published_at": "2026-10-09T13:28:14+00:00",
+  "collected_at": "2026-10-09T19:27:14.740625+00:00",
+  "title_ko": "Qwen-Image-2.1-Turbo 공개",
+  "summary_ko": "단 8단계의 디노이징만으로 고품질 2K 이미지를 생성 및 편집할 수 있는 Qwen-Image-2.1-Turbo의 오픈 웨이트가 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "이미지 생성"
+  ]
+ },
+ {
+  "id": "621d2162c6bdcf31",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1lclx/qwenimage21turbo_released/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen-Image-2.1-Turbo released!",
+  "published_at": "2026-10-09T13:27:18+00:00",
+  "collected_at": "2026-10-09T19:27:14.740625+00:00",
+  "title_ko": "알리바바, Qwen-Image-2.1-Turbo 공개",
+  "summary_ko": "8단계 추론으로 2K 이미지를 고속 생성하고 자연어 편집을 지원하는 Qwen-Image-2.1-Turbo 모델이 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "이미지 생성"
+  ]
+ },
+ {
   "id": "19c45cc3b756fb5c",
   "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
   "source": "Simon Willison",
@@ -28,6 +101,52 @@
    "OpenAI",
    "규제",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "79cbf29cbb21adc6",
+  "url": "https://news.hada.io/topic?id=35064",
+  "source": "GeekNews",
+  "title": "OpenAI, 분할 원리, 그리고 수학",
+  "published_at": "2026-10-09T12:37:31+00:00",
+  "collected_at": "2026-10-09T19:27:29.405228+00:00",
+  "title_ko": "OpenAI의 수학 연구 결과 발표와 논란",
+  "summary_ko": "OpenAI가 분할 원리와 선택 공리에 관한 연구를 발표했으나, 학계에서는 수학적 소통 품질과 연구 구성에 대한 비판이 제기되었습니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "수학"
+  ]
+ },
+ {
+  "id": "009f2cb71f44b713",
+  "url": "https://news.hada.io/topic?id=35063",
+  "source": "GeekNews",
+  "title": "Jev, GTM용 의사결정 AI에 관해 알아야 할 것",
+  "published_at": "2026-10-09T12:23:31+00:00",
+  "collected_at": "2026-10-09T19:27:29.405228+00:00",
+  "title_ko": "GTM 의사결정용 AI 모델 Jev 소개",
+  "summary_ko": "텍스트와 기준을 받아 생성 대신 판단과 확률을 반환하여 GTM 업무의 반복적인 의사결정을 자동화하는 AI 모델입니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "LLM"
+  ]
+ },
+ {
+  "id": "90a55d3c1fb985ce",
+  "url": "https://news.hada.io/topic?id=35062",
+  "source": "GeekNews",
+  "title": "Claude Startups 프로그램, 모든 신청서 재검토 예정",
+  "published_at": "2026-10-09T12:14:27+00:00",
+  "collected_at": "2026-10-09T19:27:29.405228+00:00",
+  "title_ko": "앤스로픽, Claude Startups 프로그램 신청서 재검토",
+  "summary_ko": "수십만 건의 신청으로 혜택 제공 한도를 초과한 앤스로픽이 Claude Startups 프로그램의 모든 신청서를 재검토한다고 밝혔습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "스타트업"
   ]
  },
  {
@@ -303,6 +422,22 @@
   ]
  },
  {
+  "id": "90995f7dbc9c2674",
+  "url": "https://openai.com/index/asana-browser-agent",
+  "source": "OpenAI",
+  "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+  "published_at": "2026-10-09T07:00:00+00:00",
+  "collected_at": "2026-10-09T19:26:58.545178+00:00",
+  "title_ko": "Asana, 신규 모델 도입으로 브라우저 에이전트 비용 76배 절감",
+  "summary_ko": "아사나가 신규 모델을 활용해 브라우저 에이전트의 실행 비용을 대폭 낮추고 속도를 향상시켰습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트",
+   "GPT"
+  ]
+ },
+ {
   "id": "7ad0c50f9994cfda",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1eb7w/paper_engramedit_decoupled_knowledge_updates_in/",
   "source": "r/LocalLLaMA",
@@ -315,6 +450,22 @@
   "tags": [
    "오픈소스",
    "LLM"
+  ]
+ },
+ {
+  "id": "1f785e46a47efefb",
+  "url": "https://github.com/microsoft/mxc",
+  "source": "Hacker News",
+  "title": "MXC - a sandboxed code execution system",
+  "published_at": "2026-10-09T05:51:29+00:00",
+  "collected_at": "2026-10-09T19:26:59.758908+00:00",
+  "title_ko": "마이크로소프트, 샌드박스 코드 실행 시스템 MXC 공개",
+  "summary_ko": "마이크로소프트가 안전한 코드 실행을 위한 샌드박스 시스템 MXC를 공개하며 개발자들의 관심을 받고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "Microsoft",
+   "코딩",
+   "오픈소스"
   ]
  },
  {
