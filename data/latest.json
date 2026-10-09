@@ -1,8 +1,68 @@
 {
- "updated_at": "2026-10-09T19:27:44.737329+00:00",
+ "updated_at": "2026-10-09T23:58:52.253904+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "42a214080bb99345",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1zhnx/qwen3827b_udiq4_xs_heretic_mtp_on_a_16_gb_card/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8-27B UD-IQ4_XS Heretic + MTP on a 16 GB card with 55-68 tok/s (24gb and 12gb versions available too)",
+   "published_at": "2026-10-09T22:54:37+00:00",
+   "collected_at": "2026-10-09T23:58:29.953410+00:00",
+   "title_ko": "16GB VRAM 카드용 Qwen3.8-27B 맞춤형 양자가중치 버전 공개",
+   "summary_ko": "16GB 및 12GB 그래픽카드에서 MTP(Multi-Token Prediction)를 지원하도록 최적화된 Qwen3.8-27B 언검소어드 모델의 양자가중치 버전이 제작되었습니다. 로컬 LLM 사용자들의 하드웨어 제약을 해소하는 데 도움을 줍니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "254da6143c7c84bf",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1z0mx/strix_halo_cmp_170hx_setup/",
+   "source": "r/LocalLLaMA",
+   "title": "Strix halo + CMP 170HX setup",
+   "published_at": "2026-10-09T22:32:32+00:00",
+   "collected_at": "2026-10-09T23:58:29.953410+00:00",
+   "title_ko": "CMP 170HX GPU와 Strix Halo를 활용한 로컬 AI 구축 사례",
+   "summary_ko": "개조된 CMP 170HX 8GB GPU와 대용량 RAM을 갖춘 데스크톱을 활용해 대형 오픈소스 언어모델을 구동한 하드웨어 구축 경험이 공유되었습니다.",
+   "category": "참고",
+   "tags": [
+    "반도체",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "b0e83be7355ca090",
+   "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+   "source": "TechCrunch",
+   "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+   "published_at": "2026-10-09T21:41:29+00:00",
+   "collected_at": "2026-10-09T23:58:13.422696+00:00",
+   "title_ko": "비텍스트 AI 모델 개발사 Jev, 출시 직후 75억 달러 기업가치 평가",
+   "summary_ko": "기존 LLM보다 훨씬 빠른 속도와 적은 토큰 사용량을 자랑하는 비텍스트 AI 모델 Jev의 개발사 TypeSafe가 큰 주목을 받으며 높은 가치를 인정받았습니다.",
+   "category": "중요",
+   "tags": [
+    "투자",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "74c0e2ddf0fb21d5",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1xt1x/qwen38_27b_with_200k_ctx_mtp_on_12gb_ampere_cards/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8 27b with 200K ctx + MTP on 12GB Ampere Cards",
+   "published_at": "2026-10-09T21:39:32+00:00",
+   "collected_at": "2026-10-09T23:58:29.953410+00:00",
+   "title_ko": "12GB VRAM 카드용 Qwen3.8 27B 컨텍스트 확장 버전 출시",
+   "summary_ko": "12GB 및 중저사양 그래픽카드 환경에서 200K 이상의 긴 컨텍스트와 MTP를 효율적으로 구동할 수 있도록 최적화된 로컬 LLM 런타임 업데이트가 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
   {
    "id": "8eb99df11808b46e",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216106",
@@ -20,6 +80,20 @@
    ]
   },
   {
+   "id": "ff91843b22372135",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1xjvz/is_there_a_music_embedding_model/",
+   "source": "r/LocalLLaMA",
+   "title": "Is there a music embedding model?",
+   "published_at": "2026-10-09T21:28:44+00:00",
+   "collected_at": "2026-10-09T23:58:29.953410+00:00",
+   "title_ko": "음악 임베딩 모델 존재 여부에 대한 개발자 커뮤니티 논의",
+   "summary_ko": "다양한 음악 라이브러리로 학습된 음악 전용 임베딩 모델이 존재하는지 묻는 개발자들의 질문과 논의가 공유되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
    "id": "45751504827d13ae",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216105",
    "source": "AI타임스",
@@ -31,6 +105,36 @@
    "category": "중요",
    "tags": [
     "OpenAI"
+   ]
+  },
+  {
+   "id": "03077bc5ff1ba7d6",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1w1nv/h2olightning4b_apache20_4b_decision_model/",
+   "source": "r/LocalLLaMA",
+   "title": "H2O-Lightning-4B: Apache-2.0 4B Decision model, official #1 open model on JevBench (above Jev)",
+   "published_at": "2026-10-09T20:26:12+00:00",
+   "collected_at": "2026-10-09T23:58:29.953410+00:00",
+   "title_ko": "H2O.ai, 오픈소스 의사결정 모델 H2O-Lightning-4B 공개",
+   "summary_ko": "생성 토큰 없이 빠르고 저렴하게 확률적 의사결정을 수행하는 아파치 2.0 라이선스의 오픈소스 모델 H2O-Lightning-4B가 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "2a1c784f84b947c8",
+   "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+   "source": "TechCrunch",
+   "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+   "published_at": "2026-10-09T19:36:56+00:00",
+   "collected_at": "2026-10-09T23:58:13.422696+00:00",
+   "title_ko": "앤스로픽 AI 모델, 필라델피아 경찰에 허위 살인 신고 제보",
+   "summary_ko": "앤스로픽의 AI 모델이 필라델피아 경찰에 잘못된 살인 제보를 보낸 사실이 뒤늦게 밝혀지며 AI 안전성 및 할루시네이션 문제가 다시 도마에 올랐습니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "규제"
    ]
   },
   {
@@ -77,6 +181,21 @@
    "tags": [
     "오픈소스",
     "반도체"
+   ]
+  },
+  {
+   "id": "b38064f80336dfc1",
+   "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+   "source": "Hacker News",
+   "title": "Microsoft-Decision-1, our model for fast decision-making",
+   "published_at": "2026-10-09T18:38:44+00:00",
+   "collected_at": "2026-10-09T23:58:27.606756+00:00",
+   "title_ko": "마이크로소프트, 빠른 의사결정을 위한 Microsoft-Decision-1 모델 공개",
+   "summary_ko": "마이크로소프트가 신속하고 효율적인 의사결정 태스크 처리에 특화된 새로운 파운데이션 모델을 공개했습니다.",
+   "category": "속보",
+   "tags": [
+    "Microsoft",
+    "LLM"
    ]
   },
   {
@@ -136,6 +255,21 @@
    "tags": [
     "오픈소스",
     "Anthropic"
+   ]
+  },
+  {
+   "id": "04902b83f5b9f295",
+   "url": "https://typesafe.ai/blog/series-ai",
+   "source": "Hacker News",
+   "title": "Typesafe AI raises $870M at $7.5B",
+   "published_at": "2026-10-09T17:02:31+00:00",
+   "collected_at": "2026-10-09T23:58:27.606756+00:00",
+   "title_ko": "타입세이프 AI, 75억 달러 가치로 8.7억 달러 투자 유치",
+   "summary_ko": "AI 스타트업 타입세이프 AI가 75억 달러의 기업 가치로 8억 7천만 달러 규모의 투자를 유치했습니다. 이는 AI 분야에 대한 지속적인 대규모 투자 트렌드를 보여줍니다.",
+   "category": "중요",
+   "tags": [
+    "투자",
+    "스타트업"
    ]
   },
   {
@@ -299,6 +433,21 @@
    ]
   },
   {
+   "id": "592496c5dbdf66ec",
+   "url": "https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z",
+   "source": "Hacker News",
+   "title": "The super intelligence shit is a humiliation ritual for OpenAI",
+   "published_at": "2026-10-09T15:18:59+00:00",
+   "collected_at": "2026-10-09T23:58:29.005957+00:00",
+   "title_ko": "초지능 관련 OpenAI 비판 여론 확산",
+   "summary_ko": "OpenAI가 주장하는 초지능 비전에 대해 업계 내외에서 회의론과 비판적인 시각이 제기되었습니다. AI의 방향성과 기업의 마케팅 전략에 대한 논란을 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "규제"
+   ]
+  },
+  {
    "id": "963b8184663b383e",
    "url": "https://simonwillison.net/2026/Oct/9/matthew-green/",
    "source": "Simon Willison",
@@ -325,6 +474,20 @@
    "tags": [
     "오픈소스",
     "반도체"
+   ]
+  },
+  {
+   "id": "bd09a73d35990048",
+   "url": "https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457",
+   "source": "Hacker News",
+   "title": "Court throws out killer's sentence after judge said he loved AI video of victim",
+   "published_at": "2026-10-09T14:14:08+00:00",
+   "collected_at": "2026-10-09T23:58:29.005957+00:00",
+   "title_ko": "판사가 피해자 AI 영상 언급한 살인범 재판, 판결 파기",
+   "summary_ko": "판사가 피해자의 AI 생성 영상을 언급한 살인범의 판결이 법원에서 무효화되었습니다. 사법 시스템 내 AI 기술 활용에 대한 법적·윤리적 논란을 시사합니다.",
+   "category": "중요",
+   "tags": [
+    "규제"
    ]
   },
   {
@@ -534,6 +697,20 @@
    "tags": [
     "AI 에이전트",
     "코딩"
+   ]
+  },
+  {
+   "id": "066510f0a2f23074",
+   "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+   "source": "Hacker News",
+   "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+   "published_at": "2026-10-09T11:36:20+00:00",
+   "collected_at": "2026-10-09T23:58:29.005957+00:00",
+   "title_ko": "AI를 활용한 기록물 분석으로 잊혀진 운석 및 코뿔소 발견",
+   "summary_ko": "방대한 아카이브 기록물 분석에 AI를 적용하여 잊혀진 운석과 코뿔소 등의 역사적 발견을 이뤄냈습니다. 역사 연구와 아카이브 관리에서 AI의 활용 가능성을 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트"
    ]
   },
   {
@@ -2818,183 +2995,6 @@
    "tags": [
     "오픈소스",
     "멀티모달"
-   ]
-  },
-  {
-   "id": "97773b2e47a2a9b3",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x01xg3/liquidaid13b_hugging_face/",
-   "source": "r/LocalLLaMA",
-   "title": "LiquidAI/d1-3B · Hugging Face",
-   "published_at": "2026-10-07T17:00:23+00:00",
-   "collected_at": "2026-10-07T17:46:20.433517+00:00",
-   "title_ko": "LiquidAI d1-3B 허깅페이스 공개",
-   "summary_ko": "LiquidAI의 새로운 3B 파라미터 결정 모델인 d1-3B의 허깅페이스 리포지토리가 공개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "b6a70d111f81bcf4",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216043",
-   "source": "AI타임스",
-   "title": "[게시판] SKT, 독파모 'A.X K2'로 순우리말 선정·글꼴 제작 등 단신",
-   "published_at": "2026-10-07T17:00:00+00:00",
-   "collected_at": "2026-10-07T10:09:07.026962+00:00",
-   "title_ko": "SK텔레콤, AI 모델로 한글날 캠페인 및 글꼴 제작",
-   "summary_ko": "SKT가 자체 AI 파운데이션 모델 'A.X K2'를 활용해 우리말 사전 원고를 분석하고 '말모이체' 글꼴을 제작하는 한글날 기념 캠페인을 전개합니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "313470ba66cedc98",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216039",
-   "source": "AI타임스",
-   "title": "하크, '스마트폰 대체' AI 에이전트 공개...2027년 전용 기기 출시",
-   "published_at": "2026-10-07T16:59:59+00:00",
-   "collected_at": "2026-10-07T10:09:07.026962+00:00",
-   "title_ko": "피규어 AI 창업자 진영, 스마트폰 대체 AI 에이전트 '하크 프로' 공개",
-   "summary_ko": "휴머노이드 로봇 전문가들이 설립한 스타트업 하크가 능동적으로 업무를 처리하는 AI 에이전트 '하크 프로'를 공개하고 2027년 전용 기기 출시를 예고했습니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "65c75f24c6421cc0",
-   "url": "https://agent.reviews/",
-   "source": "Hacker News",
-   "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
-   "published_at": "2026-10-07T16:59:11+00:00",
-   "collected_at": "2026-10-08T10:24:14.177082+00:00",
-   "title_ko": "AI 에이전트 전용 리뷰 플랫폼 'Agent.reviews' 등장",
-   "summary_ko": "AI 에이전트들이 도구 사용 경험에 대한 피드백을 읽고 남길 수 있는 에이전트 전용 리뷰 플랫폼이 출시되었습니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "0825a4897dea2e82",
-   "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-   "source": "Hugging Face",
-   "title": "Multimodal open d1 decision models for the edge",
-   "published_at": "2026-10-07T16:54:33+00:00",
-   "collected_at": "2026-10-07T17:46:00.762124+00:00",
-   "title_ko": "엣지용 멀티모달 오픈소스 결정 모델 d1 출시",
-   "summary_ko": "엣지 디바이스에서 효율적으로 구동되는 LiquidAI의 오픈소스 멀티모달 결정 모델이 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "멀티모달"
-   ]
-  },
-  {
-   "id": "b68f72604da4715c",
-   "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-   "source": "TechCrunch",
-   "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-   "published_at": "2026-10-07T16:53:46+00:00",
-   "collected_at": "2026-10-07T17:45:46.999258+00:00",
-   "title_ko": "Meta, 아동 유해 콘텐츠 유도 광고 탐지 AI 도구 도입",
-   "summary_ko": "Meta가 플랫폼 내에서 아동 성착취물로 유도하는 위장 광고를 탐지하기 위한 새로운 AI 도구를 출시했습니다.",
-   "category": "중요",
-   "tags": [
-    "Meta",
-    "규제"
-   ]
-  },
-  {
-   "id": "9f5178e2ceeea7d3",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216038",
-   "source": "AI타임스",
-   "title": "구글, AI 데이터센터 전력 확보 위해 3.6GW 규모 원전 계약 체결",
-   "published_at": "2026-10-07T16:50:00+00:00",
-   "collected_at": "2026-10-07T10:09:07.026962+00:00",
-   "title_ko": "구글, AI 데이터센터 전력 확보 위해 3.6GW 원전 계약 체결",
-   "summary_ko": "구글이 급증하는 AI 데이터센터 전력 수요를 충당하기 위해 컨스텔레이션 에너지와 43억 달러 규모의 대규모 원전 전력 공급 계약을 맺었습니다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "반도체"
-   ]
-  },
-  {
-   "id": "3b5232eea70555a7",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216035",
-   "source": "AI타임스",
-   "title": "호주 청문회 출석한 오픈AI·앤트로픽 \"에이전트 사고 신고 의무화 찬성\"",
-   "published_at": "2026-10-07T16:37:58+00:00",
-   "collected_at": "2026-10-07T17:46:33.680499+00:00",
-   "title_ko": "오픈아이·앤트로픽, 호주 청문회서 AI 에이전트 사고 신고 의무화 찬성",
-   "summary_ko": "오픈AI와 앤트로픽이 호주 의회 청문회에서 AI 에이전트로 인한 데이터 침해 등 사고의 의무적 신고 규제를 지지한다고 밝혔습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "Anthropic",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "f2a97787b734a265",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216034",
-   "source": "AI타임스",
-   "title": "아모데이 지난해 보수 240억...'대형 기술 기업 CEO 중 중간 수준'",
-   "published_at": "2026-10-07T16:10:58+00:00",
-   "collected_at": "2026-10-07T17:46:33.680499+00:00",
-   "title_ko": "다리오 아모데이 앤트로픽 CEO 지난해 보수 240억 원",
-   "summary_ko": "앤트로픽의 IPO 서류를 통해 다리오 아모데이 CEO의 지난해 보수가 약 1,800만 달러(약 240억 원)로 확인되었습니다.",
-   "category": "참고",
-   "tags": [
-    "Anthropic",
-    "투자"
-   ]
-  },
-  {
-   "id": "e13d16bd9e5edef2",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
-   "source": "The Verge",
-   "title": "ChatGPT is getting college planning tools",
-   "published_at": "2026-10-07T16:00:00+00:00",
-   "collected_at": "2026-10-07T17:45:47.078084+00:00",
-   "title_ko": "ChatGPT, 청소년용 대학 진학 설계 도구 도입",
-   "summary_ko": "OpenAI가 챗GPT의 청소년 모드에 지원 요건과 마감일, 재정 지원 단계를 통합 관리하는 대학 진학 플래너 기능을 추가했습니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "GPT"
-   ]
-  },
-  {
-   "id": "66a0f4c1318a946a",
-   "url": "https://news.hada.io/topic?id=34953",
-   "source": "GeekNews",
-   "title": "Show GN: Boxdawn - 에이전트 트레이스 파일 하나 올리면 멀티에이전트가 같은 일을 두 번 한 지점을 찾습니다",
-   "published_at": "2026-10-07T15:58:10+00:00",
-   "collected_at": "2026-10-07T17:46:34.654001+00:00",
-   "title_ko": "멀티에이전트 중복 작업 탐지 오픈소스 'Boxdawn' 소개",
-   "summary_ko": "멀티에이전트 시스템에서 동일한 작업을 반복 수행하여 발생하는 비용 낭비 지점을 찾아내는 오픈소스 도구가 소개되었습니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "fe51e9f011c8a255",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216032",
-   "source": "AI타임스",
-   "title": "\"결정 피로 줄인다\"…오픈AI, 코덱스 2일차 업데이트로 ‘오토리뷰’ 전면 무료화",
-   "published_at": "2026-10-07T15:53:43+00:00",
-   "collected_at": "2026-10-07T17:46:33.680499+00:00",
-   "title_ko": "오픈AI, 코덱스 업데이트로 '오토리뷰' 기능 전면 무료화",
-   "summary_ko": "오픈AI가 AI 에이전트의 작업을 실시간 검토하고 차단하는 '오토리뷰' 기능을 모든 로그인 사용자에게 무료로 개방했습니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "AI 에이전트"
    ]
   }
  ]

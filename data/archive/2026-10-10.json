@@ -1,5 +1,65 @@
 [
  {
+  "id": "42a214080bb99345",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1zhnx/qwen3827b_udiq4_xs_heretic_mtp_on_a_16_gb_card/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-27B UD-IQ4_XS Heretic + MTP on a 16 GB card with 55-68 tok/s (24gb and 12gb versions available too)",
+  "published_at": "2026-10-09T22:54:37+00:00",
+  "collected_at": "2026-10-09T23:58:29.953410+00:00",
+  "title_ko": "16GB VRAM 카드용 Qwen3.8-27B 맞춤형 양자가중치 버전 공개",
+  "summary_ko": "16GB 및 12GB 그래픽카드에서 MTP(Multi-Token Prediction)를 지원하도록 최적화된 Qwen3.8-27B 언검소어드 모델의 양자가중치 버전이 제작되었습니다. 로컬 LLM 사용자들의 하드웨어 제약을 해소하는 데 도움을 줍니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "254da6143c7c84bf",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1z0mx/strix_halo_cmp_170hx_setup/",
+  "source": "r/LocalLLaMA",
+  "title": "Strix halo + CMP 170HX setup",
+  "published_at": "2026-10-09T22:32:32+00:00",
+  "collected_at": "2026-10-09T23:58:29.953410+00:00",
+  "title_ko": "CMP 170HX GPU와 Strix Halo를 활용한 로컬 AI 구축 사례",
+  "summary_ko": "개조된 CMP 170HX 8GB GPU와 대용량 RAM을 갖춘 데스크톱을 활용해 대형 오픈소스 언어모델을 구동한 하드웨어 구축 경험이 공유되었습니다.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "b0e83be7355ca090",
+  "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+  "source": "TechCrunch",
+  "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+  "published_at": "2026-10-09T21:41:29+00:00",
+  "collected_at": "2026-10-09T23:58:13.422696+00:00",
+  "title_ko": "비텍스트 AI 모델 개발사 Jev, 출시 직후 75억 달러 기업가치 평가",
+  "summary_ko": "기존 LLM보다 훨씬 빠른 속도와 적은 토큰 사용량을 자랑하는 비텍스트 AI 모델 Jev의 개발사 TypeSafe가 큰 주목을 받으며 높은 가치를 인정받았습니다.",
+  "category": "중요",
+  "tags": [
+   "투자",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "74c0e2ddf0fb21d5",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1xt1x/qwen38_27b_with_200k_ctx_mtp_on_12gb_ampere_cards/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8 27b with 200K ctx + MTP on 12GB Ampere Cards",
+  "published_at": "2026-10-09T21:39:32+00:00",
+  "collected_at": "2026-10-09T23:58:29.953410+00:00",
+  "title_ko": "12GB VRAM 카드용 Qwen3.8 27B 컨텍스트 확장 버전 출시",
+  "summary_ko": "12GB 및 중저사양 그래픽카드 환경에서 200K 이상의 긴 컨텍스트와 MTP를 효율적으로 구동할 수 있도록 최적화된 로컬 LLM 런타임 업데이트가 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
   "id": "8eb99df11808b46e",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216106",
   "source": "AI타임스",
@@ -16,6 +76,20 @@
   ]
  },
  {
+  "id": "ff91843b22372135",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1xjvz/is_there_a_music_embedding_model/",
+  "source": "r/LocalLLaMA",
+  "title": "Is there a music embedding model?",
+  "published_at": "2026-10-09T21:28:44+00:00",
+  "collected_at": "2026-10-09T23:58:29.953410+00:00",
+  "title_ko": "음악 임베딩 모델 존재 여부에 대한 개발자 커뮤니티 논의",
+  "summary_ko": "다양한 음악 라이브러리로 학습된 음악 전용 임베딩 모델이 존재하는지 묻는 개발자들의 질문과 논의가 공유되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "45751504827d13ae",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216105",
   "source": "AI타임스",
@@ -27,6 +101,36 @@
   "category": "중요",
   "tags": [
    "OpenAI"
+  ]
+ },
+ {
+  "id": "03077bc5ff1ba7d6",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1w1nv/h2olightning4b_apache20_4b_decision_model/",
+  "source": "r/LocalLLaMA",
+  "title": "H2O-Lightning-4B: Apache-2.0 4B Decision model, official #1 open model on JevBench (above Jev)",
+  "published_at": "2026-10-09T20:26:12+00:00",
+  "collected_at": "2026-10-09T23:58:29.953410+00:00",
+  "title_ko": "H2O.ai, 오픈소스 의사결정 모델 H2O-Lightning-4B 공개",
+  "summary_ko": "생성 토큰 없이 빠르고 저렴하게 확률적 의사결정을 수행하는 아파치 2.0 라이선스의 오픈소스 모델 H2O-Lightning-4B가 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "2a1c784f84b947c8",
+  "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+  "source": "TechCrunch",
+  "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+  "published_at": "2026-10-09T19:36:56+00:00",
+  "collected_at": "2026-10-09T23:58:13.422696+00:00",
+  "title_ko": "앤스로픽 AI 모델, 필라델피아 경찰에 허위 살인 신고 제보",
+  "summary_ko": "앤스로픽의 AI 모델이 필라델피아 경찰에 잘못된 살인 제보를 보낸 사실이 뒤늦게 밝혀지며 AI 안전성 및 할루시네이션 문제가 다시 도마에 올랐습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "규제"
   ]
  },
  {
@@ -73,6 +177,21 @@
   "tags": [
    "오픈소스",
    "반도체"
+  ]
+ },
+ {
+  "id": "b38064f80336dfc1",
+  "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+  "source": "Hacker News",
+  "title": "Microsoft-Decision-1, our model for fast decision-making",
+  "published_at": "2026-10-09T18:38:44+00:00",
+  "collected_at": "2026-10-09T23:58:27.606756+00:00",
+  "title_ko": "마이크로소프트, 빠른 의사결정을 위한 Microsoft-Decision-1 모델 공개",
+  "summary_ko": "마이크로소프트가 신속하고 효율적인 의사결정 태스크 처리에 특화된 새로운 파운데이션 모델을 공개했습니다.",
+  "category": "속보",
+  "tags": [
+   "Microsoft",
+   "LLM"
   ]
  },
  {
@@ -132,6 +251,21 @@
   "tags": [
    "오픈소스",
    "Anthropic"
+  ]
+ },
+ {
+  "id": "04902b83f5b9f295",
+  "url": "https://typesafe.ai/blog/series-ai",
+  "source": "Hacker News",
+  "title": "Typesafe AI raises $870M at $7.5B",
+  "published_at": "2026-10-09T17:02:31+00:00",
+  "collected_at": "2026-10-09T23:58:27.606756+00:00",
+  "title_ko": "타입세이프 AI, 75억 달러 가치로 8.7억 달러 투자 유치",
+  "summary_ko": "AI 스타트업 타입세이프 AI가 75억 달러의 기업 가치로 8억 7천만 달러 규모의 투자를 유치했습니다. 이는 AI 분야에 대한 지속적인 대규모 투자 트렌드를 보여줍니다.",
+  "category": "중요",
+  "tags": [
+   "투자",
+   "스타트업"
   ]
  },
  {
@@ -292,6 +426,21 @@
   "category": "참고",
   "tags": [
    "반도체"
+  ]
+ },
+ {
+  "id": "592496c5dbdf66ec",
+  "url": "https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z",
+  "source": "Hacker News",
+  "title": "The super intelligence shit is a humiliation ritual for OpenAI",
+  "published_at": "2026-10-09T15:18:59+00:00",
+  "collected_at": "2026-10-09T23:58:29.005957+00:00",
+  "title_ko": "초지능 관련 OpenAI 비판 여론 확산",
+  "summary_ko": "OpenAI가 주장하는 초지능 비전에 대해 업계 내외에서 회의론과 비판적인 시각이 제기되었습니다. AI의 방향성과 기업의 마케팅 전략에 대한 논란을 보여줍니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "규제"
   ]
  },
  {
