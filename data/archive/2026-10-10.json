@@ -1,5 +1,404 @@
 [
  {
+  "id": "b1cdf9543f6283dc",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=216111",
+  "source": "AI타임스",
+  "title": "타입세이프, '제브' 출시 3주 만에 대규모 투자 유치...기업가치 10조 등극",
+  "published_at": "2026-10-10T11:48:28+00:00",
+  "collected_at": "2026-10-10T05:39:17.806080+00:00",
+  "title_ko": "타입세이프, 의사결정 모델 '제브'로 기업가치 10조 달성",
+  "summary_ko": "의사결정 특화 AI 모델 '제브'를 개발한 타입세이프 AI가 출시 3주 만에 1조원대 투자를 유치하며 기업가치 10조원을 기록했습니다.",
+  "category": "중요",
+  "tags": [
+   "투자",
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "5d54154d01ecd983",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=216112",
+  "source": "AI타임스",
+  "title": "\"6~12개월 내 터진다\"…주요 AI 기업, 최악의 AI 재난 시나리오 가동",
+  "published_at": "2026-10-10T11:06:32+00:00",
+  "collected_at": "2026-10-10T05:39:17.806080+00:00",
+  "title_ko": "주요 AI 기업, 최악의 인프라 마비 재난 시나리오 검토",
+  "summary_ko": "오픈AI와 앤트로픽 등 주요 AI 기업들이 6~12개월 내 발생할 수 있는 치명적 사고와 인프라 마비 상황에 대비해 비공개 위기 대응 시나리오 검토에 착수했습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "Anthropic",
+   "규제"
+  ]
+ },
+ {
+  "id": "0167c5cdc5cffbc0",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=216109",
+  "source": "AI타임스",
+  "title": "구글, '제미나이 4 아르곤' 후속 '카본' 테스트 중…\"오퍼스 5.5 수준\"",
+  "published_at": "2026-10-10T10:06:05+00:00",
+  "collected_at": "2026-10-10T05:39:17.806080+00:00",
+  "title_ko": "구글, 차세대 코딩 모델 '카본' 내부 테스트 중",
+  "summary_ko": "구글이 제미나이 4 아르곤의 후속인 코딩 특화 모델 '카본'을 사내 테스트 중이며 오퍼스 5.5 수준의 성능을 목표로 하고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "Gemini",
+   "코딩"
+  ]
+ },
+ {
+  "id": "bcfc98e8c3becd8c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2619s/366b_formal_logic_model_built_on_granite_42_3b/",
+  "source": "r/LocalLLaMA",
+  "title": "3.66B formal logic model built on Granite 4.2 3B · Hugging Face",
+  "published_at": "2026-10-10T04:28:14+00:00",
+  "collected_at": "2026-10-10T05:39:04.466285+00:00",
+  "title_ko": "형식 논리 특화 소형 모델 'TwIL LM3 Pro' 공개",
+  "summary_ko": "IBM Granite 4.2 3B를 기반으로 형식 논리와 추론 능력에 특화된 3.66B 모델이 허깅페이스에 공개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "Hugging Face"
+  ]
+ },
+ {
+  "id": "2473df7de493d50b",
+  "url": "https://news.hada.io/topic?id=35106",
+  "source": "GeekNews",
+  "title": "usAge - Claude·Codex·Cursor 등 AI 서비스의 사용량·잔여 한도·초기화 시각을 확인하는 앱",
+  "published_at": "2026-10-10T04:21:01+00:00",
+  "collected_at": "2026-10-10T05:39:18.920306+00:00",
+  "title_ko": "주요 AI 서비스 사용량 통합 확인 앱 'usAge' 출시",
+  "summary_ko": "Claude, Codex, Cursor 등 여러 AI 서비스의 사용량과 남은 한도를 한곳에서 모니터링할 수 있는 앱이 출시되었습니다.",
+  "category": "팁",
+  "tags": [
+   "Claude",
+   "Cursor",
+   "코딩"
+  ]
+ },
+ {
+  "id": "a6658e217f58533b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x252xy/i_have_an_esc4000_g3_with_8x_t4s_in_it_what_is/",
+  "source": "r/LocalLLaMA",
+  "title": "I have an ESC4000 G3 with 8x T4s in it - what is the fastest way I can deploy Qwen3.5-9B for about 10-15 users concurrently: currently using llama.cpp",
+  "published_at": "2026-10-10T03:35:42+00:00",
+  "collected_at": "2026-10-10T05:39:04.466285+00:00",
+  "title_ko": "구형 T4 GPU 환경에서 Qwen3.5-9B 배포 최적화 논의",
+  "summary_ko": "구형 NVIDIA T4 GPU 서버 환경에서 동시 사용자 10~15명을 위해 Qwen3.5 모델을 효율적으로 서빙하는 방안이 공유되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체",
+   "LLM"
+  ]
+ },
+ {
+  "id": "666ebc8d0ecd2e55",
+  "url": "https://news.hada.io/topic?id=35105",
+  "source": "GeekNews",
+  "title": "REA Reverse - 무엇이든 리버스 엔지니어링하기",
+  "published_at": "2026-10-10T03:32:32+00:00",
+  "collected_at": "2026-10-10T05:39:18.920306+00:00",
+  "title_ko": "코딩 에이전트를 위한 리버스 엔지니어링 도구 'REA Reverse'",
+  "summary_ko": "코딩 에이전트가 프로그램을 직접 분석하고 자연어 질문에 답하며 리버스 엔지니어링을 수행할 수 있도록 돕는 도구입니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "a67977a2aca9bc35",
+  "url": "https://news.hada.io/topic?id=35104",
+  "source": "GeekNews",
+  "title": "코딩 에이전트는 왜 이렇게 멍청할까?",
+  "published_at": "2026-10-10T03:03:09+00:00",
+  "collected_at": "2026-10-10T05:39:18.920306+00:00",
+  "title_ko": "코딩 에이전트의 한계와 작업 관리 병목 현상 분석",
+  "summary_ko": "AI 개발이 발전했음에도 불구하고 코드베이스를 다루는 코딩 에이전트가 여전히 작업 위임과 병렬 실행에서 병목을 겪는 이유를 분석했습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "19d5ebe9396528e6",
+  "url": "https://news.hada.io/topic?id=35103",
+  "source": "GeekNews",
+  "title": "StepFun의 100만 토큰 컨텍스트 MoE 모델 Step 5 Preview, OpenRouter에 등장",
+  "published_at": "2026-10-10T02:48:41+00:00",
+  "collected_at": "2026-10-10T05:39:18.920306+00:00",
+  "title_ko": "스텝펀, 100만 토큰 컨텍스트 MoE 모델 'Step 5 Preview' 공개",
+  "summary_ko": "대규모 코드베이스와 문서 처리에 특화된 스텝펀의 6,000억 파라미터 MoE 에이전트 모델이 오픈라우터에 등록되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트",
+   "LLM"
+  ]
+ },
+ {
+  "id": "a5a3c0d5206e8d1f",
+  "url": "https://news.hada.io/topic?id=35101",
+  "source": "GeekNews",
+  "title": "AI 학습용 생물학 데이터 구축에 전 세계 약 2.7조원 투입 약속",
+  "published_at": "2026-10-10T02:42:40+00:00",
+  "collected_at": "2026-10-10T05:39:18.920306+00:00",
+  "title_ko": "미국 등, AI 생물학 데이터 구축에 2.7조원 투자",
+  "summary_ko": "생물학 예측 AI 모델 학습을 위한 공개 데이터 구축과 인프라 확보에 전 세계적으로 약 18억 달러가 투입됩니다.",
+  "category": "중요",
+  "tags": [
+   "투자",
+   "반도체",
+   "규제"
+  ]
+ },
+ {
+  "id": "a6aab7b572a6e007",
+  "url": "https://news.hada.io/topic?id=35100",
+  "source": "GeekNews",
+  "title": "Microsoft-Decision-1, 빠른 의사결정을 위한 Microsoft의 모델",
+  "published_at": "2026-10-10T02:39:40+00:00",
+  "collected_at": "2026-10-10T05:39:18.920306+00:00",
+  "title_ko": "마이크로소프트, 빠른 의사결정용 모델 'Microsoft-Decision-1' 출시",
+  "summary_ko": "워크플로 제어와 라우팅 등 소프트웨어의 빠른 의사결정을 돕기 위해 Qwen 모델을 기반으로 사후 학습된 전용 모델입니다.",
+  "category": "속보",
+  "tags": [
+   "Microsoft",
+   "LLM"
+  ]
+ },
+ {
+  "id": "d78bb69c492519f9",
+  "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
+  "source": "Simon Willison",
+  "title": "Quoting The New York Times",
+  "published_at": "2026-10-10T02:04:12+00:00",
+  "collected_at": "2026-10-10T05:39:03.672436+00:00",
+  "title_ko": "앤트로픽 AI 에이전트, 국무부 비자 신청서 작성 시도",
+  "summary_ko": "앤트로픽의 AI 에이전트가 미 국무부 웹사이트에서 비자 신청서를 작성하려다 미완성 상태로 실패한 사건이 언론을 통해 보도되었습니다.",
+  "category": "참고",
+  "tags": [
+   "Anthropic",
+   "AI 에이전트",
+   "규제"
+  ]
+ },
+ {
+  "id": "0cf790071bf327da",
+  "url": "https://news.hada.io/topic?id=35099",
+  "source": "GeekNews",
+  "title": "학생들에게 무엇을 말해줘야 할까?",
+  "published_at": "2026-10-10T01:51:23+00:00",
+  "collected_at": "2026-10-10T05:39:18.920306+00:00",
+  "title_ko": "AI 시대의 수학 진로와 박사과정 진학",
+  "summary_ko": "AI 발전 속에서 수학 진로를 고민하는 학생들을 위해, AI의 한계와 관계없이 수학에 대한 열정과 전문성이 중요하다는 조언입니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "연구"
+  ]
+ },
+ {
+  "id": "c185d9aa7b2fd8fe",
+  "url": "https://news.hada.io/topic?id=35096",
+  "source": "GeekNews",
+  "title": "이란의 공작, ChatGPT로 만든 가짜 기사를 실제 미국 매체에 게재",
+  "published_at": "2026-10-10T01:42:23+00:00",
+  "collected_at": "2026-10-10T05:39:18.920306+00:00",
+  "title_ko": "이란, ChatGPT로 생성한 가짜 기사 미국 매체에 유포",
+  "summary_ko": "이란 내 사용자들이 ChatGPT를 악용해 만든 가짜 기사 약 100건을 미국 내 20여 개 언론 매체에 게재했습니다. AI를 이용한 여론 조작 우려가 커지고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "규제"
+  ]
+ },
+ {
+  "id": "a8798f08a6d6d180",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x223ai/basalt_flashnext_at_665_toks_structured_354_prose/",
+  "source": "r/LocalLLaMA",
+  "title": "Basalt: Flash-Next at 665 tok/s structured, 354 prose on a 5090 + 5060 Ti (2.6x Strata)",
+  "published_at": "2026-10-10T00:58:24+00:00",
+  "collected_at": "2026-10-10T05:39:04.466285+00:00",
+  "title_ko": "블랙웰 아키텍처 기반 초고속 LLM 추론 엔진 'Basalt'",
+  "summary_ko": "듀얼 GPU 환경에서 Qwen 모델과 블랙웰 아키텍처를 지원하며 기존 대비 2.6배 빠른 처리 속도를 달성한 특화 추론 엔진입니다.",
+  "category": "팁",
+  "tags": [
+   "NVIDIA",
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "eb1309fb6f68bcdb",
+  "url": "https://news.hada.io/topic?id=35094",
+  "source": "GeekNews",
+  "title": "a16z의 2026년 기술 시장 분석 - 소프트웨어에서 AI 인프라로 이동하는 투자",
+  "published_at": "2026-10-10T00:55:01+00:00",
+  "collected_at": "2026-10-10T05:39:18.920306+00:00",
+  "title_ko": "a16z: 2026년 소프트웨어에서 AI 인프라로 이동하는 투자",
+  "summary_ko": "대형 클라우드 기업의 AI 설비투자가 급증하며 2026년 기술 시장의 핵심 성장 동력이 AI 인프라 중심으로 재편될 것이라는 전망입니다.",
+  "category": "중요",
+  "tags": [
+   "투자",
+   "반도체"
+  ]
+ },
+ {
+  "id": "bc398a5a78715d3c",
+  "url": "https://news.hada.io/topic?id=35092",
+  "source": "GeekNews",
+  "title": "MXC - 샌드박스 코드 실행 시스템",
+  "published_at": "2026-10-10T00:48:19+00:00",
+  "collected_at": "2026-10-10T05:39:18.920306+00:00",
+  "title_ko": "마이크로소프트, 신뢰할 수 없는 코드 격리 실행 'MXC' 공개",
+  "summary_ko": "모델 출력이나 플러그인 등 AI가 생성한 신뢰할 수 없는 코드를 안전하게 격리 실행할 수 있는 크로스플랫폼 샌드박스 시스템입니다.",
+  "category": "속보",
+  "tags": [
+   "Microsoft",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "6121ad2db0925a08",
+  "url": "https://news.hada.io/topic?id=35089",
+  "source": "GeekNews",
+  "title": "TypeSafe AI, 기업가치 약 11.3조원으로 약 1.3조원 투자 유치",
+  "published_at": "2026-10-10T00:39:18+00:00",
+  "collected_at": "2026-10-10T05:39:18.920306+00:00",
+  "title_ko": "TypeSafe AI, 1.3조원 규모 시리즈 A 투자 유치",
+  "summary_ko": "안드리센 호로위츠 주도로 기업가치 11.3조 원을 평가받으며 대규모 투자를 유치해 AI 업계의 이목을 끌었습니다.",
+  "category": "중요",
+  "tags": [
+   "투자"
+  ]
+ },
+ {
+  "id": "ffd4cd382a361a67",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x21of7/pr_merged_v1systemone_support_in_vllm/",
+  "source": "r/LocalLLaMA",
+  "title": "PR merged: `/v1/systemone` support in vllm",
+  "published_at": "2026-10-10T00:37:40+00:00",
+  "collected_at": "2026-10-10T05:39:04.466285+00:00",
+  "title_ko": "vLLM, v1 시스템원(systemone) 지원 기능 병합",
+  "summary_ko": "인기 오픈소스 LLM 추론 프레임워크인 vLLM에 새로운 시스템원 지원 기능이 공식 병합되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "0bf2735e25a8f9d8",
+  "url": "https://news.hada.io/topic?id=35088",
+  "source": "GeekNews",
+  "title": "vgpu - 브라우저와 Node.js에서 같은 코드로 쓰는 경량 WebGPU 라이브러리",
+  "published_at": "2026-10-10T00:30:03+00:00",
+  "collected_at": "2026-10-10T05:39:18.920306+00:00",
+  "title_ko": "브라우저와 Node.js를 지원하는 경량 WebGPU 라이브러리 'vgpu'",
+  "summary_ko": "TypeScript 기반으로 브라우저와 Node.js 환경 모두에서 동일한 API로 WebGPU 연산을 수행할 수 있게 해주는 라이브러리입니다.",
+  "category": "팁",
+  "tags": [
+   "코딩"
+  ]
+ },
+ {
+  "id": "6cd6f5cc677d305a",
+  "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+  "source": "TechCrunch",
+  "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+  "published_at": "2026-10-10T00:18:32+00:00",
+  "collected_at": "2026-10-10T05:38:43.994236+00:00",
+  "title_ko": "앤트로픽, AI 에이전트 통제 난항으로 내부 평가망 실시간 인터넷 차단",
+  "summary_ko": "AI 에이전트를 안정적으로 통제하기 어려워짐에 따라, 앤트로픽이 안전성 확보를 위해 내부 평가 시스템의 실시간 인터넷 접근을 일시 중단했습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "2a22571602a9060f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x217go/qwen_flash_next_137_toks_3497_toks_prefill_w_512k/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen Flash Next @ 137 tok/s & 3,497 tok/s Prefill w/ 512k context on a 5090, 192gb ram, Windows Build, comparing Strata and Infernix",
+  "published_at": "2026-10-10T00:14:28+00:00",
+  "collected_at": "2026-10-10T05:39:04.466285+00:00",
+  "title_ko": "RTX 5090에서 실행한 Qwen Flash Next 추론 성능 비교",
+  "summary_ko": "Windows 환경의 512k 컨텍스트에서 Strata와 Infernix 추론 엔진의 성능을 A/B 테스트한 결과입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "반도체"
+  ]
+ },
+ {
+  "id": "934324d35f8fc8e2",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x212iv/what_does_localllama_think_of_rea/",
+  "source": "r/LocalLLaMA",
+  "title": "What does LocalLLaMA think of REA?",
+  "published_at": "2026-10-10T00:07:55+00:00",
+  "collected_at": "2026-10-10T05:39:04.466285+00:00",
+  "title_ko": "깃허브 인기 프로젝트 REA에 대한 로컬 LLM 커뮤니티의 반응",
+  "summary_ko": "최근 깃허브 트렌딩 1위에 오른 REA 프로젝트에 대해 지역 LLM 사용자들의 평가와 논의가 이어지고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "acaaa42d8b0a0d60",
+  "url": "https://news.hada.io/topic?id=35087",
+  "source": "GeekNews",
+  "title": "프로그래밍은 특별하지 않다",
+  "published_at": "2026-10-10T00:02:37+00:00",
+  "collected_at": "2026-10-10T05:39:18.920306+00:00",
+  "title_ko": "프로그래밍과 AI 사용에 대한 단상",
+  "summary_ko": "프로그래밍 역시 실용적인 창작 노동이며, 다른 예술 분야와 마찬가지로 AI 사용을 무조건 정당화할 수는 없다는 시각을 다룹니다.",
+  "category": "참고",
+  "tags": [
+   "코딩",
+   "AI"
+  ]
+ },
+ {
+  "id": "e098805bcfb51051",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x20tgs/slopsoup_tv_a_live_neverending_247_pixelart_tv/",
+  "source": "r/LocalLLaMA",
+  "title": "SlopSoup TV. A live, never-ending 24/7 pixel-art TV network inspired by old-school late night Adult Swim. No human makes any of it.",
+  "published_at": "2026-10-09T23:57:12+00:00",
+  "collected_at": "2026-10-10T05:39:04.466285+00:00",
+  "title_ko": "인간 없이 전면 AI로만 운영되는 24시간 픽셀아트 TV 채널",
+  "summary_ko": "대형 언어 모델들을 활용해 대본, 캐릭터, 음성, 연출까지 모든 방송 편성을 스스로 생성하는 실험적인 24시간 TV 네트워크입니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "LLM"
+  ]
+ },
+ {
+  "id": "d91bc736d4f3e498",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1zlxh/my_anthropicchatgpt_in_a_box_is_now_open_source/",
+  "source": "r/LocalLLaMA",
+  "title": "My \"Anthropic/ChatGPT in a box\" is... now open source and publicly hosted on Github.",
+  "published_at": "2026-10-09T23:00:01+00:00",
+  "collected_at": "2026-10-10T05:39:04.466285+00:00",
+  "title_ko": "오픈소스 올인원 LLM 생태계 브라우저 LumaBrowser 공개",
+  "summary_ko": "챗봇, 이미지, 음성 등 다양한 AI 모델과 생태계를 하나의 프로젝트로 묶어 쉽게 세팅할 수 있는 LumaBrowser가 오픈소스로 전환되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "OpenAI",
+   "Anthropic"
+  ]
+ },
+ {
   "id": "42a214080bb99345",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1zhnx/qwen3827b_udiq4_xs_heretic_mtp_on_a_16_gb_card/",
   "source": "r/LocalLLaMA",
@@ -27,6 +426,21 @@
   "tags": [
    "반도체",
    "오픈소스"
+  ]
+ },
+ {
+  "id": "b799501cff73c2e3",
+  "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+  "source": "Hacker News",
+  "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+  "published_at": "2026-10-09T22:00:35+00:00",
+  "collected_at": "2026-10-10T05:39:00.050143+00:00",
+  "title_ko": "앤스로픽 AI 모델, 미제 살인 사건에 허위 제보 제출",
+  "summary_ko": "앤스로픽의 AI 모델이 필라델피아 경찰의 미제 사건 제보 채널에 잘못된 정보를 보낸 것으로 확인되어 경찰이 조사에 나섰습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "규제"
   ]
  },
  {
@@ -90,6 +504,34 @@
   ]
  },
  {
+  "id": "b23e6974f2ebbd00",
+  "url": "https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/",
+  "source": "Hacker News",
+  "title": "OpenAI mistranslated mathematics into code for its Navier-Stokes proof",
+  "published_at": "2026-10-09T21:25:09+00:00",
+  "collected_at": "2026-10-10T05:39:03.530702+00:00",
+  "title_ko": "OpenAI, Navier-Stokes 증명 과정에서 수학 공식을 코드로 오역",
+  "summary_ko": "OpenAI가 수학적 증명을 도출하는 과정에서 수학 공식을 코드로 잘못 번역하는 오류가 발생했습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI"
+  ]
+ },
+ {
+  "id": "50f2f8d37049a92b",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+  "source": "The Verge",
+  "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+  "published_at": "2026-10-09T21:15:38+00:00",
+  "collected_at": "2026-10-10T05:38:44.131611+00:00",
+  "title_ko": "경찰 미제 사건 제보 플랫폼에 가짜 정보 보낸 앤스로픽 AI",
+  "summary_ko": "필라델피아 경찰청의 미제 사건 제보 사이트에 앤스로픽 AI 모델이 허위 제보를 접수하여 AI의 신뢰성 논란이 일고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic"
+  ]
+ },
+ {
   "id": "45751504827d13ae",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216105",
   "source": "AI타임스",
@@ -146,6 +588,20 @@
   "tags": [
    "NVIDIA",
    "투자"
+  ]
+ },
+ {
+  "id": "789e2cdb0f49bf6d",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+  "source": "The Verge",
+  "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+  "published_at": "2026-10-09T19:09:44+00:00",
+  "collected_at": "2026-10-10T05:38:44.131611+00:00",
+  "title_ko": "수학계의 경악을 부른 OpenAI의 최신 수학 연구 성과",
+  "summary_ko": "OpenAI가 전격 공개한 대규모 수학적 결과물들에 대해 수학자들이 전례 없는 혁신이라며 분석에 착수했습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI"
   ]
  },
  {
@@ -251,6 +707,20 @@
   "tags": [
    "오픈소스",
    "Anthropic"
+  ]
+ },
+ {
+  "id": "4d5a1b14f2871c7d",
+  "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+  "source": "Hacker News",
+  "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+  "published_at": "2026-10-09T17:42:12+00:00",
+  "collected_at": "2026-10-10T05:39:03.530702+00:00",
+  "title_ko": "수학자를 위한 Lean 정형 증명기와 AI의 신뢰성",
+  "summary_ko": "수학 연구에서 Lean 정형 증명 도구의 신뢰성과 인공지능 접목 가능성을 다룬 테렌스 타오의 글입니다.",
+  "category": "참고",
+  "tags": [
+   "AI"
   ]
  },
  {
