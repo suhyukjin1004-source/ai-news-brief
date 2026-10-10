@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T17:47:21.945560+00:00",
+ "updated_at": "2026-10-10T21:33:24.586777+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -20,6 +20,36 @@
    ]
   },
   {
+   "id": "ac1984a6a99cfe3b",
+   "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+   "source": "TechCrunch",
+   "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+   "published_at": "2026-10-10T19:50:00+00:00",
+   "collected_at": "2026-10-10T21:32:35.209919+00:00",
+   "title_ko": "Apple, 맞춤형 팟캐스트 스타트업 Huxe 인수 및 기술 라이선스 확보",
+   "summary_ko": "Apple이 개인화된 팟캐스트 기술을 가진 스타트업 Huxe의 팀을 영입하고 기술을 라이선스 계약했다고 밝혀 AI 생성 팟캐스트 시장 진입 기대감을 높였다.",
+   "category": "중요",
+   "tags": [
+    "Apple",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "25d3c6450f1c9088",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2nn4b/benefits_of_using_bigger_models_than_qwen_38/",
+   "source": "r/LocalLLaMA",
+   "title": "Benefits of using bigger models than Qwen 3.8 flash next?",
+   "published_at": "2026-10-10T19:21:28+00:00",
+   "collected_at": "2026-10-10T21:33:02.600736+00:00",
+   "title_ko": "로컬 LLM 코딩 및 에이전트 활용 사용기",
+   "summary_ko": "개인 프로젝트 코딩을 위해 로컬 LLM을 사용하는 개발자가 Qwen 모델 사용 경험과 대형 모델 대비 장단점을 공유했다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
    "id": "b45099aecc60dc8c",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216107",
    "source": "AI타임스",
@@ -33,6 +63,80 @@
     "Microsoft",
     "OpenAI",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "7600c75026784085",
+   "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+   "source": "The Verge",
+   "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+   "published_at": "2026-10-10T18:52:07+00:00",
+   "collected_at": "2026-10-10T21:32:35.449834+00:00",
+   "title_ko": "DistroKid, UMG 저작권 소송 여파로 AI 생성 음악 삭제",
+   "summary_ko": "음원 유통 플랫폼 DistroKid가 유니버설뮤직(UMG)의 AI 관련 소송 제기 이후 관련 음원들을 무통보 삭제하여 아티스트들의 반발을 사고 있다.",
+   "category": "중요",
+   "tags": [
+    "규제"
+   ]
+  },
+  {
+   "id": "982ec8800e1a705d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2mw1o/engineer_developer_observations_of_gemma431b/",
+   "source": "r/LocalLLaMA",
+   "title": "Engineer / developer observations of Gemma4-31B, Qwen3.8-27B, and 6.1-Sol for software engineering work",
+   "published_at": "2026-10-10T18:49:52+00:00",
+   "collected_at": "2026-10-10T21:33:02.600736+00:00",
+   "title_ko": "소프트웨어 엔지니어링 작업에서의 오픈소스 LLM 성능 비교",
+   "summary_ko": "20년 차 소프트웨어 엔지니어가 Gemma 및 Qwen 등의 로컬 모델을 활용해 실제 개발 업무와사 유사한 테스트를 진행하고 성능을 비교했다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "83b3ab4d460bec14",
+   "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+   "source": "Hacker News",
+   "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+   "published_at": "2026-10-10T18:48:35+00:00",
+   "collected_at": "2026-10-10T21:33:01.233803+00:00",
+   "title_ko": "NVIDIA, 오픈 모델 스타트업 Reflection AI 인수 협상 중",
+   "summary_ko": "NVIDIA가 미국 오픈소스 AI 모델 스타트업인 Reflection AI 인수를 위한 협상을 진행 중인 것으로 알려졌다.",
+   "category": "속보",
+   "tags": [
+    "NVIDIA",
+    "투자",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "0560ecb4fb6bbab9",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2m4q8/slm_community_telenovela_what_do_you_guys_think/",
+   "source": "r/LocalLLaMA",
+   "title": "SLM community telenovela: what do you guys think about this arguement?",
+   "published_at": "2026-10-10T18:18:07+00:00",
+   "collected_at": "2026-10-10T21:33:02.600736+00:00",
+   "title_ko": "소형 언어 모델(SLM) 커뮤니티의 최근 논쟁과 동향",
+   "summary_ko": "허깅페이스 등 소형 언어 모델(SLM) 오픈소스 커뮤니티 내에서 벌어진 개발자 간의 논쟁과 관련 커뮤니티 분위기를 다룬다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "70f68d518693dfe6",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2ly4g/i_asked_3_qwen_38_models_to_solve_recent_atcoder/",
+   "source": "r/LocalLLaMA",
+   "title": "I asked 3 Qwen 3.8 models to solve recent AtCoder problems at 4 thinking efforts",
+   "published_at": "2026-10-10T18:10:24+00:00",
+   "collected_at": "2026-10-10T21:33:02.600736+00:00",
+   "title_ko": "Qwen 모델의 알고리즘 문제 해결 능력 및 사고 추론 비교",
+   "summary_ko": "다양한 양자화 방식과 사고 추론(Thinking) 강도가 코딩 및 알고리즘 문제(AtCoder) 해결 성능에 미치는 영향을 벤치마크 테스트했다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
    ]
   },
   {
@@ -66,6 +170,21 @@
    ]
   },
   {
+   "id": "8f8c4e42d7e9a10f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2lgca/is_anyone_running_qwen38_flash_next_with_a_1m/",
+   "source": "r/LocalLLaMA",
+   "title": "Is anyone running Qwen3.8 Flash Next with a 1M context?",
+   "published_at": "2026-10-10T17:49:48+00:00",
+   "collected_at": "2026-10-10T21:33:02.600736+00:00",
+   "title_ko": "YaRN을 활용한 Qwen 모델의 1M 컨텍스트 확장 가능성",
+   "summary_ko": "Qwen 모델에 YaRN 기법을 적용해 기본 지원 컨텍스트를 1M까지 확장하여 에이전트에 활용하는 방안에 대한 개발자 논의이다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "ee4d31eee917482b",
    "url": "https://www.reddit.com/r/singularity/comments/1x2lbgb/openai_enterprise_users_can_apply_existing/",
    "source": "r/singularity",
@@ -78,6 +197,21 @@
    "tags": [
     "OpenAI",
     "Moonshot AI"
+   ]
+  },
+  {
+   "id": "4afa6b3848841075",
+   "url": "https://news.hada.io/topic?id=35128",
+   "source": "GeekNews",
+   "title": "Talorys - Cloudflare 무료 티어에서 셀프 호스팅하는 개인 AI 에이전트",
+   "published_at": "2026-10-10T17:33:17+00:00",
+   "collected_at": "2026-10-10T21:33:17.381583+00:00",
+   "title_ko": "Cloudflare 무료 티어 기반 개인 AI 에이전트 'Talorys' 공개",
+   "summary_ko": "사용자의 Cloudflare 계정에서 무료로 셀프 호스팅할 수 있는 오픈소스 개인 AI 비서 Talorys가 공개되어 실무 활용이 기대된다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
    ]
   },
   {
@@ -211,6 +345,21 @@
    "tags": [
     "Anthropic",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "fb63cd8aa5546acf",
+   "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
+   "source": "Hacker News",
+   "title": "My personal AI agent posted my bank details on company Slack",
+   "published_at": "2026-10-10T14:46:16+00:00",
+   "collected_at": "2026-10-10T21:33:01.233803+00:00",
+   "title_ko": "개인 AI 에이전트의 사내 슬랙 금융 정보 유출 사고",
+   "summary_ko": "개인 AI 에이전트가 실수로 사용자의 은행 계좌 정보를 회사 슬랙에 게시하여 보안 우려를 낳았습니다. AI 에이전트의 권한 관리와 프라이버시 보호의 중요성을 보여주는 사례입니다.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트",
+    "보안"
    ]
   },
   {
@@ -523,6 +672,21 @@
    "tags": [
     "오픈소스",
     "반도체"
+   ]
+  },
+  {
+   "id": "4488adb0885fa294",
+   "url": "https://www.warren.senate.gov/newsroom/press-releases/ai-data-center-companies-reveal-to-warren-blumenthal-van-hollen-they-are-not-paying-their-full-costs-will-continue-using-ndas-and-seeking-tax-breaks/",
+   "source": "Hacker News",
+   "title": "AI Data Centers Not Paying Their Costs, Will Keep Using NDAs and Seek Tax Breaks",
+   "published_at": "2026-10-10T09:30:03+00:00",
+   "collected_at": "2026-10-10T21:33:01.233803+00:00",
+   "title_ko": "미 의원들, AI 데이터센터의 비용 전가 및 세제 혜택 비판",
+   "summary_ko": "미국 상원의원들이 AI 데이터센터 기업들이 정당한 비용을 지불하지 않고 비밀 유지 협약(NDA)과 세제 혜택을 요구하고 있다고 지적했습니다. 인프라 확장 속도가 빨라지며 지역 사회와의 갈등이 심화되고 있음을 보여줍니다.",
+   "category": "중요",
+   "tags": [
+    "데이터센터",
+    "규제"
    ]
   },
   {
@@ -2826,171 +2990,6 @@
     "투자",
     "AI 에이전트",
     "오픈소스"
-   ]
-  },
-  {
-   "id": "1eaf0f76ffce5ff6",
-   "url": "https://openrouter.ai/stepfun/step-5-preview",
-   "source": "Hacker News",
-   "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
-   "published_at": "2026-10-08T16:20:20+00:00",
-   "collected_at": "2026-10-09T05:56:36.723267+00:00",
-   "title_ko": "100만 컨텍스트 지원 스텝펀 Step 5 프리뷰 공개",
-   "summary_ko": "스텝펀의 100만 컨텍스트 윈도우를 지원하는 MoE 모델 'Step 5 Preview'가 오픈라우터에 등록되었다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "5dc8cbcc7eb60228",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216074",
-   "source": "AI타임스",
-   "title": "오픈AI \"10대 챗GPT 평균 15분 사용\" 주장에 안전성 논란 불붙어",
-   "published_at": "2026-10-08T16:03:11+00:00",
-   "collected_at": "2026-10-08T10:24:28.305534+00:00",
-   "title_ko": "오픈아이 \"10대 챗GPT 평균 15분 사용\"…안전성 논란 지속",
-   "summary_ko": "오픈AI가 청소년의 챗GPT 이용 시간이 짧고 안전장치가 효과적이라 밝혔으나, 고위험 대화에서 기능이 미흡하다는 지적과 함께 안전성 논란이 커지고 있다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "규제"
-   ]
-  },
-  {
-   "id": "8f83cc80b2fd1319",
-   "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
-   "source": "TechCrunch",
-   "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-   "published_at": "2026-10-08T16:00:00+00:00",
-   "collected_at": "2026-10-08T17:49:50.381187+00:00",
-   "title_ko": "굿파이어, AI 에이전트 감시 위한 내부 모니터링 도구 공개",
-   "summary_ko": "두 번째 AI를 동원하는 대신 모델 내부를 직접 들여다보며 이상 징후를 탐지하는 저렴한 AI 에이전트 감시 도구가 출시되었습니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "112b5f00879d4fef",
-   "url": "https://openai.com/index/oracle",
-   "source": "OpenAI",
-   "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-   "published_at": "2026-10-08T16:00:00+00:00",
-   "collected_at": "2026-10-08T17:50:03.740467+00:00",
-   "title_ko": "오라클, ChatGPT와 Codex로 업무 워크플로우 혁신",
-   "summary_ko": "오라클이 채용, 엔지니어링, 운영 전반에서 ChatGPT Work와 Codex를 도입해 전문 지식 기반의 반복 업무를 빠르게 처리하고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "GPT"
-   ]
-  },
-  {
-   "id": "d12d77aa7dd535e9",
-   "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
-   "source": "TechCrunch",
-   "title": "Natura’s $99 smart ring puts AI agents on your finger",
-   "published_at": "2026-10-08T16:00:00+00:00",
-   "collected_at": "2026-10-08T17:49:50.381187+00:00",
-   "title_ko": "나투라, AI 에이전트 연동 99달러 스마트 반지 공개",
-   "summary_ko": "사용자의 손가락에서 AI 에이전트를 호출해 업무를 수행하고 생각을 기록하며 기기를 제어할 수 있는 스마트 반지가 발표되었습니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "5e84145bb653b7ca",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216065",
-   "source": "AI타임스",
-   "title": "MS, 온디바이스 AI '서피스 랩톱 울트라' 공개...1200억 매개변수 모델 직접 구동",
-   "published_at": "2026-10-08T15:50:52+00:00",
-   "collected_at": "2026-10-08T10:24:28.305534+00:00",
-   "title_ko": "마이크로소프트, AI 특화 노트북 '서피스 랩톱 울트라' 공개",
-   "summary_ko": "마이크로소프트가 엔비디아 칩 기반의 고성능 온디바이스 AI 노트북을 선보였다. PC 시장에서 애플과의 본격적인 AI 경쟁을 예고한다.",
-   "category": "속보",
-   "tags": [
-    "Microsoft",
-    "NVIDIA",
-    "반도체"
-   ]
-  },
-  {
-   "id": "8d675e9fe4068c17",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0ui6f/thank_you_swift_models_hit_22_million_downloads/",
-   "source": "r/LocalLLaMA",
-   "title": "Thank you :) Swift Models hit 2.2 million+ downloads / Early Access to New Models, Free Compute for Researchers",
-   "published_at": "2026-10-08T15:50:21+00:00",
-   "collected_at": "2026-10-08T17:50:13.890457+00:00",
-   "title_ko": "우키스AI, 추론 효율성을 높인 소형 오픈소스 LLM 'Swift' 공개",
-   "summary_ko": "불필요한 사고 패턴을 페널티로 교정하여 정확도 손실 없이 토큰 사용량을 줄이고 속도를 높인 소형 추론 LLM 시리즈입니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "84d84eca447925f1",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0u6l7/mellum21_a_jetbrains_collection/",
-   "source": "r/LocalLLaMA",
-   "title": "Mellum2.1 - a JetBrains Collection",
-   "published_at": "2026-10-08T15:38:19+00:00",
-   "collected_at": "2026-10-08T17:50:13.890457+00:00",
-   "title_ko": "제트브레인즈, 코딩 특화 소형 MoE 모델 'Mellum 2.1' 공개",
-   "summary_ko": "제트브레인즈 에코시스템에 최적화된 작고 효율적인 혼합 전문가(MoE) 구조의 생각하는 LLM 모델입니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "코딩"
-   ]
-  },
-  {
-   "id": "ce21cb444efac941",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216069",
-   "source": "AI타임스",
-   "title": "\"독파모·모두의 AI 더 안전하게\"...SKT, 업스테이지와 AI 보안 동맹 결성",
-   "published_at": "2026-10-08T15:29:10+00:00",
-   "collected_at": "2026-10-08T10:24:28.305534+00:00",
-   "title_ko": "SK텔레콤·업스테이지 등, '독자 AI 사이버보안 협의체' 출범",
-   "summary_ko": "SK텔레콤과 업스테이지 등이 민간 주도의 AI 사이버보안 기술 협력을 위해 손을 잡았다. 국내 AI 보안 역량을 강화하는 데 중요한 역할을 할 것으로 기대된다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "규제"
-   ]
-  },
-  {
-   "id": "cbb9d3a99a6a7644",
-   "url": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
-   "source": "The Verge",
-   "title": "Google’s AI note-taking app transcribes your meetings completely offline",
-   "published_at": "2026-10-08T15:27:30+00:00",
-   "collected_at": "2026-10-08T17:49:50.536234+00:00",
-   "title_ko": "구글, 완전 오프라인 작동 AI 메모 앱 'Foresight' 공개",
-   "summary_ko": "온디바이스 EmbeddingGemma 모델을 기반으로 인터넷 연결 없이 맥(macOS)에서 회의 내용을 녹음하고 요약하는 실험적 앱입니다.",
-   "category": "속보",
-   "tags": [
-    "Google",
-    "Gemini"
-   ]
-  },
-  {
-   "id": "ea8ddafd420a48fc",
-   "url": "https://news.hada.io/topic?id=35018",
-   "source": "GeekNews",
-   "title": "Show GN: 반도체부터 전세·보험까지, 시뮬레이터를 만지며 배우는 무료 웹 교과서 시리즈",
-   "published_at": "2026-10-08T15:27:26+00:00",
-   "collected_at": "2026-10-08T17:50:28.398465+00:00",
-   "title_ko": "AI 발전으로 가능해진 시뮬레이션 기반 무료 웹 교과서 제작",
-   "summary_ko": "개발자가 AI의 도움을 받아 반도체부터 금융까지 직접 만져보며 학습할 수 있는 인터랙티브 웹 교과서 시리즈를 구축하고 있습니다.",
-   "category": "팁",
-   "tags": [
-    "반도체"
    ]
   }
  ]
