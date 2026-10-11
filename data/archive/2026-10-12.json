@@ -1,5 +1,49 @@
 [
  {
+  "id": "2e1571735f8a556c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3ker0/i_ran_qwen_38_flashnext_on_my_amd_7900_xtx_at/",
+  "source": "r/LocalLLaMA",
+  "title": "I ran Qwen 3.8 Flash-Next on my AMD 7900 XTX at 500k context. All local and what a shift it has been.",
+  "published_at": "2026-10-11T21:44:02+00:00",
+  "collected_at": "2026-10-11T22:47:20.154558+00:00",
+  "title_ko": "로컬 환경에서 Qwen 3.8 Flash-Next 구동기 및 추론 반복 문제 해결",
+  "summary_ko": "AMD GPU에서 Qwen 모델을 구동할 때 추론 내용이 반복되는 현상의 원인과 해결책을 공유합니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "e570ded495433b2b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3ij13/i_tested_different_qwen_38_27b_quants/",
+  "source": "r/LocalLLaMA",
+  "title": "I tested different Qwen 3.8 27B quants",
+  "published_at": "2026-10-11T20:24:54+00:00",
+  "collected_at": "2026-10-11T22:47:20.154558+00:00",
+  "title_ko": "Qwen 3.8 27B 양자화 버전별 성능 및 속도 비교",
+  "summary_ko": "다양한 양자화 포맷(FP4, Q6 등)에 따른 Qwen 모델의 정확도와 처리 속도를 비교 분석했습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "44c65736f8dd5ac9",
+  "url": "https://twitter.com/karpathy/status/2109361546505966046",
+  "source": "Hacker News",
+  "title": "The gap in shared understanding of LLM capability is widening",
+  "published_at": "2026-10-11T20:20:52+00:00",
+  "collected_at": "2026-10-11T22:47:19.299428+00:00",
+  "title_ko": "LLM 능력에 대한 대중적 이해의 격차 확대",
+  "summary_ko": "인공지능 전문가와 일반 사용자 간의 LLM 실제 역량 인식 차이가 점차 벌어지고 있다는 분석입니다.",
+  "category": "참고",
+  "tags": [
+   "LLM"
+  ]
+ },
+ {
   "id": "80ad7a8c7ed63405",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216136",
   "source": "AI타임스",
@@ -29,6 +73,37 @@
    "Anthropic",
    "Claude",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "c2060675dbb8a188",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3gpyi/every_model_that_can_be_run_on_1016gb_vram_ranked/",
+  "source": "r/LocalLLaMA",
+  "title": "Every Model That Can Be Run On 10-16GB VRAM Ranked",
+  "published_at": "2026-10-11T19:12:36+00:00",
+  "collected_at": "2026-10-11T22:47:20.154558+00:00",
+  "title_ko": "10-16GB VRAM에서 실행 가능한 로컬 LLM 모델 순위",
+  "summary_ko": "제한된 VRAM 환경에서도 원활하게 실행할 수 있는 오픈소스 LLM 모델들을 속도와 일관성 기준으로 평가했습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "7ce9d04e52c73962",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3fxzj/strata_for_glm53_flash_is_here_for_some_project/",
+  "source": "r/LocalLLaMA",
+  "title": "\"Strata\" for GLM5.3 Flash is here for some! Project Maya",
+  "published_at": "2026-10-11T18:42:01+00:00",
+  "collected_at": "2026-10-11T22:47:20.154558+00:00",
+  "title_ko": "GLM-5.3 Flash를 위한 'Project Maya' 가속 도구 등장",
+  "summary_ko": "대규모 AI 모델인 GLM-5.3 Flash를 로컬 GPU에서 훨씬 빠른 속도로 실행할 수 있게 해주는 최적화 프로젝트가 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "NVIDIA",
+   "LLM"
   ]
  },
  {

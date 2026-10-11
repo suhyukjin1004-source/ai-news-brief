@@ -1,8 +1,52 @@
 {
- "updated_at": "2026-10-11T18:47:41.364485+00:00",
+ "updated_at": "2026-10-11T22:47:37.614492+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "2e1571735f8a556c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3ker0/i_ran_qwen_38_flashnext_on_my_amd_7900_xtx_at/",
+   "source": "r/LocalLLaMA",
+   "title": "I ran Qwen 3.8 Flash-Next on my AMD 7900 XTX at 500k context. All local and what a shift it has been.",
+   "published_at": "2026-10-11T21:44:02+00:00",
+   "collected_at": "2026-10-11T22:47:20.154558+00:00",
+   "title_ko": "로컬 환경에서 Qwen 3.8 Flash-Next 구동기 및 추론 반복 문제 해결",
+   "summary_ko": "AMD GPU에서 Qwen 모델을 구동할 때 추론 내용이 반복되는 현상의 원인과 해결책을 공유합니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "e570ded495433b2b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3ij13/i_tested_different_qwen_38_27b_quants/",
+   "source": "r/LocalLLaMA",
+   "title": "I tested different Qwen 3.8 27B quants",
+   "published_at": "2026-10-11T20:24:54+00:00",
+   "collected_at": "2026-10-11T22:47:20.154558+00:00",
+   "title_ko": "Qwen 3.8 27B 양자화 버전별 성능 및 속도 비교",
+   "summary_ko": "다양한 양자화 포맷(FP4, Q6 등)에 따른 Qwen 모델의 정확도와 처리 속도를 비교 분석했습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "44c65736f8dd5ac9",
+   "url": "https://twitter.com/karpathy/status/2109361546505966046",
+   "source": "Hacker News",
+   "title": "The gap in shared understanding of LLM capability is widening",
+   "published_at": "2026-10-11T20:20:52+00:00",
+   "collected_at": "2026-10-11T22:47:19.299428+00:00",
+   "title_ko": "LLM 능력에 대한 대중적 이해의 격차 확대",
+   "summary_ko": "인공지능 전문가와 일반 사용자 간의 LLM 실제 역량 인식 차이가 점차 벌어지고 있다는 분석입니다.",
+   "category": "참고",
+   "tags": [
+    "LLM"
+   ]
+  },
   {
    "id": "80ad7a8c7ed63405",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216136",
@@ -33,6 +77,37 @@
     "Anthropic",
     "Claude",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "c2060675dbb8a188",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3gpyi/every_model_that_can_be_run_on_1016gb_vram_ranked/",
+   "source": "r/LocalLLaMA",
+   "title": "Every Model That Can Be Run On 10-16GB VRAM Ranked",
+   "published_at": "2026-10-11T19:12:36+00:00",
+   "collected_at": "2026-10-11T22:47:20.154558+00:00",
+   "title_ko": "10-16GB VRAM에서 실행 가능한 로컬 LLM 모델 순위",
+   "summary_ko": "제한된 VRAM 환경에서도 원활하게 실행할 수 있는 오픈소스 LLM 모델들을 속도와 일관성 기준으로 평가했습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "7ce9d04e52c73962",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3fxzj/strata_for_glm53_flash_is_here_for_some_project/",
+   "source": "r/LocalLLaMA",
+   "title": "\"Strata\" for GLM5.3 Flash is here for some! Project Maya",
+   "published_at": "2026-10-11T18:42:01+00:00",
+   "collected_at": "2026-10-11T22:47:20.154558+00:00",
+   "title_ko": "GLM-5.3 Flash를 위한 'Project Maya' 가속 도구 등장",
+   "summary_ko": "대규모 AI 모델인 GLM-5.3 Flash를 로컬 GPU에서 훨씬 빠른 속도로 실행할 수 있게 해주는 최적화 프로젝트가 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "NVIDIA",
+    "LLM"
    ]
   },
   {
@@ -2918,75 +2993,6 @@
    "tags": [
     "OpenAI",
     "규제"
-   ]
-  },
-  {
-   "id": "963b8184663b383e",
-   "url": "https://simonwillison.net/2026/Oct/9/matthew-green/",
-   "source": "Simon Willison",
-   "title": "Quoting Matthew Green",
-   "published_at": "2026-10-09T15:02:29+00:00",
-   "collected_at": "2026-10-09T19:27:14.085567+00:00",
-   "title_ko": "AI 발전 속도에 따른 암호화 표준 위협 경고",
-   "summary_ko": "AI가 가져오는 급격한 기술 변화 속도에 맞춰 기존 공개키 암호화 표준을 선제적으로 재정비해야 한다는 전문가의 제언이다.",
-   "category": "참고",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "0d21a1081175f009",
-   "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
-   "source": "Hacker News",
-   "title": "Can you use autoregressive diffusion to generate market data?",
-   "published_at": "2026-10-09T14:56:13+00:00",
-   "collected_at": "2026-10-10T12:21:45.756391+00:00",
-   "title_ko": "자기회귀 확산 모델을 활용한 시장 데이터 생성 연구",
-   "summary_ko": "제인스트리트 블로그에서 자기회귀 확산 모델을 금융 시장 데이터 생성에 활용하는 방법을 다룹니다. AI 기술의 금융 분야 응용 가능성을 보여줍니다.",
-   "category": "참고",
-   "tags": []
-  },
-  {
-   "id": "632f32208c2b3c9a",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1mzsg/qwen38flashnextgsqrco_iq3_s_2030_toksec_decode/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.8-Flash-Next-GSQ-RCO (IQ3_S): ~20-30 tok/sec decode & 300-90k tok/sec prefill on 12GB VRAM + 32GB RAM + NVME",
-   "published_at": "2026-10-09T14:34:14+00:00",
-   "collected_at": "2026-10-09T19:27:14.740625+00:00",
-   "title_ko": "저사양 환경에서 구동되는 Qwen 커스텀 모델",
-   "summary_ko": "일반 소비자용 하드웨어와 저사양 VRAM 환경에서도 고성능을 내는 실험적인 Qwen 모델 구동 레시피가 공유됐다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "bd09a73d35990048",
-   "url": "https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457",
-   "source": "Hacker News",
-   "title": "Court throws out killer's sentence after judge said he loved AI video of victim",
-   "published_at": "2026-10-09T14:14:08+00:00",
-   "collected_at": "2026-10-09T23:58:29.005957+00:00",
-   "title_ko": "판사가 피해자 AI 영상 언급한 살인범 재판, 판결 파기",
-   "summary_ko": "판사가 피해자의 AI 생성 영상을 언급한 살인범의 판결이 법원에서 무효화되었습니다. 사법 시스템 내 AI 기술 활용에 대한 법적·윤리적 논란을 시사합니다.",
-   "category": "중요",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "4c734c05fb41a55c",
-   "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
-   "source": "The Verge",
-   "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
-   "published_at": "2026-10-09T14:00:00+00:00",
-   "collected_at": "2026-10-09T19:26:45.326066+00:00",
-   "title_ko": "주목받는 AI 에이전트 'Instinct'와 새로운 경쟁자 'Muse'",
-   "summary_ko": "텍스트 기반 인터페이스로 큰 인기를 끌었던 AI 에이전트 Instinct가 새로운 경쟁 구도 속에서 생존 시험대에 올랐다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트"
    ]
   }
  ]
