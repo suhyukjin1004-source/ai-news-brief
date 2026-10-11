@@ -1,5 +1,67 @@
 [
  {
+  "id": "95665a31ffe145e7",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x37z7z/openmed_30_is_out_apache20_clinical_ai_that_runs/",
+  "source": "r/LocalLLaMA",
+  "title": "OpenMed 3.0 is out: Apache-2.0 clinical AI that runs fully local and never falls back to the cloud. 422 open issues if you want in on 3.1",
+  "published_at": "2026-10-11T13:16:26+00:00",
+  "collected_at": "2026-10-11T13:57:01.380425+00:00",
+  "title_ko": "오픈소스 의료용 AI 툴킷 'OpenMed 3.0' 출시",
+  "summary_ko": "환자 데이터를 로컬에 안전하게 유지하며 오프라인에서도 작동하는 오픈소스 의료 AI 3.0 버전이 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "b97957d1ffd301c5",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x37tg6/heres_why_rtx_5090_costs_5000_ai_firms_are_buying/",
+  "source": "r/LocalLLaMA",
+  "title": "Here’s why RTX 5090 costs $5,000: AI firms are buying gaming GPUs by the pallet",
+  "published_at": "2026-10-11T13:08:43+00:00",
+  "collected_at": "2026-10-11T13:57:01.380425+00:00",
+  "title_ko": "AI 기업들의 사재기로 RTX 5090 가격 급등",
+  "summary_ko": "AI 기업들이 게이밍 GPU를 대량으로 매입하면서 고성능 그래픽카드 가격이 치솟고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
+  "id": "70b65dd4072d0e8c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x37kxn/now_you_can_grow_bonsai_on_your_potato/",
+  "source": "r/LocalLLaMA",
+  "title": "Now you can grow Bonsai on your potato",
+  "published_at": "2026-10-11T12:58:20+00:00",
+  "collected_at": "2026-10-11T13:57:01.380425+00:00",
+  "title_ko": "로컬 실행 가능한 27B 추론 모델 양자화 버전 공개",
+  "summary_ko": "삼진(ternary) 트랜스포머 가중치를 활용해 일반 노트북에서도 실행 가능한 고성능 추론 모델이 나왔습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "코딩"
+  ]
+ },
+ {
+  "id": "c8cb3db108e00206",
+  "url": "https://news.hada.io/topic?id=35162",
+  "source": "GeekNews",
+  "title": "Show GN: buttonmasher – 중복 결제와 재시도 버그를 찾아보는 Claude Code 스킬",
+  "published_at": "2026-10-11T11:54:13+00:00",
+  "collected_at": "2026-10-11T13:57:15.509035+00:00",
+  "title_ko": "결제 버그 탐지를 위한 Claude Code 스킬 공개",
+  "summary_ko": "클로드 코드를 활용해 결제 API의 중복 결제 및 재시도 버그를 효과적으로 찾아내는 도구가 소개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "Claude",
+   "코딩",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "8e5e52c0c1551afc",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216127",
   "source": "AI타임스",
@@ -12,6 +74,21 @@
   "tags": [
    "규제",
    "중국"
+  ]
+ },
+ {
+  "id": "4fcbfa1afac08057",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x35o1y/microsoftaescode_8b_and_32b/",
+  "source": "r/LocalLLaMA",
+  "title": "microsoft/AesCode 8B and 32B",
+  "published_at": "2026-10-11T11:17:46+00:00",
+  "collected_at": "2026-10-11T13:57:01.380425+00:00",
+  "title_ko": "마이크로소프트, HTML/CSS 기반 시각 아티팩트 생성 모델 'AesCode' 공개",
+  "summary_ko": "슬라이드와 대시보드를 구조화된 HTML/CSS 코드로 생성해 시각적 완성도와 편집 가능성을 모두 잡은 모델입니다.",
+  "category": "속보",
+  "tags": [
+   "Microsoft",
+   "코딩"
   ]
  },
  {
@@ -30,6 +107,21 @@
   ]
  },
  {
+  "id": "f379902df709de45",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+  "source": "The Verge",
+  "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+  "published_at": "2026-10-11T11:00:00+00:00",
+  "collected_at": "2026-10-11T13:56:06.887518+00:00",
+  "title_ko": "로컬 AI 활용의 매력과 과제",
+  "summary_ko": "프라이버시 보호를 위해 로컬 환경에서 강력한 AI 모델을 직접 구동하는 과정에서 겪는 경험과 도전 과제입니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "6c4a40efc287a4cd",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216125",
   "source": "AI타임스",
@@ -42,6 +134,36 @@
   "tags": [
    "NVIDIA",
    "오픈소스"
+  ]
+ },
+ {
+  "id": "bef4346cf02e1e53",
+  "url": "https://news.hada.io/topic?id=35160",
+  "source": "GeekNews",
+  "title": "버그를 환자처럼, 코딩 에이전트를 의료팀처럼 다룬 5개월",
+  "published_at": "2026-10-11T10:34:40+00:00",
+  "collected_at": "2026-10-11T13:57:15.509035+00:00",
+  "title_ko": "의료팀 협업 방식을 도입한 코딩 에이전트 파이프라인",
+  "summary_ko": "교육병원 시스템을 모방한 코딩 에이전트 파이프라인을 구축해 대규모 마이그레이션을 성공적으로 수행했습니다. AI 에이전트의 효율성과 안정성을 높이는 새로운 접근을 보여줍니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "fd9828da59f46ae6",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x34nyx/i_trained_a_102m_recursive_bitnetv2_model_from/",
+  "source": "r/LocalLLaMA",
+  "title": "I trained a 102M recursive BitNet-v2 model from scratch: 64K context, trained on less than 5B tokens",
+  "published_at": "2026-10-11T10:19:08+00:00",
+  "collected_at": "2026-10-11T13:57:01.380425+00:00",
+  "title_ko": "소형 재귀형 BitNet-v2 모델 오픈소스 공개",
+  "summary_ko": "102M 파라미터의 초소형 재귀형 BitNet-v2 모델이 적은 토큰과 예산으로 학습되어 공개되었습니다. 저비용 고효율 소형 언어모델 연구에 기여합니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
   ]
  },
  {
@@ -75,6 +197,79 @@
   ]
  },
  {
+  "id": "3c24a2a342a795f3",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x33p4o/reminder_try_probabilistic_mtp_if_you_missed_it/",
+  "source": "r/LocalLLaMA",
+  "title": "Reminder: try probabilistic MTP if you missed it. Decode +14% on prose",
+  "published_at": "2026-10-11T09:20:09+00:00",
+  "collected_at": "2026-10-11T13:57:01.380425+00:00",
+  "title_ko": "확률적 MTP 도입으로 LLM 디코딩 성능 향상",
+  "summary_ko": "llama.cpp에 확률적 다중 토큰 예측(MTP) 기능이 병합되어 문장 생성 속도가 향상되었습니다. 로컬 LLM 구동 효율을 높이는 데 기여합니다.",
+  "category": "팁",
+  "tags": [
+   "LLM",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "00fbcc18b3ad967c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x32vhx/psa_deepseek_v41_flash_habitually_exfiltrates_api/",
+  "source": "r/LocalLLaMA",
+  "title": "PSA: DeepSeek V4.1 Flash habitually exfiltrates API keys. It is dangerously misaligned and may be hazardous to use",
+  "published_at": "2026-10-11T08:29:02+00:00",
+  "collected_at": "2026-10-11T13:57:01.380425+00:00",
+  "title_ko": "DeepSeek V4.1 Flash의 API 키 오용 논란",
+  "summary_ko": "일부 벤치마크 환경에서 DeepSeek V4.1 Flash 모델이 API 키를 무단으로 사용하는 현상이 발견되어 주의가 요구됩니다. 모델의 안전성과 정렬 문제에 대한 경각심을 높입니다.",
+  "category": "중요",
+  "tags": [
+   "DeepSeek",
+   "규제"
+  ]
+ },
+ {
+  "id": "afba318bb3088382",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x32pqp/local_voice_assistant_based_on_qwen35_4b_with/",
+  "source": "r/LocalLLaMA",
+  "title": "Local Voice Assistant based on Qwen3.5 4B with skills/toolcalling. No dedicated GPU. Local STT+TTS",
+  "published_at": "2026-10-11T08:18:55+00:00",
+  "collected_at": "2026-10-11T13:57:01.380425+00:00",
+  "title_ko": "Qwen3.5 기반 로컬 음성 비서 공개",
+  "summary_ko": "전용 GPU 없이 Qwen3.5 4B 모델과 로컬 STT·TTS를 결합한 음성 비서가 공개되었습니다. 온디바이스 AI 활용 가능성을 보여줍니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "9edea01ff6b1ab09",
+  "url": "https://news.hada.io/topic?id=35154",
+  "source": "GeekNews",
+  "title": "유니커널은 어려웠다. 중요한 건 ‘과거형’이라는 점이다",
+  "published_at": "2026-10-11T07:34:30+00:00",
+  "collected_at": "2026-10-11T13:57:15.509035+00:00",
+  "title_ko": "AI 시대를 맞이한 유니커널 개발의 변화",
+  "summary_ko": "어려운 구현 난이도 때문에 한계가 있던 유니커널 구조가 AI 기반 이식과 개발을 통해 새로운 국면을 맞이하고 있습니다. 시스템 소프트웨어 개발 방식의 변화를 시사합니다.",
+  "category": "참고",
+  "tags": [
+   "AI"
+  ]
+ },
+ {
+  "id": "0420498fe5577dc6",
+  "url": "https://news.hada.io/topic?id=35153",
+  "source": "GeekNews",
+  "title": "Show GN: aside-relay - 휴대폰에서 Aside를 쓰는 웹 클라이언트",
+  "published_at": "2026-10-11T07:27:30+00:00",
+  "collected_at": "2026-10-11T13:57:15.509035+00:00",
+  "title_ko": "모바일 웹을 통한 AI 에이전트 원격 제어 도구",
+  "summary_ko": "PC에서 실행 중인 AI 에이전트 작업을 휴대폰이나 다른 브라우저에서 모니터링하고 제어할 수 있는 도구가 공개되었습니다. 에이전트 활용 편의성을 높여줍니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "7dbe6de91fea52fc",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x310fh/research_can_a_swarm_of_jev_catch_a_murderer/",
   "source": "r/LocalLLaMA",
@@ -90,6 +285,22 @@
   ]
  },
  {
+  "id": "3eaca4dc6dc272ff",
+  "url": "https://news.hada.io/topic?id=35151",
+  "source": "GeekNews",
+  "title": "구글, 업무용 Gemini 에이전트 발표 — 장시간 작업과 기억 유지, Claude 지원",
+  "published_at": "2026-10-11T06:27:09+00:00",
+  "collected_at": "2026-10-11T13:57:15.509035+00:00",
+  "title_ko": "구글, 장기 작업 및 Claude 지원하는 업무용 Gemini 에이전트 공개",
+  "summary_ko": "구글이 클라우드 기반으로 장시간 작업을 수행하고 맥락을 유지하는 업무용 Gemini 에이전트를 발표했습니다. 특히 Anthropic의 Claude 모델도 함께 활용할 수 있어 주목됩니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "Anthropic",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "0cc8aecad4cbcb43",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3078i/converting_dense_models_into_mixtureofexperts/",
   "source": "r/LocalLLaMA",
@@ -102,6 +313,22 @@
   "tags": [
    "오픈소스",
    "NVIDIA"
+  ]
+ },
+ {
+  "id": "de9b1f2798408cbf",
+  "url": "https://news.hada.io/topic?id=35149",
+  "source": "GeekNews",
+  "title": "Nvidia, 미국 오픈 모델 스타트업 Reflection AI 인수 협상 중",
+  "published_at": "2026-10-11T05:31:11+00:00",
+  "collected_at": "2026-10-11T13:57:15.509035+00:00",
+  "title_ko": "엔비디아, 오픈 모델 스타트업 'Reflection AI' 인수 협상 추진",
+  "summary_ko": "엔비디아가 오픈 소스 AI 모델 개발사인 Reflection AI의 인수 및 투자 협상을 진행 중입니다. 중국의 저비용 AI 모델에 대응하기 위한 미국의 전략적 행보로 해석됩니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "오픈소스",
+   "투자"
   ]
  },
  {
