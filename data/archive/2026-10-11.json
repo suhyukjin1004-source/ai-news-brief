@@ -1,5 +1,211 @@
 [
  {
+  "id": "bbd2d49b89d11893",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2u742/building_a_4x_r9700_setup_for_a_10_person_startup/",
+  "source": "r/LocalLLaMA",
+  "title": "Building a 4x R9700 setup for a 10 person startup",
+  "published_at": "2026-10-11T00:20:07+00:00",
+  "collected_at": "2026-10-11T00:50:55.672839+00:00",
+  "title_ko": "AMD 라데온 GPU 기반 로컬 LLM 서버 구축 사례",
+  "summary_ko": "AMD Radeon R9700 GPU 4개를 활용해 대형 언어 모델을 고성능으로 서빙하는 로컬 인프라 구축 후기입니다.",
+  "category": "팁",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "e751aa3e59b95a27",
+  "url": "https://www.reddit.com/r/singularity/comments/1x2ty7y/if_an_internal_model_discovers_a_new_ai/",
+  "source": "r/singularity",
+  "title": "If An Internal Model Discovers A New AI Architecture 1,000x Better Than Current Architectures, But No Human Can Understand It, Should We Refuse To Build It?",
+  "published_at": "2026-10-11T00:07:41+00:00",
+  "collected_at": "2026-10-11T00:51:08.574949+00:00",
+  "title_ko": "인간이 이해할 수 없는 AI 모델 아키텍처 도입의 딜레마",
+  "summary_ko": "AI가 인간이 이해할 수 없지만 성능이 1000배 뛰어난 새로운 아키텍처를 발견했을 때 이를 채택해야 하는가에 대한 윤리적 논쟁입니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "c3094054a8fec32b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2tstj/omg_if_you_have_a_mac_with_64gb_try/",
+  "source": "r/LocalLLaMA",
+  "title": "OMG! If you have a Mac with 64GB, try Qwen3.8-Flash-Next-oQ4e-mtp with oMLX!",
+  "published_at": "2026-10-11T00:00:40+00:00",
+  "collected_at": "2026-10-11T00:50:55.672839+00:00",
+  "title_ko": "64GB 맥 환경에서 Qwen 플래시 모델 구동 성공기",
+  "summary_ko": "M3 Max 64GB 맥북에서 oMLX를 활용해 대용량 Qwen 모델을 로컬로 구동하고 긴 컨텍스트 처리에 성공한 사례입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "3e9835d41e6ba23b",
+  "url": "https://www.reddit.com/r/singularity/comments/1x2t07p/china_to_launch_initiative_to_boost_employment/",
+  "source": "r/singularity",
+  "title": "China to launch initiative to boost employment amid AI advances",
+  "published_at": "2026-10-10T23:21:39+00:00",
+  "collected_at": "2026-10-11T00:51:08.574949+00:00",
+  "title_ko": "중국, AI 발전 대응 고용 촉진 이니셔티브 추진",
+  "summary_ko": "AI 기술 급성장에 따른 고용 시장 변화에 대응하기 위해 중국 정부가 새로운 대책을 마련합니다.",
+  "category": "속보",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
+  "id": "f4d0d8fd8ac57c2e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2s3ru/how_to_make_gemma_4_works_with_swebench/",
+  "source": "r/LocalLLaMA",
+  "title": "How to make gemma 4 works with SWEBench?",
+  "published_at": "2026-10-10T22:38:08+00:00",
+  "collected_at": "2026-10-11T00:50:55.672839+00:00",
+  "title_ko": "SWE-bench에서 Gemma 모델 에이전트 코딩 활용기",
+  "summary_ko": "코딩 벤치마크(SWE-bench)에서 Gemma 모델을 활용하는 과정에서 겪은 호환성 문제와 해결 시도 공유입니다.",
+  "category": "팁",
+  "tags": [
+   "코딩",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "53d08bfa00f24943",
+  "url": "https://www.reddit.com/r/singularity/comments/1x2rthw/byte_language_models_scaling_emergent/",
+  "source": "r/singularity",
+  "title": "Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation",
+  "published_at": "2026-10-10T22:24:32+00:00",
+  "collected_at": "2026-10-11T00:51:08.574949+00:00",
+  "title_ko": "바이트 레벨 언어 모델의 스케일링과 신흥 추상화 연구",
+  "summary_ko": "토큰화 단계를 거치지 않는 바이트 레벨 언어 모델의 확장성과 정보 처리 능력에 관한 연구입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "d2c377ec75c9322c",
+  "url": "https://www.reddit.com/r/singularity/comments/1x2rrsi/reverse_engineer_anything_is_a_great_toolkit_what/",
+  "source": "r/singularity",
+  "title": "Reverse Engineer Anything is a great toolkit, what would you like to see reverse engineered?",
+  "published_at": "2026-10-10T22:22:20+00:00",
+  "collected_at": "2026-10-11T00:51:08.574949+00:00",
+  "title_ko": "AI 기반 리버스 엔지니어링 툴킷 활용",
+  "summary_ko": "에이전트 기반 리버스 엔지니어링 도구를 활용해 다양한 하드웨어를 분석하는 최신 개발 트렌드입니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "4c640ca9263a8638",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+  "source": "The Verge",
+  "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+  "published_at": "2026-10-10T22:10:17+00:00",
+  "collected_at": "2026-10-11T00:50:24.204534+00:00",
+  "title_ko": "마이크로소프트 사티아 나델라 \"모든 AI 모델이 손상되었음을 가정해야\"",
+  "summary_ko": "MS CEO 사티아 나델라가 고도화된 AI 모델의 보안 취약성과 블랙박스 위험성에 대응하기 위한 신뢰 아키텍처 재구성을 주장했습니다.",
+  "category": "중요",
+  "tags": [
+   "Microsoft",
+   "규제"
+  ]
+ },
+ {
+  "id": "f07b1db33343c226",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2r63t/best_small_model_setup_together_with/",
+  "source": "r/LocalLLaMA",
+  "title": "Best small model + setup together with qwen3.8-flash-next",
+  "published_at": "2026-10-10T21:54:52+00:00",
+  "collected_at": "2026-10-11T00:50:55.672839+00:00",
+  "title_ko": "에이전트 구동을 위한 최적의 소형 모델 조합 구성 팁",
+  "summary_ko": "한정된 하드웨어 환경에서 에이전트 성능을 극대화하기 위해 대형 모델과 소형 모델을 조합하는 구성 방안입니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "bbfe26f47c659214",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2r5jx/qwen38flashnext_strata_pi_beat_claudecode_opus_55/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-Flash-Next Strata pi beat Claude-code Opus 5.5 on a 5090",
+  "published_at": "2026-10-10T21:54:06+00:00",
+  "collected_at": "2026-10-11T00:50:55.672839+00:00",
+  "title_ko": "로컬 구동 오픈소스 모델의 벤치마크 성능 호조",
+  "summary_ko": "일상적인 태스크 벤치마크에서 로컬로 구동되는 최신 Qwen 플래시 모델이 우수한 성능과 속도를 기록했습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "2c9728d3318bed23",
+  "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+  "source": "TechCrunch",
+  "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+  "published_at": "2026-10-10T21:47:51+00:00",
+  "collected_at": "2026-10-11T00:50:24.125402+00:00",
+  "title_ko": "사티아 나델라 MS CEO, AI 모델에 '비상 브레이크' 필요성 역설",
+  "summary_ko": "급속도로 발전하는 AI 시스템의 통제력을 확보하기 위해 업계 전반의 신뢰 아키텍처를 점검해야 한다는 주장입니다.",
+  "category": "중요",
+  "tags": [
+   "Microsoft",
+   "규제"
+  ]
+ },
+ {
+  "id": "47e7162c7748ae71",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2qsh3/model_support_minicpmv_47_by_tcmb_pull_request/",
+  "source": "r/LocalLLaMA",
+  "title": "[Model] Support MiniCPM-V 4.7 by tc-mb · Pull Request #29416 · ggml-org/llama.cpp",
+  "published_at": "2026-10-10T21:37:21+00:00",
+  "collected_at": "2026-10-11T00:50:55.672839+00:00",
+  "title_ko": "llama.cpp, MiniCPM-V 멀티모달 모델 지원 추가",
+  "summary_ko": "로컬 LLM 구동 프레임워크인 llama.cpp에 최신 MiniCPM-V 모델 지원 풀리퀘스트가 등록되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "b54ee4accabc0476",
+  "url": "https://news.hada.io/topic?id=35136",
+  "source": "GeekNews",
+  "title": "Mxc: Microsoft Execution Containers 버전 1.0.0",
+  "published_at": "2026-10-10T21:32:20+00:00",
+  "collected_at": "2026-10-11T00:51:11.343385+00:00",
+  "title_ko": "마이크로소프트, AI 에이전트 보안 컨테이너 'MXC 1.0' 정식 출시",
+  "summary_ko": "개발자가 AI 에이전트의 파일 및 네트워크 접근 권한을 안전하게 제한할 수 있는 Microsoft Execution Containers(MXC) 1.0이 출시되었습니다. 에이전트의 자율 실행 환경에서 보안을 강화하는 데 기여합니다.",
+  "category": "속보",
+  "tags": [
+   "Microsoft",
+   "AI 에이전트",
+   "보안"
+  ]
+ },
+ {
+  "id": "52b94f11289798e8",
+  "url": "https://www.reddit.com/r/singularity/comments/1x2q7sf/we_should_stop_defending_jobs_and_start_planning/",
+  "source": "r/singularity",
+  "title": "We should stop defending jobs and start planning for a world without them",
+  "published_at": "2026-10-10T21:11:24+00:00",
+  "collected_at": "2026-10-11T00:51:08.574949+00:00",
+  "title_ko": "AI 발전과 일자리 소멸 미래에 대한 단상",
+  "summary_ko": "AI가 모든 경제적 가치 창출 업무에서 인간을 능가할 경우에 대비해 일자리 방어가닌 노동 없는 세계를 준비해야 한다는 주장의 글입니다. 향후 노동 시장의 구조적 변화를 시사합니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "노동",
+   "전망"
+  ]
+ },
+ {
   "id": "e37c4dea7d05c867",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216122",
   "source": "AI타임스",
@@ -13,6 +219,21 @@
    "NVIDIA",
    "반도체",
    "투자"
+  ]
+ },
+ {
+  "id": "3032d8ae61949a89",
+  "url": "https://www.reddit.com/r/singularity/comments/1x2ol42/chinas_bci_innovation_enters_fast_track_with/",
+  "source": "r/singularity",
+  "title": "China's BCI innovation enters fast track, with initial breakthroughs expected in assistive therapy, rehabilitation, and related fields",
+  "published_at": "2026-10-10T20:01:33+00:00",
+  "collected_at": "2026-10-11T00:51:08.574949+00:00",
+  "title_ko": "중국, 뇌수술 및 재활 분야 뇌-컴퓨터 인터페이스(BCI) 혁신 가속화",
+  "summary_ko": "중국의 뇌-컴퓨터 인터페이스(BCI) 기술이 보조 치료와 재활 분야에서 초기 성과를 거두며 빠르게 발전하고 있습니다. 의료 AI 및 인지 컴퓨팅 분야의 주목할 만한 동향입니다.",
+  "category": "중요",
+  "tags": [
+   "로보틱스",
+   "의료AI"
   ]
  },
  {
@@ -43,6 +264,21 @@
   "tags": [
    "오픈소스",
    "코딩"
+  ]
+ },
+ {
+  "id": "e6340033f25292fb",
+  "url": "https://www.reddit.com/r/singularity/comments/1x2na8q/how_compute_time_has_shifted_from_pretraining_to/",
+  "source": "r/singularity",
+  "title": "How compute time has shifted from pretraining to post-training over the last 2 years",
+  "published_at": "2026-10-10T19:06:18+00:00",
+  "collected_at": "2026-10-11T00:51:08.574949+00:00",
+  "title_ko": "지난 2년간 LLM 컴퓨팅 자원 투자의 사전훈련에서 사후훈련으로의 이동",
+  "summary_ko": "AI 모델 학습 시 사전훈련(Pretraining) 중심에서 사후훈련(Post-training) 및 정렬 단계로 컴퓨팅 자원 배분이 어떻게 변화해왔는지 분석한 내용입니다.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "오픈소스"
   ]
  },
  {
