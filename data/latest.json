@@ -1,8 +1,98 @@
 {
- "updated_at": "2026-10-11T22:47:37.614492+00:00",
+ "updated_at": "2026-10-12T02:16:58.516532+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "7dafdf71046b5929",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3n8ex/opencode_2026_is_out_if_you_need_to_constantly/",
+   "source": "r/LocalLLaMA",
+   "title": "OpenCode 2.0.26 is out, if you need to constantly prompt \"Continue\" it's not just your bot AFAIK",
+   "published_at": "2026-10-11T23:56:26+00:00",
+   "collected_at": "2026-10-12T02:16:36.592793+00:00",
+   "title_ko": "OpenCode 2.0.26 버전 출시 및 에이전트 멈춤 현상",
+   "summary_ko": "OpenCode 2.0.26 업데이트 후 봇이 작업을 완료하지 못하고 중간에 멈추는 에이전트 구동 관련 문제가 보고되었습니다.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트",
+    "코딩",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "47051e13e8cfee76",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3mikv/github_giveendecapybara_opensource_c20_and_cuda/",
+   "source": "r/LocalLLaMA",
+   "title": "GitHub - giveen/Decapybara: Open-source C++20 and CUDA reconstruction of the MegaCapybara inference server",
+   "published_at": "2026-10-11T23:20:49+00:00",
+   "collected_at": "2026-10-12T02:16:36.592793+00:00",
+   "title_ko": "MegaCapybara 추론 서버의 C++20/CUDA 오픈소스 재구현",
+   "summary_ko": "바이너리 파일만 제공되던 MegaCapybara 추론 서버를 투명하게 검증할 수 있도록 C++20과 CUDA로 재구현한 오픈소스 프로젝트가 공개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "4d51748ef65c4c2e",
+   "url": "https://news.hada.io/topic?id=35201",
+   "source": "GeekNews",
+   "title": "Show GN: PartsPlan - AI가 제조사 데이터시트의 쪽을 근거로 답하게 하는 MCP 서버",
+   "published_at": "2026-10-11T23:06:43+00:00",
+   "collected_at": "2026-10-12T02:16:51.247565+00:00",
+   "title_ko": "제조사 데이터시트 기반 응답을 지원하는 MCP 서버 'PartsPlan'",
+   "summary_ko": "전자부품 데이터시트의 표와 그래프를 근거로 AI가 정확한 수치를 답변할 수 있도록 돕는 Claude·ChatGPT·Cursor용 MCP 서버가 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "f65b567472f4e73f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3lzmk/auroraimg6m_releases/",
+   "source": "r/LocalLLaMA",
+   "title": "AuroraIMG-6M Releases!",
+   "published_at": "2026-10-11T22:56:03+00:00",
+   "collected_at": "2026-10-12T02:16:36.592793+00:00",
+   "title_ko": "600만 파라미터 초소형 텍스트-이미지 모델 'AuroraIMG-6M' 공개",
+   "summary_ko": "별도의 대형 텍스트 인코더나 VAE 없이 6M 파라미터만으로 64x64 해상도의 이미지를 생성하는 초소형 모델이 발표되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "0149158673bfe290",
+   "url": "https://news.hada.io/topic?id=35200",
+   "source": "GeekNews",
+   "title": "Show GN: Hanok-LLM - 오픈소스 한국어 LLM 학습 프로그램, 데이터셋부터 Ollama, Hugging Face 배포까지",
+   "published_at": "2026-10-11T22:50:08+00:00",
+   "collected_at": "2026-10-12T02:16:51.247565+00:00",
+   "title_ko": "한국어 LLM 학습 및 배포 프로그램 'Hanok-LLM' 소개",
+   "summary_ko": "데이터셋 구축부터 Ollama 및 Hugging Face 배포까지 전 과정을 지원하는 오픈소스 한국어 LLM 학습 프로젝트가 공유되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "bc5fd5422bebe3ed",
+   "url": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
+   "source": "Hacker News",
+   "title": "Google is illegaly cutting forest to build data centers",
+   "published_at": "2026-10-11T22:33:30+00:00",
+   "collected_at": "2026-10-12T02:16:27.012886+00:00",
+   "title_ko": "구글, 핀란드 데이터센터 건설 위한 삼림 벌채로 환경 영향 평가 중단",
+   "summary_ko": "구글이 핀란드에 데이터센터를 짓기 위해 삼림을 불법 벌채했다는 의혹으로 환경 영향 평가가 일시 중단되었습니다.",
+   "category": "중요",
+   "tags": [
+    "Google",
+    "투자"
+   ]
+  },
   {
    "id": "2e1571735f8a556c",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3ker0/i_ran_qwen_38_flashnext_on_my_amd_7900_xtx_at/",
@@ -16,6 +106,22 @@
    "tags": [
     "오픈소스",
     "LLM"
+   ]
+  },
+  {
+   "id": "c04b074e30577970",
+   "url": "https://news.hada.io/topic?id=35195",
+   "source": "GeekNews",
+   "title": "최신 AI 모델들, 인간의 알고리듬 혁신에 필적하는 성과를 내는 데 어려움 겪어",
+   "published_at": "2026-10-11T20:43:32+00:00",
+   "collected_at": "2026-10-12T02:16:51.247565+00:00",
+   "title_ko": "최신 AI 모델, 인간의 알고리즘 혁신 창출에 한계 봉착",
+   "summary_ko": "Epoch AI의 평가 결과, Claude와 GPT 등의 최신 AI 모델이 아이디어 구상부터 구현까지 수행해 인간 개발자의 학습 기법 수준에 도달하는 데 어려움을 겪고 있는 것으로 나타났습니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "OpenAI",
+    "GPT"
    ]
   },
   {
@@ -48,6 +154,22 @@
    ]
   },
   {
+   "id": "223a563722e34529",
+   "url": "https://news.hada.io/topic?id=35192",
+   "source": "GeekNews",
+   "title": "바이브 코딩으로 만든 Halo, The Simpsons: Hit And Run, GTA 브라우저 이식판이 잘 작동함",
+   "published_at": "2026-10-11T19:47:09+00:00",
+   "collected_at": "2026-10-12T02:16:51.247565+00:00",
+   "title_ko": "AI 디컴파일과 바이브 코딩으로 구현한 고전 게임 브라우저 이식판",
+   "summary_ko": "AI 모델의 뛰어난 디컴파일 성능 덕분에 과거에 수개월이 걸리던 고전 게임 코드 재구성이 빠르게 이루어져 브라우저 이식판이 완성되고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "Claude",
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
    "id": "80ad7a8c7ed63405",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216136",
    "source": "AI타임스",
@@ -61,6 +183,21 @@
     "Anthropic",
     "Claude",
     "투자"
+   ]
+  },
+  {
+   "id": "fad14ddb3e00293e",
+   "url": "https://news.hada.io/topic?id=35191",
+   "source": "GeekNews",
+   "title": "BetterWispr - Mac용 무료 오픈소스 받아쓰기 앱",
+   "published_at": "2026-10-11T19:44:09+00:00",
+   "collected_at": "2026-10-12T02:16:51.247565+00:00",
+   "title_ko": "BetterWispr: Mac용 무료 오픈소스 받아쓰기 앱",
+   "summary_ko": "로컬 음성 모델을 활용해 오프라인에서도 작동하며 계정이 필요 없는 Mac용 음성 텍스트 변환 오픈소스 앱입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "AI"
    ]
   },
   {
@@ -126,6 +263,21 @@
    ]
   },
   {
+   "id": "1bb538d4b641d4aa",
+   "url": "https://news.hada.io/topic?id=35189",
+   "source": "GeekNews",
+   "title": "미안하지만, 여전히 직접 생각해야 합니다",
+   "published_at": "2026-10-11T18:33:02+00:00",
+   "collected_at": "2026-10-12T02:16:51.247565+00:00",
+   "title_ko": "AI 시대에도 개발자의 핵심 설계 판단은 필수적",
+   "summary_ko": "AI 에이전트가 코드를 작성하더라도 호환성, 성능, 메모리 한도 등 아키텍처 관점의 설계 판단은 여전히 개발자의 몫입니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
    "id": "a421683cc3ad5309",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216133",
    "source": "AI타임스",
@@ -139,6 +291,21 @@
     "Anthropic",
     "Claude",
     "AI 안전성"
+   ]
+  },
+  {
+   "id": "4d47fb1dd78acbae",
+   "url": "https://news.hada.io/topic?id=35185",
+   "source": "GeekNews",
+   "title": "Terence Tao: 수학 2.0 [PDF]",
+   "published_at": "2026-10-11T17:54:34+00:00",
+   "collected_at": "2026-10-12T02:16:51.247565+00:00",
+   "title_ko": "테렌스 타오가 전망하는 AI 시대의 수학 2.0",
+   "summary_ko": "AI 투자가 본격화되면서 수학은 기존의 '증명 희소성'에서 벗어나 검증 가능하고 데이터가 풍부한 새로운 시대로 진입하고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "AI",
+    "투자"
    ]
   },
   {
@@ -2832,167 +2999,6 @@
    "category": "중요",
    "tags": [
     "투자"
-   ]
-  },
-  {
-   "id": "eec8f7ea322749df",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216101",
-   "source": "AI타임스",
-   "title": "\"오픈소스 취약점 AI가 잡는다\"...앤트로픽, 무료 보안 검사 도구 공개",
-   "published_at": "2026-10-09T16:56:26+00:00",
-   "collected_at": "2026-10-09T13:06:14.372419+00:00",
-   "title_ko": "앤트로픽, 오픈소스 보안 취약점 무료 검사 도구 출시",
-   "summary_ko": "앤트로픽이 최신 AI 모델을 활용해 오픈소스 소프트웨어의 보안 취약점을 찾아내고 수정 방안을 제시하는 무료 도구를 공개했습니다.",
-   "category": "속보",
-   "tags": [
-    "Anthropic",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "1b62d45c1a2ab9b0",
-   "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
-   "source": "TechCrunch",
-   "title": "Amazon drops data center NDAs, and AI agents want your credit card",
-   "published_at": "2026-10-09T16:53:02+00:00",
-   "collected_at": "2026-10-09T19:26:45.213282+00:00",
-   "title_ko": "아마존 데이터 센터 NDA 폐기 및 AI 에이전트 결제 서비스 주목",
-   "summary_ko": "아마존이 데이터 센터 협상 투명성을 높이는 한편, 소비자의 결제 수단에 접근하는 AI 에이전트 서비스들이 주목받고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "투자"
-   ]
-  },
-  {
-   "id": "ec93bee08bf344ac",
-   "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-   "source": "TechCrunch",
-   "title": "We can’t help treating AI like it’s human. But should we?",
-   "published_at": "2026-10-09T16:40:14+00:00",
-   "collected_at": "2026-10-09T19:26:45.213282+00:00",
-   "title_ko": "AI를 인간처럼 대하는 태도에 대한 고찰",
-   "summary_ko": "인간이 AI와 같은 관계형 인공물에 감정을 이입하고 반응하는 심리적 현상과 이에 대한 윤리적 시각을 다룹니다.",
-   "category": "참고",
-   "tags": []
-  },
-  {
-   "id": "47400b7771e2c2ff",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216100",
-   "source": "AI타임스",
-   "title": "\"모델 학대도 금지\"...앤트로픽, '클로드' 오용 막기 위해 사용 정책 개정",
-   "published_at": "2026-10-09T16:38:02+00:00",
-   "collected_at": "2026-10-09T13:06:14.372419+00:00",
-   "title_ko": "앤트로픽, AI 모델 오용 및 '모델 학대' 금지 정책 개정",
-   "summary_ko": "앤트로픽이 선거 개입, 무기 개발 등 악용을 막고 모델을 불필요하게 학대하는 행위를 금지하는 새로운 사용 정책을 발표했습니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "규제"
-   ]
-  },
-  {
-   "id": "14cad80d7533baaf",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1owzm/github_googleaiedgemldrift_gpuaccelerated_aiml/",
-   "source": "r/LocalLLaMA",
-   "title": "GitHub - google-ai-edge/ml-drift: GPU-Accelerated AI/ML Inference",
-   "published_at": "2026-10-09T15:50:37+00:00",
-   "collected_at": "2026-10-09T19:27:14.740625+00:00",
-   "title_ko": "구글, 온디바이스 GPU 가속 추론 엔진 'ML Drift' 오픈소스 공개",
-   "summary_ko": "구글 AI Edge 팀이 다양한 하드웨어 백엔드를 지원하는 고성능 크로스플랫폼 온디바이스 GPU 추론 엔진을 오픈소스로 공개했습니다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "e5641af316ff42f4",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1owjv/tested_mellum2112ba25b_on_pi_coding_agent/",
-   "source": "r/LocalLLaMA",
-   "title": "Tested Mellum2.1-12B-A2.5B on PI Coding Agent - surprisingly usable, but not great at one-shot projects",
-   "published_at": "2026-10-09T15:50:15+00:00",
-   "collected_at": "2026-10-09T19:27:14.740625+00:00",
-   "title_ko": "로컬 코딩 에이전트 모델 성능 테스트 후기",
-   "summary_ko": "로컬 환경에서 구동되는 코딩 에이전트 모델의 툴 호출 능력과 한계점에 대한 실사용 테스트 결과가 공유되었습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "c600ade0c9b50532",
-   "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-   "source": "TechCrunch",
-   "title": "a16z’s Olivia Moore on the state of consumer AI",
-   "published_at": "2026-10-09T15:43:33+00:00",
-   "collected_at": "2026-10-09T19:26:45.213282+00:00",
-   "title_ko": "a16z 올리비아 무어가 바라본 컨슈머 AI의 미래",
-   "summary_ko": "구독과 API 수익 모델을 넘어선 새로운 수익 창출 방안이 컨슈머 AI 시장의 핵심 기회로 떠오르고 있다.",
-   "category": "참고",
-   "tags": [
-    "투자",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "bdfdff96874c92ce",
-   "url": "https://news.hada.io/topic?id=35078",
-   "source": "GeekNews",
-   "title": "OpenAI, “연구 정보의 부적절한 취급”을 이유로 안전 연구원 3명 해고",
-   "published_at": "2026-10-09T15:32:42+00:00",
-   "collected_at": "2026-10-09T19:27:29.405228+00:00",
-   "title_ko": "OpenAI, 연구 정보 취급 문제로 안전 연구원 3명 해고",
-   "summary_ko": "OpenAI가 민감한 연구 정보를 부적절하게 다뤘다는 이유로 안전 연구원들을 해고해 논란이 일고 있다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI"
-   ]
-  },
-  {
-   "id": "29d7b26349cc19a7",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1obep/a_24kb_standalone_htmlllm_that_can_generate/",
-   "source": "r/LocalLLaMA",
-   "title": "A 24KB stand-alone HTML-LLM that can generate consistent stories",
-   "published_at": "2026-10-09T15:27:09+00:00",
-   "collected_at": "2026-10-09T19:27:14.740625+00:00",
-   "title_ko": "스토리 생성이 가능한 24KB 초소형 HTML LLM",
-   "summary_ko": "스마트폰에서도 초당 60토큰 이상의 속도로 일관된 스토리를 생성하는 독립형 초소형 LLM 웹 애플리케이션이 공개됐다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "43ef54e74d276082",
-   "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-   "source": "Hugging Face",
-   "title": "Impactful scheduling for GPU clusters",
-   "published_at": "2026-10-09T15:20:29+00:00",
-   "collected_at": "2026-10-09T19:26:59.530776+00:00",
-   "title_ko": "GPU 클러스터를 위한 효율적인 스케줄링",
-   "summary_ko": "AI 학습과 추론 성능 극대화를 위한 GPU 클러스터 자원 관리 및 스케줄링 방법론을 다룬다.",
-   "category": "참고",
-   "tags": [
-    "반도체"
-   ]
-  },
-  {
-   "id": "592496c5dbdf66ec",
-   "url": "https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z",
-   "source": "Hacker News",
-   "title": "The super intelligence shit is a humiliation ritual for OpenAI",
-   "published_at": "2026-10-09T15:18:59+00:00",
-   "collected_at": "2026-10-09T23:58:29.005957+00:00",
-   "title_ko": "초지능 관련 OpenAI 비판 여론 확산",
-   "summary_ko": "OpenAI가 주장하는 초지능 비전에 대해 업계 내외에서 회의론과 비판적인 시각이 제기되었습니다. AI의 방향성과 기업의 마케팅 전략에 대한 논란을 보여줍니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "규제"
    ]
   }
  ]
