@@ -1,5 +1,201 @@
 [
  {
+  "id": "906fa997d39e94da",
+  "url": "https://news.hada.io/topic?id=35237",
+  "source": "GeekNews",
+  "title": "바이브 코딩으로 만든 Photoshop 복제 앱들의 공세",
+  "published_at": "2026-10-12T09:06:22+00:00",
+  "collected_at": "2026-10-12T10:38:16.522121+00:00",
+  "title_ko": "AI 바이브 코딩으로 제작된 포토샵 복제 앱들의 한계",
+  "summary_ko": "AI를 활용해 만든 포토샵 복제 앱들이 늘고 있으나 대형 캔버스에서의 브러시 성능과 전문 기능이 부족하다는 평가를 받고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "00db019df595d462",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3wp8c/i_made_an_opensource_ai_leaderboard_that_shows/",
+  "source": "r/LocalLLaMA",
+  "title": "I made an open-source AI leaderboard that shows the best models your machine can run",
+  "published_at": "2026-10-12T08:47:16+00:00",
+  "collected_at": "2026-10-12T10:38:01.500655+00:00",
+  "title_ko": "로컬 하드웨어 맞춤형 오픈소스 AI 리더보드 공개",
+  "summary_ko": "사용자의 RAM과 GPU 사양에 맞춰 로컬에서 구동 가능한 최적의 AI 모델을 추천해 주는 오픈소스 도구가 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "Qwen"
+  ]
+ },
+ {
+  "id": "2a999b18086be2c4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3wjzf/qwen38flashnext_on_six_3090s_with_vllm_7_users_at/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-Flash-Next on six 3090s with vLLM: 7 users at 262k, 6.5k t/s prefill, 57 t/s decode solo / 206 t/s aggregate with all 7 generating. Fixes for the upstream included.",
+  "published_at": "2026-10-12T08:37:36+00:00",
+  "collected_at": "2026-10-12T10:38:01.500655+00:00",
+  "title_ko": "다중 GPU 환경에서 vLLM을 활용한 Qwen 모델 구동 최적화",
+  "summary_ko": "6개의 RTX 3090 환경에서 vLLM을 수정하여 대형 언어 모델의 메모리 효율을 극대화하고 처리 성능을 높인 사례입니다.",
+  "category": "팁",
+  "tags": [
+   "Qwen",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "9896aeb9571353e5",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3vriw/i_built_a_novel_writing_analyzer_plugin_for/",
+  "source": "r/LocalLLaMA",
+  "title": "I built a novel writing analyzer plugin for DeepSeek Harness",
+  "published_at": "2026-10-12T07:46:41+00:00",
+  "collected_at": "2026-10-12T10:38:01.500655+00:00",
+  "title_ko": "DeepSeek 하네스용 소설 품질 분석 플러그인 출시",
+  "summary_ko": "DeepSeek 모델과 연동하여 어휘 다양성, 상투어구, 반복 문장 등을 분석해 주는 오픈소스 소설 작성 보조 플러그인입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "DeepSeek"
+  ]
+ },
+ {
+  "id": "9b128e2c8a9703d7",
+  "url": "https://news.hada.io/topic?id=35231",
+  "source": "GeekNews",
+  "title": "집단지능을 통한 재귀적 자기개선",
+  "published_at": "2026-10-12T07:34:42+00:00",
+  "collected_at": "2026-10-12T10:38:16.522121+00:00",
+  "title_ko": "다중 에이전트 기반 재귀적 자기개선 방법론 소개",
+  "summary_ko": "동일한 AI 모델이 에이전트 내에서 실행자, 최적화기, 평가자 역할을 맡아 협업 방식을 개선하고 스스로 학습하는 기법입니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "ea4b3de928e8c4af",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3viem/qlora_on_exllamav3_quants_train_28bpw/",
+  "source": "r/LocalLLaMA",
+  "title": "QLoRA on ExLlamaV3 Quants - Train @ 2-8bpw",
+  "published_at": "2026-10-12T07:30:10+00:00",
+  "collected_at": "2026-10-12T10:38:01.500655+00:00",
+  "title_ko": "양자화된 모델을 위한 ExLlamaV3 기반 QLoRA 학습 구현",
+  "summary_ko": "트랜스포머 라이브러리 없이 순수 PyTorch로 저비트 양자화 모델을 직접 학습할 수 있는 오픈소스 툴이 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "Llama",
+   "Qwen"
+  ]
+ },
+ {
+  "id": "2eed59d2562c529d",
+  "url": "https://news.hada.io/topic?id=35230",
+  "source": "GeekNews",
+  "title": "AI를 단 10분만 사용해도 어려운 일을 끈기 있게 해내는 능력이 약해짐",
+  "published_at": "2026-10-12T06:36:52+00:00",
+  "collected_at": "2026-10-12T10:38:16.522121+00:00",
+  "title_ko": "단기간 AI 사용이 고난도 과제 수행 지속력에 미치는 악영향",
+  "summary_ko": "연구 결과에 따르면 단 10분만 AI에 의존해도 도구가 사라진 뒤 어려운 문제를 끈기 있게 해결하는 능력이 저하되는 것으로 나타났습니다.",
+  "category": "중요",
+  "tags": [
+   "ChatGPT"
+  ]
+ },
+ {
+  "id": "ceb5329833b01411",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3u3y5/receipt_scanner_that_runs_a_finetuned_08b_vision/",
+  "source": "r/LocalLLaMA",
+  "title": "Receipt scanner that runs a fine-tuned 0.8B vision model on the phone (free) - detailed cost tracking",
+  "published_at": "2026-10-12T06:04:05+00:00",
+  "collected_at": "2026-10-12T10:38:01.500655+00:00",
+  "title_ko": "모바일용 비전 모델 기반 영수증 스캐너 앱 개발",
+  "summary_ko": "0.8B 소형 비전 모델을 파인튜닝하여 스마트폰에서 개인 정보 유출 없이 영수증을 분석하고 가계부를 작성하는 앱을 개발했습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "897bc9c6820b97dc",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3th4p/decision_30_open_multimodal_decision_models_from/",
+  "source": "r/LocalLLaMA",
+  "title": "Decision 3.0: open, multimodal decision models from 0.6B to 27B. Ranks #1 on both Jev Decision Index boards",
+  "published_at": "2026-10-12T05:26:01+00:00",
+  "collected_at": "2026-10-12T10:38:01.500655+00:00",
+  "title_ko": "멀티모달 의사결정 모델 'Decision 3.0' 공개",
+  "summary_ko": "텍스트, 이미지, 비디오를 모두 지원하는 0.6B부터 27B 규모의 오픈소스 의사결정 모델 패밀리 'Decision 3.0'이 출시되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "멀티모달"
+  ]
+ },
+ {
+  "id": "a99ff28638c11a10",
+  "url": "https://news.hada.io/topic?id=35224",
+  "source": "GeekNews",
+  "title": "Show GN: 이음 (ieum) - 한국어 문장으로 쓰는 프로그래밍 언어",
+  "published_at": "2026-10-12T05:05:04+00:00",
+  "collected_at": "2026-10-12T10:38:16.522121+00:00",
+  "title_ko": "한국어 자연어 기반 프로그래밍 언어 '이음' 소개",
+  "summary_ko": "AI의 도움을 받아 한국어 문장으로 코딩을 할 수 있도록 파이썬 호환성을 추가한 프로그래밍 언어 및 IDE 확장 프로그램입니다.",
+  "category": "참고",
+  "tags": [
+   "코딩",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "9c03de7cac4a1322",
+  "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+  "source": "Hacker News",
+  "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+  "published_at": "2026-10-12T05:03:47+00:00",
+  "collected_at": "2026-10-12T10:38:00.632313+00:00",
+  "title_ko": "앤트로픽 IPO를 향한 시장의 엇갈린 시선",
+  "summary_ko": "일각에서는 앤트로픽의 기업공개(IPO)가 투자자들의 과도한 기대를 시험하는 전례 없는 사건이 될 것이라고 평가했습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "투자"
+  ]
+ },
+ {
+  "id": "87793bc4810d162b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3sqxc/vectordash_a_full_windows_search_replacement/",
+  "source": "r/LocalLLaMA",
+  "title": "VectorDash: A full Windows search replacement incorporating Embeddinggemma-2",
+  "published_at": "2026-10-12T04:44:16+00:00",
+  "collected_at": "2026-10-12T10:38:01.500655+00:00",
+  "title_ko": "임베딩 모델 기반 윈도우 검색 대체재 'VectorDash'",
+  "summary_ko": "EmbeddingGemma 2를 활용해 이미지, 문서, 오디오 등 파일의 의미를 실시간으로 검색할 수 있는 윈도우 검색 대체 도구입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "Google"
+  ]
+ },
+ {
+  "id": "d89d9b8c4b574064",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3rtkb/what_are_you_doing_for_a_reliable_well_designed/",
+  "source": "r/LocalLLaMA",
+  "title": "What are you doing for a reliable, well designed local model based AI search?",
+  "published_at": "2026-10-12T03:52:59+00:00",
+  "collected_at": "2026-10-12T10:38:01.500655+00:00",
+  "title_ko": "로컬 모델 기반 AI 웹 검색 활용법 논의",
+  "summary_ko": "클라우드 모델 수준의 속도와 완성도를 갖춘 로컬 오픈소스 LLM 기반 AI 검색 환경을 구축하기 위한 방법들이 논의되고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "Claude",
+   "Gemini"
+  ]
+ },
+ {
   "id": "7dafdf71046b5929",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3n8ex/opencode_2026_is_out_if_you_need_to_constantly/",
   "source": "r/LocalLLaMA",
