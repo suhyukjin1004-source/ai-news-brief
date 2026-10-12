@@ -1,5 +1,158 @@
 [
  {
+  "id": "bc29bfd4cef0691c",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=216160",
+  "source": "AI타임스",
+  "title": "“클로드가 의식을 가졌다고?”…앤트로픽 ‘AI 신비주의’에 맹비난",
+  "published_at": "2026-10-12T13:56:59+00:00",
+  "collected_at": "2026-10-12T20:14:45.692809+00:00",
+  "title_ko": "앤트로픽의 'AI 의식론'에 대한 업계의 거센 비판",
+  "summary_ko": "팟캐스트 '올인' 등에서 앤트로픽이 클로드의 의식 가능성을 언급하고 도덕적 주체로 취급하는 태도를 강하게 비판했습니다. AI 신비주의가 오히려 인간의 통제를 어렵게 만들 수 있다는 지적입니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "규제"
+  ]
+ },
+ {
+  "id": "cb382f31e9b07a7b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x421ow/graphsignaltop_a_top_for_inference_gpus_in_the/",
+  "source": "r/LocalLLaMA",
+  "title": "graphsignal-top: a `top` for inference GPUs in the open-source Graphsignal profiler, kernels ranked by time, live, with readable names",
+  "published_at": "2026-10-12T13:35:21+00:00",
+  "collected_at": "2026-10-12T20:14:32.353665+00:00",
+  "title_ko": "오픈소스 GPU 모니터링 도구 'graphsignal-top' 공개",
+  "summary_ko": "vLLM 및 SGLang 등의 추론 서버에서 GPU 상태를 실시간으로 모니터링할 수 있는 'graphsignal-top' 도구가 공개되었습니다. LLM 서빙 성능 최적화와 에이전트 모니터링에 유용합니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체",
+   "LLM"
+  ]
+ },
+ {
+  "id": "5eb90868919d5413",
+  "url": "https://news.hada.io/topic?id=35245",
+  "source": "GeekNews",
+  "title": "QGIS, AI 보조 기여 금지",
+  "published_at": "2026-10-12T13:33:46+00:00",
+  "collected_at": "2026-10-12T20:14:46.963262+00:00",
+  "title_ko": "지형 공간 오픈소스 프로젝트 QGIS, AI 기여 전면 금지",
+  "summary_ko": "QGIS 프로젝트가 유지보수자의 검토 부담을 줄이기 위해 AI가 생성한 코드나 문서 기여를 전면 금지하는 정책을 승인했습니다. AI 코딩 도구 도입에 따른 오픈소스 생태계의 변화를 보여줍니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "5c58ffc567d3fb58",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x41pqt/brokenml_can_agents_fix_broken_ml_jobs/",
+  "source": "r/LocalLLaMA",
+  "title": "BrokenML: can agents fix broken ML jobs?",
+  "published_at": "2026-10-12T13:21:20+00:00",
+  "collected_at": "2026-10-12T20:14:32.353665+00:00",
+  "title_ko": "AI 에이전트의 머신러닝 작업 오류 수정 능력 평가 벤치마크 'BrokenML'",
+  "summary_ko": "분산 학습이나 서빙 과정에서 발생하는 머신러닝 오류를 AI 에이전트가 직접 진단하고 수정할 수 있는지 테스트하는 벤치마크가 공개되었습니다. 에이전트의 실무 자율성 검증에 기여합니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "코딩",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "f152887f5f22fa6b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x41n6l/nvidia_rtx_5080_24gb_reportedly_launching_in_q1/",
+  "source": "r/LocalLLaMA",
+  "title": "NVIDIA RTX 5080 24GB reportedly launching in Q1 2027, board partners still waiting for details",
+  "published_at": "2026-10-12T13:18:23+00:00",
+  "collected_at": "2026-10-12T20:14:32.353665+00:00",
+  "title_ko": "엔비디아 RTX 5080 24GB, 2027년 1분기 출시 전망",
+  "summary_ko": "엔비디아의 차세대 그래픽카드 RTX 5080 24GB 모델이 2027년 1분기에 출시될 것으로 알려졌으며, 파트너사들이 세부 정보를 대기 중입니다.",
+  "category": "속보",
+  "tags": [
+   "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
+  "id": "4050f98a418d945c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x41myz/qwen_released_qwengyre_rl_framework_for_training/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen released QwenGyre - RL framework for training AI agents on extremely long complex tasks",
+  "published_at": "2026-10-12T13:18:10+00:00",
+  "collected_at": "2026-10-12T20:14:32.353665+00:00",
+  "title_ko": "알리바바 큐원, 장기 에이전트 학습 위한 QwenGyre 공개",
+  "summary_ko": "큐원이 초장기 복잡한 작업 학습을 위한 강화학습 프레임워크 'QwenGyre'를 공개하여 에이전트 훈련 속도와 성능을 대폭 개선했습니다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "12c0d0baba3de7f1",
+  "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+  "source": "The Verge",
+  "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+  "published_at": "2026-10-12T13:00:00+00:00",
+  "collected_at": "2026-10-12T20:13:56.105672+00:00",
+  "title_ko": "마이크로소프트, 엔비디아 의존도 낮출 3세대 Maia AI 칩 공개",
+  "summary_ko": "마이크로소프트가 최신 추론 모델과 에이전트 작업을 효율적으로 처리할 수 있는 자체 AI 칩 'Maia 300'을 발표했습니다.",
+  "category": "중요",
+  "tags": [
+   "Microsoft",
+   "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
+  "id": "d5acb338a8a55bc6",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x416s0/a_free_multimodal_embedding_model_already/",
+  "source": "r/LocalLLaMA",
+  "title": "A \"free\" multi-modal \"embedding\" model (already) included with your LLM: vLLM plugin + upstream PR",
+  "published_at": "2026-10-12T12:59:09+00:00",
+  "collected_at": "2026-10-12T20:14:32.353665+00:00",
+  "title_ko": "vLLM 플러그인을 활용한 무료 멀티모달 임베딩 추출 기법",
+  "summary_ko": "이미 로드된 LLM과 vLLM을 활용해 추가 비용 없이 텍스트 및 이미지 임베딩을 추출할 수 있는 플러그인과 PR이 소개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "LLM",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "36347ea06c8c5adb",
+  "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+  "source": "TechCrunch",
+  "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+  "published_at": "2026-10-12T12:47:59+00:00",
+  "collected_at": "2026-10-12T20:13:55.926853+00:00",
+  "title_ko": "백그라운드 청취 AI 앱 개발사, 2,600만 달러 투자 유치",
+  "summary_ko": "사용자의 주변 대화를 상시 청취하여 맥락을 파악하고 작업을 돕는 AI 애플리케이션 개발사가 대규모 투자를 받았습니다.",
+  "category": "속보",
+  "tags": [
+   "투자"
+  ]
+ },
+ {
+  "id": "63b9043281b44d4a",
+  "url": "https://news.hada.io/topic?id=35243",
+  "source": "GeekNews",
+  "title": "리서치 업체, Anthropic IPO가 “올해 가장 터무니없는 상장”이 될거라 경고",
+  "published_at": "2026-10-12T12:36:00+00:00",
+  "collected_at": "2026-10-12T20:14:46.963262+00:00",
+  "title_ko": "리서치 업체, 앤스로픽 IPO 가치 평가에 거품 경고",
+  "summary_ko": "금융 리서치 업체가 앤스로픽의 목표 기업가치 2조 달러 주장에 대해 터무니없는 수준이라며 과도한 밸류에이션을 경고했습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "투자"
+  ]
+ },
+ {
   "id": "906fa997d39e94da",
   "url": "https://news.hada.io/topic?id=35237",
   "source": "GeekNews",

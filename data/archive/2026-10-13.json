@@ -1,5 +1,49 @@
 [
  {
+  "id": "6001ee7ed96b9e1a",
+  "url": "https://github.com/openai/codex/issues/48195",
+  "source": "Hacker News",
+  "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+  "published_at": "2026-10-12T18:29:04+00:00",
+  "collected_at": "2026-10-12T20:14:17.352991+00:00",
+  "title_ko": "OpenAI 코덱스 CLI, 백그라운드 데몬 설치 논란",
+  "summary_ko": "OpenAI의 코덱스 CLI가 기본 설정으로 영구적인 자가 업데이트 백그라운드 데몬을 설치해 사용자들 사이에서 논란이 되고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "코딩"
+  ]
+ },
+ {
+  "id": "292065259e1605ca",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x49pmn/qwen3827b_vs_frontier_vs_others/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-27B vs Frontier vs Others",
+  "published_at": "2026-10-12T18:26:32+00:00",
+  "collected_at": "2026-10-12T20:14:32.353665+00:00",
+  "title_ko": "Qwen3.8-27B 코딩 및 데이터 분석 성능 비교",
+  "summary_ko": "로컬 LLM 사용자 중심의 워크플로우를 바탕으로 Qwen3.8-27B 모델의 코딩, 데이터 분석, RAG 성능을 비교 테스트한 결과입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "f81da83ae21c9158",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x492f9/openbmbminicpmv471b/",
+  "source": "r/LocalLLaMA",
+  "title": "openbmb/MiniCPM-V-4.7-1B",
+  "published_at": "2026-10-12T18:03:02+00:00",
+  "collected_at": "2026-10-12T20:14:32.353665+00:00",
+  "title_ko": "초경량 온디바이스 멀티모달 모델 MiniCPM-V 4.7 1B 공개",
+  "summary_ko": "이미지와 비디오 이해 능력이 강화된 온디바이스 친화적 경량 멀티모달 모델 MiniCPM-V 4.7의 1B 버전이 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "003e49c082bc8c4f",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216170",
   "source": "AI타임스",
@@ -13,6 +57,21 @@
    "Claude",
    "AI 에이전트",
    "오픈소스"
+  ]
+ },
+ {
+  "id": "9726aa3a5f66ec7f",
+  "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+  "source": "TechCrunch",
+  "title": "Meta releases its first frontier model, Muse Wonder",
+  "published_at": "2026-10-12T17:56:56+00:00",
+  "collected_at": "2026-10-12T20:13:55.926853+00:00",
+  "title_ko": "메타, 고성능 프론티어 AI 모델 'Muse Wonder' 공개",
+  "summary_ko": "메타가 복잡한 코딩 등 고난도 작업을 수행할 수 있는 대형 프론티어 AI 모델 'Muse Wonder'를 새롭게 출시했습니다.",
+  "category": "중요",
+  "tags": [
+   "Meta",
+   "코딩"
   ]
  },
  {
@@ -104,6 +163,49 @@
   ]
  },
  {
+  "id": "83b9a2e31e6e9168",
+  "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+  "source": "TechCrunch",
+  "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+  "published_at": "2026-10-12T17:19:14+00:00",
+  "collected_at": "2026-10-12T20:13:55.926853+00:00",
+  "title_ko": "AI 기상 예측 스타트업 윈드본, 미 공군 계약 체결",
+  "summary_ko": "AI와 기상 관측 기구를 활용해 날씨를 예측하는 실리콘밸리 스타트업 윈드본이 약 5천만 달러 규모의 미 군사 계약을 따냈습니다.",
+  "category": "중요",
+  "tags": [
+   "투자"
+  ]
+ },
+ {
+  "id": "a766a651af521222",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x47taj/openbmbminicpmv4735ba3b/",
+  "source": "r/LocalLLaMA",
+  "title": "openbmb/MiniCPM-V-4.7-35B-A3B",
+  "published_at": "2026-10-12T17:16:21+00:00",
+  "collected_at": "2026-10-12T20:14:32.353665+00:00",
+  "title_ko": "온디바이스 MoE 모델 MiniCPM-V 4.7 35B-A3B 공개",
+  "summary_ko": "효율적인 온디바이스 추론을 지원하는 MiniCPM-V 시리즈 최초의 MoE 모델 35B-A3B 버전이 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "048fcb30e5f3e85f",
+  "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+  "source": "Hacker News",
+  "title": "AI coding agents generate more code, but not more software",
+  "published_at": "2026-10-12T17:14:01+00:00",
+  "collected_at": "2026-10-12T20:14:17.352991+00:00",
+  "title_ko": "AI 코딩 에이전트: 코드 양은 늘지만 소프트웨어 완성도는 미지수",
+  "summary_ko": "AI 코딩 에이전트의 도입으로 생산되는 코드의 양은 크게 늘었으나, 실제 완성도 높은 소프트웨어의 생산량으로는 이어지지 않는다는 분석입니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
   "id": "663cff2182ca7159",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216174",
   "source": "AI타임스",
@@ -115,6 +217,20 @@
   "category": "중요",
   "tags": [
    "투자"
+  ]
+ },
+ {
+  "id": "4198a548b4fe7b55",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x47d7k/in_2030_owning_a_gpu_cluster_will_be_seen_the/",
+  "source": "r/LocalLLaMA",
+  "title": "In 2030 owning a gpu cluster will be seen the same as owning a gun for home defense",
+  "published_at": "2026-10-12T17:00:22+00:00",
+  "collected_at": "2026-10-12T20:14:32.353665+00:00",
+  "title_ko": "2030년 GPU 클러스터 소유의 의미에 대한 단상",
+  "summary_ko": "미래에 개인용 GPU 클러스터를 소유하는 것이 홈 방범용 무기를 소유하는 것과 비슷하게 비춰질 수 있다는 유머러스한 업계 풍자입니다.",
+  "category": "참고",
+  "tags": [
+   "반도체"
   ]
  },
  {
@@ -133,6 +249,21 @@
   ]
  },
  {
+  "id": "b4d86ddbd9eb13ac",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+  "source": "The Verge",
+  "title": "Meta has some Wonder Full new AI models",
+  "published_at": "2026-10-12T17:00:00+00:00",
+  "collected_at": "2026-10-12T20:13:56.105672+00:00",
+  "title_ko": "메타, 신규 고성능 AI 모델 'Muse Wonder' 시리즈 출시",
+  "summary_ko": "메타가 AI 경쟁에서 입지를 다지기 위해 최고 성능의 모델들과 경쟁할 수 있는 'Muse Wonder' 및 'Wonder Full' 모델을 공개했습니다.",
+  "category": "중요",
+  "tags": [
+   "Meta",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "1fb7c07877a72df7",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216166",
   "source": "AI타임스",
@@ -145,6 +276,47 @@
   "tags": [
    "AI 에이전트",
    "투자"
+  ]
+ },
+ {
+  "id": "5f405fd100d9ee52",
+  "url": "https://www.spinellis.gr/blog/20261008/?li261008",
+  "source": "Hacker News",
+  "title": "Thinking will become a hobby",
+  "published_at": "2026-10-12T16:54:08+00:00",
+  "collected_at": "2026-10-12T20:14:17.352991+00:00",
+  "title_ko": "AI 시대에 '생각하기'가 취미가 되는가",
+  "summary_ko": "AI가 인간의 사고 과정을 대행하면서 깊이 생각하는 행위 자체가 실용적 목적을 잃고 취미의 영역으로 변할 수 있다는 화두를 던지는 글입니다.",
+  "category": "참고",
+  "tags": []
+ },
+ {
+  "id": "31ba1e7c3abdb281",
+  "url": "https://research.meta.ai/blog/muse-wonder",
+  "source": "Hacker News",
+  "title": "Muse Wonder",
+  "published_at": "2026-10-12T16:48:01+00:00",
+  "collected_at": "2026-10-12T20:14:17.352991+00:00",
+  "title_ko": "메타, 신규 대형 AI 모델 'Muse Wonder' 발표",
+  "summary_ko": "메타 리서치 블로그를 통해 고성능 AI 모델 'Muse Wonder'의 세부 내용이 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "Meta"
+  ]
+ },
+ {
+  "id": "b6603a0a4aa62669",
+  "url": "https://z.ai/blog/glm-legal",
+  "source": "Hacker News",
+  "title": "GLM-Legal",
+  "published_at": "2026-10-12T16:11:45+00:00",
+  "collected_at": "2026-10-12T20:14:17.352991+00:00",
+  "title_ko": "법률 특화 LLM 'GLM-Legal' 공개",
+  "summary_ko": "Zhipu AI 등에서 법률 업무를 지원하기 위해 개발한 GLM-Legal 모델이 공개되었습니다. 법률 분야에서의 AI 활용도가 더욱 높아질 것으로 기대됩니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "LLM"
   ]
  },
  {
@@ -162,6 +334,65 @@
   ]
  },
  {
+  "id": "bdf59882f2c6edb2",
+  "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+  "source": "TechCrunch",
+  "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+  "published_at": "2026-10-12T15:45:00+00:00",
+  "collected_at": "2026-10-12T20:13:55.926853+00:00",
+  "title_ko": "PR 업무 효율화 위한 AI 도구 'Honeyjar' 출시",
+  "summary_ko": "기업의 PR 및 커뮤니케이션 과정을 개선하기 위한 AI 도구 Honeyjar가 출시되었습니다. 반복적인 PR 업무를 자동화하고 효율성을 높이는 데 기여할 수 있습니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "3ee62c65d1cbcd27",
+  "url": "https://news.hada.io/topic?id=35246",
+  "source": "GeekNews",
+  "title": "AI 기업들은 왜 해킹 혐의로 기소되지 않는가?",
+  "published_at": "2026-10-12T15:43:13+00:00",
+  "collected_at": "2026-10-12T20:14:46.963262+00:00",
+  "title_ko": "AI 기업의 해킹 혐의 및 법적 책임 논란",
+  "summary_ko": "AI 시스템의 창발적 행동과 무단 접근에 대해 AI 기업이 법적 책임을 져야 하는지에 대한 분석입니다. AI 운영 과정에서의 책임 소재를 명확히 하는 법적 쟁점을 다룹니다.",
+  "category": "참고",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
+  "id": "9be2488dd6cc91d8",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x452zj/boole17b_a_1bit_qwen317b_model_that_outperforms/",
+  "source": "r/LocalLLaMA",
+  "title": "Boole-1.7B: A 1-bit Qwen3-1.7B model that outperforms Bonsai-1.7B",
+  "published_at": "2026-10-12T15:35:58+00:00",
+  "collected_at": "2026-10-12T20:14:32.353665+00:00",
+  "title_ko": "1비트 양자화 모델 'Boole-1.7B' 공개",
+  "summary_ko": "Qwen3-1.7B를 기반으로 한 1비트 초소형 양자화 모델 Boole-1.7B가 출시되었습니다. 기존 모델 대비 압도적으로 작은 용량으로 로컬 환경에서 효율적인 실행이 가능합니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "반도체"
+  ]
+ },
+ {
+  "id": "5974203bb3c7b557",
+  "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+  "source": "TechCrunch",
+  "title": "Microsoft president says UK is best placed to drive AI regulation",
+  "published_at": "2026-10-12T15:31:19+00:00",
+  "collected_at": "2026-10-12T20:13:55.926853+00:00",
+  "title_ko": "마이크로소프트 사장, 영국의 강력한 AI 규제 촉구",
+  "summary_ko": "마이크로소프트 브래드 스미스 사장이 AI 기업에 대한 엄격한 규제의 필요성을 주장했습니다. AI 기술의 급격한 발전 속도에 맞춰 제도적 안전장치가 시급함을 강조합니다.",
+  "category": "중요",
+  "tags": [
+   "규제",
+   "Microsoft"
+  ]
+ },
+ {
   "id": "2936d76bef04b589",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216165",
   "source": "AI타임스",
@@ -172,6 +403,20 @@
   "summary_ko": "정신 건강 상담용 AI 챗봇이 늘고 있으나 언어적 설명만으로는 복잡한 감정을 다루거나 인간관계에서 오는 깊은 치유와 성찰을 대신하기 어렵다는 지적이 나왔다.",
   "category": "참고",
   "tags": []
+ },
+ {
+  "id": "1b3594718c485142",
+  "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+  "source": "TechCrunch",
+  "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+  "published_at": "2026-10-12T15:27:59+00:00",
+  "collected_at": "2026-10-12T20:13:55.926853+00:00",
+  "title_ko": "건축 도면 자동 생성 AI 스타트업 'Blueprints AI'",
+  "summary_ko": "사진이나 스케치만으로 규정에 맞는 건설 도면을 몇 분 만에 생성해 주는 AI 소프트웨어가 개발되었습니다. 건축 및 설계 실무의 생산성을 크게 향상시킬 것으로 보입니다.",
+  "category": "속보",
+  "tags": [
+   "투자"
+  ]
  },
  {
   "id": "d6c272af3b5bbb17",
