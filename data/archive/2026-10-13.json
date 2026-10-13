@@ -1,5 +1,160 @@
 [
  {
+  "id": "7263cbba7a7c02ac",
+  "url": "https://news.hada.io/topic?id=35303",
+  "source": "GeekNews",
+  "title": "Show GN: Flats – AI 에이전트가 만든 웹사이트를 내 컴퓨터에서 호스팅",
+  "published_at": "2026-10-13T14:59:52+00:00",
+  "collected_at": "2026-10-13T18:07:53.217856+00:00",
+  "title_ko": "AI 에이전트 산출물을 로컬에서 호스팅하는 'Flats'",
+  "summary_ko": "클로드 코드 등 AI 에이전트가 생성한 웹사이트를 로컬 컴퓨터에서 쉽게 실행하고 공유할 수 있는 오픈소스 도구입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "df050717a1adb49f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4yoqm/4x_6000_pro_for_the_company/",
+  "source": "r/LocalLLaMA",
+  "title": "4x 6000 Pro for the company",
+  "published_at": "2026-10-13T14:49:31+00:00",
+  "collected_at": "2026-10-13T18:07:38.346117+00:00",
+  "title_ko": "사내 40명 지원을 위한 온프레미스 AI 서버 구축 사례",
+  "summary_ko": "블랙웰 GPU와 로컬 LLM을 활용해 기업 내 개발자와 임직원을 위한 AI 서비스 인프라를 구축한 사례입니다.",
+  "category": "팁",
+  "tags": [
+   "반도체",
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "a4a1a4a14cf6f9cf",
+  "url": "https://news.hada.io/topic?id=35302",
+  "source": "GeekNews",
+  "title": "MacBook Air에서 1시간 분량 오디오를 약 13초 만에 전사",
+  "published_at": "2026-10-13T14:37:50+00:00",
+  "collected_at": "2026-10-13T18:07:53.217856+00:00",
+  "title_ko": "맥북 에어에서 1시간 오디오를 13초 만에 전사하는 방법",
+  "summary_ko": "구글의 멀티모달 임베딩 모델을 음성 인식에 활용해 기기 내에서 초고속으로 오디오를 텍스트로 변환하는 기술입니다.",
+  "category": "팁",
+  "tags": [
+   "Google",
+   "반도체"
+  ]
+ },
+ {
+  "id": "84919bf0206fad4d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4y1eq/netflixs_documentary_of_huggingface_discussion/",
+  "source": "r/LocalLLaMA",
+  "title": "Netflix’s documentary of Huggingface discussion",
+  "published_at": "2026-10-13T14:24:21+00:00",
+  "collected_at": "2026-10-13T18:07:38.346117+00:00",
+  "title_ko": "넷플릭스 허깅페이스 다큐멘터리의 AI 의인화 논란",
+  "summary_ko": "넷플릭스 다큐멘터리 티저에서 AI 에이전트를 향해 '희생'이나 '이타주의' 같은 의인화된 표현을 사용하는 것을 두고 커뮤니티에서 기술적 관점과의 괴리에 대한 토론이 이어지고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "LLM",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "39d6b28f08195ee2",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4xmxb/basalt_fast_blackwell_inference_engine_for_qwen/",
+  "source": "r/LocalLLaMA",
+  "title": "Basalt: Fast Blackwell inference engine for Qwen 3.8 Flash Next (and how we got vision for free)",
+  "published_at": "2026-10-13T14:08:21+00:00",
+  "collected_at": "2026-10-13T18:07:38.346117+00:00",
+  "title_ko": "블랙웰 아키텍처 지원 고속 추론 엔진 'Basalt'",
+  "summary_ko": "블랙웰 GPU에 최적화된 Qwen 3.8 Flash Next용 추론 엔진인 Basalt가 동적 비전 인코더 로딩 방식을 도입하여 VRAM 효율을 크게 높였습니다.",
+  "category": "속보",
+  "tags": [
+   "NVIDIA",
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "d5ae7179978ef50b",
+  "url": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
+  "source": "The Verge",
+  "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
+  "published_at": "2026-10-13T13:55:45+00:00",
+  "collected_at": "2026-10-13T18:07:17.590998+00:00",
+  "title_ko": "엔비디아, 호그와트 레거시 도입 앞두고 DLSS 5 수정",
+  "summary_ko": "생성형 AI 기술로 논란이 되었던 엔비디아의 DLSS 5가 게임 내 적용을 앞두고 캐릭터 얼굴 변형 효과를 대폭 완화했습니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA"
+  ]
+ },
+ {
+  "id": "48866c22a637b397",
+  "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+  "source": "TechCrunch",
+  "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+  "published_at": "2026-10-13T13:50:19+00:00",
+  "collected_at": "2026-10-13T18:07:17.372844+00:00",
+  "title_ko": "스페이스X, X 프리미엄·Grok·Cursor 통합 구독 상품 출시",
+  "summary_ko": "X의 유료 기능과 Grok, Cursor 등 AI 도구를 하나로 묶은 새로운 복합 구독 요금제가 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "Grok",
+   "코딩",
+   "투자"
+  ]
+ },
+ {
+  "id": "45d8fcefcc97c81c",
+  "url": "https://news.hada.io/topic?id=35298",
+  "source": "GeekNews",
+  "title": "Janas - SSD를 활용해 RAM보다 큰 MoE 언어 모델을 실행하는 추론 엔진",
+  "published_at": "2026-10-13T13:41:02+00:00",
+  "collected_at": "2026-10-13T18:07:53.217856+00:00",
+  "title_ko": "RAM보다 큰 MoE 모델을 실행하는 SSD 기반 추론 엔진 'Janas'",
+  "summary_ko": "Janas는 NVMe SSD를 활용해 RAM 용량을 초과하는 MoE 언어 모델을 고가의 GPU 없이도 로컬에서 실행할 수 있는 추론 엔진입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "858ce7e14d9130e5",
+  "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
+  "source": "Simon Willison",
+  "title": "Quoting Geoffrey Huntley",
+  "published_at": "2026-10-13T13:32:00+00:00",
+  "collected_at": "2026-10-13T18:07:37.437697+00:00",
+  "title_ko": "AI 코딩 에이전트의 관측 가능성 강제화 기법",
+  "summary_ko": "사전 커밋 훅(pre-commit hook)을 이용해 AI 에이전트가 지정된 진단 라이브러리를 우회하는 코드를 작성할 경우 커밋을 차단하고 올바른 사용을 유도하는 실무 팁입니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "코딩",
+   "LLM"
+  ]
+ },
+ {
+  "id": "438f8f82161f19ed",
+  "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+  "source": "Hacker News",
+  "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+  "published_at": "2026-10-13T12:26:36+00:00",
+  "collected_at": "2026-10-13T18:07:32.153430+00:00",
+  "title_ko": "애플, 유휴 애플 실리콘 기반 분산형 가상 GPU 클라우드 연구 공개",
+  "summary_ko": "애플 머신러닝 연구진이 유휴 상태의 Apple Silicon 기기들을 활용해 동적이고 분산된 가상 GPU 클라우드를 구축하는 연구를 발표했습니다.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "6dc0fa547cbed023",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216182",
   "source": "AI타임스",
@@ -12,6 +167,21 @@
   "tags": [
    "NVIDIA",
    "반도체",
+   "투자"
+  ]
+ },
+ {
+  "id": "247e23899cea368f",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+  "source": "The Verge",
+  "title": "Character.AI files for bankruptcy",
+  "published_at": "2026-10-13T10:32:23+00:00",
+  "collected_at": "2026-10-13T18:07:17.590998+00:00",
+  "title_ko": "생성형 AI 초기 스타트업 캐릭터닷에이아이(Character.AI) 파산 신청",
+  "summary_ko": "챗봇 플랫폼으로 생성형 AI 붐을 이끌었던 캐릭터닷에이아이(Character.AI)가 안전성 논란과 소송 속에 파산을 신청하고 자산 일부를 디즈니에 매각하기로 했습니다.",
+  "category": "중요",
+  "tags": [
+   "규제",
    "투자"
   ]
  },
