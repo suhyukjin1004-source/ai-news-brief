@@ -1,5 +1,20 @@
 [
  {
+  "id": "71906285d941a8cc",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=216219",
+  "source": "AI타임스",
+  "title": "\"나랏돈으로 만든 AI 데이터, 공개 의무화된다\"...AI 기본법 개정안 통과",
+  "published_at": "2026-10-14T14:32:26+00:00",
+  "collected_at": "2026-10-14T10:03:42.848172+00:00",
+  "title_ko": "정부 예산 투입 AI 학습용 데이터 공개 의무화",
+  "summary_ko": "정부 예산으로 구축한 AI 학습용 데이터의 'AI허브' 공개를 의무화하는 AI 기본법 개정안이 국무회의를 통과했다. 국내 AI 연구와 데이터 활용이 한층 촉진될 전망이다.",
+  "category": "중요",
+  "tags": [
+   "규제",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "beac57ecc4cdd8e6",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216237",
   "source": "AI타임스",
@@ -58,6 +73,95 @@
   ]
  },
  {
+  "id": "8621db818a54494a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5ki4t/so_this_is_how_they_do_it_rtx_5090_once_a/",
+  "source": "r/LocalLLaMA",
+  "title": "So this is how they do it --> RTX 5090, once a consumer gaming card, is now on smugglers’ menu alongside cigarettes",
+  "published_at": "2026-10-14T07:01:05+00:00",
+  "collected_at": "2026-10-14T10:03:28.478563+00:00",
+  "title_ko": "RTX 5090 밀반입 품목으로 전락",
+  "summary_ko": "고성능 AI 연산 및 게이밍용 그래픽카드인 RTX 5090이 밀수업자들의 주요 표적이 되고 있다. 고성능 반도체 수요 급증을 보여주는 사례다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
+  "id": "c29cebbfbf612022",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5jnbf/nvidias_runai_is_now_apparently_under_apache20/",
+  "source": "r/LocalLLaMA",
+  "title": "NVIDIA's Run:AI is now apparently under Apache-2.0 license.",
+  "published_at": "2026-10-14T06:07:37+00:00",
+  "collected_at": "2026-10-14T10:03:28.478563+00:00",
+  "title_ko": "엔비디아 Run:AI, Apache-2.0 라이선스로 전환",
+  "summary_ko": "엔비디아의 AI 워크로드 관리 솔루션인 Run:AI가 Apache-2.0 오픈소스 라이선스로 전환되었다. 오픈소스 AI 인프라 확장에 기여할 것으로 보인다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "de2574ffe05a1c8f",
+  "url": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866",
+  "source": "Hacker News",
+  "title": "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse",
+  "published_at": "2026-10-14T05:53:36+00:00",
+  "collected_at": "2026-10-14T10:03:27.653352+00:00",
+  "title_ko": "앤스로픽의 AI 종말론 경고 비판",
+  "summary_ko": "앤스로픽이 아직 존재하지 않는 가상의 위협을 과장하여 AI 종말론적 공포를 조장한다는 비판이 제기되었다. AI 안전성 규제와 내러티브를 둘러싼 논쟁의 일환이다.",
+  "category": "참고",
+  "tags": [
+   "Anthropic",
+   "규제"
+  ]
+ },
+ {
+  "id": "7bb5688cda75bfec",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5j48s/train_lora_directly_on_quantized_ggufs_no_pytorch/",
+  "source": "r/LocalLLaMA",
+  "title": "Train LoRA directly on Quantized GGUFs, no PyTorch, no Parent(FP16) needed, just your GGUF and the data",
+  "published_at": "2026-10-14T05:34:47+00:00",
+  "collected_at": "2026-10-14T10:03:28.478563+00:00",
+  "title_ko": "양자화된 GGUF 모델 직접 LoRA 학습 방법",
+  "summary_ko": "파이토치나 원본 FP16 모델 없이 양자화된 GGUF 파일만으로 LoRA 파인튜닝을 수행하는 실무 팁이 공유되었다. 로컬 LLM 학습 효율을 크게 높여준다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "a3f85d9ce565be10",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5j0p7/updated_list_of_official_mcp_servers_300/",
+  "source": "r/LocalLLaMA",
+  "title": "Updated list of official MCP servers (300+), well-known and widely used projects only",
+  "published_at": "2026-10-14T05:28:58+00:00",
+  "collected_at": "2026-10-14T10:03:28.478563+00:00",
+  "title_ko": "공식 MCP 서버 목록 업데이트",
+  "summary_ko": "주요 기업과 오픈소스 커뮤니티에서 관리하는 300개 이상의 공식 MCP(Model Context Protocol) 서버 목록이 업데이트되었다. AI 에이전트 연동 개발에 유용하다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "b12d75211f55773a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5im9u/koboldcpp_v1123_released/",
+  "source": "r/LocalLLaMA",
+  "title": "Koboldcpp v1.123 released",
+  "published_at": "2026-10-14T05:04:37+00:00",
+  "collected_at": "2026-10-14T10:03:28.478563+00:00",
+  "title_ko": "Koboldcpp v1.123 버전 출시",
+  "summary_ko": "로컬 LLM 구동 도구인 Koboldcpp의 새로운 버전 v1.123이 출시되었다. 로컬 인프라 성능 개선 및 신기능이 포함되었다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "d4a599d14e18f8eb",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216220",
   "source": "AI타임스",
@@ -71,6 +175,21 @@
    "Google",
    "Gemini",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "b00bd35ef821f48b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5i7o9/moving_a_running_models_layers_between_gpus/",
+  "source": "r/LocalLLaMA",
+  "title": "Moving a running model's layers between GPUs mid-reply (8 ms, no re-prefill)",
+  "published_at": "2026-10-14T04:40:53+00:00",
+  "collected_at": "2026-10-14T10:03:28.478563+00:00",
+  "title_ko": "실행 중 GPU 간 모델 레이어 실시간 이동 기술 개발",
+  "summary_ko": "새로운 추론 엔진 jitllm을 통해 재처리 없이 답변 생성 중에 GPU 간 모델 레이어와 KV 캐시를 실시간으로 이동하는 시연이 공개되었습니다. 이 기술은 다양한 하드웨어 자원을 효율적으로 활용하는 데 기여합니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "반도체"
   ]
  },
  {
@@ -116,6 +235,20 @@
   "tags": [
    "Google",
    "로보틱스"
+  ]
+ },
+ {
+  "id": "8499e5245393adba",
+  "url": "https://blumify.io/people",
+  "source": "Hacker News",
+  "title": "Show HN: I built a tool to track what AI leaders say and how their views change",
+  "published_at": "2026-10-14T01:09:13+00:00",
+  "collected_at": "2026-10-14T10:03:27.653352+00:00",
+  "title_ko": "AI 리더들의 발언 변화 추적 도구",
+  "summary_ko": "AI 업계 리더들의 발언과 그들의 시각 변화를 추적하는 분석 도구가 공개되었습니다. 업계 트렌드와 주요 인물의 관점 변화를 파악하는 데 유용합니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
   ]
  },
  {
@@ -175,6 +308,22 @@
   ]
  },
  {
+  "id": "2f3282e483141f68",
+  "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+  "source": "OpenAI",
+  "title": "The EU’s next chapter in AI is agentic",
+  "published_at": "2026-10-14T00:00:00+00:00",
+  "collected_at": "2026-10-14T10:03:17.432769+00:00",
+  "title_ko": "EU 기업 내 에이전틱 AI 도입 증가 분석",
+  "summary_ko": "OpenAI의 새로운 분석에 따르면 EU 내 기업과 중소기업에서 에이전틱 AI 채택이 빠르게 증가하고 있습니다. 향후 더 깊은 활용이 가치 창출의 핵심이 될 것으로 전망됩니다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트",
+   "OpenAI",
+   "규제"
+  ]
+ },
+ {
   "id": "93b82fdbe3ae8b3a",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5cdht/real_downsides_of_strata/",
   "source": "r/LocalLLaMA",
@@ -201,6 +350,21 @@
   "category": "속보",
   "tags": [
    "OpenAI"
+  ]
+ },
+ {
+  "id": "035238119c6cb8f6",
+  "url": "https://pulseos.finance",
+  "source": "Hacker News",
+  "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+  "published_at": "2026-10-13T23:13:23+00:00",
+  "collected_at": "2026-10-14T10:03:27.653352+00:00",
+  "title_ko": "온디바이스 AI 기반 맥 가계부 앱 출시",
+  "summary_ko": "외부 서버 통신 없이 기기 내 로컬 AI 모델을 구동하여 지출 내역을 분석해 주는 맥용 가계부 앱이 공개되었습니다. 민감한 개인 금융 데이터를 안전하게 관리할 수 있습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
   ]
  },
  {
@@ -443,6 +607,21 @@
   "category": "속보",
   "tags": [
    "OpenAI"
+  ]
+ },
+ {
+  "id": "0a248ec435157a65",
+  "url": "https://parsimony.lasu.dev/",
+  "source": "Hacker News",
+  "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+  "published_at": "2026-10-13T19:50:31+00:00",
+  "collected_at": "2026-10-14T10:03:27.653352+00:00",
+  "title_ko": "AI 모델의 불필요한 코드 생성 측정 오픈소스 벤치마크",
+  "summary_ko": "AI 코딩 모델이 과도하게 추가하는 코드를 구문 단위로 측정하여 장기적인 코드베이스 관리에 미치는 영향을 평가하는 벤치마크가 공개되었습니다. 코드의 간결성을 객관적으로 평가할 수 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "코딩"
   ]
  },
  {
