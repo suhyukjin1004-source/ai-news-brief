@@ -1,5 +1,35 @@
 [
  {
+  "id": "32647592d03b63a6",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=216296",
+  "source": "AI타임스",
+  "title": "오픈AI, 인프라 책임자 또 교체…데이터센터 직접 확보 속도",
+  "published_at": "2026-10-15T14:24:24+00:00",
+  "collected_at": "2026-10-15T09:46:49.651315+00:00",
+  "title_ko": "오픈AI, 인프라 책임자 교체하며 직접 데이터센터 확보 속도",
+  "summary_ko": "오픈AI가 컴퓨팅 조직 수장을 교체하고 xAI 출신 임원에게 전권을 맡긴다. 외부 클라우드 의존도를 낮추고 자체 데이터센터를 직접 확보하는 전략에 속도를 내고 있다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "반도체"
+  ]
+ },
+ {
+  "id": "f1b357172df960cd",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=216294",
+  "source": "AI타임스",
+  "title": "앤트로픽, IPO 로드쇼 시작…매출 45% 늘었지만 투자자 기대 밑돌아",
+  "published_at": "2026-10-15T14:00:51+00:00",
+  "collected_at": "2026-10-15T09:46:49.651315+00:00",
+  "title_ko": "앤트로픽, IPO 로드쇼 돌입…성장 둔화 우려도 제기",
+  "summary_ko": "앤트로픽이 본격적인 IPO 절차를 시작하며 3분기 호실적을 공개했다. 매출이 대폭 증가했으나 성장 속도가 상반기보다 둔화되면서 일부 투자자들의 기대치에는 미치지 못했다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "투자"
+  ]
+ },
+ {
   "id": "ced63fbe9be6b515",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216283",
   "source": "AI타임스",
@@ -76,6 +106,37 @@
   ]
  },
  {
+  "id": "f63b05ea5c4c6320",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6h51s/137b_a68b_model_from_microsoft/",
+  "source": "r/LocalLLaMA",
+  "title": "137B A6.8B model from Microsoft?",
+  "published_at": "2026-10-15T09:30:24+00:00",
+  "collected_at": "2026-10-15T09:46:36.332741+00:00",
+  "title_ko": "마이크로소프트, 137B 코딩 전문 로컬 모델 개발",
+  "summary_ko": "마이크로소프트 AI가 137B 파라미터(활성화 6.8B)를 가진 MoE 구조의 코딩 최적화 로컬 모델을 개발했습니다.",
+  "category": "중요",
+  "tags": [
+   "Microsoft",
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "315ca99e535f4cb7",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6gxj3/ifmjais3/",
+  "source": "r/LocalLLaMA",
+  "title": "IFM/Jais-3",
+  "published_at": "2026-10-15T09:17:07+00:00",
+  "collected_at": "2026-10-15T09:46:36.332741+00:00",
+  "title_ko": "아랍어 및 에이전트 성능 강화된 Jais-3 공개",
+  "summary_ko": "아랍어와 에이전트 작업에 특화된 오픈 모델 Jais-3 시리즈가 허깅페이스에 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "2b6ec6925774140e",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216267",
   "source": "AI타임스",
@@ -87,6 +148,153 @@
   "category": "참고",
   "tags": [
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "6fa8ca16aea29d14",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6gf0y/will_there_be_a_blackfriday_this_year_nvidia_rtx/",
+  "source": "r/LocalLLaMA",
+  "title": "Will there be a black-friday this year? NVIDIA RTX 5060 Ti 16 GB Surges Up To 144% In Japan, Hitting $1,292 As RTX 5080 Climbs Past $2,400",
+  "published_at": "2026-10-15T08:45:18+00:00",
+  "collected_at": "2026-10-15T09:46:36.332741+00:00",
+  "title_ko": "일본서 RTX 5060 Ti 가격 급등",
+  "summary_ko": "일본 시장에서 엔비디아 RTX 5060 Ti 16GB 가격이 크게 오르며 부품 수급 우려가 커지고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
+  "id": "4467183067847142",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6fwcd/i_tested_qwen38_27b_kld_for_21_models_at_9/",
+  "source": "r/LocalLLaMA",
+  "title": "I tested Qwen3.8 27B KLD for 21 Models at 9 different KV quants that fit on 16GB VRAM (189 benchmarks).",
+  "published_at": "2026-10-15T08:11:09+00:00",
+  "collected_at": "2026-10-15T09:46:36.332741+00:00",
+  "title_ko": "Qwen3.8 27B 모델 양자화 벤치마크 분석",
+  "summary_ko": "16GB VRAM 환경에서 Qwen 모델의 최적 성능을 내기 위한 KV 양자화 및 KLD 벤치마크 테스트 결과입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "649c667f5154bb04",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6fuy2/jais_3_is_out/",
+  "source": "r/LocalLLaMA",
+  "title": "Jais 3 is out",
+  "published_at": "2026-10-15T08:08:39+00:00",
+  "collected_at": "2026-10-15T09:46:36.332741+00:00",
+  "title_ko": "아랍어 특화 에이전트 모델 Jais 3 출시",
+  "summary_ko": "다양한 크기로 제공되는 Jais 3 오픈 모델이 아랍어 및 에이전트 성능을 강화하여 출시되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "ad7b0db791e75e3e",
+  "url": "https://news.hada.io/topic?id=35398",
+  "source": "GeekNews",
+  "title": "LFM2.5-24B-A2B: 빠른 온디바이스 에이전트를 위해 설계한 모델",
+  "published_at": "2026-10-15T07:34:43+00:00",
+  "collected_at": "2026-10-15T09:46:50.973000+00:00",
+  "title_ko": "Liquid AI, 온디바이스 에이전트용 LFM2.5-24B-A2B 공개",
+  "summary_ko": "Liquid AI가 추론 능력을 갖추고 기기 내에서 빠르게 작동하는 온디바이스 에이전트 모델을 오픈웨이트로 공개했습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "ed08ba1d9ae3fe26",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6f9p2/new_tts_king_in_town_fishs_drama_3_35b3a/",
+  "source": "r/LocalLLaMA",
+  "title": "New TTS king in town: Fish's Drama 3 35B3A!",
+  "published_at": "2026-10-15T07:30:12+00:00",
+  "collected_at": "2026-10-15T09:46:36.332741+00:00",
+  "title_ko": "대형 MoE 구조의 고품질 음성 합성 모델 Fish Drama 3 공개",
+  "summary_ko": "고성능 텍스트 음성 변환(TTS) 기능을 제공하는 새로운 오픈 모델 Fish Drama 3가 출시되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "18b16d393d0fb583",
+  "url": "https://news.hada.io/topic?id=35397",
+  "source": "GeekNews",
+  "title": "Show GN: 맥 os용 의미론적 검색 인덱스, Weft",
+  "published_at": "2026-10-15T06:48:20+00:00",
+  "collected_at": "2026-10-15T09:46:50.973000+00:00",
+  "title_ko": "맥OS용 의미론적 검색 인덱스 오픈소스 Weft",
+  "summary_ko": "임베딩 모델을 활용해 맥OS에서 파일과 폴더를 의미 기반으로 검색할 수 있는 오픈소스 도구입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "760e1afdd222c61a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6dx5x/stepfun_step5preview_released_600b27b1m_context/",
+  "source": "r/LocalLLaMA",
+  "title": "Stepfun Step-5-Preview released! (600B/27B-1M Context)",
+  "published_at": "2026-10-15T06:04:04+00:00",
+  "collected_at": "2026-10-15T09:46:36.332741+00:00",
+  "title_ko": "스텝펀, 에이전트용 플래그십 모델 Step-5-Preview 공개",
+  "summary_ko": "소프트웨어 엔지니어링과 금융 분야에서 뛰어난 성능을 보이는 스텝펀의 신형 대형 모델이 공개되었습니다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "b4c333a1fc01f38b",
+  "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+  "source": "TechCrunch",
+  "title": "Figma announces new features to define how agents work on its platform",
+  "published_at": "2026-10-15T04:30:00+00:00",
+  "collected_at": "2026-10-15T09:46:09.737618+00:00",
+  "title_ko": "피그마, 플랫폼 내 AI 에이전트 기능 지원 발표",
+  "summary_ko": "피그마가 플랫폼에서 AI 에이전트가 작동하는 방식을 정의하기 위한 새로운 기능과 코드 레이어를 공개했습니다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "a3ccfa6c31e154e0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6c5px/chickencoop_shed_ai_pc/",
+  "source": "r/LocalLLaMA",
+  "title": "Chicken-coop shed AI PC",
+  "published_at": "2026-10-15T04:20:47+00:00",
+  "collected_at": "2026-10-15T09:46:36.332741+00:00",
+  "title_ko": "CMP 170HX 활용한 대규모 로컬 AI PC 구축 사례",
+  "summary_ko": "채굴용 하드웨어를 개조해 256GB VRAM을 확보하고 로컬 LLM을 구동하는 독창적인 홈랩 구축 사례입니다.",
+  "category": "팁",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "83c90d34ea217797",
+  "url": "https://news.hada.io/topic?id=35391",
+  "source": "GeekNews",
+  "title": "Show GN: hone - 에이전트 평가 사이클을 자동으로 돌리고, 처음 보는 케이스로 판정하는 CLI",
+  "published_at": "2026-10-15T03:35:39+00:00",
+  "collected_at": "2026-10-15T09:46:50.973000+00:00",
+  "title_ko": "에이전트 프롬프트 자동 평가 CLI 도구 hone",
+  "summary_ko": "에이전트 프롬프트 수정 시 테스트 케이스를 자동으로 생성하고 평가 사이클을 돌려주는 개발용 CLI 도구입니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
   ]
  },
  {
