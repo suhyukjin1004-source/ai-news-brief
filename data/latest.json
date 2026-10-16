@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T17:20:45.431672+00:00",
+ "updated_at": "2026-10-16T20:57:13.306770+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -79,6 +79,22 @@
    ]
   },
   {
+   "id": "344f03bd6a6194df",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7mig3/nemotron_35_bolt_evaluation_using_realworld_tasks/",
+   "source": "r/LocalLLaMA",
+   "title": "Nemotron 3.5 Bolt Evaluation using real-world tasks",
+   "published_at": "2026-10-16T17:31:30+00:00",
+   "collected_at": "2026-10-16T20:56:43.645737+00:00",
+   "title_ko": "Nemotron 3.5 Bolt 모델의 실제 업무 작업 평가",
+   "summary_ko": "데이터 엔지니어가 실제 ETL 리팩토링 업무를 통해 Nemotron 3.5 Bolt 모델의 성능을 기존 모델과 비교 평가했습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "코딩"
+   ]
+  },
+  {
    "id": "7b96b6fe0df9ca8c",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216341",
    "source": "AI타임스",
@@ -105,6 +121,36 @@
    "category": "참고",
    "tags": [
     "반도체"
+   ]
+  },
+  {
+   "id": "4c63ba4708495b06",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7m3gf/qwen_27b_sacrificing_context_in_order_run_better/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen 27B - sacrificing context in order run better quants, pros and cons.",
+   "published_at": "2026-10-16T17:15:33+00:00",
+   "collected_at": "2026-10-16T20:56:43.645737+00:00",
+   "title_ko": "Qwen 27B: 컨텍스트 길이를 줄이고 고품질 양자화 적용하기",
+   "summary_ko": "VRAM 제한 속에서 긴 컨텍스트 대신 고양자화(Higher Quant)를 선택해 더 안정적이고 우수한 결과를 얻은 사례를 공유합니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "2425f3153984e15e",
+   "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+   "source": "Hacker News",
+   "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+   "published_at": "2026-10-16T17:08:38+00:00",
+   "collected_at": "2026-10-16T20:56:33.744625+00:00",
+   "title_ko": "미국 노동 시간의 90%, 기존 AI 벤치마크가 다루지 못하는 영역에 속해",
+   "summary_ko": "실제 노동 시장의 업무와 현재 AI 벤치마크 간의 괴리를 분석한 연구 결과로, AI의 실무 적용 한계를 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "연구"
    ]
   },
   {
@@ -250,6 +296,21 @@
    "tags": []
   },
   {
+   "id": "f0a5f325be5a6595",
+   "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+   "source": "Hacker News",
+   "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+   "published_at": "2026-10-16T15:55:40+00:00",
+   "collected_at": "2026-10-16T20:56:42.673245+00:00",
+   "title_ko": "AI 리뷰어가 인간 수정 한계 초과하는 버그를 발견해 Postgres 19 출시 지연",
+   "summary_ko": "AI 코드 리뷰어가 인간이 감당할 수 없을 만큼 많은 버그를 찾아내어 데이터베이스 새 버전 출시가 연기되었습니다.",
+   "category": "중요",
+   "tags": [
+    "코딩",
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "ba27977d6c388d5c",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216313",
    "source": "AI타임스",
@@ -363,6 +424,22 @@
    "summary_ko": "할리우드 배우 마크 월버그가 영화 제작 과정에서 창작을 보조하는 올바른 방식으로 AI를 활용하는 것에 찬성한다는 입장을 밝혔습니다.",
    "category": "참고",
    "tags": []
+  },
+  {
+   "id": "3d3011b3b2f663f4",
+   "url": "https://starskirmish.com/bench/v0-2/",
+   "source": "Hacker News",
+   "title": "Show HN: Gemini 4 Argon plays StarCraft",
+   "published_at": "2026-10-16T14:18:44+00:00",
+   "collected_at": "2026-10-16T20:56:33.744625+00:00",
+   "title_ko": "코딩을 통해 스타크래프트를 플레이하는 LLM 벤치마크 공개",
+   "summary_ko": "주요 AI 모델들이 코드를 작성해 스타크래프트 브루드워를 플레이하는 'StarSkirmish' 벤치마크 결과가 업데이트되었습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "Anthropic",
+    "Google"
+   ]
   },
   {
    "id": "e874f1181e686a82",
@@ -791,6 +868,22 @@
    "category": "참고",
    "tags": [
     "오픈소스"
+   ]
+  },
+  {
+   "id": "9db4940a53f86840",
+   "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+   "source": "OpenAI",
+   "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+   "published_at": "2026-10-16T00:00:00+00:00",
+   "collected_at": "2026-10-16T20:56:32.494729+00:00",
+   "title_ko": "ChatGPT 플러그인 도입으로 에이전트 가입자 3배 증가한 Stack Overflow",
+   "summary_ko": "Codex로 개발된 에이전트용 Stack Overflow 서비스가 ChatGPT 플러그인 덕분에 폭발적인 성장을 기록했습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "ChatGPT",
+    "AI 에이전트"
    ]
   },
   {
@@ -2851,97 +2944,6 @@
    "tags": [
     "오픈소스",
     "AI 에이전트"
-   ]
-  },
-  {
-   "id": "5c79d2780055f4ca",
-   "url": "https://www.reddit.com/r/singularity/comments/1x632mk/gemini_thinking_like_gemini/",
-   "source": "r/singularity",
-   "title": "Gemini thinking like gemini..",
-   "published_at": "2026-10-14T21:04:45+00:00",
-   "collected_at": "2026-10-15T04:25:01.552653+00:00",
-   "title_ko": "제미나이의 독특한 사고 과정 조명",
-   "summary_ko": "구글 제미나이 모델의 추론 및 응답 방식을 분석하는 영상이 공유되었습니다. LLM의 내부 작동 방식에 대한 관심을 반영합니다.",
-   "category": "참고",
-   "tags": [
-    "Gemini"
-   ]
-  },
-  {
-   "id": "0f4200d7c3e2aba6",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x62zrz/sabinoema_a_capability_and_efficiency_focused/",
-   "source": "r/LocalLLaMA",
-   "title": "Sabi-Noema: A capability and efficiency focused fine-tune of Qwen 3.8 27B",
-   "published_at": "2026-10-14T21:01:32+00:00",
-   "collected_at": "2026-10-14T23:08:35.168598+00:00",
-   "title_ko": "효율성과 추론 능력 높인 Qwen 미세조정 모델 'Sabi-Noema' 공개",
-   "summary_ko": "Qwen 3.8 27B를 기반으로 코딩과 에이전트 작업 능력을 대폭 강화하면서도 토큰 낭비를 줄인 오픈소스 미세조정 모델 'Sabi-Noema'가 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "Qwen",
-    "오픈소스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "d36bcf8ed258ca8a",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x62uhc/someone_jailbroke_a_ps5_and_got_qwen_38_27b/",
-   "source": "r/LocalLLaMA",
-   "title": "Someone jailbroke a PS5 and got Qwen 3.8 27B running on its GPU at 20 tok/s.",
-   "published_at": "2026-10-14T20:55:40+00:00",
-   "collected_at": "2026-10-14T23:08:35.168598+00:00",
-   "title_ko": "탈옥된 PS5에서 Qwen 3.8 27B 모델 구동 성공",
-   "summary_ko": "한 개발자가 탈옥한 플레이스테이션 5(PS5)의 GPU를 활용해 Qwen 3.8 27B 모델을 초당 20토큰 속도로 실행하는 데 성공했습니다.",
-   "category": "참고",
-   "tags": [
-    "Qwen",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "7db63d362d928ed7",
-   "url": "https://anoma.ly/notes/opencode-2-0/",
-   "source": "Hacker News",
-   "title": "OpenCode 2.0",
-   "published_at": "2026-10-14T20:48:24+00:00",
-   "collected_at": "2026-10-14T23:08:28.787415+00:00",
-   "title_ko": "OpenCode 2.0 공개",
-   "summary_ko": "소프트웨어 개발 및 코딩 작업을 위한 오픈소스 AI 도구인 OpenCode 2.0이 새롭게 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "a93fc15825f86f53",
-   "url": "https://www.reddit.com/r/singularity/comments/1x62jzz/scientists_recently_overturned_a_59yearold_belief/",
-   "source": "r/singularity",
-   "title": "Scientists recently overturned a 59-year-old belief about the magnetic fields used to contain plasma in fusion reactors. Google gave their breakthrough to Gemini 4 agents. Within hours, the AI found new solutions that went beyond what the original researchers had discovered. The result: two new ways",
-   "published_at": "2026-10-14T20:43:46+00:00",
-   "collected_at": "2026-10-15T04:25:01.552653+00:00",
-   "title_ko": "제미나이 에이전트, 핵융합 플라즈마 연구 난제 해결",
-   "summary_ko": "구글 제미나이 에이전트가 59년 동안 풀리지 않았던 핵융합 플라즈마 자기장 제어 연구에서 새로운 해결책을 찾아냈습니다. 과학 연구 분야에서 AI의 실질적 활용 가능성을 보여줍니다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "Gemini",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "d91ead6950e7810d",
-   "url": "https://sunshowers.io/posts/anthropic-mononoke/",
-   "source": "Hacker News",
-   "title": "Anthropic's Scion is heavily inspired by Mononoke",
-   "published_at": "2026-10-14T20:30:54+00:00",
-   "collected_at": "2026-10-14T23:08:28.787415+00:00",
-   "title_ko": "Anthropic의 Scion 프로젝트, Mononoke에 영감 받아",
-   "summary_ko": "Anthropic의 기술 프로젝트인 Scion이 Mononoke 아키텍처에 크게 영받아 개발되었다는 분석과 논의가 공유되었습니다.",
-   "category": "참고",
-   "tags": [
-    "Anthropic",
-    "Claude"
    ]
   }
  ]

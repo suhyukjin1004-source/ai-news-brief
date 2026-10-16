@@ -75,6 +75,22 @@
   ]
  },
  {
+  "id": "344f03bd6a6194df",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7mig3/nemotron_35_bolt_evaluation_using_realworld_tasks/",
+  "source": "r/LocalLLaMA",
+  "title": "Nemotron 3.5 Bolt Evaluation using real-world tasks",
+  "published_at": "2026-10-16T17:31:30+00:00",
+  "collected_at": "2026-10-16T20:56:43.645737+00:00",
+  "title_ko": "Nemotron 3.5 Bolt 모델의 실제 업무 작업 평가",
+  "summary_ko": "데이터 엔지니어가 실제 ETL 리팩토링 업무를 통해 Nemotron 3.5 Bolt 모델의 성능을 기존 모델과 비교 평가했습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "코딩"
+  ]
+ },
+ {
   "id": "7b96b6fe0df9ca8c",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216341",
   "source": "AI타임스",
@@ -101,6 +117,36 @@
   "category": "참고",
   "tags": [
    "반도체"
+  ]
+ },
+ {
+  "id": "4c63ba4708495b06",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7m3gf/qwen_27b_sacrificing_context_in_order_run_better/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen 27B - sacrificing context in order run better quants, pros and cons.",
+  "published_at": "2026-10-16T17:15:33+00:00",
+  "collected_at": "2026-10-16T20:56:43.645737+00:00",
+  "title_ko": "Qwen 27B: 컨텍스트 길이를 줄이고 고품질 양자화 적용하기",
+  "summary_ko": "VRAM 제한 속에서 긴 컨텍스트 대신 고양자화(Higher Quant)를 선택해 더 안정적이고 우수한 결과를 얻은 사례를 공유합니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "2425f3153984e15e",
+  "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+  "source": "Hacker News",
+  "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+  "published_at": "2026-10-16T17:08:38+00:00",
+  "collected_at": "2026-10-16T20:56:33.744625+00:00",
+  "title_ko": "미국 노동 시간의 90%, 기존 AI 벤치마크가 다루지 못하는 영역에 속해",
+  "summary_ko": "실제 노동 시장의 업무와 현재 AI 벤치마크 간의 괴리를 분석한 연구 결과로, AI의 실무 적용 한계를 보여줍니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "연구"
   ]
  },
  {
@@ -244,6 +290,21 @@
   "summary_ko": "엘로리안의 신규 AI 모델 '글림프스'가 차트 추론 및 비디오 캡셔닝 등 시각적 추론 작업에서 뛰어난 성능을 보였습니다.",
   "category": "속보",
   "tags": []
+ },
+ {
+  "id": "f0a5f325be5a6595",
+  "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+  "source": "Hacker News",
+  "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+  "published_at": "2026-10-16T15:55:40+00:00",
+  "collected_at": "2026-10-16T20:56:42.673245+00:00",
+  "title_ko": "AI 리뷰어가 인간 수정 한계 초과하는 버그를 발견해 Postgres 19 출시 지연",
+  "summary_ko": "AI 코드 리뷰어가 인간이 감당할 수 없을 만큼 많은 버그를 찾아내어 데이터베이스 새 버전 출시가 연기되었습니다.",
+  "category": "중요",
+  "tags": [
+   "코딩",
+   "AI 에이전트"
+  ]
  },
  {
   "id": "ba27977d6c388d5c",
