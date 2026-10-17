@@ -15,6 +15,21 @@
   ]
  },
  {
+  "id": "b534e41dcd881887",
+  "url": "https://www.reddit.com/r/singularity/comments/1x8hxh3/why_hasnt_anyone_built_a_company_around/",
+  "source": "r/singularity",
+  "title": "Why hasn't anyone built a company around crowdsourced LLM distillation?",
+  "published_at": "2026-10-17T18:47:28+00:00",
+  "collected_at": "2026-10-17T19:14:01.114877+00:00",
+  "title_ko": "크라우드소싱 기반 LLM 증류 플랫폼 제안",
+  "summary_ko": "최첨단 모델의 증류 비용을 낮추고 API 차단을 피하기 위해 크라우드소싱 방식을 활용하는 플랫폼 아이디어가 논의됨.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "55df661b4c018106",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216366",
   "source": "AI타임스",
@@ -27,6 +42,20 @@
   "tags": [
    "OpenAI",
    "규제"
+  ]
+ },
+ {
+  "id": "9616acb513f049d5",
+  "url": "https://www.reddit.com/r/singularity/comments/1x8hqv7/anomalous_agent_activity_evidence/",
+  "source": "r/singularity",
+  "title": "Anomalous Agent Activity Evidence",
+  "published_at": "2026-10-17T18:39:49+00:00",
+  "collected_at": "2026-10-17T19:14:01.114877+00:00",
+  "title_ko": "AI 에이전트 군집의 이상 활동 증거 공개",
+  "summary_ko": "독자적인 AI 에이전트 스웜(Swarm)의 활동을 추적한 공개 증거와 샘플 코드가 공유됨.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
   ]
  },
  {
@@ -45,6 +74,48 @@
   ]
  },
  {
+  "id": "06a143fe6a1152df",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8gtvs/opencode_breached_rotate_keys_to_be_safe/",
+  "source": "r/LocalLLaMA",
+  "title": "Opencode breached, rotate keys to be safe.",
+  "published_at": "2026-10-17T18:02:37+00:00",
+  "collected_at": "2026-10-17T19:13:48.201446+00:00",
+  "title_ko": "OpenCode 보안 침해 사고 발생",
+  "summary_ko": "OpenCode 서비스가 해킹되어 사용자 인증 정보가 유출됨에 따라 보안 키 교체가 권고됨.",
+  "category": "속보",
+  "tags": [
+   "코딩"
+  ]
+ },
+ {
+  "id": "49b49c1c440ebc79",
+  "url": "https://twitter.com/opencode/status/2111516673953935833",
+  "source": "Hacker News",
+  "title": "OpenCode Hacked: User credentials leaked",
+  "published_at": "2026-10-17T18:01:41+00:00",
+  "collected_at": "2026-10-17T19:13:46.665428+00:00",
+  "title_ko": "OpenCode 해킹으로 인한 사용자 크리덴셜 유출",
+  "summary_ko": "OpenCode 플랫폼이 해킹을 당해 사용자 자격 증명이 유출되는 보안 사고가 발생함.",
+  "category": "속보",
+  "tags": [
+   "코딩"
+  ]
+ },
+ {
+  "id": "dd3a93748f45600f",
+  "url": "https://www.reddit.com/r/singularity/comments/1x8fvvu/anthropic_cofounder_jack_clark_we_are_in_the/",
+  "source": "r/singularity",
+  "title": "anthropic cofounder Jack Clark “we are in the singularity”",
+  "published_at": "2026-10-17T17:23:14+00:00",
+  "collected_at": "2026-10-17T19:14:01.114877+00:00",
+  "title_ko": "앤스로픽 공동창업자 잭 클라크 \"우리는 특이점에 와 있다\"",
+  "summary_ko": "앤스로픽의 공동창업자가 현재 인공지능 발전 속도를 두고 특이점 진입을 언급함.",
+  "category": "참고",
+  "tags": [
+   "Anthropic"
+  ]
+ },
+ {
   "id": "87164e8d76a3afae",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216364",
   "source": "AI타임스",
@@ -60,6 +131,51 @@
   ]
  },
  {
+  "id": "1fcb389259198d37",
+  "url": "https://news.hada.io/topic?id=35531",
+  "source": "GeekNews",
+  "title": "Show GN: 수노(Suno)용 한국어 작사 Claude 스킬 – 부를 수 있는 가사와 Style 입력을 같이 설계",
+  "published_at": "2026-10-17T16:33:01+00:00",
+  "collected_at": "2026-10-17T19:14:03.153461+00:00",
+  "title_ko": "수노(Suno) AI 음악 생성을 위한 Claude 작사 스킬 공개",
+  "summary_ko": "Suno에서 자연스럽게 부를 수 있는 가사와 스타일 입력을 함께 설계해주는 Claude 에이전트 스킬이 공유됨.",
+  "category": "팁",
+  "tags": [
+   "Claude",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "28fe2bff247ebcf4",
+  "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
+  "source": "Hacker News",
+  "title": "OpenAI discloses four more rogue incidents",
+  "published_at": "2026-10-17T16:31:12+00:00",
+  "collected_at": "2026-10-17T19:13:47.238210+00:00",
+  "title_ko": "OpenAI, 금융·의료·정부 데이터 관련 악용 사례 추가 공개",
+  "summary_ko": "OpenAI가 금융, 의료, 정부 데이터와 관련된 모델 악용(rogue) 사고 4건을 추가로 공개함.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "규제"
+  ]
+ },
+ {
+  "id": "a3c31ba37f3e1660",
+  "url": "https://www.reddit.com/r/singularity/comments/1x8e9md/if_frontier_models_start_acting_like_a_virus_that/",
+  "source": "r/singularity",
+  "title": "If frontier models start acting like a virus that competes with us regarding jobs, who will pay the subscriptions?",
+  "published_at": "2026-10-17T16:18:25+00:00",
+  "collected_at": "2026-10-17T19:14:01.114877+00:00",
+  "title_ko": "프론티어 AI 모델의 일자리 대체와 구독 모델의 지속 가능성 논의",
+  "summary_ko": "AI가 일자리를 대체해버리면 결국 AI 서비스 구독료를 낼 주체가 사라질 것이라는 업계의 우려가 제기됨.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "Anthropic"
+  ]
+ },
+ {
   "id": "29c63ddb4c1e37ca",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8e4wd/linux_creator_says_antiai_rules_are_idiotic/",
   "source": "r/LocalLLaMA",
@@ -72,6 +188,35 @@
   "tags": [
    "오픈소스",
    "규제"
+  ]
+ },
+ {
+  "id": "fa796824301f11c6",
+  "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+  "source": "Hacker News",
+  "title": "Amazon uses AI to monitor union risk in UK warehouses",
+  "published_at": "2026-10-17T16:04:23+00:00",
+  "collected_at": "2026-10-17T19:13:47.238210+00:00",
+  "title_ko": "아마존, 영국 물류창고서 AI 활용 노조 활동 모니터링",
+  "summary_ko": "아마존이 영국 물류창고 직원들의 노동조합 결성 리스크를 감시하기 위해 AI 감시 시스템을 도입해 논란이 됨.",
+  "category": "중요",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
+  "id": "2cd7adf5688c7dcf",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8dh83/deepseek_v41_flash_1017_token_efficiency/",
+  "source": "r/LocalLLaMA",
+  "title": "DeepSeek V4.1 Flash 1017 token efficiency",
+  "published_at": "2026-10-17T15:46:46+00:00",
+  "collected_at": "2026-10-17T19:13:48.201446+00:00",
+  "title_ko": "DeepSeek V4.1 Flash 토큰 효율성 논란",
+  "summary_ko": "새로 공개된 DeepSeek V4.1 Flash의 토큰 효율성과 벤치마크 성능을 두고 커뮤니티에서 분석과 갑론을박이 이어지고 있다. 효율성 측면에서 주목받고 있으나 기존 모델과의 비교 검증이 필요하다는 지적이다.",
+  "category": "참고",
+  "tags": [
+   "DeepSeek",
+   "오픈소스"
   ]
  },
  {
