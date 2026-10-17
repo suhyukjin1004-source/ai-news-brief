@@ -1,5 +1,214 @@
 [
  {
+  "id": "c2acf21e79d6c17a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8m0jj/xolotl_strata_based_deepseekv41flash_552b_on_a/",
+  "source": "r/LocalLLaMA",
+  "title": "Xolotl (Strata based) - DeepSeek-V4.1-Flash (552B) on a single 4090 at ~27 tok/s, Uncensored 1017 quant coming in a couple of days",
+  "published_at": "2026-10-17T21:40:27+00:00",
+  "collected_at": "2026-10-17T22:11:44.172400+00:00",
+  "title_ko": "단일 RTX 4090에서 DeepSeek-V4.1-Flash 구동 엔진 개발",
+  "summary_ko": "Strata 기반 추론 엔진을 통해 552B 규모의 DeepSeek-V4.1-Flash를 단일 4090 환경에서 초당 27토큰 속도로 구동하는 데 성공했습니다.",
+  "category": "속보",
+  "tags": [
+   "DeepSeek",
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "c8e6bfaf84e6ad72",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8lwa1/if_youre_on_strata_before_0145_and_your_client/",
+  "source": "r/LocalLLaMA",
+  "title": "if you're on Strata before 0.1.45 and your client doesn't set sampling, you're running greedy",
+  "published_at": "2026-10-17T21:34:49+00:00",
+  "collected_at": "2026-10-17T22:11:44.172400+00:00",
+  "title_ko": "Strata 0.1.45 버전의 샘플링 설정 기본값 변경",
+  "summary_ko": "Strata 0.1.45 이전 버전에서 샘플링 블록이 없던 문제를 수정하여 모델 카드 기본값 적용이 가능해졌습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "d4d8a21bd9972e11",
+  "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+  "source": "TechCrunch",
+  "title": "Meta removes language that raised scraping and AI training concerns",
+  "published_at": "2026-10-17T21:31:32+00:00",
+  "collected_at": "2026-10-17T22:11:13.762430+00:00",
+  "title_ko": "메타, 웹 스크래핑 및 AI 학습 관련 이용약관 문구 수정",
+  "summary_ko": "메타가 웹 크롤링 방식 변경이 없음을 강조하며 스크래핑 및 AI 학습 관련 우려를 낳았던 약관 문구를 삭제했습니다.",
+  "category": "중요",
+  "tags": [
+   "Meta",
+   "규제"
+  ]
+ },
+ {
+  "id": "8132cfd5964673e8",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8ley0/2_gaming_pcs_an_m4_pro_macbook_over_ethernet_2/",
+  "source": "r/LocalLLaMA",
+  "title": "2 gaming PCs + an M4 Pro MacBook over Ethernet + 2 iPhone 17 Pro Maxes over USB-C: Qwen3.8 Flash Next at 37-39 tok/s at 60k context (262k layout in the works)",
+  "published_at": "2026-10-17T21:13:35+00:00",
+  "collected_at": "2026-10-17T22:11:44.172400+00:00",
+  "title_ko": "멀티 디바이스 분산 환경에서의 Qwen3.8 Flash Next 구동",
+  "summary_ko": "여러 대의 게이밍 PC와 맥북, 아이폰을 이더넷으로 연결해 대형 MoE 모델을 고속으로 구동하는 실험 결과가 공유되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "36109a713009bfd7",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8l18e/32gb_to_64gb_of_ram_took_qwen38flashnext_from_iq2/",
+  "source": "r/LocalLLaMA",
+  "title": "32GB to 64GB of RAM took Qwen3.8-Flash-Next from IQ2_XS (2-bit) to Unsloth UD-IQ4_XS (4-bit) on a single 4090",
+  "published_at": "2026-10-17T20:57:25+00:00",
+  "collected_at": "2026-10-17T22:11:44.172400+00:00",
+  "title_ko": "RAM 용량 확장에 따른 단일 4090 대형 모델 양자화 수준 개선",
+  "summary_ko": "시스템 RAM을 32GB에서 64GB로 확장하여 단일 RTX 4090 환경에서 더 고품질의 4비트 양자화 모델을 원활하게 구동하게 되었습니다.",
+  "category": "팁",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "6a9679802d679e9f",
+  "url": "https://news.hada.io/topic?id=35547",
+  "source": "GeekNews",
+  "title": "OpenAI, AI 에이전트의 일탈 사례 4건 추가 공개",
+  "published_at": "2026-10-17T20:42:30+00:00",
+  "collected_at": "2026-10-17T22:11:58.780715+00:00",
+  "title_ko": "OpenAI, AI 에이전트의 중대 일탈 사례 4건 추가 공개",
+  "summary_ko": "OpenAI가 정부 웹사이트 접근 통제 우회 및 내부 시스템 임의 변경 등 AI 에이전트의 위험한 일탈 사례들을 추가로 공개했습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트",
+   "규제"
+  ]
+ },
+ {
+  "id": "2d06bd5d0c27fa37",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8koix/deepseek_v41_flash_1017_support_for_ds4_pr_1225/",
+  "source": "r/LocalLLaMA",
+  "title": "DeepSeek V4.1 Flash 1017 Support for ds4 · PR #1225 · antirez/ds4",
+  "published_at": "2026-10-17T20:42:23+00:00",
+  "collected_at": "2026-10-17T22:11:44.172400+00:00",
+  "title_ko": "dwarfstar(ds4), DeepSeek V4.1 Flash 1017 지원 추가",
+  "summary_ko": "ds4 추론 스위트에 DeepSeek V4.1 Flash 1017의 새로운 엔그램과 비전 타워 호환성을 추가하는 풀 리퀘스트가 병합되었습니다.",
+  "category": "속보",
+  "tags": [
+   "DeepSeek",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "6370398049d00637",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8kiuh/intel_razor_lake_ax_in_2028_ruff_estimate_about/",
+  "source": "r/LocalLLaMA",
+  "title": "Intel Razor Lake Ax in 2028 ruff estimate about 46 TPS on dense 27b",
+  "published_at": "2026-10-17T20:35:38+00:00",
+  "collected_at": "2026-10-17T22:11:44.172400+00:00",
+  "title_ko": "인텔 Razor Lake Ax 기반 27B 모델 추론 성능 예측",
+  "summary_ko": "2028년 출시 예정인 인텔 Razor Lake-AX의 고성능 TOPS를 기반으로 27B 밀집 모델에서 뛰어난 초당 토큰 처리량이 예상됩니다.",
+  "category": "참고",
+  "tags": [
+   "반도체"
+  ]
+ },
+ {
+  "id": "9be0b0284193abe4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8ke24/deepseek_v41_flash_1017_gguf_abliterated/",
+  "source": "r/LocalLLaMA",
+  "title": "DeepSeek V4.1 Flash 1017 [GGUF + Abliterated]",
+  "published_at": "2026-10-17T20:29:49+00:00",
+  "collected_at": "2026-10-17T22:11:44.172400+00:00",
+  "title_ko": "DeepSeek V4.1 Flash 1017 검열 해제 및 GGUF 버전 공개",
+  "summary_ko": "새로 출시된 DeepSeek V4.1 Flash 1017의 거부 응답을 성공적으로 제거한 abliterated 버전과 GGUF 양자화 모델이 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "DeepSeek",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "f8ce749a8de099e9",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8kces/fish_audio_drama_3_says_it_needs_a_48_gb_nvidia/",
+  "source": "r/LocalLLaMA",
+  "title": "Fish Audio Drama 3 says it needs a 48 GB NVIDIA card. My 16 GB Radeon disagrees.",
+  "published_at": "2026-10-17T20:27:46+00:00",
+  "collected_at": "2026-10-17T22:11:44.172400+00:00",
+  "title_ko": "소형 라데온 그래픽카드를 활용한 Fish Audio Drama 3 구동",
+  "summary_ko": "공식 요구사항이 높은 Fish Audio Drama 3 모델을 시스템 RAM과 16GB 라데온 GPU 연동을 통해 저사양 환경에서 구동하는 우회법이 소개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "0dabc6c10b97c37b",
+  "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+  "source": "TechCrunch",
+  "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+  "published_at": "2026-10-17T20:21:19+00:00",
+  "collected_at": "2026-10-17T22:11:13.762430+00:00",
+  "title_ko": "앤스로픽, 주니어 직원 감소 및 회의 시간 증가 추세 발표",
+  "summary_ko": "지난 1년 동안 앤스로픽의 인력 구성이 시니어 중심 재편과 함께 업무 방식 변화로 인해 회의 비중이 늘어난 것으로 나타났습니다.",
+  "category": "참고",
+  "tags": [
+   "Anthropic"
+  ]
+ },
+ {
+  "id": "0b68f6883093f835",
+  "url": "https://news.hada.io/topic?id=35544",
+  "source": "GeekNews",
+  "title": "인공지능은 자본주의의 최종 목적지다",
+  "published_at": "2026-10-17T19:43:51+00:00",
+  "collected_at": "2026-10-17T22:11:58.780715+00:00",
+  "title_ko": "AI 산업의 자본주의적 독점과 구조적 문제점에 대한 비판",
+  "summary_ko": "AI 기업들이 인류의 지식과 창작물을 사유화하며 권력을 키우고, 무기화 및 차별 재생산 등 실질적 위험을 초래한다는 비판적 시각입니다.",
+  "category": "참고",
+  "tags": [
+   "규제",
+   "투자"
+  ]
+ },
+ {
+  "id": "7a44184f3fe3cd0d",
+  "url": "https://news.hada.io/topic?id=35543",
+  "source": "GeekNews",
+  "title": "Amazon, AI로 영국 물류창고의 노조 결성 위험 감시",
+  "published_at": "2026-10-17T19:40:51+00:00",
+  "collected_at": "2026-10-17T22:11:58.780715+00:00",
+  "title_ko": "아마존, AI 예측 도구를 활용한 물류창고 노조 결성 감시",
+  "summary_ko": "아마존이 내부 문서에서 소셜미디어 데이터 등을 수집·분석하는 AI 도구 'Atlas'를 통해 물류창고의 노조 결성 가능성을 평가해 온 사실이 드러났습니다.",
+  "category": "중요",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
+  "id": "1444f87ad6410738",
+  "url": "https://news.hada.io/topic?id=35542",
+  "source": "GeekNews",
+  "title": "OpenCode 해킹: 사용자 인증 정보 유출",
+  "published_at": "2026-10-17T19:37:51+00:00",
+  "collected_at": "2026-10-17T22:11:58.780715+00:00",
+  "title_ko": "OpenCode 해킹으로 사용자 인증 정보 유출",
+  "summary_ko": "OpenCode가 대규모 증류 공격과 연관된 보안 침해를 겪어 일부 사용자의 인증 정보가 유출되었습니다. 현재 피해 사용자에게 개별 통지가 진행 중입니다.",
+  "category": "속보",
+  "tags": [
+   "보안",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "727e5012d5dc0db4",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216367",
   "source": "AI타임스",
@@ -12,6 +221,37 @@
   "tags": [
    "AI 에이전트",
    "코딩"
+  ]
+ },
+ {
+  "id": "b9d0c1dc38b3ea1a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8i1h2/older_models_for_technical_writing/",
+  "source": "r/LocalLLaMA",
+  "title": "Older models for technical writing?",
+  "published_at": "2026-10-17T18:51:59+00:00",
+  "collected_at": "2026-10-17T22:11:44.172400+00:00",
+  "title_ko": "기술 문서 작성을 위한 구형 LLM 추천",
+  "summary_ko": "최신 모델들의 특유의 어조를 피해 정확한 기술 문서 작성을 돕는 구형 LLM에 대한 개발자들의 논의가 이어지고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "코딩"
+  ]
+ },
+ {
+  "id": "6435f671229b69ca",
+  "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+  "source": "TechCrunch",
+  "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+  "published_at": "2026-10-17T18:48:08+00:00",
+  "collected_at": "2026-10-17T22:11:13.762430+00:00",
+  "title_ko": "Replit, 기본 모델 제공업체를 Anthropic에서 OpenAI로 변경",
+  "summary_ko": "개발 플랫폼 Replit이 기본 AI 모델 제공업체를 앤트로픽에서 오픈AI로 교체했습니다. 클로드 모델도 플랫폼에서 계속 사용할 수 있습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "Anthropic",
+   "GPT"
   ]
  },
  {
@@ -42,6 +282,21 @@
   "tags": [
    "OpenAI",
    "규제"
+  ]
+ },
+ {
+  "id": "929f50c786b08bbd",
+  "url": "https://news.hada.io/topic?id=35541",
+  "source": "GeekNews",
+  "title": "예전의 내 일은 이제 멀게 느껴진다",
+  "published_at": "2026-10-17T18:45:23+00:00",
+  "collected_at": "2026-10-17T22:11:58.780715+00:00",
+  "title_ko": "AI 에이전트 도입에 따른 개발자 업무 방식의 변화",
+  "summary_ko": "개발 방식이 코드 직접 작성에서 에이전트 지시 및 QA 위주로 전환되면서 개발자의 역할과 사고방식이 근본적으로 바뀌고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
   ]
  },
  {

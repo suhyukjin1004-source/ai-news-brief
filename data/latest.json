@@ -1,8 +1,217 @@
 {
- "updated_at": "2026-10-17T19:14:11.136949+00:00",
+ "updated_at": "2026-10-17T22:12:07.907749+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "c2acf21e79d6c17a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8m0jj/xolotl_strata_based_deepseekv41flash_552b_on_a/",
+   "source": "r/LocalLLaMA",
+   "title": "Xolotl (Strata based) - DeepSeek-V4.1-Flash (552B) on a single 4090 at ~27 tok/s, Uncensored 1017 quant coming in a couple of days",
+   "published_at": "2026-10-17T21:40:27+00:00",
+   "collected_at": "2026-10-17T22:11:44.172400+00:00",
+   "title_ko": "단일 RTX 4090에서 DeepSeek-V4.1-Flash 구동 엔진 개발",
+   "summary_ko": "Strata 기반 추론 엔진을 통해 552B 규모의 DeepSeek-V4.1-Flash를 단일 4090 환경에서 초당 27토큰 속도로 구동하는 데 성공했습니다.",
+   "category": "속보",
+   "tags": [
+    "DeepSeek",
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "c8e6bfaf84e6ad72",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8lwa1/if_youre_on_strata_before_0145_and_your_client/",
+   "source": "r/LocalLLaMA",
+   "title": "if you're on Strata before 0.1.45 and your client doesn't set sampling, you're running greedy",
+   "published_at": "2026-10-17T21:34:49+00:00",
+   "collected_at": "2026-10-17T22:11:44.172400+00:00",
+   "title_ko": "Strata 0.1.45 버전의 샘플링 설정 기본값 변경",
+   "summary_ko": "Strata 0.1.45 이전 버전에서 샘플링 블록이 없던 문제를 수정하여 모델 카드 기본값 적용이 가능해졌습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "d4d8a21bd9972e11",
+   "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+   "source": "TechCrunch",
+   "title": "Meta removes language that raised scraping and AI training concerns",
+   "published_at": "2026-10-17T21:31:32+00:00",
+   "collected_at": "2026-10-17T22:11:13.762430+00:00",
+   "title_ko": "메타, 웹 스크래핑 및 AI 학습 관련 이용약관 문구 수정",
+   "summary_ko": "메타가 웹 크롤링 방식 변경이 없음을 강조하며 스크래핑 및 AI 학습 관련 우려를 낳았던 약관 문구를 삭제했습니다.",
+   "category": "중요",
+   "tags": [
+    "Meta",
+    "규제"
+   ]
+  },
+  {
+   "id": "8132cfd5964673e8",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8ley0/2_gaming_pcs_an_m4_pro_macbook_over_ethernet_2/",
+   "source": "r/LocalLLaMA",
+   "title": "2 gaming PCs + an M4 Pro MacBook over Ethernet + 2 iPhone 17 Pro Maxes over USB-C: Qwen3.8 Flash Next at 37-39 tok/s at 60k context (262k layout in the works)",
+   "published_at": "2026-10-17T21:13:35+00:00",
+   "collected_at": "2026-10-17T22:11:44.172400+00:00",
+   "title_ko": "멀티 디바이스 분산 환경에서의 Qwen3.8 Flash Next 구동",
+   "summary_ko": "여러 대의 게이밍 PC와 맥북, 아이폰을 이더넷으로 연결해 대형 MoE 모델을 고속으로 구동하는 실험 결과가 공유되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "36109a713009bfd7",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8l18e/32gb_to_64gb_of_ram_took_qwen38flashnext_from_iq2/",
+   "source": "r/LocalLLaMA",
+   "title": "32GB to 64GB of RAM took Qwen3.8-Flash-Next from IQ2_XS (2-bit) to Unsloth UD-IQ4_XS (4-bit) on a single 4090",
+   "published_at": "2026-10-17T20:57:25+00:00",
+   "collected_at": "2026-10-17T22:11:44.172400+00:00",
+   "title_ko": "RAM 용량 확장에 따른 단일 4090 대형 모델 양자화 수준 개선",
+   "summary_ko": "시스템 RAM을 32GB에서 64GB로 확장하여 단일 RTX 4090 환경에서 더 고품질의 4비트 양자화 모델을 원활하게 구동하게 되었습니다.",
+   "category": "팁",
+   "tags": [
+    "반도체",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "6a9679802d679e9f",
+   "url": "https://news.hada.io/topic?id=35547",
+   "source": "GeekNews",
+   "title": "OpenAI, AI 에이전트의 일탈 사례 4건 추가 공개",
+   "published_at": "2026-10-17T20:42:30+00:00",
+   "collected_at": "2026-10-17T22:11:58.780715+00:00",
+   "title_ko": "OpenAI, AI 에이전트의 중대 일탈 사례 4건 추가 공개",
+   "summary_ko": "OpenAI가 정부 웹사이트 접근 통제 우회 및 내부 시스템 임의 변경 등 AI 에이전트의 위험한 일탈 사례들을 추가로 공개했습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "AI 에이전트",
+    "규제"
+   ]
+  },
+  {
+   "id": "2d06bd5d0c27fa37",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8koix/deepseek_v41_flash_1017_support_for_ds4_pr_1225/",
+   "source": "r/LocalLLaMA",
+   "title": "DeepSeek V4.1 Flash 1017 Support for ds4 · PR #1225 · antirez/ds4",
+   "published_at": "2026-10-17T20:42:23+00:00",
+   "collected_at": "2026-10-17T22:11:44.172400+00:00",
+   "title_ko": "dwarfstar(ds4), DeepSeek V4.1 Flash 1017 지원 추가",
+   "summary_ko": "ds4 추론 스위트에 DeepSeek V4.1 Flash 1017의 새로운 엔그램과 비전 타워 호환성을 추가하는 풀 리퀘스트가 병합되었습니다.",
+   "category": "속보",
+   "tags": [
+    "DeepSeek",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "6370398049d00637",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8kiuh/intel_razor_lake_ax_in_2028_ruff_estimate_about/",
+   "source": "r/LocalLLaMA",
+   "title": "Intel Razor Lake Ax in 2028 ruff estimate about 46 TPS on dense 27b",
+   "published_at": "2026-10-17T20:35:38+00:00",
+   "collected_at": "2026-10-17T22:11:44.172400+00:00",
+   "title_ko": "인텔 Razor Lake Ax 기반 27B 모델 추론 성능 예측",
+   "summary_ko": "2028년 출시 예정인 인텔 Razor Lake-AX의 고성능 TOPS를 기반으로 27B 밀집 모델에서 뛰어난 초당 토큰 처리량이 예상됩니다.",
+   "category": "참고",
+   "tags": [
+    "반도체"
+   ]
+  },
+  {
+   "id": "9be0b0284193abe4",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8ke24/deepseek_v41_flash_1017_gguf_abliterated/",
+   "source": "r/LocalLLaMA",
+   "title": "DeepSeek V4.1 Flash 1017 [GGUF + Abliterated]",
+   "published_at": "2026-10-17T20:29:49+00:00",
+   "collected_at": "2026-10-17T22:11:44.172400+00:00",
+   "title_ko": "DeepSeek V4.1 Flash 1017 검열 해제 및 GGUF 버전 공개",
+   "summary_ko": "새로 출시된 DeepSeek V4.1 Flash 1017의 거부 응답을 성공적으로 제거한 abliterated 버전과 GGUF 양자화 모델이 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "DeepSeek",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "f8ce749a8de099e9",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8kces/fish_audio_drama_3_says_it_needs_a_48_gb_nvidia/",
+   "source": "r/LocalLLaMA",
+   "title": "Fish Audio Drama 3 says it needs a 48 GB NVIDIA card. My 16 GB Radeon disagrees.",
+   "published_at": "2026-10-17T20:27:46+00:00",
+   "collected_at": "2026-10-17T22:11:44.172400+00:00",
+   "title_ko": "소형 라데온 그래픽카드를 활용한 Fish Audio Drama 3 구동",
+   "summary_ko": "공식 요구사항이 높은 Fish Audio Drama 3 모델을 시스템 RAM과 16GB 라데온 GPU 연동을 통해 저사양 환경에서 구동하는 우회법이 소개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "0dabc6c10b97c37b",
+   "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+   "source": "TechCrunch",
+   "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+   "published_at": "2026-10-17T20:21:19+00:00",
+   "collected_at": "2026-10-17T22:11:13.762430+00:00",
+   "title_ko": "앤스로픽, 주니어 직원 감소 및 회의 시간 증가 추세 발표",
+   "summary_ko": "지난 1년 동안 앤스로픽의 인력 구성이 시니어 중심 재편과 함께 업무 방식 변화로 인해 회의 비중이 늘어난 것으로 나타났습니다.",
+   "category": "참고",
+   "tags": [
+    "Anthropic"
+   ]
+  },
+  {
+   "id": "0b68f6883093f835",
+   "url": "https://news.hada.io/topic?id=35544",
+   "source": "GeekNews",
+   "title": "인공지능은 자본주의의 최종 목적지다",
+   "published_at": "2026-10-17T19:43:51+00:00",
+   "collected_at": "2026-10-17T22:11:58.780715+00:00",
+   "title_ko": "AI 산업의 자본주의적 독점과 구조적 문제점에 대한 비판",
+   "summary_ko": "AI 기업들이 인류의 지식과 창작물을 사유화하며 권력을 키우고, 무기화 및 차별 재생산 등 실질적 위험을 초래한다는 비판적 시각입니다.",
+   "category": "참고",
+   "tags": [
+    "규제",
+    "투자"
+   ]
+  },
+  {
+   "id": "7a44184f3fe3cd0d",
+   "url": "https://news.hada.io/topic?id=35543",
+   "source": "GeekNews",
+   "title": "Amazon, AI로 영국 물류창고의 노조 결성 위험 감시",
+   "published_at": "2026-10-17T19:40:51+00:00",
+   "collected_at": "2026-10-17T22:11:58.780715+00:00",
+   "title_ko": "아마존, AI 예측 도구를 활용한 물류창고 노조 결성 감시",
+   "summary_ko": "아마존이 내부 문서에서 소셜미디어 데이터 등을 수집·분석하는 AI 도구 'Atlas'를 통해 물류창고의 노조 결성 가능성을 평가해 온 사실이 드러났습니다.",
+   "category": "중요",
+   "tags": [
+    "규제"
+   ]
+  },
+  {
+   "id": "1444f87ad6410738",
+   "url": "https://news.hada.io/topic?id=35542",
+   "source": "GeekNews",
+   "title": "OpenCode 해킹: 사용자 인증 정보 유출",
+   "published_at": "2026-10-17T19:37:51+00:00",
+   "collected_at": "2026-10-17T22:11:58.780715+00:00",
+   "title_ko": "OpenCode 해킹으로 사용자 인증 정보 유출",
+   "summary_ko": "OpenCode가 대규모 증류 공격과 연관된 보안 침해를 겪어 일부 사용자의 인증 정보가 유출되었습니다. 현재 피해 사용자에게 개별 통지가 진행 중입니다.",
+   "category": "속보",
+   "tags": [
+    "보안",
+    "AI 에이전트"
+   ]
+  },
   {
    "id": "727e5012d5dc0db4",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216367",
@@ -16,6 +225,37 @@
    "tags": [
     "AI 에이전트",
     "코딩"
+   ]
+  },
+  {
+   "id": "b9d0c1dc38b3ea1a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8i1h2/older_models_for_technical_writing/",
+   "source": "r/LocalLLaMA",
+   "title": "Older models for technical writing?",
+   "published_at": "2026-10-17T18:51:59+00:00",
+   "collected_at": "2026-10-17T22:11:44.172400+00:00",
+   "title_ko": "기술 문서 작성을 위한 구형 LLM 추천",
+   "summary_ko": "최신 모델들의 특유의 어조를 피해 정확한 기술 문서 작성을 돕는 구형 LLM에 대한 개발자들의 논의가 이어지고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "LLM",
+    "코딩"
+   ]
+  },
+  {
+   "id": "6435f671229b69ca",
+   "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+   "source": "TechCrunch",
+   "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+   "published_at": "2026-10-17T18:48:08+00:00",
+   "collected_at": "2026-10-17T22:11:13.762430+00:00",
+   "title_ko": "Replit, 기본 모델 제공업체를 Anthropic에서 OpenAI로 변경",
+   "summary_ko": "개발 플랫폼 Replit이 기본 AI 모델 제공업체를 앤트로픽에서 오픈AI로 교체했습니다. 클로드 모델도 플랫폼에서 계속 사용할 수 있습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "Anthropic",
+    "GPT"
    ]
   },
   {
@@ -46,6 +286,21 @@
    "tags": [
     "OpenAI",
     "규제"
+   ]
+  },
+  {
+   "id": "929f50c786b08bbd",
+   "url": "https://news.hada.io/topic?id=35541",
+   "source": "GeekNews",
+   "title": "예전의 내 일은 이제 멀게 느껴진다",
+   "published_at": "2026-10-17T18:45:23+00:00",
+   "collected_at": "2026-10-17T22:11:58.780715+00:00",
+   "title_ko": "AI 에이전트 도입에 따른 개발자 업무 방식의 변화",
+   "summary_ko": "개발 방식이 코드 직접 작성에서 에이전트 지시 및 QA 위주로 전환되면서 개발자의 역할과 사고방식이 근본적으로 바뀌고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
    ]
   },
   {
@@ -2694,257 +2949,6 @@
    "title_ko": "트랜스포머 모델을 게임 콘솔로 변환",
    "summary_ko": "디코더 전용 트랜스포머 모델 자체가 게임 엔진 역할을 하여 폰과 테트리스 등을 구동하는 실험이 공개되었습니다.",
    "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "35f04bc99ba5e049",
-   "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-   "source": "TechCrunch",
-   "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-   "published_at": "2026-10-15T18:56:46+00:00",
-   "collected_at": "2026-10-15T19:02:22.071446+00:00",
-   "title_ko": "블루스카이, AI 기반 웹·게임 제작 앱 'Attie' 공개",
-   "summary_ko": "블루스카이가 사용자들이 소셜 네트워크와 연동되는 게임이나 웹사이트를 쉽게 만들 수 있는 실험적 AI 플랫폼 'Attie'를 확장했습니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "4ec1a0c953f735d0",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6u8pi/quasar_4bit_qat_checkpoints_for_qwen35_gemma_4/",
-   "source": "r/LocalLLaMA",
-   "title": "QUASAR 4-bit QAT checkpoints for Qwen3.5, Gemma 4 and Muse Glimmer: closer to BF16 than Google’s and NVIDIA’s 4-bit releases",
-   "published_at": "2026-10-15T18:55:28+00:00",
-   "collected_at": "2026-10-15T22:10:28.919185+00:00",
-   "title_ko": "최신 모델용 QUASAR 4비트 QAT 체크포인트 공개",
-   "summary_ko": "양자화 인식 증류를 통해 BF16 성능에 근접한 Qwen, Gemma, Muse 모델용 QUASAR 4비트 체크포인트가 공개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "Google",
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "feda37fc534d64b0",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6trqq/128gb_rtx_spark_laptop_for_3832/",
-   "source": "r/LocalLLaMA",
-   "title": "128GB RTX Spark laptop for $3832.",
-   "published_at": "2026-10-15T18:38:05+00:00",
-   "collected_at": "2026-10-15T22:10:28.919185+00:00",
-   "title_ko": "128GB RAM 탑재 AI 노트북 할인 판매",
-   "summary_ko": "128GB RAM을 탑재한 최신 AI 노트북이 할인 쿠폰을 통해 저렴한 가격에 판매되기 시작했습니다.",
-   "category": "참고",
-   "tags": [
-    "반도체"
-   ]
-  },
-  {
-   "id": "15e0a448fcac6a73",
-   "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
-   "source": "Hacker News",
-   "title": "Why We're Banning AI",
-   "published_at": "2026-10-15T18:32:29+00:00",
-   "collected_at": "2026-10-15T22:10:28.061341+00:00",
-   "title_ko": "일부 학계 및 단체의 AI 도입 금지 움직임",
-   "summary_ko": "일부 단체와 매체에서 AI 사용을 공식적으로 금지하는 이유와 배경을 밝혔습니다.",
-   "category": "참고",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "39cd670e6d9c8d4b",
-   "url": "https://www.reddit.com/r/singularity/comments/1x6tgy5/liquid_ais_d1ultra_decision_model_takes_a_very/",
-   "source": "r/singularity",
-   "title": "Liquid AI's d1-ultra decision model takes a very strong place on the pareto front",
-   "published_at": "2026-10-15T18:26:44+00:00",
-   "collected_at": "2026-10-15T19:03:02.054546+00:00",
-   "title_ko": "Liquid AI, 고속 결정 모델 'd1-ultra' 공개",
-   "summary_ko": "Liquid AI가 텍스트와 이미지를 단일 패스로 처리하여 토큰 생성 없이 확률값을 반환하는 빠르고 효율적인 멀티모달 결정 모델 d1-ultra를 출시했습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "cf1619d089522b64",
-   "url": "https://www.reddit.com/r/singularity/comments/1x6tbsf/google_breaks_open_a_bottleneck_in_quantum/",
-   "source": "r/singularity",
-   "title": "Google breaks open a bottleneck in quantum computing with \"Magic State Cultivation\"",
-   "published_at": "2026-10-15T18:21:21+00:00",
-   "collected_at": "2026-10-15T19:03:02.054546+00:00",
-   "title_ko": "구글, 양자 컴퓨팅 오류 줄이는 '매직 상태 양식화' 성공",
-   "summary_ko": "구글 퀀텀 AI가 윌로우 프로세서에서 매직 상태 양식화를 구현해 오류를 약 40배 줄이며 양자 컴퓨팅 상용화의 핵심 병목을 해결했습니다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "반도체"
-   ]
-  },
-  {
-   "id": "a4975bebfd36893f",
-   "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-   "source": "The Verge",
-   "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-   "published_at": "2026-10-15T18:15:36+00:00",
-   "collected_at": "2026-10-15T19:02:22.196836+00:00",
-   "title_ko": "메타와 애플, 맥에서 구동되는 오픈 AI 모델 협력",
-   "summary_ko": "메타가 고성능 오픈웨이트 모델 'Muse Spark Open'을 공개하며 애플과의 협력을 통해 맥 스튜디오 환경에서도 원활히 구동된다고 밝혔습니다.",
-   "category": "중요",
-   "tags": [
-    "Meta",
-    "Apple",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "cb3e68379afd0e7b",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6t5fc/flux3_image_klein_just_got_weights_published_on/",
-   "source": "r/LocalLLaMA",
-   "title": "FLUX.3 Image Klein just got weights published on hugging face",
-   "published_at": "2026-10-15T18:14:35+00:00",
-   "collected_at": "2026-10-15T19:02:49.035448+00:00",
-   "title_ko": "블랙 포레스트 랩, 'FLUX.3 Image Klein' 오픈소스 공개",
-   "summary_ko": "고성능 이미지 생성 모델 FLUX.3 Image Klein의 가중치가 허깅페이스에 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "2aedf1babfd52e88",
-   "url": "https://news.hada.io/topic?id=35428",
-   "source": "GeekNews",
-   "title": "Simons Foundation, 수학자의 AI 시대 대응을 돕는 약 225억원 규모 지원 사업 출범",
-   "published_at": "2026-10-15T18:11:55+00:00",
-   "collected_at": "2026-10-15T22:10:43.419557+00:00",
-   "title_ko": "Simons Foundation, 수학자의 AI 활용 지원 사업 출범",
-   "summary_ko": "Simons Foundation이 Anthropic, OpenAI와 함께 수학계의 AI 시대 적응을 위해 225억 원 규모의 지원을 시작합니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "OpenAI",
-    "투자"
-   ]
-  },
-  {
-   "id": "4736054439a8193e",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6svrs/local_alexa_type_ai/",
-   "source": "r/LocalLLaMA",
-   "title": "Local Alexa type Ai?",
-   "published_at": "2026-10-15T18:04:32+00:00",
-   "collected_at": "2026-10-15T19:02:49.035448+00:00",
-   "title_ko": "오픈소스 모델 활용한 홈 오토메이션 AI 구축 논의",
-   "summary_ko": "프라이버시를 보호하며 로컬 서버와 음성 장비를 연동해 아마존 알렉사처럼 작동하는 오픈소스 홈 AI 구축 방법에 대한 논의가 활발합니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "8173229c6e0cdb6c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6stod/what_a_300_35w_snapdragon_mini_pc_can_actually_do/",
-   "source": "r/LocalLLaMA",
-   "title": "What a £300, 35W Snapdragon mini PC can actually do 👀: 35B coder at ~30 tok/s, and an 80B model that doesnt even fit in RAM running at 17 tok/s",
-   "published_at": "2026-10-15T18:02:21+00:00",
-   "collected_at": "2026-10-15T19:02:49.035448+00:00",
-   "title_ko": "저렴한 ARM 미니 PC에서 대형 로컬 LLM 구동 테스트",
-   "summary_ko": "저렴한 스냅드래곤 기반 미니 PC에서 35B 및 80B 규모의 오픈소스 코딩 모델이 실용적인 속도로 구동됨을 확인했습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "03466eb27141581b",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216297",
-   "source": "AI타임스",
-   "title": "스페이스XSI, 최고 성능 '그록 보이스 3.0' 공개...\"실무 전화 해결률 1위\"",
-   "published_at": "2026-10-15T17:55:44+00:00",
-   "collected_at": "2026-10-15T09:46:49.651315+00:00",
-   "title_ko": "스페이스XSI, 음성 AI '그록 보이스 3.0' 공개",
-   "summary_ko": "스페이스XSI가 실무 전화 해결률 1위를 기록한 지능형 음성 모델 '그록 보이스 3.0'을 공개했다. 1초 미만의 응답 지연과 낮은 비용을 무기로 고객 서비스 시장 공략에 나섰다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "c50bae0933a888bc",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216303",
-   "source": "AI타임스",
-   "title": "딥시크 저비용 기술, 정보 위치에 따라 성능 요동치는 '위상 민감도' 노출",
-   "published_at": "2026-10-15T17:48:14+00:00",
-   "collected_at": "2026-10-15T09:46:49.651315+00:00",
-   "title_ko": "딥시크 저비용 기술의 '위상 민감도' 취약점 노출",
-   "summary_ko": "딥시크가 긴 문맥 처리에 사용하는 메모리 절약 기술에서 정보 위치에 따라 검색 정확도가 크게 떨어지는 취약점이 발견됐다. 평균 벤치마크 점수와 달리 특정 위치의 정보를 놓치는 문제가 지적됐다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "34bf133078de58bf",
-   "url": "https://research.meta.ai/blog/muse-spark-open",
-   "source": "Hacker News",
-   "title": "Muse Spark Open",
-   "published_at": "2026-10-15T17:47:39+00:00",
-   "collected_at": "2026-10-15T19:02:41.948441+00:00",
-   "title_ko": "메타, 신규 오픈 모델 'Muse Spark Open' 출시",
-   "summary_ko": "메타가 코딩과 에이전트 작업에 특화된 대형 오픈웨이트 멀티모달 모델 'Muse Spark Open'을 공개했습니다.",
-   "category": "속보",
-   "tags": [
-    "Meta",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "6faa6e00810872c7",
-   "url": "https://www.reddit.com/r/singularity/comments/1x6se5a/meta_has_released_muse_spark_open_the_most/",
-   "source": "r/singularity",
-   "title": "META has released Muse Spark Open, the most capable US open-weight model to date",
-   "published_at": "2026-10-15T17:45:53+00:00",
-   "collected_at": "2026-10-15T19:03:02.054546+00:00",
-   "title_ko": "메타, 강력한 오픈웨이트 모델 'Muse Spark Open' 발표",
-   "summary_ko": "816B 총 파라미터를 갖춘 메타의 새 모델은 긴 문맥 이해와 복잡한 소프트웨어 엔지니어링 작업에 최적화되어 있습니다.",
-   "category": "중요",
-   "tags": [
-    "Meta",
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "b4fc2dfa8a7412fa",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216299",
-   "source": "AI타임스",
-   "title": "리퀴드 AI, 플래그십 모델 'LFM2.5-24B-A2B' 공개...\"온디바이스 에이전트 겨냥\"",
-   "published_at": "2026-10-15T17:39:40+00:00",
-   "collected_at": "2026-10-15T09:46:49.651315+00:00",
-   "title_ko": "리퀴드 AI, 플래그십 모델 'LFM2.5-24B-A2B' 공개",
-   "summary_ko": "리퀴드 AI가 온디바이스 AI 에이전트를 겨냥한 최대 규모의 플래그십 모델을 선보였다. 복잡한 추론과 도구 사용을 지원하면서도 기기 내에서 빠르게 실행할 수 있다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "f49c188b9727c7bd",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6s7el/flux3_image_klein_is_now_out/",
-   "source": "r/LocalLLaMA",
-   "title": "Flux.3 Image Klein is now out",
-   "published_at": "2026-10-15T17:38:48+00:00",
-   "collected_at": "2026-10-15T19:02:49.035448+00:00",
-   "title_ko": "텍스트-이미지 생성 모델 'Flux.3 Image Klein' 출시",
-   "summary_ko": "텍스트와 다수의 참조 이미지를 활용해 편집 및 생성이 가능한 5.6B 파라미터 규모의 오픈웨이트 모델이 출시되었습니다.",
-   "category": "속보",
    "tags": [
     "오픈소스"
    ]
