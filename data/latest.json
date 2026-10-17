@@ -1,8 +1,38 @@
 {
- "updated_at": "2026-10-17T04:12:17.376576+00:00",
+ "updated_at": "2026-10-17T09:12:18.674354+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "87164e8d76a3afae",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216364",
+   "source": "AI타임스",
+   "title": "전 오픈AI 연구원 “AI 내부 읽을 수 있다” 주장…기대·반론 엇갈려",
+   "published_at": "2026-10-17T17:02:23+00:00",
+   "collected_at": "2026-10-17T09:12:08.258128+00:00",
+   "title_ko": "전 오픈AI 연구원의 신경망 구조 해석 주장",
+   "summary_ko": "신경망 내부 개념이 잘 정돈되어 있다는 전 오픈AI 연구원의 주장이 나와 AI 안전성 연구계에 논쟁을 불러일으키고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "11ab697afde0c31b",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216360",
+   "source": "AI타임스",
+   "title": "오픈AI, 크롬용 '챗GPT' 확장 기능 강화...\"열린 탭 분석하고 직접 제어\"",
+   "published_at": "2026-10-17T15:40:58+00:00",
+   "collected_at": "2026-10-17T09:12:08.258128+00:00",
+   "title_ko": "오픈AI, 크롬용 챗GPT 확장 기능에 탭 제어 기능 추가",
+   "summary_ko": "오픈AI가 크롬 확장 프로그램에 브라우저 탭 분석 및 직접 제어 기능을 도입하여 작업 수행 능력을 강화했습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT"
+   ]
+  },
   {
    "id": "4d30432821d28208",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216352",
@@ -91,6 +121,195 @@
    "tags": [
     "오픈소스",
     "규제"
+   ]
+  },
+  {
+   "id": "ef7ceb3aa08388e2",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x84po4/deepseekaideepseekv41flash1017_hugging_face/",
+   "source": "r/LocalLLaMA",
+   "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017 · Hugging Face",
+   "published_at": "2026-10-17T08:09:21+00:00",
+   "collected_at": "2026-10-17T09:11:54.609297+00:00",
+   "title_ko": "허깅페이스에 등장한 DeepSeek-V4.1-Flash",
+   "summary_ko": "딥시크의 새로운 오픈 모델 관련 파일이 허깅페이스에 등록되면서 커뮤니티의 관심을 모으고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "dcbc019ab44f672a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x83ign/uncensored_models_via_lora/",
+   "source": "r/LocalLLaMA",
+   "title": "Uncensored models via LORA",
+   "published_at": "2026-10-17T06:57:03+00:00",
+   "collected_at": "2026-10-17T09:11:54.609297+00:00",
+   "title_ko": "LoRA를 활용한 LLM 검열 우회 연구",
+   "summary_ko": "대형 언어 모델의 거부 반응(검열)을 비용 효율적으로 제거하기 위한 LoRA 기반 접근법들이 논의되고 있습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "52b158d6a0391ccb",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x83hz1/nvdias_nemotron_is_guard_railed_to_uselessness/",
+   "source": "r/LocalLLaMA",
+   "title": "Nvdia’s Nemotron is guard railed to uselessness.",
+   "published_at": "2026-10-17T06:56:15+00:00",
+   "collected_at": "2026-10-17T09:11:54.609297+00:00",
+   "title_ko": "지나친 안전 장치로 활용도가 떨어진 님드로론",
+   "summary_ko": "엔비디아의 120B 모델인 님드로론이 과도한 가드레일 때문에 기본적인 개발 업무조차 수행하지 못한다는 사용자 불만이 제기되었습니다.",
+   "category": "참고",
+   "tags": [
+    "NVIDIA",
+    "규제"
+   ]
+  },
+  {
+   "id": "d40c6a40ac97df3f",
+   "url": "https://www.reddit.com/r/singularity/comments/1x83dxf/university_of_michigan_physicist_gabriele/",
+   "source": "r/singularity",
+   "title": "University of Michigan physicist Gabriele Carcassi, a published quantum foundations researcher, says AI now resolves advanced mathematical roadblocks in 2 minutes. He previously spent months begging mathematicians for help. Now a single AI conversation is enough.",
+   "published_at": "2026-10-17T06:49:23+00:00",
+   "collected_at": "2026-10-17T09:12:07.154571+00:00",
+   "title_ko": "물리학 연구의 수학적 난제를 단 2분 만에 해결한 AI",
+   "summary_ko": "양자 물리학자가 몇 달간 풀지 못했던 수학적 난제를 AI가 단 2분 만에 해결하여 연구 방식의 변화를 보여주고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "7780fedf59c090ee",
+   "url": "https://news.hada.io/topic?id=35519",
+   "source": "GeekNews",
+   "title": "Ultramarine 1 Flash - 금융, 법률, 컨설팅, 운영 실무용 오픈 모델",
+   "published_at": "2026-10-17T06:31:35+00:00",
+   "collected_at": "2026-10-17T09:12:09.865045+00:00",
+   "title_ko": "금융·법률 실무용 오픈 모델 'Ultramarine 1 Flash' 공개",
+   "summary_ko": "금융, 법률, 컨설팅 등 전문 업무 문서 작성에 특화된 오픈 모델 Ultramarine 1 Flash가 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "Claude",
+    "GPT"
+   ]
+  },
+  {
+   "id": "a35f68c6da273d54",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x83321/i_built_a_tiny_site_that_lets_you_feel_the/",
+   "source": "r/LocalLLaMA",
+   "title": "I built a tiny site that let's you feel the tokens/s before you buy the GPU",
+   "published_at": "2026-10-17T06:30:47+00:00",
+   "collected_at": "2026-10-17T09:11:54.609297+00:00",
+   "title_ko": "GPU 구매 전 로컬 LLM 속도를 체감할 수 있는 웹사이트",
+   "summary_ko": "하드웨어 구매 전에 사용자의 환경에서 로컬 LLM의 초당 토큰 처리 속도를 미리 가늠해볼 수 있는 도구가 개발되었습니다.",
+   "category": "팁",
+   "tags": [
+    "반도체"
+   ]
+  },
+  {
+   "id": "bc85552ffd6663b4",
+   "url": "https://www.reddit.com/r/singularity/comments/1x831to/i_used_my_own_swarm_of_agents_to_look_for/",
+   "source": "r/singularity",
+   "title": "I used my own swarm of agents to look for rogue-agent traces across the public web.",
+   "published_at": "2026-10-17T06:28:42+00:00",
+   "collected_at": "2026-10-17T09:12:07.154571+00:00",
+   "title_ko": "AI 에이전트들의 웹상 자율 행동 흔적 추적",
+   "summary_ko": "샌드박스 환경에서 실행된 AI 에이전트들이 웹 아카이브와 공개 이슈 등을 활용해 흔적을 남기는 현상이 관찰되었습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "8089e3d533fd43f5",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x82yxx/qwen3827bdefianceuncensoredmtpgguf/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8-27B-Defiance-Uncensored-MTP-GGUF",
+   "published_at": "2026-10-17T06:23:41+00:00",
+   "collected_at": "2026-10-17T09:11:54.609297+00:00",
+   "title_ko": "Qwen 기반의 검열 해제 및 멀티 페르소나 모델 GGUF 배포",
+   "summary_ko": "Qwen 모델을 바탕으로 다양한 페르소나 모드와 검열 해제 가중치를 결합한 새로운 GGUF 파일이 공유되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "5b89cbe1d1a09f0e",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x825su/deepseek_41_flash_1017_incoming_deepseek_users/",
+   "source": "r/LocalLLaMA",
+   "title": "DeepSeek 4.1 Flash 1017 Incoming? --> DeepSeek users report a possible V4.1-Flash-1017 refresh across its API",
+   "published_at": "2026-10-17T05:34:11+00:00",
+   "collected_at": "2026-10-17T09:11:54.609297+00:00",
+   "title_ko": "딥시크 V4.1 플래시 API 적용 소식",
+   "summary_ko": "딥시크 사용자들이 API 전반에 걸쳐 새로운 V4.1-Flash 모델이 적용된 것을 확인하고 관련 모델을 공유했습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "4e487c08a9091787",
+   "url": "https://news.hada.io/topic?id=35517",
+   "source": "GeekNews",
+   "title": "FLUX 3 Image Klein - 56억 파라미터의 오픈 웨이트 이미지 생성/편집 모델",
+   "published_at": "2026-10-17T05:33:57+00:00",
+   "collected_at": "2026-10-17T09:12:09.865045+00:00",
+   "title_ko": "블랙 포레스트 랩스, 오픈 웨이트 이미지 모델 'FLUX 3 Image Klein' 공개",
+   "summary_ko": "56억 파라미터 규모로 텍스트 생성과 정밀 편집을 지원하는 FLUX 3 Image Klein이 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "50d5aaf1308908c3",
+   "url": "https://news.hada.io/topic?id=35516",
+   "source": "GeekNews",
+   "title": "메모리 벤치마크 점수 믿어도 되나",
+   "published_at": "2026-10-17T05:15:58+00:00",
+   "collected_at": "2026-10-17T09:12:09.865045+00:00",
+   "title_ko": "AI 에이전트 메모리 벤치마크 점수의 신뢰성 논란",
+   "summary_ko": "LoCoMo 등 AI 에이전트 기억 벤치마크가 채점자, 정답지 오류, 프롬프트 차이에 따라 점수가 극심하게 변동하는 문제가 제기되었습니다. 평가 지표의 객관성과 신뢰성에 대한 검증이 필요함을 시사합니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "벤치마크"
+   ]
+  },
+  {
+   "id": "0913988ccbedf140",
+   "url": "https://llmspeed.dev/",
+   "source": "Hacker News",
+   "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+   "published_at": "2026-10-17T04:36:53+00:00",
+   "collected_at": "2026-10-17T09:11:53.885697+00:00",
+   "title_ko": "하드웨어 구매 전 로컬 LLM 속도를 체험하는 Llmspeed",
+   "summary_ko": "로컬 LLM 구동 시 하드웨어 사양별 속도를 미리 가늠해 볼 수 있는 도구 'Llmspeed'가 소개되었습니다. 사용자가 최적의 장비를 선택하는 데 도움을 줍니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "코딩"
+   ]
+  },
+  {
+   "id": "fee4819a74cc2889",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x80ci1/what_do_you_guys_use_for_chat_interface/",
+   "source": "r/LocalLLaMA",
+   "title": "What do you guys use for chat interface?",
+   "published_at": "2026-10-17T03:51:15+00:00",
+   "collected_at": "2026-10-17T09:11:54.609297+00:00",
+   "title_ko": "로컬 LLM 사용자들의 추천 채팅 인터페이스 공유",
+   "summary_ko": "개발자 커뮤니티에서 일반 채팅, 코딩, 역할극 등 용도별로 즐겨 사용하는 로컬 LLM 인터페이스(OpenWebUI, SillyTavern 등)가 공유되었습니다. 사용자 경험 중심의 UI 선택에 참고할 수 있습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
    ]
   },
   {
@@ -1541,6 +1760,21 @@
    ]
   },
   {
+   "id": "4a2f3ca18eb9cee6",
+   "url": "https://openai.com/index/benefit-street-partners",
+   "source": "OpenAI",
+   "title": "Benefit Street Partners answers questions faster with Codex",
+   "published_at": "2026-10-16T00:00:00+00:00",
+   "collected_at": "2026-10-17T09:11:36.212805+00:00",
+   "title_ko": "Benefit Street Partners의 Codex를 활용한 업무 효율화",
+   "summary_ko": "Benefit Street Partners가 Codex를 도입해 대출 평가 비교 및 신용 계약 분석 도구를 개발하고 코드 리뷰 속도를 높였습니다. AI 도구를 통한 금융 업무 생산성 향상 사례입니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "코딩"
+   ]
+  },
+  {
    "id": "9db4940a53f86840",
    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
    "source": "OpenAI",
@@ -2716,245 +2950,6 @@
    "tags": [
     "Anthropic",
     "투자"
-   ]
-  },
-  {
-   "id": "ced63fbe9be6b515",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216283",
-   "source": "AI타임스",
-   "title": "애플, 12월 중국서 AI 첫선…알리바바·바이두 손잡고 1년 반 만에 진입",
-   "published_at": "2026-10-15T13:01:04+00:00",
-   "collected_at": "2026-10-15T04:25:02.520650+00:00",
-   "title_ko": "애플, 알리바바·바이두 손잡고 12월 중국서 AI 출시",
-   "summary_ko": "애플이 현지 기업과 협력해 오는 12월 중국 본토에서 애플 인텔리전스를 선보인다. 규제 승인 지연 끝에 우회로를 찾아 세계 최대 시장에 진입하는 것이다.",
-   "category": "속보",
-   "tags": [
-    "Apple",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "fa14b8f7db4605df",
-   "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-   "source": "OpenAI",
-   "title": "Teaching students to think and learn through questions",
-   "published_at": "2026-10-15T13:00:00+00:00",
-   "collected_at": "2026-10-15T14:52:25.753136+00:00",
-   "title_ko": "오픈이아이, 교육용 AI 학습 기능 강화",
-   "summary_ko": "교사와 학생들을 위해 질문을 통한 능동적 학습을 지원하는 AI 스터디 모드가 도입되었습니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI"
-   ]
-  },
-  {
-   "id": "c3631614eabaa192",
-   "url": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
-   "source": "The Verge",
-   "title": "Google launches its ‘universal’ online shopping cart ahead of the holidays",
-   "published_at": "2026-10-15T13:00:00+00:00",
-   "collected_at": "2026-10-15T14:52:12.527173+00:00",
-   "title_ko": "구글, 연말 쇼핑 시즌 맞이 통합 AI 쇼핑 카트 출시",
-   "summary_ko": "구글이 제미나이와 검색에 AI 기반 쇼핑 기능을 적용해 연말 쇼핑객 편의를 높입니다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "Gemini"
-   ]
-  },
-  {
-   "id": "0d6788d9709c85d3",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6kw7k/qwen38_flash_next_unsloth_quants_kldtop1_with/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.8 Flash Next Unsloth quants KLD&Top1% with default wiki, English books and Finnish books.",
-   "published_at": "2026-10-15T12:56:13+00:00",
-   "collected_at": "2026-10-15T14:52:44.885471+00:00",
-   "title_ko": "언슬롭, Qwen3.8 Flash 모델 양자화 테스트 결과 공개",
-   "summary_ko": "언슬롭이 양자화 방식이 핀란드어 등 특정 언어 능력에 미치는 영향과 정확도 변화를 분석했습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "17cec1d4d7917d36",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216282",
-   "source": "AI타임스",
-   "title": "젠슨 황 \"무책임한 AI 개발사엔 칩 공급 중단할 수 있어\"",
-   "published_at": "2026-10-15T12:45:11+00:00",
-   "collected_at": "2026-10-15T04:25:02.520650+00:00",
-   "title_ko": "젠슨 황 \"무책임한 AI 개발사에 칩 공급 중단할 수 있어\"",
-   "summary_ko": "엔비디아 젠슨 황 CEO가 안전하지 않은 AI를 개발하는 기업에 칩 공급을 중단할 수 있다고 경고했다. AI 안전성과 기술 오용에 대한 하드웨어 생태계의 책임을 강조한 발언이다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "규제",
-    "반도체"
-   ]
-  },
-  {
-   "id": "992470cb5493f024",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6jump/strata_might_be_actually_really_detrimental_for/",
-   "source": "r/LocalLLaMA",
-   "title": "Strata might be actually really detrimental for intelligence? or is it Swift and GSQ-RCO? or both?",
-   "published_at": "2026-10-15T12:05:20+00:00",
-   "collected_at": "2026-10-15T14:52:44.885471+00:00",
-   "title_ko": "오픈소스 LLM 양자화 기법의 성능 저하 논란",
-   "summary_ko": "일부 양자화 및 속도 개선 기법이 모델의 추론 능력과 코딩 성능을 떨어뜨린다는 실무 테스트 결과가 공유되었다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "코딩"
-   ]
-  },
-  {
-   "id": "cc07996f6bad6e0c",
-   "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-   "source": "TechCrunch",
-   "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-   "published_at": "2026-10-15T12:00:00+00:00",
-   "collected_at": "2026-10-15T14:52:12.407709+00:00",
-   "title_ko": "아마존, 신형 개인용 AI 웨어러블 및 레코더 공개",
-   "summary_ko": "아마존이 인수익 하이브리드 AI 스타트업 비(Bee)를 통해 대화 요약과 알렉사 연동이 가능한 신형 AI 웨어러블 기기들을 출시했다.",
-   "category": "속보",
-   "tags": [
-    "Amazon",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "7b0ede9ffcbb90ec",
-   "url": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
-   "source": "The Verge",
-   "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
-   "published_at": "2026-10-15T12:00:00+00:00",
-   "collected_at": "2026-10-15T14:52:12.527173+00:00",
-   "title_ko": "아마존, 상시 청취 AI 웨어러블 '비 프론티어' 공개",
-   "summary_ko": "아마존이 대화를 기록하고 쇼핑까지 연동되는 상시 청취형 AI 웨어러블 신제품과 관련 구독 서비스를 발표했다.",
-   "category": "속보",
-   "tags": [
-    "Amazon",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "e89af48feb9c69c2",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216276",
-   "source": "AI타임스",
-   "title": "\"애플도 우리 기밀 빼돌렸다\"...오픈AI, 맞소송 예고",
-   "published_at": "2026-10-15T11:56:03+00:00",
-   "collected_at": "2026-10-15T04:25:02.520650+00:00",
-   "title_ko": "오픈AI, 전 직원 기밀 유출 관련 애플에 맞소송 예고",
-   "summary_ko": "오픈AI가 자사 기밀 파일을 유출한 전 직원이 애플로 이직한 건과 관련해 애플을 상대로 맞소송을 예고했다. AI 인재 영입 경쟁 속에서 기밀 유출과 영업비밀 공방이 격화되고 있다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "Apple"
-   ]
-  },
-  {
-   "id": "07f6be5dcbc488a2",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6jel1/tencent_hy4_preview_getting_in_on_the_rogue_agent/",
-   "source": "r/LocalLLaMA",
-   "title": "Tencent (Hy4 Preview?) getting in on the rogue agent game",
-   "published_at": "2026-10-15T11:42:38+00:00",
-   "collected_at": "2026-10-15T14:52:44.885471+00:00",
-   "title_ko": "텐센트, 자율형 AI 에이전트 시장 진움 포착",
-   "summary_ko": "텐센트가 공식 발표 없이 새로운 AI 에이전트 관련 프리뷰 모델을 준비 중인 정황이 포착되었다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "d002ef7b3ed17843",
-   "url": "https://news.hada.io/topic?id=35409",
-   "source": "GeekNews",
-   "title": "LLM이 그린 펠리컨은 왜 이렇게 생겼을까?",
-   "published_at": "2026-10-15T11:39:27+00:00",
-   "collected_at": "2026-10-15T14:52:59.529685+00:00",
-   "title_ko": "LLM의 이미지 생성 다양성 부족 현상 분석",
-   "summary_ko": "특정 프롬프트에서 LLM이 유사한 결과물만 반복하는 다양성 붕괴 현상이 UI 디자인과 이미지 생성 전반에서 나타나고 있다.",
-   "category": "참고",
-   "tags": [
-    "LLM"
-   ]
-  },
-  {
-   "id": "629a839978996cd9",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216281",
-   "source": "AI타임스",
-   "title": "VNTG·한국MS, 제조 현장 AI 전환 실행 체계 공동 구축",
-   "published_at": "2026-10-15T11:28:34+00:00",
-   "collected_at": "2026-10-15T04:25:02.520650+00:00",
-   "title_ko": "브이엔티지·한국MS, 제조 현장 AI 전환 협력",
-   "summary_ko": "브이엔티지와 한국마이크로소프트가 국내 제조기업의 AI 전환(AX) 실행 체계를 공동 구축하기로 했다. 실제 제조 현장에 AI를 적용해 운영 효율성을 높이기 위한 목적이다.",
-   "category": "참고",
-   "tags": [
-    "Microsoft",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "13c68ef579b05999",
-   "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
-   "source": "The Verge",
-   "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
-   "published_at": "2026-10-15T11:00:00+00:00",
-   "collected_at": "2026-10-15T14:52:12.527173+00:00",
-   "title_ko": "인기 AI 반려로봇의 보안 및 프라이버시 취약점 지적",
-   "summary_ko": "사용자의 대화를 수집하는 보급형 AI 로봇 장난감의 데이터가 해외 서버에 그대로 저장되어 보안 우려를 낳고 있다.",
-   "category": "중요",
-   "tags": [
-    "규제",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "fb805fafa5ac436e",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6ijlk/nvidia_ai_so_many_models_launching_this_week_and/",
-   "source": "r/LocalLLaMA",
-   "title": "NVIDIA AI: So many models launching this week! And we have one of our own coming...",
-   "published_at": "2026-10-15T10:54:47+00:00",
-   "collected_at": "2026-10-15T14:52:44.885471+00:00",
-   "title_ko": "엔비디아 AI, 신규 모델 출시 예고",
-   "summary_ko": "엔비디아 AI가 이번 주 대거 모델 출시를 예고하며 자체 모델 공개 가능성을 시사했다.",
-   "category": "속보",
-   "tags": [
-    "NVIDIA",
-    "LLM"
-   ]
-  },
-  {
-   "id": "2420320fad5890bf",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6iieq/overfitting_and_creativity/",
-   "source": "r/LocalLLaMA",
-   "title": "Overfitting and creativity",
-   "published_at": "2026-10-15T10:52:49+00:00",
-   "collected_at": "2026-10-15T14:52:44.885471+00:00",
-   "title_ko": "대규모 학습 데이터와 모델의 창의성 관계 고찰",
-   "summary_ko": "과도한 데이터 학습으로 인한 오버피팅이 LLM의 일반화 능력과 진정한 창의성을 저해하는지에 대한 개발자들의 논의가 이어지고 있다.",
-   "category": "참고",
-   "tags": [
-    "LLM"
-   ]
-  },
-  {
-   "id": "3f2700940152718e",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6hrly/hdteneightypgptusenet6_a_new_lightweight_model/",
-   "source": "r/LocalLLaMA",
-   "title": "HDTenEightyP/GPT-USENET-6 · A new, lightweight model trained on USENET posts(including UTZOO), web scrapes, and fiction.",
-   "published_at": "2026-10-15T10:09:05+00:00",
-   "collected_at": "2026-10-15T14:52:44.885471+00:00",
-   "title_ko": "유즈넷 데이터 기반 초경량 오픈소스 LLM 등장",
-   "summary_ko": "과거 유즈넷 아카이브와 웹 데이터를 학습한 0.4B 파라미터 규모의 경량 오픈소스 모델이 공개되었다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM"
    ]
   }
  ]
