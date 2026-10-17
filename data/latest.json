@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T13:37:58.442508+00:00",
+ "updated_at": "2026-10-17T17:01:03.862350+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -64,6 +64,21 @@
    ]
   },
   {
+   "id": "29c63ddb4c1e37ca",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8e4wd/linux_creator_says_antiai_rules_are_idiotic/",
+   "source": "r/LocalLLaMA",
+   "title": "Linux creator says anti-AI rules are \"idiotic.\" (Absolute god-tier take.)",
+   "published_at": "2026-10-17T16:13:13+00:00",
+   "collected_at": "2026-10-17T17:00:45.541848+00:00",
+   "title_ko": "리눅스 창시자, 반AI 규제는 '멍청한 짓'이라 비판",
+   "summary_ko": "리눅스 창시자가 AI 사용을 금지하거나 제한하는 규제 움직임을 강하게 비판했습니다. 오픈소스 및 개발 생태계에 미칠 영향 때문에 주목받고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "규제"
+   ]
+  },
+  {
    "id": "11ab697afde0c31b",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216360",
    "source": "AI타임스",
@@ -76,6 +91,108 @@
    "tags": [
     "OpenAI",
     "GPT"
+   ]
+  },
+  {
+   "id": "3e7a8c91741b3469",
+   "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+   "source": "The Verge",
+   "title": "Meta removes language that may have allowed it to scrape news sites",
+   "published_at": "2026-10-17T15:04:36+00:00",
+   "collected_at": "2026-10-17T17:00:19.454755+00:00",
+   "title_ko": "메타, 뉴스 사이트 크롤링 허용 문구 이용약관서 삭제",
+   "summary_ko": "메타가 AI 학습용 뉴스 사이트 스크래핑을 암시하던 상업용 약관 문구를 반발 끝에 삭제했습니다. AI 학습 데이터 수집을 둘러싼 저작권 논란이 이어지고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "Meta",
+    "규제"
+   ]
+  },
+  {
+   "id": "828e9e1a750b7ed8",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8ca9a/modify_and_load_custom_vbios_on_windows_and_linux/",
+   "source": "r/LocalLLaMA",
+   "title": "Modify and load custom VBIOS on Windows and Linux, on Blackwell 2.0 (RTX 50 Series)/Ada(RTX 40 Series)/Ampere (RTX 30 Series) without flasing, for example to lower power limits (and which cards were tested)",
+   "published_at": "2026-10-17T14:57:22+00:00",
+   "collected_at": "2026-10-17T17:00:45.541848+00:00",
+   "title_ko": "지포스 RTX 30~50시리즈용 커스텀 VBIOS 로더 및 수정 도구 공개",
+   "summary_ko": "플래싱 없이 레지스트리 패치를 통해 엔비디아 GPU의 전력 제한과 클럭을 조절할 수 있는 도구가 공개되었습니다. 로컬 AI 모델 구동 시 하드웨어 최적화에 유용합니다.",
+   "category": "팁",
+   "tags": [
+    "NVIDIA",
+    "반도체"
+   ]
+  },
+  {
+   "id": "c015d91e9219d7b0",
+   "url": "https://news.hada.io/topic?id=35530",
+   "source": "GeekNews",
+   "title": "Claude로 더 효율적인 양자 회로 설계하기",
+   "published_at": "2026-10-17T14:38:47+00:00",
+   "collected_at": "2026-10-17T17:01:00.394314+00:00",
+   "title_ko": "Claude로 더 효율적인 양자 회로 설계",
+   "summary_ko": "Claude를 활용해 자연어 명세 기반의 양자 계산 회로를 설계하고 최적화하는 데 성공했습니다. 복잡한 과학 기술 분야에서 LLM의 활용도가 높아지고 있음을 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "Claude",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "7702ed4da90da393",
+   "url": "https://news.hada.io/topic?id=35529",
+   "source": "GeekNews",
+   "title": "Show HN: Llmspeed - 하드웨어 구매 전에 로컬 LLM 실행 속도를 체감하기",
+   "published_at": "2026-10-17T14:35:47+00:00",
+   "collected_at": "2026-10-17T17:01:00.394314+00:00",
+   "title_ko": "하드웨어별 로컬 LLM 실행 속도 체감 서비스 'Llmspeed'",
+   "summary_ko": "다양한 GPU와 하드웨어에서 로컬 LLM이 작동하는 속도를 미리 가늠해 볼 수 있는 도구입니다. AI 하드웨어 구매를 고민하는 사용자에게 유용합니다.",
+   "category": "팁",
+   "tags": [
+    "NVIDIA",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "7569497eee5cdb57",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8bqqs/cuda_faster_mmvq_for_lowbit_types_by_am17an_pull/",
+   "source": "r/LocalLLaMA",
+   "title": "CUDA: faster MMVQ for low-bit types by am17an · Pull Request #30517 · ggml-org/llama.cpp",
+   "published_at": "2026-10-17T14:33:53+00:00",
+   "collected_at": "2026-10-17T17:00:45.541848+00:00",
+   "title_ko": "llama.cpp, 저비트 양자화 위한 빠른 MMVQ 구현",
+   "summary_ko": "llama.cpp에 Q2_K 및 Q3_K 등 특정 저비트 양자화 모델의 연산 속도를 크게 높여주는 CUDA 최적화가 병합되었습니다. 로컬 LLM 추론 성능 향상에 기여합니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "f34e9f9b2f2a354c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8bb6b/deepseek_v41_flash_1017_now_leads_openweight/",
+   "source": "r/LocalLLaMA",
+   "title": "DeepSeek V4.1 Flash (1017) Now Leads Open-Weight Models",
+   "published_at": "2026-10-17T14:15:01+00:00",
+   "collected_at": "2026-10-17T17:00:45.541848+00:00",
+   "title_ko": "딥시크 V4.1 플래시, 오픈웨이트 모델 성능 1위 등극",
+   "summary_ko": "DeepSeek V4.1 Flash 모델이 새롭게 공개되며 오픈웨이트(공개 가중치) LLM 중 최고 성능을 기록했습니다. 오픈소스 AI 시장의 경쟁이 더욱 치열해지고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "5db71574b6d7de91",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8am0i/why_not_run_qwen_38_flash_next_with_the_full/",
+   "source": "r/LocalLLaMA",
+   "title": "Why not run Qwen 3.8 Flash Next with the full n-gram-table?",
+   "published_at": "2026-10-17T13:44:17+00:00",
+   "collected_at": "2026-10-17T17:00:45.541848+00:00",
+   "title_ko": "Qwen 3.8 플래시 넥스트의 n-gram 테이블 최적화 논의",
+   "summary_ko": "로컬 LLM 환경에서 SSD에 저장되는 n-gram 테이블(PLE)의 양자화 수준이 성능에 미치는 영향이 분석되었습니다. 고성능 실행을 위한 설정 팁을 제공합니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
    ]
   },
   {
@@ -2830,127 +2947,6 @@
    "summary_ko": "마이크로소프트가 기존 예보 모델의 오차를 머신러닝으로 보정해 2~6주 뒤의 중기 날씨 예측 정확도를 높이는 기술을 공개했다. 대규모 모델 개발 없이 기존 예보 성능을 개선할 수 있다.",
    "category": "참고",
    "tags": []
-  },
-  {
-   "id": "da477fe431408741",
-   "url": "https://www.reddit.com/r/singularity/comments/1x6qczp/gpt61_sol_examined_nearly_800_mathematics_papers/",
-   "source": "r/singularity",
-   "title": "GPT-6.1 Sol examined nearly 800 mathematics papers, finding major errors in 6% and minor mistakes in another 30%. Researchers estimate 90% of its major findings are correct. As AI adoption surged, the major-error rate in newer papers fell to just 1.5%.",
-   "published_at": "2026-10-15T16:29:23+00:00",
-   "collected_at": "2026-10-15T19:03:02.054546+00:00",
-   "title_ko": "GPT-6.1 Sol을 통한 수학 논문 오류 분석",
-   "summary_ko": "AI 모델이 수백 편의 수학 논문을 검토하여 오류를 찾아내는 등 학술 연구 검증 분야에서 AI의 활용도가 급증하고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "GPT",
-    "연구"
-   ]
-  },
-  {
-   "id": "72fc226582635752",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6qc3j/nemotron_35_bolt_vs_nemo_35_super_vs_qwen_38_27bfn/",
-   "source": "r/LocalLLaMA",
-   "title": "Nemotron 3.5 Bolt vs Nemo 3.5 Super vs Qwen 3.8 27B/FN",
-   "published_at": "2026-10-15T16:28:32+00:00",
-   "collected_at": "2026-10-15T19:02:49.035448+00:00",
-   "title_ko": "최신 LLM 벤치마크 성능 비교",
-   "summary_ko": "Nemotron, Qwen 등 최신 대형언어모델들의 주요 벤치마크 성능 수치를 비교한 데이터가 공개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "LLM",
-    "Qwen"
-   ]
-  },
-  {
-   "id": "6d26dc845c51e3d0",
-   "url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
-   "source": "The Verge",
-   "title": "Friends don’t let friends feed their data to AI agents",
-   "published_at": "2026-10-15T16:21:45+00:00",
-   "collected_at": "2026-10-15T19:02:22.196836+00:00",
-   "title_ko": "AI 개인 비서와 프라이버시 우려",
-   "summary_ko": "주변의 모든 데이터를 수집하는 AI 개인 비서 기기들이 대중화되면서 동의 없는 개인정보 수집에 대한 우려가 커지고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "Meta",
-    "AI 에이전트",
-    "규제"
-   ]
-  },
-  {
-   "id": "530e87a70410aaf3",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6q1w9/best_model_for_48gb_unified_ram_users/",
-   "source": "r/LocalLLaMA",
-   "title": "Best Model for 48gb Unified RAM users?",
-   "published_at": "2026-10-15T16:18:11+00:00",
-   "collected_at": "2026-10-15T19:02:49.035448+00:00",
-   "title_ko": "48GB 통합 램 환경을 위한 추천 로컬 모델",
-   "summary_ko": "제한된 컴퓨팅 환경과 48GB VRAM을 가진 기기에서 효율적으로 실행할 수 있는 최신 로컬 LLM 및 에이전트 구동 모델에 대한 논의입니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "f554bc984c8fcf84",
-   "url": "https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/",
-   "source": "Hacker News",
-   "title": "Market selloff, rising rates test AI data centre deal boom",
-   "published_at": "2026-10-15T16:17:40+00:00",
-   "collected_at": "2026-10-15T19:02:45.840424+00:00",
-   "title_ko": "금리 상승과 증시 매각이 AI 데이터센터 투자에 미치는 영향",
-   "summary_ko": "최근 시장 매각과 금리 상승 기조가 폭발적으로 성장하던 AI 데이터센터 관련 투자 붐에 제동을 걸고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "투자",
-    "반도체"
-   ]
-  },
-  {
-   "id": "31b762835336cce8",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216292",
-   "source": "AI타임스",
-   "title": "허사비스 \"AI 에이전트 해킹, 시스템 보안 강화 촉구하는 조기 경고\"",
-   "published_at": "2026-10-15T16:14:10+00:00",
-   "collected_at": "2026-10-15T09:46:49.651315+00:00",
-   "title_ko": "데미스 허사비스 \"AI 에이전트 해킹은 시스템 보안 강화 경고\"",
-   "summary_ko": "구글 딥마인드 수장이 최근 발생한 AI 에이전트 해킹 사고들을 시스템 보안 강화를 촉구하는 조기 경고로 규정했다. 향후 중대한 사고를 막기 위한 철저한 대비가 시급하다고 강조했다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "AI 에이전트",
-    "규제"
-   ]
-  },
-  {
-   "id": "1d4cff712a9a1281",
-   "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-   "source": "DeepMind",
-   "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-   "published_at": "2026-10-15T16:08:03+00:00",
-   "collected_at": "2026-10-15T19:02:35.916114+00:00",
-   "title_ko": "Google Antigravity를 활용한 항균 펩타이드 발굴",
-   "summary_ko": "구글의 과학용 플랫폼을 통해 새로운 항균 펩타이드 탐색 속도를 가속화하는 연구 성과가 발표되었습니다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "연구"
-   ]
-  },
-  {
-   "id": "a8e49667ef97bb49",
-   "url": "https://www.krea.ai/krea-3",
-   "source": "Hacker News",
-   "title": "Krea 3 – An image model built for editing at scale",
-   "published_at": "2026-10-15T16:04:05+00:00",
-   "collected_at": "2026-10-15T19:02:41.948441+00:00",
-   "title_ko": "대규모 편집 특화 이미지 모델 'Krea 3' 출시",
-   "summary_ko": "대규모 편집 작업에 최적화된 새로운 이미지 생성 및 편집 모델인 Krea 3가 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "AI"
-   ]
   }
  ]
 }

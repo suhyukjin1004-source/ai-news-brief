@@ -1,5 +1,92 @@
 [
  {
+  "id": "828e9e1a750b7ed8",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8ca9a/modify_and_load_custom_vbios_on_windows_and_linux/",
+  "source": "r/LocalLLaMA",
+  "title": "Modify and load custom VBIOS on Windows and Linux, on Blackwell 2.0 (RTX 50 Series)/Ada(RTX 40 Series)/Ampere (RTX 30 Series) without flasing, for example to lower power limits (and which cards were tested)",
+  "published_at": "2026-10-17T14:57:22+00:00",
+  "collected_at": "2026-10-17T17:00:45.541848+00:00",
+  "title_ko": "지포스 RTX 30~50시리즈용 커스텀 VBIOS 로더 및 수정 도구 공개",
+  "summary_ko": "플래싱 없이 레지스트리 패치를 통해 엔비디아 GPU의 전력 제한과 클럭을 조절할 수 있는 도구가 공개되었습니다. 로컬 AI 모델 구동 시 하드웨어 최적화에 유용합니다.",
+  "category": "팁",
+  "tags": [
+   "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
+  "id": "c015d91e9219d7b0",
+  "url": "https://news.hada.io/topic?id=35530",
+  "source": "GeekNews",
+  "title": "Claude로 더 효율적인 양자 회로 설계하기",
+  "published_at": "2026-10-17T14:38:47+00:00",
+  "collected_at": "2026-10-17T17:01:00.394314+00:00",
+  "title_ko": "Claude로 더 효율적인 양자 회로 설계",
+  "summary_ko": "Claude를 활용해 자연어 명세 기반의 양자 계산 회로를 설계하고 최적화하는 데 성공했습니다. 복잡한 과학 기술 분야에서 LLM의 활용도가 높아지고 있음을 보여줍니다.",
+  "category": "참고",
+  "tags": [
+   "Claude",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "7702ed4da90da393",
+  "url": "https://news.hada.io/topic?id=35529",
+  "source": "GeekNews",
+  "title": "Show HN: Llmspeed - 하드웨어 구매 전에 로컬 LLM 실행 속도를 체감하기",
+  "published_at": "2026-10-17T14:35:47+00:00",
+  "collected_at": "2026-10-17T17:01:00.394314+00:00",
+  "title_ko": "하드웨어별 로컬 LLM 실행 속도 체감 서비스 'Llmspeed'",
+  "summary_ko": "다양한 GPU와 하드웨어에서 로컬 LLM이 작동하는 속도를 미리 가늠해 볼 수 있는 도구입니다. AI 하드웨어 구매를 고민하는 사용자에게 유용합니다.",
+  "category": "팁",
+  "tags": [
+   "NVIDIA",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "7569497eee5cdb57",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8bqqs/cuda_faster_mmvq_for_lowbit_types_by_am17an_pull/",
+  "source": "r/LocalLLaMA",
+  "title": "CUDA: faster MMVQ for low-bit types by am17an · Pull Request #30517 · ggml-org/llama.cpp",
+  "published_at": "2026-10-17T14:33:53+00:00",
+  "collected_at": "2026-10-17T17:00:45.541848+00:00",
+  "title_ko": "llama.cpp, 저비트 양자화 위한 빠른 MMVQ 구현",
+  "summary_ko": "llama.cpp에 Q2_K 및 Q3_K 등 특정 저비트 양자화 모델의 연산 속도를 크게 높여주는 CUDA 최적화가 병합되었습니다. 로컬 LLM 추론 성능 향상에 기여합니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "f34e9f9b2f2a354c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8bb6b/deepseek_v41_flash_1017_now_leads_openweight/",
+  "source": "r/LocalLLaMA",
+  "title": "DeepSeek V4.1 Flash (1017) Now Leads Open-Weight Models",
+  "published_at": "2026-10-17T14:15:01+00:00",
+  "collected_at": "2026-10-17T17:00:45.541848+00:00",
+  "title_ko": "딥시크 V4.1 플래시, 오픈웨이트 모델 성능 1위 등극",
+  "summary_ko": "DeepSeek V4.1 Flash 모델이 새롭게 공개되며 오픈웨이트(공개 가중치) LLM 중 최고 성능을 기록했습니다. 오픈소스 AI 시장의 경쟁이 더욱 치열해지고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "5db71574b6d7de91",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8am0i/why_not_run_qwen_38_flash_next_with_the_full/",
+  "source": "r/LocalLLaMA",
+  "title": "Why not run Qwen 3.8 Flash Next with the full n-gram-table?",
+  "published_at": "2026-10-17T13:44:17+00:00",
+  "collected_at": "2026-10-17T17:00:45.541848+00:00",
+  "title_ko": "Qwen 3.8 플래시 넥스트의 n-gram 테이블 최적화 논의",
+  "summary_ko": "로컬 LLM 환경에서 SSD에 저장되는 n-gram 테이블(PLE)의 양자화 수준이 성능에 미치는 영향이 분석되었습니다. 고성능 실행을 위한 설정 팁을 제공합니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "965c6b5f8a0812b7",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x89ptz/qwen_27b_iq4_xs_q8q4_kv_at_full_262k_context_on_a/",
   "source": "r/LocalLLaMA",
