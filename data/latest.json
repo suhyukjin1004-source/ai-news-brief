@@ -1,8 +1,162 @@
 {
- "updated_at": "2026-10-18T00:52:22.393495+00:00",
+ "updated_at": "2026-10-18T05:44:44.308800+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "703e29986d1cd1c0",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216378",
+   "source": "AI타임스",
+   "title": "앤트로픽, 캐나다 첫 데이터센터 계약…일본서도 건설 협상 막바지",
+   "published_at": "2026-10-18T11:42:17+00:00",
+   "collected_at": "2026-10-18T05:44:24.658745+00:00",
+   "title_ko": "앤트로픽, 캐나다 첫 데이터센터 계약 체결 및 글로벌 인프라 확장",
+   "summary_ko": "앤트로픽이 캐나다 노바스코샤주의 데이터센터 용량을 임대하며 AI 모델 개발을 위한 인프라 확장에 나섰습니다. 전 세계적으로 대규모 컴퓨팅 자원을 선점하려는 행보의 일환입니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "반도체",
+    "투자"
+   ]
+  },
+  {
+   "id": "bde63aad8e4e7c9a",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216376",
+   "source": "AI타임스",
+   "title": "앤트로픽 ‘미소스 5’, 양자회로 설계 개선…53시간 만에 새 계산법 발견",
+   "published_at": "2026-10-18T11:11:42+00:00",
+   "collected_at": "2026-10-18T05:44:24.658745+00:00",
+   "title_ko": "앤트로픽 '미소스 5', AI 활용한 양자회로 설계 효율 개선",
+   "summary_ko": "앤트로픽의 AI 모델을 활용해 양자컴퓨터의 연산 효율을 대폭 높이는 새로운 계산법을 찾아냈습니다. AI가 과학 연구와 하드웨어 설계 도구로 활용될 가능성을 보여줍니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "연구"
+   ]
+  },
+  {
+   "id": "c4617e52c040715b",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216373",
+   "source": "AI타임스",
+   "title": "미국 은행들, 메타 ‘뮤즈’ 계좌 접근 차단…“AI가 옮긴 돈, 누가 책임지나”",
+   "published_at": "2026-10-18T09:41:18+00:00",
+   "collected_at": "2026-10-18T05:44:24.658745+00:00",
+   "title_ko": "미국 주요 은행, 메타 AI 에이전트의 고객 계좌 접근 차단",
+   "summary_ko": "미국 은행들이 보안 및 책임 문제로 메타의 개인용 AI 에이전트 '뮤즈' 등의 계좌 접근과 자동 이체를 제한하고 있습니다. AI 에이전트의 금융 서비스 진입 과정에서 규제와 마찰이 본격화되고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "Meta",
+    "AI 에이전트",
+    "규제"
+   ]
+  },
+  {
+   "id": "19ef7362b1ee367b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8u6eg/my_5070_ti3070_chimera_build/",
+   "source": "r/LocalLLaMA",
+   "title": "My 5070 ti/3070 Chimera build.",
+   "published_at": "2026-10-18T04:37:04+00:00",
+   "collected_at": "2026-10-18T05:44:11.389869+00:00",
+   "title_ko": "중고 부품과 다중 GPU를 활용한 로컬 LLM 구축기",
+   "summary_ko": "구형 그래픽카드를 조합하여 로컬 환경에서 대형 언어 모델을 구동하고 자동화 스크립트를 작성한 실사용 후기입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "NVIDIA",
+    "코딩"
+   ]
+  },
+  {
+   "id": "604bfec1a4174fdb",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8tr2c/deepseek_v41_flash_1017_for_dwarfstar_ds4/",
+   "source": "r/LocalLLaMA",
+   "title": "DeepSeek v4.1 Flash 1017 for Dwarfstar (ds4)",
+   "published_at": "2026-10-18T04:12:24+00:00",
+   "collected_at": "2026-10-18T05:44:11.389869+00:00",
+   "title_ko": "딥시크 V4.1 플래시 비전 타워 및 양자화 모델 공개",
+   "summary_ko": "오픈소스 진영에서 딥시크의 최신 모델 아키텍처를 로컬 시스템에서 효율적으로 구동할 수 있도록 변환한 양자화 버전이 공유되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "c02fda1519451f82",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8sq4z/autotrusts_hf_models_are_trending_thanks_to/",
+   "source": "r/LocalLLaMA",
+   "title": "AutoTrust's HF models are trending thanks to thousands of farmed likes",
+   "published_at": "2026-10-18T03:15:28+00:00",
+   "collected_at": "2026-10-18T05:44:11.389869+00:00",
+   "title_ko": "허깅페이스 내 허위 좋아요 조작 모델 주의보",
+   "summary_ko": "허깅페이스 플랫폼에서 자동화 계정을 동원해 좋아요를 조작하고 트렌딩 상위에 오른 특정 조직의 모델들에 대한 주의가 요구됩니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "302ace587bfea61d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8s73i/you_dont_need_that_expensive_of_a_build_for_local/",
+   "source": "r/LocalLLaMA",
+   "title": "You don’t need that expensive of a build for local llms.",
+   "published_at": "2026-10-18T02:46:36+00:00",
+   "collected_at": "2026-10-18T05:44:11.389869+00:00",
+   "title_ko": "저렴한 하드웨어로 대형 로컬 LLM 고속 구동하기",
+   "summary_ko": "고가의 다중 GPU 장비 없이 단일 그래픽카드와 최적화된 프레임워크를 이용해 대용량 문맥을 빠르게 처리하는 로컬 구축 팁입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "bc1fe8ab35dd11c2",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8ret6/the_whale_girl_mode_in_deepseekv41flash1017_is/",
+   "source": "r/LocalLLaMA",
+   "title": "The whale girl mode in DeepSeek-V4.1-Flash-1017 is still there.",
+   "published_at": "2026-10-18T02:04:22+00:00",
+   "collected_at": "2026-10-18T05:44:11.389869+00:00",
+   "title_ko": "딥시크 최신 모델에 숨겨진 특정 페르소나 모드 화제",
+   "summary_ko": "딥시크 V4.1 플래시 모델에서 특정 명령어를 통해 독특한 페르소나 모드를 활성화할 수 있는 이스터에그가 발견되었습니다.",
+   "category": "참고",
+   "tags": [
+    "LLM"
+   ]
+  },
+  {
+   "id": "b4f126248253bd5f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8qlvw/nine_models_five_coding_tasks_one_16gb_gpu/",
+   "source": "r/LocalLLaMA",
+   "title": "Nine models, five coding tasks, one 16GB GPU",
+   "published_at": "2026-10-18T01:22:03+00:00",
+   "collected_at": "2026-10-18T05:44:11.389869+00:00",
+   "title_ko": "단일 16GB GPU 환경에서의 코딩 모델 성능 벤치마크",
+   "summary_ko": "보급형 GPU 환경에서 여러 오픈소스 코딩 AI 모델들의 성능을 객관적으로 비교 평가한 테스트 결과입니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "코딩",
+    "LLM"
+   ]
+  },
+  {
+   "id": "834ca5dea0bb9cb5",
+   "url": "https://news.hada.io/topic?id=35557",
+   "source": "GeekNews",
+   "title": "Agent Substrate - AI 에이전트를 격리하고 대기 자원을 줄이는 Kubernetes 실행 환경",
+   "published_at": "2026-10-18T00:30:03+00:00",
+   "collected_at": "2026-10-18T05:44:25.906714+00:00",
+   "title_ko": "AI 에이전트 격리 및 자원 관리를 위한 쿠버네티스 실행 환경 등장",
+   "summary_ko": "다수의 AI 에이전트를 안전한 샌드박스에서 실행하고 대기 상태의 자원을 효율적으로 회수할 수 있는 인프라 도구가 소개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
   {
    "id": "6cc266c558da2f84",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8oqng/openspline_host_a_realtime_talking_avatar_on_a/",
@@ -377,6 +531,21 @@
    ]
   },
   {
+   "id": "59f1f537529db148",
+   "url": "https://github.com/openai/codex/issues/25921",
+   "source": "Hacker News",
+   "title": "Codex Desktop continuously generates Crashpad pending dumps",
+   "published_at": "2026-10-17T17:45:08+00:00",
+   "collected_at": "2026-10-18T05:44:09.994111+00:00",
+   "title_ko": "Codex Desktop, 연속적인 충돌 덤프 생성 이슈 발생",
+   "summary_ko": "OpenAI의 코덱스 데스크톱(Codex Desktop)에서 지속적으로 Crashpad 덤프가 생성되는 문제가 보고되었습니다. 개발 환경의 안정성 확인을 위해 관련 이슈를 주목할 필요가 있습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "코딩"
+   ]
+  },
+  {
    "id": "dd3a93748f45600f",
    "url": "https://www.reddit.com/r/singularity/comments/1x8fvvu/anthropic_cofounder_jack_clark_we_are_in_the/",
    "source": "r/singularity",
@@ -624,6 +793,21 @@
    "summary_ko": "로컬 LLM 환경에서 SSD에 저장되는 n-gram 테이블(PLE)의 양자화 수준이 성능에 미치는 영향이 분석되었습니다. 고성능 실행을 위한 설정 팁을 제공합니다.",
    "category": "참고",
    "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "bd9cf38076e09c9b",
+   "url": "https://simonwillison.net/2026/Oct/17/web-edit/",
+   "source": "Simon Willison",
+   "title": "web-edit 0.1a2",
+   "published_at": "2026-10-17T13:16:49+00:00",
+   "collected_at": "2026-10-18T05:44:10.599818+00:00",
+   "title_ko": "웹 파일 편집기 'web-edit 0.1a2' 릴리스",
+   "summary_ko": "원격 파일 브라우징 및 편집을 위한 웹 앱 'web-edit'가 업데이트되었습니다. 모바일에서 노트북의 AI 모델 프롬프트 로그를 다루는 등의 실무 작업에 유용합니다.",
+   "category": "팁",
+   "tags": [
+    "DeepSeek",
     "오픈소스"
    ]
   },
@@ -2775,184 +2959,6 @@
     "NVIDIA",
     "반도체",
     "오픈소스"
-   ]
-  },
-  {
-   "id": "9289bfdea5d0fc8d",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6w658/ternary_bonsai_2_2b_4b_and_9b_just_released_on/",
-   "source": "r/LocalLLaMA",
-   "title": "Ternary Bonsai 2 (2B, 4B, and 9B) just released on Hugging Face. The 2B can run entirely locally in the browser at up to 500 tok/s on an M4 Max with custom WebGPU kernels.",
-   "published_at": "2026-10-15T20:09:00+00:00",
-   "collected_at": "2026-10-15T22:10:28.919185+00:00",
-   "title_ko": "브라우저에서 초고속 구동되는 삼진 가중치 모델 '테너리 본사이 2' 출시",
-   "summary_ko": "웹GPU와 커널을 활용해 M4 맥에서 초당 500토큰 속도로 브라우저 내 로컬 실행이 가능한 경량 모델 '테너리 본사이 2'가 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "d5bac5a69bce90a0",
-   "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-   "source": "TechCrunch",
-   "title": "Meta launches an open-weight AI model that runs on Macs",
-   "published_at": "2026-10-15T20:04:53+00:00",
-   "collected_at": "2026-10-15T22:10:02.558376+00:00",
-   "title_ko": "메타, 애플 실리콘 맥에서 실행되는 오픈웨이트 AI 모델 출시",
-   "summary_ko": "메타가 애플과 협력하여 맥 환경에서 직접 구동할 수 있는 최신 오픈웨이트 AI 모델을 선보였습니다.",
-   "category": "중요",
-   "tags": [
-    "Meta",
-    "Apple",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "661320cc40ff6411",
-   "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
-   "source": "The Verge",
-   "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
-   "published_at": "2026-10-15T19:57:16+00:00",
-   "collected_at": "2026-10-15T22:10:02.708931+00:00",
-   "title_ko": "블루스카이, AI 기반 소셜 앱 및 게임 제작 도구 'Attie AI' 기능 확장",
-   "summary_ko": "블루스카이의 AI 도구를 이용해 사용자가 직접 미니 게임이나 여론조사 등의 소셜 웹 애플리케이션을 손쉽게 만들고 공유할 수 있게 되었습니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "a983409c8d0b9cd0",
-   "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-   "source": "TechCrunch",
-   "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-   "published_at": "2026-10-15T19:55:25+00:00",
-   "collected_at": "2026-10-15T22:10:02.558376+00:00",
-   "title_ko": "아마존 디바이스 총괄 \"AI 기기가 앱 사용을 대체할 것\"",
-   "summary_ko": "아마존의 파노스 파나이가 테크크런치 디스럽트에서 사용자의 명령을 기다리지 않고 미리 필요를 예측하는 앰비언트 AI 기기의 미래 비전을 제시했습니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "942de98c2290bccb",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6vqft/fp4_qad_quant_of_qwen38flashnext_from_nvidia/",
-   "source": "r/LocalLLaMA",
-   "title": "FP4 QAD quant of Qwen3.8-Flash-Next from Nvidia",
-   "published_at": "2026-10-15T19:52:44+00:00",
-   "collected_at": "2026-10-15T22:10:28.919185+00:00",
-   "title_ko": "엔비디아의 Qwen3.8-Flash-Next 기반 FP4 양자화 모델 공개",
-   "summary_ko": "엔비디아가 최적화한 고효율 FP4 양자화 모델이 공개되어 로컬 환경에서의 대형 모델 구동 효율성이 높아졌습니다.",
-   "category": "참고",
-   "tags": [
-    "NVIDIA",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "fc710191e832cb3b",
-   "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
-   "source": "Simon Willison",
-   "title": "Chirp Pong",
-   "published_at": "2026-10-15T19:47:52+00:00",
-   "collected_at": "2026-10-15T22:10:28.234797+00:00",
-   "title_ko": "클로드 코드를 활용한 마이크 오디오 통신 기반 2인용 퐁 게임 실험",
-   "summary_ko": "클로드 코드를 이용해 두 대의 스마트폰 마이크 오디오 신호로 데이터를 주고받으며 플레이하는 독창적인 웹 게임 실험 사례입니다.",
-   "category": "팁",
-   "tags": [
-    "Claude",
-    "코딩"
-   ]
-  },
-  {
-   "id": "484e2aaf1480f5fb",
-   "url": "https://news.hada.io/topic?id=35434",
-   "source": "GeekNews",
-   "title": "Anthropic의 Scion이 Mononoke를 베꼈다는 비판에 대한 추가 설명",
-   "published_at": "2026-10-15T19:43:06+00:00",
-   "collected_at": "2026-10-15T22:10:43.419557+00:00",
-   "title_ko": "Anthropic의 Scion 모델 모방 의혹 제기",
-   "summary_ko": "Mononoke 개발진이 Anthropic의 Scion이 데이터 모델 구조를 무단으로 모방했다고 비판했습니다.",
-   "category": "참고",
-   "tags": [
-    "Anthropic",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "8e1310d6331318c2",
-   "url": "https://news.hada.io/topic?id=35433",
-   "source": "GeekNews",
-   "title": "Krea 3 - 대규모 편집을 위해 설계된 이미지 모델",
-   "published_at": "2026-10-15T19:40:06+00:00",
-   "collected_at": "2026-10-15T22:10:43.419557+00:00",
-   "title_ko": "대규모 이미지 편집 전용 모델 Krea 3 공개",
-   "summary_ko": "Krea 3는 제품 일관성 유지와 대량 변형 이미지 제작을 위해 새로 학습된 편집 전용 이미지 모델입니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "e925c3137a8af8ad",
-   "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-   "source": "TechCrunch",
-   "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-   "published_at": "2026-10-15T19:14:26+00:00",
-   "collected_at": "2026-10-15T22:10:02.558376+00:00",
-   "title_ko": "Anthropic, METR 연구원에게 내부 접근 권한 전면 허용",
-   "summary_ko": "Anthropic이 외부 평가 기관인 METR에 직원 수준의 접근 권한을 부여하고 위험 평가 발행을 보장했습니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "규제"
-   ]
-  },
-  {
-   "id": "4802f37564139813",
-   "url": "https://news.hada.io/topic?id=35431",
-   "source": "GeekNews",
-   "title": "Muse Spark Open - M5 Ultra Mac Studio 두 대에서 실행하는 멀티모달 오픈 웨이트 모델",
-   "published_at": "2026-10-15T19:11:57+00:00",
-   "collected_at": "2026-10-15T22:10:43.419557+00:00",
-   "title_ko": "Meta, 코딩용 멀티모달 모델 Muse Spark Open 공개",
-   "summary_ko": "Meta가 장시간 작업과 다단계 추론을 지원하는 멀티모달 오픈 웨이트 모델 Muse Spark Open의 가중치를 공개했습니다.",
-   "category": "속보",
-   "tags": [
-    "Meta",
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "2e85537784e3b600",
-   "url": "https://news.hada.io/topic?id=35429",
-   "source": "GeekNews",
-   "title": "신경망은 깔끔하다",
-   "published_at": "2026-10-15T19:05:57+00:00",
-   "collected_at": "2026-10-15T22:10:43.419557+00:00",
-   "title_ko": "신경망 내부 구조의 직접적 이해 가능성 가설 제기",
-   "summary_ko": "신경망의 뉴런과 회로를 분해 없이 직접 이해할 수 있다는 가설과 함께 관련 현상들이 분석되었습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "a72d1e4da6b0e106",
-   "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-   "source": "OpenAI",
-   "title": "Bringing GPT-Rosalind to academic research labs",
-   "published_at": "2026-10-15T19:00:00+00:00",
-   "collected_at": "2026-10-15T22:10:15.911098+00:00",
-   "title_ko": "OpenAI, 학술 연구실 위한 'GPT-Rosalind' 플랜 출시",
-   "summary_ko": "OpenAI가 생명과학 연구 가속화를 위해 학술 연구실에 GPT-Rosalind 스폰서 접근 권한을 제공합니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "GPT"
    ]
   }
  ]
