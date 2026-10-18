@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-10-17T22:12:07.907749+00:00",
+ "updated_at": "2026-10-18T00:52:22.393495+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "6cc266c558da2f84",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8oqng/openspline_host_a_realtime_talking_avatar_on_a/",
+   "source": "r/LocalLLaMA",
+   "title": "Openspline - host a realtime talking avatar on a commercial GPU (90+ FPS on RTX4090)",
+   "published_at": "2026-10-17T23:48:06+00:00",
+   "collected_at": "2026-10-18T00:52:06.400991+00:00",
+   "title_ko": "오픈소스 실시간 AI 아바타 레이어 'Openspline' 공개",
+   "summary_ko": "상용 GPU에서 초당 90프레임 이상으로 작동하는 실시간 립싱크 아바타 오픈소스 프로젝트가 공개되어 음성 AI 에이전트와 쉽게 연동할 수 있게 되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트",
+    "NVIDIA"
+   ]
+  },
   {
    "id": "c2acf21e79d6c17a",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8m0jj/xolotl_strata_based_deepseekv41flash_552b_on_a/",
@@ -2937,20 +2953,6 @@
    "tags": [
     "OpenAI",
     "GPT"
-   ]
-  },
-  {
-   "id": "87dafab8fa4731d9",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6uaav/i_turned_a_transformer_into_a_game_console_that/",
-   "source": "r/LocalLLaMA",
-   "title": "I turned a transformer into a game console that runs Pong, Tetris, Space Invaders and 116 more games.",
-   "published_at": "2026-10-15T18:57:13+00:00",
-   "collected_at": "2026-10-15T22:10:28.919185+00:00",
-   "title_ko": "트랜스포머 모델을 게임 콘솔로 변환",
-   "summary_ko": "디코더 전용 트랜스포머 모델 자체가 게임 엔진 역할을 하여 폰과 테트리스 등을 구동하는 실험이 공개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
    ]
   }
  ]
