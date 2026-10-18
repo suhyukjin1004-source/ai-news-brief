@@ -1,5 +1,95 @@
 [
  {
+  "id": "237d24490102a70c",
+  "url": "https://news.hada.io/topic?id=35575",
+  "source": "GeekNews",
+  "title": "Show GN: AIPath - 생성형 AI 지식을 직무별 시험과 해설로 점검하는 서비스",
+  "published_at": "2026-10-18T13:09:18+00:00",
+  "collected_at": "2026-10-18T14:29:52.845012+00:00",
+  "title_ko": "생성형 AI 지식 점검 서비스 'AIPath' 출시",
+  "summary_ko": "직무별 생성형 AI 활용 능력과 보안 지식을 시험과 해설을 통해 점검할 수 있는 서비스가 공개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "ChatGPT",
+   "Claude",
+   "Gemini"
+  ]
+ },
+ {
+  "id": "681291b89a396469",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x92rdf/what_quant_do_you_actually_use_day_to_day_anyone/",
+  "source": "r/LocalLLaMA",
+  "title": "What quant do you actually use day to day? Anyone happy with 2-bit or 3-bit?",
+  "published_at": "2026-10-18T13:05:32+00:00",
+  "collected_at": "2026-10-18T14:29:38.467076+00:00",
+  "title_ko": "로컬 LLM 양자화(Quantization) 실사용 경험 공유",
+  "summary_ko": "개발자들이 실무에서 2비트, 3비트, 4비트 등 다양한 양자화 모델을 사용할 때 체감하는 성능과 손실에 대한 토론입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "3b3d733b4acee442",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x92ejs/auroraasr1m_releases/",
+  "source": "r/LocalLLaMA",
+  "title": "AuroraASR-1M Releases!",
+  "published_at": "2026-10-18T12:48:33+00:00",
+  "collected_at": "2026-10-18T14:29:38.467076+00:00",
+  "title_ko": "초경량 음성 인식 모델 'AuroraASR-1M' 공개",
+  "summary_ko": "1MB 크기에 CPU에서 고속 구동이 가능한 초경량 음성 인식 모델이 오픈소스로 출시되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "40fb27ccef0ede13",
+  "url": "https://news.hada.io/topic?id=35574",
+  "source": "GeekNews",
+  "title": "Show GN: 시그렌즈(SIGLENS): 코드로 계산한 시장 데이터를 근거로 LLM이 해석하는 분석 서비스",
+  "published_at": "2026-10-18T12:17:15+00:00",
+  "collected_at": "2026-10-18T14:29:52.845012+00:00",
+  "title_ko": "코드 기반 시장 데이터와 LLM 결합 분석 서비스 '시그렌즈'",
+  "summary_ko": "주식 및 코인 데이터를 코드로 계산하고, LLM이 이를 바탕으로 시장을 해석해주는 에이전트 서비스입니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "21cc94094aa97b7c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x91svd/two_pallets_of_zotac_rtx_5090_graphics_cards/",
+  "source": "r/LocalLLaMA",
+  "title": "Two pallets of ZOTAC RTX 5090 graphics cards worth $470,000 disappear at Brazilian airport",
+  "published_at": "2026-10-18T12:16:59+00:00",
+  "collected_at": "2026-10-18T14:29:38.467076+00:00",
+  "title_ko": "브라질 공항서 47만 달러 상당 RTX 5090 그래픽카드 도난",
+  "summary_ko": "AI 학습 및 연산에 쓰이는 고성능 그래픽카드 물량이 공항에서 대거 사라지는 사건이 발생했습니다.",
+  "category": "속보",
+  "tags": [
+   "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
+  "id": "f5e0c0483a616320",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x91ou3/mellum2_model_from_jetbrains/",
+  "source": "r/LocalLLaMA",
+  "title": "Mellum2 model from JetBrains",
+  "published_at": "2026-10-18T12:10:56+00:00",
+  "collected_at": "2026-10-18T14:29:38.467076+00:00",
+  "title_ko": "젯브레인의 새로운 코딩 모델 'Mellum2' 등장",
+  "summary_ko": "개발도구 기업 젯브레인이 허깅페이스에 공개한 새로운 AI 모델 Mellum2의 성능에 대한 개발자들의 관심이 모이고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
   "id": "703e29986d1cd1c0",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216378",
   "source": "AI타임스",
@@ -32,6 +122,35 @@
   ]
  },
  {
+  "id": "248d3aa608b3fa71",
+  "url": "https://www.anthropic.com/research/employment-at-anthropic",
+  "source": "Hacker News",
+  "title": "How employment is changing at Anthropic",
+  "published_at": "2026-10-18T10:49:26+00:00",
+  "collected_at": "2026-10-18T14:29:37.559124+00:00",
+  "title_ko": "앤스로픽의 고용 형태 변화 분석",
+  "summary_ko": "AI 안전성과 연구에 집중하는 앤스로픽 내부의 채용 및 조직 구조 변화를 다룬 글입니다.",
+  "category": "참고",
+  "tags": [
+   "Anthropic"
+  ]
+ },
+ {
+  "id": "2c51e8faae6beb4a",
+  "url": "https://news.hada.io/topic?id=35573",
+  "source": "GeekNews",
+  "title": "Show HN: Sphinx - AI가 작성한 코드를 배포하기 전에 이해도를 묻는 훅",
+  "published_at": "2026-10-18T10:31:25+00:00",
+  "collected_at": "2026-10-18T14:29:52.845012+00:00",
+  "title_ko": "AI 작성 코드 검증을 위한 Git 훅 'Sphinx'",
+  "summary_ko": "AI 에이전트가 작성한 코드를 배포하기 전, 개발자가 코드의 동작을 정확히 이해하고 있는지 확인하는 도구입니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
   "id": "1e7d97c4b5203ddf",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8zj9j/new_quant_types_suggested_iq2_k_iq3_k_iq4_k_iq5_k/",
   "source": "r/LocalLLaMA",
@@ -44,6 +163,20 @@
   "tags": [
    "오픈소스",
    "코딩"
+  ]
+ },
+ {
+  "id": "fda6723b61ae0360",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8za17/buying_strix_halo_right_now/",
+  "source": "r/LocalLLaMA",
+  "title": "Buying Strix Halo right now?",
+  "published_at": "2026-10-18T09:49:58+00:00",
+  "collected_at": "2026-10-18T14:29:38.467076+00:00",
+  "title_ko": "Strix Halo 기반 미니 PC 실구매 가치 논론",
+  "summary_ko": "고성능 온디바이스 AI 구동을 위한 하드웨어 기기의 중고 구매 타당성에 대한 커뮤니티 토론입니다.",
+  "category": "참고",
+  "tags": [
+   "반도체"
   ]
  },
  {
