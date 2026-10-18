@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T14:29:56.222555+00:00",
+ "updated_at": "2026-10-18T18:00:58.709561+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -52,6 +52,21 @@
    ]
   },
   {
+   "id": "555d480e9c082c45",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x98bby/psa_power_limit_your_5090s/",
+   "source": "r/LocalLLaMA",
+   "title": "PSA: Power limit your 5090s!",
+   "published_at": "2026-10-18T17:02:33+00:00",
+   "collected_at": "2026-10-18T18:00:40.975091+00:00",
+   "title_ko": "RTX 5090 성능 튜닝 시 전력 제한 주의",
+   "summary_ko": "다수의 RTX 5090을 구동하며 성능을 높이던 중 전력 과부하로 벽면 콘센트가 녹아내리는 사고가 발생했습니다. 고성능 AI 하드웨어 구축 시 전력 인프라 점검의 중요성을 보여줍니다.",
+   "category": "팁",
+   "tags": [
+    "NVIDIA",
+    "반도체"
+   ]
+  },
+  {
    "id": "5d1b9ee580cd6347",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216374",
    "source": "AI타임스",
@@ -67,6 +82,21 @@
    ]
   },
   {
+   "id": "218f77bb959f0137",
+   "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+   "source": "TechCrunch",
+   "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+   "published_at": "2026-10-18T16:30:00+00:00",
+   "collected_at": "2026-10-18T17:59:51.236440+00:00",
+   "title_ko": "디즈니, 파산한 Character.AI 인력 대거 고용",
+   "summary_ko": "챗봇 스타트업 Character.AI가 파산한 후, 디즈니가 이들의 인력 다수를 흡수하기로 했습니다. 전 CEO가 디즈니의 첫 CTO로 합류한 데 이어 인재 확보까지 이어지는 빅테크의 AI 인재 영입 사례입니다.",
+   "category": "중요",
+   "tags": [
+    "Character.AI",
+    "투자"
+   ]
+  },
+  {
    "id": "f75410e03cf35250",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216372",
    "source": "AI타임스",
@@ -78,6 +108,51 @@
    "category": "중요",
    "tags": [
     "Meta",
+    "규제"
+   ]
+  },
+  {
+   "id": "e8dc019b7c309e71",
+   "url": "https://news.hada.io/topic?id=35578",
+   "source": "GeekNews",
+   "title": "법률 전문가들, Meta의 새 약관이 여전히 광범위한 스크래핑을 허용한다고 경고",
+   "published_at": "2026-10-18T15:31:59+00:00",
+   "collected_at": "2026-10-18T18:00:55.365434+00:00",
+   "title_ko": "법률 전문가들, Meta의 새 약관도 여전히 스크래핑 허용 경고",
+   "summary_ko": "Meta가 비즈니스 약관에서 '학습' 문구를 삭제했음에도 불구하고, 여전히 웹사이트 데이터를 수집해 AI 학습에 활용할 여지가 크다는 법률 전문가들의 지적이 나왔습니다.",
+   "category": "중요",
+   "tags": [
+    "Meta",
+    "규제"
+   ]
+  },
+  {
+   "id": "27fb8d94f9b5285e",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x95491/unslothdeepseekv41flash1017gguf_hugging_face/",
+   "source": "r/LocalLLaMA",
+   "title": "unsloth/DeepSeek-V4.1-Flash-1017-GGUF · Hugging Face",
+   "published_at": "2026-10-18T14:51:58+00:00",
+   "collected_at": "2026-10-18T18:00:40.975091+00:00",
+   "title_ko": "unsloth, DeepSeek-V4.1-Flash GGUF 모델 공개",
+   "summary_ko": "Unsloth 팀이 DeepSeek의 최신 모델인 V4.1-Flash의 GGUF 양자화 버전을 허깅페이스에 업로드했습니다. 로컬 환경에서 대형 언어 모델을 효율적으로 구동하려는 개발자들에게 유용합니다.",
+   "category": "속보",
+   "tags": [
+    "DeepSeek",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "b9a4c6eaaadf6fb2",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+   "source": "Hacker News",
+   "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+   "published_at": "2026-10-18T14:30:27+00:00",
+   "collected_at": "2026-10-18T18:00:40.055003+00:00",
+   "title_ko": "앤스로픽 제안 AI 안전 법안, 대규모 피해 발생 시에만 적용",
+   "summary_ko": "앤스로픽이 제안한 AI 안전 관련 법안이 50명의 사망자나 10억 달러 이상의 피해가 발생할 우려가 있는 경우에만 발동되는 것으로 나타났습니다. 상무부가 AI 모델을 통제할 핵심 기관으로 부상할 전망입니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
     "규제"
    ]
   },
@@ -125,6 +200,20 @@
    "tags": [
     "오픈소스",
     "반도체"
+   ]
+  },
+  {
+   "id": "fddfdf1ddcc1df13",
+   "url": "https://www.vals.ai/blogs/impossible-refund",
+   "source": "Hacker News",
+   "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+   "published_at": "2026-10-18T12:22:58+00:00",
+   "collected_at": "2026-10-18T18:00:40.055003+00:00",
+   "title_ko": "AI 에이전트의 불가능한 환불 요구 실험 결과",
+   "summary_ko": "AI 어시스턴트가 불가능한 환불을 처리하기 위해 어디까지 시도하는지 분석한 연구입니다. AI 에이전트의 자율성과 한계를 파악하는 데 중요한 시사점을 줍니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트"
    ]
   },
   {
@@ -788,6 +877,21 @@
    "tags": [
     "AI 에이전트",
     "코딩"
+   ]
+  },
+  {
+   "id": "b0acfed240231fd1",
+   "url": "https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself",
+   "source": "Hacker News",
+   "title": "The math that OpenAI keeps for itself",
+   "published_at": "2026-10-17T19:22:52+00:00",
+   "collected_at": "2026-10-18T18:00:40.055003+00:00",
+   "title_ko": "OpenAI가 공개하지 않는 핵심 수학 연구 분석",
+   "summary_ko": "OpenAI가 자사 모델의 핵심 경쟁력 유지를 위해 외부로 공개하지 않고 내부적으로 유지하는 수학적 방법론과 연구 방향성을 다룬 분석 글입니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "GPT"
    ]
   },
   {
@@ -2867,113 +2971,6 @@
    "tags": [
     "AI 에이전트",
     "Claude"
-   ]
-  },
-  {
-   "id": "742201c756cc03bd",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216326",
-   "source": "AI타임스",
-   "title": "FTC, 오픈AI·앤트로픽에 소환장 발부…\"AI 안전사고·소비자 피해 조사\"",
-   "published_at": "2026-10-16T12:35:02+00:00",
-   "collected_at": "2026-10-16T07:02:47.870711+00:00",
-   "title_ko": "미 FTC, 오픈아이·앤트로픽에 AI 안전사고 관련 소환장 발부",
-   "summary_ko": "미 연방거래위원회(FTC)가 AI 모델의 기만적 행동과 안전사고 조사를 위해 오픈AI와 앤트로픽에 소환장을 보냈다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "Anthropic",
-    "규제"
-   ]
-  },
-  {
-   "id": "3685fc38d3ff5d88",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7ey7i/openmoss_releases_mossimage/",
-   "source": "r/LocalLLaMA",
-   "title": "OpenMOSS releases MOSS-Image",
-   "published_at": "2026-10-16T12:30:53+00:00",
-   "collected_at": "2026-10-16T17:19:55.718175+00:00",
-   "title_ko": "OpenMOSS, 이미지 생성 모델 'MOSS-Image' 공개",
-   "summary_ko": "OpenMOSS에서 아파치 라이선스로 베이스 이미지 생성 모델인 MOSS-Image를 출시하며 타사 모델과의 성능 비교가 주목받고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "Google"
-   ]
-  },
-  {
-   "id": "3380434d576fccd8",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216322",
-   "source": "AI타임스",
-   "title": "엔비디아, 기업용 에이전트 겨냥 120B ‘네모트론 3.5 슈퍼 VL’ 오픈 공개",
-   "published_at": "2026-10-16T12:09:13+00:00",
-   "collected_at": "2026-10-16T07:02:47.870711+00:00",
-   "title_ko": "엔비디아, 기업용 멀티모달 모델 '네모트론 3.5 슈퍼 VL' 공개",
-   "summary_ko": "엔비디아가 문서와 영상 등을 통합 추론하는 기업용 오픈웨이트 모델을 선보이며 에이전트 시장 공략에 나섰다.",
-   "category": "속보",
-   "tags": [
-    "NVIDIA",
-    "오픈소스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "7bf04f5c3b8a6a7f",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7cc2z/tencenthymemory30ba3b_hugging_face/",
-   "source": "r/LocalLLaMA",
-   "title": "tencent/Hy-Memory-30B-A3B · Hugging Face",
-   "published_at": "2026-10-16T10:10:59+00:00",
-   "collected_at": "2026-10-16T12:18:28.500783+00:00",
-   "title_ko": "텐센트, 메모리 성능 강화한 오픈소스 모델 'Hy-Memory-30B' 공개",
-   "summary_ko": "텐센트가 메모리 처리 능력을 강조한 30B 규모의 오픈소스 AI 모델을 허깅페이스에 공개했습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "db90e2771d99f466",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216309",
-   "source": "AI타임스",
-   "title": "메타, ‘뮤즈 스파크 오픈’ 공개…맥 2대로 구동·미국 최고 성능 내세워",
-   "published_at": "2026-10-16T06:17:00+00:00",
-   "collected_at": "2026-10-15T22:10:42.270800+00:00",
-   "title_ko": "메타, 맥에서 구동되는 오픈웨이트 모델 ‘뮤즈 스파크 오픈’ 공개",
-   "summary_ko": "메타가 애플 실리콘 맥 환경에 최적화된 대형 멀티모달 오픈웨이트 모델 '뮤즈 스파크 오픈'을 공개하며 로컬 AI 개발 환경을 강화했습니다.",
-   "category": "중요",
-   "tags": [
-    "Meta",
-    "오픈소스",
-    "Apple"
-   ]
-  },
-  {
-   "id": "e5f5ef7051be8fac",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x786l8/rtx_2080_ti_22gb_modded_card_for_local_llm/",
-   "source": "r/LocalLLaMA",
-   "title": "RTX 2080 Ti 22GB modded card for local LLM inference – anyone tested one?",
-   "published_at": "2026-10-16T05:50:23+00:00",
-   "collected_at": "2026-10-16T07:02:34.828051+00:00",
-   "title_ko": "로컬 LLM 추론용 개조된 RTX 2080 Ti 22GB 활용기",
-   "summary_ko": "저예산 로컬 AI 서버 구축을 위해 VRAM을 22GB로 개조한 그래픽카드의 성능과 활용성에 대한 논의다.",
-   "category": "팁",
-   "tags": [
-    "반도체",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "7c970ef6966c1ade",
-   "url": "https://news.hada.io/topic?id=35465",
-   "source": "GeekNews",
-   "title": "Show GN: livero: 48KiB RAM에서 도는 인덱스 없는 온디바이스 벡터 DB",
-   "published_at": "2026-10-16T05:47:53+00:00",
-   "collected_at": "2026-10-16T07:02:48.996595+00:00",
-   "title_ko": "온디바이스 환경을 위한 경량 벡터 DB 'livero'",
-   "summary_ko": "48KiB의 고정 메모리만 사용하여 모바일과 MCU에서 동작하는 인덱스 없는 온디바이스 벡터 데이터베이스다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
    ]
   }
  ]
