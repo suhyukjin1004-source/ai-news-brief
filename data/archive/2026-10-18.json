@@ -32,6 +32,21 @@
   ]
  },
  {
+  "id": "1e7d97c4b5203ddf",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8zj9j/new_quant_types_suggested_iq2_k_iq3_k_iq4_k_iq5_k/",
+  "source": "r/LocalLLaMA",
+  "title": "New quant types suggested: IQ2_K, IQ3_K, IQ4_K, IQ5_K and IQ6_K",
+  "published_at": "2026-10-18T10:06:03+00:00",
+  "collected_at": "2026-10-18T10:54:03.451045+00:00",
+  "title_ko": "llama.cpp, 새로운 IQ_K 양자화 유형 제안",
+  "summary_ko": "llama.cpp 오픈소스 프로젝트에 파일 크기는 유지하면서 성능을 개선한 새로운 양자화 유형(IQ2_K~IQ6_K) 풀이 제안되었습니다. 로컬 LLM 구동 효율성을 높이는 데 기여합니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
   "id": "c4617e52c040715b",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216373",
   "source": "AI타임스",
@@ -48,6 +63,157 @@
   ]
  },
  {
+  "id": "1fa884bd58c736bc",
+  "url": "https://news.hada.io/topic?id=35571",
+  "source": "GeekNews",
+  "title": "DeepSeek 검색 및 페이지 가져오기 API, 성공 요청 1,000건당 0.75달러",
+  "published_at": "2026-10-18T09:34:27+00:00",
+  "collected_at": "2026-10-18T10:54:17.569976+00:00",
+  "title_ko": "딥시크, 검색 및 페이지 가져오기 API 출시",
+  "summary_ko": "딥시크가 실시간 웹 콘텐츠 접근을 제공하는 검색 및 Fetch API를 성공 요청 1,000건당 0.75달러에 출시했습니다. RAG 및 에이전트 개발 비용을 크게 낮출 것으로 기대됩니다.",
+  "category": "속보",
+  "tags": [
+   "투자",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "9adaeb9bfb66d1dd",
+  "url": "https://news.hada.io/topic?id=35569",
+  "source": "GeekNews",
+  "title": "Ask GN: AI 에이전트의 메모리는 어떻게 구현하고 있나요?",
+  "published_at": "2026-10-18T09:27:54+00:00",
+  "collected_at": "2026-10-18T10:54:17.569976+00:00",
+  "title_ko": "AI 에이전트 메모리 구현 방식에 대한 개발자 토론",
+  "summary_ko": "개발자들이 AI 에이전트의 장기 기억 구현을 위해 벡터 DB나 Mem0 같은 외부 서비스 활용 방안을 논의합니다. 실무에서 에이전트 아키텍처를 구성할 때 참고하기 좋은 주제입니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "fe9af1fc8236894e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8yc8d/agens_volundr_32b_v1_we_fixed_what_you_flagged_in/",
+  "source": "r/LocalLLaMA",
+  "title": "Agens Volundr 32B v1: we fixed what you flagged in the Preview. 0/50 loops, session continuation, and an MIT engine that runs it with 262K context (measured to 239K) within a 16 GB budget",
+  "published_at": "2026-10-18T08:49:35+00:00",
+  "collected_at": "2026-10-18T10:54:03.451045+00:00",
+  "title_ko": "오픈 모델 'Agens Volundr 32B v1' 출시",
+  "summary_ko": "블록웨이에서 반복 루프와 긴 추론 문제를 개선한 32B 오픈 모델 v1을 공개했습니다. 제한된 하드웨어 환경에서도 긴 컨텍스트를 효율적으로 처리할 수 있습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "1e28de78feb4976a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8wmbp/told_qwen38_27b_to_hack_my_router/",
+  "source": "r/LocalLLaMA",
+  "title": "told Qwen3.8 27b to hack my router",
+  "published_at": "2026-10-18T07:02:09+00:00",
+  "collected_at": "2026-10-18T10:54:03.451045+00:00",
+  "title_ko": "일반 Qwen 모델을 활용한 라우터 펌웨어 교체 사례",
+  "summary_ko": "사용자가 엄격한 검열이 걸리지 않은 일반 Qwen 모델을 이용해 라우터 펌웨어를 성공적으로 변경한 사례가 공유되었습니다. AI 모델의 가드레일과 보안 한계에 대한 논의를 촉발합니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "규제"
+  ]
+ },
+ {
+  "id": "48479cd7194ad72c",
+  "url": "https://api-docs.deepseek.com/guides/search/",
+  "source": "Hacker News",
+  "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+  "published_at": "2026-10-18T06:50:36+00:00",
+  "collected_at": "2026-10-18T10:53:49.255870+00:00",
+  "title_ko": "딥시크, 웹 검색 및 Fetch API 공개",
+  "summary_ko": "딥시크가 개발자와 에이전트를 위한 웹 검색 및 가져오기 API를 합리적인 가격에 공개했습니다. 실시간 정보 연동이 필요한 애플리케이션 개발에 유용합니다.",
+  "category": "속보",
+  "tags": [
+   "투자",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "1d994a9e742534b7",
+  "url": "https://news.hada.io/topic?id=35565",
+  "source": "GeekNews",
+  "title": "Codex Desktop이 Crashpad 대기 덤프를 계속 생성하는 문제",
+  "published_at": "2026-10-18T06:33:12+00:00",
+  "collected_at": "2026-10-18T10:54:17.569976+00:00",
+  "title_ko": "Codex Desktop, 충돌 덤프 백그라운드 누적 버그 발생",
+  "summary_ko": "macOS 환경의 Codex 및 ChatGPT 앱에서 백그라운드 충돌 덤프가 무한 생성되어 디스크 용량을 소모하는 문제가 보고되었습니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "코딩",
+   "macOS"
+  ]
+ },
+ {
+  "id": "050f5b60f7f4987d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8vl4i/made_sum_crap_that_beats_jev/",
+  "source": "r/LocalLLaMA",
+  "title": "Made sum crap that beats Jev",
+  "published_at": "2026-10-18T06:00:00+00:00",
+  "collected_at": "2026-10-18T10:54:03.451045+00:00",
+  "title_ko": "허깅페이스에 공개된 새로운 오픈소스 LLM 테스트",
+  "summary_ko": "개발자가 커뮤니티 피드백을 위해 허깅페이스 스페이스에 새로운 오픈소스 LLM 모델을 공개하고 테스트를 진행 중입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "8b008924045b8661",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8v7cp/ling_31_flash_560b_moe_loaded_across_4_dgx_sparks/",
+  "source": "r/LocalLLaMA",
+  "title": "Ling 3.1 Flash (560B MoE) loaded across 4 DGX Sparks using llama.cpp RPC",
+  "published_at": "2026-10-18T05:37:02+00:00",
+  "collected_at": "2026-10-18T10:54:03.451045+00:00",
+  "title_ko": "560B MoE 모델 'Ling 3.1 Flash'를 다중 DGX Spark에 분산 구동",
+  "summary_ko": "llama.cpp RPC를 활용해 560B MoE 모델을 4대의 DGX Spark 기기에 나누어 성공적으로 로드하고 구동한 사례가 공유되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "반도체",
+   "LLM"
+  ]
+ },
+ {
+  "id": "d26e11b8987c3be3",
+  "url": "https://news.hada.io/topic?id=35564",
+  "source": "GeekNews",
+  "title": "우리는 소프트웨어 엔지니어다 - AI 고민도 결국 우리가 늘 하던 일",
+  "published_at": "2026-10-18T05:10:38+00:00",
+  "collected_at": "2026-10-18T10:54:17.569976+00:00",
+  "title_ko": "AI 시대 소프트웨어 엔지니어의 역할과 대응 방안",
+  "summary_ko": "불확실한 AI 시대에 개발자가 겪는 고민을 기존의 소프트웨어 엔지니어링 원칙과 견고성 확보를 통해 해결하는 방안을 다룹니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "909ab7f64cba26fa",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8uqig/what_are_the_odds_qwen_4_models_are_going_to/",
+  "source": "r/LocalLLaMA",
+  "title": "What are the odds Qwen 4 models are going to think less?",
+  "published_at": "2026-10-18T05:09:25+00:00",
+  "collected_at": "2026-10-18T10:54:03.451045+00:00",
+  "title_ko": "향후 Qwen 모델의 추론 과정 최적화에 대한 기대",
+  "summary_ko": "사용자들이 차세대 Qwen 모델에서는 과도한 추론(Thinking) 토큰 소비가 줄어들고 효율성이 개선되기를 기대하는 목소리가 나오고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "LLM"
+  ]
+ },
+ {
   "id": "19ef7362b1ee367b",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8u6eg/my_5070_ti3070_chimera_build/",
   "source": "r/LocalLLaMA",
@@ -61,6 +227,22 @@
    "오픈소스",
    "NVIDIA",
    "코딩"
+  ]
+ },
+ {
+  "id": "d3c35db34ec3acb3",
+  "url": "https://sphinx-six-theta.vercel.app/",
+  "source": "Hacker News",
+  "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+  "published_at": "2026-10-18T04:33:49+00:00",
+  "collected_at": "2026-10-18T10:53:49.255870+00:00",
+  "title_ko": "AI 코딩 에이전트의 코드 이해도를 검증하는 오픈소스 'Sphinx'",
+  "summary_ko": "배포 전 AI가 작성한 코드의 작동 방식을 개발자가 정확히 이해하고 있는지 퀴즈를 통해 확인하는 도구가 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "코딩",
+   "오픈소스"
   ]
  },
  {
