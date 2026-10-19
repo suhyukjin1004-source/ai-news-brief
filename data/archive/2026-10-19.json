@@ -1,5 +1,20 @@
 [
  {
+  "id": "7dc418464c0e571c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9yvgw/istadaslabqwen38flashnextgsqrcocodergguf_updated/",
+  "source": "r/LocalLLaMA",
+  "title": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF updated",
+  "published_at": "2026-10-19T14:47:14+00:00",
+  "collected_at": "2026-10-19T20:31:55.713076+00:00",
+  "title_ko": "Qwen 기반 GGUF 양자화 모델 업데이트 버전 공개",
+  "summary_ko": "전문가 가중치를 최적화하여 영어 성능에 집중하고 용량을 효율화한 오픈소스 모델 GGUF 버전이 업데이트되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "로컬LLM"
+  ]
+ },
+ {
   "id": "c82e113189af6f9a",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216390",
   "source": "AI타임스",
@@ -249,6 +264,21 @@
   "tags": [
    "OpenAI",
    "GPT"
+  ]
+ },
+ {
+  "id": "448617650f8a8e3b",
+  "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+  "source": "TechCrunch",
+  "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+  "published_at": "2026-10-19T12:30:00+00:00",
+  "collected_at": "2026-10-19T20:31:23.640947+00:00",
+  "title_ko": "라플라스 인텔리전스, 배포 전 로봇 및 자율주행차 대상 AI 시뮬레이션 검증 수행",
+  "summary_ko": "AI 에이전트와 대화형 시뮬레이션을 활용해 로봇과 자율주행 시스템의 안전성을 실전 전에 스트레스 테스트하는 스타트업이 주목받고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "로보틱스",
+   "AI 에이전트"
   ]
  },
  {
@@ -672,6 +702,21 @@
   "category": "참고",
   "tags": [
    "코딩"
+  ]
+ },
+ {
+  "id": "9dbc0d55ff9123c6",
+  "url": "https://huggingface.co/blog/hf-torchneuron",
+  "source": "Hugging Face",
+  "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+  "published_at": "2026-10-19T00:00:00+00:00",
+  "collected_at": "2026-10-19T20:31:37.841423+00:00",
+  "title_ko": "AWS 트레이니움에서 허깅페이스 모델 실행을 돕는 TorchNeuron 업데이트",
+  "summary_ko": "AWS의 AI 가속기 트레이니움에서 허깅페이스 모델을 더욱 쉽고 빠르게 실행할 수 있도록 지원하는 기능이 개선되었습니다.",
+  "category": "팁",
+  "tags": [
+   "반도체",
+   "인프라"
   ]
  },
  {

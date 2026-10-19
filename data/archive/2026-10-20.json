@@ -1,5 +1,243 @@
 [
  {
+  "id": "8a1ba0c934b076ba",
+  "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+  "source": "TechCrunch",
+  "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+  "published_at": "2026-10-19T20:09:24+00:00",
+  "collected_at": "2026-10-19T20:31:23.640947+00:00",
+  "title_ko": "아마존, 엔비디아 PyTorch 독점 견제 위한 TorchNeuron 공개",
+  "summary_ko": "아마존이 개발자들이 자사 대체 칩에서 AI 앱을 실행할 수 있도록 돕는 새로운 개발 도구인 TorchNeuron을 출시했습니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "5b9d860ab89a7aad",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa6ykz/has_anyone_else_here_found_a_place_for/",
+  "source": "r/LocalLLaMA",
+  "title": "Has anyone else here found a place for DiffusionGemma in their local work?",
+  "published_at": "2026-10-19T19:46:24+00:00",
+  "collected_at": "2026-10-19T20:31:55.713076+00:00",
+  "title_ko": "고속 로컬 이미지 분석을 위한 DiffusionGemma 활용기",
+  "summary_ko": "빠른 속도로 동작하는 DiffusionGemma 모델을 로컬 오프라인 에이전트와 결합해 이미지 생성 및 분석에 활용하는 사례가 공유되었습니다.",
+  "category": "팁",
+  "tags": [
+   "Google",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "e261b46eff3f028b",
+  "url": "https://news.hada.io/topic?id=35658",
+  "source": "GeekNews",
+  "title": "Mercury 3 - 대규모로 확장한 확산 기반 LLM",
+  "published_at": "2026-10-19T19:36:43+00:00",
+  "collected_at": "2026-10-19T20:32:10.862059+00:00",
+  "title_ko": "인셉션, 대규모 확장 확산 기반 LLM 'Mercury 3' 공개",
+  "summary_ko": "인셉션이 초당 1,000토큰 이상의 속도로 동작하며 주요 벤치마크를 상회하는 확산 기반 LLM Mercury 3를 발표했습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "e9626ef80d3adde6",
+  "url": "https://news.hada.io/topic?id=35657",
+  "source": "GeekNews",
+  "title": "MiniMax M3.1 Flash - 에이전트 성능을 높이고 사용 비용을 70% 낮춘 모델",
+  "published_at": "2026-10-19T19:33:43+00:00",
+  "collected_at": "2026-10-19T20:32:10.862059+00:00",
+  "title_ko": "미니맥스, 에이전트 성능 강화한 'M3.1 Flash' 출시",
+  "summary_ko": "미니맥스가 에이전트 작업과 코딩 능력을 강화하고 비용을 70% 낮춘 새로운 추론 모델 M3.1 Flash를 공개했습니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트",
+   "LLM"
+  ]
+ },
+ {
+  "id": "141841bfba33c1b9",
+  "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+  "source": "TechCrunch",
+  "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+  "published_at": "2026-10-19T19:28:34+00:00",
+  "collected_at": "2026-10-19T20:31:23.640947+00:00",
+  "title_ko": "AI 코딩 도구 OpenCode, 해킹으로 API 키 탈취 피해",
+  "summary_ko": "인기 오픈소스 AI 코딩 에이전트 OpenCode의 플랫폼이 해킹되어 사용자 API 키가 유출되고 비용이 청구되는 사건이 발생했습니다.",
+  "category": "속보",
+  "tags": [
+   "코딩",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "fd8adbd584319f8c",
+  "url": "https://www.reddit.com/r/singularity/comments/1xa69nq/dhs_orders_deepseek_technology_removed_from_us/",
+  "source": "r/singularity",
+  "title": "DHS Orders DeepSeek Technology Removed From US Federal IT Systems. The restrictions extend to products developed by DeepSeek affiliates, as well as third-party products and services built using DeepSeek implementations.",
+  "published_at": "2026-10-19T19:20:25+00:00",
+  "collected_at": "2026-10-19T20:32:08.462111+00:00",
+  "title_ko": "미 연방정부, 연방 IT 시스템 내 딥시크 기술 사용 금지",
+  "summary_ko": "미국 국토안보부(DHS)가 안보 우려를 이유로 연방 IT 시스템에서 딥시크 기술 및 관련 자회사·제3자 제품의 사용을 전면 금지했습니다.",
+  "category": "중요",
+  "tags": [
+   "규제",
+   "DeepSeek"
+  ]
+ },
+ {
+  "id": "a7c8c73d64eae177",
+  "url": "https://www.reddit.com/r/singularity/comments/1xa5z7u/bread_and_circuses_bench_humanitys_true_final_exam/",
+  "source": "r/singularity",
+  "title": "bread and circuses bench: humanity's true final exam",
+  "published_at": "2026-10-19T19:09:47+00:00",
+  "collected_at": "2026-10-19T20:32:08.462111+00:00",
+  "title_ko": "인간 수준의 취향과 엔터테인먼트를 다루는 AI 벤치마크 필요성",
+  "summary_ko": "AI 모델이 고도화됨에 따라 복잡한 사회적 상호작용 외에 인간의 오락과 취향을 이해하는 능력이 중요해지고 있다는 의견입니다.",
+  "category": "참고",
+  "tags": [
+   "LLM"
+  ]
+ },
+ {
+  "id": "1ef5dd457f6d1430",
+  "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+  "source": "TechCrunch",
+  "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+  "published_at": "2026-10-19T19:00:12+00:00",
+  "collected_at": "2026-10-19T20:31:23.640947+00:00",
+  "title_ko": "AI 컴패니언 앱 Tolan, 3,000만 달러 투자 유치",
+  "summary_ko": "사용자의 일상 생활을 돕는 AI 컴패니언 앱 Tolan이 25만 명 이상의 활성 사용자를 확보하며 3,000만 달러의 투자를 유치했습니다.",
+  "category": "중요",
+  "tags": [
+   "투자",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "3fa595f9520caade",
+  "url": "https://news.hada.io/topic?id=35655",
+  "source": "GeekNews",
+  "title": "Show HN: Qwen3-4B의 AI 특유 글쓰기 습관을 학습으로 제거한 모델",
+  "published_at": "2026-10-19T18:52:06+00:00",
+  "collected_at": "2026-10-19T20:32:10.862059+00:00",
+  "title_ko": "Qwen3-4B의 AI 특유 문체를 제거한 미세조정 모델 공개",
+  "summary_ko": "Qwen3-4B-Instruct를 기반으로 AI 특유의 뻔한 글쓰기 습관을 학습을 통해 제거하고 로컬에서 실행할 수 있는 모델이 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "a8d6030b440a2677",
+  "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+  "source": "TechCrunch",
+  "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+  "published_at": "2026-10-19T18:49:04+00:00",
+  "collected_at": "2026-10-19T20:31:23.640947+00:00",
+  "title_ko": "Replika 창업자의 새로운 개인용 AI 어시스턴트 공개",
+  "summary_ko": "Replika의 창업자가 12년 전 구상했던 개인용 AI 어시스턴트 앱 'Wabi'를 무료로 출시했습니다. 개인 맞춤형 AI 서비스의 새로운 접근을 보여줍니다.",
+  "category": "속보",
+  "tags": [
+   "AI 어시스턴트"
+  ]
+ },
+ {
+  "id": "262b8cbcb47a6742",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa5dse/strata_2_beta_running_at_half_speed/",
+  "source": "r/LocalLLaMA",
+  "title": "Strata 2 beta running at half speed?",
+  "published_at": "2026-10-19T18:48:24+00:00",
+  "collected_at": "2026-10-19T20:31:55.713076+00:00",
+  "title_ko": "Strata 2 베타 버전 속도 저하 이슈",
+  "summary_ko": "Strata 1.45에서 2.0 베타로 업데이트한 후 듀얼 4090 환경에서의 토큰 처리 속도가 절반으로 떨어졌다는 사용자 피드백이 공유되었습니다.",
+  "category": "팁",
+  "tags": [
+   "NVIDIA",
+   "로컬LLM"
+  ]
+ },
+ {
+  "id": "ad8b2b52c8ee0200",
+  "url": "https://news.hada.io/topic?id=35653",
+  "source": "GeekNews",
+  "title": "여전히 프로그래밍을 즐겨도 괜찮다",
+  "published_at": "2026-10-19T18:46:06+00:00",
+  "collected_at": "2026-10-19T20:32:10.862059+00:00",
+  "title_ko": "AI 시대에도 여전히 즐거운 프로그래밍",
+  "summary_ko": "AI가 코드를 대신 작성해 주는 시대이지만, 경제적 효용을 떠나 문제를 해결하는 과정 자체로서 프로그래밍의 즐거움을 재조명합니다.",
+  "category": "참고",
+  "tags": [
+   "코딩",
+   "Claude"
+  ]
+ },
+ {
+  "id": "2fee919a65d7ed4a",
+  "url": "https://news.hada.io/topic?id=35652",
+  "source": "GeekNews",
+  "title": "CERN과 Mistral, 전략적 파트너십 구축을 위한 의향서 서명",
+  "published_at": "2026-10-19T18:43:06+00:00",
+  "collected_at": "2026-10-19T20:32:10.862059+00:00",
+  "title_ko": "CERN과 Mistral AI, 과학 연구용 파운데이션 모델 개발 파트너십",
+  "summary_ko": "CERN과 미스트랄 AI가 양성자 충돌 시뮬레이션을 위한 대형 물리학 모델(Large Physics Model) 개발에 협력하기로 했습니다. 과학 분야 AI 적용의 중요한 진전입니다.",
+  "category": "중요",
+  "tags": [
+   "Mistral",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "25c38f880dd1c0b8",
+  "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+  "source": "TechCrunch",
+  "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+  "published_at": "2026-10-19T18:37:27+00:00",
+  "collected_at": "2026-10-19T20:31:23.640947+00:00",
+  "title_ko": "텐스토렌트, 62억 달러 가치로 15억 달러 투자 유치",
+  "summary_ko": "NVIDIA의 대항마로 꼽히는 AI 반도체 스타트업 텐스토렌트가 독립 유지 및 오픈 웨이트 AI 칩 확장을 위해 거액의 투자를 받았습니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "반도체",
+   "투자"
+  ]
+ },
+ {
+  "id": "8c791cf92e448896",
+  "url": "https://www.reddit.com/r/singularity/comments/1xa50s1/viggle_unveils_jst2_an_ai_that_generates_entire/",
+  "source": "r/singularity",
+  "title": "Viggle unveils JST-2, an AI that generates entire 3D worlds in seconds, expands them in real time, and creates animated characters. Unlike traditional AI video generators, it builds environments directly in 3D with physics built in.",
+  "published_at": "2026-10-19T18:35:14+00:00",
+  "collected_at": "2026-10-19T20:32:08.462111+00:00",
+  "title_ko": "Viggle, 실시간 3D 월드 생성 AI 'JST-2' 공개",
+  "summary_ko": "Viggle이 물리 법칙이 적용된 3D 환경과 애니메이션 캐릭터를 실시간으로 생성하는 JST-2를 발표했습니다. 기존 비디오 생성 AI와 차별화됩니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "5b7e0b7861961864",
+  "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+  "source": "MIT Tech Review",
+  "title": "Making the internet better for AI agents might make it worse for everyone else",
+  "published_at": "2026-10-19T18:22:47+00:00",
+  "collected_at": "2026-10-19T20:31:36.582958+00:00",
+  "title_ko": "AI 에이전트를 위한 인터넷 환경이 인간에게 미치는 영향",
+  "summary_ko": "웹사이트들이 AI 에이전트의 자동화된 접근을 최적화하는 과정이 일반 인간 사용자들의 웹 경험을 악화시킬 수 있다는 분석입니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "769d91099103bc9b",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216410",
   "source": "AI타임스",
@@ -12,6 +250,21 @@
   "tags": [
    "Google",
    "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "428ebaed686771dd",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa3yqk/i_checked_bitnet_and_bonsai_on_cpu_against/",
+  "source": "r/LocalLLaMA",
+  "title": "I checked BitNet and Bonsai on CPU against references: bitnet.cpp main still gives wrong output, Bonsai 1.7B is correct wherever it loads, and ik_llama.cpp with -rtr is usually fastest",
+  "published_at": "2026-10-19T17:57:01+00:00",
+  "collected_at": "2026-10-19T20:31:55.713076+00:00",
+  "title_ko": "CPU 환경에서의 저비트 GGUF 런타임 성능 및 정확도 비교",
+  "summary_ko": "BitNet과 Bonsai 등의 저비트 LLM 모델을 CPU에서 실행할 때 발생하는 정확도 오류와 성능 차이를 비교 분석했습니다.",
+  "category": "팁",
+  "tags": [
+   "로컬LLM",
    "오픈소스"
   ]
  },
@@ -31,6 +284,20 @@
   ]
  },
  {
+  "id": "92c294f17fe5c809",
+  "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+  "source": "MIT Tech Review",
+  "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+  "published_at": "2026-10-19T17:45:55+00:00",
+  "collected_at": "2026-10-19T20:31:36.582958+00:00",
+  "title_ko": "신경망의 본질을 뒤흔든 굿파이어 연구원의 주장",
+  "summary_ko": "AI 스타트업 굿파이어의 연구원이 신경망의 작동 방식에 대한 기존 통념을 뒤집는 파격적인 가설을 제기해 업계의 주목을 받고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "LLM"
+  ]
+ },
+ {
   "id": "5ee327a850981de6",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216403",
   "source": "AI타임스",
@@ -46,6 +313,20 @@
   ]
  },
  {
+  "id": "0c63a761301701ac",
+  "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+  "source": "Hacker News",
+  "title": "Mercury 3: Diffusion at scale",
+  "published_at": "2026-10-19T17:27:11+00:00",
+  "collected_at": "2026-10-19T20:31:38.113922+00:00",
+  "title_ko": "인셉션 랩스, 대규모 확장이 가능한 'Mercury 3' 공개",
+  "summary_ko": "인셉션 랩스가 초당 1000 토큰 처리 속도를 지원하는 디퓨전 기반 대형 모델 'Mercury 3'를 발표했습니다.",
+  "category": "속보",
+  "tags": [
+   "LLM"
+  ]
+ },
+ {
   "id": "89148ed4b7e5e7a7",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216398",
   "source": "AI타임스",
@@ -57,6 +338,20 @@
   "category": "참고",
   "tags": [
    "Anthropic"
+  ]
+ },
+ {
+  "id": "c01513545ab9dd10",
+  "url": "https://www.reddit.com/r/singularity/comments/1xa30cc/mercury_3_inception_labs_matching_lunahaiku_at/",
+  "source": "r/singularity",
+  "title": "Mercury 3 [Inception Labs] - Matching Luna/Haiku at 1000 tokens/sec",
+  "published_at": "2026-10-19T17:22:01+00:00",
+  "collected_at": "2026-10-19T20:32:08.462111+00:00",
+  "title_ko": "초당 1000 토큰 처리하는 디퓨전 모델 'Mercury 3' 등장",
+  "summary_ko": "인셉션 랩스가 공개한 Mercury 3가 주요 상용 모델과 맞먹는 성능을 초고속으로 보여주어 디퓨전 모델의 LLM 시장 진입 가능성을 높이고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "LLM"
   ]
  },
  {
@@ -75,6 +370,20 @@
   ]
  },
  {
+  "id": "49b7aba6891b4665",
+  "url": "https://www.minimax.io/blog/minimax-m31f",
+  "source": "Hacker News",
+  "title": "MiniMax M3.1 Flash",
+  "published_at": "2026-10-19T16:39:09+00:00",
+  "collected_at": "2026-10-19T20:31:38.113922+00:00",
+  "title_ko": "미니맥스, 고성능 모델 'MiniMax M3.1 Flash' 공개",
+  "summary_ko": "미니맥스가 새로운 초고속 AI 모델 M3.1 Flash를 발표하며 개발자 커뮤니티의 큰 관심을 모았습니다.",
+  "category": "속보",
+  "tags": [
+   "LLM"
+  ]
+ },
+ {
   "id": "abed527470367463",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216406",
   "source": "AI타임스",
@@ -86,6 +395,20 @@
   "category": "참고",
   "tags": [
    "Anthropic",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "69bd463197ee8fc6",
+  "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+  "source": "TechCrunch",
+  "title": "People are using AI to make their smart TVs dumb again",
+  "published_at": "2026-10-19T16:13:22+00:00",
+  "collected_at": "2026-10-19T20:31:23.640947+00:00",
+  "title_ko": "스마트 TV 광고에 지친 사용자들, AI 에이전트로 TV를 단순하게 개조",
+  "summary_ko": "일부 스마트 TV 소유자들이 광고와 복잡한 인터페이스를 제거하기 위해 AI 에이전트를 활용해 기기를 제어하고 있습니다. 사용자 경험을 개선하려는 새로운 AI 활용 사례로 주목받고 있습니다.",
+  "category": "참고",
+  "tags": [
    "AI 에이전트"
   ]
  },
@@ -116,6 +439,36 @@
   "tags": [
    "Anthropic",
    "코딩"
+  ]
+ },
+ {
+  "id": "ff3fb887e67a4b63",
+  "url": "https://www.reddit.com/r/singularity/comments/1xa0min/when_oai_anth_announces_dramatic_new_token/",
+  "source": "r/singularity",
+  "title": "When OAI / Anth announces dramatic new token efficiency gains... 🥵💧",
+  "published_at": "2026-10-19T15:53:42+00:00",
+  "collected_at": "2026-10-19T20:32:08.462111+00:00",
+  "title_ko": "오픈AI와 앤스로픽의 토큰 효율성 개선 기대감",
+  "summary_ko": "AI 모델의 토큰 효율성이 대폭 향상될 경우 비용 절감과 성능 극대화에 큰 영향을 미칠 수 있어 커뮤니티의 기대를 모으고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "Anthropic"
+  ]
+ },
+ {
+  "id": "d3a6d6aed6ba1798",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa0cyz/llamacpp_support_for_cohere_models/",
+  "source": "r/LocalLLaMA",
+  "title": "llama.cpp support for Cohere models",
+  "published_at": "2026-10-19T15:43:29+00:00",
+  "collected_at": "2026-10-19T20:31:55.713076+00:00",
+  "title_ko": "코어(Cohere) 모델, llama.cpp 공식 지원 시작",
+  "summary_ko": "코어의 모델들이 llama.cpp 지원을 추가하여 로컬 환경에서의 구동과 활용도가 크게 향상되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "로컬LLM"
   ]
  },
  {
@@ -157,5 +510,80 @@
   "summary_ko": "치과 진료 현장에 AI 음성인식 차트화 기술을 도입해 임상 교육과 연구를 공동 진행한다.",
   "category": "참고",
   "tags": []
+ },
+ {
+  "id": "c33a66b4df035b2b",
+  "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+  "source": "TechCrunch",
+  "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+  "published_at": "2026-10-19T15:37:09+00:00",
+  "collected_at": "2026-10-19T20:31:23.640947+00:00",
+  "title_ko": "엔비디아, 기업 및 PC용 신규 오픈소스 AI 에이전트 모델 출시",
+  "summary_ko": "엔비디아가 기업 데이터센터와 개인 기기에서 직접 구동할 수 있는 새로운 오픈 모델을 공개했습니다. 온프레미스 및 엣지 AI 에이전트 시장을 공략하려는 전략입니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "b60560cce4e67686",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa02iw/we_built_our_own_inference_engine_so_a_32b_model/",
+  "source": "r/LocalLLaMA",
+  "title": "We built our own inference engine so a 32B model could keep 262K context inside a 16 GB GPU budget. Here's an uncut run.",
+  "published_at": "2026-10-19T15:32:37+00:00",
+  "collected_at": "2026-10-19T20:31:55.713076+00:00",
+  "title_ko": "16GB GPU에서 32B 모델의 262K 컨텍스트를 지원하는 자체 추론 엔진 개발",
+  "summary_ko": "개발팀이 VRAM 한계를 극복하고 로컬 GPU에서 긴 세션의 AI 에이전트를 구동할 수 있는 맞춤형 추론 엔진을 공개했습니다.",
+  "category": "팁",
+  "tags": [
+   "로컬LLM",
+   "인프라"
+  ]
+ },
+ {
+  "id": "d2d18032130b93ed",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=216409",
+  "source": "AI타임스",
+  "title": "오픈AI, 잇단 경영진 이탈 뒤 인력 보강…스페이스X·메타서 영입",
+  "published_at": "2026-10-19T15:31:02+00:00",
+  "collected_at": "2026-10-19T20:32:09.553262+00:00",
+  "title_ko": "오픈AI, 경영진 이탈 속 스페이스X·메타 인재 영입으로 조직 강화",
+  "summary_ko": "오픈AI가 최근 주요 경영진 이탈에 대응하여 스페이스X와 메타 출신의 영업 및 보안 전문가를 영입했습니다. 연말까지 대규모 인력 확충을 추진 중입니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "투자"
+  ]
+ },
+ {
+  "id": "dd8ec3bec8db4535",
+  "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+  "source": "Hacker News",
+  "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+  "published_at": "2026-10-19T15:28:24+00:00",
+  "collected_at": "2026-10-19T20:31:38.113922+00:00",
+  "title_ko": "CERN과 미스트랄 AI, 과학 연구 분야 AI 협력을 위한 파트너십 추진",
+  "summary_ko": "유럽입자물리연구소(CERN)와 미스트랄 AI가 과학 연구 가속화를 위해 전략적 파트너십 의향서에 서명했습니다.",
+  "category": "중요",
+  "tags": [
+   "Mistral",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "b6945b8e1f914061",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9zwts/6m_param_character_renderer_one_reference_image/",
+  "source": "r/LocalLLaMA",
+  "title": "6M param character renderer: one reference image in, a minute of video out, tested against Blender truth",
+  "published_at": "2026-10-19T15:26:35+00:00",
+  "collected_at": "2026-10-19T20:31:55.713076+00:00",
+  "title_ko": "참조 이미지로 1분 만에 비디오를 생성하는 초소형 캐릭터 렌더러 공개",
+  "summary_ko": "단 한 장의 참조 이미지로 장시간의 비디오를 생성할 수 있는 소형 파라미터 기반 캐릭터 렌더링 모델이 공개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
+  ]
  }
 ]
