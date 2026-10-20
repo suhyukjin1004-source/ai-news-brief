@@ -175,6 +175,36 @@
   ]
  },
  {
+  "id": "ca293d8533a3487d",
+  "url": "https://huggingface.co/blog/allenai/fairstress",
+  "source": "Hugging Face",
+  "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+  "published_at": "2026-10-20T16:09:19+00:00",
+  "collected_at": "2026-10-20T16:48:48.891533+00:00",
+  "title_ko": "FairStress: LLM 의사결정 공정성 심층 평가",
+  "summary_ko": "LLM의 의사결정 과정에서 공정성을 심층적으로 평가하기 위한 방법론인 FairStress가 공개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "5d355ebe8de5dacf",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xawa17/mimo_26_is_reasoning_is_like_the_crash_test/",
+  "source": "r/LocalLLaMA",
+  "title": "MiMo 2.6 is reasoning is like the crash test dummies",
+  "published_at": "2026-10-20T16:08:49+00:00",
+  "collected_at": "2026-10-20T16:49:08.185922+00:00",
+  "title_ko": "MiMo 2.6 추론 모델의 독특한 말버릇 분석",
+  "summary_ko": "추론 모델인 MiMo 2.6의 추론 스레드에서 'hmm'을 반복적으로 사용하는 현상에 대한 사용자 분석입니다.",
+  "category": "팁",
+  "tags": [
+   "LLM",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "e4f178b4a9affd8f",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216434",
   "source": "AI타임스",
@@ -187,6 +217,80 @@
   "tags": [
    "NVIDIA",
    "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "0fca49c0c061eb52",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaw2vt/phonon_is_now_opensource_31m_and_40m_tts_models/",
+  "source": "r/LocalLLaMA",
+  "title": "Phonon is now open-source, 31M and 40M TTS models designed to run on the edge",
+  "published_at": "2026-10-20T16:01:49+00:00",
+  "collected_at": "2026-10-20T16:49:08.185922+00:00",
+  "title_ko": "엣지 기기용 오픈소스 TTS 모델 'Phonon' 공개",
+  "summary_ko": "Gradium에서 엣지 기기 구동을 지원하는 초소형 31M/40M 음성 합성(TTS) 모델인 Phonon을 오픈소스로 출시했습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "음성인식",
+   "반도체"
+  ]
+ },
+ {
+  "id": "87c5cb39af2eeb6f",
+  "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+  "source": "TechCrunch",
+  "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+  "published_at": "2026-10-20T16:00:00+00:00",
+  "collected_at": "2026-10-20T16:48:33.886988+00:00",
+  "title_ko": "식물의 전기 신호를 해독하는 AI 모델 개발",
+  "summary_ko": "스타트업 Electric Plant가 식물 줄기의 미세한 전기 신호를 번역해 인간과 소통할 수 있게 돕는 AI 모델을 개발했습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "e55006e93a41c0b5",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xavy8t/hardly_any_benchmarks_for_intel_b65_so_i_got_4x/",
+  "source": "r/LocalLLaMA",
+  "title": "Hardly any benchmarks for Intel B65, so I got 4x and tested them. Long Context Sweeps for Flash-Next and other models",
+  "published_at": "2026-10-20T15:57:27+00:00",
+  "collected_at": "2026-10-20T16:49:08.185922+00:00",
+  "title_ko": "인텔 B65 하드웨어 기반 LLM 장문 컨텍스트 성능 테스트",
+  "summary_ko": "인텔 B65 하드웨어 4개 구성 릭에서 높은 메모리 대역폭을 활용한 주요 LLM의 장문 컨텍스트 성능 테스트 결과입니다.",
+  "category": "팁",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "c6c2448352b870f1",
+  "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+  "source": "MIT Tech Review",
+  "title": "The new economics of enterprise AI",
+  "published_at": "2026-10-20T15:20:25+00:00",
+  "collected_at": "2026-10-20T16:48:47.273030+00:00",
+  "title_ko": "엔터프라이즈 AI의 새로운 경제학과 효율성",
+  "summary_ko": "기업용 AI가 도입 초기 단계를 지나 핵심 인프라로 자리잡음에 따라, 기술 도입 여부에서 효율성 중심의 운영으로 패러다임이 전환되고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "투자"
+  ]
+ },
+ {
+  "id": "94e7f4f5c0e52bb7",
+  "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+  "source": "Hugging Face",
+  "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+  "published_at": "2026-10-20T15:19:48+00:00",
+  "collected_at": "2026-10-20T16:48:48.891533+00:00",
+  "title_ko": "ALTK-Evolve: 학습된 메모리로 고객 서비스 벤치마크 1위 달성",
+  "summary_ko": "프런티어 모델 없이도 학습된 메모리 구조를 통해 τ²-bench 고객 서비스 태스크 리더보드 1위를 차지한 ALTK-Evolve의 접근 방식입니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
    "오픈소스"
   ]
  }
