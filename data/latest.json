@@ -1,8 +1,157 @@
 {
- "updated_at": "2026-10-20T20:29:48.676991+00:00",
+ "updated_at": "2026-10-20T23:47:24.083460+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "ab9dee7fb156cbef",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xb6zds/eagle4_released_faster_than_dflash2_dspark/",
+   "source": "r/LocalLLaMA",
+   "title": "Eagle-4 Released: Faster than DFlash2 & DSpark",
+   "published_at": "2026-10-20T23:04:08+00:00",
+   "collected_at": "2026-10-20T23:47:02.737436+00:00",
+   "title_ko": "고속 추론 프레임워크 Eagle-4 공개",
+   "summary_ko": "새로운 추론 방식인 Eagle-4가 기존 방식 대비 압도적인 속도 향상을 기록하며 공개되었습니다. LLM의 추론 성능을 극대화하는 데 기여할 것으로 기대됩니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "b6629abae55b8c83",
+   "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+   "source": "TechCrunch",
+   "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+   "published_at": "2026-10-20T23:01:23+00:00",
+   "collected_at": "2026-10-20T23:46:38.588789+00:00",
+   "title_ko": "앤스로픽, 독자적 AI 안전 법안 제안",
+   "summary_ko": "앤스로픽이 위험한 AI 모델의 배포 차단 기준을 담은 새로운 AI 안전 법안을 제안했습니다. 규제 주도권을 잡기 위한 행보로 주목받고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "규제"
+   ]
+  },
+  {
+   "id": "342f3b31d43012d5",
+   "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+   "source": "TechCrunch",
+   "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+   "published_at": "2026-10-20T22:24:02+00:00",
+   "collected_at": "2026-10-20T23:46:38.588789+00:00",
+   "title_ko": "허깅페이스 CEO, 넷플릭스 AI 다큐멘터리 비판",
+   "summary_ko": "허깅페이스 공동창업자가 넷플릭스의 AI 관련 다큐멘터리가 지나치게 과장되었으며 사실과 다르다고 지적했습니다. 대중 매체의 과도한 공포 조장을 경계하는 목소리입니다.",
+   "category": "참고",
+   "tags": [
+    "Hugging Face"
+   ]
+  },
+  {
+   "id": "5ed43860b2e69fce",
+   "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+   "source": "The Verge",
+   "title": "Google’s more personalized Gemini AI is heading to your car",
+   "published_at": "2026-10-20T22:11:34+00:00",
+   "collected_at": "2026-10-20T23:46:38.744109+00:00",
+   "title_ko": "구글, 차량용 제미나이(Gemini)에 개인화 기능 도입",
+   "summary_ko": "구글이 안드로이드 오토 및 차량용 제미나이에 개인 인텔리전스 기능을 도입합니다. 다양한 구글 앱과 연동되어 운전자에게 맞춤형 정보를 제공합니다.",
+   "category": "속보",
+   "tags": [
+    "Google",
+    "Gemini",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "dd8747983c69e4ec",
+   "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+   "source": "TechCrunch",
+   "title": "Anthropic’s cloud partnerships are getting messy",
+   "published_at": "2026-10-20T21:25:22+00:00",
+   "collected_at": "2026-10-20T23:46:38.588789+00:00",
+   "title_ko": "앤스로픽, IPO 앞두고 클라우드 파트너십 난항",
+   "summary_ko": "앤스로픽이 클라우드 제공업체들과의 경쟁 심화로 충분한 연산 자원을 확보하는 데 어려움을 겪고 있습니다. 11월 IPO를 앞두고 인프라 비용 부담이 커지는 상황입니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "투자"
+   ]
+  },
+  {
+   "id": "b0ff76934a76a39a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xb45bq/i_built_an_rk3588_npu_runtime_without_any/",
+   "source": "r/LocalLLaMA",
+   "title": "I built an RK3588 NPU runtime without any proprietary inference libraries: Qwen3.5-4B at ~10 tok/s, ~2x faster than vendor SDK.",
+   "published_at": "2026-10-20T21:03:58+00:00",
+   "collected_at": "2026-10-20T23:47:02.737436+00:00",
+   "title_ko": "독자 NPU 런타임 'open_rknpu2_lm_infer' 개발",
+   "summary_ko": "개발자가 락칩 RK3588 NPU를 위한 독자적 로컬 LLM 추론 엔진을 공개했습니다. 벤더 SDK보다 빠른 속도로 온디바이스 AI 실행이 가능해집니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "4e839948c5b0c27b",
+   "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+   "source": "TechCrunch",
+   "title": "SpaceX’s AI business is beating expectations",
+   "published_at": "2026-10-20T20:40:41+00:00",
+   "collected_at": "2026-10-20T23:46:38.588789+00:00",
+   "title_ko": "스페이스X, AI 사업 성장에 힘입어 3분기 흑자 달성",
+   "summary_ko": "스페이스X가 AI 사업의 성과를 바탕으로 3분기 44억 달러의 순이익을 기록하며 흑자를 달성했습니다. 우주 산업과 AI의 결합이 가시적인 성과를 내고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "투자"
+   ]
+  },
+  {
+   "id": "3c380d799b1915be",
+   "url": "https://news.hada.io/topic?id=35728",
+   "source": "GeekNews",
+   "title": "Google, TPU용 네이티브 PyTorch 백엔드 TorchTPU 오픈소스로 공개",
+   "published_at": "2026-10-20T20:36:23+00:00",
+   "collected_at": "2026-10-20T23:47:16.834887+00:00",
+   "title_ko": "구글, TPU용 네이티브 PyTorch 백엔드 'TorchTPU' 오픈소스 공개",
+   "summary_ko": "구글이 TPU에서 PyTorch 모델을 효율적으로 실행할 수 있는 TorchTPU를 오픈소스로 공개했습니다. torch.compile()과 통합되어 개발자 편의성을 높입니다.",
+   "category": "속보",
+   "tags": [
+    "Google",
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "aeaa448f66c5e86e",
+   "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+   "source": "TechCrunch",
+   "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+   "published_at": "2026-10-20T20:35:10+00:00",
+   "collected_at": "2026-10-20T23:46:38.588789+00:00",
+   "title_ko": "OpenAI, 바이오텍 사업 강화를 위해 오케스트라 바이오 인수",
+   "summary_ko": "OpenAI가 생명과학 연구용 AI 모델 개발을 가속화하기 위해 스타트업 오케스트라 바이오의 인력과 기술을 흡수했습니다. 바이오 및 헬스케어 AI 영역 확장 전략입니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI"
+   ]
+  },
+  {
+   "id": "60f7f9822d209527",
+   "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
+   "source": "Hacker News",
+   "title": "Anthropic logged net loss of over $80B in first half of 2026",
+   "published_at": "2026-10-20T20:09:46+00:00",
+   "collected_at": "2026-10-20T23:47:01.200635+00:00",
+   "title_ko": "앤스로픽, 올해 상반기 800억 달러 이상 순손실 기록",
+   "summary_ko": "보도에 따르면 앤스로픽이 대규모 인프라 투자와 연산 비용 증가로 인해 올해 상반기에 막대한 순손실을 기록했습니다. AI 시장의 치열한 경쟁과 비용 압박을 보여줍니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "투자"
+   ]
+  },
   {
    "id": "b73d6b9b88357e12",
    "url": "https://www.reddit.com/r/singularity/comments/1xb2pme/a_fiveperson_investment_team_with_almost_no/",
@@ -17,6 +166,20 @@
     "Claude",
     "AI 에이전트",
     "바이오"
+   ]
+  },
+  {
+   "id": "01ef80d499c58cc3",
+   "url": "https://www.bolkunov.com/p/on-ai-writing",
+   "source": "Hacker News",
+   "title": "On AI writing",
+   "published_at": "2026-10-20T19:55:11+00:00",
+   "collected_at": "2026-10-20T23:47:01.200635+00:00",
+   "title_ko": "AI 글쓰기의 본질에 대한 고찰",
+   "summary_ko": "생성형 AI 시대에 글쓰기와 창작의 의미가 어떻게 변하고 있는지 다룬 분석 글입니다. 인간 고유의 표현과 AI 활용의 경계를 조명합니다.",
+   "category": "참고",
+   "tags": [
+    "LLM"
    ]
   },
   {
@@ -2800,170 +2963,6 @@
    "category": "참고",
    "tags": [
     "LLM"
-   ]
-  },
-  {
-   "id": "52e98e5bb3606ff6",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9pzt0/kapitsa_opensource_apple_silicon_optimized_metal/",
-   "source": "r/LocalLLaMA",
-   "title": "Kapitsa: open-source Apple Silicon optimized Metal engine built for Qwen and Nemotron. See benchmarks of Qwen 27B, Nemotron + 8 other models on an M1 Pro (16GB), M4 Pro (48GB) and M5 Max (128GB)",
-   "published_at": "2026-10-19T07:04:45+00:00",
-   "collected_at": "2026-10-19T14:35:33.048355+00:00",
-   "title_ko": "Apple Silicon 최적화 오픈소스 LLM 추론 엔진 'Kapitsa' 공개",
-   "summary_ko": "맥북 등 Apple Silicon 환경에서 Qwen 및 Nemotron 등의 로컬 모델을 효율적으로 구동할 수 있는 오픈소스 엔진입니다. 로컬 환경에서 코딩 에이전트를 실행하려는 개발자에게 유용합니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "코딩",
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "41d031e6ce52429f",
-   "url": "https://news.hada.io/topic?id=35626",
-   "source": "GeekNews",
-   "title": "MemScope - AI 에이전트의 기억 장치를 통째로 갈아엎지 않고, 고장 난 곳만 찾아 고친다",
-   "published_at": "2026-10-19T05:22:43+00:00",
-   "collected_at": "2026-10-19T06:07:20.531676+00:00",
-   "title_ko": "AI 에이전트 기억 장치 오류를 정밀 수정하는 'MemScope'",
-   "summary_ko": "AI 에이전트의 전체 기억을 초기화하지 않고 실제 실행 기록을 바탕으로 고장 난 부분만 정밀하게 수정하는 도구입니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "6555ad80e434c9ea",
-   "url": "https://news.hada.io/topic?id=35623",
-   "source": "GeekNews",
-   "title": "LLM이 사용할 수 없는 프로그래밍 언어를 만들었다",
-   "published_at": "2026-10-19T04:32:52+00:00",
-   "collected_at": "2026-10-19T06:07:20.531676+00:00",
-   "title_ko": "LLM이 이해하기 어렵도록 설계된 실험적 언어 'KillSwitch'",
-   "summary_ko": "인간은 사용할 수 있지만 LLM과 코딩 에이전트에게는 최대한 어렵게 만들어 학습 능력과 이해도를 시험하는 프로그래밍 언어입니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "35ec1541ea996c56",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9n3qv/tempopfn_synthetic_pretraining_of_linear_rnns_for/",
-   "source": "r/LocalLLaMA",
-   "title": "TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting",
-   "published_at": "2026-10-19T04:12:19+00:00",
-   "collected_at": "2026-10-19T06:07:06.448102+00:00",
-   "title_ko": "시계열 예측 위한 선형 RNN 기반 'TempoPFN' 공개",
-   "summary_ko": "시계열 파운데이션 모델 학습을 위한 합성 데이터 생성기와 선형 RNN 모델을 결합한 TempoPFN 라이브러리가 공개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "d0089344a534c7c4",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9n1i6/80s_computing_era_meets_small_local_decision/",
-   "source": "r/LocalLLaMA",
-   "title": "80s computing era meets small local decision models",
-   "published_at": "2026-10-19T04:08:54+00:00",
-   "collected_at": "2026-10-19T06:07:06.448102+00:00",
-   "title_ko": "80년대 컴퓨팅 시대와 소형 로컬 결정 모델의 만남",
-   "summary_ko": "과거 어셈블리어 환경에 로컬 AI 모델을 결합하여 아날로그와 디지털 세계를 연결하는 실험적인 프로젝트가 공개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "533e6a680dd2e1e8",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9mwmz/dont_sleep_on_nemotron_35_super_vl/",
-   "source": "r/LocalLLaMA",
-   "title": "Don't sleep on Nemotron 3.5 Super VL",
-   "published_at": "2026-10-19T04:01:26+00:00",
-   "collected_at": "2026-10-19T06:07:06.448102+00:00",
-   "title_ko": "엔비디아 Nemotron 3.5 Super VL 모델의 틈새 지식 벤치마크 평가",
-   "summary_ko": "오래된 게임 규칙 등 틈새 지식 테스트에서 Nemotron 3.5 Super VL 모델이 다른 비전 모델들에 비해 우수한 성능을 보여주었습니다.",
-   "category": "참고",
-   "tags": [
-    "NVIDIA",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "b1b1271dc03a1458",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9mitw/calling_all_gpus_help_us_benchmark_sonicboom_v003/",
-   "source": "r/LocalLLaMA",
-   "title": "Calling all GPUs: help us benchmark SonicBoom v0.0.3 — a compiler-first AI runtime that beats llama.cpp on decode",
-   "published_at": "2026-10-19T03:40:00+00:00",
-   "collected_at": "2026-10-19T06:07:06.448102+00:00",
-   "title_ko": "llama.cpp보다 빠른 컴파일러 기반 AI 런타임 'SonicBoom v0.0.3' 공개",
-   "summary_ko": "파이썬 스택을 배제하고 C ABI와 Guile Scheme을 사용하는 컴파일러 기반 추론 런타임이 llama.cpp보다 빠른 디코딩 속도를 기록했습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "3093ae6f41989a96",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9lkh5/nemotron_35_bolt_is_okayish_for_small_multiuser/",
-   "source": "r/LocalLLaMA",
-   "title": "Nemotron 3.5 Bolt is okayish for small multiuser setups",
-   "published_at": "2026-10-19T02:48:40+00:00",
-   "collected_at": "2026-10-19T06:07:06.448102+00:00",
-   "title_ko": "소규모 다중 사용자 환경을 위한 Nemotron 3.5 Bolt 모델 평가",
-   "summary_ko": "기존 Ultra 모델의 아쉬움을 보완하며 소규모 워크로드에서 활용 가능한 Nemotron 3.5 Bolt 모델의 실사용 후기가 공유되었습니다.",
-   "category": "참고",
-   "tags": [
-    "NVIDIA",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "39796ef72b874daa",
-   "url": "https://news.hada.io/topic?id=35614",
-   "source": "GeekNews",
-   "title": "Show GN: ALIGNS.md - 초정렬이 오기 전 내 판단 기준과 취향을 에이전트와 자가 정렬해보세요",
-   "published_at": "2026-10-19T01:12:30+00:00",
-   "collected_at": "2026-10-19T06:07:20.531676+00:00",
-   "title_ko": "AI 에이전트와 사용자 취향을 맞추는 'ALIGNS.md' 소개",
-   "summary_ko": "에이전트와의 대화 로그와 커밋 기록을 분석해 사용자의 판단 기준과 취향을 에이전트와 자가 정렬할 수 있는 도구가 공개되었습니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "3edc8a8f78c75e1e",
-   "url": "https://www.reddit.com/r/singularity/comments/1x9j3ot/ai_safety_is_not_a_corporate_plot/",
-   "source": "r/singularity",
-   "title": "AI Safety Is Not A Corporate Plot",
-   "published_at": "2026-10-19T00:42:56+00:00",
-   "collected_at": "2026-10-19T01:05:04.431549+00:00",
-   "title_ko": "AI 안전성은 기업의 음모가 아님",
-   "summary_ko": "AI 안전성 연구와 규제가 기업들의 이권 다툼이나 음모가 아님을 강조하는 논의입니다.",
-   "category": "참고",
-   "tags": [
-    "규제",
-    "AI 안전"
-   ]
-  },
-  {
-   "id": "3569a263667fd9ec",
-   "url": "https://news.hada.io/topic?id=35612",
-   "source": "GeekNews",
-   "title": "T3 Code - 여러 AI 코딩 에이전트를 PC와 휴대폰에서 관리하는 앱",
-   "published_at": "2026-10-19T00:40:02+00:00",
-   "collected_at": "2026-10-19T01:05:06.611499+00:00",
-   "title_ko": "다양한 AI 코딩 에이전트를 통합 관리하는 T3 Code",
-   "summary_ko": "Claude Code, Cursor 등 여러 AI 코딩 에이전트의 구독을 유지하며 PC와 휴대폰에서 작업을 이어갈 수 있는 앱입니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
    ]
   }
  ]

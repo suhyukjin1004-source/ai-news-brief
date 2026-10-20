@@ -1,5 +1,154 @@
 [
  {
+  "id": "ab9dee7fb156cbef",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xb6zds/eagle4_released_faster_than_dflash2_dspark/",
+  "source": "r/LocalLLaMA",
+  "title": "Eagle-4 Released: Faster than DFlash2 & DSpark",
+  "published_at": "2026-10-20T23:04:08+00:00",
+  "collected_at": "2026-10-20T23:47:02.737436+00:00",
+  "title_ko": "고속 추론 프레임워크 Eagle-4 공개",
+  "summary_ko": "새로운 추론 방식인 Eagle-4가 기존 방식 대비 압도적인 속도 향상을 기록하며 공개되었습니다. LLM의 추론 성능을 극대화하는 데 기여할 것으로 기대됩니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "b6629abae55b8c83",
+  "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+  "source": "TechCrunch",
+  "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+  "published_at": "2026-10-20T23:01:23+00:00",
+  "collected_at": "2026-10-20T23:46:38.588789+00:00",
+  "title_ko": "앤스로픽, 독자적 AI 안전 법안 제안",
+  "summary_ko": "앤스로픽이 위험한 AI 모델의 배포 차단 기준을 담은 새로운 AI 안전 법안을 제안했습니다. 규제 주도권을 잡기 위한 행보로 주목받고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "규제"
+  ]
+ },
+ {
+  "id": "342f3b31d43012d5",
+  "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+  "source": "TechCrunch",
+  "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+  "published_at": "2026-10-20T22:24:02+00:00",
+  "collected_at": "2026-10-20T23:46:38.588789+00:00",
+  "title_ko": "허깅페이스 CEO, 넷플릭스 AI 다큐멘터리 비판",
+  "summary_ko": "허깅페이스 공동창업자가 넷플릭스의 AI 관련 다큐멘터리가 지나치게 과장되었으며 사실과 다르다고 지적했습니다. 대중 매체의 과도한 공포 조장을 경계하는 목소리입니다.",
+  "category": "참고",
+  "tags": [
+   "Hugging Face"
+  ]
+ },
+ {
+  "id": "5ed43860b2e69fce",
+  "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+  "source": "The Verge",
+  "title": "Google’s more personalized Gemini AI is heading to your car",
+  "published_at": "2026-10-20T22:11:34+00:00",
+  "collected_at": "2026-10-20T23:46:38.744109+00:00",
+  "title_ko": "구글, 차량용 제미나이(Gemini)에 개인화 기능 도입",
+  "summary_ko": "구글이 안드로이드 오토 및 차량용 제미나이에 개인 인텔리전스 기능을 도입합니다. 다양한 구글 앱과 연동되어 운전자에게 맞춤형 정보를 제공합니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "Gemini",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "dd8747983c69e4ec",
+  "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+  "source": "TechCrunch",
+  "title": "Anthropic’s cloud partnerships are getting messy",
+  "published_at": "2026-10-20T21:25:22+00:00",
+  "collected_at": "2026-10-20T23:46:38.588789+00:00",
+  "title_ko": "앤스로픽, IPO 앞두고 클라우드 파트너십 난항",
+  "summary_ko": "앤스로픽이 클라우드 제공업체들과의 경쟁 심화로 충분한 연산 자원을 확보하는 데 어려움을 겪고 있습니다. 11월 IPO를 앞두고 인프라 비용 부담이 커지는 상황입니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "투자"
+  ]
+ },
+ {
+  "id": "b0ff76934a76a39a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xb45bq/i_built_an_rk3588_npu_runtime_without_any/",
+  "source": "r/LocalLLaMA",
+  "title": "I built an RK3588 NPU runtime without any proprietary inference libraries: Qwen3.5-4B at ~10 tok/s, ~2x faster than vendor SDK.",
+  "published_at": "2026-10-20T21:03:58+00:00",
+  "collected_at": "2026-10-20T23:47:02.737436+00:00",
+  "title_ko": "독자 NPU 런타임 'open_rknpu2_lm_infer' 개발",
+  "summary_ko": "개발자가 락칩 RK3588 NPU를 위한 독자적 로컬 LLM 추론 엔진을 공개했습니다. 벤더 SDK보다 빠른 속도로 온디바이스 AI 실행이 가능해집니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "4e839948c5b0c27b",
+  "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+  "source": "TechCrunch",
+  "title": "SpaceX’s AI business is beating expectations",
+  "published_at": "2026-10-20T20:40:41+00:00",
+  "collected_at": "2026-10-20T23:46:38.588789+00:00",
+  "title_ko": "스페이스X, AI 사업 성장에 힘입어 3분기 흑자 달성",
+  "summary_ko": "스페이스X가 AI 사업의 성과를 바탕으로 3분기 44억 달러의 순이익을 기록하며 흑자를 달성했습니다. 우주 산업과 AI의 결합이 가시적인 성과를 내고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "투자"
+  ]
+ },
+ {
+  "id": "3c380d799b1915be",
+  "url": "https://news.hada.io/topic?id=35728",
+  "source": "GeekNews",
+  "title": "Google, TPU용 네이티브 PyTorch 백엔드 TorchTPU 오픈소스로 공개",
+  "published_at": "2026-10-20T20:36:23+00:00",
+  "collected_at": "2026-10-20T23:47:16.834887+00:00",
+  "title_ko": "구글, TPU용 네이티브 PyTorch 백엔드 'TorchTPU' 오픈소스 공개",
+  "summary_ko": "구글이 TPU에서 PyTorch 모델을 효율적으로 실행할 수 있는 TorchTPU를 오픈소스로 공개했습니다. torch.compile()과 통합되어 개발자 편의성을 높입니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "aeaa448f66c5e86e",
+  "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+  "source": "TechCrunch",
+  "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+  "published_at": "2026-10-20T20:35:10+00:00",
+  "collected_at": "2026-10-20T23:46:38.588789+00:00",
+  "title_ko": "OpenAI, 바이오텍 사업 강화를 위해 오케스트라 바이오 인수",
+  "summary_ko": "OpenAI가 생명과학 연구용 AI 모델 개발을 가속화하기 위해 스타트업 오케스트라 바이오의 인력과 기술을 흡수했습니다. 바이오 및 헬스케어 AI 영역 확장 전략입니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI"
+  ]
+ },
+ {
+  "id": "60f7f9822d209527",
+  "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
+  "source": "Hacker News",
+  "title": "Anthropic logged net loss of over $80B in first half of 2026",
+  "published_at": "2026-10-20T20:09:46+00:00",
+  "collected_at": "2026-10-20T23:47:01.200635+00:00",
+  "title_ko": "앤스로픽, 올해 상반기 800억 달러 이상 순손실 기록",
+  "summary_ko": "보도에 따르면 앤스로픽이 대규모 인프라 투자와 연산 비용 증가로 인해 올해 상반기에 막대한 순손실을 기록했습니다. AI 시장의 치열한 경쟁과 비용 압박을 보여줍니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "투자"
+  ]
+ },
+ {
   "id": "b73d6b9b88357e12",
   "url": "https://www.reddit.com/r/singularity/comments/1xb2pme/a_fiveperson_investment_team_with_almost_no/",
   "source": "r/singularity",
@@ -13,6 +162,20 @@
    "Claude",
    "AI 에이전트",
    "바이오"
+  ]
+ },
+ {
+  "id": "01ef80d499c58cc3",
+  "url": "https://www.bolkunov.com/p/on-ai-writing",
+  "source": "Hacker News",
+  "title": "On AI writing",
+  "published_at": "2026-10-20T19:55:11+00:00",
+  "collected_at": "2026-10-20T23:47:01.200635+00:00",
+  "title_ko": "AI 글쓰기의 본질에 대한 고찰",
+  "summary_ko": "생성형 AI 시대에 글쓰기와 창작의 의미가 어떻게 변하고 있는지 다룬 분석 글입니다. 인간 고유의 표현과 AI 활용의 경계를 조명합니다.",
+  "category": "참고",
+  "tags": [
+   "LLM"
   ]
  },
  {
