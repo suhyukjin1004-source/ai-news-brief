@@ -1,5 +1,187 @@
 [
  {
+  "id": "c0a13f471aae6af1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xapakf/qwen_38_flash_next_drastically_faster_and_much/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen 3.8 Flash Next: drastically faster and much more precise in reaching the result.",
+  "published_at": "2026-10-20T11:11:12+00:00",
+  "collected_at": "2026-10-20T11:23:34.590524+00:00",
+  "title_ko": "단계별 사고 유도를 통한 LLM 응답 속도 및 정확도 개선 팁",
+  "summary_ko": "모델이 장황한 추론 대신 단계별로 초안을 잡고 수정하도록 유도하는 프롬프트 기법을 공유한다.",
+  "category": "팁",
+  "tags": [
+   "코딩"
+  ]
+ },
+ {
+  "id": "82497db5b87aeee6",
+  "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+  "source": "TechCrunch",
+  "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+  "published_at": "2026-10-20T11:00:00+00:00",
+  "collected_at": "2026-10-20T11:23:11.857703+00:00",
+  "title_ko": "Otter.ai, 기업용 성장 위해 3억 2천만 달러 투자 유치",
+  "summary_ko": "AI 회의록 요약 툴 Otter.ai가 제너럴 카탈리스트의 성장 펀드로부터 지분 희석 없는 구조로 3억 2천만 달러를 조달함. 글로벌 확장과 제품 혁신에 자금을 투입할 계획임.",
+  "category": "중요",
+  "tags": [
+   "투자",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "236220a4395d114c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xap2aq/vals_ai_found_deepseek_v41_flash_1017_beats_gpt_6/",
+  "source": "r/LocalLLaMA",
+  "title": "Vals AI found DeepSeek V4.1 Flash 1017 beats GPT 6 Sol on their multi-step offensive cybersecurity task. Sol was tested via the Daybreak trusted access program.",
+  "published_at": "2026-10-20T10:59:16+00:00",
+  "collected_at": "2026-10-20T11:23:34.590524+00:00",
+  "title_ko": "Vals AI, 고난도 사이버보안 태스크에서 DeepSeek V4.1 성능 입증",
+  "summary_ko": "Vals AI의 테스트 결과, DeepSeek V4.1 Flash 모델이 다단계 사이버보안 태스크에서 GPT-6 Sol을 능가하는 성능을 보였다고 발표함.",
+  "category": "참고",
+  "tags": [
+   "DeepSeek",
+   "GPT",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "cdd5cd5181d22ede",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaos52/qwen38flashnext_vs_qwen3827b_tool_calling_issues/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-FlashNext vs Qwen3.8-27B tool calling issues",
+  "published_at": "2026-10-20T10:43:08+00:00",
+  "collected_at": "2026-10-20T11:23:34.590524+00:00",
+  "title_ko": "Qwen3.8-FlashNext 모델의 툴 콜링 안정성 이슈",
+  "summary_ko": "최신 Qwen 변형 모델을 테스트하는 과정에서 툴 콜링 실패 빈도가 높아 여러 번 재시도가 발생하는 현상이 보고됨.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "5206699627769fa3",
+  "url": "https://news.hada.io/topic?id=35703",
+  "source": "GeekNews",
+  "title": "DeepSeek, 추론 엔진을 오픈소스로 공개",
+  "published_at": "2026-10-20T10:35:37+00:00",
+  "collected_at": "2026-10-20T11:23:49.243188+00:00",
+  "title_ko": "DeepSeek, 고성능 추론 엔진 'DeepInfer' 오픈소스 공개",
+  "summary_ko": "DeepSeek이 대규모 프로덕션 서빙을 위한 고성능 추론 프레임워크 'DeepInfer'를 오픈소스로 공개함. 대규모 서빙 효율성 향상에 기여할 것으로 기대됨.",
+  "category": "속보",
+  "tags": [
+   "DeepSeek",
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "045f0fddf46d8457",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xao7kx/improve_qwen3827b_low_quants_by_using_a_prefiller/",
+  "source": "r/LocalLLaMA",
+  "title": "Improve Qwen3.8-27b low quants by using a prefiller model that streams from SSD",
+  "published_at": "2026-10-20T10:09:47+00:00",
+  "collected_at": "2026-10-20T11:23:34.590524+00:00",
+  "title_ko": "SSD 스트리밍 프리필러로 Qwen 모델 저양자화 정확도 개선",
+  "summary_ko": "ISTA-DASLab이 SSD에서 스트리밍하는 프리필러 모델을 통해 저양자화 모델의 정확도를 복구하는 기법을 시연함.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "6a3818bee010264a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xanm55/deepseek_released_deepinfer_open_source/",
+  "source": "r/LocalLLaMA",
+  "title": "Deepseek released DeepInfer - Open Source high-performance, large-scale inference framework for DeepSeek models!",
+  "published_at": "2026-10-20T09:33:27+00:00",
+  "collected_at": "2026-10-20T11:23:34.590524+00:00",
+  "title_ko": "DeepSeek, 대규모 추론 프레임워크 DeepInfer 오픈소스 공개",
+  "summary_ko": "DeepSeek이 고성능 분산 추론 엔진을 오픈소스로 공개하여 커뮤니티 엔진 개발에 큰 도움을 줄 것으로 기대됨.",
+  "category": "속보",
+  "tags": [
+   "DeepSeek",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "79e072c528493212",
+  "url": "https://github.com/deepseek-ai/DeepInfer",
+  "source": "Hacker News",
+  "title": "DeepSeek just open-sourced its inference engine",
+  "published_at": "2026-10-20T09:08:54+00:00",
+  "collected_at": "2026-10-20T11:23:28.156788+00:00",
+  "title_ko": "DeepSeek, 자체 추론 엔진 오픈소스 공개",
+  "summary_ko": "DeepSeek이 대규모 모델 서빙을 구동하는 핵심 추론 프레임워크를 전격 오픈소스로 공개함.",
+  "category": "속보",
+  "tags": [
+   "DeepSeek",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "0e27f9a1857344a6",
+  "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+  "source": "MIT Tech Review",
+  "title": "A visit to Samsung’s massive new semiconductor hub",
+  "published_at": "2026-10-20T09:00:00+00:00",
+  "collected_at": "2026-10-20T11:23:24.671814+00:00",
+  "title_ko": "생성형 AI 수요 대응을 위한 삼성전자 평택 반도체 팹 증설",
+  "summary_ko": "GPU 및 AI 메모리 반도체 수요 급증에 맞춰 삼성전자가 평택에 대규모 제조 컴플렉스를 구축하고 가동을 확대함.",
+  "category": "중요",
+  "tags": [
+   "반도체"
+  ]
+ },
+ {
+  "id": "f76001b2ba9df542",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xamrvy/old_server_machine_with_2x_3060_12gb_for_moe/",
+  "source": "r/LocalLLaMA",
+  "title": "Old server machine with 2x 3060 12GB for MoE models, anything I’m missing?",
+  "published_at": "2026-10-20T08:40:40+00:00",
+  "collected_at": "2026-10-20T11:23:34.590524+00:00",
+  "title_ko": "로컬 LLM 및 MoE 모델 구동을 위한 중고 서버 구성 팁",
+  "summary_ko": "중고 서버와 RTX 3060 조합을 활용해 MoE 모델 및 LLM 학습/추론 환경을 구축하려는 실무적 논의가 공유됨.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "2625c79b7b37178b",
+  "url": "https://news.hada.io/topic?id=35696",
+  "source": "GeekNews",
+  "title": "DeepSeek, 미 국토안보부 새 명령으로 연방 민간기관에서 사용 금지",
+  "published_at": "2026-10-20T07:35:41+00:00",
+  "collected_at": "2026-10-20T11:23:49.243188+00:00",
+  "title_ko": "미 국토안보부, 연방 기관 내 DeepSeek 사용 및 도입 전면 금지",
+  "summary_ko": "미국 국토안보부(DHS)가 보안 우려로 인해 연방 민간 기관에서 DeepSeek 제품 및 관련 제3자 서비스의 사용과 신규 취득을 금지했습니다. AI 기술을 둘러싼 미·중 간 안보 규제가 강화되고 있음을 보여줍니다.",
+  "category": "중요",
+  "tags": [
+   "DeepSeek",
+   "규제",
+   "보안"
+  ]
+ },
+ {
+  "id": "c94259a6d4b28782",
+  "url": "https://news.hada.io/topic?id=35690",
+  "source": "GeekNews",
+  "title": "WhatsApp 도움말 페이지에 숨겨진 LLM 지침: 규제기관에 연락하라고 권하지 말 것",
+  "published_at": "2026-10-20T05:33:51+00:00",
+  "collected_at": "2026-10-20T11:23:49.243188+00:00",
+  "title_ko": "WhatsApp, 도움말 페이지에 규제기관 안내 제외 등 숨겨진 LLM 지침 포함",
+  "summary_ko": "왓츠앱의 일부 도움말 페이지에 사용자에게 개인정보 규제기관 연락을 권하지 말라는 등 AI 챗봇을 위한 숨겨진 지침들이 발견되었습니다. 기업들의 고객 응대 AI 제어 방식에 대한 논란을 낳고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "LLM",
+   "규제",
+   "개인정보"
+  ]
+ },
+ {
   "id": "6f4091f067471d95",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216417",
   "source": "AI타임스",
@@ -150,6 +332,21 @@
   ]
  },
  {
+  "id": "3eb18e5ff7f2a0ef",
+  "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+  "source": "Hugging Face",
+  "title": "MPS in PyTorch 2.15",
+  "published_at": "2026-10-20T00:00:00+00:00",
+  "collected_at": "2026-10-20T11:23:25.829325+00:00",
+  "title_ko": "PyTorch 2.15의 MPS(Metal Performance Shaders) 지원",
+  "summary_ko": "파이토치 2.15 버전에서 애플 실리콘의 GPU 가속을 담당하는 MPS 기능이 업데이트되었습니다. 맥 환경에서의 머신러닝 모델 학습 및 추론 성능 향상에 기여합니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
   "id": "6c096b15e9b9bd77",
   "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
   "source": "Simon Willison",
@@ -192,6 +389,22 @@
   "tags": [
    "LLM",
    "규제"
+  ]
+ },
+ {
+  "id": "055912be3d369fe6",
+  "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
+  "source": "Hacker News",
+  "title": "How abliterated models can get you pwned",
+  "published_at": "2026-10-19T23:08:52+00:00",
+  "collected_at": "2026-10-20T11:23:28.156788+00:00",
+  "title_ko": "검열이 해제된(Abliterated) LLM 모델 사용의 보안 취약점 위험",
+  "summary_ko": "안전장치나 검열을 우회하도록 개조된 LLM 모델을 사용할 때 발생할 수 있는 보안 취약점과 시스템 해킹 위험성을 다룬 연구입니다. 오픈소스 AI 모델 활용 시 주의가 필요함을 시사합니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "보안",
+   "LLM"
   ]
  },
  {
