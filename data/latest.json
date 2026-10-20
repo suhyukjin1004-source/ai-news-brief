@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T00:13:58.208223+00:00",
+ "updated_at": "2026-10-20T05:54:44.153238+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -16,6 +16,141 @@
    "tags": [
     "규제",
     "보안"
+   ]
+  },
+  {
+   "id": "372659a8cacb7457",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xag5bj/hermesconsole_a_demo_showing_off_voicemanager_my/",
+   "source": "r/LocalLLaMA",
+   "title": "HermesConsole: A demo showing off VoiceManager, my low latency streaming STT / TTS server. MIT, client docs, and python client.",
+   "published_at": "2026-10-20T02:18:47+00:00",
+   "collected_at": "2026-10-20T05:54:16.257937+00:00",
+   "title_ko": "저지연 스트리밍 STT/TTS 서버 HermesConsole 공개",
+   "summary_ko": "로컬에서 실행되며 단일 웹소켓을 통해 스트리밍되는 저지연 음성 대화 서버가 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "음성AI"
+   ]
+  },
+  {
+   "id": "f115778732db1705",
+   "url": "https://news.hada.io/topic?id=35676",
+   "source": "GeekNews",
+   "title": "Show GN: Review Inbox - 리뷰 기다리는 PR을 Claude Code 입력창 위에 띄워 주는 mod",
+   "published_at": "2026-10-20T01:28:32+00:00",
+   "collected_at": "2026-10-20T05:54:30.764881+00:00",
+   "title_ko": "Claude Code 입력창에 GitHub PR 리뷰 알림 연동",
+   "summary_ko": "터미널 기반의 Claude Code 사용 환경에서 밀린 PR 리뷰 요청을 놓치지 않도록 입력창 위에 상태를 표시해주는 모드입니다.",
+   "category": "팁",
+   "tags": [
+    "코딩",
+    "Claude"
+   ]
+  },
+  {
+   "id": "e9f6e03adc36285a",
+   "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+   "source": "TechCrunch",
+   "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+   "published_at": "2026-10-20T01:27:03+00:00",
+   "collected_at": "2026-10-20T05:53:55.842879+00:00",
+   "title_ko": "뉴욕 시장 마엠다니, 연방정부의 AI 규제 방관 비판",
+   "summary_ko": "대중이 AI 독점에 맞서고 공공을 보호할 수 있는 규제를 요구해야 한다고 촉구했습니다.",
+   "category": "중요",
+   "tags": [
+    "규제"
+   ]
+  },
+  {
+   "id": "37e62e6fa5ef9dce",
+   "url": "https://news.hada.io/topic?id=35674",
+   "source": "GeekNews",
+   "title": "Show GN: Markpin – 밑줄 긋고 나면 「왜 표시했나요?」를 묻는 웹 형광펜 (로컬 Markdown, MCP 서버 공개)",
+   "published_at": "2026-10-20T01:10:28+00:00",
+   "collected_at": "2026-10-20T05:54:30.764881+00:00",
+   "title_ko": "웹 형광펜으로 메모하고 MCP 서버와 연동하는 Markpin",
+   "summary_ko": "웹페이지에서 드래그한 텍스트에 형광펜과 메모를 남기고 로컬 Markdown 및 MCP 서버와 연동하는 도구입니다.",
+   "category": "팁",
+   "tags": [
+    "MCP",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "02ba6296a6cfd4d7",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaegqa/amd_gaia_025_brings_several_improvements_for/",
+   "source": "r/LocalLLaMA",
+   "title": "AMD GAIA 0.25 brings several improvements for local AI agents on Ryzen AI",
+   "published_at": "2026-10-20T00:58:40+00:00",
+   "collected_at": "2026-10-20T05:54:16.257937+00:00",
+   "title_ko": "AMD GAIA 0.25, 라이젠 AI 기반 로컬 에이전트 성능 개선",
+   "summary_ko": "AMD가 라이젠 AI 환경에서 로컬 AI 에이전트 구동을 위한 여러 성능 개선 사항을 적용한 GAIA 0.25를 발표했습니다.",
+   "category": "속보",
+   "tags": [
+    "AMD",
+    "AI 에이전트",
+    "반도체"
+   ]
+  },
+  {
+   "id": "9435498f14e00624",
+   "url": "https://news.hada.io/topic?id=35673",
+   "source": "GeekNews",
+   "title": "Ask GN: 회사에서 계속해서 늘어나는 에이전트, 어떻게 관리하나요?",
+   "published_at": "2026-10-20T00:49:14+00:00",
+   "collected_at": "2026-10-20T05:54:30.764881+00:00",
+   "title_ko": "기업 내 폭증하는 AI 에이전트 관리와 보안의 과제",
+   "summary_ko": "각 팀이 개발·배포하는 AI 에이전트가 늘어나면서 기능 중복과 보안 문제가 IT 운영의 주요 화두로 떠오르고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트",
+    "보안"
+   ]
+  },
+  {
+   "id": "30b35659b9a1389a",
+   "url": "https://news.hada.io/topic?id=35670",
+   "source": "GeekNews",
+   "title": "Anatomy - 기술 개념을 움직이는 입체 도해로 만드는 AI 에이전트 스킬",
+   "published_at": "2026-10-20T00:30:02+00:00",
+   "collected_at": "2026-10-20T05:54:30.764881+00:00",
+   "title_ko": "기술 개념을 입체 도해로 시각화하는 AI 에이전트 스킬",
+   "summary_ko": "복잡한 기술 개념을 움직이는 기계나 장치에 빗대어 SVG 기반의 인터랙티브 시각 자료로 만들어주는 코딩 에이전트 스킬입니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "28226526525d8a2f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xadfm7/migtisseratess4527b_qwen_finetune/",
+   "source": "r/LocalLLaMA",
+   "title": "migtissera/Tess-4.5-27B (Qwen finetune)",
+   "published_at": "2026-10-20T00:09:50+00:00",
+   "collected_at": "2026-10-20T05:54:16.257937+00:00",
+   "title_ko": "토큰 사용량을 대폭 줄인 Qwen 파인튜닝 모델 Tess-4.5-27B",
+   "summary_ko": "기존 모델 대비 추론 토큰 수를 크게 줄이면서도 동일하거나 더 높은 성능을 내는 로컬 LLM 파인튜닝 모델이 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "c4f02d1a3f8d35a1",
+   "url": "https://news.hada.io/topic?id=35667",
+   "source": "GeekNews",
+   "title": "사이트 가이드라인과 AI/LLM 태그 변경",
+   "published_at": "2026-10-20T00:03:37+00:00",
+   "collected_at": "2026-10-20T05:54:30.764881+00:00",
+   "title_ko": "Lobsters 커뮤니티, AI/LLM 태그 개편 및 가이드라인 강화",
+   "summary_ko": "기술 커뮤니티 Lobsters가 질 높은 컴퓨팅 콘텐츠에 집중하기 위해 AI/LLM 태그를 개편하고 관련 규칙을 명확히 했습니다.",
+   "category": "참고",
+   "tags": [
+    "규제",
+    "LLM"
    ]
   },
   {
@@ -46,6 +181,21 @@
    "tags": [
     "Anthropic",
     "투자"
+   ]
+  },
+  {
+   "id": "efa8c4c666c628dd",
+   "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+   "source": "Hacker News",
+   "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+   "published_at": "2026-10-19T23:22:18+00:00",
+   "collected_at": "2026-10-20T05:54:09.969805+00:00",
+   "title_ko": "WhatsApp 도움말 페이지에서 발견된 LLM 숨겨진 지침",
+   "summary_ko": "WhatsApp 도움말 페이지에 규제 기관을 추천하지 말라는 등의 숨겨진 LLM 지침이 포함되어 있어 논란이 되고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "LLM",
+    "규제"
    ]
   },
   {
@@ -581,6 +731,21 @@
    ]
   },
   {
+   "id": "d2321eb5a0cf03d8",
+   "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+   "source": "Hacker News",
+   "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+   "published_at": "2026-10-19T16:16:46+00:00",
+   "collected_at": "2026-10-20T05:54:09.969805+00:00",
+   "title_ko": "미국 국토안보부, 연방 기관의 딥시크 사용 금지",
+   "summary_ko": "미국 국토안보부(DHS)의 새로운 행정 명령에 따라 연방 민간 기관에서 딥시크(DeepSeek) 사용이 전면 금지되었습니다.",
+   "category": "중요",
+   "tags": [
+    "DeepSeek",
+    "규제"
+   ]
+  },
+  {
    "id": "69bd463197ee8fc6",
    "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
    "source": "TechCrunch",
@@ -1036,6 +1201,21 @@
    ]
   },
   {
+   "id": "bb2f9104933712ab",
+   "url": "https://100toolkit.com/blog/deslop-model/",
+   "source": "Hacker News",
+   "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+   "published_at": "2026-10-19T13:00:47+00:00",
+   "collected_at": "2026-10-20T05:54:15.358495+00:00",
+   "title_ko": "AI 특유의 말투를 제거한 Qwen3-4B 모델 공개",
+   "summary_ko": "AI가 자주 쓰는 상투적인 문구를 제거하도록 학습된 Qwen3-4B 파인튜닝 모델이 공개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "Qwen"
+   ]
+  },
+  {
    "id": "0a2df2cdec9ea3e5",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9vtt9/a_bare_ipython_harness_ties_production_coding/",
    "source": "r/LocalLLaMA",
@@ -1094,6 +1274,36 @@
    "tags": [
     "로보틱스",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "4f0198409c0e2bc2",
+   "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
+   "source": "Hacker News",
+   "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+   "published_at": "2026-10-19T12:07:41+00:00",
+   "collected_at": "2026-10-20T05:54:15.358495+00:00",
+   "title_ko": "LLM은 두뇌, 하네스는 신체: 하니스 엔지니어링 101",
+   "summary_ko": "LLM을 활용한 시스템 구축 시 AI 모델(두뇌)과 이를 감싸는 인프라 및 도구(신체)의 결합 중요성을 다룬 가이드입니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "5b8272a38721012d",
+   "url": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink",
+   "source": "Hacker News",
+   "title": "The obscure trust looming over Anthropic's IPO",
+   "published_at": "2026-10-19T12:06:03+00:00",
+   "collected_at": "2026-10-20T05:54:15.358495+00:00",
+   "title_ko": "앤스로픽의 IPO를 앞두고 주목받는 사내 신탁 구조",
+   "summary_ko": "앤스로픽의 기업공개(IPO)를 앞두고 회사의 지배구조와 의사결정에 영향을 미치는 사내 신탁 제도가 주목받고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "투자"
    ]
   },
   {
@@ -2773,216 +2983,6 @@
    "category": "참고",
    "tags": [
     "반도체"
-   ]
-  },
-  {
-   "id": "9be0b0284193abe4",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8ke24/deepseek_v41_flash_1017_gguf_abliterated/",
-   "source": "r/LocalLLaMA",
-   "title": "DeepSeek V4.1 Flash 1017 [GGUF + Abliterated]",
-   "published_at": "2026-10-17T20:29:49+00:00",
-   "collected_at": "2026-10-17T22:11:44.172400+00:00",
-   "title_ko": "DeepSeek V4.1 Flash 1017 검열 해제 및 GGUF 버전 공개",
-   "summary_ko": "새로 출시된 DeepSeek V4.1 Flash 1017의 거부 응답을 성공적으로 제거한 abliterated 버전과 GGUF 양자화 모델이 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "DeepSeek",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "f8ce749a8de099e9",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8kces/fish_audio_drama_3_says_it_needs_a_48_gb_nvidia/",
-   "source": "r/LocalLLaMA",
-   "title": "Fish Audio Drama 3 says it needs a 48 GB NVIDIA card. My 16 GB Radeon disagrees.",
-   "published_at": "2026-10-17T20:27:46+00:00",
-   "collected_at": "2026-10-17T22:11:44.172400+00:00",
-   "title_ko": "소형 라데온 그래픽카드를 활용한 Fish Audio Drama 3 구동",
-   "summary_ko": "공식 요구사항이 높은 Fish Audio Drama 3 모델을 시스템 RAM과 16GB 라데온 GPU 연동을 통해 저사양 환경에서 구동하는 우회법이 소개되었습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "0dabc6c10b97c37b",
-   "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-   "source": "TechCrunch",
-   "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-   "published_at": "2026-10-17T20:21:19+00:00",
-   "collected_at": "2026-10-17T22:11:13.762430+00:00",
-   "title_ko": "앤스로픽, 주니어 직원 감소 및 회의 시간 증가 추세 발표",
-   "summary_ko": "지난 1년 동안 앤스로픽의 인력 구성이 시니어 중심 재편과 함께 업무 방식 변화로 인해 회의 비중이 늘어난 것으로 나타났습니다.",
-   "category": "참고",
-   "tags": [
-    "Anthropic"
-   ]
-  },
-  {
-   "id": "0b68f6883093f835",
-   "url": "https://news.hada.io/topic?id=35544",
-   "source": "GeekNews",
-   "title": "인공지능은 자본주의의 최종 목적지다",
-   "published_at": "2026-10-17T19:43:51+00:00",
-   "collected_at": "2026-10-17T22:11:58.780715+00:00",
-   "title_ko": "AI 산업의 자본주의적 독점과 구조적 문제점에 대한 비판",
-   "summary_ko": "AI 기업들이 인류의 지식과 창작물을 사유화하며 권력을 키우고, 무기화 및 차별 재생산 등 실질적 위험을 초래한다는 비판적 시각입니다.",
-   "category": "참고",
-   "tags": [
-    "규제",
-    "투자"
-   ]
-  },
-  {
-   "id": "7a44184f3fe3cd0d",
-   "url": "https://news.hada.io/topic?id=35543",
-   "source": "GeekNews",
-   "title": "Amazon, AI로 영국 물류창고의 노조 결성 위험 감시",
-   "published_at": "2026-10-17T19:40:51+00:00",
-   "collected_at": "2026-10-17T22:11:58.780715+00:00",
-   "title_ko": "아마존, AI 예측 도구를 활용한 물류창고 노조 결성 감시",
-   "summary_ko": "아마존이 내부 문서에서 소셜미디어 데이터 등을 수집·분석하는 AI 도구 'Atlas'를 통해 물류창고의 노조 결성 가능성을 평가해 온 사실이 드러났습니다.",
-   "category": "중요",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "7bcffdb0ec700f0f",
-   "url": "https://www.reddit.com/r/singularity/comments/1x8j5tq/im_more_worried_about_who_will_control_ai_than_ai/",
-   "source": "r/singularity",
-   "title": "I’m more worried about who will control AI than AI itself",
-   "published_at": "2026-10-17T19:38:10+00:00",
-   "collected_at": "2026-10-19T01:05:04.431549+00:00",
-   "title_ko": "AI 기술 그 자체보다 통제권에 대한 우려",
-   "summary_ko": "AI의 잠재적 혜택보다 소수의 기업과 부유층이 AI 통제권을 독점해 경제적 불평등을 심화시킬 것이라는 우려가 제기된다.",
-   "category": "중요",
-   "tags": [
-    "AI",
-    "규제",
-    "경제"
-   ]
-  },
-  {
-   "id": "1444f87ad6410738",
-   "url": "https://news.hada.io/topic?id=35542",
-   "source": "GeekNews",
-   "title": "OpenCode 해킹: 사용자 인증 정보 유출",
-   "published_at": "2026-10-17T19:37:51+00:00",
-   "collected_at": "2026-10-17T22:11:58.780715+00:00",
-   "title_ko": "OpenCode 해킹으로 사용자 인증 정보 유출",
-   "summary_ko": "OpenCode가 대규모 증류 공격과 연관된 보안 침해를 겪어 일부 사용자의 인증 정보가 유출되었습니다. 현재 피해 사용자에게 개별 통지가 진행 중입니다.",
-   "category": "속보",
-   "tags": [
-    "보안",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "727e5012d5dc0db4",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216367",
-   "source": "AI타임스",
-   "title": "AI 코딩도 LLM만으론 부족…레플릿, ‘결정론적 시뮬레이터’로 검증",
-   "published_at": "2026-10-17T19:27:01+00:00",
-   "collected_at": "2026-10-17T13:37:49.739883+00:00",
-   "title_ko": "레플릿, AI 코딩 검증에 결정론적 시뮬레이터 도입",
-   "summary_ko": "AI 코딩 도구의 신뢰성을 높이기 위해 레플릿 등 기업들이 LLM에만 의존하지 않고 시뮬레이션 기반의 검증 장치를 결합하고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "b0acfed240231fd1",
-   "url": "https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself",
-   "source": "Hacker News",
-   "title": "The math that OpenAI keeps for itself",
-   "published_at": "2026-10-17T19:22:52+00:00",
-   "collected_at": "2026-10-18T18:00:40.055003+00:00",
-   "title_ko": "OpenAI가 공개하지 않는 핵심 수학 연구 분석",
-   "summary_ko": "OpenAI가 자사 모델의 핵심 경쟁력 유지를 위해 외부로 공개하지 않고 내부적으로 유지하는 수학적 방법론과 연구 방향성을 다룬 분석 글입니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "GPT"
-   ]
-  },
-  {
-   "id": "b9d0c1dc38b3ea1a",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8i1h2/older_models_for_technical_writing/",
-   "source": "r/LocalLLaMA",
-   "title": "Older models for technical writing?",
-   "published_at": "2026-10-17T18:51:59+00:00",
-   "collected_at": "2026-10-17T22:11:44.172400+00:00",
-   "title_ko": "기술 문서 작성을 위한 구형 LLM 추천",
-   "summary_ko": "최신 모델들의 특유의 어조를 피해 정확한 기술 문서 작성을 돕는 구형 LLM에 대한 개발자들의 논의가 이어지고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "LLM",
-    "코딩"
-   ]
-  },
-  {
-   "id": "6435f671229b69ca",
-   "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-   "source": "TechCrunch",
-   "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-   "published_at": "2026-10-17T18:48:08+00:00",
-   "collected_at": "2026-10-17T22:11:13.762430+00:00",
-   "title_ko": "Replit, 기본 모델 제공업체를 Anthropic에서 OpenAI로 변경",
-   "summary_ko": "개발 플랫폼 Replit이 기본 AI 모델 제공업체를 앤트로픽에서 오픈AI로 교체했습니다. 클로드 모델도 플랫폼에서 계속 사용할 수 있습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "Anthropic",
-    "GPT"
-   ]
-  },
-  {
-   "id": "b534e41dcd881887",
-   "url": "https://www.reddit.com/r/singularity/comments/1x8hxh3/why_hasnt_anyone_built_a_company_around/",
-   "source": "r/singularity",
-   "title": "Why hasn't anyone built a company around crowdsourced LLM distillation?",
-   "published_at": "2026-10-17T18:47:28+00:00",
-   "collected_at": "2026-10-17T19:14:01.114877+00:00",
-   "title_ko": "크라우드소싱 기반 LLM 증류 플랫폼 제안",
-   "summary_ko": "최첨단 모델의 증류 비용을 낮추고 API 차단을 피하기 위해 크라우드소싱 방식을 활용하는 플랫폼 아이디어가 논의됨.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "55df661b4c018106",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216366",
-   "source": "AI타임스",
-   "title": "오픈AI 도청 사건에 드러난 AI 첩보전…기업들은 이미 ‘스파이 경계’",
-   "published_at": "2026-10-17T18:45:28+00:00",
-   "collected_at": "2026-10-17T13:37:49.739883+00:00",
-   "title_ko": "미 정보국, AI 기업 대상 스파이 활동 경계 촉구",
-   "summary_ko": "오픈AI 회의실 도청 사건을 계기로 AI 기밀 보호와 외국의 첩보 활동에 대한 경계심이 업계 전반으로 확산하고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "규제"
-   ]
-  },
-  {
-   "id": "929f50c786b08bbd",
-   "url": "https://news.hada.io/topic?id=35541",
-   "source": "GeekNews",
-   "title": "예전의 내 일은 이제 멀게 느껴진다",
-   "published_at": "2026-10-17T18:45:23+00:00",
-   "collected_at": "2026-10-17T22:11:58.780715+00:00",
-   "title_ko": "AI 에이전트 도입에 따른 개발자 업무 방식의 변화",
-   "summary_ko": "개발 방식이 코드 직접 작성에서 에이전트 지시 및 QA 위주로 전환되면서 개발자의 역할과 사고방식이 근본적으로 바뀌고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
    ]
   }
  ]
