@@ -1,5 +1,48 @@
 [
  {
+  "id": "a333431a406641e5",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=216465",
+  "source": "AI타임스",
+  "title": "셀렉트스타, 시스코와 AI 신뢰성 검증 협력 추진",
+  "published_at": "2026-10-21T14:45:59+00:00",
+  "collected_at": "2026-10-21T10:01:44.088374+00:00",
+  "title_ko": "셀렉트스타-시스코, AI 신뢰성 검증 협력 추진",
+  "summary_ko": "셀렉트스타가 글로벌 보안 기업 시스코와 AI 모델 취약점 평가 및 신뢰성 검증 분야 협력을 위한 의향서를 교환했습니다.",
+  "category": "참고",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
+  "id": "62862e03b138f4f1",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=216464",
+  "source": "AI타임스",
+  "title": "\"고객센터 응대부터 영업 전화까지\"...채널톡, 음성 AI 상담 '보이스 알프' 출시",
+  "published_at": "2026-10-21T14:44:53+00:00",
+  "collected_at": "2026-10-21T10:01:44.088374+00:00",
+  "title_ko": "채널코퍼레이션, 음성 AI 상담 '보이스 알프' 출시",
+  "summary_ko": "채널코퍼레이션이 고객센터 인바운드 및 아웃바운드 음성 상담을 지원하는 생성 AI 에이전트 '보이스 알프'를 출시했습니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "39915521e64499c6",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=216461",
+  "source": "AI타임스",
+  "title": "네이버 D2SF, 온디바이스 AI 스타트업 트레이스위브에 투자",
+  "published_at": "2026-10-21T14:43:31+00:00",
+  "collected_at": "2026-10-21T10:01:44.088374+00:00",
+  "title_ko": "네이버 D2SF, 온디바이스 AI 스타트업 트레이스위브 투자",
+  "summary_ko": "네이버 D2SF가 메모리 병목 현상을 해결한 온디바이스 AI 아키텍처 개발사 '트레이스위브'에 신규 투자했습니다.",
+  "category": "속보",
+  "tags": [
+   "반도체",
+   "투자"
+  ]
+ },
+ {
   "id": "3f4d1036f759198c",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216469",
   "source": "AI타임스",
@@ -28,6 +71,137 @@
   "tags": [
    "테슬라",
    "로보틱스"
+  ]
+ },
+ {
+  "id": "e73601fc67c6ed28",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbi9h4/ovisocr3_a_08b_ocr_model_with_structured_output/",
+  "source": "r/LocalLLaMA",
+  "title": "OvisOCR3: a 0.8B OCR model with structured output and cross-page table reconstruction",
+  "published_at": "2026-10-21T09:12:49+00:00",
+  "collected_at": "2026-10-21T10:01:30.747880+00:00",
+  "title_ko": "구조화 출력 지원하는 0.8B OCR 모델 OvisOCR3 공개",
+  "summary_ko": "Qwen3.5 기반의 소형 OCR 모델로 교차 페이지 표 재구성 및 JSON 구조화 출력을 지원합니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "6f002022acff38d8",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbi1hj/internsciencesagea15_finetune_of_qwen_36_35ba3b/",
+  "source": "r/LocalLLaMA",
+  "title": "InternScience/Sage-A1.5 [Finetune of Qwen 3.6 35b-a3b]",
+  "published_at": "2026-10-21T08:59:41+00:00",
+  "collected_at": "2026-10-21T10:01:30.747880+00:00",
+  "title_ko": "과학적 문제 해결을 위한 35B 에이전틱 모델 Sage-A1.5",
+  "summary_ko": "상하이 AI 연구소의 Qwen 기반 과학 연구용 MoE 에이전트 모델로 장기적인 문제 해결 능력을 강조합니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "29924a5e1aac983a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbh0ev/kraftonraon1minipreview_hugging_face/",
+  "source": "r/LocalLLaMA",
+  "title": "KRAFTON/Raon-1-mini-preview · Hugging Face",
+  "published_at": "2026-10-21T07:54:08+00:00",
+  "collected_at": "2026-10-21T10:01:30.747880+00:00",
+  "title_ko": "크래프톤, 한국어 특화 30B MoE 모델 Raon-1-mini 공개",
+  "summary_ko": "크래프톤 AI가 자체 개발한 오픈소스 모델로 한국어 대화 및 에이전트 작업에서 우수한 성능을 보입니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "b0c45a01714b06dc",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbgyod/an_interactive_site_plotting_artificial_analysis/",
+  "source": "r/LocalLLaMA",
+  "title": "An interactive site plotting Artificial Analysis Intelligence vs parameter count",
+  "published_at": "2026-10-21T07:50:59+00:00",
+  "collected_at": "2026-10-21T10:01:30.747880+00:00",
+  "title_ko": "파라미터 규모별 AI 성능 비교 인터랙티브 사이트 등장",
+  "summary_ko": "모델의 지능 지수와 파라미터 크기를 하드웨어 사양에 맞춰 비교할 수 있는 시각화 도구가 공개되었습니다.",
+  "category": "참고",
+  "tags": []
+ },
+ {
+  "id": "401052a70cbc25fb",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbgi6i/qwen38flashnext_166bpwexl3_stable_under_36gb/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-Flash-Next @ 1.66bpw-exl3 STABLE under 36gb",
+  "published_at": "2026-10-21T07:21:35+00:00",
+  "collected_at": "2026-10-21T10:01:30.747880+00:00",
+  "title_ko": "단일 32GB GPU에서 구동되는 Qwen3.8-Flash-Next 양자화 모델",
+  "summary_ko": "저용량 양자화를 통해 고성능 모델을 일반 소비자용 그래픽카드에서 안정적으로 추론할 수 있게 되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "288b16d644a3afea",
+  "url": "https://news.hada.io/topic?id=35745",
+  "source": "GeekNews",
+  "title": "2026년 JavaScript 동향",
+  "published_at": "2026-10-21T07:18:40+00:00",
+  "collected_at": "2026-10-21T10:01:45.093664+00:00",
+  "title_ko": "2026년 자바스크립트 동향과 AI 코딩 도구의 영향",
+  "summary_ko": "생태계 전반에 AI 코딩 도구가 미친 변화를 포함한 최신 자바스크립트 기술 동향 분석입니다.",
+  "category": "참고",
+  "tags": [
+   "코딩"
+  ]
+ },
+ {
+  "id": "9b20cd60d1073dd7",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbfhxp/be_prepared_gpu_price_increase_incoming_samsung/",
+  "source": "r/LocalLLaMA",
+  "title": "Be prepared, GPU price increase incoming --> Samsung sells out 100% of all 2027 HBM capacity - HBM prices expected to jump 200% next year, DRAM prices expected to see a double-digit price increase",
+  "published_at": "2026-10-21T06:19:12+00:00",
+  "collected_at": "2026-10-21T10:01:30.747880+00:00",
+  "title_ko": "삼성 2027년 HBM 물량 완판, 내년 가격 급등 전망",
+  "summary_ko": "HBM 및 D램 수요 폭증으로 AI 하드웨어 구축 비용에 큰 영향을 미칠 전망입니다.",
+  "category": "중요",
+  "tags": [
+   "반도체",
+   "투자"
+  ]
+ },
+ {
+  "id": "1ffcd70ab180d63d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbekzx/fast_lora_in_llamacpp/",
+  "source": "r/LocalLLaMA",
+  "title": "Fast LoRA in llama.cpp",
+  "published_at": "2026-10-21T05:24:30+00:00",
+  "collected_at": "2026-10-21T10:01:30.747880+00:00",
+  "title_ko": "llama.cpp의 빠른 LoRA 적용 및 검열 해제 활용",
+  "summary_ko": "전체 모델을 다시 다운로드하지 않고 LoRA를 통해 모델의 검열을 해제하거나 특성을 조절할 수 있습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "f481f6e44d7a6a7e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbdxg3/kflash_benchmarks_of_newly_released_versions_of/",
+  "source": "r/LocalLLaMA",
+  "title": "KFlash: Benchmarks of newly released versions of Apple Silicon optimized engines: 1.4.0 Splash (DFlash2 ~ 50 tok/s) vs 0.2 Kapitsa (KFlash ~65 tok/s), MLX(MTP) & more on Qwen 3.8 27b/4b/35b 4Q on Macbook Pro M4 Pro 48 GB 2024, 48GB & Macbook Pro M1 Pro 16GB 2021",
+  "published_at": "2026-10-21T04:47:12+00:00",
+  "collected_at": "2026-10-21T10:01:30.747880+00:00",
+  "title_ko": "애플 실리콘 최적화 로컬 추론 엔진 KFlash 공개",
+  "summary_ko": "맥북 환경에서 Qwen 및 Nemotron 모델의 추론 속도를 극대화하는 새로운 디코딩 기법이 적용된 엔진입니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "반도체"
   ]
  },
  {
