@@ -1,8 +1,68 @@
 {
- "updated_at": "2026-10-21T15:06:59.745088+00:00",
+ "updated_at": "2026-10-21T19:17:44.878918+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "3c7749650af0375d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbw3oy/mica_v05_the_smartest_4b_decision_model_is_also/",
+   "source": "r/LocalLLaMA",
+   "title": "Mica v0.5: The smartest 4B decision model is also the fastest one. 20 ms per answer, 25x faster than Jev",
+   "published_at": "2026-10-21T19:00:21+00:00",
+   "collected_at": "2026-10-21T19:17:18.017743+00:00",
+   "title_ko": "초고속 4B 결정 모델 Mica v0.5 공개",
+   "summary_ko": "단일 소비자용 GPU에서 실행되며 빠른 속도와 높은 정확도를 자랑하는 4B 규모의 Mica v0.5 모델이 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "7104bc51c29585cc",
+   "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+   "source": "Hugging Face",
+   "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+   "published_at": "2026-10-21T18:26:30+00:00",
+   "collected_at": "2026-10-21T19:16:51.635990+00:00",
+   "title_ko": "NVIDIA Kumo, 관계형 데이터 학습에서 우수한 성능 입증",
+   "summary_ko": "NVIDIA의 Kumo Relational이 별도의 학습 없이도 관계형 데이터에서 기존 머신러닝 모델을 뛰어넘는 성능을 보여주었습니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "머신러닝"
+   ]
+  },
+  {
+   "id": "ffded17d84af014d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbuzj5/amazing_free_3090_speedup_hack_verified_works_15/",
+   "source": "r/LocalLLaMA",
+   "title": "Amazing free 3090 speedup hack, verified works 15% PP, 5% TG for free",
+   "published_at": "2026-10-21T18:19:42+00:00",
+   "collected_at": "2026-10-21T19:17:18.017743+00:00",
+   "title_ko": "RTX 3090 GPU를 위한 LLM 속도 향상 팁",
+   "summary_ko": "RTX 3090 환경에서 프롬프트 처리 속도와 생성 속도를 무료로 향상시킬 수 있는 최적화 팁이 공유되었습니다.",
+   "category": "팁",
+   "tags": [
+    "NVIDIA",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "fec3f8f0dab00f96",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xburkx/tried_running_748b_deepseekv41flash_on_a_2k_pc/",
+   "source": "r/LocalLLaMA",
+   "title": "Tried running 748B DeepSeek-V4.1-Flash on a €2k PC",
+   "published_at": "2026-10-21T18:11:28+00:00",
+   "collected_at": "2026-10-21T19:17:18.017743+00:00",
+   "title_ko": "저가형 PC에서 748B 대형 모델 구동 시도",
+   "summary_ko": "중고 RTX 3090 PC 환경에서 1비트 양자화된 대형 모델을 구동해 본 실험적 시도가 공유되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
   {
    "id": "93e18056b1ab9e12",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216470",
@@ -36,6 +96,20 @@
    ]
   },
   {
+   "id": "354f89a6c7dbf10c",
+   "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+   "source": "Hugging Face",
+   "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+   "published_at": "2026-10-21T17:35:36+00:00",
+   "collected_at": "2026-10-21T19:16:51.635990+00:00",
+   "title_ko": "SLM 어휘 특화로 추론 비용 77% 절감하기",
+   "summary_ko": "소형 언어 모델(SLM)의 어휘를 특화함으로써 실제 애플리케이션에서 추론 비용을 크게 낮추는 방법이 소개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "LLM"
+   ]
+  },
+  {
    "id": "236823288268db43",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216476",
    "source": "AI타임스",
@@ -49,6 +123,20 @@
     "Google",
     "반도체",
     "오픈소스"
+   ]
+  },
+  {
+   "id": "4ab93569e260b2b0",
+   "url": "https://openai.com/index/att-legal",
+   "source": "OpenAI",
+   "title": "How AT&T is rethinking in-house legal work with OpenAI",
+   "published_at": "2026-10-21T17:00:00+00:00",
+   "collected_at": "2026-10-21T19:16:50.688102+00:00",
+   "title_ko": "AT&T, OpenAI 기술 도입으로 사내 법무 업무 혁신",
+   "summary_ko": "AT&T가 OpenAI와의 협력을 통해 법무 지식 접근성을 높이고 법적 판단 프로세스를 확장하고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI"
    ]
   },
   {
@@ -114,6 +202,18 @@
    ]
   },
   {
+   "id": "e457dd30d82516e0",
+   "url": "https://rustoffrails.org/",
+   "source": "Hacker News",
+   "title": "Rust off Rails: The opinionated web stack for the AI era",
+   "published_at": "2026-10-21T16:34:16+00:00",
+   "collected_at": "2026-10-21T19:17:16.999818+00:00",
+   "title_ko": "AI 시대를 위한 Rust 기반 웹 스택 등장",
+   "summary_ko": "AI 시대의 요구에 맞춘 독자적인 Rust 웹 개발 스택이 Hacker News에 소개되었습니다.",
+   "category": "참고",
+   "tags": []
+  },
+  {
    "id": "03dbf59706d14862",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216484",
    "source": "AI타임스",
@@ -126,6 +226,20 @@
    "tags": [
     "AI 에이전트",
     "오픈소스"
+   ]
+  },
+  {
+   "id": "9e4014276af20832",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbrh0s/when_will_we_see_these_changes_china_is_doubling/",
+   "source": "r/LocalLLaMA",
+   "title": "When will we see these changes? --> China Is Doubling RAM Production to Keep Everyday Gadget Prices from Skyrocketing",
+   "published_at": "2026-10-21T16:12:59+00:00",
+   "collected_at": "2026-10-21T19:17:18.017743+00:00",
+   "title_ko": "중국의 RAM 생산량 두 배 확대 동향",
+   "summary_ko": "중국이 일상 기기 가격 급등을 막기 위해 RAM 생산량을 늘리는 조치가 LLM 하드웨어 시장에 미칠 영향에 대한 논의입니다.",
+   "category": "참고",
+   "tags": [
+    "반도체"
    ]
   },
   {
@@ -161,6 +275,49 @@
    ]
   },
   {
+   "id": "f9b499debdda31c0",
+   "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+   "source": "Hugging Face",
+   "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+   "published_at": "2026-10-21T16:04:43+00:00",
+   "collected_at": "2026-10-21T19:16:51.635990+00:00",
+   "title_ko": "AWS Trainium 시스템 프로파일링 가이드",
+   "summary_ko": "AWS Trainium 하드웨어에서 TorchNeuron을 활용한 시스템 레벨 프로파일링 기법을 다룹니다.",
+   "category": "팁",
+   "tags": [
+    "반도체"
+   ]
+  },
+  {
+   "id": "166e1a2339b6daf1",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbr3u1/now_that_3090_frenzy_warning_post_makes_sense/",
+   "source": "r/LocalLLaMA",
+   "title": "Now that 3090 frenzy warning post makes sense.",
+   "published_at": "2026-10-21T16:00:07+00:00",
+   "collected_at": "2026-10-21T19:17:18.017743+00:00",
+   "title_ko": "RTX 3090 성능 최적화 이슈 재조명",
+   "summary_ko": "과거 채굴 방지 조치와 연관된 RTX 3090의 성능 제한을 해제하는 최적화 방법이 AI 커뮤니티에서 주목받고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "NVIDIA"
+   ]
+  },
+  {
+   "id": "cd8784ec9dd0eab2",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbr2yg/ibm_granite_speech_50_2b/",
+   "source": "r/LocalLLaMA",
+   "title": "IBM Granite Speech 5.0 2B",
+   "published_at": "2026-10-21T15:59:15+00:00",
+   "collected_at": "2026-10-21T19:17:18.017743+00:00",
+   "title_ko": "IBM, 음성 모델 Granite Speech 5.0 2B 공개",
+   "summary_ko": "IBM이 음성 인식 및 처리를 위한 소형 오픈소스 모델인 Granite Speech 5.0 2B를 선보였습니다.",
+   "category": "속보",
+   "tags": [
+    "IBM",
+    "오픈소스"
+   ]
+  },
+  {
    "id": "ac372c8fdbc002da",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216475",
    "source": "AI타임스",
@@ -173,6 +330,78 @@
    "tags": [
     "AI 에이전트",
     "반도체"
+   ]
+  },
+  {
+   "id": "e47ce24c76d68540",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbqxh5/ok_fine_qwen_38_flash_next_is_nice/",
+   "source": "r/LocalLLaMA",
+   "title": "OK, fine, Qwen 3.8 Flash Next is nice",
+   "published_at": "2026-10-21T15:53:41+00:00",
+   "collected_at": "2026-10-21T19:17:18.017743+00:00",
+   "title_ko": "Qwen 3.8 Flash Next 모델 사용 소감",
+   "summary_ko": "개발자 커뮤니티에서 Qwen 3.8 Flash Next 모델의 뛰어난 성능과 실용성에 대한 긍정적인 평가가 공유되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "c9ba9f0d65f4abb9",
+   "url": "https://news.hada.io/topic?id=35762",
+   "source": "GeekNews",
+   "title": "Qwen3-Coder, 미국 고객용이라고 지시하면 보안이 더 취약한 코드 생성",
+   "published_at": "2026-10-21T15:40:45+00:00",
+   "collected_at": "2026-10-21T19:17:32.272561+00:00",
+   "title_ko": "Qwen3-Coder, 고객 대상에 따라 보안 취약한 코드 생성",
+   "summary_ko": "실험 결과 Qwen3-Coder가 미국 방산업체용 코드를 작성할 때 상대적으로 더 취약한 보안 코드를 생성하는 경향이 발견되었습니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "fd4dca420a1d3a63",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbqir0/ran_deepseek_v41_flash_1017_on_a_single_rtx_5090/",
+   "source": "r/LocalLLaMA",
+   "title": "Ran DeepSeek V4.1 Flash 1017 on a single RTX 5090",
+   "published_at": "2026-10-21T15:38:12+00:00",
+   "collected_at": "2026-10-21T19:17:18.017743+00:00",
+   "title_ko": "단일 RTX 5090에서 DeepSeek V4.1 Flash 구동 성공",
+   "summary_ko": "RTX 5090과 보조 하드웨어를 조합하여 대형 오픈소스 모델인 DeepSeek V4.1 Flash를 로컬 환경에서 실행한 사례가 공유되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "14b03d6446049d05",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbqik0/recursivesiflint_40b_a25b_hugging_face/",
+   "source": "r/LocalLLaMA",
+   "title": "RecursiveSI/flint (40B A2.5B) · Hugging Face",
+   "published_at": "2026-10-21T15:38:00+00:00",
+   "collected_at": "2026-10-21T19:17:18.017743+00:00",
+   "title_ko": "RecursiveSI, 허깅페이스에 flint (40B A2.5B) 공개",
+   "summary_ko": "새로운 대형 언어 모델인 flint가 허깅페이스에 등록되어 개발자들의 관심을 받고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "0a5188060a02735b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbq7ze/inclusionaiming30tts05b/",
+   "source": "r/LocalLLaMA",
+   "title": "inclusionAI/Ming-3.0-TTS-0.5B",
+   "published_at": "2026-10-21T15:27:08+00:00",
+   "collected_at": "2026-10-21T19:17:18.017743+00:00",
+   "title_ko": "앤트그룹 지원 InclusionAI, Ming-3.0-TTS-0.5B 공개",
+   "summary_ko": "음성 복제와 감정 제어를 지원하는 소형 음성합성 모델 Ming-3.0-TTS-0.5B가 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스"
    ]
   },
   {
@@ -276,6 +505,20 @@
    "tags": [
     "코딩",
     "오픈소스"
+   ]
+  },
+  {
+   "id": "a0e7a23f62c47cb2",
+   "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+   "source": "Hacker News",
+   "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+   "published_at": "2026-10-21T14:00:26+00:00",
+   "collected_at": "2026-10-21T19:16:59.275671+00:00",
+   "title_ko": "PyPI에 배포된 LiteLLM 1.107.0에서 악성코드 발견",
+   "summary_ko": "파이썬 패키지 저장소(PyPI)의 LiteLLM 특정 버전에서 자격 증명을 탈취하는 백도어가 발견되어 주의가 요구됩니다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트"
    ]
   },
   {
@@ -423,6 +666,22 @@
    "tags": [
     "오픈소스",
     "NVIDIA"
+   ]
+  },
+  {
+   "id": "3980395922286a74",
+   "url": "https://layerfs.ai/",
+   "source": "Hacker News",
+   "title": "LayerFS: The filesystem for AI coding agents",
+   "published_at": "2026-10-21T12:34:46+00:00",
+   "collected_at": "2026-10-21T19:17:16.999818+00:00",
+   "title_ko": "AI 코딩 에이전트를 위한 파일시스템, LayerFS 공개",
+   "summary_ko": "AI 코딩 에이전트의 효율적인 작업 환경을 지원하는 전용 파일시스템 LayerFS가 공개되었습니다. 에이전트 기반 개발 도구의 성능 향상에 도움을 줍니다.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트",
+    "코딩",
+    "오픈소스"
    ]
   },
   {
@@ -619,6 +878,22 @@
    ]
   },
   {
+   "id": "d3f519557f32dd3d",
+   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+   "source": "OpenAI",
+   "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+   "published_at": "2026-10-21T07:00:00+00:00",
+   "collected_at": "2026-10-21T19:16:50.688102+00:00",
+   "title_ko": "오픈소스 취약점 대응을 위한 '패치 더 플래닛' 출범",
+   "summary_ko": "OpenAI가 보안 연구자와 유지보수자를 연결하여 오픈소스 전반의 치명적 취약점을 AI 에이전트로 신속하게 대응하는 체계를 발표했습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "AI 에이전트",
+    "보안"
+   ]
+  },
+  {
    "id": "edef63b51aedc012",
    "url": "https://openai.com/index/building-chatgpt-ad-stack",
    "source": "OpenAI",
@@ -735,6 +1010,22 @@
    "tags": [
     "오픈소스",
     "GPT"
+   ]
+  },
+  {
+   "id": "b2deaf97c98cf0ff",
+   "url": "https://openai.com/index/empowering-cyber-defenders",
+   "source": "OpenAI",
+   "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+   "published_at": "2026-10-21T00:00:00+00:00",
+   "collected_at": "2026-10-21T19:16:50.688102+00:00",
+   "title_ko": "첨단 AI를 활용한 사이버 방어 역량 강화 방안 발표",
+   "summary_ko": "OpenAI가 첨단 AI를 통해 사이버 방어자를 지원하고 공공 기관의 보안을 강화하기 위한 거버넌스 청사진을 공개했습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "규제",
+    "보안"
    ]
   },
   {
@@ -2686,301 +2977,6 @@
    "category": "속보",
    "tags": [
     "AI 어시스턴트"
-   ]
-  },
-  {
-   "id": "262b8cbcb47a6742",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa5dse/strata_2_beta_running_at_half_speed/",
-   "source": "r/LocalLLaMA",
-   "title": "Strata 2 beta running at half speed?",
-   "published_at": "2026-10-19T18:48:24+00:00",
-   "collected_at": "2026-10-19T20:31:55.713076+00:00",
-   "title_ko": "Strata 2 베타 버전 속도 저하 이슈",
-   "summary_ko": "Strata 1.45에서 2.0 베타로 업데이트한 후 듀얼 4090 환경에서의 토큰 처리 속도가 절반으로 떨어졌다는 사용자 피드백이 공유되었습니다.",
-   "category": "팁",
-   "tags": [
-    "NVIDIA",
-    "로컬LLM"
-   ]
-  },
-  {
-   "id": "ad8b2b52c8ee0200",
-   "url": "https://news.hada.io/topic?id=35653",
-   "source": "GeekNews",
-   "title": "여전히 프로그래밍을 즐겨도 괜찮다",
-   "published_at": "2026-10-19T18:46:06+00:00",
-   "collected_at": "2026-10-19T20:32:10.862059+00:00",
-   "title_ko": "AI 시대에도 여전히 즐거운 프로그래밍",
-   "summary_ko": "AI가 코드를 대신 작성해 주는 시대이지만, 경제적 효용을 떠나 문제를 해결하는 과정 자체로서 프로그래밍의 즐거움을 재조명합니다.",
-   "category": "참고",
-   "tags": [
-    "코딩",
-    "Claude"
-   ]
-  },
-  {
-   "id": "2fee919a65d7ed4a",
-   "url": "https://news.hada.io/topic?id=35652",
-   "source": "GeekNews",
-   "title": "CERN과 Mistral, 전략적 파트너십 구축을 위한 의향서 서명",
-   "published_at": "2026-10-19T18:43:06+00:00",
-   "collected_at": "2026-10-19T20:32:10.862059+00:00",
-   "title_ko": "CERN과 Mistral AI, 과학 연구용 파운데이션 모델 개발 파트너십",
-   "summary_ko": "CERN과 미스트랄 AI가 양성자 충돌 시뮬레이션을 위한 대형 물리학 모델(Large Physics Model) 개발에 협력하기로 했습니다. 과학 분야 AI 적용의 중요한 진전입니다.",
-   "category": "중요",
-   "tags": [
-    "Mistral",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "25c38f880dd1c0b8",
-   "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-   "source": "TechCrunch",
-   "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-   "published_at": "2026-10-19T18:37:27+00:00",
-   "collected_at": "2026-10-19T20:31:23.640947+00:00",
-   "title_ko": "텐스토렌트, 62억 달러 가치로 15억 달러 투자 유치",
-   "summary_ko": "NVIDIA의 대항마로 꼽히는 AI 반도체 스타트업 텐스토렌트가 독립 유지 및 오픈 웨이트 AI 칩 확장을 위해 거액의 투자를 받았습니다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "반도체",
-    "투자"
-   ]
-  },
-  {
-   "id": "8c791cf92e448896",
-   "url": "https://www.reddit.com/r/singularity/comments/1xa50s1/viggle_unveils_jst2_an_ai_that_generates_entire/",
-   "source": "r/singularity",
-   "title": "Viggle unveils JST-2, an AI that generates entire 3D worlds in seconds, expands them in real time, and creates animated characters. Unlike traditional AI video generators, it builds environments directly in 3D with physics built in.",
-   "published_at": "2026-10-19T18:35:14+00:00",
-   "collected_at": "2026-10-19T20:32:08.462111+00:00",
-   "title_ko": "Viggle, 실시간 3D 월드 생성 AI 'JST-2' 공개",
-   "summary_ko": "Viggle이 물리 법칙이 적용된 3D 환경과 애니메이션 캐릭터를 실시간으로 생성하는 JST-2를 발표했습니다. 기존 비디오 생성 AI와 차별화됩니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "5b7e0b7861961864",
-   "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-   "source": "MIT Tech Review",
-   "title": "Making the internet better for AI agents might make it worse for everyone else",
-   "published_at": "2026-10-19T18:22:47+00:00",
-   "collected_at": "2026-10-19T20:31:36.582958+00:00",
-   "title_ko": "AI 에이전트를 위한 인터넷 환경이 인간에게 미치는 영향",
-   "summary_ko": "웹사이트들이 AI 에이전트의 자동화된 접근을 최적화하는 과정이 일반 인간 사용자들의 웹 경험을 악화시킬 수 있다는 분석입니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "769d91099103bc9b",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216410",
-   "source": "AI타임스",
-   "title": "구글, AI 성능 스스로 높이는 자기개선 프레임워크 ‘하네스²’ 공개",
-   "published_at": "2026-10-19T18:01:15+00:00",
-   "collected_at": "2026-10-19T14:35:46.378011+00:00",
-   "title_ko": "구글, AI 성능 스스로 높이는 오픈소스 '하네스²' 공개",
-   "summary_ko": "구글이 모델 재학습 없이 실행 환경을 스스로 개선해 에이전트 성능을 높이는 오픈소스 프레임워크를 공개했다.",
-   "category": "속보",
-   "tags": [
-    "Google",
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "428ebaed686771dd",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa3yqk/i_checked_bitnet_and_bonsai_on_cpu_against/",
-   "source": "r/LocalLLaMA",
-   "title": "I checked BitNet and Bonsai on CPU against references: bitnet.cpp main still gives wrong output, Bonsai 1.7B is correct wherever it loads, and ik_llama.cpp with -rtr is usually fastest",
-   "published_at": "2026-10-19T17:57:01+00:00",
-   "collected_at": "2026-10-19T20:31:55.713076+00:00",
-   "title_ko": "CPU 환경에서의 저비트 GGUF 런타임 성능 및 정확도 비교",
-   "summary_ko": "BitNet과 Bonsai 등의 저비트 LLM 모델을 CPU에서 실행할 때 발생하는 정확도 오류와 성능 차이를 비교 분석했습니다.",
-   "category": "팁",
-   "tags": [
-    "로컬LLM",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "53ff720e7c80218a",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216413",
-   "source": "AI타임스",
-   "title": "텐센트, 챗봇마다 저장하던 AI 메모리 통합...클로드·챗GPT에서 공유",
-   "published_at": "2026-10-19T17:54:24+00:00",
-   "collected_at": "2026-10-19T14:35:46.378011+00:00",
-   "title_ko": "텐센트, 챗봇 메모리 통합하는 '하이 메모리 2.0' 공개",
-   "summary_ko": "텐센트가 여러 AI 도구 간 대화와 작업 기록을 공유하는 오픈소스 메모리 시스템을 선보였다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "92c294f17fe5c809",
-   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
-   "source": "MIT Tech Review",
-   "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
-   "published_at": "2026-10-19T17:45:55+00:00",
-   "collected_at": "2026-10-19T20:31:36.582958+00:00",
-   "title_ko": "신경망의 본질을 뒤흔든 굿파이어 연구원의 주장",
-   "summary_ko": "AI 스타트업 굿파이어의 연구원이 신경망의 작동 방식에 대한 기존 통념을 뒤집는 파격적인 가설을 제기해 업계의 주목을 받고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "LLM"
-   ]
-  },
-  {
-   "id": "eb27c73c20111ddb",
-   "url": "https://news.hada.io/topic?id=35651",
-   "source": "GeekNews",
-   "title": "Harness Engineering 101 - Python 약 300줄로 배우는 AI 에이전트 구현",
-   "published_at": "2026-10-19T17:44:11+00:00",
-   "collected_at": "2026-10-20T00:13:42.762072+00:00",
-   "title_ko": "Python 300줄로 구현하는 AI 에이전트 입문",
-   "summary_ko": "프레임워크 없이 순수 Python 코드로 AI 에이전트의 작동 원리와 HTTP 요청, 대화 관리 등을 배우는 튜토리얼입니다. LLM과 하네스의 관계를 이해하는 데 도움이 됩니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "a2b4380ca884ecab",
-   "url": "https://news.hada.io/topic?id=35650",
-   "source": "GeekNews",
-   "title": "tmux와 Claude Code: 세션, send-keys, 그리고 한계",
-   "published_at": "2026-10-19T17:41:11+00:00",
-   "collected_at": "2026-10-20T00:13:42.762072+00:00",
-   "title_ko": "tmux와 Claude Code를 활용한 AI 코딩 관리",
-   "summary_ko": "tmux를 이용해 Claude Code 같은 AI 코딩 에이전트 세션을 안정적으로 유지하고 멀티 태스킹을 관리하는 방법을 다룹니다.",
-   "category": "팁",
-   "tags": [
-    "Claude",
-    "코딩",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "69fcbfb7a98fa4b2",
-   "url": "https://news.hada.io/topic?id=35649",
-   "source": "GeekNews",
-   "title": "Ruby gem 개발을 그만두는 이유 - AI가 바꾼 생태계",
-   "published_at": "2026-10-19T17:38:11+00:00",
-   "collected_at": "2026-10-20T00:13:42.762072+00:00",
-   "title_ko": "AI 생태계 변화로 개발을 중단한 Ruby 개발자 소식",
-   "summary_ko": "소프트웨어 생태계가 AI 중심으로 빠르게 재편되면서 기존 개발자가 겪는 회의감과 오픈소스 유지보수 중단 사례를 조명합니다.",
-   "category": "참고",
-   "tags": [
-    "코딩"
-   ]
-  },
-  {
-   "id": "5ee327a850981de6",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216403",
-   "source": "AI타임스",
-   "title": "엘로리안, 시각 추론 AI ‘글림프스’ 공개…일부 평가서 아스트라 앞서",
-   "published_at": "2026-10-19T17:35:58+00:00",
-   "collected_at": "2026-10-19T14:35:46.378011+00:00",
-   "title_ko": "엘로리안, 시각 추론 AI 모델 '글림프스' 공개",
-   "summary_ko": "엘로리안이 이미지와 영상을 반복 확인하며 추론하는 시각 AI 모델을 연구 프리뷰로 선보였다.",
-   "category": "속보",
-   "tags": [
-    "GPT",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "0c63a761301701ac",
-   "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
-   "source": "Hacker News",
-   "title": "Mercury 3: Diffusion at scale",
-   "published_at": "2026-10-19T17:27:11+00:00",
-   "collected_at": "2026-10-19T20:31:38.113922+00:00",
-   "title_ko": "인셉션 랩스, 대규모 확장이 가능한 'Mercury 3' 공개",
-   "summary_ko": "인셉션 랩스가 초당 1000 토큰 처리 속도를 지원하는 디퓨전 기반 대형 모델 'Mercury 3'를 발표했습니다.",
-   "category": "속보",
-   "tags": [
-    "LLM"
-   ]
-  },
-  {
-   "id": "89148ed4b7e5e7a7",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216398",
-   "source": "AI타임스",
-   "title": "앤트로픽 직원 91% “2030년 AI가 노벨상급 발견” 예측...일반인은 39%",
-   "published_at": "2026-10-19T17:26:50+00:00",
-   "collected_at": "2026-10-19T14:35:46.378011+00:00",
-   "title_ko": "앤트로픽 직원 91% \"2030년 AI가 노벨상급 발견\" 전망",
-   "summary_ko": "앤트로픽 직원들과 일반인 사이에 AI 발전 속도와 파급력에 대한 큰 인식 격차를 보였다.",
-   "category": "참고",
-   "tags": [
-    "Anthropic"
-   ]
-  },
-  {
-   "id": "c01513545ab9dd10",
-   "url": "https://www.reddit.com/r/singularity/comments/1xa30cc/mercury_3_inception_labs_matching_lunahaiku_at/",
-   "source": "r/singularity",
-   "title": "Mercury 3 [Inception Labs] - Matching Luna/Haiku at 1000 tokens/sec",
-   "published_at": "2026-10-19T17:22:01+00:00",
-   "collected_at": "2026-10-19T20:32:08.462111+00:00",
-   "title_ko": "초당 1000 토큰 처리하는 디퓨전 모델 'Mercury 3' 등장",
-   "summary_ko": "인셉션 랩스가 공개한 Mercury 3가 주요 상용 모델과 맞먹는 성능을 초고속으로 보여주어 디퓨전 모델의 LLM 시장 진입 가능성을 높이고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "LLM"
-   ]
-  },
-  {
-   "id": "10ee5718b4af7e8f",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216412",
-   "source": "AI타임스",
-   "title": "센드버드, 업스테이지와 기업용 AI 에이전트 영역서 협력",
-   "published_at": "2026-10-19T17:07:09+00:00",
-   "collected_at": "2026-10-19T14:35:46.378011+00:00",
-   "title_ko": "센드버드, 업스테이지와 기업용 AI 에이전트 협력",
-   "summary_ko": "센드버드의 에이전트 플랫폼에 업스테이지의 LLM 솔라를 연계해 기업용 시장 공략에 나선다.",
-   "category": "중요",
-   "tags": [
-    "업스테이지",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "49b7aba6891b4665",
-   "url": "https://www.minimax.io/blog/minimax-m31f",
-   "source": "Hacker News",
-   "title": "MiniMax M3.1 Flash",
-   "published_at": "2026-10-19T16:39:09+00:00",
-   "collected_at": "2026-10-19T20:31:38.113922+00:00",
-   "title_ko": "미니맥스, 고성능 모델 'MiniMax M3.1 Flash' 공개",
-   "summary_ko": "미니맥스가 새로운 초고속 AI 모델 M3.1 Flash를 발표하며 개발자 커뮤니티의 큰 관심을 모았습니다.",
-   "category": "속보",
-   "tags": [
-    "LLM"
-   ]
-  },
-  {
-   "id": "abed527470367463",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216406",
-   "source": "AI타임스",
-   "title": "앤트로픽, 에이전트 협상 학습에 변호사 투입...“흥정할 때 지켜야 할 규칙은”",
-   "published_at": "2026-10-19T16:32:46+00:00",
-   "collected_at": "2026-10-19T14:35:46.378011+00:00",
-   "title_ko": "앤트로픽, AI 에이전트 협상 규칙 마련 위해 변호사 자문",
-   "summary_ko": "AI 에이전트 간 직접 협상 시대를 대비해 윤리적이고 공정한 행동 규칙을 마련하려는 움직임이다.",
-   "category": "참고",
-   "tags": [
-    "Anthropic",
-    "AI 에이전트"
    ]
   }
  ]
