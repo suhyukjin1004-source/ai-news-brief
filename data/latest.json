@@ -1,8 +1,202 @@
 {
- "updated_at": "2026-10-22T19:59:25.401226+00:00",
+ "updated_at": "2026-10-22T23:14:49.673553+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "95eb6975ad245049",
+   "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+   "source": "Hugging Face",
+   "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+   "published_at": "2026-10-22T22:24:34+00:00",
+   "collected_at": "2026-10-22T23:14:12.312180+00:00",
+   "title_ko": "데이터베이스 채점을 강화 학습 보상으로 활용하기: ThinkingBox",
+   "summary_ko": "ThinkingBox를 활용해 데이터베이스 채점 방식을 강화 학습(RL) 보상으로 변환하여 에이전트를 사후 학습시키는 방법입니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "6372ebaa66c806f5",
+   "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+   "source": "TechCrunch",
+   "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+   "published_at": "2026-10-22T22:08:24+00:00",
+   "collected_at": "2026-10-22T23:13:58.426543+00:00",
+   "title_ko": "OpenAI, IPO 앞두고 1조 2,500억 달러 가치로 300억 달러 투자 유치 추진",
+   "summary_ko": "OpenAI가 상장을 앞두고 비상장 기업 최고 기록인 1조 2,500억 달러의 기업 가치로 새로운 투자 유치를 진행 중입니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "투자"
+   ]
+  },
+  {
+   "id": "09c9f9d097fbda6f",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+   "source": "The Verge",
+   "title": "Canva’s first AI image model plans designs before generating them",
+   "published_at": "2026-10-22T21:51:25+00:00",
+   "collected_at": "2026-10-22T23:13:58.633541+00:00",
+   "title_ko": "캔바, 생성 전 디자인을 먼저 계획하는 AI 이미지 모델 공개",
+   "summary_ko": "캔바가 2단계 아키텍처를 적용해 이미지 생성 전에 디자인을 미리 계획함으로써 정밀도와 제어력을 높인 AI 모델 '캔바 크래프트'를 출시했습니다.",
+   "category": "속보",
+   "tags": [
+    "이미지 생성"
+   ]
+  },
+  {
+   "id": "bc1d8675d0a5a525",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcvtmj/strataready_uncensored_swift_15_qwen_38_fn/",
+   "source": "r/LocalLLaMA",
+   "title": "Strata-Ready Uncensored Swift 1.5 Qwen 3.8 FN - Unsloth Dynamic IQ4_XS",
+   "published_at": "2026-10-22T21:46:27+00:00",
+   "collected_at": "2026-10-22T23:14:18.807801+00:00",
+   "title_ko": "에이전트 업무용 언센서드 Qwen 기반 파인튜닝 모델 공개",
+   "summary_ko": "에이전트 작업, 도구 사용, 코딩 등에 최적화된 언센서드 Qwen 기반의 동적 양자화 모델이 공개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "e406b559e36e83c5",
+   "url": "https://news.hada.io/topic?id=35833",
+   "source": "GeekNews",
+   "title": "OpenShell - AI 에이전트의 파일과 네트워크 접근을 제어하는 NVIDIA 런타임",
+   "published_at": "2026-10-22T21:40:00+00:00",
+   "collected_at": "2026-10-22T23:14:33.228840+00:00",
+   "title_ko": "NVIDIA, AI 에이전트 보안을 위한 런타임 'OpenShell' 공개",
+   "summary_ko": "NVIDIA가 AI 에이전트의 파일, 비밀정보, 네트워크 접근을 커널 수준에서 제어하고 격리하는 오픈소스 런타임 'OpenShell'을 발표했습니다.",
+   "category": "속보",
+   "tags": [
+    "NVIDIA",
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "712bc0d815dcfe0f",
+   "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+   "source": "MIT Tech Review",
+   "title": "Designing an AI serving harness built to last",
+   "published_at": "2026-10-22T21:17:29+00:00",
+   "collected_at": "2026-10-22T23:14:11.194891+00:00",
+   "title_ko": "엔터프라이즈 AI의 핵심: 지속 가능한 서빙 인프라 설계",
+   "summary_ko": "엔터프라이즈 AI 경쟁력의 초점이 개별 모델 성능에서 모델을 둘러싼 인프라와 서빙 아키텍처 구축으로 이동하고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "엔터프라이즈",
+    "AI"
+   ]
+  },
+  {
+   "id": "ce7fed74f49640c1",
+   "url": "https://news.ycombinator.com/item?id=50200997",
+   "source": "Hacker News",
+   "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+   "published_at": "2026-10-22T21:03:55+00:00",
+   "collected_at": "2026-10-22T23:14:18.068638+00:00",
+   "title_ko": "토큰 판매 대신 AI 기업이 직접 제품을 만들지 않는 이유에 대한 토론",
+   "summary_ko": "최첨단 AI 모델을 가진 기업들이 API 토큰 판매에 집중하는 대신 직접 애플리케이션 회사를 차려 수익을 내지 않는 이유에 대한 해커뉴스 토론입니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "Anthropic"
+   ]
+  },
+  {
+   "id": "1777a37b842a81e7",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcuqor/making_kokoro_tts_50100x_faster_without_knowing/",
+   "source": "r/LocalLLaMA",
+   "title": "Making Kokoro TTS 50-100x faster without knowing how",
+   "published_at": "2026-10-22T21:02:36+00:00",
+   "collected_at": "2026-10-22T23:14:18.807801+00:00",
+   "title_ko": "AI 모델을 활용해 Kokoro TTS 속도를 최대 100배 개선한 사례",
+   "summary_ko": "개발자가 LLM과 증류 기법을 활용해 Kokoro TTS 모델의 성능과 속도를 대폭 끌어올린 과정을 공유했습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "음성 AI"
+   ]
+  },
+  {
+   "id": "3678c6bbfba86920",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcu4or/is_anyone_else_concerned_about_the_security_of/",
+   "source": "r/LocalLLaMA",
+   "title": "Is anyone else concerned about the security of the implementation engines?",
+   "published_at": "2026-10-22T20:38:37+00:00",
+   "collected_at": "2026-10-22T23:14:18.807801+00:00",
+   "title_ko": "로컬 LLM 구현 엔진의 데이터 보안 우려 제기",
+   "summary_ko": "최근 로컬 환경에서 사용되는 각종 추론 및 에이전트 구현 엔진들의 데이터 보안성에 대한 사용자들의 우려가 커지고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "c744e4ea5afb21a2",
+   "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+   "source": "The Verge",
+   "title": "Meta’s AI could still scrape news sites, legal experts say",
+   "published_at": "2026-10-22T20:32:05+00:00",
+   "collected_at": "2026-10-22T23:13:58.633541+00:00",
+   "title_ko": "메타의 약관 개정에도 뉴스 사이트 무단 스크랩 우려 지속",
+   "summary_ko": "메타가 AI 학습 관련 비즈니스 약관을 수정했으나, 법률 전문가들은 여전히 뉴스 사이트의 콘텐츠를 무단으로 수집할 여지가 있다고 지적합니다.",
+   "category": "중요",
+   "tags": [
+    "Meta",
+    "규제"
+   ]
+  },
+  {
+   "id": "652c99349afb2b5f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcthj8/metas_816b_muse_spark_open_scores_39_on/",
+   "source": "r/LocalLLaMA",
+   "title": "Meta's 816B Muse Spark Open scores 39 on Artificial Analysis, the 180B Qwen3.8-Flash-Next scores 40. Score vs size for 11 open-weight models",
+   "published_at": "2026-10-22T20:14:06+00:00",
+   "collected_at": "2026-10-22T23:14:18.807801+00:00",
+   "title_ko": "오픈소스 LLM 성능 및 파라미터 비교 분석",
+   "summary_ko": "Meta와 Qwen 등 주요 오픈소스 모델의 성능과 파라미터 규모를 비교한 분석 결과가 공유되었습니다. 로컬 LLM 구동 환경을 선택하는 데 유용한 참고 자료입니다.",
+   "category": "참고",
+   "tags": [
+    "Meta",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "38fa9c247b936b5e",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xctcoe/auroratts100k_releases/",
+   "source": "r/LocalLLaMA",
+   "title": "AuroraTTS-100K Releases!",
+   "published_at": "2026-10-22T20:08:54+00:00",
+   "collected_at": "2026-10-22T23:14:18.807801+00:00",
+   "title_ko": "초소형 텍스트 음성 변환 모델 AuroraTTS-100K 공개",
+   "summary_ko": "10만 개 미만의 파라미터로 작동하는 초경량 영어 텍스트 음성 변환(TTS) 모델이 공개되었습니다. INT8 양자화 시 127KB 크기로 매우 가벼운 것이 특징입니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "c6b16d28af7e721a",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+   "source": "The Verge",
+   "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+   "published_at": "2026-10-22T19:45:00+00:00",
+   "collected_at": "2026-10-22T23:13:58.633541+00:00",
+   "title_ko": "스페이스X와 테슬라 합병 논의",
+   "summary_ko": "스페이스X가 엔비디아 칩 구매를 위한 대규모 차입을 추진하는 가운데, 테슬라와의 합병을 위한 특별위원회가 구성되었습니다. 향후 AI 인프라와 하드웨어 생태계에 미칠 영향이 주목됩니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "투자"
+   ]
+  },
   {
    "id": "7eceb866e6a558d3",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcs9e2/nvidiaopenshell_safe_private_runtime_for/",
@@ -120,6 +314,46 @@
    ]
   },
   {
+   "id": "90f04666978114bb",
+   "url": "https://www.typeui.sh/micro-interactions",
+   "source": "Hacker News",
+   "title": "Show HN: UI micro interactions prompts for AI",
+   "published_at": "2026-10-22T18:32:57+00:00",
+   "collected_at": "2026-10-22T23:14:18.068638+00:00",
+   "title_ko": "AI를 위한 UI 마이크로 인터랙션 프롬프트 모음",
+   "summary_ko": "AI 인터페이스에서 활용할 수 있는 UI 마이크로 인터랙션 프롬프트 모음이 소개되었습니다. 프론트엔드 개발 및 UX 디자인 실무에 유용합니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "6786e7b5eab163d4",
+   "url": "https://jamesyu.org/award-winning-ai-literature/",
+   "source": "Hacker News",
+   "title": "Award-winning AI literature",
+   "published_at": "2026-10-22T18:28:26+00:00",
+   "collected_at": "2026-10-22T23:14:18.068638+00:00",
+   "title_ko": "AI 문학 작품의 수상 사례 조명",
+   "summary_ko": "인공지능이 생성한 문학 작품이 상을 받은 사례를 다룬 글입니다. AI의 창작 능력과 예술적 가치에 대한 논의를 제공합니다.",
+   "category": "참고",
+   "tags": []
+  },
+  {
+   "id": "a89c1639c81cde6e",
+   "url": "https://arxiv.org/abs/2610.27251",
+   "source": "Hacker News",
+   "title": "AI and the Enclosure of the Scientific Commons",
+   "published_at": "2026-10-22T18:28:16+00:00",
+   "collected_at": "2026-10-22T23:14:18.068638+00:00",
+   "title_ko": "과학 연구 공유 생태계와 AI의 영향 논문",
+   "summary_ko": "AI의 급격한 발전이 과학적 공공재 및 연구 데이터 공유 생태계에 미치는 영향을 분석한 논문입니다. 학술 데이터의 독점화 문제를 다룹니다.",
+   "category": "참고",
+   "tags": [
+    "규제"
+   ]
+  },
+  {
    "id": "40d1ac13aac9e824",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcqm0z/whatever_happened_to_turboquant/",
    "source": "r/LocalLLaMA",
@@ -178,6 +412,18 @@
     "AI 에이전트",
     "오픈소스"
    ]
+  },
+  {
+   "id": "cec2f20b5c8c2765",
+   "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
+   "source": "Hacker News",
+   "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+   "published_at": "2026-10-22T18:02:54+00:00",
+   "collected_at": "2026-10-22T23:14:18.068638+00:00",
+   "title_ko": "AI 기반 CT 스캔 분석을 통한 관상동맥 염증 발견",
+   "summary_ko": "AI를 활용해 CT 스캔을 분석한 연구에서 무증상 환자의 상당수가 관상동맥 염증 위험이 있는 것으로 나타났습니다. 의료 분야에서의 AI 진단 활용도를 보여줍니다.",
+   "category": "중요",
+   "tags": []
   },
   {
    "id": "7bc6770bad9512d6",
@@ -524,6 +770,22 @@
    ]
   },
   {
+   "id": "374db3b9194f7c3a",
+   "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+   "source": "Hacker News",
+   "title": "Every AI model has the same \"controversial\" take on humans",
+   "published_at": "2026-10-22T16:08:00+00:00",
+   "collected_at": "2026-10-22T23:14:13.540264+00:00",
+   "title_ko": "모든 AI 모델이 인간을 바라보는 공통된 시각 분석",
+   "summary_ko": "다양한 AI 모델들이 인간에 대해 공통적으로 드러내는 철학적, 윤리적 관점을 분석한 글입니다. AI 모델의 정렬(Alignment) 연구에 시사점을 줍니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "Anthropic",
+    "Google"
+   ]
+  },
+  {
    "id": "d3c712f2c2628be1",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcmkyh/is_128gb_ram_worth_it/",
    "source": "r/LocalLLaMA",
@@ -554,6 +816,20 @@
    ]
   },
   {
+   "id": "693127a3ca9cfede",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcmioz/q4_flash_next_for_300600_snapdragon_mini_pc/",
+   "source": "r/LocalLLaMA",
+   "title": "Q4 flash next for £300/600 👀 - snapdragon mini PC results update - 315/43 Tok/s A3b, 46/20 Tok/s Flash Next (read/gen) 💥",
+   "published_at": "2026-10-22T15:58:48+00:00",
+   "collected_at": "2026-10-22T23:14:18.807801+00:00",
+   "title_ko": "스냅드래곤 미니 PC에서의 로컬 LLM 구동 결과",
+   "summary_ko": "ARM 기반 스냅드래곤 미니 PC에서 커스텀 엔진을 활용해 로컬 LLM을 고속으로 구동한 테스트 결과가 공유되었습니다. 저비용 하드웨어에서의 LLM 실행 가능성을 보여줍니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
    "id": "49b6eb261a64f99c",
    "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
    "source": "The Verge",
@@ -581,6 +857,21 @@
    "category": "팁",
    "tags": [
     "GPT",
+    "코딩"
+   ]
+  },
+  {
+   "id": "ccebcdf2984e8721",
+   "url": "https://news.hada.io/topic?id=35818",
+   "source": "GeekNews",
+   "title": "OpenAI CLI - OpenAI REST API를 위한 공식 명령줄 도구",
+   "published_at": "2026-10-22T15:45:53+00:00",
+   "collected_at": "2026-10-22T23:14:33.228840+00:00",
+   "title_ko": "OpenAI REST API용 공식 CLI 도구 출시",
+   "summary_ko": "터미널과 셸 스크립트에서 OpenAI API를 직접 호출할 수 있는 공식 명령줄 도구가 공개되었습니다. 개발자의 API 테스트 및 자동화 작업 효율을 높여줍니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
     "코딩"
    ]
   },
@@ -626,6 +917,38 @@
    "tags": [
     "생성형 AI",
     "보안"
+   ]
+  },
+  {
+   "id": "53ce8f45eb6608b6",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcljvi/ant_ling_just_announced_a_second_model_today/",
+   "source": "r/LocalLLaMA",
+   "title": "Ant Ling just announced a second model today: Ling-3.0-flash-Sante (124B, 5.1B active)",
+   "published_at": "2026-10-22T15:22:41+00:00",
+   "collected_at": "2026-10-22T23:14:18.807801+00:00",
+   "title_ko": "인클루전AI, 의료 특화 LLM 'Ling-3.0-flash-Sante' 공개",
+   "summary_ko": "총 124B 파라미터와 256K 컨텍스트 윈도우를 갖춘 의료 분야 특화 오픈소스 모델이 허깅페이스에 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "의료AI",
+    "LLM"
+   ]
+  },
+  {
+   "id": "7400ea4b87527017",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xclfkp/inclusionailing30flashsante_hugging_face/",
+   "source": "r/LocalLLaMA",
+   "title": "inclusionAI/Ling-3.0-flash-Sante · Hugging Face",
+   "published_at": "2026-10-22T15:18:35+00:00",
+   "collected_at": "2026-10-22T23:14:18.807801+00:00",
+   "title_ko": "인클루전AI, 헬스케어 특화 오픈소스 모델 'Ling-3.0-flash-Sante' 출시",
+   "summary_ko": "의료 추론 및 연구를 지원하기 위해 개발된 124B 규모의 헬스케어 전문 오픈소스 언어모델이 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "의료AI",
+    "LLM"
    ]
   },
   {
@@ -2676,328 +2999,6 @@
    "tags": [
     "오픈소스",
     "AI 에이전트"
-   ]
-  },
-  {
-   "id": "2e553dc4556561f8",
-   "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-   "source": "TechCrunch",
-   "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-   "published_at": "2026-10-20T18:38:24+00:00",
-   "collected_at": "2026-10-20T20:27:17.802326+00:00",
-   "title_ko": "Google, 아마존 이어 엔비디아 탈피 위한 개발 도구 출시",
-   "summary_ko": "구글이 파이토치 사용자가 엔비디아 GPU 외의 환경에서 앱을 쉽게 구동할 수 있도록 돕는 개발자 도구를 공개했습니다. 엔비디아 중심의 생태계에 변화를 줄 수 있습니다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "NVIDIA",
-    "반도체"
-   ]
-  },
-  {
-   "id": "b799bf523cce9fee",
-   "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-   "source": "TechCrunch",
-   "title": "ChatGPT now lets you lock your chats",
-   "published_at": "2026-10-20T18:36:53+00:00",
-   "collected_at": "2026-10-20T20:27:17.802326+00:00",
-   "title_ko": "ChatGPT, 대화 잠금 기능 도입",
-   "summary_ko": "사용자가 기기를 다른 사람에게 건넬 때 민감한 대화 내용을 보호할 수 있도록 개별 채팅 잠금 기능이 추가되었습니다.",
-   "category": "속보",
-   "tags": [
-    "GPT",
-    "OpenAI"
-   ]
-  },
-  {
-   "id": "e9cd38fcfacc1142",
-   "url": "https://news.hada.io/topic?id=35725",
-   "source": "GeekNews",
-   "title": "Voxtral 3 - 50개 이상 언어의 음성 인식 모델과 실시간 음성 에이전트 SDK",
-   "published_at": "2026-10-20T18:35:22+00:00",
-   "collected_at": "2026-10-20T20:28:10.392305+00:00",
-   "title_ko": "Mistral, 50개 언어 지원 음성 모델 'Voxtral 3' 공개",
-   "summary_ko": "미스트랄이 음성 인식, 추론, 합성을 실시간으로 처리하는 Voxtral 3 음성 모델군과 SDK를 발표했습니다. 다국어 음성 에이전트 개발을 지원합니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "7bb75960e821f81e",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216438",
-   "source": "AI타임스",
-   "title": "구글, 제미나이 노트북 개편…\"슬라이드·영상 생성 전 구성 검토\"",
-   "published_at": "2026-10-20T18:26:21+00:00",
-   "collected_at": "2026-10-20T11:23:47.920534+00:00",
-   "title_ko": "구글, 제미나이 노트북에 공동 제작 기능 도입",
-   "summary_ko": "구글이 AI 자료 제작 도구 제미나이 노트북에 슬라이드와 영상 기획안을 미리 검토하고 수정할 수 있는 기능을 추가했다.",
-   "category": "속보",
-   "tags": [
-    "Google",
-    "Gemini",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "4eb9f7080b11166e",
-   "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-   "source": "Hugging Face",
-   "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-   "published_at": "2026-10-20T18:17:47+00:00",
-   "collected_at": "2026-10-20T20:27:31.725481+00:00",
-   "title_ko": "NVIDIA, 임상 수술 시뮬레이션용 'Cosmos3-H-Dreams' 발표",
-   "summary_ko": "엔비디아가 생성형 AI를 활용해 임상 수술 환경을 시뮬레이션하는 새로운 모델을 공개했습니다.",
-   "category": "속보",
-   "tags": [
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "35db8b0c6e6c77ef",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xazrvd/qev08b_new_sota_tiny_local_decision_model/",
-   "source": "r/LocalLLaMA",
-   "title": "qev-0.8b · New SOTA tiny local decision model",
-   "published_at": "2026-10-20T18:17:30+00:00",
-   "collected_at": "2026-10-20T20:27:55.018792+00:00",
-   "title_ko": "초소형 로컬 결정 모델 'qev-0.8b' 공개",
-   "summary_ko": "엣지 기기에서 빠른 결정을 내릴 수 있는 새로운 소형 로컬 AI 모델이 등장했습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "551908ccdc70518c",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216444",
-   "source": "AI타임스",
-   "title": "텐스토렌트, 8조 가치로 대규모 투자 유치...\"인수 대신 독자 노선\"",
-   "published_at": "2026-10-20T18:14:45+00:00",
-   "collected_at": "2026-10-20T11:23:47.920534+00:00",
-   "title_ko": "텐스토렌트, 8조원 가치로 대규모 투자 유치",
-   "summary_ko": "AI 칩 스타트업 텐스토렌트가 인수설을 뒤로 하고 15억 달러의 투자를 받아 독자 성장에 나선다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "반도체",
-    "투자"
-   ]
-  },
-  {
-   "id": "4168438b63a2e8e2",
-   "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
-   "source": "The Verge",
-   "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
-   "published_at": "2026-10-20T18:07:34+00:00",
-   "collected_at": "2026-10-20T20:27:17.940303+00:00",
-   "title_ko": "Meta, 웹상 대화 링크 노출 문제로 Muse 공유 기능 일시 중단",
-   "summary_ko": "보안 연구원들이 AI 채팅 공유 링크가 퍼블릭 DNS에 노출된 것을 발견한 후 메타가 관련 기능을 잠정 중단했습니다.",
-   "category": "중요",
-   "tags": [
-    "Meta"
-   ]
-  },
-  {
-   "id": "7fe075e5e5f0f49c",
-   "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-   "source": "TechCrunch",
-   "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-   "published_at": "2026-10-20T17:55:12+00:00",
-   "collected_at": "2026-10-20T20:27:17.802326+00:00",
-   "title_ko": "에릭 슈미트, 앤트로픽 지분 약 1% 보유 보도",
-   "summary_ko": "구글 전 CEO인 에릭 슈미트가 주요 AI 연구소인 앤트로픽의 CEO 다리오 아모데이 지분의 절반 수준인 약 1% 지분을 보유하고 있는 것으로 나타났습니다.",
-   "category": "참고",
-   "tags": [
-    "Anthropic",
-    "투자"
-   ]
-  },
-  {
-   "id": "c4f13333de4ae0c5",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216450",
-   "source": "AI타임스",
-   "title": "스카이폴AI, CAD·BIM 3D 설계 자동화 월드모델 ‘스카이-001’ 공개",
-   "published_at": "2026-10-20T17:44:24+00:00",
-   "collected_at": "2026-10-20T11:23:47.920534+00:00",
-   "title_ko": "스카이폴AI, 3D 설계 자동화 월드모델 스카이-001 공개",
-   "summary_ko": "스카이폴 AI가 복잡한 물리적 제품 설계를 자동화하는 장기 공간 계획 기반의 3D 월드모델을 발표했다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트",
-    "로보틱스"
-   ]
-  },
-  {
-   "id": "335555b24f4bed77",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216452",
-   "source": "AI타임스",
-   "title": "엘리스그룹, AI 인프라 상장 랠리 가세.. 코어위브 악재 돌파할까",
-   "published_at": "2026-10-20T17:26:52+00:00",
-   "collected_at": "2026-10-20T11:23:47.920534+00:00",
-   "title_ko": "엘리스그룹 코스닥 상장 첫날 약세",
-   "summary_ko": "AI 인프라 기업 엘리스그룹이 상장 첫날 공모가 대비 하락하며 최근의 투자 위축 분위기를 반영했다.",
-   "category": "참고",
-   "tags": [
-    "투자"
-   ]
-  },
-  {
-   "id": "4cb4156416b8400a",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216447",
-   "source": "AI타임스",
-   "title": "플리토, 3분기 누적 창사이래 최대 실적 실현...영업이익률 50% 돌파",
-   "published_at": "2026-10-20T17:20:56+00:00",
-   "collected_at": "2026-10-20T11:23:47.920534+00:00",
-   "title_ko": "플리토, 3분기 누적 최대 실적 달성",
-   "summary_ko": "AI 데이터 전문 플리토가 높은 영업이익률을 기록하며 창사 이래 최대 실적을 경신했다.",
-   "category": "참고",
-   "tags": []
-  },
-  {
-   "id": "142ff0bf93d174d3",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216440",
-   "source": "AI타임스",
-   "title": "KT, 아크릴과 의료기관 맞춤형 AX 사업 공조",
-   "published_at": "2026-10-20T17:18:36+00:00",
-   "collected_at": "2026-10-20T11:23:47.920534+00:00",
-   "title_ko": "KT, 아크릴과 의료 맞춤형 AX 사업 공동 추진",
-   "summary_ko": "KT가 아크릴과 손잡고 의료기관 맞춤형 AI 및 클라우드 서비스 사업 모델 발굴에 나선다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "클라우드"
-   ]
-  },
-  {
-   "id": "1551dde6d51a590e",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216436",
-   "source": "AI타임스",
-   "title": "MDS테크, 국내 휴머노이드 홈로봇 프로젝트에 엔비디아 AI 플랫폼 패키지 공급",
-   "published_at": "2026-10-20T17:17:30+00:00",
-   "collected_at": "2026-10-20T11:23:47.920534+00:00",
-   "title_ko": "MDS테크, 휴머노이드 로봇에 엔비디아 AI 패키지 공급",
-   "summary_ko": "MDS테크가 국내 휴머노이드 홈로봇 프로젝트에 엔비디아 젯슨 기반 AI 플랫폼을 대규모로 공급한다.",
-   "category": "속보",
-   "tags": [
-    "NVIDIA",
-    "로보틱스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "3748b92b084a7970",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216451",
-   "source": "AI타임스",
-   "title": "클로드 코드, 맥에 숨은 암호화폐 채굴 악성코드 포착...CPU 사용률 1175% 치솟아",
-   "published_at": "2026-10-20T17:16:09+00:00",
-   "collected_at": "2026-10-20T11:23:47.920534+00:00",
-   "title_ko": "클로드 코드로 개발자 맥의 암호화폐 채굴 악성코드 포착",
-   "summary_ko": "앤트로픽의 AI 코딩 도구 클로드 코드가 시스템 분석 중 맥을 감염시킨 채굴 악성코드를 우연히 발견했다.",
-   "category": "속보",
-   "tags": [
-    "Anthropic",
-    "Claude",
-    "코딩"
-   ]
-  },
-  {
-   "id": "319f79c551eec14d",
-   "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-   "source": "TechCrunch",
-   "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
-   "published_at": "2026-10-20T17:12:48+00:00",
-   "collected_at": "2026-10-20T20:27:17.802326+00:00",
-   "title_ko": "메타 AI 컴패니언 '뮤즈', 출시 40일 만에 미국 다운로드 1,000만 돌파",
-   "summary_ko": "메타의 AI 컴패니언 앱 뮤즈가 빠른 속도로 1,000만 다운로드를 기록하며 높은 사용자 유지율을 보이고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "Meta",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "b81d1c3120516748",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaxz80/agnesaiagnes30qwen_qfn_finetune/",
-   "source": "r/LocalLLaMA",
-   "title": "Agnes-AI/Agnes-3.0-Qwen (QFN finetune)",
-   "published_at": "2026-10-20T17:11:43+00:00",
-   "collected_at": "2026-10-20T20:27:55.018792+00:00",
-   "title_ko": "고성능 에이전트 모델 'Agnes-3.0-Qwen' 공개",
-   "summary_ko": "탁월한 에이전트 성능과 1M 토큰 컨텍스트를 지원하는 오픈소스 파인튜닝 모델이 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "cf09b412c38c5e85",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216455",
-   "source": "AI타임스",
-   "title": "[게시판] NC AI, 바르코 3D·사운드 50% 할인 프로모션 등 단신",
-   "published_at": "2026-10-20T17:00:00+00:00",
-   "collected_at": "2026-10-20T11:23:47.920534+00:00",
-   "title_ko": "NC AI, 바르코 3D·사운드 할인 프로모션 실시",
-   "summary_ko": "NC AI가 3D 및 사운드 생성 AI 서비스 개편을 맞아 첫 달 구독료 할인 행사를 진행한다.",
-   "category": "참고",
-   "tags": []
-  },
-  {
-   "id": "a5aa66cb52269434",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaxm11/pocket_tts_small_cpu_voice_cloning_with_models_as/",
-   "source": "r/LocalLLaMA",
-   "title": "Pocket TTS Small: CPU voice cloning with models as small as 1.9M parameters",
-   "published_at": "2026-10-20T16:58:49+00:00",
-   "collected_at": "2026-10-20T20:27:55.018792+00:00",
-   "title_ko": "CPU에서 실행 가능한 초소형 음성 클론 모델 'Pocket TTS Small'",
-   "summary_ko": "규타이가 최소 1.9M 파라미터 크기로 CPU에서 구동되는 가벼운 음성 복제 모델들을 공개했습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "99a6c817ffceb10c",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216448",
-   "source": "AI타임스",
-   "title": "AI 에이전트가 뚫은 기업 100여곳…660만원으로 '해킹 대중화' 열려",
-   "published_at": "2026-10-20T16:56:19+00:00",
-   "collected_at": "2026-10-20T11:23:47.920534+00:00",
-   "title_ko": "AI 에이전트 악용한 저비용 대규모 사이버 해킹 적발",
-   "summary_ko": "해커들이 적은 비용으로 AI 에이전트를 동원해 다수의 기업 웹사이트를 자동 해킹한 사건이 드러났다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "ca2b3caf4aa6a95c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaxffx/short_report_from_lithuanian_conference_on_ai/",
-   "source": "r/LocalLLaMA",
-   "title": "Short report from Lithuanian conference on AI Technologies in Medicine",
-   "published_at": "2026-10-20T16:51:37+00:00",
-   "collected_at": "2026-10-20T20:27:55.018792+00:00",
-   "title_ko": "의료 분야 AI 기술 적용 사례 및 다국어 모델 발표",
-   "summary_ko": "리투아니아 의료 AI 컨퍼런스에서 진단 Q&A용 실험적 모델과 유전체학 전문가를 위한 도구가 소개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "2f990e26e9aeea90",
-   "url": "https://github.com/google-pytorch/torch_tpu",
-   "source": "Hacker News",
-   "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-   "published_at": "2026-10-20T16:40:24+00:00",
-   "collected_at": "2026-10-20T20:27:32.036376+00:00",
-   "title_ko": "구글, TPU용 네이티브 파이토치 백엔드 'TorchTPU' 오픈소스화",
-   "summary_ko": "구글이 TPU를 파이토치에서 직접 활용할 수 있도록 지원하는 'TorchTPU'를 오픈소스로 공개했습니다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "반도체",
-    "오픈소스"
    ]
   }
  ]
