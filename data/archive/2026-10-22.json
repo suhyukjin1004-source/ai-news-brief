@@ -1,5 +1,20 @@
 [
  {
+  "id": "bc8c2ede3dc87b0e",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=216519",
+  "source": "AI타임스",
+  "title": "메타, AI 자금 조달 위해 의결권 없는 신규 주식 발행 계획",
+  "published_at": "2026-10-22T14:39:51+00:00",
+  "collected_at": "2026-10-22T10:01:54.626954+00:00",
+  "title_ko": "메타, AI 투자 재원 마련 위해 의결권 없는 신주 발행 추진",
+  "summary_ko": "메타가 AI 인프라 및 모델 개발 자금을 확보하기 위해 CEO의 지배력을 유지하면서 의결권 없는 신규 주식을 발행할 계획입니다. 대규모 AI 투자를 지속하기 위한 재무 전략의 일환입니다.",
+  "category": "중요",
+  "tags": [
+   "Meta",
+   "투자"
+  ]
+ },
+ {
   "id": "a55f55e6f2c63990",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216508",
   "source": "AI타임스",
@@ -93,6 +108,81 @@
   ]
  },
  {
+  "id": "7df647f4eae89e55",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xce5dd/tried_lfm2524a2b_its_crap_yes_i_double_confirm_it/",
+  "source": "r/LocalLLaMA",
+  "title": "Tried LFM2.5-24-A2B. It's crap. Yes. I double confirm it. I wouldn't trust it peeling a peanut correctly",
+  "published_at": "2026-10-22T09:45:24+00:00",
+  "collected_at": "2026-10-22T10:01:41.325714+00:00",
+  "title_ko": "LFM2.5-24-A2B 모델 성능 논란",
+  "summary_ko": "최근 공개된 LFM2.5-24-A2B 모델을 테스트해 본 사용자들이 심각한 루프 현상과 낮은 성능을 지적하며 실망감을 표했습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "8cacaf29b1375238",
+  "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+  "source": "MIT Tech Review",
+  "title": "AI’s hidden storage bill: What inference leaves behind",
+  "published_at": "2026-10-22T08:41:18+00:00",
+  "collected_at": "2026-10-22T10:01:19.024628+00:00",
+  "title_ko": "AI 추론 과정에서 발생하는 숨겨진 데이터 저장 비용",
+  "summary_ko": "AI 도입 시 GPU 비용에만 주목하기 쉽지만, 매일 생성되는 엄청난 양의 프롬프트와 멀티모달 데이터 저장 비용 또한 무시할 수 없는 수준입니다.",
+  "category": "참고",
+  "tags": [
+   "인프라",
+   "투자"
+  ]
+ },
+ {
+  "id": "04e0468093cb5eaf",
+  "url": "https://news.hada.io/topic?id=35805",
+  "source": "GeekNews",
+  "title": "Show GN: Brello Scan – AI API 비용 속 새는 곳을 찾아 주는 무료 스캐너",
+  "published_at": "2026-10-22T08:20:18+00:00",
+  "collected_at": "2026-10-22T10:01:55.645486+00:00",
+  "title_ko": "AI API 비용 최적화를 위한 무료 스캐너 'Brello Scan'",
+  "summary_ko": "OpenAI 등 AI API 사용 시 불필요하게 새는 비용을 한눈에 파악하고 최적화 방안을 찾아주는 무료 스캐너가 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "OpenAI",
+   "코딩"
+  ]
+ },
+ {
+  "id": "5d118fadbe793ddd",
+  "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+  "source": "Hugging Face",
+  "title": "Ensemble forecasting with IBM Granite time-series models",
+  "published_at": "2026-10-22T07:51:31+00:00",
+  "collected_at": "2026-10-22T10:01:20.420766+00:00",
+  "title_ko": "IBM Granite 시계열 모델 기반 앙상블 예측",
+  "summary_ko": "IBM Granite 시계열 모델을 활용한 앙상블 예측 기법이 허깅페이스에 소개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "IBM",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "0d9b3b4404d485c9",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcb61b/how_tf_exl3_29bpw_have_this_low_kl_divergence_is/",
+  "source": "r/LocalLLaMA",
+  "title": "How tf Exl3 2.9bpw have this low kl divergence. Is it better than ptq nvfp4?",
+  "published_at": "2026-10-22T06:35:12+00:00",
+  "collected_at": "2026-10-22T10:01:41.325714+00:00",
+  "title_ko": "EXL3 양자화 포맷의 KL 발산 효율성 분석",
+  "summary_ko": "DeepSeek 기반 EXL3 양자화 모델이 매우 낮은 KL 발산 값을 보여주어 기존 PTQ NVFP4 방식 대비 성능 우수성에 대한 토론이 진행 중입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
   "id": "08e034455c6b62c7",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216500",
   "source": "AI타임스",
@@ -124,6 +214,80 @@
   ]
  },
  {
+  "id": "54a3914439ac2544",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcac1u/new_model_sagea15_released_based_on_qwen3635b_moe/",
+  "source": "r/LocalLLaMA",
+  "title": "[New Model] Sage-A1.5 released based on Qwen3.6-35B MoE with marketed benchmarks: \"highly competitive performance against frontier-scale systems such as Kimi-K3, GLM-5.3, and GPT-5.6-sol\"",
+  "published_at": "2026-10-22T05:46:29+00:00",
+  "collected_at": "2026-10-22T10:01:41.325714+00:00",
+  "title_ko": "Qwen 기반 MoE 모델 'Sage-A1.5' 공개",
+  "summary_ko": "Qwen3.6-35B MoE를 기반으로 한 신규 오픈소스 모델 Sage-A1.5가 공개되어 주요 대형 모델과 경쟁하는 성능을 예고했습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "1197a6bfee75c66c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xca46l/what_can_you_do_with_smaller_gpus/",
+  "source": "r/LocalLLaMA",
+  "title": "what can you do with smaller gpu's?",
+  "published_at": "2026-10-22T05:33:26+00:00",
+  "collected_at": "2026-10-22T10:01:41.325714+00:00",
+  "title_ko": "저사양 VRAM GPU로 활용할 수 있는 AI 작업들",
+  "summary_ko": "6~12GB VRAM을 가진 저사양 GPU로 대형 코딩 모델은 어렵지만 텍스트 분류, 음성 인식 등 유용한 작업을 수행할 수 있는 활용법에 대한 논의가 이어지고 있습니다.",
+  "category": "팁",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "b3cb6b9ecffc7ba3",
+  "url": "https://github.com/openai/openai-cli",
+  "source": "Hacker News",
+  "title": "OpenAI CLI",
+  "published_at": "2026-10-22T05:23:11+00:00",
+  "collected_at": "2026-10-22T10:01:25.236949+00:00",
+  "title_ko": "OpenAI 공식 CLI 도구 공개",
+  "summary_ko": "OpenAI 기능을 커맨드 라인에서 직접 활용할 수 있는 공식 CLI 도구가 깃허브에 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "코딩"
+  ]
+ },
+ {
+  "id": "75559b28fb32de68",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc9oje/huawei_atlas_ai_accelerator_latest_comparison/",
+  "source": "r/LocalLLaMA",
+  "title": "Huawei Atlas AI Accelerator Latest Comparison Overview",
+  "published_at": "2026-10-22T05:08:49+00:00",
+  "collected_at": "2026-10-22T10:01:41.325714+00:00",
+  "title_ko": "화웨이 Atlas AI 가속기 최신 라인업 비교",
+  "summary_ko": "화웨이의 Atlas AI 가속기 시리즈(950 및 150 시리즈 등)의 최신 성능 및 사양 비교 정보가 공유되었습니다.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "NVIDIA"
+  ]
+ },
+ {
+  "id": "e66962aecfa46745",
+  "url": "https://news.hada.io/topic?id=35800",
+  "source": "GeekNews",
+  "title": "Show GN: 배달의 AI - 새 탭을 열 때마다 AI 뉴스를 배달해 주는 크롬 확장 프로그램",
+  "published_at": "2026-10-22T05:08:41+00:00",
+  "collected_at": "2026-10-22T10:01:55.645486+00:00",
+  "title_ko": "새 탭마다 AI 뉴스를 전달하는 크롬 확장 프로그램",
+  "summary_ko": "매일 쏟아지는 AI 뉴스를 크롬 새 탭을 열 때마다 자동으로 받아볼 수 있는 무료 확장 프로그램 '배달의 AI'가 소개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "30f6c8c852302224",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc84ht/whats_your_favorite_medium_to_large_50150b_params/",
   "source": "r/LocalLLaMA",
@@ -152,6 +316,21 @@
   "tags": [
    "오픈소스",
    "코딩"
+  ]
+ },
+ {
+  "id": "8802a7899044962b",
+  "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+  "source": "Hacker News",
+  "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+  "published_at": "2026-10-22T02:18:41+00:00",
+  "collected_at": "2026-10-22T10:01:25.236949+00:00",
+  "title_ko": "터미널 시뮬레이션을 위한 360M 소형 월드 모델 'WorldTUI'",
+  "summary_ko": "단 360M 크기로 터미널 환경을 모방하도록 학습된 소형 월드 모델 WorldTUI가 해커뉴스에서 주목받고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
   ]
  },
  {
