@@ -1,8 +1,140 @@
 {
- "updated_at": "2026-10-23T19:05:24.869114+00:00",
+ "updated_at": "2026-10-23T22:04:36.055532+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "18216b018fb1ff4f",
+   "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+   "source": "Simon Willison",
+   "title": "Quick Study",
+   "published_at": "2026-10-23T21:35:13+00:00",
+   "collected_at": "2026-10-23T22:04:12.410182+00:00",
+   "title_ko": "클로드 기반 실시간 디지털 캔버스 드로잉 도구",
+   "summary_ko": "Claude Opus를 활용해 사진을 입력하면 몇 초 만에 캔버스에 그림으로 재현해 주는 실험적인 도구입니다.",
+   "category": "팁",
+   "tags": [
+    "Claude",
+    "코딩"
+   ]
+  },
+  {
+   "id": "718ed4fa561026c4",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdqk1d/wanna_help_me_design_an_hpc_system_upgrade_for/",
+   "source": "r/LocalLLaMA",
+   "title": "wanna help me design an HPC system upgrade for cancer research?",
+   "published_at": "2026-10-23T21:25:42+00:00",
+   "collected_at": "2026-10-23T22:04:13.197065+00:00",
+   "title_ko": "암호 연구용 알파폴드 구동 하드웨어 시스템 설계",
+   "summary_ko": "암호 연구 센터에서 AlphaFold 2 워크로드를 처리하기 위해 한정된 예산으로 VRAM 효율성이 높은 고성능 컴퓨팅(HPC) 시스템을 구축하는 과정입니다.",
+   "category": "참고",
+   "tags": [
+    "반도체"
+   ]
+  },
+  {
+   "id": "67972bfe49043d8d",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+   "source": "The Verge",
+   "title": "OpenAI now trains its frontier AI models with no internet access",
+   "published_at": "2026-10-23T21:11:07+00:00",
+   "collected_at": "2026-10-23T22:03:57.525205+00:00",
+   "title_ko": "오픈에이아이, 인터넷 차단된 오프라인 환경에서 AI 모델 학습",
+   "summary_ko": "OpenAI가 해킹 및 보안 사고를 방지하기 위해 인터넷 연결이 차단된 격리된 오프라인 환경에서 최신 AI 모델을 학습시키기 시작했습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "규제"
+   ]
+  },
+  {
+   "id": "a4761cd5ecfd623f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdq2cj/pushing_pcie_x1_to_the_limit_lvgale_concurrently/",
+   "source": "r/LocalLLaMA",
+   "title": "🌋 Pushing PCIe x1 to the limit: lvgale concurrently serving 27B, 9B, and 2B LLMs on a hardware abomination 📈",
+   "published_at": "2026-10-23T21:05:21+00:00",
+   "collected_at": "2026-10-23T22:04:13.197065+00:00",
+   "title_ko": "이종 그래픽카드 조합으로 여러 대규모 언어 모델 동시 구동",
+   "summary_ko": "서로 다른 브랜드와 대역폭을 가진 여러 GPU를 엮어 27B, 9B, 2B 규모의 LLM을 동시에 서빙하는 로컬 AI 구축 사례입니다.",
+   "category": "팁",
+   "tags": [
+    "NVIDIA",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "4d9221408d0efee0",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdoirp/been_tracking_intel_b60_b65_b70_prices_they/",
+   "source": "r/LocalLLaMA",
+   "title": "Been tracking intel b60 b65 b70 prices, they jumped 30% today.",
+   "published_at": "2026-10-23T20:04:14+00:00",
+   "collected_at": "2026-10-23T22:04:13.197065+00:00",
+   "title_ko": "인텔 AI용 GPU 가격 급등",
+   "summary_ko": "아마존에서 인텔 GPU 가격이 하루 만에 최대 30% 급등하며 로컬 AI 구동을 위한 가성비 하드웨어 시장에 변화가 생기고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "반도체",
+    "투자"
+   ]
+  },
+  {
+   "id": "6c51129e93f61d6b",
+   "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
+   "source": "Simon Willison",
+   "title": "Introducing Kimi K3.1 Pro",
+   "published_at": "2026-10-23T19:40:54+00:00",
+   "collected_at": "2026-10-23T22:04:12.410182+00:00",
+   "title_ko": "문샷, 신규 LLM '키미 K3.1 프로' API 공개",
+   "summary_ko": "Moonshot이 Claude 및 GPT 최신 모델과 유사한 성능을 내는 Kimi K3.1 Pro API를 출시하고 추후 가중치 공개를 예고했습니다.",
+   "category": "속보",
+   "tags": [
+    "Claude",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "4f1a69c73f385be7",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+   "source": "The Verge",
+   "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+   "published_at": "2026-10-23T19:32:39+00:00",
+   "collected_at": "2026-10-23T22:03:57.525205+00:00",
+   "title_ko": "블록, 인간 대화로만 학습한 음성 AI '데사' 공개",
+   "summary_ko": "잭 도시의 Block이 순수 인간의 대화 데이터만으로 처음부터 학습시켜 독특한 뉘앙스를 가진 풀듀플렉스 음성 AI 모델 Dessa를 발표했습니다.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "2ca67924f9fca88f",
+   "url": "https://block.xyz/dessa",
+   "source": "Hacker News",
+   "title": "Dessa: the most authentic full-duplex speech model ever built",
+   "published_at": "2026-10-23T19:09:54+00:00",
+   "collected_at": "2026-10-23T22:04:11.815531+00:00",
+   "title_ko": "풀듀플렉스 음성 AI 모델 '데사' 발표",
+   "summary_ko": "인간의 자연스러운 대화 패턴을 완벽히 모사하도록 처음부터 학습된 고성능 음성 AI 모델 Dessa가 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "7140965f417bccaf",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdn33h/new_nvidia_unlock_works_on_chinese_3080_20gb_too/",
+   "source": "r/LocalLLaMA",
+   "title": "New Nvidia unlock works on Chinese 3080 20GB too",
+   "published_at": "2026-10-23T19:09:15+00:00",
+   "collected_at": "2026-10-23T22:04:13.197065+00:00",
+   "title_ko": "중국 내수용 엔비디아 RTX 3080 20GB 성능 제한 해제",
+   "summary_ko": "엔비디아의 소비자용 GPU 연산 제한을 해제하는 유틸리티가 중국 내수용 RTX 3080 20GB 모델에서도 프리필 성능 향상을 이끌어냈습니다.",
+   "category": "팁",
+   "tags": [
+    "NVIDIA",
+    "반도체"
+   ]
+  },
   {
    "id": "e9fd6db8fc468bf9",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216581",
@@ -17,6 +149,21 @@
     "OpenAI",
     "GPT",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "5b2caeea1d4a2267",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdmt2o/mysterious_qwen4_appearance_by_new_github_accounts/",
+   "source": "r/LocalLLaMA",
+   "title": "Mysterious Qwen4 Appearance by New GitHub Accounts",
+   "published_at": "2026-10-23T18:59:02+00:00",
+   "collected_at": "2026-10-23T22:04:13.197065+00:00",
+   "title_ko": "알리바바의 미공개 모델 Qwen 4 관련 깃허브 PR 포착",
+   "summary_ko": "깃허브에 Qwen4.0-Max 관련 코드가 유출되면서 차세대 알리바바 모델 출시 기대감이 높아지고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "Qwen"
    ]
   },
   {
@@ -50,6 +197,22 @@
    ]
   },
   {
+   "id": "5ff2a4c65b8c7a06",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdmek0/qwen4exp_build_the_qsa_selection_without_the_kq/",
+   "source": "r/LocalLLaMA",
+   "title": "qwen4exp : build the QSA selection without the kq_mask by sanmai · Pull Request #30965 · ggml-org/llama.cpp",
+   "published_at": "2026-10-23T18:43:46+00:00",
+   "collected_at": "2026-10-23T22:04:13.197065+00:00",
+   "title_ko": "llama.cpp에 Qwen4용 QSA 선택 기능 추가",
+   "summary_ko": "llama.cpp에 Qwen4 모델을 지원하기 위한 PR이 등록되며 VRAM 절약 및 성능 최적화가 진행되고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "Qwen",
+    "코딩"
+   ]
+  },
+  {
    "id": "226e811961790fb4",
    "url": "https://www.reddit.com/r/singularity/comments/1xdmdla/still_waiting_on_openai_to_respond_to_opus_55/",
    "source": "r/singularity",
@@ -63,6 +226,21 @@
     "OpenAI",
     "Anthropic",
     "LLM"
+   ]
+  },
+  {
+   "id": "980a26dd3cb1d770",
+   "url": "https://news.hada.io/topic?id=35879",
+   "source": "GeekNews",
+   "title": "Kimi K3.1 Pro와 K3.1 Pro Highspeed - 100만 토큰 문맥을 지원하는 3T급 모델",
+   "published_at": "2026-10-23T18:40:37+00:00",
+   "collected_at": "2026-10-23T22:04:27.817821+00:00",
+   "title_ko": "100만 토큰 지원하는 3T급 모델 'Kimi K3.1 Pro' 출시",
+   "summary_ko": "코딩과 에이전트 역량이 강화된 3T급 대형 모델 Kimi K3.1 Pro와 고속 버전이 공개되었습니다.",
+   "category": "중요",
+   "tags": [
+    "LLM",
+    "AI 에이전트"
    ]
   },
   {
@@ -196,6 +374,21 @@
     "AWS",
     "AI 에이전트",
     "반도체"
+   ]
+  },
+  {
+   "id": "654632e8e067d6f7",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdkl55/a_4b_model_faster_than_a_395m_encoder_14_ms_vs_31/",
+   "source": "r/LocalLLaMA",
+   "title": "A 4B model faster than a 395M encoder? 14 ms vs 31 ms (2.2x). Another 4B model: 150 ms (10x slower)",
+   "published_at": "2026-10-23T17:35:20+00:00",
+   "collected_at": "2026-10-23T22:04:13.197065+00:00",
+   "title_ko": "텍스트 생성 대신 결정을 내리는 초고속 4B 의사결정 모델 공개",
+   "summary_ko": "텍스트를 출력하지 않고 상태에 대한 확률적 판단을 내리는 4B 크기의 고속 의사결정 모델 Mica v0.5가 공개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
    ]
   },
   {
@@ -803,6 +996,20 @@
    ]
   },
   {
+   "id": "4608c746385aec63",
+   "url": "https://www.thisandthat.chat/enron/",
+   "source": "Hacker News",
+   "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
+   "published_at": "2026-10-23T12:02:53+00:00",
+   "collected_at": "2026-10-23T22:04:12.176610+00:00",
+   "title_ko": "엔론 이메일 4만5천 건을 AI로 분석해 출처가 표기된 위키 구축",
+   "summary_ko": "AI를 활용해 방대한 기업 이메일 아카이브를 분석하고 모든 사실에 출처를 달아 위키 형태로 정리한 프로젝트가 공개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "LLM"
+   ]
+  },
+  {
    "id": "c8cc479cd1e56775",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdc21t/started_to_play_around_a_bit_with_opencode_and/",
    "source": "r/LocalLLaMA",
@@ -886,6 +1093,20 @@
    "category": "참고",
    "tags": [
     "LLM"
+   ]
+  },
+  {
+   "id": "48e2274fdf2ba9fe",
+   "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+   "source": "OpenAI",
+   "title": "Securing our frontier model training environment",
+   "published_at": "2026-10-23T10:00:00+00:00",
+   "collected_at": "2026-10-23T22:04:10.658548+00:00",
+   "title_ko": "OpenAI, 프론티어 모델 학습 환경 보안 강화 조치 발표",
+   "summary_ko": "OpenAI가 오프라인 환경 구축 및 고성능 레드티밍을 포함한 차세대 AI 모델 학습 환경 보안 강화 방안을 설명했습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI"
    ]
   },
   {
@@ -2767,231 +2988,6 @@
    "tags": [
     "OpenAI",
     "Google",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "f7403dc55170bd22",
-   "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-   "source": "TechCrunch",
-   "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-   "published_at": "2026-10-21T22:45:34+00:00",
-   "collected_at": "2026-10-22T19:58:03.441123+00:00",
-   "title_ko": "메타, 대규모 AI 투자를 위한 신규 주식 발행 검토",
-   "summary_ko": "메타가 AI 모델 및 인프라 구축 비용을 충당하기 위해 새로운 주식 발행 전략을 추진합니다. 막대한 AI 투자 재원 확보를 위한 행보입니다.",
-   "category": "중요",
-   "tags": [
-    "Meta",
-    "투자"
-   ]
-  },
-  {
-   "id": "bcb57bac58a12e0c",
-   "url": "https://news.hada.io/topic?id=35773",
-   "source": "GeekNews",
-   "title": "Claude Duet - 업무를 맡아 처리하고 필요할 때 먼저 연락하는 개인 AI 에이전트",
-   "published_at": "2026-10-21T22:40:51+00:00",
-   "collected_at": "2026-10-21T23:11:24.211962+00:00",
-   "title_ko": "앤스로픽, 자율형 개인 AI 에이전트 'Claude Duet' 공개",
-   "summary_ko": "메시지로 업무를 지시하면 클라우드에서 독자적으로 작업을 수행하고 필요시 먼저 연락하는 앤스로픽의 새 AI 에이전트입니다.",
-   "category": "속보",
-   "tags": [
-    "Claude",
-    "Anthropic",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "c777cca0670d3561",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
-   "source": "The Verge",
-   "title": "Data centers could erase decades of air quality gains",
-   "published_at": "2026-10-21T22:33:44+00:00",
-   "collected_at": "2026-10-21T23:10:54.004277+00:00",
-   "title_ko": "AI 데이터센터 급증으로 대기 오염 악화 우려",
-   "summary_ko": "생성형 AI 인프라인 데이터센터의 전력 수요 폭증으로 인해 과거 수십 년간 개선되었던 공기 질이 다시 악화될 위기에 처했습니다.",
-   "category": "참고",
-   "tags": [
-    "반도체",
-    "투자"
-   ]
-  },
-  {
-   "id": "e319e8c28f3fd098",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc1e9y/inference_time_abliteration/",
-   "source": "r/LocalLLaMA",
-   "title": "Inference time abliteration",
-   "published_at": "2026-10-21T22:24:42+00:00",
-   "collected_at": "2026-10-22T04:29:03.284947+00:00",
-   "title_ko": "추론 시점 모델 검열 해제를 지원하는 llama.cpp 포크 등장",
-   "summary_ko": "추론 단계에서 실시간으로 모델의 검열을 해제하는 오픈소스 도구가 공개되어, 추가 미세조정이나 파인튜닝 없이 손쉽게 원하는 모델을 사용할 수 있게 되었습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "llama.cpp"
-   ]
-  },
-  {
-   "id": "15efdecd25aa6847",
-   "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
-   "source": "The Verge",
-   "title": "Meta to create a new class of shares to fund AI push",
-   "published_at": "2026-10-21T21:30:02+00:00",
-   "collected_at": "2026-10-21T23:10:54.004277+00:00",
-   "title_ko": "메타, 대규모 AI 투자를 위한 신주 발행 추진",
-   "summary_ko": "메타가 AI 인프라 확충과 경쟁력 유지를 위한 대규모 자금 조달을 위해 새로운 주식 클래스를 발행한다고 밝혔습니다.",
-   "category": "중요",
-   "tags": [
-    "Meta",
-    "투자"
-   ]
-  },
-  {
-   "id": "9ab87a69a24e1634",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc01z8/models_add_flint_model_flintforcausallm_by/",
-   "source": "r/LocalLLaMA",
-   "title": "models: Add Flint model (FlintForCausalLM) by alexey-rsi · Pull Request #30928 · ggml-org/llama.cpp",
-   "published_at": "2026-10-21T21:29:48+00:00",
-   "collected_at": "2026-10-21T23:11:09.506755+00:00",
-   "title_ko": "llama.cpp, 오픈소스 모델 'Flint' 지원 추가",
-   "summary_ko": "로컬 LLM 구동을 위한 llama.cpp 라이브러리에 렉커시브의 MoE 코딩 모델인 Flint 지원이 빠르게 병합되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "e9fc4036438cc691",
-   "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-   "source": "TechCrunch",
-   "title": "Meta says Muse has over 10M users, with shopping a top activity",
-   "published_at": "2026-10-21T21:14:19+00:00",
-   "collected_at": "2026-10-21T23:10:53.866856+00:00",
-   "title_ko": "메타 AI 앱 'Muse', 사용자 1천만 명 돌파",
-   "summary_ko": "메타의 AI 애플리케이션 Muse가 쇼핑 및 생산성 분야에서 인기를 끌며 가입자 1천만 명을 넘어섰습니다.",
-   "category": "참고",
-   "tags": [
-    "Meta"
-   ]
-  },
-  {
-   "id": "2ed22a61b2f19a0c",
-   "url": "https://openai.com/index/broad-access-through-consistent-standards",
-   "source": "OpenAI",
-   "title": "Broad access through consistent standards",
-   "published_at": "2026-10-21T21:00:00+00:00",
-   "collected_at": "2026-10-21T23:11:07.240219+00:00",
-   "title_ko": "일관된 표준을 통한 OpenAI의 파트너 생태계 지원",
-   "summary_ko": "OpenAI가 유통 파트너들과 함께 안전 장치를 유지하고 책임감 있는 접근을 지원하기 위한 이용 정책과 기대치를 명확히 함.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "규제"
-   ]
-  },
-  {
-   "id": "9f609c71e2683a70",
-   "url": "https://news.hada.io/topic?id=35771",
-   "source": "GeekNews",
-   "title": "Patch the Planet: 에이전트가 발견하는 취약점에 대응하기 위한 글로벌 공조",
-   "published_at": "2026-10-21T20:33:47+00:00",
-   "collected_at": "2026-10-21T23:11:24.211962+00:00",
-   "title_ko": "AI를 활용한 PHP 취약점 발견 및 글로벌 공조",
-   "summary_ko": "OpenAI와 보안 업계가 AI를 통해 PHP의 심각한 취약점을 발견하고 패치 배포까지 협력하여 방어 체계를 강화함.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "d777d785a3acdbe6",
-   "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-   "source": "TechCrunch",
-   "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-   "published_at": "2026-10-21T20:27:41+00:00",
-   "collected_at": "2026-10-21T23:10:53.866856+00:00",
-   "title_ko": "AI가 자체 제작한 코딩 모델 'Flint' 출시",
-   "summary_ko": "스타트업 Recursive가 자사 AI 연구 시스템으로 대부분 구축한 소형 코딩 모델 'Flint'를 무료로 공개함.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "fecb02db6a1f664a",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbya5m/qwen_researching_qwen/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen researching Qwen",
-   "published_at": "2026-10-21T20:21:13+00:00",
-   "collected_at": "2026-10-21T23:11:09.506755+00:00",
-   "title_ko": "Qwen 모델 관련 로컬 LLM 커뮤니티 토론",
-   "summary_ko": "가상의 Qwen 미래 모델과 아키텍처를 주제로 LLM의 자기 참조적 연구 기능에 대한 커뮤니티의 의견이 오감.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "c3da19bcc618836c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbxmoo/if_the_bubble_bursts_we_keep_local_ai_forever/",
-   "source": "r/LocalLLaMA",
-   "title": "If the bubble bursts we keep local AI forever",
-   "published_at": "2026-10-21T19:57:03+00:00",
-   "collected_at": "2026-10-21T23:11:09.506755+00:00",
-   "title_ko": "AI 거품 붕괴와 상관없는 로컬 AI의 지속성",
-   "summary_ko": "AI 산업에 거품이 꺼지더라도 오픈소스 기반의 로컬 AI 모델 발전은 계속될 것이라는 전망과 프로젝트 소개.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "투자"
-   ]
-  },
-  {
-   "id": "1f413756a0cb0525",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-   "source": "The Verge",
-   "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-   "published_at": "2026-10-21T19:53:20+00:00",
-   "collected_at": "2026-10-21T23:10:54.004277+00:00",
-   "title_ko": "앤스로픽, 신규 AI 에이전트 'Claude Duet' 공개",
-   "summary_ko": "앤스로픽이 전문가와 소상공인을 위한 모바일 및 웹 기반의 AI 에이전트 'Claude Duet'을 리서치 프리뷰로 출시함.",
-   "category": "속보",
-   "tags": [
-    "Anthropic",
-    "Claude",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "52ef68092ee725bf",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbx12a/llama_create_new_fused_op_for_qsa_mask_by_am17an/",
-   "source": "r/LocalLLaMA",
-   "title": "llama: create new fused op for QSA mask by am17an · Pull Request #30640 · ggml-org/llama.cpp",
-   "published_at": "2026-10-21T19:34:04+00:00",
-   "collected_at": "2026-10-21T23:11:09.506755+00:00",
-   "title_ko": "llama.cpp, 스파스 어텐션 가속을 위한 연산 추가",
-   "summary_ko": "llama.cpp에 QSA 마스크를 위한 새로운 융합 연산이 추가되어 스파스 어텐션 모델의 실행 속도가 향상됨.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "c722db5f4d7983b5",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
-   "source": "The Verge",
-   "title": "Walmart is inviting AI agents to shop for you",
-   "published_at": "2026-10-21T19:30:00+00:00",
-   "collected_at": "2026-10-21T23:10:54.004277+00:00",
-   "title_ko": "월마트, 쇼핑용 AI 에이전트 도입 발표",
-   "summary_ko": "월마트가 소비자의 지출 한도 설정과 구매 승인이 가능한 AI 에이전트의 쇼핑 사이트 이용을 허용할 예정임.",
-   "category": "중요",
-   "tags": [
     "AI 에이전트"
    ]
   }

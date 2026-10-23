@@ -1,5 +1,137 @@
 [
  {
+  "id": "18216b018fb1ff4f",
+  "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+  "source": "Simon Willison",
+  "title": "Quick Study",
+  "published_at": "2026-10-23T21:35:13+00:00",
+  "collected_at": "2026-10-23T22:04:12.410182+00:00",
+  "title_ko": "클로드 기반 실시간 디지털 캔버스 드로잉 도구",
+  "summary_ko": "Claude Opus를 활용해 사진을 입력하면 몇 초 만에 캔버스에 그림으로 재현해 주는 실험적인 도구입니다.",
+  "category": "팁",
+  "tags": [
+   "Claude",
+   "코딩"
+  ]
+ },
+ {
+  "id": "718ed4fa561026c4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdqk1d/wanna_help_me_design_an_hpc_system_upgrade_for/",
+  "source": "r/LocalLLaMA",
+  "title": "wanna help me design an HPC system upgrade for cancer research?",
+  "published_at": "2026-10-23T21:25:42+00:00",
+  "collected_at": "2026-10-23T22:04:13.197065+00:00",
+  "title_ko": "암호 연구용 알파폴드 구동 하드웨어 시스템 설계",
+  "summary_ko": "암호 연구 센터에서 AlphaFold 2 워크로드를 처리하기 위해 한정된 예산으로 VRAM 효율성이 높은 고성능 컴퓨팅(HPC) 시스템을 구축하는 과정입니다.",
+  "category": "참고",
+  "tags": [
+   "반도체"
+  ]
+ },
+ {
+  "id": "67972bfe49043d8d",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+  "source": "The Verge",
+  "title": "OpenAI now trains its frontier AI models with no internet access",
+  "published_at": "2026-10-23T21:11:07+00:00",
+  "collected_at": "2026-10-23T22:03:57.525205+00:00",
+  "title_ko": "오픈에이아이, 인터넷 차단된 오프라인 환경에서 AI 모델 학습",
+  "summary_ko": "OpenAI가 해킹 및 보안 사고를 방지하기 위해 인터넷 연결이 차단된 격리된 오프라인 환경에서 최신 AI 모델을 학습시키기 시작했습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "규제"
+  ]
+ },
+ {
+  "id": "a4761cd5ecfd623f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdq2cj/pushing_pcie_x1_to_the_limit_lvgale_concurrently/",
+  "source": "r/LocalLLaMA",
+  "title": "🌋 Pushing PCIe x1 to the limit: lvgale concurrently serving 27B, 9B, and 2B LLMs on a hardware abomination 📈",
+  "published_at": "2026-10-23T21:05:21+00:00",
+  "collected_at": "2026-10-23T22:04:13.197065+00:00",
+  "title_ko": "이종 그래픽카드 조합으로 여러 대규모 언어 모델 동시 구동",
+  "summary_ko": "서로 다른 브랜드와 대역폭을 가진 여러 GPU를 엮어 27B, 9B, 2B 규모의 LLM을 동시에 서빙하는 로컬 AI 구축 사례입니다.",
+  "category": "팁",
+  "tags": [
+   "NVIDIA",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "4d9221408d0efee0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdoirp/been_tracking_intel_b60_b65_b70_prices_they/",
+  "source": "r/LocalLLaMA",
+  "title": "Been tracking intel b60 b65 b70 prices, they jumped 30% today.",
+  "published_at": "2026-10-23T20:04:14+00:00",
+  "collected_at": "2026-10-23T22:04:13.197065+00:00",
+  "title_ko": "인텔 AI용 GPU 가격 급등",
+  "summary_ko": "아마존에서 인텔 GPU 가격이 하루 만에 최대 30% 급등하며 로컬 AI 구동을 위한 가성비 하드웨어 시장에 변화가 생기고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "투자"
+  ]
+ },
+ {
+  "id": "6c51129e93f61d6b",
+  "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
+  "source": "Simon Willison",
+  "title": "Introducing Kimi K3.1 Pro",
+  "published_at": "2026-10-23T19:40:54+00:00",
+  "collected_at": "2026-10-23T22:04:12.410182+00:00",
+  "title_ko": "문샷, 신규 LLM '키미 K3.1 프로' API 공개",
+  "summary_ko": "Moonshot이 Claude 및 GPT 최신 모델과 유사한 성능을 내는 Kimi K3.1 Pro API를 출시하고 추후 가중치 공개를 예고했습니다.",
+  "category": "속보",
+  "tags": [
+   "Claude",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "4f1a69c73f385be7",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+  "source": "The Verge",
+  "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+  "published_at": "2026-10-23T19:32:39+00:00",
+  "collected_at": "2026-10-23T22:03:57.525205+00:00",
+  "title_ko": "블록, 인간 대화로만 학습한 음성 AI '데사' 공개",
+  "summary_ko": "잭 도시의 Block이 순수 인간의 대화 데이터만으로 처음부터 학습시켜 독특한 뉘앙스를 가진 풀듀플렉스 음성 AI 모델 Dessa를 발표했습니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "2ca67924f9fca88f",
+  "url": "https://block.xyz/dessa",
+  "source": "Hacker News",
+  "title": "Dessa: the most authentic full-duplex speech model ever built",
+  "published_at": "2026-10-23T19:09:54+00:00",
+  "collected_at": "2026-10-23T22:04:11.815531+00:00",
+  "title_ko": "풀듀플렉스 음성 AI 모델 '데사' 발표",
+  "summary_ko": "인간의 자연스러운 대화 패턴을 완벽히 모사하도록 처음부터 학습된 고성능 음성 AI 모델 Dessa가 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "7140965f417bccaf",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdn33h/new_nvidia_unlock_works_on_chinese_3080_20gb_too/",
+  "source": "r/LocalLLaMA",
+  "title": "New Nvidia unlock works on Chinese 3080 20GB too",
+  "published_at": "2026-10-23T19:09:15+00:00",
+  "collected_at": "2026-10-23T22:04:13.197065+00:00",
+  "title_ko": "중국 내수용 엔비디아 RTX 3080 20GB 성능 제한 해제",
+  "summary_ko": "엔비디아의 소비자용 GPU 연산 제한을 해제하는 유틸리티가 중국 내수용 RTX 3080 20GB 모델에서도 프리필 성능 향상을 이끌어냈습니다.",
+  "category": "팁",
+  "tags": [
+   "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
   "id": "e9fd6db8fc468bf9",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216581",
   "source": "AI타임스",
@@ -13,6 +145,21 @@
    "OpenAI",
    "GPT",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "5b2caeea1d4a2267",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdmt2o/mysterious_qwen4_appearance_by_new_github_accounts/",
+  "source": "r/LocalLLaMA",
+  "title": "Mysterious Qwen4 Appearance by New GitHub Accounts",
+  "published_at": "2026-10-23T18:59:02+00:00",
+  "collected_at": "2026-10-23T22:04:13.197065+00:00",
+  "title_ko": "알리바바의 미공개 모델 Qwen 4 관련 깃허브 PR 포착",
+  "summary_ko": "깃허브에 Qwen4.0-Max 관련 코드가 유출되면서 차세대 알리바바 모델 출시 기대감이 높아지고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "Qwen"
   ]
  },
  {
@@ -46,6 +193,22 @@
   ]
  },
  {
+  "id": "5ff2a4c65b8c7a06",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdmek0/qwen4exp_build_the_qsa_selection_without_the_kq/",
+  "source": "r/LocalLLaMA",
+  "title": "qwen4exp : build the QSA selection without the kq_mask by sanmai · Pull Request #30965 · ggml-org/llama.cpp",
+  "published_at": "2026-10-23T18:43:46+00:00",
+  "collected_at": "2026-10-23T22:04:13.197065+00:00",
+  "title_ko": "llama.cpp에 Qwen4용 QSA 선택 기능 추가",
+  "summary_ko": "llama.cpp에 Qwen4 모델을 지원하기 위한 PR이 등록되며 VRAM 절약 및 성능 최적화가 진행되고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "Qwen",
+   "코딩"
+  ]
+ },
+ {
   "id": "226e811961790fb4",
   "url": "https://www.reddit.com/r/singularity/comments/1xdmdla/still_waiting_on_openai_to_respond_to_opus_55/",
   "source": "r/singularity",
@@ -59,6 +222,21 @@
    "OpenAI",
    "Anthropic",
    "LLM"
+  ]
+ },
+ {
+  "id": "980a26dd3cb1d770",
+  "url": "https://news.hada.io/topic?id=35879",
+  "source": "GeekNews",
+  "title": "Kimi K3.1 Pro와 K3.1 Pro Highspeed - 100만 토큰 문맥을 지원하는 3T급 모델",
+  "published_at": "2026-10-23T18:40:37+00:00",
+  "collected_at": "2026-10-23T22:04:27.817821+00:00",
+  "title_ko": "100만 토큰 지원하는 3T급 모델 'Kimi K3.1 Pro' 출시",
+  "summary_ko": "코딩과 에이전트 역량이 강화된 3T급 대형 모델 Kimi K3.1 Pro와 고속 버전이 공개되었습니다.",
+  "category": "중요",
+  "tags": [
+   "LLM",
+   "AI 에이전트"
   ]
  },
  {
@@ -192,6 +370,21 @@
    "AWS",
    "AI 에이전트",
    "반도체"
+  ]
+ },
+ {
+  "id": "654632e8e067d6f7",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdkl55/a_4b_model_faster_than_a_395m_encoder_14_ms_vs_31/",
+  "source": "r/LocalLLaMA",
+  "title": "A 4B model faster than a 395M encoder? 14 ms vs 31 ms (2.2x). Another 4B model: 150 ms (10x slower)",
+  "published_at": "2026-10-23T17:35:20+00:00",
+  "collected_at": "2026-10-23T22:04:13.197065+00:00",
+  "title_ko": "텍스트 생성 대신 결정을 내리는 초고속 4B 의사결정 모델 공개",
+  "summary_ko": "텍스트를 출력하지 않고 상태에 대한 확률적 판단을 내리는 4B 크기의 고속 의사결정 모델 Mica v0.5가 공개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
   ]
  },
  {
