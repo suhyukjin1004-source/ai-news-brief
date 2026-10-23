@@ -1,5 +1,35 @@
 [
  {
+  "id": "406803b79c1ffdfb",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=216578",
+  "source": "AI타임스",
+  "title": "메타, 부채 위험 지표 사상 최고에 주가 7% 급락…AI 지출·현금 적자 부담",
+  "published_at": "2026-10-23T14:12:53+00:00",
+  "collected_at": "2026-10-23T09:56:24.907463+00:00",
+  "title_ko": "메타, 막대한 AI 지출과 현금 적자 부담에 주가 급락",
+  "summary_ko": "메타의 대규모 AI 투자 여파로 잉여현금흐름이 적자로 돌아서고 부채 위험 지표가 사상 최고치를 기록했다. 거대 투자를 향한 재무적 부담이 시장에 반영됐다.",
+  "category": "중요",
+  "tags": [
+   "Meta",
+   "투자"
+  ]
+ },
+ {
+  "id": "52c76ec9bab1381e",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=216562",
+  "source": "AI타임스",
+  "title": "에임인텔리전스, 오픈AI 연계 앱 보안 평가 서비스 출시",
+  "published_at": "2026-10-23T13:36:52+00:00",
+  "collected_at": "2026-10-23T09:56:24.907463+00:00",
+  "title_ko": "에임인텔리전스, 오픈아이 연계 앱 보안 평가 서비스 출시",
+  "summary_ko": "에임인텔리전스가 자체 AI 레드팀 솔루션과 오픈아이의 사이버보안 프로그램을 연계해 애플리케이션의 취약점을 분석하는 보안 평가 서비스를 출시했다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "GPT"
+  ]
+ },
+ {
   "id": "d07018f638606c51",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216564",
   "source": "AI타임스",
@@ -43,6 +73,183 @@
   "tags": [
    "OpenAI",
    "투자"
+  ]
+ },
+ {
+  "id": "43828fa6be227be6",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd8al3/anyone_checked_gpu_unlock_for_rtx_3040_cards/",
+  "source": "r/LocalLLaMA",
+  "title": "Anyone checked gpu unlock for rtx 30-40 cards?",
+  "published_at": "2026-10-23T08:23:23+00:00",
+  "collected_at": "2026-10-23T09:56:11.340199+00:00",
+  "title_ko": "RTX 30·40 시리즈 GPU 성능 잠금 해제 도구 등장",
+  "summary_ko": "드라이버 모듈을 통해 RTX 3090 등의 텐서 연산 성능을 대폭 향상시키는 커스텀 언락 기법이 공유되었습니다. 하드웨어 성능 활용 효율을 높여 로컬 LLM 추론에 영향을 줄 수 있습니다.",
+  "category": "팁",
+  "tags": [
+   "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
+  "id": "92738593b8f54678",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd87wu/qwen306b_model_converted_into_moe/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3-0.6B model converted into MoE",
+  "published_at": "2026-10-23T08:18:42+00:00",
+  "collected_at": "2026-10-23T09:56:11.340199+00:00",
+  "title_ko": "Qwen3-0.6B 기반 MoE 모델 공개",
+  "summary_ko": "Qwen3-0.6B 소형 언어모델을 혼합 전문가(MoE) 아키텍처로 변환한 오픈소스 모델이 공개되었습니다. GGUF 호환성을 유지하여 일반 사용자의 로컬 구동 편의성을 높였습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "4a81242f385d93d5",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd85ki/tencentwevisonevl4b_hugging_face/",
+  "source": "r/LocalLLaMA",
+  "title": "tencent/WeVisOne-VL-4B · Hugging Face",
+  "published_at": "2026-10-23T08:14:41+00:00",
+  "collected_at": "2026-10-23T09:56:11.340199+00:00",
+  "title_ko": "텐센트 위챗 비전, 통합 시각 언어모델 WeVisOne-VL 공개",
+  "summary_ko": "Qwen3-VL을 기반으로 객체 수준과 픽셀 수준의 시각 인식을 통합한 비전-언어 모델이 공개되었습니다. 다양한 이미지 인식 및 OCR 작업을 효율적으로 수행합니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "Gemini"
+  ]
+ },
+ {
+  "id": "573828b68cfe04cb",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd7ptj/models_disappearing_from_huggingface/",
+  "source": "r/LocalLLaMA",
+  "title": "Models disappearing from Huggingface",
+  "published_at": "2026-10-23T07:47:43+00:00",
+  "collected_at": "2026-10-23T09:56:11.340199+00:00",
+  "title_ko": "허깅페이스 내 일부 커스텀 및 검열 해제 모델 소실 현상",
+  "summary_ko": "허깅페이스에서 특정 커스텀 및 검열 해제(abliterated) 모델들이 갑자기 다운로드 불가 상태가 되는 현상이 보고되었습니다. 플랫폼 내 모델 관리 정책에 관심이 쏠리고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "92301a3d39f04aef",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd7ewr/ornith_15_35b_a3b_is_way_better_than_flint/",
+  "source": "r/LocalLLaMA",
+  "title": "Ornith 1.5 35B A3B is way better than Flint",
+  "published_at": "2026-10-23T07:29:24+00:00",
+  "collected_at": "2026-10-23T09:56:11.340199+00:00",
+  "title_ko": "오픈소스 LLM 'Ornith 1.5 35B' 성능 호평",
+  "summary_ko": "새로 공개된 Ornith 1.5 35B 모델이 기존 모델 대비 환각 현상이 적고 논리적 답변 능력이 우수하다는 사용자 평가가 이어지고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "9de599e4bd34188c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd6r9h/paper_latentloop_scaling_looped_moe_models_with/",
+  "source": "r/LocalLLaMA",
+  "title": "[Paper] LatentLoop: Scaling Looped MoE Models with Asymmetric Compute Allocation",
+  "published_at": "2026-10-23T06:50:13+00:00",
+  "collected_at": "2026-10-23T09:56:11.340199+00:00",
+  "title_ko": "비대칭 연산 할당을 통한 Looped MoE 확장 연구 논문",
+  "summary_ko": "반복적인 루프 구조를 가진 MoE 모델에서 연산 자원을 효율적으로 배분하는 비대칭 연산 할당 기법이 제안되었습니다. 모델 성능을 유지하면서도 효율성을 개선할 수 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "8db2bf743b5d8d77",
+  "url": "https://berget.ai/en/blog/per-request-co2-press-release",
+  "source": "Hacker News",
+  "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
+  "published_at": "2026-10-23T06:41:11+00:00",
+  "collected_at": "2026-10-23T09:56:10.407323+00:00",
+  "title_ko": "지역별 전력원 차이에 따른 AI 연산 탄소 배출량 격차",
+  "summary_ko": "동일한 AI 요청을 처리할 때 스웨덴에 비해 텍사스에서 최대 8.5배 많은 CO2가 배출된다는 분석이 나왔습니다. 데이터센터의 입지와 전력 구성이 AI 환경에 미치는 영향을 보여줍니다.",
+  "category": "참고",
+  "tags": [
+   "인프라"
+  ]
+ },
+ {
+  "id": "866546d170e472dd",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd6dfr/paper_pnmix_pairnorm_guided_mixedprecision_key/",
+  "source": "r/LocalLLaMA",
+  "title": "[Paper] PN-Mix: Pair-Norm Guided Mixed-Precision Key Cache Quantization for Efficient Long-Output LLM Inference",
+  "published_at": "2026-10-23T06:26:24+00:00",
+  "collected_at": "2026-10-23T09:56:11.340199+00:00",
+  "title_ko": "장문 LLM 추론을 위한 혼합 정밀도 KV 캐시 양자화 기법",
+  "summary_ko": "장문 컨텍스트 추론 시 발생하는 메모리 병목 현상을 해결하기 위해 중요도 기반의 키 캐시 혼합 정밀도 양자화 기법이 제안되었습니다. 정확도 저하를 최소화하면서 추론 효율을 높입니다.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "LLM"
+  ]
+ },
+ {
+  "id": "ad35156de6a77f34",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd5s0n/paper_meta_expert_crosslayer_expert_sharing_for/",
+  "source": "r/LocalLLaMA",
+  "title": "[Paper] Meta Expert: Cross-Layer Expert Sharing for Storage- and Retrieval-Efficient MoE",
+  "published_at": "2026-10-23T05:51:37+00:00",
+  "collected_at": "2026-10-23T09:56:11.340199+00:00",
+  "title_ko": "레이어 간 전문가 공유를 통한 효율적 MoE 아키텍처 연구",
+  "summary_ko": "기존 MoE 모델의 층별 전문가 중복을 줄이고 레이어 간 공유 가능한 '메타 전문가' 구조를 도입해 저장 및 검색 효율을 높이는 방법론이 제시되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "91dacc72b70b13f4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd5hwe/paper_pace_periodic_and_channelaligned_encoding/",
+  "source": "r/LocalLLaMA",
+  "title": "[Paper] PACE: Periodic and Channel-Aligned Encoding of Four-Bit Recurrent States",
+  "published_at": "2026-10-23T05:35:20+00:00",
+  "collected_at": "2026-10-23T09:56:11.340199+00:00",
+  "title_ko": "선형 어텐션 모델을 위한 4비트 순환 상태 양자화 기법 PACE",
+  "summary_ko": "선형 어텐션 LLM의 메모리 점유율을 줄이기 위해 주기적으로 상태를 양자화하는 PACE 알고리즘이 소개되었습니다. 정확도 손실 없이 더 많은 시퀀스를 동시에 처리할 수 있습니다.",
+  "category": "참고",
+  "tags": [
+   "반도체"
+  ]
+ },
+ {
+  "id": "58eaf6a20cebee25",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd4mlk/nemotron35embed_parse_and_rerank/",
+  "source": "r/LocalLLaMA",
+  "title": "Nemotron-3.5-Embed, Parse, and Rerank",
+  "published_at": "2026-10-23T04:46:23+00:00",
+  "collected_at": "2026-10-23T09:56:11.340199+00:00",
+  "title_ko": "엔비디아, Nemotron-3.5 임베디드 및 리랭크 모델 공개",
+  "summary_ko": "엔비디아가 Nemotron 임베딩, 파싱, 리랭킹 모델을 3.5 버전으로 대거 업데이트했습니다. 검색 증강 생성(RAG) 파이프라인의 성능 향상에 기여할 것으로 기대됩니다.",
+  "category": "속보",
+  "tags": [
+   "NVIDIA",
+   "LLM"
+  ]
+ },
+ {
+  "id": "032953d338b65cc5",
+  "url": "https://news.hada.io/topic?id=35855",
+  "source": "GeekNews",
+  "title": "LLM이 훨씬 더 큰 규모의 소프트웨어 정형 검증을 가능하게 하고 있음",
+  "published_at": "2026-10-23T04:36:53+00:00",
+  "collected_at": "2026-10-23T09:56:26.363018+00:00",
+  "title_ko": "Claude를 활용한 대규모 소프트웨어 정형 검증 가능성 대두",
+  "summary_ko": "Anthropic과 Theorem이 Claude를 이용해 오픈소스 라이브러리의 퍼징 진입점을 정형 검증하고 버그를 수정하는 데 성공했습니다. LLM이 복잡한 코드 안전성 증명 작업에 활용될 수 있음을 보여줍니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "코딩"
   ]
  },
  {
@@ -207,6 +414,22 @@
    "AI 에이전트",
    "코딩",
    "Claude"
+  ]
+ },
+ {
+  "id": "15c1f8ef7a582594",
+  "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+  "source": "OpenAI",
+  "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+  "published_at": "2026-10-23T00:00:00+00:00",
+  "collected_at": "2026-10-23T09:56:00.894049+00:00",
+  "title_ko": "OpenAI, 폴란드 NASK와 AI 안전 및 보안 파트너십 체결",
+  "summary_ko": "OpenAI가 폴란드 연구기관 NASK와 손잡고 AI 안전성 강화 및 기술 연구를 추진합니다. 안전하고 회복력 있는 디지털 생태계 구축에 기여할 것입니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "AI 안전",
+   "규제"
   ]
  },
  {
