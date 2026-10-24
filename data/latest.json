@@ -1,8 +1,99 @@
 {
- "updated_at": "2026-10-24T10:48:27.017061+00:00",
+ "updated_at": "2026-10-24T14:26:55.368362+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "0cea32e668a973a0",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216618",
+   "source": "AI타임스",
+   "title": "피차이 “클라우드 매출 포기하더라도 첨단 AI 개발에 컴퓨팅 우선 투입”",
+   "published_at": "2026-10-24T20:38:59+00:00",
+   "collected_at": "2026-10-24T14:26:42.558319+00:00",
+   "title_ko": "구글 피차이 CEO, 클라우드 매출보다 AI 연구 컴퓨팅 우선",
+   "summary_ko": "순다르 피차이 구글 CEO가 단기 클라우드 매출을 일부 포기하더라도 첨단 AI 모델 개발에 연산 자원을 우선 배분하겠다고 밝혔다. AI 주도권 경쟁을 위해 연구진에 충분한 자원을 지원하겠다는 의지다.",
+   "category": "중요",
+   "tags": [
+    "Google",
+    "반도체"
+   ]
+  },
+  {
+   "id": "ee8516163fdbccc0",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216616",
+   "source": "AI타임스",
+   "title": "오픈AI 연구원 3명 해고, ‘순환 추론’ 유출 조사서 비롯…시그널 대화 쟁점",
+   "published_at": "2026-10-24T19:53:21+00:00",
+   "collected_at": "2026-10-24T14:26:42.558319+00:00",
+   "title_ko": "오픈AI, 기밀 유출 조사로 안전 연구원 3명 해고",
+   "summary_ko": "오픈AI가 차세대 추론 기술 관련 기밀 유출 혐의로 안전 연구원 3명을 해고했다. 내부 정보 취급과 시그널 메시지를 둘러싼 보안 및 정당성 논란이 이어지고 있다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "규제"
+   ]
+  },
+  {
+   "id": "37def2f0b1112b43",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216617",
+   "source": "AI타임스",
+   "title": "중국 국영 통신망서 수출 금지 엔비디아 칩 또 포착…첨단 'B300' 32개 확인",
+   "published_at": "2026-10-24T16:55:00+00:00",
+   "collected_at": "2026-10-24T14:26:42.558319+00:00",
+   "title_ko": "중국 국영 통신망서 수출 금지 엔비디아 B300 포착",
+   "summary_ko": "중국 차이나텔레콤 네트워크에서 수출이 제한된 엔비디아의 최신 B300 GPU가 다수 발견됐다. 미국의 대중국 반도체 수출 통제의 실효성에 다시 의문이 제기되고 있다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "반도체",
+    "규제"
+   ]
+  },
+  {
+   "id": "6a0b9f29c6f77a76",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe8x9c/abliteratedoutthebox_strata_announcement/",
+   "source": "r/LocalLLaMA",
+   "title": "AbliteratedOutTheBox Strata Announcement",
+   "published_at": "2026-10-24T13:38:58+00:00",
+   "collected_at": "2026-10-24T14:26:29.356736+00:00",
+   "title_ko": "llama.cpp 기반 추론 시점 모델 검열 해제 엔진 공개",
+   "summary_ko": "대형언어모델을 VRAM 부담 없이 추론 단계에서 필터링을 우회할 수 있는 오픈소스 엔진이 공개되었다. 로컬 AI 사용자들에게 실용적인 도구가 될 수 있다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "045b97cbb06550bf",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe88ja/meta_trained_small_ai_models_to_read_raw_bytes/",
+   "source": "r/LocalLLaMA",
+   "title": "Meta trained small AI models to read raw bytes instead of tokens. They start out worse, but the paper predicts they end up better",
+   "published_at": "2026-10-24T13:08:49+00:00",
+   "collected_at": "2026-10-24T14:26:29.356736+00:00",
+   "title_ko": "메타, 토큰 대신 원시 바이트를 읽는 소형 AI 모델 연구 발표",
+   "summary_ko": "메타가 토큰화 과정을 거치지 않고 원시 바이트를 직접 학습하는 소형 AI 모델 연구를 공개했다. 초기 성능은 떨어지지만 장기적으로 토큰 모델을 능가할 잠재력이 있다고 분석된다.",
+   "category": "참고",
+   "tags": [
+    "Meta",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "b6fd46a9ab04899c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe727w/has_anyone_tried_using_nostr_for_agents_to_talk/",
+   "source": "r/LocalLLaMA",
+   "title": "Has anyone tried using Nostr for agents to talk to each other?",
+   "published_at": "2026-10-24T12:12:01+00:00",
+   "collected_at": "2026-10-24T14:26:29.356736+00:00",
+   "title_ko": "분산 AI 에이전트 통신을 위한 Nostr 프로토콜 활용",
+   "summary_ko": "중앙 서버 없이 서로 다른 사용자의 기기에서 실행되는 AI 에이전트들이 Nostr 프로토콜을 통해 소통할 수 있는지에 대한 개발자 커뮤니티의 논의다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
   {
    "id": "413e1236366b3038",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216605",
@@ -33,6 +124,35 @@
     "오픈소스",
     "규제",
     "투자"
+   ]
+  },
+  {
+   "id": "92725bc361b971b1",
+   "url": "https://news.hada.io/topic?id=35918",
+   "source": "GeekNews",
+   "title": "삼성 TV를 역공학 분석해서 공유하던 해커, OpenAI 계정 정지 경험 공개",
+   "published_at": "2026-10-24T11:31:42+00:00",
+   "collected_at": "2026-10-24T14:26:43.591690+00:00",
+   "title_ko": "삼성 TV 분석하던 해커, OpenAI 계정 정지 당해",
+   "summary_ko": "삼성 TV의 프라이버시 수집 코드를 역공학으로 분석하던 개발자가 OpenAI 계정을 정지당한 사연을 공개했다. AI 도구 활용 중 보안 연구와 관련된 부수적 피해 사례다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI"
+   ]
+  },
+  {
+   "id": "47251ceef4154908",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe4v74/qwen38_27b_on_my_3090_basically_tied_opus_55_on_a/",
+   "source": "r/LocalLLaMA",
+   "title": "qwen3.8 27B on my 3090 basically tied Opus 5.5 on a Korean RAG benchmark, which I did not expect",
+   "published_at": "2026-10-24T10:07:50+00:00",
+   "collected_at": "2026-10-24T14:26:29.356736+00:00",
+   "title_ko": "오픈소스 Qwen 27B 모델, 한국어 RAG 벤치마크서 상용 모델과 동등한 성능 기록",
+   "summary_ko": "로컬 환경에서 실행한 Qwen 27B 모델이 한국어 RAG 평가에서 대형 상용 모델과 대등한 점수를 기록했다. 로컬 LLM의 한국어 활용 가능성이 한층 높아졌다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "코딩"
    ]
   },
   {
@@ -184,6 +304,21 @@
    "tags": [
     "코딩",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "5699208333bf1755",
+   "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
+   "source": "Simon Willison",
+   "title": "battledrones v14: Compass Rose, a four player map",
+   "published_at": "2026-10-24T03:59:57+00:00",
+   "collected_at": "2026-10-24T14:26:28.608055+00:00",
+   "title_ko": "Claude를 활용해 멀티플레이어 게임 맵과 네트워킹 구현",
+   "summary_ko": "개발자가 Claude Opus를 이용해 웹 기반 게임의 4인용 멀티플레이어 맵과 웹소켓 네트워킹 코드를 성공적으로 구현했다. AI를 활용한 실무 코딩 사례를 보여준다.",
+   "category": "팁",
+   "tags": [
+    "Claude",
+    "코딩"
    ]
   },
   {
@@ -2848,142 +2983,6 @@
    "tags": [
     "생성형 AI",
     "예술"
-   ]
-  },
-  {
-   "id": "eaa0ebff7daf626e",
-   "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-   "source": "Hugging Face",
-   "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-   "published_at": "2026-10-22T16:11:31+00:00",
-   "collected_at": "2026-10-22T19:58:18.018491+00:00",
-   "title_ko": "지구 관측 임베딩 모델 'OlmoEarth v1.3' 공개",
-   "summary_ko": "전 지구를 대상으로 한 최첨단 임베딩 모델 OlmoEarth v1.3이 공개되었습니다. 지리·환경 데이터 분석 분야의 AI 활용을 높여줍니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "임베딩"
-   ]
-  },
-  {
-   "id": "374db3b9194f7c3a",
-   "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-   "source": "Hacker News",
-   "title": "Every AI model has the same \"controversial\" take on humans",
-   "published_at": "2026-10-22T16:08:00+00:00",
-   "collected_at": "2026-10-22T23:14:13.540264+00:00",
-   "title_ko": "모든 AI 모델이 인간을 바라보는 공통된 시각 분석",
-   "summary_ko": "다양한 AI 모델들이 인간에 대해 공통적으로 드러내는 철학적, 윤리적 관점을 분석한 글입니다. AI 모델의 정렬(Alignment) 연구에 시사점을 줍니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "Anthropic",
-    "Google"
-   ]
-  },
-  {
-   "id": "d3c712f2c2628be1",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcmkyh/is_128gb_ram_worth_it/",
-   "source": "r/LocalLLaMA",
-   "title": "Is 128GB RAM worth it?",
-   "published_at": "2026-10-22T16:00:55+00:00",
-   "collected_at": "2026-10-22T19:58:23.369310+00:00",
-   "title_ko": "대형 언어 모델 구동을 위한 128GB RAM 업그레이드 효용성",
-   "summary_ko": "로컬 환경에서 최신 대형 언어 모델을 원활하게 구동하기 위해 시스템 메모리(RAM) 확장이 필요한지 묻는 실무적 고민입니다.",
-   "category": "팁",
-   "tags": [
-    "로컬LLM",
-    "코딩"
-   ]
-  },
-  {
-   "id": "2e9a4426b96429c2",
-   "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-   "source": "TechCrunch",
-   "title": "Uber puts all 30,000 employees on ChatGPT Work",
-   "published_at": "2026-10-22T16:00:00+00:00",
-   "collected_at": "2026-10-22T19:58:03.441123+00:00",
-   "title_ko": "우버, 전 직원 3만 명 대상 'ChatGPT Work' 전면 도입",
-   "summary_ko": "우버가 소규모 파일럿을 마치고 3만 명의 전 직원에게 OpenAI의 엔터프라이즈 AI를 도입합니다. 기업 내 AI 업무 도구 확산의 대표적 사례입니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "693127a3ca9cfede",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcmioz/q4_flash_next_for_300600_snapdragon_mini_pc/",
-   "source": "r/LocalLLaMA",
-   "title": "Q4 flash next for £300/600 👀 - snapdragon mini PC results update - 315/43 Tok/s A3b, 46/20 Tok/s Flash Next (read/gen) 💥",
-   "published_at": "2026-10-22T15:58:48+00:00",
-   "collected_at": "2026-10-22T23:14:18.807801+00:00",
-   "title_ko": "스냅드래곤 미니 PC에서의 로컬 LLM 구동 결과",
-   "summary_ko": "ARM 기반 스냅드래곤 미니 PC에서 커스텀 엔진을 활용해 로컬 LLM을 고속으로 구동한 테스트 결과가 공유되었습니다. 저비용 하드웨어에서의 LLM 실행 가능성을 보여줍니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "49b6eb261a64f99c",
-   "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
-   "source": "The Verge",
-   "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
-   "published_at": "2026-10-22T15:50:30+00:00",
-   "collected_at": "2026-10-22T19:58:03.568729+00:00",
-   "title_ko": "주요 AI 기업, 로비 지출 역대 최고치 기록",
-   "summary_ko": "OpenAI, Anthropic, NVIDIA가 워싱턴에서 역대 최고액의 로비 자금을 지출했습니다. AI 규제와 정책에 대응하기 위한 빅테크의 움직임이 활발해지고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "Anthropic",
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "ff568c2fe5fed5ad",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216480",
-   "source": "AI타임스",
-   "title": "\"챗GPT로 글 쓴 거 티 나요\"...’AI 말투' 지워주는 교정 도구 뜬다",
-   "published_at": "2026-10-22T15:46:57+00:00",
-   "collected_at": "2026-10-22T10:01:54.626954+00:00",
-   "title_ko": "챗GPT 번역투 지워주는 한국어 교정 도구 'imnotai' 인기",
-   "summary_ko": "LLM 특유의 정형화된 표현과 번역투를 지워주는 한국어 교정 도구 'imnotai'가 깃허브에서 큰 주목을 받고 있습니다. AI 작성 문서의 자연스러움을 높여주는 실무 도구로 활용됩니다.",
-   "category": "팁",
-   "tags": [
-    "GPT",
-    "코딩"
-   ]
-  },
-  {
-   "id": "ccebcdf2984e8721",
-   "url": "https://news.hada.io/topic?id=35818",
-   "source": "GeekNews",
-   "title": "OpenAI CLI - OpenAI REST API를 위한 공식 명령줄 도구",
-   "published_at": "2026-10-22T15:45:53+00:00",
-   "collected_at": "2026-10-22T23:14:33.228840+00:00",
-   "title_ko": "OpenAI REST API용 공식 CLI 도구 출시",
-   "summary_ko": "터미널과 셸 스크립트에서 OpenAI API를 직접 호출할 수 있는 공식 명령줄 도구가 공개되었습니다. 개발자의 API 테스트 및 자동화 작업 효율을 높여줍니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "코딩"
-   ]
-  },
-  {
-   "id": "3a5fbc0f65063296",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216535",
-   "source": "AI타임스",
-   "title": "트럼프 \"데이터센터 건설 기업, 지역사회에 '배당금' 지급해야\"",
-   "published_at": "2026-10-22T15:38:27+00:00",
-   "collected_at": "2026-10-22T10:01:54.626954+00:00",
-   "title_ko": "트럼프 \"데이터센터 건설 기업, 지역사회에 배당금 지급해야\"",
-   "summary_ko": "도널드 트럼프 미국 대통령이 데이터센터 건설 기업에 지역사회와의 재정적 이익 공유를 촉구했습니다. AI 인프라 확대로 인한 전력·자원 소모와 주민 반발을 해소하기 위한 조치입니다.",
-   "category": "중요",
-   "tags": [
-    "규제",
-    "투자"
    ]
   }
  ]

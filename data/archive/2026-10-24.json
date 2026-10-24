@@ -1,5 +1,50 @@
 [
  {
+  "id": "6a0b9f29c6f77a76",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe8x9c/abliteratedoutthebox_strata_announcement/",
+  "source": "r/LocalLLaMA",
+  "title": "AbliteratedOutTheBox Strata Announcement",
+  "published_at": "2026-10-24T13:38:58+00:00",
+  "collected_at": "2026-10-24T14:26:29.356736+00:00",
+  "title_ko": "llama.cpp 기반 추론 시점 모델 검열 해제 엔진 공개",
+  "summary_ko": "대형언어모델을 VRAM 부담 없이 추론 단계에서 필터링을 우회할 수 있는 오픈소스 엔진이 공개되었다. 로컬 AI 사용자들에게 실용적인 도구가 될 수 있다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "045b97cbb06550bf",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe88ja/meta_trained_small_ai_models_to_read_raw_bytes/",
+  "source": "r/LocalLLaMA",
+  "title": "Meta trained small AI models to read raw bytes instead of tokens. They start out worse, but the paper predicts they end up better",
+  "published_at": "2026-10-24T13:08:49+00:00",
+  "collected_at": "2026-10-24T14:26:29.356736+00:00",
+  "title_ko": "메타, 토큰 대신 원시 바이트를 읽는 소형 AI 모델 연구 발표",
+  "summary_ko": "메타가 토큰화 과정을 거치지 않고 원시 바이트를 직접 학습하는 소형 AI 모델 연구를 공개했다. 초기 성능은 떨어지지만 장기적으로 토큰 모델을 능가할 잠재력이 있다고 분석된다.",
+  "category": "참고",
+  "tags": [
+   "Meta",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "b6fd46a9ab04899c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe727w/has_anyone_tried_using_nostr_for_agents_to_talk/",
+  "source": "r/LocalLLaMA",
+  "title": "Has anyone tried using Nostr for agents to talk to each other?",
+  "published_at": "2026-10-24T12:12:01+00:00",
+  "collected_at": "2026-10-24T14:26:29.356736+00:00",
+  "title_ko": "분산 AI 에이전트 통신을 위한 Nostr 프로토콜 활용",
+  "summary_ko": "중앙 서버 없이 서로 다른 사용자의 기기에서 실행되는 AI 에이전트들이 Nostr 프로토콜을 통해 소통할 수 있는지에 대한 개발자 커뮤니티의 논의다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "413e1236366b3038",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216605",
   "source": "AI타임스",
@@ -29,6 +74,35 @@
    "오픈소스",
    "규제",
    "투자"
+  ]
+ },
+ {
+  "id": "92725bc361b971b1",
+  "url": "https://news.hada.io/topic?id=35918",
+  "source": "GeekNews",
+  "title": "삼성 TV를 역공학 분석해서 공유하던 해커, OpenAI 계정 정지 경험 공개",
+  "published_at": "2026-10-24T11:31:42+00:00",
+  "collected_at": "2026-10-24T14:26:43.591690+00:00",
+  "title_ko": "삼성 TV 분석하던 해커, OpenAI 계정 정지 당해",
+  "summary_ko": "삼성 TV의 프라이버시 수집 코드를 역공학으로 분석하던 개발자가 OpenAI 계정을 정지당한 사연을 공개했다. AI 도구 활용 중 보안 연구와 관련된 부수적 피해 사례다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI"
+  ]
+ },
+ {
+  "id": "47251ceef4154908",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe4v74/qwen38_27b_on_my_3090_basically_tied_opus_55_on_a/",
+  "source": "r/LocalLLaMA",
+  "title": "qwen3.8 27B on my 3090 basically tied Opus 5.5 on a Korean RAG benchmark, which I did not expect",
+  "published_at": "2026-10-24T10:07:50+00:00",
+  "collected_at": "2026-10-24T14:26:29.356736+00:00",
+  "title_ko": "오픈소스 Qwen 27B 모델, 한국어 RAG 벤치마크서 상용 모델과 동등한 성능 기록",
+  "summary_ko": "로컬 환경에서 실행한 Qwen 27B 모델이 한국어 RAG 평가에서 대형 상용 모델과 대등한 점수를 기록했다. 로컬 LLM의 한국어 활용 가능성이 한층 높아졌다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "코딩"
   ]
  },
  {
@@ -180,6 +254,21 @@
   "tags": [
    "코딩",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "5699208333bf1755",
+  "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
+  "source": "Simon Willison",
+  "title": "battledrones v14: Compass Rose, a four player map",
+  "published_at": "2026-10-24T03:59:57+00:00",
+  "collected_at": "2026-10-24T14:26:28.608055+00:00",
+  "title_ko": "Claude를 활용해 멀티플레이어 게임 맵과 네트워킹 구현",
+  "summary_ko": "개발자가 Claude Opus를 이용해 웹 기반 게임의 4인용 멀티플레이어 맵과 웹소켓 네트워킹 코드를 성공적으로 구현했다. AI를 활용한 실무 코딩 사례를 보여준다.",
+  "category": "팁",
+  "tags": [
+   "Claude",
+   "코딩"
   ]
  },
  {
