@@ -1,8 +1,77 @@
 {
- "updated_at": "2026-10-24T20:41:47.475327+00:00",
+ "updated_at": "2026-10-24T23:06:15.760976+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "8c4054a78a5b760c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xelhpj/cmp170hx_inspiration_unlocks_30x40x_also_up_to_2x/",
+   "source": "r/LocalLLaMA",
+   "title": "CMP170HX inspiration unlocks 30x/40x also, up to 2X Prefill speedup --> NVIDIA RTX 30 & RTX 40 GPUs Get Impressively Fast In AI LLMs As Compute Doubles With New Unlock Tool But Prices Surge Too",
+   "published_at": "2026-10-24T22:16:55+00:00",
+   "collected_at": "2026-10-24T23:05:49.448251+00:00",
+   "title_ko": "엔비디아 RTX 30·40 GPU용 LLM 성능 향상 언락 툴 공개",
+   "summary_ko": "새로운 언락 툴을 통해 엔비디아 구형 GPU의 연산 능력이 향상되면서 LLM 프리필 속도가 최대 2배까지 빨라졌습니다.",
+   "category": "속보",
+   "tags": [
+    "NVIDIA",
+    "반도체"
+   ]
+  },
+  {
+   "id": "26a10ea170f0c274",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+   "source": "The Verge",
+   "title": "Blue Planet III is keeping the rough edges in the age of AI",
+   "published_at": "2026-10-24T21:29:12+00:00",
+   "collected_at": "2026-10-24T23:05:15.021482+00:00",
+   "title_ko": "BBC 다큐멘터리 '블루 플래닛 III', AI 시대에 원본 질감 고수",
+   "summary_ko": "AI 생성 콘텐츠의 지나치게 매끄러운 느낌을 피하고 진정성을 증명하기 위해 다큐멘터리에 거친 원본 화면을 그대로 유지하기로 했습니다.",
+   "category": "참고",
+   "tags": []
+  },
+  {
+   "id": "ecd8a58069897679",
+   "url": "https://www.reddit.com/r/singularity/comments/1xek0va/nine_math_puzzles_from_human_level_to_asi_level/",
+   "source": "r/singularity",
+   "title": "Nine math puzzles from “human level” to “ASI level” (nobody has ASI yet), with checkable answers. Which can your model solve?",
+   "published_at": "2026-10-24T21:12:09+00:00",
+   "collected_at": "2026-10-24T23:06:02.628299+00:00",
+   "title_ko": "인간 수준부터 ASI 수준까지 검증 가능한 AI 추론 수학 퍼즐 공개",
+   "summary_ko": "AI 모델의 복잡한 추론 능력을 검증하기 위해 정확한 정답이 있는 비주기적 순서 기반의 수학 퍼즐 9문제가 공개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "98fe94161db0012d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xejzuo/day_1_minimaxm31flash_support_in_tensorsharp_gguf/",
+   "source": "r/LocalLLaMA",
+   "title": "Day 1 MiniMax-M3.1-Flash support in TensorSharp: GGUF, vision, tool calling, DSpark, and 8× A40 benchmarks",
+   "published_at": "2026-10-24T21:10:54+00:00",
+   "collected_at": "2026-10-24T23:05:49.448251+00:00",
+   "title_ko": "TensorSharp, MiniMax-M3.1-Flash 모델 첫날 지원 추가",
+   "summary_ko": "TensorSharp가 오픈웨이트 모델 MiniMax-M3.1-Flash를 출시 첫날 지원하며 GGUF, 비전, 툴 콜링 등의 벤치마크 결과를 공유했습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "a3e78fd34ecb2d25",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xejv61/m6_mac_mini_owners_32gb_now_you_can_run_qwen3827b/",
+   "source": "r/LocalLLaMA",
+   "title": "M6 Mac Mini owners (32GB): now you can run Qwen3.8-27B in high quality on the Apple Neural Engine",
+   "published_at": "2026-10-24T21:05:21+00:00",
+   "collected_at": "2026-10-24T23:05:49.448251+00:00",
+   "title_ko": "애플 M6 맥 미니에서 Qwen3.8-27B 로컬 구동 지원",
+   "summary_ko": "ANEMLL Forge 업데이트로 M6 맥 미니의 신경망 엔진에서 Qwen 모델을 고품질 및 고속으로 실행할 수 있게 되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스"
+   ]
+  },
   {
    "id": "0cea32e668a973a0",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216618",
@@ -44,6 +113,21 @@
    "summary_ko": "LLM 양자화 모델을 비교할 때 널리 쓰이는 쿨백-라이블러 발산(KLD) 지표가 모델의 품질을 줄세우는 절대적인 지표가 될 수 없는 이유를 설명한다.",
    "category": "참고",
    "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "ec15cc5dfcd034c7",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeicw2/highperformance_llamacpp_fork_for_legacy_gpus/",
+   "source": "r/LocalLLaMA",
+   "title": "High-Performance llama.cpp fork for Legacy GPUs: Kepler Support, CUDA Graphs & Windows NCCL!",
+   "published_at": "2026-10-24T20:01:46+00:00",
+   "collected_at": "2026-10-24T23:05:49.448251+00:00",
+   "title_ko": "구형 GPU 위한 고성능 llama.cpp 포크 공개",
+   "summary_ko": "케플러 아키텍처 등 구형 엔비디아 GPU에서 llama.cpp의 성능을 높이고 대형 모델을 원활히 구동할 수 있는 포크 버전이 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "NVIDIA",
     "오픈소스"
    ]
   },
@@ -149,6 +233,30 @@
    ]
   },
   {
+   "id": "18133482929b1d92",
+   "url": "https://www.reddit.com/r/singularity/comments/1xeg0e9/ai_has_finally_hit_the_vertical_wall_on_arcagi3/",
+   "source": "r/singularity",
+   "title": "AI Has Finally Hit the (Vertical) Wall on ARC-AGI-3",
+   "published_at": "2026-10-24T18:27:11+00:00",
+   "collected_at": "2026-10-24T23:06:02.628299+00:00",
+   "title_ko": "AI 모델, ARC-AGI-3 벤치마크에서 한계 직면",
+   "summary_ko": "AI에게 특히 어렵도록 설계된 ARC-AGI-3 테스트에서 인공지능이 성능 한계에 부딪히며 고난도 추론 과제의 어려움을 증명했습니다.",
+   "category": "중요",
+   "tags": []
+  },
+  {
+   "id": "0a5972b709e4b83f",
+   "url": "https://dreamlabs.ai/research/dream-1/",
+   "source": "Hacker News",
+   "title": "Dream-1",
+   "published_at": "2026-10-24T18:23:24+00:00",
+   "collected_at": "2026-10-24T23:05:31.351348+00:00",
+   "title_ko": "드림랩스, 신규 연구 모델 'Dream-1' 발표",
+   "summary_ko": "드림랩스(Dream Labs)가 AI 연구 분야의 새로운 진전을 보여주는 Dream-1 모델과 관련 연구 내용을 공개했습니다.",
+   "category": "속보",
+   "tags": []
+  },
+  {
    "id": "81c8fd74d5e2c7e1",
    "url": "https://arxiv.org/abs/2610.29162",
    "source": "Hacker News",
@@ -212,6 +320,22 @@
     "NVIDIA",
     "반도체",
     "규제"
+   ]
+  },
+  {
+   "id": "d84db124bef5ea2c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xed2xx/10_toks_deepseek_v41_flash_8k_with_strata_on_a/",
+   "source": "r/LocalLLaMA",
+   "title": "10 tok/s Deepseek V4.1 Flash 8K with Strata on a 5090 with 64GB DDR5 Ram",
+   "published_at": "2026-10-24T16:29:59+00:00",
+   "collected_at": "2026-10-24T23:05:49.448251+00:00",
+   "title_ko": "RTX 5090 환경에서의 DeepSeek V4.1 Flash 로컬 구동 성능",
+   "summary_ko": "RTX 5090과 64GB RAM 환경에서 DeepSeek V4.1 Flash 모델이 초당 10 토큰의 속도로 구동되는 성능 테스트 결과가 공유되었습니다. 하드웨어 전기세와 API 비용을 비교하는 실사용 측면의 논의가 이루어졌습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "반도체",
+    "로컬LLM"
    ]
   },
   {
@@ -2824,132 +2948,6 @@
    "tags": [
     "OpenAI",
     "모델명"
-   ]
-  },
-  {
-   "id": "73123e6ebe0ba203",
-   "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
-   "source": "The Verge",
-   "title": "Discord now formats Markdown previews right",
-   "published_at": "2026-10-22T18:58:19+00:00",
-   "collected_at": "2026-10-22T19:58:03.568729+00:00",
-   "title_ko": "디스코드 마크다운 미리보기 개선",
-   "summary_ko": "디스코드의 마크다운 렌더링 개선으로 LLM과 AI 에이전트 관련 지침 및 컨텍스트 공유가 더 편리해졌다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "ab838d8755d52b23",
-   "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-   "source": "MIT Tech Review",
-   "title": "The Foundations of Scalable AI",
-   "published_at": "2026-10-22T18:48:04+00:00",
-   "collected_at": "2026-10-22T19:58:16.411605+00:00",
-   "title_ko": "확장 가능한 AI 구축을 위한 기반 요소 논의",
-   "summary_ko": "안전하고 신뢰할 수 있는 에이전트 구현을 위해 데이터와 거버넌스 등 AI 시스템의 기반 구축 방식을 다룬다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "d26ae9b2d9ce501c",
-   "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-   "source": "TechCrunch",
-   "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-   "published_at": "2026-10-22T18:43:53+00:00",
-   "collected_at": "2026-10-22T19:58:03.441123+00:00",
-   "title_ko": "마이크로소프트 AI, 고난도 의료 진단에서 의사 능가",
-   "summary_ko": "마이크로소프트의 새로운 의료 진단 시스템이 복잡한 사례에서 일반 의사보다 뛰어난 성과를 보였다는 연구 결과가 발표됐다.",
-   "category": "중요",
-   "tags": [
-    "Microsoft"
-   ]
-  },
-  {
-   "id": "90f04666978114bb",
-   "url": "https://www.typeui.sh/micro-interactions",
-   "source": "Hacker News",
-   "title": "Show HN: UI micro interactions prompts for AI",
-   "published_at": "2026-10-22T18:32:57+00:00",
-   "collected_at": "2026-10-22T23:14:18.068638+00:00",
-   "title_ko": "AI를 위한 UI 마이크로 인터랙션 프롬프트 모음",
-   "summary_ko": "AI 인터페이스에서 활용할 수 있는 UI 마이크로 인터랙션 프롬프트 모음이 소개되었습니다. 프론트엔드 개발 및 UX 디자인 실무에 유용합니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "6786e7b5eab163d4",
-   "url": "https://jamesyu.org/award-winning-ai-literature/",
-   "source": "Hacker News",
-   "title": "Award-winning AI literature",
-   "published_at": "2026-10-22T18:28:26+00:00",
-   "collected_at": "2026-10-22T23:14:18.068638+00:00",
-   "title_ko": "AI 문학 작품의 수상 사례 조명",
-   "summary_ko": "인공지능이 생성한 문학 작품이 상을 받은 사례를 다룬 글입니다. AI의 창작 능력과 예술적 가치에 대한 논의를 제공합니다.",
-   "category": "참고",
-   "tags": []
-  },
-  {
-   "id": "a89c1639c81cde6e",
-   "url": "https://arxiv.org/abs/2610.27251",
-   "source": "Hacker News",
-   "title": "AI and the Enclosure of the Scientific Commons",
-   "published_at": "2026-10-22T18:28:16+00:00",
-   "collected_at": "2026-10-22T23:14:18.068638+00:00",
-   "title_ko": "과학 연구 공유 생태계와 AI의 영향 논문",
-   "summary_ko": "AI의 급격한 발전이 과학적 공공재 및 연구 데이터 공유 생태계에 미치는 영향을 분석한 논문입니다. 학술 데이터의 독점화 문제를 다룹니다.",
-   "category": "참고",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "40d1ac13aac9e824",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcqm0z/whatever_happened_to_turboquant/",
-   "source": "r/LocalLLaMA",
-   "title": "Whatever happened to TurboQuant?",
-   "published_at": "2026-10-22T18:28:05+00:00",
-   "collected_at": "2026-10-22T19:58:23.369310+00:00",
-   "title_ko": "오픈소스 LLM 양자화 기술 TurboQuant 동향",
-   "summary_ko": "올해 초 주목받았던 TurboQuant 기술의 최신 개발 현황에 대한 커뮤니티의 관심과 의문이 제기되었다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "02de41696f3ee7f9",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcqb3p/massive_b70_specdecoding_improvement_intel_xmx/",
-   "source": "r/LocalLLaMA",
-   "title": "Massive B70 spec-decoding improvement - Intel XMX matrix engines refactored by budiony · Pull Request #29864 · ggml-org/llama.cpp",
-   "published_at": "2026-10-22T18:16:49+00:00",
-   "collected_at": "2026-10-22T19:58:23.369310+00:00",
-   "title_ko": "llama.cpp, 인텔 XMX 기반 추측 디코딩 성능 대폭 개선",
-   "summary_ko": "llama.cpp 프로젝트에서 인텔 행렬 엔진 최적화를 통해 토큰 검증 비용을 줄이고 추측 디코딩 속도를 크게 향상시켰다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "8bd29f6029cca085",
-   "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
-   "source": "The Verge",
-   "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
-   "published_at": "2026-10-22T18:15:00+00:00",
-   "collected_at": "2026-10-22T19:58:03.568729+00:00",
-   "title_ko": "메타가 그리는 AI 에이전트 중심의 미래",
-   "summary_ko": "마크 저커버그가 자율형 AI 에이전트가 쇼핑과 업무 등 인간의 삶을 대행하는 미래 비전을 제시했다.",
-   "category": "참고",
-   "tags": [
-    "Meta",
-    "AI 에이전트"
    ]
   }
  ]
