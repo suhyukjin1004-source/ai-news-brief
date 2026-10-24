@@ -1,5 +1,81 @@
 [
  {
+  "id": "15d56868ca7af35e",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=216604",
+  "source": "AI타임스",
+  "title": "구글 ‘제미나이 4 카본’ 외부 테스트설…“3D 개선됐지만 속도 느려”",
+  "published_at": "2026-10-24T09:05:59+00:00",
+  "collected_at": "2026-10-24T00:35:21.323417+00:00",
+  "title_ko": "구글 '제미나이 4 카본' 외부 테스트 포착",
+  "summary_ko": "구글의 차세대 모델로 추정되는 '제미나이 4 카본'이 외부 테스트에 돌입했습니다. 3D 작업 능력이 개선되었으나 속도가 느리다는 초기 평가를 받고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "Gemini"
+  ]
+ },
+ {
+  "id": "242b49aaa07bea7f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdtk7m/istadaslabdeepseekv41flash1017gsqrco/",
+  "source": "r/LocalLLaMA",
+  "title": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO",
+  "published_at": "2026-10-23T23:37:39+00:00",
+  "collected_at": "2026-10-24T00:35:07.998299+00:00",
+  "title_ko": "DeepSeek-V4.1-Flash 양자화 모델 공개",
+  "summary_ko": "ISTA-DASLab에서 새로운 양자화 기법을 적용한 DeepSeek-V4.1-Flash 모델의 가중치를 허깅페이스에 공개했습니다.",
+  "category": "참고",
+  "tags": [
+   "DeepSeek",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "f699a3e5cdaf4929",
+  "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+  "source": "TechCrunch",
+  "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+  "published_at": "2026-10-23T23:05:49+00:00",
+  "collected_at": "2026-10-24T00:34:44.948509+00:00",
+  "title_ko": "OpenAI, 실시간 인터넷 학습 중단 선언",
+  "summary_ko": "OpenAI가 심각한 위험성을 이유로 향후 프론티어 AI 모델의 실시간 인터넷 학습을 중단하겠다고 밝혔습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "GPT",
+   "규제"
+  ]
+ },
+ {
+  "id": "900f549a20f9dff4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xds6ts/some_benchmarks_on_miniagi_dynamic_continual/",
+  "source": "r/LocalLLaMA",
+  "title": "Some benchmarks on mini-AGI (dynamic continual learning model) after training it completely from scratch for a month on a 8GB VRAM GPU.",
+  "published_at": "2026-10-23T22:34:52+00:00",
+  "collected_at": "2026-10-24T00:35:07.998299+00:00",
+  "title_ko": "저사양 GPU 기반 동적 지속 학습 모델 'mini-AGI' 공개",
+  "summary_ko": "8GB VRAM GPU 환경에서 한 달간 학습을 거친 동적 지속 학습 모델 'mini-AGI'의 코드와 가중치가 공개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "39c3aae731df8d43",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdr8pe/probably_one_of_cheapest_and_performant_local/",
+  "source": "r/LocalLLaMA",
+  "title": "Probably one of cheapest and performant local setups you can get ( ~ 1600€ )",
+  "published_at": "2026-10-23T21:53:48+00:00",
+  "collected_at": "2026-10-24T00:35:07.998299+00:00",
+  "title_ko": "고성능 가성비 로컬 LLM 구동 환경 공유",
+  "summary_ko": "약 1600유로 예산으로 구축한 라데온 GPU 기반 로컬 LLM 구동 환경에서 초당 70~90 토큰의 속도를 기록했습니다.",
+  "category": "팁",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "18216b018fb1ff4f",
   "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
   "source": "Simon Willison",
