@@ -1,5 +1,20 @@
 [
  {
+  "id": "99acc2c960d5c0a9",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf9kmd/rtx_3080_20gb_got_rebar_and_p2p_unlock_70_prompt/",
+  "source": "r/LocalLLaMA",
+  "title": "RTX 3080 20GB got reBAR and P2P unlock! +70% prompt processing speed",
+  "published_at": "2026-10-25T18:16:54+00:00",
+  "collected_at": "2026-10-25T18:21:12.535543+00:00",
+  "title_ko": "RTX 3080 20GB P2P 및 reBAR 해제 속도 향상",
+  "summary_ko": "RTX 3080 20GB 모델의 P2P 잠금 해제로 텐서 병렬 처리 프롬프트 속도가 크게 향상됨.",
+  "category": "팁",
+  "tags": [
+   "NVIDIA",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "7f8a1f7a387704aa",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216553",
   "source": "AI타임스",
@@ -12,6 +27,21 @@
   "tags": [
    "생성형 AI",
    "음악"
+  ]
+ },
+ {
+  "id": "9e98fdfaf3ea42e2",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf8iqi/i_made_an_arena_for_fighting_jevs/",
+  "source": "r/LocalLLaMA",
+  "title": "I made an arena for fighting JEVs",
+  "published_at": "2026-10-25T17:35:27+00:00",
+  "collected_at": "2026-10-25T18:21:12.535543+00:00",
+  "title_ko": "LLM 대결을 위한 AI 아레나 게임 제작",
+  "summary_ko": "다양한 LLM 모델들이 게임 상태를 공유하고 전략을 겨루는 프롬프트 공격 및 대결 아레나가 공개됨.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
   ]
  },
  {
@@ -31,6 +61,35 @@
   ]
  },
  {
+  "id": "1c151711d901d356",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf7loz/is_it_time_to_jump_ship_from_opencode/",
+  "source": "r/LocalLLaMA",
+  "title": "Is it time to jump ship from OpenCode?",
+  "published_at": "2026-10-25T16:59:30+00:00",
+  "collected_at": "2026-10-25T18:21:12.535543+00:00",
+  "title_ko": "오픈코드(OpenCode) 사용 환경 전환 논의",
+  "summary_ko": "기존 오픈코드 도구의 버그와 업데이트 문제로 인해 다른 코딩 하네스로 전환하는 사용자들의 경험이 공유됨.",
+  "category": "참고",
+  "tags": [
+   "코딩",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "b23877b88e691b4d",
+  "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+  "source": "TechCrunch",
+  "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+  "published_at": "2026-10-25T16:57:32+00:00",
+  "collected_at": "2026-10-25T18:20:36.412578+00:00",
+  "title_ko": "AI 기술의 기업 재무적 성과 한계 지적",
+  "summary_ko": "대규모 AI 투자에도 불구하고 기술 기업 외의 일반 기업들에서는 재무적 성과가 거의 나타나지 않았다는 분석이 제기됨.",
+  "category": "중요",
+  "tags": [
+   "투자"
+  ]
+ },
+ {
   "id": "4030b7e295eb5e68",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216625",
   "source": "AI타임스",
@@ -44,6 +103,36 @@
    "NVIDIA",
    "오픈소스",
    "로보틱스"
+  ]
+ },
+ {
+  "id": "6070f6a03dda9350",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf7b46/4x_v620_in_a_llm_generated_and_3d_printed_chassis/",
+  "source": "r/LocalLLaMA",
+  "title": "4x v620 in a LLM generated and 3d printed chassis",
+  "published_at": "2026-10-25T16:47:52+00:00",
+  "collected_at": "2026-10-25T18:21:12.535543+00:00",
+  "title_ko": "v620 GPU 4개를 장착한 LLM용 3D 프린팅 섀시",
+  "summary_ko": "AMD v620 GPU 4개를 활용해 로컬 LLM 구동용 맞춤형 섀시를 제작하고 조립한 사례가 공유됨.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "4c4c1d6a57705b0b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf716t/qwen_merge_tensors_on_convert_by_am17an_pull/",
+  "source": "r/LocalLLaMA",
+  "title": "qwen: merge tensors on convert by am17an · Pull Request #31028 · ggml-org/llama.cpp",
+  "published_at": "2026-10-25T16:37:07+00:00",
+  "collected_at": "2026-10-25T18:21:12.535543+00:00",
+  "title_ko": "llama.cpp, Qwen 모델 텐서 병합 변환 지원",
+  "summary_ko": "llama.cpp 프로젝트에 Qwen 모델 변환 시 텐서 병합을 지원하는 기능이 풀 리퀘스트로 제안됨.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "코딩"
   ]
  },
  {
@@ -75,6 +164,35 @@
    "OpenAI",
    "보안",
    "규제"
+  ]
+ },
+ {
+  "id": "776e05eef8852b17",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf4sxg/the_minimum_size_of_an_llm_to_generate_a_little/",
+  "source": "r/LocalLLaMA",
+  "title": "The minimum size of an LLM to generate a little meaningful convo",
+  "published_at": "2026-10-25T15:09:15+00:00",
+  "collected_at": "2026-10-25T18:21:12.535543+00:00",
+  "title_ko": "의미 있는 대화 생성이 가능한 최소 크기 LLM 탐색",
+  "summary_ko": "CPU 환경에서 원활히 구동되면서 문법적으로 올바른 영문 대화를 생성할 수 있는 초소형 LLM 모델의 한계와 테스트 결과가 공유됨.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "fbc3f8d5d89ff3e9",
+  "url": "https://bigwhalehunting.com/workforce/",
+  "source": "Hacker News",
+  "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
+  "published_at": "2026-10-25T15:05:39+00:00",
+  "collected_at": "2026-10-25T18:20:50.598927+00:00",
+  "title_ko": "시가총액 대비 직원 수로 본 빅테크 고용 구조 분석",
+  "summary_ko": "S&P 500 기업의 시가총액과 직원 수를 비교한 결과 엔비디아 등 AI 빅테크 기업의 직원당 가치가 매우 높게 나타남.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "투자"
   ]
  }
 ]

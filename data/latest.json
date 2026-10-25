@@ -1,8 +1,23 @@
 {
- "updated_at": "2026-10-25T14:17:29.481933+00:00",
+ "updated_at": "2026-10-25T18:21:35.043873+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "99acc2c960d5c0a9",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf9kmd/rtx_3080_20gb_got_rebar_and_p2p_unlock_70_prompt/",
+   "source": "r/LocalLLaMA",
+   "title": "RTX 3080 20GB got reBAR and P2P unlock! +70% prompt processing speed",
+   "published_at": "2026-10-25T18:16:54+00:00",
+   "collected_at": "2026-10-25T18:21:12.535543+00:00",
+   "title_ko": "RTX 3080 20GB P2P 및 reBAR 해제 속도 향상",
+   "summary_ko": "RTX 3080 20GB 모델의 P2P 잠금 해제로 텐서 병렬 처리 프롬프트 속도가 크게 향상됨.",
+   "category": "팁",
+   "tags": [
+    "NVIDIA",
+    "오픈소스"
+   ]
+  },
   {
    "id": "7f8a1f7a387704aa",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216553",
@@ -16,6 +31,21 @@
    "tags": [
     "생성형 AI",
     "음악"
+   ]
+  },
+  {
+   "id": "9e98fdfaf3ea42e2",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf8iqi/i_made_an_arena_for_fighting_jevs/",
+   "source": "r/LocalLLaMA",
+   "title": "I made an arena for fighting JEVs",
+   "published_at": "2026-10-25T17:35:27+00:00",
+   "collected_at": "2026-10-25T18:21:12.535543+00:00",
+   "title_ko": "LLM 대결을 위한 AI 아레나 게임 제작",
+   "summary_ko": "다양한 LLM 모델들이 게임 상태를 공유하고 전략을 겨루는 프롬프트 공격 및 대결 아레나가 공개됨.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
    ]
   },
   {
@@ -35,6 +65,35 @@
    ]
   },
   {
+   "id": "1c151711d901d356",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf7loz/is_it_time_to_jump_ship_from_opencode/",
+   "source": "r/LocalLLaMA",
+   "title": "Is it time to jump ship from OpenCode?",
+   "published_at": "2026-10-25T16:59:30+00:00",
+   "collected_at": "2026-10-25T18:21:12.535543+00:00",
+   "title_ko": "오픈코드(OpenCode) 사용 환경 전환 논의",
+   "summary_ko": "기존 오픈코드 도구의 버그와 업데이트 문제로 인해 다른 코딩 하네스로 전환하는 사용자들의 경험이 공유됨.",
+   "category": "참고",
+   "tags": [
+    "코딩",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "b23877b88e691b4d",
+   "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+   "source": "TechCrunch",
+   "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+   "published_at": "2026-10-25T16:57:32+00:00",
+   "collected_at": "2026-10-25T18:20:36.412578+00:00",
+   "title_ko": "AI 기술의 기업 재무적 성과 한계 지적",
+   "summary_ko": "대규모 AI 투자에도 불구하고 기술 기업 외의 일반 기업들에서는 재무적 성과가 거의 나타나지 않았다는 분석이 제기됨.",
+   "category": "중요",
+   "tags": [
+    "투자"
+   ]
+  },
+  {
    "id": "4030b7e295eb5e68",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216625",
    "source": "AI타임스",
@@ -48,6 +107,36 @@
     "NVIDIA",
     "오픈소스",
     "로보틱스"
+   ]
+  },
+  {
+   "id": "6070f6a03dda9350",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf7b46/4x_v620_in_a_llm_generated_and_3d_printed_chassis/",
+   "source": "r/LocalLLaMA",
+   "title": "4x v620 in a LLM generated and 3d printed chassis",
+   "published_at": "2026-10-25T16:47:52+00:00",
+   "collected_at": "2026-10-25T18:21:12.535543+00:00",
+   "title_ko": "v620 GPU 4개를 장착한 LLM용 3D 프린팅 섀시",
+   "summary_ko": "AMD v620 GPU 4개를 활용해 로컬 LLM 구동용 맞춤형 섀시를 제작하고 조립한 사례가 공유됨.",
+   "category": "참고",
+   "tags": [
+    "반도체",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "4c4c1d6a57705b0b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf716t/qwen_merge_tensors_on_convert_by_am17an_pull/",
+   "source": "r/LocalLLaMA",
+   "title": "qwen: merge tensors on convert by am17an · Pull Request #31028 · ggml-org/llama.cpp",
+   "published_at": "2026-10-25T16:37:07+00:00",
+   "collected_at": "2026-10-25T18:21:12.535543+00:00",
+   "title_ko": "llama.cpp, Qwen 모델 텐서 병합 변환 지원",
+   "summary_ko": "llama.cpp 프로젝트에 Qwen 모델 변환 시 텐서 병합을 지원하는 기능이 풀 리퀘스트로 제안됨.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "코딩"
    ]
   },
   {
@@ -79,6 +168,66 @@
     "OpenAI",
     "보안",
     "규제"
+   ]
+  },
+  {
+   "id": "776e05eef8852b17",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf4sxg/the_minimum_size_of_an_llm_to_generate_a_little/",
+   "source": "r/LocalLLaMA",
+   "title": "The minimum size of an LLM to generate a little meaningful convo",
+   "published_at": "2026-10-25T15:09:15+00:00",
+   "collected_at": "2026-10-25T18:21:12.535543+00:00",
+   "title_ko": "의미 있는 대화 생성이 가능한 최소 크기 LLM 탐색",
+   "summary_ko": "CPU 환경에서 원활히 구동되면서 문법적으로 올바른 영문 대화를 생성할 수 있는 초소형 LLM 모델의 한계와 테스트 결과가 공유됨.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "fbc3f8d5d89ff3e9",
+   "url": "https://bigwhalehunting.com/workforce/",
+   "source": "Hacker News",
+   "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
+   "published_at": "2026-10-25T15:05:39+00:00",
+   "collected_at": "2026-10-25T18:20:50.598927+00:00",
+   "title_ko": "시가총액 대비 직원 수로 본 빅테크 고용 구조 분석",
+   "summary_ko": "S&P 500 기업의 시가총액과 직원 수를 비교한 결과 엔비디아 등 AI 빅테크 기업의 직원당 가치가 매우 높게 나타남.",
+   "category": "참고",
+   "tags": [
+    "NVIDIA",
+    "투자"
+   ]
+  },
+  {
+   "id": "26c88545beb90df1",
+   "url": "https://news.hada.io/topic?id=35975",
+   "source": "GeekNews",
+   "title": "연 15만 달러짜리 Looker를 HTML 파일 버킷으로 대체할 수 있을까?",
+   "published_at": "2026-10-25T14:39:16+00:00",
+   "collected_at": "2026-10-25T18:21:27.091040+00:00",
+   "title_ko": "AI 생성 HTML 대시보드로 Looker 대체 사례",
+   "summary_ko": "기업 데이터 팀이 Claude를 활용해 만든 AI 대시보드가 고가의 Looker를 성공적으로 대체하고 높은 사용률을 기록했습니다. 사내 데이터 분석과 BI 도구에 AI 도입이 실질적인 비용 절감과 효율성 증대로 이어지고 있음을 보여줍니다.",
+   "category": "중요",
+   "tags": [
+    "Claude",
+    "AI 에이전트",
+    "데이터분석"
+   ]
+  },
+  {
+   "id": "8617e6c5419ec87e",
+   "url": "https://news.hada.io/topic?id=35974",
+   "source": "GeekNews",
+   "title": "Samsung, 960×540 이미지에서 TensorFlow Lite 모델을 실행해 사용자 추적",
+   "published_at": "2026-10-25T14:36:16+00:00",
+   "collected_at": "2026-10-25T18:21:27.091040+00:00",
+   "title_ko": "삼성, TensorFlow Lite로 온디바이스 사용자 추적",
+   "summary_ko": "삼성 기기가 TensorFlow Lite와 AlexNet 모델을 사용해 저해상도 이미지에서 사용자의 게임 활동을 추적하는 것으로 확인되었습니다. 모바일 기기에서의 온디바이스 AI 활용 사례를 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "TensorFlow",
+    "온디바이스AI"
    ]
   },
   {
@@ -2815,148 +2964,6 @@
    "tags": [
     "OpenAI",
     "투자"
-   ]
-  },
-  {
-   "id": "ee27a5236087eab5",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdc991/nanostories_releases/",
-   "source": "r/LocalLLaMA",
-   "title": "NanoStories Releases!",
-   "published_at": "2026-10-23T12:09:34+00:00",
-   "collected_at": "2026-10-23T14:55:28.681660+00:00",
-   "title_ko": "규칙 기반으로 대량 생성된 'NanoStories' 데이터셋 공개",
-   "summary_ko": "규칙 기반 알고리즘을 통해 5천만 개의 단편 동화 데이터셋을 단시간에 생성해 허깅페이스에 공개했다. 소형 모델 학습에 활용될 수 있다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "4608c746385aec63",
-   "url": "https://www.thisandthat.chat/enron/",
-   "source": "Hacker News",
-   "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
-   "published_at": "2026-10-23T12:02:53+00:00",
-   "collected_at": "2026-10-23T22:04:12.176610+00:00",
-   "title_ko": "엔론 이메일 4만5천 건을 AI로 분석해 출처가 표기된 위키 구축",
-   "summary_ko": "AI를 활용해 방대한 기업 이메일 아카이브를 분석하고 모든 사실에 출처를 달아 위키 형태로 정리한 프로젝트가 공개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "LLM"
-   ]
-  },
-  {
-   "id": "c8cc479cd1e56775",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdc21t/started_to_play_around_a_bit_with_opencode_and/",
-   "source": "r/LocalLLaMA",
-   "title": "Started to play around a bit with opencode and this happened during thinking",
-   "published_at": "2026-10-23T12:00:24+00:00",
-   "collected_at": "2026-10-23T14:55:28.681660+00:00",
-   "title_ko": "코딩 에이전트 사용 중 발생한 프롬프트 인젝션 사례",
-   "summary_ko": "오픈코드(opencode) 활용 중 시스템 메모리를 가장한 허위 지시로 인해 프롬프트 인젝션 공격이 시도된 사례를 공유한다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "73558bf560902ec9",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
-   "source": "The Verge",
-   "title": "Retro gaming is being overrun with AI",
-   "published_at": "2026-10-23T12:00:00+00:00",
-   "collected_at": "2026-10-23T14:54:54.727886+00:00",
-   "title_ko": "AI 도구로 급증하는 레트로 게임 변환 프로젝트",
-   "summary_ko": "최신 AI 도구의 발전으로 고전 게임을 웹 브라우저나 모바일에 이식하는 바이럴 프로젝트들이 급증하고 있다.",
-   "category": "참고",
-   "tags": []
-  },
-  {
-   "id": "c6ae3a8b33bff850",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdbtvq/mayaxs_runs_deepseekv41flash_in_1206_gb_with_all/",
-   "source": "r/LocalLLaMA",
-   "title": "Maya-XS runs DeepSeek-V4.1-Flash in 120.6 GB, with all 384 experts resident in GPU memory on a 128 GB Ryzen AI Max.",
-   "published_at": "2026-10-23T11:49:10+00:00",
-   "collected_at": "2026-10-23T14:55:28.681660+00:00",
-   "title_ko": "라이젠 AI 맥스 시스템에서 구동되는 딥식 모델",
-   "summary_ko": "고용량 PC 메모리를 활용해 대형 오픈소스 모델인 DeepSeek-V4.1-Flash를 로컬 환경에서 효율적으로 구동하는 사례다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "9174a0a001c9f1a7",
-   "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
-   "source": "Hacker News",
-   "title": "Swedish government offices to ban ChatGPT and Claude",
-   "published_at": "2026-10-23T11:39:54+00:00",
-   "collected_at": "2026-10-23T14:55:10.164270+00:00",
-   "title_ko": "스웨덴 정부 기관, 챗GPT 및 클로드 사용 금지",
-   "summary_ko": "스웨덴 정부가 보안 및 데이터 유출 우려를 이유로 정부 부처 내에서 상용 LLM 서비스 사용을 금지했다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "Claude",
-    "규제"
-   ]
-  },
-  {
-   "id": "5adbbf1fb35a2ee5",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdaf1p/is_it_worth_to_dumpsterdive/",
-   "source": "r/LocalLLaMA",
-   "title": "is it worth to dumpsterdive?",
-   "published_at": "2026-10-23T10:33:28+00:00",
-   "collected_at": "2026-10-23T14:55:28.681660+00:00",
-   "title_ko": "로컬 LLM 구동을 위한 중고 하드웨어 및 VRAM 구성 팁",
-   "summary_ko": "오픈소스 모델 구동을 위해 중고 GPU와 VRAM을 조합하는 방법과 하드웨어 선택 요령을 논의합니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "26590a62db178488",
-   "url": "https://www.reddit.com/r/singularity/comments/1xda8re/when_did_peoples_agi_indicators_shift_to_actually/",
-   "source": "r/singularity",
-   "title": "When did people's AGI indicators shift to actually be ASI?",
-   "published_at": "2026-10-23T10:23:09+00:00",
-   "collected_at": "2026-10-23T19:05:06.194887+00:00",
-   "title_ko": "AGI와 ASI의 경계에 대한 업계 시각 변화",
-   "summary_ko": "현재 LLM의 한계와 능력을 두고 범용인공지능(AGI)을 넘어 초인공지능(ASI)의 기준으로 기대치가 옮겨가는 현상에 대한 논의입니다.",
-   "category": "참고",
-   "tags": [
-    "LLM"
-   ]
-  },
-  {
-   "id": "48e2274fdf2ba9fe",
-   "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-   "source": "OpenAI",
-   "title": "Securing our frontier model training environment",
-   "published_at": "2026-10-23T10:00:00+00:00",
-   "collected_at": "2026-10-23T22:04:10.658548+00:00",
-   "title_ko": "OpenAI, 프론티어 모델 학습 환경 보안 강화 조치 발표",
-   "summary_ko": "OpenAI가 오프라인 환경 구축 및 고성능 레드티밍을 포함한 차세대 AI 모델 학습 환경 보안 강화 방안을 설명했습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI"
-   ]
-  },
-  {
-   "id": "958cd914af6a3e7a",
-   "url": "https://www.reddit.com/r/singularity/comments/1xd8qwb/scientists_grew_a_human_minibrain_and_used_it_to/",
-   "source": "r/singularity",
-   "title": "Scientists grew a human mini-brain and used it to control a humanoid robot. It learned to grasp objects with 94% accuracy, chase a laser, and transfer learning between tasks—outperforming a conventional neural network in limited tests.",
-   "published_at": "2026-10-23T08:52:34+00:00",
-   "collected_at": "2026-10-24T05:41:08.949013+00:00",
-   "title_ko": "인간 미니 브레인으로 휴머노이드 로봇 제어 성공",
-   "summary_ko": "과학자들이 인간 배양 미니 뇌를 이용해 휴머노이드 로봇을 제어하는 데 성공함. 제한된 테스트에서 기존 신경망보다 뛰어난 학습 및 조작 능력을 보여줌.",
-   "category": "중요",
-   "tags": [
-    "로보틱스"
    ]
   }
  ]
