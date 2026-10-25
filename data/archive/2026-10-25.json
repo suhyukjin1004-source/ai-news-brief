@@ -46,6 +46,141 @@
   ]
  },
  {
+  "id": "85856500301b1236",
+  "url": "https://news.hada.io/topic?id=35963",
+  "source": "GeekNews",
+  "title": "Qwen3.8-27B 모델 5개, GVS5H 하네스로 Fable 5에 필적하는 성능 달성",
+  "published_at": "2026-10-25T07:37:06+00:00",
+  "collected_at": "2026-10-25T09:44:24.123386+00:00",
+  "title_ko": "Qwen 모델 기반 협업 방식 코딩 성능 향상",
+  "summary_ko": "동일한 모델의 인스턴스들이 파일을 공유하며 협업하는 방식으로 코딩 문제 해결 능력을 높였습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "c76991dc2069ec8b",
+  "url": "https://news.hada.io/topic?id=35961",
+  "source": "GeekNews",
+  "title": "Ask GN: 대화가 길어지면 AI가 점점 멍청해지는거 같은데 뭔 문제에요?",
+  "published_at": "2026-10-25T07:28:49+00:00",
+  "collected_at": "2026-10-25T09:44:24.123386+00:00",
+  "title_ko": "긴 대화에서 AI 성능이 저하되는 원인",
+  "summary_ko": "컨텍스트 윈도우와 토큰 관리 문제로 인해 대화가 길어질수록 AI의 응답 품질이 떨어지는 현상에 대한 궁금증입니다.",
+  "category": "팁",
+  "tags": [
+   "LLM",
+   "코딩"
+  ]
+ },
+ {
+  "id": "35b0249ac59e4541",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xevwim/most_realistic_benchmarks/",
+  "source": "r/LocalLLaMA",
+  "title": "Most realistic benchmarks?",
+  "published_at": "2026-10-25T07:24:25+00:00",
+  "collected_at": "2026-10-25T09:44:09.715236+00:00",
+  "title_ko": "실무 중심의 현실적인 AI 모델 벤치마크 탐색",
+  "summary_ko": "기존 벤치마크가 실제 업무 능력을 온전히 반영하지 못함에 따라 더 현실적인 평가 지표를 찾는 논의가 진행 중입니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "910a9d85b0e3e22b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xevrui/beam_10_501b_a23b_9_days_after_release_your/",
+  "source": "r/LocalLLaMA",
+  "title": "Beam 1.0 501B A23B 9 days after release: Your thoughts?",
+  "published_at": "2026-10-25T07:16:38+00:00",
+  "collected_at": "2026-10-25T09:44:09.715236+00:00",
+  "title_ko": "대형 오픈 웨이트 모델 실사용 후기",
+  "summary_ko": "대규모 파라미터를 가진 모델을 실제로 테스트해본 결과 복잡한 코드 분석과 추론에서 뛰어난 성능을 보였습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "26d87106e86a1c71",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xev6bo/leanqwenflash_qwen38flashnext_125b_running_at_20/",
+  "source": "r/LocalLLaMA",
+  "title": "Lean-QwenFlash: Qwen3.8-Flash-Next (125B) running at ~20 tok/s on 16gb vram and 8gb ram via direct nvme SSD offloading",
+  "published_at": "2026-10-25T06:41:28+00:00",
+  "collected_at": "2026-10-25T09:44:09.715236+00:00",
+  "title_ko": "저사양 PC에서 대형 모델 구동하는 최적화 기법",
+  "summary_ko": "제한된 VRAM 환경에서 SSD 오프로딩 등을 활용해 대형 언어 모델을 효율적으로 실행하는 방법이 공유되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "b390b9d0015160cb",
+  "url": "https://news.hada.io/topic?id=35959",
+  "source": "GeekNews",
+  "title": "Cohere, Rerank 5 공개 - 검색 결과 재정렬부터 문서 속 핵심 구절 추출까지",
+  "published_at": "2026-10-25T06:34:52+00:00",
+  "collected_at": "2026-10-25T09:44:24.123386+00:00",
+  "title_ko": "코헤이, 검색 재정렬 및 핵심 추출 'Rerank 5' 공개",
+  "summary_ko": "검색 정확도를 높이고 문서 내 핵심 구절을 추출하는 새로운 재정렬 모델이 출시되었습니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "b8a932d98917ba2f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeuo7t/a_4b_coding_model_that_can_generate_3d_scenes/",
+  "source": "r/LocalLLaMA",
+  "title": "A 4B coding model that can generate 3D scenes",
+  "published_at": "2026-10-25T06:10:59+00:00",
+  "collected_at": "2026-10-25T09:44:09.715236+00:00",
+  "title_ko": "3D 씬 생성 기능 갖춘 경량 코딩 모델 공개",
+  "summary_ko": "소형 오픈소스 모델을 파인튜닝하여 일반 코딩뿐만 아니라 3D 씬까지 생성할 수 있는 모델이 공유되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "dfaa7fc7662d4e57",
+  "url": "https://news.hada.io/topic?id=35958",
+  "source": "GeekNews",
+  "title": "AI는 무엇이 문제인가?",
+  "published_at": "2026-10-25T06:06:57+00:00",
+  "collected_at": "2026-10-25T09:44:24.123386+00:00",
+  "title_ko": "범용 생성형 AI의 데이터 사용과 의존성 문제",
+  "summary_ko": "공개 데이터 학습과 사고를 대체하는 범용 생성형 AI의 확산에 따른 기업 권력 집중과 윤리적 문제가 제기되었습니다.",
+  "category": "참고",
+  "tags": [
+   "규제",
+   "생성형 AI"
+  ]
+ },
+ {
+  "id": "cc18b4a0c51fabee",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeuk0q/imp_news_backdooring_the_local_models/",
+  "source": "r/LocalLLaMA",
+  "title": "Imp : News backdooring the local models",
+  "published_at": "2026-10-25T06:03:55+00:00",
+  "collected_at": "2026-10-25T09:44:09.715236+00:00",
+  "title_ko": "로컬 AI 모델의 백도어 취약점 연구 공개",
+  "summary_ko": "제거된 모델(abliterated model)이 보안 취약점을 유발할 수 있다는 연구 결과가 공개되었습니다. 로컬 AI 모델 사용 시 보안 리스크를 점검하는 데 중요한 참고 자료입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "AI 보안"
+  ]
+ },
+ {
   "id": "3f4411641544ff7b",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xesda1/benchmark_stratabasalt_runs_qwen38_flash_next_iq3/",
   "source": "r/LocalLLaMA",
@@ -59,6 +194,21 @@
    "오픈소스",
    "반도체",
    "코딩"
+  ]
+ },
+ {
+  "id": "325a829b858da832",
+  "url": "https://github.com/slee-persis/GVS5H",
+  "source": "Hacker News",
+  "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+  "published_at": "2026-10-25T03:56:01+00:00",
+  "collected_at": "2026-10-25T09:43:55.950883+00:00",
+  "title_ko": "Qwen 모델 기반 성능 평가 결과 발표",
+  "summary_ko": "새로운 평가 하네스를 활용하여 Qwen 모델들이 특정 벤치마크와 일치하는 성능을 보여주었습니다. 오픈소스 LLM의 성능 비교에 유용한 지표를 제공합니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
   ]
  },
  {
@@ -168,6 +318,21 @@
   ]
  },
  {
+  "id": "c35e0b6aa8bd30fa",
+  "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+  "source": "Hacker News",
+  "title": "Cerebras Deploys Trillion-Parameter AI Models",
+  "published_at": "2026-10-25T01:33:49+00:00",
+  "collected_at": "2026-10-25T09:43:55.950883+00:00",
+  "title_ko": "세레브라스, 조 단위 파라미터 AI 모델 배포",
+  "summary_ko": "세레브라스가 하드웨어 인프라를 활용해 조 단위 파라미터 규모의 거대언어모델을 배포하는 방식을 공개했습니다. 대규모 AI 모델 추론 및 배포 효율성을 높이는 데 기여합니다.",
+  "category": "중요",
+  "tags": [
+   "반도체",
+   "AI 인프라"
+  ]
+ },
+ {
   "id": "c366a1c31cb26366",
   "url": "https://news.hada.io/topic?id=35947",
   "source": "GeekNews",
@@ -255,6 +420,22 @@
   "tags": [
    "규제",
    "투자"
+  ]
+ },
+ {
+  "id": "5482a958cd28ddfc",
+  "url": "https://news.hada.io/topic?id=35940",
+  "source": "GeekNews",
+  "title": "Show GN: 비개발자용 클로드 코드 업무 비서 뼈대",
+  "published_at": "2026-10-24T22:24:52+00:00",
+  "collected_at": "2026-10-25T09:44:24.123386+00:00",
+  "title_ko": "비개발자를 위한 클로드 코드 업무 비서 뼈대 공개",
+  "summary_ko": "B2B 영업 비개발자가 클로드 코드를 활용해 이메일과 일정 등을 관리하는 업무 자동화 구조를 공유했습니다. 실무에서 AI 도구를 적용하는 좋은 팁을 제공합니다.",
+  "category": "팁",
+  "tags": [
+   "Claude",
+   "AI 에이전트",
+   "코딩"
   ]
  },
  {
@@ -619,6 +800,21 @@
    "오픈소스",
    "반도체",
    "로컬LLM"
+  ]
+ },
+ {
+  "id": "a2ab57efc2fc4ba7",
+  "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+  "source": "Hacker News",
+  "title": "Neural chip decodes interactions between brain regions",
+  "published_at": "2026-10-24T15:57:17+00:00",
+  "collected_at": "2026-10-25T09:43:55.950883+00:00",
+  "title_ko": "뇌 신경 칩을 통한 뇌 영역 간 상호작용 해독",
+  "summary_ko": "신경 칩 기술을 활용해 뇌의 서로 다른 영역 간의 상호작용을 해독하는 연구가 발표되었습니다. 뉴로모픽 및 뇌-컴퓨터 인터페이스 분야의 중요한 발전입니다.",
+  "category": "중요",
+  "tags": [
+   "반도체",
+   "로보틱스"
   ]
  },
  {
