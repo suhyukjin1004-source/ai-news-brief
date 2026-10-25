@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T09:44:35.073683+00:00",
+ "updated_at": "2026-10-25T14:17:29.481933+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -82,6 +82,112 @@
    ]
   },
   {
+   "id": "611184d5aa6fabe3",
+   "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+   "source": "TechCrunch",
+   "title": "The hottest AI wearables and gadgets you should know about",
+   "published_at": "2026-10-25T14:10:00+00:00",
+   "collected_at": "2026-10-25T14:16:31.033869+00:00",
+   "title_ko": "주요 AI 웨어러블 및 가젯 모음",
+   "summary_ko": "Muse Charm, Bee, Friend 등 최신 AI 웨어러블 기기들의 동향을 정리했습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 웨어러블",
+    "하드웨어"
+   ]
+  },
+  {
+   "id": "6bffee9c13e86ea3",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+   "source": "The Verge",
+   "title": "r/opensource just banned AI, non-English speakers, and more",
+   "published_at": "2026-10-25T13:25:32+00:00",
+   "collected_at": "2026-10-25T14:16:31.157696+00:00",
+   "title_ko": "레딧 오픈소스 커뮤니티의 AI 프로젝트 금지",
+   "summary_ko": "r/opensource 커뮤니티가 AI로 제작되거나 AI를 사용하는 프로젝트의 제출을 금지하는 새로운 규칙을 도입했습니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "규제"
+   ]
+  },
+  {
+   "id": "2f6010cc8488e7f2",
+   "url": "https://news.hada.io/topic?id=35971",
+   "source": "GeekNews",
+   "title": "Corgi, 편리한 에이전트/터미널 멀티플렉서",
+   "published_at": "2026-10-25T12:37:48+00:00",
+   "collected_at": "2026-10-25T14:17:22.373817+00:00",
+   "title_ko": "Corgi: 멀티 에이전트 및 터미널 관리 도구",
+   "summary_ko": "다양한 AI 코딩 에이전트와 터미널을 작업 공간별로 한눈에 관리하고 재개할 수 있는 도구입니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "코딩",
+    "도구"
+   ]
+  },
+  {
+   "id": "53eb1b1785115014",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf14j2/luretts_and_lureturbo_600m_voice_models_to_run_4x/",
+   "source": "r/LocalLLaMA",
+   "title": "Lure-TTS and Lure-Turbo: 600M voice models to run 4x faster than real time, with inline (tags), direction, and voice cloning. Trained for under $200.",
+   "published_at": "2026-10-25T12:29:32+00:00",
+   "collected_at": "2026-10-25T14:17:05.831147+00:00",
+   "title_ko": "저렴하게 학습 가능한 고속 음성 모델 Lure-TTS",
+   "summary_ko": "Qwen3-TTS 기반의 600M 음성 모델로, 200달러 미만의 비용으로 학습되어 실시간보다 4배 빠른 속도와 음성 복제를 지원합니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "음성 AI"
+   ]
+  },
+  {
+   "id": "6a80a7e36c280c48",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf11qj/backup_your_quants/",
+   "source": "r/LocalLLaMA",
+   "title": "Backup your quants!",
+   "published_at": "2026-10-25T12:25:39+00:00",
+   "collected_at": "2026-10-25T14:17:05.831147+00:00",
+   "title_ko": "로컬 LLM 양자화 모델 백업 권고",
+   "summary_ko": "주요 양자화 모델 저장소의 변동에 대비해 사용자가 직접 모델을 백업하고 토렌트를 공유할 것을 권장하는 소식입니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "로컬 LLM"
+   ]
+  },
+  {
+   "id": "0a50a0ec1bc0de02",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf0kz4/nanbeigenanbeige4333b_hugging_face/",
+   "source": "r/LocalLLaMA",
+   "title": "Nanbeige/Nanbeige4.3-33B · Hugging Face",
+   "published_at": "2026-10-25T12:01:34+00:00",
+   "collected_at": "2026-10-25T14:17:05.831147+00:00",
+   "title_ko": "성능 향상된 33B 오픈소스 모델 Nanbeige4.3",
+   "summary_ko": "다양한 벤치마크에서 우수한 성능을 보이는 Nanbeige4.3-33B 모델이 공개되었으며 향후 소형 모델 증류의 기반이 될 예정입니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "6f9ed043fa8a1513",
+   "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+   "source": "The Verge",
+   "title": "Google’s AI search changes upended online publishing",
+   "published_at": "2026-10-25T12:00:00+00:00",
+   "collected_at": "2026-10-25T14:16:31.157696+00:00",
+   "title_ko": "구글의 AI 검색 도입이 온라인 퍼블리싱에 미친 영향",
+   "summary_ko": "구글 검색의 AI 기능 도입이 디지털 퍼블리싱 산업 생태계와 트래픽 구조를 어떻게 변화시켰는지 분석합니다.",
+   "category": "참고",
+   "tags": [
+    "Google",
+    "검색"
+   ]
+  },
+  {
    "id": "01e3a95d2caf10f6",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216623",
    "source": "AI타임스",
@@ -95,6 +201,21 @@
     "OpenAI",
     "Grok",
     "규제"
+   ]
+  },
+  {
+   "id": "41ee7600cff5516b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xezdgs/flash_next_q2_on_a_24gb_m5_macbook_air_49_ts/",
+   "source": "r/LocalLLaMA",
+   "title": "Flash Next (Q2) on a 24GB M5 MacBook Air: 49 t/s decode with Splash expert streaming",
+   "published_at": "2026-10-25T10:55:18+00:00",
+   "collected_at": "2026-10-25T14:17:05.831147+00:00",
+   "title_ko": "맥북 에어에서 구동되는 고속 대형 언어 모델",
+   "summary_ko": "애플 실리콘 맥북 에어 환경에서 전문가 스트리밍 기법을 활용해 대형 모델을 고속으로 디코딩하는 실험 결과입니다.",
+   "category": "팁",
+   "tags": [
+    "로컬 LLM",
+    "하드웨어"
    ]
   },
   {
@@ -113,6 +234,21 @@
    ]
   },
   {
+   "id": "5431bd7fa76bae5b",
+   "url": "https://twitter.com/mike64_t/status/2114150399406202896",
+   "source": "Hacker News",
+   "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+   "published_at": "2026-10-25T10:42:01+00:00",
+   "collected_at": "2026-10-25T14:17:04.475278+00:00",
+   "title_ko": "삼성의 텐서플로우 라이트 모델 활용 추적",
+   "summary_ko": "삼성 기기에서 머신러닝 모델을 활용해 사용자 추적 기능을 수행하는 방식에 대한 분석입니다.",
+   "category": "참고",
+   "tags": [
+    "TensorFlow",
+    "모바일"
+   ]
+  },
+  {
    "id": "66784564193909e7",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216624",
    "source": "AI타임스",
@@ -125,6 +261,83 @@
    "tags": [
     "AI 에이전트",
     "인프라"
+   ]
+  },
+  {
+   "id": "ed849a13eb4199aa",
+   "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+   "source": "Hacker News",
+   "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+   "published_at": "2026-10-25T09:51:17+00:00",
+   "collected_at": "2026-10-25T14:17:05.077787+00:00",
+   "title_ko": "AI 생성 판정으로 박탈된 사진전 수상 자격",
+   "summary_ko": "전문가들이 AI 생성 흔적을 발견함에 따라 니콘 사진 콘테스트 수상작의 타이틀이 취소되었습니다.",
+   "category": "속보",
+   "tags": [
+    "생성형 AI"
+   ]
+  },
+  {
+   "id": "95ac1cdb0d92ea86",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xey0uw/cuda_fuse_ffn_gateup_matmuls_and_glu_in_mmq_with/",
+   "source": "r/LocalLLaMA",
+   "title": "CUDA: fuse FFN gate/up matmuls and GLU in MMQ with interleaved gate/up rows by anujj · Pull Request #29948 · ggml-org/llama.cpp",
+   "published_at": "2026-10-25T09:35:12+00:00",
+   "collected_at": "2026-10-25T14:17:05.831147+00:00",
+   "title_ko": "llama.cpp의 CUDA FFN 연산 최적화",
+   "summary_ko": "llama.cpp에서 FFN 게이트와 GLU 연산을 융합하여 주요 LLM 구동 시 토큰 처리 속도를 최대 10% 이상 향상시킨 업데이트입니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "NVIDIA",
+    "반도체"
+   ]
+  },
+  {
+   "id": "f1dfe94ceb3e5a7b",
+   "url": "https://news.hada.io/topic?id=35965",
+   "source": "GeekNews",
+   "title": "Cerebras, 조 단위 파라미터 AI 모델 배포",
+   "published_at": "2026-10-25T09:34:04+00:00",
+   "collected_at": "2026-10-25T14:17:22.373817+00:00",
+   "title_ko": "Cerebras, 조 단위 파라미터 AI 모델 실시간 구동",
+   "summary_ko": "Cerebras가 웨이퍼 스케일 하드웨어를 활용해 수조 개 파라미터의 대형 모델을 초당 수천 토큰의 속도로 구동하는 기술을 선보였습니다.",
+   "category": "중요",
+   "tags": [
+    "반도체",
+    "LLM",
+    "인프라"
+   ]
+  },
+  {
+   "id": "32fe6bd85f52d000",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xexi6v/about_running_deepseek_41_flash/",
+   "source": "r/LocalLLaMA",
+   "title": "About running deepseek 4.1 flash",
+   "published_at": "2026-10-25T09:02:25+00:00",
+   "collected_at": "2026-10-25T14:17:05.831147+00:00",
+   "title_ko": "DeepSeek 플래시 모델 로컬 구동을 위한 하드웨어 사양 논의",
+   "summary_ko": "클라우드 수준의 속도와 성능으로 최신 AI 모델을 로컬 환경에 구축하는 데 필요한 예산과 하드웨어 요구사항을 분석했습니다. 실무 개발 및 보안 분석을 위한 효율적인 인프라 구성에 참고가 됩니다.",
+   "category": "참고",
+   "tags": [
+    "DeepSeek",
+    "오픈소스",
+    "하드웨어"
+   ]
+  },
+  {
+   "id": "5736b51626249456",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xexe1m/with_the_huge_price_hike_on_the_32gb_vram_scene/",
+   "source": "r/LocalLLaMA",
+   "title": "With the huge price hike on the 32GB VRAM scene, I’m reconsidering my purchase options. Any input or advice?",
+   "published_at": "2026-10-25T08:55:38+00:00",
+   "collected_at": "2026-10-25T14:17:05.831147+00:00",
+   "title_ko": "VRAM 가격 상승에 따른 로컬 LLM 구동용 PC 견적 재조정",
+   "summary_ko": "최근 VRAM 가격 급등으로 인해 로컬에서 대형 언어 모델을 구동하기 위한 하드웨어 구매 전략과 PC 업그레이드 방안을 논의했습니다. 개인 개발자들이 비용 효율적인 AI 구동 환경을 구축하는 데 도움이 됩니다.",
+   "category": "팁",
+   "tags": [
+    "하드웨어",
+    "오픈소스"
    ]
   },
   {
@@ -2743,214 +2956,6 @@
    "summary_ko": "과학자들이 인간 배양 미니 뇌를 이용해 휴머노이드 로봇을 제어하는 데 성공함. 제한된 테스트에서 기존 신경망보다 뛰어난 학습 및 조작 능력을 보여줌.",
    "category": "중요",
    "tags": [
-    "로보틱스"
-   ]
-  },
-  {
-   "id": "43828fa6be227be6",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd8al3/anyone_checked_gpu_unlock_for_rtx_3040_cards/",
-   "source": "r/LocalLLaMA",
-   "title": "Anyone checked gpu unlock for rtx 30-40 cards?",
-   "published_at": "2026-10-23T08:23:23+00:00",
-   "collected_at": "2026-10-23T09:56:11.340199+00:00",
-   "title_ko": "RTX 30·40 시리즈 GPU 성능 잠금 해제 도구 등장",
-   "summary_ko": "드라이버 모듈을 통해 RTX 3090 등의 텐서 연산 성능을 대폭 향상시키는 커스텀 언락 기법이 공유되었습니다. 하드웨어 성능 활용 효율을 높여 로컬 LLM 추론에 영향을 줄 수 있습니다.",
-   "category": "팁",
-   "tags": [
-    "NVIDIA",
-    "반도체"
-   ]
-  },
-  {
-   "id": "92738593b8f54678",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd87wu/qwen306b_model_converted_into_moe/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3-0.6B model converted into MoE",
-   "published_at": "2026-10-23T08:18:42+00:00",
-   "collected_at": "2026-10-23T09:56:11.340199+00:00",
-   "title_ko": "Qwen3-0.6B 기반 MoE 모델 공개",
-   "summary_ko": "Qwen3-0.6B 소형 언어모델을 혼합 전문가(MoE) 아키텍처로 변환한 오픈소스 모델이 공개되었습니다. GGUF 호환성을 유지하여 일반 사용자의 로컬 구동 편의성을 높였습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "4a81242f385d93d5",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd85ki/tencentwevisonevl4b_hugging_face/",
-   "source": "r/LocalLLaMA",
-   "title": "tencent/WeVisOne-VL-4B · Hugging Face",
-   "published_at": "2026-10-23T08:14:41+00:00",
-   "collected_at": "2026-10-23T09:56:11.340199+00:00",
-   "title_ko": "텐센트 위챗 비전, 통합 시각 언어모델 WeVisOne-VL 공개",
-   "summary_ko": "Qwen3-VL을 기반으로 객체 수준과 픽셀 수준의 시각 인식을 통합한 비전-언어 모델이 공개되었습니다. 다양한 이미지 인식 및 OCR 작업을 효율적으로 수행합니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "Gemini"
-   ]
-  },
-  {
-   "id": "573828b68cfe04cb",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd7ptj/models_disappearing_from_huggingface/",
-   "source": "r/LocalLLaMA",
-   "title": "Models disappearing from Huggingface",
-   "published_at": "2026-10-23T07:47:43+00:00",
-   "collected_at": "2026-10-23T09:56:11.340199+00:00",
-   "title_ko": "허깅페이스 내 일부 커스텀 및 검열 해제 모델 소실 현상",
-   "summary_ko": "허깅페이스에서 특정 커스텀 및 검열 해제(abliterated) 모델들이 갑자기 다운로드 불가 상태가 되는 현상이 보고되었습니다. 플랫폼 내 모델 관리 정책에 관심이 쏠리고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "92301a3d39f04aef",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd7ewr/ornith_15_35b_a3b_is_way_better_than_flint/",
-   "source": "r/LocalLLaMA",
-   "title": "Ornith 1.5 35B A3B is way better than Flint",
-   "published_at": "2026-10-23T07:29:24+00:00",
-   "collected_at": "2026-10-23T09:56:11.340199+00:00",
-   "title_ko": "오픈소스 LLM 'Ornith 1.5 35B' 성능 호평",
-   "summary_ko": "새로 공개된 Ornith 1.5 35B 모델이 기존 모델 대비 환각 현상이 적고 논리적 답변 능력이 우수하다는 사용자 평가가 이어지고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "9de599e4bd34188c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd6r9h/paper_latentloop_scaling_looped_moe_models_with/",
-   "source": "r/LocalLLaMA",
-   "title": "[Paper] LatentLoop: Scaling Looped MoE Models with Asymmetric Compute Allocation",
-   "published_at": "2026-10-23T06:50:13+00:00",
-   "collected_at": "2026-10-23T09:56:11.340199+00:00",
-   "title_ko": "비대칭 연산 할당을 통한 Looped MoE 확장 연구 논문",
-   "summary_ko": "반복적인 루프 구조를 가진 MoE 모델에서 연산 자원을 효율적으로 배분하는 비대칭 연산 할당 기법이 제안되었습니다. 모델 성능을 유지하면서도 효율성을 개선할 수 있습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "8db2bf743b5d8d77",
-   "url": "https://berget.ai/en/blog/per-request-co2-press-release",
-   "source": "Hacker News",
-   "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
-   "published_at": "2026-10-23T06:41:11+00:00",
-   "collected_at": "2026-10-23T09:56:10.407323+00:00",
-   "title_ko": "지역별 전력원 차이에 따른 AI 연산 탄소 배출량 격차",
-   "summary_ko": "동일한 AI 요청을 처리할 때 스웨덴에 비해 텍사스에서 최대 8.5배 많은 CO2가 배출된다는 분석이 나왔습니다. 데이터센터의 입지와 전력 구성이 AI 환경에 미치는 영향을 보여줍니다.",
-   "category": "참고",
-   "tags": [
-    "인프라"
-   ]
-  },
-  {
-   "id": "866546d170e472dd",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd6dfr/paper_pnmix_pairnorm_guided_mixedprecision_key/",
-   "source": "r/LocalLLaMA",
-   "title": "[Paper] PN-Mix: Pair-Norm Guided Mixed-Precision Key Cache Quantization for Efficient Long-Output LLM Inference",
-   "published_at": "2026-10-23T06:26:24+00:00",
-   "collected_at": "2026-10-23T09:56:11.340199+00:00",
-   "title_ko": "장문 LLM 추론을 위한 혼합 정밀도 KV 캐시 양자화 기법",
-   "summary_ko": "장문 컨텍스트 추론 시 발생하는 메모리 병목 현상을 해결하기 위해 중요도 기반의 키 캐시 혼합 정밀도 양자화 기법이 제안되었습니다. 정확도 저하를 최소화하면서 추론 효율을 높입니다.",
-   "category": "참고",
-   "tags": [
-    "반도체",
-    "LLM"
-   ]
-  },
-  {
-   "id": "7f444f5e62d97498",
-   "url": "https://www.reddit.com/r/singularity/comments/1xd5von/claude_made_a_documentary_about_life_after_the/",
-   "source": "r/singularity",
-   "title": "Claude made a documentary about life after the singularity",
-   "published_at": "2026-10-23T05:57:42+00:00",
-   "collected_at": "2026-10-24T05:41:08.949013+00:00",
-   "title_ko": "클로드와 멀티에이전트로 제작한 특이점 이후 다큐멘터리",
-   "summary_ko": "다양한 AI 모델과 에이전트를 활용해 기획부터 영상 생성, 음성 합성까지 전 과정을 자동화하여 특이점 이후의 삶을 다룬 유튜브 다큐멘터리를 제작했습니다. 최신 AI 도구들의 창작물 활용 가능성을 보여줍니다.",
-   "category": "참고",
-   "tags": [
-    "Claude",
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "ad35156de6a77f34",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd5s0n/paper_meta_expert_crosslayer_expert_sharing_for/",
-   "source": "r/LocalLLaMA",
-   "title": "[Paper] Meta Expert: Cross-Layer Expert Sharing for Storage- and Retrieval-Efficient MoE",
-   "published_at": "2026-10-23T05:51:37+00:00",
-   "collected_at": "2026-10-23T09:56:11.340199+00:00",
-   "title_ko": "레이어 간 전문가 공유를 통한 효율적 MoE 아키텍처 연구",
-   "summary_ko": "기존 MoE 모델의 층별 전문가 중복을 줄이고 레이어 간 공유 가능한 '메타 전문가' 구조를 도입해 저장 및 검색 효율을 높이는 방법론이 제시되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "91dacc72b70b13f4",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd5hwe/paper_pace_periodic_and_channelaligned_encoding/",
-   "source": "r/LocalLLaMA",
-   "title": "[Paper] PACE: Periodic and Channel-Aligned Encoding of Four-Bit Recurrent States",
-   "published_at": "2026-10-23T05:35:20+00:00",
-   "collected_at": "2026-10-23T09:56:11.340199+00:00",
-   "title_ko": "선형 어텐션 모델을 위한 4비트 순환 상태 양자화 기법 PACE",
-   "summary_ko": "선형 어텐션 LLM의 메모리 점유율을 줄이기 위해 주기적으로 상태를 양자화하는 PACE 알고리즘이 소개되었습니다. 정확도 손실 없이 더 많은 시퀀스를 동시에 처리할 수 있습니다.",
-   "category": "참고",
-   "tags": [
-    "반도체"
-   ]
-  },
-  {
-   "id": "58eaf6a20cebee25",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd4mlk/nemotron35embed_parse_and_rerank/",
-   "source": "r/LocalLLaMA",
-   "title": "Nemotron-3.5-Embed, Parse, and Rerank",
-   "published_at": "2026-10-23T04:46:23+00:00",
-   "collected_at": "2026-10-23T09:56:11.340199+00:00",
-   "title_ko": "엔비디아, Nemotron-3.5 임베디드 및 리랭크 모델 공개",
-   "summary_ko": "엔비디아가 Nemotron 임베딩, 파싱, 리랭킹 모델을 3.5 버전으로 대거 업데이트했습니다. 검색 증강 생성(RAG) 파이프라인의 성능 향상에 기여할 것으로 기대됩니다.",
-   "category": "속보",
-   "tags": [
-    "NVIDIA",
-    "LLM"
-   ]
-  },
-  {
-   "id": "032953d338b65cc5",
-   "url": "https://news.hada.io/topic?id=35855",
-   "source": "GeekNews",
-   "title": "LLM이 훨씬 더 큰 규모의 소프트웨어 정형 검증을 가능하게 하고 있음",
-   "published_at": "2026-10-23T04:36:53+00:00",
-   "collected_at": "2026-10-23T09:56:26.363018+00:00",
-   "title_ko": "Claude를 활용한 대규모 소프트웨어 정형 검증 가능성 대두",
-   "summary_ko": "Anthropic과 Theorem이 Claude를 이용해 오픈소스 라이브러리의 퍼징 진입점을 정형 검증하고 버그를 수정하는 데 성공했습니다. LLM이 복잡한 코드 안전성 증명 작업에 활용될 수 있음을 보여줍니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "Claude",
-    "코딩"
-   ]
-  },
-  {
-   "id": "3602c8887bef48ae",
-   "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-   "source": "TechCrunch",
-   "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-   "published_at": "2026-10-23T04:00:00+00:00",
-   "collected_at": "2026-10-23T04:34:03.033235+00:00",
-   "title_ko": "인드라이브, 포니닷에이아이 및 엔비디아와 로보택시 테스트 추진",
-   "summary_ko": "모빌리티 플랫폼 인드라이브가 2027년 전반기 카자흐스탄에서 포니닷에이아이의 기술을 활용한 로보택시 테스트를 시작합니다. 자율주행 서비스의 지역 다각화가 진행되고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "NVIDIA",
     "로보틱스"
    ]
   }
