@@ -121,6 +121,213 @@
   ]
  },
  {
+  "id": "9edc73f2ee050d72",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xftcj0/qwen427bs_4way_hc_shift/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen4-27B's 4-way HC shift?",
+  "published_at": "2026-10-26T10:42:26+00:00",
+  "collected_at": "2026-10-26T12:47:13.236433+00:00",
+  "title_ko": "Qwen4-27B 아키텍처 변경 및 성능 개선 포착",
+  "summary_ko": "오픈소스 진영에서 Qwen4-27B 모델이 4중 병렬 잔차 스트림 구조를 도입해 고정된 파라미터 예산에서 정보 밀도를 높인 정황이 포착되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "09113f262cce3e25",
+  "url": "https://news.hada.io/topic?id=36034",
+  "source": "GeekNews",
+  "title": "PaperPilot - 클라우드 없이 WASM과 MCP를 지원하는 순수 Rust PDF 엔진",
+  "published_at": "2026-10-26T10:34:13+00:00",
+  "collected_at": "2026-10-26T12:47:27.459791+00:00",
+  "title_ko": "클라우드 없는 로컬 Rust PDF 엔진 'PaperPilot' 공개",
+  "summary_ko": "WASM과 MCP를 지원하는 순수 Rust 기반 PDF 툴킷으로, 외부 전송 없이 AI 에이전트와 연동해 문서 처리가 가능합니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스",
+   "Claude"
+  ]
+ },
+ {
+  "id": "fb214dcd850fd9cf",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xft2ae/have_8_gb_of_vram_and_32_gb_of_ram_you_can_run/",
+  "source": "r/LocalLLaMA",
+  "title": "Have 8 GB of VRAM and 32 GB of RAM? You can run Qwen 3.8 Flash Next at up to 900 t/s PP and 30 t/s TG!",
+  "published_at": "2026-10-26T10:26:48+00:00",
+  "collected_at": "2026-10-26T12:47:13.236433+00:00",
+  "title_ko": "일반 소비자 하드웨어에서 구동되는 Qwen 3.8 Flash Next",
+  "summary_ko": "8GB VRAM과 32GB RAM 환경에서 Qwen 3.8 Flash Next를 구동하여 고속 토큰 생성 성능을 달성한 테스트 결과가 공유되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "990d1fc9b89f7de3",
+  "url": "https://news.hada.io/topic?id=36032",
+  "source": "GeekNews",
+  "title": "Show GN: Visualization Autocomplete - 다음 단계를 추천받으며 차트를 만드는 웹 도구",
+  "published_at": "2026-10-26T09:16:45+00:00",
+  "collected_at": "2026-10-26T12:47:27.459791+00:00",
+  "title_ko": "차트 제작을 돕는 웹 도구 'Visualization Autocomplete'",
+  "summary_ko": "연구 기반으로 제작된 웹 서비스로, 다음 단계를 추천받으며 인터랙티브하게 차트를 만들 수 있습니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "466b16b57516128a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfrti9/qwen4_expectations/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen4 expectations",
+  "published_at": "2026-10-26T09:12:44+00:00",
+  "collected_at": "2026-10-26T12:47:13.236433+00:00",
+  "title_ko": "Qwen4에 대한 기대감과 최신 플래시 모델 평가",
+  "summary_ko": "Qwen 3.8 Flash Next의 압도적인 성능에 힘입어 차세대 Qwen4 모델에 대한 업계의 기대감이 고조되고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "9de310eae81def24",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfrgt5/tencenthysimulmt30ba3b_hugging_face/",
+  "source": "r/LocalLLaMA",
+  "title": "tencent/Hy-SimulMT-30B-A3B · Hugging Face",
+  "published_at": "2026-10-26T08:51:23+00:00",
+  "collected_at": "2026-10-26T12:47:13.236433+00:00",
+  "title_ko": "텐센트, 실시간 양방향 음성 번역 모델 공개",
+  "summary_ko": "텐센트 훈원이 개발한 Hy-SimulMT-30B는 실시간으로 음성을 인식해 음성 복제 기술을 적용한 양방향 통번역을 지원합니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "f728b66851645e9e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfrek0/qwen38flashnext_swift_15_vs_unsloth_on_strix_halo/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-Flash-Next: Swift 1.5 vs Unsloth on Strix Halo (Halogen, gufo, llama.cpp, UD-Q4_K_XL and IQ4_XS)",
+  "published_at": "2026-10-26T08:47:16+00:00",
+  "collected_at": "2026-10-26T12:47:13.236433+00:00",
+  "title_ko": "Qwen 3.8 Flash Next 파생 모델 벤치마크 비교",
+  "summary_ko": "생각하는 토큰 수를 줄인 Swift 1.5 변형 모델과 기존 설정을 다양한 런타임 환경에서 비교한 효율성 분석 결과입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "c333e04ab55a400a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfqj4p/3090_died_looking_for_replacement_card/",
+  "source": "r/LocalLLaMA",
+  "title": "3090 died, looking for replacement card",
+  "published_at": "2026-10-26T07:51:19+00:00",
+  "collected_at": "2026-10-26T12:47:13.236433+00:00",
+  "title_ko": "LLM 로컬 구동을 위한 GPU 교체 수요 급증",
+  "summary_ko": "로컬 LLM 구동에 주로 쓰이던 RTX 3090 고장 이후, 치솟은 가격과 블랙웰 제품군의 제한된 VRAM으로 인해 대체 그래픽카드 선택지가 논의되고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "35cb9368dd986730",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfqi2d/boro64ternarynemotron35lightning30ba3bgguf/",
+  "source": "r/LocalLLaMA",
+  "title": "boro64/Ternary-Nemotron-3.5-Lightning-30B-A3B-GGUF · Hugging Face",
+  "published_at": "2026-10-26T07:49:18+00:00",
+  "collected_at": "2026-10-26T12:47:13.236433+00:00",
+  "title_ko": "저사양 GPU용 368K 컨텍스트 지원 Ternary Nemotron 30B 공개",
+  "summary_ko": "1.58비트 양자화 기술을 적용하여 12GB VRAM에서도 긴 컨텍스트와 빠른 속도로 구동되는 MoE 모델이 출시되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "4b1781c46ce2cd61",
+  "url": "https://news.hada.io/topic?id=36028",
+  "source": "GeekNews",
+  "title": "Show GN: 미르코드 (Mirr Code) - 자체 모델 기반 한국어 우선 코딩 에이전트",
+  "published_at": "2026-10-26T07:47:39+00:00",
+  "collected_at": "2026-10-26T12:47:27.459791+00:00",
+  "title_ko": "한국어 우선 자체 모델 코딩 에이전트 '미르코드' 출시",
+  "summary_ko": "터미널 기반 TUI 환경에서 작동하는 한국어 특화 AI 코딩 에이전트로, 자체 모델을 활용해 파일 탐색 및 코드 수정을 수행합니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "d20b2484c8bc9515",
+  "url": "https://news.hada.io/topic?id=36024",
+  "source": "GeekNews",
+  "title": "IBM CEO, “오픈 웨이트 모델은 이제 온프레미스에서 성능도 좋고 비용도 저렴하다”",
+  "published_at": "2026-10-26T06:36:53+00:00",
+  "collected_at": "2026-10-26T12:47:27.459791+00:00",
+  "title_ko": "IBM CEO, 온프레미스 오픈 웨이트 모델의 비용 효율성 강조",
+  "summary_ko": "IBM CEO가 오픈 웨이트 모델이 최첨단 모델 대비 저렴한 비용으로 기업 업무에 충분한 성능을 낸다고 밝혔습니다. 기업의 자체 구축(온프레미스) AI 도입이 가속화될 전망입니다.",
+  "category": "중요",
+  "tags": [
+   "IBM",
+   "오픈소스",
+   "투자"
+  ]
+ },
+ {
+  "id": "60d868f46d2c02db",
+  "url": "https://news.hada.io/topic?id=36023",
+  "source": "GeekNews",
+  "title": "엔비디아 Nemotron 3.5 Bolt E4B, 한국어 문서 RAG에선 바탕 모델 gemma4 E4B와 차이 없음 (299문항 실측)",
+  "published_at": "2026-10-26T06:28:48+00:00",
+  "collected_at": "2026-10-26T12:47:27.459791+00:00",
+  "title_ko": "엔비디아 Nemotron 3.5 Bolt E4B 한국어 RAG 성능 평가",
+  "summary_ko": "엔비디아의 소형 모델 Nemotron 3.5 Bolt E4B와 원본 모델의 한국어 문서 RAG 성능을 비교한 결과 유의미한 차이가 없었습니다. 소형 언어 모델의 실무 활용성을 가늠하는 참고 자료가 됩니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "3f3407c13aa69827",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfovxr/researchers_from_stanford_and_uc_berkeley/",
+  "source": "r/LocalLLaMA",
+  "title": "Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster",
+  "published_at": "2026-10-26T06:06:01+00:00",
+  "collected_at": "2026-10-26T12:47:13.236433+00:00",
+  "title_ko": "스탠퍼드·버클리 연구진, 긴 문맥 처리 속도 11배 높이는 'TokenGate' 발표",
+  "summary_ko": "스탠퍼드와 UC 버클리 연구진이 토큰 게이트 어텐션 기법을 통해 긴 문맥의 사전 학습(Prefill) 속도를 최대 11.3배까지 향상시켰습니다. 대형 언어 모델의 처리 효율성을 극적으로 높여줍니다.",
+  "category": "중요",
+  "tags": [
+   "LLM",
+   "반도체"
+  ]
+ },
+ {
+  "id": "1bb180ff27723496",
+  "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+  "source": "Hacker News",
+  "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
+  "published_at": "2026-10-26T04:11:40+00:00",
+  "collected_at": "2026-10-26T12:47:12.320363+00:00",
+  "title_ko": "AI 공포와 초기 자본주의의 유사성 분석",
+  "summary_ko": "AI 기술 확산에 대한 사회적 공포와 패닉이 과거 초기 자본주의 시절의 두려움과 유사하다는 분석입니다. 기술 발전이 가져오는 사회적 인식 변화를 이해하는 데 도움을 줍니다.",
+  "category": "참고",
+  "tags": [
+   "규제",
+   "투자"
+  ]
+ },
+ {
   "id": "e15f87eb6fdbdea7",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xflw1l/is_the_horror_story_about_ai_agent_mass_deleting/",
   "source": "r/LocalLLaMA",
@@ -159,6 +366,20 @@
   "collected_at": "2026-10-26T05:59:51.163804+00:00",
   "title_ko": "핀터레스트, 사용자 장기 목표 추론용 LLM 구축",
   "summary_ko": "핀터레스트가 검색 및 저장 기록을 바탕으로 사용자의 장기 목표를 추론하는 미세 조정 LLM을 도입했습니다.",
+  "category": "참고",
+  "tags": [
+   "LLM"
+  ]
+ },
+ {
+  "id": "82dace83258b7323",
+  "url": "https://arxiv.org/abs/2512.19428",
+  "source": "Hacker News",
+  "title": "Attention Is Not What You Need (2025)",
+  "published_at": "2026-10-25T23:52:05+00:00",
+  "collected_at": "2026-10-26T12:47:10.573049+00:00",
+  "title_ko": "트랜스포머 아키텍처의 한계를 다룬 논문 'Attention Is Not What You Need'",
+  "summary_ko": "기존 트랜스포머의 핵심인 어텐션 메커니즘을 재조명하고 대안을 모색하는 최신 연구 논문입니다. 향후 AI 모델 구조의 변화 방향을 시사합니다.",
   "category": "참고",
   "tags": [
    "LLM"
@@ -223,6 +444,20 @@
   "tags": [
    "오픈소스",
    "LLM"
+  ]
+ },
+ {
+  "id": "30339954eaf3af29",
+  "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+  "source": "Hacker News",
+  "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+  "published_at": "2026-10-25T22:49:06+00:00",
+  "collected_at": "2026-10-26T12:47:12.320363+00:00",
+  "title_ko": "아폴로 분석, 테크 업계 외 AI의 재무적 성과 '제로' 수준",
+  "summary_ko": "글로벌 투자사 아폴로의 분석에 따르면 테크 산업을 제외한 일반 기업에서 아직 AI 도입에 따른 가시적인 재무적 성과가 나타나지 않았습니다. 기업들의 AI ROI에 대한 현실적인 평가를 보여줍니다.",
+  "category": "중요",
+  "tags": [
+   "투자"
   ]
  },
  {
@@ -474,6 +709,20 @@
   "category": "중요",
   "tags": [
    "OpenAI"
+  ]
+ },
+ {
+  "id": "f27e36157157d23a",
+  "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
+  "source": "Hacker News",
+  "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
+  "published_at": "2026-10-25T18:42:23+00:00",
+  "collected_at": "2026-10-26T12:47:12.320363+00:00",
+  "title_ko": "AI가 테크 업계 고용 회복을 막고 있는 이유 분석",
+  "summary_ko": "AI가 과거 테크 업계 구조조정의 직접적인 원인은 아니었으나, 현재 고용 시장의 회복을 더디게 만드는 주요 원인으로 작용하고 있다는 분석입니다. 노동 시장에 미치는 AI의 실질적 영향을 다룹니다.",
+  "category": "참고",
+  "tags": [
+   "투자"
   ]
  },
  {
