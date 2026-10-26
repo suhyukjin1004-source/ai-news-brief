@@ -1,5 +1,53 @@
 [
  {
+  "id": "8ca71cc9bd896a63",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfhhri/can_istadaslabqwen3827bgsqrcogguf_compete_with/",
+  "source": "r/LocalLLaMA",
+  "title": "Can ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF compete with UD-Q4_K_XL?",
+  "published_at": "2026-10-25T23:46:16+00:00",
+  "collected_at": "2026-10-26T00:07:40.819017+00:00",
+  "title_ko": "Qwen 기반 신규 양자화 모델 성능 비교",
+  "summary_ko": "Qwen3.8-27B 모델의 새로운 저비트 양자화 버전(GGUF)이 기존 모델과 비교해 실제 어느 정도의 성능과 속도를 내는지 논의합니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "모델"
+  ]
+ },
+ {
+  "id": "977c61368b537943",
+  "url": "https://news.hada.io/topic?id=35994",
+  "source": "GeekNews",
+  "title": "JetBrains Thinkrail - 명세로 프로젝트 지식을 유지하는 에이전트 IDE",
+  "published_at": "2026-10-25T22:33:42+00:00",
+  "collected_at": "2026-10-26T00:07:55.471321+00:00",
+  "title_ko": "젯브레인즈, 코딩 에이전트 IDE 'ThinkRail' 공개",
+  "summary_ko": "에디터와 터미널을 결합하고 지속적인 명세 관리를 통해 세션을 넘어 프로젝트 지식을 유지하는 코딩 에이전트 IDE입니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트",
+   "코딩",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "d9a3454fc5f657d3",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xff9e4/crowdgpt_a_collaboratively_trained_llm/",
+  "source": "r/LocalLLaMA",
+  "title": "CrowdGPT - A collaboratively trained LLM.",
+  "published_at": "2026-10-25T22:07:17+00:00",
+  "collected_at": "2026-10-26T00:07:40.819017+00:00",
+  "title_ko": "데이터센터 없는 협업형 LLM 학습 프로젝트 'CrowdGPT'",
+  "summary_ko": "막대한 비용과 대형 데이터센터 없이 개인이 PC로 참여해 오픈소스 LLM을 공동 학습시키는 프로젝트입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "투자"
+  ]
+ },
+ {
   "id": "9f64470352356d24",
   "url": "https://news.hada.io/topic?id=35991",
   "source": "GeekNews",
@@ -11,6 +59,36 @@
   "category": "중요",
   "tags": [
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "c68e6f925732b722",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfeho8/nanbeige4333b_quantised_gguf/",
+  "source": "r/LocalLLaMA",
+  "title": "Nanbeige4.3-33B Quantised GGUF",
+  "published_at": "2026-10-25T21:33:29+00:00",
+  "collected_at": "2026-10-26T00:07:40.819017+00:00",
+  "title_ko": "Nanbeige 33B 모델 GGUF 양자화 버전 공개",
+  "summary_ko": "Nanbeige의 신규 33B 모델에 대한 다양한 크기의 양자화 사다리(GGUF)가 공개되어 하드웨어 환경별 최적의 선택지를 제공합니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "ca2b82d6e1e86391",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfeghr/llama_swap_mobile_control/",
+  "source": "r/LocalLLaMA",
+  "title": "Llama Swap Mobile Control!",
+  "published_at": "2026-10-25T21:32:11+00:00",
+  "collected_at": "2026-10-26T00:07:40.819017+00:00",
+  "title_ko": "모바일로 로컬 LLM을 관리하는 'Llama Swap' 앱 개발",
+  "summary_ko": "이동 중에도 PC의 로컬 LLM 에이전트 성능과 로그를 모니터링할 수 있는 안드로이드 제어 앱이 개발되었습니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
   ]
  },
  {
@@ -40,6 +118,21 @@
   "tags": [
    "NVIDIA",
    "반도체"
+  ]
+ },
+ {
+  "id": "265af42c1812f28d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfe04h/tuned_strata_config_2000_pp_and_95105_mean_tg/",
+  "source": "r/LocalLLaMA",
+  "title": "Tuned Strata config, 2000 PP and 95-105 mean tg",
+  "published_at": "2026-10-25T21:12:58+00:00",
+  "collected_at": "2026-10-26T00:07:40.819017+00:00",
+  "title_ko": "로컬 LLM 구동 환경 최적화 설정 공유",
+  "summary_ko": "RTX 4090 환경에서 Qwen 모델의 컨텍스트 처리 및 디코딩 속도를 극대화하기 위한 상세한 Strata 설정 팁을 공유합니다.",
+  "category": "팁",
+  "tags": [
+   "LLM",
+   "NVIDIA"
   ]
  },
  {
