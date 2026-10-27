@@ -48,6 +48,80 @@
   ]
  },
  {
+  "id": "b17eb9dbde5d2705",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgojqz/tensor_split_over_pcie_30_x1_good_results/",
+  "source": "r/LocalLLaMA",
+  "title": "Tensor Split Over PCIe 3.0 x1 — Good Results",
+  "published_at": "2026-10-27T10:10:09+00:00",
+  "collected_at": "2026-10-27T10:23:10.823907+00:00",
+  "title_ko": "PCIe 3.0 x1 슬롯에서의 텐서 분할 성능 검증",
+  "summary_ko": "PCIe 3.0 x1 라이저 카드를 사용해 듀얼 GPU로 텐서 분할을 구동한 결과, 예상보다 병목이 적고 성능 향상이 있었다는 홈랩 구축 공유입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "NVIDIA",
+   "코딩"
+  ]
+ },
+ {
+  "id": "350bde6b5d329523",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgnhw5/i_made_pumpkin_a_graphical_manager_for_llamacpp/",
+  "source": "r/LocalLLaMA",
+  "title": "I made Pumpkin, a graphical manager for llama.cpp for my girlfriend. It turned out well, so I put it on github",
+  "published_at": "2026-10-27T09:05:13+00:00",
+  "collected_at": "2026-10-27T10:23:10.823907+00:00",
+  "title_ko": "초보자를 위한 llama.cpp GUI 관리 도구 'Pumpkin'",
+  "summary_ko": "터미널 사용이 익숙하지 않은 사용자가 로컬 LLM을 쉽게 실행할 수 있도록 하드웨어를 감지하고 최적의 양자화 모델을 설정해주는 그래픽 관리 도구입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "eb53ba03bb2faa54",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgnbtq/baiduunlimitedocr2_hugging_face/",
+  "source": "r/LocalLLaMA",
+  "title": "baidu/Unlimited-OCR-2 · Hugging Face",
+  "published_at": "2026-10-27T08:54:41+00:00",
+  "collected_at": "2026-10-27T10:23:10.823907+00:00",
+  "title_ko": "바이두, 무한 문서 파싱 지원 'Unlimited-OCR 2' 공개",
+  "summary_ko": "새로운 SR-SWA 기술을 적용해 컨텍스트 윈도우 내에서 문서 길이에 상관없이 일정한 지연 시간과 메모리로 무한대 파싱을 수행하는 OCR 모델입니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "02629b5510ed4d14",
+  "url": "https://news.hada.io/topic?id=36098",
+  "source": "GeekNews",
+  "title": "Nietzschian Debugger - 답 대신 질문으로 스스로 버그 원인을 찾게 하는 디버거",
+  "published_at": "2026-10-27T07:32:17+00:00",
+  "collected_at": "2026-10-27T10:23:25.454418+00:00",
+  "title_ko": "스스로 버그 원인을 찾게 돕는 'Nietzschian Debugger'",
+  "summary_ko": "직접적인 코드 수정 대신 질문을 통해 개발자가 스스로 가정과 추론을 검증하며 디버깅 역량을 기르도록 유도하는 AI 기반 CLI 도구입니다.",
+  "category": "팁",
+  "tags": [
+   "코딩",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "c5f7c50d4d1a0a71",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xglhtx/how_to_use_q8_ngram_with_lower_quant_qwen_38/",
+  "source": "r/LocalLLaMA",
+  "title": "How to use Q8 ngram with lower quant Qwen 3.8 Flash Next in Strata and avoid errors",
+  "published_at": "2026-10-27T06:54:21+00:00",
+  "collected_at": "2026-10-27T10:23:10.823907+00:00",
+  "title_ko": "Qwen 모델용 Q8 ngram을 활용한 성능 향상 팁",
+  "summary_ko": "VRAM 증가 없이 Qwen 모델의 출력 품질과 지능을 높이기 위해 Q8 ngram을 사이드로드하여 Strata에서 구동하는 방법입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "28a6231d179f47b7",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216689",
   "source": "AI타임스",
@@ -64,6 +138,36 @@
   ]
  },
  {
+  "id": "eb967c2830c030f6",
+  "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+  "source": "Hacker News",
+  "title": "The Mythical Man-Month in the Age of AI",
+  "published_at": "2026-10-27T06:25:37+00:00",
+  "collected_at": "2026-10-27T10:23:09.274846+00:00",
+  "title_ko": "AI 시대의 '맨 달의 신화'",
+  "summary_ko": "소프트웨어 공학 고전인 맨 달의 신화 관점에서 생성형 AI가 개발 생산성과 팀 관리 구조에 미치는 영향을 고찰한 글입니다.",
+  "category": "참고",
+  "tags": [
+   "코딩",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "65b2c93e78522d4c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgkzb9/qwen38_27b_on_one_rtx_5090_six_inference_engines/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8 27B on one RTX 5090: six inference engines benchmarked with and without DFlash2",
+  "published_at": "2026-10-27T06:20:34+00:00",
+  "collected_at": "2026-10-27T10:23:10.823907+00:00",
+  "title_ko": "RTX 5090 환경에서의 주요 LLM 추론 엔진 벤치마크",
+  "summary_ko": "단일 RTX 5090 환경에서 llama.cpp, vLLM, SGLang 등 6개 추론 엔진의 처리량과 프롬프트 성능을 비교 분석한 리포트입니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "fc37a5bd651e70a8",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216688",
   "source": "AI타임스",
@@ -76,6 +180,35 @@
   "tags": [
    "Anthropic",
    "투자"
+  ]
+ },
+ {
+  "id": "11c4c538f885f62b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgkpph/do_gx10s_dgx_sparks_dream_of_throttling_temps/",
+  "source": "r/LocalLLaMA",
+  "title": "Do GX10s / DGX Sparks Dream of Throttling? Temps across 6 cooling setups running DeepSeek V4.1-Flash (spoiler: no)",
+  "published_at": "2026-10-27T06:03:42+00:00",
+  "collected_at": "2026-10-27T10:23:10.823907+00:00",
+  "title_ko": "DeepSeek 구동 시 하드웨어 온도와 스로틀링 현상 분석",
+  "summary_ko": "고부하 모델 구동 시 하드웨어 온도 변화와 스로틀링 발생 여부를 다양한 쿨링 세팅에서 측정하여 성능 저하가 미미함을 입증했습니다.",
+  "category": "참고",
+  "tags": [
+   "반도체"
+  ]
+ },
+ {
+  "id": "c7d3f7c1aa338f93",
+  "url": "https://news.hada.io/topic?id=36095",
+  "source": "GeekNews",
+  "title": "Show GN: Claude Code Desk Look (mod) - 클로드 코드 CLI 를 데스크탑 앱처럼 바꾸기",
+  "published_at": "2026-10-27T05:54:13+00:00",
+  "collected_at": "2026-10-27T10:23:25.454418+00:00",
+  "title_ko": "Claude Code CLI를 데스크탑 앱처럼 활용하기",
+  "summary_ko": "무거운 일렉트론 앱 대신 터미널 기반의 Claude Code CLI를 여러 세션으로 효율적으로 활용하는 모드 및 설정 공유입니다.",
+  "category": "팁",
+  "tags": [
+   "Claude",
+   "코딩"
   ]
  },
  {
