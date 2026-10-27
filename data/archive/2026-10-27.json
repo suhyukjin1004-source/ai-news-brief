@@ -1,5 +1,173 @@
 [
  {
+  "id": "bb124f9e261ca26b",
+  "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+  "source": "TechCrunch",
+  "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+  "published_at": "2026-10-27T14:59:09+00:00",
+  "collected_at": "2026-10-27T16:25:04.451536+00:00",
+  "title_ko": "메타 AI 이사 로히트 파텔, 오피스 시장 진출 위해 퇴사",
+  "summary_ko": "메타에서 8년간 AI 평가와 강화학습을 이끈 로히트 파텔이 마이크로소프트 오피스와 구글 워크스페이스에 대항할 스타트업 창업을 위해 퇴사했다. 오피스 소프트웨어 시장에서의 AI 경쟁이 치열해질 전망이다.",
+  "category": "중요",
+  "tags": [
+   "Meta",
+   "투자"
+  ]
+ },
+ {
+  "id": "2437441ca1c694c2",
+  "url": "https://news.hada.io/topic?id=36113",
+  "source": "GeekNews",
+  "title": "AI는 일을 줄여준다고 약속했다. 나는 그 어느 때보다 많이 일하고 있다",
+  "published_at": "2026-10-27T14:34:11+00:00",
+  "collected_at": "2026-10-27T16:25:54.648238+00:00",
+  "title_ko": "AI 에이전트 도입 후 오히려 늘어난 엔지니어의 업무량",
+  "summary_ko": "개발 업무에 AI 에이전트를 도입했으나 구현 비용 감소로 인해 오히려 총 업무량과 맥락 전환이 늘어났다는 개발자의 경험담이다. 생산성 도구의 도입이 가져온 실무의 이면을 보여준다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "6a967aa76d5b0a12",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgu3ck/rlocalllama_community_benchmarks_glm_53_flash_vs/",
+  "source": "r/LocalLLaMA",
+  "title": "r/LocalLLaMA Community Benchmarks — GLM 5.3 Flash vs Hy 4 Preview vs MiMo v2.6 Pro",
+  "published_at": "2026-10-27T14:30:20+00:00",
+  "collected_at": "2026-10-27T16:25:40.412309+00:00",
+  "title_ko": "최신 LLM 모델 성능 비교 커뮤니티 벤치마크",
+  "summary_ko": "GLM 5.3 Flash, Hy 4 Preview, MiMo v2.6 Pro 등 최신 모델들의 체감 성능을 비교한 커뮤니티 벤치마크 결과이다. 다양한 소형·경량 모델의 실사용 성능을 가늠할 수 있다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "72e563f78be23a8d",
+  "url": "https://news.hada.io/topic?id=36111",
+  "source": "GeekNews",
+  "title": "Show GN: notepipe - '직접' 조립할 수 있는 강의노트·회의록 생성 파이프라인",
+  "published_at": "2026-10-27T14:00:17+00:00",
+  "collected_at": "2026-10-27T16:25:54.648238+00:00",
+  "title_ko": "맞춤형 회의록 생성 파이프라인 구축 도구 'notepipe'",
+  "summary_ko": "개인 취향에 맞게 직접 조립하여 사용할 수 있는 녹음 기반 강의 노트 및 회의록 생성 파이프라인 오픈소스 프로젝트이다. 실무 생산성 향상을 위한 유용한 도구다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "470e7f2ce2bd99e1",
+  "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
+  "source": "Hacker News",
+  "title": "Giving chat feedback gives Anthropic your data",
+  "published_at": "2026-10-27T13:56:15+00:00",
+  "collected_at": "2026-10-27T16:25:19.354614+00:00",
+  "title_ko": "앤스로픽, 챗 피드백 데이터 모델 학습 활용 안내",
+  "summary_ko": "사용자가 Claude에 제공하는 채팅 피드백 데이터가 모델 학습에 활용될 수 있다는 앤스로픽의 개인정보 처리 방침 내용이다. 프라이버시 관점에서 주의가 요구된다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "규제"
+  ]
+ },
+ {
+  "id": "f4e0b5373313dace",
+  "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+  "source": "The Verge",
+  "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+  "published_at": "2026-10-27T13:50:51+00:00",
+  "collected_at": "2026-10-27T16:25:04.590325+00:00",
+  "title_ko": "애플, 페이지·키노트·넘버스에 AI 챗봇 통합",
+  "summary_ko": "애플과 OpenAI 모델을 기반으로 한 AI 어시스턴트가 생산성 앱에 도입되어 문서 문맥을 이해하고 슬라이드 디자인 등을 수행합니다.",
+  "category": "속보",
+  "tags": [
+   "Apple",
+   "OpenAI",
+   "GPT"
+  ]
+ },
+ {
+  "id": "0442141913eda234",
+  "url": "https://news.hada.io/topic?id=36110",
+  "source": "GeekNews",
+  "title": "더 이상 Debian NEW 큐에 업로드하지 않겠다",
+  "published_at": "2026-10-27T13:41:07+00:00",
+  "collected_at": "2026-10-27T16:25:54.648238+00:00",
+  "title_ko": "데비안 개발자, LLM 자동 검토 도입 반발하며 업로드 중단",
+  "summary_ko": "데비안 패키지 검토에 사전 공지 없이 LLM 기반 워크플로가 적용되자 한 개발자가 거부권을 요구하며 NEW 큐 업로드를 중단했습니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "규제"
+  ]
+ },
+ {
+  "id": "adc31cae7c837874",
+  "url": "https://news.hada.io/topic?id=36109",
+  "source": "GeekNews",
+  "title": "Roblox가 허락 없이 Open3DLab 등에서 성인 콘텐츠를 포함한 모델 145GB를 다운로드함",
+  "published_at": "2026-10-27T13:38:07+00:00",
+  "collected_at": "2026-10-27T16:25:54.648238+00:00",
+  "title_ko": "로블록스, 성인 콘텐츠 포함 3D 모델 대량 무단 크롤링 논란",
+  "summary_ko": "로블록스 소속으로 추정되는 크롤러가 robots.txt를 무시하고 145GB 분량의 3D 모델을 무단 다운로드해 논란이 되고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "데이터셋"
+  ]
+ },
+ {
+  "id": "65162653fbe08e34",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgs8hp/4_coding_agents_on_one_rtx_3090_290_toks_total/",
+  "source": "r/LocalLLaMA",
+  "title": "4 coding agents on one RTX 3090: ~290 tok/s total from a custom CUDA engine for Qwen3.8-27B (3-4x llama-server --parallel)",
+  "published_at": "2026-10-27T13:15:50+00:00",
+  "collected_at": "2026-10-27T16:25:40.412309+00:00",
+  "title_ko": "RTX 3090 하나로 코딩 에이전트 4개를 동시에 구동하는 CUDA 엔진 개발",
+  "summary_ko": "로컬 환경에서 커스텀 CUDA 엔진을 이용해 단일 GPU로 여러 개의 Qwen 코딩 에이전트를 고속으로 동시 구동하는 기술이 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "반도체",
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "2d1cc6aaea4683be",
+  "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+  "source": "TechCrunch",
+  "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+  "published_at": "2026-10-27T13:00:00+00:00",
+  "collected_at": "2026-10-27T16:25:04.451536+00:00",
+  "title_ko": "오페라, 브라우저 내 로컬 AI 구동을 위한 웹 표준 'WebAI' 제안",
+  "summary_ko": "오페라가 다양한 AI 모델을 브라우저에서 직접 로컬로 배포하고 실행할 수 있는 새로운 웹 표준인 WebAI를 선보였습니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "브라우저"
+  ]
+ },
+ {
+  "id": "e4dd73cec05da0a0",
+  "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+  "source": "TechCrunch",
+  "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+  "published_at": "2026-10-27T13:00:00+00:00",
+  "collected_at": "2026-10-27T16:25:04.451536+00:00",
+  "title_ko": "제너럴 컴퓨트, 엔비디아 생태계 벗어난 추론 칩으로 1억 달러 투자 유치",
+  "summary_ko": "엔비디아 중심의 AI 인프라 시장에서 탈피해 대안적인 추론 칩을 내세운 제너럴 컴퓨트가 시리즈 A 투자 유치에 성공했습니다.",
+  "category": "중요",
+  "tags": [
+   "반도체",
+   "투자",
+   "NVIDIA"
+  ]
+ },
+ {
   "id": "9d3b820e3e34957d",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216695",
   "source": "AI타임스",
@@ -13,6 +181,21 @@
    "OpenAI",
    "AI 에이전트",
    "연구"
+  ]
+ },
+ {
+  "id": "0f2e704312bb368a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgrr8n/ling31flash1019_weights_are_out_and_they_released/",
+  "source": "r/LocalLLaMA",
+  "title": "Ling-3.1-flash-1019 weights are out, and they released the base model too",
+  "published_at": "2026-10-27T12:55:08+00:00",
+  "collected_at": "2026-10-27T16:25:40.412309+00:00",
+  "title_ko": "링(Ling)-3.1-flash 대형 언어모델 가중치 및 베이스 모델 전격 공개",
+  "summary_ko": "560B 규모의 1M 컨텍스트 윈도우를 지원하는 링-3.1-flash 모델의 가중치와 베이스 모델이 허깅페이스에 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "LLM"
   ]
  },
  {
@@ -48,6 +231,165 @@
   ]
  },
  {
+  "id": "9ec9ec0d85f78d3a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgqf92/comparing_istadaslabs/",
+  "source": "r/LocalLLaMA",
+  "title": "Comparing ISTA-DASLab's DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF 2.25bpw against the official API",
+  "published_at": "2026-10-27T11:51:57+00:00",
+  "collected_at": "2026-10-27T16:25:40.412309+00:00",
+  "title_ko": "DeepSeek-V4.1 양자화 모델 성능 비교 테스트",
+  "summary_ko": "2.25bpw로 저도화된 DeepSeek-V4.1 양자화 모델을 로컬에서 실행하고 공식 API와 성능을 비교한 테스트 결과가 공유되었습니다.",
+  "category": "참고",
+  "tags": [
+   "DeepSeek",
+   "LLM",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "d2380595d69a9a1b",
+  "url": "https://news.hada.io/topic?id=36105",
+  "source": "GeekNews",
+  "title": "AI 시대의 맨먼스 미신",
+  "published_at": "2026-10-27T11:32:28+00:00",
+  "collected_at": "2026-10-27T16:25:54.648238+00:00",
+  "title_ko": "AI 시대의 맨먼스 미신: 에이전트가 바꿔놓을 개발 병목",
+  "summary_ko": "LLM과 AI 에이전트가 등장하더라도 개발의 본질적인 순차 작업과 관리 부담 형태만 바뀔 뿐 브룩스의 법칙은 여전히 유효하다는 분석입니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "858dd928576dd166",
+  "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+  "source": "MIT Tech Review",
+  "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+  "published_at": "2026-10-27T11:19:18+00:00",
+  "collected_at": "2026-10-27T16:25:17.284167+00:00",
+  "title_ko": "제조업의 다음 성장 기회, 인더스트리얼 인텔리전스",
+  "summary_ko": "제조 현장의 암묵지와 데이터, 설비 운영 노하우를 결합한 산업용 AI 지능화가 제조업의 새로운 성장 동력으로 주목받고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "로보틱스"
+  ]
+ },
+ {
+  "id": "03f1062316874997",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgpo4q/inclusionailing31flash1019_hugging_face/",
+  "source": "r/LocalLLaMA",
+  "title": "inclusionAI/Ling-3.1-flash-1019 · Hugging Face",
+  "published_at": "2026-10-27T11:12:14+00:00",
+  "collected_at": "2026-10-27T16:25:40.412309+00:00",
+  "title_ko": "인클루전AI, 대형 오픈소스 모델 'Ling-3.1-flash-1019' 공개",
+  "summary_ko": "560B 파라미터와 1M 토큰 컨텍스트를 지원하는 Ling-3.1-flash-1019가 공개되어 추론 및 에이전트 성능이 대폭 향상되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "acb3a24ef951cfe3",
+  "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+  "source": "Hacker News",
+  "title": "Wikipedia's Cleanup of AI-Generated Content",
+  "published_at": "2026-10-27T11:08:15+00:00",
+  "collected_at": "2026-10-27T16:25:19.354614+00:00",
+  "title_ko": "위키피디아, AI 생성 콘텐츠 정화 작업 진행",
+  "summary_ko": "위키피디아가 플랫폼 내에서 무분별하게 확산되는 AI 생성 콘텐츠를 정리하고 신뢰성을 높이기 위한 노력을 지속하고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
+  "id": "c61ee1a62651ca79",
+  "url": "https://oioannou.com/blog/ai-promised-less-work/",
+  "source": "Hacker News",
+  "title": "AI promised less work. I've never worked more",
+  "published_at": "2026-10-27T11:08:14+00:00",
+  "collected_at": "2026-10-27T16:25:19.354614+00:00",
+  "title_ko": "AI 도입 이후 오히려 늘어난 업무량에 대한 단상",
+  "summary_ko": "AI가 업무 효율을 높여줄 것이라는 기대와 달리, 실제 지식 노동자들은 더 많은 업무와 관리 부담에 시달리고 있다는 분석입니다.",
+  "category": "참고",
+  "tags": []
+ },
+ {
+  "id": "02c774ec5299e23a",
+  "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+  "source": "TechCrunch",
+  "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+  "published_at": "2026-10-27T11:00:00+00:00",
+  "collected_at": "2026-10-27T16:25:04.451536+00:00",
+  "title_ko": "엔비디아, GPU 효율 극대화 인도 스타트업 '심플리마트' 투자",
+  "summary_ko": "적은 수의 GPU로 AI 모델을 구동할 수 있게 돕는 인도 스타트업 심플리마트가 엔비디아의 지원 속에서 급성장하고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "반도체",
+   "투자"
+  ]
+ },
+ {
+  "id": "5f25f64d956fc31f",
+  "url": "https://news.hada.io/topic?id=36104",
+  "source": "GeekNews",
+  "title": "Show GN: HypeSeoul – AI가 그린 서울 전체, 서울 시간대로 움직이는 지도",
+  "published_at": "2026-10-27T10:43:30+00:00",
+  "collected_at": "2026-10-27T16:25:54.648238+00:00",
+  "title_ko": "AI로 그린 서울 전역의 아이소메트릭 지도 'HypeSeoul'",
+  "summary_ko": "생성형 AI 기술을 활용해 서울 전체를 뉴욕 스타일의 아이소메트릭 그림 지도로 구현한 프로젝트가 공개되었습니다.",
+  "category": "팁",
+  "tags": []
+ },
+ {
+  "id": "9a026dd65bb834be",
+  "url": "https://news.hada.io/topic?id=36103",
+  "source": "GeekNews",
+  "title": "vLLM의 도구 호출 정확도 문제 해결하기",
+  "published_at": "2026-10-27T10:33:31+00:00",
+  "collected_at": "2026-10-27T16:25:54.648238+00:00",
+  "title_ko": "vLLM 환경에서의 도구 호출 정확도 개선 방안",
+  "summary_ko": "vLLM 등 오픈소스 서빙 프레임워크에서 스키마 이탈로 인한 도구 호출 오류를 제약 디코딩을 통해 해결하는 방법입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "e4179a7e31d7317b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgoxvu/we_put_deepseek_in_charge_of_four_qwen359b_models/",
+  "source": "r/LocalLLaMA",
+  "title": "We put DeepSeek in charge of four Qwen3.5-9B models to reverse engineer binaries using smaller open models.",
+  "published_at": "2026-10-27T10:32:27+00:00",
+  "collected_at": "2026-10-27T16:25:40.412309+00:00",
+  "title_ko": "딥시크 주도 하에 소형 큐웬 모델들로 바이너리 리버스 엔지니어링 수행",
+  "summary_ko": "대형 프론티어 모델의 지휘 아래 여러 대의 소형 오픈소스 Qwen 모델이 협력하여 바이너리 코드를 효율적으로 분석하는 시스템이 구축되었습니다.",
+  "category": "중요",
+  "tags": [
+   "DeepSeek",
+   "Qwen",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "b62586f30398ddea",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgopmj/debunking_coheres_claim_of_qwen_38_flash_next/",
+  "source": "r/LocalLLaMA",
+  "title": "Debunking Cohere's claim of Qwen 3.8 Flash Next uploading to Alibaba remote URL",
+  "published_at": "2026-10-27T10:19:31+00:00",
+  "collected_at": "2026-10-27T16:25:40.412309+00:00",
+  "title_ko": "코히어의 알리바바 원격 URL 유출 주장 반박 분석",
+  "summary_ko": "허깅페이스 트레이스 분석을 통해 Qwen 모델 관련 데이터 유출 주장의 허점과 프롬프트 프리필 조작 가능성이 제기되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "b17eb9dbde5d2705",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgojqz/tensor_split_over_pcie_30_x1_good_results/",
   "source": "r/LocalLLaMA",
@@ -62,6 +404,30 @@
    "NVIDIA",
    "코딩"
   ]
+ },
+ {
+  "id": "bfdce445bdcb3b02",
+  "url": "https://news.hada.io/topic?id=36101",
+  "source": "GeekNews",
+  "title": "Show GN: 봉오리 - 질문에 답하다 보면 하루가 정리되는 AI 일기",
+  "published_at": "2026-10-27T10:04:55+00:00",
+  "collected_at": "2026-10-27T16:25:54.648238+00:00",
+  "title_ko": "대화를 통해 하루를 정리하는 AI 일기 서비스 '봉오리'",
+  "summary_ko": "사용자의 답변 속 키워드를 바탕으로 AI가 추가 질문을 던져 감정과 주제를 정리해 주는 대화형 일기 서비스입니다.",
+  "category": "팁",
+  "tags": []
+ },
+ {
+  "id": "710cb45444826571",
+  "url": "https://news.hada.io/topic?id=36100",
+  "source": "GeekNews",
+  "title": "Show GN: 카드 배틀 - Decision Model을 이용한..",
+  "published_at": "2026-10-27T09:37:57+00:00",
+  "collected_at": "2026-10-27T16:25:54.648238+00:00",
+  "title_ko": "디시전 모델 기반의 자연어 카드 배틀 게임",
+  "summary_ko": "자연어를 이용해 자신만의 카드 덱을 만들고 AI 기반의 디시전 모델로 대전하는 인디 카드 게임 프로젝트입니다.",
+  "category": "팁",
+  "tags": []
  },
  {
   "id": "350bde6b5d329523",
