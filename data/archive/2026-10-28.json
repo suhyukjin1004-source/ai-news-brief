@@ -1,5 +1,141 @@
 [
  {
+  "id": "7ae8eb20550eee76",
+  "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+  "source": "Hugging Face",
+  "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+  "published_at": "2026-10-28T14:58:17+00:00",
+  "collected_at": "2026-10-28T15:55:03.451338+00:00",
+  "title_ko": "엔비디아, 넴로트론 전사 모델 및 그라너리 v2 발표",
+  "summary_ko": "엔비디아가 프롬프트 제어가 가능한 지능형 다국어 음성 전사 모델인 넴로트론 3.5를 선보였다.",
+  "category": "속보",
+  "tags": [
+   "NVIDIA",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "bdaa543129ae04bd",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhoxux/auroraimg250mpreview_releases/",
+  "source": "r/LocalLLaMA",
+  "title": "AuroraIMG2-50M-Preview Releases!",
+  "published_at": "2026-10-28T14:02:43+00:00",
+  "collected_at": "2026-10-28T15:55:10.479824+00:00",
+  "title_ko": "초경량 텍스트-이미지 모델 AuroraIMG2-50M 공개",
+  "summary_ko": "파라미터가 50M에 불과한 소형 텍스트-이미지 생성 모델이 공개되어 구형 노트북 CPU에서도 빠른 속도로 실행할 수 있게 되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "이미지 생성"
+  ]
+ },
+ {
+  "id": "066f87ed3dbfa4d8",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhouci/ama_announcement_moss_the_team_behind_mossimage/",
+  "source": "r/LocalLLaMA",
+  "title": "AMA Announcement: MOSS, the Team Behind MOSS-Image, MOSS-TTS, and More (Friday, Oct 30, 8–11 AM PT)",
+  "published_at": "2026-10-28T13:59:15+00:00",
+  "collected_at": "2026-10-28T15:55:10.479824+00:00",
+  "title_ko": "MOSS 팀, 로컬 LLM 커뮤니티 AMA 진행 소식",
+  "summary_ko": "음성, 오디오, 음악, 이미지, 비디오 모델을 아우르는 MOSS 팀이 로컬 LLM 커뮤니티에서 질의응답(AMA) 세션을 진행합니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "멀티모달"
+  ]
+ },
+ {
+  "id": "1d10efda47a944fd",
+  "url": "https://github.com/thomasunise/casecite",
+  "source": "Hacker News",
+  "title": "Harvey raised 500M for legal AI, I built the same and open sourced it",
+  "published_at": "2026-10-28T13:56:21+00:00",
+  "collected_at": "2026-10-28T15:55:09.591703+00:00",
+  "title_ko": "법률 AI 하비(Harvey) 오픈소스 대안 구현체 등장",
+  "summary_ko": "법률 AI 서비스인 하비의 기능을 모방하여 오픈소스로 구현한 프로젝트가 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "d631652614601664",
+  "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+  "source": "Simon Willison",
+  "title": "The October inflection point for vibe game development",
+  "published_at": "2026-10-28T13:55:15+00:00",
+  "collected_at": "2026-10-28T15:55:09.803912+00:00",
+  "title_ko": "클로드 오푸스 5.5와 함께 열린 '바이브 게임 개발' 변곡점",
+  "summary_ko": "고성능 코딩 에이전트의 발전으로 소프트웨어 엔지니어링뿐만 아니라 컴퓨터 게임 개발 방식에도 새로운 변화가 찾아왔습니다.",
+  "category": "중요",
+  "tags": [
+   "Claude",
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "08d63a9b09ab76ba",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhog7b/i_trained_a_21b_moe_336b_active_from_scratch_on/",
+  "source": "r/LocalLLaMA",
+  "title": "I trained a 21B MoE (3.36B active) from scratch on 70B tokens (emergent ability observations)",
+  "published_at": "2026-10-28T13:43:43+00:00",
+  "collected_at": "2026-10-28T15:55:10.479824+00:00",
+  "title_ko": "70B 토큰으로 직접 학습한 21B MoE 오픈소스 모델 공개",
+  "summary_ko": "예산 제약 속에서 사전 학습 없이 독자적으로 훈련한 전문가 혼합(MoE) 구조의 소형 언어 모델이 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "a722b19f1e2c2126",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhoeo3/used_qwen_38_flash_next_on_underspeced_pc_to_root/",
+  "source": "r/LocalLLaMA",
+  "title": "Used Qwen 3.8 flash next on underspeced PC to Root and gut LG TV of spy and adware",
+  "published_at": "2026-10-28T13:41:58+00:00",
+  "collected_at": "2026-10-28T15:55:10.479824+00:00",
+  "title_ko": "소형 LLM으로 스마트 TV 루팅 및 애드웨어 제거",
+  "summary_ko": "사양낮은 PC에서 Qwen 모델을 활용해 LG TV의 광고와 추적 기능을 성공적으로 제거한 사례가 공유되었습니다.",
+  "category": "팁",
+  "tags": [
+   "Qwen",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "4b7d77748a72a9c9",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhodj3/cuda_fuse_moe_gateup_matmuls_and_glu_in_mmq_by/",
+  "source": "r/LocalLLaMA",
+  "title": "CUDA: fuse MoE gate/up matmuls and GLU in MMQ by anujj · Pull Request #31188 · ggml-org/llama.cpp",
+  "published_at": "2026-10-28T13:40:41+00:00",
+  "collected_at": "2026-10-28T15:55:10.479824+00:00",
+  "title_ko": "llama.cpp, CUDA 환경 MoE 연산 속도 개선 PR 병합",
+  "summary_ko": "GPU에서 MoE 모델의 프롬프트 처리 속도를 최대 17%까지 향상시키는 최적화 패치가 적용되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "NVIDIA"
+  ]
+ },
+ {
+  "id": "5bab0095e81654c2",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhny7x/i_took_embeddinggemma2_577m_from_rank_26_to_1_on/",
+  "source": "r/LocalLLaMA",
+  "title": "I took EmbeddingGemma-2 (577M) from Rank #26 to #1 on the MTEB Audio leaderboard (MAEB), beating 9B models by adding a 2.4 MB PCA head with zero training",
+  "published_at": "2026-10-28T13:23:06+00:00",
+  "collected_at": "2026-10-28T15:55:10.479824+00:00",
+  "title_ko": "PCA 헤드 추가로 오디오 임베딩 리더보드 1위 달성한 구글 젬마",
+  "summary_ko": "추가 학습 없이 경량 PCA 행렬만 결합하여 대형 멀티모달 모델들을 제치고 오디오 임베딩 성능 1위를 기록했습니다.",
+  "category": "중요",
+  "tags": [
+   "Google",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "d6f6c4b0604fc2b4",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216748",
   "source": "AI타임스",
@@ -13,6 +149,20 @@
    "규제",
    "반도체",
    "투자"
+  ]
+ },
+ {
+  "id": "c8e2d59e88a8257b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhndti/important_update_to_tinyleague_aa_out_kv/",
+  "source": "r/LocalLLaMA",
+  "title": "Important update to TinyLeague (AA out, KV efficiency in)",
+  "published_at": "2026-10-28T12:59:19+00:00",
+  "collected_at": "2026-10-28T15:55:10.479824+00:00",
+  "title_ko": "로컬 LLM 벤치마크 TinyLeague, KV 캐시 효율성 지표 도입",
+  "summary_ko": "소형 모델 벤치마크에서 폐쇄형 지표를 제외하고, 저사양 VRAM 사용자들을 위한 KV 캐시 효율성 지표가 새롭게 추가되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
   ]
  },
  {
@@ -63,6 +213,37 @@
   ]
  },
  {
+  "id": "dbdaae0a2e24992e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhmo1q/someone_built_a_32bit_riscv_cpu_directly_inside/",
+  "source": "r/LocalLLaMA",
+  "title": "Someone built a 32-bit RISC-V CPU directly inside Qwen's model weights so it can execute instructions internaly!",
+  "published_at": "2026-10-28T12:26:44+00:00",
+  "collected_at": "2026-10-28T15:55:10.479824+00:00",
+  "title_ko": "Qwen 모델 가중치 내부에 32비트 RISC-V CPU 구현",
+  "summary_ko": "개발자가 Qwen 모델 가중치 안에 직접 RISC-V CPU를 구현해 내부적으로 명령어를 실행하도록 만들었습니다. 툴 콜링과 컴퓨터 제어 기능 활용에 새로운 가능성을 제시합니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트",
+   "LLM"
+  ]
+ },
+ {
+  "id": "ac170aadfbe61c65",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhmgql/mtmd_enable_video_input_support_for_lfm3_model/",
+  "source": "r/LocalLLaMA",
+  "title": "mtmd: enable video input support for LFM3 model family by tdakhran · Pull Request #31283 · ggml-org/llama.cpp",
+  "published_at": "2026-10-28T12:16:55+00:00",
+  "collected_at": "2026-10-28T15:55:10.479824+00:00",
+  "title_ko": "llama.cpp, LFM3 모델 패밀리 비디오 입력 지원 추가",
+  "summary_ko": "llama.cpp에 LFM3 모델을 위한 비디오 입력 지원 기능이 추가되어 소형 모델에서도 영상 데이터를 처리할 수 있게 되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
   "id": "3a37b5d117a8db47",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216735",
   "source": "AI타임스",
@@ -101,6 +282,20 @@
   "tags": []
  },
  {
+  "id": "c3f87b32bcfc51dc",
+  "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+  "source": "MIT Tech Review",
+  "title": "Pairing industrial AI autonomy and human control",
+  "published_at": "2026-10-28T12:00:00+00:00",
+  "collected_at": "2026-10-28T15:55:02.071553+00:00",
+  "title_ko": "산업용 AI 자율성과 인간 통제의 결합",
+  "summary_ko": "산업 현장에서 AI의 자율 시스템과 인간의 통제권을 조화롭게 유지하는 방안을 다룹니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "cbbbe74be5bea9dd",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216732",
   "source": "AI타임스",
@@ -111,6 +306,97 @@
   "summary_ko": "과학기술정보통신부와 질병관리청이 국가 건강조사 데이터를 결합한 대국민 챗봇 서비스를 시작했다. 국민 누구나 24시간 간편하게 AI를 통해 건강 상태를 점검할 수 있다.",
   "category": "속보",
   "tags": []
+ },
+ {
+  "id": "4683a3b03315c3bb",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+  "source": "The Verge",
+  "title": "Meta quietly launched an ‘AI pet journal’ app",
+  "published_at": "2026-10-28T11:27:30+00:00",
+  "collected_at": "2026-10-28T15:54:49.350336+00:00",
+  "title_ko": "메타, 음성 대화형 AI 반려동물 일기 앱 출시",
+  "summary_ko": "메타가 다마고치 스타일의 가상 반려동물과 대화하며 일상을 기록하는 AI 앱 'Waddle World'를 출시했습니다.",
+  "category": "속보",
+  "tags": [
+   "Meta",
+   "LLM"
+  ]
+ },
+ {
+  "id": "8a89606f8d395862",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhkpzf/princeton_and_polymathic_ai_release_flashmap_flow/",
+  "source": "r/LocalLLaMA",
+  "title": "Princeton and Polymathic AI release FlashMap: Flow Map Speculative Decoding",
+  "published_at": "2026-10-28T10:48:19+00:00",
+  "collected_at": "2026-10-28T15:55:10.479824+00:00",
+  "title_ko": "프린스턴대·Polymathic AI, 'FlashMap' 공개",
+  "summary_ko": "플로우 맵 기반의 추측 디코딩 기법인 FlashMap이 공개되어 LLM 추론 속도 개선에 기여할 것으로 기대됩니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "ff136a301d763957",
+  "url": "https://news.hada.io/topic?id=36162",
+  "source": "GeekNews",
+  "title": "여기엔 괴물이 있다: 에이전트가 일을 할 때도 무엇을 알아야 할까?",
+  "published_at": "2026-10-28T10:35:08+00:00",
+  "collected_at": "2026-10-28T15:55:25.232541+00:00",
+  "title_ko": "AI 에이전트 코딩 시대, 시스템 책임자의 역할",
+  "summary_ko": "AI가 코드를 생성하는 시대에 개발자와 시스템 책임자가 가져야 할 역량과 코드 검증 방식의 변화를 다룹니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "d957b57aa1e66e8e",
+  "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
+  "source": "Simon Willison",
+  "title": "Quoting Terk Terkowitz",
+  "published_at": "2026-10-28T10:09:07+00:00",
+  "collected_at": "2026-10-28T15:55:09.803912+00:00",
+  "title_ko": "아마존 엔지니어링 리더십: AI 도구의 한계 파악도 역량",
+  "summary_ko": "AI 도구가 업무에 도움되지 않는 지점을 설명하고 판단력을 증명하는 것이 엔지니어에게 중요한 자질이라는 아마존의 내부 메시지입니다.",
+  "category": "참고",
+  "tags": [
+   "Amazon",
+   "생성형AI",
+   "코딩"
+  ]
+ },
+ {
+  "id": "b3bfb004d58df359",
+  "url": "https://news.hada.io/topic?id=36161",
+  "source": "GeekNews",
+  "title": "Show GN: iMessage 로 컴패니언 AI 와 대화하는 RenAI 를 만들고 있습니다.",
+  "published_at": "2026-10-28T09:58:11+00:00",
+  "collected_at": "2026-10-28T15:55:25.232541+00:00",
+  "title_ko": "iMessage로 대화하는 컴패니언 AI 'RenAI' 소개",
+  "summary_ko": "별도 앱 설치 없이 iMessage를 통해 페르소나 AI와 대화할 수 있는 서비스가 베타 테스터를 모집합니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "2fc8e689e413caad",
+  "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+  "source": "OpenAI",
+  "title": "Legora is building the agentic operating system for legal work",
+  "published_at": "2026-10-28T09:30:00+00:00",
+  "collected_at": "2026-10-28T15:55:02.455150+00:00",
+  "title_ko": "Legora, 법률 업무용 에이전트 운영체제 구축",
+  "summary_ko": "법률 현장에서 계약서 분석과 워크플로우를 자동화하기 위해 OpenAI 모델과 ChatGPT, Codex를 활용하는 사례를 소개합니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "GPT",
+   "AI 에이전트"
+  ]
  },
  {
   "id": "addc773978223c8f",
