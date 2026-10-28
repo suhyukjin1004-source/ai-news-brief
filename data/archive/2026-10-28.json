@@ -1,5 +1,234 @@
 [
  {
+  "id": "83f0aafa1664ad04",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh9qj4/sk_hynix_expects_demand_to_outpace_supply_through/",
+  "source": "r/LocalLLaMA",
+  "title": "SK Hynix expects demand to outpace supply through 2030",
+  "published_at": "2026-10-28T00:29:33+00:00",
+  "collected_at": "2026-10-28T01:10:51.595210+00:00",
+  "title_ko": "SK하이닉스, 2030년까지 AI 메모리 수요 공급 초과 전망",
+  "summary_ko": "SK하이닉스가 2030년까지 AI 인프라 확대로 인한 메모리 반도체 품귀 현상이 지속될 것이라고 전망했습니다. 이는 향후 AI 하드웨어 비용 상승에 직접적인 영향을 미칠 수 있습니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "반도체",
+   "투자"
+  ]
+ },
+ {
+  "id": "fa20344c94d02ea4",
+  "url": "https://www.reddit.com/r/singularity/comments/1xh9i3r/a_startup_claims_their_cap_uses_100000_tiny_chips/",
+  "source": "r/singularity",
+  "title": "A startup claims their cap uses 100,000 tiny chips and sensors to turn your thoughts into AI prompts",
+  "published_at": "2026-10-28T00:18:54+00:00",
+  "collected_at": "2026-10-28T01:11:04.722977+00:00",
+  "title_ko": "생각을 AI 프롬프트로 변환하는 웨어러블 캡 개발",
+  "summary_ko": "한 스타트업이 수십만 개의 초소형 칩과 센서를 탑재해 사용자의 생각을 AI 프롬프트로 바꿔주는 모자를 공개했습니다. 뇌-컴퓨터 인터페이스(BCI) 기술의 새로운 응용 사례로 주목받고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트",
+   "로보틱스"
+  ]
+ },
+ {
+  "id": "a3fcc771843b7c9e",
+  "url": "https://news.hada.io/topic?id=36132",
+  "source": "GeekNews",
+  "title": "LFM3 소개: 특화 지능을 위한 모든 모달리티",
+  "published_at": "2026-10-28T00:03:11+00:00",
+  "collected_at": "2026-10-28T01:11:09.604248+00:00",
+  "title_ko": "멀티모달 소형 모델 'LFM3' 공개",
+  "summary_ko": "Liquid AI가 텍스트, 비전, 오디오를 모두 지원하는 2B 파라미터 규모의 하이브리드 아키텍처 모델 'LFM3'를 발표했습니다. 로컬 환경에서 미세조정과 실행이 가능해 실용성이 높습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "GPT"
+  ]
+ },
+ {
+  "id": "585295e238243407",
+  "url": "https://www.reddit.com/r/singularity/comments/1xh93pq/the_best_ai_passes_37_of_real_engineering_tasks/",
+  "source": "r/singularity",
+  "title": "The best AI passes 37% of real engineering tasks. Most people would pass none",
+  "published_at": "2026-10-28T00:01:42+00:00",
+  "collected_at": "2026-10-28T01:11:04.722977+00:00",
+  "title_ko": "엔지니어링 벤치마크서 최고 AI 모델이 37% 정답률 기록",
+  "summary_ko": "실제 기계·전기·항공우주 엔지니어링 과제로 구성된 RWE-bench에서 최신 AI 모델들이 최대 37%의 해결률을 보였습니다. 복잡한 공학 문제에서 AI의 실무 적용 가능성이 검증되고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "GPT",
+   "Claude",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "3a4fe2e47d2fb364",
+  "url": "https://news.hada.io/topic?id=36130",
+  "source": "GeekNews",
+  "title": "Survival LLM - 인터넷 없이 작동하는 AI 도우미와 비상 대응 자료실",
+  "published_at": "2026-10-27T23:49:14+00:00",
+  "collected_at": "2026-10-28T01:11:09.604248+00:00",
+  "title_ko": "인터넷 없이 작동하는 비상 대응용 오픈소스 AI 도우미",
+  "summary_ko": "인터넷 연결 없이 로컬에서 실행되어 응급처치, 식품 보관 등 비상 상황에 대응할 수 있는 오픈소스 AI 앱이 공개되었습니다. 오프라인 환경에서 LLM의 실용적 활용도를 보여줍니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "a2f907c053dad857",
+  "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+  "source": "TechCrunch",
+  "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+  "published_at": "2026-10-27T23:34:27+00:00",
+  "collected_at": "2026-10-28T01:10:00.850792+00:00",
+  "title_ko": "OpenAI, 챗봇 조언으로 딸을 잃은 유가족에게 피소",
+  "summary_ko": "유가족이 ChatGPT가 딸에게 발작 약물 복용 중단을 조언해 사망에 이르게 했다며 OpenAI를 상대로 소송을 제기했습니다. AI 챗봇의 의료 조언 및 안전성 규제 논란이 거세질 전망입니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "GPT",
+   "규제"
+  ]
+ },
+ {
+  "id": "9c4fd36c19edf300",
+  "url": "https://news.hada.io/topic?id=36127",
+  "source": "GeekNews",
+  "title": "Amazon, 거듭된 실패 끝에 AI 부문 대폭 축소",
+  "published_at": "2026-10-27T23:33:57+00:00",
+  "collected_at": "2026-10-28T01:11:09.604248+00:00",
+  "title_ko": "아마존, 자체 AI 모델 'Nova' 개발 축소 및 조직 개편",
+  "summary_ko": "아마존이 자체 파운데이션 모델 Nova의 개발 목표를 대폭 축소하고 핵심 과제 중심으로 AI 조직을 재편했습니다. 치열해진 생성형 AI 시장에서 효율성 중심의 구조조정이 가속화되고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "투자",
+   "규제"
+  ]
+ },
+ {
+  "id": "a81d0c1c06b00a4c",
+  "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+  "source": "TechCrunch",
+  "title": "The data center boom has an upside: innovation for the US grid",
+  "published_at": "2026-10-27T22:55:41+00:00",
+  "collected_at": "2026-10-28T01:10:00.850792+00:00",
+  "title_ko": "AI 데이터센터 붐이 미치는 전력망 현대화 순기능",
+  "summary_ko": "AI 데이터센터 확대로 인한 전력 수요 급증이 오히려 미국 전력망 전반의 기술 혁신과 현대화를 촉진하는 계기가 되고 있습니다. 인프라 분야의 새로운 투자 기회로 평가받습니다.",
+  "category": "참고",
+  "tags": [
+   "투자",
+   "반도체"
+  ]
+ },
+ {
+  "id": "1f47edb14ca91457",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh72iu/i_built_a_local_gpu_benchmark_server_for_4b_to/",
+  "source": "r/LocalLLaMA",
+  "title": "I built a local GPU benchmark server for 4B to 35B models because I was tired of synthetic cloud leaderboards and tiny sample tests",
+  "published_at": "2026-10-27T22:35:47+00:00",
+  "collected_at": "2026-10-28T01:10:51.595210+00:00",
+  "title_ko": "로컬 GPU 환경 위한 오픈소스 LLM 벤치마크 서버 등장",
+  "summary_ko": "클라우드 벤치마크의 한계를 극복하기 위해 일반 소비자용 하드웨어에서 4B~35B 모델의 실제 구동 속도와 성능을 측정하는 로컬 벤치마크 서버가 구축되었습니다. 실무 개발자들에게 유용한 참고 지표를 제공합니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "NVIDIA"
+  ]
+ },
+ {
+  "id": "788a54962dd68895",
+  "url": "https://www.reddit.com/r/singularity/comments/1xh6b9l/why_does_ray_kurzweil_stick_to_2045_when_other/",
+  "source": "r/singularity",
+  "title": "Why does Ray Kurzweil stick to 2045 when other experts are placing singularity tech at closer to 2030?",
+  "published_at": "2026-10-27T22:04:56+00:00",
+  "collected_at": "2026-10-28T01:11:04.722977+00:00",
+  "title_ko": "레이 커즈와일이 2045년 특이점 시기를 고수하는 이유",
+  "summary_ko": "최근 급격한 AI 발전 속도에도 불구하고 레이 커즈와일이 특이점 도래 시기로 2045년을 유지하는 배경에 대한 논의가 이어지고 있습니다. 기술 진보의 속도와 사회적 파급력을 가늠하는 기준점이 되고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "투자"
+  ]
+ },
+ {
+  "id": "7afb98bf1433db02",
+  "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+  "source": "TechCrunch",
+  "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+  "published_at": "2026-10-27T21:44:34+00:00",
+  "collected_at": "2026-10-28T01:10:00.850792+00:00",
+  "title_ko": "뱅크오브아메리카, AI 어시스턴트에 금융 비밀번호 공유 주의 경고",
+  "summary_ko": "뱅크오브아메리카는 고객들에게 AI 에이전트의 접근으로 발생하는 활동에 대한 책임이 전적으로 고객에게 있음을 상기시키며 비밀번호 공유를 자제할 것을 당부했다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트",
+   "보안"
+  ]
+ },
+ {
+  "id": "e4dbba9a243c7cf5",
+  "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+  "source": "TechCrunch",
+  "title": "Who’s really in charge at Anthropic after the IPO?",
+  "published_at": "2026-10-27T21:38:28+00:00",
+  "collected_at": "2026-10-28T01:10:00.850792+00:00",
+  "title_ko": "앤스로픽의 IPO 이후 지배구조 구조 해부",
+  "summary_ko": "앤스로픽이 상장(IPO)을 거치며 복잡한 지배구조 속에서 실제로 누가 의사결정을 주도하는지 분석했다.",
+  "category": "참고",
+  "tags": [
+   "Anthropic",
+   "규제"
+  ]
+ },
+ {
+  "id": "1621a886d62d3ed0",
+  "url": "https://news.hada.io/topic?id=36125",
+  "source": "GeekNews",
+  "title": "Apple, M6를 탑재한 신규 MacBook Pro 14 공개",
+  "published_at": "2026-10-27T21:33:09+00:00",
+  "collected_at": "2026-10-28T01:11:09.604248+00:00",
+  "title_ko": "애플, M6 탑재 신규 맥북 프로 14 공개",
+  "summary_ko": "애플이 온디바이스 AI 성능을 강화한 M6 칩셋 탑재 맥북 프로 14를 공개했다. 로컬 LLM 및 이미지 생성 등 AI 작업 처리가 대폭 향상됐다.",
+  "category": "속보",
+  "tags": [
+   "반도체",
+   "온디바이스"
+  ]
+ },
+ {
+  "id": "26c38e9aedc2f4eb",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh50at/new_audio_model_lfm3audio2b/",
+  "source": "r/LocalLLaMA",
+  "title": "New audio model: LFM3-Audio-2B",
+  "published_at": "2026-10-27T21:14:07+00:00",
+  "collected_at": "2026-10-28T01:10:51.595210+00:00",
+  "title_ko": "리퀴드 AI, 온디바이스용 경량 오디오 모델 LFM3-Audio-2B 공개",
+  "summary_ko": "리퀴드 AI가 랩톱과 엣지 기기에서 로컬로 구동되는 소형 오디오 모델 LFM3-Audio-2B를 출시했다. 텍스트와 음성을 모두 지원하며 다국어 음성 인식 및 추론이 가능하다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "음성인식",
+   "AI 어시스턴트"
+  ]
+ },
+ {
+  "id": "001110b136cd9821",
+  "url": "https://www.anthropic.com/research/early-progress-drug-development",
+  "source": "Hacker News",
+  "title": "Early progress on accelerating drug development with Claude",
+  "published_at": "2026-10-27T20:50:42+00:00",
+  "collected_at": "2026-10-28T01:10:18.961695+00:00",
+  "title_ko": "클로드(Claude)를 활용한 신약 개발 가속화 연구 성과",
+  "summary_ko": "앤스로픽은 클로드를 이용해 신약 개발 프로세스를 단축하고 초기 연구 성과를 도출한 사례를 공개했다.",
+  "category": "참고",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "바이오"
+  ]
+ },
+ {
   "id": "2df56fbd08a37523",
   "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
   "source": "The Verge",
@@ -11,6 +240,22 @@
   "category": "중요",
   "tags": [
    "OpenAI"
+  ]
+ },
+ {
+  "id": "74e5625dcce4edab",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh4bnd/openais_major_results_over_the_last_3_months_came/",
+  "source": "r/LocalLLaMA",
+  "title": "OpenAI's major results over the last 3 months came from scaling test-time compute with agent swarms. I've been building an open-source equivalent for the past year, and I'd love for you guys to try it.",
+  "published_at": "2026-10-27T20:47:38+00:00",
+  "collected_at": "2026-10-28T01:10:51.595210+00:00",
+  "title_ko": "오픈AI의 추론 시 컴퓨팅 확장 기법을 구현한 오픈소스 도구 공개",
+  "summary_ko": "오픈AI의 에이전트 스웜 방식과 추론 시 컴퓨팅(test-time compute) 확장 결과를 모방한 오픈소스 프로젝트가 개발되어 실무 활용을 돕는다.",
+  "category": "팁",
+  "tags": [
+   "OpenAI",
+   "오픈소스",
+   "AI 에이전트"
   ]
  },
  {
@@ -283,6 +528,21 @@
   ]
  },
  {
+  "id": "0f0f6ca0b2b0b4f2",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgyqbb/openbmb_released_a_13b_ocr_model_and_a_separate/",
+  "source": "r/LocalLLaMA",
+  "title": "OpenBMB released a 1.3B OCR model and a separate 2B model to check its work",
+  "published_at": "2026-10-27T17:21:53+00:00",
+  "collected_at": "2026-10-28T01:10:51.595210+00:00",
+  "title_ko": "오픈BMB, 문서 파싱 및 검증을 위한 OCR 모델 시리즈 공개",
+  "summary_ko": "오픈BMB가 문서 변환 시 정확도를 높이기 위해 1.3B 규모의 OCR 파싱 모델과 2B 규모의 검증 모델을 각각 출시했다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "OCR"
+  ]
+ },
+ {
   "id": "98d54002d7244f66",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216724",
   "source": "AI타임스",
@@ -338,6 +598,21 @@
   "category": "참고",
   "tags": [
    "OpenAI"
+  ]
+ },
+ {
+  "id": "6dac137a56a1e59d",
+  "url": "https://www.liquid.ai/blog/lfm3",
+  "source": "Hacker News",
+  "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
+  "published_at": "2026-10-27T17:04:50+00:00",
+  "collected_at": "2026-10-28T01:10:18.961695+00:00",
+  "title_ko": "리퀴드 AI, 멀티모달 특화 인공지능 LFM3 발표",
+  "summary_ko": "리퀴드 AI가 다양한 데이터 양식을 처리할 수 있는 특화형 인공지능 모델 패밀리 LFM3를 새롭게 선보였다.",
+  "category": "속보",
+  "tags": [
+   "멀티모달",
+   "오픈소스"
   ]
  },
  {
@@ -797,6 +1072,22 @@
   "tags": [
    "오픈소스",
    "LLM"
+  ]
+ },
+ {
+  "id": "d42fb1eb3362412f",
+  "url": "https://openai.com/index/retell-ai",
+  "source": "OpenAI",
+  "title": "Retell uses OpenAI models to help power 100M monthly calls",
+  "published_at": "2026-10-27T15:00:00+00:00",
+  "collected_at": "2026-10-28T01:10:14.917635+00:00",
+  "title_ko": "리텔(Retell), 오픈AI 모델 기반 월 1억 건 통화 처리",
+  "summary_ko": "리텔은 오픈AI 모델을 활용해 월 1억 건의 음성 에이전트 통화를 지원하며 높은 수익성장세를 기록 중이다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "GPT",
+   "AI 어시스턴트"
   ]
  }
 ]
