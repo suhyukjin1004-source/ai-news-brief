@@ -1,5 +1,63 @@
 [
  {
+  "id": "d29f179e903a044f",
+  "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+  "source": "MIT Tech Review",
+  "title": "Creating AI value with enterprise context",
+  "published_at": "2026-10-28T20:32:02+00:00",
+  "collected_at": "2026-10-28T20:57:16.074929+00:00",
+  "title_ko": "기업용 AI 가치 창출을 위한 컨텍스트 활용",
+  "summary_ko": "기업 내 다양한 AI 시스템이 원활히 작동하려면 비즈니스 고유의 컨텍스트를 통합하는 것이 중요합니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "2aa5630194fd6784",
+  "url": "https://news.hada.io/topic?id=36182",
+  "source": "GeekNews",
+  "title": "M6를 탑재한 새로운 14인치 MacBook Pro",
+  "published_at": "2026-10-28T19:49:02+00:00",
+  "collected_at": "2026-10-28T20:57:34.645556+00:00",
+  "title_ko": "온디바이스 AI 성능이 강화된 M6 탑재 MacBook Pro",
+  "summary_ko": "Apple이 온디바이스 AI 작업 성능을 최대 25% 끌어올린 M6 칩셋 기반의 새로운 14인치 맥북 프로를 공개했습니다.",
+  "category": "속보",
+  "tags": [
+   "Apple",
+   "반도체"
+  ]
+ },
+ {
+  "id": "765e27c117414c5e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhydgj/models_are_chasing_unrealistic_benchmarks_but_the/",
+  "source": "r/LocalLLaMA",
+  "title": "Models are chasing unrealistic benchmarks but the working-level intelligence is already achieved",
+  "published_at": "2026-10-28T19:44:18+00:00",
+  "collected_at": "2026-10-28T20:57:20.144600+00:00",
+  "title_ko": "실무 수준을 넘어 벤치마크 경쟁에 치중하는 AI 모델들",
+  "summary_ko": "최신 AI 벤치마크가 과도하게 지엽적인 영역에 치우쳐 있으며, 개발자가 실제로 원하는 것은 정확하고 군더더기 없는 지시 수행 능력이라는 지적입니다.",
+  "category": "참고",
+  "tags": [
+   "LLM"
+  ]
+ },
+ {
+  "id": "ea370fdd96af02d9",
+  "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+  "source": "TechCrunch",
+  "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+  "published_at": "2026-10-28T19:19:58+00:00",
+  "collected_at": "2026-10-28T20:57:03.347808+00:00",
+  "title_ko": "앤스로픽, 기업 고객용 AI 비용 분석 도구 출시",
+  "summary_ko": "기업들이 AI 모델 사용에 지출하는 비용과 그 효율성을 투명하게 확인할 수 있는 관리 도구를 공개했습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "투자"
+  ]
+ },
+ {
   "id": "74a22c03a6aa7e9a",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216767",
   "source": "AI타임스",
@@ -15,6 +73,37 @@
   ]
  },
  {
+  "id": "9b7eb8d0d28cf99d",
+  "url": "https://news.hada.io/topic?id=36178",
+  "source": "GeekNews",
+  "title": "Gemini 4 Carbon - 사이버 보안과 장기 에이전트 작업 역량을 강화한 모델",
+  "published_at": "2026-10-28T18:36:59+00:00",
+  "collected_at": "2026-10-28T20:57:34.645556+00:00",
+  "title_ko": "구글, 사이버 보안 및 에이전트 역량 강화한 Gemini 4 Carbon 발표",
+  "summary_ko": "복잡한 다단계 엔지니어링과 보안 방어 역량을 대폭 강화한 구글의 새 AI 모델이 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "Gemini",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "17600c8c07d9234f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhw2l0/a_4b_model_made_me_a_netherite_ingot_from_bare/",
+  "source": "r/LocalLLaMA",
+  "title": "A 4B model made me a netherite ingot from bare hands. All I did was type one sentence in chat.",
+  "published_at": "2026-10-28T18:21:25+00:00",
+  "collected_at": "2026-10-28T20:57:20.144600+00:00",
+  "title_ko": "소형 로컬 모델로 구현한 마인크래프트 자동화 파이프라인",
+  "summary_ko": "4B 파라미터 규모의 소형 로컬 LLM을 활용해 자연어 명령만으로 복잡한 게임 내 제작 과정을 수행하는 사례가 공유되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
   "id": "49687b61f0e6ec1c",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216738",
   "source": "AI타임스",
@@ -26,6 +115,22 @@
   "category": "속보",
   "tags": [
    "규제"
+  ]
+ },
+ {
+  "id": "32cc9002226a62e9",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhvf1z/theory_local_is_going_to_explode_at_enterprises/",
+  "source": "r/LocalLLaMA",
+  "title": "Theory: Local is going to explode at enterprises",
+  "published_at": "2026-10-28T17:58:04+00:00",
+  "collected_at": "2026-10-28T20:57:20.144600+00:00",
+  "title_ko": "기업 시장에서 급부상하는 로컬 AI 솔루션",
+  "summary_ko": "보안과 기밀 유지를 중시하는 기업들이 플러그앤플레이 방식의 고성능 로컬 AI 모델 도입을 적극 검토할 것이라는 전망입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "투자"
   ]
  },
  {
@@ -87,6 +192,65 @@
   ]
  },
  {
+  "id": "1844afc1ad26ccc1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhubiw/a_small_step_for_man_a_giant_step_for_local_ai/",
+  "source": "r/LocalLLaMA",
+  "title": "A small step for man, a GIANT step for LOCAL AI",
+  "published_at": "2026-10-28T17:19:05+00:00",
+  "collected_at": "2026-10-28T20:57:20.144600+00:00",
+  "title_ko": "Unsloth AI, 로컬 AI 접근성 향상 주도",
+  "summary_ko": "Unsloth AI 팀이 로컬 AI 생태계 발전을 이끌며 진입장벽을 낮추고 에이전트 시대의 기반을 다지고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "d3f0d7517acbbc27",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhu3b0/mac_studio_m5_ultra_512gb_starts_at_2229900_usd/",
+  "source": "r/LocalLLaMA",
+  "title": "Mac Studio M5 Ultra 512gb Starts at $22,299.00 USD",
+  "published_at": "2026-10-28T17:11:16+00:00",
+  "collected_at": "2026-10-28T20:57:20.144600+00:00",
+  "title_ko": "Mac Studio M5 Ultra 출시",
+  "summary_ko": "512GB 메모리를 탑재한 고성능 Mac Studio M5 Ultra가 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "반도체"
+  ]
+ },
+ {
+  "id": "6318bf62f2c5750d",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+  "source": "Hacker News",
+  "title": "Gemini 4 Carbon",
+  "published_at": "2026-10-28T17:01:23+00:00",
+  "collected_at": "2026-10-28T20:57:17.746948+00:00",
+  "title_ko": "구글, 차세대 프론티어 모델 'Gemini 4 Carbon' 공개",
+  "summary_ko": "구글이 새로운 AI 모델인 Gemini 4 Carbon을 발표하며 성능 경쟁에 불을 지폈습니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "Gemini"
+  ]
+ },
+ {
+  "id": "34b0bf3f94c3851e",
+  "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+  "source": "DeepMind",
+  "title": "Gemini 4 Carbon: Our next frontier model",
+  "published_at": "2026-10-28T17:00:58+00:00",
+  "collected_at": "2026-10-28T20:57:17.283903+00:00",
+  "title_ko": "구글, 차세대 프론티어 모델 Gemini 4 Carbon 발표",
+  "summary_ko": "구글 딥마인드가 자사의 차세대 AI 모델인 Gemini 4 Carbon을 공개했습니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "Gemini"
+  ]
+ },
+ {
   "id": "cd016c26a2d60792",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216740",
   "source": "AI타임스",
@@ -101,6 +265,52 @@
   ]
  },
  {
+  "id": "cca2247626bb8061",
+  "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+  "source": "The Verge",
+  "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+  "published_at": "2026-10-28T17:00:00+00:00",
+  "collected_at": "2026-10-28T20:57:03.444156+00:00",
+  "title_ko": "크롬 자동완성, Gmail 연동 기능 도입",
+  "summary_ko": "구글 크롬이 Gemini와 Personal Intelligence를 활용해 Gmail에서 정보를 가져와 양식을 채워주는 기능을 추가했습니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "Gemini"
+  ]
+ },
+ {
+  "id": "a01db71b034ce352",
+  "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+  "source": "TechCrunch",
+  "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+  "published_at": "2026-10-28T17:00:00+00:00",
+  "collected_at": "2026-10-28T20:57:03.347808+00:00",
+  "title_ko": "구글, AI 에이전트 생태계 확장을 위해 플랫폼 개방",
+  "summary_ko": "개발자들이 서비스를 구글의 AI 경험에 통합할 수 있는 새로운 플랫폼이 공개되었습니다.",
+  "category": "중요",
+  "tags": [
+   "Google",
+   "AI 에이전트",
+   "Gemini"
+  ]
+ },
+ {
+  "id": "5e4098babe95c0f8",
+  "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+  "source": "TechCrunch",
+  "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+  "published_at": "2026-10-28T17:00:00+00:00",
+  "collected_at": "2026-10-28T20:57:03.347808+00:00",
+  "title_ko": "크롬, AI 기반 Gmail 연동 자동완성 기능 출시",
+  "summary_ko": "사용자의 허가하에 Gmail 편지함의 항공편 및 주문 정보를 활용해 폼을 채워주는 크롬 업데이트가 배포되었습니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "Gemini"
+  ]
+ },
+ {
   "id": "ae80aca0a8066568",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216763",
   "source": "AI타임스",
@@ -111,6 +321,36 @@
   "summary_ko": "웹케시가 과기정통부 주관 독자 AI 파운데이션 모델 사업에 참여하여 K-엑사원 기반의 금융 AI 에이전트를 개발한다.",
   "category": "중요",
   "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "8f83d07b2a732e71",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhtg61/list_of_suggestions_for_gemma_5/",
+  "source": "r/LocalLLaMA",
+  "title": "List of suggestions for Gemma 5.",
+  "published_at": "2026-10-28T16:48:46+00:00",
+  "collected_at": "2026-10-28T20:57:20.144600+00:00",
+  "title_ko": "차세대 Gemma 5 모델을 위한 제안들",
+  "summary_ko": "추론 능력 향상을 위해 Gemma 5에 루프 트랜스포머 아키텍처를 도입해야 한다는 의견이 제기되었습니다.",
+  "category": "참고",
+  "tags": [
+   "Google",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "94bdedac0696aac1",
+  "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
+  "source": "Simon Willison",
+  "title": "GitHub Octoverse 2026",
+  "published_at": "2026-10-28T16:45:23+00:00",
+  "collected_at": "2026-10-28T20:57:19.415786+00:00",
+  "title_ko": "GitHub Octoverse 2026 보고서 발표",
+  "summary_ko": "에이전트 기반 엔지니어링의 영향으로 깃허브의 병합된 풀 리퀘스트와 커밋 수가 급증했습니다.",
+  "category": "중요",
+  "tags": [
+   "코딩",
    "AI 에이전트"
   ]
  },
@@ -131,6 +371,21 @@
   ]
  },
  {
+  "id": "cd47161048b640ea",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhsvmy/it_vendor_lists_massive_60_million_ai/",
+  "source": "r/LocalLLaMA",
+  "title": "IT vendor lists massive $60 million AI supercomputer on eBay with 9,600 Nvidia A100 GPUs and 4,200 AMD EPYC CPUs, plus free shipping — 300 racks of decommissioned GPUs on offer",
+  "published_at": "2026-10-28T16:28:00+00:00",
+  "collected_at": "2026-10-28T20:57:20.144600+00:00",
+  "title_ko": "이베이에 6천만 달러 규모 AI 슈퍼컴퓨터 매물 등장",
+  "summary_ko": "NVIDIA A100 GPU 9,600개가 포함된 대규모 AI 슈퍼컴퓨터 시스템이 이베이 중고 매물로 등록되었습니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
   "id": "5259596fc47463ea",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216753",
   "source": "AI타임스",
@@ -144,6 +399,37 @@
    "OpenAI",
    "GPT",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "b358f24cec5bcae3",
+  "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+  "source": "The Verge",
+  "title": "Meta says it’ll probably delay its controversial new business terms again",
+  "published_at": "2026-10-28T16:15:30+00:00",
+  "collected_at": "2026-10-28T20:57:03.444156+00:00",
+  "title_ko": "메타, AI 학습 반발로 신규 비즈니스 약관 연기 검토",
+  "summary_ko": "메타가 AI 학습 관련 퍼블리셔들의 반발에 부딪혀 신규 비즈니스 약관 적용 시점을 다시 연기할 가능성을 시사했습니다. 업계와의 충분한 협의를 거치겠다는 입장입니다.",
+  "category": "중요",
+  "tags": [
+   "Meta",
+   "규제",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "af3d5989065b7f46",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhsj1i/working_on_a_way_for_local_llms_to_share_context/",
+  "source": "r/LocalLLaMA",
+  "title": "Working on a way for local LLMs to share context without centralizing everything",
+  "published_at": "2026-10-28T16:15:29+00:00",
+  "collected_at": "2026-10-28T20:57:20.144600+00:00",
+  "title_ko": "로컬 LLM 간 컨텍스트 공유를 위한 휴대용 레이어 실험",
+  "summary_ko": "중앙집중식 서비스 없이 여러 로컬 LLM과 기기 간에 유용한 사실이나 결정 사항을 공유하기 위한 소형 휴대용 컨텍스트 레이어 실험이 진행 중입니다. 프라이버시를 유지하면서 협업 효율을 높이는 데 중요합니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
   ]
  },
  {
@@ -163,6 +449,20 @@
   ]
  },
  {
+  "id": "d5cb71ccb5d82a30",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhse0l/alternatives_to_artificial_analysis/",
+  "source": "r/LocalLLaMA",
+  "title": "Alternatives to Artificial Analysis",
+  "published_at": "2026-10-28T16:10:30+00:00",
+  "collected_at": "2026-10-28T20:57:20.144600+00:00",
+  "title_ko": "Artificial Analysis 대안을 찾는 커뮤니티",
+  "summary_ko": "AI 모델 성능 평가 사이트인 Artificial Analysis의 지표 변경 방식에 대한 불신이 커지면서, 개발자 커뮤니티를 중심으로 다른 평가 벤치마크 대안을 찾는 논의가 활발합니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "380116603104b197",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216756",
   "source": "AI타임스",
@@ -176,6 +476,21 @@
    "Anthropic",
    "OpenAI",
    "Claude"
+  ]
+ },
+ {
+  "id": "97373eedda74b8cd",
+  "url": "https://surgehq.ai/blog/dayjob-tax",
+  "source": "Hacker News",
+  "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+  "published_at": "2026-10-28T15:46:30+00:00",
+  "collected_at": "2026-10-28T20:57:17.746948+00:00",
+  "title_ko": "전문 세무 과제 50개로 평가한 AI 에이전트 성능",
+  "summary_ko": "전문적인 세무 과제 50가지를 활용해 AI 에이전트의 실무 수행 능력을 평가한 결과가 공개되었습니다. 고도의 전문 업무에서 AI의 실효성을 가늠하는 중요한 지표가 됩니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
   ]
  },
  {
