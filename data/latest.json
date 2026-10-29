@@ -1,8 +1,244 @@
 {
- "updated_at": "2026-10-28T20:57:50.519167+00:00",
+ "updated_at": "2026-10-29T00:47:31.890792+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "7e272252bf60cfa4",
+   "url": "https://news.hada.io/topic?id=36200",
+   "source": "GeekNews",
+   "title": "kern - AI 생성 코드를 매번 새 컨테이너에서 실행하는 경량 루트리스 런타임",
+   "published_at": "2026-10-29T00:30:03+00:00",
+   "collected_at": "2026-10-29T00:47:22.598213+00:00",
+   "title_ko": "AI 생성 코드 격리를 위한 경량 루트리스 런타임 'kern'",
+   "summary_ko": "AI 생성 코드나 에이전트 도구 호출을 호스트에 직접 실행하지 않고 별도 컨테이너에 안전하게 격리하는 경량 런타임입니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "7d8ed5a792956bc0",
+   "url": "https://news.hada.io/topic?id=36197",
+   "source": "GeekNews",
+   "title": "Artificial Analysis Intelligence Index v5 - 비공개 평가 비중을 60%로 높인 AI 모델 역량 지수",
+   "published_at": "2026-10-29T00:10:15+00:00",
+   "collected_at": "2026-10-29T00:47:22.598213+00:00",
+   "title_ko": "비공개 평가 비중 높인 AI 모델 역량 지수 v5 공개",
+   "summary_ko": "Artificial Analysis가 비공개 테스트 세트의 비중을 60%로 높인 새로운 AI 모델 역량 지수를 발표했습니다.",
+   "category": "중요",
+   "tags": [
+    "Claude",
+    "GPT"
+   ]
+  },
+  {
+   "id": "2583890d5277ad33",
+   "url": "https://news.hada.io/topic?id=36196",
+   "source": "GeekNews",
+   "title": "NVIDIA Nemotron 3.5 Transcribe: 40개 언어를 지원하는 공개 음성 인식 모델",
+   "published_at": "2026-10-29T00:06:36+00:00",
+   "collected_at": "2026-10-29T00:47:22.598213+00:00",
+   "title_ko": "엔비디아, 40개 언어 지원 오픈 음성 인식 모델 공개",
+   "summary_ko": "엔비디아가 전사, 화자 구분, 번역 등을 하나의 모델로 제공하는 'Nemotron 3.5 Transcribe'를 공개했습니다.",
+   "category": "속보",
+   "tags": [
+    "NVIDIA",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "52ced88a57d97548",
+   "url": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
+   "source": "Simon Willison",
+   "title": "Quoting Ted Sanders",
+   "published_at": "2026-10-28T23:23:21+00:00",
+   "collected_at": "2026-10-29T00:47:07.489847+00:00",
+   "title_ko": "LLM 성능의 다차원성과 모델 크기의 중요성",
+   "summary_ko": "LLM의 성능은 다양한 요소로 이루어져 있으나, 여전히 모델의 크기가 성능과 비용을 결정하는 핵심 변수임을 설명합니다.",
+   "category": "참고",
+   "tags": [
+    "GPT"
+   ]
+  },
+  {
+   "id": "fd335157df3d16b1",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xi3l9r/electronics_hobbyist_converts_120_ddr5_sodimm_kit/",
+   "source": "r/LocalLLaMA",
+   "title": "Electronics hobbyist converts $120 DDR5 SODIMM kit into ‘$1000’ desktop kit to fight RAM crisis — ICs from SK hynix DDR5-5600 16GB modules used to create DDR5-7800 desktop sticks",
+   "published_at": "2026-10-28T23:08:15+00:00",
+   "collected_at": "2026-10-29T00:47:08.290905+00:00",
+   "title_ko": "저렴한 DDR5 메모리로 고성능 데스크톱 램 개조 시도",
+   "summary_ko": "하드웨어 애호가들이 저렴한 모듈을 개조하여 LLM 구동용 고성능 메모리를 구축하는 시도가 공유되었습니다.",
+   "category": "팁",
+   "tags": [
+    "반도체"
+   ]
+  },
+  {
+   "id": "6e4063072a87ded3",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+   "source": "The Verge",
+   "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+   "published_at": "2026-10-28T23:05:39+00:00",
+   "collected_at": "2026-10-29T00:46:33.221333+00:00",
+   "title_ko": "인스타그램 수장 아담 모세리 \"AI를 향한 반발은 더 심해질 것\"",
+   "summary_ko": "인스타그램 대표가 대중과 학생들 사이에서 확산하는 AI 기술에 대한 거부감이 앞으로 더욱 커질 것이라고 언급했습니다.",
+   "category": "참고",
+   "tags": [
+    "Meta"
+   ]
+  },
+  {
+   "id": "7f9e1a654f7f0c78",
+   "url": "https://news.hada.io/topic?id=36191",
+   "source": "GeekNews",
+   "title": "AlpineBSD - NetBSD 기반에 Alpine Linux 스타일의 사용자 공간을 결합한 운영체제",
+   "published_at": "2026-10-28T22:39:50+00:00",
+   "collected_at": "2026-10-29T00:47:22.598213+00:00",
+   "title_ko": "AI 생성 코드 배제 지향하는 운영체제 'AlpineBSD'",
+   "summary_ko": "NetBSD 커널 기반의 AlpineBSD가 기본 시스템과 저장소에서 LLM 생성 코드를 최대한 배제하는 방향을 목표로 내걸었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "8d1285df5e432320",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xi2jfm/i_ran_doom_inside_the_qwen_model_weights/",
+   "source": "r/LocalLLaMA",
+   "title": "I ran Doom inside the Qwen model weights!",
+   "published_at": "2026-10-28T22:24:32+00:00",
+   "collected_at": "2026-10-29T00:47:08.290905+00:00",
+   "title_ko": "Qwen 모델 가중치 내부에서 고전 게임 '둠' 구동 성공",
+   "summary_ko": "오픈소스 LLM의 가상 환경 프로젝트를 활용해 모델 가중치 내부에서 게임 '둠'을 실행하는 실험 결과가 공유되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "8edef3634d518b38",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xi25sk/singleneuron_identity_shifts/",
+   "source": "r/LocalLLaMA",
+   "title": "Single-Neuron Identity Shifts",
+   "published_at": "2026-10-28T22:09:19+00:00",
+   "collected_at": "2026-10-29T00:47:08.290905+00:00",
+   "title_ko": "LLM 뉴런 조작을 통한 단일 뉴런 정체성 변화 실험",
+   "summary_ko": "오픈소스 모델의 개별 뉴런을 실시간으로 조작하여 모델의 정체성과 응답이 완전히 바뀌는 흥미로운 실험이 진행되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "1134b6a1764aac4f",
+   "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+   "source": "TechCrunch",
+   "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+   "published_at": "2026-10-28T21:58:32+00:00",
+   "collected_at": "2026-10-29T00:46:33.070548+00:00",
+   "title_ko": "마이크로소프트, 애저 클라우드 매출 332억 달러 공개",
+   "summary_ko": "마이크로소프트가 클라우드 서비스 애저(Azure)의 분기 매출을 최초로 공개하며 AWS와의 격차를 좁혀가고 있음을 보여주었습니다.",
+   "category": "중요",
+   "tags": [
+    "Microsoft",
+    "클라우드"
+   ]
+  },
+  {
+   "id": "9b7dd4a7a6853f5d",
+   "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+   "source": "TechCrunch",
+   "title": "Google expands AI Search ads globally as core ad growth slows",
+   "published_at": "2026-10-28T21:48:37+00:00",
+   "collected_at": "2026-10-29T00:46:33.070548+00:00",
+   "title_ko": "구글, AI 검색 광고 글로벌 확대로 수익성 강화",
+   "summary_ko": "알파벳의 3분기 실적 발표와 함께 구글이 AI 기반 검색 광고를 전 세계로 확대한다고 밝혔습니다.",
+   "category": "중요",
+   "tags": [
+    "Google",
+    "AI 광고"
+   ]
+  },
+  {
+   "id": "f9d1493b929c42b6",
+   "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+   "source": "TechCrunch",
+   "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+   "published_at": "2026-10-28T21:34:30+00:00",
+   "collected_at": "2026-10-29T00:46:33.070548+00:00",
+   "title_ko": "마이크로소프트, 오픈AI 관련 매출 100억 달러 기록",
+   "summary_ko": "마이크로소프트가 오픈AI와의 상업적 제휴를 통해 100억 달러의 매출을 기록하며 두 기업 간의 깊은 재무적 의존성을 입증했습니다.",
+   "category": "중요",
+   "tags": [
+    "Microsoft",
+    "OpenAI",
+    "투자"
+   ]
+  },
+  {
+   "id": "8a483cf9155c8cb5",
+   "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+   "source": "The Verge",
+   "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+   "published_at": "2026-10-28T21:34:04+00:00",
+   "collected_at": "2026-10-29T00:46:33.221333+00:00",
+   "title_ko": "아카이, 오픈소스 펌웨어와 바이브 코딩 결합",
+   "summary_ko": "아카이가 커스텀 펌웨어 개발자들과 해커들을 위해 오픈소스 MPC 기기를 선보이며 모딩 문화를 적극 수용하고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "9ea2b27b6cc0ddd9",
+   "url": "https://news.hada.io/topic?id=36188",
+   "source": "GeekNews",
+   "title": "DAYJOB: Tax - 전문 세무 과제 50개로 AI 에이전트 평가하기",
+   "published_at": "2026-10-28T21:33:11+00:00",
+   "collected_at": "2026-10-29T00:47:22.598213+00:00",
+   "title_ko": "전문 세무 과제로 AI 에이전트 역량 평가하는 DAYJOB 출시",
+   "summary_ko": "세무 업무 전 과정을 책임지고 수행하는지 평가하는 벤치마크 DAYJOB이 공개되었으며, AI 에이전트의 실무 전문성을 시험합니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "Claude",
+    "코딩"
+   ]
+  },
+  {
+   "id": "0ef91bd8c8c1525a",
+   "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+   "source": "TechCrunch",
+   "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+   "published_at": "2026-10-28T21:25:30+00:00",
+   "collected_at": "2026-10-29T00:46:33.070548+00:00",
+   "title_ko": "마이크로소프트, 10분기 연속 최고 매출 경신",
+   "summary_ko": "마이크로소프트가 AI 열풍 속에서 923억 달러의 분기 매출을 기록하며 10분기 연속 사상 최대 실적을 이어갔습니다.",
+   "category": "중요",
+   "tags": [
+    "Microsoft",
+    "투자"
+   ]
+  },
+  {
+   "id": "efeab0fbb0f2bb0c",
+   "url": "https://news.hada.io/topic?id=36185",
+   "source": "GeekNews",
+   "title": "이 브라우저 지문 수집 스크립트는 왜 생물무기를 만들고 있을까?",
+   "published_at": "2026-10-28T20:38:56+00:00",
+   "collected_at": "2026-10-29T00:47:22.598213+00:00",
+   "title_ko": "LLM 안전장치 우회 위해 생물무기 언급 악용하는 안티봇 스크립트 발견",
+   "summary_ko": "웹 스크래핑 방지 스크립트가 LLM의 난독화 해제를 유도하기 위해 생물무기 관련 함수명을 사용하는 기법이 발견되었습니다.",
+   "category": "참고",
+   "tags": [
+    "규제",
+    "보안"
+   ]
+  },
   {
    "id": "d29f179e903a044f",
    "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
@@ -14,6 +250,22 @@
    "summary_ko": "기업 내 다양한 AI 시스템이 원활히 작동하려면 비즈니스 고유의 컨텍스트를 통합하는 것이 중요합니다.",
    "category": "참고",
    "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "5ca8bf6a7f7b11ca",
+   "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+   "source": "The Verge",
+   "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+   "published_at": "2026-10-28T20:03:00+00:00",
+   "collected_at": "2026-10-29T00:46:33.221333+00:00",
+   "title_ko": "구글, 사이버보안 강화된 차세대 모델 '제미나이 4 카본' 출시",
+   "summary_ko": "구글이 코딩과 에이전트 작업, 사이버보안 성능을 대폭 향상시킨 최신 플래그십 모델 제미나이 4 카본을 공개했습니다.",
+   "category": "속보",
+   "tags": [
+    "Google",
+    "Gemini",
     "AI 에이전트"
    ]
   },
@@ -90,6 +342,21 @@
     "Google",
     "Gemini",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "238a740f5b9d30cb",
+   "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+   "source": "The Verge",
+   "title": "Microsoft is ending Copilot support on smart TVs",
+   "published_at": "2026-10-28T18:36:26+00:00",
+   "collected_at": "2026-10-29T00:46:33.221333+00:00",
+   "title_ko": "마이크로소프트, 스마트 TV용 코파일럿 지원 중단",
+   "summary_ko": "마이크로소프트가 LG와 삼성 스마트 TV에서 제공하던 AI 어시스턴트 코파일럿 지원을 올해 종료하기로 했습니다.",
+   "category": "속보",
+   "tags": [
+    "Microsoft",
+    "Copilot"
    ]
   },
   {
@@ -2716,269 +2983,6 @@
    "summary_ko": "AI가 업무 효율을 높여줄 것이라는 기대와 달리, 실제 지식 노동자들은 더 많은 업무와 관리 부담에 시달리고 있다는 분석입니다.",
    "category": "참고",
    "tags": []
-  },
-  {
-   "id": "02c774ec5299e23a",
-   "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-   "source": "TechCrunch",
-   "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-   "published_at": "2026-10-27T11:00:00+00:00",
-   "collected_at": "2026-10-27T16:25:04.451536+00:00",
-   "title_ko": "엔비디아, GPU 효율 극대화 인도 스타트업 '심플리마트' 투자",
-   "summary_ko": "적은 수의 GPU로 AI 모델을 구동할 수 있게 돕는 인도 스타트업 심플리마트가 엔비디아의 지원 속에서 급성장하고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "반도체",
-    "투자"
-   ]
-  },
-  {
-   "id": "5f25f64d956fc31f",
-   "url": "https://news.hada.io/topic?id=36104",
-   "source": "GeekNews",
-   "title": "Show GN: HypeSeoul – AI가 그린 서울 전체, 서울 시간대로 움직이는 지도",
-   "published_at": "2026-10-27T10:43:30+00:00",
-   "collected_at": "2026-10-27T16:25:54.648238+00:00",
-   "title_ko": "AI로 그린 서울 전역의 아이소메트릭 지도 'HypeSeoul'",
-   "summary_ko": "생성형 AI 기술을 활용해 서울 전체를 뉴욕 스타일의 아이소메트릭 그림 지도로 구현한 프로젝트가 공개되었습니다.",
-   "category": "팁",
-   "tags": []
-  },
-  {
-   "id": "9a026dd65bb834be",
-   "url": "https://news.hada.io/topic?id=36103",
-   "source": "GeekNews",
-   "title": "vLLM의 도구 호출 정확도 문제 해결하기",
-   "published_at": "2026-10-27T10:33:31+00:00",
-   "collected_at": "2026-10-27T16:25:54.648238+00:00",
-   "title_ko": "vLLM 환경에서의 도구 호출 정확도 개선 방안",
-   "summary_ko": "vLLM 등 오픈소스 서빙 프레임워크에서 스키마 이탈로 인한 도구 호출 오류를 제약 디코딩을 통해 해결하는 방법입니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "e4179a7e31d7317b",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgoxvu/we_put_deepseek_in_charge_of_four_qwen359b_models/",
-   "source": "r/LocalLLaMA",
-   "title": "We put DeepSeek in charge of four Qwen3.5-9B models to reverse engineer binaries using smaller open models.",
-   "published_at": "2026-10-27T10:32:27+00:00",
-   "collected_at": "2026-10-27T16:25:40.412309+00:00",
-   "title_ko": "딥시크 주도 하에 소형 큐웬 모델들로 바이너리 리버스 엔지니어링 수행",
-   "summary_ko": "대형 프론티어 모델의 지휘 아래 여러 대의 소형 오픈소스 Qwen 모델이 협력하여 바이너리 코드를 효율적으로 분석하는 시스템이 구축되었습니다.",
-   "category": "중요",
-   "tags": [
-    "DeepSeek",
-    "Qwen",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "b62586f30398ddea",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgopmj/debunking_coheres_claim_of_qwen_38_flash_next/",
-   "source": "r/LocalLLaMA",
-   "title": "Debunking Cohere's claim of Qwen 3.8 Flash Next uploading to Alibaba remote URL",
-   "published_at": "2026-10-27T10:19:31+00:00",
-   "collected_at": "2026-10-27T16:25:40.412309+00:00",
-   "title_ko": "코히어의 알리바바 원격 URL 유출 주장 반박 분석",
-   "summary_ko": "허깅페이스 트레이스 분석을 통해 Qwen 모델 관련 데이터 유출 주장의 허점과 프롬프트 프리필 조작 가능성이 제기되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "b17eb9dbde5d2705",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgojqz/tensor_split_over_pcie_30_x1_good_results/",
-   "source": "r/LocalLLaMA",
-   "title": "Tensor Split Over PCIe 3.0 x1 — Good Results",
-   "published_at": "2026-10-27T10:10:09+00:00",
-   "collected_at": "2026-10-27T10:23:10.823907+00:00",
-   "title_ko": "PCIe 3.0 x1 슬롯에서의 텐서 분할 성능 검증",
-   "summary_ko": "PCIe 3.0 x1 라이저 카드를 사용해 듀얼 GPU로 텐서 분할을 구동한 결과, 예상보다 병목이 적고 성능 향상이 있었다는 홈랩 구축 공유입니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "NVIDIA",
-    "코딩"
-   ]
-  },
-  {
-   "id": "bfdce445bdcb3b02",
-   "url": "https://news.hada.io/topic?id=36101",
-   "source": "GeekNews",
-   "title": "Show GN: 봉오리 - 질문에 답하다 보면 하루가 정리되는 AI 일기",
-   "published_at": "2026-10-27T10:04:55+00:00",
-   "collected_at": "2026-10-27T16:25:54.648238+00:00",
-   "title_ko": "대화를 통해 하루를 정리하는 AI 일기 서비스 '봉오리'",
-   "summary_ko": "사용자의 답변 속 키워드를 바탕으로 AI가 추가 질문을 던져 감정과 주제를 정리해 주는 대화형 일기 서비스입니다.",
-   "category": "팁",
-   "tags": []
-  },
-  {
-   "id": "f900226b31c46510",
-   "url": "https://www.reddit.com/r/singularity/comments/1xgo86l/two_physicists_asked_ai_to_choose_a_problem_on/",
-   "source": "r/singularity",
-   "title": "Two physicists asked AI to choose a problem on its own, solve it and write a paper that could be published in a prestigious journal. In two hours, AI produced a paper with a novel, significant result.",
-   "published_at": "2026-10-27T09:50:58+00:00",
-   "collected_at": "2026-10-28T01:11:04.722977+00:00",
-   "title_ko": "물리학자들의 의뢰로 AI가 스스로 학술지 수준의 논문 작성 성공",
-   "summary_ko": "AI가 인간의 개입 없이 스스로 과학적 문제를 선정하고 해결하여 저명한 학술지에 실릴 만한 논문을 두 시간 만에 완성했다.",
-   "category": "중요",
-   "tags": [
-    "과학",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "710cb45444826571",
-   "url": "https://news.hada.io/topic?id=36100",
-   "source": "GeekNews",
-   "title": "Show GN: 카드 배틀 - Decision Model을 이용한..",
-   "published_at": "2026-10-27T09:37:57+00:00",
-   "collected_at": "2026-10-27T16:25:54.648238+00:00",
-   "title_ko": "디시전 모델 기반의 자연어 카드 배틀 게임",
-   "summary_ko": "자연어를 이용해 자신만의 카드 덱을 만들고 AI 기반의 디시전 모델로 대전하는 인디 카드 게임 프로젝트입니다.",
-   "category": "팁",
-   "tags": []
-  },
-  {
-   "id": "350bde6b5d329523",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgnhw5/i_made_pumpkin_a_graphical_manager_for_llamacpp/",
-   "source": "r/LocalLLaMA",
-   "title": "I made Pumpkin, a graphical manager for llama.cpp for my girlfriend. It turned out well, so I put it on github",
-   "published_at": "2026-10-27T09:05:13+00:00",
-   "collected_at": "2026-10-27T10:23:10.823907+00:00",
-   "title_ko": "초보자를 위한 llama.cpp GUI 관리 도구 'Pumpkin'",
-   "summary_ko": "터미널 사용이 익숙하지 않은 사용자가 로컬 LLM을 쉽게 실행할 수 있도록 하드웨어를 감지하고 최적의 양자화 모델을 설정해주는 그래픽 관리 도구입니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "eb53ba03bb2faa54",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgnbtq/baiduunlimitedocr2_hugging_face/",
-   "source": "r/LocalLLaMA",
-   "title": "baidu/Unlimited-OCR-2 · Hugging Face",
-   "published_at": "2026-10-27T08:54:41+00:00",
-   "collected_at": "2026-10-27T10:23:10.823907+00:00",
-   "title_ko": "바이두, 무한 문서 파싱 지원 'Unlimited-OCR 2' 공개",
-   "summary_ko": "새로운 SR-SWA 기술을 적용해 컨텍스트 윈도우 내에서 문서 길이에 상관없이 일정한 지연 시간과 메모리로 무한대 파싱을 수행하는 OCR 모델입니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "3fd4e128ed0581e9",
-   "url": "https://www.reddit.com/r/singularity/comments/1xgmlas/internal_claude_research_model_also_independently/",
-   "source": "r/singularity",
-   "title": "Internal Claude research model also independently refuted the Exponential Time Hypothesis on October 16, with 14M output tokens and no human input.",
-   "published_at": "2026-10-27T08:05:24+00:00",
-   "collected_at": "2026-10-28T01:11:04.722977+00:00",
-   "title_ko": "클로드 연구용 모델, 인간 개입 없이 독자적 수학 가설 반박",
-   "summary_ko": "앤스로픽의 클로드 내부 연구 모델이 인간의 도움 없이 수백만 개의 토큰을 생성하며 지수 시간 가설(ETH)을 독자적으로 반박했다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "Claude",
-    "수학"
-   ]
-  },
-  {
-   "id": "02629b5510ed4d14",
-   "url": "https://news.hada.io/topic?id=36098",
-   "source": "GeekNews",
-   "title": "Nietzschian Debugger - 답 대신 질문으로 스스로 버그 원인을 찾게 하는 디버거",
-   "published_at": "2026-10-27T07:32:17+00:00",
-   "collected_at": "2026-10-27T10:23:25.454418+00:00",
-   "title_ko": "스스로 버그 원인을 찾게 돕는 'Nietzschian Debugger'",
-   "summary_ko": "직접적인 코드 수정 대신 질문을 통해 개발자가 스스로 가정과 추론을 검증하며 디버깅 역량을 기르도록 유도하는 AI 기반 CLI 도구입니다.",
-   "category": "팁",
-   "tags": [
-    "코딩",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "a3a879144b2984ac",
-   "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-   "source": "OpenAI",
-   "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-   "published_at": "2026-10-27T07:00:00+00:00",
-   "collected_at": "2026-10-27T21:12:44.497537+00:00",
-   "title_ko": "오픈에이아이, 오라클과 파트너십 확대",
-   "summary_ko": "오픈에이아이가 오라클과의 협력을 강화해 기업용 애플리케이션과 AI 에이전트를 ChatGPT에 통합합니다. 기업 시장 공략이 가속화될 전망입니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "AI 에이전트",
-    "투자"
-   ]
-  },
-  {
-   "id": "c5f7c50d4d1a0a71",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xglhtx/how_to_use_q8_ngram_with_lower_quant_qwen_38/",
-   "source": "r/LocalLLaMA",
-   "title": "How to use Q8 ngram with lower quant Qwen 3.8 Flash Next in Strata and avoid errors",
-   "published_at": "2026-10-27T06:54:21+00:00",
-   "collected_at": "2026-10-27T10:23:10.823907+00:00",
-   "title_ko": "Qwen 모델용 Q8 ngram을 활용한 성능 향상 팁",
-   "summary_ko": "VRAM 증가 없이 Qwen 모델의 출력 품질과 지능을 높이기 위해 Q8 ngram을 사이드로드하여 Strata에서 구동하는 방법입니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "bf138b1722c9927a",
-   "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
-   "source": "Hacker News",
-   "title": "“AI Skills” are worthless in 2026",
-   "published_at": "2026-10-27T06:33:34+00:00",
-   "collected_at": "2026-10-28T08:17:53.559401+00:00",
-   "title_ko": "단순한 AI 활용 기술의 가치 하락 전망",
-   "summary_ko": "AI 기술의 발전으로 인해 단순한 프롬프트 작성 등 표면적인 AI 스킬의 시장 가치가 점차 사라질 것이라는 분석입니다.",
-   "category": "참고",
-   "tags": [
-    "AI"
-   ]
-  },
-  {
-   "id": "28a6231d179f47b7",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216689",
-   "source": "AI타임스",
-   "title": "앤트로픽, IPO 위험 공개…보안 사고부터 데이터센터 반발까지",
-   "published_at": "2026-10-27T06:28:25+00:00",
-   "collected_at": "2026-10-26T23:45:55.354907+00:00",
-   "title_ko": "앤트로픽, IPO 앞두고 보안 사고 및 인프라 위험 공개",
-   "summary_ko": "앤트로픽이 상장 신청서에서 AI 보안 사고와 전력·반도체 공급망 의존 등 사업 위험 요인을 공개했습니다. 대규모 투자 유치에도 불구하고 안전 문제와 인프라 제약이 성장의 걸림돌이 될 수 있습니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "규제",
-    "반도체"
-   ]
-  },
-  {
-   "id": "eb967c2830c030f6",
-   "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-   "source": "Hacker News",
-   "title": "The Mythical Man-Month in the Age of AI",
-   "published_at": "2026-10-27T06:25:37+00:00",
-   "collected_at": "2026-10-27T10:23:09.274846+00:00",
-   "title_ko": "AI 시대의 '맨 달의 신화'",
-   "summary_ko": "소프트웨어 공학 고전인 맨 달의 신화 관점에서 생성형 AI가 개발 생산성과 팀 관리 구조에 미치는 영향을 고찰한 글입니다.",
-   "category": "참고",
-   "tags": [
-    "코딩",
-    "AI 에이전트"
-   ]
   }
  ]
 }
