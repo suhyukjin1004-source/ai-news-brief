@@ -1,5 +1,151 @@
 [
  {
+  "id": "1e09943a421e9246",
+  "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+  "source": "TechCrunch",
+  "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+  "published_at": "2026-10-29T20:08:31+00:00",
+  "collected_at": "2026-10-29T20:11:09.714007+00:00",
+  "title_ko": "레딧, AI 검색 확산에 대응해 로그인 중심 서비스로 전환",
+  "summary_ko": "AI가 웹 검색 생태계를 바꾸면서 레딧이 오픈웹 기반에서 로그인 사용자 중심의 경험으로 전환을 추진합니다. 사용자 데이터와 비즈니스를 보호하기 위한 조치입니다.",
+  "category": "중요",
+  "tags": [
+   "AI 검색",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "7587406daf7d14d3",
+  "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+  "source": "TechCrunch",
+  "title": "Rivian expands joint venture with VW to include AI assistant",
+  "published_at": "2026-10-29T20:05:47+00:00",
+  "collected_at": "2026-10-29T20:11:09.714007+00:00",
+  "title_ko": "리비안, 폭스바겐과의 합작 투자 범위에 AI 어시스턴트 포함",
+  "summary_ko": "리비안이 폭스바겐과의 58억 달러 규모 합작 투자 계약에 AI 어시스턴트 개발을 추가했습니다.",
+  "category": "중요",
+  "tags": [
+   "투자",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "4db20898e948fcbb",
+  "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+  "source": "TechCrunch",
+  "title": "OpenAI-backed Thrive Holdings acquires ADT",
+  "published_at": "2026-10-29T19:56:19+00:00",
+  "collected_at": "2026-10-29T20:11:09.714007+00:00",
+  "title_ko": "오픈AI가 지원하는 트라이브 홀딩스, ADT 153억 달러에 인수",
+  "summary_ko": "오픈AI가 지원하는 트라이브 홀딩스가 홈 보안 기업 ADT를 인수하며 홈 보안 시장에 AI를 도입할 계획입니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "투자"
+  ]
+ },
+ {
+  "id": "f9c793d605be32d5",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xiu31b/why_does_no_one_seem_to_give_a_damn_about_high/",
+  "source": "r/LocalLLaMA",
+  "title": "Why does no one seem to give a damn about High Bandwidth Flash?",
+  "published_at": "2026-10-29T19:45:44+00:00",
+  "collected_at": "2026-10-29T20:11:25.823616+00:00",
+  "title_ko": "고대역폭 플래시 메모리 기술에 대한 업계의 무관심",
+  "summary_ko": "단일 GPU에서 수 테라바이트 읽기 속도를 지원하는 고대역폭 플래시가 발표되었음에도 업계에서 주목받지 못하고 있는 현상에 대한 논의입니다.",
+  "category": "참고",
+  "tags": [
+   "반도체"
+  ]
+ },
+ {
+  "id": "c10b4c5633790420",
+  "url": "https://news.hada.io/topic?id=36244",
+  "source": "GeekNews",
+  "title": "LLM 문체가 만드는 글의 불쾌한 골짜기",
+  "published_at": "2026-10-29T19:36:51+00:00",
+  "collected_at": "2026-10-29T20:11:40.388251+00:00",
+  "title_ko": "LLM 문체가 유발하는 글의 불쾌한 골짜기 현상",
+  "summary_ko": "LLM 특유의 문체가 독자에게 거부감을 일으키므로, 초안 작성 시에도 본문은 직접 작성하는 것이 좋다는 분석입니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "코딩"
+  ]
+ },
+ {
+  "id": "bde015e58f3737fa",
+  "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+  "source": "TechCrunch",
+  "title": "Meta quietly launches an AI fashion app called Style Sketch",
+  "published_at": "2026-10-29T19:14:36+00:00",
+  "collected_at": "2026-10-29T20:11:09.714007+00:00",
+  "title_ko": "메타, 인스타그램 연동 AI 패션 앱 '스타일 스케치' 출시",
+  "summary_ko": "메타가 사용자의 기존 인스타그램 사진 등을 활용해 가상 옷장을 만들어주는 AI 패션 앱 '스타일 스케치'를 조용히 출시했습니다.",
+  "category": "속보",
+  "tags": [
+   "Meta"
+  ]
+ },
+ {
+  "id": "d02a22d338af9d13",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xisqge/ukisai_swift_glm53_gsqrco_swift_ornith_9b_577/",
+  "source": "r/LocalLLaMA",
+  "title": "UkisAI Swift GLM5.3 + GSQ-RCO, Swift Ornith 9B / -57.7% Token Usage with <1% accuracy loss on max reasoning",
+  "published_at": "2026-10-29T18:54:31+00:00",
+  "collected_at": "2026-10-29T20:11:25.823616+00:00",
+  "title_ko": "우키스AI, 추론 효율성을 높인 신규 모델 시리즈 공개",
+  "summary_ko": "불필요한 토큰 사용을 줄이고 강화학습을 통해 정확도를 유지한 Swift GLM-5.3 및 Swift Ornith 9B 모델이 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "de20cb065fe82ea7",
+  "url": "https://news.hada.io/topic?id=36242",
+  "source": "GeekNews",
+  "title": "Google 검색, 이제 Alphabet 매출의 절반 미만",
+  "published_at": "2026-10-29T18:36:47+00:00",
+  "collected_at": "2026-10-29T20:11:40.388251+00:00",
+  "title_ko": "구글 검색 매출, 알파벳 전체 매출의 50% 아래로 하락",
+  "summary_ko": "구글 검색 매출이 알파벳 전체 매출에서 차지하는 비중이 처음으로 절반 아래로 떨어지며 사업 다각화가 진행되고 있음을 보여줍니다.",
+  "category": "중요",
+  "tags": [
+   "Google"
+  ]
+ },
+ {
+  "id": "2981fb8a4e2789ca",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xis2qz/free_web_search_for_my_local_agent_stopped/",
+  "source": "r/LocalLLaMA",
+  "title": "Free web search for my local agent stopped working. What are you paying per 1,000 queries now?",
+  "published_at": "2026-10-29T18:29:47+00:00",
+  "collected_at": "2026-10-29T20:11:25.823616+00:00",
+  "title_ko": "로컬 AI 에이전트용 웹 검색 API 비용 및 대안 논의",
+  "summary_ko": "무료 검색 API 중단과 자체 구축한 검색 엔진의 캡차 문제로 인해, 개발자들이 유료 검색 API 비용과 서비스 선택을 고민하고 있습니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "66355fca5267c9a3",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xirt93/datapoint_for_ai_bubble_getting_harder_to_raise/",
+  "source": "r/LocalLLaMA",
+  "title": "Datapoint for AI bubble: getting harder to raise money for AI datacenters",
+  "published_at": "2026-10-29T18:20:00+00:00",
+  "collected_at": "2026-10-29T20:11:25.823616+00:00",
+  "title_ko": "AI 데이터센터 자금 조달난과 AI 버블 우려 대두",
+  "summary_ko": "월스트리트의 AI 부채 시장이 공급 한계에 부딪히며 AI 데이터센터와 네오클라우드 업체의 자금 조달이 어려워지고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "투자",
+   "반도체"
+  ]
+ },
+ {
   "id": "00b4411ed747fa3d",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216778",
   "source": "AI타임스",
@@ -29,6 +175,50 @@
    "Google",
    "OpenAI",
    "Anthropic"
+  ]
+ },
+ {
+  "id": "066f3bd17c5f1eff",
+  "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+  "source": "TechCrunch",
+  "title": "Granola crunches up a dictation feature to compete with Wispr",
+  "published_at": "2026-10-29T17:54:38+00:00",
+  "collected_at": "2026-10-29T20:11:09.714007+00:00",
+  "title_ko": "그라놀라, 회의록 앱에 음성 받아쓰기 기능 추가",
+  "summary_ko": "회의록 작성 앱 그라놀라가 음성 받아쓰기 기능을 추가하며 Wispr 등과 음성 AI 시장에서 경쟁을 본격화합니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "bc05a198d9c6635e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xiqw9i/why_you_cant_trust_cloud_api_endpoints_40_days_of/",
+  "source": "r/LocalLLaMA",
+  "title": "Why you can't trust cloud API endpoints: 40 days of coding-agent telemetry showing the exact day providers silently overwrote deepseek-v4.1-flash with -1017 (\"faster execution, shorter answers\" = 3x more swearing and 6.7x more model switches)",
+  "published_at": "2026-10-29T17:46:05+00:00",
+  "collected_at": "2026-10-29T20:11:25.823616+00:00",
+  "title_ko": "클라우드 API의 무단 모델 교체 문제와 개발자 불만",
+  "summary_ko": "클라우드 제공업체가 사전 고지 없이 딥시크 모델 가중치를 조용히 교체하면서 코딩 에이전트의 성능 저하와 예기치 않은 오류가 발생하고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "LLM",
+   "코딩"
+  ]
+ },
+ {
+  "id": "bef1feb7df81ec25",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xiqujs/old_xeon_x99_pc_with_256gb_ram_rtx_3090_ti_worth/",
+  "source": "r/LocalLLaMA",
+  "title": "old Xeon X99 PC with 256GB RAM + RTX 3090 Ti worth it for Strata LLM inference?",
+  "published_at": "2026-10-29T17:44:22+00:00",
+  "collected_at": "2026-10-29T20:11:25.823616+00:00",
+  "title_ko": "구형 제온 PC와 RTX 3090 Ti를 활용한 LLM 추론 구축기",
+  "summary_ko": "저렴한 구형 제온 PC에 대용량 RAM과 RTX 3090 Ti를 조합해 오프로딩 방식으로 대형 LLM을 구동하는 방법에 대한 탐색.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
   ]
  },
  {
@@ -79,6 +269,78 @@
   ]
  },
  {
+  "id": "a80dd20eaec84f5f",
+  "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+  "source": "Simon Willison",
+  "title": "Building a multiplayer game world with autonomous Fable-class models",
+  "published_at": "2026-10-29T17:00:26+00:00",
+  "collected_at": "2026-10-29T20:11:24.982591+00:00",
+  "title_ko": "자율형 AI 모델을 활용한 멀티플레이어 게임 세상 구축",
+  "summary_ko": "프론티어 모델과 에이전트 엔지니어링을 결합하여 플레이어가 프롬프트로 게임 세계를 실시간으로 수정하는 멀티플레이어 환경 구축 사례.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "7bf0065ceb1646f5",
+  "url": "https://openai.com/index/updated-model-spec",
+  "source": "OpenAI",
+  "title": "An updated Model Spec for more capable and beneficial AI",
+  "published_at": "2026-10-29T17:00:00+00:00",
+  "collected_at": "2026-10-29T20:11:22.918868+00:00",
+  "title_ko": "오픈AI, 안전성과 판단력 강화 위한 업데이트된 모델 스펙 공개",
+  "summary_ko": "오픈AI가 AI의 건전한 판단력과 인간의 의도 존중을 유도하기 위해 5가지 핵심 가치를 담은 모델 스펙을 새롭게 발표함.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "GPT",
+   "규제"
+  ]
+ },
+ {
+  "id": "23e63926cceaf4fd",
+  "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+  "source": "TechCrunch",
+  "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+  "published_at": "2026-10-29T17:00:00+00:00",
+  "collected_at": "2026-10-29T20:11:09.714007+00:00",
+  "title_ko": "미스트랄 AI, 사이버보안 타겟의 조 단위 파라미터 모델 가중치 공개",
+  "summary_ko": "미스트랄이 기업의 사이버 방어 통제력을 높이기 위해 폐쇄형 모델과 차별화된 대규모 보안 특화 AI 모델을 공개함.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "453d7f9808c674f1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xiplj7/kokoro_can_now_clone_any_voice_with_just_600_mb/",
+  "source": "r/LocalLLaMA",
+  "title": "Kokoro can now clone any voice with just ~600 MB of extra VRAM!",
+  "published_at": "2026-10-29T16:59:08+00:00",
+  "collected_at": "2026-10-29T20:11:25.823616+00:00",
+  "title_ko": "Kokoro TTS, 소량의 VRAM 추가로 모든 목소리 복제 가능해져",
+  "summary_ko": "Kokoro 음성 모델과 OpenVoice 변환기를 결합하여 적은 VRAM 오버헤드로 자유로운 음성 복제가 가능해짐.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "478f310810d14e0e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xipftk/servicenowaiaprielvoice27bpreview_hugging_face/",
+  "source": "r/LocalLLaMA",
+  "title": "ServiceNow-AI/Apriel-Voice-27B-preview · Hugging Face",
+  "published_at": "2026-10-29T16:53:23+00:00",
+  "collected_at": "2026-10-29T20:11:25.823616+00:00",
+  "title_ko": "서비스나우, 음성·추론·도구 호출 지원하는 'Apriel Voice 27B' 공개",
+  "summary_ko": "서비스나우가 젬마 백본을 기반으로 음성 이해와 도구 호출 능력을 갖춘 오픈 음성 AI 모델 'Apriel Voice 27B Preview'를 공개함.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "1c2a525b35293a5e",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216805",
   "source": "AI타임스",
@@ -92,6 +354,21 @@
    "NVIDIA",
    "반도체",
    "규제"
+  ]
+ },
+ {
+  "id": "a9493e03c65cfd3b",
+  "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+  "source": "TechCrunch",
+  "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+  "published_at": "2026-10-29T16:42:32+00:00",
+  "collected_at": "2026-10-29T20:11:09.714007+00:00",
+  "title_ko": "미국, 엔비디아 CEO 겨냥한 중국 간첩 음모 수사",
+  "summary_ko": "싱가포르 AI 클라우드 기업 임원이 엔비디아 칩의 대중국 불법 판매 연루 혐의와 함께 중국 간첩 혐의로 미국의 수사를 받고 있음.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "반도체"
   ]
  },
  {
@@ -121,6 +398,20 @@
   "category": "중요",
   "tags": [
    "반도체"
+  ]
+ },
+ {
+  "id": "4dcfcc0d194323eb",
+  "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+  "source": "TechCrunch",
+  "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+  "published_at": "2026-10-29T16:21:00+00:00",
+  "collected_at": "2026-10-29T20:11:09.714007+00:00",
+  "title_ko": "전직 팔란티어 임원들, a16z로부터 1,700만 달러 투자받아 건설용 AI 월드 모델 'Dream' 출시",
+  "summary_ko": "미국 전역의 방대한 건축 허가 데이터를 기반으로 실제 물리 법칙을 학습한 건설용 AI 월드 모델 'Dream'이 공개됨.",
+  "category": "중요",
+  "tags": [
+   "투자"
   ]
  },
  {
@@ -154,6 +445,37 @@
   ]
  },
  {
+  "id": "169aca9d9c2aff8c",
+  "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+  "source": "The Verge",
+  "title": "Microsoft’s AI future has fewer jobs",
+  "published_at": "2026-10-29T16:00:00+00:00",
+  "collected_at": "2026-10-29T20:11:09.875472+00:00",
+  "title_ko": "마이크로소프트, AI 도입으로 인한 대규모 인력 감축 시사",
+  "summary_ko": "마이크로소프트가 AI 도입에 따른 업무 효율화와 구조적 변화를 위해 자발적 퇴직 프로그램을 제안하며 인력 조정에 나섰습니다.",
+  "category": "중요",
+  "tags": [
+   "Microsoft",
+   "AI 에이전트",
+   "투자"
+  ]
+ },
+ {
+  "id": "a525c413ff0565ad",
+  "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
+  "source": "Hacker News",
+  "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
+  "published_at": "2026-10-29T15:45:05+00:00",
+  "collected_at": "2026-10-29T20:11:24.275604+00:00",
+  "title_ko": "그레이스 블랙웰을 위한 새로운 스케줄러 개발",
+  "summary_ko": "새로운 스케줄러 도입을 통해 동일한 랙에서 엔비디아 GPU의 가용 효율을 27% 향상시킬 수 있다는 분석이 나왔습니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
   "id": "8daa29985dede475",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216813",
   "source": "AI타임스",
@@ -183,6 +505,20 @@
    "OpenAI",
    "Anthropic",
    "규제"
+  ]
+ },
+ {
+  "id": "bd43dca7b97353c9",
+  "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+  "source": "Hacker News",
+  "title": "Zombie stats: Where the numbers AI quotes come from",
+  "published_at": "2026-10-29T15:06:17+00:00",
+  "collected_at": "2026-10-29T20:11:24.275604+00:00",
+  "title_ko": "AI가 인용하는 통계 데이터의 출처와 신뢰성 문제",
+  "summary_ko": "AI 모델이 답변에서 인용하는 통계 수치들이 검증되지 않은 채 반복 인용되는 현상과 그 문제점을 분석했습니다.",
+  "category": "참고",
+  "tags": [
+   "LLM"
   ]
  },
  {
