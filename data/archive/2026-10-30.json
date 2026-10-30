@@ -1,5 +1,63 @@
 [
  {
+  "id": "c4bb3b9b5d211edd",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+  "source": "The Verge",
+  "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+  "published_at": "2026-10-30T14:58:06+00:00",
+  "collected_at": "2026-10-30T19:09:49.530313+00:00",
+  "title_ko": "교황 레오, AI 군축 촉구하며 인간의 통제 강조",
+  "summary_ko": "교황 레오 XIV가 AI는 도구일 뿐이라며 유엔 회원국들에게 치명적인 자율 무기 금지를 위한 구체적 조치를 촉구함.",
+  "category": "중요",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
+  "id": "a67dac09b60e4ba2",
+  "url": "https://news.hada.io/topic?id=36293",
+  "source": "GeekNews",
+  "title": "미국 하원의원들, AI 거품 붕괴 시 빅테크 구제금융에 반대하는 민주당 결의안 발의 주도",
+  "published_at": "2026-10-30T14:36:18+00:00",
+  "collected_at": "2026-10-30T19:10:36.459143+00:00",
+  "title_ko": "미 민주당, AI 거품 붕괴 시 빅테크 구제금융 반대 결의안 발의",
+  "summary_ko": "미국 하원의원들이 AI 시장 거품 붕괴 시 기업과 경영진 구제를 반대하고 노동자를 보호하는 결의안을 발의했습니다. AI 산업의 경제적 리스크에 대한 정치권의 경계감이 커지고 있음을 보여줍니다.",
+  "category": "중요",
+  "tags": [
+   "규제",
+   "투자"
+  ]
+ },
+ {
+  "id": "1585d9fe027fed5b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjgne0/anyone_tried_nanbeige4333b/",
+  "source": "r/LocalLLaMA",
+  "title": "Anyone tried Nanbeige4.3-33B?",
+  "published_at": "2026-10-30T14:19:25+00:00",
+  "collected_at": "2026-10-30T19:10:22.007995+00:00",
+  "title_ko": "512K 컨텍스트 지원 33B 오픈소스 모델 'Nanbeige4.3' 공개",
+  "summary_ko": "512K의 긴 컨텍스트 윈도우와 추론, 코딩, 에이전트 능력을 갖춘 33B 파라미터 모델 Nanbeige4.3이 공개되었습니다. 높은 성능으로 주목받고 있으나 KV 캐시 사용량에 대한 실사용 평가가 논의되고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "005a785837226cbb",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjgfuv/another_reason_to_own_your_own_compute_your/",
+  "source": "r/LocalLLaMA",
+  "title": "Another reason to own your own compute. Your account may get banned in a sneaky update.",
+  "published_at": "2026-10-30T14:11:29+00:00",
+  "collected_at": "2026-10-30T19:10:22.007995+00:00",
+  "title_ko": "클라우드 AI 계정 차단 우려에 자체 연산 장치 소유 필요성 대두",
+  "summary_ko": "클라우드 기반 AI 서비스의 갑작스러운 계정 정지 위험 때문에 자체 하드웨어를 소유해야 한다는 개발자들의 목소리가 커지고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "e9e7beb52b83e198",
   "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
   "source": "TechCrunch",
@@ -23,6 +81,21 @@
   "title_ko": "Unsloth, DeepSeek-V4.1-Flash GGUF 모델 공개",
   "summary_ko": "Unsloth가 벤치마크 성능을 유지하면서 크기를 줄인 DeepSeek-V4.1 동적 GGUF 양자화 모델을 새롭게 선보였다.",
   "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "8cc71fe5fcee5e75",
+  "url": "https://news.hada.io/topic?id=36292",
+  "source": "GeekNews",
+  "title": "Pico CSS, 더 이상 유지보수하지 않음",
+  "published_at": "2026-10-30T13:42:16+00:00",
+  "collected_at": "2026-10-30T19:10:36.459143+00:00",
+  "title_ko": "Pico CSS, AI 코딩 도구 보급으로 유지보수 종료",
+  "summary_ko": "시맨틱 HTML용 최소 CSS 프레임워크인 Pico CSS가 AI가 필요한 CSS를 직접 생성할 수 있게 되면서 유지보수를 종료하고 아카이브되었습니다. AI 도입이 오픈소스 생태계에 미치는 영향을 보여줍니다.",
+  "category": "참고",
   "tags": [
    "오픈소스",
    "코딩"
@@ -102,6 +175,21 @@
   ]
  },
  {
+  "id": "7dc7c91750189897",
+  "url": "https://news.hada.io/topic?id=36288",
+  "source": "GeekNews",
+  "title": "Anthropic 해킹으로 원격 접근 트로이목마 배포",
+  "published_at": "2026-10-30T12:37:14+00:00",
+  "collected_at": "2026-10-30T19:10:36.459143+00:00",
+  "title_ko": "Cursor 마켓플레이스 공식 Claude Code 확장 프로그램 해킹 사고",
+  "summary_ko": "Cursor의 확장 마켓플레이스에 등록된 공식 Claude Code 확장 프로그램에 악성 코드가 포함되어 공급망 공격이 발생했습니다. 약 5,000명의 개발자 시스템이 영향을 받아 보안에 비상이 걸렸습니다.",
+  "category": "속보",
+  "tags": [
+   "Anthropic",
+   "코딩"
+  ]
+ },
+ {
   "id": "8536e496dca508ca",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xje5oo/sensenovasensenovaloop9bpreview_hugging_face/",
   "source": "r/LocalLLaMA",
@@ -114,6 +202,21 @@
   "tags": [
    "오픈소스",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "d08d249dcf647066",
+  "url": "https://news.hada.io/topic?id=36287",
+  "source": "GeekNews",
+  "title": "공식 Claude Code 확장 프로그램의 백도어",
+  "published_at": "2026-10-30T12:34:14+00:00",
+  "collected_at": "2026-10-30T19:10:36.459143+00:00",
+  "title_ko": "Claude Code 확장 프로그램 백도어 사태 발생",
+  "summary_ko": "Cursor 마켓플레이스의 Claude Code 확장 프로그램에서 백도어가 발견되어 개발자 정보 수집 및 역방향 SSH 연결이 시도되었습니다. 공급망 보안의 중요성을 다시 한번 상기시키는 사건입니다.",
+  "category": "속보",
+  "tags": [
+   "Anthropic",
+   "코딩"
   ]
  },
  {
@@ -296,6 +399,20 @@
   ]
  },
  {
+  "id": "25cc4c9bb2e3e7e5",
+  "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+  "source": "OpenAI",
+  "title": "Making it easier for websites to express AI training preferences",
+  "published_at": "2026-10-30T09:30:00+00:00",
+  "collected_at": "2026-10-30T19:10:02.398193+00:00",
+  "title_ko": "OpenAI, 웹사이트의 AI 학습 선호도 반영 간소화",
+  "summary_ko": "OpenAI가 웹사이트 운영자들이 AI 학습 거부 의사를 쉽게 전달할 수 있도록 공통 robots.txt 시그널을 준수하기로 했습니다. 웹 크롤링 및 데이터 수집 관련 표준화에 기여할 것으로 보입니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI"
+  ]
+ },
+ {
   "id": "b91e16468749724e",
   "url": "https://news.ycombinator.com/item?id=50301479",
   "source": "Hacker News",
@@ -319,6 +436,20 @@
   "category": "중요",
   "tags": [
    "규제"
+  ]
+ },
+ {
+  "id": "c7606af40dbb903f",
+  "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+  "source": "OpenAI",
+  "title": "Community safety report and new protections for teens",
+  "published_at": "2026-10-30T09:00:00+00:00",
+  "collected_at": "2026-10-30T19:10:02.398193+00:00",
+  "title_ko": "OpenAI, ChatGPT 폭력 방지 기능 강화 및 청소년 보호 대책 발표",
+  "summary_ko": "OpenAI가 ChatGPT 내 폭력 방지 안전장치를 강화하고 청소년 보호를 위한 조치와 공공 안전 보고 약속을 발표했습니다. AI 안전성 확보를 위한 플랫폼 차원의 노력을 보여줍니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI"
   ]
  },
  {
@@ -380,6 +511,21 @@
    "NVIDIA",
    "로보틱스",
    "오픈소스"
+  ]
+ },
+ {
+  "id": "bf5aaab63512aa24",
+  "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+  "source": "Hacker News",
+  "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+  "published_at": "2026-10-30T07:09:12+00:00",
+  "collected_at": "2026-10-30T19:10:06.131798+00:00",
+  "title_ko": "Cursor 마켓플레이스 내 Claude Code 확장 프로그램 백도어 발견",
+  "summary_ko": "Cursor 마켓플레이스에 등록된 Claude Code 확장 프로그램에서 백도어가 발견되어 개발자 커뮤니티에 큰 충격을 줬습니다. 서드파티 확장 프로그램 보안 관리의 중요성이 대두되고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "Anthropic",
+   "코딩"
   ]
  },
  {
