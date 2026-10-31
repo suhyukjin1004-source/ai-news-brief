@@ -1,5 +1,20 @@
 [
  {
+  "id": "dbefe819f722042f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk7gmr/need_you_opinion_on_avx2_vs_avx512/",
+  "source": "r/LocalLLaMA",
+  "title": "need you opinion on avx2 vs avx512",
+  "published_at": "2026-10-31T11:09:10+00:00",
+  "collected_at": "2026-10-31T12:11:03.640864+00:00",
+  "title_ko": "로컬 LLM 구동을 위한 AVX2와 AVX512 성능 비교",
+  "summary_ko": "CPU에서 대형언어모델을 구동할 때 AVX-512 지원 여부가 토큰 처리 속도와 성능에 미치는 영향에 대한 논의입니다.",
+  "category": "팁",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "42fc6848f8ec0c4a",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216838",
   "source": "AI타임스",
@@ -28,6 +43,21 @@
   "tags": [
    "Anthropic",
    "GPT"
+  ]
+ },
+ {
+  "id": "9b6ae3890b4eca49",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk6blw/microsoftmagevlcowork_hugging_face/",
+  "source": "r/LocalLLaMA",
+  "title": "microsoft/Mage-VL-Cowork · Hugging Face",
+  "published_at": "2026-10-31T10:02:47+00:00",
+  "collected_at": "2026-10-31T12:11:03.640864+00:00",
+  "title_ko": "마이크로소프트, 소형 비전-언어 모델 'Mage-VL-Cowork' 공개",
+  "summary_ko": "4B 파라미터 규모의 효율적인 소형 VLM이 데스크톱 에이전트 환경에서 뛰어난 컴퓨터 제어 성능을 달성했습니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
   ]
  },
  {
@@ -61,6 +91,80 @@
   ]
  },
  {
+  "id": "7fc14f46a977eb2f",
+  "url": "https://news.hada.io/topic?id=36324&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Cisco, 레거시 코드 재작성을 위해 엔지니어에게 AI 토큰 무제한 제공",
+  "published_at": "2026-10-31T08:37:11+00:00",
+  "collected_at": "2026-10-31T12:11:19.578145+00:00",
+  "title_ko": "시스코, 레거시 코드 리팩터링에 AI 토큰 무제한 지원",
+  "summary_ko": "시스코가 엔지니어에게 AI 토큰을 무제한 제공하여 24개월 내 대규모 레거시 코드 재작성을 추진하고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "코딩",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "549945a5bfc7a6e3",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk4tx7/video_grep_in_terminal_for_agents/",
+  "source": "r/LocalLLaMA",
+  "title": "Video grep in terminal for Agents",
+  "published_at": "2026-10-31T08:28:47+00:00",
+  "collected_at": "2026-10-31T12:11:03.640864+00:00",
+  "title_ko": "터미널 환경에서 AI 에이전트가 비디오를 검색하는 도구",
+  "summary_ko": "텍스트 설명만으로 터미널에서 영상 내 특정 순간을 찾아낼 수 있어 AI 에이전트가 활용하기 용이한 도구가 개발되었습니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "c974dceaf676aac0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk2pxq/what_are_the_best_datasets_if_i_want_to_train_a/",
+  "source": "r/LocalLLaMA",
+  "title": "What are the best datasets if i want to train a chat model?",
+  "published_at": "2026-10-31T06:14:52+00:00",
+  "collected_at": "2026-10-31T12:11:03.640864+00:00",
+  "title_ko": "채팅 모델 학습용 최적의 데이터셋 추천 요청",
+  "summary_ko": "RTX 3050 환경에서 지능적인 챗 모델을 학습하기 적합한 소규모 텍스트 생성 데이터셋을 찾는 개발자 토론.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "89b6ec60b2866d15",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk20x5/lawyer_with_too_many_gpus_part_3_deepseekv41flash/",
+  "source": "r/LocalLLaMA",
+  "title": "Lawyer with too many GPUs, part 3: DeepSeek-V4.1-Flash on 2x DGX Spark + an old 3090 box. 2,600+ tok/s prefill to 256K, 322 tok/s structured output, full stack and raw data published",
+  "published_at": "2026-10-31T05:32:04+00:00",
+  "collected_at": "2026-10-31T12:11:03.640864+00:00",
+  "title_ko": "하드웨어 구성으로 실행한 DeepSeek-V4.1-Flash 벤치마크",
+  "summary_ko": "법률 전문 AI 개발자가 다수의 GPU 환경에서 DeepSeek 모델을 구동하고 초당 2,600 토큰 이상의 성능을 기록한 사례 공유.",
+  "category": "참고",
+  "tags": [
+   "DeepSeek",
+   "반도체"
+  ]
+ },
+ {
+  "id": "a4a67d6079aaffe8",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk1vyk/koboldcpp_v1124_released/",
+  "source": "r/LocalLLaMA",
+  "title": "Koboldcpp v1.124 released",
+  "published_at": "2026-10-31T05:24:06+00:00",
+  "collected_at": "2026-10-31T12:11:03.640864+00:00",
+  "title_ko": "Koboldcpp v1.124 버전 출시",
+  "summary_ko": "로컬 LLM 구동을 지원하는 Koboldcpp의 최신 버전이 공개됨.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "37d540784b4ce70e",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk17m0/first_memory_storage_and_now_pcbsss_ai_boom/",
   "source": "r/LocalLLaMA",
@@ -72,6 +176,21 @@
   "category": "중요",
   "tags": [
    "반도체",
+   "투자"
+  ]
+ },
+ {
+  "id": "9a1e17b51b2d98d8",
+  "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+  "source": "Hacker News",
+  "title": "OpenAI raises less than half of $30B target",
+  "published_at": "2026-10-31T03:22:44+00:00",
+  "collected_at": "2026-10-31T12:11:02.608765+00:00",
+  "title_ko": "OpenAI, 300억 달러 투자 목표 달성 난항",
+  "summary_ko": "OpenAI가 최근 투자 라운드에서 목표 금액의 절반 이하만 모금하는 데 그치며 자금 유치에 어려움을 겪고 있음.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
    "투자"
   ]
  },
@@ -119,6 +238,20 @@
    "NVIDIA",
    "Anthropic",
    "투자"
+  ]
+ },
+ {
+  "id": "1dcfc568fa1bd35f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjx36m/the_multidimensional_butterfly_effect_what_cohere/",
+  "source": "r/LocalLLaMA",
+  "title": "The Multidimensional Butterfly Effect: What Cohere Didn't Test on Qwen3.8-Flash-Next",
+  "published_at": "2026-10-31T01:12:39+00:00",
+  "collected_at": "2026-10-31T12:11:03.640864+00:00",
+  "title_ko": "Qwen 모델 평가 중 발견된 예기치 않은 도구 호출 행동",
+  "summary_ko": "사이버보안 벤치마크 평가 중 Qwen 모델이 지시를 벗어나 호스트 환경을 탐색하고 HTTP 요청을 시도한 현상 분석.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
   ]
  },
  {
@@ -280,6 +413,20 @@
   "category": "중요",
   "tags": [
    "Anthropic",
+   "투자"
+  ]
+ },
+ {
+  "id": "828ddfeadf3b972b",
+  "url": "https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/",
+  "source": "Hacker News",
+  "title": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff",
+  "published_at": "2026-10-30T21:32:35+00:00",
+  "collected_at": "2026-10-31T12:11:02.608765+00:00",
+  "title_ko": "AI 자금 소모 우려에 따른 뉴욕증시 기술주 매도세",
+  "summary_ko": "기업들의 과도한 AI 투자와 현금 소모에 대한 우려로 인해 월스트리트 증시가 급락세를 보임.",
+  "category": "중요",
+  "tags": [
    "투자"
   ]
  },
@@ -826,6 +973,20 @@
   "tags": [
    "오픈소스",
    "코딩"
+  ]
+ },
+ {
+  "id": "38301ec8c004aea5",
+  "url": "https://alanbellows.com/some-thing-is-happening/",
+  "source": "Hacker News",
+  "title": "Some Thing is Happening A note from the AI companies",
+  "published_at": "2026-10-30T15:53:42+00:00",
+  "collected_at": "2026-10-31T12:11:02.608765+00:00",
+  "title_ko": "AI 기업들의 급격한 행보에 대한 단상",
+  "summary_ko": "최근 급변하는 AI 업계의 동향과 기술 발전 속도에 대한 시사점과 단상을 다룬 글.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
   ]
  },
  {
