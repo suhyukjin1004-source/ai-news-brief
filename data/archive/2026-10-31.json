@@ -1,5 +1,181 @@
 [
  {
+  "id": "eea7730596be391d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkcdlz/nvidia_nemotron_35_bolt_e4b_4gb_posttrained_gemma/",
+  "source": "r/LocalLLaMA",
+  "title": "NVIDIA Nemotron 3.5 Bolt E4B 4GB (post-trained Gemma 4 E4B)",
+  "published_at": "2026-10-31T14:58:49+00:00",
+  "collected_at": "2026-10-31T17:38:07.175857+00:00",
+  "title_ko": "엔비디아, Nemotron 3.5 Bolt E4B 모델 공개",
+  "summary_ko": "엔비디아가 젬마 4 기반의 사후 학습을 거쳐 멀티턴 에이전트 성능을 강화한 4GB 경량 모델을 선보였습니다.",
+  "category": "속보",
+  "tags": [
+   "NVIDIA",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "8d52da03b4d8e9d6",
+  "url": "https://news.hada.io/topic?id=36335&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Ask HN: 여러분도 AI 시대에 피로를 느끼시나요?",
+  "published_at": "2026-10-31T14:38:04+00:00",
+  "collected_at": "2026-10-31T17:38:21.629294+00:00",
+  "title_ko": "AI 시대의 가중되는 정신적 피로감",
+  "summary_ko": "급격한 AI 기술 발전과 쏟아지는 정보 속에서 개발자와 사용자들이 겪는 인지적 과부하와 피로감에 대한 단상입니다.",
+  "category": "참고",
+  "tags": []
+ },
+ {
+  "id": "5b0ac3b976a1c0a5",
+  "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+  "source": "Hacker News",
+  "title": "Malware uses LLMs to rank victims by how much they're worth",
+  "published_at": "2026-10-31T14:29:03+00:00",
+  "collected_at": "2026-10-31T17:38:05.015192+00:00",
+  "title_ko": "LLM을 악용해 피해자 가치를 평가하는 멀웨어 등장",
+  "summary_ko": "볼타 인포스틸러(Volta Infostealer) 악성코드가 LLM을 활용해 감염된 시스템과 피해자의 가치를 자동으로 순위 매기는 기능이 발견되었습니다.",
+  "category": "중요",
+  "tags": [
+   "보안",
+   "LLM"
+  ]
+ },
+ {
+  "id": "7197f66f95f892d4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkbl2h/reddit_will_discontinue_rss_feed_on_13th_november/",
+  "source": "r/LocalLLaMA",
+  "title": "Reddit will discontinue RSS feed on 13th November",
+  "published_at": "2026-10-31T14:25:48+00:00",
+  "collected_at": "2026-10-31T17:38:07.175857+00:00",
+  "title_ko": "레딧, 11월 13일부로 RSS 피드 중단 예정",
+  "summary_ko": "레딧이 RSS 피드 지원을 중단함에 따라, 이를 활용해 AI 요약 및 에이전트를 구축하던 개발자들이 대안 마련에 고심하고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "95bf0627df59cc16",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkbbqi/is_your_engine_lobotomizing_your_model_kinda_and/",
+  "source": "r/LocalLLaMA",
+  "title": "Is your engine lobotomizing your model? Kinda, and I measured it",
+  "published_at": "2026-10-31T14:14:51+00:00",
+  "collected_at": "2026-10-31T17:38:07.175857+00:00",
+  "title_ko": "인퍼런스 엔진이 AI 모델 성능을 저하시키는 원인 분석",
+  "summary_ko": "과도한 양자화나 속도 향상을 위한 손실 옵션(라우팅 바이어스 등)이 실제 모델의 추론 능력에 미치는 영향을 실험을 통해 측정했습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "c3cf6e75b194e207",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkau4g/just_finished_my_humble_moecentric_workstation/",
+  "source": "r/LocalLLaMA",
+  "title": "Just finished my humble MoE-Centric Workstation",
+  "published_at": "2026-10-31T13:54:27+00:00",
+  "collected_at": "2026-10-31T17:38:07.175857+00:00",
+  "title_ko": "개인용 MoE 중심 AI 워크스테이션 구축기",
+  "summary_ko": "AMD EPYC 프로세서와 대용량 램을 탑재해 고가의 장비 대신 효율적으로 대형 모형을 구동할 수 있는 워크스테이션 구축 사례입니다.",
+  "category": "팁",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "307dbbdb9a823122",
+  "url": "https://news.hada.io/topic?id=36332&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Show GN: AI Usage - 여러 Claude Code·Codex 계정의 사용 한도를 보여 주는 macOS 바탕화면 위젯",
+  "published_at": "2026-10-31T13:48:08+00:00",
+  "collected_at": "2026-10-31T17:38:21.629294+00:00",
+  "title_ko": "여러 Claude Code·Codex 계정 사용량 위젯",
+  "summary_ko": "여러 개의 코딩 AI 계정 사용 한도를 바탕화면에서 실시간으로 확인할 수 있는 macOS 위젯이 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "Claude",
+   "코딩"
+  ]
+ },
+ {
+  "id": "62c9aa1fe1415045",
+  "url": "https://news.hada.io/topic?id=36330&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "OpenAI, 45조원 조달 목표의 절반에도 못 미치는 투자 약정 확보",
+  "published_at": "2026-10-31T13:38:28+00:00",
+  "collected_at": "2026-10-31T17:38:21.629294+00:00",
+  "title_ko": "OpenAI, 45조 원 조달 목표에 미치지 못하는 투자 약정 확보",
+  "summary_ko": "OpenAI의 최신 투자 라운드에서 목표 금액인 300억 달러의 절반 수준인 110억 달러의 약정만 확보되며 투자 유치에 난항을 겪고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "투자"
+  ]
+ },
+ {
+  "id": "77e4ed1a15be9fc2",
+  "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+  "source": "Hacker News",
+  "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+  "published_at": "2026-10-31T13:25:10+00:00",
+  "collected_at": "2026-10-31T17:38:06.043684+00:00",
+  "title_ko": "AI 스타트업, 앤스로픽 해킹해 내부 정보 유출",
+  "summary_ko": "한 AI 스타트업이 앤스로픽의 보안을 우회해 직원 정보와 내부 메시지에 접근하는 데 성공하여 AI 보안 취약성에 대한 우려를 낳고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "Anthropic",
+   "보안"
+  ]
+ },
+ {
+  "id": "6dd9ff33da590361",
+  "url": "https://news.hada.io/topic?id=36328&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "AI 네이티브 엔지니어링 조직 만들기",
+  "published_at": "2026-10-31T12:38:15+00:00",
+  "collected_at": "2026-10-31T17:38:21.629294+00:00",
+  "title_ko": "개발 생산성을 극대화하는 AI 네이티브 엔지니어링 조직",
+  "summary_ko": "코드 작성부터 리뷰와 테스트까지 전 과정을 AI로 자동화해 개발자당 일일 병합 건수를 5배 이상 끌어올린 사례입니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "c2d22565194bb9c1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk8s6z/betelgeuse_running_qwen_38_flash_next_at_22_toks/",
+  "source": "r/LocalLLaMA",
+  "title": "Betelgeuse: Running Qwen 3.8 Flash Next at 22 tok/s sustained (spiking to 48 tok/s) on an RTX 3060 12GB + 16GB DDR4 RAM 100% bit-exact!",
+  "published_at": "2026-10-31T12:20:02+00:00",
+  "collected_at": "2026-10-31T17:38:07.175857+00:00",
+  "title_ko": "RTX 3060에서 Qwen 3.8 모델을 고속 구동하는 최적화 기법",
+  "summary_ko": "출력 품질 저하 없이 전문가(MoE) 라우팅을 최적화하여 일반 소비자용 GPU에서 대형 모델을 빠르게 실행하는 방법이 공유되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "bcbaffe380df7eac",
+  "url": "https://nullprogram.com/blog/2026/10/31/",
+  "source": "Hacker News",
+  "title": "Prospero: A new coding harness for a more civilized age",
+  "published_at": "2026-10-31T11:54:59+00:00",
+  "collected_at": "2026-10-31T17:38:05.015192+00:00",
+  "title_ko": "코딩 AI 도구를 위한 새로운 하네스 'Prospero' 공개",
+  "summary_ko": "개발자들이 LLM 기반 코딩 도구를 더 효율적이고 통제력 있게 활용할 수 있도록 돕는 새로운 하네스 도구가 발표되었습니다.",
+  "category": "참고",
+  "tags": [
+   "코딩"
+  ]
+ },
+ {
   "id": "dbefe819f722042f",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk7gmr/need_you_opinion_on_avx2_vs_avx512/",
   "source": "r/LocalLLaMA",
@@ -43,6 +219,21 @@
   "tags": [
    "Anthropic",
    "GPT"
+  ]
+ },
+ {
+  "id": "a9ce9215ef28b665",
+  "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+  "source": "Hacker News",
+  "title": "We Took over ChatGPT Accounts",
+  "published_at": "2026-10-31T10:30:11+00:00",
+  "collected_at": "2026-10-31T17:38:05.015192+00:00",
+  "title_ko": "챗GPT 계정 탈취 취약점 발견 및 보고",
+  "summary_ko": "연구원들이 OpenAI 시스템의 보안 공백을 이용해 실제 챗GPT 계정을 탈취하는 데 성공하며 플랫폼 보안의 중요성이 대두되었습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "보안"
   ]
  },
  {

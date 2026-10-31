@@ -76,6 +76,21 @@
   ]
  },
  {
+  "id": "fe6af67fd41614d7",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkfhjg/whats_the_advantage_of_building_a_custom_harness/",
+  "source": "r/LocalLLaMA",
+  "title": "What's the advantage of building a custom harness over using something like Unsloth?",
+  "published_at": "2026-10-31T17:03:51+00:00",
+  "collected_at": "2026-10-31T17:38:07.175857+00:00",
+  "title_ko": "커스텀 하니스와 Unsloth 비교 분석",
+  "summary_ko": "로컬 LLM 환경에서 Unsloth 같은 프레임워크 대신 직접 커스텀 하니스를 구축하는 이유와 장점에 대해 논의합니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "e454cda1329510e3",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216844",
   "source": "AI타임스",
@@ -87,6 +102,110 @@
   "category": "중요",
   "tags": [
    "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
+  "id": "b23f31e264458eca",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkeqja/regulated_access_memory/",
+  "source": "r/LocalLLaMA",
+  "title": "Regulated Access Memory",
+  "published_at": "2026-10-31T16:33:49+00:00",
+  "collected_at": "2026-10-31T17:38:07.175857+00:00",
+  "title_ko": "로컬 LLM 메모리 관리의 중요성",
+  "summary_ko": "로컬 LLM 구동 시 원활한 작동을 위해 충분한 메모리(RAM/VRAM) 확보가 중요하다는 유머러스한 의견입니다.",
+  "category": "참고",
+  "tags": [
+   "GPT"
+  ]
+ },
+ {
+  "id": "c10fef6ec8169f82",
+  "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+  "source": "TechCrunch",
+  "title": "OpenAI reportedly lowers funding target for new round",
+  "published_at": "2026-10-31T16:12:55+00:00",
+  "collected_at": "2026-10-31T17:37:50.367987+00:00",
+  "title_ko": "오픈AI, 신규 투자 라운드 목표액 하향 조정",
+  "summary_ko": "오픈AI의 최근 투자 유치 라운드가 예상보다 낮은 수준에서 진행되고 있다는 보도입니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "투자"
+  ]
+ },
+ {
+  "id": "ee9f8f39beac1709",
+  "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+  "source": "The Verge",
+  "title": "I built an AI Tamagotchi before Meta could",
+  "published_at": "2026-10-31T16:05:00+00:00",
+  "collected_at": "2026-10-31T17:37:50.486314+00:00",
+  "title_ko": "개인용 AI 다마고치 제작기",
+  "summary_ko": "메타의 AI 기기 출시 소식에 자극받아 개발자가 직접 자신만의 AI 다마고치 기기를 구현한 사례입니다.",
+  "category": "참고",
+  "tags": [
+   "Meta",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "306c50b393bebe50",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkdpv3/used_64core_threadripper_pro_3995wx/",
+  "source": "r/LocalLLaMA",
+  "title": "Used 64-core Threadripper PRO 3995WX",
+  "published_at": "2026-10-31T15:52:58+00:00",
+  "collected_at": "2026-10-31T17:38:07.175857+00:00",
+  "title_ko": "멀티 GPU LLM 서버용 중고 스레드리퍼 활용성",
+  "summary_ko": "중고 AMD Threadripper 워크스테이션이 다중 GPU 기반 로컬 LLM 추론 서버 구축에 적합한지 검토합니다.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "67c7c9a5e5eb6ad1",
+  "url": "https://news.hada.io/topic?id=36338&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "ChatGPT 계정을 탈취한 방법",
+  "published_at": "2026-10-31T15:41:44+00:00",
+  "collected_at": "2026-10-31T17:38:21.629294+00:00",
+  "title_ko": "ChatGPT 공유 링크를 통한 세션 탈취 취약점",
+  "summary_ko": "연구팀이 공개된 ChatGPT 공유 링크를 악용해 다른 사용자의 로그인 세션에서 임의 스크립트를 실행하는 취약점을 발견했습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "GPT"
+  ]
+ },
+ {
+  "id": "5ed8d6b1e603d164",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkcyn6/spent_a_lot_on_my_rig_but_i_can_only_run_gemma_4/",
+  "source": "r/LocalLLaMA",
+  "title": "\"Spent a lot on my rig but I can only run Gemma 4\"",
+  "published_at": "2026-10-31T15:22:08+00:00",
+  "collected_at": "2026-10-31T17:38:07.175857+00:00",
+  "title_ko": "구글, 우주 데이터센터 인공위성 발사",
+  "summary_ko": "구글이 TPU를 탑재한 최초의 데이터센터 위성을 궤도에 올려 궤도 내 인공지능 추론 실험을 시작했습니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "반도체"
+  ]
+ },
+ {
+  "id": "9b9d41450cd6db7c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkcg2y/guide_ternary_bonsai_2_is_finally_100_working_on/",
+  "source": "r/LocalLLaMA",
+  "title": "[Guide] Ternary Bonsai 2 is finally 100% working on ik_llama.cpp (Native CUDA offload + Fast CPU -rtr)",
+  "published_at": "2026-10-31T15:01:18+00:00",
+  "collected_at": "2026-10-31T17:38:07.175857+00:00",
+  "title_ko": "ik_llama.cpp에서 Ternary Bonsai 2 완벽 지원",
+  "summary_ko": "PrismML의 Ternary Bonsai 2 모델이 최신 업데이트를 통해 ik_llama.cpp에서 네이티브 CUDA 오프로드를 완벽하게 지원합니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
    "반도체"
   ]
  }
