@@ -1,5 +1,50 @@
 [
  {
+  "id": "ebcbebaaa19f10e8",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=216852",
+  "source": "AI타임스",
+  "title": "삼성 사장단 50명 만난 알트먼 \"AI 활용 속도가 기업 경쟁력 결정\"",
+  "published_at": "2026-11-01T05:10:51+00:00",
+  "collected_at": "2026-10-31T21:24:46.338874+00:00",
+  "title_ko": "샘 알트먼, 삼성 사장단과 AI 경영 전략 논의",
+  "summary_ko": "샘 알트먼 오픈AI CEO가 삼성전자 주요 사장단을 만나 AI 활용 속도가 기업 경쟁력을 결정한다고 강조했습니다. AI 시대의 비즈니스 전략과 협력 방안을 모색하는 자리였습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "투자",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "e07dacdb45dcc75e",
+  "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+  "source": "TechCrunch",
+  "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+  "published_at": "2026-10-31T21:17:03+00:00",
+  "collected_at": "2026-10-31T21:24:12.761565+00:00",
+  "title_ko": "xAI 데이터센터 공해 관련 NAACP 소송 진행 허용",
+  "summary_ko": "미국 법원이 xAI의 데이터센터 환경 오염 문제와 관련해 NAACP가 제기한 청정대기법 위반 소송의 진행을 허용했습니다. AI 인프라 확장에 따른 환경 규제 리스크를 보여줍니다.",
+  "category": "중요",
+  "tags": [
+   "xAI",
+   "규제"
+  ]
+ },
+ {
+  "id": "4966614253c03a8e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkklyp/what_exciting_architectural_moves_are_we_looking/",
+  "source": "r/LocalLLaMA",
+  "title": "What exciting architectural moves are we looking to see next in AI models?",
+  "published_at": "2026-10-31T20:31:36+00:00",
+  "collected_at": "2026-10-31T21:24:33.080568+00:00",
+  "title_ko": "차세대 AI 모델 아키텍처 전망",
+  "summary_ko": "중국 및 글로벌 연구실에서 주목받는 조건부 엥그램 메모리, 하이퍼 커넥션 등 차세대 AI 아키텍처 트렌드를 논의했습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "542f8b24138a701d",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216851",
   "source": "AI타임스",
@@ -11,6 +56,62 @@
   "category": "참고",
   "tags": [
    "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "634f0c4d11e904ba",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkjrdl/please_tell_me_qwen38flashnext_can_be_made_to_be/",
+  "source": "r/LocalLLaMA",
+  "title": "Please tell me Qwen3.8-Flash-Next can be made to be better than this",
+  "published_at": "2026-10-31T19:56:22+00:00",
+  "collected_at": "2026-10-31T21:24:33.080568+00:00",
+  "title_ko": "Qwen 최신 모델의 일반 연구 작업 성능 평가",
+  "summary_ko": "Qwen 신규 모델이 코딩 등 특정 작업에서는 우수하지만, 일반적인 연구 질의에서는 장황하고 길을 잃는 모습을 보여 모델 성능에 대한 피드백이 공유되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "ee9f45e036f9032d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkiuut/an_llm_inside_an_llm_same_guy_who_put_a_riskv_cpu/",
+  "source": "r/LocalLLaMA",
+  "title": "An LLM inside an LLM - Same guy who put a RISK-V CPU inside Qwen has now made Karpathy's stories260k run on an NPU compiled inside Qwen 3.5-4B's weights",
+  "published_at": "2026-10-31T19:18:53+00:00",
+  "collected_at": "2026-10-31T21:24:33.080568+00:00",
+  "title_ko": "LLM 가중치 내부에 다른 LLM을 구현한 사례 등장",
+  "summary_ko": "개발자가 Qwen 모델의 가중치 내부에 NPU를 컴파일하여 그 안에서 소형 LLM(stories260k)을 구동하는 데 성공했습니다. AI 모델 내부에서 또 다른 AI를 실행하는 독창적인 실험입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "bf4944a541de7eb3",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkip46/mac_studio_m5u_256gb_2tb/",
+  "source": "r/LocalLLaMA",
+  "title": "Mac Studio M5U 256gb 2TB",
+  "published_at": "2026-10-31T19:12:25+00:00",
+  "collected_at": "2026-10-31T21:24:33.080568+00:00",
+  "title_ko": "로컬 LLM 구동을 위한 맥 스튜디오 하드웨어 관심",
+  "summary_ko": "로컬 환경에서 코딩 및 비즈니스 자동화를 위해 맥 스튜디오 M5 Ultra 환경에서 대형 오픈소스 모델을 구동하려는 사용자들의 논의가 이어지고 있습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "b6f609a8b6f77ab1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkibxw/crowdgpt_v26_the_collaborative_llm/",
+  "source": "r/LocalLLaMA",
+  "title": "CrowdGPT v2.6 - The collaborative LLM",
+  "published_at": "2026-10-31T18:57:36+00:00",
+  "collected_at": "2026-10-31T21:24:33.080568+00:00",
+  "title_ko": "데이터센터 없는 협업형 LLM 프로젝트 CrowdGPT v2.6 공개",
+  "summary_ko": "거대 자본과 데이터센터 없이 분산 방식으로 1B 파라미터 모델을 오픈소스 협업으로 학습하는 CrowdGPT 프로젝트의 대규모 업데이트가 발표되었습니다.",
+  "category": "참고",
+  "tags": [
    "오픈소스"
   ]
  },
@@ -30,6 +131,35 @@
   ]
  },
  {
+  "id": "82785ab4f152db3e",
+  "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
+  "source": "Hacker News",
+  "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+  "published_at": "2026-10-31T18:50:34+00:00",
+  "collected_at": "2026-10-31T21:24:30.612322+00:00",
+  "title_ko": "GPT-5.6 Sol, 팩토리오 평화 모드 클리어",
+  "summary_ko": "AI 모델이 복잡한 자원 관리 게임인 팩토리오를 평화 모드에서 성공적으로 플레이하며 전략적 문제 해결 능력을 입증했습니다.",
+  "category": "참고",
+  "tags": [
+   "GPT",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "d00028eccd233594",
+  "url": "https://news.hada.io/topic?id=36347&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "악성코드, LLM으로 피해자의 금전적 가치에 따라 순위를 매김",
+  "published_at": "2026-10-31T18:36:02+00:00",
+  "collected_at": "2026-10-31T21:24:47.524431+00:00",
+  "title_ko": "피해자 자산 가치 평가에 LLM을 악용하는 악성코드 등장",
+  "summary_ko": "Windows 정보 탈취 악성코드가 LLM을 활용해 탈취한 데이터와 계정 정보를 분석하고 피해자의 금전적 가치를 매겨 우선순위를 정하는 기능이 발견되었습니다.",
+  "category": "중요",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
   "id": "0c5d7ebd29b88c92",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216834",
   "source": "AI타임스",
@@ -42,6 +172,20 @@
   "tags": [
    "OpenAI",
    "GPT"
+  ]
+ },
+ {
+  "id": "0c5859d9893e10fb",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkh2ns/betelgeuse_running_qwen_38_flash_next_iq4_xs_at/",
+  "source": "r/LocalLLaMA",
+  "title": "Betelgeuse running Qwen 3.8 Flash Next IQ4_XS at 24 tok/s on 2x8GB DDR4 (14 tok/s on a single 16GB stick) + RTX 3060 12GB — 0 dropped experts, 100% byte-exact",
+  "published_at": "2026-10-31T18:06:52+00:00",
+  "collected_at": "2026-10-31T21:24:33.080568+00:00",
+  "title_ko": "저사양 환경에서의 Qwen 4비트 양자화 모델 구동 테스트",
+  "summary_ko": "제한된 시스템 메모리와 GPU 환경에서 Qwen 양자화 모델을 효율적으로 구동하고 토큰 생성 속도를 측정하는 로컬 AI 테스트 결과가 공유되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
   ]
  },
  {
@@ -58,6 +202,51 @@
    "Google",
    "Gemini",
    "반도체"
+  ]
+ },
+ {
+  "id": "aa4997f9eba15998",
+  "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+  "source": "Hacker News",
+  "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+  "published_at": "2026-10-31T18:02:29+00:00",
+  "collected_at": "2026-10-31T21:24:32.079186+00:00",
+  "title_ko": "생성형 AI가 비판적 사고에 미치는 영향 연구",
+  "summary_ko": "마이크로소프트 연구진이 생성형 AI 사용이 사용자의 비판적 사고에 미치는 영향을 조사한 보고서를 발표했습니다. AI 도구의 확산이 인지적 영역에 미치는 변화를 이해하는 데 중요합니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "연구"
+  ]
+ },
+ {
+  "id": "9881e902b8b2dbdd",
+  "url": "https://news.hada.io/topic?id=36346&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Prospero - 경량 설계와 원격 실행을 지원하는 새로운 코딩 하네스",
+  "published_at": "2026-10-31T17:49:44+00:00",
+  "collected_at": "2026-10-31T21:24:47.524431+00:00",
+  "title_ko": "경량 코딩 하네스 'Prospero' 공개",
+  "summary_ko": "C++ 기반의 저자원 코딩 하네스 Prospero가 공개되어 서브에이전트와 원격 실행을 지원합니다. 개발 생산성을 높이는 새로운 도구로 활용될 수 있습니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "8e251aa282ca52a3",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkge1s/im_groot/",
+  "source": "r/LocalLLaMA",
+  "title": "I'm Groot?",
+  "published_at": "2026-10-31T17:39:55+00:00",
+  "collected_at": "2026-10-31T21:24:33.080568+00:00",
+  "title_ko": "대형 오픈소스 LLM 시리즈 'Groot' 등장",
+  "summary_ko": "다양한 파라미터 크기를 가진 오픈소스 LLM 시리즈 Groot가 허깅페이스에 공개되었습니다. 기존 오픈소스 모델 대비 효율성과 성능 면에서 주목받고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "LLM"
   ]
  },
  {
@@ -117,6 +306,21 @@
   "category": "참고",
   "tags": [
    "GPT"
+  ]
+ },
+ {
+  "id": "88778c653f0b4d77",
+  "url": "https://news.hada.io/topic?id=36342&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Grace Blackwell에는 새 스케줄러가 필요하다: 같은 랙에서 사용 가능한 GPU 27% 확대",
+  "published_at": "2026-10-31T16:33:01+00:00",
+  "collected_at": "2026-10-31T21:24:47.524431+00:00",
+  "title_ko": "NVIDIA Grace Blackwell 시스템 효율 극대화",
+  "summary_ko": "NVIDIA NVL72 시스템의 하드웨어 성능을 온전히 활용하기 위해 랙 단위의 새로운 작업 스케줄러가 필요하다는 분석입니다. 대규모 AI 학습 인프라 효율성에 직접적인 영향을 줍니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "반도체"
   ]
  },
  {
