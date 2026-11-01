@@ -1,8 +1,38 @@
 {
- "updated_at": "2026-10-31T21:24:56.356001+00:00",
+ "updated_at": "2026-11-01T00:58:36.008372+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "cda6c452f50617a3",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216854",
+   "source": "AI타임스",
+   "title": "블랙스톤 \"앤트로픽, 상장 후에도 투자적격 등급 확보 어려워\"",
+   "published_at": "2026-11-01T09:37:16+00:00",
+   "collected_at": "2026-11-01T00:58:25.931638+00:00",
+   "title_ko": "블랙스톤, 앤트로픽 IPO 후에도 투자적격 등급 획득 어려울 전망",
+   "summary_ko": "막대한 AI 인프라 투자 비용으로 인해 앤트로픽이 상장 후에도 신용등급 확보에 어려움을 겪을 것이라는 분석이 나왔다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "투자"
+   ]
+  },
+  {
+   "id": "80831635ae19a18d",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216853",
+   "source": "AI타임스",
+   "title": "메타, AI 투자 부담에 신용등급 강등 경고…현금흐름 악화가 결정타",
+   "published_at": "2026-11-01T09:23:52+00:00",
+   "collected_at": "2026-11-01T00:58:25.931638+00:00",
+   "title_ko": "메타, 막대한 AI 투자 부담에 신용등급 강등 경고 받아",
+   "summary_ko": "S&P가 과도한 AI 인프라 투자로 인한 현금흐름 악화를 이유로 메타의 신용등급 전망을 부정적으로 하향 조정했다.",
+   "category": "중요",
+   "tags": [
+    "Meta",
+    "투자"
+   ]
+  },
   {
    "id": "ebcbebaaa19f10e8",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216852",
@@ -20,6 +50,172 @@
    ]
   },
   {
+   "id": "1e6a6079c563126a",
+   "url": "https://news.hada.io/topic?id=36358&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Anthropic, 더 큰 모델 학습에 조금이라도 관련된 작업을 하는 사용자를 차단",
+   "published_at": "2026-10-31T23:42:59+00:00",
+   "collected_at": "2026-11-01T00:58:27.200778+00:00",
+   "title_ko": "앤트로픽, 경쟁 모델 학습 관련 작업 사용자 차단 논란",
+   "summary_ko": "연구 자동화에 클로드를 활용하던 사용자가 경쟁 모델 학습으로 오인받아 차단당하면서 AI 서비스 이용 약관과 모니터링 기준에 대한 논란이 일고 있다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "fe73cdff2b8c115a",
+   "url": "https://news.hada.io/topic?id=36356&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "GPT-5.6 Sol, 평화 모드에서 Factorio 클리어 가능",
+   "published_at": "2026-10-31T23:36:58+00:00",
+   "collected_at": "2026-11-01T00:58:27.200778+00:00",
+   "title_ko": "GPT-5.6 Sol, 팩토리오 평화 모드 클리어",
+   "summary_ko": "AI 모델이 게임 내 도구와 코드를 조작해 복잡한 시뮬레이션 게임인 팩토리오를 성공적으로 클리어했다.",
+   "category": "참고",
+   "tags": [
+    "GPT",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "dd35d009aad680f7",
+   "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+   "source": "Simon Willison",
+   "title": "How We Took Over ChatGPT Accounts",
+   "published_at": "2026-10-31T23:15:22+00:00",
+   "collected_at": "2026-11-01T00:58:11.766164+00:00",
+   "title_ko": "챗GPT 아티팩트 기능 취약점 악용 계정 탈취 공격 발견",
+   "summary_ko": "보안 연구원들이 챗GPT의 HTML 미리보기 샌드박스 환경을 우회하는 복잡한 공격 체인을 발견해 계정을 탈취했다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "GPT"
+   ]
+  },
+  {
+   "id": "f457e51286db93ad",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkngat/1_for_qwen_27bs_characterchat_style/",
+   "source": "r/LocalLLaMA",
+   "title": "+1 for Qwen 27Bs character/chat style",
+   "published_at": "2026-10-31T22:41:41+00:00",
+   "collected_at": "2026-11-01T00:58:12.437185+00:00",
+   "title_ko": "Qwen 27B 모델의 뛰어난 대화 스타일과 사용자 경험",
+   "summary_ko": "오픈소스 Qwen 27B 모델이 자연스러운 대화와 문제 해결 능력에서 상용 클라우드 모델 대비 좋은 평가를 받고 있다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "모델명"
+   ]
+  },
+  {
+   "id": "89c6572e6c432a93",
+   "url": "https://news.hada.io/topic?id=36353&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Jepsen: ParticleDB 1.1.4 - AI용 데이터베이스의 정합성 검증에서 96개 문제 발견",
+   "published_at": "2026-10-31T22:33:15+00:00",
+   "collected_at": "2026-11-01T00:58:27.200778+00:00",
+   "title_ko": "제프센, AI용 DB ParticleDB에서 96개 정합성 문제 발견",
+   "summary_ko": "AI 워크로드용 데이터베이스의 ACID 정합성 검증 과정에서 다수의 치명적인 결함이 발견되었다.",
+   "category": "참고",
+   "tags": [
+    "데이터베이스",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "4c77a0dfd6338deb",
+   "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
+   "source": "Simon Willison",
+   "title": "datasette-llm 0.1a9",
+   "published_at": "2026-10-31T22:10:01+00:00",
+   "collected_at": "2026-11-01T00:58:11.766164+00:00",
+   "title_ko": "Datasette-llm 플러그인 업데이트로 기본 모델 설정 간소화",
+   "summary_ko": "Datasette-llm이 기본 모델을 자동으로 감지하도록 업데이트되어 개발자가 별도의 설정 없이 AI 에이전트를 쉽게 사용할 수 있게 되었다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "9f56e268b05ea691",
+   "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+   "source": "TechCrunch",
+   "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+   "published_at": "2026-10-31T21:41:00+00:00",
+   "collected_at": "2026-11-01T00:57:55.981004+00:00",
+   "title_ko": "애플 CEO, \"목적 없는 AI 기능은 탑재하지 않는다\" 입장을 밝혀",
+   "summary_ko": "애플의 신임 CEO가 자사의 신중한 AI 전략과 철학을 재확인했다.",
+   "category": "참고",
+   "tags": [
+    "Apple",
+    "투자"
+   ]
+  },
+  {
+   "id": "63fa8d16ac095d17",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkm5gz/jiahao_shao_on_x_shame_on_darioamodei_anthropic_i/",
+   "source": "r/LocalLLaMA",
+   "title": "Jiahao Shao on X: \"Shame on @DarioAmodei / Anthropic. I never distilled Claude—rollouts came from a strong open-source model; Claude just helped submit jobs and run analysis. Still got tagged for \"training a competitor,\" and now anything touching RFT, SFT, or training larger models gets me blocked",
+   "published_at": "2026-10-31T21:40:39+00:00",
+   "collected_at": "2026-11-01T00:58:12.437185+00:00",
+   "title_ko": "연구자들, 앤트로픽의 과도한 경쟁 모델 차단 정책 비판",
+   "summary_ko": "단순 업무 보조에 클로드를 사용했음에도 경쟁 모델 학습으로 분류되어 계정이 차단되는 사례가 이어지고 있다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "Claude"
+   ]
+  },
+  {
+   "id": "12fda33fd5ea7204",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkm2yb/how_do_i_make_search_with_local_models_feel_like/",
+   "source": "r/LocalLLaMA",
+   "title": "How do I make search with local models feel like ChatGPT / Codex?",
+   "published_at": "2026-10-31T21:37:26+00:00",
+   "collected_at": "2026-11-01T00:58:12.437185+00:00",
+   "title_ko": "로컬 LLM 검색 성능을 챗GPT 수준으로 끌어올리는 방법",
+   "summary_ko": "오픈소스 검색 도구와 로컬 모델을 조합할 때 챗GPT 같은 고성능 클라우드 모델에 비해 부족한 정보 수집력을 보완하는 방법에 대한 논의가 이어지고 있다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "b5b08b5b2b7d5b1f",
+   "url": "https://news.hada.io/topic?id=36351&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "HackerTube: HN에서 추천한 영상으로 만든 YouTube",
+   "published_at": "2026-10-31T21:33:38+00:00",
+   "collected_at": "2026-11-01T00:58:27.200778+00:00",
+   "title_ko": "HN 추천 영상 플랫폼 'HackerTube'",
+   "summary_ko": "Claude(Opus/Sonnet)를 활용해 Hacker News 댓글 속 추천 영상 4만 개를 스팸 없이 필터링하여 유튜브 UI로 제공하는 사이트입니다. LLM을 활용한 고품질 콘텐츠 선별 워크플로우의 좋은 사례입니다.",
+   "category": "참고",
+   "tags": [
+    "Claude",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "bb48c37773559711",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xklq96/well_my_local_ai_addiction_officially_got_out_of/",
+   "source": "r/LocalLLaMA",
+   "title": "Well, my local AI addiction officially got out of hand tonight.",
+   "published_at": "2026-10-31T21:21:02+00:00",
+   "collected_at": "2026-11-01T00:58:12.437185+00:00",
+   "title_ko": "RTX 3090 3장으로 늘린 로컬 LLM 구축기",
+   "summary_ko": "중고로 RTX 3090을 추가 구매해 총 3장(72GB VRAM)을 확보한 사용자가 하드웨어 호환성과 케이스 제약 문제를 해결하기 위해 조언을 구하는 글입니다. 대규모 로컬 모델 구동을 위한 인프라 구축의 현실적인 고민을 보여줍니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
    "id": "e07dacdb45dcc75e",
    "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
    "source": "TechCrunch",
@@ -31,6 +227,22 @@
    "category": "중요",
    "tags": [
     "xAI",
+    "규제"
+   ]
+  },
+  {
+   "id": "71145972f162b48a",
+   "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+   "source": "Hacker News",
+   "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
+   "published_at": "2026-10-31T21:07:58+00:00",
+   "collected_at": "2026-11-01T00:58:11.504801+00:00",
+   "title_ko": "앤트로픽, 클로드의 게임 리버스 엔지니어링 차단 조치",
+   "summary_ko": "앤트로픽이 AI를 활용한 비디오 게임 복제 및 리버스 엔지니어링을 막기 위한 안전장치를 도입했습니다. 지식재산권 보호와 악용 방지를 위한 AI 모델 가이드라인 강화의 일환입니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "Claude",
     "규제"
    ]
   },
@@ -75,6 +287,22 @@
    "category": "참고",
    "tags": [
     "오픈소스"
+   ]
+  },
+  {
+   "id": "e07ec5d69c955902",
+   "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+   "source": "Hacker News",
+   "title": "Anthropic blocks users for anything touching training larger models",
+   "published_at": "2026-10-31T19:39:19+00:00",
+   "collected_at": "2026-11-01T00:58:10.330710+00:00",
+   "title_ko": "앤트로픽, 대형 모델 학습 관련 활동 사용자 차단",
+   "summary_ko": "앤트로픽이 자사 모델이나 서비스를 이용해 더 큰 모델을 학습시키려는 시도를 감지하고 사용자들을 차단하기 시작했습니다. AI 기업들의 모델 무단 추출 및 파인튜닝 방지 정책이 강화되고 있음을 보여줍니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "규제"
    ]
   },
   {
@@ -147,6 +375,20 @@
    "tags": [
     "GPT",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "c58cd229056d61a4",
+   "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+   "source": "Hacker News",
+   "title": "It's the memory latency, stupid",
+   "published_at": "2026-10-31T18:38:16+00:00",
+   "collected_at": "2026-11-01T00:58:10.330710+00:00",
+   "title_ko": "AI 성능의 핵심은 메모리 지연 시간",
+   "summary_ko": "AI 연산 속도와 효율성에서 메모리 대역폭만큼이나 메모리 지연 시간(latency)이 결정적인 역할을 한다는 점을 분석한 글입니다. 하드웨어 병목 현상에 대한 기술적 통찰을 제공합니다.",
+   "category": "참고",
+   "tags": [
+    "반도체"
    ]
   },
   {
@@ -578,6 +820,22 @@
    "tags": [
     "AI 에이전트",
     "코딩"
+   ]
+  },
+  {
+   "id": "e2bc4a9d40fe0d16",
+   "url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
+   "source": "Hacker News",
+   "title": "Why Anthropic's filing crushed tech stocks",
+   "published_at": "2026-10-31T12:32:10+00:00",
+   "collected_at": "2026-11-01T00:58:11.504801+00:00",
+   "title_ko": "앤트로픽의 규제 관련 서류가 테크주에 미친 영향",
+   "summary_ko": "앤트로픽이 제출한 관련 서류가 기술주 하락에 영향을 미친 배경을 분석한 기사입니다. AI 산업을 둘러싼 규제 및 시장의 우려가 증시에 미치는 파급효과를 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "Anthropic",
+    "규제",
+    "투자"
    ]
   },
   {
@@ -2708,252 +2966,6 @@
    "tags": [
     "OpenAI",
     "규제"
-   ]
-  },
-  {
-   "id": "32c55150c8a61503",
-   "url": "https://news.hada.io/topic?id=36258",
-   "source": "GeekNews",
-   "title": "10억 명 이상의 ChatGPT 사용자를 위한 온라인 스토리지의 빠른 확장(2부)",
-   "published_at": "2026-10-29T23:52:49+00:00",
-   "collected_at": "2026-10-30T06:59:28.731006+00:00",
-   "title_ko": "OpenAI, 10억 사용자 지원 위한 온라인 스토리지 확장기",
-   "summary_ko": "OpenAI의 인프라 시스템 'Habitat'이 Azure Cosmos DB를 기반으로 수억 명의 대규모 사용자에게 데이터를 안정적으로 제공하기 위해 스토리지를 개선한 과정입니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI"
-   ]
-  },
-  {
-   "id": "720b04b8c5b9a5a8",
-   "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-   "source": "TechCrunch",
-   "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
-   "published_at": "2026-10-29T23:42:22+00:00",
-   "collected_at": "2026-10-30T00:47:47.757784+00:00",
-   "title_ko": "아마존 CEO \"AWS, 1조 달러 기업 도약 위해 대규모 투자 지속\"",
-   "summary_ko": "아마존이 AI 클라우드 시장의 주도권을 잡기 위해 막대한 자본적 지출(Capex)을 이어갈 것이라고 밝혔습니다. AI 인프라 확장을 위한 빅테크 간의 치열한 투자 경쟁을 보여줍니다.",
-   "category": "중요",
-   "tags": [
-    "투자",
-    "반도체"
-   ]
-  },
-  {
-   "id": "c8776eb352e97b7b",
-   "url": "https://github.com/mottopanikeiku/doomformer",
-   "source": "Hacker News",
-   "title": "Show HN: I Turned DOOM into a Transformer",
-   "published_at": "2026-10-29T23:25:46+00:00",
-   "collected_at": "2026-10-30T13:59:29.279114+00:00",
-   "title_ko": "둠(DOOM) 게임 메커니즘으로 구현한 트랜스포머 'DOOMFORMER'",
-   "summary_ko": "게임 둠의 내부 메커니즘을 이용해 신경망 연산을 수행하는 이색적인 트랜스포머 모델 구현 프로젝트입니다.",
-   "category": "참고",
-   "tags": []
-  },
-  {
-   "id": "e18f9e144d9f82e5",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xizbq1/sam_altman_local_inference_is_a_terrible/",
-   "source": "r/LocalLLaMA",
-   "title": "Sam Altman: “Local inference is a terrible allocation of scarce resources”",
-   "published_at": "2026-10-29T23:11:52+00:00",
-   "collected_at": "2026-10-30T00:48:03.913474+00:00",
-   "title_ko": "샘 알트만 \"로컬 인퍼런스는 한정된 자원의 끔찍한 낭비\"",
-   "summary_ko": "오픈AI의 샘 알트만이오픈소스 모델을 통한 로컬 인프라 구동은 전 세계의 제한된 하드웨어 자원을 비효율적으로 쓰는 것이라고 주장했습니다. 클라우드 중심의 최대 효율성 활용을 강조한 발언입니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "32e3919a05879071",
-   "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
-   "source": "Simon Willison",
-   "title": "API credits benefit for eligible ChatGPT subscriptions",
-   "published_at": "2026-10-29T22:48:29+00:00",
-   "collected_at": "2026-10-30T00:48:03.148301+00:00",
-   "title_ko": "오픈아이, 챗GPT 유료 구독자에 API 크레딧 제공 혜택 도입",
-   "summary_ko": "앤트로픽에 이어 오픈AI도 고가 유료 구독 요금제 이용자들에게 동일한 금액의 API 크레딧을 제공하는 혜택을 시작했습니다. 개발자 생태계 주도권을 잡기 위한 플랫폼 간 경쟁의 일환입니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "Anthropic",
-    "GPT"
-   ]
-  },
-  {
-   "id": "624787132102fb19",
-   "url": "https://news.hada.io/topic?id=36254",
-   "source": "GeekNews",
-   "title": "좀비 통계: AI가 인용하는 숫자는 어디에서 오는가",
-   "published_at": "2026-10-29T22:44:46+00:00",
-   "collected_at": "2026-10-30T00:48:18.303875+00:00",
-   "title_ko": "AI가 인용하는 통계 데이터의 출처 신뢰성 분석",
-   "summary_ko": "AI 서비스가 인용한 통계 중 원연구와 내용이 일치한 비율이 40%에 불과하고 직접 인용은 21%에 그친다는 조사 결과가 나왔습니다. AI의 할루시네이션 및 데이터 출처 검증의 중요성을 시사합니다.",
-   "category": "참고",
-   "tags": [
-    "LLM",
-    "인공지능"
-   ]
-  },
-  {
-   "id": "0744c41f75cf25dd",
-   "url": "https://news.hada.io/topic?id=36252",
-   "source": "GeekNews",
-   "title": "Show GN: DevFit - 채용공고와 내 GitHub 커밋으로 기술면접 예상 질문을 만들어 주는 서비스",
-   "published_at": "2026-10-29T22:39:43+00:00",
-   "collected_at": "2026-10-30T00:48:18.303875+00:00",
-   "title_ko": "채용공고와 깃허브 커밋 기반 기술면접 예상 질문 생성 서비스",
-   "summary_ko": "사용자의 깃허브 커밋 내역과 채용공고를 분석해 맞춤형 기술면접 예상 질문을 만들어 주는 개발자 도구입니다. 실무 면접 준비에 유용하게 활용할 수 있습니다.",
-   "category": "팁",
-   "tags": [
-    "코딩",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "60b3e2f69130d092",
-   "url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
-   "source": "Hacker News",
-   "title": "Google value plunges by $500B as AI fears rattle Wall Street",
-   "published_at": "2026-10-29T22:22:13+00:00",
-   "collected_at": "2026-10-30T06:59:12.896918+00:00",
-   "title_ko": "AI 공포감 확산 속 구글 시가총액 5,000억 달러 급락",
-   "summary_ko": "월스트리트에서 AI 관련 리스크와 시장 변화에 대한 우려가 커지면서 구글의 기업 가치가 크게 하락했습니다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "투자"
-   ]
-  },
-  {
-   "id": "2f083e35c49b477d",
-   "url": "https://twitter.com/sgondala2/status/2115832070274723875",
-   "source": "Hacker News",
-   "title": "Building an AI-native engineering org",
-   "published_at": "2026-10-29T21:58:34+00:00",
-   "collected_at": "2026-10-30T23:38:05.169887+00:00",
-   "title_ko": "AI 네이티브 엔지니어링 조직 구축하기",
-   "summary_ko": "AI 도구를 중심으로 개발 프로세스와 조직 문화를 재편하는 방법에 대한 논의가 이루어졌습니다. 소프트웨어 엔지니어링 패러다임의 변화를 보여줍니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "923d025e66a508f8",
-   "url": "https://convo.casa/@b/117525936178835007",
-   "source": "Hacker News",
-   "title": "Proton goes all in on using AI",
-   "published_at": "2026-10-29T21:49:28+00:00",
-   "collected_at": "2026-10-30T00:48:02.973270+00:00",
-   "title_ko": "프로톤(Proton), 전면적인 AI 기능 도입 추진",
-   "summary_ko": "프라이버시 중심의 서비스를 제공하는 프로톤이 AI 기능을 전사적으로 도입하기로 했습니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "146aafa9741ae852",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xix61q/arguably_unethical_behavior_from_cohere/",
-   "source": "r/LocalLLaMA",
-   "title": "Arguably unethical behavior from Cohere",
-   "published_at": "2026-10-29T21:43:11+00:00",
-   "collected_at": "2026-10-30T00:48:03.913474+00:00",
-   "title_ko": "코히어(Cohere)의 자극적 벤치마크 실험 논란",
-   "summary_ko": "코히어가 특정 모델의 약점을 부각하기 위해 편향된 프롬프트를 사용한 비과학적 실험 결과를 발표해 비판을 받고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "Cohere",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "d8eb5a4b641ea994",
-   "url": "https://labs.ycombinator.com/projects/games/index.html",
-   "source": "Hacker News",
-   "title": "We ran AI agent swarms in Minecraft and Mindustry",
-   "published_at": "2026-10-29T21:40:28+00:00",
-   "collected_at": "2026-10-30T00:48:02.379651+00:00",
-   "title_ko": "마인크래프트와 민두스트리에서 실행된 AI 에이전트 스웜",
-   "summary_ko": "게임 환경 속에서 다수의 AI 에이전트가 군집 형태로 협업하며 플레이하는 프로젝트가 공개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "7bad551f6d81c92f",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xix35p/release_swift_15_flash_next_heretic_v2/",
-   "source": "r/LocalLLaMA",
-   "title": "Release: Swift 1.5 Flash Next - Heretic v2 - ReverseEngineer",
-   "published_at": "2026-10-29T21:40:04+00:00",
-   "collected_at": "2026-10-30T00:48:03.913474+00:00",
-   "title_ko": "추론 능력과 출력 길이를 개선한 오픈소스 양자화 모델 공개",
-   "summary_ko": "추론 성능을 유지하면서 길게 출력할 수 있도록 가중치를 개선한 새로운 로컬 LLM 양자화 버전이 출시되었습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "4021b82635eac65b",
-   "url": "https://news.hada.io/topic?id=36249",
-   "source": "GeekNews",
-   "title": "Tomáš Mikolov, 체코 대통령에게 공로 메달 수훈",
-   "published_at": "2026-10-29T21:39:42+00:00",
-   "collected_at": "2026-10-30T00:48:18.303875+00:00",
-   "title_ko": "Word2Vec 공동 개발자 토마시 미콜로프, 체코 공로 메달 수훈",
-   "summary_ko": "현대 언어 모델의 토대가 된 Word2Vec을 공동 개발한 토마시 미콜로프가 과학계 기여를 인정받아 체코 대통령으로부터 공로 메달을 받았습니다.",
-   "category": "참고",
-   "tags": [
-    "연구"
-   ]
-  },
-  {
-   "id": "327aa10460648d71",
-   "url": "https://news.hada.io/topic?id=36248",
-   "source": "GeekNews",
-   "title": "중국 스파이 의혹 인물, Nvidia CEO Jensen Huang과 ‘긴밀한 관계’",
-   "published_at": "2026-10-29T21:36:42+00:00",
-   "collected_at": "2026-10-30T00:48:18.303875+00:00",
-   "title_ko": "중국 스파이 의혹 인물과 젠슨 황 엔비디아 CEO의 관계 주목",
-   "summary_ko": "미국 정보기관이 감시하던 중국 스파이 의혹 인물이 엔비디아 젠슨 황 CEO와 긴밀한 관계였다는 보도가 나왔습니다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "91d9bf162c092e66",
-   "url": "https://news.hada.io/topic?id=36247",
-   "source": "GeekNews",
-   "title": "우리는 “그냥 어울려 지내지” 않을 것이다",
-   "published_at": "2026-10-29T20:41:50+00:00",
-   "collected_at": "2026-10-30T00:48:18.303875+00:00",
-   "title_ko": "초인적 AI 시대의 도래와 인간관계의 변화에 대한 고찰",
-   "summary_ko": "저렴한 초인적 지능이 일과 교육을 대체할 때, 기존의 인간관계와 사회적 공동체가 어떻게 변모할지에 대한 분석입니다.",
-   "category": "참고",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "c30c38a613a77d25",
-   "url": "https://github.com/SheepSeb/tinyworldformer",
-   "source": "Hacker News",
-   "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
-   "published_at": "2026-10-29T20:32:28+00:00",
-   "collected_at": "2026-10-30T00:48:02.379651+00:00",
-   "title_ko": "라즈베리 파이 Pico에서 실행되는 초소형 월드 모델 게임",
-   "summary_ko": "초저사극 마이크로컨트롤러 환경에서 가벼운 월드 모델을 구동해 게임을 실행하는 프로젝트가 공개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "반도체"
    ]
   }
  ]
