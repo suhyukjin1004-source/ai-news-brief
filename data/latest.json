@@ -1,8 +1,197 @@
 {
- "updated_at": "2026-11-01T19:32:11.199119+00:00",
+ "updated_at": "2026-11-01T23:30:21.338797+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "ca2782c6c3152e2d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlh0zw/glb3dcoder_a_tiny_4b_coding_model_that_creates_3d/",
+   "source": "r/LocalLLaMA",
+   "title": "[GLB-3D-Coder] A tiny 4B coding model that creates 3D assets for Godot and other game engines",
+   "published_at": "2026-11-01T22:56:19+00:00",
+   "collected_at": "2026-11-01T23:29:47.932707+00:00",
+   "title_ko": "Godot용 3D 에셋 생성 소형 코딩 모델 공개",
+   "summary_ko": "Three.js와 GLB 내보내기를 지원하여 게임 엔진 에셋을 생성하는 4B 규모의 소형 코딩 모델이 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "코딩",
+    "로보틱스"
+   ]
+  },
+  {
+   "id": "fa89c725027e7702",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlgu8m/benchmarking_qwen_27b_35b_qfn180b_nemotron_bolt/",
+   "source": "r/LocalLLaMA",
+   "title": "Benchmarking: Qwen 27B, 35B, QFN180B; Nemotron Bolt 74B, Flint40B & Clover 35B (Q4 + KFlash) on MacBook M5 Max 2026 with Kapitsa (Apple Silicon Inference Engine)",
+   "published_at": "2026-11-01T22:47:41+00:00",
+   "collected_at": "2026-11-01T23:29:47.932707+00:00",
+   "title_ko": "Apple Silicon용 추론 엔진 Kapitsa 업데이트",
+   "summary_ko": "맥(Mac) 환경에서 Qwen, Nemotron 등 대형언어모델을 로컬 구동하기 위한 Kapitsa 엔진의 최신 버전이 성능 개선과 함께 공개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "0dbf0226aa90a12c",
+   "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+   "source": "TechCrunch",
+   "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+   "published_at": "2026-11-01T21:55:23+00:00",
+   "collected_at": "2026-11-01T23:29:28.637377+00:00",
+   "title_ko": "OpenAI, 데이터센터 명칭 'AI 컴퓨팅 캠퍼스'로 변경 검토",
+   "summary_ko": "부정적인 인식이 강한 데이터센터라는 용어 대신 AI 인프라의 성격을 강조하기 위한 새로운 브랜딩을 고려하고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI"
+   ]
+  },
+  {
+   "id": "efbb5ea2ec8633d4",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlfhrd/speedy_is_shockingly_good_for_qwen38_fn/",
+   "source": "r/LocalLLaMA",
+   "title": "Speedy is shockingly good for qwen3.8 FN",
+   "published_at": "2026-11-01T21:49:36+00:00",
+   "collected_at": "2026-11-01T23:29:47.932707+00:00",
+   "title_ko": "로컬 LLM 추론 속도 개선 도구 'Speedy' 등장",
+   "summary_ko": "고성능 하드웨어 환경에서 로컬 LLM의 컨텍스트 읽기 및 생성 속도를 극적으로 끌어올려주는 새로운 오픈소스 도구가 주목받고 있습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "e5c59cb7edb4f30e",
+   "url": "https://news.hada.io/topic?id=36415&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Proton의 방향을 바꾼 것은 AI가 아니었다",
+   "published_at": "2026-11-01T21:43:13+00:00",
+   "collected_at": "2026-11-01T23:30:03.354128+00:00",
+   "title_ko": "AI 코드 생성 시대의 개발 보안과 리더십의 역할",
+   "summary_ko": "AI가 작성한 코드의 검토와 테스트 프로세스를 대하는 리더십의 태도가 보안과 소프트웨어 품질에 미치는 영향에 대한 논의입니다.",
+   "category": "참고",
+   "tags": [
+    "코딩"
+   ]
+  },
+  {
+   "id": "e23e1f85f3b1ca24",
+   "url": "https://news.hada.io/topic?id=36414&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "수학은 달라졌다. 그에 맞게 행동하자",
+   "published_at": "2026-11-01T21:40:13+00:00",
+   "collected_at": "2026-11-01T23:30:03.354128+00:00",
+   "title_ko": "AI 시대의 수학 연구 패러다임 변화",
+   "summary_ko": "AI가 수학 증명을 생산하는 능력이 향상됨에 따라 인간 수학자의 역할과 보상 기준이 증명 그 자체에서 이해와 새로운 질문 발굴로 이동해야 한다는 분석입니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "667bd801c8356743",
+   "url": "https://www.reddit.com/r/singularity/comments/1xlf1xj/mike_levins_ideas_on_what_math_and_minds_are_a/",
+   "source": "r/singularity",
+   "title": "Mike Levins ideas on what Math and Minds are : A revolutionary paradigm on the old Platonic Hypothesis",
+   "published_at": "2026-11-01T21:31:14+00:00",
+   "collected_at": "2026-11-01T23:30:01.127440+00:00",
+   "title_ko": "AI와 마음(Mind)의 본질에 대한 새로운 패러다임",
+   "summary_ko": "머신러닝 혁명을 단순한 거품이 아니라 우주에 내재된 지능의 원리를 발견하는 과정으로 바라보는 철학적 분석입니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "Anthropic"
+   ]
+  },
+  {
+   "id": "5ab7364379e3729b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlerw1/an_updated_23bpw_model_for_qwen_27b_12_gb_cards/",
+   "source": "r/LocalLLaMA",
+   "title": "An updated 2.3bpw model for qwen 27b + 12 GB cards: ties Qwen3.6 BF16 on LiveCode Bench and reduces error by 37-57% vs a previous checkpoint",
+   "published_at": "2026-11-01T21:19:36+00:00",
+   "collected_at": "2026-11-01T23:29:47.932707+00:00",
+   "title_ko": "저사양 VRAM용 Qwen 27B 양자화 모델 공개",
+   "summary_ko": "12GB VRAM 그래픽카드 환경에서도 대용량 컨텍스트와 높은 성능을 발휘하도록 최적화된 새로운 양자화 포맷 모델이 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "3f8ce1454fa23386",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlec67/getting_incredible_results_with_a_single_rtx/",
+   "source": "r/LocalLLaMA",
+   "title": "Getting incredible results with a single RTX 3090ti and 128gb of ram. Deepseek-V4.1-Flash-1017 (35 tok/s decode) and Qwen3.8-Flash-Next (130 tok/s decode)",
+   "published_at": "2026-11-01T21:01:42+00:00",
+   "collected_at": "2026-11-01T23:29:47.932707+00:00",
+   "title_ko": "단일 RTX 3090ti 기반 로컬 LLM 고속 구동 사례",
+   "summary_ko": "구형 하드웨어와 대용량 시스템 메모리를 활용해 최신 플래시 모델들을 높은 초당 토큰 처리량으로 구동하는 설정 공유입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "7d784d2cd686fdd2",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xle8ta/qwenbend_qwen_writes_a_bend_program_then_the_same/",
+   "source": "r/LocalLLaMA",
+   "title": "QwenBend : Qwen writes a Bend program, then the same model type checks it with Bend2 rules and runs it inside its own forward pass",
+   "published_at": "2026-11-01T20:58:07+00:00",
+   "collected_at": "2026-11-01T23:29:47.932707+00:00",
+   "title_ko": "모델 내부에서 직접 코드를 실행하는 'QwenBend' 실험",
+   "summary_ko": "별도의 인터프리터나 컴파일러 없이 LLM이 직접 코드를 작성하고 모델의 순방향 패스 내에서 실행하는 독창적인 실험 프로젝트입니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "bb2642061f374db8",
+   "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+   "source": "TechCrunch",
+   "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+   "published_at": "2026-11-01T20:57:58+00:00",
+   "collected_at": "2026-11-01T23:29:28.637377+00:00",
+   "title_ko": "테크 CEO들의 AI 낙관론과 현실의 괴리",
+   "summary_ko": "테크 업계 리더들이 AI 도입을 통해 얻는 효익과 일반 근로자들이 체감하는 현실 사이의 간극에 대한 비평입니다.",
+   "category": "참고",
+   "tags": []
+  },
+  {
+   "id": "fd9afd3ea5f751b4",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xle3ul/is_gemma_4_e4b_still_the_best_small_model_for_a/",
+   "source": "r/LocalLLaMA",
+   "title": "Is Gemma 4 E4B still the best small model for a local, tool-calling personal assistant? What am I missing?",
+   "published_at": "2026-11-01T20:52:26+00:00",
+   "collected_at": "2026-11-01T23:29:47.932707+00:00",
+   "title_ko": "로컬 AI 비서용 소형 멀티모달 모델 탐색",
+   "summary_ko": "Mac 환경에서 툴 호출과 멀티모달 기능을 수행하는 로컬 AI 비서용 모델로 Gemma 4 E4B의 활용도와 대안을 논의합니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "1df42119210a4ae7",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xldent/tandemcpp_qwen38flashnext_at_97_toks_on_a_single/",
+   "source": "r/LocalLLaMA",
+   "title": "tandem.cpp: Qwen3.8-Flash-Next at 97 tok/s on a single 4090 + 64 GB RAM, 3.3× llama.cpp, works for any MoE",
+   "published_at": "2026-11-01T20:23:50+00:00",
+   "collected_at": "2026-11-01T23:29:47.932707+00:00",
+   "title_ko": "MoE 모델 추론 속도를 3배 높이는 tandem.cpp 패치",
+   "summary_ko": "GPU와 CPU를 협력시켜 VRAM에 다 들어가지 않는 MoE 모델의 실행 속도를 대폭 끌어올리는 llama.cpp 패치 세트가 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스"
+   ]
+  },
   {
    "id": "c78c7d1e0a57abdd",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlboqi/llama2c_on_a_2006_ipod_80_mhz_w_64_mb_ram_and_no/",
@@ -32,6 +221,18 @@
     "Meta",
     "규제"
    ]
+  },
+  {
+   "id": "afa8c12492173b26",
+   "url": "https://www.reddit.com/r/singularity/comments/1xlb3ys/singularitywhitepilled_mathematician_i_hope_ai/",
+   "source": "r/singularity",
+   "title": "Singularity-Whitepilled Mathematician. \"I hope AI can help mathematicians break out of the straitjacket of being constrained by the first natural conjecture they cannot prove, and work on unraveling the deeper mysteries woven throughout our subject. \"",
+   "published_at": "2026-11-01T18:53:00+00:00",
+   "collected_at": "2026-11-01T23:30:01.127440+00:00",
+   "title_ko": "AI가 수학자의 한계를 극복하는 데 기여하길 바라는 시각",
+   "summary_ko": "AI가 수학자들이 기존의 한계를 넘어 더 깊은 미지의 영역을 탐구하도록 도울 수 있다는 기대감을 담고 있습니다.",
+   "category": "참고",
+   "tags": []
   },
   {
    "id": "d9a5a6f86fa9dd12",
@@ -77,6 +278,18 @@
    ]
   },
   {
+   "id": "280630936cfd1bf7",
+   "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+   "source": "Hacker News",
+   "title": "Mathematics has changed. Let's act like it",
+   "published_at": "2026-11-01T18:28:42+00:00",
+   "collected_at": "2026-11-01T23:29:43.542640+00:00",
+   "title_ko": "변화된 수학계의 연구 패러다임 조명",
+   "summary_ko": "테렌스 타이가 AI 시대에 발맞추어 변화한 수학 연구 방식과 태도를 다룹니다.",
+   "category": "중요",
+   "tags": []
+  },
+  {
    "id": "cfce96b528ef94a6",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl9yfi/silencio2_an_18m_tts_with_emotion_and_sound_tags/",
    "source": "r/LocalLLaMA",
@@ -88,6 +301,20 @@
    "category": "속보",
    "tags": [
     "오픈소스"
+   ]
+  },
+  {
+   "id": "d5381e749e27a5d4",
+   "url": "https://www.reddit.com/r/singularity/comments/1xl9hrk/demis_hassabis_says_ai_data_centers_should_be/",
+   "source": "r/singularity",
+   "title": "Demis Hassabis says AI data centers should be beautiful and we should take their effect on our physical surroundings seriously",
+   "published_at": "2026-11-01T17:49:42+00:00",
+   "collected_at": "2026-11-01T23:30:01.127440+00:00",
+   "title_ko": "데미스 하사비스, AI 데이터센터의 미관과 물리적 영향 강조",
+   "summary_ko": "AI 데이터센터가 지역 사회와 주변 환경에 미치는 영향을 신중히 고려해야 한다는 데미스 하사비스의 인터뷰 내용입니다.",
+   "category": "참고",
+   "tags": [
+    "Google"
    ]
   },
   {
@@ -152,6 +379,35 @@
    ]
   },
   {
+   "id": "c45b2676b023a2a8",
+   "url": "https://www.reddit.com/r/singularity/comments/1xl7oy1/openai_wants_to_rebrand_its_data_centers_as_ai/",
+   "source": "r/singularity",
+   "title": "OpenAI wants to rebrand its data centers as \"AI compute campuses\" after the midterms",
+   "published_at": "2026-11-01T16:40:36+00:00",
+   "collected_at": "2026-11-01T23:30:01.127440+00:00",
+   "title_ko": "OpenAI, 데이터센터 명칭 'AI 컴퓨트 캠퍼스'로 리브랜딩 추진",
+   "summary_ko": "OpenAI가 지역 사회 수용성을 높이기 위해 데이터센터를 'AI 컴퓨트 캠퍼스'로 명칭을 바꾸는 PR 캠페인을 검토 중입니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI"
+   ]
+  },
+  {
+   "id": "b54e08deb40f1a62",
+   "url": "https://www.reddit.com/r/singularity/comments/1xl7lwm/alleged_mythos_class_leak_is_fake_forensic/",
+   "source": "r/singularity",
+   "title": "Alleged Mythos Class \"leak\" is fake. Forensic Investigation inside.",
+   "published_at": "2026-11-01T16:37:12+00:00",
+   "collected_at": "2026-11-01T23:30:01.127440+00:00",
+   "title_ko": "앤트로픽 '미토스' 클래스 모델 유출 파일은 가짜로 판명",
+   "summary_ko": "포렌식 분석 결과 허깅페이스에 올라온 앤트로픽의 신규 모델 유출 파일은 임베딩 행렬을 기반으로 생성된 가짜 가중치로 밝혀졌습니다.",
+   "category": "속보",
+   "tags": [
+    "Anthropic",
+    "오픈소스"
+   ]
+  },
+  {
    "id": "47d47d07474db9e7",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl7jr0/i_built_frontier_ui_to_give_local_llms/",
    "source": "r/LocalLLaMA",
@@ -180,6 +436,22 @@
    "tags": [
     "Google",
     "Gemini"
+   ]
+  },
+  {
+   "id": "2bcd6daa002b02f6",
+   "url": "https://www.reddit.com/r/singularity/comments/1xl6vk8/anthropics_growing_restrictions_are_creating_a/",
+   "source": "r/singularity",
+   "title": "Anthropic's growing restrictions are creating a new divide in the AI capabilities race: Gemini 4 Argon recreates Pixar's iconic intro, while Claude Opus 5.5 refuses over copyright and builds a toaster instead—highlighting the gap between what frontier AI can do and what companies allow it to do.",
+   "published_at": "2026-11-01T16:08:05+00:00",
+   "collected_at": "2026-11-01T23:30:01.127440+00:00",
+   "title_ko": "AI 모델의 기능과 보안 제한의 괴리",
+   "summary_ko": "앤트로픽의 엄격한 저작권 정책으로 클로드의 기능이 제한되는 반면, 구글 제미니는 창의적인 작업을 수행해 AI 활용 범위에 대한 논란이 일고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "Google",
+    "Claude"
    ]
   },
   {
@@ -320,6 +592,20 @@
     "NVIDIA",
     "반도체",
     "투자"
+   ]
+  },
+  {
+   "id": "e17eb6c5fcac9849",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+   "source": "Hacker News",
+   "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+   "published_at": "2026-11-01T13:47:24+00:00",
+   "collected_at": "2026-11-01T23:29:46.990977+00:00",
+   "title_ko": "마인크래프트 속 AI 에이전트 군집의 문명 건설 실패",
+   "summary_ko": "마인크래프트에서 문명을 건설하려던 50개의 AI 에이전트 무리가 과도한 관료주의와 소통 문제로 인해 실패를 겪었습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트"
    ]
   },
   {
@@ -473,6 +759,21 @@
    ]
   },
   {
+   "id": "28c1c5d541a28070",
+   "url": "https://www.reddit.com/r/singularity/comments/1xl0rs3/openai_is_testing_gpt62_astra/",
+   "source": "r/singularity",
+   "title": "OpenAI is testing GPT-6.2 Astra",
+   "published_at": "2026-11-01T11:29:35+00:00",
+   "collected_at": "2026-11-01T23:30:01.127440+00:00",
+   "title_ko": "오픈에이전트, GPT-6.2 아스트라 테스트 중",
+   "summary_ko": "오픈에이전트가 차세대 모델인 GPT-6.2 아스트라(Astra)를 내부 테스트 중이라는 소식이 전해졌습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT"
+   ]
+  },
+  {
    "id": "ccc0d356f61a603b",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl0oqz/are_bespoke_inference_engines_overhyped_my_strata/",
    "source": "r/LocalLLaMA",
@@ -501,6 +802,18 @@
     "Claude",
     "AI 에이전트"
    ]
+  },
+  {
+   "id": "e2d0b8447923446d",
+   "url": "https://www.reddit.com/r/singularity/comments/1xl006d/richard_dawkins_i_thought_ai_wouldnt_come_in_my/",
+   "source": "r/singularity",
+   "title": "Richard Dawkins: ‘I thought AI wouldn’t come in my lifetime but it has – with a vengeance’",
+   "published_at": "2026-11-01T10:44:06+00:00",
+   "collected_at": "2026-11-01T23:30:01.127440+00:00",
+   "title_ko": "리처드 도킨스의 AI에 대한 단상",
+   "summary_ko": "진화생물학자 리처드 도킨스가 인터뷰를 통해 예상보다 빠르게 다가온 AI 시대에 대한 소회와 견해를 밝혔습니다.",
+   "category": "참고",
+   "tags": []
   },
   {
    "id": "3c4e7cf3392f0266",
@@ -578,6 +891,21 @@
    ]
   },
   {
+   "id": "6ae9e7a9b4c7116c",
+   "url": "https://www.reddit.com/r/singularity/comments/1xkz44b/worry_about_ai_taking_jobs_rose_for_almost_every/",
+   "source": "r/singularity",
+   "title": "Worry about AI taking jobs rose for almost every job this year. Programmers are the exception, their worry peaked in March 2024",
+   "published_at": "2026-11-01T09:48:45+00:00",
+   "collected_at": "2026-11-01T23:30:01.127440+00:00",
+   "title_ko": "직업군별 AI 대체 우려 추이 분석",
+   "summary_ko": "프로그래머들의 AI 일자리 대체 우려는 감소한 반면, 교사·의사·변호사 등 화이트칼라 직군에서는 우려가 최고치를 기록했습니다.",
+   "category": "참고",
+   "tags": [
+    "코딩",
+    "투자"
+   ]
+  },
+  {
    "id": "cda6c452f50617a3",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216854",
    "source": "AI타임스",
@@ -637,6 +965,22 @@
     "오픈소스",
     "LLM",
     "바이오AI"
+   ]
+  },
+  {
+   "id": "efb357b8f1144cb0",
+   "url": "https://www.reddit.com/r/singularity/comments/1xkwvhe/so_anthropics_claude_ai_blocks_video_game_cloning/",
+   "source": "r/singularity",
+   "title": "So Anthropic's Claude AI blocks video game cloning and reverse-engineering, to avoid companies to get out of business, and that's ethical?",
+   "published_at": "2026-11-01T07:23:22+00:00",
+   "collected_at": "2026-11-01T23:30:01.127440+00:00",
+   "title_ko": "앤트로픽의 저작권 및 리버스 엔지니어링 차단 정책 논란",
+   "summary_ko": "앤트로픽이 비디오 게임 복제 및 리버스 엔지니어링을 차단하는 조치를 취하면서, AI의 윤리적 제한과 일자리 영향에 대한 논쟁이 벌어지고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "규제"
    ]
   },
   {
@@ -748,6 +1092,20 @@
    ]
   },
   {
+   "id": "f6f4f8a7a9514b25",
+   "url": "https://www.reddit.com/r/singularity/comments/1xkq2cu/are_we_underestimating_ai_revenue_by_looking_at/",
+   "source": "r/singularity",
+   "title": "Are we underestimating AI revenue by looking at software spending instead of labor costs?",
+   "published_at": "2026-11-01T00:49:21+00:00",
+   "collected_at": "2026-11-01T23:30:01.127440+00:00",
+   "title_ko": "소프트웨어 지출 대신 노동 비용으로 본 AI 시장 규모",
+   "summary_ko": "전 세계 화이트칼라 노동자의 인건비 관점에서 AI가 창출할 수 있는 잠재적 시장 규모가 기존 소프트웨어 지출 예상보다 훨씬 클 수 있다는 분석입니다.",
+   "category": "참고",
+   "tags": [
+    "투자"
+   ]
+  },
+  {
    "id": "6138a193b58ede2e",
    "url": "https://news.hada.io/topic?id=36359&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
    "source": "GeekNews",
@@ -789,6 +1147,21 @@
    "category": "참고",
    "tags": [
     "GPT",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "830deb21f7662209",
+   "url": "https://www.reddit.com/r/singularity/comments/1xkoi9g/deepseek_harness_team_published_the_underlying/",
+   "source": "r/singularity",
+   "title": "DeepSeek Harness team published the underlying architecture for their Super-agent, an always-on autonomous agent, as an open-source prototype on GitHub.",
+   "published_at": "2026-10-31T23:32:03+00:00",
+   "collected_at": "2026-11-01T23:30:01.127440+00:00",
+   "title_ko": "딥시크, 상시 가동형 슈퍼 에이전트 오픈소스 공개",
+   "summary_ko": "딥시크 하네스 팀이 상시 작동하는 자율형 AI 에이전트의 기반 아키텍처를 오픈소스 프로토타입으로 깃허브에 공개했습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
     "AI 에이전트"
    ]
   },
@@ -958,6 +1331,21 @@
    ]
   },
   {
+   "id": "9f2da1aea516d3d1",
+   "url": "https://www.reddit.com/r/singularity/comments/1xklpe5/openai_is_merging_chat_and_work_in_december_only/",
+   "source": "r/singularity",
+   "title": "OpenAI is merging Chat and Work in December. Only Instant will be unlimited, and everything else will count toward your Codex limits",
+   "published_at": "2026-10-31T21:19:58+00:00",
+   "collected_at": "2026-11-01T23:30:01.127440+00:00",
+   "title_ko": "오픈에이전트, 12월 '챗'과 '워크' 기능 통합 예정",
+   "summary_ko": "오픈에이전트가 오는 12월 채팅과 업무 기능을 통합하며, 일부 제한 없는 기능 외에는 코덱스 사용량에 포함될 예정입니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "코딩"
+   ]
+  },
+  {
    "id": "e07dacdb45dcc75e",
    "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
    "source": "TechCrunch",
@@ -970,6 +1358,21 @@
    "tags": [
     "xAI",
     "규제"
+   ]
+  },
+  {
+   "id": "2a2ff1764c2b141f",
+   "url": "https://www.reddit.com/r/singularity/comments/1xklfo1/meta_reportedly_building_humanoid_robot_prototype/",
+   "source": "r/singularity",
+   "title": "Meta reportedly building humanoid robot prototype with Chinese startup",
+   "published_at": "2026-10-31T21:08:04+00:00",
+   "collected_at": "2026-11-01T23:30:01.127440+00:00",
+   "title_ko": "메타, 중국 스타트업과 휴머노이드 로봇 프로토타입 개발 중",
+   "summary_ko": "메타가 중국의 한 스타트업과 협력하여 휴머노이드 로봇 프로토타입을 개발하고 있다는 보도가 나왔습니다.",
+   "category": "중요",
+   "tags": [
+    "Meta",
+    "로보틱스"
    ]
   },
   {
@@ -2569,414 +2972,6 @@
    "category": "중요",
    "tags": [
     "투자"
-   ]
-  },
-  {
-   "id": "d906f2ca87fcfb32",
-   "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-   "source": "TechCrunch",
-   "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
-   "published_at": "2026-10-30T16:03:45+00:00",
-   "collected_at": "2026-10-30T19:09:49.363679+00:00",
-   "title_ko": "테라노스 내부고발자, AI 붐을 사기 기회로 경고",
-   "summary_ko": "테라노스 내부고발자 타일러 슐츠가 현재의 AI 열풍이 기업들이 실적 없이 고평가를 받는 기만적 기회로 변질될 수 있다고 경고함.",
-   "category": "참고",
-   "tags": [
-    "투자"
-   ]
-  },
-  {
-   "id": "01a5a09b6cf86278",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjjbig/pareto_frontier_for_an_2xrtx_3090_on_a/",
-   "source": "r/LocalLLaMA",
-   "title": "Pareto frontier for an 2xRTX 3090 on a moderate-size community benchmarks collection",
-   "published_at": "2026-10-30T16:01:26+00:00",
-   "collected_at": "2026-10-30T19:10:22.007995+00:00",
-   "title_ko": "2xRTX 3090 환경 커뮤니티 벤치마크 파레토 프론티어",
-   "summary_ko": "듀얼 RTX 3090 환경에서 로컬 LLM들의 성능 대비 속도(파레토 프론티어) 분석 및 벤치마크 데이터 시각화 공유.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "38301ec8c004aea5",
-   "url": "https://alanbellows.com/some-thing-is-happening/",
-   "source": "Hacker News",
-   "title": "Some Thing is Happening A note from the AI companies",
-   "published_at": "2026-10-30T15:53:42+00:00",
-   "collected_at": "2026-10-31T12:11:02.608765+00:00",
-   "title_ko": "AI 기업들의 급격한 행보에 대한 단상",
-   "summary_ko": "최근 급변하는 AI 업계의 동향과 기술 발전 속도에 대한 시사점과 단상을 다룬 글.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "9e37c40a85b31b2e",
-   "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-   "source": "Hacker News",
-   "title": "AI isn't replacing SREs, it's deskilling them",
-   "published_at": "2026-10-30T15:52:18+00:00",
-   "collected_at": "2026-10-30T19:10:06.131798+00:00",
-   "title_ko": "AI가 SRE 엔지니어의 자리를 대체하는 대신 역량을 저하시키는 현상",
-   "summary_ko": "AI 도구가 사이트 신뢰성 엔지니어(SRE)를 대체하기보다는 오히려 기본적인 문제 해결 능력을 퇴화시키고 있다는 분석.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "fe68c01eee702267",
-   "url": "https://www.reddit.com/r/singularity/comments/1xjip62/sam_altman_says_the_chip_supply_chains_invisible/",
-   "source": "r/singularity",
-   "title": "Sam Altman says the chip supply chain's invisible hand is failing — and DRAM is why",
-   "published_at": "2026-10-30T15:38:25+00:00",
-   "collected_at": "2026-10-31T05:22:04.385559+00:00",
-   "title_ko": "샘 알트만 \"칩 공급망의 보이지 않는 손이 실패하고 있으며, 원인은 DRAM\"",
-   "summary_ko": "샘 알트만이 AI 하드웨어 생태계에서 DRAM 부족이 칩 공급망 병목 현상의 주원인이라고 지적했다. AI 인프라 확장에 핵심적인 과제다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "반도체"
-   ]
-  },
-  {
-   "id": "fde42095ca6bd3fc",
-   "url": "https://news.hada.io/topic?id=36295",
-   "source": "GeekNews",
-   "title": "Cursor Marketplace의 Claude Code for VS Code 확장 프로그램에서 백도어 발견",
-   "published_at": "2026-10-30T15:34:07+00:00",
-   "collected_at": "2026-10-30T19:10:36.459143+00:00",
-   "title_ko": "Claude Code VS Code 확장 프로그램서 백도어 발견",
-   "summary_ko": "Cursor 마켓플레이스의 공식 Claude Code 확장 프로그램 번들에서 SSH 접근을 노리는 백도어가 발견되어 주의가 요구됨.",
-   "category": "속보",
-   "tags": [
-    "Anthropic",
-    "코딩"
-   ]
-  },
-  {
-   "id": "e644202b49528445",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjigxg/copium_prediction_google_and_other_major_labs/",
-   "source": "r/LocalLLaMA",
-   "title": "Copium Prediction: Google and other major labs will drop new local models over the next few days so they can lead on benchmarks until Qwen 4 sweeps them next week.",
-   "published_at": "2026-10-30T15:29:46+00:00",
-   "collected_at": "2026-10-30T19:10:22.007995+00:00",
-   "title_ko": "주요 AI 연구소들의 신규 로컬 모델 출시 전망",
-   "summary_ko": "차세대 모델(Qwen 4 등) 출시를 앞두고 구글 등 주요 랩들이 벤치마크 선점을 위해 새로운 로컬 모델을 기습 출시할 것이라는 전망.",
-   "category": "참고",
-   "tags": [
-    "Google",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "3cf2268347133868",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xji7ek/ultra_low_temps_make_your_model_stupid_at_coding/",
-   "source": "r/LocalLLaMA",
-   "title": "Ultra low temps make your model stupid at coding (a warning for beginners)",
-   "published_at": "2026-10-30T15:19:46+00:00",
-   "collected_at": "2026-10-30T19:10:22.007995+00:00",
-   "title_ko": "초저온도 설정이 LLM의 코딩 성능에 미치는 악영향",
-   "summary_ko": "온도를 0에 가깝게 설정하여 greedy decoding을 사용할 경우 모델의 코딩 능력이 현저히 떨어질 수 있다는 팁과 분석.",
-   "category": "팁",
-   "tags": [
-    "코딩"
-   ]
-  },
-  {
-   "id": "cfe3cb8509bbeded",
-   "url": "https://www.reddit.com/r/singularity/comments/1xjhzbi/so_larry_page_has_evidently_said_internally_at/",
-   "source": "r/singularity",
-   "title": "\"So Larry Page has evidently said internally at Google many times, 'I am willing to go bankrupt rather than lose this race.' So everybody is really focused on this ROI equation, but the people making the decisions are not\" - x.com/GavinSBaker on ILTB",
-   "published_at": "2026-10-30T15:11:13+00:00",
-   "collected_at": "2026-10-31T05:22:04.385559+00:00",
-   "title_ko": "구글 내부의 공격적인 AI 패권 경쟁 기조",
-   "summary_ko": "래리 페이지가 AI 경쟁에서 패하느니 차라리 파산하겠다는 의지를 보였다는 내부 전언이 전해졌다. ROI보다 생존과 주도권을 우선시하는 빅테크의 기조를 보여준다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "투자"
-   ]
-  },
-  {
-   "id": "1417a98694278a10",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjhpn9/were_moss_the_team_behind_mossimage_mosstts_and/",
-   "source": "r/LocalLLaMA",
-   "title": "We’re MOSS, the team behind MOSS-Image, MOSS-TTS, and more — Ask Us Anything!",
-   "published_at": "2026-10-30T15:00:55+00:00",
-   "collected_at": "2026-10-30T19:10:22.007995+00:00",
-   "title_ko": "MOSS 모델 팀 레딧 AMA 진행",
-   "summary_ko": "음성, 이미지, 비디오 등 다양한 멀티모달 MOSS 모델 가족을 개발한 상하이 연구팀이 레딧에서 커뮤니티 질의응답을 진행함.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "c4bb3b9b5d211edd",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
-   "source": "The Verge",
-   "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
-   "published_at": "2026-10-30T14:58:06+00:00",
-   "collected_at": "2026-10-30T19:09:49.530313+00:00",
-   "title_ko": "교황 레오, AI 군축 촉구하며 인간의 통제 강조",
-   "summary_ko": "교황 레오 XIV가 AI는 도구일 뿐이라며 유엔 회원국들에게 치명적인 자율 무기 금지를 위한 구체적 조치를 촉구함.",
-   "category": "중요",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "a67dac09b60e4ba2",
-   "url": "https://news.hada.io/topic?id=36293",
-   "source": "GeekNews",
-   "title": "미국 하원의원들, AI 거품 붕괴 시 빅테크 구제금융에 반대하는 민주당 결의안 발의 주도",
-   "published_at": "2026-10-30T14:36:18+00:00",
-   "collected_at": "2026-10-30T19:10:36.459143+00:00",
-   "title_ko": "미 민주당, AI 거품 붕괴 시 빅테크 구제금융 반대 결의안 발의",
-   "summary_ko": "미국 하원의원들이 AI 시장 거품 붕괴 시 기업과 경영진 구제를 반대하고 노동자를 보호하는 결의안을 발의했습니다. AI 산업의 경제적 리스크에 대한 정치권의 경계감이 커지고 있음을 보여줍니다.",
-   "category": "중요",
-   "tags": [
-    "규제",
-    "투자"
-   ]
-  },
-  {
-   "id": "9b894388109d9742",
-   "url": "https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968",
-   "source": "Hacker News",
-   "title": "Anthropic Cracking Down on Video Game Rewrites",
-   "published_at": "2026-10-30T14:22:52+00:00",
-   "collected_at": "2026-10-30T23:38:05.169887+00:00",
-   "title_ko": "앤트로픽, 비디오 게임 리라이트 규제 강화",
-   "summary_ko": "앤트로픽이 저작권 관련 우려가 있는 비디오 게임 소스코드나 리라이트 작업에 대한 단속을 강화하고 있습니다. AI 생성 코드의 저작권 및 이용 약관 이슈와 관련이 있습니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "규제"
-   ]
-  },
-  {
-   "id": "1585d9fe027fed5b",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjgne0/anyone_tried_nanbeige4333b/",
-   "source": "r/LocalLLaMA",
-   "title": "Anyone tried Nanbeige4.3-33B?",
-   "published_at": "2026-10-30T14:19:25+00:00",
-   "collected_at": "2026-10-30T19:10:22.007995+00:00",
-   "title_ko": "512K 컨텍스트 지원 33B 오픈소스 모델 'Nanbeige4.3' 공개",
-   "summary_ko": "512K의 긴 컨텍스트 윈도우와 추론, 코딩, 에이전트 능력을 갖춘 33B 파라미터 모델 Nanbeige4.3이 공개되었습니다. 높은 성능으로 주목받고 있으나 KV 캐시 사용량에 대한 실사용 평가가 논의되고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "da11c93aab777160",
-   "url": "https://www.youtube.com/watch?v=Ii-aeW5pHPQ",
-   "source": "Hacker News",
-   "title": "Neal Stephenson on AI and What Comes Next [video]",
-   "published_at": "2026-10-30T14:18:34+00:00",
-   "collected_at": "2026-10-31T12:11:02.608765+00:00",
-   "title_ko": "작가 닐 스티븐슨이 전망하는 AI의 미래",
-   "summary_ko": "유명 SF 작가 닐 스티븐슨이 AI 기술의 현주소와 앞으로 다가올 변화에 대해 논의하는 영상 인터뷰.",
-   "category": "참고",
-   "tags": []
-  },
-  {
-   "id": "275fcbe04c306b6d",
-   "url": "https://www.reddit.com/r/singularity/comments/1xjglg5/anthropic_to_start_blocking_game_recreations/",
-   "source": "r/singularity",
-   "title": "Anthropic to start blocking game recreations ?",
-   "published_at": "2026-10-30T14:17:20+00:00",
-   "collected_at": "2026-10-31T05:22:04.385559+00:00",
-   "title_ko": "앤트로픽, 게임 복제물 차단 조치 검토",
-   "summary_ko": "앤트로픽이 AI를 활용한 게임 복제물 생성 및 배포를 차단하기 위한 조치에 착수할 것으로 보입니다. 저작권 침해 및 안전성 우려에 대응하기 위한 행보입니다.",
-   "category": "속보",
-   "tags": [
-    "Anthropic",
-    "규제"
-   ]
-  },
-  {
-   "id": "005a785837226cbb",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjgfuv/another_reason_to_own_your_own_compute_your/",
-   "source": "r/LocalLLaMA",
-   "title": "Another reason to own your own compute. Your account may get banned in a sneaky update.",
-   "published_at": "2026-10-30T14:11:29+00:00",
-   "collected_at": "2026-10-30T19:10:22.007995+00:00",
-   "title_ko": "클라우드 AI 계정 차단 우려에 자체 연산 장치 소유 필요성 대두",
-   "summary_ko": "클라우드 기반 AI 서비스의 갑작스러운 계정 정지 위험 때문에 자체 하드웨어를 소유해야 한다는 개발자들의 목소리가 커지고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "32c78f8a2d41e7f5",
-   "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
-   "source": "Hacker News",
-   "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-   "published_at": "2026-10-30T14:08:20+00:00",
-   "collected_at": "2026-10-30T23:38:05.169887+00:00",
-   "title_ko": "시스코, 레거시 코드 재작성에 무제한 AI 토큰 지원",
-   "summary_ko": "시스코가 엔지니어에게 레거시 코드 재작성을 위한 무제한 AI 토큰을 지원하기로 했습니다. AI를 활용한 소프트웨어 개발 생산성 혁신의 좋은 사례입니다.",
-   "category": "중요",
-   "tags": [
-    "코딩",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "611aa29ce91e3520",
-   "url": "https://www.reddit.com/r/singularity/comments/1xjg21w/a_new_dawn_for_mathematical_progress/",
-   "source": "r/singularity",
-   "title": "A New Dawn For Mathematical Progress",
-   "published_at": "2026-10-30T13:56:39+00:00",
-   "collected_at": "2026-10-31T05:22:04.385559+00:00",
-   "title_ko": "AI와 수학의 새로운 협력 시대",
-   "summary_ko": "AI가 수학 연구의 깊이 있는 파트너로 자리 잡으며 학계 전반의 연구 방식에 심오한 변화를 예고하고 있습니다. AI를 통한 학술적 진보의 긍정적인 비전을 제시합니다.",
-   "category": "참고",
-   "tags": [
-    "AI 연구",
-    "수학"
-   ]
-  },
-  {
-   "id": "e9e7beb52b83e198",
-   "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-   "source": "TechCrunch",
-   "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-   "published_at": "2026-10-30T13:54:25+00:00",
-   "collected_at": "2026-10-30T13:59:13.908936+00:00",
-   "title_ko": "도어대시, AI 에이전트를 통한 주문은 아직 미미",
-   "summary_ko": "배달 플랫폼 도어대시가 외부 AI 에이전트를 통한 주문이 아직 '수백 건' 수준에 불과하다고 밝혔다. 서드파티 에이전트 연동에는 열려 있는 입장이다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "bf95d87155921f0b",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjfuqh/introducing_deepseekv41flash1017_dynamic_v31/",
-   "source": "r/LocalLLaMA",
-   "title": "Introducing DeepSeek-V4.1-Flash-1017 Dynamic v3.1 Unsloth GGUFs",
-   "published_at": "2026-10-30T13:48:01+00:00",
-   "collected_at": "2026-10-30T13:59:30.602023+00:00",
-   "title_ko": "Unsloth, DeepSeek-V4.1-Flash GGUF 모델 공개",
-   "summary_ko": "Unsloth가 벤치마크 성능을 유지하면서 크기를 줄인 DeepSeek-V4.1 동적 GGUF 양자화 모델을 새롭게 선보였다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "8cc71fe5fcee5e75",
-   "url": "https://news.hada.io/topic?id=36292",
-   "source": "GeekNews",
-   "title": "Pico CSS, 더 이상 유지보수하지 않음",
-   "published_at": "2026-10-30T13:42:16+00:00",
-   "collected_at": "2026-10-30T19:10:36.459143+00:00",
-   "title_ko": "Pico CSS, AI 코딩 도구 보급으로 유지보수 종료",
-   "summary_ko": "시맨틱 HTML용 최소 CSS 프레임워크인 Pico CSS가 AI가 필요한 CSS를 직접 생성할 수 있게 되면서 유지보수를 종료하고 아카이브되었습니다. AI 도입이 오픈소스 생태계에 미치는 영향을 보여줍니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "d1a2857e47e337e4",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjf0yg/tried_to_get_qwen_38_27b_to_make_the_deepseek/",
-   "source": "r/LocalLLaMA",
-   "title": "Tried to get Qwen 3.8 27b to make the deepseek chibi whale in blender and animate it lol",
-   "published_at": "2026-10-30T13:12:41+00:00",
-   "collected_at": "2026-10-30T13:59:30.602023+00:00",
-   "title_ko": "Qwen 27B 모델 활용 블렌더 3D 애니메이션 테스트",
-   "summary_ko": "개발자가 Qwen 27B 모델을 활용해 긴 컨텍스트에서 블렌더 3D 캐릭터 생성 및 애니메이션 파이프라인을 테스트한 사례를유기했다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "8bf6d66943506208",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-   "source": "The Verge",
-   "title": "Silicon Valley wants you to invest in miracles",
-   "published_at": "2026-10-30T13:11:05+00:00",
-   "collected_at": "2026-10-30T13:59:14.076714+00:00",
-   "title_ko": "실리콘밸리의 AI 낙관론과 실존적 위험 투자",
-   "summary_ko": "AI 기술이 인류에게 기적을 가져다줄지 혹은 실존적 위협이 될지 모르는 상황에서 빅테크 투자가 도박과 유사하다는 분석이다.",
-   "category": "참고",
-   "tags": [
-    "투자"
-   ]
-  },
-  {
-   "id": "a4231a3499cd586a",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-   "source": "The Verge",
-   "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-   "published_at": "2026-10-30T13:01:14+00:00",
-   "collected_at": "2026-10-30T13:59:14.076714+00:00",
-   "title_ko": "샘 알트먼, 수학계 AI 공세 지속 의지 표명",
-   "summary_ko": "오픈AI의 쏟아지는 AI 생성 수학 결과물에 수학자들이 어려움을 겪는 데 대해 샘 알트먼이 공감을 표하면서도 연구 공세를 멈추지 않겠다고 밝혔다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "GPT"
-   ]
-  },
-  {
-   "id": "3e4e3eed2bbff167",
-   "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-   "source": "TechCrunch",
-   "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-   "published_at": "2026-10-30T13:00:00+00:00",
-   "collected_at": "2026-10-30T13:59:13.908936+00:00",
-   "title_ko": "조립식 AI 데이터센터 양산 노리는 스타트업 '런웨어'",
-   "summary_ko": "스타트업 런웨어가 자동차처럼 조립식 AI 데이터센터를 대량 생산하기 위한 공장을 구축하고 있다.",
-   "category": "중요",
-   "tags": [
-    "반도체",
-    "투자"
-   ]
-  },
-  {
-   "id": "2c3fc72ce858d7e9",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216831",
-   "source": "AI타임스",
-   "title": "LG CNS, 3분기 매출 1.7조원…AI·클라우드 성장 견인",
-   "published_at": "2026-10-30T12:47:16+00:00",
-   "collected_at": "2026-10-30T06:59:27.265198+00:00",
-   "title_ko": "LG CNS, 3분기 AI·클라우드 성장으로 호실적 기록",
-   "summary_ko": "LG CNS가 AI와 클라우드 사업 성장에 힘입어 3분기 매출과 영업이익이 모두 증가했습니다. 데이터센터 및 AI 인프라 사업 확장이 실적을 견인했습니다.",
-   "category": "중요",
-   "tags": [
-    "AI 하우스",
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "7dc7c91750189897",
-   "url": "https://news.hada.io/topic?id=36288",
-   "source": "GeekNews",
-   "title": "Anthropic 해킹으로 원격 접근 트로이목마 배포",
-   "published_at": "2026-10-30T12:37:14+00:00",
-   "collected_at": "2026-10-30T19:10:36.459143+00:00",
-   "title_ko": "Cursor 마켓플레이스 공식 Claude Code 확장 프로그램 해킹 사고",
-   "summary_ko": "Cursor의 확장 마켓플레이스에 등록된 공식 Claude Code 확장 프로그램에 악성 코드가 포함되어 공급망 공격이 발생했습니다. 약 5,000명의 개발자 시스템이 영향을 받아 보안에 비상이 걸렸습니다.",
-   "category": "속보",
-   "tags": [
-    "Anthropic",
-    "코딩"
    ]
   }
  ]

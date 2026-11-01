@@ -1,5 +1,194 @@
 [
  {
+  "id": "ca2782c6c3152e2d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlh0zw/glb3dcoder_a_tiny_4b_coding_model_that_creates_3d/",
+  "source": "r/LocalLLaMA",
+  "title": "[GLB-3D-Coder] A tiny 4B coding model that creates 3D assets for Godot and other game engines",
+  "published_at": "2026-11-01T22:56:19+00:00",
+  "collected_at": "2026-11-01T23:29:47.932707+00:00",
+  "title_ko": "Godot용 3D 에셋 생성 소형 코딩 모델 공개",
+  "summary_ko": "Three.js와 GLB 내보내기를 지원하여 게임 엔진 에셋을 생성하는 4B 규모의 소형 코딩 모델이 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "코딩",
+   "로보틱스"
+  ]
+ },
+ {
+  "id": "fa89c725027e7702",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlgu8m/benchmarking_qwen_27b_35b_qfn180b_nemotron_bolt/",
+  "source": "r/LocalLLaMA",
+  "title": "Benchmarking: Qwen 27B, 35B, QFN180B; Nemotron Bolt 74B, Flint40B & Clover 35B (Q4 + KFlash) on MacBook M5 Max 2026 with Kapitsa (Apple Silicon Inference Engine)",
+  "published_at": "2026-11-01T22:47:41+00:00",
+  "collected_at": "2026-11-01T23:29:47.932707+00:00",
+  "title_ko": "Apple Silicon용 추론 엔진 Kapitsa 업데이트",
+  "summary_ko": "맥(Mac) 환경에서 Qwen, Nemotron 등 대형언어모델을 로컬 구동하기 위한 Kapitsa 엔진의 최신 버전이 성능 개선과 함께 공개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "0dbf0226aa90a12c",
+  "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+  "source": "TechCrunch",
+  "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+  "published_at": "2026-11-01T21:55:23+00:00",
+  "collected_at": "2026-11-01T23:29:28.637377+00:00",
+  "title_ko": "OpenAI, 데이터센터 명칭 'AI 컴퓨팅 캠퍼스'로 변경 검토",
+  "summary_ko": "부정적인 인식이 강한 데이터센터라는 용어 대신 AI 인프라의 성격을 강조하기 위한 새로운 브랜딩을 고려하고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI"
+  ]
+ },
+ {
+  "id": "efbb5ea2ec8633d4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlfhrd/speedy_is_shockingly_good_for_qwen38_fn/",
+  "source": "r/LocalLLaMA",
+  "title": "Speedy is shockingly good for qwen3.8 FN",
+  "published_at": "2026-11-01T21:49:36+00:00",
+  "collected_at": "2026-11-01T23:29:47.932707+00:00",
+  "title_ko": "로컬 LLM 추론 속도 개선 도구 'Speedy' 등장",
+  "summary_ko": "고성능 하드웨어 환경에서 로컬 LLM의 컨텍스트 읽기 및 생성 속도를 극적으로 끌어올려주는 새로운 오픈소스 도구가 주목받고 있습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "e5c59cb7edb4f30e",
+  "url": "https://news.hada.io/topic?id=36415&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Proton의 방향을 바꾼 것은 AI가 아니었다",
+  "published_at": "2026-11-01T21:43:13+00:00",
+  "collected_at": "2026-11-01T23:30:03.354128+00:00",
+  "title_ko": "AI 코드 생성 시대의 개발 보안과 리더십의 역할",
+  "summary_ko": "AI가 작성한 코드의 검토와 테스트 프로세스를 대하는 리더십의 태도가 보안과 소프트웨어 품질에 미치는 영향에 대한 논의입니다.",
+  "category": "참고",
+  "tags": [
+   "코딩"
+  ]
+ },
+ {
+  "id": "e23e1f85f3b1ca24",
+  "url": "https://news.hada.io/topic?id=36414&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "수학은 달라졌다. 그에 맞게 행동하자",
+  "published_at": "2026-11-01T21:40:13+00:00",
+  "collected_at": "2026-11-01T23:30:03.354128+00:00",
+  "title_ko": "AI 시대의 수학 연구 패러다임 변화",
+  "summary_ko": "AI가 수학 증명을 생산하는 능력이 향상됨에 따라 인간 수학자의 역할과 보상 기준이 증명 그 자체에서 이해와 새로운 질문 발굴로 이동해야 한다는 분석입니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "667bd801c8356743",
+  "url": "https://www.reddit.com/r/singularity/comments/1xlf1xj/mike_levins_ideas_on_what_math_and_minds_are_a/",
+  "source": "r/singularity",
+  "title": "Mike Levins ideas on what Math and Minds are : A revolutionary paradigm on the old Platonic Hypothesis",
+  "published_at": "2026-11-01T21:31:14+00:00",
+  "collected_at": "2026-11-01T23:30:01.127440+00:00",
+  "title_ko": "AI와 마음(Mind)의 본질에 대한 새로운 패러다임",
+  "summary_ko": "머신러닝 혁명을 단순한 거품이 아니라 우주에 내재된 지능의 원리를 발견하는 과정으로 바라보는 철학적 분석입니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "Anthropic"
+  ]
+ },
+ {
+  "id": "5ab7364379e3729b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlerw1/an_updated_23bpw_model_for_qwen_27b_12_gb_cards/",
+  "source": "r/LocalLLaMA",
+  "title": "An updated 2.3bpw model for qwen 27b + 12 GB cards: ties Qwen3.6 BF16 on LiveCode Bench and reduces error by 37-57% vs a previous checkpoint",
+  "published_at": "2026-11-01T21:19:36+00:00",
+  "collected_at": "2026-11-01T23:29:47.932707+00:00",
+  "title_ko": "저사양 VRAM용 Qwen 27B 양자화 모델 공개",
+  "summary_ko": "12GB VRAM 그래픽카드 환경에서도 대용량 컨텍스트와 높은 성능을 발휘하도록 최적화된 새로운 양자화 포맷 모델이 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "3f8ce1454fa23386",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlec67/getting_incredible_results_with_a_single_rtx/",
+  "source": "r/LocalLLaMA",
+  "title": "Getting incredible results with a single RTX 3090ti and 128gb of ram. Deepseek-V4.1-Flash-1017 (35 tok/s decode) and Qwen3.8-Flash-Next (130 tok/s decode)",
+  "published_at": "2026-11-01T21:01:42+00:00",
+  "collected_at": "2026-11-01T23:29:47.932707+00:00",
+  "title_ko": "단일 RTX 3090ti 기반 로컬 LLM 고속 구동 사례",
+  "summary_ko": "구형 하드웨어와 대용량 시스템 메모리를 활용해 최신 플래시 모델들을 높은 초당 토큰 처리량으로 구동하는 설정 공유입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "7d784d2cd686fdd2",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xle8ta/qwenbend_qwen_writes_a_bend_program_then_the_same/",
+  "source": "r/LocalLLaMA",
+  "title": "QwenBend : Qwen writes a Bend program, then the same model type checks it with Bend2 rules and runs it inside its own forward pass",
+  "published_at": "2026-11-01T20:58:07+00:00",
+  "collected_at": "2026-11-01T23:29:47.932707+00:00",
+  "title_ko": "모델 내부에서 직접 코드를 실행하는 'QwenBend' 실험",
+  "summary_ko": "별도의 인터프리터나 컴파일러 없이 LLM이 직접 코드를 작성하고 모델의 순방향 패스 내에서 실행하는 독창적인 실험 프로젝트입니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "bb2642061f374db8",
+  "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+  "source": "TechCrunch",
+  "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+  "published_at": "2026-11-01T20:57:58+00:00",
+  "collected_at": "2026-11-01T23:29:28.637377+00:00",
+  "title_ko": "테크 CEO들의 AI 낙관론과 현실의 괴리",
+  "summary_ko": "테크 업계 리더들이 AI 도입을 통해 얻는 효익과 일반 근로자들이 체감하는 현실 사이의 간극에 대한 비평입니다.",
+  "category": "참고",
+  "tags": []
+ },
+ {
+  "id": "fd9afd3ea5f751b4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xle3ul/is_gemma_4_e4b_still_the_best_small_model_for_a/",
+  "source": "r/LocalLLaMA",
+  "title": "Is Gemma 4 E4B still the best small model for a local, tool-calling personal assistant? What am I missing?",
+  "published_at": "2026-11-01T20:52:26+00:00",
+  "collected_at": "2026-11-01T23:29:47.932707+00:00",
+  "title_ko": "로컬 AI 비서용 소형 멀티모달 모델 탐색",
+  "summary_ko": "Mac 환경에서 툴 호출과 멀티모달 기능을 수행하는 로컬 AI 비서용 모델로 Gemma 4 E4B의 활용도와 대안을 논의합니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "1df42119210a4ae7",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xldent/tandemcpp_qwen38flashnext_at_97_toks_on_a_single/",
+  "source": "r/LocalLLaMA",
+  "title": "tandem.cpp: Qwen3.8-Flash-Next at 97 tok/s on a single 4090 + 64 GB RAM, 3.3× llama.cpp, works for any MoE",
+  "published_at": "2026-11-01T20:23:50+00:00",
+  "collected_at": "2026-11-01T23:29:47.932707+00:00",
+  "title_ko": "MoE 모델 추론 속도를 3배 높이는 tandem.cpp 패치",
+  "summary_ko": "GPU와 CPU를 협력시켜 VRAM에 다 들어가지 않는 MoE 모델의 실행 속도를 대폭 끌어올리는 llama.cpp 패치 세트가 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "c78c7d1e0a57abdd",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlboqi/llama2c_on_a_2006_ipod_80_mhz_w_64_mb_ram_and_no/",
   "source": "r/LocalLLaMA",
@@ -28,6 +217,18 @@
    "Meta",
    "규제"
   ]
+ },
+ {
+  "id": "afa8c12492173b26",
+  "url": "https://www.reddit.com/r/singularity/comments/1xlb3ys/singularitywhitepilled_mathematician_i_hope_ai/",
+  "source": "r/singularity",
+  "title": "Singularity-Whitepilled Mathematician. \"I hope AI can help mathematicians break out of the straitjacket of being constrained by the first natural conjecture they cannot prove, and work on unraveling the deeper mysteries woven throughout our subject. \"",
+  "published_at": "2026-11-01T18:53:00+00:00",
+  "collected_at": "2026-11-01T23:30:01.127440+00:00",
+  "title_ko": "AI가 수학자의 한계를 극복하는 데 기여하길 바라는 시각",
+  "summary_ko": "AI가 수학자들이 기존의 한계를 넘어 더 깊은 미지의 영역을 탐구하도록 도울 수 있다는 기대감을 담고 있습니다.",
+  "category": "참고",
+  "tags": []
  },
  {
   "id": "d9a5a6f86fa9dd12",
@@ -73,6 +274,18 @@
   ]
  },
  {
+  "id": "280630936cfd1bf7",
+  "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+  "source": "Hacker News",
+  "title": "Mathematics has changed. Let's act like it",
+  "published_at": "2026-11-01T18:28:42+00:00",
+  "collected_at": "2026-11-01T23:29:43.542640+00:00",
+  "title_ko": "변화된 수학계의 연구 패러다임 조명",
+  "summary_ko": "테렌스 타이가 AI 시대에 발맞추어 변화한 수학 연구 방식과 태도를 다룹니다.",
+  "category": "중요",
+  "tags": []
+ },
+ {
   "id": "cfce96b528ef94a6",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl9yfi/silencio2_an_18m_tts_with_emotion_and_sound_tags/",
   "source": "r/LocalLLaMA",
@@ -84,6 +297,20 @@
   "category": "속보",
   "tags": [
    "오픈소스"
+  ]
+ },
+ {
+  "id": "d5381e749e27a5d4",
+  "url": "https://www.reddit.com/r/singularity/comments/1xl9hrk/demis_hassabis_says_ai_data_centers_should_be/",
+  "source": "r/singularity",
+  "title": "Demis Hassabis says AI data centers should be beautiful and we should take their effect on our physical surroundings seriously",
+  "published_at": "2026-11-01T17:49:42+00:00",
+  "collected_at": "2026-11-01T23:30:01.127440+00:00",
+  "title_ko": "데미스 하사비스, AI 데이터센터의 미관과 물리적 영향 강조",
+  "summary_ko": "AI 데이터센터가 지역 사회와 주변 환경에 미치는 영향을 신중히 고려해야 한다는 데미스 하사비스의 인터뷰 내용입니다.",
+  "category": "참고",
+  "tags": [
+   "Google"
   ]
  },
  {
@@ -148,6 +375,35 @@
   ]
  },
  {
+  "id": "c45b2676b023a2a8",
+  "url": "https://www.reddit.com/r/singularity/comments/1xl7oy1/openai_wants_to_rebrand_its_data_centers_as_ai/",
+  "source": "r/singularity",
+  "title": "OpenAI wants to rebrand its data centers as \"AI compute campuses\" after the midterms",
+  "published_at": "2026-11-01T16:40:36+00:00",
+  "collected_at": "2026-11-01T23:30:01.127440+00:00",
+  "title_ko": "OpenAI, 데이터센터 명칭 'AI 컴퓨트 캠퍼스'로 리브랜딩 추진",
+  "summary_ko": "OpenAI가 지역 사회 수용성을 높이기 위해 데이터센터를 'AI 컴퓨트 캠퍼스'로 명칭을 바꾸는 PR 캠페인을 검토 중입니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI"
+  ]
+ },
+ {
+  "id": "b54e08deb40f1a62",
+  "url": "https://www.reddit.com/r/singularity/comments/1xl7lwm/alleged_mythos_class_leak_is_fake_forensic/",
+  "source": "r/singularity",
+  "title": "Alleged Mythos Class \"leak\" is fake. Forensic Investigation inside.",
+  "published_at": "2026-11-01T16:37:12+00:00",
+  "collected_at": "2026-11-01T23:30:01.127440+00:00",
+  "title_ko": "앤트로픽 '미토스' 클래스 모델 유출 파일은 가짜로 판명",
+  "summary_ko": "포렌식 분석 결과 허깅페이스에 올라온 앤트로픽의 신규 모델 유출 파일은 임베딩 행렬을 기반으로 생성된 가짜 가중치로 밝혀졌습니다.",
+  "category": "속보",
+  "tags": [
+   "Anthropic",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "47d47d07474db9e7",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl7jr0/i_built_frontier_ui_to_give_local_llms/",
   "source": "r/LocalLLaMA",
@@ -176,6 +432,22 @@
   "tags": [
    "Google",
    "Gemini"
+  ]
+ },
+ {
+  "id": "2bcd6daa002b02f6",
+  "url": "https://www.reddit.com/r/singularity/comments/1xl6vk8/anthropics_growing_restrictions_are_creating_a/",
+  "source": "r/singularity",
+  "title": "Anthropic's growing restrictions are creating a new divide in the AI capabilities race: Gemini 4 Argon recreates Pixar's iconic intro, while Claude Opus 5.5 refuses over copyright and builds a toaster instead—highlighting the gap between what frontier AI can do and what companies allow it to do.",
+  "published_at": "2026-11-01T16:08:05+00:00",
+  "collected_at": "2026-11-01T23:30:01.127440+00:00",
+  "title_ko": "AI 모델의 기능과 보안 제한의 괴리",
+  "summary_ko": "앤트로픽의 엄격한 저작권 정책으로 클로드의 기능이 제한되는 반면, 구글 제미니는 창의적인 작업을 수행해 AI 활용 범위에 대한 논란이 일고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "Google",
+   "Claude"
   ]
  },
  {
