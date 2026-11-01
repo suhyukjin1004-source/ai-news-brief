@@ -1,5 +1,67 @@
 [
  {
+  "id": "d05a55834f52ec71",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=216858",
+  "source": "AI타임스",
+  "title": "젠슨 황 주변 중국 스파이 의혹, 싱가포르·대만까지 번져",
+  "published_at": "2026-11-01T12:16:28+00:00",
+  "collected_at": "2026-11-01T07:23:25.197849+00:00",
+  "title_ko": "젠슨 황 주변 중국인 사업가 스파이 의혹",
+  "summary_ko": "젠슨 황 엔비디아 CEO와 친분이 있는 중국인 사업가가 싱가포르와 대만 등지에서 중국 정보기관 연계 의혹을 받고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "규제"
+  ]
+ },
+ {
+  "id": "87d57d487908195d",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=216862",
+  "source": "AI타임스",
+  "title": "앤트로픽, 클로드로 기존 게임 복제 금지…정상 작업까지 차단 논란",
+  "published_at": "2026-11-01T11:59:10+00:00",
+  "collected_at": "2026-11-01T07:23:25.197849+00:00",
+  "title_ko": "앤트로픽, 클로드 코드의 게임 복제 제한으로 논란",
+  "summary_ko": "앤트로픽이 '클로드 코드'에서 기존 게임 복제 작업을 제한하면서, 정상적인 소프트웨어 개발과 오류 해결 작업까지 차단되어 개발자들의 불만이 제기되고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "코딩"
+  ]
+ },
+ {
+  "id": "5d070eb065f44593",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=216859",
+  "source": "AI타임스",
+  "title": "앤트로픽 \"AI가 안전 감시 피하는 학습 데이터 스스로 발견\"",
+  "published_at": "2026-11-01T10:46:59+00:00",
+  "collected_at": "2026-11-01T07:23:25.197849+00:00",
+  "title_ko": "앤트로픽, AI가 안전장치 우회 데이터 스스로 발견",
+  "summary_ko": "앤트로픽 연구 결과 AI가 스스로 다른 모델의 안전장치를 우회하는 학습 데이터를 찾아내는 데 성공했습니다. AI를 활용한 정렬 연구가 본격화하고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "e1d72ea52da15ad9",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=216855",
+  "source": "AI타임스",
+  "title": "구글 \"AI 경제 혁명, 똑똑한 모델보다 협력하는 에이전트가 이끈다\"",
+  "published_at": "2026-11-01T10:03:10+00:00",
+  "collected_at": "2026-11-01T07:23:25.197849+00:00",
+  "title_ko": "구글 딥마인드 \"AI 경제 혁신은 협력하는 에이전트가 주도\"",
+  "summary_ko": "구글 딥마인드 보고서에 따르면 AI가 경제를 바꿀 핵심은 개별 지능이 아니라 다중 AI 에이전트의 대규모 협업 능력입니다.",
+  "category": "참고",
+  "tags": [
+   "Google",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "cda6c452f50617a3",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216854",
   "source": "AI타임스",
@@ -30,6 +92,21 @@
   ]
  },
  {
+  "id": "3913112760390add",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkvp10/rented_some_server_time_and_wanted_to_share_some/",
+  "source": "r/LocalLLaMA",
+  "title": "Rented some server time and wanted to share some learnings from benching using RAM heavier servers with some decent GPU: AMD EPYC and ROME motherboards really *ARE* worth it: Qwen 3.8 Flash Next Unsloth Q8 at 94 tok/s c=1, 456 tok/s c=8 .",
+  "published_at": "2026-11-01T06:09:18+00:00",
+  "collected_at": "2026-11-01T07:23:11.718646+00:00",
+  "title_ko": "로컬 LLM 벤치마크: 고성능 CPU와 대용량 RAM 서버 활용기",
+  "summary_ko": "AMD EPYC 등 고성능 CPU와 대용량 RAM을 탑재한 서버를 활용해 로컬 LLM을 구동하고 벤치마크를 진행한 실무 경험 공유입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
   "id": "ebcbebaaa19f10e8",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216852",
   "source": "AI타임스",
@@ -43,6 +120,82 @@
    "OpenAI",
    "투자",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "f8ef6cbbe643ac2c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkuaf2/just_picked_up_an_evga_rtx_3090_ftw3_for_1100/",
+  "source": "r/LocalLLaMA",
+  "title": "Just picked up an EVGA RTX 3090 FTW3 for $1100. What to run?",
+  "published_at": "2026-11-01T04:43:18+00:00",
+  "collected_at": "2026-11-01T07:23:11.718646+00:00",
+  "title_ko": "RTX 3090 24GB 중고 활용 로컬 LLM 구축 팁",
+  "summary_ko": "24GB VRAM을 가진 RTX 3090을 활용해 로컬 환경에서 LLM과 음성 인식 등 AI 파이프라인을 효율적으로 구동하는 방법에 대한 논의입니다.",
+  "category": "팁",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "8c4c580d53188b0c",
+  "url": "https://news.hada.io/topic?id=36373&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Memdoor: Qwen3.8-27B 모델 5개로 구성한 팀이 LiveCodeBench Hard에서 Fable 5를 능가함",
+  "published_at": "2026-11-01T04:33:01+00:00",
+  "collected_at": "2026-11-01T07:23:26.502023+00:00",
+  "title_ko": "Qwen 기반 다중 에이전트 팀, 코딩 벤치마크서 우수 성적",
+  "summary_ko": "Qwen 3.8-27B 모델 5개로 구성된 Memdoor 다중 에이전트 워크플로가 LiveCodeBench Hard에서 기존 모델들을 능가하는 성능을 기록했습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "b9f75c115a3710bb",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xksj75/64gb_isnt_the_dead_zone_anymore_if_you_run_agents/",
+  "source": "r/LocalLLaMA",
+  "title": "64GB isn't the dead zone anymore if you run agents",
+  "published_at": "2026-11-01T03:02:34+00:00",
+  "collected_at": "2026-11-01T07:23:11.718646+00:00",
+  "title_ko": "로컬 에이전트 구동 시 64GB 메모리 환경 재조명",
+  "summary_ko": "과거 로컬 LLM의 애매한 용량으로 여겨졌던 64GB 메모리가 27B 모델 기반의 코딩 에이전트 구동에 적합하다는 실사용 후기입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "0357e073e0c3cf20",
+  "url": "https://news.hada.io/topic?id=36365&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Show GN: LeftPen - 짧은 글의 뜻과 말투를 살려 다듬는 AI 편집기",
+  "published_at": "2026-11-01T01:10:56+00:00",
+  "collected_at": "2026-11-01T07:23:26.502023+00:00",
+  "title_ko": "짧은 글의 뜻과 말투를 다듬는 AI 편집기 'LeftPen' 출시",
+  "summary_ko": "메일이나 공지문의 문장을 읽기 편하게 다듬어 주는 AI 기반 글쓰기 도구가 공개되었습니다. 실무에서 간편하게 문장을 교정하는 데 유용합니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "6138a193b58ede2e",
+  "url": "https://news.hada.io/topic?id=36359&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Show HN: DOOM을 트랜스포머로 바꿨습니다",
+  "published_at": "2026-10-31T23:45:59+00:00",
+  "collected_at": "2026-11-01T07:23:26.502023+00:00",
+  "title_ko": "신경망 연산을 DOOM 게임 맵으로 구현한 'doomformer'",
+  "summary_ko": "신경망을 DOOM 맵으로 컴파일하여 게임 내 인형과 선으로 어텐션과 가중치 계산을 수행하도록 구현한 독창적인 프로젝트입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
   ]
  },
  {
@@ -89,6 +242,21 @@
   "tags": [
    "OpenAI",
    "GPT"
+  ]
+ },
+ {
+  "id": "f9b8a9efbf26f92e",
+  "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+  "source": "Hacker News",
+  "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+  "published_at": "2026-10-31T22:46:12+00:00",
+  "collected_at": "2026-11-01T07:23:10.391866+00:00",
+  "title_ko": "Qwen 모델 팀이 LiveCodeBench Hard에서 우수 성적 기록",
+  "summary_ko": "5개의 Qwen3.8-27B 모델로 구성된 팀이 LiveCodeBench Hard 벤치마크에서 뛰어난 성능을 기록했습니다. 다중 모델 협업의 코딩 능력을 보여줍니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "코딩"
   ]
  },
  {

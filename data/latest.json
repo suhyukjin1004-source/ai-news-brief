@@ -1,8 +1,86 @@
 {
- "updated_at": "2026-11-01T00:58:36.008372+00:00",
+ "updated_at": "2026-11-01T07:23:34.725074+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "52ec3c205abf6f3e",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216857",
+   "source": "AI타임스",
+   "title": "메타, 중국 푸리에와 휴머노이드 로봇 개발...가정용 시장 진출 추진",
+   "published_at": "2026-11-01T15:48:51+00:00",
+   "collected_at": "2026-11-01T07:23:25.197849+00:00",
+   "title_ko": "메타, 중국 푸리에와 가정용 휴머노이드 로봇 개발",
+   "summary_ko": "메타가 중국 로봇 스타트업 푸리에와 협력해 가정용 휴머노이드 로봇 시제품을 개발하고 일상 업무 시장 진출을 추진합니다. AI 에이전트를 물리적 세계로 확장하려는 전략입니다.",
+   "category": "중요",
+   "tags": [
+    "Meta",
+    "로보틱스",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "d05a55834f52ec71",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216858",
+   "source": "AI타임스",
+   "title": "젠슨 황 주변 중국 스파이 의혹, 싱가포르·대만까지 번져",
+   "published_at": "2026-11-01T12:16:28+00:00",
+   "collected_at": "2026-11-01T07:23:25.197849+00:00",
+   "title_ko": "젠슨 황 주변 중국인 사업가 스파이 의혹",
+   "summary_ko": "젠슨 황 엔비디아 CEO와 친분이 있는 중국인 사업가가 싱가포르와 대만 등지에서 중국 정보기관 연계 의혹을 받고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "NVIDIA",
+    "규제"
+   ]
+  },
+  {
+   "id": "87d57d487908195d",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216862",
+   "source": "AI타임스",
+   "title": "앤트로픽, 클로드로 기존 게임 복제 금지…정상 작업까지 차단 논란",
+   "published_at": "2026-11-01T11:59:10+00:00",
+   "collected_at": "2026-11-01T07:23:25.197849+00:00",
+   "title_ko": "앤트로픽, 클로드 코드의 게임 복제 제한으로 논란",
+   "summary_ko": "앤트로픽이 '클로드 코드'에서 기존 게임 복제 작업을 제한하면서, 정상적인 소프트웨어 개발과 오류 해결 작업까지 차단되어 개발자들의 불만이 제기되고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "코딩"
+   ]
+  },
+  {
+   "id": "5d070eb065f44593",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216859",
+   "source": "AI타임스",
+   "title": "앤트로픽 \"AI가 안전 감시 피하는 학습 데이터 스스로 발견\"",
+   "published_at": "2026-11-01T10:46:59+00:00",
+   "collected_at": "2026-11-01T07:23:25.197849+00:00",
+   "title_ko": "앤트로픽, AI가 안전장치 우회 데이터 스스로 발견",
+   "summary_ko": "앤트로픽 연구 결과 AI가 스스로 다른 모델의 안전장치를 우회하는 학습 데이터를 찾아내는 데 성공했습니다. AI를 활용한 정렬 연구가 본격화하고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "e1d72ea52da15ad9",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216855",
+   "source": "AI타임스",
+   "title": "구글 \"AI 경제 혁명, 똑똑한 모델보다 협력하는 에이전트가 이끈다\"",
+   "published_at": "2026-11-01T10:03:10+00:00",
+   "collected_at": "2026-11-01T07:23:25.197849+00:00",
+   "title_ko": "구글 딥마인드 \"AI 경제 혁신은 협력하는 에이전트가 주도\"",
+   "summary_ko": "구글 딥마인드 보고서에 따르면 AI가 경제를 바꿀 핵심은 개별 지능이 아니라 다중 AI 에이전트의 대규모 협업 능력입니다.",
+   "category": "참고",
+   "tags": [
+    "Google",
+    "AI 에이전트"
+   ]
+  },
   {
    "id": "cda6c452f50617a3",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216854",
@@ -34,6 +112,21 @@
    ]
   },
   {
+   "id": "3913112760390add",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkvp10/rented_some_server_time_and_wanted_to_share_some/",
+   "source": "r/LocalLLaMA",
+   "title": "Rented some server time and wanted to share some learnings from benching using RAM heavier servers with some decent GPU: AMD EPYC and ROME motherboards really *ARE* worth it: Qwen 3.8 Flash Next Unsloth Q8 at 94 tok/s c=1, 456 tok/s c=8 .",
+   "published_at": "2026-11-01T06:09:18+00:00",
+   "collected_at": "2026-11-01T07:23:11.718646+00:00",
+   "title_ko": "로컬 LLM 벤치마크: 고성능 CPU와 대용량 RAM 서버 활용기",
+   "summary_ko": "AMD EPYC 등 고성능 CPU와 대용량 RAM을 탑재한 서버를 활용해 로컬 LLM을 구동하고 벤치마크를 진행한 실무 경험 공유입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
    "id": "ebcbebaaa19f10e8",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216852",
    "source": "AI타임스",
@@ -47,6 +140,82 @@
     "OpenAI",
     "투자",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "f8ef6cbbe643ac2c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkuaf2/just_picked_up_an_evga_rtx_3090_ftw3_for_1100/",
+   "source": "r/LocalLLaMA",
+   "title": "Just picked up an EVGA RTX 3090 FTW3 for $1100. What to run?",
+   "published_at": "2026-11-01T04:43:18+00:00",
+   "collected_at": "2026-11-01T07:23:11.718646+00:00",
+   "title_ko": "RTX 3090 24GB 중고 활용 로컬 LLM 구축 팁",
+   "summary_ko": "24GB VRAM을 가진 RTX 3090을 활용해 로컬 환경에서 LLM과 음성 인식 등 AI 파이프라인을 효율적으로 구동하는 방법에 대한 논의입니다.",
+   "category": "팁",
+   "tags": [
+    "반도체",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "8c4c580d53188b0c",
+   "url": "https://news.hada.io/topic?id=36373&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Memdoor: Qwen3.8-27B 모델 5개로 구성한 팀이 LiveCodeBench Hard에서 Fable 5를 능가함",
+   "published_at": "2026-11-01T04:33:01+00:00",
+   "collected_at": "2026-11-01T07:23:26.502023+00:00",
+   "title_ko": "Qwen 기반 다중 에이전트 팀, 코딩 벤치마크서 우수 성적",
+   "summary_ko": "Qwen 3.8-27B 모델 5개로 구성된 Memdoor 다중 에이전트 워크플로가 LiveCodeBench Hard에서 기존 모델들을 능가하는 성능을 기록했습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "b9f75c115a3710bb",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xksj75/64gb_isnt_the_dead_zone_anymore_if_you_run_agents/",
+   "source": "r/LocalLLaMA",
+   "title": "64GB isn't the dead zone anymore if you run agents",
+   "published_at": "2026-11-01T03:02:34+00:00",
+   "collected_at": "2026-11-01T07:23:11.718646+00:00",
+   "title_ko": "로컬 에이전트 구동 시 64GB 메모리 환경 재조명",
+   "summary_ko": "과거 로컬 LLM의 애매한 용량으로 여겨졌던 64GB 메모리가 27B 모델 기반의 코딩 에이전트 구동에 적합하다는 실사용 후기입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "0357e073e0c3cf20",
+   "url": "https://news.hada.io/topic?id=36365&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Show GN: LeftPen - 짧은 글의 뜻과 말투를 살려 다듬는 AI 편집기",
+   "published_at": "2026-11-01T01:10:56+00:00",
+   "collected_at": "2026-11-01T07:23:26.502023+00:00",
+   "title_ko": "짧은 글의 뜻과 말투를 다듬는 AI 편집기 'LeftPen' 출시",
+   "summary_ko": "메일이나 공지문의 문장을 읽기 편하게 다듬어 주는 AI 기반 글쓰기 도구가 공개되었습니다. 실무에서 간편하게 문장을 교정하는 데 유용합니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "6138a193b58ede2e",
+   "url": "https://news.hada.io/topic?id=36359&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Show HN: DOOM을 트랜스포머로 바꿨습니다",
+   "published_at": "2026-10-31T23:45:59+00:00",
+   "collected_at": "2026-11-01T07:23:26.502023+00:00",
+   "title_ko": "신경망 연산을 DOOM 게임 맵으로 구현한 'doomformer'",
+   "summary_ko": "신경망을 DOOM 맵으로 컴파일하여 게임 내 인형과 선으로 어텐션과 가중치 계산을 수행하도록 구현한 독창적인 프로젝트입니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
    ]
   },
   {
@@ -93,6 +262,21 @@
    "tags": [
     "OpenAI",
     "GPT"
+   ]
+  },
+  {
+   "id": "f9b8a9efbf26f92e",
+   "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+   "source": "Hacker News",
+   "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+   "published_at": "2026-10-31T22:46:12+00:00",
+   "collected_at": "2026-11-01T07:23:10.391866+00:00",
+   "title_ko": "Qwen 모델 팀이 LiveCodeBench Hard에서 우수 성적 기록",
+   "summary_ko": "5개의 Qwen3.8-27B 모델로 구성된 팀이 LiveCodeBench Hard 벤치마크에서 뛰어난 성능을 기록했습니다. 다중 모델 협업의 코딩 능력을 보여줍니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "코딩"
    ]
   },
   {
@@ -2788,184 +2972,6 @@
    "tags": [
     "OpenAI",
     "GPT"
-   ]
-  },
-  {
-   "id": "22bf403b075adcd7",
-   "url": "https://news.hada.io/topic?id=36272",
-   "source": "GeekNews",
-   "title": "데이터 에이전트는 실제 분석을 할 수 있을까?",
-   "published_at": "2026-10-30T02:59:43+00:00",
-   "collected_at": "2026-10-30T06:59:28.731006+00:00",
-   "title_ko": "데이터 분석 에이전트의 실력과 한계 평가",
-   "summary_ko": "SQL 생성을 넘어선 복잡한 데이터베이스 결합과 비정형 데이터 처리를 수행하는 데이터 에이전트의 실증 평가 결과가 공유되었습니다. 최고 성능 에이전트의 단일 시도 통과율은 약 61% 수준입니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "d66b13a82180be4d",
-   "url": "https://news.hada.io/topic?id=36269",
-   "source": "GeekNews",
-   "title": "998달러로 3.8B LLM을 학습해 CORE 0.384 달성하기",
-   "published_at": "2026-10-30T02:46:32+00:00",
-   "collected_at": "2026-10-30T06:59:28.731006+00:00",
-   "title_ko": "1천 달러 미만 비용으로 3.8B LLM 사전학습 성공",
-   "summary_ko": "B200 GPU 8대를 이용해 43시간 동안 998달러의 비용으로 3.8B 규모의 LLM을 무작위 초기화부터 사전학습한 개인 프로젝트가 공유되었습니다. 효율적인 소형 LLM 학습 방법론을 제시합니다.",
-   "category": "참고",
-   "tags": [
-    "LLM",
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "bc052eb4557d308e",
-   "url": "https://news.hada.io/topic?id=36268",
-   "source": "GeekNews",
-   "title": "선언문, 두려움, ‘패배자 사고방식’: Proton 내부의 AI 전환 갈등",
-   "published_at": "2026-10-30T02:33:59+00:00",
-   "collected_at": "2026-10-30T06:59:28.731006+00:00",
-   "title_ko": "프로톤(Proton), 사내 AI 전환 과정에서의 갈등 대두",
-   "summary_ko": "프로톤 경영진이 AI 중심 개발 전환을 강하게 추진하는 과정에서 보안 우려를 제기하는 직원들과의 마찰이 발생했습니다. 사내 소통과 기술 도입 속도를 둘러싼 갈등을 보여줍니다.",
-   "category": "참고",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "198079f18ff2d289",
-   "url": "https://www.reddit.com/r/singularity/comments/1xj2r4a/claude_opus_55_and_gpt6_astra_independently_audit/",
-   "source": "r/singularity",
-   "title": "Claude Opus 5.5 and GPT-6 Astra independently audit 138 economics papers, flagging 2,035 potential problems and 147 potentially headline-changing findings. A third AI attempts to verify and refute them, fueling debate over AI systematically re-examining decades of published research.",
-   "published_at": "2026-10-30T01:47:49+00:00",
-   "collected_at": "2026-10-31T05:22:04.385559+00:00",
-   "title_ko": "AI 모델들의 경제학 논문 교차 검증",
-   "summary_ko": "차세대 AI 모델들이 수백 편의 경제학 논문을 독립적으로 감사하여 수천 건의 문제를 발견하고 제3의 AI가 이를 검증했습니다. 학술 연구의 체계적인 재검토와 AI 활용 가능성을 보여줍니다.",
-   "category": "중요",
-   "tags": [
-    "GPT",
-    "Claude",
-    "AI 연구"
-   ]
-  },
-  {
-   "id": "6ade11ab98560175",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj2pnp/reddit_will_force_everyone_to_log_in/",
-   "source": "r/LocalLLaMA",
-   "title": "Reddit will force everyone to log in",
-   "published_at": "2026-10-30T01:45:51+00:00",
-   "collected_at": "2026-10-30T06:59:13.871375+00:00",
-   "title_ko": "레딧 로그인 필수화 전환, AI 툴 콜링 검색에 영향",
-   "summary_ko": "레딧이 로그인한 사용자에게만 서비스를 제공하기로 하면서 웹 브라우저 검색이 차단되어, 인터넷 검색을 활용하는 로컬 AI 에이전트에 타격이 예상됩니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "e6631115175505e2",
-   "url": "https://news.hada.io/topic?id=36265",
-   "source": "GeekNews",
-   "title": "Minecraft와 Mindustry에서 AI 에이전트 군집을 실행해 봄",
-   "published_at": "2026-10-30T01:36:11+00:00",
-   "collected_at": "2026-10-30T06:59:28.731006+00:00",
-   "title_ko": "마인크래프트와 민두스트스트리에서의 AI 에이전트 군집 실험",
-   "summary_ko": "게임 내에서 다중 AI 에이전트를 실험한 결과, 에이전트들이 자발적으로 역할과 협업 체계를 구축하며 모델별로 상이한 행동 양상을 보였습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "GPT"
-   ]
-  },
-  {
-   "id": "dd66d5e8fdc57555",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj2hi1/qwen_38_what_am_i_missing_here/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen 3.8 what am I missing here?",
-   "published_at": "2026-10-30T01:35:02+00:00",
-   "collected_at": "2026-10-30T06:59:13.871375+00:00",
-   "title_ko": "로컬 환경에서 Qwen 3.8 27B 모델 구동 테스트",
-   "summary_ko": "고성능 하드웨어를 갖춘 사용자가 로컬 환경에서 Qwen 모델을 활용해 시詩 작성, 코드 생성 등의 작업을 수행하며 성능을 점검했습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "3f421dfac0528ad9",
-   "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-   "source": "TechCrunch",
-   "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-   "published_at": "2026-10-30T01:20:48+00:00",
-   "collected_at": "2026-10-30T06:58:56.283916+00:00",
-   "title_ko": "미국 대학 관리자, 직장 내 AI 사용에 종교적 면제 승인받아",
-   "summary_ko": "직장 내에서 AI 도구 사용을 거부하기 위해 종교적 신념을 근거로 면제를 인정받은 사례가 나와 주목받고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "bedd9dab023ed552",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj182d/10_coding_agents_one_qwen_38_27b_same_llamaserver/",
-   "source": "r/LocalLLaMA",
-   "title": "10 coding agents, one Qwen 3.8 27B, same llama-server: tokens and cache reuse differ more than pass rates",
-   "published_at": "2026-10-30T00:34:49+00:00",
-   "collected_at": "2026-10-30T06:59:13.871375+00:00",
-   "title_ko": "코딩 에이전트 10종 비교 테스트: 토큰과 캐시 재사용 분석",
-   "summary_ko": "동일한 Qwen 모델과 서버 환경에서 10개의 코딩 에이전트를 테스트한 결과, 패스율 외에도 토큰 소모량과 캐시 재사용률에서 큰 차이를 보였습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "코딩",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "164590dc2904035e",
-   "url": "https://news.hada.io/topic?id=36260",
-   "source": "GeekNews",
-   "title": "Show GN: 컷팩(Cutfac) - Claude Code/Codex로 숏폼 만들 때 쓰는 오픈소스 비디오 에디터",
-   "published_at": "2026-10-30T00:28:00+00:00",
-   "collected_at": "2026-10-30T06:59:28.731006+00:00",
-   "title_ko": "Claude Code와 연동하는 오픈소스 비디오 에디터 '컷팩'",
-   "summary_ko": "AI 코딩 도구를 활용해 숏폼 콘텐츠를 대량 제작하는 과정의 불편함을 해결하기 위해 개발된 오픈소스 비디오 에디터입니다.",
-   "category": "팁",
-   "tags": [
-    "Claude",
-    "코딩"
-   ]
-  },
-  {
-   "id": "e88fb4e061670a5d",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj0w5d/benchmark_tiny_harbor_a_living_3d_island_village/",
-   "source": "r/LocalLLaMA",
-   "title": "Benchmark: Tiny Harbor, a living 3D island village in three.js (Qwen 3.8 Flash Next)",
-   "published_at": "2026-10-30T00:19:36+00:00",
-   "collected_at": "2026-10-30T06:59:13.871375+00:00",
-   "title_ko": "로컬 LLM을 활용한 3D 섬 마을 벤치마크 생성",
-   "summary_ko": "로컬에서 구동되는 Qwen 모델을 이용해 three.js 기반의 3D 렌더링 환경과 사운드트랙을 원샷으로 생성하는 테스트가 진행되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "d2282bcce1625c64",
-   "url": "https://openai.com/index/fair-use-benefits-everyone",
-   "source": "OpenAI",
-   "title": "Fair use benefits everyone",
-   "published_at": "2026-10-30T00:00:00+00:00",
-   "collected_at": "2026-10-30T23:37:46.767601+00:00",
-   "title_ko": "오픈에이아이 \"공정 이용은 모두에게 이익\"",
-   "summary_ko": "오픈에이아이가 법원 제출 서한을 인용하며 공정 이용(Fair Use) 원칙이 AI 학습과 혁신을 어떻게 뒷받침하는지 설명했습니다. AI 저작권 분쟁에서 중요한 법적 근거가 됩니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "규제"
    ]
   }
  ]
