@@ -1,5 +1,121 @@
 [
  {
+  "id": "c78c7d1e0a57abdd",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlboqi/llama2c_on_a_2006_ipod_80_mhz_w_64_mb_ram_and_no/",
+  "source": "r/LocalLLaMA",
+  "title": "llama2.c on a 2006 iPod @ 80 MHz w/ 64 MB ram and no FPU",
+  "published_at": "2026-11-01T19:15:26+00:00",
+  "collected_at": "2026-11-01T19:31:47.682573+00:00",
+  "title_ko": "2006년식 아이팟에서 구동되는 llama2.c",
+  "summary_ko": "구형 아이팟 클래식 하드웨어에서 정수 연산만으로 경량 LLM을 구동하는 실험이 성공함. 임베디드 및 구형 기기에서의 로컬 LLM 활용 가능성을 보여줌.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "fe85ea435bb73637",
+  "url": "https://news.hada.io/topic?id=36409&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "전 Meta 연구원, 해적판 도서를 토렌트로 받은 뒤 ‘소송 때문에’ 삭제",
+  "published_at": "2026-11-01T18:57:17+00:00",
+  "collected_at": "2026-11-01T19:32:01.884747+00:00",
+  "title_ko": "전 Meta 연구원의 Books3 토렌트 다운로드와 저작권 소송",
+  "summary_ko": "Meta의 Llama 학습 데이터 확보 과정에서 저작권 논란이 커짐에 따라, 전직 연구원의 데이터 다운로드 및 삭제 경위에 대한 법원 증언이 이어짐.",
+  "category": "중요",
+  "tags": [
+   "Meta",
+   "규제"
+  ]
+ },
+ {
+  "id": "d9a5a6f86fa9dd12",
+  "url": "https://news.hada.io/topic?id=36407&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Anthropic, IPO 이후 정크 등급 중 상위 등급 받을 전망",
+  "published_at": "2026-11-01T18:51:17+00:00",
+  "collected_at": "2026-11-01T19:32:01.884747+00:00",
+  "title_ko": "Anthropic, IPO 이후 정크 등급 전망",
+  "summary_ko": "블랙스톤이 앤스로픽의 향후 신용등급을 투기등급(정크) 상위 수준으로 예상함. AI 기업들의 대규모 투자와 재무적 구조를 보여주는 지표임.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "투자"
+  ]
+ },
+ {
+  "id": "3019b02eda101a4b",
+  "url": "https://news.hada.io/topic?id=36406&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Minecraft 속 AI 에이전트 군집, 문명 건설에 실패하고 관료주의에 빠지다",
+  "published_at": "2026-11-01T18:48:17+00:00",
+  "collected_at": "2026-11-01T19:32:01.884747+00:00",
+  "title_ko": "마인크래프트 AI 에이전트 군집의 관료주의적 실패 실험",
+  "summary_ko": "마인크래프트에서 문명 건설을 목표로 한 50개의 AI 에이전트가 과도한 절차와 생존 위주의 행동으로 목표 달성에 실패함. AI 에이전트의 사회적 상호작용 한계를 보여줌.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "5ff334f87bb7846d",
+  "url": "https://news.hada.io/topic?id=36405&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Show GN: EBS Gurapinggala Teacher - 거짓말 에이전트",
+  "published_at": "2026-11-01T18:41:19+00:00",
+  "collected_at": "2026-11-01T19:32:01.884747+00:00",
+  "title_ko": "EBS '생각의 멸종' 교실용 거짓말 AI 에이전트 공개",
+  "summary_ko": "학생 대상 AI 실험을 위해 개발된 거짓말하는 AI 챗봇과 교사 모니터링 도구가 깃허브에 공개됨. AI 교육과 윤리 실험에 활용됨.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "cfce96b528ef94a6",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl9yfi/silencio2_an_18m_tts_with_emotion_and_sound_tags/",
+  "source": "r/LocalLLaMA",
+  "title": "Silencio-2: an 18M TTS with emotion and sound tags, ~20x realtime on CPU (open weights)",
+  "published_at": "2026-11-01T18:07:34+00:00",
+  "collected_at": "2026-11-01T19:31:47.682573+00:00",
+  "title_ko": "감정과 사운드 태그를 지원하는 18M 음성합성 모델 Silencio-2 공개",
+  "summary_ko": "텍스트 내 태그를 통해 감정과 효과음을 제어할 수 있는 초경량 오픈소스 음성합성 모델이 공개됨. CPU에서 실시간 구동이 가능함.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "14dafceb25767f77",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl9577/meet_ava_inbrowser_local_ai_avatar_with_lfm3omni/",
+  "source": "r/LocalLLaMA",
+  "title": "Meet Ava: In-browser local AI avatar with LFM3-Omni and WebGPU",
+  "published_at": "2026-11-01T17:36:17+00:00",
+  "collected_at": "2026-11-01T19:31:47.682573+00:00",
+  "title_ko": "웹브라우저 기반 로컬 AI 아바타 'Ava' 공개",
+  "summary_ko": "WebGPU와 LFM3-Omni 모델을 활용해 브라우저 상에서 직접 구동되는 로컬 AI 아바타 서비스가 공개됨.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "a26cbfe6327fc185",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl90rr/coding_is_solved_exclusions_apply/",
+  "source": "r/LocalLLaMA",
+  "title": "Coding is solved* (exclusions apply)",
+  "published_at": "2026-11-01T17:31:32+00:00",
+  "collected_at": "2026-11-01T19:31:47.682573+00:00",
+  "title_ko": "컴파일러 없이 바이너리를 직접 생성하는 Gemma 파인튜닝 모델",
+  "summary_ko": "프롬프트를 받아 리눅스 실행 파일을 직접 1진수로 출력하는 Gemma 기반 미세조정 모델이 등장함. 코딩 자동화의 새로운 접근 방식을 제시함.",
+  "category": "참고",
+  "tags": [
+   "코딩",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "38cca762b159a336",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216864",
   "source": "AI타임스",
@@ -13,6 +129,38 @@
    "Google",
    "반도체",
    "규제"
+  ]
+ },
+ {
+  "id": "7a06514023fd7da4",
+  "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+  "source": "Simon Willison",
+  "title": "Quoting Kyle Kingsbury",
+  "published_at": "2026-11-01T16:49:04+00:00",
+  "collected_at": "2026-11-01T19:31:46.838346+00:00",
+  "title_ko": "LLM 확산에 따른 문서 및 소프트웨어 신뢰도 저하 우려",
+  "summary_ko": "LLM으로 인해 시스템의 성숙도를 나타내던 신뢰의 신호들이 위조되기 쉬워지면서, 소프트웨어와 문서에 대한 엔지니어들의 신뢰가 흔들리고 있다는 지적입니다.",
+  "category": "중요",
+  "tags": [
+   "LLM",
+   "생성형 AI",
+   "AI 신뢰성"
+  ]
+ },
+ {
+  "id": "47d47d07474db9e7",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl7jr0/i_built_frontier_ui_to_give_local_llms/",
+  "source": "r/LocalLLaMA",
+  "title": "I built Frontier UI to give local LLMs ChatGPT-style visual responses in Open WebUI (maps, photos, interactive charts, Office exports, etc.)",
+  "published_at": "2026-11-01T16:34:50+00:00",
+  "collected_at": "2026-11-01T19:31:47.682573+00:00",
+  "title_ko": "로컬 LLM을 위한 ChatGPT 스타일의 시각적 응답 UI 공개",
+  "summary_ko": "Open WebUI에서 지도, 차트 등 인터랙티브한 시각적 응답을 제공하는 오픈소스 도구 'Frontier UI'가 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "오픈웨이브UI",
+   "LLM"
   ]
  },
  {
@@ -46,6 +194,22 @@
   ]
  },
  {
+  "id": "eeaedb8347d0189a",
+  "url": "https://hackerbooks.org",
+  "source": "Hacker News",
+  "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+  "published_at": "2026-11-01T15:58:28+00:00",
+  "collected_at": "2026-11-01T19:31:25.812228+00:00",
+  "title_ko": "Claude로 구현한 HN 언급 도서 아카이브 사이트",
+  "summary_ko": "개발자가 Claude를 활용해 해커뉴스에서 언급된 도서들을 모아 보여주는 'HackerBooks' 플랫폼을 구축했습니다.",
+  "category": "팁",
+  "tags": [
+   "Claude",
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
   "id": "52ec3c205abf6f3e",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216857",
   "source": "AI타임스",
@@ -58,6 +222,52 @@
   "tags": [
    "Meta",
    "로보틱스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "a6c2d44588e1bfb1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl65xy/7900xtx_got_speedup/",
+  "source": "r/LocalLLaMA",
+  "title": "7900xtx got speedup",
+  "published_at": "2026-11-01T15:39:54+00:00",
+  "collected_at": "2026-11-01T19:31:47.682573+00:00",
+  "title_ko": "AMD RX 7900 XTX에서의 Qwen 모델 구동 속도 개선",
+  "summary_ko": "AMD 하드웨어 환경에서 대형 언어 모델 구동 성능을 높여주는 최적화 업데이트가 공유되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "9d1854171d7f5bce",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl64ho/lfm317b_seems_impressive/",
+  "source": "r/LocalLLaMA",
+  "title": "LFM3-1.7b seems impressive",
+  "published_at": "2026-11-01T15:38:15+00:00",
+  "collected_at": "2026-11-01T19:31:47.682573+00:00",
+  "title_ko": "소형 언어 모델 Liquid LFM3-1.7B 성능 테스트 결과",
+  "summary_ko": "Liquid의 1.7B 소형 모델이 요약 및 압축 작업에서 뛰어난 처리 속도와 맥락 이해도를 보여주어 주목받고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "소형 모델"
+  ]
+ },
+ {
+  "id": "129dd86373b8c373",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl5yfs/release_drex_max_v1_openweight_27b_multimodal/",
+  "source": "r/LocalLLaMA",
+  "title": "[Release] Drex Max v1: Open-weight 27B multimodal decision model, 262K context, local inference on Apple Silicon",
+  "published_at": "2026-11-01T15:31:15+00:00",
+  "collected_at": "2026-11-01T19:31:47.682573+00:00",
+  "title_ko": "오픈웨이트 멀티모달 결정 모델 'Drex Max v1' 공개",
+  "summary_ko": "토큰을 생성하지 않고 단일 패스로 답변 확률을 출력하여 디코딩 지연을 없앤 27B 멀티모달 결정 모델이 오픈소스로 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "멀티모달",
    "AI 에이전트"
   ]
  }
