@@ -1,5 +1,51 @@
 [
  {
+  "id": "b51d06fe90d5c721",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlzaq0/an_ai_agent_just_beat_nvidias_flashmla_baseline/",
+  "source": "r/LocalLLaMA",
+  "title": "An AI agent just beat NVIDIA's FlashMLA baseline by 9.8% on B200, without seeing its source code",
+  "published_at": "2026-11-02T14:53:42+00:00",
+  "collected_at": "2026-11-02T15:34:47.428472+00:00",
+  "title_ko": "AI 에이전트, 소스 코드 없이 엔비디아 B200 커널 최적화 성능 경신",
+  "summary_ko": "오픈BMB의 AI 에이전트가 소스 코드를 보지 않고 블랙박스 상태에서 엔비디아 B200의 FlashMLA 성능을 9.8% 향상시켰습니다. 자율 최적화의 가능성을 입증했습니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "AI 에이전트",
+   "반도체"
+  ]
+ },
+ {
+  "id": "23853e620c1dfd33",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlz5dz/qwen_4_when/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen 4 When ?",
+  "published_at": "2026-11-02T14:47:55+00:00",
+  "collected_at": "2026-11-02T15:34:47.428472+00:00",
+  "title_ko": "Qwen 4 출시 루머 확산",
+  "summary_ko": "차세대 모델 Qwen 4의 이달 초 출시 루머가 커뮤니티를 중심으로 확산되고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "모델"
+  ]
+ },
+ {
+  "id": "d812d05fab07b196",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlys6k/release_ista_deepseekv41flash1017_gsqrco_coder_a/",
+  "source": "r/LocalLLaMA",
+  "title": "[Release] ISTA DeepSeek-V4.1-Flash-1017 GSQ-RCO Coder: a 763B model at 1 bit per parameter",
+  "published_at": "2026-11-02T14:33:20+00:00",
+  "collected_at": "2026-11-02T15:34:47.428472+00:00",
+  "title_ko": "1비트 압축 763B 파라미터 DeepSeek-V4.1-Flash 코딩 모델 공개",
+  "summary_ko": "매개변수당 1비트로 압축되고 전문가 모델 일부를 제거하여 효율성을 높인 DeepSeek-V4.1-Flash 코더 버전이 출시되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
   "id": "aeb72c2b19e5487d",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216897",
   "source": "AI타임스",
@@ -46,6 +92,79 @@
   ]
  },
  {
+  "id": "1ab8989706eae846",
+  "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+  "source": "TechCrunch",
+  "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
+  "published_at": "2026-11-02T13:57:53+00:00",
+  "collected_at": "2026-11-02T15:34:09.135433+00:00",
+  "title_ko": "OpenAI, ChatGPT 채팅과 Work 탭 통합",
+  "summary_ko": "OpenAI가 ChatGPT와 Codex의 사용량 할당 풀을 통합하기 위해 채팅과 Work 탭을 병합합니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "GPT"
+  ]
+ },
+ {
+  "id": "e454c452440350e0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlxnpc/we_released_kvark_sparkle_10_a_qwen3827bbased/",
+  "source": "r/LocalLLaMA",
+  "title": "We released KVARK Sparkle 1.0 – a Qwen3.8-27B-based model with up to 67% fewer thinking tokens",
+  "published_at": "2026-11-02T13:48:55+00:00",
+  "collected_at": "2026-11-02T15:34:47.428472+00:00",
+  "title_ko": "추론 토큰을 67% 줄인 KVARK Sparkle 1.0 모델 공개",
+  "summary_ko": "Qwen 기반으로 추론 오버헤드를 대폭 줄여 속도를 높이고 GPU 사용량을 절감한 오픈웨이트 모델이 출시되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "efcf00e7bea340af",
+  "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+  "source": "Simon Willison",
+  "title": "The U.S. Census Bureau and “Super Intelligence”",
+  "published_at": "2026-11-02T13:31:26+00:00",
+  "collected_at": "2026-11-02T15:34:46.603012+00:00",
+  "title_ko": "미국 인구조사국의 기업 AI 도입률 통계 중단 배경",
+  "summary_ko": "미국 인구조사국이 행정명령의 영향으로 기업 AI 도입률 관련 데이터 수집에 차질을 빚고 있다는 분석입니다.",
+  "category": "참고",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
+  "id": "7cdcbf814715c05c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlwrh1/deepseek_v41_flash_1017_is_really_golden/",
+  "source": "r/LocalLLaMA",
+  "title": "DeepSeek V4.1 Flash 1017 is really golden.",
+  "published_at": "2026-11-02T13:10:41+00:00",
+  "collected_at": "2026-11-02T15:34:47.428472+00:00",
+  "title_ko": "DeepSeek V4.1 Flash 모델 사용 후기",
+  "summary_ko": "오픈소스 모델의 성능 한계에 회의적이던 사용자가 뛰어난 속도와 성능을 보여준 최신 DeepSeek 모델에 호평을 남겼습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "13d2cc1b2e283f02",
+  "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+  "source": "MIT Tech Review",
+  "title": "Stop counting tokens, start counting what ships",
+  "published_at": "2026-11-02T13:10:32+00:00",
+  "collected_at": "2026-11-02T15:34:22.009479+00:00",
+  "title_ko": "AI 에이전트 시대의 새로운 성능 측정 지표",
+  "summary_ko": "단순한 토큰 카운트를 넘어 AI 에이전트가 코딩 작업 등에서 계획부터 테스트까지 수행하며 소비하는 실제 자원을 측정해야 한다는 지적입니다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
   "id": "af77ece8d26d3144",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216888",
   "source": "AI타임스",
@@ -61,6 +180,21 @@
   ]
  },
  {
+  "id": "1d8b22d3ea4702a1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlwpqv/not_another_toks_post_local_quants_vs_claude_on_9/",
+  "source": "r/LocalLLaMA",
+  "title": "Not another tok/s post: local quants vs Claude on 9 real bugs",
+  "published_at": "2026-11-02T13:08:34+00:00",
+  "collected_at": "2026-11-02T15:34:47.428472+00:00",
+  "title_ko": "로컬 퀀트 모델과 Claude의 실무 버그 수정 능력 비교",
+  "summary_ko": "로컬 환경에서 구동하는 모델들과 Claude를 실제 C++/CUDA 버그 9개를 대상으로 비교 테스트한 후기입니다.",
+  "category": "참고",
+  "tags": [
+   "Claude",
+   "코딩"
+  ]
+ },
+ {
   "id": "db1aa080c2014b0f",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=216887",
   "source": "AI타임스",
@@ -73,6 +207,21 @@
   "tags": [
    "인프라",
    "데이터센터"
+  ]
+ },
+ {
+  "id": "fe1716ac5b300a01",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlw9v4/sensenovasensenovaloop9bpreview_hugging_face/",
+  "source": "r/LocalLLaMA",
+  "title": "sensenova/SenseNova-Loop-9B-Preview · Hugging Face",
+  "published_at": "2026-11-02T12:48:33+00:00",
+  "collected_at": "2026-11-02T15:34:47.428472+00:00",
+  "title_ko": "Sensenova-Loop-9B-Preview 모델 허깅페이스 공개",
+  "summary_ko": "새로운 오픈 소스 프리뷰 모델인 Sensenova-Loop-9B가 허깅페이스에 등록되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "모델"
   ]
  },
  {
@@ -133,6 +282,77 @@
   "tags": [
    "AI 에이전트",
    "물류"
+  ]
+ },
+ {
+  "id": "2dc45217488c56e0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlusil/proposal_a_community_revolution_for_private/",
+  "source": "r/LocalLLaMA",
+  "title": "Proposal: A community revolution for private quality benchmarks (and why endless chasing tok/s is rotting our brains",
+  "published_at": "2026-11-02T11:33:00+00:00",
+  "collected_at": "2026-11-02T15:34:47.428472+00:00",
+  "title_ko": "로컬 LLM 커뮤니티의 비공개 품질 벤치마크 제안",
+  "summary_ko": "토큰 속도 경쟁에서 벗어나 양자화 모델의 실제 품질을 측정하기 위한 자체 비공개 벤치마크 도입이 제안되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "72c1d7bdf6154595",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlsuwf/4_touchscreen_for_inference_engine_monitoring/",
+  "source": "r/LocalLLaMA",
+  "title": "4\" touchscreen for inference engine monitoring",
+  "published_at": "2026-11-02T09:38:16+00:00",
+  "collected_at": "2026-11-02T15:34:47.428472+00:00",
+  "title_ko": "추론 엔진 모니터링을 위한 4인치 터치스크린 대시보드",
+  "summary_ko": "ESP32와 소형 화면을 활용해 AI 추론 클러스터의 성능을 실시간으로 모니터링하는 TUI 스타일 대시보드 프로젝트입니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "a25d5f10bd8ee27e",
+  "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+  "source": "MIT Tech Review",
+  "title": "The agentic web is here",
+  "published_at": "2026-11-02T09:35:19+00:00",
+  "collected_at": "2026-11-02T15:34:22.009479+00:00",
+  "title_ko": "자율 에이전트 중심의 '에이전틱 웹' 시대 도래",
+  "summary_ko": "시멘틱 웹 비전에서 시작된 자율 소프트웨어 에이전트들이 웹을 탐색하고 작업을 수행하는 에이전틱 웹 환경이 본격화되고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "3141106142ba5a80",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlsd4v/if_you_are_using_big_model_compared_to_ram_try/",
+  "source": "r/LocalLLaMA",
+  "title": "If you are using big model compared to ram try and disable mtp",
+  "published_at": "2026-11-02T09:06:06+00:00",
+  "collected_at": "2026-11-02T15:34:47.428472+00:00",
+  "title_ko": "대형 모델 구동 시 MTP 비활성화로 성능 향상 팁",
+  "summary_ko": "제한된 메모리 환경에서 대형 LLM을 실행할 때 MTP 기능을 끄는 것만으로도 토큰 처리 속도가 향상될 수 있다는 팁입니다.",
+  "category": "팁",
+  "tags": [
+   "LLM"
+  ]
+ },
+ {
+  "id": "ca130899e453061a",
+  "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
+  "source": "Hacker News",
+  "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+  "published_at": "2026-11-02T07:27:28+00:00",
+  "collected_at": "2026-11-02T15:34:28.640647+00:00",
+  "title_ko": "중국 최초의 프론티어 AI 수출 통제 발표",
+  "summary_ko": "중국 상무부의 첨단 AI 기술 및 모델 수출 통제 관련 규제 발표가 업계의 주목을 받고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "규제"
   ]
  },
  {
