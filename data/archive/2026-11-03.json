@@ -58,6 +58,308 @@
   ]
  },
  {
+  "id": "eb3661170b1d6a14",
+  "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
+  "source": "Hacker News",
+  "title": "Just a little AI resistance, as a treat",
+  "published_at": "2026-11-03T14:14:12+00:00",
+  "collected_at": "2026-11-03T14:59:17.816431+00:00",
+  "title_ko": "웹상에서 나타나는 소소한 AI 저항 움직임",
+  "summary_ko": "인터넷 커뮤니티와 블로그를 중심으로 무분별한 AI 콘텐츠 생성에 대한 소소한 반발과 저항 트렌드가 나타나고 있다.",
+  "category": "참고",
+  "tags": []
+ },
+ {
+  "id": "847f0194e3687374",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmtoir/stealth_pulse_alpha_on_voldemortcode_appears_to/",
+  "source": "r/LocalLLaMA",
+  "title": "Stealth \"Pulse Alpha\" on VoldemortCode, appears to use GLM tokeniser - GLM 5.5 perhaps?",
+  "published_at": "2026-11-03T14:00:38+00:00",
+  "collected_at": "2026-11-03T14:59:18.614477+00:00",
+  "title_ko": "오픈소스 진영, GLM 토크나이저 기반 신규 모델 포착",
+  "summary_ko": "로컬 LLM 커뮤니티에서 GLM 계열의 토크나이저를 사용하는 미공개 모델 'Pulse Alpha'에 대한 테스트와 분석이 공유되고 있다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "51557aa1cdfbdeb6",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmt6kb/strata_is_the_shit/",
+  "source": "r/LocalLLaMA",
+  "title": "Strata is the shit",
+  "published_at": "2026-11-03T13:39:42+00:00",
+  "collected_at": "2026-11-03T14:59:18.614477+00:00",
+  "title_ko": "로컬 LLM 구동 시 추론 속도 대폭 개선 도구 주목",
+  "summary_ko": "로컬 환경에서 대형언어모델 구동 시 'Strata' 등의 도구를 활용해 디코딩 속도가 획기적으로 향상되었다는 실무 사용자들의 후기가 공유되고 있다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "61291d1837ae01b7",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xms9ii/what_qwen_is_thinking_when_it_gets_stuck_saying/",
+  "source": "r/LocalLLaMA",
+  "title": "What Qwen is thinking when it gets stuck saying \"Wait\"",
+  "published_at": "2026-11-03T12:58:05+00:00",
+  "collected_at": "2026-11-03T14:59:18.614477+00:00",
+  "title_ko": "Qwen 모델의 추론 루프와 웨이트 수정 분석",
+  "summary_ko": "MIT CSAIL이 GPT-6 Astra를 이용해 Qwen 모델의 가중치를 일부 수정하여 추론 루프 문제를 해결한 연구에 대한 분석 내용입니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "23b9e292a6c482d9",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xms6eq/is_qwen_38_27b_still_the_king/",
+  "source": "r/LocalLLaMA",
+  "title": "Is Qwen 3.8 27B still the king",
+  "published_at": "2026-11-03T12:53:57+00:00",
+  "collected_at": "2026-11-03T14:59:18.614477+00:00",
+  "title_ko": "Qwen 3.8 27B 모델의 현황 공유",
+  "summary_ko": "8B~35B 파라미터 규모의 AI 모델 생태계에서 Qwen 3.8 27B를 대체할 만한 최신 모델에 대한 사용자들의 논의입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "a3d5708b8c465c14",
+  "url": "https://news.hada.io/topic?id=36524&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "AI 시대, 자아를 내려놓는 수학",
+  "published_at": "2026-11-03T12:33:42+00:00",
+  "collected_at": "2026-11-03T14:59:33.169422+00:00",
+  "title_ko": "AI 시대의 수학과 인간의 탐구 목적",
+  "summary_ko": "AI가 수학적 발견을 수행하는 시대에 인간의 지적 활동과 탐구 가치가 나아갈 방향을 고찰한 글입니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "b6a05857f14891dc",
+  "url": "https://news.hada.io/topic?id=36523&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Show GN: AI로 쓴 금융 글, 숫자 검사기 MCP",
+  "published_at": "2026-11-03T12:25:39+00:00",
+  "collected_at": "2026-11-03T14:59:33.169422+00:00",
+  "title_ko": "AI 글쓰기의 숫자 오류를 검증하는 MCP 도구",
+  "summary_ko": "AI를 활용해 금융 블로그 초안을 작성할 때 발생하기 쉬운 치명적인 숫자 오류를 검사하기 위해 제작한 도구 소개입니다.",
+  "category": "팁",
+  "tags": [
+   "코딩"
+  ]
+ },
+ {
+  "id": "435a4449f912b507",
+  "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+  "source": "Hacker News",
+  "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+  "published_at": "2026-11-03T12:21:17+00:00",
+  "collected_at": "2026-11-03T14:59:13.429571+00:00",
+  "title_ko": "Astra의 Qwen 가중치 수정 관련 게시물의 오해",
+  "summary_ko": "최근 화제가 된 LLM의 가중치 직접 읽기 및 쓰기 기술과 관련된 과장된 내용이나 오해를 바로잡는 개발자 블로그 글입니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "a8819db396c20cef",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmqq2a/rtx_5090_with_64gb_and_96gb_vram_confirmed_by_us/",
+  "source": "r/LocalLLaMA",
+  "title": "RTX 5090 with 64GB and 96GB VRAM 'confirmed' by US GPU repair tech",
+  "published_at": "2026-11-03T11:40:16+00:00",
+  "collected_at": "2026-11-03T14:59:18.614477+00:00",
+  "title_ko": "RTX 5090 64GB·96GB VRAM 탑재 확인 소문",
+  "summary_ko": "미국 GPU 수리 기술자를 통해 차세대 RTX 5090의 대용량 VRAM 탑재 가능성이 제기되었습니다.",
+  "category": "속보",
+  "tags": [
+   "반도체",
+   "NVIDIA"
+  ]
+ },
+ {
+  "id": "5a3345f135c47070",
+  "url": "https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html",
+  "source": "Hacker News",
+  "title": "Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly",
+  "published_at": "2026-11-03T11:16:07+00:00",
+  "collected_at": "2026-11-03T14:59:17.816431+00:00",
+  "title_ko": "앤스로픽 IPO 서류로 드러난 막대한 인건비",
+  "summary_ko": "앤스로픽의 IPO 상장 신청 서류를 통해 분기별 인건비가 17억 달러에 달한다는 사실이 공개되었습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "투자"
+  ]
+ },
+ {
+  "id": "a312adbc2b5e0af7",
+  "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+  "source": "MIT Tech Review",
+  "title": "How “reverse game theory” could keep AI agents in check",
+  "published_at": "2026-11-03T10:43:41+00:00",
+  "collected_at": "2026-11-03T14:59:10.849315+00:00",
+  "title_ko": "역게임이론을 통한 AI 에이전트 통제 방안",
+  "summary_ko": "강력한 AI 에이전트가 규칙을 준수하도록 유도하는 새로운 안전장치 설계 접근법인 '역게임이론'을 소개합니다.",
+  "category": "참고",
+  "tags": [
+   "규제",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "768a6053731891ca",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmorim/nvidianvidianemotronlabsreuse_hugging_face/",
+  "source": "r/LocalLLaMA",
+  "title": "nvidia/NVIDIA-NemotronLabs-RE-USE · Hugging Face",
+  "published_at": "2026-11-03T09:44:30+00:00",
+  "collected_at": "2026-11-03T14:59:18.614477+00:00",
+  "title_ko": "엔비디아, 음성 향상 모델 RE-USE 공개",
+  "summary_ko": "엔비디아 NemotronLabs가 다양한 환경의 노이즈를 제거하고 음성 품질을 복원하는 다국어 음성 향상 모델을 공개했습니다.",
+  "category": "속보",
+  "tags": [
+   "NVIDIA",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "e402a4ff120f5660",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmolk6/qwen38flashnext_local_vs_claude/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-Flash-Next (local) vs Claude",
+  "published_at": "2026-11-03T09:33:58+00:00",
+  "collected_at": "2026-11-03T14:59:18.614477+00:00",
+  "title_ko": "로컬 Qwen 모델과 클로드의 코드 리뷰 성능 비교",
+  "summary_ko": "로컬 환경에서 구동한 Qwen 모델과 클로드를 실제 코드 리뷰 작업에 투입해 비교한 사용 후기입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "d35c4bd5630f9960",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmo5xu/paper_sparks_of_weightspace_programming_llms_can/",
+  "source": "r/LocalLLaMA",
+  "title": "[Paper] Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
+  "published_at": "2026-11-03T09:06:59+00:00",
+  "collected_at": "2026-11-03T14:59:18.614477+00:00",
+  "title_ko": "LLM의 네이티브 신경망 가중치 조작 능력 연구",
+  "summary_ko": "최첨단 LLM이 인간이나 기존 알고리즘의 예상을 뛰어넘어 신경망 가중치를 직접 읽고 쓸 수 있는 능력을 보여주었다는 연구 논문 요약입니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "08b710f1e7801fa8",
+  "url": "https://openai.com/index/heimstaden",
+  "source": "OpenAI",
+  "title": "Heimstaden is changing residential real estate management with AI",
+  "published_at": "2026-11-03T08:00:00+00:00",
+  "collected_at": "2026-11-03T14:59:11.414682+00:00",
+  "title_ko": "하임스타덴, OpenAI 도입으로 주거용 부동산 관리 혁신",
+  "summary_ko": "유럽 부동산 기업 하임스타덴이 ChatGPT Enterprise와 Codex를 활용해 자산 관리 비용을 절감하고 업무 효율을 높이고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI"
+  ]
+ },
+ {
+  "id": "e02cd0b9b9491837",
+  "url": "https://news.hada.io/topic?id=36517&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "OpenAI의 Git 확장, 병렬 푸시와 팩 재사용을 위한 Pando 구축",
+  "published_at": "2026-11-03T07:34:16+00:00",
+  "collected_at": "2026-11-03T14:59:33.169422+00:00",
+  "title_ko": "OpenAI, 대규모 모노레포를 위한 Git 확장 백엔드 Pando 공개",
+  "summary_ko": "OpenAI가 기존 Git 호환성을 유지하면서 병렬 푸시와 캐시 재사용을 지원하는 분산 백엔드 Pando를 개발해 모노레포 개발에 적용했습니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "코딩"
+  ]
+ },
+ {
+  "id": "0947affcb4cc06db",
+  "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+  "source": "TechCrunch",
+  "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+  "published_at": "2026-11-03T07:20:00+00:00",
+  "collected_at": "2026-11-03T14:58:58.224300+00:00",
+  "title_ko": "애플워치, 대화 요약 및 녹음 기능 오디오 인텔리전스 베타 테스트",
+  "summary_ko": "애플워치에 대화 내용을 기억하고 메모를 돕는 새로운 AI 기반 오디오 인텔리전스 기능이 베타 테스트에 들어갔습니다.",
+  "category": "속보",
+  "tags": [
+   "Apple"
+  ]
+ },
+ {
+  "id": "43032c7effc0c01d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmmadn/deepseek_v5_is_planned_to_be_pretrained_on_huawei/",
+  "source": "r/LocalLLaMA",
+  "title": "DeepSeek V5 is planned to be pre-trained on Huawei Ascend chips.",
+  "published_at": "2026-11-03T07:07:11+00:00",
+  "collected_at": "2026-11-03T14:59:18.614477+00:00",
+  "title_ko": "딥시크, 차세대 모델 V5 사전 학습에 화웨이 어센드 칩 활용 예정",
+  "summary_ko": "딥시크의 차세대 대형 모델 'V5'가 기존 추론용을 넘어 사전 학습 단계에서도 화웨이 어센드 칩을 활용할 계획인 것으로 알려졌습니다.",
+  "category": "중요",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "8ac198972094b1b5",
+  "url": "https://github.com/NVIDIA/auto-ontology",
+  "source": "Hacker News",
+  "title": "Nvidia – open-source auto-ontology",
+  "published_at": "2026-11-03T07:04:50+00:00",
+  "collected_at": "2026-11-03T14:59:13.429571+00:00",
+  "title_ko": "엔비디아, 오픈소스 자동 온톨로지 도구 공개",
+  "summary_ko": "엔비디아가 데이터 구조화를 돕기 위한 오픈소스 자동 온톨로지(auto-ontology) 프로젝트를 깃허브에 공개했습니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "3c2dfaa6e9b0b687",
+  "url": "https://news.hada.io/topic?id=36516&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Hacker Times, New York Times에서 영감을 받은 Hacker News 버전",
+  "published_at": "2026-11-03T06:32:47+00:00",
+  "collected_at": "2026-11-03T14:59:33.169422+00:00",
+  "title_ko": "뉴욕타임스 스타일로 재구성된 AI 중심 해커뉴스 '해커 타임스'",
+  "summary_ko": "해커뉴스의 AI 관련 토론과 연구 글들을 뉴욕타임스 형식의 기사 형태로 모아 보여주는 커뮤니티 서비스가 소개되었습니다.",
+  "category": "참고",
+  "tags": []
+ },
+ {
+  "id": "5b5f79a13b1face8",
+  "url": "https://news.hada.io/topic?id=36515&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "로컬 LLM 4종과 Claude 2종에 도구 호출 과제 100개를 5번씩 시켜 봤습니다",
+  "published_at": "2026-11-03T05:53:04+00:00",
+  "collected_at": "2026-11-03T14:59:33.169422+00:00",
+  "title_ko": "로컬 LLM과 클로드의 도구 호출 성능 벤치마크 테스트",
+  "summary_ko": "다양한 로컬 LLM과 클로드 모델들을 대상으로 다단계 도구 호출 과제를 반복 테스트하여 실제 안정성과 성공률을 비교했습니다.",
+  "category": "팁",
+  "tags": [
+   "Claude",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "2147ac7bda8e0e24",
   "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
   "source": "Simon Willison",
@@ -222,6 +524,37 @@
   ]
  },
  {
+  "id": "e4becec0594dcdd7",
+  "url": "https://news.hada.io/topic?id=36502&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "에이전트와 함께 개발하기 위한 실용 원칙",
+  "published_at": "2026-11-03T01:40:02+00:00",
+  "collected_at": "2026-11-03T14:59:33.169422+00:00",
+  "title_ko": "AI 에이전트 협업 개발을 위한 실용적인 원칙과 작업 관리법",
+  "summary_ko": "코딩 대부분을 AI 에이전트가 수행할 때 발생하는 사람의 주의력 병목을 해결하고 검증과 병렬 실행을 관리하는 원칙을 다룹니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "c45ee385ca28fd39",
+  "url": "https://news.hada.io/topic?id=36500&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "SEC는 대중을 보호하기 위해 Anthropic의 IPO를 막아야 함",
+  "published_at": "2026-11-03T01:33:49+00:00",
+  "collected_at": "2026-11-03T14:59:33.169422+00:00",
+  "title_ko": "앤스로픽의 막대한 컴퓨팅 약정과 IPO를 우려하는 시선",
+  "summary_ko": "앤스로픽의 대규모 지출 약정과 불확실한 수익성 우려로 인해 공시 검증 전 SEC가 상장을 막아야 한다는 주장이 제기되었습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "투자",
+   "규제"
+  ]
+ },
+ {
   "id": "39a13d9ea0fc1866",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmfbam/i_found_another_niche_use_case_for_local_llms_but/",
   "source": "r/LocalLLaMA",
@@ -279,6 +612,20 @@
   "tags": [
    "반도체",
    "투자"
+  ]
+ },
+ {
+  "id": "fec0e46ceba430b8",
+  "url": "https://huggingface.co/blog/transformers-mic",
+  "source": "Hugging Face",
+  "title": "Transformers Model Integration Contracts",
+  "published_at": "2026-11-03T00:00:00+00:00",
+  "collected_at": "2026-11-03T14:59:12.287932+00:00",
+  "title_ko": "허깅페이스, 트랜스포머스 모델 통합 계약 업데이트",
+  "summary_ko": "허깅페이스 트랜스포머스 라이브러리에 모델을 통합하기 위한 새로운 계약 및 연동 방식이 다뤄졌습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
   ]
  },
  {
@@ -898,6 +1245,21 @@
   "category": "속보",
   "tags": [
    "오픈소스"
+  ]
+ },
+ {
+  "id": "5464a863f83dce6d",
+  "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+  "source": "Hacker News",
+  "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+  "published_at": "2026-11-02T16:40:29+00:00",
+  "collected_at": "2026-11-03T14:59:17.816431+00:00",
+  "title_ko": "앤스로픽, 내부 AI 사용 비용이 직원 급여 총액을 초과",
+  "summary_ko": "앤스로픽 사내에서 자체 모델(클로드)을 활용하는 데 드는 토큰 비용이 전체 임직원 급여 지출을 넘어선 것으로 나타났습니다.",
+  "category": "참고",
+  "tags": [
+   "Anthropic",
+   "Claude"
   ]
  },
  {
