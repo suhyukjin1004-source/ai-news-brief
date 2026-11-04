@@ -359,6 +359,22 @@
   ]
  },
  {
+  "id": "a4f4c423c5426033",
+  "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+  "source": "OpenAI",
+  "title": "A thousand fewer paths to root",
+  "published_at": "2026-11-04T08:00:00+00:00",
+  "collected_at": "2026-11-04T22:34:56.480870+00:00",
+  "title_ko": "OpenAI, 자율 파이프라인으로 리눅스 커널 취약점 948건 패치",
+  "summary_ko": "OpenAI가 자율형 AI 파이프라인을 활용해 리눅스 커널 내 권한 상승 취약점들을 스스로 찾아내고 검증하여 패치를 생성했습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "보안",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "da63bbf38b668fe3",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnhzbz/introducing_hy4_open_weights_soon/",
   "source": "r/LocalLLaMA",
@@ -555,6 +571,37 @@
   ]
  },
  {
+  "id": "42f4810ce57263f7",
+  "url": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
+  "source": "Simon Willison",
+  "title": "datasette-apps 0.3a0",
+  "published_at": "2026-11-04T00:29:36+00:00",
+  "collected_at": "2026-11-04T22:34:58.772525+00:00",
+  "title_ko": "Datasette Apps 0.3a0 출시로 LLM 기반 커스텀 앱 호스팅 지원",
+  "summary_ko": "사용자가 LLM 에이전트를 통해 Datasette 내부에서 커스텀 HTML 앱을 생성하고 관리할 수 있는 기능이 개선되었습니다.",
+  "category": "팁",
+  "tags": [
+   "LLM",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "bf25be8f87794d7d",
+  "url": "https://openai.com/index/devrev-enterprise-self-service",
+  "source": "OpenAI",
+  "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+  "published_at": "2026-11-04T00:00:00+00:00",
+  "collected_at": "2026-11-04T22:34:56.480870+00:00",
+  "title_ko": "DevRev, GPT-6.1 Sol 기반의 자율형 셀프서비스 도입",
+  "summary_ko": "DevRev가 기업용 서비스의 추론 능력, 속도, 비용 효율성을 극대화하기 위해 GPT-6.1 Sol을 탑재한 Computer 및 Operator 기능을 선보였습니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "GPT",
+   "기업용AI"
+  ]
+ },
+ {
   "id": "4a54409679658bcd",
   "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
   "source": "The Verge",
@@ -582,6 +629,21 @@
   "tags": [
    "AI 에이전트",
    "LLM"
+  ]
+ },
+ {
+  "id": "7c1041935d0b84bb",
+  "url": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
+  "source": "Simon Willison",
+  "title": "datasette-agent 0.5a0",
+  "published_at": "2026-11-03T23:13:45+00:00",
+  "collected_at": "2026-11-04T22:34:58.772525+00:00",
+  "title_ko": "Datasette Agent 0.5a0 출시로 패널 기반 에이전트 채팅 지원",
+  "summary_ko": "데이터베이스 테이블이나 쿼리 페이지 옆에서 에이전트와 실시간으로 대화하며 앱을 수정할 수 있는 새로운 패치 기능이 추가되었습니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "개발도구"
   ]
  },
  {
@@ -700,6 +762,21 @@
   "category": "중요",
   "tags": [
    "투자"
+  ]
+ },
+ {
+  "id": "dc5e1e6807a1f078",
+  "url": "https://simonwillison.net/2026/Nov/3/llm/",
+  "source": "Simon Willison",
+  "title": "llm 0.37.1",
+  "published_at": "2026-11-03T21:41:42+00:00",
+  "collected_at": "2026-11-04T22:34:58.772525+00:00",
+  "title_ko": "LLM CLI 도구 0.37.1 버그픽스 버전 배포",
+  "summary_ko": "여러 기여자들이 참여하여 안정성을 높인 LLM 명령줄 도구의 마이너 버그픽스 업데이트입니다.",
+  "category": "팁",
+  "tags": [
+   "LLM",
+   "개발도구"
   ]
  },
  {
