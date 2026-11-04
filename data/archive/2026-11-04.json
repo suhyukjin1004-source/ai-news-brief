@@ -1,5 +1,320 @@
 [
  {
+  "id": "3fd5d1ee6f931a84",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
+  "source": "The Verge",
+  "title": "Sam Altman addresses RAM comments: people should ‘put as much as they want in their computers’",
+  "published_at": "2026-11-04T14:46:01+00:00",
+  "collected_at": "2026-11-04T17:04:22.215477+00:00",
+  "title_ko": "샘 알트먼, PC 램 용량 관련 발언 해명 및 '램 알트먼'으로 개명",
+  "summary_ko": "오픈AI CEO 샘 알트먼이 PC 메모리 관련 발언을 해명하며 사용자가 원하는 만큼 램을 탑재해야 한다고 강조했습니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "반도체"
+  ]
+ },
+ {
+  "id": "bf70801ece331a81",
+  "url": "https://news.hada.io/topic?id=36593&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Geoffrey Hinton: AI가 없었더라면 더 나았을 수도 있다",
+  "published_at": "2026-11-04T14:39:34+00:00",
+  "collected_at": "2026-11-04T17:04:53.646087+00:00",
+  "title_ko": "제프리 힌턴, AI 위험성과 규제 필요성 경고",
+  "summary_ko": "제프리 힌턴 교수가 AI의 잠재적 위험 관리 실패 시 대규모 실업과 사회적 혼란이 올 수 있다고 경고하며, 기업들의 무분별한 경쟁을 비판했습니다.",
+  "category": "중요",
+  "tags": [
+   "규제",
+   "OpenAI",
+   "투자"
+  ]
+ },
+ {
+  "id": "53c1e5436340cd47",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnpuv7/pocketsized_linux_ai_box_runs_on_256tops_axera/",
+  "source": "r/LocalLLaMA",
+  "title": "Pocket-sized Linux AI box runs on 256-TOPS Axera chip",
+  "published_at": "2026-11-04T14:38:48+00:00",
+  "collected_at": "2026-11-04T17:04:38.599670+00:00",
+  "title_ko": "256-TOPS Axera 칩 탑재 리눅스 AI 박스 공개",
+  "summary_ko": "온디바이스 AI 추론과 개발을 지원하는 고성능 리눅스 AI 워크스테이션 마이엑스스테이션(MaixStation) 상세 사양이 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "1e0f6669e3d4d255",
+  "url": "https://news.hada.io/topic?id=36592&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Tell HN: Gemini는 유료 구독자의 채팅 기록도 학습에 사용함(개인 계정)",
+  "published_at": "2026-11-04T14:36:34+00:00",
+  "collected_at": "2026-11-04T17:04:53.646087+00:00",
+  "title_ko": "구글, 개인용 Gemini 유료 구독자 채팅 기록 학습 활용",
+  "summary_ko": "개인용 Gemini 유료 구독자의 채팅 기록이 활동 설정에 따라 AI 모델 학습 및 서비스 개선에 사용될 수 있어 주의가 요구됩니다.",
+  "category": "중요",
+  "tags": [
+   "Google",
+   "Gemini",
+   "규제"
+  ]
+ },
+ {
+  "id": "3a06f84c0f51a102",
+  "url": "https://openai.com/index/openai-to-acquire-pierre",
+  "source": "OpenAI",
+  "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+  "published_at": "2026-11-04T14:30:00+00:00",
+  "collected_at": "2026-11-04T17:04:35.216815+00:00",
+  "title_ko": "OpenAI, 피에르 컴퓨터 인수",
+  "summary_ko": "OpenAI가 코드 작성 및 분석 도구인 코덱스(Codex)의 기능 확장을 위해 피에르 컴퓨터(Pierre Computer Company)를 인수했습니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "코딩"
+  ]
+ },
+ {
+  "id": "97fe27b8fd0d7297",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnoqyy/i_removed_85_of_gemmas_weights_and_it_is_mostly/",
+  "source": "r/LocalLLaMA",
+  "title": "I removed 85% of gemma's weights (and it is mostly fine)",
+  "published_at": "2026-11-04T13:53:30+00:00",
+  "collected_at": "2026-11-04T17:04:38.599670+00:00",
+  "title_ko": "Gemma 모델 가중치 85% 가지치기 성공 사례",
+  "summary_ko": "특정 분류 작업에 최적화하기 위해 Gemma MoE 모델의 가중치를 15% 수준으로 줄여 메모리 사용량을 낮추고 속도를 배로 높였습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "8e7d379e2b7b3ffc",
+  "url": "https://news.hada.io/topic?id=36591&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "AI가 40년간 쌓인 기술 부채를 갚도록 몰아붙이고 있음",
+  "published_at": "2026-11-04T13:39:57+00:00",
+  "collected_at": "2026-11-04T17:04:53.646087+00:00",
+  "title_ko": "AI를 활용한 오랜 소프트웨어 기술 부채 및 보안 취약점 발견",
+  "summary_ko": "연구진이 AI의 세밀한 추론 능력을 활용해 수십 년간 방치된 PHP 취약점을 발견하고 패치를 이끌어냈습니다.",
+  "category": "참고",
+  "tags": [
+   "코딩",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "695a423d0de6028d",
+  "url": "https://news.hada.io/topic?id=36590&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Show GN: 브라우저 쿠키 목록 스캐너",
+  "published_at": "2026-11-04T13:37:10+00:00",
+  "collected_at": "2026-11-04T17:04:53.646087+00:00",
+  "title_ko": "브라우저 쿠키 유출 대응 로컬 스캐너 도구",
+  "summary_ko": "최근 보안 이슈에 대응하여 로컬에 저장된 쿠키 도메인 리스트를 확인하고 관리할 수 있도록 GPT로 생성한 스캐너 도구입니다.",
+  "category": "팁",
+  "tags": [
+   "코딩"
+  ]
+ },
+ {
+  "id": "87b4c2fe4e5f46aa",
+  "url": "https://news.hada.io/topic?id=36589&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Nvidia RTX Spark의 암호화된 펌웨어, Linux 추론 속도를 35% 수준으로 낮춤",
+  "published_at": "2026-11-04T13:36:57+00:00",
+  "collected_at": "2026-11-04T17:04:53.646087+00:00",
+  "title_ko": "엔비디아 RTX Spark 리눅스 환경 추론 성능 저하 이슈",
+  "summary_ko": "엔비디아 펌웨어 제한으로 인해 네이티브 리눅스 환경에서 전원 연결 시 GPU 클럭이 낮아져 AI 추론 성능이 크게 저하되는 현상이 발견되었습니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
+  "id": "4cb3d2117fef60cb",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xno8d8/lfm3_17b_rather_good/",
+  "source": "r/LocalLLaMA",
+  "title": "LFM3 1.7b - Rather good",
+  "published_at": "2026-11-04T13:30:09+00:00",
+  "collected_at": "2026-11-04T17:04:38.599670+00:00",
+  "title_ko": "고성능 경량 소형 LLM 'LFM3 1.7B' 평가",
+  "summary_ko": "작지만 뛰어난 성능과 빠른 속도를 보여주는 소형 언어 모델 LFM3 1.7B의 로컬 구동 테스트 결과가 공유되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "2676864ded5a24ab",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnnr3k/tencent_says_hy4_ranks_among_the_best_open_models/",
+  "source": "r/LocalLLaMA",
+  "title": "Tencent says Hy4 ranks among the best open models. Its weights aren't out yet",
+  "published_at": "2026-11-04T13:07:26+00:00",
+  "collected_at": "2026-11-04T17:04:38.599670+00:00",
+  "title_ko": "텐센트, 고성능 오픈 모델 'Hy4' 성능 예고",
+  "summary_ko": "텐센트가 컴퓨터 사용 능력 등에서 주요 상용 모델과 견줄 만하다고 주장하는 오픈 모델 Hy4의 출시를 앞두고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "Claude"
+  ]
+ },
+ {
+  "id": "3e909cd490633b23",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnnl57/omlx_074_can_pair_a_fast_mac_as_prefill/",
+  "source": "r/LocalLLaMA",
+  "title": "oMLX 0.7.4 can pair a fast mac as prefill accelerator",
+  "published_at": "2026-11-04T13:00:03+00:00",
+  "collected_at": "2026-11-04T17:04:38.599670+00:00",
+  "title_ko": "맥(Mac)을 사전 충전 가속기로 활용하는 oMLX 0.7.4",
+  "summary_ko": "성능이 뛰어난 맥 기기를 사전 충전(prefill) 가속기로 페어링하여 활용할 수 있는 oMLX 새 버전이 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "416b7eba9f32ddf4",
+  "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+  "source": "MIT Tech Review",
+  "title": "Securing the agentic enterprise with data lineage",
+  "published_at": "2026-11-04T13:00:00+00:00",
+  "collected_at": "2026-11-04T17:04:34.823435+00:00",
+  "title_ko": "데이터 계보(Lineage)를 통한 AI 에이전트 기업 보안 확보",
+  "summary_ko": "여러 에이전트가 사람의 개입 없이 데이터를 주고받을 때 발생할 수 있는 보안 리스크를 관리하기 위한 데이터 계보 관리의 중요성이 대두되었습니다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트",
+   "규제"
+  ]
+ },
+ {
+  "id": "c1874b31c3591e6b",
+  "url": "https://news.hada.io/topic?id=36587&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "AI, ML 및 데이터 엔지니어링 트렌드 보고서 2026",
+  "published_at": "2026-11-04T12:44:30+00:00",
+  "collected_at": "2026-11-04T17:04:53.646087+00:00",
+  "title_ko": "2026년 AI·데이터 엔지니어링 트렌드: 에이전트와 추론 인프라",
+  "summary_ko": "AI의 중심이 대화형 인터페이스에서 실행 에이전트로 이동하며, 추론 인프라와 에이전트 평가가 핵심 과제로 부상했습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "추론 인프라"
+  ]
+ },
+ {
+  "id": "595c3100a213c9ef",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+  "source": "The Verge",
+  "title": "Google hasn’t figured out how to make AI pay like its search engine",
+  "published_at": "2026-11-04T12:00:00+00:00",
+  "collected_at": "2026-11-04T17:04:22.215477+00:00",
+  "title_ko": "구글, AI 검색 수익화의 고민",
+  "summary_ko": "검색 쿼리가 급증함에도 불구하고 AI 도입에 따른 구글의 검색 광고 매출 성장세는 둔화되는 양상을 보이고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "Google",
+   "투자"
+  ]
+ },
+ {
+  "id": "4be2b02e594eacdd",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=216973",
+  "source": "AI타임스",
+  "title": "정부 주도 ‘휴머노이드 데이터 팩토리’ 개소…로봇 12대 가동",
+  "published_at": "2026-11-04T11:56:44+00:00",
+  "collected_at": "2026-11-04T17:04:53.372723+00:00",
+  "title_ko": "정부 주도 'AI 휴머노이드 데이터 팩토리' 개소",
+  "summary_ko": "과학기술정보통신부가 국내 최초 이족보행 휴머노이드 전용 데이터 생산시설을 열어 로봇 자율 작업 성능 향상을 위한 학습 데이터 수집에 나섰습니다.",
+  "category": "중요",
+  "tags": [
+   "로보틱스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "68c44263a0af5594",
+  "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+  "source": "Hacker News",
+  "title": "AI is forcing us to pay off 40 years of technical debt",
+  "published_at": "2026-11-04T11:52:17+00:00",
+  "collected_at": "2026-11-04T17:04:37.336756+00:00",
+  "title_ko": "AI가 강제하는 수십 년 간의 기술 부채 청산",
+  "summary_ko": "AI 기술의 도입과 사이버 보안 문제로 인해 개발자들이 과거의 누적된 기술 부채를 시급히 해결해야 하는 상황에 직면했습니다.",
+  "category": "참고",
+  "tags": [
+   "코딩",
+   "보안"
+  ]
+ },
+ {
+  "id": "cfb7bf4fc951e969",
+  "url": "https://news.hada.io/topic?id=36586&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "내가 AI를 쓰는 방식, 2026년 10월",
+  "published_at": "2026-11-04T11:38:31+00:00",
+  "collected_at": "2026-11-04T17:04:53.646087+00:00",
+  "title_ko": "병렬 코딩 에이전트를 활용한 실무 개발 경험",
+  "summary_ko": "개발자가 여러 코딩 에이전트를 병렬로 운용하여 코드 작성의 대부분을 위임하고 설계와 검증에 집중하는 실무 워크플로우를 공유했습니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "dc34df3985a13339",
+  "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+  "source": "Hacker News",
+  "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+  "published_at": "2026-11-04T10:23:34+00:00",
+  "collected_at": "2026-11-04T17:04:37.572538+00:00",
+  "title_ko": "제프리 힌튼 \"AI가 없는 편이 나았을지도 모른다\"",
+  "summary_ko": "AI의 대부 제프리 힌튼이 AI 기술의 잠재적 위험성을 경고하며 인류에게 득보다 실이 될 수 있음을 시사했습니다.",
+  "category": "참고",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
+  "id": "150a39b9eb9ad0c3",
+  "url": "https://news.ycombinator.com/item?id=50363461",
+  "source": "Hacker News",
+  "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+  "published_at": "2026-11-04T10:10:27+00:00",
+  "collected_at": "2026-11-04T17:04:37.336756+00:00",
+  "title_ko": "구글, 개인 구독자 챗 히스토리도 Gemini 모델 학습에 활용",
+  "summary_ko": "개인용 Gemini 구독자의 대화 기록이 별도 거부 옵션 없이 AI 모델 학습에 사용되며 인적 검토 대상이 될 수 있어 주의가 요구됩니다.",
+  "category": "중요",
+  "tags": [
+   "Google",
+   "Gemini",
+   "규제"
+  ]
+ },
+ {
+  "id": "6908611519fc26af",
+  "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+  "source": "Hacker News",
+  "title": "Verification Is Not Knowledge: Science needs more than answers",
+  "published_at": "2026-11-04T09:01:58+00:00",
+  "collected_at": "2026-11-04T17:04:37.336756+00:00",
+  "title_ko": "검증은 지식이 아니다: 과학에 필요한 깊이 있는 통찰",
+  "summary_ko": "AI가 생성한 답변의 검증을 넘어 진정한 지식과 과학적 이해를 위해서는 더 깊은 접근이 필요하다는 철학적 분석입니다.",
+  "category": "참고",
+  "tags": [
+   "LLM"
+  ]
+ },
+ {
   "id": "da7b90d5db4e996c",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnjbjq/qwhen/",
   "source": "r/LocalLLaMA",
@@ -11,6 +326,21 @@
   "category": "참고",
   "tags": [
    "오픈소스"
+  ]
+ },
+ {
+  "id": "771d04f9d14268e6",
+  "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+  "source": "Hacker News",
+  "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+  "published_at": "2026-11-04T08:46:29+00:00",
+  "collected_at": "2026-11-04T17:04:37.336756+00:00",
+  "title_ko": "엔비디아 RTX Spark 암호화 펌웨어로 리눅스 추론 속도 저하",
+  "summary_ko": "리눅스 환경에서 엔비디아의 특정 암호화 펌웨어로 인해 AI 모델 추론 속도가 35% 수준으로 떨어지는 이슈가 제기되었습니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "반도체"
   ]
  },
  {
@@ -55,6 +385,22 @@
   "tags": [
    "Anthropic",
    "오픈소스"
+  ]
+ },
+ {
+  "id": "75679f5aa60bfcf8",
+  "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+  "source": "OpenAI",
+  "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+  "published_at": "2026-11-04T07:00:00+00:00",
+  "collected_at": "2026-11-04T17:04:35.216815+00:00",
+  "title_ko": "오픈에이전트 'Daybreak Red', AWS GovCloud에 출시",
+  "summary_ko": "사이버 보안 업무를 위해 Amazon Bedrock을 거쳐 AWS GovCloud 환경의 승인된 고객들에게 GPT-5.6 Cyber 모델이 제공됩니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "GPT",
+   "보안"
   ]
  },
  {
