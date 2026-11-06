@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T09:15:57.904768+00:00",
+ "updated_at": "2026-11-06T17:24:35.202422+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -36,6 +36,48 @@
    ]
   },
   {
+   "id": "f90dfea2fa01318d",
+   "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
+   "source": "Simon Willison",
+   "title": "Quoting Nilay Patel",
+   "published_at": "2026-11-06T17:13:12+00:00",
+   "collected_at": "2026-11-06T17:24:04.628665+00:00",
+   "title_ko": "AI 투자 거품론과 과도한 비용 지적",
+   "summary_ko": "AI 인프라 구축 비용과 데이터센터 소음 등 현실적 부담에 비해 실효성이 부족하다는 비판이 제기됨.",
+   "category": "중요",
+   "tags": [
+    "투자",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "de9616dc0642a821",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217115",
+   "source": "AI타임스",
+   "title": "앤트로픽, '클로드' 게임 복제 제한 완화…\"비슷한 게임 만들 수 있어\"",
+   "published_at": "2026-11-06T17:10:00+00:00",
+   "collected_at": "2026-11-06T17:24:18.562180+00:00",
+   "title_ko": "앤트로픽, 클로드 코드의 게임 복제 제한 완화",
+   "summary_ko": "앤트로픽이 개발자들의 요구를 반영해 기존 게임을 참고한 독창적 장르 제작을 허용하도록 지침을 수정함.",
+   "category": "속보",
+   "tags": [
+    "Anthropic",
+    "코딩"
+   ]
+  },
+  {
+   "id": "30a37c41333dda28",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+   "source": "The Verge",
+   "title": "AI is the new dating dealbreaker",
+   "published_at": "2026-11-06T17:00:00+00:00",
+   "collected_at": "2026-11-06T17:23:50.345405+00:00",
+   "title_ko": "데이팅 앱에서 결격 사유가 된 AI",
+   "summary_ko": "데이팅 앱 이용자들 사이에서 AI 관련 프로필이나 행동이 새로운 기피 요소로 떠오르고 있음.",
+   "category": "참고",
+   "tags": []
+  },
+  {
    "id": "6aa3e845469a110f",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217113",
    "source": "AI타임스",
@@ -51,6 +93,21 @@
    ]
   },
   {
+   "id": "796408f3ea79e645",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xphq4u/ama_how_we_trained_a_sota_decision_model_got_top/",
+   "source": "r/LocalLLaMA",
+   "title": "AMA: How we trained a SOTA Decision model, got top 3 on OpenRouter & top on 5 ArtificalAnalysis: full playbook - arch, datasets, training, evals, inference",
+   "published_at": "2026-11-06T16:51:38+00:00",
+   "collected_at": "2026-11-06T17:24:05.243285+00:00",
+   "title_ko": "오픈 소스 SOTA 결정 모델 'Drex' 개발기",
+   "summary_ko": "자기회귀 디코딩 없이 단일 패스로 확률 분포를 반환하는 오픈소스 결정 모델 패밀리의 학습 및 아키텍처 공개.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "모델명"
+   ]
+  },
+  {
    "id": "cc05cb4cd741acb6",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217084",
    "source": "AI타임스",
@@ -63,6 +120,67 @@
    "tags": [
     "Anthropic",
     "Claude"
+   ]
+  },
+  {
+   "id": "ceaa699752749576",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xphi5w/ripple_65b_preview_vs_qwen_38_27b_vs_qwen_38/",
+   "source": "r/LocalLLaMA",
+   "title": "Ripple 65B Preview vs Qwen 3.8 27B vs Qwen 3.8 Flash Next",
+   "published_at": "2026-11-06T16:43:08+00:00",
+   "collected_at": "2026-11-06T17:24:05.243285+00:00",
+   "title_ko": "최신 LLM 벤치마크 비교",
+   "summary_ko": "Ripple 65B와 Qwen 계열 모델들의 주요 벤치마크 성능 비교 결과 공유.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "9487cf07c705671e",
+   "url": "https://news.hada.io/topic?id=36713&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "선거 후 투자자들이 AI 투자에서 발을 빼며 Nasdaq 5% 급락",
+   "published_at": "2026-11-06T16:39:54+00:00",
+   "collected_at": "2026-11-06T17:24:19.616474+00:00",
+   "title_ko": "선거 이후 AI 투자 심리 악화로 나스닥 급락",
+   "summary_ko": "데이터센터 구축 둔화 우려와 선거 결과 여파로 반도체 및 AI 관련주가 폭락하며 조정 국면에 진입함.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "투자",
+    "반도체"
+   ]
+  },
+  {
+   "id": "39858efa73f21a64",
+   "url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+   "source": "The Verge",
+   "title": "Big Tech lost big in the 2026 election",
+   "published_at": "2026-11-06T16:38:02+00:00",
+   "collected_at": "2026-11-06T17:23:50.345405+00:00",
+   "title_ko": "미국 선거 결과와 빅테크·AI 규제 전망",
+   "summary_ko": "선거 이후 반 AI 정서와 빅테크를 향한 규제 압박이 더욱 거세질 것으로 전망됨.",
+   "category": "중요",
+   "tags": [
+    "규제",
+    "투자"
+   ]
+  },
+  {
+   "id": "5891e97377c55d6e",
+   "url": "https://news.hada.io/topic?id=36712&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Gemini Omni 1.2 Flash - 최대 15초 영상 생성과 대화형 편집, 가격 30% 인하",
+   "published_at": "2026-11-06T16:36:54+00:00",
+   "collected_at": "2026-11-06T17:24:19.616474+00:00",
+   "title_ko": "구글, 제미나이 옴니 1.2 플래시 출시 및 가격 인하",
+   "summary_ko": "최대 15초 영상 생성과 대화형 편집 기능을 지원하는 제미나이 옴니 1.2 플래시가 공개되고 가격이 30% 인하됨.",
+   "category": "속보",
+   "tags": [
+    "Google",
+    "Gemini"
    ]
   },
   {
@@ -92,6 +210,21 @@
    "category": "중요",
    "tags": [
     "로보틱스",
+    "투자"
+   ]
+  },
+  {
+   "id": "7c70b636a2cf1bbd",
+   "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+   "source": "TechCrunch",
+   "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+   "published_at": "2026-11-06T15:54:47+00:00",
+   "collected_at": "2026-11-06T17:23:50.230060+00:00",
+   "title_ko": "램프 데이터로 본 AI 지출 정체 현상",
+   "summary_ko": "AI 활용도는 증가하는 반면 기업들의 지출은 정체세를 보여 과도한 성장에 대한 우려가 제기됨.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
     "투자"
    ]
   },
@@ -126,6 +259,21 @@
    ]
   },
   {
+   "id": "5d10f57549f2d0ee",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpfvfz/moecache_lrfumqlike_hybrid_cache_classlru_by/",
+   "source": "r/LocalLLaMA",
+   "title": "moe-cache : LRFU/MQ-like hybrid cache, ClassLRU by sanmai · Pull Request #31233 · ggml-org/llama.cpp",
+   "published_at": "2026-11-06T15:39:09+00:00",
+   "collected_at": "2026-11-06T17:24:05.243285+00:00",
+   "title_ko": "llama.cpp, MoE 모델 캐시 최적화 도입",
+   "summary_ko": "llama.cpp에 전문가(Expert) 사용 빈도를 우선시하는 하이브리드 캐시가 도입되어 디코드 성능이 향상됨.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
    "id": "bb9dfc311ed1f037",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217103",
    "source": "AI타임스",
@@ -139,6 +287,51 @@
     "NVIDIA",
     "반도체",
     "규제"
+   ]
+  },
+  {
+   "id": "d5025bd3e5622629",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpfjua/anyone_running_dual_v100s_trying_to_get_specifics/",
+   "source": "r/LocalLLaMA",
+   "title": "Anyone running dual V100's? Trying to get *specifics* on PP and TPS for higher quant Qwen3.8 27b and having a tough time",
+   "published_at": "2026-11-06T15:26:07+00:00",
+   "collected_at": "2026-11-06T17:24:05.243285+00:00",
+   "title_ko": "V100 듀얼 구성에서의 Qwen 모델 성능 문의",
+   "summary_ko": "고용량 퀀텀 Qwen 모델 구동을 위해 듀얼 V100 환경으로 전환을 고려하며 처리 속도와 토큰 생성 성능 데이터를 찾는 글입니다.",
+   "category": "참고",
+   "tags": [
+    "Qwen",
+    "NVIDIA",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "b29e5bc4354fa9ef",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpfhpm/ocenonv1_a_language_model_that_gets_to_the_fcking/",
+   "source": "r/LocalLLaMA",
+   "title": "Oc-e-Non-v1: A language model that gets to the f*cking point",
+   "published_at": "2026-11-06T15:23:37+00:00",
+   "collected_at": "2026-11-06T17:24:05.243285+00:00",
+   "title_ko": "응답 길이를 대폭 줄인 경량 언어모델 Oc-e-Non-v1",
+   "summary_ko": "Qwen 기반으로 응답 길이를 평균 50% 단축하여 핵심만 간결하게 전달하는 경량화 모델이 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "Qwen",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "a77910298644364a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpf8qy/qwen_developers_on_x_qwhen_qsoon_for_our_friends/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen Developers on X: \"Qwhen? Qsoon! For our friends outside China, the Chinese text in the poster comes from",
+   "published_at": "2026-11-06T15:13:47+00:00",
+   "collected_at": "2026-11-06T17:24:05.243285+00:00",
+   "title_ko": "글로벌 사용자를 위한 Qwen 신규 소식 예고",
+   "summary_ko": "중국 외 지역 사용자를 위한 Qwen 팀의 새로운 발표가 임박했음을 알리는 티저입니다.",
+   "category": "속보",
+   "tags": [
+    "Qwen"
    ]
   },
   {
@@ -189,6 +382,21 @@
    ]
   },
   {
+   "id": "f4397c41d75487be",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpeee1/harness_adapters_lora_adapter_for_your_model_per/",
+   "source": "r/LocalLLaMA",
+   "title": "Harness Adapters: LoRA adapter for your model per task per harness",
+   "published_at": "2026-11-06T14:38:46+00:00",
+   "collected_at": "2026-11-06T17:24:05.243285+00:00",
+   "title_ko": "허깅페이스, 모델 태스크별 하네스 어댑터 공개",
+   "summary_ko": "허깅페이스가 특정 작업과 도구에 맞춰 모델을 최적화할 수 있는 LoRA 기반 하네스 어댑터를 선보였습니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "20453179f44b6498",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217099",
    "source": "AI타임스",
@@ -233,6 +441,192 @@
     "OpenAI",
     "로보틱스",
     "규제"
+   ]
+  },
+  {
+   "id": "5046827bcbdd1c93",
+   "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+   "source": "Hacker News",
+   "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+   "published_at": "2026-11-06T14:13:09+00:00",
+   "collected_at": "2026-11-06T17:24:04.418116+00:00",
+   "title_ko": "AI 봇의 무분별한 스크래핑으로 위협받는 대학 도서관",
+   "summary_ko": "급증하는 AI 데이터 수집 봇으로 인해 대학 도서관의 공공 데이터 접근성과 서버 안정성이 위협받고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "규제"
+   ]
+  },
+  {
+   "id": "4a6109d50595a193",
+   "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+   "source": "TechCrunch",
+   "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+   "published_at": "2026-11-06T14:10:00+00:00",
+   "collected_at": "2026-11-06T17:23:50.230060+00:00",
+   "title_ko": "아마존, 쇼핑 지원 AI 비서 알렉사 텍스트 기능 도입",
+   "summary_ko": "아마존이 사용자가 텍스트와 사진으로 상품을 검색하고 추천받을 수 있는 쇼핑용 알렉사 기능을 수백만 명에게 확대 적용합니다.",
+   "category": "속보",
+   "tags": []
+  },
+  {
+   "id": "01662ffa38e03b02",
+   "url": "https://news.hada.io/topic?id=36707&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Show GN: K-Humanizer - 한국어 글에서 번역투를 덜어내는 Agent Skill",
+   "published_at": "2026-11-06T14:09:29+00:00",
+   "collected_at": "2026-11-06T17:24:19.616474+00:00",
+   "title_ko": "한국어 번역투를 줄여주는 AI 에이전트 스킬 'K-Humanizer'",
+   "summary_ko": "AI가 작성한 한국어 텍스트의 부자연스러운 번역투를 다듬고 실무 문서의 완성도를 높여주는 오픈소스 에이전트 스킬입니다.",
+   "category": "팁",
+   "tags": [
+    "Claude",
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "5179db5650451b74",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpdk0i/a_01b_model_just_killed_8b_embedding_models_i/",
+   "source": "r/LocalLLaMA",
+   "title": "A 0.1B model just killed 8B embedding models... I tried it out.",
+   "published_at": "2026-11-06T14:02:37+00:00",
+   "collected_at": "2026-11-06T17:24:05.243285+00:00",
+   "title_ko": "저사양 환경을 위한 초소형 임베딩 모델 등장",
+   "summary_ko": "자원이 부족한 로컬 PC 환경에서도 기존 8B급 모델 수준의 성능을 내는 초소형 임베딩 모델이 RAG 에이전트 개발자들 사이에서 주목받고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "be1ba71e55b7f125",
+   "url": "https://huggingface.co/blog/allenai/toyblocks",
+   "source": "Hugging Face",
+   "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+   "published_at": "2026-11-06T14:00:48+00:00",
+   "collected_at": "2026-11-06T17:24:03.994291+00:00",
+   "title_ko": "허깅페이스, 로봇 학습용 환경 'ToyBlocks' 공개",
+   "summary_ko": "로봇 학습과 평가를 통제된 가상 환경에서 수행할 수 있도록 지원하는 ToyBlocks 프로젝트가 공개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "로보틱스",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "5228d134120b7c66",
+   "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+   "source": "The Verge",
+   "title": "Amazon will let you text Alexa your shopping list",
+   "published_at": "2026-11-06T14:00:00+00:00",
+   "collected_at": "2026-11-06T17:23:50.345405+00:00",
+   "title_ko": "아마존, 텍스트와 사진으로 쇼핑하는 알렉사 기능 출시",
+   "summary_ko": "사용자가 AI 쇼핑 어시스턴트인 알렉사에게 텍스트나 사진으로 제품을 문의하고 구매할 수 있는 기능이 추가되었습니다.",
+   "category": "속보",
+   "tags": []
+  },
+  {
+   "id": "ba7f1cddbc06d511",
+   "url": "https://news.hada.io/topic?id=36706&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Show GN: product design_harness - 아이디어부터 기획, 와이어프레임, 프로토타입 검증까지 연결하는 AI 하네스",
+   "published_at": "2026-11-06T13:56:13+00:00",
+   "collected_at": "2026-11-06T17:24:19.616474+00:00",
+   "title_ko": "아이디어 기획부터 프로토타입 검증까지 돕는 '프로덕트 디자인 하네스'",
+   "summary_ko": "AI 코딩 도구와 연동해 기획 단계부터 와이어프레임과 프로토타입 검증까지 체계적으로 유도하는 디자인 하네스 도구입니다.",
+   "category": "팁",
+   "tags": [
+    "Claude",
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "01fb64bae22a7379",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpcpws/linumaipjit21k_hugging_face_a_texttoimage_model/",
+   "source": "r/LocalLLaMA",
+   "title": "Linum-AI/pjit-21k · Hugging Face - A Text-to-Image Model Trained for $21K",
+   "published_at": "2026-11-06T13:24:58+00:00",
+   "collected_at": "2026-11-06T17:24:05.243285+00:00",
+   "title_ko": "2만 1천 달러로 훈련된 텍스트 이미지 모델 'P-JiT 21K'",
+   "summary_ko": "저렴한 비용으로 장기간 학습을 거친 고효율 텍스트-이미지 생성 모델 및 아키텍처가 공개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "a394d9aad7a2ef16",
+   "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+   "source": "TechCrunch",
+   "title": "Underdog shows off a 32MB speech model in new demo",
+   "published_at": "2026-11-06T13:02:16+00:00",
+   "collected_at": "2026-11-06T17:23:50.230060+00:00",
+   "title_ko": "음성과 음악 생성이 모두 가능한 32MB 초소형 음성 모델",
+   "summary_ko": "언더독(Underdog)이 극도로 작은 용량이면서도 음성과 음악을 동시에 생성할 수 있는 신규 모델 데모를 선보였습니다.",
+   "category": "속보",
+   "tags": []
+  },
+  {
+   "id": "1f3694f5e3c91711",
+   "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+   "source": "TechCrunch",
+   "title": "Physicl raises $10M to make the digital world real enough for robots",
+   "published_at": "2026-11-06T13:00:00+00:00",
+   "collected_at": "2026-11-06T17:23:50.230060+00:00",
+   "title_ko": "로봇 학습 환경 개선을 위한 Physicl, 1000만 달러 투자 유치",
+   "summary_ko": "로봇의 시뮬레이션-현실 간격(Sim-to-Real gap)을 해소하기 위한 파이프라인 개발에 나선 Physicl이 1000만 달러를 투자받았다. 로봇 공학의 현실 적용을 가속화할 것으로 기대된다.",
+   "category": "중요",
+   "tags": [
+    "로보틱스",
+    "투자"
+   ]
+  },
+  {
+   "id": "72b0e96a692616d9",
+   "url": "https://news.hada.io/topic?id=36703&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Baidu, 사전학습 기반 모델 ERNIE 5.5 Flash Base 공개",
+   "published_at": "2026-11-06T11:45:59+00:00",
+   "collected_at": "2026-11-06T17:24:19.616474+00:00",
+   "title_ko": "바이두, 사전학습 기반 모델 ERNIE 5.5 Flash Base 공개",
+   "summary_ko": "바이두가 33.5조 토큰으로 학습된 2800억 파라미터 규모의 MoE 사전학습 모델 가중치를 공개했다. 후속 연구와 도메인 적응을 위한 출발점으로 활용될 예정이다.",
+   "category": "속보",
+   "tags": [
+    "Baidu",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "996a31376cbe5e02",
+   "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+   "source": "MIT Tech Review",
+   "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+   "published_at": "2026-11-06T10:00:00+00:00",
+   "collected_at": "2026-11-06T17:24:02.938052+00:00",
+   "title_ko": "휴머노이드 로봇 청소 서비스 체험기",
+   "summary_ko": "샌프란시스코에서 등장한 휴머노이드 로봇 청소 서비스를 직접 체험한 후기다. 로봇 기술이 일상생활에 점차 다가오고 있음을 보여준다.",
+   "category": "참고",
+   "tags": [
+    "로보틱스"
+   ]
+  },
+  {
+   "id": "13f4910530ccea95",
+   "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+   "source": "Hacker News",
+   "title": "AI for scientific discovery: How researchers use Claude",
+   "published_at": "2026-11-06T09:13:30+00:00",
+   "collected_at": "2026-11-06T17:24:04.418116+00:00",
+   "title_ko": "연구원들의 Claude 활용법 조명",
+   "summary_ko": "앤트로픽이 과학적 연구 과정에서 연구원들이 Claude를 어떻게 활용하고 있는지 소개했다. AI가 학술 연구 및 발견을 가속화하는 도구로 자리 잡고 있음을 보여준다.",
+   "category": "참고",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "AI 에이전트"
    ]
   },
   {
@@ -528,6 +922,20 @@
    "summary_ko": "Thinking Machines에서 소형 AI 모델인 Inkling 2 Small을 새롭게 발표했습니다.",
    "category": "속보",
    "tags": []
+  },
+  {
+   "id": "82196d4ece0a644e",
+   "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+   "source": "Hugging Face",
+   "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+   "published_at": "2026-11-06T00:00:00+00:00",
+   "collected_at": "2026-11-06T17:24:03.994291+00:00",
+   "title_ko": "오픈 ASR 리더보드에 이집트 및 나이지리아 영어 추가",
+   "summary_ko": "허깅페이스의 오픈 음성인식(ASR) 리더보드에 이집트와 나이지리아 지역 영어가 새롭게 추가되었다. 다양한 지역 방언에 대한 AI 음성 모델 성능 평가가 확대될 전망이다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스"
+   ]
   },
   {
    "id": "2a377c310d1ff27e",
@@ -2579,412 +2987,6 @@
    "tags": [
     "오픈소스",
     "코딩"
-   ]
-  },
-  {
-   "id": "9eb2f0e6bf376ac3",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn2i0n/deepseek_v41_flash_1017_can_also_do_weightspace/",
-   "source": "r/LocalLLaMA",
-   "title": "DeepSeek V4.1 Flash 1017 can also do Weight-Space Programming",
-   "published_at": "2026-11-03T19:26:12+00:00",
-   "collected_at": "2026-11-03T20:53:44.687488+00:00",
-   "title_ko": "DeepSeek V4.1, 가중치 공간 프로그래밍(Weight-Space Programming) 수행 가능",
-   "summary_ko": "딥식 모델이 신경망의 가중치 코드만 읽고도 모델의 구조와 태스크 패턴을 파악하는 능력을 보여주었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "d39faabc1ee41d18",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn1gs9/i_tried_mits_weightspace_programming_on_my_own/",
-   "source": "r/LocalLLaMA",
-   "title": "I tried MIT's \"weight-space programming\" on my own use case: Claude rewrote 8 neurons of Gemma 4 12B to change how it translates one Italian tense",
-   "published_at": "2026-11-03T18:48:57+00:00",
-   "collected_at": "2026-11-03T20:53:44.687488+00:00",
-   "title_ko": "Claude로 오픈소스 모델 뉴런 가중치를 직접 수정해 번역 성향 변경",
-   "summary_ko": "모델을 재학습하지 않고 가중치를 직접 편집하여 언어 번역 뉘앙스를 미세 조정하는 기법이 시도되었습니다.",
-   "category": "팁",
-   "tags": [
-    "Claude",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "984c801508a82694",
-   "url": "https://news.hada.io/topic?id=36540&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "OpenAI가 Codex 대화의 모델 학습 사용을 알림 없이 다시 활성화하는 것으로 보임",
-   "published_at": "2026-11-03T18:44:05+00:00",
-   "collected_at": "2026-11-03T20:53:59.202442+00:00",
-   "title_ko": "OpenAI, 사용자 동의 없이 Codex 데이터 공유 설정 재활성화 논란",
-   "summary_ko": "OpenAI가 사용자 고지 없이 모델 학습용 데이터 공유 설정을 다시 켜 이용자들의 보안 우려와 반발을 사고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "규제"
-   ]
-  },
-  {
-   "id": "36315b3cb5b626b9",
-   "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-   "source": "TechCrunch",
-   "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
-   "published_at": "2026-11-03T18:42:16+00:00",
-   "collected_at": "2026-11-03T20:53:25.171193+00:00",
-   "title_ko": "넷플릭스, 기분 맞춤형 콘텐츠 추천하는 ‘AI Discover’ 탭 도입",
-   "summary_ko": "넷플릭스가 사용자의 시청 성향과 분위기에 맞춰 작품을 추천해 주는 실험적 AI 기능 도입을 발표했습니다.",
-   "category": "속보",
-   "tags": []
-  },
-  {
-   "id": "b0726034a3b951d1",
-   "url": "https://news.hada.io/topic?id=36539&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "Google, AI를 거부하는 학교의 검색 기능도 차단 예정",
-   "published_at": "2026-11-03T18:41:04+00:00",
-   "collected_at": "2026-11-03T20:53:59.202442+00:00",
-   "title_ko": "구글, AI 거부하는 학교의 검색 서비스 접근도 차단 예정",
-   "summary_ko": "구글이 교육용 소프트웨어에서 AI 기능을 차단하는 학교에 대해 검색 서비스 제공도 중단하겠다고 밝혔습니다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "규제"
-   ]
-  },
-  {
-   "id": "70d658ebaac0bb50",
-   "url": "https://news.hada.io/topic?id=36538&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "Postman, AI 플러그인을 몰래 자동 설치하고 모든 API 데이터 공유 시도",
-   "published_at": "2026-11-03T18:38:04+00:00",
-   "collected_at": "2026-11-03T20:53:59.202442+00:00",
-   "title_ko": "Postman, AI 플러그인 무단 자동 설치 및 API 데이터 공유 논란",
-   "summary_ko": "Postman 업데이트 과정에서 사용자 동의 없이 코딩 보조 AI 플러그인이 설치되고 API 데이터가 공유되려 했다는 신고가 접수되었습니다.",
-   "category": "중요",
-   "tags": [
-    "코딩",
-    "규제"
-   ]
-  },
-  {
-   "id": "ed7232d12d40c9ff",
-   "url": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
-   "source": "The Verge",
-   "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
-   "published_at": "2026-11-03T18:31:00+00:00",
-   "collected_at": "2026-11-03T20:53:25.264602+00:00",
-   "title_ko": "애플, watchOS 베타에 상시 오디오 인텔리전스 기능 추가",
-   "summary_ko": "애플워치 마이크를 활용해 대화 요약과 실시간 음성 전록을 제공하는 새로운 시리 기능이 개발자 베타에 도입되었습니다.",
-   "category": "속보",
-   "tags": []
-  },
-  {
-   "id": "fd8195e7fb6408b4",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
-   "source": "The Verge",
-   "title": "OpenAI says ChatGPT is catching up to Google in search",
-   "published_at": "2026-11-03T18:30:42+00:00",
-   "collected_at": "2026-11-03T20:53:25.264602+00:00",
-   "title_ko": "OpenAI \"챗GPT 검색량, 구글의 20% 수준에 도달\"",
-   "summary_ko": "OpenAI가 챗GPT를 통한 검색 쿼리 볼륨이 구글 검색량의 5분의 1에 육박했다고 발표하며 검색 시장 경쟁 격화를 알렸습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "GPT"
-   ]
-  },
-  {
-   "id": "a959325bd7bead26",
-   "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
-   "source": "Hacker News",
-   "title": "How I use AI (Oct 2026)",
-   "published_at": "2026-11-03T18:11:11+00:00",
-   "collected_at": "2026-11-04T01:12:43.594243+00:00",
-   "title_ko": "개발자의 실무 AI 활용법 공유",
-   "summary_ko": "실무 개발 환경에서 AI 도구를 어떻게 활용하고 있는지 구체적인 워크플로우를 공유한 글입니다.",
-   "category": "팁",
-   "tags": [
-    "코딩"
-   ]
-  },
-  {
-   "id": "a861e34044d5bbe6",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216942",
-   "source": "AI타임스",
-   "title": "머스크 \"그록 봇 운영 비용 감당 어려워\"...AI 에이전트 사용량 제한",
-   "published_at": "2026-11-03T18:04:42+00:00",
-   "collected_at": "2026-11-03T14:59:31.966830+00:00",
-   "title_ko": "일론 머스크, 운영 비용 부담으로 그록 봇 사용량 제한",
-   "summary_ko": "일론 머스크가 고비용 문제로 인해 AI 에이전트 '그록 봇'의 이용자 사용량을 제한한다고 밝혔다. 서비스 유지 비용이 매출 대비 지나치게 높아 취한 조치다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "41298b9a76b6a710",
-   "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
-   "source": "The Verge",
-   "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
-   "published_at": "2026-11-03T18:00:00+00:00",
-   "collected_at": "2026-11-03T20:53:25.264602+00:00",
-   "title_ko": "넷플릭스, AI 기반 취향 추천 ‘AI Discover’ 탭 신설",
-   "summary_ko": "넷플릭스 TV 앱에 AI를 활용해 시청자의 감정과 취향에 맞는 콘텐츠를 찾아주는 실험적 기능이 추가됩니다.",
-   "category": "속보",
-   "tags": []
-  },
-  {
-   "id": "957183d7b3f84b28",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216970",
-   "source": "AI타임스",
-   "title": "뤼튼·스캐터랩 양분한 AI 캐릭터챗 시장에 게임사 가세…경쟁 본격화",
-   "published_at": "2026-11-03T17:59:14+00:00",
-   "collected_at": "2026-11-03T14:59:31.966830+00:00",
-   "title_ko": "게임사들, AI 캐릭터챗 시장 본격 진출",
-   "summary_ko": "크래프톤과 컴투스 등 게임사들이 AI 캐릭터챗 시장에 잇따라 진출하며 경쟁을 본격화하고 있다. 팬덤을 겨냥한 차별화된 서비스를 선보이는 중이다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "36b7855ee5fe7af0",
-   "url": "https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/",
-   "source": "Hacker News",
-   "title": "Google researchers demand freedom to tell the world what they know about AI",
-   "published_at": "2026-11-03T17:55:26+00:00",
-   "collected_at": "2026-11-03T20:53:43.228890+00:00",
-   "title_ko": "구글 딥마인드 연구원들, AI 비판 금지 규정 철회 요구",
-   "summary_ko": "구글 딥마인드 직원들이 회사의 AI 관련 내부 비판에 대한 평생 금지 조치에 반발하며 표현의 자유 보장을 요구하고 나섰습니다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "규제"
-   ]
-  },
-  {
-   "id": "f6144e5933d75bfa",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216956",
-   "source": "AI타임스",
-   "title": "카르파시, 유튜브 추천에 질려 AI로 대안 개발…\"2시간 만에 완성\"",
-   "published_at": "2026-11-03T17:52:30+00:00",
-   "collected_at": "2026-11-03T14:59:31.966830+00:00",
-   "title_ko": "안드레이 카르파시, 앤트로픽 클로드로 대안 유튜브 개발",
-   "summary_ko": "오픈AI 공동 창립자 안드레이 카르파시가 유튜브 추천에 불만을 느껴 앤트로픽 모델 기반의 '해커튜브'를 2시간 만에 개발했다. AI를 활용한 개인화 도구 제작의 가능성을 보여준다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "Anthropic",
-    "Claude"
-   ]
-  },
-  {
-   "id": "a378e2bedf83554c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmzo2s/261103526_library_of_layers_lol_adaptively/",
-   "source": "r/LocalLLaMA",
-   "title": "[2611.03526] Library of Layers (LoL): Adaptively Ordering Transformer Layers at Runtime",
-   "published_at": "2026-11-03T17:44:41+00:00",
-   "collected_at": "2026-11-03T20:53:44.687488+00:00",
-   "title_ko": "트랜스포머 레이어 동적 정렬 라이브러리 LoL 공개",
-   "summary_ko": "런타임 중에 트랜스포머 레이어를 적응적으로 정렬하는 새로운 연구인 'Library of Layers (LoL)' 논문이 공개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "9b0f1b3870f8f7bf",
-   "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-   "source": "Hacker News",
-   "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-   "published_at": "2026-11-03T17:40:00+00:00",
-   "collected_at": "2026-11-03T20:53:41.815721+00:00",
-   "title_ko": "로컬 노트북에서 모델 가중치 해석하는 Qwen 3.8 27B",
-   "summary_ko": "오픈소스 모델인 Qwen 3.8 27B가 로컬 환경에서도 모델의 가중치를 직접 해석하고 분석하는 능력을 보여주어 주목받고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "7cdfbf475dea78c4",
-   "url": "https://news.hada.io/topic?id=36536&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "Fujifilm, AI로 아카이빙 수요 늘자 테이프 생산능력 5배 확대 추진",
-   "published_at": "2026-11-03T17:38:00+00:00",
-   "collected_at": "2026-11-03T20:53:59.202442+00:00",
-   "title_ko": "후지필름, AI 아카이빙 수요 급증에 테이프 생산 5배 확대",
-   "summary_ko": "생성형 AI 확산으로 데이터 보관 수요가 폭증함에 따라 후지필름이 대용량 자기 테이프 생산 능력을 대폭 확대하기로 했습니다.",
-   "category": "중요",
-   "tags": [
-    "반도체",
-    "투자"
-   ]
-  },
-  {
-   "id": "66db5093e88af805",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmz9ca/like_gpt6_astra_qwen_38_27b_can_interpret_model/",
-   "source": "r/LocalLLaMA",
-   "title": "Like GPT-6 Astra, Qwen 3.8 27B can interpret model weights",
-   "published_at": "2026-11-03T17:29:42+00:00",
-   "collected_at": "2026-11-03T20:53:44.687488+00:00",
-   "title_ko": "모델 가중치 해석하는 Qwen 3.8 27B",
-   "summary_ko": "Qwen 3.8 27B 모델이 고급 모델들처럼 자체적으로 모델 가중치를 해석할 수 있는 능력을 입증했습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "da9a5824109ffaf4",
-   "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-   "source": "Hacker News",
-   "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-   "published_at": "2026-11-03T17:22:37+00:00",
-   "collected_at": "2026-11-03T20:53:41.815721+00:00",
-   "title_ko": "포스트맨, AI 플러그인 강제 설치 및 데이터 공유 논란",
-   "summary_ko": "API 플랫폼 포스트맨이 사용자의 동의 없이 AI 플러그인을 자동 설치하고 API 데이터를 공유하려 했다는 논란이 제기되었습니다.",
-   "category": "중요",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "a55665cf48953af7",
-   "url": "https://huggingface.co/blog/allenai/statebench",
-   "source": "Hugging Face",
-   "title": "StateBench: Testing how language models track state changes over long documents",
-   "published_at": "2026-11-03T17:15:21+00:00",
-   "collected_at": "2026-11-03T20:53:39.278251+00:00",
-   "title_ko": "언어 모델의 장문 상태 변화 추적 능력 평가 벤치마크 'StateBench'",
-   "summary_ko": "긴 문서 속에서 언어 모델이 상태 변화를 얼마나 정확히 추적하는지 테스트하기 위한 새로운 벤치마크 'StateBench'가 공개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "a4abd1e2a1c1fb27",
-   "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-   "source": "TechCrunch",
-   "title": "Anthropic is still grappling with the economics of compute",
-   "published_at": "2026-11-03T17:07:01+00:00",
-   "collected_at": "2026-11-03T20:53:25.171193+00:00",
-   "title_ko": "앤트로픽, 여전히 해결되지 않는 컴퓨팅 비용 경제성 문제",
-   "summary_ko": "앤트로픽의 컴퓨팅 마진이 개선될 시점임에도 불구하고 오히려 악화되면서 AI 인프라 비용 압박이 지속되고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "투자"
-   ]
-  },
-  {
-   "id": "f7886db3fc74ca2a",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216969",
-   "source": "AI타임스",
-   "title": "엔비디아, 클라우드 고객에 중국 기업 서비스 비중 49% 이하 요구",
-   "published_at": "2026-11-03T17:05:07+00:00",
-   "collected_at": "2026-11-03T14:59:31.966830+00:00",
-   "title_ko": "엔비디아, 클라우드 고객에 중국 기업 비중 49% 이하 요구",
-   "summary_ko": "엔비디아가 데이터센터 고객사에 중국 기업 서비스 비중을 49% 미만으로 유지할 것을 요구했다. 미국의 대중국 반도체 수출 통제를 우회하는 것을 막기 위한 조치다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "반도체",
-    "규제"
-   ]
-  },
-  {
-   "id": "55b5ad4a4c2e07c3",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmyji8/can_qwen_directly_control_the_robot_as_well_as/",
-   "source": "r/LocalLLaMA",
-   "title": "“Can Qwen directly control the robot as well as GPT-6 Astra?”",
-   "published_at": "2026-11-03T17:03:57+00:00",
-   "collected_at": "2026-11-03T20:53:44.687488+00:00",
-   "title_ko": "오픈소스 하네스를 통해 실제 로봇 제어하는 Qwen",
-   "summary_ko": "오픈소스 하네스를 통해 일반 LLM인 Qwen이 소프트웨어 도구를 넘어 물리적 세계의 실제 로봇까지 제어할 수 있게 되었습니다.",
-   "category": "속보",
-   "tags": [
-    "로보틱스",
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "adafdd4764cb9dbb",
-   "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-   "source": "DeepMind",
-   "title": "Agentic cheminformatics with Google Antigravity",
-   "published_at": "2026-11-03T17:01:49+00:00",
-   "collected_at": "2026-11-03T20:53:39.012340+00:00",
-   "title_ko": "구글 안티그래비티 기반의 에이전트 화학 정보학",
-   "summary_ko": "구글 안티그래비티와 화학 정보학 스킬을 결합하여 신약 개발 워크숍을 가속화하고 화합물을 탐색하는 방법이 소개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "Google",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "6df21e5a15617694",
-   "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
-   "source": "The Verge",
-   "title": "Google is entirely disabling Search in schools that don’t want AI",
-   "published_at": "2026-11-03T17:00:04+00:00",
-   "collected_at": "2026-11-03T20:53:25.264602+00:00",
-   "title_ko": "구글, AI 기능 거부하는 학교에 검색 서비스 전면 차단",
-   "summary_ko": "구글이 자사의 AI 기능을 거부하는 학교의 K-12 학생 계정에 대해 검색 및 제미나이 등 관련 서비스를 완전히 차단하기로 했습니다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "규제"
-   ]
-  },
-  {
-   "id": "95dce5da618a3a9d",
-   "url": "https://neufangled.com/",
-   "source": "Hacker News",
-   "title": "Stringman, an $800 open-source room scale gripper robot",
-   "published_at": "2026-11-03T16:47:29+00:00",
-   "collected_at": "2026-11-03T20:53:41.815721+00:00",
-   "title_ko": "800달러짜리 오픈소스 룸스케일 그리퍼 로봇 'Stringman'",
-   "summary_ko": "저렴한 비용으로 구축할 수 있는 800달러 상당의 오픈소스 룸스케일 그리퍼 로봇 프로젝트가 공개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "로보틱스",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "ee9a9643897059a9",
-   "url": "https://news.ycombinator.com/item?id=50354336",
-   "source": "Hacker News",
-   "title": "Gitbook Breached",
-   "published_at": "2026-11-03T16:45:49+00:00",
-   "collected_at": "2026-11-03T20:53:41.815721+00:00",
-   "title_ko": "깃북, AI 에이전트를 이용한 고도화된 사이버 공격으로 해킹 피해",
-   "summary_ko": "문서 플랫폼 깃북이 AI 에이전트를 활용한 지능형 공격에 의해 보안 침해 사고를 겪고 서비스를 복구했습니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "5d73027c7d22a77b",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216940",
-   "source": "AI타임스",
-   "title": "오픈AI, 데이터센터 명칭 'AI 컴퓨팅 캠퍼스'로 변경 추진...주민 반발 대응",
-   "published_at": "2026-11-03T16:45:00+00:00",
-   "collected_at": "2026-11-03T14:59:31.966830+00:00",
-   "title_ko": "오픈AI, 데이터센터 명칭 'AI 컴퓨팅 캠퍼스'로 변경 추진",
-   "summary_ko": "오픈AI가 지역 주민의 반발과 규제에 대응하기 위해 데이터센터 명칭을 'AI 컴퓨팅 캠퍼스'로 바꾸고 여론 관리에 나섰다. 전력 소비와 환경 문제에 대한 우려를 불식시키려는 목적이다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "규제"
    ]
   }
  ]
