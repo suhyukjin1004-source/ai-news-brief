@@ -1,5 +1,21 @@
 [
  {
+  "id": "41f759962cafdff0",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=217134",
+  "source": "AI타임스",
+  "title": "오픈AI, '클로드 코드' 성공 주역 캣 우 영입…핵심 제품 총괄 맡아",
+  "published_at": "2026-11-07T19:05:17+00:00",
+  "collected_at": "2026-11-07T16:18:13.926884+00:00",
+  "title_ko": "오픈AI, 앤트로픽 '클로드 코드' 주역 캣 우 영입",
+  "summary_ko": "오픈AI가 앤트로픽의 AI 코딩 에이전트 '클로드 코드'의 성공을 이끈 캣 우를 핵심 제품 조직 총괄로 영입했습니다. 코덱스와 기업용 AI 에이전트 경쟁력을 강화하기 위한 행보입니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "Anthropic",
+   "AI 에이전트"
+  ]
+ },
+ {
   "id": "8eb4f9a8d6f64f2e",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=217133",
   "source": "AI타임스",
@@ -32,6 +48,37 @@
   ]
  },
  {
+  "id": "5e7dca67d4988a34",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq9yjf/released_an_opensource_eou_detection_model/",
+  "source": "r/LocalLLaMA",
+  "title": "Released an open-source EOU detection model covering English + 8 Indic languages voice agents stop cutting callers off mid-sentence",
+  "published_at": "2026-11-07T16:08:45+00:00",
+  "collected_at": "2026-11-07T16:18:00.675803+00:00",
+  "title_ko": "다국어 음성 에이전트를 위한 오픈소스 발화 종료 감지 모델 공개",
+  "summary_ko": "인도 언어 등 어순 특성으로 인한 음성 에이전트의 끊김 현상을 해결하기 위해 Qwen2.5 기반의 로컬 턴 종료 감지(EOU) 모델이 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트",
+   "Qwen"
+  ]
+ },
+ {
+  "id": "a3c57d66c8a9167a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq9hf6/paper_dspine_draft_in_parallel_condition_through/",
+  "source": "r/LocalLLaMA",
+  "title": "[Paper] DSpine - Draft in Parallel, Condition Through Depth: Adjacent Causal Injection for Speculative Decoding - tencent",
+  "published_at": "2026-11-07T15:48:50+00:00",
+  "collected_at": "2026-11-07T16:18:00.675803+00:00",
+  "title_ko": "추론 디코딩 성능 개선을 위한 신규 논문 'DSpine' 발표",
+  "summary_ko": "병렬 추론 디코딩 시 일관성 저하 문제를 해결하기 위해 인접 인과 주입 기법을 활용하는 새로운 드래프트 모델 구조가 제안되었습니다.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "7c430c9ddcb7b182",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=217128",
   "source": "AI타임스",
@@ -44,6 +91,51 @@
   "tags": [
    "Meta",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "dc1992ae4de22c2f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq8s2n/qwen38flashnext_gyro_s_on_a_valve_steam_machine_8/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.8-Flash-Next Gyro S on a Valve Steam Machine (8 GB AMD GPU, 32 GB RAM): about 18 t/s decode, about 235 t/s prefill, stock SteamOS",
+  "published_at": "2026-11-07T15:18:29+00:00",
+  "collected_at": "2026-11-07T16:18:00.675803+00:00",
+  "title_ko": "밸브 스팀 머신에서 구동한 Qwen 모델 성능 테스트",
+  "summary_ko": "스팀OS 환경의 스팀 머신에서 로컬 LLM을 구동하여 프렐로드 및 디코딩 속도 측정 결과를 공유했습니다.",
+  "category": "참고",
+  "tags": [
+   "Qwen",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "faef3b82041105fc",
+  "url": "https://news.hada.io/topic?id=36761&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Zed의 Delta 공개 베타 - 자체 저장소에서 PR을 끄고 작업 스레드에서 리뷰",
+  "published_at": "2026-11-07T15:01:17+00:00",
+  "collected_at": "2026-11-07T16:18:15.129981+00:00",
+  "title_ko": "Zed, 작업 스레드 기반 코드 리뷰 'Delta' 베타 공개",
+  "summary_ko": "에디터 Zed가 커밋 없이 에이전트 대화 스레드에서 바로 코드를 리뷰하고 수정할 수 있는 Delta 공개 베타를 출시했습니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "08faff9713106f74",
+  "url": "https://news.hada.io/topic?id=36760&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Entire, 에이전트 시대를 위한 분산 Git 네트워크 공개",
+  "published_at": "2026-11-07T15:00:02+00:00",
+  "collected_at": "2026-11-07T16:18:15.129981+00:00",
+  "title_ko": "에이전트 시대를 위한 분산 Git 네트워크 'Entire' 공개",
+  "summary_ko": "대규모 AI 에이전트의 동시 작업 트래픽을 분산하기 위해 기존 GitHub 저장소를 지역별로 미러링하는 분산 Git 네트워크가 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
   ]
  }
 ]

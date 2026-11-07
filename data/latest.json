@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-07T09:55:37.753640+00:00",
+ "updated_at": "2026-11-07T16:18:30.346008+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "41f759962cafdff0",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217134",
+   "source": "AI타임스",
+   "title": "오픈AI, '클로드 코드' 성공 주역 캣 우 영입…핵심 제품 총괄 맡아",
+   "published_at": "2026-11-07T19:05:17+00:00",
+   "collected_at": "2026-11-07T16:18:13.926884+00:00",
+   "title_ko": "오픈AI, 앤트로픽 '클로드 코드' 주역 캣 우 영입",
+   "summary_ko": "오픈AI가 앤트로픽의 AI 코딩 에이전트 '클로드 코드'의 성공을 이끈 캣 우를 핵심 제품 조직 총괄로 영입했습니다. 코덱스와 기업용 AI 에이전트 경쟁력을 강화하기 위한 행보입니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "Anthropic",
+    "AI 에이전트"
+   ]
+  },
   {
    "id": "8eb4f9a8d6f64f2e",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217133",
@@ -36,6 +52,37 @@
    ]
   },
   {
+   "id": "5e7dca67d4988a34",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq9yjf/released_an_opensource_eou_detection_model/",
+   "source": "r/LocalLLaMA",
+   "title": "Released an open-source EOU detection model covering English + 8 Indic languages voice agents stop cutting callers off mid-sentence",
+   "published_at": "2026-11-07T16:08:45+00:00",
+   "collected_at": "2026-11-07T16:18:00.675803+00:00",
+   "title_ko": "다국어 음성 에이전트를 위한 오픈소스 발화 종료 감지 모델 공개",
+   "summary_ko": "인도 언어 등 어순 특성으로 인한 음성 에이전트의 끊김 현상을 해결하기 위해 Qwen2.5 기반의 로컬 턴 종료 감지(EOU) 모델이 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트",
+    "Qwen"
+   ]
+  },
+  {
+   "id": "a3c57d66c8a9167a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq9hf6/paper_dspine_draft_in_parallel_condition_through/",
+   "source": "r/LocalLLaMA",
+   "title": "[Paper] DSpine - Draft in Parallel, Condition Through Depth: Adjacent Causal Injection for Speculative Decoding - tencent",
+   "published_at": "2026-11-07T15:48:50+00:00",
+   "collected_at": "2026-11-07T16:18:00.675803+00:00",
+   "title_ko": "추론 디코딩 성능 개선을 위한 신규 논문 'DSpine' 발표",
+   "summary_ko": "병렬 추론 디코딩 시 일관성 저하 문제를 해결하기 위해 인접 인과 주입 기법을 활용하는 새로운 드래프트 모델 구조가 제안되었습니다.",
+   "category": "참고",
+   "tags": [
+    "반도체",
+    "오픈소스"
+   ]
+  },
+  {
    "id": "7c430c9ddcb7b182",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217128",
    "source": "AI타임스",
@@ -48,6 +95,272 @@
    "tags": [
     "Meta",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "dc1992ae4de22c2f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq8s2n/qwen38flashnext_gyro_s_on_a_valve_steam_machine_8/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.8-Flash-Next Gyro S on a Valve Steam Machine (8 GB AMD GPU, 32 GB RAM): about 18 t/s decode, about 235 t/s prefill, stock SteamOS",
+   "published_at": "2026-11-07T15:18:29+00:00",
+   "collected_at": "2026-11-07T16:18:00.675803+00:00",
+   "title_ko": "밸브 스팀 머신에서 구동한 Qwen 모델 성능 테스트",
+   "summary_ko": "스팀OS 환경의 스팀 머신에서 로컬 LLM을 구동하여 프렐로드 및 디코딩 속도 측정 결과를 공유했습니다.",
+   "category": "참고",
+   "tags": [
+    "Qwen",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "faef3b82041105fc",
+   "url": "https://news.hada.io/topic?id=36761&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Zed의 Delta 공개 베타 - 자체 저장소에서 PR을 끄고 작업 스레드에서 리뷰",
+   "published_at": "2026-11-07T15:01:17+00:00",
+   "collected_at": "2026-11-07T16:18:15.129981+00:00",
+   "title_ko": "Zed, 작업 스레드 기반 코드 리뷰 'Delta' 베타 공개",
+   "summary_ko": "에디터 Zed가 커밋 없이 에이전트 대화 스레드에서 바로 코드를 리뷰하고 수정할 수 있는 Delta 공개 베타를 출시했습니다.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "08faff9713106f74",
+   "url": "https://news.hada.io/topic?id=36760&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Entire, 에이전트 시대를 위한 분산 Git 네트워크 공개",
+   "published_at": "2026-11-07T15:00:02+00:00",
+   "collected_at": "2026-11-07T16:18:15.129981+00:00",
+   "title_ko": "에이전트 시대를 위한 분산 Git 네트워크 'Entire' 공개",
+   "summary_ko": "대규모 AI 에이전트의 동시 작업 트래픽을 분산하기 위해 기존 GitHub 저장소를 지역별로 미러링하는 분산 Git 네트워크가 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "dd987f6d84d07eb6",
+   "url": "https://news.hada.io/topic?id=36759&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "코딩 에이전트를 위한 버전 관리 벤치마크",
+   "published_at": "2026-11-07T14:58:53+00:00",
+   "collected_at": "2026-11-07T16:18:15.129981+00:00",
+   "title_ko": "코딩 에이전트를 위한 버전 관리 도구 벤치마크 공개",
+   "summary_ko": "GitButler 팀이 AI 코딩 에이전트의 버전 관리 작업 수행 능력을 비교하는 벤치마크를 통해 도구별 효율성을 검증했습니다.",
+   "category": "참고",
+   "tags": [
+    "Claude",
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "57acaf434346b56a",
+   "url": "https://news.hada.io/topic?id=36758&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "GitLab, Git 호환성을 유지한 에이전트용 소스 관리 시스템 개발",
+   "published_at": "2026-11-07T14:56:46+00:00",
+   "collected_at": "2026-11-07T16:18:15.129981+00:00",
+   "title_ko": "GitLab, 수천 개 AI 에이전트 지원하는 SCM 개발 중",
+   "summary_ko": "GitLab이 대규모 저장소에서 다수의 AI 에이전트가 동시에 충돌 없이 작업할 수 있는 차세대 소스 코드 관리 시스템을 개발하고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "151a1e1abfba78ee",
+   "url": "https://news.hada.io/topic?id=36757&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Pangram Image 1.0 공개 - 사진과 영상에서 AI로 만든 부분을 탐지",
+   "published_at": "2026-11-07T14:49:20+00:00",
+   "collected_at": "2026-11-07T16:18:15.129981+00:00",
+   "title_ko": "AI 생성 이미지 및 영상 탐지 모델 'Pangram Image 1.0' 공개",
+   "summary_ko": "실사진에 섞인 AI 생성 영역을 히트맵으로 정밀하게 표시하는 이미지 및 영상 탐지 모델이 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "dd49fccc8f7e4709",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq7qi4/valet_use_local_llms_to_manage_your_homelab_open/",
+   "source": "r/LocalLLaMA",
+   "title": "Valet: use local LLMs to manage your homelab (open source)",
+   "published_at": "2026-11-07T14:32:04+00:00",
+   "collected_at": "2026-11-07T16:18:00.675803+00:00",
+   "title_ko": "로컬 LLM 기반 홈랩 관리 도구 'Valet' 공개",
+   "summary_ko": "프라이버시를 유지하며 로컬 LLM을 통해 홈랩 서비스를 통합 관리할 수 있는 오픈소스 에이전트 대시보드가 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "70c636bb4f926ae6",
+   "url": "https://news.hada.io/topic?id=36753&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "에이전트 규모의 Git 인프라로 가는 가교 - GitHub의 Azure 이전기",
+   "published_at": "2026-11-07T13:57:34+00:00",
+   "collected_at": "2026-11-07T16:18:15.129981+00:00",
+   "title_ko": "에이전트 시대의 Git 인프라: GitHub의 Azure 이전",
+   "summary_ko": "GitHub가 대규모 에이전트 트래픽과 고부하 저장소 처리를 위해 Azure로 이전하며 참조별 쿼럼 등의 아키텍처 개선을 진행했습니다. AI 에이전트의 동시 작업으로 늘어난 Git 인프라 부하에 대응하기 위한 핵심 조치입니다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트",
+    "반도체"
+   ]
+  },
+  {
+   "id": "0ba7aee631f07553",
+   "url": "https://news.hada.io/topic?id=36752&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Git 다음에는 무엇이 올까",
+   "published_at": "2026-11-07T13:55:30+00:00",
+   "collected_at": "2026-11-07T16:18:15.129981+00:00",
+   "title_ko": "AI 에이전트 시대를 위한 차세대 버전 관리 시스템",
+   "summary_ko": "AI 에이전트가 병렬로 코드를 수정하고 저장소 부하를 키우는 환경에 대응하기 위해 기존 Git과 호환되면서도 수평 확장이 가능한 자체 엔진 기반의 버전 관리 시스템이 개발 중입니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "3aa96020b2a5e456",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq6q62/after_qwenputer_i_wondered_if_a_smaller_model/",
+   "source": "r/LocalLLaMA",
+   "title": "After Qwenputer, I wondered if a smaller model could do it too. So I built a Forth interpreter into Nemotron 3.5 Lightning's weights",
+   "published_at": "2026-11-07T13:45:20+00:00",
+   "collected_at": "2026-11-07T16:18:00.675803+00:00",
+   "title_ko": "소형 언어 모델 가중치에 포스(Forth) 인터프리터 구현",
+   "summary_ko": "3B 활성 파라미터를 가진 NVIDIA Nemotron 모델의 가중치에 학습 없이 포스 인터프리터를 직접 결합하여 스택 기반 언어로 기계를 구동하는 실험이 진행되었습니다. 소형 모델의 구조 확장 가능성을 보여줍니다.",
+   "category": "참고",
+   "tags": [
+    "NVIDIA",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "aa80812bc4d4b591",
+   "url": "https://news.hada.io/topic?id=36751&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "GitHub의 새 Git 스토리지 아키텍처 - 저장소 하나에서 초당 7,200회 푸시를 처리",
+   "published_at": "2026-11-07T13:40:23+00:00",
+   "collected_at": "2026-11-07T16:18:15.129981+00:00",
+   "title_ko": "단일 저장소에서 초당 7,200회 푸시를 처리하는 GitHub Rubicon",
+   "summary_ko": "GitHub가 다수의 AI 에이전트가 동시에 접근하는 환경을 위해 단일 저장소 성능을 극대화한 새 스토리지 아키텍처 Rubicon을 공개했습니다. 에이전트 기반 개발 확산에 필수적인 인프라 혁신입니다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "4dc9b7d8f9d55fb4",
+   "url": "https://news.hada.io/topic?id=36750&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Upload Your RAM - 유휴 RAM을 업로드해 기부한다는 사이트",
+   "published_at": "2026-11-07T13:37:23+00:00",
+   "collected_at": "2026-11-07T16:18:15.129981+00:00",
+   "title_ko": "유휴 RAM 기부로 LLM을 구동한다는 패러디 사이트",
+   "summary_ko": "사용자의 남는 RAM을 업로드해 LLM 구동 등에 기부한다는 가상의 사이트가 등장했습니다. 샘 알트만의 발언을 패러디하여 소비자들의 죄책감과 AI 자원 부족 이슈를 유쾌하게 다뤘습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI"
+   ]
+  },
+  {
+   "id": "884fa1e584f61749",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq66uy/theyll_replace_him_with_someone_who_opposes_open/",
+   "source": "r/LocalLLaMA",
+   "title": "They'll replace him with someone who opposes open source AI, won't they? ‌",
+   "published_at": "2026-11-07T13:19:18+00:00",
+   "collected_at": "2026-11-07T16:18:00.675803+00:00",
+   "title_ko": "오픈소스 AI 진영의 리더십 변화 우려",
+   "summary_ko": "오픈소스 AI에 우호적인 인물이 반대 성향의 인물로 교체될 수 있다는 업계의 우려를 다룬 기사입니다. 오픈소스 AI 생태계의 향방에 중요한 영향을 미칠 수 있습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "70d6c704a9e4c0d6",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq65rl/tsmc_might_do_in_memory_compute_for_us/",
+   "source": "r/LocalLLaMA",
+   "title": "TSMC might do in memory compute for us",
+   "published_at": "2026-11-07T13:17:49+00:00",
+   "collected_at": "2026-11-07T16:18:00.675803+00:00",
+   "title_ko": "TSMC의 로직 칩 내재화 온칩 메모리 기술",
+   "summary_ko": "TSMC가 2025 VLSI 심포지엄에서 로직 칩 상호연결층에 직접 통합할 수 있는 산화물 반도체 기반 메모리 기술을 발표했습니다. 고성능 AI 프로세서의 캐시 효율과 전력 소모를 개선할 핵심 기술입니다.",
+   "category": "중요",
+   "tags": [
+    "반도체"
+   ]
+  },
+  {
+   "id": "1de98537a9e61441",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+   "source": "The Verge",
+   "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+   "published_at": "2026-11-07T12:30:00+00:00",
+   "collected_at": "2026-11-07T16:17:45.423978+00:00",
+   "title_ko": "앤트로픽의 AI 자동 개발 가속화에 대한 연구원들의 반응",
+   "summary_ko": "앤트로픽이 AI를 이용해 더 강력한 AI를 개발하는 속도가 작년보다 두 배 빨라졌다는 METR의 보고서가 공개되었습니다. AI 개발 자동화의 급격한 진전이 안전성과 업계에 미칠 영향에 대한 우려가 커지고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "1f836dc05401be5a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq4yju/obsessive17b_a_11_gb_websearch_subagent/",
+   "source": "r/LocalLLaMA",
+   "title": "Obsessive-1.7B: a 1.1 GB web-search subagent",
+   "published_at": "2026-11-07T12:13:29+00:00",
+   "collected_at": "2026-11-07T16:18:00.675803+00:00",
+   "title_ko": "웹 검색 서브에이전트로 미세조정된 1.1GB 소형 모델 Obsessive-1.7B",
+   "summary_ko": "대형 모델 아래에서 웹 검색과 팩트 추출이라는 단일 작업을 수행하도록 미세조정된 경량 서브에이전트 모델이 공개되었습니다. 효율적인 에이전트 파이프라인 구축에 유용합니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "03e6000e3e3313cb",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq4pb6/does_anyone_use_none_reasoning_level_for_anything/",
+   "source": "r/LocalLLaMA",
+   "title": "Does anyone use None reasoning level for anything ever?",
+   "published_at": "2026-11-07T11:59:19+00:00",
+   "collected_at": "2026-11-07T16:18:00.675803+00:00",
+   "title_ko": "에이전트 작업에서 추론 레벨 '없음' 사용에 대한 논의",
+   "summary_ko": "에이전트 작업 시 속도 향상을 위해 LLM의 추론 레벨을 끄는 것의 실효성과 위험성에 대한 커뮤니티의 논의입니다. 복잡한 작업에서 정확도 저하를 피하기 위한 실무적 고민을 담고 있습니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "360d63d5ad30901b",
+   "url": "https://news.hada.io/topic?id=36746&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Devvm.dev: 프로젝트마다 하나의 VM",
+   "published_at": "2026-11-07T11:32:47+00:00",
+   "collected_at": "2026-11-07T16:18:15.129981+00:00",
+   "title_ko": "프로젝트별 격리 VM으로 코딩 에이전트를 안전하게 실행하는 Devvm",
+   "summary_ko": "Claude Code 등의 코딩 에이전트나 개발자가 프로젝트별 도구 체인이 갖춰진 격리된 VM에서 안전하게 작업할 수 있게 해주는 오픈소스 도구입니다. 에이전트 실무 활용 시 보안과 환경 격리를 돕습니다.",
+   "category": "팁",
+   "tags": [
+    "Claude",
+    "AI 에이전트",
+    "오픈소스"
    ]
   },
   {
@@ -2673,323 +2986,6 @@
     "Anthropic",
     "AI 에이전트",
     "코딩"
-   ]
-  },
-  {
-   "id": "224de4ba072aa3f0",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnuva2/unsloth_qwen38flashnext_ggufs_v31_update_november/",
-   "source": "r/LocalLLaMA",
-   "title": "Unsloth Qwen3.8-Flash-Next GGUFs V3.1 Update (November 4th 2026)",
-   "published_at": "2026-11-04T17:51:33+00:00",
-   "collected_at": "2026-11-04T22:34:59.479898+00:00",
-   "title_ko": "Unsloth, Qwen 기반 모델 GGUF V3.1 업데이트 발표",
-   "summary_ko": "정확도가 향상된 QFN GGUF 새 버전의 다운로드 및 적용이 가능해졌습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "5afc49da7bd40515",
-   "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-   "source": "Hugging Face",
-   "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-   "published_at": "2026-11-04T17:50:10+00:00",
-   "collected_at": "2026-11-04T22:34:57.686683+00:00",
-   "title_ko": "Dharma Field Extractor: 비정형 문서를 구조화된 JSON으로 변환",
-   "summary_ko": "모든 문서를 입력받아 필요한 필드를 구조화된 JSON 형태로 추출해 주는 도구입니다.",
-   "category": "팁",
-   "tags": [
-    "LLM",
-    "데이터추출"
-   ]
-  },
-  {
-   "id": "44acdb3768a6a898",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217007",
-   "source": "AI타임스",
-   "title": "\"AI 현장 엔지니어 연봉 최대 19억원\"...기업들 FDE 확보 총력",
-   "published_at": "2026-11-04T17:40:04+00:00",
-   "collected_at": "2026-11-04T08:59:03.463065+00:00",
-   "title_ko": "AI 현장 엔지니어 연봉 최고 19억원으로 급등",
-   "summary_ko": "AI 도입이 확산되면서 실제 시스템을 구축하는 전방 배치 엔지니어(FDE)의 몸값이 최고 19억원에 달하는 등 인재 확보 경쟁이 치열해지고 있다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "투자"
-   ]
-  },
-  {
-   "id": "7d1ba96f6d8946f4",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216992",
-   "source": "AI타임스",
-   "title": "\"엔비디아 심기 거스를라\"...오픈AI도 중국 칩 수출 규제에 발언 자제",
-   "published_at": "2026-11-04T17:33:34+00:00",
-   "collected_at": "2026-11-04T08:59:03.463065+00:00",
-   "title_ko": "오픈AI, 엔비디아 눈치에 대중국 반도체 규제 발언 자제",
-   "summary_ko": "엔비디아의 시장 지배력과 관계 악화를 우려해 오픈AI 내부에서 미국의 대중국 반도체 수출 규제에 대한 공개 발언을 꺼리는 분위기가 형성됐다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "NVIDIA",
-    "반도체"
-   ]
-  },
-  {
-   "id": "1b7386c11e94db2e",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217014",
-   "source": "AI타임스",
-   "title": "EU 최고법원 법무관 \"AI 기사 무단 요약은 저작권 침해\"...구글 제미나이 소송 주목",
-   "published_at": "2026-11-04T17:24:28+00:00",
-   "collected_at": "2026-11-04T08:59:03.463065+00:00",
-   "title_ko": "EU 법무관 \"AI 챗봇의 무단 기사 요약은 저작권 침해\"",
-   "summary_ko": "유럽사법재판소 법무관이 구글 제미나이 등의 무단 기사 요약과 재사용이 언론사의 저작권을 침해할 수 있다는 법률 의견을 제시했다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "Gemini",
-    "규제"
-   ]
-  },
-  {
-   "id": "7de034b3d8751967",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217017",
-   "source": "AI타임스",
-   "title": "현대제철, 사내 생성 AI 통합 플랫폼 '스틸-X' 가동...전사 AX 페달링",
-   "published_at": "2026-11-04T17:05:31+00:00",
-   "collected_at": "2026-11-04T08:59:03.463065+00:00",
-   "title_ko": "현대제철, 사내 생성 AI 통합 플랫폼 '스틸-X' 가동",
-   "summary_ko": "현대제철이 사내 지식 자산화와 업무 생산성 향상을 위한 생성 AI 통합 플랫폼 '스틸-X'를 구축하고 전사적 AX 혁신에 나섰다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "d7d427bae6176571",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217013",
-   "source": "AI타임스",
-   "title": "에이티넘인베 투자기업 올거나이즈, 일본 증시 상장",
-   "published_at": "2026-11-04T17:04:33+00:00",
-   "collected_at": "2026-11-04T08:59:03.463065+00:00",
-   "title_ko": "기업용 AI 스타트업 올거나이즈, 일본 증시 상장",
-   "summary_ko": "미국에서 출발해 한국과 일본에서 AI 솔루션 사업을 전개해 온 올거나이즈가 도쿄증권거래소 그로스시장에 상장했다.",
-   "category": "속보",
-   "tags": [
-    "투자"
-   ]
-  },
-  {
-   "id": "c5b8a33b15d4928d",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217018",
-   "source": "AI타임스",
-   "title": "[게시판] 넘즈에이아이, 20억 프리시드 2차 투자 유치 등 단신",
-   "published_at": "2026-11-04T17:00:00+00:00",
-   "collected_at": "2026-11-04T08:59:03.463065+00:00",
-   "title_ko": "넘즈에이아이, 20억 프리시드 투자 유치 및 팁스 선정",
-   "summary_ko": "정형 데이터 파운데이션 모델 개발사인 넘즈에이아이가 20억원의 추가 투자를 유치하고 팁스에 선정됐다.",
-   "category": "속보",
-   "tags": [
-    "투자",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "472484bded0ab565",
-   "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
-   "source": "TechCrunch",
-   "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
-   "published_at": "2026-11-04T16:51:35+00:00",
-   "collected_at": "2026-11-04T17:04:22.025742+00:00",
-   "title_ko": "애플의 AI 기반 '시리 리캡스' 기능 사용 후기",
-   "summary_ko": "애플의 새로운 AI 요약 기능인 시리 리캡스가 사생활 우려에도 불구하고 놀라울 정도로 유용하다는 평가를 받고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "Apple",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "ced8816e47c53ced",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217011",
-   "source": "AI타임스",
-   "title": "\"오픈AI, 수년간 내부 보안 취약점 경고 무시\"...개발 속도 우선에 기밀 유출 위험",
-   "published_at": "2026-11-04T16:30:09+00:00",
-   "collected_at": "2026-11-04T08:59:03.463065+00:00",
-   "title_ko": "오픈AI, 개발 속도 우선에 내부 보안 취약점 경고 무시 논란",
-   "summary_ko": "오픈AI가 경쟁사와의 기술 격차 해소를 우선시하며 직원들의 내부 보안 취약점 및 기밀 유출 경고를 수년간 방치했다는 보도가 나왔다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI"
-   ]
-  },
-  {
-   "id": "660e45ca38bd6a83",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217009",
-   "source": "AI타임스",
-   "title": "에스엘즈, 실리콘밸리 VC 주관 스타트업 경연대회서 글로벌 결선 진출",
-   "published_at": "2026-11-04T16:25:20+00:00",
-   "collected_at": "2026-11-04T08:59:03.463065+00:00",
-   "title_ko": "에스엘즈, 스타트업 월드컵 한국 결선 우승",
-   "summary_ko": "에스엘즈가 실리콘밸리 VC가 주관하는 스타트업 월드컵 한국 결선에서 우승을 차지해 글로벌 결선 진출권을 획득했다.",
-   "category": "속보",
-   "tags": [
-    "투자"
-   ]
-  },
-  {
-   "id": "fc7db2ef416bcfae",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217012",
-   "source": "AI타임스",
-   "title": "\"중국 AI 위협 과장됐나\"…성능 격차 확대에 벤치마크 신뢰성 논쟁",
-   "published_at": "2026-11-04T16:18:22+00:00",
-   "collected_at": "2026-11-04T08:59:03.463065+00:00",
-   "title_ko": "미·중 AI 성능 격차 확대 속 벤치마크 신뢰성 논쟁",
-   "summary_ko": "최신 평가에서 미국 최상위 모델과 중국 오픈 모델의 성능 격차가 벌어지면서 중국 AI 경쟁력 과대평가 및 벤치마크 신뢰성 논쟁이 불거졌다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "규제"
-   ]
-  },
-  {
-   "id": "7a776e33bd3040c1",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnsckx/slow_is_smart_and_smart_is_fast/",
-   "source": "r/LocalLLaMA",
-   "title": "Slow is smart and smart is fast",
-   "published_at": "2026-11-04T16:17:20+00:00",
-   "collected_at": "2026-11-04T17:04:38.599670+00:00",
-   "title_ko": "로컬 LLM 코딩 에이전트에서 속도보다 신중함이 중요한 이유",
-   "summary_ko": "로컬 모델로 에이전트 작업을 수행할 때 무조건적인 토큰 속도 최적화보다는 모델의 깊은 사고가 더 효과적이라는 경험담입니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "코딩",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "7aec60f41c486ce8",
-   "url": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
-   "source": "The Verge",
-   "title": "Data centers lost the midterms",
-   "published_at": "2026-11-04T16:05:39+00:00",
-   "collected_at": "2026-11-04T17:04:22.215477+00:00",
-   "title_ko": "미국 내 AI 데이터센터 확장에 제동 걸리나",
-   "summary_ko": "미국 유권자들이 데이터센터 확장 반대 후보들을 지지하면서 AI 산업의 인프라 구축 환경이 엄격해지고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "반도체",
-    "투자",
-    "규제"
-   ]
-  },
-  {
-   "id": "e64d0791be6ff9db",
-   "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
-   "source": "The Verge",
-   "title": "Uber only fulfilled 4 rides from AI agents last quarter",
-   "published_at": "2026-11-04T15:58:45+00:00",
-   "collected_at": "2026-11-04T17:04:22.215477+00:00",
-   "title_ko": "우버, 지난 분기 외부 AI 에이전트를 통한 차량 호출 4건에 그쳐",
-   "summary_ko": "우버의 실적 발표에 따르면 제3자 AI 에이전트를 통한 차량 호출은 미미한 수준으로 아직 초기 단계인 것으로 나타났습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "투자"
-   ]
-  },
-  {
-   "id": "e905670fa01956b2",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216998",
-   "source": "AI타임스",
-   "title": "구글 \"학교에서 AI 끄려면 검색도 포기해야\"...교육용 AI 제한 놓고 논란",
-   "published_at": "2026-11-04T15:47:06+00:00",
-   "collected_at": "2026-11-04T08:59:03.463065+00:00",
-   "title_ko": "구글, 학교 계정서 제미나이 차단... 검색 연동 논란",
-   "summary_ko": "구글이 미국 학교 계정에서 제미나이 등 AI 기능을 기본 차단하기로 한 가운데, 검색 내장 AI 기능까지 함께 제한되어 논란이 일고 있다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "Gemini",
-    "규제"
-   ]
-  },
-  {
-   "id": "a400296abd163d90",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnrhvb/kimik31pro_is_now_openweights/",
-   "source": "r/LocalLLaMA",
-   "title": "Kimi-K3.1-Pro is now open-weights",
-   "published_at": "2026-11-04T15:44:08+00:00",
-   "collected_at": "2026-11-04T17:04:38.599670+00:00",
-   "title_ko": "키미 K3.1 프로, 오픈 웨이트 모델로 공개",
-   "summary_ko": "고성능 AI 모델인 Kimi-K3.1-Pro가 오픈 웨이트 형태로 새롭게 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "AI"
-   ]
-  },
-  {
-   "id": "28e6b7053939d76d",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnrcfw/paper_think_less_locally_local_preference/",
-   "source": "r/LocalLLaMA",
-   "title": "[Paper] Think Less, Locally: Local Preference Learning for Reasoning Compression",
-   "published_at": "2026-11-04T15:38:18+00:00",
-   "collected_at": "2026-11-04T17:04:38.599670+00:00",
-   "title_ko": "추론 모델의 불필요한 연산 줄이는 'LoCo' 기법 제안",
-   "summary_ko": "대형 추론 모델이 충분한 정보 후에도 과도하게 생각하는 오버싱킹 문제를 해결하기 위한 로컬 선호 학습 방법이 제안되었습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "AI",
-    "코딩"
-   ]
-  },
-  {
-   "id": "5969d0c90859bbef",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217005",
-   "source": "AI타임스",
-   "title": "앤트로픽, 일본 이어 호주서도 IPO 개인 공모…글로벌 투자자 결집",
-   "published_at": "2026-11-04T15:32:06+00:00",
-   "collected_at": "2026-11-04T17:04:52.380189+00:00",
-   "title_ko": "앤트로픽, 일본에 이어 호주서도 IPO 개인 공모 추진",
-   "summary_ko": "앤트로픽이 미국 상장을 앞두고 호주 현지 금융사와 손잡고 개인투자자 대상 주식 판매를 확대하고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "투자"
-   ]
-  },
-  {
-   "id": "1d83ea98ce0c30cf",
-   "url": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
-   "source": "Simon Willison",
-   "title": "datasette-llm 0.1a10",
-   "published_at": "2026-11-04T15:26:02+00:00",
-   "collected_at": "2026-11-04T22:34:58.772525+00:00",
-   "title_ko": "Datasette LLM 플러그인 0.1a10 버전 출시",
-   "summary_ko": "LLM 모델 설정 제한과 관련된 버그가 수정된 datasette-llm 업데이트가 배포되었습니다.",
-   "category": "팁",
-   "tags": [
-    "LLM",
-    "개발도구"
-   ]
-  },
-  {
-   "id": "3fd5d1ee6f931a84",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
-   "source": "The Verge",
-   "title": "Sam Altman addresses RAM comments: people should ‘put as much as they want in their computers’",
-   "published_at": "2026-11-04T14:46:01+00:00",
-   "collected_at": "2026-11-04T17:04:22.215477+00:00",
-   "title_ko": "샘 알트먼, PC 램 용량 관련 발언 해명 및 '램 알트먼'으로 개명",
-   "summary_ko": "오픈AI CEO 샘 알트먼이 PC 메모리 관련 발언을 해명하며 사용자가 원하는 만큼 램을 탑재해야 한다고 강조했습니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "반도체"
    ]
   }
  ]
