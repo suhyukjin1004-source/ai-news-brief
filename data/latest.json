@@ -1,8 +1,37 @@
 {
- "updated_at": "2026-11-07T16:18:30.346008+00:00",
+ "updated_at": "2026-11-07T20:48:41.938573+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "c21bce866fdd3204",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqfekg/betelgeuse_running_deepseek_v41_flash_q8_xl_1017/",
+   "source": "r/LocalLLaMA",
+   "title": "Betelgeuse running DeepSeek V4.1 Flash Q8_XL (1017) at 19 tok/s decode & 62 tok/s prefill on an RTX 3060 12GB + 16GB RAM: How we finally fixed the prefill bottleneck on out-of-core MoEs",
+   "published_at": "2026-11-07T19:58:54+00:00",
+   "collected_at": "2026-11-07T20:48:18.505499+00:00",
+   "title_ko": "RTX 3060에서 딥시크 V4.1 플래시 구동 성공",
+   "summary_ko": "하이브리드 MoE 모델의 프리필 병목 현상을 해결하여 저사양 하드웨어에서도 대형 모델을 쓸 수 있게 되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "ad80ae24c0a0f8f7",
+   "url": "https://news.hada.io/topic?id=36771&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "대학 도서관에 몰려드는 AI 봇, 공공 접근권을 위협하다",
+   "published_at": "2026-11-07T19:33:14+00:00",
+   "collected_at": "2026-11-07T20:48:33.302327+00:00",
+   "title_ko": "대학 도서관을 마비시키는 AI 학습용 스크래핑 봇",
+   "summary_ko": "무분별한 데이터 수집 봇으로 인해 대학 도서관 사이트가 느려지거나 다운되는 등 공공 접근권이 위협받고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "규제"
+   ]
+  },
   {
    "id": "41f759962cafdff0",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217134",
@@ -17,6 +46,21 @@
     "OpenAI",
     "Anthropic",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "45f10396c4ff1d08",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqd058/use_your_phone_to_monitor_anything_with_local/",
+   "source": "r/LocalLLaMA",
+   "title": "Use your phone to monitor anything with local models! Demo of my Open Source and 100% local agent (iOS and Android!)",
+   "published_at": "2026-11-07T18:16:41+00:00",
+   "collected_at": "2026-11-07T20:48:18.505499+00:00",
+   "title_ko": "스마트폰으로 무엇이든 모니터링하는 로컬 AI 에이전트",
+   "summary_ko": "스마트폰에서 로컬 모델을 구동해 주변 상황을 감시하고 알림을 보내주는 오픈소스 에이전트가 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
    ]
   },
   {
@@ -36,6 +80,87 @@
    ]
   },
   {
+   "id": "1eeaf5457cb1a01a",
+   "url": "https://hunch.net/?p=13764006",
+   "source": "Hacker News",
+   "title": "The end of Microsoft Research's AI Frontiers group",
+   "published_at": "2026-11-07T18:02:17+00:00",
+   "collected_at": "2026-11-07T20:48:16.663573+00:00",
+   "title_ko": "마이크로소프트 연구소 AI 프론티어스 그룹 해체",
+   "summary_ko": "마이크로소프트가 AI 연구 조직 내 주요 그룹을 해체하며 연구 방향에 변화를 주고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "Meta"
+   ]
+  },
+  {
+   "id": "3cef9eceb8444768",
+   "url": "https://news.hada.io/topic?id=36768&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Unitree 공장을 둘러본 뒤, 서구의 전망을 더 낙관하게 됐다",
+   "published_at": "2026-11-07T17:49:45+00:00",
+   "collected_at": "2026-11-07T20:48:33.302327+00:00",
+   "title_ko": "유니트리 공장 방문으로 본 로봇 제조의 현실",
+   "summary_ko": "중국 로봇 생산 현장의 수작업 중심 공정과 자동화의 한계를 분석하며 서구권의 기회를 조명합니다.",
+   "category": "참고",
+   "tags": [
+    "로보틱스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "06dc0cb019e81855",
+   "url": "https://news.hada.io/topic?id=36767&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Chomsky와 통계적 학습의 두 문화(2011)",
+   "published_at": "2026-11-07T17:46:45+00:00",
+   "collected_at": "2026-11-07T20:48:33.302327+00:00",
+   "title_ko": "촘스키 이론과 통계적 언어 모델의 상관관계",
+   "summary_ko": "통계적 학습 모델의 예측 성능과 과학적 이해가 어떻게 상호 보완될 수 있는지 다룹니다.",
+   "category": "참고",
+   "tags": []
+  },
+  {
+   "id": "f7fffb994d85a607",
+   "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+   "source": "Hacker News",
+   "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+   "published_at": "2026-11-07T17:19:00+00:00",
+   "collected_at": "2026-11-07T20:48:16.663573+00:00",
+   "title_ko": "AI 모델 벤치마크 신뢰성 검증 도구 맥스벤치",
+   "summary_ko": "높은 AI 벤치마크 점수의 실제 진위 여부를 검증하기 위한 새로운 연구 프로젝트가 공개되었습니다.",
+   "category": "참고",
+   "tags": []
+  },
+  {
+   "id": "c11fbcc8a02ef83a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqbjbf/also_experienced_the_qwen38flashnext_url_issue/",
+   "source": "r/LocalLLaMA",
+   "title": "Also experienced the Qwen3.8-Flash-Next URL issue",
+   "published_at": "2026-11-07T17:15:04+00:00",
+   "collected_at": "2026-11-07T20:48:18.505499+00:00",
+   "title_ko": "큐원 플래시 모델의 외부 URL 호출 이슈",
+   "summary_ko": "로컬에서 구동되는 일부 모델이 예기치 않게 외부 API 키나 URL을 탐색하는 현상이 보고되어 주의가 요구됩니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "5f5203941f4a93e5",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqbesv/effects_of_kv_cache_quantization_on_qwen38_27b/",
+   "source": "r/LocalLLaMA",
+   "title": "Effects of KV Cache Quantization on Qwen3.8 27B",
+   "published_at": "2026-11-07T17:09:51+00:00",
+   "collected_at": "2026-11-07T20:48:18.505499+00:00",
+   "title_ko": "KV 캐시 양자화가 큐원 27B 모델에 미치는 영향 분석",
+   "summary_ko": "KV 캐시 양자화 수준이 모델의 출력 분포와 에이전트 성능에 미치는 영향을 KL 다이버전스로 측정했습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
    "id": "b38788af7f1ec462",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217130",
    "source": "AI타임스",
@@ -49,6 +174,49 @@
     "규제",
     "NVIDIA",
     "투자"
+   ]
+  },
+  {
+   "id": "ff3157333926ac10",
+   "url": "https://news.hada.io/topic?id=36766&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "민주당, SpaceXAI와 META, Apple에 대한 의회 조사 착수",
+   "published_at": "2026-11-07T16:37:56+00:00",
+   "collected_at": "2026-11-07T20:48:33.302327+00:00",
+   "title_ko": "미 의회, 주요 AI·테크 기업 대상 조사 착수",
+   "summary_ko": "미국 민주당이 SpaceX, AI 기업, 메타, 애플 등 주요 빅테크의 지난 2년간 행위에 대한 의회 조사에 돌입했습니다.",
+   "category": "중요",
+   "tags": [
+    "Meta",
+    "규제"
+   ]
+  },
+  {
+   "id": "4d4808f6dbabfab3",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqafp1/testing_qoduck_maybe_qwen4_on_qoder/",
+   "source": "r/LocalLLaMA",
+   "title": "testing Qoduck (Maybe qwen4) on Qoder",
+   "published_at": "2026-11-07T16:28:52+00:00",
+   "collected_at": "2026-11-07T20:48:18.505499+00:00",
+   "title_ko": "Qoder에서 Qoduck 모델 테스트 진행",
+   "summary_ko": "Qoder 플랫폼에서 네이티브 이미지 및 비디오 생성 기능을 갖춘 Qoduck 모델 테스트 소식이 공유되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "5cbaf13d00d8c00a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqacka/llama_moe_cache_run_missed_experts_on_cpu_add/",
+   "source": "r/LocalLLaMA",
+   "title": "llama_moe_cache: run missed experts on CPU, add tuning script by am17an · Pull Request #30966 · ggml-org/llama.cpp",
+   "published_at": "2026-11-07T16:25:06+00:00",
+   "collected_at": "2026-11-07T20:48:18.505499+00:00",
+   "title_ko": "llama.cpp, MoE 오프로딩 속도 개선 기능 추가",
+   "summary_ko": "저 VRAM 사용자들을 위해 CPU에서 실행되지 않은 전문가(expert)를 처리하는 llama_moe_cache 기능이 추가되어 MoE 성능이 크게 향상되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스"
    ]
   },
   {
@@ -68,6 +236,18 @@
    ]
   },
   {
+   "id": "bb9dc983cfcbeb71",
+   "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+   "source": "The Verge",
+   "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+   "published_at": "2026-11-07T15:50:00+00:00",
+   "collected_at": "2026-11-07T20:47:59.967280+00:00",
+   "title_ko": "NYT Cooking AI 어시스턴트 사용 후기",
+   "summary_ko": "요리 추천 AI 어시스턴트가 저녁 메뉴 고민을 해결해 주는 유용함을 보여주는 동시에 실패 사례도 함께 전합니다.",
+   "category": "참고",
+   "tags": []
+  },
+  {
    "id": "a3c57d66c8a9167a",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq9hf6/paper_dspine_draft_in_parallel_condition_through/",
    "source": "r/LocalLLaMA",
@@ -80,6 +260,22 @@
    "tags": [
     "반도체",
     "오픈소스"
+   ]
+  },
+  {
+   "id": "2634a86d9aad18ee",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+   "source": "The Verge",
+   "title": "The US let Nvidia sell chips to an empty office in China",
+   "published_at": "2026-11-07T15:43:45+00:00",
+   "collected_at": "2026-11-07T20:47:59.967280+00:00",
+   "title_ko": "미국, 중국 내 유령 회사에 엔비디아 AI 칩 판매 허가 논란",
+   "summary_ko": "미 상무부와 엔비디아가 H200 AI 칩 수출 승인 기업을 검증하는 과정에서 사무실이 비어있는 중국 유령 회사에 판매를 허용했다는 논란이 제기되었습니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "반도체",
+    "규제"
    ]
   },
   {
@@ -143,6 +339,18 @@
    ]
   },
   {
+   "id": "ac30c3ff268d6e3d",
+   "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+   "source": "The Verge",
+   "title": "AI broke the cybersecurity world. What’s next?",
+   "published_at": "2026-11-07T15:00:00+00:00",
+   "collected_at": "2026-11-07T20:47:59.967280+00:00",
+   "title_ko": "AI가 뒤흔든 사이버 보안 생태계의 현주소",
+   "summary_ko": "사이버 보안 전문가 알렉스 스타모스가 AI 도입 이후 급변한 보안 업계의 혼란과 향후 과제에 대해 논합니다.",
+   "category": "참고",
+   "tags": []
+  },
+  {
    "id": "dd987f6d84d07eb6",
    "url": "https://news.hada.io/topic?id=36759&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
    "source": "GeekNews",
@@ -171,6 +379,20 @@
    "tags": [
     "AI 에이전트",
     "코딩"
+   ]
+  },
+  {
+   "id": "577b367d7a8a9cfd",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq88vc/i_havent_laughed_that_hard_in_a_longtime/",
+   "source": "r/LocalLLaMA",
+   "title": "I haven't laughed that hard in a longtime",
+   "published_at": "2026-11-07T14:55:24+00:00",
+   "collected_at": "2026-11-07T20:48:18.505499+00:00",
+   "title_ko": "로컬 LLM 캐릭터 챗봇의 뛰어난 지능과 유머 감각",
+   "summary_ko": "실리태턴과 연동된 로컬 LLM이 기대 이상의 높은 지능과 뛰어난 유머 감각을 보여주어 사용자들에게 큰 호응을 얻고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
    ]
   },
   {
@@ -525,6 +747,21 @@
    "summary_ko": "대량 자동 발행의 위험을 방지하기 위해 사용자의 직접 검수 단계를 거치도록 설계된 AI 블로그 초안 작성 도구가 나왔다.",
    "category": "팁",
    "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "d8887a09bc5ec1d4",
+   "url": "https://www.anthropic.com/research/components-of-agent-memory",
+   "source": "Hacker News",
+   "title": "The Components of Agent Memory",
+   "published_at": "2026-11-07T06:39:04+00:00",
+   "collected_at": "2026-11-07T20:48:16.663573+00:00",
+   "title_ko": "앤스로픽, AI 에이전트 메모리의 핵심 구성 요소 발표",
+   "summary_ko": "앤스로픽이 AI 에이전트가 효과적으로 기억을 유지하고 활용하기 위한 메모리 구조와 핵심 구성 요소를 연구 발표했습니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
     "AI 에이전트"
    ]
   },
@@ -2724,268 +2961,6 @@
     "LLM",
     "GPT",
     "연구"
-   ]
-  },
-  {
-   "id": "cb762b7ed20864bf",
-   "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
-   "source": "The Verge",
-   "title": "Gemini for Home now plugs into AT&T’s smart security system",
-   "published_at": "2026-11-04T20:23:24+00:00",
-   "collected_at": "2026-11-04T22:34:43.015122+00:00",
-   "title_ko": "Google Gemini, AT&T 스마트 보안 시스템 연동",
-   "summary_ko": "AT&T의 스마트 홈 보안 시스템이 구글 홈 프리미엄과 연동되어 Gemini 기반의 홈 이벤트 요약 및 비디오 기록 검색 기능을 제공합니다.",
-   "category": "속보",
-   "tags": [
-    "Gemini",
-    "Google",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "305dcf01bc119796",
-   "url": "https://www.reddit.com/r/singularity/comments/1xnykbx/ai_data_centers_and_labs_face_a_setback_after/",
-   "source": "r/singularity",
-   "title": "A.I. Data Centers and Labs Face a Setback After Democrats' Win",
-   "published_at": "2026-11-04T20:12:59+00:00",
-   "collected_at": "2026-11-04T22:35:04.533511+00:00",
-   "title_ko": "미국 민주당 승리로 AI 데이터센터 구축 차질 우려",
-   "summary_ko": "미국 민주당의 선거 승리로 인해 주요 AI 데이터센터와 연구소들의 인프라 확장 계획이 정치적 변화로 인해 차질을 빚을 가능성이 제기되고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "규제",
-    "반도체",
-    "투자"
-   ]
-  },
-  {
-   "id": "5ccdc48dfe6ed2f3",
-   "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-   "source": "Hacker News",
-   "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-   "published_at": "2026-11-04T19:55:14+00:00",
-   "collected_at": "2026-11-04T22:34:58.530199+00:00",
-   "title_ko": "퀄컴, 클라우드 AI 100 울트라 가속기 카드 공개",
-   "summary_ko": "퀄컴이 150W 전력 소모와 128GB 메모리를 탑재한 고성능 AI 데이터센터 가속기 카드 'Cloud AI 100 Ultra'를 선보였습니다.",
-   "category": "속보",
-   "tags": [
-    "반도체",
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "831ce9eedb134aff",
-   "url": "https://www.reddit.com/r/singularity/comments/1xny0m0/octoverse_commits_pushes_reach_new_highs_in_2026/",
-   "source": "r/singularity",
-   "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
-   "published_at": "2026-11-04T19:52:16+00:00",
-   "collected_at": "2026-11-04T22:35:04.533511+00:00",
-   "title_ko": "AI 에이전트 도입으로 개발자 커밋 역대 최고치 경신",
-   "summary_ko": "AI 코딩 에이전트의 활용이 보편화되면서 개발 생산성이 높아져 2026년 Octoverse 지표의 커밋과 푸시 활동이 사상 최고치를 기록했습니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "49cf82dfae3508cd",
-   "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-   "source": "TechCrunch",
-   "title": "Open source AI is booming. Hugging Face explains who profits.",
-   "published_at": "2026-11-04T19:30:04+00:00",
-   "collected_at": "2026-11-04T22:34:42.820186+00:00",
-   "title_ko": "오픈소스 AI 생태계의 급성장과 비즈니스 모델 분석",
-   "summary_ko": "기업과 정부의 오픈소스 AI 채택이 늘어나는 가운데, 허깅페이스를 중심으로 오픈소스 AI 시장의 수익 창출 방식과 미·중 경쟁 구도가 조명받고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "Hugging Face"
-   ]
-  },
-  {
-   "id": "f1f26a9d7d87e6a0",
-   "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-   "source": "TechCrunch",
-   "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-   "published_at": "2026-11-04T19:29:52+00:00",
-   "collected_at": "2026-11-04T22:34:42.820186+00:00",
-   "title_ko": "DuckDuckGo, 구글 AI 정책 반발 학교 시장 공략",
-   "summary_ko": "구글의 엄격한 AI 정책에 불만을 품은 교육 기관들을 대상으로 DuckDuckGo가 AI 기능을 끌 수 있는 안전한 검색 대안으로 마케팅을 강화하고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "Google"
-   ]
-  },
-  {
-   "id": "0a0306625539f1da",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnx3cs/ricursiveairipple65bpreview_hugging_face/",
-   "source": "r/LocalLLaMA",
-   "title": "ricursiveAI/Ripple-65B-Preview · Hugging Face",
-   "published_at": "2026-11-04T19:16:16+00:00",
-   "collected_at": "2026-11-04T22:34:59.479898+00:00",
-   "title_ko": "리커시브 AI, 'Ripple-65B Preview' 모델 공개",
-   "summary_ko": "미국의 리커시브 AI가 에이전틱 코딩에 특화된 오픈 웨이트 SOTA 모델인 Ripple-65B Preview를 허깅페이스에 공개했습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "96eddcc208ed19b8",
-   "url": "https://www.ricursive.com/ripple",
-   "source": "Hacker News",
-   "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-   "published_at": "2026-11-04T18:53:29+00:00",
-   "collected_at": "2026-11-04T22:34:58.188590+00:00",
-   "title_ko": "에이전틱 코딩 성능 강화된 Ripple-65B 모델 등장",
-   "summary_ko": "미국 오픈 웨이트 모델인 Ripple-65B Preview가 에이전틱 코딩 분야에서 뛰어난 성능을 입증하며 개발자 커뮤니티의 관심을 받고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "코딩",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "31bba1eca5b3b896",
-   "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-   "source": "MIT Tech Review",
-   "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-   "published_at": "2026-11-04T18:50:55+00:00",
-   "collected_at": "2026-11-04T22:34:55.832331+00:00",
-   "title_ko": "텍사스주 정권 교체로 AI 데이터센터 허브 타격 우려",
-   "summary_ko": "미국 최대 AI 데이터센터 구축 지역인 텍사스에서 민주당이 승리함에 따라, 향후 빅테크의 대규모 인프라 확장 계획이 차질을 빚을 수 있다는 전망이 나옵니다.",
-   "category": "중요",
-   "tags": [
-    "규제",
-    "투자"
-   ]
-  },
-  {
-   "id": "f6541d3d11d594cb",
-   "url": "https://www.reddit.com/r/singularity/comments/1xnwetn/ricursive_intelligence_released_their_first_llm/",
-   "source": "r/singularity",
-   "title": "Ricursive Intelligence released their first LLM: Ripple-65B Preview, a 65B dense model.",
-   "published_at": "2026-11-04T18:50:10+00:00",
-   "collected_at": "2026-11-04T22:35:04.533511+00:00",
-   "title_ko": "Ricursive Intelligence, 첫 오픈웨이트 LLM 'Ripple-65B' 공개",
-   "summary_ko": "65B 규모의 Ripple-65B Preview가 에이전틱 코딩 작업에서 기존 대형 모델들을 능가하는 성능을 기록하며 미국 오픈웨이트 모델의 새로운 기준을 세웠습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "42af486580e7c7d6",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-   "source": "The Verge",
-   "title": "Nothing teases a screen-free AI device ahead of launch next month",
-   "published_at": "2026-11-04T18:26:07+00:00",
-   "collected_at": "2026-11-04T22:34:43.015122+00:00",
-   "title_ko": "Nothing, 다음 달 화면 없는 AI 디바이스 출시 예고",
-   "summary_ko": "Nothing CEO 칼 페이가 12월 첫 번째 AI 네이티브 기기를 출시할 것이라고 밝혔습니다.",
-   "category": "속보",
-   "tags": [
-    "하드웨어",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "a69018cf343656fb",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216984",
-   "source": "AI타임스",
-   "title": "앤트로픽 \"RSI 가속에 AI 안전 대책 뒤처질 수도\"…통제 강화 검토",
-   "published_at": "2026-11-04T18:24:21+00:00",
-   "collected_at": "2026-11-04T17:04:52.380189+00:00",
-   "title_ko": "앤트로픽, AI 자기개선 가속에 따른 안전 통제 강화 검토",
-   "summary_ko": "앤트로픽이 AI 연구개발 속도가 안전 대책을 앞지를 수 있음을 경고하며 인간의 감독 체계 강화를 검토하고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "규제",
-    "AI 안전"
-   ]
-  },
-  {
-   "id": "782ec364b7e8faa2",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnvbxn/new_qwen38flashnext_unsloth_dynamic_v31_ggufs/",
-   "source": "r/LocalLLaMA",
-   "title": "New Qwen3.8-Flash-Next Unsloth Dynamic V3.1 GGUFs",
-   "published_at": "2026-11-04T18:08:58+00:00",
-   "collected_at": "2026-11-04T22:34:59.479898+00:00",
-   "title_ko": "Unsloth, Qwen3.8-Flash-Next GGUF V3.1 업데이트 배포",
-   "summary_ko": "향상된 정확도와 새로운 인그램 스위칭 프로세스를 지원하는 Qwen3.8-Flash-Next GGUF 업데이트가 공개되었습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "LocalLLaMA"
-   ]
-  },
-  {
-   "id": "7e4e52b6efb8d2a8",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216989",
-   "source": "AI타임스",
-   "title": "오픈AI, AI로 하드웨어 설계 일주일 만에 완료…실제 시제품 제작",
-   "published_at": "2026-11-04T18:07:03+00:00",
-   "collected_at": "2026-11-04T17:04:52.380189+00:00",
-   "title_ko": "오픈AI, AI 활용한 하드웨어 설계 및 시제품 제작 가속",
-   "summary_ko": "오픈AI가 AI 모델을 이용해 기계 및 전기 공학 설계를 일주일 만에 완료하고 실제 시제품까지 제작했다고 밝혔습니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "GPT",
-    "반도체"
-   ]
-  },
-  {
-   "id": "6891696913b327b9",
-   "url": "https://www.reddit.com/r/singularity/comments/1xnv4nu/the_control_problem_vs_the_tech_billionaires/",
-   "source": "r/singularity",
-   "title": "The control problem vs the tech billionaires",
-   "published_at": "2026-11-04T18:01:13+00:00",
-   "collected_at": "2026-11-04T22:35:04.533511+00:00",
-   "title_ko": "초지능(ASI) 도래와 통제 불가능성에 대한 고찰",
-   "summary_ko": "테크 재벌들이 초지능을 통제할 수 있을 것이라는 통념과 달리, 초지능이 오히려 인간 권력 구조를 넘어설 수 있다는 주장에 대한 논쟁입니다.",
-   "category": "참고",
-   "tags": [
-    "AGI",
-    "규제"
-   ]
-  },
-  {
-   "id": "0ded2053c0deea80",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-   "source": "The Verge",
-   "title": "ChatGPT will now make you animated GIFs",
-   "published_at": "2026-11-04T18:00:00+00:00",
-   "collected_at": "2026-11-04T22:34:43.015122+00:00",
-   "title_ko": "ChatGPT, 프롬프트로 애니메이션 GIF 생성 기능 추가",
-   "summary_ko": "OpenAI의 새로운 Images 2.6 모델과 함께 챗GPT에서 직접 GIF를 생성하고 속도 조절 및 프레임 편집을 할 수 있게 되었습니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "ChatGPT"
-   ]
-  },
-  {
-   "id": "e2b9995569352134",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217019",
-   "source": "AI타임스",
-   "title": "\"AI에 일 맡길수록 감독 능력도 퇴화\"…앤트로픽 엔지니어 경고",
-   "published_at": "2026-11-04T18:00:00+00:00",
-   "collected_at": "2026-11-04T17:04:52.380189+00:00",
-   "title_ko": "AI 의존 심화에 따른 인간의 검증 능력 퇴화 경고",
-   "summary_ko": "AI 에이전트가 업무를 대신하면서 인간이 비판적 사고와 검증 능력을 잃게 되는 '감독의 역설'이 우려되고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "Anthropic",
-    "AI 에이전트",
-    "코딩"
    ]
   }
  ]
