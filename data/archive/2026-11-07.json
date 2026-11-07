@@ -77,6 +77,21 @@
   ]
  },
  {
+  "id": "d55678175dac9d2a",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=217114",
+  "source": "AI타임스",
+  "title": "예진, 한국어 특화 8B AI 모델 공개…사전학습부터 독자 개발",
+  "published_at": "2026-11-07T09:55:00+00:00",
+  "collected_at": "2026-11-07T09:55:29.085734+00:00",
+  "title_ko": "예진, 독자 개발 한국어 특화 8B AI 모델 공개",
+  "summary_ko": "국내 AI 기업 예진이 오픈소스 가중치를 쓰지 않고 사전학습부터 독자 구축한 한국어 특화 파운데이션 모델을 선보였다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "NVIDIA"
+  ]
+ },
+ {
   "id": "39c0404b243a39d4",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=217120",
   "source": "AI타임스",
@@ -104,6 +119,123 @@
   "tags": [
    "Anthropic",
    "투자"
+  ]
+ },
+ {
+  "id": "d5511845e92ca486",
+  "url": "https://news.hada.io/topic?id=36742&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Software Line Specialist - AI 에이전트가 해결하지 못한 코드 문제를 고치는 개발자",
+  "published_at": "2026-11-07T09:01:20+00:00",
+  "collected_at": "2026-11-07T09:55:30.440478+00:00",
+  "title_ko": "AI가 해결하지 못한 코딩 문제를 다루는 엔지니어 채용",
+  "summary_ko": "AI 우선 방식으로 운영되는 기업에서 프롬프트가 통하지 않는 복잡한 코드 문제를 직접 해결할 시니어 개발자를 구인하고 있다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "07d818390a9f9232",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq1y0y/paper_d3d_decoupled_diffusion_drafting_for/",
+  "source": "r/LocalLLaMA",
+  "title": "[Paper] D3D: Decoupled Diffusion Drafting for Asynchronous Speculative Decoding",
+  "published_at": "2026-11-07T09:00:23+00:00",
+  "collected_at": "2026-11-07T09:55:15.835988+00:00",
+  "title_ko": "비동기 추측 디코딩을 위한 확산 모델 'D3D' 소개",
+  "summary_ko": "타겟 모델의 숨겨진 상태 의존성을 제거해 병렬로 후보 토큰을 생성할 수 있는 새로운 확산 드래프터 기술이 공개됐다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "a6e02622cc9fb599",
+  "url": "https://news.hada.io/topic?id=36741&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Show GN: 그레이아이 - 검수를 거쳐야 발행이 열리는 네이버·티스토리용 AI 블로그 초안 도구",
+  "published_at": "2026-11-07T08:10:27+00:00",
+  "collected_at": "2026-11-07T09:55:30.440478+00:00",
+  "title_ko": "사람 검수 거치는 네이버·티스토리용 AI 블로그 도구 출시",
+  "summary_ko": "대량 자동 발행의 위험을 방지하기 위해 사용자의 직접 검수 단계를 거치도록 설계된 AI 블로그 초안 작성 도구가 나왔다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "da31c9f4428d8576",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpysba/plamo_3_translate_a_pfnet_collection/",
+  "source": "r/LocalLLaMA",
+  "title": "PLaMo 3 Translate - a pfnet Collection",
+  "published_at": "2026-11-07T05:43:41+00:00",
+  "collected_at": "2026-11-07T09:55:15.835988+00:00",
+  "title_ko": "번역 특화 LLM 'PLaMo 3 Translate' 오픈소스 공개",
+  "summary_ko": "다양한 크기로 출시된 PLaMo 3 번역 모델이 정교한 데이터 정제 기법을 바탕으로 뛰어난 일-영 번역 성능을 입증했다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "25a6dfec2ac419ba",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpxfob/another_benchmark_has_hit_the_quant_war/",
+  "source": "r/LocalLLaMA",
+  "title": "Another benchmark has hit the quant war",
+  "published_at": "2026-11-07T04:28:19+00:00",
+  "collected_at": "2026-11-07T09:55:15.835988+00:00",
+  "title_ko": "양자화 모델 벤치마크 신뢰성 논란",
+  "summary_ko": "일부 양자화 모델 개발사의 벤치마크 수치를 재현하기 어렵다는 비판이 제기되며 커뮤니티 내 성능 검증 공방이 이어지고 있다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "80e768f730e8f681",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpx0on/good_luck_getting_a_cheap_gpu_amd_is_a_data/",
+  "source": "r/LocalLLaMA",
+  "title": "Good Luck Getting a Cheap GPU. AMD Is a 'Data Center First Company,' CEO Says",
+  "published_at": "2026-11-07T04:05:32+00:00",
+  "collected_at": "2026-11-07T09:55:15.835988+00:00",
+  "title_ko": "AMD CEO \"데이터 센터 중심 기업으로 전환\"",
+  "summary_ko": "AMD가 저렴한 GPU 공급보다는 데이터 센터 시장에 집중하겠다는 방침을 재확인했다.",
+  "category": "중요",
+  "tags": [
+   "반도체"
+  ]
+ },
+ {
+  "id": "f6fe9341e1d57f8b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpvfx8/harness_leaderboard_kimi_code_hermes_pi_claude/",
+  "source": "r/LocalLLaMA",
+  "title": "Harness Leaderboard - Kimi Code, Hermes, Pi, Claude Code, Codex, and Others Were Benchmarked Against Terminal Bench 2.1 & Deep SWE 1.1",
+  "published_at": "2026-11-07T02:41:59+00:00",
+  "collected_at": "2026-11-07T09:55:15.835988+00:00",
+  "title_ko": "터미널 및 코딩 에이전트 벤치마크 리더보드 공개",
+  "summary_ko": "Kimi Code, Claude Code 등 주요 코딩 AI 에이전트들을 최신 벤치마크로 비교한 결과가 공개되었다.",
+  "category": "참고",
+  "tags": [
+   "Claude",
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "0387e5af4e8cdc23",
+  "url": "https://news.hada.io/topic?id=36737&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Show GN: Heirmos – Claude Code와 Codex가 같은 기억을 쓰게 하는 플러그인",
+  "published_at": "2026-11-07T02:40:03+00:00",
+  "collected_at": "2026-11-07T09:55:30.440478+00:00",
+  "title_ko": "코딩 에이전트 간 기억을 공유하는 Heirmos 플러그인",
+  "summary_ko": "Claude Code와 Codex 등 서로 다른 코딩 에이전트가 이전 세션의 규칙과 결정을 공유할 수 있도록 지원하는 기억 레이어 플러그인입니다. 반복적인 설명 없이 일관된 개발 작업을 돕기 때문에 유용합니다.",
+  "category": "팁",
+  "tags": [
+   "Claude",
+   "AI 에이전트",
+   "코딩"
   ]
  },
  {
@@ -135,6 +267,21 @@
    "코딩",
    "AI 에이전트",
    "오픈소스"
+  ]
+ },
+ {
+  "id": "f38a17de3acfd349",
+  "url": "https://josef.cn/blog/unitree",
+  "source": "Hacker News",
+  "title": "I toured Unitree's factory. I'm more bullish on the West",
+  "published_at": "2026-11-07T01:05:16+00:00",
+  "collected_at": "2026-11-07T09:54:49.780239+00:00",
+  "title_ko": "유니트리 공장 방문기 및 로보틱스 동향",
+  "summary_ko": "휴머노이드 로봇 제조사 유니트리의 공장을 방문한 소감과 서구권 로보틱스 산업의 경쟁력에 대한 분석 기사입니다. AI와 결합된 휴머노이드 로봇 시장의 판도를 가늠하는 데 도움이 됩니다.",
+  "category": "참고",
+  "tags": [
+   "로보틱스",
+   "AI 에이전트"
   ]
  },
  {
