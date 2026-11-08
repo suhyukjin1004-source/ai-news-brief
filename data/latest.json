@@ -1,8 +1,149 @@
 {
- "updated_at": "2026-11-08T07:11:05.430359+00:00",
+ "updated_at": "2026-11-08T15:00:15.913796+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "eeaa5312bd50c756",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217147",
+   "source": "AI타임스",
+   "title": "과학자들은 AI를 어떻게 쓸까…앤트로픽 \"데이터 분석 1위, 가설 생성 4%\"",
+   "published_at": "2026-11-08T18:14:24+00:00",
+   "collected_at": "2026-11-08T15:00:02.354702+00:00",
+   "title_ko": "과학 연구 속 AI 활용: 데이터 분석에 집중, 가설 생성은 저조",
+   "summary_ko": "앤트로픽 보고서에 따르면 과학자들이 AI를 데이터 분석과 논문 작성에 주로 사용하는 반면, 가장 중요한 가설 생성에는 4%만 활용하고 있는 것으로 나타났습니다.",
+   "category": "참고",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "9712b935bc86d3fd",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr09nq/does_censorship_exist_in_country_according_to/",
+   "source": "r/LocalLLaMA",
+   "title": "\"Does censorship exist in [country]?\", according to various LLMs",
+   "published_at": "2026-11-08T14:56:07+00:00",
+   "collected_at": "2026-11-08T14:59:56.411477+00:00",
+   "title_ko": "LLM의 국가별 검열 성향을 시각화하는 오픈소스 도구",
+   "summary_ko": "다양한 대형언어모델(LLM)에 국가별 검열 여부를 묻고 그 응답을 세계 지도 SVG로 시각화해 주는 프로그램이 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "규제"
+   ]
+  },
+  {
+   "id": "9e3f0a6d42b78d1f",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr01bj/users_have_started_buying_rtx_5060_ti_16gb/",
+   "source": "r/LocalLLaMA",
+   "title": "Users have started buying RTX 5060 Ti 16GB graphics cards en masse for the sake of AI.",
+   "published_at": "2026-11-08T14:45:22+00:00",
+   "collected_at": "2026-11-08T14:59:56.411477+00:00",
+   "title_ko": "Users have started buying RTX 5060 Ti 16GB graphics cards en masse for the sake of AI.",
+   "summary_ko": "로컬 AI 구동을 선호하는 사용자들 사이에서 가성비와 VRAM 용량을 갖춘 RTX 5060 Ti 16GB 그래픽카드가 대량으로 팔리고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "반도체",
+    "NVIDIA",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "d6cb4dd266626ace",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqzt4r/proposal_uncensoring_loras/",
+   "source": "r/LocalLLaMA",
+   "title": "Proposal: uncensoring LoRAs",
+   "published_at": "2026-11-08T14:34:49+00:00",
+   "collected_at": "2026-11-08T14:59:56.411477+00:00",
+   "title_ko": "모델 전체 대신 LoRA로 검열 해제 모델 배포 제안",
+   "summary_ko": "허깅페이스에 무수히 올라오는 검열 해제 모델 대신 가벼운 LoRA 가중치만 배포하고 공유하는 방안이 효율적인 대안으로 제시되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "b31bc6a159557c11",
+   "url": "https://www.reddit.com/r/singularity/comments/1xqzpba/deepminds_vp_of_science_teases_a_phase_transition/",
+   "source": "r/singularity",
+   "title": "DeepMind’s VP of Science teases a \"phase transition\" in scientific discovery. What could it be?",
+   "published_at": "2026-11-08T14:29:57+00:00",
+   "collected_at": "2026-11-08T15:00:01.331142+00:00",
+   "title_ko": "구글 딥마인드, 과학적 발견의 '상전이' 예고",
+   "summary_ko": "딥마인드 과학 담당 부사장이 과학적 발견 분야에서 커다란 변화가 다가오고 있음을 시사해 기대를 모으고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "Google",
+    "신약개발",
+    "재료과학"
+   ]
+  },
+  {
+   "id": "77dacece726fca9c",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqxqvw/2x256gb_m5u_current_status/",
+   "source": "r/LocalLLaMA",
+   "title": "2x256gb M5U: current status",
+   "published_at": "2026-11-08T12:52:59+00:00",
+   "collected_at": "2026-11-08T14:59:56.411477+00:00",
+   "title_ko": "로컬 LLM 클러스터링 현황: 개별 모델 분산 구동이 더 유리",
+   "summary_ko": "여러 하드웨어를 묶는 클러스터링 기술보다는 고성능 모델들을 각각 별도로 구동하는 것이 성능과 효율 면에서 더 낫다는 실사용 후기가 공유되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "9041574401e5e0e6",
+   "url": "https://news.hada.io/topic?id=36811&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Show GN: Boxdawn guard - Claude Code가 위험한 명령을 실행하기 전에 판정하는 플러그인",
+   "published_at": "2026-11-08T12:48:27+00:00",
+   "collected_at": "2026-11-08T15:00:03.558725+00:00",
+   "title_ko": "Claude Code의 위험한 명령어 실행을 막는 보안 플러그인",
+   "summary_ko": "Claude Code가 파괴적인 터미널 명령어나 민감 파일 유출을 유발하는 작업을 수행하기 전에 미리 검사하고 차단해 주는 플러그인이 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "Anthropic",
+    "코딩",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "321763df5196d624",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqwqak/ask_localllama_how_are_you_handling_the_liability/",
+   "source": "r/LocalLLaMA",
+   "title": "Ask LocalLLaMA: How are you handling the liability caused by unrestricted search?",
+   "published_at": "2026-11-08T11:54:25+00:00",
+   "collected_at": "2026-11-08T14:59:56.411477+00:00",
+   "title_ko": "로컬 LLM의 무분별한 웹 검색 기능이 초래하는 보안 리스크",
+   "summary_ko": "사용자의 인터넷 연결을 이용해 LLM이 임의로 웹을 검색할 때 발생할 수 있는 법적·보안적 위험과 그 대응 방안에 대한 논의가 이어지고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "LLM",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "5e7e7af63f4d20a1",
+   "url": "https://news.hada.io/topic?id=36806&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Google, 와이오밍주 남동부의 Crusoe 데이터센터 부지 인수",
+   "published_at": "2026-11-08T11:32:31+00:00",
+   "collected_at": "2026-11-08T15:00:03.558725+00:00",
+   "title_ko": "구글, AI 인프라 확장을 위해 와이오밍주 데이터센터 부지 인수",
+   "summary_ko": "구글이 급증하는 AI 전력 및 인프라 수요에 대응하기 위해 Crusoe의 와이오밍주 데이터센터 부지를 인수하고 하이브리드 전력 전략을 추진합니다.",
+   "category": "중요",
+   "tags": [
+    "Google",
+    "반도체",
+    "투자"
+   ]
+  },
   {
    "id": "1d0370895e861c80",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217144",
@@ -31,6 +172,21 @@
    "category": "속보",
    "tags": [
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "5f5f3a71049bbf5f",
+   "url": "https://news.hada.io/topic?id=36805&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Show GN: 라플라스의 가위 - LLM을 재학습하지 않고, 출력 가중치만 안전하게 수정.",
+   "published_at": "2026-11-08T10:58:38+00:00",
+   "collected_at": "2026-11-08T15:00:03.558725+00:00",
+   "title_ko": "LLM 재학습 없이 출력 가중치만 수정하는 '라플라스의 가위' 도구",
+   "summary_ko": "모델을 처음부터 다시 학습시키지 않고도 출력 가중치의 방향을 조절해 기존 성능을 유지하면서 답변 성향을 안전하게 바꿀 수 있는 도구가 소개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
    ]
   },
   {
@@ -509,6 +665,21 @@
    "tags": [
     "OpenAI",
     "Anthropic",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "c63061c875eca1df",
+   "url": "https://www.reddit.com/r/singularity/comments/1xqdfmc/cainiao_opens_its_global_warehouse_network_as_a/",
+   "source": "r/singularity",
+   "title": "Cainiao Opens Its Global Warehouse Network as a Real-World Training Ground for Embodied AI",
+   "published_at": "2026-11-07T18:34:38+00:00",
+   "collected_at": "2026-11-08T15:00:01.331142+00:00",
+   "title_ko": "차이나오, 글로벌 물류창고를 체화형 AI 훈련장으로 개방",
+   "summary_ko": "물류 기업 차이나오가 실제 창고 네트워크를 체화형 AI(Embodied AI) 학습을 위한 공간으로 개방했습니다. 로보틱스와 물류 자동화의 실증 연구 가속화에 중요한 역할을 할 것으로 기대됩니다.",
+   "category": "중요",
+   "tags": [
+    "로보틱스",
     "AI 에이전트"
    ]
   },
@@ -1198,6 +1369,20 @@
    "category": "참고",
    "tags": [
     "오픈소스"
+   ]
+  },
+  {
+   "id": "b3b9d6d1671493a0",
+   "url": "https://www.reddit.com/r/singularity/comments/1xq18t4/dwarkesh_spent_20k_in_api_credits_having/",
+   "source": "r/singularity",
+   "title": "Dwarkesh spent 20K in API credits having different AI models play each other at Blood on the Clocktower (a Mafia or Werewolf type social deception game).",
+   "published_at": "2026-11-07T08:14:10+00:00",
+   "collected_at": "2026-11-08T15:00:01.331142+00:00",
+   "title_ko": "AI 모델 간 사회적 기만 게임 대결 실험 진행",
+   "summary_ko": "유명 크리에이터가 API 크레딧을 소모해 여러 AI 모델이 마피아 게임(Blood on the Clocktower)을 서로 플레이하도록 실험했습니다. AI의 전략적 사고와 상호작용 능력을 보여주는 사례입니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트"
    ]
   },
   {
@@ -2796,176 +2981,6 @@
    "tags": [
     "오픈소스",
     "AI 에이전트"
-   ]
-  },
-  {
-   "id": "e3a1934e0beeaa93",
-   "url": "https://news.hada.io/topic?id=36684&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "AI로 부활하는 해킨토시",
-   "published_at": "2026-11-06T00:39:03+00:00",
-   "collected_at": "2026-11-06T01:28:51.579762+00:00",
-   "title_ko": "AI 통합으로 확장되는 해킨토시 생태계",
-   "summary_ko": "macOS의 x86 지원 종료 이후, AI 도구를 활용한 개발 활동이 급증하며 비애플 하드웨어에서의 구동 사례가 늘고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "코딩"
-   ]
-  },
-  {
-   "id": "b53db0f7184a4acc",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-   "source": "The Verge",
-   "title": "OpenAI is stepping back from NDAs for data center projects",
-   "published_at": "2026-11-06T00:37:56+00:00",
-   "collected_at": "2026-11-06T01:28:21.471056+00:00",
-   "title_ko": "OpenAI, 데이터센터 사업 공공 협약서 비공개 각서 철회",
-   "summary_ko": "주민 반발에 직면한 OpenAI가 데이터센터 프로젝트에서 공무원과의 비공개 각서(NDA)를 사용하지 않겠다고 발표했습니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "규제"
-   ]
-  },
-  {
-   "id": "781708c5adfef69d",
-   "url": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’",
-   "source": "Hacker News",
-   "title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation",
-   "published_at": "2026-11-06T00:31:11+00:00",
-   "collected_at": "2026-11-06T09:15:25.858046+00:00",
-   "title_ko": "앤스로픽 IPO의 1조 5천억 달러 가치 평가 회의론",
-   "summary_ko": "주요 투자자들이 앤스로픽의 기업공개(IPO)에서 1조 5천억 달러 규모의 가치 평가를 달성할 수 있을지에 대해 회의적인 시각을 보이고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "투자"
-   ]
-  },
-  {
-   "id": "6a3b2218bae1a2f9",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoz0w4/inkling_2_small_594ba17b_announcement_open/",
-   "source": "r/LocalLLaMA",
-   "title": "Inkling 2 Small (594B-A17B) Announcement; Open Weights Releasing Next Week",
-   "published_at": "2026-11-06T00:30:00+00:00",
-   "collected_at": "2026-11-06T01:28:36.938915+00:00",
-   "title_ko": "Inkling 2 Small 소형 모델 가중치 공개 예정",
-   "summary_ko": "Inkling 2 Small 모델의 오픈 웨이트가 다음 주에 공개될 예정입니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "6b0756040f664266",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoz01k/inkling_2_small_released/",
-   "source": "r/LocalLLaMA",
-   "title": "Inkling 2 Small released",
-   "published_at": "2026-11-06T00:28:53+00:00",
-   "collected_at": "2026-11-06T01:28:36.938915+00:00",
-   "title_ko": "Inkling 2 Small 모델 출시",
-   "summary_ko": "소형 언어 모델인 Inkling 2 Small이 새롭게 출시되었습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "725579ace26daf96",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoyr90/cpython_0day_vulnerabilities_threaten_the_ai/",
-   "source": "r/LocalLLaMA",
-   "title": "CPython 0-Day Vulnerabilities Threaten the AI Supply Chain",
-   "published_at": "2026-11-06T00:17:41+00:00",
-   "collected_at": "2026-11-06T09:15:26.741393+00:00",
-   "title_ko": "AI 공급망을 위협하는 CPython 제로데이 취약점",
-   "summary_ko": "CPython, 진자(Jinja), 허깅페이스 등 AI 생태계 전반에 영향을 미치는 취약점이 아직 수정되지 않아 주의가 요구됩니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "0802c2aa0040da83",
-   "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
-   "source": "The Verge",
-   "title": "Airbnb is working on an AI travel agent",
-   "published_at": "2026-11-06T00:06:12+00:00",
-   "collected_at": "2026-11-06T01:28:21.471056+00:00",
-   "title_ko": "에어비앤비, AI 여행 에이전트 개발 중",
-   "summary_ko": "에어비앤비가 사용자의 여행 계획과 예약을 돕는 AI 에이전트를 2027 상반기에 출시할 계획입니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "7486a9a8c5dfbdf5",
-   "url": "https://thinkingmachines.ai/news/inkling-2-small/",
-   "source": "Hacker News",
-   "title": "Inkling 2 Small",
-   "published_at": "2026-11-06T00:00:24+00:00",
-   "collected_at": "2026-11-06T09:15:14.109151+00:00",
-   "title_ko": "Thinking Machines, Inkling 2 Small 공개",
-   "summary_ko": "Thinking Machines에서 소형 AI 모델인 Inkling 2 Small을 새롭게 발표했습니다.",
-   "category": "속보",
-   "tags": []
-  },
-  {
-   "id": "cfd4354afa14004f",
-   "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-   "source": "OpenAI",
-   "title": "Measuring how AI agents handle everyday wet-lab science",
-   "published_at": "2026-11-06T00:00:00+00:00",
-   "collected_at": "2026-11-06T22:59:30.767622+00:00",
-   "title_ko": "오픈에이아이, 습식 실험 과학 처리 능력 측정용 벤치마크 공개",
-   "summary_ko": "오픈에이아이가 AI 에이전트가 실험 데이터를 해석하고 일상적인 습식 실험 과학을 얼마나 잘 다루는지 평가하는 BioBasicsBench를 발표했습니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "82196d4ece0a644e",
-   "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-   "source": "Hugging Face",
-   "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-   "published_at": "2026-11-06T00:00:00+00:00",
-   "collected_at": "2026-11-06T17:24:03.994291+00:00",
-   "title_ko": "오픈 ASR 리더보드에 이집트 및 나이지리아 영어 추가",
-   "summary_ko": "허깅페이스의 오픈 음성인식(ASR) 리더보드에 이집트와 나이지리아 지역 영어가 새롭게 추가되었다. 다양한 지역 방언에 대한 AI 음성 모델 성능 평가가 확대될 전망이다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "2a377c310d1ff27e",
-   "url": "https://news.hada.io/topic?id=36679&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "로봇 촉각 데이터 243만 건 시대, 왜 다른 로봇의 손끝 경험은 그대로 쓸 수 없을까?",
-   "published_at": "2026-11-05T23:49:21+00:00",
-   "collected_at": "2026-11-06T01:28:51.579762+00:00",
-   "title_ko": "로봇 촉각 데이터셋과 표준화 연구",
-   "summary_ko": "대규모 촉각 데이터셋과 인간 경험을 활용한 연구가 발표되었으나, 센서 구조 차이로 인한 데이터 공유의 한계가 지적됩니다.",
-   "category": "참고",
-   "tags": [
-    "로보틱스"
-   ]
-  },
-  {
-   "id": "a53d0f256e24e02f",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoxx4a/qwen3827b_benchmark_6_inference_engines_gguf_vs/",
-   "source": "r/LocalLLaMA",
-   "title": "Qwen3.8-27B Benchmark: 6 Inference Engines, GGUF vs NInfer, 256K Context — Comparing Both Speed AND Quality",
-   "published_at": "2026-11-05T23:39:57+00:00",
-   "collected_at": "2026-11-06T09:15:26.741393+00:00",
-   "title_ko": "Qwen3.8-27B 모델 벤치마크 결과 공개",
-   "summary_ko": "6개의 추론 엔진과 다양한 포맷을 대상으로 Qwen3.8-27B 모델의 속도와 출력 품질, 장문 컨텍스트 성능을 비교한 종합 벤치마크입니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "LLM"
    ]
   }
  ]

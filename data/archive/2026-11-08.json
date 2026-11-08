@@ -1,5 +1,130 @@
 [
  {
+  "id": "9712b935bc86d3fd",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr09nq/does_censorship_exist_in_country_according_to/",
+  "source": "r/LocalLLaMA",
+  "title": "\"Does censorship exist in [country]?\", according to various LLMs",
+  "published_at": "2026-11-08T14:56:07+00:00",
+  "collected_at": "2026-11-08T14:59:56.411477+00:00",
+  "title_ko": "LLM의 국가별 검열 성향을 시각화하는 오픈소스 도구",
+  "summary_ko": "다양한 대형언어모델(LLM)에 국가별 검열 여부를 묻고 그 응답을 세계 지도 SVG로 시각화해 주는 프로그램이 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM",
+   "규제"
+  ]
+ },
+ {
+  "id": "9e3f0a6d42b78d1f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr01bj/users_have_started_buying_rtx_5060_ti_16gb/",
+  "source": "r/LocalLLaMA",
+  "title": "Users have started buying RTX 5060 Ti 16GB graphics cards en masse for the sake of AI.",
+  "published_at": "2026-11-08T14:45:22+00:00",
+  "collected_at": "2026-11-08T14:59:56.411477+00:00",
+  "title_ko": "Users have started buying RTX 5060 Ti 16GB graphics cards en masse for the sake of AI.",
+  "summary_ko": "로컬 AI 구동을 선호하는 사용자들 사이에서 가성비와 VRAM 용량을 갖춘 RTX 5060 Ti 16GB 그래픽카드가 대량으로 팔리고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "NVIDIA",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "d6cb4dd266626ace",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqzt4r/proposal_uncensoring_loras/",
+  "source": "r/LocalLLaMA",
+  "title": "Proposal: uncensoring LoRAs",
+  "published_at": "2026-11-08T14:34:49+00:00",
+  "collected_at": "2026-11-08T14:59:56.411477+00:00",
+  "title_ko": "모델 전체 대신 LoRA로 검열 해제 모델 배포 제안",
+  "summary_ko": "허깅페이스에 무수히 올라오는 검열 해제 모델 대신 가벼운 LoRA 가중치만 배포하고 공유하는 방안이 효율적인 대안으로 제시되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "b31bc6a159557c11",
+  "url": "https://www.reddit.com/r/singularity/comments/1xqzpba/deepminds_vp_of_science_teases_a_phase_transition/",
+  "source": "r/singularity",
+  "title": "DeepMind’s VP of Science teases a \"phase transition\" in scientific discovery. What could it be?",
+  "published_at": "2026-11-08T14:29:57+00:00",
+  "collected_at": "2026-11-08T15:00:01.331142+00:00",
+  "title_ko": "구글 딥마인드, 과학적 발견의 '상전이' 예고",
+  "summary_ko": "딥마인드 과학 담당 부사장이 과학적 발견 분야에서 커다란 변화가 다가오고 있음을 시사해 기대를 모으고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "Google",
+   "신약개발",
+   "재료과학"
+  ]
+ },
+ {
+  "id": "77dacece726fca9c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqxqvw/2x256gb_m5u_current_status/",
+  "source": "r/LocalLLaMA",
+  "title": "2x256gb M5U: current status",
+  "published_at": "2026-11-08T12:52:59+00:00",
+  "collected_at": "2026-11-08T14:59:56.411477+00:00",
+  "title_ko": "로컬 LLM 클러스터링 현황: 개별 모델 분산 구동이 더 유리",
+  "summary_ko": "여러 하드웨어를 묶는 클러스터링 기술보다는 고성능 모델들을 각각 별도로 구동하는 것이 성능과 효율 면에서 더 낫다는 실사용 후기가 공유되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "9041574401e5e0e6",
+  "url": "https://news.hada.io/topic?id=36811&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Show GN: Boxdawn guard - Claude Code가 위험한 명령을 실행하기 전에 판정하는 플러그인",
+  "published_at": "2026-11-08T12:48:27+00:00",
+  "collected_at": "2026-11-08T15:00:03.558725+00:00",
+  "title_ko": "Claude Code의 위험한 명령어 실행을 막는 보안 플러그인",
+  "summary_ko": "Claude Code가 파괴적인 터미널 명령어나 민감 파일 유출을 유발하는 작업을 수행하기 전에 미리 검사하고 차단해 주는 플러그인이 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "Anthropic",
+   "코딩",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "321763df5196d624",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqwqak/ask_localllama_how_are_you_handling_the_liability/",
+  "source": "r/LocalLLaMA",
+  "title": "Ask LocalLLaMA: How are you handling the liability caused by unrestricted search?",
+  "published_at": "2026-11-08T11:54:25+00:00",
+  "collected_at": "2026-11-08T14:59:56.411477+00:00",
+  "title_ko": "로컬 LLM의 무분별한 웹 검색 기능이 초래하는 보안 리스크",
+  "summary_ko": "사용자의 인터넷 연결을 이용해 LLM이 임의로 웹을 검색할 때 발생할 수 있는 법적·보안적 위험과 그 대응 방안에 대한 논의가 이어지고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "5e7e7af63f4d20a1",
+  "url": "https://news.hada.io/topic?id=36806&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Google, 와이오밍주 남동부의 Crusoe 데이터센터 부지 인수",
+  "published_at": "2026-11-08T11:32:31+00:00",
+  "collected_at": "2026-11-08T15:00:03.558725+00:00",
+  "title_ko": "구글, AI 인프라 확장을 위해 와이오밍주 데이터센터 부지 인수",
+  "summary_ko": "구글이 급증하는 AI 전력 및 인프라 수요에 대응하기 위해 Crusoe의 와이오밍주 데이터센터 부지를 인수하고 하이브리드 전력 전략을 추진합니다.",
+  "category": "중요",
+  "tags": [
+   "Google",
+   "반도체",
+   "투자"
+  ]
+ },
+ {
   "id": "1d0370895e861c80",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=217144",
   "source": "AI타임스",
@@ -27,6 +152,21 @@
   "category": "속보",
   "tags": [
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "5f5f3a71049bbf5f",
+  "url": "https://news.hada.io/topic?id=36805&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Show GN: 라플라스의 가위 - LLM을 재학습하지 않고, 출력 가중치만 안전하게 수정.",
+  "published_at": "2026-11-08T10:58:38+00:00",
+  "collected_at": "2026-11-08T15:00:03.558725+00:00",
+  "title_ko": "LLM 재학습 없이 출력 가중치만 수정하는 '라플라스의 가위' 도구",
+  "summary_ko": "모델을 처음부터 다시 학습시키지 않고도 출력 가중치의 방향을 조절해 기존 성능을 유지하면서 답변 성향을 안전하게 바꿀 수 있는 도구가 소개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
   ]
  },
  {
@@ -505,6 +645,21 @@
   "tags": [
    "OpenAI",
    "Anthropic",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "c63061c875eca1df",
+  "url": "https://www.reddit.com/r/singularity/comments/1xqdfmc/cainiao_opens_its_global_warehouse_network_as_a/",
+  "source": "r/singularity",
+  "title": "Cainiao Opens Its Global Warehouse Network as a Real-World Training Ground for Embodied AI",
+  "published_at": "2026-11-07T18:34:38+00:00",
+  "collected_at": "2026-11-08T15:00:01.331142+00:00",
+  "title_ko": "차이나오, 글로벌 물류창고를 체화형 AI 훈련장으로 개방",
+  "summary_ko": "물류 기업 차이나오가 실제 창고 네트워크를 체화형 AI(Embodied AI) 학습을 위한 공간으로 개방했습니다. 로보틱스와 물류 자동화의 실증 연구 가속화에 중요한 역할을 할 것으로 기대됩니다.",
+  "category": "중요",
+  "tags": [
+   "로보틱스",
    "AI 에이전트"
   ]
  },
