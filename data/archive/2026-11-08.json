@@ -1,5 +1,171 @@
 [
  {
+  "id": "f2d3820ff4e10e78",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=217136",
+  "source": "AI타임스",
+  "title": "TSMC, '3D D램' 개발설 사실상 부인…상용화도 먼 길",
+  "published_at": "2026-11-08T09:03:39+00:00",
+  "collected_at": "2026-11-08T00:24:36.889053+00:00",
+  "title_ko": "TSMC, 엔비디아의 3D D램 개발설에 기존 파운드리 집중 선언",
+  "summary_ko": "TSMC가 엔비디아의 요청으로 거론된 '3D D램' 개발설에 대해 기존 파운드리 사업에 집중하겠다는 입장을 밝혔습니다. 상용화까지 수년이 걸려 단기적인 메모리 부족 해결은 어려울 전망입니다.",
+  "category": "중요",
+  "tags": [
+   "TSMC",
+   "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
+  "id": "f97b31a8761e585f",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=217135",
+  "source": "AI타임스",
+  "title": "FT \"미 정보당국, 젠슨 황 CEO와 중국 스파이 의심 인물 연인 관계로 판단\"",
+  "published_at": "2026-11-08T08:52:25+00:00",
+  "collected_at": "2026-11-08T00:24:36.889053+00:00",
+  "title_ko": "미 정보당국, 젠슨 황 CEO와 중국 스파이 연루설 제기",
+  "summary_ko": "미국 정보당국이 젠슨 황 엔비디아 CEO가 중국 스파이로 의심받는 여성 기업인과 연인 관계였다는 문건을 작성한 것으로 알려졌습니다. 미중 기술 패권 경쟁 속에서 엔비디아의 보안 리스크가 주목받고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "규제"
+  ]
+ },
+ {
+  "id": "efbf1ee6336fbf7a",
+  "url": "https://news.hada.io/topic?id=36780&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "MaxxBench - “DeepSWE 점수는 좋네요. 그런데 진짜인가요?”",
+  "published_at": "2026-11-07T23:34:44+00:00",
+  "collected_at": "2026-11-08T00:24:38.409227+00:00",
+  "title_ko": "코딩 에이전트의 진짜 성능을 검증하는 벤치마크 'MaxxBench'",
+  "summary_ko": "MaxxBench는 코딩 에이전트가 익숙한 정답 대신 바뀐 요구사항에 얼마나 적응하는지 평가합니다. 테스트 결과 모델마다 새로운 요구사항을 이해하는 능력에 큰 차이를 보였습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "f58b9eab98f2ef44",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqjenw/anyone_running_local_ai_on_16gb_vram/",
+  "source": "r/LocalLLaMA",
+  "title": "Anyone running local AI on 16GB vram?",
+  "published_at": "2026-11-07T23:00:19+00:00",
+  "collected_at": "2026-11-08T00:24:23.438956+00:00",
+  "title_ko": "16GB VRAM 로컬 환경에서의 AI 에이전트 구동 실험",
+  "summary_ko": "16GB VRAM을 갖춘 로컬 환경에서 도조(helper), 리서치, 개발용 AI 에이전트를 실용적으로 구동하려는 시도와 한계에 대한 개발자들의 논의입니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "b1852909c0c658b9",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqinb7/the_stylome_bot_is_useless_spam_and_should_be/",
+  "source": "r/LocalLLaMA",
+  "title": "The Stylome bot is useless spam and should be removed",
+  "published_at": "2026-11-07T22:24:14+00:00",
+  "collected_at": "2026-11-08T00:24:23.438956+00:00",
+  "title_ko": "로컬 LLM 커뮤니티의 AI 감지 봇 실효성 논란",
+  "summary_ko": "레딧 로컬 LLM 커뮤니티에서 낮은 정확도를 보이는 AI 작성 댓글 감지 봇(Stylome)의 효용성과 프라이버시 침해 우려에 대한 비판이 제기되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "5d17629717865ee3",
+  "url": "https://news.hada.io/topic?id=36776&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "10달러짜리 4G USB 동글로 홈 서버 돌리기",
+  "published_at": "2026-11-07T21:48:55+00:00",
+  "collected_at": "2026-11-08T00:24:38.409227+00:00",
+  "title_ko": "저렴한 4G USB 동글과 홈랩을 활용한 AI 에이전트 구축",
+  "summary_ko": "10달러짜리 저전력 4G 동글에 리눅스를 설치하고 홈 서버를 구축해, AI 에이전트와 연동하여 텔레그램으로 시스템 상태를 모니터링하는 사례입니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "5465a6cb4efcc0ef",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqh8hk/crowdv1_the_collaborative_llm/",
+  "source": "r/LocalLLaMA",
+  "title": "Crowd-v1 - The collaborative LLM",
+  "published_at": "2026-11-07T21:19:40+00:00",
+  "collected_at": "2026-11-08T00:24:23.438956+00:00",
+  "title_ko": "데이터센터 없이 협업으로 훈련하는 1B 오픈소스 LLM 'Crowd-v1'",
+  "summary_ko": "대규모 엔비디아 GPU 클러스터 없이 분산 협업을 통해 10억 파라미터 규모의 LLM을 훈련하는 프로젝트로, 저비용 오픈소스 AI의 가능성을 실험합니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "2c93e9013ac15b4c",
+  "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+  "source": "TechCrunch",
+  "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+  "published_at": "2026-11-07T21:17:08+00:00",
+  "collected_at": "2026-11-08T00:24:06.850785+00:00",
+  "title_ko": "미 정보당국 메모, 메가스피드 임원의 엔비디아 CEO 스파이 포착 시도 언급",
+  "summary_ko": "중국 국가안전부가 엔비디아 CEO를 정보 수집 대상으로 삼기 위해 기술 임원을 포섭하려 했다는 미 정보당국의 문건 내용이 보도되었습니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "규제"
+  ]
+ },
+ {
+  "id": "613c9340ecb9a0d7",
+  "url": "https://news.hada.io/topic?id=36775&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "에이전트 메모리 설계 - 무엇을 기억하고, 잘못된 기억은 어떻게 고칠까",
+  "published_at": "2026-11-07T20:51:20+00:00",
+  "collected_at": "2026-11-08T00:24:38.409227+00:00",
+  "title_ko": "앤트로픽이 실험한 AI 에이전트의 메모리 설계 및 정리 기법",
+  "summary_ko": "앤트로픽은 Claude를 활용해 에이전트가 이전 세션의 기억을 유지하고, '드리밍' 과정을 통해 오류를 수정하며 위키 형태로 지식을 정리하는 방식을 실험했습니다.",
+  "category": "참고",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "5186d80b7eef5626",
+  "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+  "source": "Hacker News",
+  "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+  "published_at": "2026-11-07T20:45:32+00:00",
+  "collected_at": "2026-11-08T00:24:22.424655+00:00",
+  "title_ko": "Claude Code의 권한 기능으로 인해 GitHub에 비밀번호 노출",
+  "summary_ko": "클로드 코드의 보안 설정 문제로 인해 1,100개가 넘는 공개 GitHub 파일에 비밀번호 등 민감 정보가 노출되었습니다. AI 코딩 도구 사용 시 보안 관리에 주의가 요구됩니다.",
+  "category": "중요",
+  "tags": [
+   "Claude",
+   "AI 에이전트",
+   "보안"
+  ]
+ },
+ {
+  "id": "3f0be6a25c5f918d",
+  "url": "https://news.hada.io/topic?id=36772&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Microsoft Research의 AI Frontiers 그룹이 막을 내림",
+  "published_at": "2026-11-07T20:42:20+00:00",
+  "collected_at": "2026-11-08T00:24:38.409227+00:00",
+  "title_ko": "마이크로소프트, AI 연구 그룹 'AI Frontiers' 해체",
+  "summary_ko": "마이크로소프트가 AI 조직을 개편하며 순수 연구 중심의 AI Frontiers 그룹을 해체했습니다. 연구보다 제품 규모 확장과 데이터 확보에 집중하는 업계 트렌드를 보여줍니다.",
+  "category": "중요",
+  "tags": [
+   "Microsoft",
+   "연구"
+  ]
+ },
+ {
   "id": "c21bce866fdd3204",
   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqfekg/betelgeuse_running_deepseek_v41_flash_q8_xl_1017/",
   "source": "r/LocalLLaMA",
