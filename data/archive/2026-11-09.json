@@ -1,5 +1,73 @@
 [
  {
+  "id": "239bd3ec0b2b5826",
+  "url": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
+  "source": "The Verge",
+  "title": "Jonathan Kanter is using AI to take on Big Tech",
+  "published_at": "2026-11-09T14:30:00+00:00",
+  "collected_at": "2026-11-09T16:01:02.429069+00:00",
+  "title_ko": "조나단 칸터의 AI를 활용한 빅테크 독점 규제",
+  "summary_ko": "미 법무부 반독점국 출신 조나단 칸터가 민간 부문에서 불법 독점에 맞서기 위해 AI를 활용한 도구를 선보였습니다.",
+  "category": "중요",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
+  "id": "2395abcef3069628",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrsptp/meituanlongcatlongcat25_hugging_face/",
+  "source": "r/LocalLLaMA",
+  "title": "meituan-longcat/LongCat-2.5 · Hugging Face",
+  "published_at": "2026-11-09T14:14:17+00:00",
+  "collected_at": "2026-11-09T16:01:35.262151+00:00",
+  "title_ko": "1.6T 멀티모달 모델 LongCat-2.5 공개",
+  "summary_ko": "1조 6천억 파라미터 규모의 대형 멀티모달 모델 LongCat-2.5가 허깅페이스에 등록되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "4ce2705fe037e98e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrspiy/neteaseyoudaoconfucius4r2t2_hugging_face/",
+  "source": "r/LocalLLaMA",
+  "title": "netease-youdao/Confucius4-R2T2 · Hugging Face",
+  "published_at": "2026-11-09T14:13:56+00:00",
+  "collected_at": "2026-11-09T16:01:35.262151+00:00",
+  "title_ko": "실시간 스트리밍 음성 인식 모델 Confucius4-R2T2 공개",
+  "summary_ko": "지연 시간이 짧고 정확도가 높은 실시간 스트리밍 자동 음성 인식(ASR) 모델이 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "bd74b7cf0c1bc812",
+  "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+  "source": "TechCrunch",
+  "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
+  "published_at": "2026-11-09T14:00:00+00:00",
+  "collected_at": "2026-11-09T16:01:02.325348+00:00",
+  "title_ko": "오토매틱, 바이브 코딩 앱 배포 플랫폼 'Spacefast' 출시",
+  "summary_ko": "오토매틱이 변화하는 인터넷 환경에 맞춰 AI 기반 코딩 앱을 배포할 수 있는 플랫폼 Spacefast를 선보였습니다.",
+  "category": "속보",
+  "tags": [
+   "코딩"
+  ]
+ },
+ {
+  "id": "05bd9f0351a0c3a2",
+  "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+  "source": "MIT Tech Review",
+  "title": "Innovating with AI in the special chemicals industry",
+  "published_at": "2026-11-09T13:00:00+00:00",
+  "collected_at": "2026-11-09T16:01:15.193944+00:00",
+  "title_ko": "특수 화학 산업의 AI 기반 혁신 사례",
+  "summary_ko": "화학 제조 기업 루브리졸이 연구원들이 아이디어를 더 빠르게 테스트하고 데이터에 접근할 수 있도록 AI와 클라우드를 도입하고 있습니다.",
+  "category": "참고",
+  "tags": []
+ },
+ {
   "id": "64694195f3e57e47",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=217158",
   "source": "AI타임스",
@@ -30,6 +98,18 @@
   ]
  },
  {
+  "id": "7b1451fc786c34f9",
+  "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+  "source": "Hugging Face",
+  "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+  "published_at": "2026-11-09T12:34:29+00:00",
+  "collected_at": "2026-11-09T16:01:16.207624+00:00",
+  "title_ko": "전문가 모델 결합을 위한 HOPE 기법 소개",
+  "summary_ko": "복수 전문가 모델들의 효율적인 협업과 통합을 유지하기 위한 새로운 방법론이 소개되었습니다.",
+  "category": "참고",
+  "tags": []
+ },
+ {
   "id": "82edbef9f73e50ca",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=217157",
   "source": "AI타임스",
@@ -53,6 +133,50 @@
   "title_ko": "딥브레인AI, 대화형 비디오 에이전트 탑재 'AI스튜디오 5.0' 출시",
   "summary_ko": "딥브레인AI가 대화만으로 기획부터 편집까지 수행하는 영상 제작 플랫폼을 선보였다. 전문 인력 없이도 손쉽게 영상을 만들 수 있다.",
   "category": "속보",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "297196a5eaa06beb",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrq2fv/m4_pro_vs_m5_pro_24gb_qwen_38_flash_next_iq3_with/",
+  "source": "r/LocalLLaMA",
+  "title": "M4 Pro vs M5 Pro (24GB): Qwen 3.8 Flash Next IQ3 with MoEShift at 374 tok/s prefill, 14.7 tok/s decode, 8.5GB peak memory",
+  "published_at": "2026-11-09T12:10:54+00:00",
+  "collected_at": "2026-11-09T16:01:35.262151+00:00",
+  "title_ko": "M5 Pro 맥에서의 Qwen 모델 벤치마크 결과",
+  "summary_ko": "M4 Pro 및 M5 Pro 맥에서 MoEShift 백엔드를 활용한 Qwen 3.8 Flash Next 모델의 구동 속도와 메모리 사용량을 측정한 벤치마크입니다. 온디바이스 AI 성능 최적화에 참고할 만한 자료입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "4762b8cbbcc6e7ee",
+  "url": "https://news.hada.io/topic?id=36880&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Next-Concept Modeling: 거친 표현부터 세밀하게 다듬는 빠른 병렬 텍스트 생성",
+  "published_at": "2026-11-09T11:42:08+00:00",
+  "collected_at": "2026-11-09T16:01:49.388546+00:00",
+  "title_ko": "텍스트 생성 속도를 대폭 높인 NCM 프레임워크 공개",
+  "summary_ko": "거친 표현부터 세밀하게 다듬는 방식의 Next-Concept Modeling(NCM)이 공개되었습니다. 기존 확산 언어 모델보다 훨씬 빠른 속도로 텍스트를 병렬 생성할 수 있습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "5aa2811f45ceef64",
+  "url": "https://github.com/samir-sarwar/samir-vllm",
+  "source": "Hacker News",
+  "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+  "published_at": "2026-11-09T11:36:55+00:00",
+  "collected_at": "2026-11-09T16:01:34.113854+00:00",
+  "title_ko": "LLM 추론 구조를 다룬 6시간 분량의 강의 및 노트",
+  "summary_ko": "vLLM 및 LLM 추론의 핵심 원리를 깊이 있게 다룬 오픈소스 학습 자료입니다. 모델 서빙 최적화 실무에 유용한 지식을 제공합니다.",
+  "category": "팁",
   "tags": [
    "AI 에이전트"
   ]
@@ -82,6 +206,21 @@
   "tags": []
  },
  {
+  "id": "f9eff7a99759757f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrpcke/new_gemma_models/",
+  "source": "r/LocalLLaMA",
+  "title": "New Gemma Models",
+  "published_at": "2026-11-09T11:32:08+00:00",
+  "collected_at": "2026-11-09T16:01:35.262151+00:00",
+  "title_ko": "차세대 Gemma 모델 출시에 대한 기대감",
+  "summary_ko": "유럽의 스타트업들이 고성능 언어 이해와 추론 능력을 갖춘 차세대 Gemma 모델의 출시를 기대하고 있습니다. 다국어 처리 능력이 뛰어난 모델에 대한 현장의 수요를 보여줍니다.",
+  "category": "참고",
+  "tags": [
+   "Google",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "ca73ad9cba7a34d2",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=217148",
   "source": "AI타임스",
@@ -109,6 +248,50 @@
   "tags": []
  },
  {
+  "id": "6f06e864dcc3816a",
+  "url": "https://news.hada.io/topic?id=36878&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Opus 5.5 성능이 낮아졌나? 11월 3일 사고 패턴이 바뀜",
+  "published_at": "2026-11-09T10:32:30+00:00",
+  "collected_at": "2026-11-09T16:01:49.388546+00:00",
+  "title_ko": "Claude 모델의 추론 패턴 변화 분석",
+  "summary_ko": "Claude Code 세션 분석 결과 11월 3일을 기점으로 모델의 추론 방식에 변화가 감지되었습니다. 모델명 변경 없이 내부 동작이 수정된 사례로 주목받고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "Anthropic",
+   "GPT"
+  ]
+ },
+ {
+  "id": "8ceada5f95028093",
+  "url": "https://news.ycombinator.com/item?id=50422628",
+  "source": "Hacker News",
+  "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
+  "published_at": "2026-11-09T08:17:49+00:00",
+  "collected_at": "2026-11-09T16:01:21.975766+00:00",
+  "title_ko": "ChatGPT 데스크톱 앱의 SSH 에이전트 포워딩 보안 이슈",
+  "summary_ko": "ChatGPT 데스크톱 앱이 로컬 SSH 에이전트를 원격 머신으로 포워딩하는 문제가 발견되었습니다. 원격 권한을 통해 비공개 저장소에 임의 접근할 수 있어 보안 주의가 필요합니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "규제"
+  ]
+ },
+ {
+  "id": "a9c06162812cf7ad",
+  "url": "https://arxiv.org/abs/2610.14162",
+  "source": "Hacker News",
+  "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+  "published_at": "2026-11-09T07:20:37+00:00",
+  "collected_at": "2026-11-09T16:01:21.975766+00:00",
+  "title_ko": "병렬 텍스트 생성을 위한 Next-Concept Modeling 논문",
+  "summary_ko": "텍스트를 단계별로 빠르게 병렬 생성하는 새로운 딥러닝 프레임워크인 NCM 관련 논문이 공유되었습니다. 생성 속도를 획기적으로 개선하여 주목받고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "1eb5f1942303ac30",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=217150",
   "source": "AI타임스",
@@ -120,6 +303,50 @@
   "category": "속보",
   "tags": [
    "NVIDIA"
+  ]
+ },
+ {
+  "id": "c008339f51d4d66b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrkomn/l11_n8147_is_a_neuron_that_will_make_qwen354b_get/",
+  "source": "r/LocalLLaMA",
+  "title": "L11 N8147 is a neuron that will make Qwen-3.5-4B get things confidently wrong while being weirdly snarky... But also makes it write interesting poetry",
+  "published_at": "2026-11-09T06:42:07+00:00",
+  "collected_at": "2026-11-09T16:01:35.262151+00:00",
+  "title_ko": "Qwen 모델의 특정 뉴런 제거 및 성향 변화 실험",
+  "summary_ko": "Qwen-3.5-4B 모델 내부의 특정 뉴런을 분석하여 모델의 성향과 시 창작 스타일에 미치는 영향을 실험한 사례입니다. LLM 내부 구조 연구에 흥미로운 통찰을 줍니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "2c6f6f57818dd36b",
+  "url": "https://news.hada.io/topic?id=36874&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "AI 버블이 존재한다고 확신하지 못하는 이유",
+  "published_at": "2026-11-09T05:34:55+00:00",
+  "collected_at": "2026-11-09T16:01:49.388546+00:00",
+  "title_ko": "AI 산업의 버블 논란과 실제 수요 분석",
+  "summary_ko": "막대한 AI 인프라 투자 비용에도 불구하고 가파른 매출 성장과 신규 업무 영역의 잠재력 덕분에 버블로만 단정하기는 이르다는 분석입니다. 향후 지속 가능성에 대한 업계의 시각을 보여줍니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "투자"
+  ]
+ },
+ {
+  "id": "8b5d7ade5adf612c",
+  "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1",
+  "source": "Hacker News",
+  "title": "Apple capped engineers at a $200 daily AI budget",
+  "published_at": "2026-11-09T05:30:11+00:00",
+  "collected_at": "2026-11-09T16:01:34.113854+00:00",
+  "title_ko": "애플, 엔지니어당 일일 AI 예산 200달러로 제한",
+  "summary_ko": "애플이 내부 엔지니어들의 AI 사용 예산을 하루 200달러로 제한한 것으로 알려졌습니다. 급증하는 AI 연산 비용을 관리하기 위한 빅테크의 비용 통제 조치입니다.",
+  "category": "중요",
+  "tags": [
+   "Apple",
+   "반도체"
   ]
  },
  {
@@ -152,6 +379,21 @@
   ]
  },
  {
+  "id": "2382673acb375df8",
+  "url": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
+  "source": "Simon Willison",
+  "title": "The Web Is More Than Enough, by Paul Ford",
+  "published_at": "2026-11-09T04:32:33+00:00",
+  "collected_at": "2026-11-09T16:01:34.395923+00:00",
+  "title_ko": "Claude를 활용한 웹 콘텐츠 및 Three.js 코드 포팅",
+  "summary_ko": "Claude Opus 5.5를 이용해 Three.js 기반의 3D 웹 콘텐츠를 바닐라 자바스크립트로 성공적으로 포팅한 사례입니다. 실무 코딩 어시스턴트 활용법을 보여줍니다.",
+  "category": "팁",
+  "tags": [
+   "Anthropic",
+   "코딩"
+  ]
+ },
+ {
   "id": "6ee1dee33e4bfc63",
   "url": "https://simonwillison.net/2026/Nov/9/details-summary/",
   "source": "Simon Willison",
@@ -178,6 +420,21 @@
   "tags": [
    "오픈소스",
    "코딩"
+  ]
+ },
+ {
+  "id": "c88eb98b7d5c3109",
+  "url": "https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/",
+  "source": "Hacker News",
+  "title": "Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code",
+  "published_at": "2026-11-09T03:06:55+00:00",
+  "collected_at": "2026-11-09T16:01:34.113854+00:00",
+  "title_ko": "아사히 리눅스, AI 코드 무단 학습 방지 위해 라이선스 변경",
+  "summary_ko": "AI 도구가 미출시 코드를 무단으로 학습하는 사건이 발생하자 아사히 리눅스가 MIT 라이선스를 포기하고 GPL로 전환했습니다. 오픈소스 진영의 AI 저작권 대응 방식을 보여줍니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "규제"
   ]
  },
  {
