@@ -1,5 +1,332 @@
 [
  {
+  "id": "096f075e11080075",
+  "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+  "source": "Simon Willison",
+  "title": "llm-gemini 0.36",
+  "published_at": "2026-11-10T20:09:44+00:00",
+  "collected_at": "2026-11-10T22:16:56.822827+00:00",
+  "title_ko": "구글 Gemini 4 Carbon 일반 공개",
+  "summary_ko": "구글의 최신 고성능 모델인 Gemini 4 Carbon이 모든 사용자에게 공개되었으며, API 가격 정책과 사고(thinking) 기능이 적용되었습니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "Gemini"
+  ]
+ },
+ {
+  "id": "e18f58ec7dc7acb9",
+  "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+  "source": "TechCrunch",
+  "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+  "published_at": "2026-11-10T19:57:52+00:00",
+  "collected_at": "2026-11-10T22:16:41.634656+00:00",
+  "title_ko": "앤스로픽 창업자 7인, IPO로 각각 2.5억 달러 현금화 예정",
+  "summary_ko": "앤스로픽의 공동 창업자 7명 전원이 기업공개(IPO) 과정에서 지분을 매각해 각각 약 2억 5천만 달러를 현금화할 계획입니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "투자"
+  ]
+ },
+ {
+  "id": "bc98f21280662e13",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xswmb7/the_surprising_effectiveness_of_deleting_weights/",
+  "source": "r/LocalLLaMA",
+  "title": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
+  "published_at": "2026-11-10T19:44:57+00:00",
+  "collected_at": "2026-11-10T22:16:57.572386+00:00",
+  "title_ko": "LLM 가중치 삭제만으로 전체 미세조정 효과 내는 '삭제 튜닝' 등장",
+  "summary_ko": "사전학습된 LLM 가중치의 0.05% 미만만 0으로 만들어도 전체 미세조정과 대등한 성능을 내는 효율적인 학습법이 제안되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "7739f93bab443e21",
+  "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+  "source": "TechCrunch",
+  "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+  "published_at": "2026-11-10T19:23:34+00:00",
+  "collected_at": "2026-11-10T22:16:41.634656+00:00",
+  "title_ko": "오우라, AI 기반 헬스케어 스타트업 카운슬 헬스 인수",
+  "summary_ko": "스마트링 제조사 오우라가 AI 기반 원격 의료 스타트업 카운슬 헬스를 6억 2,500만 달러에 인수합니다.",
+  "category": "중요",
+  "tags": [
+   "투자"
+  ]
+ },
+ {
+  "id": "39c3121f4ebf3fb8",
+  "url": "https://www.reddit.com/r/singularity/comments/1xsvta2/all_ai_2027_authors_now_forecast_that_superhuman/",
+  "source": "r/singularity",
+  "title": "All AI 2027 authors now forecast that superhuman AI researchers (SAR) will arrive in 2027",
+  "published_at": "2026-11-10T19:13:58+00:00",
+  "collected_at": "2026-11-10T22:17:02.486589+00:00",
+  "title_ko": "초지능 AI 연구자(SAR) 2027년 등장 전망",
+  "summary_ko": "AI 2027 저자들 모두 초지능 AI 연구원(SAR)이 2027년에 도래할 것으로 예측을 수정했습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "5d01611fd6de2935",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+  "source": "The Verge",
+  "title": "The US is winning the AI race. Jensen Huang could have blown it",
+  "published_at": "2026-11-10T19:04:05+00:00",
+  "collected_at": "2026-11-10T22:16:41.777138+00:00",
+  "title_ko": "미국의 AI 패권과 젠슨 황의 역할",
+  "summary_ko": "미국이 AI 경쟁에서 우위를 점하는 가운데 엔비디아 젠슨 황 CEO의 영향력과 지정학적 위치를 조명했습니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
+  "id": "6fcd75d626ddcf98",
+  "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+  "source": "TechCrunch",
+  "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+  "published_at": "2026-11-10T19:03:52+00:00",
+  "collected_at": "2026-11-10T22:16:41.634656+00:00",
+  "title_ko": "앤스로픽 미공개 모델로 양자 컴퓨팅 난제 해결 시도",
+  "summary_ko": "스타트업 PSI가 앤스로픽의 미공개 AI 모델을 활용해 20년 동안 풀리지 않았던 양자 컴퓨팅 관련 질문에 접근했습니다.",
+  "category": "참고",
+  "tags": [
+   "Anthropic"
+  ]
+ },
+ {
+  "id": "b73105fe4ec5f060",
+  "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+  "source": "Google AI",
+  "title": "Gemini Intelligence: New features, on more devices",
+  "published_at": "2026-11-10T19:00:00+00:00",
+  "collected_at": "2026-11-10T22:16:55.353212+00:00",
+  "title_ko": "구글, 더 많은 기기에 Gemini 인텔리전스 기능 확대",
+  "summary_ko": "구글이 사용자 편의성을 높인 새로운 Gemini 인텔리전스 기능을 다양한 기기에 확대 적용합니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "Gemini"
+  ]
+ },
+ {
+  "id": "445fc6287a33b8c1",
+  "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+  "source": "TechCrunch",
+  "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+  "published_at": "2026-11-10T18:49:52+00:00",
+  "collected_at": "2026-11-10T22:16:41.634656+00:00",
+  "title_ko": "오픈에이아이, 챗GPT에 비즈니스 프로필 도입",
+  "summary_ko": "오픈에이아이가 챗GPT에 기업용 프로필과 신규 기능을 추가하여 검색 및 소비자 발견 엔진으로의 기능을 강화합니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "GPT"
+  ]
+ },
+ {
+  "id": "3d95ede0586868b2",
+  "url": "https://www.reddit.com/r/singularity/comments/1xsuvkg/author_of_ai_2027_published_an_update_q35/",
+  "source": "r/singularity",
+  "title": "Author of AI 2027 published an update: \"Q3.5 Timelines Update: Looks Like the Intelligence Explosion Will Happen in 2027 After All\"",
+  "published_at": "2026-11-10T18:38:23+00:00",
+  "collected_at": "2026-11-10T22:17:02.486589+00:00",
+  "title_ko": "2027년 지능 폭발 시점 도래 전망 업데이트",
+  "summary_ko": "AI 2027 저자가 일정을 수정하며 2027년에 본격적인 지능 폭발이 일어날 것이라는 예측을 재확인했습니다.",
+  "category": "참고",
+  "tags": []
+ },
+ {
+  "id": "a493c0c0fd3e7e4d",
+  "url": "https://www.reddit.com/r/singularity/comments/1xsuixt/fable_52_low_vs_opus_55_med_pelican_test_go_all/",
+  "source": "r/singularity",
+  "title": "Fable 5.2 Low vs Opus 5.5 Med | Pelican Test | \"Go all out\"",
+  "published_at": "2026-11-10T18:25:31+00:00",
+  "collected_at": "2026-11-10T22:17:02.486589+00:00",
+  "title_ko": "최신 AI 모델 코딩 및 렌더링 성능 비교 테스트",
+  "summary_ko": "Fable과 Opus 모델의 프롬프트 수행 결과, 토큰 사용량, 사고(thinking) 프로세스 성능을 비교했습니다.",
+  "category": "참고",
+  "tags": [
+   "Claude"
+  ]
+ },
+ {
+  "id": "74de82bfaf30b517",
+  "url": "https://www.reddit.com/r/singularity/comments/1xsucqc/reuters_the_ceos_relationship_with_alice_huang/",
+  "source": "r/singularity",
+  "title": "Reuters: \"The CEO's relationship with Alice Huang helped facilitate shipments of at least $7.5 billion worth of Nvidia chips to Chinese firms\"",
+  "published_at": "2026-11-10T18:19:20+00:00",
+  "collected_at": "2026-11-10T22:17:02.486589+00:00",
+  "title_ko": "중국 기업에 대한 엔비디아 칩 우회 수출 의혹",
+  "summary_ko": "CEO의 인맥을 통해 수십억 달러 상당의 엔비디아 칩이 중국 기업으로 우회 수출되었다는 보도가 나왔습니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "반도체",
+   "규제"
+  ]
+ },
+ {
+  "id": "e55341762b61a4d3",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsub9f/trending_on_huggingface2d_to_3d/",
+  "source": "r/LocalLLaMA",
+  "title": "Trending on huggingface:2D to 3D",
+  "published_at": "2026-11-10T18:17:48+00:00",
+  "collected_at": "2026-11-10T22:16:57.572386+00:00",
+  "title_ko": "허깅페이스 트렌딩 2D to 3D 모델 공개",
+  "summary_ko": "8GB VRAM 환경에서도 실행 가능한 다이나믹 3D 변환 오픈소스 모델이 허깅페이스에서 주목받고 있습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "5175b6a2b765750a",
+  "url": "https://github.com/GoogleChrome/modern-web-guidance",
+  "source": "Hacker News",
+  "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+  "published_at": "2026-11-10T18:01:15+00:00",
+  "collected_at": "2026-11-10T22:16:56.292456+00:00",
+  "title_ko": "코딩 에이전트를 위한 모던 웹 표준 활용 가이드",
+  "summary_ko": "AI 코딩 에이전트가 구형 자바스크립트 대신 최신 브라우저 네이티브 기능을 활용하도록 유도하는 개선 작업이 진행 중입니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "4546981095085026",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+  "source": "The Verge",
+  "title": "ChatGPT is getting verified AI ‘Business Agents’",
+  "published_at": "2026-11-10T18:00:00+00:00",
+  "collected_at": "2026-11-10T22:16:41.777138+00:00",
+  "title_ko": "OpenAI, 검증된 AI 비즈니스 에이전트 도입",
+  "summary_ko": "ChatGPT가 브랜드와 쇼핑을 돕는 '비즈니스 에이전트' 기능을 베타로 출시했습니다. 기업들이 AI를 통해 고객과 직접 소통하고 거래를 지원할 수 있게 됩니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "GPT",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "7737e173e31a5988",
+  "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+  "source": "Hacker News",
+  "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+  "published_at": "2026-11-10T17:55:07+00:00",
+  "collected_at": "2026-11-10T22:16:56.292456+00:00",
+  "title_ko": "Anthropic, Claude 오피스 스위트(화이트보드·시트·데이터) 공개",
+  "summary_ko": "앤트로픽이 문서, 데이터 관리, 화이트보드 기능을 갖춘 자체 AI 오피스 스위트를 선보였습니다. 기업용 생산성 시장에서 대형 오피스 툴들과 본격적인 경쟁을 예고합니다.",
+  "category": "속보",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "a548f4bc427db034",
+  "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+  "source": "The Verge",
+  "title": "The indie game community is in disarray over AI and Big Walk",
+  "published_at": "2026-11-10T17:32:47+00:00",
+  "collected_at": "2026-11-10T22:16:41.777138+00:00",
+  "title_ko": "인디 게임계, 생성형 AI 활용 논란으로 갈등",
+  "summary_ko": "독립 게임 페스티벌 심사위원들이 AI 사용 게임 배제를 선언한 가운데, 히트작 개발사가 개발 과정의 AI 사용을 인정하며 업계 내 논란이 가중되고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "규제"
+  ]
+ },
+ {
+  "id": "f724697ad4799a39",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+  "source": "The Verge",
+  "title": "Anthropic has its own AI-powered office suite now",
+  "published_at": "2026-11-10T17:30:00+00:00",
+  "collected_at": "2026-11-10T22:16:41.777138+00:00",
+  "title_ko": "Anthropic, 기업용 AI 오피스 스위트 시장 진출",
+  "summary_ko": "앤트로픽이 기업 고객을 겨냥한 자체 AI 오피스 도구들을 연이어 선보이며 업무용 소프트웨어 생태계 확장에 나섰습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "Claude"
+  ]
+ },
+ {
+  "id": "af7403b4563990ca",
+  "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+  "source": "TechCrunch",
+  "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+  "published_at": "2026-11-10T17:30:00+00:00",
+  "collected_at": "2026-11-10T22:16:41.634656+00:00",
+  "title_ko": "Anthropic, 회의 내용을 계획과 작업으로 바꾸는 'Claude Meetings' 출시",
+  "summary_ko": "클로드 미팅스가 회의 중 실시간으로 논의 내용을 요약하고 화이트보드 타임라인을 작성하며 관련 앱 데이터를 검색해 업무 효율을 높입니다.",
+  "category": "속보",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "d9bddbd9dadc001e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsswud/amd_epyc_9686f_linux_benchmarks_96_zen_6_cores_at/",
+  "source": "r/LocalLLaMA",
+  "title": "AMD EPYC 9686F Linux benchmarks: 96 Zen 6 cores at up to 5.3GHz",
+  "published_at": "2026-11-10T17:25:33+00:00",
+  "collected_at": "2026-11-10T22:16:57.572386+00:00",
+  "title_ko": "AMD EPYC 9686F 리눅스 및 AI 벤치마크 공개",
+  "summary_ko": "96개의 젠 6 코어를 탑재한 AMD EPYC 프로세서의 AI 및 시스템 성능 벤치마크 결과가 공개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "AMD"
+  ]
+ },
+ {
+  "id": "c850c63fd73b8209",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=217233",
+  "source": "AI타임스",
+  "title": "BMW, '챗GPT'로 차량 추천부터 시승 예약까지…AI 쇼핑 확대",
+  "published_at": "2026-11-10T17:13:10+00:00",
+  "collected_at": "2026-11-10T22:17:03.463373+00:00",
+  "title_ko": "BMW, 챗GPT 연동 차량 추천 및 시승 예약 서비스 도입",
+  "summary_ko": "BMW 북미 법인이 챗GPT를 통해 차량 추천, 금융 조건 비교, 시승 예약까지 한 번에 처리할 수 있는 플러그인을 출시했습니다. AI 쇼핑 경험이 자동차 구매 과정으로 확대됩니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "GPT",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "263bfb9c36537d30",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xssj9q/i_trained_a_348mactive_moe_on_11b_tokens_it/",
+  "source": "r/LocalLLaMA",
+  "title": "I trained a 348M-active MoE on ~11B tokens. It scores 85.5% vs Qwen2.5-1.5B's 53.3% on shuffled fact chains. GGUF + eval set — please try to break it.",
+  "published_at": "2026-11-10T17:11:20+00:00",
+  "collected_at": "2026-11-10T22:16:57.572386+00:00",
+  "title_ko": "단일 GPU로 학습한 고효율 소형 MoE 모델 공개",
+  "summary_ko": "개발자가 단일 RTX 5090으로 학습시킨 소형 혼합 전문가(MoE) 모델이 특정 벤치마크에서 대형 모델을 상회하는 성능을 보여 주목받고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
   "id": "b070967ca20acca3",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=217241",
   "source": "AI타임스",
@@ -12,6 +339,20 @@
   "tags": [
    "OpenAI",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "89ff2f9f293d1250",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=217227",
+  "source": "AI타임스",
+  "title": "[게시판] AWS, 의료 격차 해소에 5년간 1억달러 기술 지원 등 단신",
+  "published_at": "2026-11-10T17:00:00+00:00",
+  "collected_at": "2026-11-10T22:17:03.463373+00:00",
+  "title_ko": "AWS, 의료 격차 해소 위해 5년간 1억 달러 AI·클라우드 지원",
+  "summary_ko": "아마존웹서비스가 의료 소외 계층 지원을 위해 AI와 클라우드 인프라를 무상 제공하는 이니셔티브를 발표했습니다.",
+  "category": "중요",
+  "tags": [
+   "투자"
   ]
  },
  {
@@ -42,5 +383,17 @@
   "tags": [
    "AI 에이전트"
   ]
+ },
+ {
+  "id": "5bbcdb1d75d654d7",
+  "url": "https://www.blender.org/download/releases/5-3/",
+  "source": "Hacker News",
+  "title": "Blender 5.3 released with Gaussian Splat support",
+  "published_at": "2026-11-10T16:15:43+00:00",
+  "collected_at": "2026-11-10T22:16:56.292456+00:00",
+  "title_ko": "Blender 5.3 출시, 가우스 스플래팅 지원 추가",
+  "summary_ko": "인기 3D 제작 소프트웨어 블렌더가 최신 버전에서 가우스 스플래팅을 공식 지원하며 3D AI 및 렌더링 작업 편의성이 높아졌습니다.",
+  "category": "참고",
+  "tags": []
  }
 ]

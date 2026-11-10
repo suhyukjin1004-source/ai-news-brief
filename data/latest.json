@@ -1,8 +1,335 @@
 {
- "updated_at": "2026-11-10T16:59:18.814513+00:00",
+ "updated_at": "2026-11-10T22:17:17.943770+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "096f075e11080075",
+   "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+   "source": "Simon Willison",
+   "title": "llm-gemini 0.36",
+   "published_at": "2026-11-10T20:09:44+00:00",
+   "collected_at": "2026-11-10T22:16:56.822827+00:00",
+   "title_ko": "구글 Gemini 4 Carbon 일반 공개",
+   "summary_ko": "구글의 최신 고성능 모델인 Gemini 4 Carbon이 모든 사용자에게 공개되었으며, API 가격 정책과 사고(thinking) 기능이 적용되었습니다.",
+   "category": "속보",
+   "tags": [
+    "Google",
+    "Gemini"
+   ]
+  },
+  {
+   "id": "e18f58ec7dc7acb9",
+   "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+   "source": "TechCrunch",
+   "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+   "published_at": "2026-11-10T19:57:52+00:00",
+   "collected_at": "2026-11-10T22:16:41.634656+00:00",
+   "title_ko": "앤스로픽 창업자 7인, IPO로 각각 2.5억 달러 현금화 예정",
+   "summary_ko": "앤스로픽의 공동 창업자 7명 전원이 기업공개(IPO) 과정에서 지분을 매각해 각각 약 2억 5천만 달러를 현금화할 계획입니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "투자"
+   ]
+  },
+  {
+   "id": "bc98f21280662e13",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xswmb7/the_surprising_effectiveness_of_deleting_weights/",
+   "source": "r/LocalLLaMA",
+   "title": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
+   "published_at": "2026-11-10T19:44:57+00:00",
+   "collected_at": "2026-11-10T22:16:57.572386+00:00",
+   "title_ko": "LLM 가중치 삭제만으로 전체 미세조정 효과 내는 '삭제 튜닝' 등장",
+   "summary_ko": "사전학습된 LLM 가중치의 0.05% 미만만 0으로 만들어도 전체 미세조정과 대등한 성능을 내는 효율적인 학습법이 제안되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "7739f93bab443e21",
+   "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+   "source": "TechCrunch",
+   "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+   "published_at": "2026-11-10T19:23:34+00:00",
+   "collected_at": "2026-11-10T22:16:41.634656+00:00",
+   "title_ko": "오우라, AI 기반 헬스케어 스타트업 카운슬 헬스 인수",
+   "summary_ko": "스마트링 제조사 오우라가 AI 기반 원격 의료 스타트업 카운슬 헬스를 6억 2,500만 달러에 인수합니다.",
+   "category": "중요",
+   "tags": [
+    "투자"
+   ]
+  },
+  {
+   "id": "39c3121f4ebf3fb8",
+   "url": "https://www.reddit.com/r/singularity/comments/1xsvta2/all_ai_2027_authors_now_forecast_that_superhuman/",
+   "source": "r/singularity",
+   "title": "All AI 2027 authors now forecast that superhuman AI researchers (SAR) will arrive in 2027",
+   "published_at": "2026-11-10T19:13:58+00:00",
+   "collected_at": "2026-11-10T22:17:02.486589+00:00",
+   "title_ko": "초지능 AI 연구자(SAR) 2027년 등장 전망",
+   "summary_ko": "AI 2027 저자들 모두 초지능 AI 연구원(SAR)이 2027년에 도래할 것으로 예측을 수정했습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "5d01611fd6de2935",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+   "source": "The Verge",
+   "title": "The US is winning the AI race. Jensen Huang could have blown it",
+   "published_at": "2026-11-10T19:04:05+00:00",
+   "collected_at": "2026-11-10T22:16:41.777138+00:00",
+   "title_ko": "미국의 AI 패권과 젠슨 황의 역할",
+   "summary_ko": "미국이 AI 경쟁에서 우위를 점하는 가운데 엔비디아 젠슨 황 CEO의 영향력과 지정학적 위치를 조명했습니다.",
+   "category": "참고",
+   "tags": [
+    "NVIDIA",
+    "반도체"
+   ]
+  },
+  {
+   "id": "6fcd75d626ddcf98",
+   "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+   "source": "TechCrunch",
+   "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+   "published_at": "2026-11-10T19:03:52+00:00",
+   "collected_at": "2026-11-10T22:16:41.634656+00:00",
+   "title_ko": "앤스로픽 미공개 모델로 양자 컴퓨팅 난제 해결 시도",
+   "summary_ko": "스타트업 PSI가 앤스로픽의 미공개 AI 모델을 활용해 20년 동안 풀리지 않았던 양자 컴퓨팅 관련 질문에 접근했습니다.",
+   "category": "참고",
+   "tags": [
+    "Anthropic"
+   ]
+  },
+  {
+   "id": "b73105fe4ec5f060",
+   "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+   "source": "Google AI",
+   "title": "Gemini Intelligence: New features, on more devices",
+   "published_at": "2026-11-10T19:00:00+00:00",
+   "collected_at": "2026-11-10T22:16:55.353212+00:00",
+   "title_ko": "구글, 더 많은 기기에 Gemini 인텔리전스 기능 확대",
+   "summary_ko": "구글이 사용자 편의성을 높인 새로운 Gemini 인텔리전스 기능을 다양한 기기에 확대 적용합니다.",
+   "category": "속보",
+   "tags": [
+    "Google",
+    "Gemini"
+   ]
+  },
+  {
+   "id": "445fc6287a33b8c1",
+   "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+   "source": "TechCrunch",
+   "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+   "published_at": "2026-11-10T18:49:52+00:00",
+   "collected_at": "2026-11-10T22:16:41.634656+00:00",
+   "title_ko": "오픈에이아이, 챗GPT에 비즈니스 프로필 도입",
+   "summary_ko": "오픈에이아이가 챗GPT에 기업용 프로필과 신규 기능을 추가하여 검색 및 소비자 발견 엔진으로의 기능을 강화합니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "GPT"
+   ]
+  },
+  {
+   "id": "3d95ede0586868b2",
+   "url": "https://www.reddit.com/r/singularity/comments/1xsuvkg/author_of_ai_2027_published_an_update_q35/",
+   "source": "r/singularity",
+   "title": "Author of AI 2027 published an update: \"Q3.5 Timelines Update: Looks Like the Intelligence Explosion Will Happen in 2027 After All\"",
+   "published_at": "2026-11-10T18:38:23+00:00",
+   "collected_at": "2026-11-10T22:17:02.486589+00:00",
+   "title_ko": "2027년 지능 폭발 시점 도래 전망 업데이트",
+   "summary_ko": "AI 2027 저자가 일정을 수정하며 2027년에 본격적인 지능 폭발이 일어날 것이라는 예측을 재확인했습니다.",
+   "category": "참고",
+   "tags": []
+  },
+  {
+   "id": "a493c0c0fd3e7e4d",
+   "url": "https://www.reddit.com/r/singularity/comments/1xsuixt/fable_52_low_vs_opus_55_med_pelican_test_go_all/",
+   "source": "r/singularity",
+   "title": "Fable 5.2 Low vs Opus 5.5 Med | Pelican Test | \"Go all out\"",
+   "published_at": "2026-11-10T18:25:31+00:00",
+   "collected_at": "2026-11-10T22:17:02.486589+00:00",
+   "title_ko": "최신 AI 모델 코딩 및 렌더링 성능 비교 테스트",
+   "summary_ko": "Fable과 Opus 모델의 프롬프트 수행 결과, 토큰 사용량, 사고(thinking) 프로세스 성능을 비교했습니다.",
+   "category": "참고",
+   "tags": [
+    "Claude"
+   ]
+  },
+  {
+   "id": "74de82bfaf30b517",
+   "url": "https://www.reddit.com/r/singularity/comments/1xsucqc/reuters_the_ceos_relationship_with_alice_huang/",
+   "source": "r/singularity",
+   "title": "Reuters: \"The CEO's relationship with Alice Huang helped facilitate shipments of at least $7.5 billion worth of Nvidia chips to Chinese firms\"",
+   "published_at": "2026-11-10T18:19:20+00:00",
+   "collected_at": "2026-11-10T22:17:02.486589+00:00",
+   "title_ko": "중국 기업에 대한 엔비디아 칩 우회 수출 의혹",
+   "summary_ko": "CEO의 인맥을 통해 수십억 달러 상당의 엔비디아 칩이 중국 기업으로 우회 수출되었다는 보도가 나왔습니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "반도체",
+    "규제"
+   ]
+  },
+  {
+   "id": "e55341762b61a4d3",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsub9f/trending_on_huggingface2d_to_3d/",
+   "source": "r/LocalLLaMA",
+   "title": "Trending on huggingface:2D to 3D",
+   "published_at": "2026-11-10T18:17:48+00:00",
+   "collected_at": "2026-11-10T22:16:57.572386+00:00",
+   "title_ko": "허깅페이스 트렌딩 2D to 3D 모델 공개",
+   "summary_ko": "8GB VRAM 환경에서도 실행 가능한 다이나믹 3D 변환 오픈소스 모델이 허깅페이스에서 주목받고 있습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "5175b6a2b765750a",
+   "url": "https://github.com/GoogleChrome/modern-web-guidance",
+   "source": "Hacker News",
+   "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+   "published_at": "2026-11-10T18:01:15+00:00",
+   "collected_at": "2026-11-10T22:16:56.292456+00:00",
+   "title_ko": "코딩 에이전트를 위한 모던 웹 표준 활용 가이드",
+   "summary_ko": "AI 코딩 에이전트가 구형 자바스크립트 대신 최신 브라우저 네이티브 기능을 활용하도록 유도하는 개선 작업이 진행 중입니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
+   ]
+  },
+  {
+   "id": "4546981095085026",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+   "source": "The Verge",
+   "title": "ChatGPT is getting verified AI ‘Business Agents’",
+   "published_at": "2026-11-10T18:00:00+00:00",
+   "collected_at": "2026-11-10T22:16:41.777138+00:00",
+   "title_ko": "OpenAI, 검증된 AI 비즈니스 에이전트 도입",
+   "summary_ko": "ChatGPT가 브랜드와 쇼핑을 돕는 '비즈니스 에이전트' 기능을 베타로 출시했습니다. 기업들이 AI를 통해 고객과 직접 소통하고 거래를 지원할 수 있게 됩니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "7737e173e31a5988",
+   "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+   "source": "Hacker News",
+   "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+   "published_at": "2026-11-10T17:55:07+00:00",
+   "collected_at": "2026-11-10T22:16:56.292456+00:00",
+   "title_ko": "Anthropic, Claude 오피스 스위트(화이트보드·시트·데이터) 공개",
+   "summary_ko": "앤트로픽이 문서, 데이터 관리, 화이트보드 기능을 갖춘 자체 AI 오피스 스위트를 선보였습니다. 기업용 생산성 시장에서 대형 오피스 툴들과 본격적인 경쟁을 예고합니다.",
+   "category": "속보",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "a548f4bc427db034",
+   "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+   "source": "The Verge",
+   "title": "The indie game community is in disarray over AI and Big Walk",
+   "published_at": "2026-11-10T17:32:47+00:00",
+   "collected_at": "2026-11-10T22:16:41.777138+00:00",
+   "title_ko": "인디 게임계, 생성형 AI 활용 논란으로 갈등",
+   "summary_ko": "독립 게임 페스티벌 심사위원들이 AI 사용 게임 배제를 선언한 가운데, 히트작 개발사가 개발 과정의 AI 사용을 인정하며 업계 내 논란이 가중되고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "규제"
+   ]
+  },
+  {
+   "id": "f724697ad4799a39",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+   "source": "The Verge",
+   "title": "Anthropic has its own AI-powered office suite now",
+   "published_at": "2026-11-10T17:30:00+00:00",
+   "collected_at": "2026-11-10T22:16:41.777138+00:00",
+   "title_ko": "Anthropic, 기업용 AI 오피스 스위트 시장 진출",
+   "summary_ko": "앤트로픽이 기업 고객을 겨냥한 자체 AI 오피스 도구들을 연이어 선보이며 업무용 소프트웨어 생태계 확장에 나섰습니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "Claude"
+   ]
+  },
+  {
+   "id": "af7403b4563990ca",
+   "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+   "source": "TechCrunch",
+   "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+   "published_at": "2026-11-10T17:30:00+00:00",
+   "collected_at": "2026-11-10T22:16:41.634656+00:00",
+   "title_ko": "Anthropic, 회의 내용을 계획과 작업으로 바꾸는 'Claude Meetings' 출시",
+   "summary_ko": "클로드 미팅스가 회의 중 실시간으로 논의 내용을 요약하고 화이트보드 타임라인을 작성하며 관련 앱 데이터를 검색해 업무 효율을 높입니다.",
+   "category": "속보",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "d9bddbd9dadc001e",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsswud/amd_epyc_9686f_linux_benchmarks_96_zen_6_cores_at/",
+   "source": "r/LocalLLaMA",
+   "title": "AMD EPYC 9686F Linux benchmarks: 96 Zen 6 cores at up to 5.3GHz",
+   "published_at": "2026-11-10T17:25:33+00:00",
+   "collected_at": "2026-11-10T22:16:57.572386+00:00",
+   "title_ko": "AMD EPYC 9686F 리눅스 및 AI 벤치마크 공개",
+   "summary_ko": "96개의 젠 6 코어를 탑재한 AMD EPYC 프로세서의 AI 및 시스템 성능 벤치마크 결과가 공개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "반도체",
+    "AMD"
+   ]
+  },
+  {
+   "id": "c850c63fd73b8209",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217233",
+   "source": "AI타임스",
+   "title": "BMW, '챗GPT'로 차량 추천부터 시승 예약까지…AI 쇼핑 확대",
+   "published_at": "2026-11-10T17:13:10+00:00",
+   "collected_at": "2026-11-10T22:17:03.463373+00:00",
+   "title_ko": "BMW, 챗GPT 연동 차량 추천 및 시승 예약 서비스 도입",
+   "summary_ko": "BMW 북미 법인이 챗GPT를 통해 차량 추천, 금융 조건 비교, 시승 예약까지 한 번에 처리할 수 있는 플러그인을 출시했습니다. AI 쇼핑 경험이 자동차 구매 과정으로 확대됩니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "263bfb9c36537d30",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xssj9q/i_trained_a_348mactive_moe_on_11b_tokens_it/",
+   "source": "r/LocalLLaMA",
+   "title": "I trained a 348M-active MoE on ~11B tokens. It scores 85.5% vs Qwen2.5-1.5B's 53.3% on shuffled fact chains. GGUF + eval set — please try to break it.",
+   "published_at": "2026-11-10T17:11:20+00:00",
+   "collected_at": "2026-11-10T22:16:57.572386+00:00",
+   "title_ko": "단일 GPU로 학습한 고효율 소형 MoE 모델 공개",
+   "summary_ko": "개발자가 단일 RTX 5090으로 학습시킨 소형 혼합 전문가(MoE) 모델이 특정 벤치마크에서 대형 모델을 상회하는 성능을 보여 주목받고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
   {
    "id": "b070967ca20acca3",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217241",
@@ -16,6 +343,20 @@
    "tags": [
     "OpenAI",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "89ff2f9f293d1250",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217227",
+   "source": "AI타임스",
+   "title": "[게시판] AWS, 의료 격차 해소에 5년간 1억달러 기술 지원 등 단신",
+   "published_at": "2026-11-10T17:00:00+00:00",
+   "collected_at": "2026-11-10T22:17:03.463373+00:00",
+   "title_ko": "AWS, 의료 격차 해소 위해 5년간 1억 달러 AI·클라우드 지원",
+   "summary_ko": "아마존웹서비스가 의료 소외 계층 지원을 위해 AI와 클라우드 인프라를 무상 제공하는 이니셔티브를 발표했습니다.",
+   "category": "중요",
+   "tags": [
+    "투자"
    ]
   },
   {
@@ -46,6 +387,18 @@
    "tags": [
     "AI 에이전트"
    ]
+  },
+  {
+   "id": "5bbcdb1d75d654d7",
+   "url": "https://www.blender.org/download/releases/5-3/",
+   "source": "Hacker News",
+   "title": "Blender 5.3 released with Gaussian Splat support",
+   "published_at": "2026-11-10T16:15:43+00:00",
+   "collected_at": "2026-11-10T22:16:56.292456+00:00",
+   "title_ko": "Blender 5.3 출시, 가우스 스플래팅 지원 추가",
+   "summary_ko": "인기 3D 제작 소프트웨어 블렌더가 최신 버전에서 가우스 스플래팅을 공식 지원하며 3D AI 및 렌더링 작업 편의성이 높아졌습니다.",
+   "category": "참고",
+   "tags": []
   },
   {
    "id": "6f261b3945cac670",
@@ -162,6 +515,21 @@
    "category": "참고",
    "tags": [
     "코딩"
+   ]
+  },
+  {
+   "id": "5ca4dc7b6d88cb31",
+   "url": "https://openai.com/index/introducing-businesses-chatgpt",
+   "source": "OpenAI",
+   "title": "Introducing Businesses in ChatGPT",
+   "published_at": "2026-11-10T10:00:00+00:00",
+   "collected_at": "2026-11-10T22:16:55.066358+00:00",
+   "title_ko": "OpenAI, ChatGPT 내 비즈니스 관리 기능 발표",
+   "summary_ko": "기업들이 ChatGPT 내에서 비즈니스 정보를 관리하고 고객 상호작용에 대한 인사이트를 얻을 수 있는 새로운 도구가 도입되었습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT"
    ]
   },
   {
@@ -538,6 +906,20 @@
    "tags": [
     "Anthropic",
     "투자"
+   ]
+  },
+  {
+   "id": "724fae9251483a53",
+   "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+   "source": "Hugging Face",
+   "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+   "published_at": "2026-11-10T00:00:00+00:00",
+   "collected_at": "2026-11-10T22:16:55.954850+00:00",
+   "title_ko": "허깅페이스 허브, Google Cloud 계정 결제 지원",
+   "summary_ko": "사용자들이 구글 클라우드 계정을 통해 허깅페이스 허브 서비스를 편리하게 결제하고 이용할 수 있게 되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
    ]
   },
   {
@@ -2557,400 +2939,6 @@
    "category": "팁",
    "tags": [
     "오픈소스"
-   ]
-  },
-  {
-   "id": "ce9c91908d1111a1",
-   "url": "https://news.hada.io/topic?id=36816&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "Llama-modchip: GPU 없이 64GB RAM에서 284B DeepSeek 실행",
-   "published_at": "2026-11-08T15:32:37+00:00",
-   "collected_at": "2026-11-08T19:30:05.057142+00:00",
-   "title_ko": "GPU 없이 64GB RAM에서 DeepSeek 284B 모델 실행",
-   "summary_ko": "모델 압축과 CPU 커널 최적화를 통해 고성능 GPU 없이 일반 시스템 RAM만으로 대형 DeepSeek 모델을 구동하는 프로젝트가 공개되었습니다.",
-   "category": "중요",
-   "tags": [
-    "반도체",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "4688bc25f918a7fd",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr0ykk/i_finetuned_qwen3508b_to_turn_plain_english_into/",
-   "source": "r/LocalLLaMA",
-   "title": "I fine-tuned Qwen3.5-0.8B to turn plain English into bash. What I learnt",
-   "published_at": "2026-11-08T15:26:31+00:00",
-   "collected_at": "2026-11-08T19:29:58.229310+00:00",
-   "title_ko": "오프라인 터미널 제어를 위한 소형 LLM 파인튜닝",
-   "summary_ko": "일반 영어 명령어를 안전한 Bash 명령어로 변환해주는 오프라인 터미널 도우미 제작 경험과 성능 평가 결과가 공유되었습니다.",
-   "category": "팁",
-   "tags": [
-    "코딩",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "e7283960ec13e36c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr0mqz/has_anyone_used_tensortorrent/",
-   "source": "r/LocalLLaMA",
-   "title": "Has anyone used tensortorrent?",
-   "published_at": "2026-11-08T15:11:50+00:00",
-   "collected_at": "2026-11-08T19:29:58.229310+00:00",
-   "title_ko": "텐서토렌트(Tensortorrent) GPU 클라우드 이용 후기",
-   "summary_ko": "독특한 GPU 간 통신 채널을 가진 텐서토렌트의 클라우드 대여 서비스 접근성과 사용 경험에 대한 개발자들의 논의가 이어졌습니다.",
-   "category": "참고",
-   "tags": [
-    "반도체"
-   ]
-  },
-  {
-   "id": "9712b935bc86d3fd",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr09nq/does_censorship_exist_in_country_according_to/",
-   "source": "r/LocalLLaMA",
-   "title": "\"Does censorship exist in [country]?\", according to various LLMs",
-   "published_at": "2026-11-08T14:56:07+00:00",
-   "collected_at": "2026-11-08T14:59:56.411477+00:00",
-   "title_ko": "LLM의 국가별 검열 성향을 시각화하는 오픈소스 도구",
-   "summary_ko": "다양한 대형언어모델(LLM)에 국가별 검열 여부를 묻고 그 응답을 세계 지도 SVG로 시각화해 주는 프로그램이 공개되었습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM",
-    "규제"
-   ]
-  },
-  {
-   "id": "1d660dc4ea7a4018",
-   "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
-   "source": "Hacker News",
-   "title": "OpenAI raises $11B at a $1.25T valuation",
-   "published_at": "2026-11-08T14:49:23+00:00",
-   "collected_at": "2026-11-08T19:29:56.911116+00:00",
-   "title_ko": "오픈에이아이, 1조 2500억 달러 가치로 110억 달러 투자 유치",
-   "summary_ko": "OpenAI가 1조 2500억 달러의 기업 가치로 110억 달러 규모의 투자를 유치했습니다. AI 산업의 막대한 자금 조달 규모와 시장 평가를 보여주는 중요 소식입니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "투자"
-   ]
-  },
-  {
-   "id": "9e3f0a6d42b78d1f",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr01bj/users_have_started_buying_rtx_5060_ti_16gb/",
-   "source": "r/LocalLLaMA",
-   "title": "Users have started buying RTX 5060 Ti 16GB graphics cards en masse for the sake of AI.",
-   "published_at": "2026-11-08T14:45:22+00:00",
-   "collected_at": "2026-11-08T14:59:56.411477+00:00",
-   "title_ko": "Users have started buying RTX 5060 Ti 16GB graphics cards en masse for the sake of AI.",
-   "summary_ko": "로컬 AI 구동을 선호하는 사용자들 사이에서 가성비와 VRAM 용량을 갖춘 RTX 5060 Ti 16GB 그래픽카드가 대량으로 팔리고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "반도체",
-    "NVIDIA",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "d6cb4dd266626ace",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqzt4r/proposal_uncensoring_loras/",
-   "source": "r/LocalLLaMA",
-   "title": "Proposal: uncensoring LoRAs",
-   "published_at": "2026-11-08T14:34:49+00:00",
-   "collected_at": "2026-11-08T14:59:56.411477+00:00",
-   "title_ko": "모델 전체 대신 LoRA로 검열 해제 모델 배포 제안",
-   "summary_ko": "허깅페이스에 무수히 올라오는 검열 해제 모델 대신 가벼운 LoRA 가중치만 배포하고 공유하는 방안이 효율적인 대안으로 제시되었습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "b31bc6a159557c11",
-   "url": "https://www.reddit.com/r/singularity/comments/1xqzpba/deepminds_vp_of_science_teases_a_phase_transition/",
-   "source": "r/singularity",
-   "title": "DeepMind’s VP of Science teases a \"phase transition\" in scientific discovery. What could it be?",
-   "published_at": "2026-11-08T14:29:57+00:00",
-   "collected_at": "2026-11-08T15:00:01.331142+00:00",
-   "title_ko": "구글 딥마인드, 과학적 발견의 '상전이' 예고",
-   "summary_ko": "딥마인드 과학 담당 부사장이 과학적 발견 분야에서 커다란 변화가 다가오고 있음을 시사해 기대를 모으고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "신약개발",
-    "재료과학"
-   ]
-  },
-  {
-   "id": "77dacece726fca9c",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqxqvw/2x256gb_m5u_current_status/",
-   "source": "r/LocalLLaMA",
-   "title": "2x256gb M5U: current status",
-   "published_at": "2026-11-08T12:52:59+00:00",
-   "collected_at": "2026-11-08T14:59:56.411477+00:00",
-   "title_ko": "로컬 LLM 클러스터링 현황: 개별 모델 분산 구동이 더 유리",
-   "summary_ko": "여러 하드웨어를 묶는 클러스터링 기술보다는 고성능 모델들을 각각 별도로 구동하는 것이 성능과 효율 면에서 더 낫다는 실사용 후기가 공유되었습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "9041574401e5e0e6",
-   "url": "https://news.hada.io/topic?id=36811&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "Show GN: Boxdawn guard - Claude Code가 위험한 명령을 실행하기 전에 판정하는 플러그인",
-   "published_at": "2026-11-08T12:48:27+00:00",
-   "collected_at": "2026-11-08T15:00:03.558725+00:00",
-   "title_ko": "Claude Code의 위험한 명령어 실행을 막는 보안 플러그인",
-   "summary_ko": "Claude Code가 파괴적인 터미널 명령어나 민감 파일 유출을 유발하는 작업을 수행하기 전에 미리 검사하고 차단해 주는 플러그인이 공개되었습니다.",
-   "category": "팁",
-   "tags": [
-    "Anthropic",
-    "코딩",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "321763df5196d624",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqwqak/ask_localllama_how_are_you_handling_the_liability/",
-   "source": "r/LocalLLaMA",
-   "title": "Ask LocalLLaMA: How are you handling the liability caused by unrestricted search?",
-   "published_at": "2026-11-08T11:54:25+00:00",
-   "collected_at": "2026-11-08T14:59:56.411477+00:00",
-   "title_ko": "로컬 LLM의 무분별한 웹 검색 기능이 초래하는 보안 리스크",
-   "summary_ko": "사용자의 인터넷 연결을 이용해 LLM이 임의로 웹을 검색할 때 발생할 수 있는 법적·보안적 위험과 그 대응 방안에 대한 논의가 이어지고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "LLM",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "5e7e7af63f4d20a1",
-   "url": "https://news.hada.io/topic?id=36806&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "Google, 와이오밍주 남동부의 Crusoe 데이터센터 부지 인수",
-   "published_at": "2026-11-08T11:32:31+00:00",
-   "collected_at": "2026-11-08T15:00:03.558725+00:00",
-   "title_ko": "구글, AI 인프라 확장을 위해 와이오밍주 데이터센터 부지 인수",
-   "summary_ko": "구글이 급증하는 AI 전력 및 인프라 수요에 대응하기 위해 Crusoe의 와이오밍주 데이터센터 부지를 인수하고 하이브리드 전력 전략을 추진합니다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "반도체",
-    "투자"
-   ]
-  },
-  {
-   "id": "1d0370895e861c80",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217144",
-   "source": "AI타임스",
-   "title": "구글, 퀄컴 지분 7400억원 확보…AI 반도체 기업 인수로 주식 취득",
-   "published_at": "2026-11-08T11:26:48+00:00",
-   "collected_at": "2026-11-08T07:10:54.300751+00:00",
-   "title_ko": "구글, AI 반도체 소프트웨어 기업 인수 통해 퀄컴 지분 확보",
-   "summary_ko": "구글이 AI 반도체 소프트웨어 기업 인수를 통해 퀄컴 지분 7400억 원어치를 확보했습니다. AI 데이터센터 시장 진출을 강화하는 퀄컴과 구글의 협력 행보로 주목받고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "반도체",
-    "투자",
-    "Google"
-   ]
-  },
-  {
-   "id": "932b57d5d48159c2",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217142",
-   "source": "AI타임스",
-   "title": "아마존, 앱 없이 문자로 쇼핑 끝낸다…AI '알렉사' 문자 쇼핑 서비스 출시",
-   "published_at": "2026-11-08T11:01:12+00:00",
-   "collected_at": "2026-11-08T07:10:54.300751+00:00",
-   "title_ko": "아마존, AI 알렉사 문자 쇼핑 서비스 출시",
-   "summary_ko": "아마존이 별도의 앱이나 음성 명령 없이 문자 메시지로 상품을 검색하고 구매할 수 있는 AI '알렉사 포 쇼핑'을 선보였습니다. 자연어 기반의 편리한 쇼핑 경험을 제공합니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "5f5f3a71049bbf5f",
-   "url": "https://news.hada.io/topic?id=36805&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "Show GN: 라플라스의 가위 - LLM을 재학습하지 않고, 출력 가중치만 안전하게 수정.",
-   "published_at": "2026-11-08T10:58:38+00:00",
-   "collected_at": "2026-11-08T15:00:03.558725+00:00",
-   "title_ko": "LLM 재학습 없이 출력 가중치만 수정하는 '라플라스의 가위' 도구",
-   "summary_ko": "모델을 처음부터 다시 학습시키지 않고도 출력 가중치의 방향을 조절해 기존 성능을 유지하면서 답변 성향을 안전하게 바꿀 수 있는 도구가 소개되었습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "b6f154475fb39250",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217138",
-   "source": "AI타임스",
-   "title": "오픈AI 도청 혐의 사우디 엔지니어, 법정서 무죄 주장",
-   "published_at": "2026-11-08T10:45:54+00:00",
-   "collected_at": "2026-11-08T07:10:54.300751+00:00",
-   "title_ko": "오픈AI 사무실 도청 혐의 사우디 엔지니어, 법정서 무죄 주장",
-   "summary_ko": "오픈AI 본사 회의실에 녹음 장치를 설치한 혐의로 기소된 전직 엔지니어가 미국 법원에서 무죄를 주장했습니다. 향후 재판 결과에 업계의 이목이 쏠리고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI"
-   ]
-  },
-  {
-   "id": "6069dd2de05a2165",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217139",
-   "source": "AI타임스",
-   "title": "엔비디아, 동남아 판매 칩 위치 추적 강화로 밀수 차단 나선다",
-   "published_at": "2026-11-08T10:37:23+00:00",
-   "collected_at": "2026-11-08T07:10:54.300751+00:00",
-   "title_ko": "엔비디아, 동남아시아 AI 칩 밀수 차단 위해 위치 추적 강화",
-   "summary_ko": "엔비디아가 미국의 수출 규제를 우회해 중국으로 향하는 AI 칩 밀수를 막기 위해 동남아 클라우드 사업자에 칩 위치 추적 시스템 가입을 의무화했습니다. 규제 대응 강화 조치의 일환입니다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "반도체",
-    "규제"
-   ]
-  },
-  {
-   "id": "e349441fb2fb86d0",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217143",
-   "source": "AI타임스",
-   "title": "독일 노동시장 전문가 \"AI에 안전한 직업 찾지 마라…미래 일자리 준비해야\"",
-   "published_at": "2026-11-08T10:27:21+00:00",
-   "collected_at": "2026-11-08T07:10:54.300751+00:00",
-   "title_ko": "독일 노동시장 전문가 \"AI 시대, 안전한 직업보다 새 일자리 준비해야\"",
-   "summary_ko": "독일 노동시장 연구소가 AI가 기존 직업을 대체하더라도 새로운 직무와 산업이 등장할 것이므로 청년들이 미래 지향적 일자리를 준비해야 한다고 조언했습니다.",
-   "category": "참고",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "5e9d3fd0e59ccb77",
-   "url": "https://github.com/synchopate/llama-modchip",
-   "source": "Hacker News",
-   "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-   "published_at": "2026-11-08T10:22:04+00:00",
-   "collected_at": "2026-11-08T19:29:51.411458+00:00",
-   "title_ko": "GPU 없이 64GB 램에서 284B DeepSeek 구동하는 Llama-modchip",
-   "summary_ko": "GPU 없이 일반 64GB RAM 환경에서 대형 모델을 실행할 수 있게 해주는 오픈소스 도구가 공개되었습니다. 저비용으로 대형 모델을 실험할 수 있는 유용한 기술입니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "6f01a608133eedd4",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217137",
-   "source": "AI타임스",
-   "title": "소프트뱅크·ABB, 54억달러 로봇 인수 살리려 중국 사업부 분리 검토",
-   "published_at": "2026-11-08T09:14:31+00:00",
-   "collected_at": "2026-11-08T07:10:54.300751+00:00",
-   "title_ko": "소프트뱅크·ABB, 로봇 인수합병 위해 중국 사업부 분리 검토",
-   "summary_ko": "중국 정부의 반대로 제동이 걸린 54억 달러 규모의 로봇 사업 인수를 성사시키기 위해 소프트뱅크와 ABB가 중국 사업부 분리를 검토하고 있습니다. 기술 안보 우려를 해소하기 위한 조치입니다.",
-   "category": "중요",
-   "tags": [
-    "로보틱스",
-    "투자"
-   ]
-  },
-  {
-   "id": "f2d3820ff4e10e78",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217136",
-   "source": "AI타임스",
-   "title": "TSMC, '3D D램' 개발설 사실상 부인…상용화도 먼 길",
-   "published_at": "2026-11-08T09:03:39+00:00",
-   "collected_at": "2026-11-08T00:24:36.889053+00:00",
-   "title_ko": "TSMC, 엔비디아의 3D D램 개발설에 기존 파운드리 집중 선언",
-   "summary_ko": "TSMC가 엔비디아의 요청으로 거론된 '3D D램' 개발설에 대해 기존 파운드리 사업에 집중하겠다는 입장을 밝혔습니다. 상용화까지 수년이 걸려 단기적인 메모리 부족 해결은 어려울 전망입니다.",
-   "category": "중요",
-   "tags": [
-    "TSMC",
-    "NVIDIA",
-    "반도체"
-   ]
-  },
-  {
-   "id": "f97b31a8761e585f",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217135",
-   "source": "AI타임스",
-   "title": "FT \"미 정보당국, 젠슨 황 CEO와 중국 스파이 의심 인물 연인 관계로 판단\"",
-   "published_at": "2026-11-08T08:52:25+00:00",
-   "collected_at": "2026-11-08T00:24:36.889053+00:00",
-   "title_ko": "미 정보당국, 젠슨 황 CEO와 중국 스파이 연루설 제기",
-   "summary_ko": "미국 정보당국이 젠슨 황 엔비디아 CEO가 중국 스파이로 의심받는 여성 기업인과 연인 관계였다는 문건을 작성한 것으로 알려졌습니다. 미중 기술 패권 경쟁 속에서 엔비디아의 보안 리스크가 주목받고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "규제"
-   ]
-  },
-  {
-   "id": "e4d02fd5d90b0b91",
-   "url": "https://www.lorekit.io/blog/open-agent-memory-format",
-   "source": "Hacker News",
-   "title": "Agent memory needs its OpenTelemetry moment",
-   "published_at": "2026-11-08T08:40:23+00:00",
-   "collected_at": "2026-11-08T19:29:51.411458+00:00",
-   "title_ko": "에이전트 메모리를 위한 표준화된 개방형 포맷의 필요성",
-   "summary_ko": "AI 에이전트의 기억 관리를 위해 OpenTelemetry와 같은 표준화된 개방형 메모리 포맷이 필요하다는 분석입니다. 에이전트 생태계의 성숙을 위한 중요 과제를 다룹니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "9472f47a616692e0",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqs2sh/openclaw_retrospective/",
-   "source": "r/LocalLLaMA",
-   "title": "OpenClaw Retrospective",
-   "published_at": "2026-11-08T06:47:56+00:00",
-   "collected_at": "2026-11-08T07:10:41.165517+00:00",
-   "title_ko": "오픈소스 AI 프로젝트 'OpenClaw' 회고",
-   "summary_ko": "오픈소스 AI 프로젝트인 OpenClaw가 대중적 성공을 거두고 오픈AI에 거액으로 인수되기까지의 과정을 회고하는 글입니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "OpenAI"
-   ]
-  },
-  {
-   "id": "26e7bce47c1a1465",
-   "url": "https://news.hada.io/topic?id=36795&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "Claude와 작별하고 Pi로",
-   "published_at": "2026-11-08T06:32:38+00:00",
-   "collected_at": "2026-11-08T07:10:55.279620+00:00",
-   "title_ko": "개발자의 Claude Code에서 Pi로의 코딩 도구 전환기",
-   "summary_ko": "Claude Pro의 코딩 도구를 사용하던 개발자가 잦은 시스템 프롬프트 변경과 IDE 제약 등 누적된 불편함으로 인해 주력 코딩 하네스를 Pi로 전환한 경험담입니다.",
-   "category": "팁",
-   "tags": [
-    "Claude",
-    "코딩"
-   ]
-  },
-  {
-   "id": "b801d5345db4a4ce",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqrqn6/anybody_tried_apex_35b_and_axion_35b/",
-   "source": "r/LocalLLaMA",
-   "title": "Anybody tried Apex 35B and Axion 35B?",
-   "published_at": "2026-11-08T06:26:17+00:00",
-   "collected_at": "2026-11-08T07:10:41.165517+00:00",
-   "title_ko": "Qwen 3.6 35B 기반 신규 파인튜닝 모델 등장",
-   "summary_ko": "Qwen 3.6 35B를 기반으로 바이트댄스 등이 참여한 것으로 알려진 신규 파인튜닝 모델 Apex 35B와 Axion 35B가 허깅페이스에 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "모델명"
    ]
   }
  ]
