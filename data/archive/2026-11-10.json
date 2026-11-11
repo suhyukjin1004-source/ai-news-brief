@@ -1,5 +1,20 @@
 [
  {
+  "id": "9e2bb89ffbb2b5be",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xso1ie/minimax_h3image_released_an_openweight_image/",
+  "source": "r/LocalLLaMA",
+  "title": "MiniMax H3-Image Released, an Open-Weight Image Model built on H3",
+  "published_at": "2026-11-10T14:18:08+00:00",
+  "collected_at": "2026-11-11T02:41:35.634559+00:00",
+  "title_ko": "MiniMax, H3 기반 오픈웨이트 이미지 모델 'H3-Image' 공개",
+  "summary_ko": "MiniMax가 자사의 H3 아키텍처를 기반으로 한 새로운 오픈웨이트 이미지 생성 모델 H3-Image를 출시했습니다. 오픈소스 이미지 생성 모델 생태계에 새로운 선택지가 될 것입니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "이미지 생성"
+  ]
+ },
+ {
   "id": "6f261b3945cac670",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=217217",
   "source": "AI타임스",
@@ -60,6 +75,52 @@
   ]
  },
  {
+  "id": "d8a967756fad10d6",
+  "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+  "source": "TechCrunch",
+  "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
+  "published_at": "2026-11-10T13:00:00+00:00",
+  "collected_at": "2026-11-11T02:41:20.219505+00:00",
+  "title_ko": "허깅페이스 임원, 사이버 공격으로 인한 오픈소스 AI 개방성 위축 경고",
+  "summary_ko": "오픈 AI 플랫폼을 향한 사이버 공격이 증가하면서 보안 제한이 강화되어 개발자 생태계의 접근성이 위협받을 수 있다고 허깅페이스 임원이 경고했습니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "Hugging Face",
+   "규제"
+  ]
+ },
+ {
+  "id": "a27532638c556bde",
+  "url": "https://www.wsj.com/finance/stocks/anthropic-to-seek-1-3-trillion-valuation-in-ipo-8337b669",
+  "source": "Hacker News",
+  "title": "Anthropic to Seek $1.3T Valuation in IPO",
+  "published_at": "2026-11-10T12:49:32+00:00",
+  "collected_at": "2026-11-11T02:41:34.758348+00:00",
+  "title_ko": "앤트로픽, IPO에서 1조 3천억 달러 기업가치 목표 추진",
+  "summary_ko": "AI 기업 앤트로픽이 기업공개(IPO) 과정에서 1조 3천억 달러 규모의 가치를 평가받는 방안을 추진 중입니다. AI 업계의 거대 자본 유입과 시장 성장을 보여주는 대목입니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "투자"
+  ]
+ },
+ {
+  "id": "de93f69e9dc204a0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsljn6/nobody_wondering_why_the_us_takes_nvidia_ceo/",
+  "source": "r/LocalLLaMA",
+  "title": "Nobody wondering why the US takes Nvidia CEO affair public?",
+  "published_at": "2026-11-10T12:23:33+00:00",
+  "collected_at": "2026-11-11T02:41:35.634559+00:00",
+  "title_ko": "엔비디아 CEO 관련 논란의 배경에 대한 AI 커뮤니티 분석",
+  "summary_ko": "엔비디아 최고경영자 관련 이슈가 공론화된 것을 두고 AI 업계와 커뮤니티에서 하드웨어 백도어 및 지정학적 압박 등 다양한 해석이 나오고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
   "id": "1fd8759e70fe833d",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=217212",
   "source": "AI타임스",
@@ -71,6 +132,20 @@
   "category": "팁",
   "tags": [
    "코딩"
+  ]
+ },
+ {
+  "id": "94480700440527a5",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsl8w7/strata_after_heavy_optimizations/",
+  "source": "r/LocalLLaMA",
+  "title": "Strata after heavy optimizations",
+  "published_at": "2026-11-10T12:08:12+00:00",
+  "collected_at": "2026-11-11T02:41:35.634559+00:00",
+  "title_ko": "대규모 최적화를 거친 Strata 성능 공개",
+  "summary_ko": "Opus와 Fable을 활용해 대규모 최적화를 거친 Strata의 성능 향상 결과가 공유되었습니다. 로컬 LLM 구동 성능 극대화에 관심이 모입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
   ]
  },
  {
@@ -103,6 +178,36 @@
   ]
  },
  {
+  "id": "dcd04f74c6f7526d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xskr0m/xiangjuntangjovox64_hugging_face_imageto3d/",
+  "source": "r/LocalLLaMA",
+  "title": "xiangjuntang/JoVox-64 · Hugging Face - Image-to-3D",
+  "published_at": "2026-11-10T11:41:51+00:00",
+  "collected_at": "2026-11-11T02:41:35.634559+00:00",
+  "title_ko": "단일 이미지로 3D 복셀 생성하는 'JoVox-64' 공개",
+  "summary_ko": "단 한 장의 이미지로 경량화된 3D 복셀 구조를 다단계로 생성하는 계층적 플로우 매칭 프레임워크 JoVox-64가 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "연구"
+  ]
+ },
+ {
+  "id": "d3b6c247300151f2",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xski9d/decision_model_to_edit_llm_weight_directly_no/",
+  "source": "r/LocalLLaMA",
+  "title": "Decision model to edit LLM weight directly - No training",
+  "published_at": "2026-11-10T11:27:44+00:00",
+  "collected_at": "2026-11-11T02:41:35.634559+00:00",
+  "title_ko": "학습 없이 LLM 가중치를 직접 편집하는 결정 모델 개발",
+  "summary_ko": "별도의 재학습 없이 결정 모델을 이용해 LLM의 가중치를 직접 수정하고 새로운 스킬을 주입하는 방법론이 공개되었습니다. 효율적인 모델 커스텀 방안을 제시합니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "534e23320d33a495",
   "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
   "source": "Hacker News",
@@ -114,6 +219,21 @@
   "category": "참고",
   "tags": [
    "코딩"
+  ]
+ },
+ {
+  "id": "cea93b879e804e9f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsjfwo/fable_52_not_only_has_guardrails_against_ai/",
+  "source": "r/LocalLLaMA",
+  "title": "Fable 5.2 not only has guardrails against AI acceleration, its capabilities were capped in training too",
+  "published_at": "2026-11-10T10:23:52+00:00",
+  "collected_at": "2026-11-11T02:41:35.634559+00:00",
+  "title_ko": "Fable 5.2, 안전장치 및 학습 역량 제한 논란",
+  "summary_ko": "Fable 5.2 모델이 과도한 가드레일과 함께 학습 단계에서부터 성능이 제한되었다는 분석이 제기되며 오픈웨이트 모델의 필요성이 다시 강조되고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "LLM"
   ]
  },
  {
