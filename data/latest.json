@@ -1,8 +1,98 @@
 {
- "updated_at": "2026-11-11T18:36:10.605427+00:00",
+ "updated_at": "2026-11-12T01:28:24.670111+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "07ca20f72ae6e6af",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217304",
+   "source": "AI타임스",
+   "title": "엔비디아 이사회, 젠슨 황 해임 논의 착수…주가 시간외 8% 급락",
+   "published_at": "2026-11-12T09:56:27+00:00",
+   "collected_at": "2026-11-12T01:28:06.507725+00:00",
+   "title_ko": "엔비디아 이사회, 젠슨 황 CEO 해임 논의 착수",
+   "summary_ko": "엔비디아 이사회가 사생활 논란에 휘말린 젠슨 황 CEO의 해임 여부를 논의하기 위해 회의에 착수했으며, 시간외 주가가 급락했습니다. AI 업계 최고 거물의 거취 문제로 큰 파장이 예상됩니다.",
+   "category": "속보",
+   "tags": [
+    "NVIDIA",
+    "투자"
+   ]
+  },
+  {
+   "id": "1e9eeeef53adf04c",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217298",
+   "source": "AI타임스",
+   "title": "코어위브 25% 급등에 AI 기술주 동반 반등…엔비디아도 상승 전환",
+   "published_at": "2026-11-12T08:25:05+00:00",
+   "collected_at": "2026-11-12T01:28:06.507725+00:00",
+   "title_ko": "코어위브 실적 호조에 AI 기술주 동반 반등",
+   "summary_ko": "코어위브의 예상 밖 호실적과 자금 조달 계획 발표로 AI 인프라 및 기술주들이 일제히 반등했습니다. 거품 논란으로 위축됐던 시장에 안도감을 제공했습니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "투자",
+    "반도체"
+   ]
+  },
+  {
+   "id": "e615adee1bf7d019",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtyxl9/deepseek_v41_flash_1017_exl3_29bpw_apex_2025/",
+   "source": "r/LocalLLaMA",
+   "title": "DeepSeek V4.1 Flash 1017 exl3 2.9bpw APEX 2025 benchmark results",
+   "published_at": "2026-11-12T00:50:08+00:00",
+   "collected_at": "2026-11-12T01:27:52.387528+00:00",
+   "title_ko": "DeepSeek V4.1 Flash 벤치마크 결과 공개",
+   "summary_ko": "로컬 환경에서 구동한 DeepSeek V4.1 Flash 모델의 양자화 버전 성능을 APEX 2025 벤치마크로 측정한 결과가 공유되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "GPT"
+   ]
+  },
+  {
+   "id": "fc0483e233ce2a5f",
+   "url": "https://news.hada.io/topic?id=37018&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "WSJ 보도에 따르면 Nvidia가 CEO Jensen Huang 해임을 준비 중",
+   "published_at": "2026-11-12T00:31:46+00:00",
+   "collected_at": "2026-11-12T01:28:07.655718+00:00",
+   "title_ko": "외신 \"엔비디아, 젠슨 황 CEO 해임 준비 중\"",
+   "summary_ko": "월스트리트저널 등 외신을 인용해 엔비디아 이사회가 젠슨 황 CEO의 해임을 준비하고 있다는 소식이 전해졌습니다.",
+   "category": "속보",
+   "tags": [
+    "NVIDIA"
+   ]
+  },
+  {
+   "id": "beafb4e13664fd44",
+   "url": "https://news.hada.io/topic?id=37017&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "OpenMAIC - 주제나 문서를 AI 교사와 토론하는 수업으로 만드는 오픈소스 플랫폼",
+   "published_at": "2026-11-12T00:30:02+00:00",
+   "collected_at": "2026-11-12T01:28:07.655718+00:00",
+   "title_ko": "AI 교사와 토론하는 수업 플랫폼 'OpenMAIC'",
+   "summary_ko": "사용자가 입력한 주제를 바탕으로 슬라이드, 퀴즈, 시뮬레이션 등을 자동 생성하고 AI 교사와 토론할 수 있는 오픈소스 플랫폼입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "f8a919376d903b58",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xty1vc/simplest_local_agentic_setup/",
+   "source": "r/LocalLLaMA",
+   "title": "Simplest Local Agentic Setup",
+   "published_at": "2026-11-12T00:09:37+00:00",
+   "collected_at": "2026-11-12T01:27:52.387528+00:00",
+   "title_ko": "저사양 로컬 환경을 위한 간단한 AI 에이전트 구축법",
+   "summary_ko": "제한된 VRAM을 가진 워크스테이션에서 가볍게 구동할 수 있는 로컬 AI 에이전트 세팅 방법과 추천 도구가 공유되었습니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
   {
    "id": "f28f90d2895a812c",
    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
@@ -12,6 +102,418 @@
    "collected_at": "2026-11-11T02:41:33.345564+00:00",
    "title_ko": "길버트 앤 토빈, AI로 법률 비즈니스 혁신",
    "summary_ko": "로펌 길버트 앤 토빈의 CEO가 AI를 활용한 법률 업무 혁신 과정과 비즈니스 변화에 대해 설명합니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "efdd0bfa6110086b",
+   "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "source": "TechCrunch",
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "published_at": "2026-11-11T23:50:00+00:00",
+   "collected_at": "2026-11-12T01:27:30.385981+00:00",
+   "title_ko": "젠슨 황 스캔들의 타임라인과 안보적 파장",
+   "summary_ko": "젠슨 황 CEO를 둘러싼 스캔들이 미·중 AI 인프라 경쟁 및 국가 안보에 미칠 수 있는 잠재적 영향에 대한 분석입니다.",
+   "category": "참고",
+   "tags": [
+    "NVIDIA",
+    "규제"
+   ]
+  },
+  {
+   "id": "33d8dfca45093e6c",
+   "url": "https://news.hada.io/topic?id=37014&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "United Airlines, AI 에이전트의 여행객 대리 항공편 예약 금지",
+   "published_at": "2026-11-11T23:38:13+00:00",
+   "collected_at": "2026-11-12T01:28:07.655718+00:00",
+   "title_ko": "유나이티드항공, AI 에이전트의 대리 항공편 예약 금지",
+   "summary_ko": "민감 정보 노출 및 규정 위반을 방지하기 위해 유나이티드항공이 제3자 AI 에이전트를 통한 대리 예약을 금지하는 정책을 도입했습니다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트",
+    "규제"
+   ]
+  },
+  {
+   "id": "d1e4162800dcd078",
+   "url": "https://news.hada.io/topic?id=37013&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Nvidia, CEO Jensen Huang 축출 준비 중",
+   "published_at": "2026-11-11T23:35:13+00:00",
+   "collected_at": "2026-11-12T01:28:07.655718+00:00",
+   "title_ko": "엔비디아 이사회, 젠슨 황 CEO 축출 절차 돌입",
+   "summary_ko": "혼외 관계 및 스파이 연루 의혹 등으로 엔비디아 이사회가 창업자 젠슨 황의 축출을 위한 회의를 준비 중입니다.",
+   "category": "속보",
+   "tags": [
+    "NVIDIA"
+   ]
+  },
+  {
+   "id": "b49f81646f6a72ac",
+   "url": "https://news.hada.io/topic?id=37012&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Show GN: TokenPlant - Claude Code·Codex에 쓴 토큰으로 픽셀 식물을 키우는 macOS 메뉴바 앱",
+   "published_at": "2026-11-11T23:30:11+00:00",
+   "collected_at": "2026-11-12T01:28:07.655718+00:00",
+   "title_ko": "AI 토큰 사용량으로 식물을 키우는 앱 'TokenPlant'",
+   "summary_ko": "클로드 코드 등의 AI 코딩 도구 사용 토큰량에 따라 메뉴바에서 픽셀 식물을 키울 수 있는 macOS용 로컬 앱입니다.",
+   "category": "팁",
+   "tags": [
+    "Claude",
+    "코딩"
+   ]
+  },
+  {
+   "id": "b91248042740580a",
+   "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+   "source": "TechCrunch",
+   "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+   "published_at": "2026-11-11T23:28:45+00:00",
+   "collected_at": "2026-11-12T01:27:30.385981+00:00",
+   "title_ko": "엔비디아 이사회, 젠슨 황 해임 추진설에 주가 하락",
+   "summary_ko": "이사회의 CEO 해임 추진 보도 직후 엔비디아 주가가 하락세를 보이며 시장에 큰 충격을 주었습니다.",
+   "category": "속보",
+   "tags": [
+    "NVIDIA",
+    "투자"
+   ]
+  },
+  {
+   "id": "d8ef3fe6591f506a",
+   "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+   "source": "TechCrunch",
+   "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+   "published_at": "2026-11-11T23:17:05+00:00",
+   "collected_at": "2026-11-12T01:27:30.385981+00:00",
+   "title_ko": "젠슨 황, 사내 임원과의 추가 불륜 의혹 제기",
+   "summary_ko": "중국 스파이 연루 의혹에 이어 젠슨 황 엔비디아 CEO가 사내 부하 직원과도 부적절한 관계를 가졌다는 추가 보도가 나왔습니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA"
+   ]
+  },
+  {
+   "id": "574fc8c549fb760f",
+   "url": "https://www.reddit.com/r/singularity/comments/1xtwck8/nvidia_preparing_to_remove_ceo_jensen/",
+   "source": "r/singularity",
+   "title": "Nvidia preparing to remove CEO Jensen",
+   "published_at": "2026-11-11T22:55:32+00:00",
+   "collected_at": "2026-11-12T01:28:05.429621+00:00",
+   "title_ko": "엔비디아의 젠슨 황 CEO 해임 추진 소식",
+   "summary_ko": "엔비디아 이사회가 젠슨 황 CEO의 해임을 준비하고 있다는 해외 커뮤니티의 관련 소식 공유입니다.",
+   "category": "속보",
+   "tags": [
+    "NVIDIA"
+   ]
+  },
+  {
+   "id": "cd03d116301a7043",
+   "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+   "source": "The Verge",
+   "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+   "published_at": "2026-11-11T22:44:36+00:00",
+   "collected_at": "2026-11-12T01:27:30.505080+00:00",
+   "title_ko": "엔비디아 이사회, 젠슨 황 CEO 해임 추진 보도",
+   "summary_ko": "엔비디아 이사회가 젠슨 황 CEO의 연이은 스캔들 보도 여파로 해임을 준비 중이라는 소식입니다. AI 반도체 산업의 핵심 인물인 만큼 업계에 큰 파장이 예상됩니다.",
+   "category": "속보",
+   "tags": [
+    "NVIDIA",
+    "투자"
+   ]
+  },
+  {
+   "id": "293629a8c0d48c95",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtvxtp/architecture_trends_from_full_to_local_attention/",
+   "source": "r/LocalLLaMA",
+   "title": "Architecture trends: From full to local attention",
+   "published_at": "2026-11-11T22:38:09+00:00",
+   "collected_at": "2026-11-12T01:27:52.387528+00:00",
+   "title_ko": "오픈소스 LLM 아키텍처, 하이브리드 어텐션으로 전환",
+   "summary_ko": "오픈소스 LLM 시장에서 전체 어텐션을 사용하는 모델이 사라지고 하이브리드 어텐션 구조가 대세로 자리 잡고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "46c1cee51a22cfbb",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtvsi7/nvidia_is_preparing_to_oust_nvidia_ceo_jensen/",
+   "source": "r/LocalLLaMA",
+   "title": "Nvidia is Preparing to Oust Nvidia CEO Jensen Huang",
+   "published_at": "2026-11-11T22:31:56+00:00",
+   "collected_at": "2026-11-12T01:27:52.387528+00:00",
+   "title_ko": "엔비디아 이사회, 젠슨 황 CEO 해임 추진",
+   "summary_ko": "엔비디아 젠슨 황 CEO의 거취를 둘러싼 이사회의 해임 추진 움직임이 보도되었습니다.",
+   "category": "속보",
+   "tags": [
+    "NVIDIA"
+   ]
+  },
+  {
+   "id": "89f810b4a3884870",
+   "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+   "source": "Hacker News",
+   "title": "Nvidia is preparing to oust Jensen Huang",
+   "published_at": "2026-11-11T22:31:06+00:00",
+   "collected_at": "2026-11-12T01:27:49.560618+00:00",
+   "title_ko": "엔비디아 이사회, 젠슨 황 CEO 해임 절차 착수",
+   "summary_ko": "월스트리트저널 등 주요 매체를 통해 엔비디아 이사회가 젠슨 황 CEO의 해임을 준비 중이라는 소식이 전해졌습니다.",
+   "category": "속보",
+   "tags": [
+    "NVIDIA"
+   ]
+  },
+  {
+   "id": "8687ac838832eb30",
+   "url": "https://www.reddit.com/r/singularity/comments/1xtvbqj/a_second_affair_has_hit_the_jensen/",
+   "source": "r/singularity",
+   "title": "A second affair has hit the Jensen",
+   "published_at": "2026-11-11T22:12:40+00:00",
+   "collected_at": "2026-11-12T01:28:05.429621+00:00",
+   "title_ko": "젠슨 황 CEO를 둘러싼 두 번째 스캔들 보도",
+   "summary_ko": "엔비디아 젠슨 황 CEO와 관련된 추가적인 사생활 논란이 보도되며 커뮤니티의 관심을 모으고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "NVIDIA"
+   ]
+  },
+  {
+   "id": "8e5f1df4bf3dbc6d",
+   "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+   "source": "Hacker News",
+   "title": "Jensen Huang said to have had relationship with executive who reports to him",
+   "published_at": "2026-11-11T22:03:58+00:00",
+   "collected_at": "2026-11-12T01:27:49.560618+00:00",
+   "title_ko": "뉴욕타임스, 젠슨 황 CEO의 사내 부적절한 관계 보도",
+   "summary_ko": "젠슨 황 CEO가 직속 부하 직원과 부적절한 관계를 가졌다는 뉴욕타임스의 보도가 나왔습니다.",
+   "category": "속보",
+   "tags": [
+    "NVIDIA"
+   ]
+  },
+  {
+   "id": "624a305adfa41ec6",
+   "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+   "source": "Simon Willison",
+   "title": "Gemini Decisions API",
+   "published_at": "2026-11-11T22:03:25+00:00",
+   "collected_at": "2026-11-12T01:27:51.082973+00:00",
+   "title_ko": "구글, 멀티모달 지원 '제미나이 데시전스 API' 공개",
+   "summary_ko": "구글이 텍스트, 이미지, 오디오를 모두 지원하는 의사결정 모델 API 'Gemini Decision 1'을 출시했습니다. OpenAI 및 Jev와 경쟁 구도를 형성합니다.",
+   "category": "속보",
+   "tags": [
+    "Google",
+    "Gemini",
+    "OpenAI"
+   ]
+  },
+  {
+   "id": "576d29469f053bde",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtux72/261029162v1_why_is_aigenerated_language_so_hard/",
+   "source": "r/LocalLLaMA",
+   "title": "[2610.29162v1] Why is AI-generated language so hard to understand?",
+   "published_at": "2026-11-11T21:56:29+00:00",
+   "collected_at": "2026-11-12T01:27:52.387528+00:00",
+   "title_ko": "AI 생성 언어가 이해하기 어려운 이유에 대한 연구",
+   "summary_ko": "AI가 생성한 텍스트가 인간에게 종종 부자연스럽고 이해하기 어려운 이유를 분석한 연구 논문이 공유되었습니다.",
+   "category": "참고",
+   "tags": [
+    "LLM"
+   ]
+  },
+  {
+   "id": "d8ee9ab549e424bc",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+   "source": "The Verge",
+   "title": "United won’t let your AI agent book your flight",
+   "published_at": "2026-11-11T21:54:21+00:00",
+   "collected_at": "2026-11-12T01:27:30.505080+00:00",
+   "title_ko": "유나이티드항공, 개인 AI 에이전트의 항공권 예매 차단",
+   "summary_ko": "유나이티드항공이 개인 정보 보호 및 규제 우려를 이유로 AI 에이전트를 통한 항공권 예매를 허용하지 않겠다고 밝혔습니다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트",
+    "규제"
+   ]
+  },
+  {
+   "id": "53bc56e14c08d499",
+   "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+   "source": "Hacker News",
+   "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+   "published_at": "2026-11-11T21:24:35+00:00",
+   "collected_at": "2026-11-12T01:27:49.560618+00:00",
+   "title_ko": "유나이티드항공, AI 에이전트의 항공권 대리 예매 금지",
+   "summary_ko": "항공사들이 AI 에이전트를 통한 자동 예매 서비스를 제한하기 시작하며 관련 규제 논의가 대두되고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트",
+    "규제"
+   ]
+  },
+  {
+   "id": "ab6cbe9bf37c713c",
+   "url": "https://www.reddit.com/r/singularity/comments/1xttf1r/huawei_open_sources_sota_modelagnostic/",
+   "source": "r/singularity",
+   "title": "HuaWei open sources SOTA model-agnostic quantization for GGUF, local inference. Quantize and run text, image, video and audio models with llama.cpp, vLLM, Diffusers and PyTorch.",
+   "published_at": "2026-11-11T20:56:34+00:00",
+   "collected_at": "2026-11-12T01:28:05.429621+00:00",
+   "title_ko": "화웨이, GGUF용 모델 독립형 양자화 기술 오픈소스 공개",
+   "summary_ko": "화웨이가 텍스트, 이미지, 비디오, 오디오 모델을 로컬에서 실행할 수 있는 SOTA 양자화 기술을 오픈소스로 공개했습니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "ae5556d61c0b046e",
+   "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+   "source": "TechCrunch",
+   "title": "Why the data center you dread might never even be built",
+   "published_at": "2026-11-11T20:15:15+00:00",
+   "collected_at": "2026-11-12T01:27:30.385981+00:00",
+   "title_ko": "AI 인프라 붐 속 데이터센터 건설의 현실적 난관",
+   "summary_ko": "AI 데이터센터 건설 붐이 주민 반대, 인허가 지연, 전력 부족 등의 현실적 장벽에 부딪히며 계획대로 진행되지 않을 수 있다는 분석입니다.",
+   "category": "중요",
+   "tags": [
+    "투자",
+    "반도체"
+   ]
+  },
+  {
+   "id": "bdeaa23eb9886c5a",
+   "url": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
+   "source": "TechCrunch",
+   "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+   "published_at": "2026-11-11T20:02:14+00:00",
+   "collected_at": "2026-11-12T01:27:30.385981+00:00",
+   "title_ko": "AI 데이터센터, 인허가 지연과 전력난으로 난항",
+   "summary_ko": "AI 인프라 투자 급증에도 불구하고 지역 주민 반대, 인허가 지연, 전력 부족 등의 현실적 장애물로 인해 프로젝트가 차질을 빚고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "반도체",
+    "투자",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "850c0644106f9238",
+   "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+   "source": "TechCrunch",
+   "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+   "published_at": "2026-11-11T19:54:00+00:00",
+   "collected_at": "2026-11-12T01:27:30.385981+00:00",
+   "title_ko": "코어위브, AI 성장을 위해 선결제 및 단기 계약 도입",
+   "summary_ko": "코어위브가 3분기 실적 발표에서 AI 인프라 자금 조달을 위해 고객 선결제와 단기 계약 중심의 전략을 강화하고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "투자",
+    "반도체"
+   ]
+  },
+  {
+   "id": "6f3c74a04fea158f",
+   "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+   "source": "TechCrunch",
+   "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+   "published_at": "2026-11-11T19:34:55+00:00",
+   "collected_at": "2026-11-12T01:27:30.385981+00:00",
+   "title_ko": "영국 프랙틸, AI 칩 개발 위해 7억 2천만 달러 투자 유치",
+   "summary_ko": "맞춤형 AI 반도체 개발사인 프랙틸이 대규모 투자를 유치하며 AI 칩 경쟁의 주요 주자로 부상했습니다.",
+   "category": "중요",
+   "tags": [
+    "반도체",
+    "투자"
+   ]
+  },
+  {
+   "id": "12149c8999a27fe5",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtqsuu/us_and_china_may_collaborate_on_ai_the_jokes/",
+   "source": "r/LocalLLaMA",
+   "title": "US and China \"may\" collaborate on AI. The jokes write themselves",
+   "published_at": "2026-11-11T19:15:33+00:00",
+   "collected_at": "2026-11-12T01:27:52.387528+00:00",
+   "title_ko": "미국과 중국의 AI 분야 협력 가능성 제기",
+   "summary_ko": "미국과 중국이 AI 개발을 위해 협력할 수 있다는 관측이 나오며 업계의 관심을 모으고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "규제"
+   ]
+  },
+  {
+   "id": "4443c3f3c02e5e8a",
+   "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
+   "source": "Hacker News",
+   "title": "Retirement Savings Are Fueling the AI Bubble",
+   "published_at": "2026-11-11T19:06:43+00:00",
+   "collected_at": "2026-11-12T01:27:50.913569+00:00",
+   "title_ko": "은퇴 자금이 AI 거품을 부추긴다는 분석",
+   "summary_ko": "개인의 은퇴 저축 자금이 현재의 AI 투자 열풍과 거품 형성에 유입되고 있다는 분석이 제기되었습니다.",
+   "category": "참고",
+   "tags": [
+    "투자"
+   ]
+  },
+  {
+   "id": "c5d1a9eb33834e11",
+   "url": "https://simonwillison.net/2026/Nov/11/tools-tags/",
+   "source": "Simon Willison",
+   "title": "Browse tools.simonwillison.net by tag",
+   "published_at": "2026-11-11T18:42:50+00:00",
+   "collected_at": "2026-11-12T01:27:51.082973+00:00",
+   "title_ko": "사이먼 윌리슨, 태그 기반 AI 도구 탐색 기능 추가",
+   "summary_ko": "개발자 사이먼 윌리슨이 트리시터(tree-sitter)를 활용해 자신이 수집한 AI 및 웹 도구들을 태그별로 쉽게 탐색할 수 있는 기능을 선보였습니다.",
+   "category": "팁",
+   "tags": [
+    "Claude",
+    "LLM"
+   ]
+  },
+  {
+   "id": "927181826b8abf66",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtpqxm/new_paper_unless_told_otherwise_an_open_language/",
+   "source": "r/LocalLLaMA",
+   "title": "New Paper -> Unless Told Otherwise, an Open Language Model Says OpenAI Made It",
+   "published_at": "2026-11-11T18:36:37+00:00",
+   "collected_at": "2026-11-12T01:27:52.387528+00:00",
+   "title_ko": "오픈 LLM, 별도 지시 없으면 자사 모델을 OpenAI라 주장",
+   "summary_ko": "오픈소스 언어모델을 대상으로 한 실험에서, 특별한 지시가 없으면 자신이 OpenAI 모델이라고 답변하는 경향이 발견되었습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM",
+    "OpenAI"
+   ]
+  },
+  {
+   "id": "64a1950383736ad0",
+   "url": "https://www.reddit.com/r/singularity/comments/1xtpfrg/google_launches_gemini_decision1_model_for_fast/",
+   "source": "r/singularity",
+   "title": "Google Launches Gemini Decision-1 Model for Fast Structured Outputs",
+   "published_at": "2026-11-11T18:24:44+00:00",
+   "collected_at": "2026-11-12T01:28:05.429621+00:00",
+   "title_ko": "구글, 고속 정형 출력 지원하는 Gemini Decision-1 공개",
+   "summary_ko": "구글이 이미지, 오디오, 비디오, PDF를 네이티브로 지원하며 백만 토큰당 0.10달러의 저렴한 가격으로 작동하는 제미나이 디시전-1을 출시했습니다.",
+   "category": "속보",
+   "tags": [
+    "Google",
+    "Gemini"
+   ]
+  },
+  {
+   "id": "4c8a3f7167cb1c01",
+   "url": "https://www.reddit.com/r/singularity/comments/1xtokzt/this_is_a_comment_on_a_cnn_report_about_how_ai_is/",
+   "source": "r/singularity",
+   "title": "This is a comment on a CNN report about how AI is making flights faster by developing better routes… Like, these are the kind of people who would say what about jobs when machines could start helping humans grow 10x more food",
+   "published_at": "2026-11-11T17:53:15+00:00",
+   "collected_at": "2026-11-12T01:28:05.429621+00:00",
+   "title_ko": "AI를 활용한 항공 경로 최적화로 비행 시간 단축",
+   "summary_ko": "AI가 더 나은 비행 경로를 개발함으로써 항공 운항을 효율화하고 있다는 소식입니다.",
    "category": "참고",
    "tags": [
     "AI 에이전트"
@@ -46,6 +548,21 @@
     "NVIDIA",
     "반도체",
     "규제"
+   ]
+  },
+  {
+   "id": "ac992cc25d49f443",
+   "url": "https://simonwillison.net/2026/Nov/11/llm/",
+   "source": "Simon Willison",
+   "title": "llm 0.37.2",
+   "published_at": "2026-11-11T17:19:52+00:00",
+   "collected_at": "2026-11-12T01:27:51.082973+00:00",
+   "title_ko": "LLM CLI 도구 0.37.2 버전 보안 패치 배포",
+   "summary_ko": "OpenAI 호환 API 사용 시 API 키가 실수로 유출될 수 있는 보안 취약점을 해결한 LLM 0.37.2 버전이 출시되었습니다.",
+   "category": "팁",
+   "tags": [
+    "OpenAI",
+    "LLM"
    ]
   },
   {
@@ -506,6 +1023,21 @@
    "tags": [
     "규제",
     "트렌드"
+   ]
+  },
+  {
+   "id": "8c999d6885d24711",
+   "url": "https://openai.com/index/jiostar-vijay-seshadri",
+   "source": "OpenAI",
+   "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+   "published_at": "2026-11-11T00:00:00+00:00",
+   "collected_at": "2026-11-12T01:27:43.411792+00:00",
+   "title_ko": "지오스타 수석 아키텍트가 전하는 5억 규모 사용자 대상 AI 서비스 구축기",
+   "summary_ko": "지오스타의 비제이 세샤드리가 5억 명 규모의 사용자에게 AI를 적용하며 얻은 평가(evals)와 가드레일 구축 노하우를 공유했습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "AI 에이전트"
    ]
   },
   {
@@ -2430,517 +2962,6 @@
    "category": "팁",
    "tags": [
     "오픈소스"
-   ]
-  },
-  {
-   "id": "2bb18f2869ad4004",
-   "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
-   "source": "The Verge",
-   "title": "Disney and Adobe are building generative AI tools together",
-   "published_at": "2026-11-09T15:38:56+00:00",
-   "collected_at": "2026-11-09T16:01:02.429069+00:00",
-   "title_ko": "디즈니-어도비, 아티스트 중심 생성형 AI 도구 공동 개발",
-   "summary_ko": "디즈니와 어도비가 콘텐츠 제작 파이프라인을 위한 맞춤형 생성형 AI 모델 개발에 손을 잡았다. 엔터테인먼트 산업 내 AI 활용이 더욱 가속화될 전망이다.",
-   "category": "참고",
-   "tags": [
-    "Adobe"
-   ]
-  },
-  {
-   "id": "39aebc2a13695b4a",
-   "url": "https://news.hada.io/topic?id=36887&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "ChatGPT Desktop이 사용자의 SSH 에이전트를 원격 머신으로 전달함",
-   "published_at": "2026-11-09T15:32:25+00:00",
-   "collected_at": "2026-11-09T16:01:49.388546+00:00",
-   "title_ko": "ChatGPT 데스크톱, 원격 머신 SSH 에이전트 전달 기능 논란",
-   "summary_ko": "ChatGPT 데스크톱 앱이 원격 머신으로 SSH 에이전트를 전달해 인증을 수행하는 기능이 개발자들 사이에서 주목받고 있다. AI 에이전트의 보안 및 권한 관리 측면에서 중요한 시사점을 준다.",
-   "category": "팁",
-   "tags": [
-    "OpenAI",
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "b3cd3148d81a3591",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrulta/worth_buying_a_dgx1_8_v100_32gb_for_local_llm/",
-   "source": "r/LocalLLaMA",
-   "title": "Worth buying a DGX-1 (8× V100 32GB) for local LLM inference in 2026? ~15k €",
-   "published_at": "2026-11-09T15:28:45+00:00",
-   "collected_at": "2026-11-09T16:01:35.262151+00:00",
-   "title_ko": "2026년 로컬 LLM 추론을 위한 DGX-1 구매 타당성",
-   "summary_ko": "중고 DGX-1(V100 32GB)을 로컬 LLM 추론과 딥러닝용으로 구매하는 것의 실효성과 성능을 논의합니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "a6e5ba18995923c4",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xruhp3/top_7_decision_models_benchmark_evaluation_across/",
-   "source": "r/LocalLLaMA",
-   "title": "Top 7 Decision Models Benchmark: Evaluation Across 2,826 Real Tech Decisions",
-   "published_at": "2026-11-09T15:24:08+00:00",
-   "collected_at": "2026-11-09T16:01:35.262151+00:00",
-   "title_ko": "실제 기술 결정을 바탕으로 한 7개 의사결정 모델 벤치마크",
-   "summary_ko": "2,826개의 실제 기술 결정을 활용해 특화된 의사결정 모델들을 평가한 결과, Perplexity Decider V1.2가 가장 우수한 것으로 나타났습니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "057e22ab69c04fb1",
-   "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-   "source": "Hugging Face",
-   "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-   "published_at": "2026-11-09T15:05:57+00:00",
-   "collected_at": "2026-11-09T16:01:16.207624+00:00",
-   "title_ko": "일본 인구통계 및 금융 맥락을 담은 합성 데이터셋 공개",
-   "summary_ko": "일본의 인구통계적 특성과 금융 환경을 반영한 합성 데이터셋 Nemotron-Personas-Finance-Japan이 공개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "239bd3ec0b2b5826",
-   "url": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
-   "source": "The Verge",
-   "title": "Jonathan Kanter is using AI to take on Big Tech",
-   "published_at": "2026-11-09T14:30:00+00:00",
-   "collected_at": "2026-11-09T16:01:02.429069+00:00",
-   "title_ko": "조나단 칸터의 AI를 활용한 빅테크 독점 규제",
-   "summary_ko": "미 법무부 반독점국 출신 조나단 칸터가 민간 부문에서 불법 독점에 맞서기 위해 AI를 활용한 도구를 선보였습니다.",
-   "category": "중요",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "2395abcef3069628",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrsptp/meituanlongcatlongcat25_hugging_face/",
-   "source": "r/LocalLLaMA",
-   "title": "meituan-longcat/LongCat-2.5 · Hugging Face",
-   "published_at": "2026-11-09T14:14:17+00:00",
-   "collected_at": "2026-11-09T16:01:35.262151+00:00",
-   "title_ko": "1.6T 멀티모달 모델 LongCat-2.5 공개",
-   "summary_ko": "1조 6천억 파라미터 규모의 대형 멀티모달 모델 LongCat-2.5가 허깅페이스에 등록되었습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "4ce2705fe037e98e",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrspiy/neteaseyoudaoconfucius4r2t2_hugging_face/",
-   "source": "r/LocalLLaMA",
-   "title": "netease-youdao/Confucius4-R2T2 · Hugging Face",
-   "published_at": "2026-11-09T14:13:56+00:00",
-   "collected_at": "2026-11-09T16:01:35.262151+00:00",
-   "title_ko": "실시간 스트리밍 음성 인식 모델 Confucius4-R2T2 공개",
-   "summary_ko": "지연 시간이 짧고 정확도가 높은 실시간 스트리밍 자동 음성 인식(ASR) 모델이 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "bd74b7cf0c1bc812",
-   "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-   "source": "TechCrunch",
-   "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
-   "published_at": "2026-11-09T14:00:00+00:00",
-   "collected_at": "2026-11-09T16:01:02.325348+00:00",
-   "title_ko": "오토매틱, 바이브 코딩 앱 배포 플랫폼 'Spacefast' 출시",
-   "summary_ko": "오토매틱이 변화하는 인터넷 환경에 맞춰 AI 기반 코딩 앱을 배포할 수 있는 플랫폼 Spacefast를 선보였습니다.",
-   "category": "속보",
-   "tags": [
-    "코딩"
-   ]
-  },
-  {
-   "id": "f37b680abcf7adcb",
-   "url": "https://openai.com/index/control-room",
-   "source": "OpenAI",
-   "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-   "published_at": "2026-11-09T13:00:00+00:00",
-   "collected_at": "2026-11-10T00:09:08.096295+00:00",
-   "title_ko": "오픈에이아이, 연구 인프라 모델 작업 모니터링 시스템 'Control Room' 소개",
-   "summary_ko": "오픈에이아이가 안전 및 보안 문제 발생 시 연구 인프라 내 모델 워크로드를 실시간으로 추적하고 즉시 중단할 수 있는 중앙 시스템을 공개했습니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI"
-   ]
-  },
-  {
-   "id": "05bd9f0351a0c3a2",
-   "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-   "source": "MIT Tech Review",
-   "title": "Innovating with AI in the special chemicals industry",
-   "published_at": "2026-11-09T13:00:00+00:00",
-   "collected_at": "2026-11-09T16:01:15.193944+00:00",
-   "title_ko": "특수 화학 산업의 AI 기반 혁신 사례",
-   "summary_ko": "화학 제조 기업 루브리졸이 연구원들이 아이디어를 더 빠르게 테스트하고 데이터에 접근할 수 있도록 AI와 클라우드를 도입하고 있습니다.",
-   "category": "참고",
-   "tags": []
-  },
-  {
-   "id": "64694195f3e57e47",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217158",
-   "source": "AI타임스",
-   "title": "딥시크 하네스, 일일 사용자 154만명…미국 주도 AI 에이전트 시장 도전",
-   "published_at": "2026-11-09T12:46:18+00:00",
-   "collected_at": "2026-11-09T06:01:50.177336+00:00",
-   "title_ko": "딥시크 하네스, 출시 3개월 만에 DAU 154만 명 돌파",
-   "summary_ko": "딥시크의 AI 에이전트 플랫폼 '딥시크 하네스'가 급성장하며 미국 주도 시장에 도전장을 던졌다. 개발자 생태계가 빠르게 확장되면서 공식 마켓플레이스 구축을 추진한다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "5b1ecac53cd7aaca",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217160",
-   "source": "AI타임스",
-   "title": "앤트로픽, 데이터센터 전력 확보에 4.6조 투입…가스 발전기 직접 구매",
-   "published_at": "2026-11-09T12:35:33+00:00",
-   "collected_at": "2026-11-09T06:01:50.177336+00:00",
-   "title_ko": "앤트로픽, 데이터센터 전력 확보에 4조 6천억 원 투입",
-   "summary_ko": "앤트로픽이 전력 공급 지연 문제를 해결하기 위해 1.7GW 규모의 가스 발전기를 직접 구매했다. AI 인프라 확장을 위한 대규모 투자다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "투자"
-   ]
-  },
-  {
-   "id": "7b1451fc786c34f9",
-   "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-   "source": "Hugging Face",
-   "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-   "published_at": "2026-11-09T12:34:29+00:00",
-   "collected_at": "2026-11-09T16:01:16.207624+00:00",
-   "title_ko": "전문가 모델 결합을 위한 HOPE 기법 소개",
-   "summary_ko": "복수 전문가 모델들의 효율적인 협업과 통합을 유지하기 위한 새로운 방법론이 소개되었습니다.",
-   "category": "참고",
-   "tags": []
-  },
-  {
-   "id": "82edbef9f73e50ca",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217157",
-   "source": "AI타임스",
-   "title": "트럼프 \"민주당과 AI 규제 협력할 의사 있어\"…중간선거 패배 후 변화",
-   "published_at": "2026-11-09T12:29:43+00:00",
-   "collected_at": "2026-11-09T06:01:50.177336+00:00",
-   "title_ko": "트럼프 미 대통령, 민주당과 AI 안전 규제 협력 시사",
-   "summary_ko": "트럼프 대통령이 중간선거 패배 후 민주당과의 AI 안전 규제 협력 가능성을 내비쳤다. 그간의 자율 규제 기조에 변화가 생길지 주목된다.",
-   "category": "중요",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "ae256e24d75e57eb",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217165",
-   "source": "AI타임스",
-   "title": "\"말로 설명하면 영상 완성\"…딥브레인AI, 에이전트 탑재 AI스튜디오 5.0 공개",
-   "published_at": "2026-11-09T12:21:17+00:00",
-   "collected_at": "2026-11-09T06:01:50.177336+00:00",
-   "title_ko": "딥브레인AI, 대화형 비디오 에이전트 탑재 'AI스튜디오 5.0' 출시",
-   "summary_ko": "딥브레인AI가 대화만으로 기획부터 편집까지 수행하는 영상 제작 플랫폼을 선보였다. 전문 인력 없이도 손쉽게 영상을 만들 수 있다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "297196a5eaa06beb",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrq2fv/m4_pro_vs_m5_pro_24gb_qwen_38_flash_next_iq3_with/",
-   "source": "r/LocalLLaMA",
-   "title": "M4 Pro vs M5 Pro (24GB): Qwen 3.8 Flash Next IQ3 with MoEShift at 374 tok/s prefill, 14.7 tok/s decode, 8.5GB peak memory",
-   "published_at": "2026-11-09T12:10:54+00:00",
-   "collected_at": "2026-11-09T16:01:35.262151+00:00",
-   "title_ko": "M5 Pro 맥에서의 Qwen 모델 벤치마크 결과",
-   "summary_ko": "M4 Pro 및 M5 Pro 맥에서 MoEShift 백엔드를 활용한 Qwen 3.8 Flash Next 모델의 구동 속도와 메모리 사용량을 측정한 벤치마크입니다. 온디바이스 AI 성능 최적화에 참고할 만한 자료입니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "4762b8cbbcc6e7ee",
-   "url": "https://news.hada.io/topic?id=36880&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "Next-Concept Modeling: 거친 표현부터 세밀하게 다듬는 빠른 병렬 텍스트 생성",
-   "published_at": "2026-11-09T11:42:08+00:00",
-   "collected_at": "2026-11-09T16:01:49.388546+00:00",
-   "title_ko": "텍스트 생성 속도를 대폭 높인 NCM 프레임워크 공개",
-   "summary_ko": "거친 표현부터 세밀하게 다듬는 방식의 Next-Concept Modeling(NCM)이 공개되었습니다. 기존 확산 언어 모델보다 훨씬 빠른 속도로 텍스트를 병렬 생성할 수 있습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "5aa2811f45ceef64",
-   "url": "https://github.com/samir-sarwar/samir-vllm",
-   "source": "Hacker News",
-   "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
-   "published_at": "2026-11-09T11:36:55+00:00",
-   "collected_at": "2026-11-09T16:01:34.113854+00:00",
-   "title_ko": "LLM 추론 구조를 다룬 6시간 분량의 강의 및 노트",
-   "summary_ko": "vLLM 및 LLM 추론의 핵심 원리를 깊이 있게 다룬 오픈소스 학습 자료입니다. 모델 서빙 최적화 실무에 유용한 지식을 제공합니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "9b6f26f7688bd47c",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217163",
-   "source": "AI타임스",
-   "title": "안랩, 하반기 두자릿수 모집 공채 실시...자회사 안랩클라우드메이트도 함께",
-   "published_at": "2026-11-09T11:33:23+00:00",
-   "collected_at": "2026-11-09T06:01:50.177336+00:00",
-   "title_ko": "안랩, AX 및 AI/ML 직군 포함 하반기 공채 실시",
-   "summary_ko": "안랩이 기업들의 AI 전환(AX) 수요에 대응하기 위해 대규모 공개채용을 진행한다. AI/ML 등 핵심 기술 인력 확보에 나선다.",
-   "category": "참고",
-   "tags": []
-  },
-  {
-   "id": "e015d38b34c69a3f",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217159",
-   "source": "AI타임스",
-   "title": "히츠, KAIST AI-혁신신약연구단과 협약 체결...AI 플랫폼 활용 연구지원",
-   "published_at": "2026-11-09T11:32:37+00:00",
-   "collected_at": "2026-11-09T06:01:50.177336+00:00",
-   "title_ko": "히츠, KAIST AI-혁신신약연구단과 신약개발 AI 파트너십 체결",
-   "summary_ko": "히츠가 KAIST 연구단과 협력해 AI 기반 신약개발 플랫폼 활용을 지원한다. AI를 통한 바이오 연구 가속화가 기대된다.",
-   "category": "참고",
-   "tags": []
-  },
-  {
-   "id": "f9eff7a99759757f",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrpcke/new_gemma_models/",
-   "source": "r/LocalLLaMA",
-   "title": "New Gemma Models",
-   "published_at": "2026-11-09T11:32:08+00:00",
-   "collected_at": "2026-11-09T16:01:35.262151+00:00",
-   "title_ko": "차세대 Gemma 모델 출시에 대한 기대감",
-   "summary_ko": "유럽의 스타트업들이 고성능 언어 이해와 추론 능력을 갖춘 차세대 Gemma 모델의 출시를 기대하고 있습니다. 다국어 처리 능력이 뛰어난 모델에 대한 현장의 수요를 보여줍니다.",
-   "category": "참고",
-   "tags": [
-    "Google",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "ca73ad9cba7a34d2",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217148",
-   "source": "AI타임스",
-   "title": "구글, 사업 차질 빚은 크루소 AI 데이터센터 인수…170억달러 투자",
-   "published_at": "2026-11-09T11:30:00+00:00",
-   "collected_at": "2026-11-09T06:01:50.177336+00:00",
-   "title_ko": "구글, 크루소 AI 데이터센터 프로젝트 인수…23조 원 투자",
-   "summary_ko": "구글이 지연되던 와이오밍 데이터센터 사업을 직접 인계받아 170억 달러를 투입하기로 했다. 안정적인 AI 인프라 확보를 위한 조치다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "투자"
-   ]
-  },
-  {
-   "id": "9da15d1ad0095d4d",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217164",
-   "source": "AI타임스",
-   "title": "브이엠에스 솔루션스, 제조 AI 전문기업 선정…생산계획 최적화 기술 확대",
-   "published_at": "2026-11-09T11:29:22+00:00",
-   "collected_at": "2026-11-09T06:01:50.177336+00:00",
-   "title_ko": "브이엠에스 솔루션스, 제조 AI 전환 전문기업 선정",
-   "summary_ko": "브이엠에스 솔루션스가 산업통상부의 M.AX 전문기업으로 선정됐다. 제조 현장의 생산계획 최적화 기술 확산이 기대된다.",
-   "category": "참고",
-   "tags": []
-  },
-  {
-   "id": "6f06e864dcc3816a",
-   "url": "https://news.hada.io/topic?id=36878&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "Opus 5.5 성능이 낮아졌나? 11월 3일 사고 패턴이 바뀜",
-   "published_at": "2026-11-09T10:32:30+00:00",
-   "collected_at": "2026-11-09T16:01:49.388546+00:00",
-   "title_ko": "Claude 모델의 추론 패턴 변화 분석",
-   "summary_ko": "Claude Code 세션 분석 결과 11월 3일을 기점으로 모델의 추론 방식에 변화가 감지되었습니다. 모델명 변경 없이 내부 동작이 수정된 사례로 주목받고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "Anthropic",
-    "GPT"
-   ]
-  },
-  {
-   "id": "8ceada5f95028093",
-   "url": "https://news.ycombinator.com/item?id=50422628",
-   "source": "Hacker News",
-   "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
-   "published_at": "2026-11-09T08:17:49+00:00",
-   "collected_at": "2026-11-09T16:01:21.975766+00:00",
-   "title_ko": "ChatGPT 데스크톱 앱의 SSH 에이전트 포워딩 보안 이슈",
-   "summary_ko": "ChatGPT 데스크톱 앱이 로컬 SSH 에이전트를 원격 머신으로 포워딩하는 문제가 발견되었습니다. 원격 권한을 통해 비공개 저장소에 임의 접근할 수 있어 보안 주의가 필요합니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "규제"
-   ]
-  },
-  {
-   "id": "23b94c697622500f",
-   "url": "https://openai.com/index/coderabbit-codex-daybreak",
-   "source": "OpenAI",
-   "title": "CodeRabbit scales agentic software development and ships 20x more",
-   "published_at": "2026-11-09T08:00:00+00:00",
-   "collected_at": "2026-11-10T00:09:08.096295+00:00",
-   "title_ko": "코드래빗, 오픈에이아이 모델 기반으로 소프트웨어 개발 생산성 20배 향상",
-   "summary_ko": "코드래빗이 오픈에이아이 모델을 활용해 AI 생성 코드를 관리하고 개발 생산성을 크게 높인 사례를 공유했습니다. 에이전트 기반 소프트웨어 개발의 가능성을 보여줍니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI",
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "932fe34bad728f30",
-   "url": "https://openai.com/index/kuken",
-   "source": "OpenAI",
-   "title": "Kuken Industries searches 70 years of drawings in minutes",
-   "published_at": "2026-11-09T08:00:00+00:00",
-   "collected_at": "2026-11-10T00:09:08.096295+00:00",
-   "title_ko": "쿠켄 인더스트리, 오픈에이아이 API로 70년 치 설계도 검색 시간 단축",
-   "summary_ko": "엔지니어들이 오픈에이아이 API를 활용해 수십 년간의 방대한 도면 아카이브를 몇 분 만에 검색하여 업무 효율성을 극적으로 높였습니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI"
-   ]
-  },
-  {
-   "id": "a9c06162812cf7ad",
-   "url": "https://arxiv.org/abs/2610.14162",
-   "source": "Hacker News",
-   "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
-   "published_at": "2026-11-09T07:20:37+00:00",
-   "collected_at": "2026-11-09T16:01:21.975766+00:00",
-   "title_ko": "병렬 텍스트 생성을 위한 Next-Concept Modeling 논문",
-   "summary_ko": "텍스트를 단계별로 빠르게 병렬 생성하는 새로운 딥러닝 프레임워크인 NCM 관련 논문이 공유되었습니다. 생성 속도를 획기적으로 개선하여 주목받고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "1eb5f1942303ac30",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217150",
-   "source": "AI타임스",
-   "title": "젠슨 황 \"아내에게 충실하지 못했다\" 사과…엔비디아 \"CEO직 유지\"",
-   "published_at": "2026-11-09T06:42:12+00:00",
-   "collected_at": "2026-11-08T23:38:05.301126+00:00",
-   "title_ko": "젠슨 황 엔비디아 CEO, 불륜 의혹 인정 및 사과",
-   "summary_ko": "젠슨 황 엔비디아 CEO가 중국 스파이 연루 의혹을 받는 인물과의 불륜 사실을 인정하고 사과했습니다. 이사회는 조사를 진행 중이나 CEO직은 유지됩니다.",
-   "category": "속보",
-   "tags": [
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "c008339f51d4d66b",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrkomn/l11_n8147_is_a_neuron_that_will_make_qwen354b_get/",
-   "source": "r/LocalLLaMA",
-   "title": "L11 N8147 is a neuron that will make Qwen-3.5-4B get things confidently wrong while being weirdly snarky... But also makes it write interesting poetry",
-   "published_at": "2026-11-09T06:42:07+00:00",
-   "collected_at": "2026-11-09T16:01:35.262151+00:00",
-   "title_ko": "Qwen 모델의 특정 뉴런 제거 및 성향 변화 실험",
-   "summary_ko": "Qwen-3.5-4B 모델 내부의 특정 뉴런을 분석하여 모델의 성향과 시 창작 스타일에 미치는 영향을 실험한 사례입니다. LLM 내부 구조 연구에 흥미로운 통찰을 줍니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "2c6f6f57818dd36b",
-   "url": "https://news.hada.io/topic?id=36874&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "AI 버블이 존재한다고 확신하지 못하는 이유",
-   "published_at": "2026-11-09T05:34:55+00:00",
-   "collected_at": "2026-11-09T16:01:49.388546+00:00",
-   "title_ko": "AI 산업의 버블 논란과 실제 수요 분석",
-   "summary_ko": "막대한 AI 인프라 투자 비용에도 불구하고 가파른 매출 성장과 신규 업무 영역의 잠재력 덕분에 버블로만 단정하기는 이르다는 분석입니다. 향후 지속 가능성에 대한 업계의 시각을 보여줍니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "투자"
-   ]
-  },
-  {
-   "id": "8b5d7ade5adf612c",
-   "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1",
-   "source": "Hacker News",
-   "title": "Apple capped engineers at a $200 daily AI budget",
-   "published_at": "2026-11-09T05:30:11+00:00",
-   "collected_at": "2026-11-09T16:01:34.113854+00:00",
-   "title_ko": "애플, 엔지니어당 일일 AI 예산 200달러로 제한",
-   "summary_ko": "애플이 내부 엔지니어들의 AI 사용 예산을 하루 200달러로 제한한 것으로 알려졌습니다. 급증하는 AI 연산 비용을 관리하기 위한 빅테크의 비용 통제 조치입니다.",
-   "category": "중요",
-   "tags": [
-    "Apple",
-    "반도체"
-   ]
-  },
-  {
-   "id": "b10abbc74a2315ba",
-   "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-   "source": "TechCrunch",
-   "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
-   "published_at": "2026-11-09T05:26:29+00:00",
-   "collected_at": "2026-11-09T06:01:15.561966+00:00",
-   "title_ko": "예일대 교수, 젠슨 황 엔비디아 CEO 거취 '50대 50' 전망",
-   "summary_ko": "엔비디아 이사회가 젠슨 황 CEO와 중국 스파이 연루설을 조사 중인 가운데, 그의 거취를 두고 불확실성이 제기됐다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "561a8e9e082dad74",
-   "url": "https://news.hada.io/topic?id=36873&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "[AI 코딩] 클로드 코드 테스트 게이트 exit 1 대 2, 통과한 쪽과 막은 쪽은 무엇이 달랐을까",
-   "published_at": "2026-11-09T05:16:02+00:00",
-   "collected_at": "2026-11-09T06:01:51.341332+00:00",
-   "title_ko": "클로드 코드 훅 검사기의 동작 특성과 예외 처리 분석",
-   "summary_ko": "AI 코딩 도구인 클로드 코드에서 훅 검사기가 에러 코드를 반환해도 파일 생성이 완료되는 현상과 그 원인을 분석했다.",
-   "category": "팁",
-   "tags": [
-    "Claude",
-    "코딩"
-   ]
-  },
-  {
-   "id": "2382673acb375df8",
-   "url": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
-   "source": "Simon Willison",
-   "title": "The Web Is More Than Enough, by Paul Ford",
-   "published_at": "2026-11-09T04:32:33+00:00",
-   "collected_at": "2026-11-09T16:01:34.395923+00:00",
-   "title_ko": "Claude를 활용한 웹 콘텐츠 및 Three.js 코드 포팅",
-   "summary_ko": "Claude Opus 5.5를 이용해 Three.js 기반의 3D 웹 콘텐츠를 바닐라 자바스크립트로 성공적으로 포팅한 사례입니다. 실무 코딩 어시스턴트 활용법을 보여줍니다.",
-   "category": "팁",
-   "tags": [
-    "Anthropic",
-    "코딩"
    ]
   }
  ]
