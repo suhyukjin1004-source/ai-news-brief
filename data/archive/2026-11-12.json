@@ -15,6 +15,22 @@
   ]
  },
  {
+  "id": "4c27873f39f8655b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu8685/qvacbotpsy08b_hugging_face_ondevice_personal/",
+  "source": "r/LocalLLaMA",
+  "title": "qvac/BotPsy-0.8B · Hugging Face - On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+  "published_at": "2026-11-12T09:13:49+00:00",
+  "collected_at": "2026-11-12T09:41:25.192166+00:00",
+  "title_ko": "온디바이스 에이전트 모델 'BotPsy-0.8B' 공개",
+  "summary_ko": "Qwen 기반의 0.8B 파라미터 크기를 가진 온디바이스용 개인 비서 및 에이전트 모델이 공개됐다. 소형 모델임에도 뛰어난 툴 사용 능력을 보여준다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트",
+   "온디바이스"
+  ]
+ },
+ {
   "id": "1e9eeeef53adf04c",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=217298",
   "source": "AI타임스",
@@ -28,6 +44,95 @@
    "NVIDIA",
    "투자",
    "반도체"
+  ]
+ },
+ {
+  "id": "d679e07c8ae630a5",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu7cyr/huaweicslqwen3635ba3bmacaqrgguf_hugging_face/",
+  "source": "r/LocalLLaMA",
+  "title": "huawei-csl/Qwen3.6-35B-A3B-MACaQ-R-GGUF · Hugging Face",
+  "published_at": "2026-11-12T08:21:26+00:00",
+  "collected_at": "2026-11-12T09:41:25.192166+00:00",
+  "title_ko": "화웨이 CSL, 'MACaQ' 기반 Qwen 변형 GGUF 모델 공개",
+  "summary_ko": "화웨이 CSL 연구팀이 관련 논문과 함께 공개한 MACaQ 아키텍처 기반의 Qwen 변형 모델 GGUF 버전이 로컬 LLM 커뮤니티에 공유됐다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "83fa8d1c61a80d7d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu6tth/curated_list_of_resources_for_the_topic_of/",
+  "source": "r/LocalLLaMA",
+  "title": "Curated list of resources for the topic of Quantization for beginners",
+  "published_at": "2026-11-12T07:48:00+00:00",
+  "collected_at": "2026-11-12T09:41:25.192166+00:00",
+  "title_ko": "초보자를 위한 LLM 양자화(Quantization) 핵심 리소스 모음",
+  "summary_ko": "BitNet, AWQ, QLoRA 등 LLM 압축 및 양자화 입문자를 위한 필수 연구 논문과 기술 자료 리스트가 커뮤니티에 공유됐다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "633231fcd38570d9",
+  "url": "https://news.hada.io/topic?id=37025&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Show HN: Yogurt - 무료이며 프라이버시를 보호하는 오픈소스 Granola 대안",
+  "published_at": "2026-11-12T01:37:18+00:00",
+  "collected_at": "2026-11-12T09:41:39.763059+00:00",
+  "title_ko": "오픈소스 프라이버시 AI 회의 노트 앱 'Yogurt'",
+  "summary_ko": "봇 없이 로컬에서 동작하며 회의를 녹음하고 요약해 주는 오픈소스 대안 도구입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "592cfe6edf5ce4bd",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtzwxf/i_released_inflect_v3_lightweight_local_tts_in/",
+  "source": "r/LocalLLaMA",
+  "title": "I released Inflect v3: lightweight local TTS in 34M parameters (Apache 2.0)",
+  "published_at": "2026-11-12T01:36:10+00:00",
+  "collected_at": "2026-11-12T09:41:25.192166+00:00",
+  "title_ko": "경량 로컬 음성 합성 모델 'Inflect v3' 공개",
+  "summary_ko": "34M 파라미터 크기로 CPU와 CUDA에서 실행 가능한 오픈소스 텍스트 음성 변환 모델입니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "947f0d23429f4b80",
+  "url": "https://news.hada.io/topic?id=37024&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "젠슨 황, 직속 보고 임원과도 혼외 관계를 맺었다는 증언 나와",
+  "published_at": "2026-11-12T01:34:18+00:00",
+  "collected_at": "2026-11-12T09:41:39.763059+00:00",
+  "title_ko": "엔비디아 젠슨 황 CEO 관련 사생활 논란 보도",
+  "summary_ko": "엔비디아 내부 임원과의 관계 및 이해충돌 관련 의혹이 제기되어 업계의 이목이 집중되고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA"
+  ]
+ },
+ {
+  "id": "8f4505e732c5ecef",
+  "url": "https://news.hada.io/topic?id=37020&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Show GN: OpenPhoneUse – 화면을 보고 직접 탭하는 모바일용 Computer Use",
+  "published_at": "2026-11-12T00:51:56+00:00",
+  "collected_at": "2026-11-12T09:41:39.763059+00:00",
+  "title_ko": "안드로이드 전용 모바일 컴퓨터 유즈 에이전트 'OpenPhoneUse'",
+  "summary_ko": "추가 장치 연결 없이 접근성 서비스만으로 스마트폰 화면을 직접 조작하는 AI 에이전트입니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "OpenAI",
+   "Claude"
   ]
  },
  {
@@ -367,6 +472,20 @@
   ]
  },
  {
+  "id": "418d10f93d4edba8",
+  "url": "https://github.com/huawei-csl/MACaQ",
+  "source": "Hacker News",
+  "title": "Huawei releases MACaQ, its internal quantizer for local inference",
+  "published_at": "2026-11-11T20:23:57+00:00",
+  "collected_at": "2026-11-12T09:41:24.297482+00:00",
+  "title_ko": "화웨이, 로컬 추론용 내부 양자화 도구 'MACaQ' 공개",
+  "summary_ko": "화웨이가 로컬 인공지능 모델 추론 효율을 높이기 위해 자체 개발한 양자화 도구를 오픈소스로 공개했습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "ae5556d61c0b046e",
   "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
   "source": "TechCrunch",
@@ -425,6 +544,21 @@
   "tags": [
    "반도체",
    "투자"
+  ]
+ },
+ {
+  "id": "94fcbf10f80778a7",
+  "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+  "source": "TechCrunch",
+  "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+  "published_at": "2026-11-11T19:22:22+00:00",
+  "collected_at": "2026-11-12T09:41:08.185423+00:00",
+  "title_ko": "미 의회, 젠슨 황 엔비디아 CEO 비공개 청문회 소환",
+  "summary_ko": "미국 하원 공화당이 젠슨 황 CEO에게 중국 스파이 연루 의혹과 관련해 비공개 브리핑 출석을 요구했습니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "규제"
   ]
  },
  {
@@ -499,6 +633,20 @@
   "tags": [
    "Google",
    "Gemini"
+  ]
+ },
+ {
+  "id": "70a69d3bb5822802",
+  "url": "https://github.com/aws/aws-emulator",
+  "source": "Hacker News",
+  "title": "AWS emulator",
+  "published_at": "2026-11-11T18:21:38+00:00",
+  "collected_at": "2026-11-12T09:41:24.297482+00:00",
+  "title_ko": "AWS 에뮬레이터와 자율주행 AI 에이전트의 결합",
+  "summary_ko": "아마존이 자율주행 AI 에이전트 개발을 위해 AWS 환경을 에뮬레이트하는 방식을 공개했습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
   ]
  },
  {
@@ -593,6 +741,20 @@
   ]
  },
  {
+  "id": "7a69c1b89eda0814",
+  "url": "https://machinelearning.apple.com/research/faster-retrieval",
+  "source": "Hacker News",
+  "title": "Faster Retrieval for Better, More Efficient RAG",
+  "published_at": "2026-11-11T16:57:45+00:00",
+  "collected_at": "2026-11-12T09:41:24.297482+00:00",
+  "title_ko": "애플, 더 빠르고 효율적인 RAG를 위한 검색 기법 연구 발표",
+  "summary_ko": "애플 머신러닝 연구진이 검색증강생성(RAG)의 성능과 속도를 높이기 위한 새로운 데이터 검색 최적화 방법을 발표했습니다.",
+  "category": "참고",
+  "tags": [
+   "Apple"
+  ]
+ },
+ {
   "id": "13cce5f299241313",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=217292",
   "source": "AI타임스",
@@ -604,6 +766,20 @@
   "category": "중요",
   "tags": [
    "투자"
+  ]
+ },
+ {
+  "id": "e05d76cd33608993",
+  "url": "https://cabird.com/talks/shipping-faster/",
+  "source": "Hacker News",
+  "title": "AI, activity, and outcomes in software engineering",
+  "published_at": "2026-11-11T16:33:28+00:00",
+  "collected_at": "2026-11-12T09:41:24.395148+00:00",
+  "title_ko": "소프트웨어 공학에서 AI 도입의 영향과 성과 분석",
+  "summary_ko": "소프트웨어 개발 과정에서 AI 도구 활용이 개발자의 작업 방식과 실제 결과물에 미치는 영향을 다룹니다.",
+  "category": "참고",
+  "tags": [
+   "코딩"
   ]
  },
  {
@@ -692,6 +868,20 @@
    "OpenAI",
    "Anthropic",
    "투자"
+  ]
+ },
+ {
+  "id": "f6b29b4e2ab3b1b9",
+  "url": "https://github.com/FrigadeHQ/yogurt",
+  "source": "Hacker News",
+  "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+  "published_at": "2026-11-11T15:33:06+00:00",
+  "collected_at": "2026-11-12T09:41:24.297482+00:00",
+  "title_ko": "프라이버시 중심의 오픈소스 AI 회의 노트 'Yogurt'",
+  "summary_ko": "데스크톱에서 로컬 모델을 구동해 회의 내용을 안전하게 기록하고 요약해 주는 오픈소스 앱입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
   ]
  },
  {
