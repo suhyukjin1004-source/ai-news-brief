@@ -1,5 +1,69 @@
 [
  {
+  "id": "d2faa4282f8f79ca",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=217394",
+  "source": "AI타임스",
+  "title": "MS 365 전 세계 장애…정부·기업 업무 차질에 챗GPT·클로드도 영향",
+  "published_at": "2026-11-13T18:44:26+00:00",
+  "collected_at": "2026-11-13T16:08:03.147078+00:00",
+  "title_ko": "마이크로소프트 365 장애로 챗GPT·클로드 연동 차질",
+  "summary_ko": "MS 서비스 대규모 장애로 전 세계 기업 업무가 마비되었으며, 챗GPT와 클로드의 업무 연동 기능도 영향을 받았습니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "Anthropic",
+   "Microsoft"
+  ]
+ },
+ {
+  "id": "e485dfea4f36e7d0",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=217361",
+  "source": "AI타임스",
+  "title": "앤트로픽, 제조업용 '클로드' 출시…오픈AI와 산업별 AI 시장 경쟁 확대",
+  "published_at": "2026-11-13T18:03:44+00:00",
+  "collected_at": "2026-11-13T16:08:03.147078+00:00",
+  "title_ko": "앤트로픽, 제조업용 '클로드 포 매뉴팩처링' 출시",
+  "summary_ko": "앤트로픽이 제조업 특화 기능을 갖춘 클로드를 선보이며 오픈AI와 기업용 AI 시장 경쟁을 확대했습니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "OpenAI",
+   "Claude"
+  ]
+ },
+ {
+  "id": "f157d7e82e48fd89",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=217379",
+  "source": "AI타임스",
+  "title": "AI 모델 바꾼 기업 70% \"몇 주 이상 걸려\"…앱 수정·검증이 걸림돌",
+  "published_at": "2026-11-13T16:51:53+00:00",
+  "collected_at": "2026-11-13T16:08:03.147078+00:00",
+  "title_ko": "기업 70%, AI 모델 교체에 '몇 주 이상' 소요",
+  "summary_ko": "더 나은 AI 모델로 교체할 때 시스템 연결 외에도 프롬프트와 평가 체계 재조정이 필요해 상당한 시간이 소요되는 것으로 나타났습니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "코딩",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "e52cd5fa81b1dee2",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=217381",
+  "source": "AI타임스",
+  "title": "AMD, 양자컴퓨터 오류 수정에 GPU·SW 투입…엔비디아와 경쟁",
+  "published_at": "2026-11-13T16:34:23+00:00",
+  "collected_at": "2026-11-13T16:08:03.147078+00:00",
+  "title_ko": "AMD, 양자컴퓨터 오류 수정에 GPU·소프트웨어 투입",
+  "summary_ko": "AMD가 양자컴퓨팅 기업 사이퀀텀에 투자하고 GPU를 활용한 실시간 오류 수정 기술 협력에 나서며 엔비디아와 경쟁을 예고했습니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "반도체",
+   "투자"
+  ]
+ },
+ {
   "id": "e55a46fac795043f",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=217366",
   "source": "AI타임스",
@@ -28,6 +92,51 @@
   "tags": [
    "투자",
    "반도체"
+  ]
+ },
+ {
+  "id": "ade879a83ff45d2d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbn2m/qwen359b_running_on_a_ps4s_gpu_offline_using_its/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen3.5-9B running on a PS4’s GPU, offline, using its own MTP head for speculative decoding",
+  "published_at": "2026-11-13T16:00:36+00:00",
+  "collected_at": "2026-11-13T16:07:48.906150+00:00",
+  "title_ko": "플레이스테이션 4 GPU에서 구동되는 Qwen3.5-9B",
+  "summary_ko": "개발자가 구형 PS4의 GPU에서 Qwen 모델을 오프라인으로 실행하는 오픈소스 프로젝트를 공개했습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "4e379f6cb9d33e5a",
+  "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+  "source": "TechCrunch",
+  "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+  "published_at": "2026-11-13T16:00:12+00:00",
+  "collected_at": "2026-11-13T16:07:33.748932+00:00",
+  "title_ko": "챗GPT, 에이전트 쇼핑 지원하는 '월렛' 기능 도입",
+  "summary_ko": "챗GPT가 AI 에이전트가 사용자를 대신해 상품을 구매하고 결제할 수 있는 월렛 기능을 출시했습니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "GPT",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "7316526a5dffb0c2",
+  "url": "https://www.reddit.com/r/singularity/comments/1xvbhjz/asus_teases_their_first_humanoid_robot/",
+  "source": "r/singularity",
+  "title": "ASUS teases their first humanoid robot",
+  "published_at": "2026-11-13T15:55:16+00:00",
+  "collected_at": "2026-11-13T16:08:02.051586+00:00",
+  "title_ko": "에이수스, 첫 휴머노이드 로봇 티저 공개",
+  "summary_ko": "에이수스가 자체 개발 중인 최초의 휴머노이드 로봇의 티저를 공개했습니다.",
+  "category": "속보",
+  "tags": [
+   "로보틱스"
   ]
  },
  {
@@ -62,6 +171,35 @@
   ]
  },
  {
+  "id": "2f5047a279483429",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbcfp/look_what_my_son_gave_me/",
+  "source": "r/LocalLLaMA",
+  "title": "Look what my son gave me!",
+  "published_at": "2026-11-13T15:49:27+00:00",
+  "collected_at": "2026-11-13T16:07:48.906150+00:00",
+  "title_ko": "RTX 3090 그래픽카드 다량 획득한 로컬 AI 개발자",
+  "summary_ko": "채굴용으로 사용되던 RTX 3090 그래픽카드들을 활용해 로컬 AI 환경을 구축하는 사례가 공유되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "341a6b931047d200",
+  "url": "https://news.hada.io/topic?id=37117&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "AI가 Apple 앱 심사를 신시사이저 개발자들의 악몽으로 바꾸고 있음",
+  "published_at": "2026-11-13T15:47:51+00:00",
+  "collected_at": "2026-11-13T16:08:04.576536+00:00",
+  "title_ko": "애플 앱 심사에 AI 도입 후 음악 앱 개발자들 곤경",
+  "summary_ko": "애플의 AI 기반 앱 심사 자동화 의혹 속에서 음악 앱 개발자들이 기약 없는 심사 지연과 반복적인 거절을 겪고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
   "id": "f794a52ebd419f1e",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=217376",
   "source": "AI타임스",
@@ -74,6 +212,36 @@
   "tags": [
    "로보틱스",
    "투자"
+  ]
+ },
+ {
+  "id": "23f9ef724c31cb56",
+  "url": "https://news.hada.io/topic?id=37116&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Brave Search API, x402 프로토콜을 통한 에이전트 결제 지원",
+  "published_at": "2026-11-13T15:44:51+00:00",
+  "collected_at": "2026-11-13T16:08:04.576536+00:00",
+  "title_ko": "브레이브 서치 API, x402 통한 에이전트 결제 지원",
+  "summary_ko": "브레이브 서치 API가 자율 AI 에이전트를 위한 실시간 암호화폐 결제 프로토콜을 도입했습니다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "1314cf9cc03214b4",
+  "url": "https://news.hada.io/topic?id=37115&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Eli Lilly CEO, Dario Amodei의 의료 관련 주장에 반박",
+  "published_at": "2026-11-13T15:41:51+00:00",
+  "collected_at": "2026-11-13T16:08:04.576536+00:00",
+  "title_ko": "일릴리 CEO, 앤트로픽 대표의 '10년 내 난치병 정복' 주장 반박",
+  "summary_ko": "일릴리 CEO가 AI를 통한 단기간 내 난치병 치료 주장에 대해 생물학적 한계와 임상시험 과정을 들어 신중한 입장을 밝혔습니다.",
+  "category": "참고",
+  "tags": [
+   "Anthropic",
+   "규제"
   ]
  },
  {

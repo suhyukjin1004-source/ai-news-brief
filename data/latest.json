@@ -1,8 +1,72 @@
 {
- "updated_at": "2026-11-13T07:48:12.793702+00:00",
+ "updated_at": "2026-11-13T16:08:13.792535+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "d2faa4282f8f79ca",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217394",
+   "source": "AI타임스",
+   "title": "MS 365 전 세계 장애…정부·기업 업무 차질에 챗GPT·클로드도 영향",
+   "published_at": "2026-11-13T18:44:26+00:00",
+   "collected_at": "2026-11-13T16:08:03.147078+00:00",
+   "title_ko": "마이크로소프트 365 장애로 챗GPT·클로드 연동 차질",
+   "summary_ko": "MS 서비스 대규모 장애로 전 세계 기업 업무가 마비되었으며, 챗GPT와 클로드의 업무 연동 기능도 영향을 받았습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "Anthropic",
+    "Microsoft"
+   ]
+  },
+  {
+   "id": "e485dfea4f36e7d0",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217361",
+   "source": "AI타임스",
+   "title": "앤트로픽, 제조업용 '클로드' 출시…오픈AI와 산업별 AI 시장 경쟁 확대",
+   "published_at": "2026-11-13T18:03:44+00:00",
+   "collected_at": "2026-11-13T16:08:03.147078+00:00",
+   "title_ko": "앤트로픽, 제조업용 '클로드 포 매뉴팩처링' 출시",
+   "summary_ko": "앤트로픽이 제조업 특화 기능을 갖춘 클로드를 선보이며 오픈AI와 기업용 AI 시장 경쟁을 확대했습니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "OpenAI",
+    "Claude"
+   ]
+  },
+  {
+   "id": "f157d7e82e48fd89",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217379",
+   "source": "AI타임스",
+   "title": "AI 모델 바꾼 기업 70% \"몇 주 이상 걸려\"…앱 수정·검증이 걸림돌",
+   "published_at": "2026-11-13T16:51:53+00:00",
+   "collected_at": "2026-11-13T16:08:03.147078+00:00",
+   "title_ko": "기업 70%, AI 모델 교체에 '몇 주 이상' 소요",
+   "summary_ko": "더 나은 AI 모델로 교체할 때 시스템 연결 외에도 프롬프트와 평가 체계 재조정이 필요해 상당한 시간이 소요되는 것으로 나타났습니다.",
+   "category": "참고",
+   "tags": [
+    "LLM",
+    "코딩",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "e52cd5fa81b1dee2",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217381",
+   "source": "AI타임스",
+   "title": "AMD, 양자컴퓨터 오류 수정에 GPU·SW 투입…엔비디아와 경쟁",
+   "published_at": "2026-11-13T16:34:23+00:00",
+   "collected_at": "2026-11-13T16:08:03.147078+00:00",
+   "title_ko": "AMD, 양자컴퓨터 오류 수정에 GPU·소프트웨어 투입",
+   "summary_ko": "AMD가 양자컴퓨팅 기업 사이퀀텀에 투자하고 GPU를 활용한 실시간 오류 수정 기술 협력에 나서며 엔비디아와 경쟁을 예고했습니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "반도체",
+    "투자"
+   ]
+  },
   {
    "id": "e55a46fac795043f",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217366",
@@ -32,6 +96,51 @@
    "tags": [
     "투자",
     "반도체"
+   ]
+  },
+  {
+   "id": "ade879a83ff45d2d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbn2m/qwen359b_running_on_a_ps4s_gpu_offline_using_its/",
+   "source": "r/LocalLLaMA",
+   "title": "Qwen3.5-9B running on a PS4’s GPU, offline, using its own MTP head for speculative decoding",
+   "published_at": "2026-11-13T16:00:36+00:00",
+   "collected_at": "2026-11-13T16:07:48.906150+00:00",
+   "title_ko": "플레이스테이션 4 GPU에서 구동되는 Qwen3.5-9B",
+   "summary_ko": "개발자가 구형 PS4의 GPU에서 Qwen 모델을 오프라인으로 실행하는 오픈소스 프로젝트를 공개했습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "4e379f6cb9d33e5a",
+   "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+   "source": "TechCrunch",
+   "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+   "published_at": "2026-11-13T16:00:12+00:00",
+   "collected_at": "2026-11-13T16:07:33.748932+00:00",
+   "title_ko": "챗GPT, 에이전트 쇼핑 지원하는 '월렛' 기능 도입",
+   "summary_ko": "챗GPT가 AI 에이전트가 사용자를 대신해 상품을 구매하고 결제할 수 있는 월렛 기능을 출시했습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "GPT",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "7316526a5dffb0c2",
+   "url": "https://www.reddit.com/r/singularity/comments/1xvbhjz/asus_teases_their_first_humanoid_robot/",
+   "source": "r/singularity",
+   "title": "ASUS teases their first humanoid robot",
+   "published_at": "2026-11-13T15:55:16+00:00",
+   "collected_at": "2026-11-13T16:08:02.051586+00:00",
+   "title_ko": "에이수스, 첫 휴머노이드 로봇 티저 공개",
+   "summary_ko": "에이수스가 자체 개발 중인 최초의 휴머노이드 로봇의 티저를 공개했습니다.",
+   "category": "속보",
+   "tags": [
+    "로보틱스"
    ]
   },
   {
@@ -66,6 +175,35 @@
    ]
   },
   {
+   "id": "2f5047a279483429",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbcfp/look_what_my_son_gave_me/",
+   "source": "r/LocalLLaMA",
+   "title": "Look what my son gave me!",
+   "published_at": "2026-11-13T15:49:27+00:00",
+   "collected_at": "2026-11-13T16:07:48.906150+00:00",
+   "title_ko": "RTX 3090 그래픽카드 다량 획득한 로컬 AI 개발자",
+   "summary_ko": "채굴용으로 사용되던 RTX 3090 그래픽카드들을 활용해 로컬 AI 환경을 구축하는 사례가 공유되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "341a6b931047d200",
+   "url": "https://news.hada.io/topic?id=37117&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "AI가 Apple 앱 심사를 신시사이저 개발자들의 악몽으로 바꾸고 있음",
+   "published_at": "2026-11-13T15:47:51+00:00",
+   "collected_at": "2026-11-13T16:08:04.576536+00:00",
+   "title_ko": "애플 앱 심사에 AI 도입 후 음악 앱 개발자들 곤경",
+   "summary_ko": "애플의 AI 기반 앱 심사 자동화 의혹 속에서 음악 앱 개발자들이 기약 없는 심사 지연과 반복적인 거절을 겪고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "규제"
+   ]
+  },
+  {
    "id": "f794a52ebd419f1e",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217376",
    "source": "AI타임스",
@@ -78,6 +216,36 @@
    "tags": [
     "로보틱스",
     "투자"
+   ]
+  },
+  {
+   "id": "23f9ef724c31cb56",
+   "url": "https://news.hada.io/topic?id=37116&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Brave Search API, x402 프로토콜을 통한 에이전트 결제 지원",
+   "published_at": "2026-11-13T15:44:51+00:00",
+   "collected_at": "2026-11-13T16:08:04.576536+00:00",
+   "title_ko": "브레이브 서치 API, x402 통한 에이전트 결제 지원",
+   "summary_ko": "브레이브 서치 API가 자율 AI 에이전트를 위한 실시간 암호화폐 결제 프로토콜을 도입했습니다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "1314cf9cc03214b4",
+   "url": "https://news.hada.io/topic?id=37115&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Eli Lilly CEO, Dario Amodei의 의료 관련 주장에 반박",
+   "published_at": "2026-11-13T15:41:51+00:00",
+   "collected_at": "2026-11-13T16:08:04.576536+00:00",
+   "title_ko": "일릴리 CEO, 앤트로픽 대표의 '10년 내 난치병 정복' 주장 반박",
+   "summary_ko": "일릴리 CEO가 AI를 통한 단기간 내 난치병 치료 주장에 대해 생물학적 한계와 임상시험 과정을 들어 신중한 입장을 밝혔습니다.",
+   "category": "참고",
+   "tags": [
+    "Anthropic",
+    "규제"
    ]
   },
   {
@@ -2812,175 +2980,6 @@
    "category": "참고",
    "tags": [
     "Claude"
-   ]
-  },
-  {
-   "id": "74de82bfaf30b517",
-   "url": "https://www.reddit.com/r/singularity/comments/1xsucqc/reuters_the_ceos_relationship_with_alice_huang/",
-   "source": "r/singularity",
-   "title": "Reuters: \"The CEO's relationship with Alice Huang helped facilitate shipments of at least $7.5 billion worth of Nvidia chips to Chinese firms\"",
-   "published_at": "2026-11-10T18:19:20+00:00",
-   "collected_at": "2026-11-10T22:17:02.486589+00:00",
-   "title_ko": "중국 기업에 대한 엔비디아 칩 우회 수출 의혹",
-   "summary_ko": "CEO의 인맥을 통해 수십억 달러 상당의 엔비디아 칩이 중국 기업으로 우회 수출되었다는 보도가 나왔습니다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "반도체",
-    "규제"
-   ]
-  },
-  {
-   "id": "e55341762b61a4d3",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsub9f/trending_on_huggingface2d_to_3d/",
-   "source": "r/LocalLLaMA",
-   "title": "Trending on huggingface:2D to 3D",
-   "published_at": "2026-11-10T18:17:48+00:00",
-   "collected_at": "2026-11-10T22:16:57.572386+00:00",
-   "title_ko": "허깅페이스 트렌딩 2D to 3D 모델 공개",
-   "summary_ko": "8GB VRAM 환경에서도 실행 가능한 다이나믹 3D 변환 오픈소스 모델이 허깅페이스에서 주목받고 있습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "5175b6a2b765750a",
-   "url": "https://github.com/GoogleChrome/modern-web-guidance",
-   "source": "Hacker News",
-   "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-   "published_at": "2026-11-10T18:01:15+00:00",
-   "collected_at": "2026-11-10T22:16:56.292456+00:00",
-   "title_ko": "코딩 에이전트를 위한 모던 웹 표준 활용 가이드",
-   "summary_ko": "AI 코딩 에이전트가 구형 자바스크립트 대신 최신 브라우저 네이티브 기능을 활용하도록 유도하는 개선 작업이 진행 중입니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "4546981095085026",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
-   "source": "The Verge",
-   "title": "ChatGPT is getting verified AI ‘Business Agents’",
-   "published_at": "2026-11-10T18:00:00+00:00",
-   "collected_at": "2026-11-10T22:16:41.777138+00:00",
-   "title_ko": "OpenAI, 검증된 AI 비즈니스 에이전트 도입",
-   "summary_ko": "ChatGPT가 브랜드와 쇼핑을 돕는 '비즈니스 에이전트' 기능을 베타로 출시했습니다. 기업들이 AI를 통해 고객과 직접 소통하고 거래를 지원할 수 있게 됩니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "GPT",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "7737e173e31a5988",
-   "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
-   "source": "Hacker News",
-   "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
-   "published_at": "2026-11-10T17:55:07+00:00",
-   "collected_at": "2026-11-10T22:16:56.292456+00:00",
-   "title_ko": "Anthropic, Claude 오피스 스위트(화이트보드·시트·데이터) 공개",
-   "summary_ko": "앤트로픽이 문서, 데이터 관리, 화이트보드 기능을 갖춘 자체 AI 오피스 스위트를 선보였습니다. 기업용 생산성 시장에서 대형 오피스 툴들과 본격적인 경쟁을 예고합니다.",
-   "category": "속보",
-   "tags": [
-    "Anthropic",
-    "Claude",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "a548f4bc427db034",
-   "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
-   "source": "The Verge",
-   "title": "The indie game community is in disarray over AI and Big Walk",
-   "published_at": "2026-11-10T17:32:47+00:00",
-   "collected_at": "2026-11-10T22:16:41.777138+00:00",
-   "title_ko": "인디 게임계, 생성형 AI 활용 논란으로 갈등",
-   "summary_ko": "독립 게임 페스티벌 심사위원들이 AI 사용 게임 배제를 선언한 가운데, 히트작 개발사가 개발 과정의 AI 사용을 인정하며 업계 내 논란이 가중되고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "규제"
-   ]
-  },
-  {
-   "id": "f724697ad4799a39",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
-   "source": "The Verge",
-   "title": "Anthropic has its own AI-powered office suite now",
-   "published_at": "2026-11-10T17:30:00+00:00",
-   "collected_at": "2026-11-10T22:16:41.777138+00:00",
-   "title_ko": "Anthropic, 기업용 AI 오피스 스위트 시장 진출",
-   "summary_ko": "앤트로픽이 기업 고객을 겨냥한 자체 AI 오피스 도구들을 연이어 선보이며 업무용 소프트웨어 생태계 확장에 나섰습니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "Claude"
-   ]
-  },
-  {
-   "id": "af7403b4563990ca",
-   "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-   "source": "TechCrunch",
-   "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-   "published_at": "2026-11-10T17:30:00+00:00",
-   "collected_at": "2026-11-10T22:16:41.634656+00:00",
-   "title_ko": "Anthropic, 회의 내용을 계획과 작업으로 바꾸는 'Claude Meetings' 출시",
-   "summary_ko": "클로드 미팅스가 회의 중 실시간으로 논의 내용을 요약하고 화이트보드 타임라인을 작성하며 관련 앱 데이터를 검색해 업무 효율을 높입니다.",
-   "category": "속보",
-   "tags": [
-    "Anthropic",
-    "Claude",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "d9bddbd9dadc001e",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsswud/amd_epyc_9686f_linux_benchmarks_96_zen_6_cores_at/",
-   "source": "r/LocalLLaMA",
-   "title": "AMD EPYC 9686F Linux benchmarks: 96 Zen 6 cores at up to 5.3GHz",
-   "published_at": "2026-11-10T17:25:33+00:00",
-   "collected_at": "2026-11-10T22:16:57.572386+00:00",
-   "title_ko": "AMD EPYC 9686F 리눅스 및 AI 벤치마크 공개",
-   "summary_ko": "96개의 젠 6 코어를 탑재한 AMD EPYC 프로세서의 AI 및 시스템 성능 벤치마크 결과가 공개되었습니다.",
-   "category": "참고",
-   "tags": [
-    "반도체",
-    "AMD"
-   ]
-  },
-  {
-   "id": "c850c63fd73b8209",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217233",
-   "source": "AI타임스",
-   "title": "BMW, '챗GPT'로 차량 추천부터 시승 예약까지…AI 쇼핑 확대",
-   "published_at": "2026-11-10T17:13:10+00:00",
-   "collected_at": "2026-11-10T22:17:03.463373+00:00",
-   "title_ko": "BMW, 챗GPT 연동 차량 추천 및 시승 예약 서비스 도입",
-   "summary_ko": "BMW 북미 법인이 챗GPT를 통해 차량 추천, 금융 조건 비교, 시승 예약까지 한 번에 처리할 수 있는 플러그인을 출시했습니다. AI 쇼핑 경험이 자동차 구매 과정으로 확대됩니다.",
-   "category": "속보",
-   "tags": [
-    "OpenAI",
-    "GPT",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "263bfb9c36537d30",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xssj9q/i_trained_a_348mactive_moe_on_11b_tokens_it/",
-   "source": "r/LocalLLaMA",
-   "title": "I trained a 348M-active MoE on ~11B tokens. It scores 85.5% vs Qwen2.5-1.5B's 53.3% on shuffled fact chains. GGUF + eval set — please try to break it.",
-   "published_at": "2026-11-10T17:11:20+00:00",
-   "collected_at": "2026-11-10T22:16:57.572386+00:00",
-   "title_ko": "단일 GPU로 학습한 고효율 소형 MoE 모델 공개",
-   "summary_ko": "개발자가 단일 RTX 5090으로 학습시킨 소형 혼합 전문가(MoE) 모델이 특정 벤치마크에서 대형 모델을 상회하는 성능을 보여 주목받고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "반도체"
    ]
   }
  ]
