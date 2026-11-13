@@ -1,5 +1,97 @@
 [
  {
+  "id": "d450ad1a277fe530",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+  "source": "The Verge",
+  "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+  "published_at": "2026-11-13T20:45:10+00:00",
+  "collected_at": "2026-11-13T22:29:27.185094+00:00",
+  "title_ko": "OpenAI, AI 에이전트 결제 기능 'ChatGPT 월렛' 공개",
+  "summary_ko": "OpenAI가 프로 구독자를 대상으로 AI 에이전트 'Dots'가 대신 상품을 구매할 수 있는 결제 기능을 도입했습니다. AI 에이전트의 커머스 활용이 본격화되고 있음을 보여줍니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "ChatGPT",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "688317534238ff90",
+  "url": "https://news.hada.io/topic?id=37124&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "AI로 해독한 Gödel의 노트, 증명된 정리 수백 개 담겼다는 연구 결과",
+  "published_at": "2026-11-13T20:32:20+00:00",
+  "collected_at": "2026-11-13T22:29:56.267487+00:00",
+  "title_ko": "Claude로 괴델의 미공개 수학 노트 해독 및 신규 정리 발굴",
+  "summary_ko": "연구팀이 Claude를 활용해 괴델의 1,000쪽이 넘는 미공개 노트를 분석하여 수백 개의 미발견 수학 정리를 찾아냈습니다. LLM이 복잡한 학술 연구 가속화에 기여할 수 있음을 보여줍니다.",
+  "category": "참고",
+  "tags": [
+   "Claude",
+   "Anthropic",
+   "연구"
+  ]
+ },
+ {
+  "id": "456080b7b5f6e9ee",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvhzq9/deepseek_v41_flash_vs_qwen_38_flash_next/",
+  "source": "r/LocalLLaMA",
+  "title": "DeepSeek v4.1 Flash vs Qwen 3.8 Flash Next Performance",
+  "published_at": "2026-11-13T19:57:57+00:00",
+  "collected_at": "2026-11-13T22:29:41.856387+00:00",
+  "title_ko": "DeepSeek v4.1 Flash와 Qwen 3.8 Flash 성능 비교",
+  "summary_ko": "로컬 환경에서 DeepSeek v4.1 Flash와 Qwen 3.8 Flash Next의 성능을 비교한 사용자 테스트 결과입니다.",
+  "category": "참고",
+  "tags": [
+   "DeepSeek",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "9f3952a424ef5a32",
+  "url": "https://www.slopmanifesto.com/",
+  "source": "Hacker News",
+  "title": "No AI Slop: A Manifesto",
+  "published_at": "2026-11-13T19:51:56+00:00",
+  "collected_at": "2026-11-13T22:29:40.688471+00:00",
+  "title_ko": "'AI 슬롭' 거부 선언문 등장",
+  "summary_ko": "무분별하게 쏟아지는 저품질 AI 생성 콘텐츠(슬롭)에 대응하기 위한 개발자 및 창작자들의 선언문이 공유되었습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 슬롭",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "38741df50e34ad24",
+  "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+  "source": "TechCrunch",
+  "title": "AI agent startup LangChain hits $3B valuation",
+  "published_at": "2026-11-13T19:37:57+00:00",
+  "collected_at": "2026-11-13T22:29:27.119077+00:00",
+  "title_ko": "AI 에이전트 스타트업 랭체인, 기업가치 30억 달러 기록",
+  "summary_ko": "AI 에이전트 관리 플랫폼 랭체인이 7,000개 이상의 고객사를 확보하며 30억 달러의 기업 가치를 인정받았습니다.",
+  "category": "중요",
+  "tags": [
+   "투자",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "81edf0fb751b6510",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvh4ag/weight_space_programming_for_quantization_nace/",
+  "source": "r/LocalLLaMA",
+  "title": "Weight Space Programming for Quantization: Nace quants achieve up to 2x better KL divergence for Qwen 9B, 27B, 35B & Flash Next [GGUF]",
+  "published_at": "2026-11-13T19:23:54+00:00",
+  "collected_at": "2026-11-13T22:29:41.856387+00:00",
+  "title_ko": "가중치 공간 프로그래밍 기반 Qwen 모델용 신규 양자화 GGUF 공개",
+  "summary_ko": "nace.ai 연구진이 Qwen 모델의 성능 저하를 최소화하는 새로운 양자화 기법을 적용한 GGUF 가중치를 공개했습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
   "id": "d2faa4282f8f79ca",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=217394",
   "source": "AI타임스",
@@ -13,6 +105,83 @@
    "OpenAI",
    "Anthropic",
    "Microsoft"
+  ]
+ },
+ {
+  "id": "03f9e691f932a3e8",
+  "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+  "source": "Hacker News",
+  "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+  "published_at": "2026-11-13T18:40:44+00:00",
+  "collected_at": "2026-11-13T22:29:40.688471+00:00",
+  "title_ko": "미국 운송 중 1,140만 달러 규모 엔비디아 하드웨어 도난 사건 발생",
+  "summary_ko": "캘리포니아에서 텍사스로 운송되던 1,140만 달러 상당의 엔비디아 AI 하드웨어가 통째로 사라지는 사건이 발생했습니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "반도체",
+   "투자"
+  ]
+ },
+ {
+  "id": "f17748102e2c4282",
+  "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+  "source": "TechCrunch",
+  "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+  "published_at": "2026-11-13T18:40:30+00:00",
+  "collected_at": "2026-11-13T22:29:27.119077+00:00",
+  "title_ko": "중국 최고 성능 AI 모델, 대중 수출 통제된 엔비디아 칩으로 훈련",
+  "summary_ko": "최신 연구에 따르면 중국의 가장 진보된 AI 모델들이 미국의 수출 통제를 우회하거나 확보한 엔비디아 칩을 기반으로 훈련된 것으로 나타났습니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "반도체",
+   "규제"
+  ]
+ },
+ {
+  "id": "5413c880f4914019",
+  "url": "https://www.dwarkesh.com/p/rsi",
+  "source": "Hacker News",
+  "title": "The avalanche that hit math is coming for AI development",
+  "published_at": "2026-11-13T18:39:42+00:00",
+  "collected_at": "2026-11-13T22:29:41.173411+00:00",
+  "title_ko": "수학계를 강타한 변화의 파도가 AI 개발로 밀려오다",
+  "summary_ko": "수학 분야를 변화시킨 자동화와 형식화의 물결이 AI 개발 방식에도 근본적인 변화를 예고하고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 개발",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "82bcc58437c2c770",
+  "url": "https://news.hada.io/topic?id=37122&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Claude 서비스 장애 발생",
+  "published_at": "2026-11-13T18:36:27+00:00",
+  "collected_at": "2026-11-13T22:29:56.267487+00:00",
+  "title_ko": "앤스로픽 Claude 서비스 장애 및 복구 소식",
+  "summary_ko": "claude.ai 및 API 등에서 발생한 오류가 대부분 해결되었으나 일부 연동 기능은 모니터링이 지속되고 있습니다.",
+  "category": "속보",
+  "tags": [
+   "Claude",
+   "Anthropic"
+  ]
+ },
+ {
+  "id": "52d9f85d29843a00",
+  "url": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding",
+  "source": "Hacker News",
+  "title": "Models can now transmit viruses in weight-space",
+  "published_at": "2026-11-13T18:33:35+00:00",
+  "collected_at": "2026-11-13T22:29:40.688471+00:00",
+  "title_ko": "AI 모델이 가중치 공간에서 바이러스를 전파할 수 있다",
+  "summary_ko": "신경망 모델의 가중치(weight) 조작을 통해 악성 코드를 전파할 수 있는 새로운 보안 취약점 연구가 공개되었습니다.",
+  "category": "중요",
+  "tags": [
+   "보안",
+   "머신러닝"
   ]
  },
  {
@@ -32,6 +201,127 @@
   ]
  },
  {
+  "id": "2427bacb74a96b4b",
+  "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+  "source": "Hugging Face",
+  "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+  "published_at": "2026-11-13T18:00:39+00:00",
+  "collected_at": "2026-11-13T22:29:40.476071+00:00",
+  "title_ko": "SimReady 에셋을 활용한 로봇 픽앤플레이스 시뮬레이션 구축",
+  "summary_ko": "SimReady 에셋을 이용해 로봇의 물건 집기 및 배치 시뮬레이션을 쉽게 구현하는 방법이 소개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "로보틱스",
+   "시뮬레이션"
+  ]
+ },
+ {
+  "id": "3d3e0a33fa9ece80",
+  "url": "https://isometricsf.com/",
+  "source": "Hacker News",
+  "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+  "published_at": "2026-11-13T17:58:37+00:00",
+  "collected_at": "2026-11-13T22:29:40.688471+00:00",
+  "title_ko": "Qwen 모델 기반의 픽셀 아트 샌프란시스코 맵 제작",
+  "summary_ko": "Google 3D 타일과 Qwen 기반 LoRA 학습을 활용해 대규모 샌프란시스코 픽셀 아트 맵을 제작한 기술 공유입니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "Qwen"
+  ]
+ },
+ {
+  "id": "ea0776201252f8c6",
+  "url": "https://haddyalchaer.com/jepa",
+  "source": "Hacker News",
+  "title": "After 600 experiments, here's what I discovered about JEPA world models",
+  "published_at": "2026-11-13T17:55:28+00:00",
+  "collected_at": "2026-11-13T22:29:40.688471+00:00",
+  "title_ko": "JEPA 월드 모델 실험을 통해 얻은 인사이트",
+  "summary_ko": "600번의 실험을 거쳐 JEPA 월드 모델의 작동 방식과 특성에 관해 새롭게 발견한 점들이 공유되었습니다.",
+  "category": "참고",
+  "tags": [
+   "머신러닝",
+   "연구"
+  ]
+ },
+ {
+  "id": "4a36f6adfa9f6485",
+  "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+  "source": "Hacker News",
+  "title": "OpenAI disbands its robotics team as its general models start running robots",
+  "published_at": "2026-11-13T17:55:23+00:00",
+  "collected_at": "2026-11-13T22:29:40.688471+00:00",
+  "title_ko": "OpenAI, 범용 AI 모델의 로봇 구동 시작으로 로보틱스 팀 해체",
+  "summary_ko": "일반 범용 AI 모델이 직접 로봇을 제어할 수 있게 되면서 OpenAI가 자체 로보틱스 전담 팀을 해체했습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "로보틱스",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "2038739d47a7ae7a",
+  "url": "https://news.hada.io/topic?id=37120&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "AI가 작가와 독자 사이의 신뢰를 무너뜨리고 있다",
+  "published_at": "2026-11-13T17:32:28+00:00",
+  "collected_at": "2026-11-13T22:29:56.267487+00:00",
+  "title_ko": "AI 환각이 작가와 독자 간의 신뢰를 흔들다",
+  "summary_ko": "ChatGPT의 잘못된 소설 내용 답변으로 인해 작가들이 독자들과의 오해와 신뢰 하락 문제를 겪고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "GPT",
+   "규제"
+  ]
+ },
+ {
+  "id": "a1e895b935bb3a95",
+  "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+  "source": "Hacker News",
+  "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+  "published_at": "2026-11-13T17:30:10+00:00",
+  "collected_at": "2026-11-13T22:29:40.688471+00:00",
+  "title_ko": "AI로 쿠르트 괴델의 미공개 노트 속 증명 해독",
+  "summary_ko": "인공지능의 도움으로 수백 개의 수학적 증명이 담긴 괴델의 복잡한 노트가 해독되어 학계의 주목을 받고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "연구",
+   "AI"
+  ]
+ },
+ {
+  "id": "589208bfa2b537f5",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvdmzb/tontaube_v11_openweights_tts_with_voice_cloning/",
+  "source": "r/LocalLLaMA",
+  "title": "Tontaube V1.1: open-weights TTS with voice cloning for long-form generation. 4-bit version runs about real time on a desktop CPU",
+  "published_at": "2026-11-13T17:14:40+00:00",
+  "collected_at": "2026-11-13T22:29:41.856387+00:00",
+  "title_ko": "오픈웨이트 긴 음성 생성 TTS 모델 'Tontaube V1.1' 공개",
+  "summary_ko": "제로샷 음성 복사와 오디오북 등 장문 생성을 지원하는 2.9B 파라미터 규모의 오픈웨이트 TTS 모델이 출시되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "음성AI"
+  ]
+ },
+ {
+  "id": "8400bdfe1e2afd49",
+  "url": "https://huggingface.co/blog/allenai/xybench",
+  "source": "Hugging Face",
+  "title": "XYBench: Helping with the problem behind the question",
+  "published_at": "2026-11-13T17:02:35+00:00",
+  "collected_at": "2026-11-13T22:29:40.476071+00:00",
+  "title_ko": "XYBench를 통한 LLM 평가 및 벤치마크 개선",
+  "summary_ko": "LLM 평가 시 질문 이면에 숨겨진 근본적인 문제를 해결하기 위한 새로운 벤치마크 XYBench가 소개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "LLM",
+   "벤치마크"
+  ]
+ },
+ {
   "id": "f157d7e82e48fd89",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=217379",
   "source": "AI타임스",
@@ -48,6 +338,22 @@
   ]
  },
  {
+  "id": "2c4041f79b956f03",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvcmm0/i_built_speedy_strix_halo_kernels_for_the_top51/",
+  "source": "r/LocalLLaMA",
+  "title": "I built speedy Strix Halo kernels for the top-51 LLMs with AMD Loom (and you can too)",
+  "published_at": "2026-11-13T16:37:41+00:00",
+  "collected_at": "2026-11-13T22:29:41.856387+00:00",
+  "title_ko": "AMD Loom을 활용한 상위 51개 LLM용 Strix Halo 커널 구축",
+  "summary_ko": "AMD의 새로운 AI 컴파일러 스택인 Loom과 에이전트를 활용해 주요 LLM용 최적화 커널을 직접 구축하는 방법이 공유되었습니다.",
+  "category": "팁",
+  "tags": [
+   "반도체",
+   "LLM",
+   "AMD"
+  ]
+ },
+ {
   "id": "e52cd5fa81b1dee2",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=217381",
   "source": "AI타임스",
@@ -61,6 +367,22 @@
    "NVIDIA",
    "반도체",
    "투자"
+  ]
+ },
+ {
+  "id": "a114c8a499e5f08f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvcgxq/deepseek_flash_max_is_the_first_model_to_reach_1/",
+  "source": "r/LocalLLaMA",
+  "title": "DeepSeek flash max is the first model to reach >1% on challenging SWE-sweep bug finding benchmark",
+  "published_at": "2026-11-13T16:31:47+00:00",
+  "collected_at": "2026-11-13T22:29:41.856387+00:00",
+  "title_ko": "DeepSeek 플래시 맥스, 고난도 버그 찾기 벤치마크 1% 돌파",
+  "summary_ko": "DeepSeek v4.1 플래시 맥스가 오픈웨이트 모델 최초로 고난도 SWE-sweep 벤치마크에서 1%를 넘는 성능을 기록했습니다.",
+  "category": "중요",
+  "tags": [
+   "DeepSeek",
+   "오픈소스",
+   "AI 에이전트"
   ]
  },
  {
@@ -92,6 +414,21 @@
   "tags": [
    "투자",
    "반도체"
+  ]
+ },
+ {
+  "id": "25c39c4b8cc05b5d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbqqa/i_noticed_the_2_hessian_refinement_of_macaq_can/",
+  "source": "r/LocalLLaMA",
+  "title": "I noticed the 2 Hessian Refinement of MACaQ can be applied to any GGUF without any patches ... and tried it. 13% better quants",
+  "published_at": "2026-11-13T16:03:56+00:00",
+  "collected_at": "2026-11-13T22:29:41.856387+00:00",
+  "title_ko": "GGUF 모델 양자화 품질을 13% 향상하는 헤시안 기법 적용",
+  "summary_ko": "MACaQ 논문의 헤시안 정교화 기법을 GGUF 모델에 적용하여 패치 없이도 더 뛰어난 양자화 성능을 얻을 수 있게 되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
   ]
  },
  {
@@ -273,6 +610,20 @@
   "tags": [
    "AI 에이전트",
    "오픈소스"
+  ]
+ },
+ {
+  "id": "0b67abad1121c248",
+  "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+  "source": "Hacker News",
+  "title": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
+  "published_at": "2026-11-13T15:08:44+00:00",
+  "collected_at": "2026-11-13T22:29:41.173411+00:00",
+  "title_ko": "조너선 블로우가 지적하는 AI 코딩의 한계",
+  "summary_ko": "유명 게임 개발자 조너선 블로우가 AI가 코딩을 해결했다면 왜 소프트웨어가 여전히 그대로인지에 대한 의문을 제기했습니다.",
+  "category": "참고",
+  "tags": [
+   "코딩"
   ]
  }
 ]
