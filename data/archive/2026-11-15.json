@@ -1,5 +1,34 @@
 [
  {
+  "id": "a955aa42079e7773",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwc3m7/ai_rig_finally_done_and_stable_perfect_winter/",
+  "source": "r/LocalLLaMA",
+  "title": "Ai Rig finally done and stable, perfect winter heater",
+  "published_at": "2026-11-14T20:13:38+00:00",
+  "collected_at": "2026-11-14T21:20:41.090760+00:00",
+  "title_ko": "로컬 LLM 구동을 위한 8스택 RTX 3090 워크스테이션 구축",
+  "summary_ko": "중고 GPU를 활용해 대규모 로컬 LLM을 구동할 수 있는 8개의 RTX 3090 시스템을 안정적으로 구축한 사례입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "e97e863d87cf6ab8",
+  "url": "https://news.hada.io/topic?id=37169&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Lovable 앱에서 여권 정보와 20만 건 이상의 비공개 메시지 노출",
+  "published_at": "2026-11-14T19:43:32+00:00",
+  "collected_at": "2026-11-14T21:20:55.583147+00:00",
+  "title_ko": "Lovable 앱 프로젝트에서 대규모 개인정보 노출 발생",
+  "summary_ko": "Lovable 플랫폼 내 다수 앱에서 로그인 없이 데이터베이스에 접근할 수 있어 이메일과 채팅 메시지 등이 노출되었습니다.",
+  "category": "중요",
+  "tags": [
+   "보안"
+  ]
+ },
+ {
   "id": "4f3b54fec2de3ddb",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=217412",
   "source": "AI타임스",
@@ -11,6 +40,21 @@
   "category": "중요",
   "tags": [
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "fdeb2910eff57fa1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwan2j/update_tandemcpp_deepseekv41_on_a_64_gb_pc_with_a/",
+  "source": "r/LocalLLaMA",
+  "title": "Update: tandem.cpp — DeepSeek-V4.1 on a 64 GB PC with a 16 GB card, and AMD (ROCm) support",
+  "published_at": "2026-11-14T19:12:45+00:00",
+  "collected_at": "2026-11-14T21:20:41.090760+00:00",
+  "title_ko": "저사양 PC에서 대형 MoE 모델 실행을 돕는 tandem.cpp",
+  "summary_ko": "VRAM이 부족한 일반 PC에서도 대형 MoE 모델을 빠르게 실행할 수 있도록 CPU와 GPU를 연동하는 패치 세트입니다.",
+  "category": "팁",
+  "tags": [
+   "DeepSeek",
+   "오픈소스"
   ]
  },
  {
@@ -30,6 +74,21 @@
   ]
  },
  {
+  "id": "04c3039fd0945eb5",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw9mpa/nexaginexn26_hugging_face/",
+  "source": "r/LocalLLaMA",
+  "title": "nex-agi/Nex-N2.6 · Hugging Face",
+  "published_at": "2026-11-14T18:31:49+00:00",
+  "collected_at": "2026-11-14T21:20:41.090760+00:00",
+  "title_ko": "멀티모달 에이전트 모델 Nex-N2.6 공개",
+  "summary_ko": "컴퓨터 제어와 코딩 작업을 위해 설계된 3,210억 파라미터 규모의 멀티모달 에이전트 모델이 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "63623eb8a24c9732",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=217410",
   "source": "AI타임스",
@@ -41,6 +100,20 @@
   "category": "중요",
   "tags": [
    "NVIDIA"
+  ]
+ },
+ {
+  "id": "0364257ac690a017",
+  "url": "https://www.crissyfield.de/research/lovable-en/",
+  "source": "Hacker News",
+  "title": "Lovable apps expose passport details and more than 200K private messages",
+  "published_at": "2026-11-14T17:43:10+00:00",
+  "collected_at": "2026-11-14T21:20:39.278490+00:00",
+  "title_ko": "Lovable 기반 앱들의 보안 취약점으로 개인정보 대거 노출",
+  "summary_ko": "Lovable을 통해 제작된 다수의 웹앱에서 민감한 사용자 데이터와 메시지가 무단 노출되는 보안 사고가 발생했습니다.",
+  "category": "중요",
+  "tags": [
+   "보안"
   ]
  },
  {
@@ -58,6 +131,49 @@
   ]
  },
  {
+  "id": "e6e5626f44a2794d",
+  "url": "https://news.hada.io/topic?id=37166&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "테크 기업들이 프라이버시의 개념을 다시 바꾸려 함",
+  "published_at": "2026-11-14T17:33:13+00:00",
+  "collected_at": "2026-11-14T21:20:55.583147+00:00",
+  "title_ko": "웨어러블 기기의 상시 감시와 프라이버시 침해 논란",
+  "summary_ko": "스마트 안경과 녹음형 웨어러블 기기가 주변인의 대화까지 무단으로 기록하면서 새로운 프라이버시 문제가 대두되고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "규제"
+  ]
+ },
+ {
+  "id": "b08cefd9996dfc5a",
+  "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+  "source": "TechCrunch",
+  "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+  "published_at": "2026-11-14T17:30:00+00:00",
+  "collected_at": "2026-11-14T21:20:24.199445+00:00",
+  "title_ko": "실패하거나 중단된 AI 프로젝트 모음 'AI 묘지'",
+  "summary_ko": "애플의 시리 AI 지연부터 오픈에이전트 출시 실패까지, 기대에 미치지 못하고 중단된 주요 AI 프로젝트들을 정리했습니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "Apple"
+  ]
+ },
+ {
+  "id": "484029a412a74cda",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw7zrg/tinyvoca_a_fully_open_45mparameter_tts_code/",
+  "source": "r/LocalLLaMA",
+  "title": "tiny-voca: a fully open 4.5M-parameter TTS (code, weights, dataset). Runs 70x real time on a CPU",
+  "published_at": "2026-11-14T17:26:13+00:00",
+  "collected_at": "2026-11-14T21:20:41.090760+00:00",
+  "title_ko": "CPU에서 빠르게 동작하는 초소형 오픈소스 TTS 모델 tiny-voca",
+  "summary_ko": "450만 파라미터로 브라우저와 CPU 환경에서 실시간보다 70배 빠르게 작동하는 완전 오픈소스 음성 합성 모델입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
   "id": "e93f9e859d0ee63e",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=217407",
   "source": "AI타임스",
@@ -70,6 +186,21 @@
   "tags": [
    "NVIDIA",
    "반도체"
+  ]
+ },
+ {
+  "id": "fdf72b988ce9d140",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw7edn/after_medusa_halo_we_get_siren_halo/",
+  "source": "r/LocalLLaMA",
+  "title": "After medusa halo we get siren halo",
+  "published_at": "2026-11-14T17:02:40+00:00",
+  "collected_at": "2026-11-14T21:20:41.090760+00:00",
+  "title_ko": "AMD 차세대 AI 프로세서 '사이렌 할로' 유출",
+  "summary_ko": "AMD가 온패키지 GDDR7 VRAM을 탑재한 AI용 프로세서 '사이렌 할로'를 2028년 말에 출시할 것으로 예상됩니다.",
+  "category": "참고",
+  "tags": [
+   "반도체",
+   "AMD"
   ]
  },
  {
@@ -161,6 +292,21 @@
   "tags": [
    "오픈소스",
    "규제"
+  ]
+ },
+ {
+  "id": "ad8b3d5bdfd0d7ff",
+  "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+  "source": "Hacker News",
+  "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+  "published_at": "2026-11-14T15:04:15+00:00",
+  "collected_at": "2026-11-14T21:20:39.278490+00:00",
+  "title_ko": "Jax로 구현한 DeepSeek V3",
+  "summary_ko": "단 200여 줄의 순수 Jax 코드로 DeepSeek V3를 구현한 오픈소스 프로젝트가 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "DeepSeek"
   ]
  },
  {

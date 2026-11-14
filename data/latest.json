@@ -1,8 +1,37 @@
 {
- "updated_at": "2026-11-14T16:58:31.519006+00:00",
+ "updated_at": "2026-11-14T21:21:02.838933+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "a955aa42079e7773",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwc3m7/ai_rig_finally_done_and_stable_perfect_winter/",
+   "source": "r/LocalLLaMA",
+   "title": "Ai Rig finally done and stable, perfect winter heater",
+   "published_at": "2026-11-14T20:13:38+00:00",
+   "collected_at": "2026-11-14T21:20:41.090760+00:00",
+   "title_ko": "로컬 LLM 구동을 위한 8스택 RTX 3090 워크스테이션 구축",
+   "summary_ko": "중고 GPU를 활용해 대규모 로컬 LLM을 구동할 수 있는 8개의 RTX 3090 시스템을 안정적으로 구축한 사례입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "e97e863d87cf6ab8",
+   "url": "https://news.hada.io/topic?id=37169&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Lovable 앱에서 여권 정보와 20만 건 이상의 비공개 메시지 노출",
+   "published_at": "2026-11-14T19:43:32+00:00",
+   "collected_at": "2026-11-14T21:20:55.583147+00:00",
+   "title_ko": "Lovable 앱 프로젝트에서 대규모 개인정보 노출 발생",
+   "summary_ko": "Lovable 플랫폼 내 다수 앱에서 로그인 없이 데이터베이스에 접근할 수 있어 이메일과 채팅 메시지 등이 노출되었습니다.",
+   "category": "중요",
+   "tags": [
+    "보안"
+   ]
+  },
   {
    "id": "4f3b54fec2de3ddb",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217412",
@@ -15,6 +44,21 @@
    "category": "중요",
    "tags": [
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "fdeb2910eff57fa1",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwan2j/update_tandemcpp_deepseekv41_on_a_64_gb_pc_with_a/",
+   "source": "r/LocalLLaMA",
+   "title": "Update: tandem.cpp — DeepSeek-V4.1 on a 64 GB PC with a 16 GB card, and AMD (ROCm) support",
+   "published_at": "2026-11-14T19:12:45+00:00",
+   "collected_at": "2026-11-14T21:20:41.090760+00:00",
+   "title_ko": "저사양 PC에서 대형 MoE 모델 실행을 돕는 tandem.cpp",
+   "summary_ko": "VRAM이 부족한 일반 PC에서도 대형 MoE 모델을 빠르게 실행할 수 있도록 CPU와 GPU를 연동하는 패치 세트입니다.",
+   "category": "팁",
+   "tags": [
+    "DeepSeek",
+    "오픈소스"
    ]
   },
   {
@@ -34,6 +78,21 @@
    ]
   },
   {
+   "id": "04c3039fd0945eb5",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw9mpa/nexaginexn26_hugging_face/",
+   "source": "r/LocalLLaMA",
+   "title": "nex-agi/Nex-N2.6 · Hugging Face",
+   "published_at": "2026-11-14T18:31:49+00:00",
+   "collected_at": "2026-11-14T21:20:41.090760+00:00",
+   "title_ko": "멀티모달 에이전트 모델 Nex-N2.6 공개",
+   "summary_ko": "컴퓨터 제어와 코딩 작업을 위해 설계된 3,210억 파라미터 규모의 멀티모달 에이전트 모델이 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
+  {
    "id": "63623eb8a24c9732",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217410",
    "source": "AI타임스",
@@ -45,6 +104,20 @@
    "category": "중요",
    "tags": [
     "NVIDIA"
+   ]
+  },
+  {
+   "id": "0364257ac690a017",
+   "url": "https://www.crissyfield.de/research/lovable-en/",
+   "source": "Hacker News",
+   "title": "Lovable apps expose passport details and more than 200K private messages",
+   "published_at": "2026-11-14T17:43:10+00:00",
+   "collected_at": "2026-11-14T21:20:39.278490+00:00",
+   "title_ko": "Lovable 기반 앱들의 보안 취약점으로 개인정보 대거 노출",
+   "summary_ko": "Lovable을 통해 제작된 다수의 웹앱에서 민감한 사용자 데이터와 메시지가 무단 노출되는 보안 사고가 발생했습니다.",
+   "category": "중요",
+   "tags": [
+    "보안"
    ]
   },
   {
@@ -62,6 +135,49 @@
    ]
   },
   {
+   "id": "e6e5626f44a2794d",
+   "url": "https://news.hada.io/topic?id=37166&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "테크 기업들이 프라이버시의 개념을 다시 바꾸려 함",
+   "published_at": "2026-11-14T17:33:13+00:00",
+   "collected_at": "2026-11-14T21:20:55.583147+00:00",
+   "title_ko": "웨어러블 기기의 상시 감시와 프라이버시 침해 논란",
+   "summary_ko": "스마트 안경과 녹음형 웨어러블 기기가 주변인의 대화까지 무단으로 기록하면서 새로운 프라이버시 문제가 대두되고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "규제"
+   ]
+  },
+  {
+   "id": "b08cefd9996dfc5a",
+   "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "source": "TechCrunch",
+   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "published_at": "2026-11-14T17:30:00+00:00",
+   "collected_at": "2026-11-14T21:20:24.199445+00:00",
+   "title_ko": "실패하거나 중단된 AI 프로젝트 모음 'AI 묘지'",
+   "summary_ko": "애플의 시리 AI 지연부터 오픈에이전트 출시 실패까지, 기대에 미치지 못하고 중단된 주요 AI 프로젝트들을 정리했습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "Apple"
+   ]
+  },
+  {
+   "id": "484029a412a74cda",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw7zrg/tinyvoca_a_fully_open_45mparameter_tts_code/",
+   "source": "r/LocalLLaMA",
+   "title": "tiny-voca: a fully open 4.5M-parameter TTS (code, weights, dataset). Runs 70x real time on a CPU",
+   "published_at": "2026-11-14T17:26:13+00:00",
+   "collected_at": "2026-11-14T21:20:41.090760+00:00",
+   "title_ko": "CPU에서 빠르게 동작하는 초소형 오픈소스 TTS 모델 tiny-voca",
+   "summary_ko": "450만 파라미터로 브라우저와 CPU 환경에서 실시간보다 70배 빠르게 작동하는 완전 오픈소스 음성 합성 모델입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
    "id": "e93f9e859d0ee63e",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217407",
    "source": "AI타임스",
@@ -74,6 +190,21 @@
    "tags": [
     "NVIDIA",
     "반도체"
+   ]
+  },
+  {
+   "id": "fdf72b988ce9d140",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw7edn/after_medusa_halo_we_get_siren_halo/",
+   "source": "r/LocalLLaMA",
+   "title": "After medusa halo we get siren halo",
+   "published_at": "2026-11-14T17:02:40+00:00",
+   "collected_at": "2026-11-14T21:20:41.090760+00:00",
+   "title_ko": "AMD 차세대 AI 프로세서 '사이렌 할로' 유출",
+   "summary_ko": "AMD가 온패키지 GDDR7 VRAM을 탑재한 AI용 프로세서 '사이렌 할로'를 2028년 말에 출시할 것으로 예상됩니다.",
+   "category": "참고",
+   "tags": [
+    "반도체",
+    "AMD"
    ]
   },
   {
@@ -168,6 +299,21 @@
    ]
   },
   {
+   "id": "ad8b3d5bdfd0d7ff",
+   "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+   "source": "Hacker News",
+   "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+   "published_at": "2026-11-14T15:04:15+00:00",
+   "collected_at": "2026-11-14T21:20:39.278490+00:00",
+   "title_ko": "Jax로 구현한 DeepSeek V3",
+   "summary_ko": "단 200여 줄의 순수 Jax 코드로 DeepSeek V3를 구현한 오픈소스 프로젝트가 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "DeepSeek"
+   ]
+  },
+  {
    "id": "19d3409769297d89",
    "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
    "source": "The Verge",
@@ -196,6 +342,21 @@
     "Anthropic",
     "Claude",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "8f2daa11c5051ada",
+   "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+   "source": "Hacker News",
+   "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+   "published_at": "2026-11-14T14:09:25+00:00",
+   "collected_at": "2026-11-14T21:20:39.278490+00:00",
+   "title_ko": "NVIDIA vLLM을 활용한 GLM-5.3 고속 서빙",
+   "summary_ko": "두 대의 NVIDIA DGX 스테이션과 vLLM을 활용해 GLM-5.3 모델을 초당 607.8 토큰 속도로 서빙하는 방법이 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "NVIDIA",
+    "오픈소스"
    ]
   },
   {
@@ -255,6 +416,21 @@
     "AI 에이전트",
     "오픈소스",
     "LLM"
+   ]
+  },
+  {
+   "id": "be81354d8a302a35",
+   "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+   "source": "Hacker News",
+   "title": "Advancing science and engineering with Antigravity's /teamwork",
+   "published_at": "2026-11-14T13:20:43+00:00",
+   "collected_at": "2026-11-14T21:20:39.278490+00:00",
+   "title_ko": "Google, Antigravity의 'teamwork' 기능 공개",
+   "summary_ko": "구글이 과학 및 엔지니어링 연구를 발전시키기 위해 Antigravity의 팀워크 기능을 소개했습니다.",
+   "category": "중요",
+   "tags": [
+    "Google",
+    "AI 에이전트"
    ]
   },
   {
@@ -2835,182 +3011,6 @@
    "tags": [
     "오픈소스",
     "AI 에이전트"
-   ]
-  },
-  {
-   "id": "592cfe6edf5ce4bd",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtzwxf/i_released_inflect_v3_lightweight_local_tts_in/",
-   "source": "r/LocalLLaMA",
-   "title": "I released Inflect v3: lightweight local TTS in 34M parameters (Apache 2.0)",
-   "published_at": "2026-11-12T01:36:10+00:00",
-   "collected_at": "2026-11-12T09:41:25.192166+00:00",
-   "title_ko": "경량 로컬 음성 합성 모델 'Inflect v3' 공개",
-   "summary_ko": "34M 파라미터 크기로 CPU와 CUDA에서 실행 가능한 오픈소스 텍스트 음성 변환 모델입니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "947f0d23429f4b80",
-   "url": "https://news.hada.io/topic?id=37024&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "젠슨 황, 직속 보고 임원과도 혼외 관계를 맺었다는 증언 나와",
-   "published_at": "2026-11-12T01:34:18+00:00",
-   "collected_at": "2026-11-12T09:41:39.763059+00:00",
-   "title_ko": "엔비디아 젠슨 황 CEO 관련 사생활 논란 보도",
-   "summary_ko": "엔비디아 내부 임원과의 관계 및 이해충돌 관련 의혹이 제기되어 업계의 이목이 집중되고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "8f4505e732c5ecef",
-   "url": "https://news.hada.io/topic?id=37020&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "Show GN: OpenPhoneUse – 화면을 보고 직접 탭하는 모바일용 Computer Use",
-   "published_at": "2026-11-12T00:51:56+00:00",
-   "collected_at": "2026-11-12T09:41:39.763059+00:00",
-   "title_ko": "안드로이드 전용 모바일 컴퓨터 유즈 에이전트 'OpenPhoneUse'",
-   "summary_ko": "추가 장치 연결 없이 접근성 서비스만으로 스마트폰 화면을 직접 조작하는 AI 에이전트입니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "OpenAI",
-    "Claude"
-   ]
-  },
-  {
-   "id": "e615adee1bf7d019",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtyxl9/deepseek_v41_flash_1017_exl3_29bpw_apex_2025/",
-   "source": "r/LocalLLaMA",
-   "title": "DeepSeek V4.1 Flash 1017 exl3 2.9bpw APEX 2025 benchmark results",
-   "published_at": "2026-11-12T00:50:08+00:00",
-   "collected_at": "2026-11-12T01:27:52.387528+00:00",
-   "title_ko": "DeepSeek V4.1 Flash 벤치마크 결과 공개",
-   "summary_ko": "로컬 환경에서 구동한 DeepSeek V4.1 Flash 모델의 양자화 버전 성능을 APEX 2025 벤치마크로 측정한 결과가 공유되었습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "GPT"
-   ]
-  },
-  {
-   "id": "fc0483e233ce2a5f",
-   "url": "https://news.hada.io/topic?id=37018&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "WSJ 보도에 따르면 Nvidia가 CEO Jensen Huang 해임을 준비 중",
-   "published_at": "2026-11-12T00:31:46+00:00",
-   "collected_at": "2026-11-12T01:28:07.655718+00:00",
-   "title_ko": "외신 \"엔비디아, 젠슨 황 CEO 해임 준비 중\"",
-   "summary_ko": "월스트리트저널 등 외신을 인용해 엔비디아 이사회가 젠슨 황 CEO의 해임을 준비하고 있다는 소식이 전해졌습니다.",
-   "category": "속보",
-   "tags": [
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "beafb4e13664fd44",
-   "url": "https://news.hada.io/topic?id=37017&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "OpenMAIC - 주제나 문서를 AI 교사와 토론하는 수업으로 만드는 오픈소스 플랫폼",
-   "published_at": "2026-11-12T00:30:02+00:00",
-   "collected_at": "2026-11-12T01:28:07.655718+00:00",
-   "title_ko": "AI 교사와 토론하는 수업 플랫폼 'OpenMAIC'",
-   "summary_ko": "사용자가 입력한 주제를 바탕으로 슬라이드, 퀴즈, 시뮬레이션 등을 자동 생성하고 AI 교사와 토론할 수 있는 오픈소스 플랫폼입니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "f8a919376d903b58",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xty1vc/simplest_local_agentic_setup/",
-   "source": "r/LocalLLaMA",
-   "title": "Simplest Local Agentic Setup",
-   "published_at": "2026-11-12T00:09:37+00:00",
-   "collected_at": "2026-11-12T01:27:52.387528+00:00",
-   "title_ko": "저사양 로컬 환경을 위한 간단한 AI 에이전트 구축법",
-   "summary_ko": "제한된 VRAM을 가진 워크스테이션에서 가볍게 구동할 수 있는 로컬 AI 에이전트 세팅 방법과 추천 도구가 공유되었습니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "f28f90d2895a812c",
-   "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-   "source": "OpenAI",
-   "title": "Gilbert + Tobin rethinks the business of law with AI",
-   "published_at": "2026-11-12T00:00:00+00:00",
-   "collected_at": "2026-11-11T02:41:33.345564+00:00",
-   "title_ko": "길버트 앤 토빈, AI로 법률 비즈니스 혁신",
-   "summary_ko": "로펌 길버트 앤 토빈의 CEO가 AI를 활용한 법률 업무 혁신 과정과 비즈니스 변화에 대해 설명합니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "efdd0bfa6110086b",
-   "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-   "source": "TechCrunch",
-   "title": "The unfolding Jensen Huang scandal: a timeline",
-   "published_at": "2026-11-11T23:50:00+00:00",
-   "collected_at": "2026-11-12T01:27:30.385981+00:00",
-   "title_ko": "젠슨 황 스캔들의 타임라인과 안보적 파장",
-   "summary_ko": "젠슨 황 CEO를 둘러싼 스캔들이 미·중 AI 인프라 경쟁 및 국가 안보에 미칠 수 있는 잠재적 영향에 대한 분석입니다.",
-   "category": "참고",
-   "tags": [
-    "NVIDIA",
-    "규제"
-   ]
-  },
-  {
-   "id": "33d8dfca45093e6c",
-   "url": "https://news.hada.io/topic?id=37014&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "United Airlines, AI 에이전트의 여행객 대리 항공편 예약 금지",
-   "published_at": "2026-11-11T23:38:13+00:00",
-   "collected_at": "2026-11-12T01:28:07.655718+00:00",
-   "title_ko": "유나이티드항공, AI 에이전트의 대리 항공편 예약 금지",
-   "summary_ko": "민감 정보 노출 및 규정 위반을 방지하기 위해 유나이티드항공이 제3자 AI 에이전트를 통한 대리 예약을 금지하는 정책을 도입했습니다.",
-   "category": "중요",
-   "tags": [
-    "AI 에이전트",
-    "규제"
-   ]
-  },
-  {
-   "id": "d1e4162800dcd078",
-   "url": "https://news.hada.io/topic?id=37013&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "Nvidia, CEO Jensen Huang 축출 준비 중",
-   "published_at": "2026-11-11T23:35:13+00:00",
-   "collected_at": "2026-11-12T01:28:07.655718+00:00",
-   "title_ko": "엔비디아 이사회, 젠슨 황 CEO 축출 절차 돌입",
-   "summary_ko": "혼외 관계 및 스파이 연루 의혹 등으로 엔비디아 이사회가 창업자 젠슨 황의 축출을 위한 회의를 준비 중입니다.",
-   "category": "속보",
-   "tags": [
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "b49f81646f6a72ac",
-   "url": "https://news.hada.io/topic?id=37012&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "Show GN: TokenPlant - Claude Code·Codex에 쓴 토큰으로 픽셀 식물을 키우는 macOS 메뉴바 앱",
-   "published_at": "2026-11-11T23:30:11+00:00",
-   "collected_at": "2026-11-12T01:28:07.655718+00:00",
-   "title_ko": "AI 토큰 사용량으로 식물을 키우는 앱 'TokenPlant'",
-   "summary_ko": "클로드 코드 등의 AI 코딩 도구 사용 토큰량에 따라 메뉴바에서 픽셀 식물을 키울 수 있는 macOS용 로컬 앱입니다.",
-   "category": "팁",
-   "tags": [
-    "Claude",
-    "코딩"
    ]
   }
  ]
