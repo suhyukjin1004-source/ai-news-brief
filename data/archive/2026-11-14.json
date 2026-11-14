@@ -1,5 +1,126 @@
 [
  {
+  "id": "9e362f83f9f8b7e8",
+  "url": "https://news.hada.io/topic?id=37159&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Claude Fable 5.2로 에이전트 1,000개 팀 안전하게 돌리기 - 페르마의 마지막 정리 형식화 실험",
+  "published_at": "2026-11-14T14:39:02+00:00",
+  "collected_at": "2026-11-14T16:58:22.763495+00:00",
+  "title_ko": "앤스로픽, Claude Fable 5.2로 1천 개 에이전트 협업 실험 성공",
+  "summary_ko": "앤스로픽이 1천 개의 Claude 에이전트를 동원해 고난도 수학 증명을 성공적으로 수행했습니다. 대규모 AI 에이전트 협업의 가능성을 보여줍니다.",
+  "category": "중요",
+  "tags": [
+   "Anthropic",
+   "Claude",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "213e40b5515dddae",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw36op/qwen4_flash_wishlist/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen4 Flash wishlist",
+  "published_at": "2026-11-14T14:04:38+00:00",
+  "collected_at": "2026-11-14T16:58:08.576060+00:00",
+  "title_ko": "차기 Qwen 모델 개선 요구사항 공유",
+  "summary_ko": "사용자들이 대화 능력과 추론 성능이 향상된 차기 Qwen 모델에 대한 바람을 커뮤니티에서 나누고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "7654a74f938929a0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw2ter/i_know_its_very_expensive_but_is_anyone_using_a/",
+  "source": "r/LocalLLaMA",
+  "title": "I know it’s very expensive but is anyone using a dgx station b300 ? Is it that good for local llms ?",
+  "published_at": "2026-11-14T13:47:44+00:00",
+  "collected_at": "2026-11-14T16:58:08.576060+00:00",
+  "title_ko": "로컬 LLM 구동을 위한 DGX 스테이션 B300 사용자 후기 요청",
+  "summary_ko": "로컬 환경에서 대형언어모델을 구동하기 위해 엔비디아 DGX 스테이션 B300의 성능과 동시 사용자 처리 능력에 대한 사용자들의 관심이 이어지고 있습니다.",
+  "category": "팁",
+  "tags": [
+   "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
+  "id": "056b1465da24b251",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw2ogq/the_lawyer_who_posts_here_about_his_v100s_got_his/",
+  "source": "r/LocalLLaMA",
+  "title": "The lawyer who posts here about his V100s got his story picked up by Tom’s Hardware",
+  "published_at": "2026-11-14T13:41:12+00:00",
+  "collected_at": "2026-11-14T16:58:08.576060+00:00",
+  "title_ko": "V100 활용 변호사의 로컬 LLM 사연, 전문 매체 보도",
+  "summary_ko": "구형 V100 하드웨어를 활용해 로컬 LLM을 구축하던 변호사의 사연이 IT 매체 톰스 하드웨어에 소개되었습니다.",
+  "category": "참고",
+  "tags": [
+   "반도체"
+  ]
+ },
+ {
+  "id": "e8b3e4cd56a69a7e",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw29ic/arc_10_a_decision_model_for_routing_ai_agents/",
+  "source": "r/LocalLLaMA",
+  "title": "ARC 1.0: A decision model for routing AI agents across cloud and local models (0.6B, Apache 2.0)",
+  "published_at": "2026-11-14T13:20:55+00:00",
+  "collected_at": "2026-11-14T16:58:08.576060+00:00",
+  "title_ko": "클라우드 및 로컬 모델 라우팅을 위한 결정 모델 'ARC 1.0' 공개",
+  "summary_ko": "ARC는 AI 에이전트의 대화를 분석해 최적의 모델과 추론 수준을 선택하도록 돕는 오픈소스 적응형 라우팅 제어기입니다. 비용 효율적인 AI 에이전트 구축에 유용하게 활용될 수 있습니다.",
+  "category": "속보",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
+  "id": "e0d2c72bbcbc5888",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw0xeu/how_long_are_we_gonna_depend_bunch_of_model/",
+  "source": "r/LocalLLaMA",
+  "title": "How long are we gonna depend bunch of model creators (like Qwen, Gemma, NVIDIA, etc.,) for ~100B models?",
+  "published_at": "2026-11-14T12:10:50+00:00",
+  "collected_at": "2026-11-14T16:58:08.576060+00:00",
+  "title_ko": "대형화되는 오픈소스 모델과 로컬 하드웨어 한계에 대한 우려",
+  "summary_ko": "주요 모델 제공사들이 300B~500B 이상의 대형 모델을 출시하면서, 개인 사용자들의 로컬 기기 구동이 점점 어려워지고 있다는 업계의 고민을 다룹니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
+  "id": "c46863c308104449",
+  "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+  "source": "The Verge",
+  "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+  "published_at": "2026-11-14T12:00:00+00:00",
+  "collected_at": "2026-11-14T16:57:53.730636+00:00",
+  "title_ko": "엔비디아 젠슨 황과 비전 제시형 CEO의 변화",
+  "summary_ko": "엔비디아의 CEO 젠슨 황의 행보를 통해 AI 시대 빅테크 리더들의 영향력과 대중적 위상의 변화를 조명합니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA"
+  ]
+ },
+ {
+  "id": "c347388e87ad9ef6",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw09tu/ibm_trains_two_small_open_models_to_ignore_orders/",
+  "source": "r/LocalLLaMA",
+  "title": "IBM trains two small open models to ignore orders hidden in documents",
+  "published_at": "2026-11-14T11:33:26+00:00",
+  "collected_at": "2026-11-14T16:58:08.576060+00:00",
+  "title_ko": "IBM, 문서 내 숨겨진 악성 지시 무시하는 소형 오픈 모델 학습",
+  "summary_ko": "소형 언어 모델의 고질적인 문제인 프롬프트 인젝션 취약점을 해결하기 위해 IBM이 문서 내 숨겨진 명령을 무시하도록 훈련된 오픈 모델을 선보였습니다.",
+  "category": "속보",
+  "tags": [
+   "IBM",
+   "오픈소스",
+   "LLM"
+  ]
+ },
+ {
   "id": "89b49f45d8daaf43",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=217397",
   "source": "AI타임스",
@@ -74,6 +195,21 @@
   "category": "참고",
   "tags": [
    "오픈소스"
+  ]
+ },
+ {
+  "id": "517a4f65360f05c3",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvyol3/qwen_38_flash_next_for_gamedev_its_very_capable/",
+  "source": "r/LocalLLaMA",
+  "title": "Qwen 3.8 Flash Next for gamedev - it's very capable!",
+  "published_at": "2026-11-14T09:55:18+00:00",
+  "collected_at": "2026-11-14T16:58:08.576060+00:00",
+  "title_ko": "게임 개발에 활용된 Qwen 3.8 Flash Next 모델",
+  "summary_ko": "개발자가 로컬 하드웨어 환경에서 Qwen 3.8 Flash Next 모델을 활용해 게임 개발을 성공적으로 완수하고 높은 성능을 확인한 사례입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
   ]
  },
  {
@@ -172,6 +308,22 @@
   "category": "참고",
   "tags": [
    "오픈소스"
+  ]
+ },
+ {
+  "id": "4d0c29e8f59af820",
+  "url": "https://news.ycombinator.com/item?id=50494696",
+  "source": "Hacker News",
+  "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+  "published_at": "2026-11-14T06:56:42+00:00",
+  "collected_at": "2026-11-14T16:58:07.847215+00:00",
+  "title_ko": "개인이 학습해야 할 실용적이고 구체적인 AI 기술에 대한 토론",
+  "summary_ko": "LLM과 AI 에이전트 시대에 개인이 경제적 기회를 잡기 위해 독학으로 익힐 수 있는 실무 중심의 기술이 무엇인지 다루고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트",
+   "LLM",
+   "코딩"
   ]
  },
  {
