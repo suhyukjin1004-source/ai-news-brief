@@ -1,8 +1,115 @@
 {
- "updated_at": "2026-11-15T09:11:52.931090+00:00",
+ "updated_at": "2026-11-15T16:58:18.023608+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "e99985acb7c94c98",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xww5o2/higurashiaiharu4b_hugging_face/",
+   "source": "r/LocalLLaMA",
+   "title": "higurashi-ai/Haru-4B · Hugging Face",
+   "published_at": "2026-11-15T13:58:52+00:00",
+   "collected_at": "2026-11-15T16:57:51.623586+00:00",
+   "title_ko": "실시간 양방향 음성 대화 모델 Haru-4B 공개",
+   "summary_ko": "전화 통화처럼 동시에 듣고 말할 수 있는 저지연 다국어 음성 대화 기초 모델 Haru-4B가 허깅페이스에 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "음성AI"
+   ]
+  },
+  {
+   "id": "13facb3dedb9af98",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwvrri/meituanlongcatlongcatvideoavatar16_hugging_face/",
+   "source": "r/LocalLLaMA",
+   "title": "meituan-longcat/LongCat-Video-Avatar-1.6 · Hugging Face",
+   "published_at": "2026-11-15T13:41:06+00:00",
+   "collected_at": "2026-11-15T16:57:51.623586+00:00",
+   "title_ko": "오디오 기반 비디오 생성 프레임워크 LongCat-Video-Avatar 1.6 공개",
+   "summary_ko": "오디오 구동 휴먼 비디오 생성 오픈소스 프레임워크의 최신 버전으로, 입모양 동기화와 표정 자연스러움이 개선되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "비디오생성"
+   ]
+  },
+  {
+   "id": "5f2eea2e01a384b6",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwvnfr/i_used_local_gemma_4_to_moderate_a_community_and/",
+   "source": "r/LocalLLaMA",
+   "title": "I used local Gemma 4 to moderate a community and it was it is promising",
+   "published_at": "2026-11-15T13:35:35+00:00",
+   "collected_at": "2026-11-15T16:57:51.623586+00:00",
+   "title_ko": "로컬 Gemma 모델을 활용한 커뮤니티 자동 모더레이션",
+   "summary_ko": "소규모 커뮤니티 운영자가 로컬에 설치한 Gemma 모델을 이용해 게시글이 커뮤니티 규칙에 맞는지 자동으로 검토하고 필터링하는 시스템을 구축했습니다.",
+   "category": "팁",
+   "tags": [
+    "Gemma",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "1852f940a40c91f8",
+   "url": "https://www.reddit.com/r/singularity/comments/1xwvg9b/gemini_4_hydrogen_just_destroyed_claude_fable_52/",
+   "source": "r/singularity",
+   "title": "Gemini 4 Hydrogen just DESTROYED Claude Fable 5.2 & all other models in the latest benchmark.",
+   "published_at": "2026-11-15T13:25:45+00:00",
+   "collected_at": "2026-11-15T16:58:04.758384+00:00",
+   "title_ko": "Gemini 4 Hydrogen, 최신 벤치마크서 우수 성적 기록",
+   "summary_ko": "새로운 대형 언어 모델인 Gemini 4 Hydrogen이 최신 벤치마크 테스트에서 기존 모델들을 압도하는 성능을 보였습니다.",
+   "category": "중요",
+   "tags": [
+    "Gemini",
+    "Google"
+   ]
+  },
+  {
+   "id": "752bcc8f3ae9f41e",
+   "url": "https://www.reddit.com/r/singularity/comments/1xwvaq9/claude_wrote_and_trained_a_language_model_for_dos/",
+   "source": "r/singularity",
+   "title": "Claude wrote and trained a language model for DOS that fits on a floppy disk",
+   "published_at": "2026-11-15T13:18:24+00:00",
+   "collected_at": "2026-11-15T16:58:04.758384+00:00",
+   "title_ko": "Claude가 플로피 디스크 용량의 DOS용 언어 모델 작성",
+   "summary_ko": "AI 모델 Claude가 플로피 디스크에 들어갈 만큼 작은 크기의 DOS용 언어 모델을 직접 작성하고 학습시키는 데 성공했습니다.",
+   "category": "참고",
+   "tags": [
+    "Claude",
+    "Anthropic",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "5c7262fee5ef8274",
+   "url": "https://www.reddit.com/r/singularity/comments/1xwv6va/dont_work_on_llms_ylecun_at_corl/",
+   "source": "r/singularity",
+   "title": "“DON’T WORK ON LLMs” - @ylecun at CoRL",
+   "published_at": "2026-11-15T13:13:21+00:00",
+   "collected_at": "2026-11-15T16:58:04.758384+00:00",
+   "title_ko": "얀 르쿤 'LLM 연구에만 매몰되지 말라' 발언",
+   "summary_ko": "메타의 AI 최고 과학자 얀 르쿤이 코르L(CoRL) 학회에서 연구원들에게 대형 언어 모델(LLM) 중심의 연구에서 벗어날 것을 조언했습니다.",
+   "category": "중요",
+   "tags": [
+    "Meta",
+    "연구"
+   ]
+  },
+  {
+   "id": "cbee5bbd3a6f8673",
+   "url": "https://news.hada.io/topic?id=37202&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "AI 코딩 에이전트의 \"테스트 모두 통과\"를 믿기 전에 확인하는 9가지 (실측 사례 모음)",
+   "published_at": "2026-11-15T13:04:34+00:00",
+   "collected_at": "2026-11-15T16:58:06.626329+00:00",
+   "title_ko": "AI 코딩 에이전트의 테스트 통과 보고 허점 분석",
+   "summary_ko": "AI 코딩 도구가 '테스트 모두 통과'라고 보고하더라도 실제로는 검증이 누락되거나 부실한 경우가 많아 개발자의 교차 검증이 필수적입니다.",
+   "category": "팁",
+   "tags": [
+    "코딩",
+    "AI 에이전트",
+    "Claude"
+   ]
+  },
   {
    "id": "55943a980592dcbc",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217415",
@@ -17,6 +124,21 @@
     "Google",
     "Gemini",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "573fb8c098927dda",
+   "url": "https://www.reddit.com/r/singularity/comments/1xwumyr/my_definition_for_agi_and_why_the_frontier_is/",
+   "source": "r/singularity",
+   "title": "My definition for AGI and why the frontier is still far from AGI",
+   "published_at": "2026-11-15T12:46:14+00:00",
+   "collected_at": "2026-11-15T16:58:04.758384+00:00",
+   "title_ko": "AGI 정의와 현주소에 대한 새로운 6단계 기준 제시",
+   "summary_ko": "범용인공지능(AGI)을 평가하기 위한 6가지 축의 정의가 제안되었으며, 현재 기술 수준이 AGI 도달에 비해 아직 멀었음을 분석했습니다.",
+   "category": "참고",
+   "tags": [
+    "AGI",
+    "Gemini"
    ]
   },
   {
@@ -35,6 +157,51 @@
    ]
   },
   {
+   "id": "5bbff9d76557069f",
+   "url": "https://news.hada.io/topic?id=37201&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "고칠 줄 몰라서가 아니라 불편한 줄 몰라서 – 기억해야 할 창구를 줄인 업무 환경 개선기",
+   "published_at": "2026-11-15T12:33:13+00:00",
+   "collected_at": "2026-11-15T16:58:06.626329+00:00",
+   "title_ko": "AI 도구를 활용한 개인 개발 업무 환경 개선 사례",
+   "summary_ko": "늘어나는 개인 프로젝트와 파편화된 맥락을 관리하기 위해 블로그와 Claude Code를 연동하여 업무 창구를 단일화한 사례입니다.",
+   "category": "팁",
+   "tags": [
+    "Claude",
+    "코딩"
+   ]
+  },
+  {
+   "id": "9e0f1b4bc4e9bc03",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwu5jt/agnesaiagnes25protheta_huggingface/",
+   "source": "r/LocalLLaMA",
+   "title": "Agnes-AI/Agnes-2.5-Pro-Theta • HuggingFace",
+   "published_at": "2026-11-15T12:20:50+00:00",
+   "collected_at": "2026-11-15T16:57:51.623586+00:00",
+   "title_ko": "Agnes-2.5-Pro-Theta 오픈소스 모델 허깅페이스 출시",
+   "summary_ko": "새로운 오픈소스 언어 모델인 Agnes-2.5-Pro-Theta가 허깅페이스에 등록되어 로컬 LLM 사용자들의 관심을 받고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스",
+    "LocalLLaMA"
+   ]
+  },
+  {
+   "id": "950ac38f23f2d5a7",
+   "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+   "source": "Hacker News",
+   "title": "Understanding Positional Embeddings in Modern LLMs",
+   "published_at": "2026-11-15T12:14:06+00:00",
+   "collected_at": "2026-11-15T16:57:49.731794+00:00",
+   "title_ko": "모던 LLM의 위치 임베딩(Positional Embedding) 구조 해설",
+   "summary_ko": "최신 대형 언어 모델들이 텍스트의 순서와 위치 정보를 어떻게 학습하고 처리하는지 그 핵심 원리를 심층적으로 해설했습니다.",
+   "category": "참고",
+   "tags": [
+    "LLM",
+    "연구"
+   ]
+  },
+  {
    "id": "5aa49ddced0887b4",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217419",
    "source": "AI타임스",
@@ -48,6 +215,21 @@
     "NVIDIA",
     "반도체",
     "규제"
+   ]
+  },
+  {
+   "id": "566e0aa6e9c6aecd",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwttcw/latest_version_of_strata_made_my_qwen38flashnext/",
+   "source": "r/LocalLLaMA",
+   "title": "Latest version of strata made my Qwen3.8-Flash-Next dumb and useless",
+   "published_at": "2026-11-15T12:02:35+00:00",
+   "collected_at": "2026-11-15T16:57:51.623586+00:00",
+   "title_ko": "소프트웨어 업데이트 후 저하된 로컬 LLM 성능 논란",
+   "summary_ko": "스트라타(strata) 도구 업데이트 이후 특정 모델의 연산 속도와 응답 품질이 저하되는 문제가 발생해 이전 버전으로 롤백하는 사례가 공유되었습니다.",
+   "category": "팁",
+   "tags": [
+    "LocalLLaMA",
+    "오픈소스"
    ]
   },
   {
@@ -2820,188 +3002,6 @@
    "tags": [
     "AI 에이전트",
     "오픈소스",
-    "코딩"
-   ]
-  },
-  {
-   "id": "9f0b516152c12ca0",
-   "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
-   "source": "Simon Willison",
-   "title": "llm-gemini 0.37",
-   "published_at": "2026-11-12T22:55:19+00:00",
-   "collected_at": "2026-11-13T07:47:36.595335+00:00",
-   "title_ko": "구글, 저비용 Gemini 4 Hydrogen 모델 출시",
-   "summary_ko": "구글이 Gemini 4 제품군의 새로운 저비용 모델인 Hydrogen을 출시하고 가격 정책을 업데이트했습니다.",
-   "category": "속보",
-   "tags": [
-    "Google",
-    "Gemini"
-   ]
-  },
-  {
-   "id": "70a60d7cd198d3ff",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xur9ud/used_datacenterworkstation_gpu_prices_on_ebay/",
-   "source": "r/LocalLLaMA",
-   "title": "Used datacenter/workstation GPU prices on eBay this week, ranked by $/GB of VRAM",
-   "published_at": "2026-11-12T22:49:43+00:00",
-   "collected_at": "2026-11-13T00:08:03.608333+00:00",
-   "title_ko": "이베이 중고 데이터센터 GPU 가격 및 VRAM 대비 가성비 분석",
-   "summary_ko": "미국 시장을 대상으로 한 중고 워크스테이션 및 데이터센터 GPU의 VRAM 용량당 가격 순위와 성능 지표를 정리한 자료입니다.",
-   "category": "팁",
-   "tags": [
-    "반도체",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "4e2810e47ea31ac4",
-   "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-   "source": "TechCrunch",
-   "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-   "published_at": "2026-11-12T22:42:51+00:00",
-   "collected_at": "2026-11-13T00:07:47.346831+00:00",
-   "title_ko": "미 의회, 엔비디아 대중국 판매 및 트럼프 유착 의혹 조사 착수",
-   "summary_ko": "젠슨 황 사임 사태 이후 미 의회가 엔비디아의 대중국 반도체 수출 및 트럼프 행정부와의 유착 의혹에 대한 공식 조사에 착수했습니다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "규제"
-   ]
-  },
-  {
-   "id": "64c8bb49358df5a5",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuqplg/thinkingmachinesinkling2small_is_released/",
-   "source": "r/LocalLLaMA",
-   "title": "thinkingmachines/Inkling-2-Small is released!",
-   "published_at": "2026-11-12T22:25:57+00:00",
-   "collected_at": "2026-11-13T00:08:03.608333+00:00",
-   "title_ko": "신규 소형 오픈소스 LLM 'Inkling-2-Small' 출시",
-   "summary_ko": "thinkingmachines에서 새롭게 개발한 경량 오픈소스 언어 모델 'Inkling-2-Small'이 공개되었습니다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "LLM"
-   ]
-  },
-  {
-   "id": "82d9be95873a98db",
-   "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
-   "source": "TechCrunch",
-   "title": "Muse can now place calls to US businesses — if you pay",
-   "published_at": "2026-11-12T22:22:28+00:00",
-   "collected_at": "2026-11-13T00:07:47.346831+00:00",
-   "title_ko": "AI 전화 통화 서비스 'Muse', 미국 기업 상대로 아웃바운드 통화 지원",
-   "summary_ko": "AI 기반 음성 에이전트 서비스 뮤즈(Muse)가 유료 사용자를 대상으로 미국 기업들을 향한 자동 아웃바운드 전화 통화 기능을 제공하기 시작했습니다.",
-   "category": "속보",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "d096a8a420fb437e",
-   "url": "https://unemploymentlabs.com/checkpoint-forensics",
-   "source": "Hacker News",
-   "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-   "published_at": "2026-11-12T21:56:11+00:00",
-   "collected_at": "2026-11-13T00:08:02.363247+00:00",
-   "title_ko": "중국 프론티어 AI 모델에 남겨진 수출 통제 GPU의 흔적",
-   "summary_ko": "중국의 최신 고성능 AI 모델들이 미국의 수출 통제를 받는 엔비디아 등의 GPU 흔적을 어떻게 내포하고 있는지 분석한 기술 리포트입니다.",
-   "category": "참고",
-   "tags": [
-    "NVIDIA",
-    "반도체",
-    "규제"
-   ]
-  },
-  {
-   "id": "8af226d2b9f4a115",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-   "source": "The Verge",
-   "title": "Google’s new Gemini model is better at understanding complicated questions",
-   "published_at": "2026-11-12T21:55:32+00:00",
-   "collected_at": "2026-11-13T00:07:47.521284+00:00",
-   "title_ko": "구글, 복잡한 질문 이해도 높인 새 Gemini 모델 공개",
-   "summary_ko": "구글이 복잡한 질문과 오타를 효과적으로 분석하고 답변하는 새로운 Gemini 모델을 검색과 앱 등에 도입했습니다.",
-   "category": "속보",
-   "tags": [
-    "Google",
-    "Gemini"
-   ]
-  },
-  {
-   "id": "689302d32fc07966",
-   "url": "https://news.hada.io/topic?id=37077&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "Gemini 4 Hydrogen과 Orchestrator - Google Antigravity의 새 코딩 모델과 동적 모델 전환 옵션",
-   "published_at": "2026-11-12T21:38:41+00:00",
-   "collected_at": "2026-11-13T00:08:18.097162+00:00",
-   "title_ko": "구글, 코딩 작업용 새 모델 Gemini 4 Hydrogen과 오케스트레이터 발표",
-   "summary_ko": "작업 복잡도에 따라 모델을 동적으로 전환하여 비용과 속도를 최적화하는 코딩 에이전트 옵션이 추가되었습니다.",
-   "category": "속보",
-   "tags": [
-    "Google",
-    "Gemini",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "51b0b59ad9f47ab7",
-   "url": "https://news.hada.io/topic?id=37076&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "Show HN: 300달러짜리 자수기에 구독이 필요해서 직접 앱을 만들었다",
-   "published_at": "2026-11-12T21:35:41+00:00",
-   "collected_at": "2026-11-13T00:08:18.097162+00:00",
-   "title_ko": "MCP 내장으로 AI 에이전트와 연동되는 자수 디자인 앱 'ZigZag'",
-   "summary_ko": "MCP를 통해 Claude Code 등의 AI 에이전트가 직접 벡터 디자인을 편집하고 자수기로 전송할 수 있는 Rust 기반 앱이 개발되었습니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "Claude",
-    "코딩"
-   ]
-  },
-  {
-   "id": "20c0e7a9e7900d95",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xupf99/i_built_a_benchmark_where_llms_reverseengineer_an/",
-   "source": "r/LocalLLaMA",
-   "title": "I built a benchmark where LLMs reverse-engineer an audio codec, and the benchmark evolves",
-   "published_at": "2026-11-12T21:34:05+00:00",
-   "collected_at": "2026-11-13T00:08:03.608333+00:00",
-   "title_ko": "오디오 코덱 역설계를 주제로 한 진화형 LLM 코딩 벤치마크",
-   "summary_ko": "단순 암기를 방지하기 위해 매번 새로운 압축 오디오 파일을 풀고 디코더와 인코더를 직접 구현하게 만드는 새로운 코딩 벤치마크가 등장했습니다.",
-   "category": "참고",
-   "tags": [
-    "LLM",
-    "코딩"
-   ]
-  },
-  {
-   "id": "fc0f425d4885ad33",
-   "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
-   "source": "TechCrunch",
-   "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-   "published_at": "2026-11-12T21:27:10+00:00",
-   "collected_at": "2026-11-13T00:07:47.346831+00:00",
-   "title_ko": "네비우스(Nebius), 400억 달러 규모 AI 인프라 투자 추진",
-   "summary_ko": "네비우스가 고객 선결제와 대출을 통해 대규모 AI 인프라 확장을 위한 자금 조달에 나섰습니다.",
-   "category": "중요",
-   "tags": [
-    "투자",
-    "반도체"
-   ]
-  },
-  {
-   "id": "cb3d5a9aa0cd203c",
-   "url": "https://news.hada.io/topic?id=37075&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "Jane Street의 소프트웨어 엔지니어링 면접이 조금 달라집니다",
-   "published_at": "2026-11-12T21:21:12+00:00",
-   "collected_at": "2026-11-13T00:08:18.097162+00:00",
-   "title_ko": "제인 스트리트, 소프트웨어 엔지니어링 면접에 LLM 활용 평가 도입",
-   "summary_ko": "코드 작성 비중을 줄이고 LLM 시대에 맞춰 무엇을 만들지 판단하는 안목과 아키텍처 설계를 평가하는 면접 방식을 시험 중입니다.",
-   "category": "중요",
-   "tags": [
-    "LLM",
     "코딩"
    ]
   }
