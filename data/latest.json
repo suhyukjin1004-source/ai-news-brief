@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T01:51:31.529335+00:00",
+ "updated_at": "2026-11-16T09:27:50.983009+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -16,6 +16,67 @@
    "tags": [
     "NVIDIA",
     "투자"
+   ]
+  },
+  {
+   "id": "62e8e48571fc018d",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxfcr6/github_icryoglmtandem_glm53flash_on_two_mac/",
+   "source": "r/LocalLLaMA",
+   "title": "GitHub - icryo/GLM-Tandem: GLM-5.3-Flash on two Mac Studios, tensor-parallel: about 140 tokens/s on fresh prose",
+   "published_at": "2026-11-16T03:46:33+00:00",
+   "collected_at": "2026-11-16T09:27:30.708497+00:00",
+   "title_ko": "맥 스튜디오 두 대로 구현한 GLM-5.3-Flash 추론 성능",
+   "summary_ko": "두 대의 Mac Studio에서 텐서 병렬 처리를 통해 GLM 모델을 구동하여 초당 약 140토큰의 빠른 속도를 달성함. 로컬 환경에서 대형 언어 모델의 고성능 추론 가능성을 보여줌.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "27a575dba24fffb8",
+   "url": "https://news.hada.io/topic?id=37254&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "젠슨 황, Nvidia CEO 복귀를 위해 실리콘밸리 측근들과 논의 중",
+   "published_at": "2026-11-16T02:37:13+00:00",
+   "collected_at": "2026-11-16T09:27:45.347534+00:00",
+   "title_ko": "젠슨 황, NVIDIA CEO 복귀 추진",
+   "summary_ko": "사임한 젠슨 황 NVIDIA CEO가 측근들의 압박과 지지로 복귀를 검토 중임. AI 업계 최대 주주의 거취 문제로 큰 주목을 받고 있음.",
+   "category": "속보",
+   "tags": [
+    "NVIDIA",
+    "투자"
+   ]
+  },
+  {
+   "id": "4e3972ec651a69fd",
+   "url": "https://news.hada.io/topic?id=37251&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Show GN: agent-monitor - 어느 에이전트 세션이 내 답을 기다리는지 보여주는 macOS 메뉴바 앱",
+   "published_at": "2026-11-16T02:32:57+00:00",
+   "collected_at": "2026-11-16T09:27:45.347534+00:00",
+   "title_ko": "AI 에이전트 세션 모니터링 macOS 메뉴바 앱 공개",
+   "summary_ko": "여러 개의 터미널 AI 에이전트(Claude Code 등) 세션 중 사용자 응답을 기다리는 작업을 한눈에 확인하고 관리할 수 있는 도구임. 개발 생산성 향상에 유용함.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "Claude",
+    "코딩"
+   ]
+  },
+  {
+   "id": "09862cd7036c6133",
+   "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+   "source": "TechCrunch",
+   "title": "Apple launches new app to study how people use AI for health",
+   "published_at": "2026-11-16T01:30:00+00:00",
+   "collected_at": "2026-11-16T09:26:34.929755+00:00",
+   "title_ko": "Apple, AI 헬스케어 연구용 신규 앱 출시",
+   "summary_ko": "애플이 사용자들이 일상적인 건강 관리에 AI를 어떻게 활용하는지 연구하기 위한 새로운 애플리케이션을 출시함. 헬스케어와 AI의 결합을 보여주는 사례임.",
+   "category": "중요",
+   "tags": [
+    "Apple",
+    "AI 에이전트"
    ]
   },
   {
@@ -2936,67 +2997,6 @@
     "NVIDIA",
     "로보틱스",
     "투자"
-   ]
-  },
-  {
-   "id": "282d44b8132d2103",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217378",
-   "source": "AI타임스",
-   "title": "중국, AI로 '1인 기업' 대량 육성…창업 문턱 낮췄지만 생존 경쟁도 치열",
-   "published_at": "2026-11-13T15:21:16+00:00",
-   "collected_at": "2026-11-13T07:47:50.628027+00:00",
-   "title_ko": "중국, AI 에이전트 활용한 '1인 기업' 창업 열풍",
-   "summary_ko": "중국에서 AI 에이전트와 코딩 도구를 활용해 혼자서 사업을 운영하는 1인 기업 창업이 활발해지고 있다. 창업 문턱이 낮아진 반면 시장 경쟁은 더욱 치열해지고 있다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "0b67abad1121c248",
-   "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-   "source": "Hacker News",
-   "title": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
-   "published_at": "2026-11-13T15:08:44+00:00",
-   "collected_at": "2026-11-13T22:29:41.173411+00:00",
-   "title_ko": "조너선 블로우가 지적하는 AI 코딩의 한계",
-   "summary_ko": "유명 게임 개발자 조너선 블로우가 AI가 코딩을 해결했다면 왜 소프트웨어가 여전히 그대로인지에 대한 의문을 제기했습니다.",
-   "category": "참고",
-   "tags": [
-    "코딩"
-   ]
-  },
-  {
-   "id": "40952686fc84b9ee",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217368",
-   "source": "AI타임스",
-   "title": "구글, 아시아서 5조 조달…AI 투자 위해 채권 발행 확대",
-   "published_at": "2026-11-13T14:46:04+00:00",
-   "collected_at": "2026-11-13T07:47:50.628027+00:00",
-   "title_ko": "구글, 아시아 채권시장에서 5조원 조달… AI 투자 확대",
-   "summary_ko": "구글이 AI 인프라 투자 자금 확보를 위해 아시아 시장에서 38억 달러 규모의 채권을 발행했다. 글로벌 빅테크들의 대규모 AI 인프라 투자가 지속되고 있음을 보여준다.",
-   "category": "중요",
-   "tags": [
-    "Google",
-    "투자",
-    "AI 인프라"
-   ]
-  },
-  {
-   "id": "438891bcbe7a705a",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217375",
-   "source": "AI타임스",
-   "title": "앨리스 황, 중국 정보기관 포섭 의혹…딥시크·화웨이 사업 연관도 드러나",
-   "published_at": "2026-11-13T13:51:08+00:00",
-   "collected_at": "2026-11-13T07:47:50.628027+00:00",
-   "title_ko": "미 정보당국, 앨리스 황의 중국 정보수집 의혹 제기",
-   "summary_ko": "젠슨 황 엔비디아 CEO와 친밀한 앨리스 황이 중국 국가안전부에 포섭돼 정보를 수집했다는 의혹이 제기됐다. 딥시크 및 화웨이와의 연관성도 드러나며 AI 반도체 진영 간 보안 이슈가 주목받고 있다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "반도체",
-    "규제"
    ]
   }
  ]
