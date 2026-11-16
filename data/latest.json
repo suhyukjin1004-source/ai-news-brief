@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T21:40:02.753357+00:00",
+ "updated_at": "2026-11-16T01:51:31.529335+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -19,6 +19,184 @@
    ]
   },
   {
+   "id": "327577bff8929d57",
+   "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+   "source": "The Verge",
+   "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+   "published_at": "2026-11-16T01:26:56+00:00",
+   "collected_at": "2026-11-16T01:50:45.705317+00:00",
+   "title_ko": "애플, AI 헬스케어 도구 상호작용 연구 시작",
+   "summary_ko": "애플이 임상 AI 플랫폼 오픈에비던스와 협력하여 사용자들이 대화형 AI 건강 도구를 어떻게 활용하고 응답을 신뢰하는지 분석하는 연구를 시작함. 의료 분야에서 AI의 실효성과 신뢰성을 높이기 위한 조치임.",
+   "category": "중요",
+   "tags": [
+    "Apple",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "d0270849a506a4c1",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxawbh/why_download_abliterated_flash_next_models_when/",
+   "source": "r/LocalLLaMA",
+   "title": "Why download abliterated Flash Next models when LoRA exists?",
+   "published_at": "2026-11-16T00:06:16+00:00",
+   "collected_at": "2026-11-16T01:51:03.705135+00:00",
+   "title_ko": "대형 모델 대신 LoRA를 활용한 경량화 거부 우회 기법",
+   "summary_ko": "수백 GB에 달하는 거부 기능 제거(abliterated) 모델을 직접 다운로드하는 대신, 거부 성향을 담은 초소형 LoRA를 런타임에 적용하여 효율적으로 관리하는 방법이 공유됨.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "4b4d48f19f03e283",
+   "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+   "source": "Simon Willison",
+   "title": "datasette-maplibre 0.1a0",
+   "published_at": "2026-11-15T23:58:36+00:00",
+   "collected_at": "2026-11-16T01:51:02.785002+00:00",
+   "title_ko": "Claude로 개발한 새로운 Datasette 지도 플러그인 출시",
+   "summary_ko": "개발자가 Claude를 활용해 MapLibre GL과 OpenFreeMap을 결합한 새로운 지리 공간 데이터셋 플러그인을 단일 프롬프트로 제작함. AI 코딩 도구의 실무 활용도를 보여줌.",
+   "category": "팁",
+   "tags": [
+    "Claude",
+    "코딩"
+   ]
+  },
+  {
+   "id": "fc91828979fbf24c",
+   "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+   "source": "TechCrunch",
+   "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+   "published_at": "2026-11-15T23:30:00+00:00",
+   "collected_at": "2026-11-16T01:50:45.577581+00:00",
+   "title_ko": "인도 AI 반도체 스타트업 Bharat Semi, 2400만 달러 투자 유치",
+   "summary_ko": "인도의 AI 센서 기술 스타트업 Bharat Semi가 글로벌 AI 센서 시장을 겨냥해 2400만 달러 규모의 시드 투자를 유치함. 자율주행 및 방산 분야 기업들과 파트너십을 확보함.",
+   "category": "중요",
+   "tags": [
+    "반도체",
+    "투자"
+   ]
+  },
+  {
+   "id": "3bc6cdb34c17f840",
+   "url": "https://simonwillison.net/2026/Nov/15/datasette/",
+   "source": "Simon Willison",
+   "title": "datasette 1.0a43",
+   "published_at": "2026-11-15T23:20:27+00:00",
+   "collected_at": "2026-11-16T01:51:02.785002+00:00",
+   "title_ko": "Datasette 1.0a43 출시와 Claude 기반 개발",
+   "summary_ko": "데이터 탐색 도구 Datasette 1.0 알파 버전에 Claude의 지원을 받아 스트리밍 출력 및 보안 패치가 적용됨. AI가 오픈소스 프로젝트 성장에 기여하는 사례임.",
+   "category": "참고",
+   "tags": [
+    "Claude",
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "af206fb2ed9bd6fd",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx85mw/someone_should_do_an_analysis_on_the_rate_of/",
+   "source": "r/LocalLLaMA",
+   "title": "Someone should do an analysis on the rate of Self-promo here.",
+   "published_at": "2026-11-15T22:05:21+00:00",
+   "collected_at": "2026-11-16T01:51:03.705135+00:00",
+   "title_ko": "LLM 커뮤니티 내 과도한 셀프 프로모션 우려",
+   "summary_ko": "로컬 LLM 관련 커뮤니티에서 실효성 있는 정보 대신 홍보성 게시물이 급증하고 있어 플랫폼 관리와 정보 품질에 대한 자성이 요구됨.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "87d7014c15ee68a3",
+   "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+   "source": "OpenAI",
+   "title": "A step toward defining the Standard Model on a lattice",
+   "published_at": "2026-11-15T22:00:01+00:00",
+   "collected_at": "2026-11-16T01:50:58.695337+00:00",
+   "title_ko": "표준 모형 연구를 지원한 OpenAI의 최신 모델",
+   "summary_ko": "OpenAI의 차세대 모델(GPT-6 Astra)이 물리학의 표준 모형 격자 정의와 상세한 증명 과정을 도출하는 데 기여했습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "GPT"
+   ]
+  },
+  {
+   "id": "4b0fc5b701ffd77d",
+   "url": "https://openai.com/index/our-new-blog-for-science",
+   "source": "OpenAI",
+   "title": "Our new blog for science",
+   "published_at": "2026-11-15T22:00:00+00:00",
+   "collected_at": "2026-11-16T01:50:58.695337+00:00",
+   "title_ko": "과학 연구용 AI 활용법을 다루는 과학 블로그 신설",
+   "summary_ko": "OpenAI가 과학적 발견을 가속화하기 위해 AI를 사용하는 연구원들의 실제 방법과 사례를 공유하는 과학 블로그를 오픈했습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI"
+   ]
+  },
+  {
+   "id": "2cb612de9116082a",
+   "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+   "source": "TechCrunch",
+   "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+   "published_at": "2026-11-15T21:56:35+00:00",
+   "collected_at": "2026-11-16T01:50:45.577581+00:00",
+   "title_ko": "엔비디아 CEO 젠슨 황의 행보와 AI 산업의 연관성",
+   "summary_ko": "현재 글로벌 AI 경제가 엔비디아와 젠슨 황의 성과에 깊게 의존하고 있는 상황 속에서, 그를 둘러싼 시장의 우려가 AI 업계 전반에 미칠 영향에 대한 분석입니다.",
+   "category": "참고",
+   "tags": [
+    "NVIDIA",
+    "반도체",
+    "투자"
+   ]
+  },
+  {
+   "id": "1d62aa49050e7bfd",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx7qbf/i_have_created_a_tool_to_observe_what_happens/",
+   "source": "r/LocalLLaMA",
+   "title": "I have created a tool to observe what happens inside an LLM. Also allows for the comparison of two quantizations of the same model to see at what point they diverge, token by token",
+   "published_at": "2026-11-15T21:46:56+00:00",
+   "collected_at": "2026-11-16T01:51:03.705135+00:00",
+   "title_ko": "LLM 내부 동작 및 양자화 차이 비교를 위한 오픈소스 도구",
+   "summary_ko": "동일한 LLM 모델의 양자화 버전에 따른 토큰별 확률 변화와 내부 작동 방식을 브라우저에서 시각적으로 비교할 수 있는 오픈소스 툴이 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "코딩"
+   ]
+  },
+  {
+   "id": "eb675a228a01b602",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx6dpd/best_direction_to_go_for_my_setup_epyc_32core/",
+   "source": "r/LocalLLaMA",
+   "title": "Best direction to go for my setup EPYC 32core + 512GB DDR4 + 44GB GPU ?",
+   "published_at": "2026-11-15T20:50:14+00:00",
+   "collected_at": "2026-11-16T01:51:03.705135+00:00",
+   "title_ko": "고용량 메모리 기반 로컬 LLM 구동 환경 구축 조언",
+   "summary_ko": "대형 인텔리전스 모델을 로컬에서 실행하기 위해 512GB RAM과 다중 GPU 환경을 활용하는 하드웨어 구성 및 구동 전략에 관한 논의입니다.",
+   "category": "팁",
+   "tags": [
+    "반도체"
+   ]
+  },
+  {
+   "id": "cc9b126c60488df8",
+   "url": "https://news.hada.io/topic?id=37221&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "DGX Station 2대에서 vLLM으로 GLM-5.3 로컬 서빙하기",
+   "published_at": "2026-11-15T20:46:06+00:00",
+   "collected_at": "2026-11-16T01:51:18.293806+00:00",
+   "title_ko": "vLLM을 활용한 GLM-5.3 로컬 서빙 구축 사례",
+   "summary_ko": "DGX Station 환경에서 텐서 병렬화와 vLLM을 활용해 대형 언어 모델을 효율적으로 로컬 서빙하고 고성능 처리량을 달성한 사례입니다.",
+   "category": "팁",
+   "tags": [
+    "NVIDIA",
+    "오픈소스"
+   ]
+  },
+  {
    "id": "0ae485d0fe26cc5a",
    "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
    "source": "The Verge",
@@ -30,6 +208,21 @@
    "category": "속보",
    "tags": [
     "NVIDIA"
+   ]
+  },
+  {
+   "id": "c51b6b07f7d18fe3",
+   "url": "https://news.hada.io/topic?id=37218&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "현대 LLM의 위치 임베딩 이해하기",
+   "published_at": "2026-11-15T20:40:06+00:00",
+   "collected_at": "2026-11-16T01:51:18.293806+00:00",
+   "title_ko": "현대 LLM의 위치 임베딩 원리 이해",
+   "summary_ko": "트랜스포머 기반 언어 모델에서 토큰의 순서와 거리를 인지하기 위해 사용하는 절대 위치 임베딩과 RoPE 등 상대 위치 기법의 원리를 정리했습니다.",
+   "category": "참고",
+   "tags": [
+    "GPT",
+    "AI 에이전트"
    ]
   },
   {
@@ -571,6 +764,36 @@
     "NVIDIA",
     "규제",
     "반도체"
+   ]
+  },
+  {
+   "id": "9ae934d441da1a71",
+   "url": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
+   "source": "Simon Willison",
+   "title": "datasette-apps 0.4a0",
+   "published_at": "2026-11-15T04:02:45+00:00",
+   "collected_at": "2026-11-16T01:51:02.785002+00:00",
+   "title_ko": "데이터셋 앱스 0.4a0 출시, SQL 쿼리 실행 가능한 샌드박스 앱 기능 강화",
+   "summary_ko": "데이터 내부에서 SQL 쿼리를 실행할 수 있는 HTML·JS 앱인 datasette-apps 0.4a0이 출시되었습니다. URL 링크 기능이 추가되어 Claude Artifacts와사사 유사한 인터랙티브 데이터 탐색이 가능해집니다.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트",
+    "데이터셋"
+   ]
+  },
+  {
+   "id": "16b4b3a7aa40d059",
+   "url": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
+   "source": "Simon Willison",
+   "title": "datasette-agent 0.6a0",
+   "published_at": "2026-11-15T03:49:47+00:00",
+   "collected_at": "2026-11-16T01:51:02.785002+00:00",
+   "title_ko": "데이터셋 에이전트 0.6a0 출시, 홈페이지 프롬프트 및 해시태그 멘션 지원",
+   "summary_ko": "데이터셋(Datasette) 내에서 데이터 질문을 처리하는 AI 에이전트 플러그인인 datasette-agent 0.6a0이 업데이트되었습니다. 홈페이지에 직접 에이전트 프롬프트를 추가하고 테이블 및 쿼리 해시 멘션을 지원합니다.",
+   "category": "속보",
+   "tags": [
+    "AI 에이전트",
+    "LLM"
    ]
   },
   {
@@ -2774,229 +2997,6 @@
     "NVIDIA",
     "반도체",
     "규제"
-   ]
-  },
-  {
-   "id": "fe6906f8bbb7ec99",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217374",
-   "source": "AI타임스",
-   "title": "중국 광군제서 AI 쇼핑 급증…상품 검색부터 구매까지 지원",
-   "published_at": "2026-11-13T13:26:57+00:00",
-   "collected_at": "2026-11-13T07:47:50.628027+00:00",
-   "title_ko": "중국 광군제, AI 쇼핑 도우미 활용 급증",
-   "summary_ko": "중국 광군제에서 AI 기반 상품 검색과 구매를 돕는 쇼핑 도우미 이용이 크게 늘어났다. 이커머스 전반에 AI 기술 도입이 빠르게 확산되고 있음을 보여준다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "a2f6b4c5d26a95f3",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217371",
-   "source": "AI타임스",
-   "title": "스페이스X, 100조 규모 AI 데이터센터 투자…애리조나에 6GW 추가",
-   "published_at": "2026-11-13T12:51:26+00:00",
-   "collected_at": "2026-11-13T07:47:50.628027+00:00",
-   "title_ko": "스페이스X, 100조원 규모 AI 데이터센터 및 전력망 투자 추진",
-   "summary_ko": "스페이스X가 텍사스와 애리조나에 최대 6GW 전력을 사용하는 대규모 AI 슈퍼컴퓨팅 캠퍼스 조성 계획을 발표했다. AI 인프라 확대를 위한 전례 없는 대규모 전력·데이터센터 투자다.",
-   "category": "중요",
-   "tags": [
-    "AI 인프라",
-    "투자"
-   ]
-  },
-  {
-   "id": "e367098cbdc4de8c",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217363",
-   "source": "AI타임스",
-   "title": "LGU+, 카테나-X 통한 국내 제조기업 글로벌 공급망 진입 지원",
-   "published_at": "2026-11-13T11:50:26+00:00",
-   "collected_at": "2026-11-13T07:47:50.628027+00:00",
-   "title_ko": "LGU+, 카테나-X 연계해 국내 제조기업 글로벌 공급망 지원",
-   "summary_ko": "LG유플러스가 글로벌 자동차 데이터 생태계 카테나-X와 협력해 국내 제조기업의 디지털 공급망 진입을 돕는다. 글로벌 규제 대응을 위한 데이터 표준화 역량 강화를 지원한다.",
-   "category": "참고",
-   "tags": [
-    "규제"
-   ]
-  },
-  {
-   "id": "fc51dcde4c0aa38f",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217353",
-   "source": "AI타임스",
-   "title": "트럼프 \"젠슨 황 후임은 팀 쿡\"…엔비디아, 차기 CEO 물색 본격화",
-   "published_at": "2026-11-13T08:21:56+00:00",
-   "collected_at": "2026-11-13T00:08:16.812247+00:00",
-   "title_ko": "트럼프 대통령, 엔비디아 차기 CEO로 팀 쿡 추천",
-   "summary_ko": "도널드 트럼프 미국 대통령이 젠슨 황 사임 후 공석이 된 엔비디아의 차기 CEO로 팀 쿡 전 애플 CEO를 공개 추천했습니다.",
-   "category": "속보",
-   "tags": [
-    "NVIDIA",
-    "반도체"
-   ]
-  },
-  {
-   "id": "d1318183fe172893",
-   "url": "https://openai.com/business/customer-stories/shield",
-   "source": "OpenAI",
-   "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-   "published_at": "2026-11-13T08:00:00+00:00",
-   "collected_at": "2026-11-14T03:03:11.453359+00:00",
-   "title_ko": "OpenAI 기반 레거시 포털 자동화 솔루션 Shield 도입",
-   "summary_ko": "Shield가 OpenAI 기술을 활용해 IT 기술자들이 레거시 포털 업무를 자동 인계할 수 있도록 지원합니다. Forge 에이전트가 시스템을 탐색해 업무 효율성을 높입니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "21156cc8a33a6c6b",
-   "url": "https://news.hada.io/topic?id=37100&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "Edge0-145B: 개인 컴퓨터에서 쓰는 프런티어 AI 역량",
-   "published_at": "2026-11-13T06:35:26+00:00",
-   "collected_at": "2026-11-13T07:47:52.032324+00:00",
-   "title_ko": "Edge0, 개인용 컴퓨터용 프런티어 AI 모델 'Edge0-145B' 공개",
-   "summary_ko": "Edge0가 코딩과 추론 역량을 갖춘 145B/120B 오픈소스 모델과 통합 추론 프레임워크를 공개했다. 개인 컴퓨터 환경에서도 고성능 프런티어 AI 모델을 실행하고 미세조정할 수 있게 되었다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "코딩",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "20d8d25a3ce1b37a",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217351",
-   "source": "AI타임스",
-   "title": "미국, 중국의 해외 GPU 임대 규제 추진…중국 기업들 확보 서둘러",
-   "published_at": "2026-11-13T06:33:23+00:00",
-   "collected_at": "2026-11-13T00:08:16.812247+00:00",
-   "title_ko": "미국, 중국 기업의 해외 GPU 임대 규제 추진",
-   "summary_ko": "미국 상무부가 중국 기업의 첨단 AI 반도체 우회 접근을 막기 위해 해외 데이터센터의 GPU 원격 임대까지 제한하는 규정을 추진하고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "반도체",
-    "규제"
-   ]
-  },
-  {
-   "id": "43040d75f86a1f36",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217350",
-   "source": "AI타임스",
-   "title": "젠슨 황 떠난 엔비디아, '실질적 2인자' 크레스가 임시 CEO 맡아",
-   "published_at": "2026-11-13T05:56:23+00:00",
-   "collected_at": "2026-11-13T00:08:16.812247+00:00",
-   "title_ko": "엔비디아, 콜레트 크레스 임시 CEO 체제 가동",
-   "summary_ko": "젠슨 황 CEO의 사임으로 경영 공백이 발생한 엔비디아가 CFO였던 콜레트 크레스를 임시 CEO로 선임하고 비상 경영에 돌입했습니다.",
-   "category": "속보",
-   "tags": [
-    "NVIDIA",
-    "반도체"
-   ]
-  },
-  {
-   "id": "2d532813d2817674",
-   "url": "https://news.hada.io/topic?id=37098&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "Foundation Models framework - 온디바이스와 클라우드 LLM을 통합하는 Swift API",
-   "published_at": "2026-11-13T05:37:19+00:00",
-   "collected_at": "2026-11-13T07:47:52.032324+00:00",
-   "title_ko": "애플, 온디바이스와 클라우드 LLM 통합하는 Swift API 공개",
-   "summary_ko": "애플의 Foundation Models 프레임워크를 통해 개발자들은 온디바이스 모델과 클라우드 모델을 동일한 Swift API로 다룰 수 있게 되었다. 이미지 이해 및 도구 호출 기능이 통합되어 개발 편의성이 높아졌다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "70bd1fd2ff6f79f1",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217349",
-   "source": "AI타임스",
-   "title": "젠슨 황 사임 후폭풍…백악관, 상무장관 경질 논의",
-   "published_at": "2026-11-13T05:36:17+00:00",
-   "collected_at": "2026-11-13T00:08:16.812247+00:00",
-   "title_ko": "젠슨 황 사임 여파로 백악관 상무장관 경질 논의",
-   "summary_ko": "젠슨 황 엔비디아 CEO 사임의 도화선이 된 중국 간첩 연루 의혹과 관련해 미국 백악관이 상무장관 경질 문제를 논의하고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "규제"
-   ]
-  },
-  {
-   "id": "9ebb7a8e721f20fa",
-   "url": "https://news.hada.io/topic?id=37097&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "전 Nvidia CEO Jensen Huang, 두 번째 직원과도 친밀한 관계 의혹",
-   "published_at": "2026-11-13T05:34:18+00:00",
-   "collected_at": "2026-11-13T07:47:52.032324+00:00",
-   "title_ko": "젠슨 황 엔비디아 CEO, 혼외 관계 의혹으로 사임",
-   "summary_ko": "엔비디아 젠슨 황 CEO가 혼외 관계 의혹이 불거진 후 목요일 사임했습니다. 상대방 중 한 명은 미국 정보당국으로부터 중국 스파이 의혹을 받고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "NVIDIA",
-    "투자"
-   ]
-  },
-  {
-   "id": "7b417be2eb8334fd",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217348",
-   "source": "AI타임스",
-   "title": "젠슨 황, 엔비디아 CEO 사임…주가 14% 급락·후임 선정 착수",
-   "published_at": "2026-11-13T04:47:53+00:00",
-   "collected_at": "2026-11-13T00:08:16.812247+00:00",
-   "title_ko": "젠슨 황 엔비디아 CEO 사임… 주가 급락",
-   "summary_ko": "33년간 엔비디아를 이끌어온 젠슨 황 CEO가 사생활 논란으로 사임하면서 주가가 14% 급락하고 AI 업계에 큰 불확실성이 발생했습니다.",
-   "category": "속보",
-   "tags": [
-    "NVIDIA",
-    "반도체",
-    "투자"
-   ]
-  },
-  {
-   "id": "b019071fe616cc16",
-   "url": "https://news.hada.io/topic?id=37095&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "Nvidia 직원들, Jensen Huang 복귀 청원",
-   "published_at": "2026-11-13T04:32:27+00:00",
-   "collected_at": "2026-11-13T07:47:52.032324+00:00",
-   "title_ko": "엔비디아 직원들, 젠슨 황 복귀 촉구 청원",
-   "summary_ko": "엔비디아 일부 직원들이 젠슨 황 CEO의 사임 이후 그의 복귀를 요구하는 사내 청원을 진행하고 있습니다. 사내 게시물에 1,600개 이상의 댓글이 달리며 투명한 조사와 경영 복귀를 요구하고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "48a3214bd8ba72a8",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuxzfs/artificial_analysis_updated_qwen_38_flash_next/",
-   "source": "r/LocalLLaMA",
-   "title": "Artificial Analysis updated Qwen 3.8 Flash Next score as 29",
-   "published_at": "2026-11-13T04:06:06+00:00",
-   "collected_at": "2026-11-13T07:47:37.255780+00:00",
-   "title_ko": "Artificial Analysis, Qwen 3.8 Flash Next 성능 점수 공개",
-   "summary_ko": "Artificial Analysis가 Qwen 3.8 Flash Next 모델의 성능 점수를 29점으로 업데이트했습니다. 이는 GPT-6 Luna Max와 Claude Haiku 5.5 High 사이의 수준입니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "632ba4294e27a4d6",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuxxmb/bring_back_the_boss_nvidia_employees_petition_for/",
-   "source": "r/LocalLLaMA",
-   "title": "‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return",
-   "published_at": "2026-11-13T04:03:28+00:00",
-   "collected_at": "2026-11-13T07:47:37.255780+00:00",
-   "title_ko": "엔비디아 직원들의 젠슨 황 복귀 청원 서명",
-   "summary_ko": "엔비디아 직원들이 사임한 젠슨 황의 복귀를 요구하는 청원을 제기했습니다. 샘 알트먼 사태와 유사한 흐름으로 주목받고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "NVIDIA"
    ]
   }
  ]

@@ -15,6 +15,184 @@
   ]
  },
  {
+  "id": "327577bff8929d57",
+  "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+  "source": "The Verge",
+  "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+  "published_at": "2026-11-16T01:26:56+00:00",
+  "collected_at": "2026-11-16T01:50:45.705317+00:00",
+  "title_ko": "애플, AI 헬스케어 도구 상호작용 연구 시작",
+  "summary_ko": "애플이 임상 AI 플랫폼 오픈에비던스와 협력하여 사용자들이 대화형 AI 건강 도구를 어떻게 활용하고 응답을 신뢰하는지 분석하는 연구를 시작함. 의료 분야에서 AI의 실효성과 신뢰성을 높이기 위한 조치임.",
+  "category": "중요",
+  "tags": [
+   "Apple",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "d0270849a506a4c1",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxawbh/why_download_abliterated_flash_next_models_when/",
+  "source": "r/LocalLLaMA",
+  "title": "Why download abliterated Flash Next models when LoRA exists?",
+  "published_at": "2026-11-16T00:06:16+00:00",
+  "collected_at": "2026-11-16T01:51:03.705135+00:00",
+  "title_ko": "대형 모델 대신 LoRA를 활용한 경량화 거부 우회 기법",
+  "summary_ko": "수백 GB에 달하는 거부 기능 제거(abliterated) 모델을 직접 다운로드하는 대신, 거부 성향을 담은 초소형 LoRA를 런타임에 적용하여 효율적으로 관리하는 방법이 공유됨.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "4b4d48f19f03e283",
+  "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+  "source": "Simon Willison",
+  "title": "datasette-maplibre 0.1a0",
+  "published_at": "2026-11-15T23:58:36+00:00",
+  "collected_at": "2026-11-16T01:51:02.785002+00:00",
+  "title_ko": "Claude로 개발한 새로운 Datasette 지도 플러그인 출시",
+  "summary_ko": "개발자가 Claude를 활용해 MapLibre GL과 OpenFreeMap을 결합한 새로운 지리 공간 데이터셋 플러그인을 단일 프롬프트로 제작함. AI 코딩 도구의 실무 활용도를 보여줌.",
+  "category": "팁",
+  "tags": [
+   "Claude",
+   "코딩"
+  ]
+ },
+ {
+  "id": "fc91828979fbf24c",
+  "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+  "source": "TechCrunch",
+  "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+  "published_at": "2026-11-15T23:30:00+00:00",
+  "collected_at": "2026-11-16T01:50:45.577581+00:00",
+  "title_ko": "인도 AI 반도체 스타트업 Bharat Semi, 2400만 달러 투자 유치",
+  "summary_ko": "인도의 AI 센서 기술 스타트업 Bharat Semi가 글로벌 AI 센서 시장을 겨냥해 2400만 달러 규모의 시드 투자를 유치함. 자율주행 및 방산 분야 기업들과 파트너십을 확보함.",
+  "category": "중요",
+  "tags": [
+   "반도체",
+   "투자"
+  ]
+ },
+ {
+  "id": "3bc6cdb34c17f840",
+  "url": "https://simonwillison.net/2026/Nov/15/datasette/",
+  "source": "Simon Willison",
+  "title": "datasette 1.0a43",
+  "published_at": "2026-11-15T23:20:27+00:00",
+  "collected_at": "2026-11-16T01:51:02.785002+00:00",
+  "title_ko": "Datasette 1.0a43 출시와 Claude 기반 개발",
+  "summary_ko": "데이터 탐색 도구 Datasette 1.0 알파 버전에 Claude의 지원을 받아 스트리밍 출력 및 보안 패치가 적용됨. AI가 오픈소스 프로젝트 성장에 기여하는 사례임.",
+  "category": "참고",
+  "tags": [
+   "Claude",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "af206fb2ed9bd6fd",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx85mw/someone_should_do_an_analysis_on_the_rate_of/",
+  "source": "r/LocalLLaMA",
+  "title": "Someone should do an analysis on the rate of Self-promo here.",
+  "published_at": "2026-11-15T22:05:21+00:00",
+  "collected_at": "2026-11-16T01:51:03.705135+00:00",
+  "title_ko": "LLM 커뮤니티 내 과도한 셀프 프로모션 우려",
+  "summary_ko": "로컬 LLM 관련 커뮤니티에서 실효성 있는 정보 대신 홍보성 게시물이 급증하고 있어 플랫폼 관리와 정보 품질에 대한 자성이 요구됨.",
+  "category": "참고",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "87d7014c15ee68a3",
+  "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+  "source": "OpenAI",
+  "title": "A step toward defining the Standard Model on a lattice",
+  "published_at": "2026-11-15T22:00:01+00:00",
+  "collected_at": "2026-11-16T01:50:58.695337+00:00",
+  "title_ko": "표준 모형 연구를 지원한 OpenAI의 최신 모델",
+  "summary_ko": "OpenAI의 차세대 모델(GPT-6 Astra)이 물리학의 표준 모형 격자 정의와 상세한 증명 과정을 도출하는 데 기여했습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "GPT"
+  ]
+ },
+ {
+  "id": "4b0fc5b701ffd77d",
+  "url": "https://openai.com/index/our-new-blog-for-science",
+  "source": "OpenAI",
+  "title": "Our new blog for science",
+  "published_at": "2026-11-15T22:00:00+00:00",
+  "collected_at": "2026-11-16T01:50:58.695337+00:00",
+  "title_ko": "과학 연구용 AI 활용법을 다루는 과학 블로그 신설",
+  "summary_ko": "OpenAI가 과학적 발견을 가속화하기 위해 AI를 사용하는 연구원들의 실제 방법과 사례를 공유하는 과학 블로그를 오픈했습니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI"
+  ]
+ },
+ {
+  "id": "2cb612de9116082a",
+  "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+  "source": "TechCrunch",
+  "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+  "published_at": "2026-11-15T21:56:35+00:00",
+  "collected_at": "2026-11-16T01:50:45.577581+00:00",
+  "title_ko": "엔비디아 CEO 젠슨 황의 행보와 AI 산업의 연관성",
+  "summary_ko": "현재 글로벌 AI 경제가 엔비디아와 젠슨 황의 성과에 깊게 의존하고 있는 상황 속에서, 그를 둘러싼 시장의 우려가 AI 업계 전반에 미칠 영향에 대한 분석입니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "반도체",
+   "투자"
+  ]
+ },
+ {
+  "id": "1d62aa49050e7bfd",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx7qbf/i_have_created_a_tool_to_observe_what_happens/",
+  "source": "r/LocalLLaMA",
+  "title": "I have created a tool to observe what happens inside an LLM. Also allows for the comparison of two quantizations of the same model to see at what point they diverge, token by token",
+  "published_at": "2026-11-15T21:46:56+00:00",
+  "collected_at": "2026-11-16T01:51:03.705135+00:00",
+  "title_ko": "LLM 내부 동작 및 양자화 차이 비교를 위한 오픈소스 도구",
+  "summary_ko": "동일한 LLM 모델의 양자화 버전에 따른 토큰별 확률 변화와 내부 작동 방식을 브라우저에서 시각적으로 비교할 수 있는 오픈소스 툴이 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "eb675a228a01b602",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx6dpd/best_direction_to_go_for_my_setup_epyc_32core/",
+  "source": "r/LocalLLaMA",
+  "title": "Best direction to go for my setup EPYC 32core + 512GB DDR4 + 44GB GPU ?",
+  "published_at": "2026-11-15T20:50:14+00:00",
+  "collected_at": "2026-11-16T01:51:03.705135+00:00",
+  "title_ko": "고용량 메모리 기반 로컬 LLM 구동 환경 구축 조언",
+  "summary_ko": "대형 인텔리전스 모델을 로컬에서 실행하기 위해 512GB RAM과 다중 GPU 환경을 활용하는 하드웨어 구성 및 구동 전략에 관한 논의입니다.",
+  "category": "팁",
+  "tags": [
+   "반도체"
+  ]
+ },
+ {
+  "id": "cc9b126c60488df8",
+  "url": "https://news.hada.io/topic?id=37221&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "DGX Station 2대에서 vLLM으로 GLM-5.3 로컬 서빙하기",
+  "published_at": "2026-11-15T20:46:06+00:00",
+  "collected_at": "2026-11-16T01:51:18.293806+00:00",
+  "title_ko": "vLLM을 활용한 GLM-5.3 로컬 서빙 구축 사례",
+  "summary_ko": "DGX Station 환경에서 텐서 병렬화와 vLLM을 활용해 대형 언어 모델을 효율적으로 로컬 서빙하고 고성능 처리량을 달성한 사례입니다.",
+  "category": "팁",
+  "tags": [
+   "NVIDIA",
+   "오픈소스"
+  ]
+ },
+ {
   "id": "0ae485d0fe26cc5a",
   "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
   "source": "The Verge",
@@ -26,6 +204,21 @@
   "category": "속보",
   "tags": [
    "NVIDIA"
+  ]
+ },
+ {
+  "id": "c51b6b07f7d18fe3",
+  "url": "https://news.hada.io/topic?id=37218&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "현대 LLM의 위치 임베딩 이해하기",
+  "published_at": "2026-11-15T20:40:06+00:00",
+  "collected_at": "2026-11-16T01:51:18.293806+00:00",
+  "title_ko": "현대 LLM의 위치 임베딩 원리 이해",
+  "summary_ko": "트랜스포머 기반 언어 모델에서 토큰의 순서와 거리를 인지하기 위해 사용하는 절대 위치 임베딩과 RoPE 등 상대 위치 기법의 원리를 정리했습니다.",
+  "category": "참고",
+  "tags": [
+   "GPT",
+   "AI 에이전트"
   ]
  },
  {
