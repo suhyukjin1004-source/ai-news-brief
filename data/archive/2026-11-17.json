@@ -1,5 +1,35 @@
 [
  {
+  "id": "7fa007a918edb437",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyjkts/gemma_on_a_printer/",
+  "source": "r/LocalLLaMA",
+  "title": "Gemma on a printer",
+  "published_at": "2026-11-17T12:48:09+00:00",
+  "collected_at": "2026-11-17T13:06:12.064472+00:00",
+  "title_ko": "프린터에서 구동되는 로컬 Gemma 모델",
+  "summary_ko": "프린터 기기에서 구급 젬마(Gemma) 모델을 로컬로 구동하는 사례가 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "Google",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "0d4396ccbaa3455d",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyixml/gpu_prices_big_discounts/",
+  "source": "r/LocalLLaMA",
+  "title": "GPU prices - Big \"discounts\"",
+  "published_at": "2026-11-17T12:15:13+00:00",
+  "collected_at": "2026-11-17T13:06:12.064472+00:00",
+  "title_ko": "AI용 고성능 GPU 가격 하락세 진입",
+  "summary_ko": "여전히 정가보다는 비싸지만 로컬 AI용 고성능 GPU 가격이 점차 하향 조정되는 양상을 보이고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
   "id": "81cb53eb370e8776",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=217476",
   "source": "AI타임스",
@@ -13,6 +43,20 @@
    "OpenAI",
    "AI 에이전트",
    "규제"
+  ]
+ },
+ {
+  "id": "32f8d5504c1bca9c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyioi8/intel_shares_first_benchmarks_of_its_nextgen/",
+  "source": "r/LocalLLaMA",
+  "title": "Intel Shares First Benchmarks of Its Next-Gen Crescent Island \"D270\" GPU, Claiming a 5.9x Throughput Over RTX PRO 6000 As Xe3P Goes Big On FP64",
+  "published_at": "2026-11-17T12:02:09+00:00",
+  "collected_at": "2026-11-17T13:06:12.064472+00:00",
+  "title_ko": "인텔 차세대 GPU 'D270', AI 벤치마크 성능 공개",
+  "summary_ko": "인텔의 차세대 Crescent Island GPU가 엔비디아 RTX PRO 6000 대비 낮은 레이턴시와 우수한 처리량을 기록했습니다.",
+  "category": "중요",
+  "tags": [
+   "반도체"
   ]
  },
  {
@@ -32,6 +76,124 @@
   ]
  },
  {
+  "id": "8c82fb18b1997b12",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyi6hj/rotate_kv_read_order_for_better_l2_cache_hit/",
+  "source": "r/LocalLLaMA",
+  "title": "Rotate K/V read order for better L2 cache hit rates by gaugarg-nv · Pull Request #32407 · ggml-org/llama.cpp",
+  "published_at": "2026-11-17T11:34:46+00:00",
+  "collected_at": "2026-11-17T13:06:12.064472+00:00",
+  "title_ko": "llama.cpp, K/V 캐시 최적화로 프롬프트 처리 속도 향상",
+  "summary_ko": "K/V 읽기 순서 회전을 통해 L2 캐시 적중률을 높이고 긴 컨텍스트에서 프롬프트 처리 속도를 대폭 개선했습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "NVIDIA"
+  ]
+ },
+ {
+  "id": "05f5c2153dbc8552",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyi3aa/nvidiaqwen38flashnextnvfp4qad/",
+  "source": "r/LocalLLaMA",
+  "title": "nvidia/Qwen3.8-Flash-Next-NVFP4-QAD",
+  "published_at": "2026-11-17T11:29:34+00:00",
+  "collected_at": "2026-11-17T13:06:12.064472+00:00",
+  "title_ko": "NVIDIA, Qwen3.8-Flash-Next-NVFP4-QAD 모델 공개",
+  "summary_ko": "NVIDIA 기반 최적화 및 양자화가 적용된 Qwen 신규 모델이 공개되었습니다. 로컬 환경에서의 고속 추론 성능 향상에 기여합니다.",
+  "category": "속보",
+  "tags": [
+   "NVIDIA",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "814663fb61299ff5",
+  "url": "https://news.hada.io/topic?id=37343&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Show GN: 자랑터 - 내가 만든 게임, 서비스를 올리면 AI가 인스타 카드뉴스로 소개해 주는 플랫폼",
+  "published_at": "2026-11-17T11:23:24+00:00",
+  "collected_at": "2026-11-17T13:06:26.650048+00:00",
+  "title_ko": "AI 카드뉴스 자동 생성 플랫폼 '자랑터' 출시",
+  "summary_ko": "인디 개발자가 만든 게임이나 서비스를 등록하면 AI가 인스타그램용 카드뉴스로 소개해 주는 플랫폼이 공개되었습니다. 사이드 프로젝트 홍보를 돕습니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "b58188404b4b6c5f",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyhrnn/moe_offloading_update_exllamav3_on_9070xt/",
+  "source": "r/LocalLLaMA",
+  "title": "MoE Offloading update Exllamav3 on 9070XT",
+  "published_at": "2026-11-17T11:10:49+00:00",
+  "collected_at": "2026-11-17T13:06:12.064472+00:00",
+  "title_ko": "Exllamav3, AMD 9070XT 기반 MoE 오프로딩 성능 개선",
+  "summary_ko": "AMD 그래픽카드와 시스템 램을 활용한 Mixture of Experts 모델 오프로딩 기법이 업데이트되어 처리 속도가 크게 향상되었습니다.",
+  "category": "참고",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "7477ce2bcc916b0a",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xygtj4/ovh_announces_olala_mini_7a1b/",
+  "source": "r/LocalLLaMA",
+  "title": "OVH announces Olala mini 7A1B",
+  "published_at": "2026-11-17T10:14:35+00:00",
+  "collected_at": "2026-11-17T13:06:12.064472+00:00",
+  "title_ko": "OVH, 저사양 최적화 오픈소스 모델 'Olala mini 7A1B' 발표",
+  "summary_ko": "7B 아키텍처 기반의 하이브리드 어텐션 모델로, 적은 메모리에서도 고속 구동이 가능하여 엣지 및 저사양 환경에 적합합니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "bcf17bff4d1da36c",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xygpmv/strix_halo_int4_cores_gemma_4_31b_at_243x/",
+  "source": "r/LocalLLaMA",
+  "title": "Strix Halo int4 cores: Gemma 4 31B at 2.43x llama.cpp, same quality",
+  "published_at": "2026-11-17T10:08:06+00:00",
+  "collected_at": "2026-11-17T13:06:12.064472+00:00",
+  "title_ko": "Strix Halo용 INT4 코어 최적화로 Gemma 4 속도 향상",
+  "summary_ko": "하드웨어 가속을 직접 활용하는 커스텀 GEMM 구현을 통해 정확도를 유지하면서도 Gemma 4 모델의 처리 속도를 대폭 끌어올렸습니다.",
+  "category": "팁",
+  "tags": [
+   "반도체",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "77492fe0f16e58e7",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyf7ys/curated_list_of_resources_theory_and_code_for/",
+  "source": "r/LocalLLaMA",
+  "title": "Curated list of resources: Theory and Code for learning Distributed Training of LLMs for beginners",
+  "published_at": "2026-11-17T08:33:26+00:00",
+  "collected_at": "2026-11-17T13:06:12.064472+00:00",
+  "title_ko": "초보자를 위한 LLM 분산 학습 이론 및 코드 리소스 모음",
+  "summary_ko": "대형언어모델 분산 학습의 기초를 처음부터 배우고자 하는 초보자를 위해 필수 논문과 구현 코드를 체계적으로 정리한 가이드입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "660f46fff0b603b4",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xycsm1/dspine_updates_on_pr_ggufs/",
+  "source": "r/LocalLLaMA",
+  "title": "DSpine - Updates on PR & GGUFs",
+  "published_at": "2026-11-17T06:03:25+00:00",
+  "collected_at": "2026-11-17T13:06:12.064472+00:00",
+  "title_ko": "추측 디코딩을 위한 DSpine GGUF 및 llama.cpp PR 공개",
+  "summary_ko": "병렬 추론 및 디코딩 속도 향상을 위한 DSpine 알고리즘이 llama.cpp에 PR로 등록되고 관련 GGUF 모델이 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
   "id": "ca0f1b6c1e4f474e",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=217468",
   "source": "AI타임스",
@@ -44,6 +206,20 @@
   "tags": [
    "NVIDIA",
    "규제"
+  ]
+ },
+ {
+  "id": "e86a87f3e04452b0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyb7jw/clover_2_dense_278b_base_7_lora_experts_routed/",
+  "source": "r/LocalLLaMA",
+  "title": "Clover 2: dense 27.8B base + 7 LoRA experts routed per token, not a static merge, weights public",
+  "published_at": "2026-11-17T04:35:28+00:00",
+  "collected_at": "2026-11-17T13:06:12.064472+00:00",
+  "title_ko": "동적 LoRA 라우팅 기반 'Clover 2' 모델 공개",
+  "summary_ko": "정적 병합 방식 대신 토큰별로 적합한 LoRA 전문가를 실시간 라우팅하는 방식을 적용하여 벤치마크 성능을 높인 오픈 모델입니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
   ]
  },
  {
