@@ -1,5 +1,82 @@
 [
  {
+  "id": "3f8b687fdcb7c91e",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=217625",
+  "source": "AI타임스",
+  "title": "AMD 리사 수 \"젠슨 황은 훌륭한 리더...엔비디아 논란과 거리 둘 것\"",
+  "published_at": "2026-11-20T14:55:41+00:00",
+  "collected_at": "2026-11-20T11:20:28.328281+00:00",
+  "title_ko": "리사 수 AMD CEO \"젠슨 황은 탁월한 리더\"",
+  "summary_ko": "리사 수 AMD CEO가 엔비디아와 젠슨 황을 극찬하면서도 최근의 경영진 교체 및 규제 논란과는 거리를 두겠다고 밝혔다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
+  "id": "613f20c0fb0de027",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=217611",
+  "source": "AI타임스",
+  "title": "엔비디아, dLLM 개발사 인셉션 6700억 이상에 인수 협상",
+  "published_at": "2026-11-20T14:30:52+00:00",
+  "collected_at": "2026-11-20T11:20:28.328281+00:00",
+  "title_ko": "엔비디아, dLLM 스타트업 '인셉션' 인수 추진",
+  "summary_ko": "엔비디아가 확산언어모델 개발사인 인셉션을 6700억 원 이상에 인수하기 위해 협상을 벌이며 자체 모델 경쟁력 강화에 나섰다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "투자"
+  ]
+ },
+ {
+  "id": "e45ae702cdc313eb",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=217613",
+  "source": "AI타임스",
+  "title": "문샷 AI, 미국 수출 규제에 2000억 규모 엔비디아 칩 임대 계약 취소",
+  "published_at": "2026-11-20T14:07:02+00:00",
+  "collected_at": "2026-11-20T11:20:28.328281+00:00",
+  "title_ko": "문샷 AI, 미 수출 규제로 엔비디아 칩 임대 계약 취소",
+  "summary_ko": "중국 문샷 AI가 미국의 해외 데이터센터 칩 사용 제한 규제 강화로 인해 2000억 원 규모의 엔비디아 블랙웰 칩 임대 계약을 철회했다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "규제",
+   "반도체"
+  ]
+ },
+ {
+  "id": "e532167fcfc527b7",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=217604",
+  "source": "AI타임스",
+  "title": "'GPT-6.2 아스트라'·'제미나이 4 네온', 수능 만점…국산 1위는 LG",
+  "published_at": "2026-11-20T13:56:27+00:00",
+  "collected_at": "2026-11-20T11:20:28.328281+00:00",
+  "title_ko": "글로벌 대형 LLM, 수능 전 과목 만점 기록",
+  "summary_ko": "오픈아이와 구글의 차세대 LLM이 수능 벤치마크에서 전과목 만점을 기록하며 AI의 고도화된 추론 능력을 입증했습니다. AI 모델의 학업 성취도 평가 기준이 고도화되고 있음을 보여줍니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "Google",
+   "GPT"
+  ]
+ },
+ {
+  "id": "d5b109329cc667c4",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=217609",
+  "source": "AI타임스",
+  "title": "정부 인정 AIDC 기준 나왔다...AIDC 특별법 하위법령서 구체화",
+  "published_at": "2026-11-20T13:00:55+00:00",
+  "collected_at": "2026-11-20T11:20:29.347883+00:00",
+  "title_ko": "정부, AI데이터센터(AIDC) 인정 기준 및 하위법령 입법예고",
+  "summary_ko": "정부가 AIDC 특별법 시행령을 통해 GPU 등 AI 가속기 규모와 전력 효율 기준을 구체화했습니다. 국내 AI 인프라 산업 지원과 육성의 제도적 기반이 마련되고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "반도체",
+   "규제"
+  ]
+ },
+ {
   "id": "88bcc29be8832862",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=217607",
   "source": "AI타임스",
@@ -12,6 +89,65 @@
   "tags": [
    "Anthropic",
    "투자"
+  ]
+ },
+ {
+  "id": "426485895529282f",
+  "url": "https://news.hada.io/topic?id=37518&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Show GN: night-port - 고전 DOS 게임 어쩐지 저녁 Native/WASM/Pocket 포트",
+  "published_at": "2026-11-20T10:39:26+00:00",
+  "collected_at": "2026-11-20T11:20:29.603999+00:00",
+  "title_ko": "로컬 LLM만 활용한 고전 DOS 게임 웹/포켓 포팅",
+  "summary_ko": "개발자가 로컬 LLM을 주력으로 활용해 고전 게임을 WebAssembly 및 네이티브 환경으로 포팅하는 데 성공했습니다. 실무 개발에서 AI 코딩 도구의 활용 범위를 보여줍니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "코딩"
+  ]
+ },
+ {
+  "id": "0000282282406879",
+  "url": "https://architectlabs.com/blog/frostbite",
+  "source": "Hacker News",
+  "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+  "published_at": "2026-11-20T10:01:41+00:00",
+  "collected_at": "2026-11-20T11:20:14.308806+00:00",
+  "title_ko": "AI가 직접 설계하고 검증한 새로운 CPU 아키텍처 'Frostbite'",
+  "summary_ko": "AI 기술을 활용해 설계부터 검증까지 완료한 새로운 CPU 아키텍처 'Frostbite'가 공개되었습니다. 반도체 설계 분야에서 AI의 역할이 점차 확대되고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "반도체",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "6e99b76e0311100c",
+  "url": "https://news.hada.io/topic?id=37511&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Show GN: 가상 주민 - 서비스 링크를 넣으면 주민 100명이 둘러보고 어디서 왜 나갔는지 알려 주는 도구",
+  "published_at": "2026-11-20T08:22:07+00:00",
+  "collected_at": "2026-11-20T11:20:29.603999+00:00",
+  "title_ko": "가상 주민 100명이 서비스 첫 페이지를 평가하는 AI 도구",
+  "summary_ko": "서비스 링크를 입력하면 AI가 성향이 다른 가상 주민 100명을 시뮬레이션해 UX와 첫인상을 평가해주는 도구입니다. 서비스 초기 검증과 사용성 테스트에 유용합니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
+  "id": "f5c1d8753c2b4792",
+  "url": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
+  "source": "Hacker News",
+  "title": "\"I can tell you wrote this yourself\"",
+  "published_at": "2026-11-20T07:13:21+00:00",
+  "collected_at": "2026-11-20T11:20:10.960632+00:00",
+  "title_ko": "AI 시대의 글쓰기와 인간 고유성의 의미에 대한 논의",
+  "summary_ko": "AI 생성 콘텐츠가 범람하는 시대에 인간이 쓴 글을 판별하고 고유의 가치를 지키는 방식에 대한 개발자들의 논의입니다. LLM 시대의 콘텐츠 트렌드를 조명합니다.",
+  "category": "참고",
+  "tags": [
+   "AI 에이전트"
   ]
  },
  {
@@ -57,6 +193,21 @@
   "tags": [
    "Anthropic",
    "투자"
+  ]
+ },
+ {
+  "id": "34d5485a3b40f72b",
+  "url": "https://news.hada.io/topic?id=37506&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Show GN: Namoo - 부모님의 이야기를 AI 인터뷰로 기록해 이북과 오디오북으로 만들어 주는 앱",
+  "published_at": "2026-11-20T04:15:52+00:00",
+  "collected_at": "2026-11-20T11:20:29.603999+00:00",
+  "title_ko": "부모님 자서전을 AI 인터뷰로 제작해주는 앱 'Namoo'",
+  "summary_ko": "AI가 인터뷰어 역할을 맡아 부모님의 인생 이야기를 음성으로 묻고 챕터별 이북과 오디오북으로 정리해주는 앱입니다. 일상 영역에서의 AI 활용 사례를 보여줍니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "오픈소스"
   ]
  },
  {
