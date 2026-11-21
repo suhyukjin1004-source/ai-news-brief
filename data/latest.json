@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-21T09:37:13.284742+00:00",
+ "updated_at": "2026-11-21T17:21:12.105704+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "b55b687ddb636e2f",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217650",
+   "source": "AI타임스",
+   "title": "머스크의 우주 데이터센터, 첫 금융 장벽…채권단 \"GPU 반입 제한\"",
+   "published_at": "2026-11-21T18:55:59+00:00",
+   "collected_at": "2026-11-21T17:21:04.309932+00:00",
+   "title_ko": "스페이스X 우주 데이터센터 GPU 반입에 채권단 제동",
+   "summary_ko": "일론 머스크의 우주 AI 데이터센터 구상과 관련해, 채권단이 담보 회수의 어려움을 이유로 GPU의 우주 궤도 반입을 제한하려 하면서 자금 조달에 난항을 겪고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "반도체",
+    "투자"
+   ]
+  },
   {
    "id": "0ad90c06c2e3f747",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217649",
@@ -32,6 +48,80 @@
    "tags": [
     "Google",
     "Gemini"
+   ]
+  },
+  {
+   "id": "2b872e9f4040955c",
+   "url": "https://news.hada.io/topic?id=37586&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "리만 가설의 Lean 검증, Lean과 Mathlib 커뮤니티 공동 성명",
+   "published_at": "2026-11-21T16:36:36+00:00",
+   "collected_at": "2026-11-21T17:21:05.240905+00:00",
+   "title_ko": "Lean 기반 리만 가설 증명 검증 완료",
+   "summary_ko": "Lean과 Mathlib 커뮤니티가 Levent Alpöge의 리만 가설 증명 명제와 증명이 올바르다고 공식 인증했습니다. AI와 형식 검증 도구가 복잡한 수학적 난제 해결에 기여하고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "dffab27fe8d5022c",
+   "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+   "source": "TechCrunch",
+   "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+   "published_at": "2026-11-21T16:00:00+00:00",
+   "collected_at": "2026-11-21T17:20:44.506785+00:00",
+   "title_ko": "배우 얼굴의 AI 버전 판매, 할리우드의 새로운 트렌드 될까",
+   "summary_ko": "한 배우가 마이크로드라마 스타트업에 자신의 얼굴을 AI용으로 라이선스 계약하면서, 중국에서 유행하는 해당 트렌드가 할리우드로 확산될지 우려와 관심이 커지고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "a2b0b71c81205cd4",
+   "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+   "source": "The Verge",
+   "title": "Can Anthropic afford to put safety first?",
+   "published_at": "2026-11-21T15:00:00+00:00",
+   "collected_at": "2026-11-21T17:20:44.557746+00:00",
+   "title_ko": "앤스로픽 나스닥 상장과 안전성 중심 전략의 미래",
+   "summary_ko": "클로드 개발사인 앤스로픽이 나스닥에 상장한 가운데, 기업공개 이후에도 AI 안전성을 최우선으로 유지할 수 있을지 업계의 이목이 집중되고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "투자"
+   ]
+  },
+  {
+   "id": "58f38b20a5f90e84",
+   "url": "https://news.hada.io/topic?id=37581&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "추론 칩을 바이브 코딩하기",
+   "published_at": "2026-11-21T14:38:47+00:00",
+   "collected_at": "2026-11-21T17:21:05.240905+00:00",
+   "title_ko": "코딩 에이전트로 AWS FPGA 추론 칩 성능 33배 향상",
+   "summary_ko": "하드웨어 개발 경험이 부족한 개발자가 코딩 에이전트를 활용해 AWS FPGA에 LLM 추론을 구현하고 기존 대비 33배 빠른 속도를 달성했습니다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트",
+    "반도체",
+    "코딩"
+   ]
+  },
+  {
+   "id": "18d9f9bc59b30c8a",
+   "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+   "source": "Hacker News",
+   "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
+   "published_at": "2026-11-21T14:36:45+00:00",
+   "collected_at": "2026-11-21T17:20:58.753278+00:00",
+   "title_ko": "Lean을 통한 리만 가설 검증",
+   "summary_ko": "Lean 커뮤니티가 리만 가설 증명의 유효성을 공식 확인한 연구 내용에 대한 해커뉴스 토론입니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스"
    ]
   },
   {
@@ -2901,95 +2991,6 @@
    "category": "속보",
    "tags": [
     "NVIDIA"
-   ]
-  },
-  {
-   "id": "55dde3921be9b1d7",
-   "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
-   "source": "TechCrunch",
-   "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
-   "published_at": "2026-11-18T11:30:00+00:00",
-   "collected_at": "2026-11-18T13:48:06.701267+00:00",
-   "title_ko": "휴민 랩스, 미국 로보틱스 기업 데이터 공급 위해 4,700만 달러 투자 유치",
-   "summary_ko": "로보틱스 학습용 데이터를 공급하는 휴민 랩스가 거부 자금을 조달하며 로봇 AI 분야의 데이터 수요 급증을 입증했습니다. 미국 시장이 주요 매출처입니다.",
-   "category": "중요",
-   "tags": [
-    "로보틱스",
-    "투자"
-   ]
-  },
-  {
-   "id": "bdaac6f563ec9175",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
-   "source": "The Verge",
-   "title": "Suno now lets you make AI videos for your AI music",
-   "published_at": "2026-11-18T11:16:53+00:00",
-   "collected_at": "2026-11-18T13:48:06.792698+00:00",
-   "title_ko": "수노, AI 음악에 맞춰 움직이는 영상 생성 기능 출시",
-   "summary_ko": "AI 음악 플랫폼 수노가 가사에 맞춰 입모양이 움직이는 비디오와 앨범 아트를 생성하는 '비주얼스' 기능을 도입했습니다. 생성형 AI가 멀티모달 영역으로 확장하고 있음을 보여줍니다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "생성형AI"
-   ]
-  },
-  {
-   "id": "03692ec60cac1bbf",
-   "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-   "source": "MIT Tech Review",
-   "title": "This smell startup says its AI nose is as good as a human’s",
-   "published_at": "2026-11-18T10:20:30+00:00",
-   "collected_at": "2026-11-18T13:48:19.387344+00:00",
-   "title_ko": "AI 스타트업 오스모, 인간 수준의 후각 구현하는 AI 코 구축",
-   "summary_ko": "AI 스타트업 오스모가 방대한 냄새 데이터와 화학 분석을 결합해 인간의 후각에 버금가는 AI 기반 '파운데이션 노즈'를 개발했습니다. 미지의 영역이었던 후각의 디지털화가 가속화되고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "AI",
-    "스타트업"
-   ]
-  },
-  {
-   "id": "e683d40fba103b5f",
-   "url": "https://openai.com/index/the-silent-consensus",
-   "source": "OpenAI",
-   "title": "The Silent Consensus",
-   "published_at": "2026-11-18T10:00:00+00:00",
-   "collected_at": "2026-11-18T21:48:31.242983+00:00",
-   "title_ko": "AI 발전이 사회 구조와 제도에 미치는 영향 분석",
-   "summary_ko": "고성능 AI가 사회를 재편하는 과정에서 인간이 사회적 제도의 통제권을 어떻게 유지할 수 있는지 고찰합니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI"
-   ]
-  },
-  {
-   "id": "026d13c332f70414",
-   "url": "https://news.hada.io/topic?id=37405&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "Harvard 연구진, AI 코딩 에이전트가 병목을 코드 리뷰로 옮겼음을 확인",
-   "published_at": "2026-11-18T09:48:07+00:00",
-   "collected_at": "2026-11-18T13:48:42.561652+00:00",
-   "title_ko": "하버드 연구진, AI 코딩 에이전트 도입 후 코드 리뷰가 새 병목으로 지목",
-   "summary_ko": "하버드 연구진의 조사 결과, AI 코딩 에이전트 도입으로 코드 작성량은 늘었으나 리뷰 대기 시간이 길어지며 병목 현상이 리뷰 단계로 이동했습니다. AI 도구 도입에 따른 생산성 변화의 이면을 보여줍니다.",
-   "category": "중요",
-   "tags": [
-    "코딩",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "23a6e8d38fa0e0cc",
-   "url": "https://energy-based-reasoners.github.io/",
-   "source": "Hacker News",
-   "title": "Energy-Based Reasoners: 385x more efficient inference",
-   "published_at": "2026-11-18T09:29:32+00:00",
-   "collected_at": "2026-11-18T13:48:22.565612+00:00",
-   "title_ko": "에너지 기반 추론 모델, 기존 대비 385배 효율성 향상",
-   "summary_ko": "새로운 에너지 기반 추론(Energy-Based Reasoners) 방법론이 공개되어 기존 모델 대비 추론 효율성을 획기적으로 높였습니다. LLM의 연산 비용 절감에 기여할 기술로 주목받고 있습니다.",
-   "category": "중요",
-   "tags": [
-    "반도체",
-    "AI"
    ]
   }
  ]
