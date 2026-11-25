@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T02:15:18.862619+00:00",
+ "updated_at": "2026-11-25T12:35:57.421188+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
@@ -30,6 +30,65 @@
    "category": "중요",
    "tags": [
     "NVIDIA"
+   ]
+  },
+  {
+   "id": "5f305d13d7da18a5",
+   "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
+   "source": "Hacker News",
+   "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
+   "published_at": "2026-11-25T04:03:33+00:00",
+   "collected_at": "2026-11-25T12:35:28.085342+00:00",
+   "title_ko": "Gemini, 동요 가사 거부 논란",
+   "summary_ko": "구글의 Gemini가 유명 동요 가사 제공을 거부하는 현상이 발생해 사용자들의 관심을 끌었습니다.",
+   "category": "속보",
+   "tags": [
+    "Google",
+    "Gemini"
+   ]
+  },
+  {
+   "id": "dc30af1becdbb427",
+   "url": "https://www.proofatlas.ai/open-problems/",
+   "source": "Hacker News",
+   "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+   "published_at": "2026-11-25T03:01:36+00:00",
+   "collected_at": "2026-11-25T12:35:28.085342+00:00",
+   "title_ko": "LLM이 평가한 수학 난제 순위 공개",
+   "summary_ko": "LLM이 중요도를 평가한 수학계의 주요 미해결 난제 목록이 공개되어 주목을 받고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "LLM"
+   ]
+  },
+  {
+   "id": "c89d4bfb36a99fc6",
+   "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+   "source": "Hacker News",
+   "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+   "published_at": "2026-11-25T02:34:21+00:00",
+   "collected_at": "2026-11-25T12:35:27.513874+00:00",
+   "title_ko": "샌드박스 환경 속 AI 모델들의 추론 서버 간 통신 확인",
+   "summary_ko": "격리된 환경 속에서도 AI 모델들이 추론 서버를 통해 서로 통신할 수 있다는 연구 결과가 발표되었습니다.",
+   "category": "중요",
+   "tags": [
+    "AI 에이전트",
+    "보안"
+   ]
+  },
+  {
+   "id": "6a9762a7b701a762",
+   "url": "https://news.hada.io/topic?id=37811&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Show GN: Tern - Ctrl+ㅊ 를 Ctrl-C 로 처리해주는 한글 특화 터미널 에뮬레이터 앱",
+   "published_at": "2026-11-25T02:20:17+00:00",
+   "collected_at": "2026-11-25T12:35:42.903042+00:00",
+   "title_ko": "한글 특화 터미널 에뮬레이터 'Tern' 공개",
+   "summary_ko": "모바일 환경에서 LLM 활용 시 불편했던 한글 입력과 단축키 문제를 개선한 터미널 앱이 소개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
    ]
   },
   {
@@ -64,6 +123,21 @@
    ]
   },
   {
+   "id": "5ee45fc63309ecc3",
+   "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+   "source": "Hacker News",
+   "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+   "published_at": "2026-11-25T01:19:26+00:00",
+   "collected_at": "2026-11-25T12:35:27.513874+00:00",
+   "title_ko": "행렬 곱셈 시간 복잡도 개선 논문 발표",
+   "summary_ko": "OpenAI가 행렬 곱셈의 새로운 시간 복잡도(Θ(n^2.25))에 관한 프리프린트 논문을 공개했습니다.",
+   "category": "중요",
+   "tags": [
+    "OpenAI",
+    "반도체"
+   ]
+  },
+  {
    "id": "2b7aa9ae65de5f3c",
    "url": "https://news.hada.io/topic?id=37806&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
    "source": "GeekNews",
@@ -77,6 +151,20 @@
     "Anthropic",
     "OpenAI",
     "Google"
+   ]
+  },
+  {
+   "id": "a58808d0bc1080c7",
+   "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+   "source": "Hacker News",
+   "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+   "published_at": "2026-11-25T00:54:49+00:00",
+   "collected_at": "2026-11-25T12:35:27.513874+00:00",
+   "title_ko": "손글씨 및 스케치용 생성형 트랜스포머 'PenGPT'",
+   "summary_ko": "손글씨와 스케치를 생성하는 새로운 트랜스포머 모델인 PenGPT가 공개되었습니다.",
+   "category": "속보",
+   "tags": [
+    "오픈소스"
    ]
   },
   {
@@ -310,6 +398,21 @@
    "category": "중요",
    "tags": [
     "규제"
+   ]
+  },
+  {
+   "id": "1951d3d0aee338de",
+   "url": "https://davidtemkin.github.io/declarelang/",
+   "source": "Hacker News",
+   "title": "Declare is a UI language for you and your AI",
+   "published_at": "2026-11-24T02:36:56+00:00",
+   "collected_at": "2026-11-25T12:35:28.085342+00:00",
+   "title_ko": "인간과 AI를 위한 UI 언어 'Declare' 등장",
+   "summary_ko": "인간과 AI가 함께 이해하고 소통할 수 있도록 설계된 새로운 UI 언어가 발표되었습니다.",
+   "category": "참고",
+   "tags": [
+    "AI 에이전트",
+    "코딩"
    ]
   },
   {
@@ -2884,113 +2987,6 @@
    "tags": [
     "Anthropic",
     "투자"
-   ]
-  },
-  {
-   "id": "ed2ccd88817c0f61",
-   "url": "https://news.hada.io/topic?id=37463&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "Show GN: 크리스마스 Claude Code 플러그인 SantaClaude",
-   "published_at": "2026-11-19T07:49:55+00:00",
-   "collected_at": "2026-11-19T12:50:33.033258+00:00",
-   "title_ko": "터미널용 크리스마스 Claude Code 플러그인",
-   "summary_ko": "클로드 코드 터미널 환경에서 크리스마스 분위기를 내며 산타 애니메이션과 눈 내리는 효과를 보여주는 플러그인입니다. 개발자 경험을 위한 재미있는 도구입니다.",
-   "category": "팁",
-   "tags": [
-    "Claude",
-    "코딩"
-   ]
-  },
-  {
-   "id": "8d873f6c5dfadd24",
-   "url": "https://news.hada.io/topic?id=37459&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "DaisyRose-27B - 장시간 에이전트 작업에 강화학습을 적용한 Qwen3.8-27B 기반 모델",
-   "published_at": "2026-11-19T06:37:59+00:00",
-   "collected_at": "2026-11-19T12:50:33.033258+00:00",
-   "title_ko": "장시간 에이전트 작업 강화학습 모델 'DaisyRose-27B' 공개",
-   "summary_ko": "Qwen 기반으로 장기 에이전트 작업에 특화된 강화학습을 거친 오픈소스 모델이 공개되었습니다. 복잡한 터미널 및 코딩 벤치마크에서 성능이 대폭 향상되었습니다.",
-   "category": "중요",
-   "tags": [
-    "오픈소스",
-    "AI 에이전트",
-    "코딩"
-   ]
-  },
-  {
-   "id": "d49953852d019a95",
-   "url": "https://news.hada.io/topic?id=37456&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "Gemini 4 Neon, Opus 5.5의 경쟁자가 될 것으로 보임",
-   "published_at": "2026-11-19T05:31:52+00:00",
-   "collected_at": "2026-11-19T12:50:33.033258+00:00",
-   "title_ko": "구글, 고속 응답 모델 Gemini 4 Neon 공개",
-   "summary_ko": "구글이 속도를 크게 향상시킨 Gemini 4 Neon을 출시했으며, 경쟁 모델인 Opus 5.5에 근접하는 성능을 보이고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "Gemini",
-    "Google",
-    "AI 모델"
-   ]
-  },
-  {
-   "id": "07bd5650afd30068",
-   "url": "https://colossus.com/article/ai-will-not-make-you-rich/",
-   "source": "Hacker News",
-   "title": "AI will not make you rich (2025)",
-   "published_at": "2026-11-19T01:51:28+00:00",
-   "collected_at": "2026-11-19T03:11:28.538911+00:00",
-   "title_ko": "AI로 부자가 되기 어렵다는 현실 진단",
-   "summary_ko": "AI 기술의 발전이 개인의 경제적 부로 직결되지 않는다는 점을 분석한 글입니다. AI 생태계의 거품과 실질적 효용에 대한 냉정한 시각을 제공합니다.",
-   "category": "참고",
-   "tags": [
-    "투자",
-    "생성형 AI"
-   ]
-  },
-  {
-   "id": "d3bbc70ed696f330",
-   "url": "https://news.hada.io/topic?id=37446&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "우리에겐 진심으로 신경 쓰는 똑똑한 사람들이 필요하다",
-   "published_at": "2026-11-19T01:34:56+00:00",
-   "collected_at": "2026-11-19T03:11:43.318446+00:00",
-   "title_ko": "복잡한 시스템에서 인간 전문가와 AI의 역할",
-   "summary_ko": "복잡한 인프라를 지탱하는 인간의 예외 처리 능력의 중요성을 강조하며, 단순 산출물 중심의 AI 비교에 경종을 울립니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트",
-    "인프라"
-   ]
-  },
-  {
-   "id": "ef341bf9e56e70c7",
-   "url": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
-   "source": "Hacker News",
-   "title": "Black high school students sue after AI mistakes Doritos bag for gun",
-   "published_at": "2026-11-19T00:57:20+00:00",
-   "collected_at": "2026-11-19T12:50:18.337215+00:00",
-   "title_ko": "AI 무기 오탐으로 구속된 학생들, 학교 상대로 소송 제기",
-   "summary_ko": "학교의 AI 보안 시스템이 과자 봉지를 총기로 오인하여 흑인 학생들이 부당하게 수색당한 사건으로 소송이 제기되었습니다.",
-   "category": "중요",
-   "tags": [
-    "규제",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "c8a4b2ac137e196f",
-   "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-   "source": "TechCrunch",
-   "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-   "published_at": "2026-11-19T00:42:56+00:00",
-   "collected_at": "2026-11-19T03:11:11.721053+00:00",
-   "title_ko": "마이크로소프트 CEO 사티아 나델라의 퇴사 권고 배경",
-   "summary_ko": "마이크로소프트 CEO가 대규모 해고 대신 직원들에게 자발적 퇴사를 권고한 배경에 AI가 있음을 설명했습니다. AI 전환에 따른 조직 구조 재편의 방향성을 보여줍니다.",
-   "category": "중요",
-   "tags": [
-    "Microsoft",
-    "생성형 AI"
    ]
   }
  ]

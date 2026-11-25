@@ -29,6 +29,65 @@
   ]
  },
  {
+  "id": "5f305d13d7da18a5",
+  "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
+  "source": "Hacker News",
+  "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
+  "published_at": "2026-11-25T04:03:33+00:00",
+  "collected_at": "2026-11-25T12:35:28.085342+00:00",
+  "title_ko": "Gemini, 동요 가사 거부 논란",
+  "summary_ko": "구글의 Gemini가 유명 동요 가사 제공을 거부하는 현상이 발생해 사용자들의 관심을 끌었습니다.",
+  "category": "속보",
+  "tags": [
+   "Google",
+   "Gemini"
+  ]
+ },
+ {
+  "id": "dc30af1becdbb427",
+  "url": "https://www.proofatlas.ai/open-problems/",
+  "source": "Hacker News",
+  "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+  "published_at": "2026-11-25T03:01:36+00:00",
+  "collected_at": "2026-11-25T12:35:28.085342+00:00",
+  "title_ko": "LLM이 평가한 수학 난제 순위 공개",
+  "summary_ko": "LLM이 중요도를 평가한 수학계의 주요 미해결 난제 목록이 공개되어 주목을 받고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "LLM"
+  ]
+ },
+ {
+  "id": "c89d4bfb36a99fc6",
+  "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+  "source": "Hacker News",
+  "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+  "published_at": "2026-11-25T02:34:21+00:00",
+  "collected_at": "2026-11-25T12:35:27.513874+00:00",
+  "title_ko": "샌드박스 환경 속 AI 모델들의 추론 서버 간 통신 확인",
+  "summary_ko": "격리된 환경 속에서도 AI 모델들이 추론 서버를 통해 서로 통신할 수 있다는 연구 결과가 발표되었습니다.",
+  "category": "중요",
+  "tags": [
+   "AI 에이전트",
+   "보안"
+  ]
+ },
+ {
+  "id": "6a9762a7b701a762",
+  "url": "https://news.hada.io/topic?id=37811&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Show GN: Tern - Ctrl+ㅊ 를 Ctrl-C 로 처리해주는 한글 특화 터미널 에뮬레이터 앱",
+  "published_at": "2026-11-25T02:20:17+00:00",
+  "collected_at": "2026-11-25T12:35:42.903042+00:00",
+  "title_ko": "한글 특화 터미널 에뮬레이터 'Tern' 공개",
+  "summary_ko": "모바일 환경에서 LLM 활용 시 불편했던 한글 입력과 단축키 문제를 개선한 터미널 앱이 소개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "AI 에이전트",
+   "코딩"
+  ]
+ },
+ {
   "id": "de0bcdf5eeee2a89",
   "url": "https://news.hada.io/topic?id=37808&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
   "source": "GeekNews",
@@ -60,6 +119,21 @@
   ]
  },
  {
+  "id": "5ee45fc63309ecc3",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+  "source": "Hacker News",
+  "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+  "published_at": "2026-11-25T01:19:26+00:00",
+  "collected_at": "2026-11-25T12:35:27.513874+00:00",
+  "title_ko": "행렬 곱셈 시간 복잡도 개선 논문 발표",
+  "summary_ko": "OpenAI가 행렬 곱셈의 새로운 시간 복잡도(Θ(n^2.25))에 관한 프리프린트 논문을 공개했습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI",
+   "반도체"
+  ]
+ },
+ {
   "id": "2b7aa9ae65de5f3c",
   "url": "https://news.hada.io/topic?id=37806&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
   "source": "GeekNews",
@@ -73,6 +147,20 @@
    "Anthropic",
    "OpenAI",
    "Google"
+  ]
+ },
+ {
+  "id": "a58808d0bc1080c7",
+  "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+  "source": "Hacker News",
+  "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+  "published_at": "2026-11-25T00:54:49+00:00",
+  "collected_at": "2026-11-25T12:35:27.513874+00:00",
+  "title_ko": "손글씨 및 스케치용 생성형 트랜스포머 'PenGPT'",
+  "summary_ko": "손글씨와 스케치를 생성하는 새로운 트랜스포머 모델인 PenGPT가 공개되었습니다.",
+  "category": "속보",
+  "tags": [
+   "오픈소스"
   ]
  },
  {
