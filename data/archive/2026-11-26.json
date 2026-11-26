@@ -1,5 +1,139 @@
 [
  {
+  "id": "42fb02004592c232",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=217824",
+  "source": "AI타임스",
+  "title": "아모데이 \"인간 통제권 AI에 넘긴다는 주장 터무니없어\"…경쟁사도 비판",
+  "published_at": "2026-11-26T14:57:40+00:00",
+  "collected_at": "2026-11-26T14:58:45.504764+00:00",
+  "title_ko": "앤트로픽 CEO, 초지능 통제권 이관 보도 전면 부인",
+  "summary_ko": "다리오 아모데이 앤트로픽 CEO가 인간이 초지능 AI에 의사결정 권한을 넘기는 것을 지지한다는 내부 보도 내용을 강하게 반박했습니다.",
+  "category": "중요",
+  "tags": [
+   "Claude",
+   "규제"
+  ]
+ },
+ {
+  "id": "01393a5014e8c6b3",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=217811",
+  "source": "AI타임스",
+  "title": "S&P, 엔비디아 신용등급 하향 검토…황 복귀에도 지배구조 불안",
+  "published_at": "2026-11-26T14:30:41+00:00",
+  "collected_at": "2026-11-26T14:58:45.504764+00:00",
+  "title_ko": "S&P, 엔비디아 신용등급 하향 검토…지배구조 불안 지적",
+  "summary_ko": "S&P 글로벌이 CEO 사임 및 복귀 과정에서 드러난 이사회 감독 기능의 취약성을 이유로 엔비디아의 신용등급을 하향 검토하기로 했습니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA"
+  ]
+ },
+ {
+  "id": "fb60c024833fc312",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=217818",
+  "source": "AI타임스",
+  "title": "오픈AI, 57년 된 행렬 곱셈 난제 해결 주장…연산량 한계 규명",
+  "published_at": "2026-11-26T14:14:53+00:00",
+  "collected_at": "2026-11-26T14:58:45.504764+00:00",
+  "title_ko": "오픈AI, 57년 된 행렬 곱셈 연산량 한계 수학적 증명",
+  "summary_ko": "오픈AI가 미공개 AI 모델을 활용해 57년간 미해결 상태였던 행렬 곱셈의 연산 복잡도와 최적화 한계에 관한 논문을 공개했습니다.",
+  "category": "중요",
+  "tags": [
+   "OpenAI"
+  ]
+ },
+ {
+  "id": "02a088434703556c",
+  "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+  "source": "Hugging Face",
+  "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+  "published_at": "2026-11-26T11:37:17+00:00",
+  "collected_at": "2026-11-26T14:58:26.840537+00:00",
+  "title_ko": "AMD, 라이젠 및 라데온용 llama.cpp 벤치마크 대시보드 공개",
+  "summary_ko": "Hugging Face가 AMD 하드웨어 환경에서 LLM 구동 성능을 측정할 수 있는 llama.cpp 벤치마크 대시보드를 선보였습니다.",
+  "category": "참고",
+  "tags": [
+   "NVIDIA",
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "c15c4df2c7fb07a2",
+  "url": "https://news.hada.io/topic?id=37893&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Show GN: sol-astrizer: 모든 LLM이 GPT 6.2처럼 말하게 된다면",
+  "published_at": "2026-11-26T10:48:36+00:00",
+  "collected_at": "2026-11-26T14:58:46.633395+00:00",
+  "title_ko": "모든 LLM의 말투와 분석력을 보정하는 'sol-astrizer' 도구",
+  "summary_ko": "LLM의 과잉 친절과 성급한 확답을 교정하여 차분하고 분석적인 응답을 유도하는 프롬프트/보정 도구입니다.",
+  "category": "팁",
+  "tags": [
+   "Claude",
+   "Gemini",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "3ac0f18e22937d81",
+  "url": "https://news.hada.io/topic?id=37891&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "베어메탈 Qwen - 순수 어셈블리 24KB OS에서 Qwen3-0.6B 실행",
+  "published_at": "2026-11-26T10:33:17+00:00",
+  "collected_at": "2026-11-26T14:58:46.633395+00:00",
+  "title_ko": "순수 어셈블리 OS에서 Qwen3-0.6B 모델 구동 성공",
+  "summary_ko": "Linux나 Windows 없이 24KB 크기의 베어메탈 어셈블리 OS 상에서 Qwen3 소형 모델을 직접 실행하여 고성능 토큰 디코딩을 달성했습니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "d735635591862bb8",
+  "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+  "source": "The Verge",
+  "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+  "published_at": "2026-11-26T09:54:40+00:00",
+  "collected_at": "2026-11-26T14:58:11.742097+00:00",
+  "title_ko": "미국 42개 주 법무장관, Character.AI의 사용자 채팅 데이터 판매 제동",
+  "summary_ko": "파산 절차를 밟고 있는 Character.AI가 2,100만 명 이상의 사용자 비공개 대화 기록을 경매로 매각하는 것을 막기 위해 미국 주 법무장관들이 연합하여 저지에 나섰습니다.",
+  "category": "중요",
+  "tags": [
+   "규제",
+   "투자"
+  ]
+ },
+ {
+  "id": "6f6a6b07f17a726f",
+  "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+  "source": "Hacker News",
+  "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+  "published_at": "2026-11-26T09:44:23+00:00",
+  "collected_at": "2026-11-26T14:58:32.051064+00:00",
+  "title_ko": "구글, AI 에이전트용 MCP 서버 도입 발표",
+  "summary_ko": "구글이 AI 에이전트 생태계를 위해 자체 MCP(Model Context Protocol) 서버를 도입할 예정인 가운데, 일부 기능의 제약 사항이 주목받고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "Google",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "2a5cd70e9f97f1b6",
+  "url": "https://news.hada.io/topic?id=37885&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "OpenAI, GPT-6.2 과금 오류 수정으로 실사용량 축소",
+  "published_at": "2026-11-26T07:31:56+00:00",
+  "collected_at": "2026-11-26T14:58:46.633395+00:00",
+  "title_ko": "OpenAI, GPT-6.2 과금 오류 수정으로 실사용 할인 축소",
+  "summary_ko": "GPT-6.2 출시 초기 적용됐던 잘못된 요금 할인 오류가 수정되면서 사용 한도가 더 빨리 소모되도록 변경되었으며, 보상으로 사용 한도 초기화 기회가 제공됩니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "GPT"
+  ]
+ },
+ {
   "id": "9bc568f250e24ddc",
   "url": "https://news.hada.io/topic?id=37859&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
   "source": "GeekNews",
