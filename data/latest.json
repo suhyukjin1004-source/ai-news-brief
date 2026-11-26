@@ -1,8 +1,131 @@
 {
- "updated_at": "2026-11-25T22:24:13.232304+00:00",
+ "updated_at": "2026-11-26T04:55:41.686205+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "9bc568f250e24ddc",
+   "url": "https://news.hada.io/topic?id=37859&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Jev는 아마도 Qwen3.5-35B-A3B 기반일 것",
+   "published_at": "2026-11-26T00:18:27+00:00",
+   "collected_at": "2026-11-26T04:55:31.595629+00:00",
+   "title_ko": "Jev 모델의 기반으로 지목된 Qwen3.5-35B-A3B",
+   "summary_ko": "모다익(Modaic)이 응답 패턴과 토큰 분석을 통해 타입사이드의 Jev 모델이 알리바바의 Qwen3.5-35B-A3B에 기반한 것으로 추정했습니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "fc8bcae88eb95e69",
+   "url": "https://news.hada.io/topic?id=37857&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "뉴욕타임스, 사진가들에게 최신 Photoshop 사용 금지 통보",
+   "published_at": "2026-11-26T00:11:32+00:00",
+   "collected_at": "2026-11-26T04:55:31.595629+00:00",
+   "title_ko": "뉴욕타임스, 생성형 AI 기능 포함된 최신 포토샵 사용 금지",
+   "summary_ko": "뉴욕타임스가 사진가들에게 무단 생성형 AI 메타데이터 부착을 방지하기 위해 최신 포토샵 대신 구버전을 사용하라고 통보했습니다.",
+   "category": "중요",
+   "tags": [
+    "규제",
+    "생성형 AI"
+   ]
+  },
+  {
+   "id": "fecf97f426e155e6",
+   "url": "https://news.hada.io/topic?id=37854&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Anthropic의 일반화 리만 가설 Lean 증명, 7만 6,000줄로 압축",
+   "published_at": "2026-11-25T23:31:57+00:00",
+   "collected_at": "2026-11-26T04:55:31.595629+00:00",
+   "title_ko": "Anthropic, Claude로 검증한 리만 가설 Lean 증명 코드 압축",
+   "summary_ko": "앤스로픽 연구진과 클로드(Claude)가 협업하여 일반화 리만 가설(GRH)의 기계 검증 Lean 증명 코드를 7만 6천 줄로 압축했습니다.",
+   "category": "중요",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "수학"
+   ]
+  },
+  {
+   "id": "04a9805dfa556873",
+   "url": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
+   "source": "Simon Willison",
+   "title": "Quoting Scott Aaronson",
+   "published_at": "2026-11-25T23:26:32+00:00",
+   "collected_at": "2026-11-26T04:55:17.027103+00:00",
+   "title_ko": "스콧 애런슨이 평가한 LLM과 수학적 진리의 발견",
+   "summary_ko": "LLM이 단순한 복잡성 문제 해결을 넘어 새로운 수학적 진리의 대륙을 탐험하는 도구가 되고 있다고 스콧 애런슨이 평가했습니다.",
+   "category": "참고",
+   "tags": [
+    "LLM",
+    "수학",
+    "Generative-AI"
+   ]
+  },
+  {
+   "id": "0452d68d882789d3",
+   "url": "https://modaic.dev/blog/latency-doesnt-lie",
+   "source": "Hacker News",
+   "title": "Jev is probably Qwen3.5-35B-A3B",
+   "published_at": "2026-11-25T22:57:04+00:00",
+   "collected_at": "2026-11-26T04:54:56.380161+00:00",
+   "title_ko": "Jev 모델의 기반으로 지목된 Qwen3.5-35B-A3B",
+   "summary_ko": "해커뉴스 등에서 Jev 모델의 기반이 Qwen3.5-35B-A3B일 것이라는 분석이 주목받고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "오픈소스",
+    "LLM"
+   ]
+  },
+  {
+   "id": "f27e0de9d097fe05",
+   "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+   "source": "TechCrunch",
+   "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+   "published_at": "2026-11-25T22:44:32+00:00",
+   "collected_at": "2026-11-26T04:54:39.140137+00:00",
+   "title_ko": "S&P, 거버넌스 및 핵심 인물 리스크로 NVIDIA 신용등급 강등 검토",
+   "summary_ko": "S&P 글로벌이 지배구조 및 '핵심 인물' 리스크를 이유로 엔비디아의 신용등급을 AA-로 낮추는 방안을 검토 중입니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "투자"
+   ]
+  },
+  {
+   "id": "f63f4cad14680799",
+   "url": "https://github.com/lsernau/grh-lean",
+   "source": "Hacker News",
+   "title": "Much shorter version of GRH Lean verification from Anthropic",
+   "published_at": "2026-11-25T21:48:10+00:00",
+   "collected_at": "2026-11-26T04:54:56.380161+00:00",
+   "title_ko": "앤스로픽의 GRH Lean 검증 코드 단축 버전 공개",
+   "summary_ko": "앤스로픽 팀이 기계 검증한 일반화 리만 가설(GRH) 증명 코드의 단축 버전 저장소가 공개되었습니다.",
+   "category": "참고",
+   "tags": [
+    "Anthropic",
+    "Claude",
+    "수학"
+   ]
+  },
+  {
+   "id": "9527dd371e58cac2",
+   "url": "https://simonwillison.net/2026/Nov/25/datasette-charts/",
+   "source": "Simon Willison",
+   "title": "datasette-charts 0.3a0",
+   "published_at": "2026-11-25T18:16:50+00:00",
+   "collected_at": "2026-11-26T04:55:17.027103+00:00",
+   "title_ko": "데이터셋 차트 0.3a0, AI 에이전트 연동 차트 주석 기능 추가",
+   "summary_ko": "datasette-charts가 업데이트되어 AI 에이전트를 통해 차트에 주석을 자동으로 생성하는 기능이 추가되었습니다. 데이터 시각화 작업의 효율성을 높여줍니다.",
+   "category": "팁",
+   "tags": [
+    "AI 에이전트",
+    "오픈소스"
+   ]
+  },
   {
    "id": "1343f7f3b4352e4c",
    "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
@@ -46,6 +169,36 @@
    "category": "중요",
    "tags": [
     "규제"
+   ]
+  },
+  {
+   "id": "3e11caea3c279159",
+   "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+   "source": "Hacker News",
+   "title": "The polynomial Hirsch conjecture is false [pdf]",
+   "published_at": "2026-11-25T17:34:34+00:00",
+   "collected_at": "2026-11-26T04:54:56.380161+00:00",
+   "title_ko": "OpenAI, 수학 프리프린트 논문 '다항식 허시 추측은 거짓이다' 공개",
+   "summary_ko": "OpenAI 수학 연구팀이 단순 다면체의 초다항식 그래프 지름에 관한 프리프린트 논문을 공개했습니다. AI의 고급 수학적 추론 능력을 보여주는 연구입니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "수학"
+   ]
+  },
+  {
+   "id": "88aef6d954089822",
+   "url": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
+   "source": "Hacker News",
+   "title": "New York bans AI toys, including those using internet to talk to children",
+   "published_at": "2026-11-25T17:27:05+00:00",
+   "collected_at": "2026-11-26T04:55:16.868550+00:00",
+   "title_ko": "미국 뉴욕주, 인터넷 연결 아동용 AI 장난감 판매 금지",
+   "summary_ko": "뉴욕주가 아동과 대화하기 위해 인터넷을 사용하는 AI 장난감의 판매를 금지했습니다. 아동 보호와 개인정보 보호를 위한 AI 규제가 강화되는 추세를 보여줍니다.",
+   "category": "중요",
+   "tags": [
+    "규제",
+    "AI 에이전트"
    ]
   },
   {
@@ -2840,152 +2993,6 @@
    "tags": [
     "Meta",
     "투자"
-   ]
-  },
-  {
-   "id": "2adef6bfeca022c8",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
-   "source": "Google AI",
-   "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-   "published_at": "2026-11-19T17:00:00+00:00",
-   "collected_at": "2026-11-19T21:22:25.787234+00:00",
-   "title_ko": "월터 아이작슨이 말하는 AI 시대의 호기심과 창의성",
-   "summary_ko": "역사 속 혁신가들을 조명해온 저자 월터 아이작슨이 구글과 함께 AI 시대 인간의 판단력과 창의성에 대해 논의했습니다.",
-   "category": "참고",
-   "tags": [
-    "Google"
-   ]
-  },
-  {
-   "id": "e71232150b493ed5",
-   "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-   "source": "TechCrunch",
-   "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-   "published_at": "2026-11-19T16:59:23+00:00",
-   "collected_at": "2026-11-19T21:22:12.500291+00:00",
-   "title_ko": "앤스로픽, 공모가 대비 33% 상승하며 나스닥 거래 시작",
-   "summary_ko": "앤스로픽의 IPO 공모가가 83달러로 책정된 후 첫 거래에서 111달러를 기록하며 성공적인 자금 조달을 마쳤습니다.",
-   "category": "속보",
-   "tags": [
-    "Anthropic",
-    "투자"
-   ]
-  },
-  {
-   "id": "8b258ce74c4f634a",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217576",
-   "source": "AI타임스",
-   "title": "미 의회 자문위 “중국군, AI 군사력 강화 위해 엔비디아 첨단 칩 확보 추진”",
-   "published_at": "2026-11-19T16:56:26+00:00",
-   "collected_at": "2026-11-19T12:50:31.907274+00:00",
-   "title_ko": "미 자문위 \"중국군, 엔비디아 첨단 칩 확보 추진\"",
-   "summary_ko": "미국 의회 자문기구가 중국군이 AI 군사력 강화를 위해 엔비디아의 첨단 반도체 확보를 노리고 있다고 경고했습니다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "규제",
-    "반도체"
-   ]
-  },
-  {
-   "id": "3c558e421a8cb68d",
-   "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
-   "source": "Hacker News",
-   "title": "Chrome AI features wasting much bandwidth",
-   "published_at": "2026-11-19T16:54:25+00:00",
-   "collected_at": "2026-11-19T21:22:31.146839+00:00",
-   "title_ko": "크롬 AI 기능의 과도한 대역폭 소모 문제 지적",
-   "summary_ko": "브라우저 내장 크롬 AI 기능들이 지나치게 많은 네트워크 대역폭을 소비한다는 사용자 분석과 비판이 제기되었습니다.",
-   "category": "참고",
-   "tags": [
-    "Google",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "1a26151f67491fea",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
-   "source": "The Verge",
-   "title": "Anthropic starts trading on Wall Street",
-   "published_at": "2026-11-19T16:52:01+00:00",
-   "collected_at": "2026-11-19T21:22:12.618779+00:00",
-   "title_ko": "앤스로픽, 월스트리트 증권시장 공식 상장",
-   "summary_ko": "앤스로픽이 티커 심볼 'ANT'로 나스닥에 상장하며 공식적으로 기업공개(IPO) 절차를 완료했습니다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "투자"
-   ]
-  },
-  {
-   "id": "4fbc02245f26665f",
-   "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
-   "source": "Hacker News",
-   "title": "AI isn't replacing your job. It's turning it into low-paid gig work",
-   "published_at": "2026-11-19T16:45:50+00:00",
-   "collected_at": "2026-11-19T21:22:31.146839+00:00",
-   "title_ko": "AI가 일자리를 대체하는 대신 저임금 긱 워크로 변모시켜",
-   "summary_ko": "AI 도입이 단순한 일자리 소멸을 넘어 노동자를 불안정한 저임금 부수 업무 형태로 내몰고 있다는 분석이 제기되었습니다.",
-   "category": "참고",
-   "tags": []
-  },
-  {
-   "id": "13c5acf09bca4cbb",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217586",
-   "source": "AI타임스",
-   "title": "디 인포메이션 \"엔비디아, 알리바바에 해외 GPU 임대 경로 연결\"",
-   "published_at": "2026-11-19T16:25:13+00:00",
-   "collected_at": "2026-11-19T12:50:31.907274+00:00",
-   "title_ko": "엔비디아, 알리바바에 우회적 GPU 임대 연결 의혹",
-   "summary_ko": "엔비디아 영업팀이 미국의 수출 통제 이후 알리바바에 해외 우회 방식으로 AI 칩을 임대하는 경로를 주선했다는 보도가 나왔습니다.",
-   "category": "중요",
-   "tags": [
-    "NVIDIA",
-    "규제"
-   ]
-  },
-  {
-   "id": "64bb64ef900bc847",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217579",
-   "source": "AI타임스",
-   "title": "엔비디아, ‘RTX 스파크’ 소형 데스크톱 글로벌 출시…국내 사전예약 시작",
-   "published_at": "2026-11-19T16:00:22+00:00",
-   "collected_at": "2026-11-19T12:50:31.907274+00:00",
-   "title_ko": "엔비디아, 로컬 AI용 'RTX 스파크' 데스크톱 출시",
-   "summary_ko": "엔비디아가 블랙웰 GPU를 탑재해 1200억 파라미터 LLM을 로컬에서 구동할 수 있는 소형 데스크톱 'RTX 스파크'를 출시했습니다.",
-   "category": "속보",
-   "tags": [
-    "NVIDIA",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "c86a09aa15b4e41f",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217589",
-   "source": "AI타임스",
-   "title": "구글 “AI 끄면 검색도 포기”…뉴욕·LA·시카고 교육구, 대체 검색 검토",
-   "published_at": "2026-11-19T15:50:00+00:00",
-   "collected_at": "2026-11-19T12:50:31.907274+00:00",
-   "title_ko": "미 주요 교육구, 구글 검색 대안 검토",
-   "summary_ko": "구글 검색 내 AI 기능을 끌 수 없는 정책에 반발해 뉴욕, LA 등 미 주요 교육구가 대체 검색 엔진 도입을 검토하고 있습니다.",
-   "category": "참고",
-   "tags": [
-    "Google",
-    "규제"
-   ]
-  },
-  {
-   "id": "62590be453262d7c",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217577",
-   "source": "AI타임스",
-   "title": "트럼프 행정부, 미국 기업에 중국산 AI 사용 사실 공개 의무화 검토",
-   "published_at": "2026-11-19T15:46:07+00:00",
-   "collected_at": "2026-11-19T12:50:31.907274+00:00",
-   "title_ko": "트럼프 행정부, 중국산 AI 사용 사실 공개 의무화 검토",
-   "summary_ko": "미국 정부가 기업들에게 중국산 AI 모델 사용 여부를 공개하도록 강제하여 의존도를 낮추는 방안을 검토 중입니다.",
-   "category": "중요",
-   "tags": [
-    "규제"
    ]
   }
  ]
