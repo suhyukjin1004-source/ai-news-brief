@@ -1,8 +1,171 @@
 {
- "updated_at": "2026-11-26T14:59:04.921197+00:00",
+ "updated_at": "2026-11-26T23:43:53.957268+00:00",
  "generator": "gemini/gemini-3.5-flash-lite",
  "count": 200,
  "items": [
+  {
+   "id": "396505be8c4688be",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217838",
+   "source": "AI타임스",
+   "title": "Z.ai 'GLM-5.5' 출시 지연…문샷 AI도 개발 주기 두배 전망",
+   "published_at": "2026-11-27T06:20:35+00:00",
+   "collected_at": "2026-11-26T23:43:39.248535+00:00",
+   "title_ko": "중국 AI 기업, 미국의 반도체 규제로 모델 개발 지연",
+   "summary_ko": "미국의 첨단 반도체 수출 규제와 증류 방지 기술 강화로 Z.ai와 문샷 AI 등 중국 주요 AI 기업들의 모델 출시 주기가 길어지고 있습니다.",
+   "category": "중요",
+   "tags": [
+    "오픈소스",
+    "반도체",
+    "규제"
+   ]
+  },
+  {
+   "id": "5d8902da602ec887",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217837",
+   "source": "AI타임스",
+   "title": "엔비디아, 동남아 4개국 AI 서버 출하 중단…중국 우회 접근 차단",
+   "published_at": "2026-11-27T05:55:39+00:00",
+   "collected_at": "2026-11-26T23:43:39.248535+00:00",
+   "title_ko": "엔비디아, 동남아 4개국 AI 서버 출하 중단",
+   "summary_ko": "미국의 대중국 AI 반도체 우회 수출 차단 조치에 따라 엔비디아가 동남아 주요국으로의 AI 서버 출하를 중단했습니다.",
+   "category": "속보",
+   "tags": [
+    "NVIDIA",
+    "반도체",
+    "규제"
+   ]
+  },
+  {
+   "id": "a447c99793249854",
+   "url": "https://news.hada.io/topic?id=37922&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "OpenAI가 비용 통제 모드에 들어갔을 가능성",
+   "published_at": "2026-11-26T22:33:47+00:00",
+   "collected_at": "2026-11-26T23:43:40.498581+00:00",
+   "title_ko": "OpenAI 신규 모델, 비용 통제 위해 추론 토큰 축소",
+   "summary_ko": "최근 공개된 OpenAI의 신규 모델에서 작업당 출력 및 추론 토큰이 유의미하게 감소한 것으로 나타나 비용 절감 모드에 들어갔다는 분석이 나옵니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "GPT"
+   ]
+  },
+  {
+   "id": "19dd4641586dbe86",
+   "url": "https://janlukas.blog/posts/ai-self-hosting",
+   "source": "Hacker News",
+   "title": "AI made self-hosting fun again",
+   "published_at": "2026-11-26T21:47:45+00:00",
+   "collected_at": "2026-11-26T23:43:25.619825+00:00",
+   "title_ko": "AI를 활용한 개인 서버 호스팅의 부활",
+   "summary_ko": "AI 도구의 발전으로 인해 복잡한 개인 서버 자가 호스팅(Self-hosting) 과정이 훨씬 쉽고 재미있어졌다는 개발자 경험 공유입니다.",
+   "category": "팁",
+   "tags": [
+    "코딩"
+   ]
+  },
+  {
+   "id": "be43940f7f7f5060",
+   "url": "https://news.hada.io/topic?id=37919&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Google, AI 에이전트에 자사 MCP 서버 사용 의무화 예정… Gmail 서버는 이메일 발송 불가",
+   "published_at": "2026-11-26T21:39:40+00:00",
+   "collected_at": "2026-11-26T23:43:40.498581+00:00",
+   "title_ko": "구글, AI 에이전트의 자사 MCP 서버 사용 의무화",
+   "summary_ko": "구글이 2027년부터 AI 에이전트의 워크스페이스 접근 시 자사 MCP 서버 사용을 강제하기로 했으나 일부 기능에 제한을 둡니다.",
+   "category": "중요",
+   "tags": [
+    "Google",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "24ce7469ed18d21f",
+   "url": "https://news.hada.io/topic?id=37917&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Llama.cpp용 AMD 특화 패치",
+   "published_at": "2026-11-26T20:32:13+00:00",
+   "collected_at": "2026-11-26T23:43:40.498581+00:00",
+   "title_ko": "Llama.cpp용 AMD 하드웨어 가속 패치 공개",
+   "summary_ko": "llama.cpp에 AMD 특화 패치를 적용해 대형언어모델의 프리필 및 토큰 생성 속도를 대폭 끌어올린 오픈소스 프로젝트입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "c881f1e7111092b0",
+   "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+   "source": "TechCrunch",
+   "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+   "published_at": "2026-11-26T20:03:54+00:00",
+   "collected_at": "2026-11-26T23:43:08.590157+00:00",
+   "title_ko": "엔비디아, 동남아시아 AI 서버 출하 일시 중단",
+   "summary_ko": "미국의 대중국 반도체 규제 강화 기조에 맞춰 엔비디아가 동남아 4개국으로의 서버 선적을 일시 중단했습니다.",
+   "category": "속보",
+   "tags": [
+    "NVIDIA",
+    "반도체",
+    "규제"
+   ]
+  },
+  {
+   "id": "dbadd4a3a76b5181",
+   "url": "https://news.hada.io/topic?id=37915&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "AI가 완치한 질병 추적하기",
+   "published_at": "2026-11-26T18:49:29+00:00",
+   "collected_at": "2026-11-26T23:43:40.498581+00:00",
+   "title_ko": "AI가 완치한 질병은 아직 없어… 실효성 검증 필요",
+   "summary_ko": "AI가 신약 개발 효율을 높이고 있으나, 실제로 AI가 처음부터 끝까지 개발해 완치에 이른 질병이나 승인된 신약은 아직 전무하다는 분석입니다.",
+   "category": "참고",
+   "tags": []
+  },
+  {
+   "id": "d3ddcbcc31f818b6",
+   "url": "https://news.hada.io/topic?id=37914&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "재미로 AWS Lambda에서 Qwen 서빙하기, 비용은 80배 넘게",
+   "published_at": "2026-11-26T18:46:29+00:00",
+   "collected_at": "2026-11-26T23:43:40.498581+00:00",
+   "title_ko": "AWS Lambda로 Qwen 모델 서빙 실험",
+   "summary_ko": "서버리스 환경인 AWS Lambda를 분산 활용해 소형 LLM을 서빙하는 데 성공했으나, 상용 호스팅 대비 비용이 80배 이상 높다는 실험 결과입니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스"
+   ]
+  },
+  {
+   "id": "3945259ba0a07b4c",
+   "url": "https://news.hada.io/topic?id=37913&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "CIA 비기밀 시스템, 사이버공격으로 침해당해",
+   "published_at": "2026-11-26T18:43:29+00:00",
+   "collected_at": "2026-11-26T23:43:40.498581+00:00",
+   "title_ko": "AI 활용 해커 대응 위한 미 국가 시스템 패치 진행",
+   "summary_ko": "국가정보국장은 최근 인프라 장애의 상당수가 AI를 활용하는 해커에 대응하기 위한 긴급 패치와 관련이 있다고 밝혔습니다.",
+   "category": "참고",
+   "tags": [
+    "규제",
+    "AI 에이전트"
+   ]
+  },
+  {
+   "id": "6ba349e52854506b",
+   "url": "https://news.hada.io/topic?id=37911&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Geminispace에 들어가기, 텍스트 중심 Gemini 네트워크로 블로그 옮기기",
+   "published_at": "2026-11-26T18:02:55+00:00",
+   "collected_at": "2026-11-26T23:43:40.498581+00:00",
+   "title_ko": "AI를 활용한 블로그 마크다운의 Gemini 캡슐 변환 도구",
+   "summary_ko": "AI 변환 도구를 이용해 마크다운 블로그를 텍스트 중심의 Gemini 네트워크 포맷으로 빠르고 간편하게 전환할 수 있습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "Gemini"
+   ]
+  },
   {
    "id": "f82f5ad519fe2487",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217834",
@@ -19,6 +182,35 @@
    ]
   },
   {
+   "id": "68cca409d5b96b98",
+   "url": "https://news.hada.io/topic?id=37910&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "재미를 위해, 수익 없이 작은 태평양 섬에 공중전화 설치하기",
+   "published_at": "2026-11-26T17:37:28+00:00",
+   "collected_at": "2026-11-26T23:43:40.498581+00:00",
+   "title_ko": "OpenAI API를 활용한 태평양 섬 공중전화 산타 통화 서비스",
+   "summary_ko": "노퍽섬의 공중전화 프로젝트에 OpenAI API를 결합하여 아이들과 산타가 대화할 수 있는 독특한 음성 대화 시스템을 구축했습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI"
+   ]
+  },
+  {
+   "id": "21e7f38a16304dcc",
+   "url": "https://news.hada.io/topic?id=37909&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "45°C 냉각수 입구 온도가 칠러를 퇴장시켰다. 대부분은 아직 눈치채지 못했다",
+   "published_at": "2026-11-26T17:34:28+00:00",
+   "collected_at": "2026-11-26T23:43:40.498581+00:00",
+   "title_ko": "엔비디아 45도 냉각수 지원으로 데이터센터 효율 개선",
+   "summary_ko": "NVIDIA가 45°C 냉각수 입구 온도를 지원함에 따라 기존 칠러 없이도 데이터센터 냉각 전력을 크게 절감할 수 있게 되었습니다.",
+   "category": "중요",
+   "tags": [
+    "NVIDIA",
+    "반도체"
+   ]
+  },
+  {
    "id": "1822d0259b48119c",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217835",
    "source": "AI타임스",
@@ -31,6 +223,50 @@
    "tags": [
     "OpenAI",
     "GPT"
+   ]
+  },
+  {
+   "id": "280fc6b8ee711812",
+   "url": "https://diseasescuredbyai.com/",
+   "source": "Hacker News",
+   "title": "Tracking Diseases Cured by AI",
+   "published_at": "2026-11-26T17:16:41+00:00",
+   "collected_at": "2026-11-26T23:43:25.876969+00:00",
+   "title_ko": "AI가 치료한 질병 추적 프로젝트 공개",
+   "summary_ko": "AI 기술의 발전으로 의학적 치료와 신약 개발에서 성과를 거둔 질병 사례들을 모아서 추적하는 웹사이트가 주목받고 있습니다.",
+   "category": "참고",
+   "tags": [
+    "투자"
+   ]
+  },
+  {
+   "id": "1d45997e4997625f",
+   "url": "https://devnull.land/amd-specific-llama-cpp",
+   "source": "Hacker News",
+   "title": "AMD-specific fork of llama.cpp",
+   "published_at": "2026-11-26T17:11:29+00:00",
+   "collected_at": "2026-11-26T23:43:25.619825+00:00",
+   "title_ko": "AMD 전용 llama.cpp 포크 버전 등장",
+   "summary_ko": "AMD 하드웨어 환경에서 로컬 LLM 구동 효율을 높이기 위한 llama.cpp의 AMD 전용 포크 버전이 공개되었습니다.",
+   "category": "팁",
+   "tags": [
+    "오픈소스",
+    "반도체"
+   ]
+  },
+  {
+   "id": "4fdce5f029afb0e4",
+   "url": "https://twitter.com/ElliotC1/status/2125689373337489419",
+   "source": "Hacker News",
+   "title": "One guy is doing a hunger strike outside Anthropic, currently in his 3rd day",
+   "published_at": "2026-11-26T16:55:15+00:00",
+   "collected_at": "2026-11-26T23:43:25.876969+00:00",
+   "title_ko": "앤트로픽 본사 앞에서 AI 안전성 촉구 단식투쟁 발생",
+   "summary_ko": "Anthropic 사옥 앞에서 AI 안전성과 관련된 우려를 제기하며 1인 단식 투쟁을 벌이는 시위가 진행 중입니다.",
+   "category": "참고",
+   "tags": [
+    "Anthropic",
+    "규제"
    ]
   },
   {
@@ -60,6 +296,21 @@
    "tags": [
     "Meta",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "4a10c2c33559dbcb",
+   "url": "https://news.hada.io/topic?id=37908&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Moat: OpenRouter를 대체하는 서비스",
+   "published_at": "2026-11-26T16:36:29+00:00",
+   "collected_at": "2026-11-26T23:43:40.498581+00:00",
+   "title_ko": "오픈라우터 대항마 Moat, 멤버십 기반 할인 AI API 제공",
+   "summary_ko": "Moat는 멤버십 구독을 통해 여러 LLM을 라우터 수수료 없이 도매 가격의 할인된 사용료로 이용할 수 있는 새로운 중개 서비스를 선보였습니다.",
+   "category": "속보",
+   "tags": [
+    "OpenAI",
+    "Anthropic"
    ]
   },
   {
@@ -103,6 +354,20 @@
    "tags": [
     "Google",
     "AI 에이전트"
+   ]
+  },
+  {
+   "id": "ec74e9ba21876128",
+   "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+   "source": "TechCrunch",
+   "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+   "published_at": "2026-11-26T16:00:00+00:00",
+   "collected_at": "2026-11-26T23:43:08.590157+00:00",
+   "title_ko": "앤트로픽 상장과 인간 중심 콘텐츠의 가치 조명",
+   "summary_ko": "Anthropic의 시장 진입과 대규모 성공을 거둔 인간 제작 비디오 게임의 대비를 통해 AI 시대 효율성의 의미를 되짚어봅니다.",
+   "category": "참고",
+   "tags": [
+    "Anthropic"
    ]
   },
   {
@@ -163,6 +428,21 @@
    ]
   },
   {
+   "id": "069f94445fa0f593",
+   "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+   "source": "Simon Willison",
+   "title": "Quoting Jack Despain Zhou",
+   "published_at": "2026-11-26T15:09:31+00:00",
+   "collected_at": "2026-11-26T23:43:26.033155+00:00",
+   "title_ko": "생성형 AI 확산에 따른 글쓰기의 개성 상실 현상",
+   "summary_ko": "이메일, 유튜브, 발표 등 모든 영역에서 Claude 등 LLM이 생성한 텍스트가 범람하면서 개인의 고유한 목소리가 사라지고 있다는 지적입니다.",
+   "category": "참고",
+   "tags": [
+    "Claude",
+    "LLM"
+   ]
+  },
+  {
    "id": "42fb02004592c232",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217824",
    "source": "AI타임스",
@@ -175,6 +455,22 @@
    "tags": [
     "Claude",
     "규제"
+   ]
+  },
+  {
+   "id": "15b93e924b8eb48d",
+   "url": "https://news.hada.io/topic?id=37903&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "재무부 CIO, 본업 대신 바이브 코딩에 너무 바쁜 상태 #147",
+   "published_at": "2026-11-26T14:41:16+00:00",
+   "collected_at": "2026-11-26T23:43:40.498581+00:00",
+   "title_ko": "미 재무부 CIO의 근무 중 Claude 활용 게임 개발 논란",
+   "summary_ko": "재무부 CIO가 시스템 복구 대신 Claude를 활용해 게임을 개발했다는 비판이 제기되어 AI 도구 활용과 공직자 근무 태도에 대한 논란이 일고 있습니다.",
+   "category": "속보",
+   "tags": [
+    "Claude",
+    "AI 에이전트",
+    "코딩"
    ]
   },
   {
@@ -282,6 +578,21 @@
    ]
   },
   {
+   "id": "82a13b62ffcbeb2a",
+   "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+   "source": "Hacker News",
+   "title": "OpenAI may be in cost control mode",
+   "published_at": "2026-11-26T07:33:12+00:00",
+   "collected_at": "2026-11-26T23:43:25.619825+00:00",
+   "title_ko": "OpenAI, 비용 통제 모드 진입 관측",
+   "summary_ko": "OpenAI가 최근 비용 절감과 효율성 중심의 운영 기조로 전환하고 있다는 분석이 제기되었습니다.",
+   "category": "참고",
+   "tags": [
+    "OpenAI",
+    "투자"
+   ]
+  },
+  {
    "id": "2a5cd70e9f97f1b6",
    "url": "https://news.hada.io/topic?id=37885&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
    "source": "GeekNews",
@@ -294,6 +605,20 @@
    "tags": [
     "OpenAI",
     "GPT"
+   ]
+  },
+  {
+   "id": "4faaa3acd738f3c5",
+   "url": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
+   "source": "Simon Willison",
+   "title": "The New York Times warns photographers not to update Photoshop over AI features",
+   "published_at": "2026-11-26T05:08:46+00:00",
+   "collected_at": "2026-11-26T23:43:26.033155+00:00",
+   "title_ko": "뉴욕타임스, AI 기능 탑재된 포토샵 업데이트 자제 권고",
+   "summary_ko": "뉴욕타임스가 사진의 진위성과 무결성을 보호하기 위해 소속 사진가들에게 AI 기능이 추가된 포토샵으로의 업데이트를 자제하라고 경고했습니다.",
+   "category": "참고",
+   "tags": [
+    "규제"
    ]
   },
   {
@@ -2661,329 +2986,6 @@
    "tags": [
     "AI 에이전트",
     "코딩"
-   ]
-  },
-  {
-   "id": "f5c1d8753c2b4792",
-   "url": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
-   "source": "Hacker News",
-   "title": "\"I can tell you wrote this yourself\"",
-   "published_at": "2026-11-20T07:13:21+00:00",
-   "collected_at": "2026-11-20T11:20:10.960632+00:00",
-   "title_ko": "AI 시대의 글쓰기와 인간 고유성의 의미에 대한 논의",
-   "summary_ko": "AI 생성 콘텐츠가 범람하는 시대에 인간이 쓴 글을 판별하고 고유의 가치를 지키는 방식에 대한 개발자들의 논의입니다. LLM 시대의 콘텐츠 트렌드를 조명합니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "6506ccfa73c587b9",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217596",
-   "source": "AI타임스",
-   "title": "아모데이 \"AI 개발 속도 조절…사업·정치적 압력에 굴복 안 해\"",
-   "published_at": "2026-11-20T07:00:23+00:00",
-   "collected_at": "2026-11-20T02:59:37.287294+00:00",
-   "title_ko": "다리오 아모데이 \"IPO 이후에도 사업적 압력 굴복 않고 AI 안전 최우선\"",
-   "summary_ko": "앤트로픽 CEO가 기업공개 후에도 AI 안전을 위해 모델 개발 속도를 조절하겠다는 입장을 재확인했다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "규제"
-   ]
-  },
-  {
-   "id": "0fc7b38eeec5ff12",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217595",
-   "source": "AI타임스",
-   "title": "미국, 중국 반도체 수출 허가 강화…삼성·TSMC 일부 출하 중단",
-   "published_at": "2026-11-20T06:23:17+00:00",
-   "collected_at": "2026-11-20T02:59:37.287294+00:00",
-   "title_ko": "미국 대중국 반도체 수출 통제 강화…삼성·TSMC 일부 출하 중단",
-   "summary_ko": "미국의 첨단 반도체 수출 규제 강화로 삼성전자와 TSMC가 일부 중국 고객에 대한 칩 출하를 중단했다.",
-   "category": "중요",
-   "tags": [
-    "반도체",
-    "규제"
-   ]
-  },
-  {
-   "id": "07f0900024c23e46",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217594",
-   "source": "AI타임스",
-   "title": "앤트로픽, 나스닥 상장 첫날 기업가치 2조달러…스페이스X 추월",
-   "published_at": "2026-11-20T05:25:23+00:00",
-   "collected_at": "2026-11-19T21:22:44.811589+00:00",
-   "title_ko": "앤트로픽, 나스닥 상장 첫날 기업가치 2조 달러 돌파",
-   "summary_ko": "앤트로픽이 나스닥 상장 첫날 공모가 대비 34% 급등하며 기업가치 2조 달러를 기록해 역대 최대 규모의 AI 기업 IPO를 성사시켰다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "투자"
-   ]
-  },
-  {
-   "id": "34d5485a3b40f72b",
-   "url": "https://news.hada.io/topic?id=37506&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "Show GN: Namoo - 부모님의 이야기를 AI 인터뷰로 기록해 이북과 오디오북으로 만들어 주는 앱",
-   "published_at": "2026-11-20T04:15:52+00:00",
-   "collected_at": "2026-11-20T11:20:29.603999+00:00",
-   "title_ko": "부모님 자서전을 AI 인터뷰로 제작해주는 앱 'Namoo'",
-   "summary_ko": "AI가 인터뷰어 역할을 맡아 부모님의 인생 이야기를 음성으로 묻고 챕터별 이북과 오디오북으로 정리해주는 앱입니다. 일상 영역에서의 AI 활용 사례를 보여줍니다.",
-   "category": "팁",
-   "tags": [
-    "AI 에이전트",
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "e486efe85b2a356a",
-   "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
-   "source": "Simon Willison",
-   "title": "Token fraud is here and it’s BAD (YouTube)",
-   "published_at": "2026-11-20T02:49:57+00:00",
-   "collected_at": "2026-11-20T02:59:23.852680+00:00",
-   "title_ko": "무료 체험 악용한 AI 토큰 사기 기승",
-   "summary_ko": "AI 제품의 무료 체험판을 악용해 토큰을 탈취하거나 리셀 사업에 악용하는 사례가 증가하고 있다.",
-   "category": "중요",
-   "tags": [
-    "OpenAI",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "2ed09bbf2a0c5d3c",
-   "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-   "source": "TechCrunch",
-   "title": "Apple may be developing its own AI agent that runs your Mac",
-   "published_at": "2026-11-20T00:56:01+00:00",
-   "collected_at": "2026-11-20T02:59:06.837570+00:00",
-   "title_ko": "애플, 맥(Mac) 제어하는 자체 AI 에이전트 개발 중",
-   "summary_ko": "애플이 주요 AI 에이전트들과 경쟁하기 위해 사용자의 맥을 직접 조작할 수 있는 AI 에이전트를 개발하고 있다.",
-   "category": "중요",
-   "tags": [
-    "Apple",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "4aacf31011a35eda",
-   "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-   "source": "TechCrunch",
-   "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-   "published_at": "2026-11-20T00:43:50+00:00",
-   "collected_at": "2026-11-20T02:59:06.837570+00:00",
-   "title_ko": "앤트로픽 창업자 7인, IPO로 약 2조 원 현금화",
-   "summary_ko": "앤트로픽이 성공적인 나스닥 상장을 거두며 7명의 공동 창업자가 각각 막대한 규모의 주식을 현금화했다.",
-   "category": "중요",
-   "tags": [
-    "Anthropic",
-    "투자"
-   ]
-  },
-  {
-   "id": "9c7c5c1f3edcdb95",
-   "url": "https://news.hada.io/topic?id=37494&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "이해 가능성을 위한 설계",
-   "published_at": "2026-11-20T00:04:58+00:00",
-   "collected_at": "2026-11-20T02:59:38.452655+00:00",
-   "title_ko": "LLM 시대의 소프트웨어 아키텍처와 개발자 역할",
-   "summary_ko": "LLM이 코드를 대량 생산하는 시대에 개발자는 생성된 코드를 이해하고 국소적 추론이 가능하도록 설계해야 한다.",
-   "category": "팁",
-   "tags": [
-    "LLM",
-    "코딩"
-   ]
-  },
-  {
-   "id": "d15c45643214b444",
-   "url": "https://openai.com/business/customer-stories/hebbia",
-   "source": "OpenAI",
-   "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-   "published_at": "2026-11-20T00:00:00+00:00",
-   "collected_at": "2026-11-21T01:22:30.193681+00:00",
-   "title_ko": "Hebbia, GPT-6 Astra로 금융 연구 효율 향상",
-   "summary_ko": "Hebbia가 사전 출시된 GPT-6 Astra를 금융 연구에 적용한 결과 소스 커버리지와 인용 관련성이 향상되었다.",
-   "category": "중요",
-   "tags": [
-    "GPT",
-    "투자"
-   ]
-  },
-  {
-   "id": "80d31a6dee298bbd",
-   "url": "https://huggingface.co/blog/inkling2mini",
-   "source": "Hugging Face",
-   "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-   "published_at": "2026-11-20T00:00:00+00:00",
-   "collected_at": "2026-11-21T01:22:30.847296+00:00",
-   "title_ko": "로컬 환경을 위한 Inkling 2 Mini 출시",
-   "summary_ko": "로컬 세팅에서 뛰어난 성능을 제공하는 새로운 소형 AI 모델 Inkling 2 Mini가 허깅페이스에 공개되었다.",
-   "category": "속보",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "211fbe8009a45ecd",
-   "url": "https://huggingface.co/blog/harness-adapters-at-scale",
-   "source": "Hugging Face",
-   "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-   "published_at": "2026-11-20T00:00:00+00:00",
-   "collected_at": "2026-11-20T19:58:33.950745+00:00",
-   "title_ko": "모델 성능과 비용 개선을 위한 하네스 어댑터 공개",
-   "summary_ko": "원하는 모델을 하네스에 맞게 조정하여 성능을 높이고 비용을 절감할 수 있는 하네스 어댑터가 소개되었습니다.",
-   "category": "팁",
-   "tags": [
-    "오픈소스"
-   ]
-  },
-  {
-   "id": "f4784c30400364a2",
-   "url": "https://openai.com/index/introducing-medchembench",
-   "source": "OpenAI",
-   "title": "Can AI help scientists identify promising drug candidates?",
-   "published_at": "2026-11-20T00:00:00+00:00",
-   "collected_at": "2026-11-20T19:58:33.229519+00:00",
-   "title_ko": "AI를 활용한 유망 신약 후보 물질 발굴",
-   "summary_ko": "MedChemBench를 통해 AI 모델이 분자 구조를 해석하고 실험 증거를 바탕으로 신약 후보 물질을 얼마나 잘 선정하는지 평가합니다.",
-   "category": "참고",
-   "tags": [
-    "OpenAI"
-   ]
-  },
-  {
-   "id": "ed33061e28b05b70",
-   "url": "https://git-aarvin.github.io/mei/",
-   "source": "Hacker News",
-   "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-   "published_at": "2026-11-19T23:35:35+00:00",
-   "collected_at": "2026-11-20T02:59:21.195860+00:00",
-   "title_ko": "Gemini 4 Neon, 모델 엔지니어링 지수 1위 등극",
-   "summary_ko": "구글의 새로운 모델로 추정되는 Gemini 4 Neon이 모델 엔지니어링 지수에서 1위를 차지했다.",
-   "category": "속보",
-   "tags": [
-    "Google",
-    "Gemini"
-   ]
-  },
-  {
-   "id": "7d3a73ca33e84205",
-   "url": "https://news.hada.io/topic?id=37491&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "Pete Warden이 말하는 로컬 AI, 개방형 모델, 음성 인터페이스와 하드웨어의 미래",
-   "published_at": "2026-11-19T22:35:25+00:00",
-   "collected_at": "2026-11-20T02:59:38.452655+00:00",
-   "title_ko": "피트 워든이 진단한 로컬 AI와 음성 인터페이스의 미래",
-   "summary_ko": "로컬 AI의 장벽이 모델 품질에서 사용성으로 옮겨갔으며, 온프레미스 운영과 저지연 음성 인터페이스가 중요해지고 있다고 분석했습니다.",
-   "category": "참고",
-   "tags": [
-    "오픈소스",
-    "반도체"
-   ]
-  },
-  {
-   "id": "b24c1081da702fe8",
-   "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-   "source": "The Verge",
-   "title": "Apple is hiring engineers to build its own AI agent",
-   "published_at": "2026-11-19T22:31:41+00:00",
-   "collected_at": "2026-11-20T02:59:06.990772+00:00",
-   "title_ko": "애플, 독자 AI 에이전트 개발 위한 엔지니어 채용 착수",
-   "summary_ko": "애플이 웹 서핑, 앱 간 연동, 코드 작성 등을 수행할 수 있는 자체 AI 에이전트 개발을 위해 엔지니어를 채용하고 있습니다.",
-   "category": "속보",
-   "tags": [
-    "Apple",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "6d268a6234bb0021",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-   "source": "The Verge",
-   "title": "A brief history of Nvidia’s recent stock fluctuations",
-   "published_at": "2026-11-19T21:59:35+00:00",
-   "collected_at": "2026-11-20T02:59:06.990772+00:00",
-   "title_ko": "최근 엔비디아 주가 변동 배경 분석",
-   "summary_ko": "호실적 발표 직후에도 불구하고 엔비디아 주가가 고점 대비 큰 폭으로 하락한 배경을 짚어봅니다.",
-   "category": "참고",
-   "tags": [
-    "NVIDIA",
-    "투자"
-   ]
-  },
-  {
-   "id": "e60f4e5e7cf4b021",
-   "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-   "source": "TechCrunch",
-   "title": "Meta’s new Muse Charm device may cost $300",
-   "published_at": "2026-11-19T21:58:06+00:00",
-   "collected_at": "2026-11-20T02:59:06.837570+00:00",
-   "title_ko": "메타의 신형 AI 웨어러블 '뮤즈 참', 300달러 출시 전망",
-   "summary_ko": "메타가 준비 중인 차세대 AI 웨어러블 기기 뮤즈 참의 가격이 300달러 수준으로 책정될 것으로 예상됩니다.",
-   "category": "속보",
-   "tags": [
-    "Meta"
-   ]
-  },
-  {
-   "id": "52653ae3ad736466",
-   "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-   "source": "TechCrunch",
-   "title": "These tech outages are giving Y2K, AI agent style",
-   "published_at": "2026-11-19T21:42:31+00:00",
-   "collected_at": "2026-11-20T02:59:06.837570+00:00",
-   "title_ko": "최근 IT 시스템 장애와 AI 에이전트 시대의 시사점",
-   "summary_ko": "항공 및 금융 등 주요 플랫폼의 잇단 장애가 AI 에이전트 시대의 새로운 기술적 도전과 연관이 있다는 분석입니다.",
-   "category": "참고",
-   "tags": [
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "c5013d73b95b4feb",
-   "url": "https://news.hada.io/topic?id=37487&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-   "source": "GeekNews",
-   "title": "Claude, 블랙홀 물리학의 미해결 문제 두 가지 해결",
-   "published_at": "2026-11-19T20:33:40+00:00",
-   "collected_at": "2026-11-19T21:22:46.096546+00:00",
-   "title_ko": "클로드, 블랙홀 물리학 미해결 문제 두 가지 해결",
-   "summary_ko": "클로드 Fable 5.2가 양자중력 연구의 20년묵은 미해결 과제인 블랙홀 형성 상전이 계산과 양자중력 이론 검증 한계를 증명했다.",
-   "category": "참고",
-   "tags": [
-    "Claude",
-    "Anthropic"
-   ]
-  },
-  {
-   "id": "8a78f7986a8287e0",
-   "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-   "source": "The Verge",
-   "title": "Meta’s Muse Charm might cost $300",
-   "published_at": "2026-11-19T20:22:17+00:00",
-   "collected_at": "2026-11-19T21:22:12.618779+00:00",
-   "title_ko": "메타, AI 에이전트 전용 기기 '뮤즈 찰마' 300달러에 출시 예정",
-   "summary_ko": "메타가 화면이 달린 AI 에이전트 대화용 소형 기기 '뮤즈 찰마'를 300달러 가격으로 연말 홀리데이 시즌에 맞춰 출시할 계획이다.",
-   "category": "속보",
-   "tags": [
-    "Meta",
-    "AI 에이전트"
-   ]
-  },
-  {
-   "id": "2fc737ddb9957593",
-   "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-   "source": "TechCrunch",
-   "title": "The unfolding Jensen Huang scandal: a timeline",
-   "published_at": "2026-11-19T20:18:49+00:00",
-   "collected_at": "2026-11-19T21:22:12.500291+00:00",
-   "title_ko": "엔비디아 젠슨 황 CEO 사임",
-   "summary_ko": "젠슨 황 엔비디아 CEO가 사생활 문제로 사임함에 따라 미·중 AI 인프라 경쟁과 국가 안보에 미칠 영향이 주목된다.",
-   "category": "속보",
-   "tags": [
-    "NVIDIA"
    ]
   }
  ]

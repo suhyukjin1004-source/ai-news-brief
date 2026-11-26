@@ -1,5 +1,168 @@
 [
  {
+  "id": "396505be8c4688be",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=217838",
+  "source": "AI타임스",
+  "title": "Z.ai 'GLM-5.5' 출시 지연…문샷 AI도 개발 주기 두배 전망",
+  "published_at": "2026-11-27T06:20:35+00:00",
+  "collected_at": "2026-11-26T23:43:39.248535+00:00",
+  "title_ko": "중국 AI 기업, 미국의 반도체 규제로 모델 개발 지연",
+  "summary_ko": "미국의 첨단 반도체 수출 규제와 증류 방지 기술 강화로 Z.ai와 문샷 AI 등 중국 주요 AI 기업들의 모델 출시 주기가 길어지고 있습니다.",
+  "category": "중요",
+  "tags": [
+   "오픈소스",
+   "반도체",
+   "규제"
+  ]
+ },
+ {
+  "id": "5d8902da602ec887",
+  "url": "https://www.aitimes.com/news/articleView.html?idxno=217837",
+  "source": "AI타임스",
+  "title": "엔비디아, 동남아 4개국 AI 서버 출하 중단…중국 우회 접근 차단",
+  "published_at": "2026-11-27T05:55:39+00:00",
+  "collected_at": "2026-11-26T23:43:39.248535+00:00",
+  "title_ko": "엔비디아, 동남아 4개국 AI 서버 출하 중단",
+  "summary_ko": "미국의 대중국 AI 반도체 우회 수출 차단 조치에 따라 엔비디아가 동남아 주요국으로의 AI 서버 출하를 중단했습니다.",
+  "category": "속보",
+  "tags": [
+   "NVIDIA",
+   "반도체",
+   "규제"
+  ]
+ },
+ {
+  "id": "a447c99793249854",
+  "url": "https://news.hada.io/topic?id=37922&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "OpenAI가 비용 통제 모드에 들어갔을 가능성",
+  "published_at": "2026-11-26T22:33:47+00:00",
+  "collected_at": "2026-11-26T23:43:40.498581+00:00",
+  "title_ko": "OpenAI 신규 모델, 비용 통제 위해 추론 토큰 축소",
+  "summary_ko": "최근 공개된 OpenAI의 신규 모델에서 작업당 출력 및 추론 토큰이 유의미하게 감소한 것으로 나타나 비용 절감 모드에 들어갔다는 분석이 나옵니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI",
+   "GPT"
+  ]
+ },
+ {
+  "id": "19dd4641586dbe86",
+  "url": "https://janlukas.blog/posts/ai-self-hosting",
+  "source": "Hacker News",
+  "title": "AI made self-hosting fun again",
+  "published_at": "2026-11-26T21:47:45+00:00",
+  "collected_at": "2026-11-26T23:43:25.619825+00:00",
+  "title_ko": "AI를 활용한 개인 서버 호스팅의 부활",
+  "summary_ko": "AI 도구의 발전으로 인해 복잡한 개인 서버 자가 호스팅(Self-hosting) 과정이 훨씬 쉽고 재미있어졌다는 개발자 경험 공유입니다.",
+  "category": "팁",
+  "tags": [
+   "코딩"
+  ]
+ },
+ {
+  "id": "be43940f7f7f5060",
+  "url": "https://news.hada.io/topic?id=37919&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Google, AI 에이전트에 자사 MCP 서버 사용 의무화 예정… Gmail 서버는 이메일 발송 불가",
+  "published_at": "2026-11-26T21:39:40+00:00",
+  "collected_at": "2026-11-26T23:43:40.498581+00:00",
+  "title_ko": "구글, AI 에이전트의 자사 MCP 서버 사용 의무화",
+  "summary_ko": "구글이 2027년부터 AI 에이전트의 워크스페이스 접근 시 자사 MCP 서버 사용을 강제하기로 했으나 일부 기능에 제한을 둡니다.",
+  "category": "중요",
+  "tags": [
+   "Google",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "24ce7469ed18d21f",
+  "url": "https://news.hada.io/topic?id=37917&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Llama.cpp용 AMD 특화 패치",
+  "published_at": "2026-11-26T20:32:13+00:00",
+  "collected_at": "2026-11-26T23:43:40.498581+00:00",
+  "title_ko": "Llama.cpp용 AMD 하드웨어 가속 패치 공개",
+  "summary_ko": "llama.cpp에 AMD 특화 패치를 적용해 대형언어모델의 프리필 및 토큰 생성 속도를 대폭 끌어올린 오픈소스 프로젝트입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "c881f1e7111092b0",
+  "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+  "source": "TechCrunch",
+  "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+  "published_at": "2026-11-26T20:03:54+00:00",
+  "collected_at": "2026-11-26T23:43:08.590157+00:00",
+  "title_ko": "엔비디아, 동남아시아 AI 서버 출하 일시 중단",
+  "summary_ko": "미국의 대중국 반도체 규제 강화 기조에 맞춰 엔비디아가 동남아 4개국으로의 서버 선적을 일시 중단했습니다.",
+  "category": "속보",
+  "tags": [
+   "NVIDIA",
+   "반도체",
+   "규제"
+  ]
+ },
+ {
+  "id": "dbadd4a3a76b5181",
+  "url": "https://news.hada.io/topic?id=37915&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "AI가 완치한 질병 추적하기",
+  "published_at": "2026-11-26T18:49:29+00:00",
+  "collected_at": "2026-11-26T23:43:40.498581+00:00",
+  "title_ko": "AI가 완치한 질병은 아직 없어… 실효성 검증 필요",
+  "summary_ko": "AI가 신약 개발 효율을 높이고 있으나, 실제로 AI가 처음부터 끝까지 개발해 완치에 이른 질병이나 승인된 신약은 아직 전무하다는 분석입니다.",
+  "category": "참고",
+  "tags": []
+ },
+ {
+  "id": "d3ddcbcc31f818b6",
+  "url": "https://news.hada.io/topic?id=37914&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "재미로 AWS Lambda에서 Qwen 서빙하기, 비용은 80배 넘게",
+  "published_at": "2026-11-26T18:46:29+00:00",
+  "collected_at": "2026-11-26T23:43:40.498581+00:00",
+  "title_ko": "AWS Lambda로 Qwen 모델 서빙 실험",
+  "summary_ko": "서버리스 환경인 AWS Lambda를 분산 활용해 소형 LLM을 서빙하는 데 성공했으나, 상용 호스팅 대비 비용이 80배 이상 높다는 실험 결과입니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스"
+  ]
+ },
+ {
+  "id": "3945259ba0a07b4c",
+  "url": "https://news.hada.io/topic?id=37913&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "CIA 비기밀 시스템, 사이버공격으로 침해당해",
+  "published_at": "2026-11-26T18:43:29+00:00",
+  "collected_at": "2026-11-26T23:43:40.498581+00:00",
+  "title_ko": "AI 활용 해커 대응 위한 미 국가 시스템 패치 진행",
+  "summary_ko": "국가정보국장은 최근 인프라 장애의 상당수가 AI를 활용하는 해커에 대응하기 위한 긴급 패치와 관련이 있다고 밝혔습니다.",
+  "category": "참고",
+  "tags": [
+   "규제",
+   "AI 에이전트"
+  ]
+ },
+ {
+  "id": "6ba349e52854506b",
+  "url": "https://news.hada.io/topic?id=37911&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Geminispace에 들어가기, 텍스트 중심 Gemini 네트워크로 블로그 옮기기",
+  "published_at": "2026-11-26T18:02:55+00:00",
+  "collected_at": "2026-11-26T23:43:40.498581+00:00",
+  "title_ko": "AI를 활용한 블로그 마크다운의 Gemini 캡슐 변환 도구",
+  "summary_ko": "AI 변환 도구를 이용해 마크다운 블로그를 텍스트 중심의 Gemini 네트워크 포맷으로 빠르고 간편하게 전환할 수 있습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "Gemini"
+  ]
+ },
+ {
   "id": "f82f5ad519fe2487",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=217834",
   "source": "AI타임스",
@@ -15,6 +178,35 @@
   ]
  },
  {
+  "id": "68cca409d5b96b98",
+  "url": "https://news.hada.io/topic?id=37910&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "재미를 위해, 수익 없이 작은 태평양 섬에 공중전화 설치하기",
+  "published_at": "2026-11-26T17:37:28+00:00",
+  "collected_at": "2026-11-26T23:43:40.498581+00:00",
+  "title_ko": "OpenAI API를 활용한 태평양 섬 공중전화 산타 통화 서비스",
+  "summary_ko": "노퍽섬의 공중전화 프로젝트에 OpenAI API를 결합하여 아이들과 산타가 대화할 수 있는 독특한 음성 대화 시스템을 구축했습니다.",
+  "category": "참고",
+  "tags": [
+   "OpenAI"
+  ]
+ },
+ {
+  "id": "21e7f38a16304dcc",
+  "url": "https://news.hada.io/topic?id=37909&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "45°C 냉각수 입구 온도가 칠러를 퇴장시켰다. 대부분은 아직 눈치채지 못했다",
+  "published_at": "2026-11-26T17:34:28+00:00",
+  "collected_at": "2026-11-26T23:43:40.498581+00:00",
+  "title_ko": "엔비디아 45도 냉각수 지원으로 데이터센터 효율 개선",
+  "summary_ko": "NVIDIA가 45°C 냉각수 입구 온도를 지원함에 따라 기존 칠러 없이도 데이터센터 냉각 전력을 크게 절감할 수 있게 되었습니다.",
+  "category": "중요",
+  "tags": [
+   "NVIDIA",
+   "반도체"
+  ]
+ },
+ {
   "id": "1822d0259b48119c",
   "url": "https://www.aitimes.com/news/articleView.html?idxno=217835",
   "source": "AI타임스",
@@ -27,6 +219,50 @@
   "tags": [
    "OpenAI",
    "GPT"
+  ]
+ },
+ {
+  "id": "280fc6b8ee711812",
+  "url": "https://diseasescuredbyai.com/",
+  "source": "Hacker News",
+  "title": "Tracking Diseases Cured by AI",
+  "published_at": "2026-11-26T17:16:41+00:00",
+  "collected_at": "2026-11-26T23:43:25.876969+00:00",
+  "title_ko": "AI가 치료한 질병 추적 프로젝트 공개",
+  "summary_ko": "AI 기술의 발전으로 의학적 치료와 신약 개발에서 성과를 거둔 질병 사례들을 모아서 추적하는 웹사이트가 주목받고 있습니다.",
+  "category": "참고",
+  "tags": [
+   "투자"
+  ]
+ },
+ {
+  "id": "1d45997e4997625f",
+  "url": "https://devnull.land/amd-specific-llama-cpp",
+  "source": "Hacker News",
+  "title": "AMD-specific fork of llama.cpp",
+  "published_at": "2026-11-26T17:11:29+00:00",
+  "collected_at": "2026-11-26T23:43:25.619825+00:00",
+  "title_ko": "AMD 전용 llama.cpp 포크 버전 등장",
+  "summary_ko": "AMD 하드웨어 환경에서 로컬 LLM 구동 효율을 높이기 위한 llama.cpp의 AMD 전용 포크 버전이 공개되었습니다.",
+  "category": "팁",
+  "tags": [
+   "오픈소스",
+   "반도체"
+  ]
+ },
+ {
+  "id": "4fdce5f029afb0e4",
+  "url": "https://twitter.com/ElliotC1/status/2125689373337489419",
+  "source": "Hacker News",
+  "title": "One guy is doing a hunger strike outside Anthropic, currently in his 3rd day",
+  "published_at": "2026-11-26T16:55:15+00:00",
+  "collected_at": "2026-11-26T23:43:25.876969+00:00",
+  "title_ko": "앤트로픽 본사 앞에서 AI 안전성 촉구 단식투쟁 발생",
+  "summary_ko": "Anthropic 사옥 앞에서 AI 안전성과 관련된 우려를 제기하며 1인 단식 투쟁을 벌이는 시위가 진행 중입니다.",
+  "category": "참고",
+  "tags": [
+   "Anthropic",
+   "규제"
   ]
  },
  {
@@ -56,6 +292,21 @@
   "tags": [
    "Meta",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "4a10c2c33559dbcb",
+  "url": "https://news.hada.io/topic?id=37908&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+  "source": "GeekNews",
+  "title": "Moat: OpenRouter를 대체하는 서비스",
+  "published_at": "2026-11-26T16:36:29+00:00",
+  "collected_at": "2026-11-26T23:43:40.498581+00:00",
+  "title_ko": "오픈라우터 대항마 Moat, 멤버십 기반 할인 AI API 제공",
+  "summary_ko": "Moat는 멤버십 구독을 통해 여러 LLM을 라우터 수수료 없이 도매 가격의 할인된 사용료로 이용할 수 있는 새로운 중개 서비스를 선보였습니다.",
+  "category": "속보",
+  "tags": [
+   "OpenAI",
+   "Anthropic"
   ]
  },
  {
@@ -99,6 +350,20 @@
   "tags": [
    "Google",
    "AI 에이전트"
+  ]
+ },
+ {
+  "id": "ec74e9ba21876128",
+  "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+  "source": "TechCrunch",
+  "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+  "published_at": "2026-11-26T16:00:00+00:00",
+  "collected_at": "2026-11-26T23:43:08.590157+00:00",
+  "title_ko": "앤트로픽 상장과 인간 중심 콘텐츠의 가치 조명",
+  "summary_ko": "Anthropic의 시장 진입과 대규모 성공을 거둔 인간 제작 비디오 게임의 대비를 통해 AI 시대 효율성의 의미를 되짚어봅니다.",
+  "category": "참고",
+  "tags": [
+   "Anthropic"
   ]
  },
  {
@@ -156,6 +421,21 @@
   "category": "참고",
   "tags": [
    "투자"
+  ]
+ },
+ {
+  "id": "069f94445fa0f593",
+  "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+  "source": "Simon Willison",
+  "title": "Quoting Jack Despain Zhou",
+  "published_at": "2026-11-26T15:09:31+00:00",
+  "collected_at": "2026-11-26T23:43:26.033155+00:00",
+  "title_ko": "생성형 AI 확산에 따른 글쓰기의 개성 상실 현상",
+  "summary_ko": "이메일, 유튜브, 발표 등 모든 영역에서 Claude 등 LLM이 생성한 텍스트가 범람하면서 개인의 고유한 목소리가 사라지고 있다는 지적입니다.",
+  "category": "참고",
+  "tags": [
+   "Claude",
+   "LLM"
   ]
  }
 ]
